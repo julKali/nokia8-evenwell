@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_no_wifi">您的設備需要Wi-Fi才能開始下載系統更新。是否要連接到Wi-Fi網絡？</string>
+    <string name="app_name">軟體更新</string>
+    <string name="file_not_found">檔案不存在</string>
+    <string name="remote_file_fail">無法存取遠端檔案，請稍候再試。</string>
+    <string name="no_description">(無描述)</string>
+    <string name="login_fail">登入失敗，請稍候再試。</string>
+    <string name="get_service_url_fail">網路連線不穩(取得服務位置失敗)，請稍候再試。</string>
+    <string name="query_sw_fail">查詢軟體資訊失敗。</string>
+    <string name="download_sw_fail">下載軟體檔案失敗.</string>
+    <string name="query_sw_incorrect">結果錯誤。</string>
+    <string name="no_update_available">無更新的版本可供使用。</string>
+    <string name="update_not_ready">更新尚未就緒，請稍候再試。</string>
+    <string name="check_now_label">立即檢查</string>
+    <string name="checking">檢查中…</string>
+    <string name="verifying">驗證中…</string>
+    <string name="header_verifying_update_file">驗證檔案中…</string>
+    <string name="unzipping">解壓縮中…</string>
+    <string name="please_wait">請稍候</string>
+    <string name="header_starting_to_download_file">開始下載檔案…</string>
+    <string name="header_system_update_available">有可用的系統更新</string>
+    <string name="new_version_desc_prompt">更新內容:</string>
+    <string name="header_attention">注意</string>
+    <string name="data_fee_warning">透過行動網路使用此功能可能會產生連線費用!</string>
+    <string name="header_downloading_update">下載更新中</string>
+    <string name="header_install_system_software_update">安裝更新</string>
+    <string name="msg_install_system_software_update_1">"是否安裝以下更新?
+系統升級至"</string>
+    <string name="msg_install_system_software_update_2">"
+
+升級過程中，將無法使用裝置且無法撥打緊急電話。
+
+強制移除電池及SD卡將導致無法預期的結果。"</string>
+    <string name="msg_install_system_software_update_3">"
+
+升級過程中，將無法使用裝置。
+
+強制中斷電源及移除所下載的檔案將導致無法預期的結果。"</string>
+    <string name="msg_install_system_software_update_4">"
+
+升級過程中，將無法使用裝置且無法撥打緊急電話。
+
+強制中斷電源及移除所下載的檔案將導致無法預期的結果。"</string>
+    <string name="button_install_now">立即安裝</string>
+    <string name="button_install_later">稍後安裝</string>
+    <string name="header_unable_to_connect">無法連線</string>
+    <string name="msg_unable_to_connect">您需要網路連線以使用此功能，請開啟行動網路或Wi-Fi。</string>
+    <string name="msg_unable_to_connect_2">您需要網路連線以使用此功能，請開啟網路。</string>
+    <string name="msg_unable_to_connect_wlan">您需要網路連線以使用此功能，請開啟行動網路或WLAN。</string>
+    <string name="msg_unable_to_connect_short">尚未連接到網路</string>
+    <string name="button_reset">重置</string>
+    <string name="button_settings">設定</string>
+    <string name="header_system_is_update">系統已是最新版</string>
+    <string name="msg_system_is_update">無更新的版本可供使用。</string>
+    <string name="msg_system_is_update_short">無新版</string>
+    <string name="msg_no_sd_card">請插入可用的SD卡，SD卡為系統升級過程所需。</string>
+    <string name="msg_no_sd_card_short">無SD卡</string>
+    <string name="msg_no_available_size_card">升級需要%s MB 的空間，請準備足夠的SD卡空間。</string>
+    <string name="msg_no_available_size_card_2">升級需要%s MB 的空間，請準備足夠的儲存空間。</string>
+    <string name="msg_no_available_size_card_short">可用空間不足。</string>
+    <string name="msg_do_not_remove_sd_card">請勿移除SD卡。</string>
+    <string name="title_system_update_ready">系統升級已就緒</string>
+    <string name="msg_system_update_ready">點擊開始安裝。</string>
+    <string name="msg_system_battery_too_low">"電池存量不足，請充電後再重新開始安裝。
+
+電池存量需多於35%%
+目前存量: %s%%"</string>
+    <string name="msg_system_battery_too_low_short">電池存量不足</string>
+    <string name="msg_remove_sd_card">無法寫入SD卡，請確認SD卡狀態。</string>
+    <string name="msg_remove_sd_card_2">無法寫入儲存空間，請確認其狀態。</string>
+    <string name="msg_remove_sd_card_short">存取SD卡失敗</string>
+    <string name="msg_remove_sd_card_short_2">存取儲存空間失敗。</string>
+    <string name="msg_verify_fail">驗證失敗，下載的檔案錯誤。</string>
+    <string name="msg_verify_fail_short">驗證失敗</string>
+    <string name="msg_unzip_fail">解壓縮失敗，下載的檔案錯誤。</string>
+    <string name="msg_unzip_fail_short">解壓縮失敗</string>
+    <string name="hide">隱藏</string>
+    <string name="data_size">資料大小</string>
+    <string name="required_size">需求空間</string>
+    <string name="network_not_match">您目前的設定為僅使用WLAN下載更新，請選擇一個WLAN網路或更改您的設定。</string>
+    <string name="network_not_match_short">無符合需求的網路</string>
+    <string name="without_reboot_api">無法重開機，請手動進入Recovery啟動升級程序。</string>
+    <string name="update_complete">系統升級完成</string>
+    <string name="update_complete_short">升級完成</string>
+    <string name="file_removed">下載的檔案遭移除，請重新下載。</string>
+    <string name="file_removed_short">下載的檔案遭移除</string>
+    <string name="file_not_match">下載的檔案內容不符或損毀，請重新下載。</string>
+    <string name="file_not_match_short">檔案不符</string>
+    <string name="menu_url">更改伺服器位置</string>
+    <string name="menu_enabled">僅已啟用的軟體</string>
+    <string name="using_internal_storage">使用內部儲存空間</string>
+    <string name="using_external_storage">使用外部儲存空間</string>
+    <string name="msg_agree_message">"
+
+使用者資料有極小可能，因系統升級所需而遭清除。如有需要，請在安裝前自行進行備份。"</string>
+    <string name="msg_root_message">"
+
+若裝置經Root後，將不保證可以正常更新。"</string>
+    <string name="msg_responsibility_message">在更新過程中若因Root問題導致裝置無法正常使用，用戶須自行負擔責任。</string>
+    <string name="msg_upgrade_agree">了解並同意</string>
+    <string name="later">稍後</string>
+    <string name="update">更新</string>
+    <string name="update_summary">檢查更新</string>
+    <string name="wifi_only">僅使用Wi-Fi</string>
+    <string name="wlan_only">僅使用WLAN</string>
+    <string name="wifi_only_summary">當Wi-Fi可用時下載更新</string>
+    <string name="wlan_only_summary">當WLAN可用時下載更新</string>
+    <string name="auto_update">自動更新</string>
+    <string name="auto_update_summary">自動檢查更新</string>
+    <string name="new_data_fee_warning">檢查及下載更新可能會產生額外網路費用，盡可能使用Wi-Fi。</string>
+    <string name="wlan_data_fee_warning">檢查及下載更新可能會產生額外網路費用，盡可能使用WLAN。</string>
+    <string name="installing">安裝中...</string>
+    <string name="install_complete">已安裝</string>
+    <string name="install_fail">安裝失敗</string>
+    <string name="install_all">全部安裝</string>
+    <string name="install">安裝</string>
+    <string name="installed_version">已裝版本</string>
+    <string name="update_available">有可用的更新</string>
+    <string name="apk_update_available">有可用的應用程式更新</string>
+    <string name="recommend">推薦</string>
+    <string name="roaming_restriction">漫遊限制</string>
+    <string name="roaming_restriction_summary">因為漫遊限制而無法更新。</string>
+    <string name="changelog">更新記錄</string>
+    <string name="description">描述</string>
+    <string name="apk_update_available_summary">"%s 有可用的更新。
+按確定可以立即進行更新，或按取消在一天後再進行檢查。"</string>
+    <string name="apk_removed">應用程式已被移除。</string>
+    <string name="apk_available_items">總共 %s 個可用項目</string>
+    <string name="apk_available_item">總共 %s 個可用項目</string>
+    <string name="new_forpreference">新</string>
+    <string name="invalid_update_summary">更新已失效，請重新檢查。</string>
+    <string name="recheck">重新檢查</string>
+    <string name="image_download_exception_summary">無法連線至伺服器，請重新檢查。</string>
+    <string name="apk_download_exception">無法連線至伺服器</string>
+    <string name="installation_confirmation">安裝確認</string>
+    <string name="apk_need_reboot_summary">更新安裝完成後將會重新開機，是否立即安裝？</string>
+    <string name="downloaded">已下載</string>
+    <string name="prepare_to_reboot">準備重新開機</string>
+    <string name="prepare_to_reboot_summary">安裝之軟體更新需要重新啟動裝置，建議重新啟動裝置，您也可以稍後重新啟動。</string>
+    <string name="prepare_to_reboot_force_summary">安裝之軟體更新需要重新啟動裝置，建議重新啟動裝置。</string>
+    <string name="reboot">重新開機</string>
+    <string name="reboot_fail">無法重新開機</string>
+    <string name="reboot_fail_summary">無法重開機，請手動重新開機。</string>
+    <string name="apk_no_avaliable_size">無法下載，因為內部儲存空間不足。</string>
+    <string name="update_finished">更新完成</string>
+    <string name="header_warning">警告</string>
+    <string name="msg_root_warning">您的裝置曾經被Root過或者裝置的官方軟體映像檔曾經遭到竄改，進行系統更新可能導致系統不穩定或是系統當機和保固失效，您確定要繼續?</string>
+    <string name="multi_image_update">有多個可用的系統更新</string>
+    <string name="available_update_list">可用更新清單</string>
+    <string name="downloading_summary">請先取消下載中的映像檔</string>
+    <string name="msg_erase_userdata_warning">此更新需要清除使用者資訊，是否繼續?</string>
+    <string name="msg_autoupdate_date_fee_warning">啟用自動更新可能會產生額外網路費用。</string>
+    <string name="invalid_update">更新已失效。</string>
+    <string name="file_corrupted">檔案已毀損，無法更新。</string>
+    <string name="ask_for_apk_check">是否檢查應用程式更新?</string>
+    <string name="update_ota_self">軟體更新升級中。</string>
+    <string name="ab_update_fail">無法安裝。</string>
+    <string name="ab_update_wrong_status">更新引擎忙碌中，請稍後再試或重新開機。</string>
+    <string name="ab_update_installing">系統更新中</string>
+    <string name="tag_engineer_mode">工程模式</string>
+    <string name="engineer_version_incorrect">裝置版本不正確。</string>
+    <string name="msg_engineer_ota_restore">點擊以回復官方版本</string>
+    <string name="msg_engineer_ota_restore_warning">即將回復官方版本，是否繼續?</string>
+    <string name="silent_mode_data_fee_warning">有可用的系統更新。下載更新可能會產生額外網路費用，盡可能使用Wi-Fi。</string>
+    <string name="msg_updating_system">系統更新中...</string>
+    <string name="msg_tap_to_reboot">點擊重新啟動</string>
+    <string name="msg_pause_download">下載暫停</string>
+    <string name="notification_channel_name">系統更新</string>
+    <string name="notification_channel_alert_name">應用通知</string>
+</resources>

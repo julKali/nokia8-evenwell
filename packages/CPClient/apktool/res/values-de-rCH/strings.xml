@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP-Client</string>
+    <string name="fih_cp_apn_not_set">&lt;Nicht festgelegt></string>
+    <string name="fih_cp_apply_dialog_body_msg">Neue Konfiguration übernehmen?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Neue Bereitstellung</string>
+    <string name="fih_cp_btn_back">Zurück</string>
+    <string name="fih_cp_btn_cancel">Abbrechen</string>
+    <string name="fih_cp_btn_next">Weiter</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_editor_apn_auth_type">Authentifizierungstyp</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Keine</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP oder CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS-Port</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS-Proxy</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_name">Name</string>
+    <string name="fih_cp_editor_apn_password">Passwort</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_type">APN-Typ</string>
+    <string name="fih_cp_editor_apn_user">Nutzername</string>
+    <string name="fih_cp_error_apn_empty">APN-Feld darf nicht leer sein.</string>
+    <string name="fih_cp_error_name_empty">Namensfeld darf nicht leer sein.</string>
+    <string name="fih_cp_error_other">Datensyntax-Fehler.</string>
+    <string name="fih_cp_error_title">Achtung</string>
+    <string name="fih_cp_input_pin_code">PIN eingeben:</string>
+    <string name="fih_cp_input_pin_code_cancel">Abbrechen</string>
+    <string name="fih_cp_input_pin_code_empty">Bitte PIN-Code eingeben.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Falsche PIN.</string>
+    <string name="fih_cp_notification_channel_name">Allgemeine Benachrichtigungen</string>
+    <string name="fih_cp_notify_statusbar_content">Neue Bereitstellungsnachricht</string>
+    <string name="fih_cp_sim_not_available">SIM-Karte nicht verfügbar.</string>
+    <string name="fih_cp_toast_info_create">Profil-Anlage: Erfolg</string>
+    <string name="fih_cp_toast_info_update">Profil-Update: Erfolg</string>
+    <string name="fih_cp_ui_mode_delete">Löschen</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Später</string>
+</resources>

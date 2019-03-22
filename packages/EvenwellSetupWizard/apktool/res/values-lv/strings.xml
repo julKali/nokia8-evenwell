@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Pārvietoties uz sākuma ekrānu</string>
+    <string name="abc_action_bar_up_description">Pārvietoties augšup</string>
+    <string name="abc_action_menu_overflow_description">Vairāk opciju</string>
+    <string name="abc_action_mode_done">Gatavs</string>
+    <string name="abc_activity_chooser_view_see_all">Skatīt visu</string>
+    <string name="abc_activitychooserview_choose_application">Izvēlieties lietotni</string>
+    <string name="abc_capital_off">IZSLĒGTS</string>
+    <string name="abc_capital_on">IESLĒGTS</string>
+    <string name="abc_search_hint">Meklējiet…</string>
+    <string name="abc_searchview_description_clear">Notīrīt vaicājumu</string>
+    <string name="abc_searchview_description_query">Meklēšanas vaicājums</string>
+    <string name="abc_searchview_description_search">Meklēt</string>
+    <string name="abc_searchview_description_submit">Iesniegt vaicājumu</string>
+    <string name="abc_searchview_description_voice">Meklēšana ar balsi</string>
+    <string name="abc_shareactionprovider_share_with">Kopīgot ar:</string>
+    <string name="abc_shareactionprovider_share_with_application">Kopīgot ar lietojumprogrammu %s</string>
+    <string name="abc_toolbar_collapse_description">Sakļaut</string>
+    <string name="accessibility_text">Pieejamība</string>
+    <string name="account_intro_description">Pievienojieties [BRAND_NAME] pakalpojumam, lai izmantotu ierīci viedāk un efektīvāk.</string>
+    <string name="account_intro_title">[BRAND_NAME]Pakalpojuma konts</string>
+    <string name="add_baidu_button_label">Pieteikties Baidu Cloud</string>
+    <string name="add_infocus_service_account">Jauns [BRAND_NAME] pakalpojuma konts</string>
+    <string name="back_btn_lebel">Iepriekšējā darbība</string>
+    <string name="backup_and_restore_description">"Ja iepriekš dublējāt kontu, tagad varat atjaunot datus mobilajā tālrunī. 
+
+Jebkurā laikā varat mainīt dublējuma iestatījumu sadaļā \"Iestatījums\"."</string>
+    <string name="backup_and_restore_title">Dublēšana un atjaunošana</string>
+    <string name="baidu_intro_description">Izpildot vairākas vienkāršas darbības, varat izbaudīt nemanāmo Baidu Cloud vietu krātuvē.</string>
+    <string name="baidu_intro_title">Baidu Cloud beigu vieta krātuvē</string>
+    <string name="baidu_progress_dialog_des">Lūdzu, uzgaidiet!</string>
+    <string name="choose_timezone">Laika joslas izvēle</string>
+    <string name="datausage_dialog_negitive_btn">Atcelt</string>
+    <string name="datausage_dialog_positive_btn">Labi</string>
+    <string name="date_and_time">Datuma un laika iestatījumi</string>
+    <string name="date_and_time_settings_summary">Iestatīt datumu, laiku, laika joslu un formātus</string>
+    <string name="date_and_time_settings_title">Datums un laiks</string>
+    <string name="date_and_time_settings_title_setup_wizard">Datuma un laika iestatīšana</string>
+    <string name="date_picker_title">Datums:</string>
+    <string name="date_time_24hour">Izmantot 24 stundu formātu</string>
+    <string name="date_time_auto">Autom. datums un laiks</string>
+    <string name="date_time_auto_summaryOff">Izmantot tīklā sniegto laiku</string>
+    <string name="date_time_auto_summaryOn">Izmantot tīklā sniegto laiku</string>
+    <string name="date_time_date_format">Datuma formāta izvēle</string>
+    <string name="date_time_set_date">Iestatīt datumu</string>
+    <string name="date_time_set_time">Laika iestatīšana</string>
+    <string name="date_time_set_timezone">Laika josla</string>
+    <string name="device_checking_message">Sveicināti</string>
+    <string name="dropbox_fih_description">Iegūstiet 2 GB lielu bezmaksas Dropbox vietu, lai automātiski augšupielādētu fotoattēlus un video.</string>
+    <string name="dropbox_fih_signin">Pieteikties Dropbox</string>
+    <string name="dropbox_fih_signup">Reģistrēties Dropbox</string>
+    <string name="emergency_dial_hmd_message">Ārkārtaszvans</string>
+    <string name="emergency_dial_message">Ārkārtas zvans</string>
+    <string name="expand_button_title">Papildu</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] Programmatūras īpašnieka un Lietošanas noteikumu līgums
+
+ Spēkā stāšanās datums: 2016. gada 20. maijs
+
+ Lietošanas noteikumu (turpmāk tekstā Lietošanas noteikumi) saturs attiecas uz tādiem nodrošinātajiem pakalpojumiem kā programmatūras [BRAND_NAME_PROXY] lejupielāde, automātiskās atjaunināšanas pakalpojums u.c. (turpmāk tekstā programmatūras pakalpojumi). Lai varētu lejupielādēt, instalēt vai lietot [BRAND_NAME_PROXY] programmatūru, jūs piekrītat ievērot Lietošanas noteikumus. Ja nepiekrītat ievērot Lietošanas noteikumus, nelejupielādējiet, nekopējiet un nelietojiet [BRAND_NAME_PROXY] programmatūru. 
+
+ 1. Lietošanas nosacījumi
+ Pēc Lietošanas noteikumu akceptēšanas jums [BRAND_NAME_PROXY] tiks piešķirtas nepārsūtāmas, par īpašumu neuzskatāmas, personīgas un ierobežotas tiesības izmantot programmatūras pakalpojumus. [BRAND_NAME_PROXY] Programmatūra tiks instalēta jūsu [BRAND_NAME_PROXY] ierīcē mērķa koda veidā, un jūs varat izmantot [BRAND_NAME_PROXY] programmatūru pēc tās startēšanas. Jūs esat informēts, ka [BRAND_NAME_PROXY] programmatūru nedrīkst izmantot komercnolūkā, bet tā ir paredzēta tikai izmantošanai jūsu personiskajā [BRAND_NAME_PROXY] ierīcē. 
+ Attiecībā uz [BRAND_NAME_PROXY] programmatūru jums ir jāievēro Lietošanas noteikumi un jāapsola, ka neiesaistīsities nevienā no šādām darbībām: 
+ (a) mēģināt uzlauzt [BRAND_NAME_PROXY] programmatūras [BRAND_NAME_PROXY] tehnoloģiskos ierobežojumus vai saistībā ar kādu projektu vai pakalpojumu mēģināt apiet tehniskos līdzekļus, kas paredzēti arhīvu vai citas datu savākšanas vai pilnvaru kontrolei;
+ (b) [BRAND_NAME_PROXY] veikt tādas darbības kā reversā izstrāde, demontāža, atkodēšana, dekompilēšana vai mēģināt iegūt [BRAND"</string>
+    <string name="fih_legal_title">Juridiskā informācija par [BRAND_NAME_PROXY]</string>
+    <string name="finish_button_label">Pabeigt</string>
+    <string name="google_account_add_account">Pierakstīties Google</string>
+    <string name="google_account_intro_description">Pierakstieties savā Google kontā, lai izmantotu Google pakalpojumus.</string>
+    <string name="google_account_intro_title">Google konts</string>
+    <string name="hmd_legal_message">"Pakalpojuma nosacījumi 
+ 
+Spēkā stāšanās datums: 2016. gada 14. oktobris 
+ 
+1. Akceptēšana 
+Šie HMD Global Pakalpojuma nosacījumi kopā ar Konfidencialitātes politiku un citiem papildnosacījumiem un informāciju, kas var tikt sniegta pakalpojuma ietvaros (kopā: “Nosacījumi”), regulē jūsu pakalpojuma, vietnes, satura un programmatūras (kopā: Pakalpojums) lietošanu. Reģistrējoties Pakalpojumam vai jebkurai tā daļai vai to izmantojot, jūs piekrītat šiem Nosacījumiem. 
+ 
+Šie Nosacījumi veido vienošanos starp jums un uzņēmumu HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finland, tostarp ar tā meitasuzņēmumiem un piegādātājiem (kopā: “HMD Global”). Šī vienošanās definē jūsu un HMD Global tiesības un atbildību attiecībā uz pakalpojumu. 
+ 
+2. Piemērotība 
+Lai izmantotu Pakalpojumu, jums jābūt vismaz trīspadsmit (13) gadus vecam. Ja jums ir mazāk nekā trīspadsmit (13) gadu vai vismaz trīspadsmit (13) gadu, bet vietā, kur dzīvojat, jūs juridiski tiekat uzskatīts par nepilngadīgu, kādam no jūsu vecākiem vai likumīgajam aizbildnim ir jāakceptē jūsu reģistrācija jūsu vārdā un jāapstiprina jūsu Pakalpojuma izmantošana. Ikvienai personai, kas veic reģistrēšanos, ir jābūt juridiski kompetentai. 
+ 
+3. Reģistrācija un pārtraukšana 
+Lai izmantotu Pakalpojumu, jums, iespējams, būs jāreģistrējas un jāizveido HMD konts ar lietotājvārdu un paroli, uz kuru var atteikties atsevišķi nosacījumi. Iespējams, jums būs mums jāsniedz noteikta personiska un cita informācija. Lai jūs varētu izmantot savu HMD kontu, HMD Global, iespējams, būs jāverificē jūsu e-pasta adrese. Pirmajā ierīces lietošanas reizē un ikreiz, kad atjaunināsit Nokia ierīces programmatūru, HMD Global tiks nosūtīta īsziņa. HMD konta izveidei būs nepieciešama datu pārraide. Var tikt piemērota maksa par datu pārraidi. 
+ 
+Jūs piekrītat sniegt patiesu un pilnīgu informāciju, kad reģistrējaties Pakalpojumam, kā arī šo informāciju atjaunināt. Jums ir jāievēro piesardzība, lai aizsargātu savu lietotājvārdu un paroli pret citu personu veiktu ļaunprātīgu izmantošanu, un laicīgi jāinformē HMD Global par jebkādu ļaunprātīgu izmantošanu. Jūs un kāds no jūsu vecākiem vai likumīgais aizbildnis, ja esat nepilngadīgs, esat personiski atbildīgi par Pakalpojuma izmantošanu. 
+ 
+Ja Pakalpojumu vairs nevēlaties izmantot, varat reģistrāciju pārtraukt. Pēc pārtraukšanas jūs vairs nevarēsit piekļūt Pakalpojumam. HMD Global var pārtraukt jūsu reģistrāciju vai ierobežot piekļuvi noteiktām Pakalpojuma daļām, ja HMD Global pamatoti uzskata, ka esat pārkāpis Nosacījumus, vai iepriekš informējot, ja neesat pierakstījies Pakalpojumā ar savu lietotājvārdu sešus (6) mēnešus. 
+ 
+Izņemot gadījumus, kas norādīti Konfidencialitātes politikā, HMD Global neatbild par informācijas vai satura, ko esat iesniedzis Pakalpojumā, jebkādu noņemšanu vai zudumu. Kad jūs vai HMD Global noņem informāciju vai saturu no Pakalpojuma, informācijas pēdas vai kopijas joprojām var paliek citviet. 
+ 
+4. Licences 
+HMD Global piešķir jums licenci, kas nav ekskluzīva un nododama citām personām un kas var tikt atsaukta jebkurā laikā pilnībā pēc HMD Global ieskatiem, lai piekļūtu Pakalpojumam un izmantotu to saskaņā ar Nosacījumiem. Pakalpojuma izmantošana nepiešķir jums tiesības attiecībā uz intelektuālo īpašumu vai uz jebkādu informāciju vai saturu Pakalpojumā. 
+ 
+Pakalpojuma ietvaros HMD Global var jums nodrošināt HMD Global vai tā licences devēju izstrādātu saturu (“Saturs”). HMD Global jums piešķir neekskluzīvu un pastāvīgu licenci izmantot Saturu tam paredzētajam mērķim, ja vien piemērojamos Nosacījumos vai pirkuma pasūtījumā nav norādīts citādi. Daļa Satura var būt pieejama tikai noteikto ģeogrāfisko reģionu iedzīvotājiem. Jums ir jāievēro visi ierobežojumi, kas attiecas uz konkrētu Saturu, ko iegādājaties, izmantojot Pakalpojumu. Jebkura attiecībā uz trešās puses Saturu iegūtā licence ir saistošs līgums starp jums un trešās puses Satura nodrošinātāju. Jums ir tiesības tikai uz Saturu, kas ir šeit skaidri piešķirts. 
+ 
+Pakalpojuma ietvaros HMD Global var jums nodrošināt HMD Global vai tā licences devēju izstrādātu konkrētu programmatūru (“Programmatūra”). Uz jūsu Programmatūras izmantošanu var attiekties atsevišķi noteikumi un nosacījumi, kas jums ir jāakceptē, lai varētu lietot Programmatūru. Ja uz šādu Programmatūru neattiecas atsevišķi noteikumi un nosacījumi, spēkā ir tālāk norādītie nosacījumi. HMD Global jums piešķir ierobežotas, neekskluzīvas un citām personām nenododamas tiesības instalēt un izmantot Programmatūru datorā un/vai mobilajā ierīcē. Jūs nedrīkstat Programmatūru kopēt, bet drīkstat izveidot vienu arhīva dublējumkopiju. Jūs nedrīkstat Programmatūru izplatīt, nodot tās izmantošanas tiesības, modificēt, tulkot, reproducēt, tālākpārdot, piešķirt pakārtotu licenci uz to, iznomāt, aizdot, dekonstruēt vai citādi mēģināt atklāt tās avota kodu vai veikt tajā atvasinātas darbības. Programmatūrai ar atvērtā koda licenci ir spēkā piemērojamie atvērtā koda licences nosacījumi. Ja izmantojat Programmatūru, tas norāda, ka akceptējat visus piemērojamos noteikumus un nosacījumus. 
+ 
+Uz Programmatūru var attiekties eksporta ierobežojumi saskaņā ar ASV eksporta administrācijas noteikumiem, kā arī citi importa vai eksporta ierobežojumi. Jūs piekrītat stingri ievērot visus piemērojamos importa un eksporta ierobežojumus un apliecināt, ka jūsu atbildība ir iegūt šādas programmatūras eksportēšanas, atkārtotas eksportēšanas, pārsūtīšanas vai importēšanas licences. 
+ 
+Iespējams, varēsit Pakalpojumā iesniegt informāciju vai saturu (“Materiāls”). HMD Global nepretendē uz jūsu Materiāla īpašumtiesībām. Iesniedzot Materiālu, tiesību uz Materiālu īpašumtiesības netiek nodotas HMD Global. HMD Global tikai pārsūta Materiālu un neatbild par tā redakcionālo vadību. Iesniedzot Materiālu Pakalpojumā, jūs HMD Global piešķirat globālu, neekskluzīvu, pakārtoti licencējamu, piešķiramu, pilnībā apmaksātu, no autortiesībām atbrīvotu pastāvīgu un neatsaucamu licenci izmantošanai, kopēšanai, publiskai izpildīšanai, attēlošanai, izplatīšanai jebkurā plašsaziņas līdzeklī un Materiāla modificēšanai, lai Materiālu iekļautu citos darbos, kā arī, lai piešķirtu līdzīgas pakārtotās licences tādā apjomā, kāds nepieciešams, lai HMD Global varētu nodrošināt Pakalpojumu. Šo piešķiri var būt iespējams regulēt Pakalpojuma konfidencialitātes un citos iestatījumos. 
+ 
+Jūs esat pilnībā atbildīgs par to datu dublējumkopiju veikšanu, kurus glabājat Pakalpojumā, tostarp jūsu augšupielādēto Saturu. Ja Pakalpojuma darbība tiek pārtraukta vai atcelta, HMD Global var neatgriezeniski izdzēst jūsu datus. HMD Global nav pienākums atgriezt jums datus pēc tam, kad Pakalpojuma darbība tiek pārtraukta vai atcelta. 
+ 
+5. Pakalpojuma izmantošana 
+Jūs piekrītat: 
+• nodrošināt atbilstību piemērojamiem tiesību aktiem, ievērot Nosacījumus un īstenot labas manieres; 
+• izmantot Pakalpojumu tikai saviem personiskajiem, nekomerciālajiem mērķiem; 
+• neiesniegt nelikumīgus, aizskarošus, neprecīzus, maldinošus, aizvainojošus, pornogrāfiskus, uzmācīgus, melīgus vai citādi neatbilstošus Materiālus; 
+• iegūt jebkādu piekrišanu, atļauju vai licences, kas var būt juridiski nepieciešamas, lai iesniegtu jebkādus Materiālus; 
+• cienīt citu personu konfidencialitāti; 
+• neizplatīt un nepublicēt surogātpastu, nesamērīgi lielus failus, ķēdes vēstules, piramīdu shēmas, vīrusus; 
+• neizmantot nekādas citas tehnoloģijas un neveikt citas darbības, kas var kaitēt Pakalpojumam vai Pakalpojuma lietotāju interesēm vai īpašumam; 
+• neizmantot nekādas automatizētas sistēmas vai līdzekļus, lai piekļūtu kādai Pakalpojuma daļai, to iegūtu, kopētu vai pārraudzītu, un 
+• uzņemties atbildību par sekām, kas saistītas ar jūsu publicēto Materiālu. 
+ 
+HMD Global var veikt šādas darbības, kas nav tā pienākums: 
+• pārraudzīt vai regulēt jebkādu Saturu vai Materiālus; 
+• noņemt jebkādus Materiālus no Pakalpojuma un 
+• ierobežot piekļuvi jebkurai Pakalpojuma daļai jebkurā laikā pilnībā pēc saviem ieskatiem. 
+ 
+6. Saturs 
+Pirms lejupielādējat Saturu vai tam piekļūstat, pārbaudiet, vai Saturam, kuram vēlaties piekļūt, nav vecuma ierobežojumu un vai tas nav atzīmēts kā potenciāli “aizskarošs” vai “necenzēts”. 
+ 
+HMD Global neuzņemas atbildību par jebkādām prasībām vai pārkāpumiem, ko ir izraisījusi jūsu piekļuve šādam Saturam (vai ja tās dēļ ir cietušie). 
+ 
+Jūs piekrītat: 
+• izmantot Saturu tikai saviem personiskajiem, nekomerciālajiem mērķiem; 
+• izmantot Saturu saskaņā ar ierobežojumiem, kas noteikti piemērojamos tiesību aktos, papildnosacījumos, vadlīnijās un politikās vai produktu lapās, kas attiecas uz konkrēto Satura daļu; 
+• neizveidot kopijas, nesniegt, nepārdot, netālākpārdot, neaizdot, neiznomāt, nepiedāvāt, nepārraidīt, nesūtīt, neizplatīt, nepārsūtīt, neizplatīt publiski, nereproducēt, nemodificēt, neattēlot, neizpildīt, komerciāli neizmantot Saturu un nepadarīt Saturu pieejamu, ja vien piemērojamos Nosacījumos nav sankcionēta citāda rīcība, kā arī savlaicīgi informēt HMD Global jebkādu šādu nesankcionētu izmantošanu; 
+• nenoņemt, neapiet, nedekonstruēt, neatšifrēt un citādi nemainīt un nepārkāpt jebkādus piemērojamos noteikumus attiecībā uz izmantošanu, kā arī nemēģināt apiet digitālā satura tiesību pārvaldību vai aizsardzības pret kopēšanu līdzekļus, kas saistīti ar Saturu vai jebkādām citām tehnoloģijām, kas tiek izmantotas, lai kontrolētu piekļuvi Saturam vai to identificējošai informācijai vai to izmantotu; 
+• Satura atlasei vai lejupielādei neizmantot nekādas automatizētas sistēmas vai līdzekļus, izņemot mūsu nodrošinātās sistēmas vai līdzekļus, un 
+• neizpaust savu paroli un citādi neatļaut citām personām piekļūt Saturam. Kopēšanas ierobežojumi, kas attiecas uz atbilstošajiem plašsaziņas līdzekļiem, attiecas arī uz Saturu, kam tiek piekļūts šī Pakalpojuma ietvaros. 
+ 
+Saturs pieder HMD Global un tā atbilstošajiem licenču devējiem un/vai tie to vada, kā arī to aizsargā intelektuālā īpašuma likumi. Trešās puses Satura nodrošinātājs ir pilnībā atbildīgs par jebkādu Saturu, ko tas nodrošina, jebkādām garantijām tādā apjomā, kādā šādas garantijas nav atrunātas, un par visām prasībām, kādas jums var būt attiecībā uz šo Saturu vai tā izmantošanu. Tomēr HMD Global var īstenot trešās puses Satura licences nosacījumus pret jums kā šo nosacījumu trešās puses labuma guvēju. Trešās puses Satura nodrošinātāji saskaņā ar šiem Nosacījumiem ir trešās puses labuma guvēji un var īstenot nosacījumus, kas tieši attiecas uz Saturu, uz kuru tiem ir tiesības. HMD Global var rīkoties kā trešās puses Satura nodrošinātāja pārstāvis, nodrošinot jums Saturu. HMD Global nav iesaistīts transakcijā starp jums un trešās puses Satura nodrošinātāju attiecībā uz šādu Saturu. 
+ 
+7. Autortiesību pārkāpuma liecība 
+HMD Global ievēro trešo pušu intelektuālā īpašuma tiesības. Ja vēlaties nosūtīt paziņojumu par intelektuālā īpašuma tiesību pārkāpumu, tostarp prasības par autortiesību pārkāpumu, izmantojiet mūsu Paziņojumu par pārkāpumu iesniegšanas procedūras. UZ JEBKĀDIEM PIEPRASĪJUMIEM, KAS NEATTIECAS UZ ŠO PROCEDŪRU, NETIKS SNIEGTA ATBILDE. 
+ 
+HMD Global atbild uz paziņojumiem par autortiesību pārkāpumu atbilstoši procesiem, kas izklāstīti Amerikas Savienoto Valstu kodeksa 17. sadaļas 512. paragrāfā. Atbilstošos apstākļos HMD Global var arī atspējot tādu HMD Global pakalpojumu lietotāju kontus (vai pārtraukt to darbību), kuri, iespējams, atkārtoti veic pārkāpumus. 
+ 
+8. Paziņojumi 
+HMD Global var publicēt paziņojumus Pakalpojumā. HMD Global var arī jums nosūtīt paziņojumus par produktiem un pakalpojumiem uz e-pasta adresi vai tālruņa numuru, ko esat mums sniedzis. Tiks uzskatīts, ka esat saņēmis šādus paziņojumus ne vēlāk kā (7) dienu laikā no brīža, kad HMD Global tos nosūtīs vai publicēs. Ja turpināsit izmantot Pakalpojumu, tas būs apliecinājums tam, ka esat saņēmis visus paziņojumus neatkarīgi no piegādes metodes. 
+ 
+9. Maksas 
+Pakalpojuma izmantošana var būt vai var kļūt maksas. 
+ 
+Par visām HMD Global iekasētajām maksām saistībā ar Pakalpojumu tiks paziņots atsevišķi. 
+ 
+Pakalpojuma izmantošana var būt saistīta ar datu pārraidi jūsu pakalpojumu sniedzēja tīklā. Pakalpojumā norādītajās cenās neietilpst iespējamā maksa par datu pārraidi, īsziņām, balss ziņām vai citu pakalpojumu sniegšanu, ko nodrošina jūsu tīkla pakalpojumu sniedzējs. 
+ 
+HMD Global neuzņemas nekādu atbildību par jūsu pakalpojumu sniedzēju maksu apmaksu. 
+ 
+10. Pasūtījumu un maksājumu nosacījumi 
+“Pasūtījums” nozīmē tāda maksas Satura atlasi un/vai Satura abonēšanu, ko nodrošina HMD Global un kas ir pieejams Pakalpojumā, maksāšanas veida iesniegšanu, kā arī pasūtījuma iesniegšanu, atlasot vienumu “Iegādāties”, “Labi, “Akceptēju” vai citu līdzīgu apstiprinājumu vai piekrišanu pasūtījuma plūsmā vai sniedzot citu norādi par akceptēšanas nosacījumiem, kas jums ir sniegti pasūtījuma plūsmā.
+
+
+
+Lai Pakalpojumā veiktu Pasūtījumu, jums ir jābūt sasniegušam juridiskas piekritības vecumu vai pilngadību saskaņā ar piemērojamo likumdošanu. Ja neesat sasniedzis juridiskas piekritības vecumu vai pilngadību, jūs drīkstat veikt Pasūtījumus tikai ar iepriekšēju piekrišanu no kāda no jūsu vecākiem vai likumīgā aizbildņa iepriekšēju piekrišanu.
+
+
+
+Jūs piekrītat, ka visi Pasūtījumi būs juridiski derīgi un saistoši. Uz visiem Pasūtījumiem attiecas HMD Global piekrišana.
+
+
+
+Varat maksāt, izmantojot kredītkarti vai debetkarti, tīkla pakalpojumu sniedzēja rēķinu vai citus maksāšanas veidus, ja tādi ir pieejami.
+
+
+
+Jūsu kredītkartes vai debetkartes norēķinu adresei ir jābūt valstī, kur Saturs tiek piedāvāts Pakalpojumā. HMD Global iekasēs maksu no jūsu kredītkartes vai bankas konta saprātīgā laikā pēc Pasūtījuma veikšanas. Uz visiem kredītkaršu maksājumiem attiecas validācijas pārbaudes un kartes izsniedzēja veikta autorizācija.
+
+
+
+Ja izvēlēsities tīkla pakalpojumu sniedzēja norēķinus, maksa būs redzama jūsu mobilā tālruņa rēķinā vai tiks atskaitīta no jūsu priekšapmaksas konta, ja tādu izmantojat. Daži tīkla pakalpojumu sniedzēji uz Pakalpojuma izmantošanu var attiecināt papildu noteikumus un nosacījumus, tostarp noteikt ierobežojumus attiecībā uz to maksu apjomu, ko var veikt tīkla pakalpojumu sniedzēja norēķinos. Maksas, kas pārsniedz tīkla pakalpojumu sniedzēja ierobežojumus vai konta atlikumu, var tikt noraidītas.
+
+
+
+Jūs piekrītat maksāt ar Pasūtījumu saistītās maksas, nodrošināt, ka maksāšanas līdzeklis Pasūtījuma laikā ir derīgs, ka esat līdzekļa tiesīgais īpašnieks un ka netiek pārsniegts līdzekļa kredītlimits.
+
+
+
+Nodrošinātais Saturs ir licencēts jums. Jūs piekrītat šo Saturu izmantot tikai tā, kā atļauts šajos Nosacījumos un jebkādos papildnosacījumos, kas jums var tikt sniegti pasūtījuma plūsmā.
+
+
+
+Pakalpojumā var tikt piedāvāti abonementi. Jūs pilnvarojat Pakalpojumu noteikt periodisku maksu abonēšanas periodā. Pakalpojumā var tikt piedāvāts arī izmēģinājuma periods. Ja jūsu Pasūtījumam ir izmēģinājuma periods (to mēdz dēvēt arī par “izmēģināt un iegādāties”), no jums var tikt iekasēta maksa pēc izmēģinājuma perioda beigām, ja vien to neatcelsit saskaņā ar abonementa/izmēģinājuma nosacījumiem.
+
+
+
+Cenas Pakalpojumā laiku pa laikam var mainīties. Cenās ietilpst piemērojamie nodokļi, kas ir spēkā transakcijas brīdī, ja vien nav norādīts citādi. Var būt gadījumi, kad jūsu banka vai kredītkartes nodrošinātājs nosaka papildmaksu, pamatojoties uz izmantoto valūtas maiņas kursu un/vai noteiktajām papildmaksām. HMD Global neuzņemas nekādu atbildību par bankas vai citu trešās puses pakalpojumu maksu vai samaksu.
+
+
+
+11. Atcelšana un atmaksa
+
+Jūs piekrītat Satura elektroniskai piegādei, kas tiek uzsākta vienlaikus ar jūsu Pasūtījuma veikšanu. Tiklīdz Pasūtījums tiks apstrādāts, to vairs nevarēsit atcelt. Satura specifika ir tāda, ka to nevar atgriezt.
+
+
+
+Ja pēc Pasūtījuma veikšanas atklājat un 48 stundu laikā informējat HMD Global, ka (a) jūsu pasūtītais Saturs ir kļūdains; (b) HMD Global nodrošinātais Saturs neatbilst tā Satura aprakstam, ko pasūtījāt, izmantojot Pakalpojumu, vai (c) Satura piegādi ir kavējušas vai liegušas tehniskas problēmas vai šādas problēmas nejauši ir izraisījušas vairākus pasūtījumus, jūsu vienīgā un ekskluzīvā iespēja attiecībā uz šādu Saturu būs tā aizstāšana vai par Saturu samaksātās cenas atmaksa, ko pilnībā noteiks HMD Global.
+
+
+
+Pretējā gadījumā atmaksa nav pieejama. Ja saskaraties ar kādu no iepriekš norādītajām problēmām, sazinieties ar HMD Global klientu apkalpošanas dienestu.
+
+
+
+Ņemiet vērā, ka HMD Global klientu apkalpošanas dienests, iespējams, nevarēs apstrādāt jūsu klienta atbalsta pieprasījumu, ja nevarēsit norādīt savu transakcijas ID, ko jums nodrošina HMD Global pēc Pasūtījuma veikšanas Pakalpojumā. HMD Global var veikt atmaksu tikai par tādu Saturu, kura kopējā cena pārsniedz naudas ierobežojumu, kas noteikts piemērojamā vietējā likumdošanā.
+
+
+
+12. Atsauksmju sniegšana HMD Global
+
+Iesniedzot jebkādas idejas, atsauksmes un/vai priekšlikumus (“Atsauksmes”) HMD Global, izmantojot Pakalpojumu vai citas metodes, jūs atzīstat un piekrītat, ka: (1) HMD var būt Atsauksmēm līdzīgas idejas attiecībā uz izstrādi; (2) jūsu Atsauksmes nesatur konfidenciālu informāciju vai jūsu vai jebkuras trešās puses īpašumā esošu informāciju; (3) HMD Global nav nekādu ar konfidencialitāti saistītu pienākumu attiecībā uz Atsauksmēm; (4) HMD Global var brīvi izmantot, izplatīt, ekspluatēt un turpināt izstrādāt un modificēt Atsauksmes jebkādiem mērķiem un (5) jums nav tiesību saņemt jebkāda veida kompensāciju no HMD Global.
+
+
+
+13. Sociālās darbības un atrašanās vietas kopīgošana
+
+Pakalpojumā varat izmantot līdzekļus, lai kopīgotu savu atrašanās vietu, statusu, saturu, Materiālus vai personisko informāciju vai mijiedarbotos ar citiem lietotājiem, vietnēm un pakalpojumiem. Izmantojot šos līdzekļus, jūs piekrītat, ka HMD Global var izmantot un sniegt šo informāciju citiem pakalpojumiem un personām, ar kurām izvēlaties mijiedarboties vai koplietot šo informāciju. Šo pakalpojumu lietotāji un personas, piemēram, jūsu kontaktpersonas, var skatīt jūsu atrašanās vietu, statusu un/vai personisko informāciju. Izmantojot šos līdzekļus, jūs piekrītat nekopīgot tādu informāciju, Saturu vai Materiālus vai norādīt saites uz jebkādu pakalpojumu vai vietni, kurā: (a) ir saturs vai citi materiāli, kas ir nelegāli vai neatbilstoši; (b) nesankcionēti tiek izmantotas intelektuālā īpašuma tiesības vai lietotāji tiek aicināti veikt pirātiskas darbības. Nekāda mijiedarbība neattiecas uz HMD Global un notiek tikai starp jums un citiem lietotājiem.
+
+
+
+14. Pieejamība un tehniskās prasības
+
+Satura un Pakalpojuma pieejamība var atšķirties un uz to attiecas tikai HMD Global ieskati. HMD Global tieši atsakās no jebkādiem apstiprinājumiem vai garantijām, ka noteikts Saturs vai Pakalpojums būs pieejams. Pakalpojums var nebūt pieejams visās valstīs/reģionos un var tikt sniegts tikai atlasītajās valodās. Pakalpojums, darbības un daži līdzekļi var būt arī atkarīgi no tīkla, izmantoto ierīču saderības un atbalstītajiem satura formātiem.
+
+
+
+Lai piekļūtu Pakalpojumam, var būt jālejupielādē konkrēta programmatūra, ko izstrādājis HMD Global vai cita puse.
+
+
+
+HMD Global var pēc saviem ieskatiem pilnībā vai daļēji mainīt, labot vai pārtraukt Pakalpojuma darbību. Pakalpojums var nebūt pieejams apkopes pārtraukumu laikā un citā laikā. Lai nodrošinātu, ka jums ir jaunākā ierīču programmatūra un lietojumprogrammas, jūsu ierīce var automātiski pārbaudīt HMD Global programmatūras atjauninājumu pieejamību. Ja tādi tiks konstatēti, jums tiks prasīts apstiprināt instalēšanu. Automātisko atjauninājumu pārbaudi varat atspējot ierīces iestatījumos. Programmatūru varat arī instalēt, izmantojot pieejamos programmatūras atjaunināšanas kanālus. Ja HMD Global Programmatūras atjauninājumu uzskata par svarīgu vai kritisku, jūs, iespējams, nevarēsit turpināt izmantot Programmatūras iepriekšējo versiju. HMD Global var liegt izmantot Programmatūras vai Pakalpojuma iepriekšējo versiju, līdz instalēsit atjauninājumu.
+
+
+
+HMD Global var jebkāda iemesla dēļ atspējot jebkādu Saturu vai Programmatūru, kas ir ietverts jūsu Pakalpojuma kontā, un noņemt jebkādu Saturu vai Programmatūru un/vai atspējot jebkuras jūsu ierīcē esošās lietojumprogrammas kopiju, lai aizsargātu Pakalpojumu, lietojumprogrammu nodrošinātājus, bezvadu sakaru operatorus, kuru tīklā jūs piekļūstat pakalpojumam, vai jebkādas citas ietekmētās vai potenciāli ietekmētās puses.
+
+
+
+Konkrēts pakalpojums var būt pirmslaidiena versija, piemēram, beta laidiens, un var nedarboties tā, kā darbojas galīgā versija. HMD Global var būtiski mainīt jebkuru Pakalpojuma vai Programmatūras versiju vai izlemt neizlaist galīgo versiju.
+
+
+
+15. Saites uz trešo pušu vietnēm un saturu
+
+HMD Global var iekļaut piekļuvi vietnēm un pakalpojumiem internetā vai iepriekš ielādētus klientus, kas ļauj mijiedarboties ar vietnēm un pakalpojumiem, kas pieder trešajām pusēm vai kurus tās vada un kas nav daļa no Pakalpojuma. Pirms izmantojat šīs vietnes vai pakalpojumus, jums ir jāpārskata to noteikumi un nosacījumi un tiem jāpiekrīt.
+
+
+
+HMD Global nekontrolē trešo pušu saturu, vietnes un pakalpojumus un neuzņemas nekādu atbildību par šajās trešo pušu vietnēs vai pakalpojumos sniegtajiem pakalpojumiem un izveidotajiem vai publicētajiem materiāliem. Saite uz trešās puses vietni nenozīmē, ka HMD Global apstiprina vietni vai produktus vai pakalpojumus, uz kuriem vietnē ir atsauces.
+
+
+
+Turklāt jūs un citi lietotāji var veidot saturu un saites uz tādu saturu Pakalpojumā, kas nav citādi iesniegts Pakalpojumā. HMD Global neatbild par šāda veida saturu un saitēm.
+
+
+
+16. Reklāmas
+
+Pakalpojumā var būt iekļautas reklāmas. Reklāmas var būt pielāgotas Pakalpojumā glabātajam saturam un informācijai, Pakalpojumā veiktajiem vaicājumiem vai citai informācijai.
+
+
+
+17. Personas dati
+
+Jūsu personas datu izmantošanu regulē Konfidencialitātes politika un jebkāda papildu konfidencialitātes informācija, kas padarīta jums pieejama.
+
+
+
+18. Atbildības ierobežojumi
+
+Pakalpojums tiek nodrošināts “TĀDS, KĀDS TAS IR” un “ATBILSTOŠI PIEEJAMĪBAI”. HMD Global negarantē, ka Pakalpojums darbosies bez pārtraukumiem un kļūdām un ka tajā nebūs vīrusu. Netiek sniegtas nekāda veida tiešas vai netiešas garantijas, tostarp (bet ne tikai) nosaukuma, nepārkāpšanas, kvalitātes un derīguma konkrētam mērķim garantijas attiecībā uz Pakalpojuma pieejamību, pareizību, ticamību, informāciju vai saturu. Jūs skaidri piekrītat un apzināties, ka Pakalpojuma izmantošana ir pilnībā jūsu risks un ka varat tikt pakļauts saturam no dažādiem avotiem.
+
+
+
+Izņemot atbildību nāves vai traumu gadījumā, ko izraisa rupja nolaidība vai tīša noteikumu neievērošana, HMD Global nekādā gadījumā neuzņemas atbildību par nekādiem netiešiem, nejaušiem, soda vai izrietošiem bojājumiem, kas radušies jūsu Pakalpojuma lietošanas vai nespējas lietot Pakalpojumu rezultātā.
+
+
+
+19. Kompensēšana
+
+Jūs piekrītat aizsargāt HMD Global no visām trešo pušu prasībām un atbildības, aplikšanas ar nodokļiem, zaudējumiem, izmaksām vai bojājumiem un pret tiem, kas rodas tāpēc, ka (i) jūs pārkāpjat Nosacījumus, (ii) jūs neievērojat vai pārkāpjat trešās puses intelektuālā īpašuma tiesības, citas tiesības vai konfidencialitāti vai (iii) trešā puse izmanto Pakalpojumu ļaunprātīgi, ja šādu iespēju ir radījusi jūsu nespēja veikt saprātīgus pasākumus, lai aizsargātu jūsu lietotājvārdu un paroli pret ļaunprātīgu izmantošanu, kā arī visu minēto kompensēt.
+
+
+
+20. Dažādi
+
+
+
+20.1. Tiesību aktu izvēle
+
+Šos Nosacījumus regulē Somijas tiesību akti, neņemot vērā tās konfliktus vai likumu nosacījumus.
+
+
+
+20.2. Derīgums
+
+Nosacījumi neizslēdz un neierobežo tās jūsu pamattiesības jūsu uzturēšanās valstī, kuras pēc likuma nevar atsaukt. Ja kāds Nosacījumu nolikums nav derīgs, atlikušie nolikumi netiek ietekmēti un nederīgais nolikums tiks aizstāts ar derīgu, kas vistuvāk atbilst Nosacījumu rezultātam un mērķim. Ja uz jūsu Pakalpojuma izmantošanu neattiecas viens vai vairāki šo Nosacījumu nolikumi, tas neietekmēs nekādu citu Nosacījumu nolikumu derīgumu vai realizējamību vai Nosacījumu derīgumu vai realizējamību kopumā. Ja starp šiem HMD Global Pakalpojuma nosacījumiem un Konfidencialitātes politiku ir konflikts, šo HMD Global Pakalpojuma nosacījumu nolikumiem ir augstāka prioritāte. Nosacījumu nolikumiem ir paredzēts būt spēkā arī pēc jūsu reģistrācijas pārtraukšanas.
+
+
+
+20.3. Nosacījumu izmaiņas
+
+HMD Global var modificēt Nosacījumus jebkurā laikā bez iepriekšēja paziņojuma. Ja Nosacījumi tiek mainīti materiālā, nelabvēlīgā veidā, HMD Global sniegs atsevišķu paziņojumu par izmaiņām.
+
+
+
+Jūs esat atbildīgs par Nosacījumu regulāru pārskatīšanu. Ja tupināt izmantot Pakalpojumu, tas liecina par jūsu piekrišanu izmaiņām un modifikācijām.
+
+
+
+21. Intelektuālais īpašums
+
+Pakalpojums, Saturs un Programmatūra ir aizsargāta saskaņā ar starptautiskajiem autortiesību likumiem. HMD Global pieder tā Pakalpojuma, Satura un Programmatūras autortiesības maksimālajā tiesību aktos noteiktajā apjomā. Atbilstoši Nosacījumiem HMD Global saglabā visas tiesības, nosaukumu un intereses attiecībā uz Pakalpojumu, Saturu, Programmatūru un visiem pārējiem HMD Global produktiem, programmatūru un citiem īpašumiem, kas jums tiek nodrošināti vai ko izmantojat Pakalpojumā.
+
+
+
+22. Piešķire
+
+HMD Global saskaņā ar šiem Nosacījumiem var piešķirt savas tiesības un pienākumus savam korporatīvajam mātesuzņēmumam, jebkuram savam meitasuzņēmumam vai jebkuram uzņēmumam, kuram ir kopīgs vadītājs ar HMD Global. Turklāt HMD Global saskaņā ar šiem Nosacījumiem var piešķirt savas tiesības un pienākumus trešajai pusei saistībā ar uzņēmumu apvienošanu vai iegādi, aktīvu pārdošanu, tiesību aktos noteiktajā kārtībā vai citādi.
+"</string>
+    <string name="hmd_user_experience_program_message">Jūsu dalība lietotāju pieredzes programmā sniedz HDM Global labāku izpratni par to, kas jums patīk Nokia ierīcē un ko, jūsuprāt, vajadzētu uzlabot. Mēs reizēm varam saņemt anonīmus datus ar jūsu ierīces tehniskajiem raksturlielumiem, piemēram, failu ar datiem par notikušu programmatūras avāriju. Ņemiet vērā, ka šādi dati netiks pārraidīti, izmantojot mobilā tīkla savienojumu. Mēs labprāt uzklausām jūsu domas par Nokia ierīci.</string>
+    <string name="hmd_user_experience_program_title">Lietotāju pieredzes programma</string>
+    <string name="idle_too_long_toast">Ja šis tālrunis kādu laiku ir dīkstāvē, izslēdziet to, lai ietaupītu jaudu.</string>
+    <string name="language_selection_cancel_btn">ATCELT</string>
+    <string name="language_selection_title">Izvēlieties savu valodu</string>
+    <string name="location_for_service">Izmantot manu atrašanās vietu Google meklēšanai un citiem Google pakalpojumiem.</string>
+    <string name="location_info_1">Google atrašanās vietas pakalpojuma nodrošinātās lietotnes joprojām var noteikt aptuvenu jūsu atrašanās vietu, neizmantojot GPS.</string>
+    <string name="location_info_2">Šīs funkcijas varat atspējot atrašanās vietas pakalpojumu iestatījumos.</string>
+    <string name="location_network">Atļaut Google atrašanās vietas pakalpojumiem apkopot anonīmus atrašanās vietas datus. Apkopošana turpinās pat tad, kad nav palaista neviena lietotne.</string>
+    <string name="location_title">Google pozicionēšanas izmantošana</string>
+    <string name="nevigation_selection_back">Atpakaļ</string>
+    <string name="nevigation_selection_home">Sākums</string>
+    <string name="nevigation_selection_recent">Pēdējie</string>
+    <string name="nevigation_selection_text">Varat mainīt pogu \"Atpakaļ\"/\"Pēdējoreiz izmantots\" novietojumu un fona krāsu</string>
+    <string name="nevigation_selection_title">Navigācijas joslas iestatījumi</string>
+    <string name="next_btn_lebel">TĀLĀK</string>
+    <string name="normal_date_format">Reģionāls (%s)</string>
+    <string name="search_menu_title">Meklēt</string>
+    <string name="setup_complete_hmd">Esat gatavs darbam...</string>
+    <string name="setup_complete_main">Jūsu tālrunis</string>
+    <string name="setup_complete_sub">ir gatavs lietošanai</string>
+    <string name="setup_completed_congratulations">Apsveicam!</string>
+    <string name="sim_not_exist_toast">Pārbaudiet, vai esat ievietojis SIM karti.</string>
+    <string name="skip_add_account_button_label">Vēlāk</string>
+    <string name="skip_button_label">Izlaist</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Pieņemt</string>
+    <string name="term_disagree_text">Nepiekrītu</string>
+    <string name="terms_of_service_description">"
+Ja izmantosit tālāk norādītos pakalpojumus, var tikt piemērota maksa par datu pārsūtīšanu: laika ziņas, tiešsaistes krātuves augšupielādes/lejupielādes gadījumi, e-pasta vai interneta pārlūkprogrammas. Lai ietaupītu izmaksas, iesakām pieteikties pie mobilo sakaru operatora datu pakotnes saņemšanai. 
+
+Ja atzīmējat \"Piekrītu\", tas norāda, ka skaidri izprotat šo paziņojumu un piekrītat, ka jūsu tālrunis var automātiski tikt savienots ar internetu, lai izmantotu attiecīgos pakalpojumus. 
+
+Turklāt programmatūru automātiskās atjaunināšanas paziņojumi pēc noklusējuma ir iespējoti un izmanto nelielus datu apjomus, lai sniegtu jums jaunu programmatūras pieredzi. Šo opciju varat vēlāk izslēgt iestatījumos. 
+
+"</string>
+    <string name="terms_title">Paziņojumi par datu lietojumu</string>
+    <string name="time_picker_title">Laiks:</string>
+    <string name="traffic_prompt_content">Ja atzīmēsit Nepiekrītu, jums būs manuāli jāiegūst informācija par: programmatūras atjauninājumiem, laika prognozēm u.c.</string>
+    <string name="upload_agent_des_text">"Pievienojieties lietotāju pieredzes programmai &lt;a href='launch.AddUploadAgentHandler://Kode'>Konfidencialitātes noteikumi un nosacījumi&lt;/a> 。"</string>
+    <string name="upload_agent_hmd_des_text_2">"Pievienojieties Nokia lietotāju pieredzes programmai. &lt;a href='launch.UserExperienceActivity://Kode'>Papildinformācija.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Lietotāju pieredzes programma</string>
+    <string name="v7_preference_off">IZSLĒGTS</string>
+    <string name="v7_preference_on">IESLĒGTS</string>
+    <string name="welcome_hmd_term_of_use_2">"Pieskaroties bultiņai, jūs piekrītat &lt;a href='launch.TermOfServiceActivity://Kode'>pakalpojuma sniegšanas noteikumiem&lt;/a> un &lt;a href='launch.AddUploadAgentHandler://Kode'>konfidencialitātes politikai&lt;/a>. Uzņēmumam HMD Global tiks nosūtīta informācija par ierīces aktivizēšanu līdz ar vienreizēju informāciju par ierīces atrašanās vietu. Var tikt piemērota maksa par datu izmantošanu."</string>
+    <string name="welcome_infocus_term_of_use">"Nospiediet Sākt, lai norādītu, ka piekrītat &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Pakalpojumu sniegšanas noteikumiem un nosacījumiem&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Sākt darbu</string>
+    <string name="welcome_message">Sveicināti</string>
+    <string name="welcome_start_button_label">SĀKT</string>
+    <string name="welcome_vision_settings_button_label">Redzes iestatījumi</string>
+    <string name="wifi_picker_connection_des_text">Ja neesat izveidojis savienojumu ar WLAN, programmatūra tiks autentificēta, izmantojot mobilo tīklu, un par to var tikt piemērota maksa par datu pārsūtīšanu.</string>
+    <string name="wifi_picker_connection_negative">Savienot</string>
+    <string name="wifi_picker_connection_negative_prc">Savienot ar WLAN</string>
+    <string name="wifi_picker_connection_positive">Labi</string>
+    <string name="wifi_picker_connection_title">Tīkla savienojums</string>
+    <string name="wifi_picker_warning_des_text">Ja nebūs savienojuma ar internetu, nevarēs apstiprināt, ka jūsu programmatūra ir atjaunināta.</string>
+    <string name="wifi_picker_warning_negative">Tomēr izlaist</string>
+    <string name="wifi_picker_warning_positive">Neizlaist</string>
+    <string name="wifi_picker_warning_title">Brīdinājums</string>
+    <string name="zone_auto">Automātiskā laika josla</string>
+    <string name="zone_auto_summaryOff">Izmantot tīkla nodrošināto laika joslu</string>
+    <string name="zone_auto_summaryOn">Izmantot tīkla nodrošināto laika joslu</string>
+    <string name="sugarsync_intro_description">Ar vairākām vienkāršām darbībām varat izmantot nemanāmo SugarSync vietu mākoņkrātuvē.</string>
+</resources>

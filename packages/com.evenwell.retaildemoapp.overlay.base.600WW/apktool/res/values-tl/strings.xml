@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="cancel">KANSELAHIN</string>
+    <string name="system_busy_msg">Abala ang system. Pakisubukang muli sa ibang pagkakataon.</string>
+    <string name="no_new_demo_found_msg">"Walang nakitang bagong demo material.
+
+I-tap ang OK upang ilunsad ang Demo mode?"</string>
+    <string name="copying">Kinokopya…</string>
+    <string name="downloading">Dina-download…</string>
+    <string name="download_complete_msg">"Tapos na ang pag-download.
+
+I-tap ang OK upang ilunsad ang Demo mode."</string>
+    <string name="download_fail_msg">"Hindi na-download ang demo material sa Internet.
+
+I-tap ang OK upang ilunsad ang Demo mode?"</string>
+    <string name="enable_demo_mode">I-enable ang demo mode?</string>
+    <string name="disable_demo_mode">I-disable ang demo mode</string>
+    <string name="update_demo_video">I-update ang demo video</string>
+    <string name="reset_device">I-reset ang device?</string>
+    <string name="demo_mode_notifications">Mga notification sa Demo mode</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Politika e privatësisë e HMD</string>
+    <string name="privacy_activity">Politika e privatësisë e HMD</string>
+    <string name="go_label">Pranoj</string>
+    <string name="app_name">Diagnostikimi i sistemit</string>
+    <string name="setting_page_name">Programi i eksperiencës së përdoruesit</string>
+    <string name="send_diag_dialog_any_network">Kur lidhja e të dhënave është e disponueshme</string>
+    <string name="send_diag_dialog_wifi">Kur lidhja Wi-Fi është e disponueshme</string>
+    <string name="send_diag_dialog_wlan">Kur lidhja WLAN është e disponueshme</string>
+    <string name="send_diag_dialog_title">Dërgoni diagnostikimin</string>
+    <string name="diagnostics_setting">Diagnostikimi</string>
+    <string name="diagnostics_report">Raporti i diagnostikimit</string>
+    <string name="diagnostics_report_summary">Dërgimi raportin e diagnostikimit kur pajisja ka një gabim softueri. Mund të zbatohen kosto për lidhjen e rrjetit. Rekomandohet marrja e paketës së rrjetit të të dhënave nga Ofruesi i shërbimit.</string>
+    <string name="network_options">Opsionet e rrjetit</string>
+    <string name="send_diagnostics">Dërgoni diagnostikimin</string>
+    <string name="diagnostics_description">Na ndihmoni të përmirësojmë produktet dhe shërbimet tona duke na lejuar të mbledhim të dhënat e diagnostikimit kur pajisja juaj ndesh një gabim ose një ndërprerje aksidentale të softuerit. Mund ta ndryshoni gjithmonë opsionin më vonë te Cilësimet.</string>
+    <string name="cancel_upload_confirm_msg">Jeni duke e mbyllur Programin tonë të eksperiencës së përdoruesit. Gabimet e softuerit që kanë ndodhur në telefoni tuaj nuk do të ruhen apo dërgohen dhe kështu që mund të mos arrijmë ta përmirësojmë eksperiencën tuaj me këtë telefon.</string>
+    <string name="hmd_privacy_policy">Politika e privatësisë e HMD</string>
+</resources>

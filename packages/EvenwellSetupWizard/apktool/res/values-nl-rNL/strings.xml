@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Toegankelijkheid</string>
+    <string name="available_via_passpoint">Verkrijgbaar via %1$s</string>
+    <string name="back_btn_lebel">TERUG</string>
+    <string name="backup_and_restore_description">"Als u eerder een back-up van uw account hebt gemaakt, kunt u dit nu herstellen naar deze telefoon.
+
+U kunt uw back-upinstellingen te allen tijde wijzigen onder Instellingen."</string>
+    <string name="backup_and_restore_title">Back-up en herstel</string>
+    <string name="connected_via_passpoint">Verbonden via %1$s</string>
+    <string name="connected_via_wfa">Verbonden via Wifi-assistent</string>
+    <string name="datausage_dialog_negitive_btn">Annuleren</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Datum- &amp; tijdsinstellingen</string>
+    <string name="date_and_time_settings_title">Datum &amp; tijd</string>
+    <string name="device_checking_message">Welkom</string>
+    <string name="emergency_dial_hmd_message">Noodgeval</string>
+    <string name="finish_button_label">VOLTOOIEN</string>
+    <string name="hmd_user_experience_program_message">Uw deelname aan het gebruikerservaringsprogramma helpt HMD Global beter te begrijpen wat u bevalt aan uw Nokia-apparaat en wat volgens u verbeterd dient te worden. Van tijd tot tijd ontvangen we anonieme gegevens met technische kenmerken over uw apparaat, zoals een bestand met gegevens over een softwarecrash die plaats heeft gevonden. Houd er rekening mee dat dergelijke gegevens niet worden verzonden via een mobiele verbinding. We horen graag van u wat u van uw Nokia-apparaat vindt!</string>
+    <string name="hmd_user_experience_program_title">Gebruikerservaringsprogramma</string>
+    <string name="idle_too_long_toast">Deze telefoon is inactief voor sommige tijden. Schakel nu uit om energie te besparen.</string>
+    <string name="insert_sim_cards">Plaats simkaarten</string>
+    <string name="insert_sim_cards_prompt_content">"Je weet niet zeker hoe? Bekijk de instructies bij je telefoon.
+
+Na plaatsing kan het enkele seconden duren voordat uw simkaarten zijn geactiveerd."</string>
+    <string name="language_selection_cancel_btn">ANNULEREN</string>
+    <string name="light_room_description">%1$s ondersteunt het maken van RAW (DNG)-afbeeldingen. Dankzij onze samenwerking met Adobe kunt u direct op uw nieuwe smartphone bewerkingen uitvoeren.&lt;br/>&lt;br/>Download Adobe Photoshop Lightroom CC in de Google Play Store.</string>
+    <string name="light_room_title">Passie voor fotografie?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="nevigation_selection_back">Vorige</string>
+    <string name="next_btn_lebel">VOLGENDE:</string>
+    <string name="not_now">NIET NU...</string>
+    <string name="passpoint_content">Aanmeldingsgegevens voor %1$s</string>
+    <string name="passpoint_label">Opgeslagen via</string>
+    <string name="please_select_phase2">Phase 2-verificatie</string>
+    <string name="proxy_error_empty_host_set_port">Het poortveld moet leeg zijn als het hostveld leeg is.</string>
+    <string name="proxy_error_empty_port">U moet het veld voor de poort invullen.</string>
+    <string name="proxy_error_invalid_exclusion_list">De door u getypte uitsluitingslijst is onjuist ingedeeld. De uitgesloten domeinen in de lijst moeten door een komma worden gescheiden.</string>
+    <string name="proxy_error_invalid_port">De poort die u heeft ingevoerd, is ongeldig.</string>
+    <string name="proxy_exclusionlist_label">Proxy omzeilen voor</string>
+    <string name="proxy_hostname_label">Hostnaam van proxy</string>
+    <string name="proxy_port_label">Proxy-poort</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_warning_limited_support">De HTTP-proxy wordt gebruikt door de browser, maar mag niet worden gebruikt door de andere apps.</string>
+    <string name="saved_network">Opgeslagen door %1$s</string>
+    <string name="select_sim_card">Simkaart selecteren</string>
+    <string name="setup_complete_hmd">U kunt aan de slag...</string>
+    <string name="setup_complete_hmd_1">U bent bijna klaar...!</string>
+    <string name="setup_complete_main">U kunt</string>
+    <string name="setup_complete_sub">AAN DE SLAG.</string>
+    <string name="setup_completed_congratulations">Gefeliciteerd!</string>
+    <string name="setup_finish">AAN DE SLAG</string>
+    <string name="sim_editor_title">Simkaartsleuf %1$d</string>
+    <string name="term_agree_text">Akkoord</string>
+    <string name="upload_agent_hmd_des_text_3">"Als u op \"AAN DE SLAG\" tikt, doet u mee met het gebruikersprogramma. &lt;a href='launch.UserExperienceActivity://Kode'>Meer informatie&lt;/a>. U kunt ook altijd later deelnemen via Instellingen."</string>
+    <string name="upload_agent_title">Gebruikerservaringsprogramma</string>
+    <string name="welcome_hmd_term_of_use_4">"Als u op de knop tikt, betekent dit dat u akkoord gaat met de &lt;a href='launch.TermOfServiceActivity://Kode'>servicevoorwaarden&lt;/a> en het &lt;a href='launch.AddUploadAgentHandler://Kode'>privacybeleid&lt;/a>. De activeringsgegevens voor het apparaat met eenmalige apparaatlocatie wordt verstuurd naar HMD Global.&lt;br/>&lt;br/>Auto Software Update die de nieuwste updates voor u installeert wordt geactiveerd. Hiervoor wordt een klein deel van uw gegevensbudget gebruikt. De diensten maken als dat nodig is verbinding met internet.&lt;br/>&lt;br/>Deze diensten zijn niet gratis wanneer de verbinding via mobiele netwerken verloopt."</string>
+    <string name="welcome_hmd_term_of_use_5">"Als u op de knop tikt, betekent dit dat u akkoord gaat met de &lt;a href='launch.TermOfServiceActivity://Kode'>servicevoorwaarden&lt;/a>. De informatie over de activering van het apparaat wordt samen met een eenmalige apparaatlocatie naar HMD Global gestuurd. Mogelijk zijn er gegevenskosten. De gegevens worden gebruikt zoals beschreven in het &lt;a href='launch.AddUploadAgentHandler://Kode'>privacybeleid&lt;/a>."</string>
+    <string name="welcome_message">Welkom</string>
+    <string name="welcome_start_button_label">STARTEN</string>
+    <string name="wifi_add_network">Netwerk toevoegen</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Keuzemenu Geavanceerde opties. Dubbeltik om uit te breiden.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Keuzemenu Geavanceerde opties. Dubbeltik om uit te breiden.</string>
+    <string name="wifi_and_mobile_skipped_message">"Het instellen van uw telefoon gaat sneller als u met een netwerk bent verbonden.
+
+U heeft geen verbinding nodig om:
+
+"<li>u aan te melden bij uw cloudaccount</li>"
+
+"<li>software-updates te downloaden</li>"
+
+"<li>datum en tijd automatisch in te stellen</li></string>
+    <string name="wifi_auth_password_wrong">Onjuist wachtwoord?</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Annuleren</string>
+    <string name="wifi_certificate">Certificaat</string>
+    <string name="wifi_connect">Verbinden</string>
+    <string name="wifi_connected_no_internet">Verbonden, geen internet</string>
+    <string name="wifi_disabled_generic">Uitgeschakeld</string>
+    <string name="wifi_disabled_network_failure">IP-configuratie mislukt</string>
+    <string name="wifi_disabled_password_failure">Verificatieprobleem</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Niet leveren</string>
+    <string name="wifi_do_not_validate_eap_server">Niet valideren</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Geen certificaat opgegeven. Uw verbinding is niet privé.</string>
+    <string name="wifi_dont_skip">GA TERUG</string>
+    <string name="wifi_eap_anonymous">Anonieme identiteit</string>
+    <string name="wifi_eap_ca_cert">CA-certificaat</string>
+    <string name="wifi_eap_domain">Domein</string>
+    <string name="wifi_eap_identity">Identiteit</string>
+    <string name="wifi_eap_method">EAP-methode</string>
+    <string name="wifi_eap_user_cert">Gebruikerscertificaat</string>
+    <string name="wifi_fail_to_scan">Scannen van netwerken niet mogelijk</string>
+    <string name="wifi_failed_connect_message">Kan geen verbinding maken met het netwerk</string>
+    <string name="wifi_failed_forget_message">Vergeten van netwerk is mislukt</string>
+    <string name="wifi_failed_save_message">Opslaan van netwerk is mislukt</string>
+    <string name="wifi_forget">Vergeten</string>
+    <string name="wifi_frequency">Frequentie</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_ip_address">IP-adres</string>
+    <string name="wifi_ip_settings">IP-instellingen</string>
+    <string name="wifi_ip_settings_invalid_dns">Voer een geldig DNS-adres in.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Voer een geldig gateway-adres in.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Voer een geldig IP-adres in.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Typ een netwerkprefix van 0-32 tekens.</string>
+    <string name="wifi_multiple_cert_added">(Meerdere certificaten toegevoegd)</string>
+    <string name="wifi_network_prefix_length">Lengte van netwerkprefix</string>
+    <string name="wifi_no_domain_warning">U moet een domein opgeven.</string>
+    <string name="wifi_no_internet">Geen internetverbinding</string>
+    <string name="wifi_no_internet_no_reconnect">Geen automatische verbinding</string>
+    <string name="wifi_not_in_range">Niet in bereik</string>
+    <string name="wifi_password">Wachtwoord</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_remembered">Opgeslagen</string>
+    <string name="wifi_save">Opslaan</string>
+    <string name="wifi_security">Beveiliging</string>
+    <string name="wifi_security_none">Geen</string>
+    <string name="wifi_setting_title">Maak verbinding</string>
+    <string name="wifi_shared">Delen met andere apparaatgebruikers</string>
+    <string name="wifi_show_advanced">Geavanceerde opties</string>
+    <string name="wifi_show_password">Wachtwoord weergeven</string>
+    <string name="wifi_signal">Signaalsterkte</string>
+    <string name="wifi_skip_anyway">TOCH OVERSLAAN</string>
+    <string name="wifi_speed">Linksnelheid</string>
+    <string name="wifi_ssid">Netwerknaam</string>
+    <string name="wifi_ssid_hint">Geef de SSID op</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_unchanged">(ongewijzigd)</string>
+    <string name="wifi_unspecified">Maak een keuze</string>
+    <string name="wifi_use_system_certs">Systeemcertificaten gebruiken</string>
+</resources>

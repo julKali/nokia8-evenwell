@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statinis</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Aptikti automatiškai</item>
+        <item>Apdoroti kaip išmatuotą</item>
+        <item>Apdoroti kaip neišmatuotą</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Nėra</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Nėra</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Nėra</item>
+        <item>Neautomatinis</item>
+        <item>Aut. tarp. serv. konfig.</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Prastas</item>
+        <item>Neblogas</item>
+        <item>Geras</item>
+        <item>Puikus</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Nuskaitoma…</item>
+        <item>Jungiamasi…</item>
+        <item>Nustatoma tapatybė…</item>
+        <item>Gaunamas IP adresas…</item>
+        <item>Prijungtas</item>
+        <item>Pristabdyta</item>
+        <item>Atjungiama…</item>
+        <item>Atsijungęs</item>
+        <item>Nepavyko</item>
+        <item>Užblokuota</item>
+        <item>Laikinai vengiama prasto ryšio</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Nuskaitoma…</item>
+        <item>Prijungiama prie \"%1$s\"…</item>
+        <item>Nustatoma tapatybė naudojant \"%1$s…\"</item>
+        <item>Gaunamas IP adresas iš \"%1$s\"…</item>
+        <item>Prisijungta prie \"%1$s\"</item>
+        <item>Pristabdyta</item>
+        <item>Atjungiama nuo \"%1$s\"…</item>
+        <item>Atsijungęs</item>
+        <item>Nepavyko</item>
+        <item>Užblokuota</item>
+        <item>Laikinai vengiama prasto ryšio</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI šešioliktainis</item>
+    </string-array>
+</resources>

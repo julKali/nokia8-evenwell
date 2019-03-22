@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sagtewarebywerking</string>
+    <string name="remote_file_fail">Kan nie by afgeleë lêer ingaan nie.Probeer asseblief later weer.</string>
+    <string name="no_description">(Geen beskrywing nie)</string>
+    <string name="login_fail">Kon nie by bediener aanmeld nie.Probeer asseblief later weer.</string>
+    <string name="get_service_url_fail">Netwerkverbinding is nie stabiel nie (kon nie diens-URL kry nie).Probeer asseblief later weer.</string>
+    <string name="query_sw_fail">Kon nie sagteware-inligting-navraag doen nie.</string>
+    <string name="download_sw_fail">Kon nie sagteware aflaai nie.</string>
+    <string name="query_sw_incorrect">Resultaat is nie korrek nie.</string>
+    <string name="no_update_available">Geen nuwe bywerking is beskikbaar nie.</string>
+    <string name="update_not_ready">Nuwer bywerking is nie op bediener gereed nie.Probeer asseblief later weer.</string>
+    <string name="check_now_label">Kontroleer nou</string>
+    <string name="verifying">Verifieer tans...</string>
+    <string name="header_verifying_update_file">Verifieer tans bygewerkte lêer...</string>
+    <string name="unzipping">Pak tans uit...</string>
+    <string name="header_starting_to_download_file">Begin tans lêer aflaai...</string>
+    <string name="header_system_update_available">Stelselbywerking is beskikbaar.</string>
+    <string name="new_version_desc_prompt">Nuwe weergawe sluit in:</string>
+    <string name="data_fee_warning">As jy hierdie diens via jou mobiele netwerk gebruik, kan dit geld kos!</string>
+    <string name="header_downloading_update">Laai tans bywerking af</string>
+    <string name="header_install_system_software_update">Installeer stelsel-sagtewarebywerking</string>
+    <string name="msg_install_system_software_update_1">"Wil jy die volgende stelselsagteware installeer?
+Stelselopgradering na"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Jy sal nie jou toestel kan gebruik of noodoproepe kan maak tydens die opgradering nie.
+
+As jy die battery of SD-kaart uithaal terwyl sagteware bygewerk word, kan onverwagte dinge gebeur."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Jy sal nie jou toestel kan gebruik tydens die opgradering nie.
+
+As jy die toestel afskakel of die aflaailêer verwyder terwyl sagteware bygewerk word, kan onverwagte dinge gebeur."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Jy sal nie jou toestel kan gebruik of noodoproepe kan maak tydens die opgradering nie.
+
+As jy die toestel afskakel of die aflaailêer verwyder terwyl sagteware bygewerk word, kan onverwagte dinge gebeur."</string>
+    <string name="button_install_now">Installeer nou</string>
+    <string name="button_install_later">Installeer later</string>
+    <string name="header_unable_to_connect">Kan nie verbind</string>
+    <string name="msg_unable_to_connect">"Jy het 'n netwerkverbinding nodig om hierdie program te kan gebruik.Skakel asseblief mobiele netwerk of Wi-Fi aan in Instellings."</string>
+    <string name="msg_unable_to_connect_2">"Jy het 'n netwerkverbinding nodig om hierdie program te kan gebruik.Skakel asseblief mobiele netwerk aan in Instellings."</string>
+    <string name="msg_unable_to_connect_wlan">"Jy het 'n netwerkverbinding nodig om hierdie program te kan gebruik.Skakel asseblief mobiele netwerk of WLAN aan in Instellings."</string>
+    <string name="msg_unable_to_connect_short">Geen netwerkverbinding</string>
+    <string name="header_system_is_update">Stelsel is op datum.</string>
+    <string name="msg_system_is_update">Geen nuwe bywerking is beskikbaar nie.</string>
+    <string name="msg_system_is_update_short">Geen nuwer bywerkings nie</string>
+    <string name="msg_no_sd_card">"SD-kaart word vereis vir stelselbywerking.Sit asseblief 'n beskikbare SD-kaart in."</string>
+    <string name="msg_no_available_size_card">"Hierdie bywerklêer benodig %s MB beskikbare ruimte.Skrap asseblief 'n aantal lêers uit die SD-kaart."</string>
+    <string name="msg_no_available_size_card_2">"Hierdie bywerklêer benodig %s MB beskikbare ruimte.Skrap asseblief 'n aantal lêers in databerging."</string>
+    <string name="msg_no_available_size_card_short">Nie genoeg oop ruimte nie.</string>
+    <string name="msg_do_not_remove_sd_card">MOENIE die SD-kaart verwyder nie.</string>
+    <string name="title_system_update_ready">Stelselbywerking is gereed</string>
+    <string name="msg_system_update_ready">Druk om stelselbywerking te installeer.</string>
+    <string name="msg_system_battery_too_low">"Die stelselbywerking is gereed, maar jou toestelbattery is te laag om dit te installeer.Herlaai asseblief die battery en begin later weer installeer.
+
+Die batteryvlak moet meer as 35%% wees.
+Huidige batteryvlak:%s%%."</string>
+    <string name="msg_system_battery_too_low_short">Battery te laag</string>
+    <string name="msg_remove_sd_card">Die afgelaaide lêer kan nie na SD-kaart geskryf word nie.Kontroleer asseblief die SD-kaart.</string>
+    <string name="msg_remove_sd_card_2">Die afgelaaide lêer kan nie in databerging geskryf word nie.Kontroleer asseblief die berging.</string>
+    <string name="msg_remove_sd_card_short">Kon nie by SD-kaart ingaan nie.</string>
+    <string name="msg_remove_sd_card_short_2">Kon nie by databerging ingaan nie.</string>
+    <string name="msg_verify_fail">Kon nie die afgelaaide lêer verifieer nie.</string>
+    <string name="msg_verify_fail_short">Kon nie verifieer nie</string>
+    <string name="msg_unzip_fail">Kon nie die afgelaaide lêer uitpak nie.</string>
+    <string name="msg_unzip_fail_short">Kon nie uitpak nie</string>
+    <string name="data_size">Datagrootte</string>
+    <string name="required_size">Vereiste ruimte</string>
+    <string name="network_not_match">"Jou huidige instelling kan net via WLAN afgelaai word.Kies asseblief 'n WLAN-netwerk of verander jou instellings."</string>
+    <string name="network_not_match_short">Netwerk stem nie ooreenstem nie.</string>
+    <string name="without_reboot_api">Kan nie herselflaai nie weens ontbrekende API.Herselflaai asseblief om die aktiewe bywerking handmatig te herwin.</string>
+    <string name="update_complete">Stelselbywerking is klaar.</string>
+    <string name="update_complete_short">Bywerking voltooi</string>
+    <string name="file_removed">Die afgelaaide lêer is verwyder.Laai asseblief weer af.</string>
+    <string name="file_removed_short">Afgelaaide lêer is verwyder.</string>
+    <string name="file_not_match">Die afgelaaide lêer stem nie ooreen met die verwagte grootte nie.Laai asseblief weer af.</string>
+    <string name="file_not_match_short">Lêer stem nie ooreen nie.</string>
+    <string name="menu_url">Verander bediener-URL</string>
+    <string name="menu_enabled">Slegs geaktiveerde sagteware</string>
+    <string name="using_internal_storage">Gebruik interne berging</string>
+    <string name="using_external_storage">Gebruik eksterne berging</string>
+    <string name="msg_agree_message">"
+
+Daar is 'n klein moontlikheid dat gebruikersdata deur die opgraderingsproses uitgevee sal word.Indien nodig, rugsteun asseblief jou data voordat jy die stelselopgradering installeer."</string>
+    <string name="msg_root_message">"
+
+Normale bywerking kan nie gewaarborg word as die toestel gewortel is nie."</string>
+    <string name="msg_responsibility_message">"As die toestel gewortel is, is die gebruiker verantwoordelik vir enige abnormale stelselgedrag ná 'n bywerking."</string>
+    <string name="msg_upgrade_agree">Lees en stem in</string>
+    <string name="later">Later</string>
+    <string name="update_summary">Kontroleer vir bywerkings</string>
+    <string name="wlan_only">Net WLAN</string>
+    <string name="wifi_only_summary">Laai bywerkings af wanneer Wi-Fi beskikbaar is</string>
+    <string name="wlan_only_summary">Laai bywerkings af wanneer WLAN beskikbaar is</string>
+    <string name="auto_update">Outobywerking</string>
+    <string name="auto_update_summary">Kontroleer outomaties vir bywerkings</string>
+    <string name="new_data_fee_warning">As jy bywerkings kontroleer en aflaai, kan dit geld kos!Laai bywerkings via Wi-Fi af indien moontlik.</string>
+    <string name="wlan_data_fee_warning">As jy bywerkings kontroleer en aflaai, kan dit geld kos!Laai bywerkings via WLAN af indien moontlik.</string>
+    <string name="install_fail">Installering het misluk</string>
+    <string name="install_all">Installeer alles</string>
+    <string name="installed_version">Geïnstalleerde weergawe</string>
+    <string name="update_available">Bywerking is beskikbaar.</string>
+    <string name="apk_update_available">Programbywerking is beskikbaar.</string>
+    <string name="recommend">Aanbevole</string>
+    <string name="roaming_restriction">Dataswerfbeperking</string>
+    <string name="roaming_restriction_summary">Kan nie bywerking nie weens dataswerfbeperking.</string>
+    <string name="changelog">Veranderingslog</string>
+    <string name="apk_update_available_summary">"%s het 'n beskikbare bywerking.Klik OK om nóú te installeer, of klik Kanselleer om ná een dag vir bywerkings te kontroleer."</string>
+    <string name="apk_removed">Hierdie program is verwyder.</string>
+    <string name="apk_available_items">Totaal van %s beskikbare items</string>
+    <string name="apk_available_item">Totaal van %s beskikbare item</string>
+    <string name="invalid_update_summary">Die bywerking is ongeldig. Kontroleer asseblief later weer.</string>
+    <string name="recheck">Kontroleer weer</string>
+    <string name="image_download_exception_summary">Kan nie by bediener ingaan nie. Kontroleer asseblief later weer.</string>
+    <string name="apk_download_exception">Kan nie by bediener ingaan nie</string>
+    <string name="installation_confirmation">Installering-bevestiging</string>
+    <string name="apk_need_reboot_summary">Hierdie sagtewarebywerking sal die stelsel outomaties laat herselflaai nadat die installering klaar is.Wil jy nou installeer?</string>
+    <string name="prepare_to_reboot">Gaan binnekort herselflaai</string>
+    <string name="prepare_to_reboot_summary">Geïnstalleerde sagteware moet die toestel laat herselflaai om instellings op te stel.Ons stel jy herselflaai nou, maar jy kan ook later herselflaai.</string>
+    <string name="prepare_to_reboot_force_summary">Geïnstalleerde sagteware moet die toestel laat herselflaai om instellings op te stel.Ons stel voor jy herselflaai nou.</string>
+    <string name="reboot_fail">Herselflaai het misluk</string>
+    <string name="reboot_fail_summary">Kan nie herselflaai nie weens ontbrekende API.Herselflaai asseblief handmatig.</string>
+    <string name="apk_no_avaliable_size">Kan nie aflaai nie want interne berging is nie groot genoeg nie.</string>
+    <string name="update_finished">Bywerking is klaar</string>
+    <string name="msg_root_warning">Jou toestel is gewortel of daar is met die amptelike sagteware gepeuter.As jy met die stelselbywerking voortgaan, kan dit die stelsel onstabiel maak of laat omval, en kan moontlik jou toestel se waarborg kanselleer.Is jy seker jy wil voortgaan?</string>
+    <string name="multi_image_update">"Daar is 'n aantal spieëllêerbywerkings beskikbaar"</string>
+    <string name="available_update_list">Lys beskikbare bywerkings</string>
+    <string name="downloading_summary">Kanselleer asseblief die spieëllêer se aflaai</string>
+    <string name="msg_erase_userdata_warning">Hierdie bywerking moet gebruikerdata uitvee.Wil jy voortgaan?</string>
+    <string name="msg_autoupdate_date_fee_warning">As jy outobywerking aktiveer, kan dit geld kos!</string>
+    <string name="invalid_update">Die bywerking is ongeldig.</string>
+    <string name="file_corrupted">Stelsel kan nie opgegradeer word nie want die lêer is beskadig.</string>
+    <string name="ask_for_apk_check">Wil jy vir programbywerkings kontroleer?</string>
+    <string name="update_ota_self">Sagtewarebywerking is besig.</string>
+    <string name="ab_update_fail">Installeringprobleem.</string>
+    <string name="ab_update_wrong_status">Die bywerkenjin is tans besig.Probeer asseblief later weer, of herselflaai.</string>
+    <string name="ab_update_installing">Werk tans stelsel by</string>
+    <string name="tag_engineer_mode">Ingenieursmodus</string>
+    <string name="engineer_version_incorrect">Jou toestelweergawe is verkeerd</string>
+    <string name="msg_engineer_ota_restore">Druk om die amptelike weergawe terug te laai</string>
+    <string name="msg_engineer_ota_restore_warning">Dit sal die amptelike weergawe teruglaai.Wil jy voortgaan?</string>
+    <string name="silent_mode_data_fee_warning">Bywerking is beskikbaar.As jy bywerkings aflaai, kan dit geld kos!Laai bywerkings via Wi-Fi af indien moontlik.</string>
+    <string name="msg_updating_system">Werk tans stelsel by...</string>
+    <string name="msg_tap_to_reboot">Druk om te herselflaai</string>
+    <string name="msg_pause_download">Laat wag aflaai</string>
+    <string name="notification_channel_name">Stelselbywerking</string>
+    <string name="notification_channel_alert_name">Algemene kennisgewings</string>
+</resources>

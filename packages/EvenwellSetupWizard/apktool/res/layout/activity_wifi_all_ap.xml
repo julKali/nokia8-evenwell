@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/setupwizard_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:textDirection="ltr" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/viewStatusBar" android:background="@color/status_bar" android:layout_width="fill_parent" android:layout_height="@dimen/status_bar_height" />
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0px" android:layout_marginBottom="7.0dip" android:layout_weight="1.0">
+        <fragment android:name="com.fihtdc.setupwizard.wifisetting.AllWifiPreferenceFragement" android:id="@id/viewer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </RelativeLayout>
+    <include layout="@layout/setupwizard_footer_only_skip" />
+</LinearLayout>

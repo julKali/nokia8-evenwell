@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Pristupačnost</string>
+    <string name="account_intro_description">Pametniji način korištenja uređaja pridruživanjem uslugama [BRAND_NAME].</string>
+    <string name="account_intro_title">[BRAND_NAME] račun usluge</string>
+    <string name="add_baidu_button_label">Prijavite se na Baidu Yun</string>
+    <string name="add_infocus_service_account">Dodaj [BRAND_NAME] račun usluge</string>
+    <string name="available_via_passpoint">Dostupno putem %1$s</string>
+    <string name="back_btn_lebel">NAZAD</string>
+    <string name="backup_and_restore_description">"Ako ste prethodno kreirali sigurnosnu kopiju računa, možete je sada obnoviti na telefon.
+
+Možete promijeniti postavke sigurnosne kopije u svakom trenutku u postavkama."</string>
+    <string name="backup_and_restore_title">Napravi kopiju i vrati</string>
+    <string name="baidu_intro_description">Uživajte u besprijekornoj integraciji pohrana na oblaku s uslugom Baidu Yun dovršavanjem nekoliko jednostavnih koraka.</string>
+    <string name="baidu_intro_title">Pohrana na oblaku za Baidu</string>
+    <string name="baidu_progress_dialog_des">Pričekajte...</string>
+    <string name="connected_via_passpoint">Povezano putem %1$s</string>
+    <string name="connected_via_wfa">Povezano putem Wi‑Fi pomoćnika</string>
+    <string name="datausage_dialog_negitive_btn">Otkaži</string>
+    <string name="datausage_dialog_positive_btn">U redu</string>
+    <string name="date_and_time">Postavke datuma i vremena</string>
+    <string name="date_and_time_settings_title">Datum i vrijeme</string>
+    <string name="date_time_24hour">Koristi 24-satni format</string>
+    <string name="date_time_auto">Automatski datum i vrijeme</string>
+    <string name="date_time_auto_summaryOff">Koristi vrijeme koje definira mreža</string>
+    <string name="date_time_auto_summaryOn">Koristi vrijeme koje definira mreža</string>
+    <string name="date_time_set_date">Postavljanje datuma</string>
+    <string name="date_time_set_time">Postavljanje vremena</string>
+    <string name="date_time_set_timezone">Odaberi vremensku zonu</string>
+    <string name="device_checking_message">Dobrodošli</string>
+    <string name="dropbox_fih_description">Ostvarite 2 GB slobodnog Dropbox radi automatske pohrane fotografija i video zapisa.</string>
+    <string name="dropbox_fih_signin">Upišite se sa Dropbox</string>
+    <string name="dropbox_fih_signup">Registriraj se na Dropbox</string>
+    <string name="emergency_dial_hmd_message">Hitni slučaj</string>
+    <string name="emergency_dial_message">Hitni poziv</string>
+    <string name="finish_button_label">KRAJ</string>
+    <string name="google_account_add_account">Upišite se preko Googlea</string>
+    <string name="google_account_intro_description">Postavite Google račun da biste uživali u Google uslugama.</string>
+    <string name="google_account_intro_title">Google račun</string>
+    <string name="hmd_user_experience_program_message">Vaše učešće u programu za korisnički doživljaj pomaže kompaniji HMD Global da bolje shvati ono što vam se sviđa kod Nokia uređaja, kao i to šta mislite da je potrebno poboljšati. S vremena na vrijeme, moguće je da primimo anonimne podatke s tehničkim karakteristikama o vašem uređaju, kao što je na primjer datoteka s podacima o padu softvera koji se možda desio. Imajte na umu da takve podatke nećemo prenositi putem mobilne veze. Drago nam je da čujemo od vas šta mislite o svom Nokia uređaju!</string>
+    <string name="hmd_user_experience_program_title">Program korisničkog doživljaja</string>
+    <string name="idle_too_long_toast">Ovaj telefon je neaktivan neko vrijeme. Isključite ga sada da sačuvate energiju.</string>
+    <string name="language_selection_cancel_btn">OTKAŽI</string>
+    <string name="language_selection_title">Odaberite svoj jezik</string>
+    <string name="link_speed">%1$d Mb/s</string>
+    <string name="location_for_service">Koristi Moju lokaciju za rezultate Google pretrage i druge Google usluge.</string>
+    <string name="location_info_1">Googleova usluga lociranja omogućava aplikacijama informacije o vašoj približnoj lokaciji bez korištenja GPS-a.</string>
+    <string name="location_info_2">Možete onemogućiti ove funkcije u Postavkama, u opciji usluge za lokaciju.</string>
+    <string name="location_network">Dopustite Googleovoj usluzi lociranja da prikuplja anonimne podatke o lokaciji. Prikupljanje će se dogoditi čak i kada nijedna aplikacija ne radi.</string>
+    <string name="location_title">Koristi Google lokaciju</string>
+    <string name="nevigation_selection_back">Nazad</string>
+    <string name="nevigation_selection_home">Početna stranica</string>
+    <string name="nevigation_selection_recent">Nedavno</string>
+    <string name="nevigation_selection_text">Možete promijeniti položaj i pozadinsku boju za tipke Nazad / Zadnje korišteno.</string>
+    <string name="nevigation_selection_title">Prikaz multifunkcijske tipke</string>
+    <string name="next_btn_lebel">SLJEDEĆI</string>
+    <string name="not_now">NE SADA...</string>
+    <string name="passpoint_content">%1$s akreditivi</string>
+    <string name="passpoint_label">Sačuvano pomoću</string>
+    <string name="please_select_phase2">Provjera vjerodostojnosti Faza 2</string>
+    <string name="proxy_error_empty_host_set_port">Adresno polje mora biti prazno ako je server polje prazno.</string>
+    <string name="proxy_error_empty_port">Morate popuniti adresno polje</string>
+    <string name="proxy_error_invalid_exclusion_list">Spisak izuzetaka koje ste unijeli nije ispravno formatiran. Unesite spisak izuzetih domena odvojenih zarezima.</string>
+    <string name="proxy_error_invalid_port">Uneseni port nije važeći.</string>
+    <string name="proxy_exclusionlist_label">Zaobilazni proksi za</string>
+    <string name="proxy_hostname_label">Proksi hostname</string>
+    <string name="proxy_port_label">Priključak za proksi</string>
+    <string name="proxy_settings_title">Proksi</string>
+    <string name="proxy_url_title">"URL za PAC: "</string>
+    <string name="proxy_warning_limited_support">Preglednik koristi HTTP proksi, ali je moguće da ga ne koriste druge aplikacije.</string>
+    <string name="saved_network">Sačuvala osoba %1$s</string>
+    <string name="select_sim_card">Odaberite SIM karticu</string>
+    <string name="setup_complete_hmd">Spremni ste da krenete...</string>
+    <string name="setup_complete_hmd_1">Skoro ste spremni za pokret...!</string>
+    <string name="setup_complete_main">Vi ste</string>
+    <string name="setup_complete_sub">SPREMNI ZA POLAZAK.</string>
+    <string name="setup_completed_congratulations">Čestitamo!</string>
+    <string name="setup_finish">IDEMO</string>
+    <string name="sim_editor_title">Utor za SIM %1$d</string>
+    <string name="sim_not_exist_toast">Provjerite da li ste umetnuli SIM karticu.</string>
+    <string name="skip_add_account_button_label">Ne sada</string>
+    <string name="skip_button_label">Preskoči</string>
+    <string name="term_agree_text">Pristajem</string>
+    <string name="term_disagree_text">Ne slažem se</string>
+    <string name="terms_of_service_description">"
+Mogu nastati dodatni troškovi prijenosa mobilnih podataka ako koristite usluge koje zahtijevaju internetsku vezu, kao što su usluge vremenske prognoze, internetske usluge, e-pošta, pretraživanje i slično. Za efikasnije upravljanje prijenosom mobilnih podataka, predlažemo vam da se prijavite na odgovarajući paket mobilnih usluga kod svog operatera.
+
+Odabirom prihvatanja, dozvoljavate ovim uslugama povezivanje na mrežu kada je to potrebno.
+
+Pored toga je omogućeno automatsko ažuriranje softvera po zadanoj vrijednosti. Ostvarivanje najnovijih iskustava u korištenju softvera može uzrokovati potrošnju mobilnih podataka. Kasnije možete promijeniti opciju u postavkama.
+
+"</string>
+    <string name="terms_title">Korištenje podataka</string>
+    <string name="traffic_prompt_content">Ako ne prihvatite uslugu, morat ćete ručno preuzimati ažuriranja softvera, vremensku prognozu i druge informacije.</string>
+    <string name="upload_agent_des_text">"Pridružite se programu korisničkog doživljaja. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Saznajte više&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Pridružite se programu Korisnički doživljaj kompanije Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Saznajte više.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"Dodirom na \"IDEMO\", prihvatate pridruživanje Programu korisničkog doživljaja. &lt;a href='launch.UserExperienceActivity://Kode'>Saznajte više&lt;/a>. Podsjećamo vas da se i kasnije možete pridružiti putem postavki."</string>
+    <string name="upload_agent_title">Program korisnički doživljaj</string>
+    <string name="welcome_hmd_term_of_use_2">"Dodirom na strelicu, saglasni ste sa &lt;a href='launch.TermOfServiceActivity://Kode'>Uslovima usluge&lt;/a> i &lt;a href='launch.AddUploadAgentHandler://Kode'>Politikom privatnosti&lt;/a>. Informacije o aktivaciji uređaja s jednokratnom lokacijom uređaja će biti poslane kompaniji HMD Global. Moguća je naplata za podatkovni promet."</string>
+    <string name="welcome_hmd_term_of_use_4">"Dodirom na tipku, saglasni ste sa &lt;a href='launch.TermOfServiceActivity://Kode'>Uslovima usluge&lt;/a> i &lt;a href='launch.AddUploadAgentHandler://Kode'>Politikom privatnosti&lt;/a>. Informacije o aktivaciji uređaja s privremenom lokacijom uređaja će biti poslane kompaniji HMD Global.&lt;br/>&lt;br/>Obavještenja o automatskom ažuriranju softvera će biti omogućena što će instalirati najnovija ažuriranja za vas. Ovo može uzrokovati korištenje manje količine podataka. Ove usluge će pristupiti internetu kad god je potrebno.&lt;br/>&lt;br/>Ove usluge će uzrokovati dodatne troškove kada pristupaju mobilnim mrežama."</string>
+    <string name="welcome_hmd_term_of_use_5">"Dodirom na dugme prihvatate &lt;a href='launch.TermOfServiceActivity://Kode'>Uslove usluge&lt;/a>. Informacije o aktivaciji uređaja s jednokratnom lokacijom uređaja će biti poslane kompaniji HMD Global. Moguća je naplata za podatkovni promet. Podaci će se koristiti u skladu s &lt;a href='launch.AddUploadAgentHandler://Kode'>Pravilima privatnosti&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"Dodirom na strelicu, prihvatate&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Uslove usluge&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Idemo</string>
+    <string name="welcome_message">Dobrodošli</string>
+    <string name="welcome_start_button_label">START</string>
+    <string name="welcome_vision_settings_button_label">Postavke za vid</string>
+    <string name="wifi_add_network">Dodaj mrežu</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Padajući spisak Naprednih opcija. Dvaput dodirnite za proširivanje.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Padajući spisak Naprednih opcija. Dvaput dodirnite za sužavanje.</string>
+    <string name="wifi_and_mobile_skipped_message">"Povezivanje na mrežu pomaže u brzom postavljanju telefona.
+
+Bez internetske veze ne možete:
+
+"<li>izvršiti prijavu na račun na oblaku</li>"
+
+"<li>primiti ažuriranja softvera</li>"
+
+"<li>automatski postaviti vrijeme i datum</li></string>
+    <string name="wifi_auth_password_wrong">Lozinka je možda netačna</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Otkaži</string>
+    <string name="wifi_certificate">Certifikat</string>
+    <string name="wifi_connect">Poveži se</string>
+    <string name="wifi_connected_no_internet">Povezano, ali nema interneta</string>
+    <string name="wifi_disabled_generic">Onemogućeno</string>
+    <string name="wifi_disabled_network_failure">Neuspješna konfiguracija IP adrese</string>
+    <string name="wifi_disabled_password_failure">Problem s provjerom vjerodostojnosti</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Ne navodi</string>
+    <string name="wifi_do_not_validate_eap_server">Ne potvrđuj valjanost</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nije određen certifikat. Veza neće biti privatna.</string>
+    <string name="wifi_dont_skip">IDI NAZAD</string>
+    <string name="wifi_eap_anonymous">Anonimni identitet</string>
+    <string name="wifi_eap_ca_cert">CA certifikat</string>
+    <string name="wifi_eap_domain">Domena</string>
+    <string name="wifi_eap_identity">Identitet</string>
+    <string name="wifi_eap_method">EAP način</string>
+    <string name="wifi_eap_user_cert">Korisnički certifikat</string>
+    <string name="wifi_fail_to_scan">Ne mogu se skenirati mreže</string>
+    <string name="wifi_failed_connect_message">Povezivanje na mrežu nije uspjelo</string>
+    <string name="wifi_failed_forget_message">Zaboravljanje mreže nije uspjelo</string>
+    <string name="wifi_failed_save_message">Čuvanje mreže nije uspjelo</string>
+    <string name="wifi_forget">Zaboravi</string>
+    <string name="wifi_frequency">Frekvencija</string>
+    <string name="wifi_gateway">Pristupnik</string>
+    <string name="wifi_ip_address">IP adresa</string>
+    <string name="wifi_ip_settings">IP postavke</string>
+    <string name="wifi_ip_settings_invalid_dns">Unesite važeću DNS adresu.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Unesite važeću adresu pristupne tačke.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Unesite važeću IP adresu.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Unesite dužinu mrežnog prefiksa između 0 i 32.</string>
+    <string name="wifi_multiple_cert_added">(dodano je više certifikata)</string>
+    <string name="wifi_network_prefix_length">Dužina prefiksa mreže</string>
+    <string name="wifi_no_domain_warning">Morate navesti domenu.</string>
+    <string name="wifi_no_internet">Nema pristupa internetu</string>
+    <string name="wifi_no_internet_no_reconnect">Automatsko povezivanje nije moguće</string>
+    <string name="wifi_not_in_range">Nije u dometu</string>
+    <string name="wifi_password">Lozinka</string>
+    <string name="wifi_picker_connection_des_text">Onemogućavanje WLAN mreže može uzrokovati troškove pri potvrđivanju softvera putem mobilne mreže.</string>
+    <string name="wifi_picker_connection_negative_prc">Poveži WLAN</string>
+    <string name="wifi_picker_connection_positive">U redu</string>
+    <string name="wifi_picker_connection_title">Mrežna veza</string>
+    <string name="wifi_picker_warning_des_text">Dok ne budete imali internetsku vezu, telefon neće moći potvrditi da li je softver ažuran.</string>
+    <string name="wifi_picker_warning_negative">Ipak preskoči</string>
+    <string name="wifi_picker_warning_positive">Nemoj preskočiti</string>
+    <string name="wifi_picker_warning_title">Upozorenje</string>
+    <string name="wifi_remembered">Sačuvano</string>
+    <string name="wifi_save">Snimi</string>
+    <string name="wifi_security">Zaštita</string>
+    <string name="wifi_security_none">Ništa</string>
+    <string name="wifi_setting_title">Poveži se</string>
+    <string name="wifi_shared">Podijeli s ostalim korisnicima uređaja</string>
+    <string name="wifi_show_advanced">Napredne opcije</string>
+    <string name="wifi_show_password">Prikaži lozinku</string>
+    <string name="wifi_signal">Jačina signala</string>
+    <string name="wifi_skip_anyway">IPAK PRESKOČI</string>
+    <string name="wifi_speed">Brzina veze</string>
+    <string name="wifi_ssid">Naziv mreže</string>
+    <string name="wifi_ssid_hint">Unesite SSID</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_unchanged">(nepromijenjeno)</string>
+    <string name="wifi_unspecified">Izaberite</string>
+    <string name="wifi_use_system_certs">Upotreba certifikata sistema</string>
+    <string name="zone_auto">Automatska vremenska zona</string>
+    <string name="zone_auto_summaryOff">Koristi vrijeme koje definira mreža</string>
+    <string name="zone_auto_summaryOn">Koristi vrijeme koje definira mreža</string>
+    <string name="sugarsync_intro_description">Uživajte u besprijekornoj integraciji pohrane na oblaku s uslugom SugarSync dovršavanjem nekoliko jednostavnih koraka.</string>
+</resources>

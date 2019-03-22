@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">SMS-i teenuskeskuse seadmine OK</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Hädaabikõne</string>
+    <string name="fih_battery_protect_low_temp_title">Märguanne</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Tühista</string>
+    <string name="fih_battery_protect_power_off">Lülita välja</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Üldised teatised</string>
+    <string name="fih_battery_protect_ok_wear">SMS-i teenuskeskuse seadmine OK</string>
+    <string name="fih_battery_protect_cancel_wear">Tühista</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Kasutage originaalakut</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Laadimine on seiskunud</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Kasutage originaalakut laadimiseks või võite seadmele põhjustada püsivat/füüsilist kahju.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Aku on kehtetu</string>
+    <string name="fih_battery_protect_notification_cooling_down">Mahajahutamine</string>
+    <string name="fih_battery_protect_tap_learn_more">Puudutage lisateabe saamiseks.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefon muutub kuumaks ja võtab seetõttu mahajahutamiseks kasutusele meetmeid. Seda saab endiselt kasutada, ent võite märgata järgmist.
+·Laadimine võib peatuda.
+·WiFi võib olla välja lülitatud.
+·Rakendused võivad olla suletud.
+·Lennukirežiim võib olla sisse lülitatud.
+Telefon naaseb maha jahtudes tavarežiimile."</string>
+</resources>

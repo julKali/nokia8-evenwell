@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Kebolehaksesan</string>
+    <string name="available_via_passpoint">Tersedia melalui %1$s</string>
+    <string name="choose_timezone">Pilih zon masa</string>
+    <string name="connected_via_passpoint">Disambungkan melalui %1$s</string>
+    <string name="connected_via_wfa">Disambungan melalui pembantu Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Batal</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Tetapan tarikh &amp; masa</string>
+    <string name="date_and_time_settings_summary">Tetapkan tarikh, masa, zon masa, &amp; format</string>
+    <string name="date_and_time_settings_title_setup_wizard">Tetapkan tarikh dan masa</string>
+    <string name="date_picker_title">Tarikh:</string>
+    <string name="date_time_24hour">Gunakan format 24 jam</string>
+    <string name="date_time_auto">Tarikh &amp; masa automatik</string>
+    <string name="date_time_auto_summaryOff">Gunakan waktu yang disediakan rangkaian</string>
+    <string name="date_time_auto_summaryOn">Gunakan waktu yang disediakan rangkaian</string>
+    <string name="date_time_date_format">Pilih format tarikh</string>
+    <string name="date_time_set_date">Tetapkan tarikh</string>
+    <string name="date_time_set_time">Tetapkan masa</string>
+    <string name="date_time_set_timezone">Pilih zon waktu</string>
+    <string name="device_checking_message">Selamat datang</string>
+    <string name="emergency_dial_message">Panggilan kecemasan</string>
+    <string name="google_account_add_account">Log masuk dengan Google</string>
+    <string name="hmd_user_experience_program_message">Penyertaan anda dalam program pengalaman pengguna akan membantu HMD Global lebih memahami aspek yang anda suka tentang peranti Nokia anda dan ciri untuk ditambah baik. Dari semasa ke semasa, kami mungkin menerima data tanpa nama dengan ciri teknikal tentang peranti anda, seperti fail dengan data tentang ranap perisian yang mungkin telah berlaku. Sila ambil maklum bahawa data tersebut tidak akan dihantar melalui sambungan selular. Kami ingin mendengar maklum balas tentang pandangan anda terhadap peranti Nokia anda!</string>
+    <string name="hmd_user_experience_program_title">Program pengalaman pengguna</string>
+    <string name="insert_sim_cards">Masukkan kad SIM</string>
+    <string name="insert_sim_cards_prompt_content">"Tidak pasti caranya? Semak arahan yang disertakan dengan telefon anda.
+
+Setelah memasukkan kad SIM anda, masa selama beberapa saat diperlukan untuk mengaktifkannya."</string>
+    <string name="language_selection_cancel_btn">BATAL</string>
+    <string name="language_selection_title">Pilih bahasa anda</string>
+    <string name="light_room_description">%1$s menyokong tangkapan imej RAW (DNG). Anda boleh mengedit terus pada telefon pintar baru anda hasil kerjasama kita dengan Adobe.&lt;br/>&lt;br/>Muat turun Adobe Photoshop Lightroom CC daripada gedung Google Play sekarang.</string>
+    <string name="light_room_title">Meminat fotografi?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="nevigation_selection_back">Undur</string>
+    <string name="nevigation_selection_home">Tempatan</string>
+    <string name="nevigation_selection_recent">Terbaru</string>
+    <string name="next_btn_lebel">SETERUSNYA</string>
+    <string name="normal_date_format">Wilayah (%s)</string>
+    <string name="not_now">BUKAN SEKARANG…</string>
+    <string name="passpoint_content">Kelayakan %1$s</string>
+    <string name="passpoint_label">Disimpan melalui</string>
+    <string name="please_select_phase2">Pengesahan fasa 2</string>
+    <string name="proxy_error_empty_host_set_port">Medan port hendaklah kosong jika medan hos kosong.</string>
+    <string name="proxy_error_empty_port">Anda perlu melengkapkan medan port.</string>
+    <string name="proxy_error_invalid_exclusion_list">Senarai pengecualian yang anda taipkan tidak diformatkan dengan betul. Taipkan senarai dipisahkan koma dengan domain yang dikecualikan.</string>
+    <string name="proxy_error_invalid_port">Port yang anda taipkan tidak sah.</string>
+    <string name="proxy_exclusionlist_label">Pintas proksi untuk</string>
+    <string name="proxy_hostname_label">Nama hos proksi</string>
+    <string name="proxy_port_label">Port proksi</string>
+    <string name="proxy_settings_title">Proksi</string>
+    <string name="proxy_url_title">"URL PAC: "</string>
+    <string name="proxy_warning_limited_support">Proksi HTTP digunakan oleh pelayar tetapi tidak boleh digunakan oleh aplikasi lain.</string>
+    <string name="saved_network">Dsimpan oleh %1$s</string>
+    <string name="select_sim_card">Pilih kad SIM</string>
+    <string name="setup_complete_hmd_1">Anda sudah bersedia...!</string>
+    <string name="setup_completed_congratulations">Tahniah!</string>
+    <string name="setup_finish">AYUH</string>
+    <string name="sim_editor_title">Slot SIM %1$d</string>
+    <string name="skip_add_account_button_label">Bukan sekarang</string>
+    <string name="skip_button_label">Langkau</string>
+    <string name="term_agree_text">Setuju</string>
+    <string name="term_disagree_text">Tidak bersetuju</string>
+    <string name="time_picker_title">Masa</string>
+    <string name="upload_agent_des_text">"Sertai prgm pengalaman pngna. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Kthui lagi&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Sertai program Pengalaman Pengguna Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Ketahui lebih lanjut.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"Dengan mengetik \"AYUH\", anda bersetuju untuk menyertai Program Pengalaman Pengguna. &lt;a href='launch.UserExperienceActivity://Kode'>Ketahui lebih lanjut&lt;/a>. Ingat, anda sentiasa boleh menyertai kemudian melalui Tetapan."</string>
+    <string name="welcome_hmd_term_of_use_2">"Dengan mengetik anak panah, anda bersetuju dengan &lt;a href='launch.TermOfServiceActivity://Kode'>Syarat Perkhidmatan&lt;/a> dan &lt;a href='launch.AddUploadAgentHandler://Kode'>Polisi Privasi&lt;/a>. Maklumat pengaktifan peranti dengan lokasi peranti sekali akan dihantar kepada HMD Global. Caj data mungkin dikenakan."</string>
+    <string name="welcome_hmd_term_of_use_4">"Dengan mengetik butang, anda bersetuju dengan &lt;a href='launch.TermOfServiceActivity://Kode'>Syarat Perkhidmatan&lt;/a> dan &lt;a href='launch.AddUploadAgentHandler://Kode'>Dasar Privasi&lt;/a>. Maklumat pengaktifan peranti dengan lokasi peranti satu kali akan dihantar kepada HMD Global.&lt;br/>&lt;br/>Pemberitahuan Kemas Kini Perisian Automatik akan didayakan yang memasang kemas kini terkini untuk anda. Ini mungkin menggunakan sebahagian kecil peruntukkan data anda. Perkhidmatan akan mengakses Internet pada bila-bila masa diperlukan.&lt;br/>&lt;br/>Perkhidmatan ini akan membawa kos lebihan pada anda apabila ia mengakses rangkaian selular."</string>
+    <string name="welcome_hmd_term_of_use_5">"Dengan mengetik butang, anda bersetuju dengan &lt;a href='launch.TermOfServiceActivity://Kode'>Syarat Perkhidmatan&lt;/a>. Maklumat pengaktifan peranti dengan lokasi peranti sekali akan dihantar kepada HMD Global. Caj data mungkin dikenakan. Data akan digunakan berpandukan &lt;a href='launch.AddUploadAgentHandler://Kode'>Dasar Privasi&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"Dgn ktk anak panah, anda stj dgn&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Terma Guna&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Ayuh</string>
+    <string name="welcome_message">Selamat datang</string>
+    <string name="welcome_start_button_label">MULA</string>
+    <string name="welcome_vision_settings_button_label">Tetapan Visi</string>
+    <string name="wifi_add_network">Tambahkan rangkaian</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Pilihan Lanjutan senarai lungsur. Dwi ketik untuk kembangkan.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Pilihan Lanjutan senarai lungsur. Dwi ketik untuk meruntuhkan.</string>
+    <string name="wifi_and_mobile_skipped_message">"Bersambung ke rangkaian membantu anda menyediakan telefon anda dengan cepat.
+
+Tanpa sambungan, anda tidak boleh:
+
+"<li>Daftar masuk ke akaun Awan anda</li>"
+
+"<li>Dapatkan kemas kini perisian</li>"
+
+"<li>Sediakan masa dan tarikh secara automatik</li></string>
+    <string name="wifi_auth_password_wrong">Kata laluan mungkin salah</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Batal</string>
+    <string name="wifi_certificate">Sijil</string>
+    <string name="wifi_connect">Sambung</string>
+    <string name="wifi_connected_no_internet">Disambungkan, tiada Internet</string>
+    <string name="wifi_disabled_generic">Dilumpuhkan</string>
+    <string name="wifi_disabled_network_failure">Kegagalan konfigurasi IP</string>
+    <string name="wifi_disabled_password_failure">Masalah pengesahan</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Jangan beri</string>
+    <string name="wifi_do_not_validate_eap_server">Jangan sahkan</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Tiada sijil dinyatakan. Sambungan anda tidak peribadi.</string>
+    <string name="wifi_dont_skip">KEMBALI</string>
+    <string name="wifi_eap_anonymous">Identiti tidak sah</string>
+    <string name="wifi_eap_ca_cert">Sijil CA</string>
+    <string name="wifi_eap_domain">Domain</string>
+    <string name="wifi_eap_identity">Identiti</string>
+    <string name="wifi_eap_method">Kaedah EAP</string>
+    <string name="wifi_eap_user_cert">Sijil pengguna</string>
+    <string name="wifi_fail_to_scan">Tidak dapat mengimbas rangkaian</string>
+    <string name="wifi_failed_connect_message">Gagal bersambung ke rangkaian</string>
+    <string name="wifi_failed_forget_message">Gagal melupakan rangkaian</string>
+    <string name="wifi_failed_save_message">Gagal menyimpan rangkaian</string>
+    <string name="wifi_forget">Lupakan</string>
+    <string name="wifi_frequency">Kekerapan</string>
+    <string name="wifi_gateway">Get laluan</string>
+    <string name="wifi_ip_address">Alamat IP</string>
+    <string name="wifi_ip_settings">Tetapan IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Taipkan alamat DNS yang sah.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Taipkan alamat get laluan yang sah.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Taipkan alamat IP yang sah.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Taipkan panjang awalan rangkaian antara 0 dan 32.</string>
+    <string name="wifi_multiple_cert_added">(Berbilang sijil ditambah)</string>
+    <string name="wifi_network_prefix_length">Panjang awalan rangkaian</string>
+    <string name="wifi_no_domain_warning">Mesti nyatakan domain.</string>
+    <string name="wifi_no_internet">Tiada akses Internet</string>
+    <string name="wifi_no_internet_no_reconnect">Tidak akan bersambung secara automatik</string>
+    <string name="wifi_not_in_range">Tidak dalam liputan</string>
+    <string name="wifi_password">Kata laluan</string>
+    <string name="wifi_picker_connection_negative">Sambungkan</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_warning_negative">Langkau juga</string>
+    <string name="wifi_picker_warning_title">Peringatan</string>
+    <string name="wifi_remembered">Disimpan</string>
+    <string name="wifi_save">Simpan</string>
+    <string name="wifi_security">Keselamatan</string>
+    <string name="wifi_security_none">Tiada</string>
+    <string name="wifi_setting_title">Sambungkan</string>
+    <string name="wifi_shared">Kongsi dengan pengguna peranti lain</string>
+    <string name="wifi_show_advanced">Pilihan lanjutan</string>
+    <string name="wifi_show_password">Tunjukkan kata laluan</string>
+    <string name="wifi_signal">Kekuatan isyarat</string>
+    <string name="wifi_skip_anyway">LANGKAU SAHAJA</string>
+    <string name="wifi_speed">Kelajuan pautan</string>
+    <string name="wifi_ssid">Nama rangkaian</string>
+    <string name="wifi_ssid_hint">Masukkan SSID</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_unchanged">(tidak berubah)</string>
+    <string name="wifi_unspecified">Sila pilih</string>
+    <string name="wifi_use_system_certs">Gunakan sijil sistem</string>
+    <string name="zone_auto">Zon waktu automatik</string>
+    <string name="zone_auto_summaryOff">Gunakan zon waktu yang diberikan oleh rangkaian</string>
+    <string name="zone_auto_summaryOn">Gunakan zon waktu yang diberikan oleh rangkaian</string>
+</resources>

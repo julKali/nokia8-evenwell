@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ΑΚΥΡΩΣΗ</string>
+    <string name="DONE">Τέλος</string>
+    <string name="NEXT">ΕΠΟΜΕΝΟ</string>
+    <string name="OK">ΟΚ</string>
+    <string name="PREVIOUS">ΠΡΟΗΓΟΥΜΕΝΟ</string>
+    <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">διάστημα</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="alert_empty_desc">Προσθέστε την περιγραφή σας!</string>
+    <string name="alert_warning_title">Συμβουλές</string>
+    <string name="enter_comments">Εισαγωγή σχολίων (1.000 χαρακτήρες)</string>
+    <string name="extremely_likely">(Εξαιρετικά πιθανό)</string>
+    <string name="feedback">Σχόλια</string>
+    <string name="helps_us_improve_our_products">Τα σχόλιά σας μας βοηθούν να βελτιώσουμε τα προϊόντα μας!</string>
+    <string name="intro_title">Πόσο πιθανό είναι να συστήσετε αυτό το τηλέφωνο σε ένα φίλο ή συνάδελφο;</string>
+    <string name="msg_send_after">Το μήνυμα θα αποσταλεί αυτόματα όταν η συσκευή θα είναι συνδεδεμένη. Ευχαριστούμε για την απάντησή σας.</string>
+    <string name="msg_send_fail">Αποτυχία αποστολής. Το μήνυμα θα αποσταλεί αυτόματα όταν η συσκευή θα είναι συνδεδεμένη. Ευχαριστούμε για την απάντησή σας.</string>
+    <string name="no_ask_feedback_again_text">Να μην εμφανιστεί ξανά</string>
+    <string name="no_showagain_text">Να μην εμφανιστεί ξανά</string>
+    <string name="not_at_all_likely">(Καθόλου πιθανό)</string>
+    <string name="privacy_context_wifi">"Αγαπητοί χρήστες, 
+
+Καλώς ήρθατε στο λογισμικό-πελάτη πληροφοριών ανάδρασης. Διαβάστε προσεκτικά και κατανοήστε καλά τους όρους υπηρεσίας, προτού χρησιμοποιήσετε αυτό το προϊόν. Πατώντας「Συμφωνώ」, σημαίνει ότι έχετε κατανοήσει καλά τα προνόμια που σας παρέχει αυτό το λογισμικό και αποδέχεστε τη χρήση του. Εάν ΔΕΝ συμφωνείτε με αυτούς τους όρους, πατήστε「Έξοδος」. Για την παροχή ολοκληρωμένων υπηρεσιών, η εφαρμογή απαιτεί τα ακόλουθα δικαιώματα: 
+1. Πρόσβαση στο Internet και σε δίκτυα WLAN, για αποστολή πληροφοριών ανάδρασης 
+2. Εισαγωγή πληροφοριών IMEI, PSN και MNC\\MCC, για αυτόματη λήψη βασικών πληροφοριών τηλεφώνου"</string>
+    <string name="search_menu_title">Αναζήτηση</string>
+    <string name="select_a_value">Επιλέξτε τιμή</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Συμφωνώ</string>
+    <string name="str_leave">Έξοδος</string>
+    <string name="submit_fail">Αποτυχία υποβολής</string>
+    <string name="submit_success">Ευχαριστούμε για την απάντησή σας</string>
+    <string name="thank_your_feedback">Ευχαριστούμε για τα σχόλιά σας!</string>
+    <string name="we_appreciate_your_help">Εκτιμούμε το ότι μας βοηθάτε να κάνουμε τα προϊόντα Nokia τα καλύτερα στον κόσμο.</string>
+    <string name="we_hope_enjoying_nokia_device">Ελπίζουμε να απολαμβάνετε τη συσκευή σας Nokia. Τα σχόλιά σας είναι πολύ σημαντικά για εμάς.</string>
+    <string name="we_will_contact_you_again">Θα επικοινωνήσουμε ξανά μαζί σας στο μέλλον.</string>
+    <string name="we_will_contact_you_again_enjoy">Θα επικοινωνήσουμε ξανά μαζί σας στο μέλλον. Καλή διασκέδαση με τη νέα σας συσκευή Nokia!</string>
+    <string name="why_you_gave_this_score">Πείτε μας γιατί δώσατε αυτήν τη βαθμολογία:</string>
+</resources>

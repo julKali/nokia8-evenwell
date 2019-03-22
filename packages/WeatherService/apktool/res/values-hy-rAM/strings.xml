@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_ok">Լավ</string>
+    <string name="fih_weather_button_setting">\"Կարգավորումներ\"</string>
+    <string name="fih_weather_notification_text">Տոփեք՝ թույլ տալու համար</string>
+    <string name="fih_weather_notification_title">\"Եղանակի տեսության ծառայությանն անհրաժեշտ են թույլտվություններ\"</string>
+    <string name="fih_weather_permission_failed">\"Թույլտվությունը մերժվեց, տեղորոշումը հասանելի չէ։\"</string>
+    <string name="fih_weather_permission_hint_1">Այս հավելվածի պատշաճ աշխատանքի համար պահանջվում է լրացուցիչ թույլտվություն: Տվեք թույլտվությունը, երբ առաջարկվի:</string>
+    <string name="fih_weather_permission_hint_2">\"Այս հավելվածի պատշաճ աշխատանքի համար պահանջվում են լրացուցիչ թույլտվություններ: Խնդրում ենք կառավարել Եղանակի տեսության ծառայության թույլտվությունները Կարգավորումներում:\"</string>
+    <string name="fih_weather_permission_success">\"Տեղորոշումը թույլատրվեց\"</string>
+    <string name="fih_weather_service_title_txt">Եղանակի տեսության ծառայություն</string>
+</resources>

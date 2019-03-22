@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">Fechar canal</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">Configuração</string>
+    <string name="fih_weather_notification_channel_title">Notificações gerais</string>
+    <string name="fih_weather_notification_text">Toque para permitir</string>
+    <string name="fih_weather_notification_title">O Serviço Meteorológico requer permissões</string>
+    <string name="fih_weather_permission_failed">A concessão de permissão da localização foi rejeitada, não é possível obter a localização.</string>
+    <string name="fih_weather_permission_hint_1">Para funcionar corretamente, esta aplicação requer permissões adicionais. Conceda a permissão quando lhe for solicitada.</string>
+    <string name="fih_weather_permission_hint_2">Para funcionar corretamente, esta aplicação requer permissões adicionais. Faça a gestão da permissão do Serviço Meteorológico nas Definições.</string>
+    <string name="fih_weather_permission_success">A concessão de permissão da localização foi aceite com êxito</string>
+    <string name="fih_weather_service_title_txt">Serviço de meteorologia</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">人像模式编辑器</string>
+    <string name="cancel">取消</string>
+    <string name="data_process_fail">数据处理失败</string>
+    <string name="delete">删除</string>
+    <string name="image_not_null">图像路径有误</string>
+    <string name="no_bokeh_type">数据类型有误</string>
+    <string name="no_mpo_file">文件类型有误</string>
+    <string name="permission_dialog_allow_permission">若要正常运作，此应用程序需要相关权限。请允许所需权限。</string>
+    <string name="permission_dialog_cancel">关闭</string>
+    <string name="permission_dialog_manage_permission">如欲正常运作，此应用程序需要额外的权限。请在「设置」中，管理「%1$s」的权限。</string>
+    <string name="permission_dialog_settings">设置</string>
+    <string name="processing">处理中...</string>
+    <string name="save">保存</string>
+    <string name="save_success">保存成功</string>
+    <string name="saving_photos">保存照片中...</string>
+    <string name="share">分享</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_watermarks">水印库</string>
+    <string name="watermark_empty">暂时还没有水印</string>
+</resources>

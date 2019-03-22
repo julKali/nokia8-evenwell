@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Прогноза за времето</string>
+    <string name="fih_weather_permission_hint_1">За да работи правилно, приложението изисква още разрешения. Дайте разрешение, когато бъдете подканени.</string>
+    <string name="fih_weather_permission_hint_2">За да работи правилно, приложението изисква още разрешения. Дайте разрешения за Прогноза_за_времето в Настройки.</string>
+    <string name="fih_weather_button_ok">ОК</string>
+    <string name="fih_weather_button_close">Затваряне</string>
+    <string name="fih_weather_button_setting">Настройва се...</string>
+    <string name="fih_weather_permission_success">Дадохте разрешения за достъп до местоположението</string>
+    <string name="fih_weather_permission_failed">Отказахте разрешение за достъп до местоположението, мястото не може да се определи.</string>
+    <string name="fih_weather_notification_title">Прогноза_за_времето изисква разрешения</string>
+    <string name="fih_weather_notification_text">Докоснете, за да разрешите</string>
+    <string name="fih_weather_notification_channel_title">Общи известия</string>
+</resources>

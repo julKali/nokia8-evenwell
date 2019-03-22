@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Pasiekiamumas</string>
+    <string name="available_via_passpoint">Pasiekiama naudojant %1$s</string>
+    <string name="back_btn_lebel">ATGAL</string>
+    <string name="backup_and_restore_description">"Jei anksčiau sukūrėte atsarginę savo paskyros kopiją, dabar galite ją atkurti į šį telefoną.
+
+Galite keisti savo atsarginės kopijos nustatymus bet kada nustatymuose."</string>
+    <string name="backup_and_restore_title">Sukurti atsarginę kopiją ir atkurti</string>
+    <string name="connected_via_passpoint">Prijungta naudojant %1$s</string>
+    <string name="connected_via_wfa">Prijungta naudojant \"Wi‑Fi\" pagelbiklį</string>
+    <string name="datausage_dialog_negitive_btn">Atšaukti</string>
+    <string name="datausage_dialog_positive_btn">Gerai</string>
+    <string name="date_and_time">Datos ir laiko nustatymai</string>
+    <string name="date_and_time_settings_title">Data ir laikas</string>
+    <string name="device_checking_message">Sveiki</string>
+    <string name="emergency_dial_hmd_message">Avarinė situacija</string>
+    <string name="finish_button_label">BAIGTI</string>
+    <string name="hmd_user_experience_program_message">Jūsų dalyvavimas naudotojo patirties programoje padeda „HMD Global“ geriau suprasti, ką mėgstate „Nokia“ įrenginyje ir ką, jūsų manymu, reikėtų pagerinti. Kartais galime gauti anonimiškų duomenų su techninėmis savybėmis apie jūsų įrenginį, pavyzdžiui, failą su duomenimis apie įvykusį programinės įrangos gedimą. Įsidėmėkite, kad tokie duomenys nebus perduoti mobiliuoju ryšiu. Norime išgirsti, ką manote apie mūsų „Nokia“ įrenginį!</string>
+    <string name="hmd_user_experience_program_title">Naudotojo patirties programa</string>
+    <string name="idle_too_long_toast">Šis telefonas kartais sustabdo savo veiklą. Išjunkite dabar, kad taupytumėte energiją.</string>
+    <string name="insert_sim_cards">Įdėkite SIM korteles</string>
+    <string name="insert_sim_cards_prompt_content">"Nežinote kaip? Patikrinkite su telefonu pateiktas instrukcijas.
+
+Įdėjus SIM korteles, gali užtrukti keletą sekundžių, kol jos bus aktyvintos."</string>
+    <string name="language_selection_cancel_btn">ATŠAUKTI</string>
+    <string name="light_room_description">%1$s palaiko RAW (DNG) vaizdų fotografavimą. Turėdami Adobe galite redaguoti tiesiai savo naujajame išmaniajame telefone.&lt;br/>&lt;br/>Atsisiųskite Adobe Photoshop Lightroom CC iš Google Play parduotuvės dabar.</string>
+    <string name="light_room_title">Aistringai apie fotografiją?</string>
+    <string name="link_speed">%1$d Mb per sek.</string>
+    <string name="nevigation_selection_back">Atgal</string>
+    <string name="nevigation_selection_text">Galima pakeisti mygtukų „Grįžti“ ir „Naujausia“ fono spalvą ir vietą.</string>
+    <string name="next_btn_lebel">KITAS</string>
+    <string name="not_now">NE DABAR...</string>
+    <string name="passpoint_content">\"%1$s\" prisijungimo duomenys</string>
+    <string name="passpoint_label">Išsaugota per</string>
+    <string name="please_select_phase2">2 tapatybės nustatymo fazė</string>
+    <string name="proxy_error_empty_host_set_port">Prievado laukas turi būti tuščias, jei tuščias prieglobos laukas.</string>
+    <string name="proxy_error_empty_port">Turite užpildyti prievado lauką.</string>
+    <string name="proxy_error_invalid_exclusion_list">Įvestas išimčių sąrašas netinkamai suformatuotas. Įveskite kableliais atskirtą išskirtų domenų sąrašą.</string>
+    <string name="proxy_error_invalid_port">Prievadas, kurį įvedėte, netinkamas.</string>
+    <string name="proxy_exclusionlist_label">Išjungti įgaliotąjį serverį, skirtą</string>
+    <string name="proxy_hostname_label">Tarpinio serverio prieglobos pavadinimas</string>
+    <string name="proxy_port_label">Tarpinio serverio prievadas</string>
+    <string name="proxy_settings_title">Tarpinis serveris</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_warning_limited_support">HTTP įgaliotąjį serverį naudoja naršyklė, bet jo negali naudoti kitos programos.</string>
+    <string name="saved_network">Išsaugojo \"%1$s\"</string>
+    <string name="select_sim_card">Pasirinkti SIM kortelę</string>
+    <string name="setup_complete_hmd">Esate pasiruošę...</string>
+    <string name="setup_complete_hmd_1">Esate beveik pasirengę...!</string>
+    <string name="setup_complete_main">Esate</string>
+    <string name="setup_complete_sub">PASIRUOŠĘ.</string>
+    <string name="setup_completed_congratulations">Sveikiname!</string>
+    <string name="setup_finish">PIRMYN</string>
+    <string name="sim_editor_title">SIM kortelės lizdas %1$d</string>
+    <string name="term_agree_text">Sutinku</string>
+    <string name="upload_agent_hmd_des_text_3">"Bakst. \"PIRMYN\" sutinkate prisij. prie Naudotojų patirties progr. &lt;a href='launch.UserExperienceActivity://Kode'>Suž. daug&lt;/a>. Atmin., vėliau galėsite prisij. srit. Nustatymai."</string>
+    <string name="upload_agent_title">Naudotojo patirties programa</string>
+    <string name="welcome_hmd_term_of_use_4">"Bakstelėdami mygtuką sutinkate su &lt;a href='launch.TermOfServiceActivity://Kode'>paslaugų naudojimo sąlygomis&lt;/a> ir &lt;a href='launch.AddUploadAgentHandler://Kode'>privatumo politika&lt;/a>. Įrenginio aktyvinimo informacija su vienkartine įrenginio vietos informacija bus nusiųsta \"HMD Global\".&lt;br/>&lt;br/>Bus įjungti automatiniai pranešimai apie programinės įrangos naujinius, įdiegiamus jūsų įrenginyje kaip naujausia versija. Tam gali prireikti nedidelės jūsų duomenų biudžeto dalies. Paslaugos visada, kai tik joms reikės, galės prisijungti prie interneto.&lt;br/>&lt;br/>Kai paslaugos jungsis prie mobiliojo ryšio tinklų, turėsite sumokėti papildomus mokesčius."</string>
+    <string name="welcome_hmd_term_of_use_5">"Bakstel. mygt. sutinkate su &lt;a href='launch.TermOfServiceActivity://Kode'>paslaugų naud. sąlyg&lt;/a>. Įreng. aktyvin. inform. su vienkartine įrengin. vietos inform. bus nusiųsta \"HMD Global\". Gali būti taik. duom. sr. mok. Duom. bus naud. atsiž. į &lt;a href='launch.AddUploadAgentHandler://Kode'>privatumo politiką&lt;/a>."</string>
+    <string name="welcome_message">Sveiki</string>
+    <string name="welcome_start_button_label">PALEISTI</string>
+    <string name="wifi_add_network">Pridėti tinklą</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Išplėstinės išplečiamojo sąrašo parinktys. Dukart palieskite norėdami išplėsti.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Išplėstinės išplečiamojo sąrašo parinktys. Dukart palieskite norėdami sutraukti.</string>
+    <string name="wifi_and_mobile_skipped_message">"Prisijungę prie tinklo galėsite greitai nustatyti telefoną.
+
+Neprisijungę negalėsite:
+
+"<li>prisijungti prie savo debesies paskyros;</li>"
+
+"<li>gauti programinės įrangos naujinių;</li>"
+
+"<li>automatiškai nustatyti laiko ir datos</li></string>
+    <string name="wifi_auth_password_wrong">Gali būti neteisingas slaptažodis</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Atšaukti</string>
+    <string name="wifi_certificate">Sertifikatas</string>
+    <string name="wifi_connect">Prijungti</string>
+    <string name="wifi_connected_no_internet">Prisijungta, nėra interneto ryšio</string>
+    <string name="wifi_disabled_generic">Išjungta</string>
+    <string name="wifi_disabled_network_failure">IP konfigūracijos klaida</string>
+    <string name="wifi_disabled_password_failure">Tapatybės nustatymo problema</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Neteikti</string>
+    <string name="wifi_do_not_validate_eap_server">Nepatvirtinti</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nenurodytas sertifikatas. Jūsų ryšys nebus privatus.</string>
+    <string name="wifi_dont_skip">GRĮŽTI</string>
+    <string name="wifi_eap_anonymous">Anoniminė tapatybė</string>
+    <string name="wifi_eap_ca_cert">CA sertifikatas</string>
+    <string name="wifi_eap_domain">Domenas</string>
+    <string name="wifi_eap_identity">Tapatybė</string>
+    <string name="wifi_eap_method">EAP metodas</string>
+    <string name="wifi_eap_user_cert">Naudotojo sertifikatas</string>
+    <string name="wifi_fail_to_scan">Nepavyksta nuskaityti tinklų</string>
+    <string name="wifi_failed_connect_message">Jungiantis prie tinklo įvyko klaida.</string>
+    <string name="wifi_failed_forget_message">Ištrinant tinklą įvyko klaida.</string>
+    <string name="wifi_failed_save_message">Išsaugant tinklą įvyko klaida.</string>
+    <string name="wifi_forget">Pamiršti</string>
+    <string name="wifi_frequency">Dažnis</string>
+    <string name="wifi_gateway">Tinklų sietuvas</string>
+    <string name="wifi_ip_address">IP adresas</string>
+    <string name="wifi_ip_settings">IP nustatymai</string>
+    <string name="wifi_ip_settings_invalid_dns">Įveskite galiojantį DNS adresą.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Įveskite galiojantį tinklų sietuvo adresą.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Įveskite galiojantį IP adresą.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Įveskite nuo 0 iki 32 simbolių ilgio tinklo kodą.</string>
+    <string name="wifi_multiple_cert_added">(Pridėti keli sertifikatai)</string>
+    <string name="wifi_network_prefix_length">Tinklo kodo ilgis</string>
+    <string name="wifi_no_domain_warning">Būtina nurodyti domeną.</string>
+    <string name="wifi_no_internet">Nėra interneto ryšio</string>
+    <string name="wifi_no_internet_no_reconnect">Automatiškai neprisijungs</string>
+    <string name="wifi_not_in_range">Nepatenka į diapazoną</string>
+    <string name="wifi_password">Slaptažodis</string>
+    <string name="wifi_picker_connection_positive">Gerai</string>
+    <string name="wifi_remembered">Išsaugota</string>
+    <string name="wifi_save">Išsaugoti</string>
+    <string name="wifi_security">Sauga</string>
+    <string name="wifi_security_none">Nėra</string>
+    <string name="wifi_setting_title">Prisijungti</string>
+    <string name="wifi_shared">Bendrinti su kitais įrenginio naudotojais</string>
+    <string name="wifi_show_advanced">Išplėstinės parinktys</string>
+    <string name="wifi_show_password">Rodyti slaptažodį</string>
+    <string name="wifi_signal">Signalo stiprumas</string>
+    <string name="wifi_skip_anyway">VIS TIEK PRALEISTI</string>
+    <string name="wifi_speed">Susiejimo greitis</string>
+    <string name="wifi_ssid">Tinklo pavadinimas</string>
+    <string name="wifi_ssid_hint">Įveskite SSID</string>
+    <string name="wifi_status">Būsena</string>
+    <string name="wifi_unchanged">(nepakeista)</string>
+    <string name="wifi_unspecified">Pasirinkite</string>
+    <string name="wifi_use_system_certs">Naudoti sistemos sertifikatus</string>
+</resources>

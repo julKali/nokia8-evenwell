@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:tint="?android:colorControlNormal" android:shape="ring" android:useLevel="false" android:innerRadius="0.0dip" android:thickness="7.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/white" />
+    <size android:height="14.0dip" android:width="14.0dip" />
+</shape>

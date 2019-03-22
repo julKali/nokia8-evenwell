@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ANULONI</string>
+    <string name="DONE">MBAROI</string>
+    <string name="NEXT">PËRPARA</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">PRAPA</string>
+    <string name="alert_empty_desc">Shtoni një përshkrim</string>
+    <string name="alert_warning_title">Këshilla</string>
+    <string name="enter_comments">Futni komentet (1000 karaktere)</string>
+    <string name="extremely_likely">(Ka jashtëzakonisht shumë mundësi)</string>
+    <string name="feedback">Reagimi</string>
+    <string name="helps_us_improve_our_products">Reagimi juaj na ndihmon të përmirësojmë produktet tona!</string>
+    <string name="intro_title">Sa mundësi ka që ta rekomandoni këtë telefon për një shok ose koleg?</string>
+    <string name="msg_send_after">Mesazhi do të ngarkohet automatikisht kur pajisja të jetë në linjë. Faleminderit për përgjigjen tuaj.</string>
+    <string name="msg_send_fail">Dërgimi dështoi. Mesazhi do të transferohet automatikisht kur pajisja të jetë në linjë. Faleminderit për përgjigjen tuaj.</string>
+    <string name="no_ask_feedback_again_text">Mos pyet përsëri për reagime</string>
+    <string name="no_showagain_text">Mos e shfaqni përsëri</string>
+    <string name="not_at_all_likely">(Nuk ka aspak mundësi)</string>
+    <string name="select_a_value">Zgjidhni vlerën</string>
+    <string name="str_agree">PRANOJ</string>
+    <string name="str_leave">DILNI</string>
+    <string name="submit_fail">Të dhënat nuk u dorëzuan</string>
+    <string name="submit_success">Faleminderit për përgjigjen tuaj.</string>
+    <string name="thank_your_feedback">Faleminderit për reagimin tuaj!</string>
+    <string name="we_appreciate_your_help">"Ne e vlerësojmë ndihmën tuaj për t'i bërë produktet Nokia më të mirat në botë."</string>
+    <string name="we_hope_enjoying_nokia_device">"Shpresojmë t'ju pëlqejë të përdorni pajisjen tuaj Nokia. Reagimet tuaja janë shumë të rëndësishme për ne."</string>
+    <string name="we_will_contact_you_again">"Ne do t'ju kontaktojmë përsëri në të ardhmen."</string>
+    <string name="we_will_contact_you_again_enjoy">"Ne do t'ju kontaktojmë përsëri në të ardhmen. Shijojeni pajisjen tuaj të re Nokia!"</string>
+    <string name="why_you_gave_this_score">Na tregoni pse keni dhënë këtë vlerësim:</string>
+</resources>

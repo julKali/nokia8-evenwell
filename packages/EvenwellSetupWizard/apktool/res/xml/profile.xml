@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Profile-List
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Profile-Info-List>
+        <Profile-Info Brand="FIH Generic" Carrier="FIH Generic" Locale="FIH Generic">profile_0001</Profile-Info>
+        <Profile-Info Brand="FIH Generic" Carrier="FIH Generic" Locale="TAIWAN, REPUBLIC OF CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="FIH Generic" Carrier="FIH Generic" Locale="CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="FIH Generic" Carrier="FIH Generic" Locale="CTA">profile_0001</Profile-Info>
+        <Profile-Info Brand="FIH Generic" Carrier="CMCC" Locale="CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="FIH Generic" Carrier="China Unicom" Locale="CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="FIH Generic" Carrier="China Telecom" Locale="CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="FIH Generic" Carrier="Far EasTone" Locale="TAIWAN, REPUBLIC OF CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="FIH Generic" Carrier="Chunghwa" Locale="TAIWAN, REPUBLIC OF CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="FIH Generic" Carrier="TW Mobile" Locale="TAIWAN, REPUBLIC OF CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="FIH Generic" Locale="FIH Generic">profile_0001</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="FIH Generic" Locale="TAIWAN, REPUBLIC OF CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="FIH Generic" Locale="CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="FIH Generic" Locale="CTA">profile_0001</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="CMCC" Locale="CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="China Unicom" Locale="CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="China Telecom" Locale="CHINA">profile_0002</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="China Telecom" Locale="Operation Test">profile_0002</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="Far EasTone" Locale="TAIWAN, REPUBLIC OF CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="Chunghwa" Locale="TAIWAN, REPUBLIC OF CHINA">profile_0001</Profile-Info>
+        <Profile-Info Brand="InFocus" Carrier="TW Mobile" Locale="TAIWAN, REPUBLIC OF CHINA">profile_0001</Profile-Info>
+    </Profile-Info-List>
+</Profile-List>

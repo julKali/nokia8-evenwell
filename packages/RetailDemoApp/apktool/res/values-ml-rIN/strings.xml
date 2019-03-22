@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="copying">പകർത്തുന്നു…</string>
+    <string name="demo_mode_notifications">ഡെമോ മോഡ് അറിയിപ്പുകൾ</string>
+    <string name="disable_demo_mode">ഡെമോ മോഡ് പ്രവർത്തനരഹിതമാക്കുക</string>
+    <string name="download_complete_msg">"ഡൗൺലോഡ് പൂർത്തിയായി.
+
+ഡെമോ മോഡ് ലോഞ്ച് ചെയ്യാൻ ശരി ടാപ്പ് ചെയ്യുക."</string>
+    <string name="download_fail_msg">"ഇന്റർനെറ്റിൽ നിന്ന് ഡെമോ മെറ്റീരിയൽ ഡൗൺലോഡ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു.
+
+ഡെമോ മോഡ് ലോഞ്ച് ചെയ്യാൻ ശരി ടാപ്പ് ചെയ്യണോ?"</string>
+    <string name="downloading">ഡൗൺലോഡ് ചെയ്യുന്നു…</string>
+    <string name="enable_demo_mode">ഡെമോ മോഡ് പ്രവർത്തനക്ഷമമാക്കണോ?</string>
+    <string name="enable_demo_mode_setup">ഡെമോ മോഡ് പ്രവർത്തനക്ഷമമാക്കണോ</string>
+    <string name="no_new_demo_found_msg">"പുതിയ ഡെമോ മെറ്റീരിയലൊന്നും കണ്ടെത്തിയില്ല.
+
+ഡെമോ മോഡ് ലോഞ്ച് ചെയ്യാൻ ശരി ടാപ്പ് ചെയ്യണോ?"</string>
+    <string name="ok">ശരി</string>
+    <string name="reset_device">ഉപകരണം പുനഃസജ്ജമാക്കണോ?</string>
+    <string name="system_busy_msg">സിസ്റ്റം തിരക്കിലാണ്. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="update_demo_video">ഡെമോ മോഡ് അപ്‌ഡേറ്റ് ചെയ്യുക</string>
+</resources>

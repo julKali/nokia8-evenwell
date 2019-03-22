@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" android:sharedUserId="android.uid.system" package="com.evenwell.custmanager" platformBuildVersionCode="9001009" platformBuildVersionName="9.0010.09">
+    <protected-broadcast android:name="com.evenwell.custmanager.UPDATE_CARRIER_APN"/>
+    <protected-broadcast android:name="com.evenwell.custmanager.UPDATE_CARRIER_BOOKMARK"/>
+    <protected-broadcast android:name="com.evenwell.custmanager.UPDATE_CARRIER_HOMEPAGE"/>
+    <protected-broadcast android:name="com.evenwell.custmanager.UPDATE_CARRIER_APN"/>
+    <protected-broadcast android:name="com.fihtdc.mcfg.MCFG_DOWNLOAD_COMPLETE"/>
+    <protected-broadcast android:name="com.evenwell.custmanager.UPDATE_WALLPAPER"/>
+    <protected-broadcast android:name="com.evenwell.custmanager.UPDATE_CARRIER_APN_DONE"/>
+    <protected-broadcast android:name="com.evenwell.custmanager.STORAGE_CHECK"/>
+    <protected-broadcast android:name="com.evenwell.custmanager.APK_UNINSTALL_CPMPLETE"/>
+    <protected-broadcast android:name="com.evenwell.custmanager.APK_INSTALL_CPMPLETE"/>
+    <uses-permission android:name="com.evenwell.permission.PUSH_AGENT_SERVICE"/>
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
+    <uses-permission android:name="android.permission.UPDATE_CONFIG"/>
+    <uses-permission android:name="android.permission.SET_WALLPAPER"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.INTERNAL_SYSTEM_WINDOW"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"/>
+    <application android:allowBackup="true" android:allowClearUserData="false" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name="com.evenwell.custmanager.CustManagerApp" android:supportsRtl="true" android:theme="@android:style/Theme.Holo.Light" android:usesCleartextTraffic="true">
+        <uses-library android:name="com.evenwell.DataCollect" android:required="false"/>
+        <uses-library android:name="com.fihtdc.UploadAgentService" android:required="false"/>
+        <activity android:excludeFromRecents="true" android:label="@string/app_name" android:launchMode="singleTop" android:name="com.evenwell.custmanager.ui.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:label="@string/app_name" android:name="com.evenwell.custmanager.ui.InfoActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <service android:exported="true" android:name="com.evenwell.custmanager.ui.RebootDialogService" android:singleUser="true"/>
+        <activity android:excludeFromRecents="true" android:name="com.evenwell.custmanager.TrailActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <data android:scheme="atl"/>
+                <data android:scheme="btl"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.evenwell.custmanager.CustManagerReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.SIM_STATE_CHANGED"/>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.evenwell.custmanager.STORAGE_CHECK"/>
+                <action android:name="com.evenwell.custmanager.APK_UNINSTALL_CPMPLETE"/>
+                <action android:name="com.evenwell.custmanager.APK_INSTALL_CPMPLETE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="2878" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="32878" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="2883" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.evenwell.custmanager.PaiReceiver">
+            <intent-filter>
+                <action android:name="com.android.launcher3.intent.ACTION_PAI_START"/>
+                <action android:name="com.android.launcher3.intent.ACTION_PAI_FINISH"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.evenwell.custmanager.services.CheckService" android:singleUser="true"/>
+        <service android:exported="true" android:name="com.evenwell.custmanager.services.RegisterService" android:singleUser="true"/>
+        <service android:exported="true" android:name="com.evenwell.custmanager.services.CMService" android:singleUser="true"/>
+        <service android:exported="true" android:name="com.evenwell.custmanager.services.ReportService" android:singleUser="true"/>
+        <service android:name="com.evenwell.custmanager.services.MaintainService" android:singleUser="true"/>
+        <service android:exported="true" android:name="com.evenwell.custmanager.services.PushReceiverService">
+            <intent-filter>
+                <action android:name="com.fihtdc.push_system.lib.app.PUSH_RECEIVER"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.evenwell.custmanager.services.CMJobService" android:permission="android.permission.BIND_JOB_SERVICE" android:singleUser="true"/>
+        <service android:name="com.evenwell.custmanager.services.LogUploadService" android:singleUser="true">
+            <intent-filter>
+                <action android:name="com.fihtdc.AprUploadAgent.UPLOAD_FILE"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.evenwell.custmanager.utils.RunService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="true" android:name="com.evenwell.custmanager.services.PaiMonitorService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="true" android:name="com.evenwell.custmanager.services.CustManagerJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <meta-data android:name="android.support.VERSION" android:value="26.1.0"/>
+        <meta-data android:name="android.arch.lifecycle.VERSION" android:value="27.0.0-SNAPSHOT"/>
+    </application>
+</manifest>

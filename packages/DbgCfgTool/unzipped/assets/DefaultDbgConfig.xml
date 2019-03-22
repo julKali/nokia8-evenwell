@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+	Please do not change this file without throughly reading the parsing codes.
+	It is affected many assumptions if its arrangement is changed.
+-->
+<root> 
+  <LoggerConfig name="Enable">1</LoggerConfig>  
+  <LoggerConfig name="Clear">0</LoggerConfig>  
+  <LoggerConfig name="DebugFS">1</LoggerConfig>  
+  <program name="logcat_radio"> 
+    <arg name="Enable"> 
+      <param name="Enable">1</param> 
+    </arg>  
+    <arg name="Exe"> 
+      <param name="value">/system/bin/logcat</param> 
+    </arg>  
+    <arg name="File"> 
+      <param name="dash">-f</param>  
+      <param name="value">/data/logs/alog_radio</param> 
+    </arg>  
+    <arg name="Size"> 
+      <param name="dash">-r</param>  
+      <param name="value">8192</param> 
+    </arg>  
+    <arg name="RotateCnt"> 
+      <param name="dash">-n</param>  
+      <param name="value">3</param> 
+    </arg>  
+    <arg name="MsgFmt"> 
+      <param name="dash">-v</param>  
+      <param name="value">threadtime</param> 
+    </arg>  
+    <arg name="Buffer"> 
+      <param name="dash">-b</param>  
+      <param name="value">radio</param> 
+    </arg>  
+    <arg name="AutoSwitch"> 
+      <param name="dash">-z</param>  
+      <param name="value">0</param> 
+    </arg>  
+    <arg name="Filter"> 
+      <param name="value">*:D</param> 
+    </arg> 
+  </program>  
+  <program name="logcat_main"> 
+    <arg name="Enable"> 
+      <param name="Enable">1</param> 
+    </arg>  
+    <arg name="Exe"> 
+      <param name="value">/system/bin/logcat</param> 
+    </arg>  
+    <arg name="File"> 
+      <param name="dash">-f</param>  
+      <param name="value">/data/logs/alog</param> 
+    </arg>  
+    <arg name="Size"> 
+      <param name="dash">-r</param>  
+      <param name="value">8192</param> 
+    </arg>  
+    <arg name="RotateCnt"> 
+      <param name="dash">-n</param>  
+      <param name="value">5</param> 
+    </arg>  
+    <arg name="MsgFmt"> 
+      <param name="dash">-v</param>  
+      <param name="value">threadtime</param> 
+    </arg>  
+    <arg name="Buffer"> 
+      <param name="dash">-b</param>  
+      <param name="value">main</param> 
+    </arg>  
+    <arg name="AutoSwitch"> 
+      <param name="dash">-z</param>  
+      <param name="value">0</param> 
+    </arg>  
+    <arg name="Filter"> 
+      <param name="value">*:D</param> 
+    </arg> 
+  </program>  
+  <program name="logcat_events"> 
+    <arg name="Enable"> 
+      <param name="Enable">1</param> 
+    </arg>  
+    <arg name="Exe"> 
+      <param name="value">/system/bin/logcat</param> 
+    </arg>  
+    <arg name="File"> 
+      <param name="dash">-f</param>  
+      <param name="value">/data/logs/alog_events</param> 
+    </arg>  
+    <arg name="Size"> 
+      <param name="dash">-r</param>  
+      <param name="value">1024</param> 
+    </arg>  
+    <arg name="RotateCnt"> 
+      <param name="dash">-n</param>  
+      <param name="value">2</param> 
+    </arg>  
+    <arg name="MsgFmt"> 
+      <param name="dash">-v</param>  
+      <param name="value">threadtime</param> 
+    </arg>  
+    <arg name="Buffer"> 
+      <param name="dash">-b</param>  
+      <param name="value">events</param> 
+    </arg>  
+    <arg name="AutoSwitch"> 
+      <param name="dash">-z</param>  
+      <param name="value">0</param> 
+    </arg>  
+    <arg name="Filter"> 
+      <param name="value">*:D</param> 
+    </arg> 
+  </program>  
+  <program name="logcat_system"> 
+    <arg name="Enable"> 
+      <param name="Enable">1</param> 
+    </arg>  
+    <arg name="Exe"> 
+      <param name="value">/system/bin/logcat</param> 
+    </arg>  
+    <arg name="File"> 
+      <param name="dash">-f</param>  
+      <param name="value">/data/logs/alog_system</param> 
+    </arg>  
+    <arg name="Size"> 
+      <param name="dash">-r</param>  
+      <param name="value">8192</param> 
+    </arg>  
+    <arg name="RotateCnt"> 
+      <param name="dash">-n</param>  
+      <param name="value">5</param> 
+    </arg>  
+    <arg name="MsgFmt"> 
+      <param name="dash">-v</param>  
+      <param name="value">threadtime</param> 
+    </arg>  
+    <arg name="Buffer"> 
+      <param name="dash">-b</param>  
+      <param name="value">system</param> 
+    </arg>  
+    <arg name="AutoSwitch"> 
+      <param name="dash">-z</param>  
+      <param name="value">0</param> 
+    </arg>  
+    <arg name="Filter"> 
+      <param name="value">*:D</param> 
+    </arg> 
+  </program> 
+  <program name="logcat_fih"> 
+    <arg name="Enable"> 
+      <param name="Enable">1</param> 
+    </arg>  
+    <arg name="Exe"> 
+      <param name="value">/system/bin/logcat</param> 
+    </arg>  
+    <arg name="File"> 
+      <param name="dash">-f</param>  
+      <param name="value">/BBSYS/alog_fih</param> 
+    </arg>  
+    <arg name="Size"> 
+      <param name="dash">-r</param>  
+      <param name="value">5120</param> 
+    </arg>  
+    <arg name="RotateCnt"> 
+      <param name="dash">-n</param>  
+      <param name="value">5</param> 
+    </arg>  
+    <arg name="MsgFmt"> 
+      <param name="dash">-v</param>  
+      <param name="value">threadtime</param> 
+    </arg>  
+    <arg name="Buffer"> 
+      <param name="dash">-b</param>  
+      <param name="value">fih</param> 
+    </arg>  
+    <arg name="AutoSwitch"> 
+      <param name="dash">-z</param>  
+      <param name="value">0</param> 
+    </arg>  
+    <arg name="Filter"> 
+      <param name="value">*:D</param> 
+    </arg> 
+  </program>    
+  <program name="klogd"> 
+    <arg name="Enable">
+      <param name="Enable">1</param>
+    </arg>  
+    <arg name="Exe">
+      <param name="value">/system/bin/klogd</param>
+    </arg>  
+    <arg name="Level">
+      <param name="value">8</param>
+    </arg>
+    <arg name="WakeLock"><param name="value">0</param></arg>
+  </program>  
+  <program name="DumpSystemInfo"> 
+    <arg name="Enable">
+      <param name="Enable">1</param>
+    </arg>  
+    <arg name="Exe">
+      <param name="value">/system/bin/DumpSystemInfo</param>
+    </arg> 
+  </program>  
+  <program name="ModemLinkCfg"> 
+    <arg name="Enable">
+      <param name="Enable">0</param>
+    </arg>  
+    <arg name="Exe">
+      <param name="value">/system/bin/port-bridge</param>
+    </arg>  
+    <arg name="From">
+      <param name="value">/dev/smd7</param>
+    </arg>  
+    <arg name="To">
+      <param name="value">/dev/ttyHSUSB0</param>
+    </arg> 
+  </program>  
+  <!-- SDD2-KNL-LC-SMD_RPCRouter-00+ -->  
+  <driverdebug name="smd_rpcrouter"> 
+    <parameters name="debug_mask">1</parameters> 
+  </driverdebug>  
+  <!-- SDD2-KNL-LC-SMD_RPCRouter-00+ --> 
+</root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Daugiau nerodyti.</string>
+    <string name="fih_power_saving_dialog_ok">Gerai</string>
+    <string name="fih_power_saving_dialog_cancel">Atšaukti</string>
+    <string name="fih_power_saving_lpm_wifi">Išjungti „Wi-Fi“</string>
+    <string name="fih_power_saving_ss_wifi">Išjungti „Wi-Fi“</string>
+    <string name="switch_on_text">Įjungta</string>
+    <string name="switch_off_text">Išjungta</string>
+    <string name="fih_power_saving_permission_cancel">Atšaukti</string>
+    <string name="lock_screen_ap_protect_title">Foninės veiklos tvarkyklė</string>
+    <string name="all_aps">Pridėti visas programas prie baltojo sąrašo</string>
+    <string name="fih_power_saving_doze_high_consumption">Didelės energijos sąnaudos</string>
+    <string name="fih_power_saving_background_activity_text">Norėdami pailginti akumuliatoriaus naudojimo laiką, įjunkite foninės veiklos tvarkyklę, tačiau kai kurių programų ar el. laiškų pranešimų negausite iš karto. Galite valdyti akumuliatoriaus naudojimo laiką pridėję programas prie baltojo sąrašo arba iš jo pašalinę.</string>
+    <string name="fih_power_saving_background_cleaner">Aiškesnė foninė veikla</string>
+    <string name="fih_power_saving_background_cleaner_summary">Pranešimai gaunami ne iškart</string>
+    <string name="app_block_list">Apribotas PROGRAMŲ sąrašas</string>
+</resources>

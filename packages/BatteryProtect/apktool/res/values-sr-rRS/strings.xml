@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Откажи</string>
+    <string name="fih_battery_protect_alert_dialog_ok">Потврди</string>
+    <string name="fih_battery_protect_cancel_wear">Откажи</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Телефон се загрева, па предузима мере да се расхлади. И даље можете да га користите, али ћете можда приметити нешто од следећег:
+·паузирање пуњења;
+·искључивање Wi-Fi-ја;
+·затварање апликација;
+·укључивање режима рада у авиону.
+Телефон ће се вратити у нормалу кад се охлади."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Општа обавештења</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">За пуњење користите оригиналну батерију, у супротном може доћи до трајног/физичког оштећења уређаја.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Користите оригиналну батерију</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Пуњење је прекинуто</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Батерија је неисправна</string>
+    <string name="fih_battery_protect_notification_cooling_down">Хлађење</string>
+    <string name="fih_battery_protect_ok_wear">Потврди</string>
+    <string name="fih_battery_protect_tap_learn_more">Додирните да бисте сазнали више.</string>
+</resources>

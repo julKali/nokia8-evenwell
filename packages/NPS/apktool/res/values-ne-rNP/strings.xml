@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">रद्द गर्नुहोस्</string>
+    <string name="DONE">सम्पन्‍न भयो</string>
+    <string name="NEXT">NEXT</string>
+    <string name="OK">ठीक छ</string>
+    <string name="PREVIOUS">पछिल्लो</string>
+    <string name="alert_empty_desc">कृपया आफ्नो विवरण थप्नुहोस्!</string>
+    <string name="alert_warning_title">उपायहरू</string>
+    <string name="enter_comments">टिप्पणीहरू प्रविष्ट गर्नुहोस् (1000 वर्णहरू)</string>
+    <string name="extremely_likely">(एकदमै उपयुक्त)</string>
+    <string name="feedback">प्रतिक्रिया</string>
+    <string name="helps_us_improve_our_products">तपाईंको प्रतिक्रियाले हामीलाई आफ्नो उत्पादनमा सुधार गर्न मद्दत गर्छ!</string>
+    <string name="intro_title">तपाईंले आफ्नो साथी वा सहकर्मीलाई यो फोन कत्तिको सिफारिस गर्नुहुन्छ?</string>
+    <string name="msg_send_after">यन्त्र अनलाइन हुँदा सन्देश स्वचालित रूपमा अपलोड हुनेछ। तपाईंको जवाफका लागि धन्यवाद।</string>
+    <string name="msg_send_fail">पठाउन असफल भयो। यन्त्र अनलाइन हुँदा सन्देश स्वचालित रूपमा अपलोड हुनेछ। तपाईंको जवाफका लागि धन्यवाद।</string>
+    <string name="no_ask_feedback_again_text">प्रतिक्रिया फेरि नसोध्नुहोस्</string>
+    <string name="no_showagain_text">फेरि नदेखाउनुहोस्</string>
+    <string name="not_at_all_likely">(थोरैपनि उपयुक्त छैन)</string>
+    <string name="privacy_context_wifi">"आदरणीय प्रयोगकर्ताहरू, 
+
+प्रतिक्रिया सेवाग्राही सफ्टवेयरको प्रयोगमा स्वागत छ। यो उत्पादन प्रयोग गर्नुभन्दा अगाडि सेवाका सर्तहरूलाई ध्यानपूर्वक पढ्नुहोस् र राम्रोसँग बुझ्नुहोस्। 「सहमत छु」मा क्लिक गर्नुको अर्थ तपाईंले यो सफ्टवेयरको विशेषाधिकारलाई राम्रोसँग बुझ्नुभएको छ र यसको प्रयोग गर्न सहमत हुनुहुन्छ। तपाईं यी सर्तहरूसँग सहमत हुनुहुन्न भने कृपया「बाहिरिनुहोस्」थिच्नुहोस्। तपाईंलाई विस्तृत सेवाहरू प्रदान गर्नको लागि अनुप्रयोगलाई निम्न अनुमतिहरूको आवश्यक पर्छ: 
+1. प्रतिक्रिया जानकारी पठाउनको लागि इन्टरनेट, WLAN नेटवर्कमा पहुँच गर्नुहोस् 
+2. फोनमा आधारित जानकारी स्वचालित रूपमा प्राप्त गर्न IMEI, PSN र MNCMCC जानकारी आयात गर्नुहोस्"</string>
+    <string name="select_a_value">मान चयन गर्नुहोस्</string>
+    <string name="str_agree">सहमत हुनुहोस्</string>
+    <string name="str_leave">बाहिरिनुहोस्</string>
+    <string name="submit_fail">पेश गर्ने कार्य असफल भयो</string>
+    <string name="submit_success">तपाईंको जवाफको लागि धन्यवाद</string>
+    <string name="thank_your_feedback">तपाईंको प्रतिक्रियाको लागि धन्यवाद!</string>
+    <string name="we_appreciate_your_help">Nokia उत्पादनहरूलाई संसार भरिनै उत्कृष्ट बनाउन मद्दत गरेकोमा हामी आभारी छौं।</string>
+    <string name="we_hope_enjoying_nokia_device">हामीलाई आशा छ तपाईं Nokia यन्त्रको मजा लिंदै हुनुहुन्छ। तपाईंको गोपनीयता हाम्रो लागि धेरै महत्त्वपूर्ण छ।</string>
+    <string name="we_will_contact_you_again">भविष्यमा हामी तपाईंलाई फेरि सम्पर्क गर्नेछौं।</string>
+    <string name="we_will_contact_you_again_enjoy">भविष्यमा हामी तपाईंलाई फेरि सम्पर्क गर्नेछौं। तपाईंको नयाँ Nokia यन्त्रको मजा लिनुहोस्!</string>
+    <string name="why_you_gave_this_score">तपाईंले यो स्कोर किन दिनुभयो भनेर कृपया व्याख्या गर्नुहोस्:</string>
+</resources>

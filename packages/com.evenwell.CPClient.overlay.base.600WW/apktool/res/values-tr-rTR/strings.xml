@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP Client</string>
+    <string name="fih_cp_notify_statusbar_content">Yeni temel hazırlık mesajı</string>
+    <string name="fih_cp_notification_channel_name">Genel bildirimler</string>
+    <string name="fih_cp_ui_mode_ok">Tamam</string>
+    <string name="fih_cp_ui_mode_postpone">Ertele</string>
+    <string name="fih_cp_ui_mode_delete">Sil</string>
+    <string name="fih_cp_apply_dialog_head_msg">Yeni Temel Hazırlık</string>
+    <string name="fih_cp_apply_dialog_body_msg">Yeni yapılandırmayı uygulamak istiyor musunuz?</string>
+    <string name="fih_cp_toast_info_update">Profil güncelleme başarılı</string>
+    <string name="fih_cp_toast_info_create">Profil oluşturma başarılı</string>
+    <string name="fih_cp_editor_apn_name">Ad</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Vekil Sunucu</string>
+    <string name="fih_cp_editor_apn_http_port">Bağlantı Noktası</string>
+    <string name="fih_cp_editor_apn_user">Kullanıcı adı</string>
+    <string name="fih_cp_editor_apn_password">Şifre</string>
+    <string name="fih_cp_editor_apn_server">Sunucu</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS vekil sunucusu</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS bağlantı noktası</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Kimlik doğrulama türü</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Yok</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP veya CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN türü</string>
+    <string name="fih_cp_btn_ok">Tamam</string>
+    <string name="fih_cp_btn_cancel">İptal</string>
+    <string name="fih_cp_btn_next">Sonraki</string>
+    <string name="fih_cp_btn_back">Geri</string>
+    <string name="fih_cp_apn_not_set">&lt;Ayarlanmadı></string>
+    <string name="fih_cp_error_title">Dikkat</string>
+    <string name="fih_cp_error_name_empty">Ad alanı boş olamaz.</string>
+    <string name="fih_cp_error_apn_empty">APN alanı boş olamaz.</string>
+    <string name="fih_cp_error_other">Veri söz dizimi hatası.</string>
+    <string name="fih_cp_input_pin_code">PIN kodunu girin:</string>
+    <string name="fih_cp_input_pin_code_ok">Tamam</string>
+    <string name="fih_cp_input_pin_code_cancel">İptal</string>
+    <string name="fih_cp_input_pin_code_incorrect">Yanlış PIN kodu.</string>
+    <string name="fih_cp_input_pin_code_empty">İstenen PIN kodunu girin.</string>
+    <string name="fih_cp_sim_not_available">SIM kart kullanılamıyor.</string>
+</resources>

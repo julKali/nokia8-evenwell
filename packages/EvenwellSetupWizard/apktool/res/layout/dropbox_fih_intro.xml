@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/title_background" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textAppearance="@style/Title" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="12.0dip" android:layout_marginBottom="12.0dip" android:text="@string/dropbox_fih_title" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/outer_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/MainBackground">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/progress_indicator_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" />
+        <ScrollView android:id="@id/text_scroll_view" android:layout_width="fill_parent" android:layout_height="80.0dip">
+            <RelativeLayout android:id="@id/text_frame" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-10.0dip" android:layout_below="@id/progress_indicator_bar">
+                <TextView android:id="@id/description_text" android:text="@string/dropbox_fih_description" android:layout_alignParentTop="true" style="@style/DescriptionText2" />
+            </RelativeLayout>
+        </ScrollView>
+        <ImageView android:id="@id/account_intro_pic" android:layout_width="282.0dip" android:layout_height="208.0dip" android:layout_marginTop="10.0dip" android:layout_below="@id/text_scroll_view" android:layout_centerHorizontal="true" />
+        <LinearLayout android:orientation="vertical" android:id="@id/btn_linear_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <Button android:id="@id/signup_with_dropbox" android:background="@drawable/oobe_btn" android:layout_width="fill_parent" android:text="@string/dropbox_fih_signup" android:layout_above="@id/add_account_btn" />
+            <Button android:id="@id/signin_with_dropbox" android:background="@drawable/oobe_btn" android:layout_width="fill_parent" android:layout_marginTop="4.0dip" android:text="@string/dropbox_fih_signin" android:layout_below="@id/signup_with_dropbox" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/btn_linear_layout2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentBottom="true">
+                <Button android:id="@id/back_btn" android:background="@drawable/oobe_btn" android:text="@string/back_btn_lebel" android:layout_weight="1.0" android:layout_alignParentBottom="true" style="@style/Button" />
+                <Button android:id="@id/skip_button" android:background="@drawable/oobe_btn" android:text="@string/next_btn_lebel" android:layout_weight="1.0" android:layout_alignParentBottom="true" style="@style/Button" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

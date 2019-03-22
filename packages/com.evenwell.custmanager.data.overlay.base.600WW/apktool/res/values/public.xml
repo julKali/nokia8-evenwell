@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="mipmap" name="ic_launcher" id="0x7f020000" />
+    <public type="string" name="app_name" id="0x7f030000" />
+    <public type="string" name="action" id="0x7f030001" />
+    <public type="string" name="content_path" id="0x7f030002" />
+    <public type="string" name="default_action" id="0x7f030003" />
+    <public type="string" name="default_content_path" id="0x7f030004" />
+    <public type="string" name="default_required_hash" id="0x7f030005" />
+    <public type="string" name="default_version" id="0x7f030006" />
+    <public type="string" name="required_hash" id="0x7f030007" />
+    <public type="string" name="trigger_install" id="0x7f030008" />
+    <public type="string" name="version" id="0x7f030009" />
+    <public type="string" name="cust_action" id="0x7f03000a" />
+    <public type="string" name="trigger_cust" id="0x7f03000b" />
+    <public type="string" name="sim_label" id="0x7f03000c" />
+    <public type="string" name="sim2_label" id="0x7f03000d" />
+    <public type="string" name="mccmnc_hint" id="0x7f03000e" />
+    <public type="string" name="mccmnc2_hint" id="0x7f03000f" />
+    <public type="string" name="spn_hint" id="0x7f030010" />
+    <public type="string" name="pnn_hint" id="0x7f030011" />
+    <public type="string" name="imsi_hint" id="0x7f030012" />
+    <public type="string" name="gid1_hint" id="0x7f030013" />
+    <public type="string" name="reboot_mg" id="0x7f030014" />
+    <public type="string" name="reboot" id="0x7f030015" />
+    <public type="string" name="cancel" id="0x7f030016" />
+    <public type="string" name="app_reset" id="0x7f030017" />
+    <public type="array" name="action_list" id="0x7f040000" />
+    <public type="array" name="cust_action_list" id="0x7f040001" />
+    <public type="array" name="cust_action_list_debug" id="0x7f040002" />
+</resources>

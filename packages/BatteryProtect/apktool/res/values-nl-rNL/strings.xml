@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Annuleren</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Annuleren</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Uw telefoon wordt te warm en neemt nu stappen om af te koelen. U kunt de telefoon blijven gebruiken maar:
+·Het opladen kan tijdelijk stoppen.
+·Wifi wordt mogelijk afgesloten.
+·Apps worden mogelijk gesloten.
+·Vliegtuigmodus wordt mogelijk aangezet.
+Na te zijn afgekoeld zal uw telefoon weer normaal werken."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Algemene meldingen</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Gebruik de originele accu om op te laden. Anders veroorzaakt u mogelijk permanente/fysieke schade aan uw apparaat.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Gebruik de originele accu</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Laden is gestopt</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">De accu is ongeldig</string>
+    <string name="fih_battery_protect_notification_cooling_down">Afkoelen</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_power_off">Uitschakelen</string>
+    <string name="fih_battery_protect_tap_learn_more">Tik voor meer informatie.</string>
+</resources>

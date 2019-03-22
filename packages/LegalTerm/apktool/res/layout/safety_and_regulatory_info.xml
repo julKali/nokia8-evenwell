@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <com.evenwell.legalterm.CstHorizontalScrollView n1:scrollbars="none" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_above="@id/done_button">
+        <ScrollView n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+            <TextView n1:id="@id/message" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginStart="15.0dip" n1:layout_marginEnd="15.0dip" />
+        </ScrollView>
+    </com.evenwell.legalterm.CstHorizontalScrollView>
+    <Button n1:textColor="@color/zzz_one_right_btn_textcolor" n1:orientation="vertical" n1:id="@id/done_button" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_alignParentBottom="true" style="@style/fih_inlife_btn_style" />
+</RelativeLayout>

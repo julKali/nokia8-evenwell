@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">به‌روزرسانی نرم‌افزار</string>
+    <string name="remote_file_fail">نمی‌توان به فایل از راه دور دسترسی داشت. بعداً مجدداً امتحان کنید.</string>
+    <string name="no_description">(توضیحی وجود ندارد)</string>
+    <string name="login_fail">وارد سرور نشد. بعداً مجدداً امتحان کنید.</string>
+    <string name="get_service_url_fail">اتصال به شبکه پایدار نیست (دریافت آدرس اینترنتی سرویس انجام نشد). بعداً مجدداً امتحان کنید.</string>
+    <string name="query_sw_fail">درخواست اطلاعات نرم‌افزار انجام نشد.</string>
+    <string name="download_sw_fail">دانلود نرم‌افزار انجام نشد.</string>
+    <string name="query_sw_incorrect">نتیجه درست نیست.</string>
+    <string name="no_update_available">به‌روزرسانی جدیدتر موجود نیست.</string>
+    <string name="update_not_ready">به‌روزرسانی جدیدتر در سرور آماده نیست. بعداً مجدداً امتحان کنید.</string>
+    <string name="check_now_label">اکنون بررسی شود</string>
+    <string name="verifying">در حال تأیید...</string>
+    <string name="header_verifying_update_file">در حال تأیید فایل به‌روزرسانی شده...</string>
+    <string name="unzipping">در حال لغو زیپ...</string>
+    <string name="header_starting_to_download_file">شروع دانلود فایل...</string>
+    <string name="new_version_desc_prompt">نسخه جدید شامل:</string>
+    <string name="data_fee_warning">استفاده از سرویس از طریق اتصال شبکه تلفن همراه ممکن است هزینه‌ای در پی داشته باشد.</string>
+    <string name="header_downloading_update">در حال دانلود به‌روزرسانی</string>
+    <string name="header_install_system_software_update">نصب به‌روزرسانی نرم افزار سیستم</string>
+    <string name="msg_install_system_software_update_1">"آیا می‌خواهید نرم‌افزار سیستم زیر را نصب کنید؟
+ارتقای سیستم به"</string>
+    <string name="msg_install_system_software_update_2">"
+
+نمی‌توانید در طی ارتقا، از دستگاهتان استفاده کنید یا تماس‌های اضطراری برقرار کنید.
+
+درآوردن باتری یا کارت SD در حین به‌روزرسانی نرم‌افزار منجر به نتایج غیرمنتظره خواهد شد."</string>
+    <string name="msg_install_system_software_update_3">"
+
+نمی‌توانید در طی ارتقا، از دستگاهتان استفاده کنید.
+
+قطع برق یا حذف فایل دانلود شده در حین به‌روزرسانی نرم‌افزار منجر به نتایج غیرمنتظره خواهد شد."</string>
+    <string name="msg_install_system_software_update_4">"
+
+نمی‌توانید در طی ارتقا، از دستگاهتان استفاده کنید یا تماس‌های اضطراری برقرار کنید.
+
+قطع برق یا حذف فایل دانلود شده در حین به‌روزرسانی نرم‌افزار منجر به نتیجه غیرمنتظره خواهد شد."</string>
+    <string name="button_install_later">بعداً نصب کنید</string>
+    <string name="msg_unable_to_connect">برای استفاده از این برنامه به اتصال شبکه نیاز دارید. شبکه تلفن همراه یا Wi-Fi را در تنظیمات روشن کنید.</string>
+    <string name="msg_unable_to_connect_2">برای استفاده از این برنامه به اتصال شبکه نیاز دارید. لطفاً شبکه تلفن همراه را در تنظیمات روشن کنید.</string>
+    <string name="msg_unable_to_connect_wlan">برای استفاده از این برنامه به اتصال شبکه نیاز دارید. شبکه تلفن همراه یا WLAN را در تنظیمات روشن کنید.</string>
+    <string name="msg_unable_to_connect_short">بدون اتصال شبکه</string>
+    <string name="header_system_is_update">سیستم به‌روز است.</string>
+    <string name="msg_system_is_update">به‌روزرسانی جدیدتر موجود نیست.</string>
+    <string name="msg_system_is_update_short">به‌روزرسانی‌های جدیدتر موجود نیست</string>
+    <string name="msg_no_sd_card">کارت SD برای به‌روزرسانی سیستم ضروری است. لطفاً یک کارت SD موجود را وارد کنید.</string>
+    <string name="msg_no_available_size_card">این فایل به‌روزرسانی به %s فضای موجود نیاز دارد. لطفاً تعدادی از فایل‌ها را از کارت SD حذف کنید.</string>
+    <string name="msg_no_available_size_card_2">این فایل به‌روزرسانی به %s فضای موجود نیاز دارد. لطفاً تعدادی از فایل‌ها را در ذخیره داده حذف کنید.</string>
+    <string name="msg_no_available_size_card_short">فضای آزاد کافی وجود ندارد.</string>
+    <string name="msg_do_not_remove_sd_card">لطفاً کارت SD را خارج نکنید.</string>
+    <string name="msg_system_battery_too_low">"به‌روزرسانی سیستم آماده است، اما باتری دستگاهتان برای نصب آن بسیار ضعیف است. لطفاً باتری را شارژ کنید و بعداً نصب را شروع کنید.
+
+سطح باتری باید بیشتر از 35%% باشد
+سطح باتری کنونی: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">باتری خیلی ضعیف است</string>
+    <string name="msg_remove_sd_card">فایل دانلود شده را نمی‌توان در کارت SD نوشت. لطفاً کارت SD را بررسی کنید.</string>
+    <string name="msg_remove_sd_card_2">فایل دانلود شده را نمی‌توان در ذخیره داده نوشت. لطفاً حافظه را بررسی کنید.</string>
+    <string name="msg_remove_sd_card_short">دسترسی به کارت SD انجام نشد.</string>
+    <string name="msg_remove_sd_card_short_2">دسترسی به ذخیره داده انجام نشد.</string>
+    <string name="msg_verify_fail">تأیید فایل دانلود شده انجام نشد.</string>
+    <string name="msg_verify_fail_short">تأیید انجام نشد</string>
+    <string name="msg_unzip_fail">لغو ززیپ فایل دانلود شده انجام نشد.</string>
+    <string name="msg_unzip_fail_short">لغو زیپ انجام نشد</string>
+    <string name="data_size">اندازه داده</string>
+    <string name="required_size">فضای ضروری</string>
+    <string name="network_not_match">تنظیم کنونی شما، دانلود فقط از طریق WLAN است. لطفاً یک شبکه WLAN انتخاب کنید یا تنظیماتتان را تغییر دهید.</string>
+    <string name="network_not_match_short">شبکه مطابقت ندارد.</string>
+    <string name="without_reboot_api">به دلیل API ناموجود، نمی‌توان راه‌اندازی مجدد کرد. لطفاً برای بازیابی دستی به‌روزرسانی فعال، راه‌اندازی مجدد کنید.</string>
+    <string name="update_complete">به‌روزرسانی سیستم کامل شد.</string>
+    <string name="update_complete_short">ارتقا تکمیل شد</string>
+    <string name="file_removed">فایل دانلود شده حذف شده است. لطفاً دوباره دانلود کنید.</string>
+    <string name="file_removed_short">فایل دانلود شده حذف شده است.</string>
+    <string name="file_not_match">فایل دانلود شده با اندازه مورد انتظار مطابقت ندارد. لطفاً دوباره دانلود کنید.</string>
+    <string name="file_not_match_short">فایل مطابقت ندارد.</string>
+    <string name="menu_url">تغییر URL سرور</string>
+    <string name="menu_enabled">فقط فعال‌سازی نرم‌افزار</string>
+    <string name="using_internal_storage">استفاده از حافظه داخلی</string>
+    <string name="using_external_storage">استفاده از حافظه خارجی</string>
+    <string name="msg_agree_message">"
+
+احتمال کمی وجود دارد که داده‌های کاربر توسط فرآیند ارتقا پاک شوند. در صورت نیاز، لطفاً قبل از نصب ارتقای سیستم، از داده‌هایتان پشتیبان بگیرید."</string>
+    <string name="msg_root_message">"
+
+به‌روزرسانی عادی را نمی‌توان پس از راه‌اندازی مجدد دستگاه، تضمین کرد."</string>
+    <string name="msg_responsibility_message">اگر دستگاهتان قابل کنترل شده ست، کاربر برای هر گونه رفتار غیرعادی سیستم پس از به‌روزرسانی، مسئول است.</string>
+    <string name="msg_upgrade_agree">بخوانید و موافقت کنید</string>
+    <string name="update_summary">بررسی برای نسخه به‌روز</string>
+    <string name="wlan_only">WLAN فقط</string>
+    <string name="wifi_only_summary">وقتی اتصال Wi-Fi در دسترس است، به‌روزرسانی‌ها دانلود شود</string>
+    <string name="wlan_only_summary">وقتی اتصال WLAN در دسترس است، به‌روزرسانی‌ها دانلود شود</string>
+    <string name="auto_update">به‌روزرسانی خودکار</string>
+    <string name="auto_update_summary">بررسی برای نسخه به‌روز</string>
+    <string name="new_data_fee_warning">بررسی و دانلود به‌روزرسانی‌ها ممکن است هزینه‌های اضافی در پی داشته باشد. در صورت امکان، به‌روزرسانی‌ها را از طریق Wi-Fi دانلود کنید.</string>
+    <string name="wlan_data_fee_warning">بررسی و دانلود به‌روزرسانی‌ها ممکن است هزینه‌های اضافی در پی داشته باشد. در صورت امکان، به‌روزرسانی‌ها را از طریق WLAN دانلود کنید.</string>
+    <string name="install_fail">عدم انجام نصب</string>
+    <string name="install_all">نصب همه</string>
+    <string name="installed_version">نسخه نصب شده</string>
+    <string name="update_available">به‌روزرسانی موجود است.</string>
+    <string name="apk_update_available">به‌روزرسانی برنامه موجود است.</string>
+    <string name="recommend">توصیه شده</string>
+    <string name="roaming_restriction">محدودیت رومینگ داده</string>
+    <string name="roaming_restriction_summary">به دلیل محدودیت رومینگ داده، نمی‌توان به‌روزرسانی کرد.</string>
+    <string name="changelog">تغییر گزارش</string>
+    <string name="apk_update_available_summary">%s یک به‌روزرسانی موجود است. برای نصب روی \"تأیید\" کلیک کنید یا برای بررسی برای نسخه به‌روز پس از یک روز، روی \"لغو\" کلیک کنید.</string>
+    <string name="apk_removed">این برنامه حذف شده است.</string>
+    <string name="apk_available_items">در مجموع %s مورد موجود</string>
+    <string name="apk_available_item">در مجموع %s مورد موجود</string>
+    <string name="invalid_update_summary">به‌روزرسانی نامعتبر است، لطفاً دوباره بررسی کنید.</string>
+    <string name="recheck">دوباره بررسی کنید</string>
+    <string name="image_download_exception_summary">نمی‌توان به سرور دسترسی داشت، لطفاً بعداً دوباره بررسی کنید.</string>
+    <string name="apk_download_exception">نمی‌توان به سرور دسترسی داشت</string>
+    <string name="installation_confirmation">تأیید نصب</string>
+    <string name="apk_need_reboot_summary">پس از اتمام نصب، این به‌روزرسانی نرم‌افزار باعث راه‌اندازی مجدد خودکار سیستم خواهد شد. آیا اکنون می‌خواهید نصب کنید؟</string>
+    <string name="prepare_to_reboot">آماده‌سازی برای راه‌اندازی مجدد</string>
+    <string name="prepare_to_reboot_summary">نرم‌افزار نصب شده باید دستگاه را برای پیکربندی تنظیمات، راه‌اندازی مجدد کند. پیشنهاد می‌کنیم که اکنون راه‌اندازی مجدد کنید یا می‌توانید بعداً نیز راه‌اندازی مجدد کنید.</string>
+    <string name="prepare_to_reboot_force_summary">نرم‌افزار نصب شده باید دستگاه را برای پیکربندی تنظیمات، راه‌اندازی مجدد کند. پیشنهاد می‌کنیم اکنون راه‌اندازی مجدد کنید.</string>
+    <string name="reboot_fail">راه‌اندازی مجدد انجام نشد</string>
+    <string name="reboot_fail_summary">به دلیل API ناموجود، نمی‌توان راه‌اندازی مجدد کرد. لطفاً به‌صورت دستی راه‌اندازی مجدد کنید.</string>
+    <string name="apk_no_avaliable_size">به دلیل اندازه حافظه داخلی ناکافی، نمی‌توان دانلود کرد.</string>
+    <string name="update_finished">به‌روزرسانی تمام شد</string>
+    <string name="msg_root_warning">دستگاهتان قابل کنترل شده است یا نرم‌افزار رسمی خراب شده است. ادامه به‌روزرسانی سیستم ممکن است منجر به عدم ثبات سیستم یا خرابی سیستم شود یا ضمانتامه دستگاهتان را باطل کند. آیا می‌خواهید جلسه‌تان ادامه دهید؟</string>
+    <string name="multi_image_update">تعدادی به‌روزرسانی تصویر موجود است</string>
+    <string name="available_update_list">فهرست به‌روزرسانی‌های موجود</string>
+    <string name="downloading_summary">لطفاً دانلود تصویر را لغو کنید</string>
+    <string name="msg_erase_userdata_warning">این به‌روزرسانی باید داده‌های کاربر را پاک کند. ادامه می‌دهید؟</string>
+    <string name="msg_autoupdate_date_fee_warning">فعال‌سازی به‌روزرسانی خودکار ممکن است هزینه‌های اضافی در پی داشته باشد.</string>
+    <string name="invalid_update">به‌روزرسانی نامعتبر است.</string>
+    <string name="file_corrupted">سیستم نمی‌تواند ارتقا یابد، زیرا فایل خراب شده است.</string>
+    <string name="ask_for_apk_check">آیا می‌خواهید به‌روزرسانی‌های برنامه را حذف نصب کنید؟</string>
+    <string name="update_ota_self">به‌روزرسانی نرم‌افزار در حال انجام است.</string>
+    <string name="ab_update_fail">مشکل نصب.</string>
+    <string name="ab_update_wrong_status">موتور به‌روزرسانی اکنون مشغول است. لطفاً بعداً دوباره امتحان کنید یا راه‌اندازی مجدد کنید.</string>
+    <string name="ab_update_installing">به‌روزرسانی سیستم</string>
+    <string name="tag_engineer_mode">حالت مهندس</string>
+    <string name="engineer_version_incorrect">نسخه دستگاهتان درست نیست</string>
+    <string name="msg_engineer_ota_restore">برای بازنشانی نسخه رسمی، ضربه بزنید</string>
+    <string name="msg_engineer_ota_restore_warning">نسخه رسمی را بازنشانی خواهد کرد. ادامه می‌دهید؟</string>
+    <string name="silent_mode_data_fee_warning">به‌روزرسانی موجود است. دانلود به‌روزرسانی‌ها ممکن است هزینه‌های اضافی در پی داشته باشد. در صورت امکان، به‌روزرسانی‌ها را از طریق Wi-Fi دانلود کنید.</string>
+    <string name="msg_updating_system">در حال به‌روزرسانی سیستم...</string>
+    <string name="msg_tap_to_reboot">برای راه‌اندازی مجدد، ضربه بزنید</string>
+    <string name="msg_pause_download">مکث دانلود</string>
+    <string name="notification_channel_name">به‌روزرسانی سیستم</string>
+    <string name="notification_channel_alert_name">اعلان‌های عمومی</string>
+</resources>

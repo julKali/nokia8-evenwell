@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">ተደራሽነት</string>
+    <string name="available_via_passpoint">በ%1$s በኩል ይገኛል</string>
+    <string name="connected_via_passpoint">በ%1$s በኩል ተገናኝቷል</string>
+    <string name="connected_via_wfa">በ Wi‑Fi ረዳት በኩል ተገናኝቷል</string>
+    <string name="datausage_dialog_negitive_btn">ተወው</string>
+    <string name="datausage_dialog_positive_btn">እሺ</string>
+    <string name="emergency_dial_hmd_message">የአደጋ ጊዜ</string>
+    <string name="hmd_user_experience_program_message">በተጠቃሚ ተሞክሮ ፕሮግራም መሳተፍዎ መን እንደወደዱ እና ምን መሻሻል እንዳለበት ኤችኤምዲ ግሎባል በተሻለ እንዲገነዘብ ያደርጋል። ከጊዜ ወደ ጊዜ፣ እንደ ተከስቶ የነበረን የሶፍትዌር ብልሽት በተበመለከተ ውሂብ የያዘ ፋይል የመሳሰሉ የእርስዎን መሳሪያ ቴክኒካዊ ባህሪዎችን የተመለከተቱ ማንነትን የማይገልጹ ውሂቦች ሊደርሱን ይችላሉ። እንደዚህ አይነት ውሂቦች በህዋሳዊ ግንኙነቶች አማካኝነት የማይተላለፉ መሆኑን ልብ ይበሉ። የNokia መሳሪያዎን በተመለከተ ምን እንደሚያስቡ መስማት እንወዳለን!</string>
+    <string name="hmd_user_experience_program_title">የተጠቃሚ ተሞክሮ ፕሮግራም</string>
+    <string name="insert_sim_cards">ሲም ካርዶችን ያስገቡ</string>
+    <string name="insert_sim_cards_prompt_content">"እንዴት እንደሆነ አያውቁም? ከስልክዎ ጋር የመጣውን መመሪያ ይፈትሹ።
+
+ አንድ ጊዜ ሲም ካርድዎን ካስገቡ በኋላ፣ ለመንቃት የተወሰነ ጊዜ ሊወስዱ ይችላሉ።"</string>
+    <string name="language_selection_cancel_btn">ተወው</string>
+    <string name="language_selection_title">ቋንቋዎን ይምረጡ</string>
+    <string name="light_room_description">%1$s የጥሬ (DNG) ምስሎችን መያዝን ይደግፋል። በአዲሱ ስማርት ስልክዎ ላይ አርትዕ ማድርግ ይችላሉ፣ ከAdobe ጋር የፈጠርነው አጋርነት ምስጋና ይግባውና።&lt;br/>&lt;br/> Adobe Photoshop Lightroom CCን ከGoogle Play መደብር አሁን ያውርዱ።</string>
+    <string name="light_room_title">የፎቶግራፍ ፍቅር አለዎት?</string>
+    <string name="link_speed">%1$d ሜባበሴ</string>
+    <string name="nevigation_selection_back">ተመለስ</string>
+    <string name="nevigation_selection_text">ተመለስ/ባለፈው ጥቅም ላይ የዋለ አዝራሮችን አቀማመጥና ቀለም መቀየር ይችላሉ።</string>
+    <string name="next_btn_lebel">ቀጣይ</string>
+    <string name="not_now">አሁን አይደለም…</string>
+    <string name="passpoint_content">%1$s ምስክሮች</string>
+    <string name="passpoint_label">ተቀምጧል በ</string>
+    <string name="please_select_phase2">ክፍል 2 ማረጋገጥ</string>
+    <string name="proxy_error_empty_host_set_port">የአስተናጋጁ መስክ ባዶ ከሆነ የወደብ መስኩ ባዶ መሆን አለበት።</string>
+    <string name="proxy_error_empty_port">የወደብ መስኩን ማጠናቀቅ ያስፈልግሃል።</string>
+    <string name="proxy_error_invalid_exclusion_list">እርስዎ የተየቡት ያለማካተት ዝርዝር በትክክል ቅርጸት አልተሰጠውም። ያልተካተቱ ጎራዎች ዝርዝር</string>
+    <string name="proxy_error_invalid_port">የተየቡት ወደብ ትክክል አይደለም።</string>
+    <string name="proxy_exclusionlist_label">የእጅ አዙሩን በጎንእለፍ</string>
+    <string name="proxy_hostname_label">የእጅ አዙር ስመ ካዳም</string>
+    <string name="proxy_port_label">የእጅ አዙርወደብ</string>
+    <string name="proxy_settings_title">እጅ አዙር</string>
+    <string name="proxy_url_title">"PAC URL፦ "</string>
+    <string name="proxy_warning_limited_support">አሳሹ የHTTP ተተኪ ተጠቅሟል ሆኖም በሌሎች መተግበሪያዎች ላይጠቀም ይችላል።</string>
+    <string name="saved_network">በ%1$s የተቀመጠ</string>
+    <string name="select_sim_card">ሲም ካርድ ይምረጡ</string>
+    <string name="setup_complete_hmd_1">ለመሄድ ዝግጁ ሊሆኑ ነው...!</string>
+    <string name="setup_finish">እንሂድ</string>
+    <string name="sim_editor_title">የSIM ማስገቢያ %1$d</string>
+    <string name="term_agree_text">እስማማለሁ</string>
+    <string name="upload_agent_hmd_des_text_2">"የNokiaን የተጠቃሚ ተሞክሮ ፕሮግራም ይቀላቀሉ። &lt;a href='launch.UserExperienceActivity://Kode'>ተጨማሪ ይወቁ።&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"እንሂድ\" ላይ መታ በማድረግ የተጠቃሚ ተሞክሮን ለመቀላቀል ይስማማሉ። &lt;a href='launch.UserExperienceActivity://Kode'>]የበለጠ ይወቁ&lt;/a>። ያስታውሱ፣ ሁልጊዜ በቅንብሮች በኩል በኋላ መቀላቀል ይችላሉ።"</string>
+    <string name="welcome_hmd_term_of_use_2">"ቀስቱ ላይ መታ በማድረግ፣ በ&lt;a href='launch.TermOfServiceActivity://Kode'>አገልግሎት ውሎች&lt;/a> እና &lt;a href='launch.AddUploadAgentHandler://Kode'>የግላዊነት መመሪያ&lt;/a> ይስማማሉ። የመሳሪያ ማንቂያ መረጃ ከአንድ ጊዜ የመሳሪያ አካባቢ ጋር ወደ ኤችኤምዲ ግሎባል ይላካል። የውሂብ ወጭ ሊኖር ይችላል።"</string>
+    <string name="welcome_hmd_term_of_use_4">"አዝራሩን መታ በማድረግ፣ ከ &lt;a href='launch.TermOfServiceActivity://Kode'>አገልግሎት ውሎች&lt;/a> እና &lt;a href='launch.AddUploadAgentHandler://Kode'>የግላዊነት መመሪያ&lt;/a> ጋር ይስማማሉ የመሳሪያ ማንቂያ መረጃ ከአንድ ጊዜ የመሳሪያ አካባቢ ጋር ወደ HMD Global ይላካል። &lt;br/>&lt;br/> የራስ ሰር ሶፍትዌር ዝማኔ ማሳወቂያ ይነቃል፣ ይህም የቅርብ ጊዜዎቹን ዝማኔዎች ይጭንልዎታል። ይህ የእርስዎን የውሂብ በጀት አነስተኛ ድርሻ ሊይዝ ይችላል። አገልግሎቶቹ በሚያስፈልጋቸው ጊዜ ሁሉ ከበይነመረብ ጋር ይገናኛሉ።&lt;br/>&lt;br/>እነዚህ አገልግሎቶች የሴሉላር አውታረመረቦችን በሚጠቀሙ ጊዜ የገደብ በላይ ክፍያ ሊያስከፍሉዎ ይችላሉ።"</string>
+    <string name="welcome_hmd_term_of_use_5">"አዝራሩን መታ በማድረግ፣ ከ &lt;a href='launch.TermOfServiceActivity://Kode'>የአገልግሎት ውሎች &lt;/a> ጋር ይስማማሉ።. የመሳሪያ ማንቂያ መረጃ ከአንድ ጊዜ የመሳሪያ አካባቢ ጋር ወደ HMD Global ይላካል። የውሂብ ክፍያዎች ተፈጻሚ ሊሆኑ ይችላሉ። ውሂብ በ &lt;a href='launch.AddUploadAgentHandler://Kode'>የግላዊነት ፖሊሲ&lt;/a>መሰረት ጥቅም ላይ ይውላል።"</string>
+    <string name="welcome_lets_go_button_label">እንሂድ</string>
+    <string name="welcome_vision_settings_button_label">የዕይታ ቅንጅቶች</string>
+    <string name="wifi_add_network">አውታረ መረብ አክል</string>
+    <string name="wifi_advanced_toggle_description_collapsed">ተቆልቋይ ዝርዝር ለላቁ አማራጮች። ለመዘርጋት ሁለቴ መታ ያድርጉ።</string>
+    <string name="wifi_advanced_toggle_description_expanded">ተቆልቋይ ዝርዝር ለላቁ አማራጮች። ለመሰብሰብ ሁለቴ መታ ያድርጉ።</string>
+    <string name="wifi_and_mobile_skipped_message">"ከአውታረመረብ ጋር መገናኘት ስልክዎን በፍጥነት እንዲያዘጋጁ ይረዳዎታል። 
+
+ ያለ ግንኙነት:
+
+"<li>ወደ ደመና መለያዎ መግባት አይችሉም።</li>"
+
+"<li>የሶፍትዌር ዝማኔዎችን ያግኙ</li>"
+
+"<li>ሰዓት እና ቀን በራስ ሰር አዘጋጅ</li></string>
+    <string name="wifi_auth_password_wrong">የይለፍ ቃል የተሳሳተ ሊሆን ይችላል</string>
+    <string name="wifi_band_24ghz">2.4 ጊኸ</string>
+    <string name="wifi_band_5ghz">5 ጊኸ</string>
+    <string name="wifi_cancel">ተወው</string>
+    <string name="wifi_certificate">ሰርቲፊኬት</string>
+    <string name="wifi_connect">አገናኝ</string>
+    <string name="wifi_connected_no_internet">ከበይነመረብ ጋር ተገናኝቷል</string>
+    <string name="wifi_disabled_generic">ተሰናክሏል</string>
+    <string name="wifi_disabled_network_failure">IP ውቅረት ስህተት</string>
+    <string name="wifi_disabled_password_failure">የማረጋገጥ ችግር</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">አታቅርብ</string>
+    <string name="wifi_do_not_validate_eap_server">አታረጋግጥ</string>
+    <string name="wifi_do_not_validate_eap_server_warning">ምንም ሰርቲፊኬት አልተገለጸም። ግንኙነትዎ የግል አይሆንም</string>
+    <string name="wifi_dont_skip">ወደኋላ ተመለስ</string>
+    <string name="wifi_eap_anonymous">ስም አልባ መታወቂያ</string>
+    <string name="wifi_eap_ca_cert">CA ምስክር</string>
+    <string name="wifi_eap_domain">ጎራ</string>
+    <string name="wifi_eap_identity">መታወቂያ</string>
+    <string name="wifi_eap_method">EAP ዘዴ</string>
+    <string name="wifi_eap_user_cert">የተጠቃሚ የምስክር ወረቀት</string>
+    <string name="wifi_fail_to_scan">ለአውታረመረብ መቃኘት አልተቻለም</string>
+    <string name="wifi_failed_connect_message">ከአውታረ መረቡ ጋር መገናኘት አልተሳካም</string>
+    <string name="wifi_failed_forget_message">አውታረ መረብ መርሳት አልተሳካም</string>
+    <string name="wifi_failed_save_message">አውታረ መረብ ማስቀመጥ አልተሳካም</string>
+    <string name="wifi_forget">እርሳ</string>
+    <string name="wifi_frequency">ድግግሞሽ</string>
+    <string name="wifi_gateway">መውጫ</string>
+    <string name="wifi_ip_address">IP አድራሻ</string>
+    <string name="wifi_ip_settings">IP የክንውን አውዶች</string>
+    <string name="wifi_ip_settings_invalid_dns">እባክህ ትክክለኛ dns አድራሻ ተይብ።</string>
+    <string name="wifi_ip_settings_invalid_gateway">እባክህ ትክክለኛ ኣግባቢ ፍኖት አድራሻ ተይብ።</string>
+    <string name="wifi_ip_settings_invalid_ip_address">እባክህ ትክክለኛ IP አድራሻ ተይብ።</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">እባክህ በ0 እና 32 መካከል የአውታረ መረብ ቅድመ ቅጥያ ርዝመት ተይብ።</string>
+    <string name="wifi_multiple_cert_added">(በርካታ የእውቅና ማረጋገጫዎች ታክለዋል)</string>
+    <string name="wifi_network_prefix_length">የአውታረ መረብ ቅድመ ቅጥያ ርዝመት</string>
+    <string name="wifi_no_domain_warning">ጎራ መጠቀስ አለበት።</string>
+    <string name="wifi_no_internet">የበይነመረብ ግንኙነት የለም</string>
+    <string name="wifi_no_internet_no_reconnect">በራስ ሰር አይገናኝም</string>
+    <string name="wifi_not_in_range">በክልል ውስጥ አይደለም</string>
+    <string name="wifi_password">የይለፍ ቃል፦</string>
+    <string name="wifi_picker_connection_positive">እሺ</string>
+    <string name="wifi_remembered">ተቀምጧል</string>
+    <string name="wifi_save">አስቀምጥ</string>
+    <string name="wifi_security">የደህንነት ጥበቃ</string>
+    <string name="wifi_security_none">የለም</string>
+    <string name="wifi_setting_title">ይገናኙ</string>
+    <string name="wifi_shared">ለሌሎች የመሳሪያ ተጠቃሚዎች አጋራ</string>
+    <string name="wifi_show_advanced">የላቁ አማራጮች</string>
+    <string name="wifi_show_password">የይለፍ ቃል አሳይ</string>
+    <string name="wifi_signal">የሲግናል ጥንካሬ</string>
+    <string name="wifi_skip_anyway">ቢሆንም ዝለል</string>
+    <string name="wifi_speed">ፍጥነት አገናኝ</string>
+    <string name="wifi_ssid">አውታረ መረብ ስም</string>
+    <string name="wifi_ssid_hint">SSID ያስገቡ</string>
+    <string name="wifi_status">ሁኔታ</string>
+    <string name="wifi_unchanged">(ያልተለወጠ)</string>
+    <string name="wifi_unspecified">እባክዎ ይምረጡ</string>
+    <string name="wifi_use_system_certs">የስርዓት የዕውቅና ማረጋገጫዎችን ይጠቀሙ</string>
+</resources>

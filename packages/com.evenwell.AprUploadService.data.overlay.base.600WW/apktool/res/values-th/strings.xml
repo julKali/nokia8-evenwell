@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">นโยบายความเป็นส่วนตัว HMD</string>
+    <string name="privacy_activity">นโยบายความเป็นส่วนตัว HMD</string>
+    <string name="privacy_context" />
+    <string name="go_label">เสร็จ</string>
+    <string name="agree">ยอมรับ</string>
+    <string name="see_detail">รายละเอียด</string>
+    <string name="next_btn_lebel">ถัดไป</string>
+    <string name="app_name">โปรแกรมประสบการณ์ผู้ใช้</string>
+    <string name="setting_page_name">โปรแกรมประสบการณ์ผู้ใช้</string>
+    <string name="send_diag_dialog_any_network">เมื่อมีการเชื่อมต่อข้อมูล</string>
+    <string name="send_diag_dialog_wifi">เมื่อมีการเชื่อมต่อ Wi-Fi</string>
+    <string name="send_diag_dialog_wlan">เมื่อมีการเชื่อมต่อ WLAN</string>
+    <string name="send_diag_dialog_title">ส่งการวินิจฉัย</string>
+    <string name="diagnostics_setting">การวินิจฉัย</string>
+    <string name="diagnostics_report">รายงานการวินิจฉัย</string>
+    <string name="diagnostics_report_summary">ส่งรายงานการวินิจฉัยเมื่ออุปกรณ์มีข้อผิดพลาดด้านซอฟต์แวร์</string>
+    <string name="network_options">ตัวเลือกเครือข่าย</string>
+    <string name="send_diagnostics">ส่งการวินิจฉัย</string>
+    <string name="diagnostics_description">โปรดช่วยเราปรับปรุงผลิตภัณฑ์และบริการของเราให้ดีขึ้น โดยอนุญาตให้เราเก็บรวบรวมข้อมูลการวินิจฉัยเมื่ออุปกรณ์ของคุณประสบปัญหาข้อผิดพลาดซอฟต์แวร์ หรือระบบเสีย คุณสามารถเปลี่ยนตัวเลือกในภายหลังได้ตลอดเวลาใน การตั้งค่า</string>
+    <string name="cancel_upload_confirm_msg">คุณกำลังจะออกจากโปรแกรมประเมินความพึงพอใจของผู้ใช้งาน โปรแกรมจะไม่บันทึกและส่งข้อผิดพลาดที่เกิดขึ้นกับซอฟต์แวร์โทรศัพท์ ดังนั้น คุณอาจไม่ได้รับประสบการณ์การใช้งานที่น่าพึงพอใจขณะใช้โทรศัพท์</string>
+    <string name="diagnostics_confirmation">ใช่ ข้าพเจ้าตกลงที่จะส่งข้อมูลการวินิจฉัยโดยอัตโนมัติ</string>
+    <string name="setcomplete">ตั้งค่าสมบูรณ์</string>
+    <string name="agree_dialog">เราได้เปลี่ยนโปรแกรมประสบการณ์ผู้ใช้ของเรา และถ้อยแถลงความเป็นส่วนตัวที่เกี่ยวข้องแล้ว โปรดช่วยเราปรับปรุงผลิตภัณฑ์และบริการของเรา โดยการเข้าร่วมกับโปรแกรมประสบการณ์ผู้ใช้เดี๋ยวนี้ คุณสามารถเปลี่ยนตัวเลือกได้ตลอดเวลาใน การตั้งค่า</string>
+</resources>

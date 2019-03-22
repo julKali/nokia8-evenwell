@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="hmd_service_terms_message">ĐIỀU KHOẢN DỊCH VỤ HMD GLOBAL &lt;br/> &lt;br/>Ngày có hiệu lực: Tháng Chín 1, 2017 &lt;br/> &lt;br/>&lt;b>1. Chấp nhận&lt;/b> &lt;br/> &lt;br/>Điều Khoản Dịch Vụ HMD Global này cùng với Chính Sách Quyền Riêng Tư và tất cả các điều khoản bổ sung và các thông tin khác có thể được cung cấp trong phạm vi Dịch Vụ (gọi chung là “Điều Khoản”) điều chỉnh việc sử dụng của bạn đối với dịch vụ, trang thông tin điện tử, nội dung và phần mềm (gọi chung là “Dịch Vụ”). Bằng việc đăng ký hoặc sử dụng Dịch Vụ hoặc một phần bất kỳ của Dịch Vụ, bạn chấp nhận Điều Khoản. &lt;br/> &lt;br/>Điều Khoản tạo thành một thỏa thuận giữa bạn và Tập Đoàn HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Phần Lan bao gồm cả các công ty liên kết và nhà cung cấp của HMD Global (gọi chung là “HMD Global”), quy định các quyền và trách nhiệm của bạn và HMD Global liên quan tới Dịch Vụ. &lt;br/> &lt;br/>&lt;b>2. Điều Kiện&lt;/b> &lt;br/> &lt;br/>Để sử dụng Dịch Vụ, bạn phải ít nhất đủ mười ba (13) tuổi. Nếu bạn dưới mười ba (13) tuổi, hoặc đủ mười ba (13) tuổi nhưng là người chưa thành niên theo quy định nơi bạn cư trú, bạn phải được bố mẹ hoặc người giám hộ thay mặt bạn đăng ký và chấp thuận việc bạn sử dụng Dịch Vụ. Bất kỳ người nào thực hiện thủ tục đăng ký phải là người có đủ năng lực pháp luật. &lt;br/> &lt;br/>&lt;b>3. Đăng Ký và Chấm Dứt&lt;/b> &lt;br/> &lt;br/>Để sử dụng một Dịch Vụ bạn cần phải đăng ký và tạo một tài khoản HMD Global với tên truy cập và một mật khẩu. Bạn có thể cần phải cung cấp cho chúng tôi một số thông tin cá nhân và các thông tin khác. HMD Global có thể xác minh địa chỉ thư điện tử của bạn trước khi tài khoản có thể được sử dụng. Trong lần đầu sử dụng thiết bị và mỗi lần bạn cập nhật phần mềm thiết bị HMD Global, một tin nhắn sẽ được gửi tới HMD Global. Việc tạo Tài Khoản HMD Global sẽ đòi hỏi phải truyền dữ liệu. Chi phí truyền dữ liệu có thể được áp dụng. &lt;br/> &lt;br/>Bạn đồng ý cung cấp thông tin một cách trung thực và đầy đủ khi đăng ký Dịch Vụ và có trách nhiệm cập nhật các thông tin này. Bạn phải cẩn trọng bảo vệ tên truy nhập và mật khẩu của mình để tránh việc người khác sử dụng trái phép và thông báo kịp thời cho HMD Global về bất kỳ việc sử dụng trái phép nào. Bạn, và bố mẹ hoặc người giám hộ của bạn nếu bạn là người chưa thành niên, chịu trách nhiệm cá nhân về việc sử dụng Dịch Vụ. &lt;br/> &lt;br/>Bạn có thể chấm dứt việc đăng ký nếu bạn không muốn sử dụng Dịch Vụ nữa. Sau khi chấm dứt, bạn sẽ không thể truy cập vào Dịch Vụ. HMD Global có thể chấm dứt việc đăng ký của bạn hoặc cấm bạn truy cập vào một số phần của Dịch Vụ nếu HMD Global có cơ sở hợp lý để cho rằng bạn đã vi phạm Điều Khoản hoặc, với thông báo trước, nếu bạn không truy cập vào Dịch Vụ với tên truy cập của mình trong vòng sáu (6) tháng liền trước. &lt;br/> &lt;br/>Trừ trường hợp Chính Sách Quyền Riêng Tư quy định khác, HMD Global không có trách nhiệm về mọi việc xóa bỏ hoặc mất mát thông tin hoặc nội dung bạn đã gửi tới Dịch Vụ. Khi bạn hoặc HMD Global xóa bỏ thông tin hoặc n</string>
+    <string name="nokia_legal_title">HMD hợp pháp</string>
+    <string name="positive">OK</string>
+    <string name="privacy_activity">Chính sách bảo mật của HMD</string>
+    <string name="privacy_context">"Chính sách quyền riêng tư của HMD Global dành cho sản phẩm và dịch vụ
+
+Ngày có hiệu lực: 1/11/2018
+
+Chúng tôi quan tâm đến quyền riêng tư của bạn
+
+HMD Global Oy cam kết tôn trọng quyền riêng"</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

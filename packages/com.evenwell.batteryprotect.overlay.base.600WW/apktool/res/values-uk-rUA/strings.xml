@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Скасувати</string>
+    <string name="fih_battery_protect_power_off">Вимкнути</string>
+    <string name="fih_battery_protect_high_full_charging">Максимальне обмеження заряджання досягнуто при високих температурах! Коли температура телефону повернеться до нормального стану, заряджання системи продовжиться з нормальною швидкістю.</string>
+    <string name="fih_battery_protect_low_full_charging">Максимальний ліміт заряджання досягнуто при низьких температурах! Коли температура телефону повернеться до нормального стану, заряджання системи продовжиться з нормальною швидкістю.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Досягнуто максимальне обмеження заряджання при високій температурі</string>
+    <string name="fih_battery_protect_low_full_charging_title">Досягнуто максимальне обмеження заряджання при високій температурі</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Загальні сповіщення</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Скасувати</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Використовуйте оригінальний акумулятор</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Заряджання зупинено</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Використовуйте тільки оригінальний акумулятор для заряджання, інакше можна пошкодити пристрій.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Неприпустимий акумулятор</string>
+    <string name="fih_battery_protect_notification_cooling_down">Охолодження</string>
+    <string name="fih_battery_protect_tap_learn_more">Торкніться, щоб дізнатися більше.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Ваш телефон нагрівається, тому він виконує певні дії, щоб охолодитися. Ви можете продовжувати користуватися телефоном, але можете помітити, що:
+·заряджання призупиняється;
+·Wi-Fi вимикається;
+·програми закриваються;
+·вмикається режим польоту.
+Телефон повернеться до нормального режиму, коли охолодиться."</string>
+</resources>

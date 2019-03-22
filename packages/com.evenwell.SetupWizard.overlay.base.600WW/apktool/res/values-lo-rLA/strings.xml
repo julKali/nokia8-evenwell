@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"ເຂົ້າຮ່ວມໂຄງການປະສົບການຜູ້ໃຊ້. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>ຮຽນຮູ້ເພີ່ມເຕີມ&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"ໂດຍ​ການ​ແຕະປຸ່ມ, ທ່ານ​ເຫັນ​ດີນຳ &lt;a href='launch.TermOfServiceActivity://Kode'>ຂໍ້​ກຳ​ນົດ​ການ​ບໍ​ລິ​ການ&lt;/a> ແລະ &lt;a href='launch.AddUploadAgentHandler://Kode'>ນະ​ໂຍ​ບາຍ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ&lt;/a>. ຂໍ້​ມູນ​ການ​ເປີດ​ນຳ​ໃຊ້​ອຸ​ປະ​ກອນ​ທີ່​ມີ​ທີ່​ຕັ້ງ​ອຸ​ປະ​ກອນ​ຄັ້ງ​ດຽວ​ຈະ​ຖືກ​ສົ່ງ​ຫາ HMD Global.&lt;br/>&lt;br/>ການ​ແຈ້ງ​ເຕືອນ​ການ​ອັບ​ເດດ​ຊອບ​ແວ​ອັດ​ຕະ​ໂນ​ມັດ​ຈະ​ຖືກ​ເປີດ​ນຳ​ໃຊ້ ເຊິ່ງ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ​ຫຼ້າ​ສຸດ​ໃຫ້​ທ່ານ. ນີ້​ອາດ​ຈະ​ໃຊ້ສ່ວນ​ນ້ອຍ​ຂອງ​ງົບ​ປະ​ມານ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ. ການ​ບໍ​ລິ​ການ​ຈະ​ເຂົ້າ​ເຖິງ​ອິນ​ເຕີ​ເນັດ​ໃນ​ທຸກ​ຄັ້ງ​ທີ່​ພວກ​ມັນ​ຕ້ອງ​ການ.&lt;br/>&lt;br/>ການ​ບໍ​ລິ​ການ​ເຫຼົ່າ​ນີ້​ຈະ​ເຮັດ​ໃຫ້​ທ່ານ​ເສຍ​ຄ່າ​ໃຊ້​ຈ່າຍ​ເພີ່ມ​ຂຶ້ນ ເມື່ອ​ພວກ​ມັນ​ເຂົ້າ​ໃຊ້​ເຄືອ​ຂ່າຍ​ເຊ​ວ​ລູ​ລາ."</string>
+    <string name="welcome_hmd_term_of_use_5">"ໂດຍການແຕະທີ່ປຸ່ມ, ແມ່ນຖືວ່າທ່ານຍອມຮັບ &lt;a href='launch.TermOfServiceActivity://Kode'>ຂໍ້ກຳນົດບໍລິການ&lt;/a>. ຂໍ້ມູນຂອງທ່ານຈະຖືກປະມວນຜົນໂດຍສອດຄ່ອງຕາມ &lt;a href='launch.AddUploadAgentHandler://Kode'>ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ&lt;/a> ຂອງ HMD. ຂໍ້ມູນການເປິດນຳໃຊ້ອຸປະກອນດ້ວຍສະຖານທີ່ອຸປະກອນແບບເທື່ອດຽວຈະຖືກສົ່ງໄປໃຫ້ HMD Global. ອາດມີຄ່າອິນເຕີເນັດມືຖື."</string>
+    <string name="welcome_vision_settings_button_label">ການຕັ້ງຄ່າການເບິ່ງເຫັນ</string>
+    <string name="next_btn_lebel">​ຕໍ່​ໄປ</string>
+    <string name="back_btn_lebel">ກັບຄືນ</string>
+    <string name="finish_button_label">ສຳເລັດ</string>
+    <string name="sim_not_exist_toast">ກະລຸນາກວດເບິ່ງວ່າທ່ານໃສ່ແຜ່ນ SIM ແລ້ວຫຼືຍັງ.</string>
+    <string name="idle_too_long_toast">ໂທລະສັບນີ້ບໍ່ເຄື່ອນໄຫວເປັນຊ່ວງເວລາໃດໜຶ່ງແລ້ວ. ປິດເຄື່ອງດຽວນີ້ເພື່ອປະຢັດພະລັງງານ.</string>
+    <string name="welcome_message">ຍິນດີຕ້ອນຮັບ</string>
+    <string name="welcome_infocus_term_of_use">"ໂດຍການແຕະລູກສອນ, ທ່ານເຫັນດີນຳ&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>ຂໍ້ກຳນົດການບໍລິການ&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_2">"ໂດຍການແຕະລູກສອນ, ທ່ານເຫັນດີນຳ &lt;a href='launch.TermOfServiceActivity://Kode'>ຂໍ້ກຳນົດການບໍລິການ&lt;/a> ແລະ &lt;a href='launch.AddUploadAgentHandler://Kode'>ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ&lt;/a>. ຂໍ້ມູນການເປີດໃຊ້ງານອຸປະກອນພ້ອມກັບຈຸດທີ່ຕັ້ງອຸປະກອນຄັ້ງດຽວຈະຖືກສົ່ງຫາ HMD Global. ອາດຈະນຳໃຊ້ຄ່າຂໍ້ມູນ."</string>
+    <string name="welcome_start_button_label">​ເລີ່ມ</string>
+    <string name="emergency_dial_message">ໂທສຸກເສີນ</string>
+    <string name="emergency_dial_hmd_message">ເຫດສຸກເສີນ</string>
+    <string name="accessibility_text">​ການ​ຊ່ວຍ​ເຂົ້າ​ເຖິງ</string>
+    <string name="language_selection_title">ເລືອກພາສາຂອງທ່ານ</string>
+    <string name="language_selection_cancel_btn">ຍົກເລີກ</string>
+    <string name="welcome_lets_go_button_label">ເລີ່ມເລີຍ</string>
+    <string name="terms_title">ການໃຊ້ຂໍ້ມູນ</string>
+    <string name="terms_of_service_description">"
+ມັນອາດຈະເຮັດໃຫ້ເກີດຄ່າການໃຊ້ຂ້ມູນມືຖືເພີ່ມເຕີມ ເມື່ອທ່ານໃຊ້ການບໍລິການທີ່ຈຳເປັນຕ້ອງມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ ເຊັ່ນວ່າ ການບໍລິການສະພາບອາກາດ, ການບໍລິການອິນເຕີເນັດ, ອີເມວ, ບຣາວເຊີ ແລະ ອື່ນໆ. ເພື່ອຈັດການຄ່າທຳນຽມການໃຊ້ຂໍ້ມູນມືຖືໃຫ້ມີປະສິດທິພາບກວ່າ, ພວກເຮົາຂໍແນະນຳໃຫ້ທ່ານສະໝັກແພັກເກດການບໍລິການມືຖືທີ່ເໝາະສົມຈາກຜູ້ໃຫ້ບໍລິການຂອງທ່ານ.
+
+ໂດຍການເລືອກເຫັນດີ, ທ່ານອະນຸຍາດໃຫ້ການບໍລິການເຫຼົ່ານີ້ເຊື່ອມຕໍ່ເຄືອຂ່າຍເມື່ອຈຳເປັນ.
+
+ນອກນັ້ນ, ການອັບເດດຊອບແວອັດຕະໂນມັດກໍ່ເປີດໃຊ້ງານຕາມຄ່າເລີ່ມຕົ້ນ. ເພື່ອນຳເອົາປະສົບການຊອບແວໃໝ່ຫຼ້າສຸດມາໃຫ້ທ່ານ, ມັນອາດຈະໃຊ້ຂໍ້ມູນມືຖືໜ້ອຍໜຶ່ງ. ທ່ານສາມາດປ່ຽນຕົວເລືອກດັ່ງກ່າວໄດ້ສະເໝີໃນພາຍຫຼັງໃນການຕັ້ງຄ່າ.
+
+"</string>
+    <string name="term_agree_text">ເຫັນດີ</string>
+    <string name="term_disagree_text">ບໍ່ເຫັນດີ</string>
+    <string name="datausage_dialog_positive_btn">ຖືກແລ້ວ</string>
+    <string name="datausage_dialog_negitive_btn">ຍົກເລີກການ</string>
+    <string name="traffic_prompt_content">ຖ້າທ່ານເລືອກບໍ່ເຫັນດີ, ທ່ານຈະຈຳເປັນຕ້ອງຮ້ອງຂໍການອັບເດດຊອບແວ, ການພະຍາກອນສະພາບອາກາດ ຫຼື ຂໍ້ມູນອື່ນໆດ້ວຍຕົນເອງ.</string>
+    <string name="google_account_intro_description">ຕັ້ງບັນຊີ Google ເພື່ອໃຊ້ທຸກການບໍລິການຂອງ Google.</string>
+    <string name="google_account_intro_title">ບັນຊີ Google</string>
+    <string name="google_account_add_account">ເຂົ້າສູ່ລະບົບດ້ວຍ Google</string>
+    <string name="location_title">ໃຊ້ຈຸດທີ່ຕັ້ງຂອງ Google</string>
+    <string name="location_info_1">ການບໍລິການລະບຸຈຸດທີ່ຕັ້ງຂອງ Google ໃຫ້ແອັບພລິເຄຊັນມີຈຸດທີ່ຕັງໂດຍປະມານຂອງທ່ານໂດຍບໍ່ໃຊ້ GPS.</string>
+    <string name="location_info_2">ທ່ານສາມາດປິດໃຊ້ງານຄຸນສົມບັດເຫຼົ່ານີ້ໄດ້ໃນການຕັ້ງຄ່າ, ຢູ່ກ້ອງການບໍລິການລະບຸຈຸດທີ່ຕັ້ງ.</string>
+    <string name="location_network">ອະນຸຍາດໃຫ້ການບໍລິການລະບຸຈຸດຕັ້ງທີ່ຂອງ Google ເກັບເອົາຂໍ້ມູນຈຸດທີ່ຕັ້ງແບບບໍ່ເປີດເຜີຍຊື່. ການເກັບເອົາຈະເກີດຂຶ້ນ ເຖິງແມ່ນໃນເວລາທີ່ບໍ່ມີແອັບພລິເຄຊັນໃດໃຊ້ງານຢູ່ກໍຕາມ.</string>
+    <string name="location_for_service">ໃຊ້ຈຸດທີ່ຕັ້ງຂອງຂ້ອຍສຳລັບຜົນການຄົ້ນຫາ Google ແລະ ການບໍລິການອື່ນຂອງ Google.</string>
+    <string name="date_and_time">ການຕັ້ງຄ່າວັນທີ &amp; ເວລາ</string>
+    <string name="date_time_auto">ວັນທີ &amp; ເວລາອັດຕະໂນມັດ</string>
+    <string name="date_time_auto_summaryOn">ໃຊ້​ເວ​ລາ​ຈາກ​ເຄືອ​ຂ່າຍ</string>
+    <string name="date_time_auto_summaryOff">ໃຊ້​ເວ​ລາ​ຈາກ​ເຄືອ​ຂ່າຍ</string>
+    <string name="zone_auto">ຕັ້ງເຂດເວລາອັດຕະໂນມັດ</string>
+    <string name="zone_auto_summaryOn">ໃຊ້ເຂດເວລາທີ່ລະບຸໂດຍເຄືອຂ່າຍ</string>
+    <string name="zone_auto_summaryOff">ໃຊ້ເຂດເວລາທີ່ລະບຸໂດຍເຄືອຂ່າຍ</string>
+    <string name="date_time_set_date">ຕັ້ງວັນທີ</string>
+    <string name="date_time_set_time">ຕັ້ງເວລາ</string>
+    <string name="date_time_set_timezone">ເລືອກເຂດເວລາ</string>
+    <string name="date_time_24hour">ໃຊ້ຮູບແບບ 24 ຊົ່ວໂມງ</string>
+    <string name="date_time_date_format">ເລືອກຮູບແບບວັນທີ</string>
+    <string name="choose_timezone">ເລືອກເຂດເວລາ</string>
+    <string name="normal_date_format">ທ້ອງຖິ່ນ (%s)</string>
+    <string name="date_and_time_settings_title">ວັນທີ &amp; ເວລາ</string>
+    <string name="date_and_time_settings_title_setup_wizard">ຕັ້ງວັນທີ ແລະເວລາ</string>
+    <string name="date_and_time_settings_summary">ຕັ້ງຄ່າວັນທີ, ເວລາ, ເຂດເວລາ &amp; ຮູບແບບ</string>
+    <string name="date_picker_title">ວັນທີ</string>
+    <string name="time_picker_title">ເວລາ</string>
+    <string name="account_intro_title">ບັນຊີການບໍລິການ [BRAND_NAME]</string>
+    <string name="account_intro_description">ວິທີທີ່ສະຫຼາດກວ່າໃນການໃຊ້ອຸປະກອນມືຖືຂອງທ່ານ ໂດຍການເຂົ້າເຂົ້າຮ່ວມການບໍລິການ [BRAND_NAME].</string>
+    <string name="add_infocus_service_account">ເພີ່ມບັນຊີການບໍລິການ [BRAND_NAME]</string>
+    <string name="dropbox_fih_signup">ລົງທະບຽນດ້ວຍ Dropbox</string>
+    <string name="dropbox_fih_signin">ເຂົ້າສູ່ລະບົບດ້ວຍ Dropbox</string>
+    <string name="dropbox_fih_description">ຮັບເອົາພື້ນທີ່ເກັບຂໍ້ມູນໃນ Dropbox ຟຣີ 2 GB ເພື່ອບັນທຶກຮູບຖ່າຍ ແລະ ວີດີໂອຂອງທ່ານໄດ້ໂດຍອັດຕະໂນມັດ.</string>
+    <string name="nevigation_selection_title">ການສະແດງຜົນ Softkey</string>
+    <string name="nevigation_selection_text">ທ່ານສາມາດປ່ຽນສີພື້ນຫຼັງ ແລະ ຕຳແໜ່ງຂອງປຸ່ມ ກັບຄືນ / ເມື່ອບໍ່ດົນມານີ້ໄດ້.</string>
+    <string name="nevigation_selection_back">ກັບຄືນ</string>
+    <string name="nevigation_selection_home">​ໜ້າຫຼັກ</string>
+    <string name="nevigation_selection_recent">ເມື່ອບໍ່ດົນມານີ້</string>
+    <string name="upload_agent_hmd_des_text_2">"ເຂົ້າຮ່ວມໂຄງການປະສົບການຜູ້ໃຊ້ Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>ຮຽນຮູ້ເພີ່ມເຕີມ.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">ໂຄງການປະສົບການຜູ້ໃຊ້</string>
+    <string name="setup_completed_congratulations">ຍິນດີດ້ວຍ!</string>
+    <string name="setup_complete_hmd">ທ່ານກຽມພ້ອມແລ້ວ...</string>
+    <string name="setup_complete_main">ທ່ານ</string>
+    <string name="setup_complete_sub">ກຽມພ້ອມແລ້ວ.</string>
+    <string name="hmd_user_experience_program_title">ໂຄງການປະສົບການຜູ້ໃຊ້</string>
+    <string name="hmd_user_experience_program_message">ການເຂົ້າຮ່ວມໃນໂຄງການປະສົບການຜູ້ໃຊ້ຂອງທ່ານ ຊ່ວຍໃຫ້ HMD Global ເຂົ້າໃຈດີຂຶ້ນກ່ຽວກັບສິ່ງທີ່ທ່ານມັກກ່ຽວກັບອຸປະກອນ Nokia ຂອງທ່ານ ແລະ ສິ່ງທີ່ທ່ານຄິດວ່າຈຳເປັນຕ້ອງມີການປັບປຸງ. ໃນແຕ່ລະໄລຍະ, ທ່ານອາດຈະໄດ້ຮັບຂໍ້ມູນທີ່ບໍ່ເປີດເຜີຍຊື່ທີ່ມີລັກສະນະທາງເຕັກນິກກ່ຽວກັບອຸປະກອນຂອງທ່ານ ເຊັ່ນວ່າ ໄຟລ໌ທີ່ມີຂໍ້ມູນກ່ຽວກັບການຂັດຂ້ອງຂອງຊອບແວທີ່ອາດຈະໄດ້ເກີດຂຶ້ນ. ກະລຸນາຮັບຊາບວ່າ ຂໍ້ມູນດັ່ງກ່າວຈະບໍ່ຖືກສົ່ງຜ່ານການເຊື່ອມຕໍ່ຂໍ້ມູນເຊລລູລາ. ພວກເຮົາຕ້ອງການໄດ້ຍິນຈາກທ່ານສິ່ງທີ່ທ່ານຄິດກ່ຽວກັບອຸປະກອນ Nokia ຂອງທ່ານ!</string>
+    <string name="skip_button_label">ຂ້າມ</string>
+    <string name="skip_add_account_button_label">ບໍ່​ແມ່ນ​ຕອນ​ນີ້</string>
+    <string name="device_checking_message">ຍິນດີຕ້ອນຮັບ</string>
+    <string name="backup_and_restore_title">ສຳຮອງ ແລະ ກູ້ຄືນ</string>
+    <string name="backup_and_restore_description">"ຖ້າທ່ານເຄີຍສຳຮອງບັນຊີຂອງທ່ານໄວ້ໃນເມື່ອກ່ອນ, ທ່ານສາມາດກູ້ຄືນມັນໃສ່ໂທລະສັບນີ້ໄດ້ຕອນນີ້.
+
+ທ່ານສາມາດປ່ຽນການຕັ້ງຄ່າການສຳຮອງຂອງທ່ານໄດ້ທຸກເວລາໃນການຕັ້ງຄ່າ."</string>
+    <string name="baidu_intro_title">ບ່ອນເກັບຂໍ້ມູນໃນຄລາວສຳລັບ Baidu</string>
+    <string name="baidu_intro_description">ທ່ານສາມາດໃຊ້ການລວມບ່ອນເກັບຂໍ້ມູນໃນຄລາວຢ່າງຕໍ່ເນື່ອງກັບ Baidu Yun ໂດຍການເຮັດສຳເລັດສອງສາມຂັ້ນຕອນ.</string>
+    <string name="add_baidu_button_label">ເຂົ້າສູ່ລະບົບ Baidu Yun</string>
+    <string name="baidu_progress_dialog_des">ກະລຸນາລໍຖ້າ...</string>
+    <string name="wifi_picker_connection_title">ການເຊື່ອມຕໍ່ເຄືອຂ່າຍ</string>
+    <string name="wifi_picker_connection_des_text">ການປິດການເຊື່ອມຕໍ່ WLAN ອາດຈະເຮັດໃຫ້ເກີດຄ່າໃຊ້ຈ່າຍ ເມື່ອທ່ານກວດຢືນຢັນຊອບແວຂອງຜ່ານເຄືອຂ່າຍມືຖື.</string>
+    <string name="wifi_picker_connection_positive">ຖືກແລ້ວ</string>
+    <string name="wifi_picker_connection_negative_prc">ເຊື່ອມຕໍ່ WLAN</string>
+    <string name="wifi_picker_connection_negative">ເຊື່ອມຕໍ່</string>
+    <string name="wifi_picker_warning_title">ຄໍາເຕືອນ</string>
+    <string name="wifi_picker_warning_des_text">ຈົນກວ່າວ່າທ່ານມີການເຊື່ອມຕໍ່ອິນເຕີເນັດ, ໂທລະສັບຈະບໍ່ສາມາດກວດຢືນຢັນວ່າຊອບແວຂອງທ່ານໃໝ່ຫຼ້າສຸດຫຼືບໍ່.</string>
+    <string name="wifi_picker_warning_positive">ບໍ່ຂ້າມ</string>
+    <string name="wifi_picker_warning_negative">ແນວ​ໃດ​ກໍ​ຂ້າມ​ໄປ</string>
+    <string name="fih_legal_title">ຝ່າຍກົດໝາຍຂອງ [BRAND_NAME_PROXY]</string>
+    <string name="fih_legal_message">"ຂໍ້ກຳນົດຂອງ [BRAND_NAME_PROXY] ການໃຊ້ຊອບແວ
+ 
+ ວັນທີມີຜົນນຳໃຊ້: ວັນທີ 20 ພຶດສະພາ 2016
+ 
+ ຂໍ້ກຳນົດ ແລະ ເງື່ອນໄຂຕໍ່ໄປນີ້ (ເອີ້ນວ່າ \" ຂໍ້ກຳນົດ \") ປະກອບເປັນຂໍ້ຕົກລົງທາງກົດໝາຍທີ່ຄວບຄຸມການໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ຂອງທ່ານລະຫວ່າງທ່ານກັບ [BRAND_NAME_PROXY] Inc., ແລະ ຕົວແທນຂອງມັນ, Commtiva Technology Ltd. (ລວມກັນເອີ້ນວ່າ \"[BRAND_NAME_PROXY]\") ແລະ ນຳໃຊ້ກັບການໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ເຊິ່ງລວມມີ ແຕ່ບໍ່ຈໍາກັດ ການດາວໂຫຼດ, ການຕິດຕັ້ງ, ການຕໍ່ອາຍຸໂດຍອັດຕະໂນມັດ (ເອີ້ນວ່າ \" ການບໍລິການຊອບແວ \"). ໂດຍການໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ທ່ານເຫັນດີປະຕິບັດຕາມຂໍ້ກໍານົດເຫຼົ່ານີ້; ຖ້າທ່ານບໍ່ເຫັນດີນຳຂໍ້ກຳນົດດັ່ງກ່າວ, ຈົ່ງຢ່າດາວໂຫຼດ, ອັດສຳເນົາ, ໃຊ້ ຫຼື ຮັກສາຊອບແວ [BRAND_NAME_PROXY] ໄວ້.
+ 
+ 1. ຂໍ້ກຳນົດການໃຊ້
+ ຕາບໃດທີ່ທ່ານປະຕິບັດຕາມຂໍ້ກຳນົດເຫຼົ່ານີ້, [BRAND_NAME_PROXY] ໃຫ້ທ່ານມີຂອບເຂດທີ່ເປັນສ່ວນຕົວ, ບໍ່ສະເພາະເຈາະຈົງ, ບໍ່ສາມາດໂອນໄດ້, ຖອນຄືນໄດ້ ແລະ ແບບຈຳກັດໃນການໃຊ້ການບໍລິການຊອບແວ [BRAND_NAME_PROXY]. [BRAND_NAME_PROXY] ຈະຕິດຕັ້ງລະຫັດວັດຖຸໃສ່ອຸປະກອນມືຖືອັດສະລິຍະ [BRAND_NAME_PROXY] ຂອງທ່ານ (ເອີ້ນວ່າ \" ເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] \") ຜ່ານອິນເຕີເນັດ. ທ່ານຮັບຮູ້ ແລະ ຍິນຍອມເຫັນດີວ່າຊອບແວ [BRAND_NAME_PROXY] ໃນເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານ ບໍ່ສາມາດຖືກໃຊ້ເພື່ອຈຸດປະສົງທາງການຄ້າ ຫຼື ໂອນຍ້າຍໃຫ້ພາກສ່ວນທີສາມໄດ້.
+ ທ່ານເຫັນດີເພີ່ມເຕີມອີກວ່າ ທ່ານຈະບໍ່ໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ໃນແບບໃດໆກໍຕາມຕໍ່ໄປນີ້:
+ (a) ລັກໃຊ້ຊອບແວ [BRAND_NAME_PROXY] (ລວມທັງເຕັກໂນໂລຊີທີ່ກ່ຽວຂ້ອງ) ຫຼື ໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ໃນອຸປະກອນໃດໆກໍຕາມທີ່ບໍ່ແມ່ນຍີ່ຫໍ້ [BRAND_NAME_PROXY];
+ (b) ວິເຄາະ, ແຍກສ່ວນ, ວິສະວະກຳຢ້ອນກັບ, ຖອດລະຫັດ, ລອກແບບ, ປ່ຽນແປງຊອບແວ [BRAND_NAME_PROXY] ຫຼື ສ້າງວຽກຮາກເຫງົ້າຂອງສິ່ງດັ່ງກ່າວເພື່ອຈຸດປຫະສົງໃດໆກໍຕາມ;
+ (c) ດຳເນີນກິດຈະກຳຕ່າງໆ ເຊິ່ງລວມມີແຕ່ບໍ່ຈຳກັດ ການໂອນ, ການໃຫ້ເຊົ່າ, ການໃຫ້ຢືມ ຫຼື ການໃຫ້ໃບອະນຸຍາດຍ່ອຍ ທີ່ຂັດກັບຂໍ້ກົນົດ ແລະ ເຜີຍແຜ່ຊອບແວ [BRAND_NAME_PROXY] ສູ່ສາທາລະນະ ຫຼື ອະນຸຍາດໃຫ້ພາກສ່ວນທີສາມໃຊ້, ເຂົ້າເຖິງ ຫຼື ຄອບຄອງຊອບແວ [BRAND_NAME_PROXY];
+ (d) ເອົາແຈ້ງການ, ໂລໂກ້ ຫຼື ເຄື່ອງໝາຍການຄ້າທີ່ມີເຈົ້າຂອງທຸກຊະນິດຂອງຊອບແວ [BRAND_NAME_PROXY] ຫຼື ເອກະສານຕ່າງໆອອກໂດຍບໍ່ໄດ້ຮັບການຍິນຍອມເຫັນດີເປັນລາຍລັກອັກສອນກ່ອນລ່ວງໜ້າຈາກ [BRAND_NAME_PROXY];
+ (e) ໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ໃນແບບທີ່ຂັດກັບກົດໝາຍໃນປັດຈຸບັນ ຫຼື ລະເມີດສິດທິຂອງພາກສ່ວນອື່ນ;
+ (f) ໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ໃນສະພາບແວດລ້ອມທີ່ຫ້າມ ຫຼື ຈໍາກັດການໃຊ້ດັ່ງກ່າວ ລວມທັງແຕ່ບໍ່ຈໍາກັດ ພື້ນທີ່ຄວບຄຸມການບິນ, ສະຖານີແກັສ, ອຸປະກອນນິວເຄຼຍ; ຫຼື
+ (g) ໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ໃນແບບທີ່ຂັດກັບຂໍ້ກໍານົດ.
+ 
+ ເພື່ອຮັບປະກັນໃຫ້ເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ແລະ ຊອບແວ [BRAND_NAME_PROXY] ໃຊ້ໄດ້ຢ່າງຖືກຕ້ອງ, ທ່ານສັນຍາ ແລະ ຢືນຢັນວ່າທ່ານຈະບໍ່ທຳລາຍ ຫຼື ຍ້າຍສະຫຼາກທີ່ຕິດຢູ່ເທິງເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານ ໂດຍບໍ່ມີການຊ່ວຍເຫຼືອຈາກພະນັກງານຂອງ [BRAND_NAME_PROXY]. ກິດຈະກຳທີ່ບໍ່ໄດ້ຮັບອະນຸຍາດດັ່ງກ່າວຈະມີຜົນຕໍ່ກັບຂອບເຂດ ແລະ ໄລຍະຂອງການຄໍ້າປະກັນທີ່ [BRAND_NAME_PROXY] ສະໜອງໃຫ້ແກ່ທ່ານ.
+ 
+ 2. ນະໂຍບຄວາມຄວາມເປັນສ່ວນຕົວ
+ ທ່ານຮັບຮູ້ ແລະ ເຫັນດີວ່າ [BRAND_NAME_PROXY] ສາມາດເກັບເອົາ ແລະ ຮັກສາຂໍ້ມູນຕ່າງໆໄວ້ ເຊິ່ງລວມມີ ແຕ່ບໍ່ຈໍາກັດ ປະເພດໂໝດ, ໝາຍເລກປະຈຳເຄື່ອງ, ລະຫັດ IMEI/MEID、ເວີຊັນ HW, ເວີຊັນ SW, ເວລາສະສົມ, SKU ID, ສະຖິຕິເລີ່ມຕົ້ນ ແລະ ເວີຊັນ OS ຢູ່ໃນເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານ (ເອີ້ນວ່າ \" ຂໍ້ມູນ \"). 
+ ໃນກໍລະນີທີ່ [BRAND_NAME_PROXY] ຖືກກໍານົດໃຫ້ເປີດເຜີຍຂໍ້ມູນໃດໆກໍຕາມຕໍ່ກັບໜ່ວຍງານລັດຖະບານ ຫຼື ລະບົບສານ, [BRAND_NAME_PROXY] ຈະເປີດເຜີຍຕາມການກໍານົດ.
+ 
+ ເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຈະແຈ້ງບອກ [BRAND_NAME_PROXY] ສະຖານະວ່າເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ບໍ່ໄດ້ຖືກເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມຖືເປັນເວລາຢ່າງໜ້ອຍ 14 ວັນນັບຕັ້ງແຕ່ວັນທີຊື້.
+ 
+ ກະລຸນາເບິ່ງນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ [BRAND_NAME_PROXY] ສໍາລັບລາຍລະອຽດ.
+ 
+ 3. ການບໍລິການຊ່ວຍເຫຼືອ
+ [BRAND_NAME_PROXY] ຈະໃຫ້ການບໍລິການຊອບແວ ລວມທັງແຕ່ບໍ່ຈຳກັດ ການອັບເດດ ແລະ ການອັບເກຣດຕ່າງໆຕໍ່ກັບຊອບແວ [BRAND_NAME_PROXY] ຂອງທ່ານອີງຕາມສະຖານະໃນປັດຈຸບັນທີ່ [BRAND_NAME_PROXY] ໄດ້ຮັບຈາກເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY].
+ [BRAND_NAME_PROXY] ຈະໃຫ້ການອັບເດດ, ໂປຣແກຣມແກ້ໄຂ ຫຼື ອົງປະກອບເພີ່ມຕໍ່ກັບຊອບແວ [BRAND_NAME_PROXY] ຂອງທ່ານຫຼັງຈາກການໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ຂອງທ່ານຜ່ານອິນເຕີເນັດ ແລະ ຈະຂຶ້ນກັບຂໍ້ກໍານົດ.
+ 
+ [BRAND_NAME_PROXY] ມີສິດຢຸດເຊົາສິດທິຂອງທ່ານໃນການໄດ້ຮັບການບໍລິການ [BRAND_NAME_PROXY] ໃດໆກໍຕາມຜ່ານອິນເຕີເນັດຕໍ່ກັບການໃຊ້ຊອບແວ [BRAND_NAME_PROXY] ແລະ ການບໍລິການແມ່ນຄ່ອງຕົວ.
+ [BRAND_NAME_PROXY] ຈະເຜີຍແຜ່ຊອບແວ [BRAND_NAME_PROXY] ເວີຊັນອອກໃໝ່ ແລະ ກໍານົດໃຫ້ທ່ານໃຊ້ເວີ OS ໃໝ່ຫຼ້າສຸດ.
+ 
+ 4. ອັບເດດໂດຍອັດຕະໂນມັດ
+ ເພື່ອເສີມສ້າງ ແລະ ປັບປຸງເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານເອງ, ມັນຖືກຕັ້ງຄ່າໄວ້ກ່ອນໃຫ້ດາວໂຫຼດເຟີມແວ ແລະ ຊອບແວໂດຍອັດຕະໂນມັດຈາກ [BRAND_NAME_PROXY] 
+ 
+ ເພື່ອຮັບປະກັນຄວາມປອດໄພ ແລະ ຄວາມໝັ້ນຄົງຂອງເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY], ທ່ານເຫັນດີປະຕິບັດຕາມຄຳແນະນຳທີ່ຈຳເປັນສຳລັບການຕັ້ງຄ່າດັ່ງກ່າວ ແລະ ປະຕິບັດຕາມຄຳແນະນຳ ຕາມທີ່ແນະນຳໄວ້ໂດຍ [BRAND_NAME_PROXY]. ເພາະວ່າທ່ານເຫັນດີດາວໂຫຼດເຟີມແວ ຫຼື ຊອບແວຫຼ້າສຸດ, ຖືວ່າທ່ານຍອມຮັບການຕໍ່ອາຍຸ ແລະ ການຕິດຕັ້ງນີ້.
+ 
+ ເພື່ອຫຼີກເວັ້ນການສູນເສຍເອກະສານ, ຮູບຖ່າຍ, ຂໍ້ຄວາມ, ໄຟລ໌ສຽງ, ໄຟລ໌ວິດີໂອຂອງທ່ານເອງ ແລະ ບັນທຶກອີເລັກໂທຣນິກທຸກຊະນິດ ເຊິ່ງອາດຈະສຸນເສຍ ຫຼື ຖືກທຳລາຍເນື່ອງຈາກເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ດໍາເນີນການອັບເດດ, ທ່ານຮັບຜິດຊອບສຳຮອງທຸກບັນທຶກອີເລັກໂທຣນິກທີ່ກ່າວເຖິງຂ້າງເທິງທີ່ເກັບໄວ້ໃນເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ກ່ອນທີ່ຈະດາວໂຫຼດເຟີມແວ ຫຼື ຊອບແວເວີຊັນຫຼ້າສຸດ.
+ 
+ ເມື່ອເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ອັບເດດໂດຍອັດຕະໂນມັດ ຫຼື ອັບເດດໂດຍມີການຍິນຍອມເຫັນດີຂອງທ່ານຜ່ານຮູບແບບຂໍ້ຄວາມ, ມັນໝາຍຄວາມວ່າທ່ານເຫັນດີນຳເນື້ອຫາຕໍ່ໄປນີ້:
+ (a) ການອັບເດດຊອບແວ:
+ ທ່ານເຫັນດີ ແລະ ຮັບຮູ້ວ່າ [BRAND_NAME_PROXY] ສາມາດເຊື່ອມຕໍ່ຜ່ານອິນເຕີເນັດເພື່ອກວດເບິ່ງເວີຊັນຊອບແວ ແລະ ສະຖານະການອັບເດດໃນເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານໄດ້. ຖ້າ [BRAND_NAME_PROXY] ປະກາດການແຈ້ງເຕືອນການອັບເດດໃດໆກໍຕາມ, [BRAND_NAME_PROXY] ອະນຸຍາດໃຫ້ທ່ານອັບເດດເວີຊັນຊອບແວ ແລະ ສະຖານະ [BRAND_NAME_PROXY] ຜ່ານການບໍລິການ [BRAND_NAME_PROXY].
+ ເມື່ອມີຊອບແວ [BRAND_NAME_PROXY] ໃໝ່, ທ່ານເຫັນດີອະນຸຍາດໃຫ້ [BRAND_NAME_PROXY] ສົ່ງແຈ້ງເຕືອນການອັບເດດດັ່ງກ່າວຫາທ່ານ. ຖ້າທ່ານຢືນຢັນການອັບເດດທີ່ມີໃຫ້ໃໝ່ ມັນໝາຍຄວາມວ່າທ່ານເຫັນດີອະນຸຍາດໃຫ້ [BRAND_NAME_PROXY] ອັບເດດເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານໂດຍອັດຕະໂນມັດ.
+ (b) ການຊິງຄ໌ ແລະ ການອັບເດດເນື້ອຫາ:
+ ຫຼັງຈາກທີ່ທ່ານເຊື່ອມຕໍ່ເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານກັບຄອມພິວເຕີ ຫຼື ອຸປະກອນອື່ນຂອງທ່ານແລ້ວ, ເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານຈະອັບເດດເນື້ອຫາທີ່ກ່ຽວຂ້ອງ ແລະ ຂໍ້ມູນອື່ນໂດຍອັດຕະໂນມັດ (ເຊັ່ນວ່າ: ຂໍ້ມູນຕິດຕໍ່, ປະຕິທິນ, ບຸກມາກຄ໌ ແລະ ໄຟລ໌ຕ່າງໆ).
+ 
+ 5. ການສະຫງວນລິຂະສິດທີ່ມີເຈົ້າຂອງ ແລະ ສິດທິອື່ນທັງໝົດໃນຊອບແວ [BRAND_NAME_PROXY]
+ ເຖິງແມ່ນວ່າທ່ານໄດ້ຮັບອະນຸຍາດໃຫ້ນຳໃຊ້ຊອບແວ ແລະ ການບໍລິການ [BRAND_NAME_PROXY], ແຕ່ [BRAND_NAME_PROXY], ສາຂາ ແລະ ຜູ້ຈຳໜ່າຍຂອງມັນ ມີສິດທັງໝົດຕໍ່ຊອບແວ [BRAND_NAME_PROXY] ເຊິ່ງລວມທັງແຕ່ບໍ່ຈໍາກັດ ສິດທິການເປັນເຈົ້າຂອງ, ລິຂະສິດ ແລະ ສິດທິຊັບສິນທາງປັນຍາອື່ນ.
+ 
+ ທັງໝົດສິດທິໃນຊອບແວ [BRAND_NAME_PROXY] ເຫຼົ່ານັ້ນ ໄດ້ຮັບການປົກປ້ອງຈາກກົດໝາຍທ້ອງຖິ່ນ ແລະ ສົນທິສັນຍາລະຫວ່າງປະເທດ.
+ 
+ 6. ຄຳປະຕິເສດຄວາມຮັບຜິດຊອບ
+ [BRAND_NAME_PROXY] ບໍ່ເຮັດການຮັບຮອງ ຫຼື ການຄໍ້າປະກັນໃດໆ ທີ່ສະແດງອອກຢ່າງຈະແຈ້ງ ຫຼື ສະແດງເປັນໄນ, ລວມທັງແຕ່ບໍ່ຈຳກັດ, ການຄໍ້າປະກັນແບບເປັນໄນກ່ຽວກັບຄວາມສາມາດຂາຍໄດ້, ຄຸນນະພາບທີ່ໜ້າພໍໃຈ ແລະ ຄວາມເໝາະສົມສຳລັບຈຸດປະສົງສະເພາະ ຫຼື ການບໍ່ລະເມີດຕ່າງໆ. 
+ [BRAND_NAME_PROXY] ບໍ່ຮັບປະກັນວ່າ:
+ (a) ທຸກການບໍລິການ [BRAND_NAME_PROXY] ທີ່ທ່ານໄດ້ຮັບຈະຖືກຕ້ອງ ຫຼື ເຊື່ອຖືໄດ້; ຫຼື
+ (b) ການບໍລິການ [BRAND_NAME_PROXY] ຈະຖືກສະໜອງໃຫ້ໂດຍບໍ່ມີການຂັດຈັງຫວະ, ຢ່າງທ່ວງທັນເວລາ, ປອດໄພ; ຫຼື
+ (c) ທຸກຂໍ້ບົກຜ່ອງ ຫຼື ຄວາມຜິດພາດໃນຊອບແວທີ່ສະໜອງໃຫ້ຈະໄດ້ຮັບການແກ້ໄຂໃນທັນທີ.
+ 
+ [BRAND_NAME_PROXY] ຈະບໍ່ຮັບຜິດຊອບສຳລັບການສູນເສຍ ຫຼື ຄວາມເສຍຫາຍທີ່ເກີດຈາກໄວຣັສ ຫຼື ສິ່ງອັນຕະລາຍທາງເຕັກນິກອື່ນ ທີ່ອາດຈະກະທົບກັບເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY], ໂປຣແກຣມ, ຂໍ້ມູນ ຫຼື ເອກະສານທີ່ມີເຈົ້າຂອງອື່ນຂອງທ່ານ ເນື່ອງຈາກການໃຊ້ການບໍລິການ [BRAND_NAME_PROXY]. ທ່ານເຂົ້າໃຊ້ທຸກເນື້ອຫາ ແລະ ສິ່ງອື່ນໆທີ່ທ່ານດາວໂຫຼດ ຫຼື ໄດ້ມາຜ່ານ [BRAND_NAME_PROXY] ໂດຍຮັບຜິດຊອບຄວາມສ່ຽງເອົາເອງ ແລະ ທ່ານຈະຮັບຜິດຊອບພຽງຝ່າຍດຽວສໍາລັບຄວາມເສຍຫາຍຕ່າງໆຕໍ່ກັບເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານ ຫຼື ການສູນເສຍຂໍ້ມູນ ຫຼື ເນື້ອຫາທີ່ເກີດຈາກການດາວໂຫຼດຊອບແວຕ່າງໆ.
+ 
+ 7. ຂີດຈຳກັດຄວາມຮັບຜິດຊອບ ແລະ ການແກ້ໄຂຊົດເຊີຍທັງໝົດ
+ [BRAND_NAME_PROXY] ຈະບໍ່ຮັບຜິດຊອບສຳລັບຄວາມເສຍຫາຍຕາມມາ, ໂດຍບັງເອີນ, ໂດຍທາງອ້ອມ ຫຼື ເປັນການລົງໂທດໃດໆສຳລັບການສູນເສຍຜົນກຳໄລ ຫຼື ຂໍ້ມູນລັບ ຫຼື ຂໍ້ມູນອື່ນໆ, ສຳລັບການຢຸດຊະງັກຂອງທຸລະກິດ, ສຳລັບການບາດເຈັບສ່ວນບຸກຄົນ, ຄວາມເສຍຫາຍທາງຊັບສິນ, ສຳລັບການສູນເສຍຄວາມເປັນສ່ວນຕົວ, ສຳລັບການບໍ່ສາມາດຕອບສະໜອງໄດ້ໜ້າທີ່ທີ່ໄດ້ຮັບມອບໝາຍ ຫຼື ການດູແລທີ່ສົມເຫດສົມຜົນ ຫຼື ສຳລັບການລະເລີຍ.
+ ໃນຂອບເຂດສູງສຸດທີ່ອະນຸຍາດໃຫ້ໂດຍກົດໝາຍທີ່ນຳໃຊ້, ຄວາມຮັບຜິດຊອບສູງສຸດທີ່ລວມກັນທັງໝົດຂອງ [BRAND_NAME_PROXY] ຕໍ່ກັບທ່ານ ແລະ ການແກ້ໄຂຊົດເຊີຍທັງໝົດຂອງທ່ານພາຍໃຕ້ຂໍ້ກໍານົດນີ້ສຳລັບທຸກ ແລະ ທັງໝົດຄວາມເສຍຫາຍ, ການບາດເຈັບ, ຄວາມເສຍຫາຍຕໍ່ຊັບສິນ ແລະ ການສູນເສຍຕ່າງໆທີ່ເກີດຈາກທຸກ ແລະ ທັງໝົດການຮຽກຮ້ອງ ຫຼື ການຟ້ອງຮ້ອງທີ່ກ່ຽວຂ້ອງກັບ ຫຼື ກ່ຽວພັນກັບຂໍ້ກໍານົດນີ້ ເພື່ອຈ່າຍຊົດເຊີຍຄ່າເສຍຫາຍຕົວຈິງທີ່ເກີດຂຶ້ນກັບທ່ານ ຈະບໍ່ເກີນສິບໂດລາສະຫະລັດ (USD 10) ເທົ່ານັ້ນ. 
+ 
+ ການຮຽກຮ້ອງ ຫຼື ການຮ້ອງຟ້ອງຫຼາຍໆຢ່າງທີ່ກ່ຽວຂ້ອງກັບ ຫຼື ກ່ຽວພັນກັບຂໍ້ກຳນົດ ຈະບໍ່ຂະຫຍາຍຂີດຈຳກັດຄວາມຮັບຜິດຊອບ ແລະ ໃນຂອບເຂດສູງສຸດທີ່ອະນຸຍາດໃຫ້ຕາມກົດໝາຍທ້ອງຖິ່ນ ຈະແມ່ນການແກ້ໄຂຊົດເຊີຍໜຶ່ງດຽວ ແລະ ສະເພາະຕໍ່ກັບທ່ານ.
+ 
+ ຖ້າສານທີ່ມີອຳນາດຕັດສິນທີ່ຖືກຕ້ອງເຫັນວ່າ ຂີດຈຳກັດຄວາມຮັບຜິດຊອບຂ້າງເທິງບໍ່ສາມາດບັງຄັບໃຊ້ໄດ້, ມັນຈະ, ໃນຂອບເຂດທີ່ບໍ່ສາມາດນຳໃຊ້ໄດ້ ແຕ່ຄຳສັບ \"ບໍ່ເກີນສິບໂດລາ\" ຈະຖືກຖືວ່າປ່ຽນແທນໂດຍຄຳສັບ \"ບໍ່ເກີນມູນຄ່າຂອງທຸລະກຳທີ່ກ່ຽວຂ້ອງກັບຄວາມຮັບຜິດຊອບທີ່ເກີດຂຶ້ນນັ້ນ.\"
+ 
+ ການຮຽກຮ້ອງ ຫຼື ການຮ້ອງຟ້ອງດັ່ງກ່າວທີ່ກ່ຽວຂ້ອງກັບ ຫຼື ກ່ຽວພັນກັບຂໍ້ກຳນົດ ຕ້ອງຖືກຍື່ນພາຍໃນໜຶ່ງປີຫຼັງຈາກສາເຫດຂອງການກຳທະນັ້ນເກີດຂຶ້ນ. 
+ 8. ຄ່າຊົດເຊີຍ 
+ ເຫັນດີປົກປ້ອງ, ຊົດເຊີຍຄ່າເສຍຫາຍ ແລະ ປ້ອງກັນ [BRAND_NAME_PROXY], ຜູ້ຖືຫຸ້ນ, ຜູ້ອຳນວຍການ, ເຈົ້າໜ້າທີ່, ພາກສ່ວນມີຜົນປະໂຫຍດ, ພະນັກງານ, ສາຂາ ແລະ ບໍລິສັດລູກຂອງມັນ, ໃຫ້ພົ້ນຈາກການຮຽກຮ້ອງ, ການສູນເສຍ, ຄວາມຮັບຜິດຊອບ, ການຮຽກຮ້ອງເອົາ ຫຼື ຄ່າໃຊ້ຈ່າຍຕ່າງໆ (ລວມທັງຄ່າທະນາຍຄວາມ), ທີ່ເຮັດຕໍ່ກັບ [BRAND_NAME_PROXY] ໂດຍພາກສ່ວນທີສາມໃດໆ ເນື່ອງຈາກ ຫຼື ເກີດຈາກ ຫຼື ກ່ຽວຂ້ອງກັບການນຳໃຊ້ການບໍລິການ [BRAND_NAME_PROXY] ຢ່າງບໍ່ຖືກຕ້ອງຂອງທ່ານທີ່ໄປລະເມີດສິດທິຂອງພາກສ່ວນທີສາມໃດໆ.
+ 
+ 9. ການຢຸດເຊົາການບໍລິການ
+ ທ່ານຈະບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ໃຊ້ການບໍລິການ [BRAND_NAME_PROXY] ຢ່າງຖືກກົດໝາຍ ຖ້າທ່ານບໍ່ປະຕິບັດຕາມຂໍ້ກໍານົດ. ໃນສະພາບການດັ່ງກ່າວ, ທ່ານຈະຕ້ອງທຳລາຍ ແລະ ເອົາສຳເນົາທັງໝົດຂອງການບໍລິການ [BRAND_NAME_PROXY] ອອກ. ໃນລະຫວ່າງນັ້ນ, ການຄໍ້າປະກັນເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານເອງຈະຖືກຜົນກະທົບ.
+ ໃນກໍລະນີເກີດການລະເມີດທີ່ກ່າວເຖິງຂ້າງເທິງ, ທ່ານເຫັນດີວ່າ [BRAND_NAME_PROXY] ມີສິດນໍາໃຊ້ສິ່ງຕໍ່ໄປນີ້,
+ (a) ຢຸດເຊົາສິດທິຂອງທ່ານໃນການເຂົ້າເຖິງບັນຊີ [BRAND_NAME_PROXY] ໃນທັນທີ; ແລະ /ຫຼື
+ (b) ບລັອກການເຂົ້າເຖິງບັນຊີການບໍລິການ [BRAND_NAME_PROXY] ໃນອະນາຄົດຂອງທ່ານ
+ 
+ ນອກນັ້ນ ທ່ານຍັງເຫັນດີວ່າທຸກການລະເມີດຂໍ້ກຳນົດ ຈະເຮັດໃຫ້ເກີດຄວາມເສຍຫາຍທີ່ແກ້ໄຂບໍ່ໄດ້ຕໍ່ກັບ [BRAND_NAME_PROXY], ເຊິ່ງການຊົດໃຊ້ຄ່າເສຍຫາຍທາງການເງິນຈະບໍ່ພຽງພໍ ແລະ ທ່ານຍິນຍອມໃຫ້ [BRAND_NAME_PROXY] ຮ້ອງຂໍເອົາການບັນເທົາທາງຄຳສັ່ງສານ ຫຼື ທີ່ຍຸຕິທຳທີ່ [BRAND_NAME_PROXY] ເຫັນວ່າຈໍາເປັນ ຫຼື ເໝາະສົມໃນສະພາບການດັ່ງກ່າວ. ການແກ້ໄຂຊົດເຊີຍເຫຼົ່ານີ້ແມ່ນສ່ວນເພີ່ມຕໍ່ກັບການແກ້ໄຂຊົດເຊີຍອື່ນໆທີ່ [BRAND_NAME_PROXY] ອາດຈະມີຕາມກົດໝາຍ ຫຼື ຕາມຄວາມຍຸຕິທໍາ.
+ 
+ 10. ກົດໝາຍທີ່ຄວບຄຸມ ແລະ ເຂດອຳນາດຕັດສິນ
+ ທ່ານເຫັນດີວ່າທຸກເລື່ອງທີ່ກ່ຽວຂ້ອງກັບທຸກການຂັດແຍ່ງກັນກ່ຽວກັບຂໍ້ກຳນົດ ຈະຖືກຕັດສິນອີງຕາມກົດໝາຍຂອງສາທາລະນະລັດປະຊາຊົນຈີນ (R.O.C.) ໂດຍບໍ່ສົນເລື່ອງການຂັດກັນຂອງບົດບັນຍັດຂອງກົດໝາຍ. 
+ 
+ ທ່ານເຫັນດີນຳເຂດອຳນາດຕັດສິນໂດຍ ແລະ ສະຖານທີ່ຕັດສິນໃນສານເມືອງໄທເປໄຕ້ຫວັນ ແລະ ສະຫຼະສິດການຄັດຄ້ານຕໍ່ກັບເຂດອຳນາດ ຫຼື ສະຖານທີ່ຕັດສິນດັ່ງກ່າວ.
+ 
+ ສຳລັບທຸກການຂັດແຍ່ງທີ່ບໍ່ສາມາດແກ້ໄຂໄດ້ຜ່ານການຕົກລົງແກ້ໄຂຮ່ວມກັນລະຫວ່າງທ່ານກັບ [BRAND_NAME_PROXY], ທ່ານ ຫຼື [BRAND_NAME_PROXY] ຈະມີສິດຊອກຫາການໄກ່ເກ່ຍແກ້ໄຂໄດ້. ຖ້າການຂັດແຍ່ງບໍ່ສາມາດແກ້ໄຂໄດ້ໂດຍການໄກ່ເກ່ຍພາຍໃນ 30 ວັນຕາມເວລາປະຕິທິນ, ການຂັດແຍ່ງດັ່ງກ່າວຈະຖືກຍື່ນຫາສານເມືອງທີ່ເວົ້າເຖິງຂ້າງເທິງ.
+ 
+ 11. ມາດຕາທົ່ວໄປ
+ ຫົວຂໍ້ຕ່າງໆໃນຂໍ້ກຳນົດຖືກໃຊ້ເພື່ອຄວາມສະດວກເທົ່ານັ້ນ.
+ ການທີ່ [BRAND_NAME_PROXY] ບໍ່ສາມາດດໍາເນີນການຕໍ່ກັບການລະເມີດຂອງທ່ານ ບໍ່ປະກອບເປັນການສະຫຼະສິດຂອງຕົນສຳລັບການລະເມີດດັ່ງກ່າວ ຫຼື ສຳລັບການລະເມີດໃນຕໍ່ມາ ຫຼື ຄ້າຍຄືກັນ.
+ 
+ ຖ້າສານທີ່ມີອຳນາດຕັດສິນກຳນົດວ່າ ສ່ວນໃດໜຶ່ງຂອງຂໍ້ກຳນົດເຫຼົ່ານີ້ບໍ່ຖືກຕ້ອງ ຫຼື ບໍ່ສາມາດບັງຄັບໃຊ້ໄດ້, ຈາກນັ້ນມັນຈະປ່ຽນແທນບົດບັນຍັດທີ່ບໍ່ຖືກຕ້ອງ ຫຼື ບໍ່ສາມາດບັງຄັບໃຊ້ໄດ້ນັ້ນດ້ວຍບົດບັນຍັດທີ່ຖືກຕ້ອງ ແລະ ບັງຄັບໃຊ້ໄດ້ທີ່ໃກ້ຄຽງທີ່ສຸດກັບເຈດຕະນາຂອງບົດບັນຍັດຕົ້ນສະບັບ ແລະ ສ່ວນທີ່ເຫຼືອຂອງຂໍ້ກຳນົດຈະສືບຕໍ່ມີຜົນບັງຄັບໃຊ້ຄືເກົ່າ. 
+ 
+ ທ່ານບໍ່ສາມາດມອບໝາຍຂໍ້ກຳນົດ ຫຼື ມອບໝາຍ,​ໂອນຍ້າຍ ຫຼື ອະນຸຍາດຕໍ່ສິດທິຂອງທ່ານໃນຂໍ້ກຳນົດດັ່ງກ່າວໃຫ້ຜູ້ອື່ນໄດ້.
+ 
+ [BRAND_NAME_PROXY] ອາດຈະມອບໝາຍຂໍ້ກຳນົດເຫຼົ່ານີ້ ເປັນບາງສ່ວນ ຫຼື ທັງໝົດ ໄດ້ທຸກເວລາໂດຍແຈ້ງບອກ ຫຼື ບໍ່ແຈ້ງບອກທ່ານກໍໄດ້. 
+ 
+ ຂໍ້ກຳນົດເຫຼົ່ານີ້ປ່ຽນແທນທຸກການສື່ສານແຈ້ງບອກກ່ອນນີ້ ຫຼື ພ້ອມກັນທຸກປະເພດລະຫວ່າງທ່ານກັບ [BRAND_NAME_PROXY] ກ່ຽວກັບເວັບໄຊນີ້.
+ 
+ 12. ຂໍ້ຕົກລົງທັງໝົດ
+ ຂໍ້ກຳນົດ ແລະ ໄຟລ໌ຄັດຕິດການຕໍ່ອາຍຸປະກອບເປັນຂໍ້ຕົກລົງທັງໝົດລະຫວ່າງຕົວທ່ານກັບ [BRAND_NAME_PROXY] ກ່ຽວກັບການບໍລິການ [BRAND_NAME_PROXY].
+ 
+ 13. ການປ່ຽນແປງຂໍ້ກຳນົດ
+ [BRAND_NAME_PROXY] ອາດຈະອັບເດດ, ປ່ຽນແປງ ຫຼື ລຶບເນື້ອຫາຂອງຂໍ້ກຳນົດຕາມເສລີພາບໃນການຕັດສິນໃຈຂອງຕົນໃນແຕ່ລະໄລຍະເວລາ.
+ 
+ ທ່ານຈຳເປັນຕ້ອງກວດເບິ່ງຂໍ້ກຳນົດທີ່ເຜີຍແຜ່ໃນເວັບໄຊຂອງ [BRAND_NAME_PROXY] ເຊິ່ງອາດຈະແຕກຕ່າງຈາກຂໍ້ກໍານົດທີ່ທ່ານໄດ້ອ່ານໃນເບື້ອງຕົ້ນກໍໄດ້.
+ 
+ ຖືວ່າທ່ານຍອມຮັບການປ່ຽນແປງດັ່ງກ່າວ ໂດຍການຕໍ່ອາຍຸຊອບແວ ແລະ ການໃຊ້ເຄື່ອງໂທລະສັບ [BRAND_NAME_PROXY] ຂອງທ່ານ.
+"</string>
+    <string name="hmd_legal_message" />
+    <string name="wapi_psk_security_type">ປະເພດລະຫັດຜ່ານ</string>
+    <string name="upload_agent_hmd_des_text_3">"ໂດຍການແຕະ \"ເລີ່ມກັນເລີຍ\", ທ່ານເຫັນດີເຂົ້າຮ່ວມໂຄງການປະສົບການຜູ້ໃຊ້. &lt;a href='launch.UserExperienceActivity://Kode'>ຮຽນຮູ້ເພີ່ມເຕີມ&lt;/a>. ຈົ່ງຈື່ວ່າ, ທ່ານສາມາດເຂົ້າຮ່ວມໃນພາຍຫຼັງໄດ້ໃນການຕັ້ງຄ່າ."</string>
+    <string name="setup_complete_hmd_1">ທ່ານເກືອບພ້ອມແລ້ວ...!</string>
+    <string name="not_now">ບໍ່ແມ່ນຕອນນີ້…;</string>
+    <string name="setup_finish">ເລີ່ມກັນເລີຍ</string>
+    <string name="wifi_fail_to_scan">ບໍ່ສາມາດສະແກນຫາເຄືອຂ່າຍໄດ້</string>
+    <string name="wifi_security_none">ບໍ່ມີ</string>
+    <string name="wifi_remembered">ບັນທຶກແລ້ວ</string>
+    <string name="wifi_disabled_generic">ປິດໃຊ້ງານແລ້ວ</string>
+    <string name="wifi_disabled_network_failure">ການ​ກຳນົດ​ຄ່າ IP ບໍ່​ສຳ​ເລັດ</string>
+    <string name="wifi_disabled_password_failure">ບັນຫາການຮັບຮອງຄວາມຖືກຕ້ອງ</string>
+    <string name="wifi_not_in_range">ບໍ່ຢູ່ໃນໄລຍະ</string>
+    <string name="wifi_no_internet_no_reconnect">ຈະບໍ່ເຊື່ອມຕໍ່ອັດຕະໂນມັດ</string>
+    <string name="wifi_no_internet">​ບໍ່​ມີການເຂົ້າ​ເຖິງອິນເຕີເນັດ</string>
+    <string name="saved_network">ບັນ​ທຶກ​ໄວ້​ໂດຍ %1$s</string>
+    <string name="connected_via_passpoint">​ເຊື່ອມ​ຕໍ່​​ແລ້ວຜ່ານ %1$s</string>
+    <string name="available_via_passpoint">ມີ​ໃຫ້ຜ່ານ %1$s</string>
+    <string name="wifi_connected_no_internet">ເຊື່ອມຕໍ່ແລ້ວ, ບໍ່ມີອິນເຕີເນັດ</string>
+    <string name="wifi_auth_password_wrong">ລະຫັດຜ່ານອາດຈະບໍ່ຖືກຕ້ອງ</string>
+    <string name="connected_via_wfa">ເຊື່ອຕໍ່ແລ້ວຜ່ານຜູ້ຊ່ວຍ Wi‑Fi</string>
+    <string name="wifi_ssid">ຊື່ເຄືອຂ່າຍ</string>
+    <string name="wifi_ssid_hint">ປ້ອນ SSID</string>
+    <string name="wifi_security">ຄວາ​ມປອດ​ໄພ</string>
+    <string name="wifi_eap_method">ວິທີການ EAP</string>
+    <string name="please_select_phase2">​ການ​ຮັບ​ຮອງ​ຄວາມ​ຖືກ​ຕ້ອງ​ໄລ​ຍະ​ທີ 2</string>
+    <string name="wifi_eap_ca_cert">ໃບ​ຢັ້ງ​ຢືນ​ CA</string>
+    <string name="wifi_do_not_validate_eap_server_warning">ບໍ່ໄດ້ລະບຸໃບຢັ້ງຢືນໃດ. ການເຊື່ອມຕໍ່ຂອງທ່ານຈະບໍ່ເປັນສ່ວນຕົວ.</string>
+    <string name="wifi_eap_domain">​ໂດ​ເມນ</string>
+    <string name="wifi_no_domain_warning">ຕ້ອງລະບຸໂດເມນ.</string>
+    <string name="wifi_eap_user_cert">ໃບຢັ້ງຢືນຜູ້ໃຊ້</string>
+    <string name="wifi_eap_identity">ຕົວຕົນ</string>
+    <string name="wifi_eap_anonymous">ຕົວຕົນທີ່ລະບຸຊື່</string>
+    <string name="wifi_password">ລະຫັດຜ່ານ</string>
+    <string name="wifi_show_password">ສະ​ແດງ​ລະຫັດ​ຜ່ານ</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Drop down ລາຍຊື່ ຕົວເລືອກພິເສດ. ແຕະສອງຄັ້ງເພື່ອເປິດ.</string>
+    <string name="wifi_show_advanced">ຕົວເລືອກຂັ້ນສູງ</string>
+    <string name="proxy_settings_title">ພຣັອກຊີ</string>
+    <string name="proxy_warning_limited_support">ພ​ຣັອກ​ຊີ HTTP ຖືກ​ໃຊ້​ໂດຍບ​ຣາວ​ເຊີ ແຕ່​ອາດ​ຈະ​​ບໍ່​ຖືກ​ໃຊ້​ໂດຍ​ແອັບ​ອື່ນ.</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">ຊື່ແມ່ຂ່າຍພຣັອກຊີ</string>
+    <string name="proxy_exclusionlist_label">ພຣັອກຊີຂ້າມສຳລັບ</string>
+    <string name="wifi_ip_settings">ການຕັ້ງຄ່າ IP</string>
+    <string name="wifi_ip_address">ທີ່ຢູ່ IP</string>
+    <string name="wifi_gateway">ເກດເວ</string>
+    <string name="wifi_network_prefix_length">ຄວາມຍາວຄຳນຳໜ້າເຄືອຂ່າຍ</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">ແຊຣ໌ກັບຜູ້ໃຊ້ອຸປະກອນອື່ນ</string>
+    <string name="proxy_port_label">ຜອດພຣັອກຊີ</string>
+    <string name="wifi_unspecified">ກະລຸນາເລືອກ</string>
+    <string name="wifi_multiple_cert_added">(ເພີ່ມຫຼາຍໃບຢັ້ງຢືນແລ້ວ)</string>
+    <string name="wifi_use_system_certs">​ໃຊ້​​ໃບຢັ້ງຢືນຂອງລະບົບ</string>
+    <string name="wifi_do_not_provide_eap_user_cert">ບໍ່ໃຫ້</string>
+    <string name="wifi_do_not_validate_eap_server">ບໍ່ກວດຮັບຮອງ</string>
+    <string name="wifi_add_network">ເພີ່ມ​ເຄືອ​ຂ່າຍ</string>
+    <string name="wifi_save">ບັນທຶກ</string>
+    <string name="passpoint_label">ບັນທຶກແລ້ວຜ່ານ</string>
+    <string name="wifi_connect">​ເຊື່ອມ​ຕໍ່​</string>
+    <string name="wifi_status">​ສະຖານະ</string>
+    <string name="wifi_signal">ຄວາມແຮງສັນຍານ</string>
+    <string name="wifi_speed">​ຄວາມ​ໄວ​ການ​ເຊື່ອມ​ໂຍງ</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">​ຄວາມ​ຖີ່</string>
+    <string name="wifi_forget">ລືມ</string>
+    <string name="wifi_cancel">ຍົກເລີກ</string>
+    <string name="proxy_error_invalid_port">ຜອດທີ່ທ່ານພິມບໍ່ຖືກຕ້ອງ.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">ພິມທີ່ຢູ່ IP ທີ່ຖືກຕ້ອງ.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">ພິມຄຳນຳໜ້າເຄືອຂ່າຍທີ່ຍາວລະຫວ່າງ 0 ຫາ 32.</string>
+    <string name="wifi_ip_settings_invalid_gateway">ພິມທີ່ຢູ່ເກດເວທີ່ຖືກຕ້ອງ.</string>
+    <string name="wifi_ip_settings_invalid_dns">ພິມທີ່ຢູ່ DNS ທີ່ຖືກຕ້ອງ.</string>
+    <string name="wifi_unchanged">(ບໍ່ປ່ຽນແປງ)</string>
+    <string name="wifi_failed_connect_message">ເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍບໍ່ສຳເລັດ</string>
+    <string name="wifi_failed_save_message">ບັນທຶກເຄືອຂ່າຍໄວ້ບໍ່ສຳເລັດ</string>
+    <string name="wifi_failed_forget_message">ລືມເຄືອຂ່າຍບໍ່ສຳເລັດ</string>
+    <string name="proxy_error_empty_host_set_port">ຊ່ອງ​ຕື່​ມ​ຂໍ້​ມູນ​ຜອດ​ຕ້ອງ​ຫວ່າງ​ເປົ່າ ຖ້າ​ຊ່ອງ​ຕື່ມ​ຂໍ້​ມູນ​ແມ່​ຂ່າຍ​ຫວ່າງ​ເປົ່າ.</string>
+    <string name="proxy_error_empty_port">​ທ່ານ​ຈຳ​ເປັນ​ຕ້ອງ​​ປະ​ກອບ​ຂໍ້​ມູນ​ຊ່ອງ​ຕື່ມ​ຂໍ້​ມູນ​ຜອດ.</string>
+    <string name="proxy_error_invalid_exclusion_list">ລາຍ​ການ​ຂໍ້​ຍົກ​ເວັ້ນ​ທີ່​ທ່ານ​ພິມ​ບໍ່​ຖືກ​ຈັດ​ຮູບ​ແບບ​ຢ່າງ​ຖືກ​ຕ້ອງ. ພິມ​ລາຍ​ການ​ໂດ​ເມນ​ທີ່​ໄດ້​ຮັບ​ຍົກ​ເວັ້ນທີ່​ແຍກ​ກັນ​ດ້ວຍ​ໝາຍ​ຈຸດ.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Drop down ລາຍຊື່ ຕົວເລືອກພິເສດ. ແຕະສອງຄັ້ງເພື່ອປິດ.</string>
+    <string name="passpoint_content">ຂໍ້ມູນປະຈຳຕົວ %1$s</string>
+    <string name="select_sim_card">​ເລືອກແຜ່ນ SIM</string>
+    <string name="sim_editor_title">​ຊ່ອງ​ໃສ່​ແຜ່ນ SIM %1$d</string>
+    <string name="wifi_certificate">ໃບຢັ້ງຢືນ</string>
+    <string name="wifi_setting_title">ເຊື່ອມຕໍ່</string>
+    <string name="wifi_skip_anyway">ແນວໃດກໍຂ້າມ</string>
+    <string name="wifi_dont_skip">ກັບ​ຄືນ</string>
+    <string name="wifi_and_mobile_skipped_message">"​ການ​ເຊື່ອມ​ຕໍ່​ກັບເຄືອ​ຂ່າຍ​ຊ່ວຍ​ທ່ານ​ຕັ້ງຄ່າ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານ​ໄດ້​ຢ່າງວ່ອງ​ໄວ.
+
+ຖ້າ​ບໍ່​ມີ​ການ​ເຊື່ອມ​ຕໍ່, ທ່ານ​ບໍ່​ສາ​ມາດ:
+
+"<li>ລົງ​ຊື່​ເຂົ້າ​ໃຊ້ບັນ​ຊີ Cloud</li>"
+
+"<li>ຮັບ​ເອົາ​ການ​ອັບ​ເດດ​ຊອບ​ແວ</li>"
+
+"<li>ຕັ້ງ​ຄ່າ​ເວ​ລາ ແລະ ວັນ​ທີ​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ</li></string>
+</resources>

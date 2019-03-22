@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">మూసివేయి</string>
+    <string name="fih_weather_button_ok">సరే</string>
+    <string name="fih_weather_button_setting">సెట్టింగ్...</string>
+    <string name="fih_weather_notification_channel_title">సాధారణ నోటిఫికేషన్‌లు</string>
+    <string name="fih_weather_notification_text">అనుమతించడం కోసం నొక్కండి</string>
+    <string name="fih_weather_notification_title">వాతావరణసేవకు అనుమతులు అవసరం</string>
+    <string name="fih_weather_permission_failed">స్థాన అనుమతి తిరస్కరించబడింది, స్థానాన్ని తెలుసుకోవడం సాధ్యం కాదు.</string>
+    <string name="fih_weather_permission_hint_1">ఈ అనువర్తనం సరిగ్గా పని చేయాలంటే దీనికి కింది అనుమతులను అందించాలి. దయచేసి అవసరమైనప్పుడు అనుమతిని మంజూరు చేయండి.</string>
+    <string name="fih_weather_permission_hint_2">ఈ అనువర్తనం సరిగ్గా పని చేయాలంటే, దీనికి అదనపు అనుమతులు అవసరం. దయచేసి సెట్టింగ్‌లలో WeatherService యొక్క అనుమతిని నిర్వహించండి.</string>
+    <string name="fih_weather_permission_success">స్థాన అనుమతి విజయవంతంగా మంజూరు చేయబడింది</string>
+    <string name="fih_weather_service_title_txt">వాతావరణ సమాచార సేవ</string>
+</resources>

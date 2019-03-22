@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">إمكانية الدخول</string>
+    <string name="app_name">SetupWizard</string>
+    <string name="datausage_dialog_negitive_btn">إلغاء</string>
+    <string name="datausage_dialog_positive_btn">موافق</string>
+    <string name="insert_sim_cards">أدخل بطاقات SIM</string>
+    <string name="insert_sim_cards_prompt_content">"لست متأكدًا من الطريقة؟ اطلع على التعليمات التي تأتي مع الهاتف.
+
+بمجرد إدخال بطاقة SIM، قد تستغرق بضع ثوان للتنشيط."</string>
+    <string name="language_selection_cancel_btn">إلغاء</string>
+    <string name="light_room_description">%1$s يدعم التقاط صور بتنسيق RAW (DNG). يمكنك التحرير على هاتفك الذكي الجديد مباشرة بفضل شراكتنا مع شركة Adobe.&lt;br/>&lt;br/>يمكنك تنزيل Adobe Photoshop Lightroom CC من متجر Google Play الآن.</string>
+    <string name="light_room_title">هل أنت مغرم بالتصوير الفوتوغرافي؟</string>
+    <string name="next_btn_lebel">التالي</string>
+    <string name="not_now">ليس الآن...</string>
+    <string name="setup_complete_hmd_1">أنت جاهز تقريبًا للبدء...!</string>
+    <string name="setup_finish">هيا نبدأ</string>
+    <string name="upload_agent_hmd_des_text_3">"بالنقر فوق \"هيا نبدأ\"، فإنك توافق على الانضمام إلى برنامج تجربة المستخدم. &lt;a href='launch.UserExperienceActivity://Kode'>تعرف على المزيد&lt;/a>. وتذكر أنه يمكنك دائمًا الانضمام لاحقًا عبر الإعدادات."</string>
+    <string name="welcome_hmd_term_of_use_5">"بالنقر فوق هذا الزر، فإنك توافق على &lt;a href='launch.TermOfServiceActivity://Kode'>شروط الخدمة&lt;/a>. سيتم إرسال معلومات تنشيط الجهاز مع موقع الجهاز المستخدم لمرة واحدة إلى HMD Global. قد يتم فرض رسوم على البيانات. سيتم استخدام البيانات وفقًا لـ &lt;a href='launch.AddUploadAgentHandler://Kode'>سياسة الخصوصية&lt;/a>."</string>
+</resources>

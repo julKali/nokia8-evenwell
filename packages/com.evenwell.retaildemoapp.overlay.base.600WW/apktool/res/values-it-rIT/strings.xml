@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="cancel">ANNULLA</string>
+    <string name="system_busy_msg">Sistema occupato. Riprovare più tardi.</string>
+    <string name="no_new_demo_found_msg">"Nessun materiale nuovo per la demo trovato.
+
+Toccare OK per avviare la modalità Demo?"</string>
+    <string name="copying">Copia…</string>
+    <string name="downloading">Download…</string>
+    <string name="download_complete_msg">"Download completato.
+
+Toccare OK per avviare la modalità Demo."</string>
+    <string name="download_fail_msg">"Impossibile scaricare il materiale della demo da Internet.
+
+Toccare OK per avviare la modalità Demo?"</string>
+    <string name="enable_demo_mode">Attivare la modalità demo?</string>
+    <string name="disable_demo_mode">Disattiva modalità demo</string>
+    <string name="update_demo_video">Aggiorna video demo</string>
+    <string name="reset_device">Ripristinare il dispositivo?</string>
+    <string name="demo_mode_notifications">Notifiche modalità Demo</string>
+</resources>

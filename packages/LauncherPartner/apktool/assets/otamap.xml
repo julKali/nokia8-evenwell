@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    OTA map file for package update.
+    The similar component should be included in one <similar> tag.
+    This file should be located at position "/system/etc/launcher/otamap.xml"
+-->
+
+<ota_maps>
+    <similar>
+        <component package="com.evenwell.camera2" class="com.android.camera.CameraLauncher"/>
+        <component package="com.hmdglobal.camera2" class="com.android.camera.CameraLauncher"/>
+    </similar>
+</ota_maps>

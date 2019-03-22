@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 सेकंद</item>
+        <item>30 सेकंद</item>
+        <item>%s मिनिट</item>
+        <item>2 मिनिटे</item>
+        <item>परिभाषित सिस्टम वापरा</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 मिनिटे</item>
+        <item>5 मिनिटे</item>
+        <item>10 मिनिटे</item>
+        <item>15 मिनिटे</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh Editor</string>
+    <string name="image_not_null">Hindi maaaring null ang path ng imahe</string>
+    <string name="no_bokeh_type">Walang uri ng bokeh</string>
+    <string name="no_mpo_file">Walang MPO file</string>
+    <string name="save">I-save</string>
+    <string name="save_success">Matagumpay na na-save</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

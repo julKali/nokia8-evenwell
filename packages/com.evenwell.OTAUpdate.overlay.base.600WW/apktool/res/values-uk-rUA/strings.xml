@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Оновлення ПЗ</string>
+    <string name="remote_file_fail">Немає доступу до дистанційного файлу. Спробуйте пізніше.</string>
+    <string name="no_description">(Немає опису)</string>
+    <string name="login_fail">Помилка входу до сервера. Спробуйте пізніше.</string>
+    <string name="get_service_url_fail">"З'єднання з мережею нестабільне (не вдалося отримати URL служби). Спробуйте пізніше."</string>
+    <string name="query_sw_fail">Не вдалося запитати інформацію про ПЗ.</string>
+    <string name="download_sw_fail">Не вдалося завантажити ПЗ.</string>
+    <string name="query_sw_incorrect">Результат неправильний.</string>
+    <string name="no_update_available">Немає нових оновлень.</string>
+    <string name="update_not_ready">Нове оновлення ще не готове на сервері. Спробуйте пізніше.</string>
+    <string name="check_now_label">Перевірити</string>
+    <string name="verifying">Перевірка...</string>
+    <string name="header_verifying_update_file">Перевірка оновленого файлу...</string>
+    <string name="unzipping">Розархівування...</string>
+    <string name="header_starting_to_download_file">Починається завантаження файлу...</string>
+    <string name="new_version_desc_prompt">Нова версія містить:</string>
+    <string name="data_fee_warning">Використання цієї послуги через мобільну мережу може призвести до витрат!</string>
+    <string name="header_downloading_update">Завантаження оновлення</string>
+    <string name="header_install_system_software_update">Установити оновлення системного ПЗ</string>
+    <string name="msg_install_system_software_update_1">"Установити вказане далі системне ПЗ?
+Оновлення системи до"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Під час оновлення користуватися пристроєм і робити екстрені виклики неможливо.
+
+Виймання акумулятора або карти SD під час оновлення ПЗ може призвести до непередбачених результатів."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Під час оновлення користуватися пристроєм неможливо.
+
+Вимкнення пристрою або видалення завантаженого файлу під час оновлення ПЗ призведе до непередбачених результатів."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Під час оновлення користуватися пристроєм і робити екстрені виклики неможливо.
+
+Вимкнення пристрою або видалення завантаженого файлу під час оновлення ПЗ призведе до непередбачених результатів."</string>
+    <string name="button_install_later">Установити пізніше</string>
+    <string name="msg_unable_to_connect">"Для використання цієї програми потрібне з'єднання з мережею. Увімкніть мобільну мережу або Wi-Fi у налаштуваннях."</string>
+    <string name="msg_unable_to_connect_2">"Для використання цієї програми потрібне з'єднання з мережею. Увімкніть мобільну мережу в налаштуваннях."</string>
+    <string name="msg_unable_to_connect_wlan">"Для використання цієї програми потрібне з'єднання з мережею. Увімкніть мобільну мережу або WLAN у налаштуваннях."</string>
+    <string name="msg_unable_to_connect_short">"Немає з'єднання з мережею"</string>
+    <string name="header_system_is_update">Система в актуальному стані.</string>
+    <string name="msg_system_is_update">Немає нових оновлень.</string>
+    <string name="msg_system_is_update_short">Немає нових оновлень</string>
+    <string name="msg_no_sd_card">Для оновлення системи потрібна карта SD. Вставте карту SD.</string>
+    <string name="msg_no_available_size_card">Цей файл оновлення потребує %s МБ вільного місця. Видаліть деякі файли з карти SD.</string>
+    <string name="msg_no_available_size_card_2">Цей файл оновлення потребує %s МБ вільного місця. Видаліть деякі файли зі сховища даних.</string>
+    <string name="msg_no_available_size_card_short">Бракує вільного місця.</string>
+    <string name="msg_do_not_remove_sd_card">НЕ виймайте карту SD.</string>
+    <string name="msg_system_battery_too_low">"Оновлення системи готове, але заряд акумулятора занадто низький для встановлення. Зарядіть акумулятор і почніть встановлення пізніше.
+
+Рівень заряду має бути не менше 35%%.
+Поточний рівень заряду: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Низький рівень заряду</string>
+    <string name="msg_remove_sd_card">Неможливо записати завантажений файл на карту SD. Перевірте карту SD.</string>
+    <string name="msg_remove_sd_card_2">Неможливо записати завантажений файл у сховище даних. Перевірте сховище.</string>
+    <string name="msg_remove_sd_card_short">Немає доступу до карти SD.</string>
+    <string name="msg_remove_sd_card_short_2">Немає доступу до сховища даних.</string>
+    <string name="msg_verify_fail">Не вдалося перевірити завантажений файл.</string>
+    <string name="msg_verify_fail_short">Не вдалося перевірити</string>
+    <string name="msg_unzip_fail">Не вдалося розархівувати завантажений файл.</string>
+    <string name="msg_unzip_fail_short">Не вдалося розархівувати</string>
+    <string name="data_size">Розмір даних</string>
+    <string name="required_size">Потрібне місце</string>
+    <string name="network_not_match">Ваші налаштування дозволяють завантаження тільки через WLAN. Виберіть мережу WLAN або змініть налаштування.</string>
+    <string name="network_not_match_short">Неправильна мережа.</string>
+    <string name="without_reboot_api">Неможливо перезавантажити, відсутній API. Перезавантажте, щоб вручну відновити активне оновлення.</string>
+    <string name="update_complete">Оновлення системи завершено.</string>
+    <string name="update_complete_short">Оновлення завершено</string>
+    <string name="file_removed">Завантажений файл було видалено. Завантажте ще раз.</string>
+    <string name="file_removed_short">Завантажений файл було видалено.</string>
+    <string name="file_not_match">Завантажений файл має неправильний розмір. Завантажте ще раз.</string>
+    <string name="file_not_match_short">Невідповідний файл.</string>
+    <string name="menu_url">Змінити URL сервера</string>
+    <string name="menu_enabled">Тільки ввімкнене ПЗ</string>
+    <string name="using_internal_storage">"Використання внутрішньої пам'яті"</string>
+    <string name="using_external_storage">Використання зовнішнього сховища</string>
+    <string name="msg_agree_message">"
+
+Існує невелика вірогідність того, що під час оновлення дані користувача буде видалено. Створіть резервну копію даних, перш ніж установлювати оновлення системи."</string>
+    <string name="msg_root_message">"
+
+Якщо пристрій root-модифіковано, нормальне оновлення не гарантується."</string>
+    <string name="msg_responsibility_message">Якщо пристрій було root-модифіковано, користувач відповідає за будь-яку аномальну поведінку системи після оновлення.</string>
+    <string name="msg_upgrade_agree">Прочитати та прийняти</string>
+    <string name="update_summary">Перевірити оновлення</string>
+    <string name="wlan_only">Тільки WLAN</string>
+    <string name="wifi_only_summary">Завантажувати оновлення, коли є Wi-Fi</string>
+    <string name="wlan_only_summary">Завантажувати оновлення, коли є WLAN</string>
+    <string name="auto_update">Автооновлення</string>
+    <string name="auto_update_summary">Автоматично перевіряти оновлення</string>
+    <string name="new_data_fee_warning">Перевірка та завантаження оновлень можуть призвести до додаткових витрат. Завантажуйте оновлення через Wi-Fi, коли це можливо.</string>
+    <string name="wlan_data_fee_warning">Перевірка та завантаження оновлень можуть призвести до додаткових витрат. Завантажуйте оновлення через WLAN, коли це можливо.</string>
+    <string name="install_fail">Помилка встановлення</string>
+    <string name="install_all">Установити все</string>
+    <string name="installed_version">Установлена версія</string>
+    <string name="update_available">Доступне оновлення.</string>
+    <string name="apk_update_available">Доступне оновлення програми.</string>
+    <string name="recommend">Рекомендувати</string>
+    <string name="roaming_restriction">Обмеження роумінгу даних</string>
+    <string name="roaming_restriction_summary">Неможливо оновити через обмеження роумінгу даних.</string>
+    <string name="changelog">Журнал змін</string>
+    <string name="apk_update_available_summary">Для %s є оновлення. Натисніть \"ОК\", щоб установити його, або \"Скасувати\", щоб перевірити оновлення за день.</string>
+    <string name="apk_removed">Цю програму було видалено.</string>
+    <string name="apk_available_items">Усього доступно елементів: %s</string>
+    <string name="apk_available_item">Усього %s доступний елемент</string>
+    <string name="invalid_update_summary">Недійсне оновлення. Спробуйте пізніше.</string>
+    <string name="recheck">Перевірити ще раз</string>
+    <string name="image_download_exception_summary">Немає доступу до сервера. Спробуйте пізніше.</string>
+    <string name="apk_download_exception">Немає доступу до сервера</string>
+    <string name="installation_confirmation">Підтвердження встановлення</string>
+    <string name="apk_need_reboot_summary">Це оновлення ПЗ автоматично перезавантажить систему після завершення встановлення. Установити?</string>
+    <string name="prepare_to_reboot">Підготовка до перезавантаження</string>
+    <string name="prepare_to_reboot_summary">Потрібно перезавантажити пристрій для визначення налаштувань. Рекомендується перезавантажити зараз, це також можна зробити пізніше.</string>
+    <string name="prepare_to_reboot_force_summary">Потрібно перезавантажити пристрій для визначення налаштувань. Рекомендується перезавантажити зараз.</string>
+    <string name="reboot_fail">Помилка перезавантаження</string>
+    <string name="reboot_fail_summary">Неможливо перезавантажити, відсутній API. Перезавантажте вручну.</string>
+    <string name="apk_no_avaliable_size">"Неможливо завантажити. Бракує місця у внутрішній пам'яті"</string>
+    <string name="update_finished">Оновлення завершено</string>
+    <string name="msg_root_warning">Ваш пристрій було root-модифіковано, або офіційне ПЗ було зламано. Оновлення системи може призвести до її нестабільності або збою, а гарантію на пристрій може бути анульовано. Дійсно продовжити?</string>
+    <string name="multi_image_update">Доступні оновлення зображень</string>
+    <string name="available_update_list">Список доступних оновлень</string>
+    <string name="downloading_summary">Скасуйте завантаження зображення</string>
+    <string name="msg_erase_userdata_warning">Це оновлення видалить дані користувача. Продовжити?</string>
+    <string name="msg_autoupdate_date_fee_warning">Увімкнення автооновлення може призвести до додаткових витрат.</string>
+    <string name="invalid_update">Недійсне оновлення.</string>
+    <string name="file_corrupted">Неможливо оновити систему, оскільки файл пошкоджений.</string>
+    <string name="ask_for_apk_check">Перевірити наявність оновлень програм?</string>
+    <string name="update_ota_self">Триває оновлення ПЗ.</string>
+    <string name="ab_update_fail">Проблема зі встановленням.</string>
+    <string name="ab_update_wrong_status">Система оновлення зайнята. Спробуйте пізніше або перезавантажте пристрій.</string>
+    <string name="ab_update_installing">Оновлення системи</string>
+    <string name="tag_engineer_mode">Режим розробника</string>
+    <string name="engineer_version_incorrect">Неправильна версія пристрою</string>
+    <string name="msg_engineer_ota_restore">Торкніться, щоб відновити офіційну версію</string>
+    <string name="msg_engineer_ota_restore_warning">Буде відновлено офіційну версію. Продовжити?</string>
+    <string name="silent_mode_data_fee_warning">Доступне оновлення. Завантаження оновлень може призвести до додаткових витрат. Завантажуйте оновлення через Wi-Fi, коли це можливо.</string>
+    <string name="msg_updating_system">Оновлення системи...</string>
+    <string name="msg_tap_to_reboot">Торкніться, щоб перезавантажити</string>
+    <string name="msg_pause_download">Призупинити завант.</string>
+    <string name="notification_channel_name">Оновлення системи</string>
+    <string name="notification_channel_alert_name">Загальні сповіщення</string>
+</resources>

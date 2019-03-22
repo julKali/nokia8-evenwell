@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Risparmio energetico</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="switch_on_text">Attiva</string>
+    <string name="switch_off_text">Non attiva</string>
+    <string name="blacklist">Blacklist</string>
+    <string name="lock_screen_ap_protect_title">Gestione attività in background</string>
+    <string name="all_aps">Aggiungi tutte le app alla whitelist</string>
+    <string name="fih_power_saving_doze_high_consumption">Consumo energetico elevato</string>
+    <string name="fih_power_saving_background_activity_text">Consente alla funzionalità Gestione attività in background di aumentare la durata della batteria, ma le notifiche di alcune app o e-mail potrebbero non essere recuperate subito. La durata della batteria può essere gestita aggiungendo le app alla whitelist o rimuovendole da essa.</string>
+    <string name="fih_power_saving_background_cleaner">Dispositivo di rimozione attività in background</string>
+    <string name="fih_power_saving_background_cleaner_summary">"Le notifiche non possono essere recuperate all'istante"</string>
+    <string name="app_block_list">Elenco app con limitazioni</string>
+    <string name="bam_notification_content_title">Vi sono app che consumano batteria in background.</string>
+    <string name="bam_notification_content_text">Attiva per aumentare la durata della batteria!</string>
+    <string name="bam_notification_btn_turnon">ATTIVA</string>
+    <string name="bam_notification_btn_nevershowthis">MAI MOSTRARE QUESTO</string>
+    <string name="fih_power_saving_background_activity_text_blacklist">Consente alla funzionalità Gestione attività in background di aumentare la durata della batteria, ma le notifiche di alcune app o e-mail potrebbero non essere recuperate subito. La durata della batteria può essere gestita aggiungendo le app alla blacklist o rimuovendole da essa.</string>
+    <string name="enable_blacklist">Abilita blacklist</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">Close</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">Setting</string>
+    <string name="fih_weather_notification_text">Tap to allow</string>
+    <string name="fih_weather_notification_title">Weather service requires permissions</string>
+    <string name="fih_weather_permission_failed">Grant location permission denied, and cannot get location</string>
+    <string name="fih_weather_permission_hint_1">To work properly, this app requires relevant permissions. Please allow permission when asked.</string>
+    <string name="fih_weather_permission_hint_2">To work properly, this app requires additional permissions. Please manage permission of「Weather service」in「Settings」</string>
+    <string name="fih_weather_permission_success">Grant location permission</string>
+    <string name="fih_weather_service_title_txt">Weather service</string>
+</resources>

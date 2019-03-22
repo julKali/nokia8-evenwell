@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statisks</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Noteikt automātiski</item>
+        <item>Maksas</item>
+        <item>Bezmaksas</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Nav</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Nav</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Nav</item>
+        <item>Manuāls</item>
+        <item>Starpniekservera automātiska konfigurācija</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Vājš</item>
+        <item>Labs</item>
+        <item>Labi</item>
+        <item>Teicams</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Pārbauda…</item>
+        <item>Notiek savienojuma izveide ar…</item>
+        <item>Notiek autentificēšana…</item>
+        <item>Notiek IP adreses iegūšana…</item>
+        <item>Pievienota</item>
+        <item>Atlikts</item>
+        <item>Atvieno…</item>
+        <item>Atvienots</item>
+        <item>Neizdevās</item>
+        <item>Bloķēti</item>
+        <item>Pagaidām netiek izmantots vājš savienojums.</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Pārbauda…</item>
+        <item>Notiek savienojuma izveide ar %1$s…</item>
+        <item>Notiek autentificēšana ar %1$s…</item>
+        <item>Notiek IP adreses iegūšana no %1$s…</item>
+        <item>Izveidots savienojums ar %1$s</item>
+        <item>Atlikts</item>
+        <item>Notiek atvienošana no %1$s…</item>
+        <item>Atvienots</item>
+        <item>Neizdevās</item>
+        <item>Bloķēti</item>
+        <item>Pagaidām netiek izmantots vājš savienojums.</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI heksadecimālskaitlis</item>
+    </string-array>
+</resources>

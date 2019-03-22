@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bbs:config xmlns:bbs="http://schemas.fihtdc.com/bbs/fih" >
+
+    <metadata>
+        <version>1.0.0</version>
+        <update-date>2013-10-18</update-date>
+    </metadata>
+
+    <update-details>
+
+        <update date="2013-10-18">Create report_config.xml for only display system and root information</update>
+    </update-details>
+
+    <actionbar bbs:icon="" bbs:title="Device Info." />
+
+    <sections>
+
+        <section
+            bbs:name="SECTION_SYS_INFO"
+            bbs:order="0"
+            bbs:title="System Info." />
+
+        <section
+            bbs:name="SECTION_ROOT_STATUS"
+            bbs:order="1"
+            bbs:title="Root Status" />
+    </sections>
+
+    <reports>
+
+        <!-- Start of System Info. related records -->
+
+        <report
+            bbs:name="REPORT_PROJECT_NAME"
+            bbs:file="PRJNAME"
+            bbs:order="0"
+            bbs:title="Project Name" >
+
+            <categories>
+
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:recordType="simple"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report
+            bbs:name="REPORT_SERIAL_NUMBER"
+            bbs:file="SN"
+            bbs:order="1"
+            bbs:title="Serial" >
+
+            <categories>
+
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:recordType="simple"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report
+            bbs:name="REPORT_CURRENT_VERSION"
+            bbs:file="PREV_VER"
+            bbs:order="2"
+            bbs:title="Version" >
+
+            <categories>
+
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+
+            <records>
+
+                <record bbs:recordType="simple" >
+
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report
+            bbs:name="REPORT_ISP_FIRMWARE"
+            bbs:file="ISPFirmware"
+            bbs:order="3"
+            bbs:title="ISP Firmware" >
+
+            <categories>
+
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:recordType="detail"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="version" />
+                </record>
+            </records>
+        </report>
+
+        <report
+            bbs:name="REPORT_TP_FIRMWARE"
+            bbs:file="TPFirmware"
+            bbs:order="4"
+            bbs:title="TP Firmware" >
+
+            <categories>
+
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:recordType="detail"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="version" />
+                </record>
+            </records>
+        </report>
+
+        <report
+            bbs:name="REPORT_IMEI"
+            bbs:displayMode="expanded"
+            bbs:file="IMEI"
+            bbs:order="5"
+            bbs:title="IMEI" >
+
+            <categories>
+
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:recordType="detail"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report
+            bbs:name="REPORT_MEID"
+            bbs:displayMode="expanded"
+            bbs:file="MEID"
+            bbs:order="6"
+            bbs:title="MEID" >
+
+            <categories>
+
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:recordType="detail"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+        <!-- End of System Info. related records -->
+
+
+        <!-- Start of root related records -->
+
+        <report
+            bbs:name="REPORT_ROOT_STATUS"
+            bbs:file="Root_status"
+            bbs:icon="ic_root"
+            bbs:order=""
+            bbs:title="Root History" >
+
+            <categories>
+
+                <category bbs:name="SECTION_ROOT_STATUS" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:icon="ic_root"
+                    bbs:recordType="simple"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="boolean" />
+                </record>
+            </records>
+        </report>
+
+        <report
+            bbs:name="REPORT_CURRENT_ROOT"
+            bbs:file="CURRENT_ROOT"
+            bbs:icon="ic_root"
+            bbs:order=""
+            bbs:title="Current Root" >
+
+            <categories>
+
+                <category bbs:name="SECTION_ROOT_STATUS" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:icon="ic_root"
+                    bbs:recordType="simple"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="boolean" />
+                </record>
+            </records>
+        </report>
+
+        <report
+            bbs:name="REPORT_IMAGE_STATUS"
+            bbs:file="Img_status"
+            bbs:icon="ic_root"
+            bbs:order=""
+            bbs:title="Image Modification" >
+
+            <categories>
+
+                <category bbs:name="SECTION_ROOT_STATUS" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:icon="ic_root"
+                    bbs:recordType="simple"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="boolean" />
+                </record>
+            </records>
+        </report>
+
+        <report
+            bbs:name="REPORT_ROOT_REASON"
+            bbs:file="ROOT_REASON"
+            bbs:icon="ic_root"
+            bbs:order=""
+            bbs:title="Root Reason" >
+
+            <categories>
+
+                <category bbs:name="SECTION_ROOT_STATUS" />
+            </categories>
+
+            <records>
+
+                <record
+                    bbs:icon="ic_root"
+                    bbs:recordType="detail"
+                    bbs:seperator=":" >
+
+                    <column
+                        format="yyyyMMddhhmmss"
+                        bbs:type="timestamp" />
+
+                    <column bbs:type="key" />
+
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+        <!-- End of root related records -->
+
+    </reports>
+
+</bbs:config>

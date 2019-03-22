@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_capital_off">DESATIVAR</string>
+    <string name="abc_capital_on">ATIVAR</string>
+    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="accessibility_text">Acessibilidade</string>
+    <string name="account_intro_description">Pode desfrutar dos serviços [BRAND_NAME] ao concluir alguns passos simples.</string>
+    <string name="account_intro_title">Serviços [BRAND_NAME]</string>
+    <string name="add_account_button_label">Configurar conta</string>
+    <string name="add_baidu_button_label">Iniciar sessão 百度云</string>
+    <string name="add_infocus_service_account">Adicionar conta de serviços [BRAND_NAME]</string>
+    <string name="back_btn_lebel">VOLTAR</string>
+    <string name="backup_and_restore_description">"Se efetuou anteriormente a cópia de segurança da sua conta, pode restaurá-la agora neste telefone.
+
+Pode alterar as suas definições de cópia de segurança em Definições quando quiser."</string>
+    <string name="backup_and_restore_title">Cópia de segurança e restauro</string>
+    <string name="baidu_intro_description">Pode desfrutar de uma integração simples do armazenamento na nuvem com o 百度云 ao executar alguns passos fáceis.</string>
+    <string name="baidu_intro_title">Armazenamento na nuvem para o Baidu</string>
+    <string name="baidu_progress_dialog_des">Aguarde...</string>
+    <string name="choose_timezone">Escolher fuso horário</string>
+    <string name="datausage_dialog_negitive_btn">Cancelar</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Definições de data e hora</string>
+    <string name="date_and_time_settings_summary">Definir data, hora, fuso horário e formatos</string>
+    <string name="date_and_time_settings_title">Data e Hora</string>
+    <string name="date_and_time_settings_title_setup_wizard">Definir data e hora</string>
+    <string name="date_picker_title">Data</string>
+    <string name="date_time_24hour">Utilizar formato de 24 horas</string>
+    <string name="date_time_auto">Data e hora automáticas</string>
+    <string name="date_time_auto_summaryOff">Utilizar hora fornecida pela rede</string>
+    <string name="date_time_auto_summaryOn">Utilizar hora fornecida pela rede</string>
+    <string name="date_time_date_format">Selecionar formato de data</string>
+    <string name="date_time_set_date">Definir data</string>
+    <string name="date_time_set_time">Definir tempo</string>
+    <string name="date_time_set_timezone">Selecionar fuso horário</string>
+    <string name="device_checking_message">Bem-vindo</string>
+    <string name="dropbox_fih_description">Obtenha 2 GB de espaço no Dropbox para guardar automaticamente as suas fotografias e vídeos.</string>
+    <string name="dropbox_fih_signin">Iniciar sessão com o Dropbox</string>
+    <string name="dropbox_fih_signup">Inscrever-se com o Dropbox</string>
+    <string name="dropbox_fih_title">Dropbox</string>
+    <string name="emergency_dial_hmd_message">Emergência</string>
+    <string name="emergency_dial_message">Chamada de emergência</string>
+    <string name="expand_button_title">Avançado</string>
+    <string name="fih_legal_message">"Termos de Utilização do Software [BRAND_NAME_PROXY]
+ 
+ Data Efetiva: 20 de maio de 2016
+ 
+ Os seguintes Termos e Condições (denominados \" Termos \") constituem um acordo jurídico que regula a utilização de qualquer Software [BRAND_NAME_PROXY] por parte do utilizador, entre o utilizador e a [BRAND_NAME_PROXY] Inc. e respetivo agente, a Commtiva Technology Ltd. (coletivamente, denominada \"[BRAND_NAME_PROXY]\") e são aplicáveis à utilização do Software [BRAND_NAME_PROXY] por parte do utilizador, incluindo, sem limitação, a transferência, a instalação, a renovação automática (denominado \" Serviço de Software \"). Ao utilizar o Software [BRAND_NAME_PROXY], o utilizador concorda em ficar vinculado aos presentes Termos; se o utilizador não concordar com os Termos, não deve transferir, duplicar, utilizar ou guardar o Software [BRAND_NAME_PROXY].
+ 
+ 1. Termos de Utilização
+ Desde que o utilizador respeite os presentes Termos, a [BRAND_NAME_PROXY] concede ao utilizador um âmbito pessoal, não exclusivo, não transferível, revogável e limitado para utilizar os Serviços de Software da [BRAND_NAME_PROXY]. A [BRAND_NAME_PROXY] instalará código objeto no seu dispositivo móvel inteligente [BRAND_NAME_PROXY] (denominado \" Auscultador [BRAND_NAME_PROXY] \") via Internet. O utilizador reconhece e concorda que o Software [BRAND_NAME_PROXY] no Auscultador [BRAND_NAME_PROXY] não pode ser utilizado com uma finalidade comercial, nem transferido para quaisquer terceiros.
+ O utilizador concorda ainda em não utilizar o Software [BRAND_NAME_PROXY] de qualquer uma das seguintes formas:
+ (a) Decifrar o Software [BRAND_NAME_PROXY] (incluindo as tecnologias subjacentes) ou utilizar o Software [BRAND_NAME_PROXY] em qualquer dispositivo sem marca na [BRAND_NAME_PROXY];
+ (b) Analisar, descompilar, proceder a engenharia inversa, descodificar, copiar, modificar o Software [BRAND_NAME_PROXY] ou criar trabalhos derivados do mesmo para qualquer finalidade;
+ (c) Aceder a quaisquer atividades, incluindo, sem limitação, a transferência, locação financeira, empréstimo ou sublicenciamento em conflito com os Termos e tornar público o Software [BRAND_NAME_PROXY] ou deixar que terceiros utilizem, acedam ou assumam a posse do Software [BRAND_NAME_PROXY];
+ (d) Remover qualquer aviso de propriedade, logótipo ou marcas comerciais em qualquer tipo de documento ou Software [BRAND_NAME_PROXY] sem o consentimento prévio por escrito da [BRAND_NAME_PROXY];
+ (e) Utilizar o Software [BRAND_NAME_PROXY] de forma contrária a lei em vigor ou que infrinja os direitos da outra parte;
+ (f) Utilizar o Software [BRAND_NAME_PROXY] nos ambientes que proíbam ou limitem a utilização mencionada, incluindo, sem limitação, a zona de controlo de tráfego aéreo, posto de combustíveis, equipamento nuclear; ou
+ (g) Utilizar o Software [BRAND_NAME_PROXY] de forma expressamente proibida pelos Termos.
+ 
+ Para assegurar que o Auscultador [BRAND_NAME_PROXY] e o Software [BRAND_NAME_PROXY] funcionam corretamente, o utilizador compromete-se a não destruir ou mover as etiquetas no Auscultador [BRAND_NAME_PROXY] sem a assistência do pessoal técnico da [BRAND_NAME_PROXY]. Estas atividades não autorizadas afetarão o âmbito e o período da garantia prestada pela [BRAND_NAME_PROXY] ao utilizador.
+ 
+ 2. Política de Privacidade
+ O utilizador reconhece e concorda que a [BRAND_NAME_PROXY] pode recolher e reter quaisquer informações, incluindo, sem limitação, o tipo de modo, número de série, código IMEI/MEID, Versão HW, Versão SW, tempo acumulado, ID do SKU, estatísticas predefinidas e versão do SO no seu Auscultador [BRAND_NAME_PROXY] (denominadas \" Informações \"). 
+ Na eventualidade de ser exigido à [BRAND_NAME_PROXY] que divulgue quaisquer Informações ao organismo governamental ou sistema judicial, a [BRAND_NAME_PROXY] irá cumprir essa exigência.
+ 
+ O Auscultador [BRAND_NAME_PROXY] informará a [BRAND_NAME_PROXY] sobre o estado de não ligado do Auscultador [BRAND_NAME_PROXY] à rede móvel durante pelo menos 14 dias desde a data de aquisição.
+ 
+ Consulte a Política de Privacidade da [BRAND_NAME_PROXY] para obter informações detalhadas.
+ 
+ 3. Serviço de Suporte
+ A [BRAND_NAME_PROXY] prestará os Serviços de Software, incluindo, sem limitação, atualizações e atualizações de versão, ao Software [BRAND_NAME_PROXY] do utilizador de acordo com o estado atual que a [BRAND_NAME_PROXY] obtém junto do Auscultador [BRAND_NAME_PROXY].
+ A [BRAND_NAME_PROXY] fornecerá atualizações, patches ou elementos adicionais ao Software [BRAND_NAME_PROXY] do utilizador depois de este utilizar o Software [BRAND_NAME_PROXY] através da Internet e que estará sujeito aos Termos.
+ 
+ A [BRAND_NAME_PROXY] reserva-se o direito de cessar o direito do utilizador de obtenção de qualquer Serviço da [BRAND_NAME_PROXY] através da Internet para utilizar o Serviço e Software [BRAND_NAME_PROXY] sem qualquer problema.
+ A [BRAND_NAME_PROXY] publicará as versões subsequentes do Software [BRAND_NAME_PROXY] e exigirá ao utilizador que utilize a versão mais atualizada do SO.
+ 
+ 4. Atualizar automaticamente
+ Para reforçar e melhorar o seu próprio Auscultador [BRAND_NAME_PROXY], está predefinido para transferir automaticamente o firmware e o software mais recente a partir da [BRAND_NAME_PROXY] 
+ 
+ Para assegurar a segurança e a estabilidade do seu Auscultador [BRAND_NAME_PROXY], o utilizador aceita seguir as instruções necessárias para o [BRAND_NAME_PROXY]. A aceitação da transferência do firmware ou software mais recente é considerada como a aceitação desta renovação e instalação.
+ 
+ Para evitar a perda dos seus próprios documentos, fotografias, textos, ficheiros de som, ficheiros de vídeo e quaisquer tipos de registo eletrónico que possam ser perdidos ou destruídos quando o Auscultador [BRAND_NAME_PROXY] efetua atualizações, o utilizador será responsável pela cópia de segurança de todos os registos eletrónicos mencionados anteriormente armazenados no Auscultador [BRAND_NAME_PROXY] antes de transferir a versão mais recente do firmware ou do software.
+ 
+ Quando o Auscultador [BRAND_NAME_PROXY] do utilizador é atualizado ou atualizado automaticamente com o respetivo consentimento sob a forma de mensagem, significa que concorda com os seguintes conteúdos:
+ (a) Atualização de software:
+ O utilizador concorda e reconhece que a [BRAND_NAME_PROXY] pode ligar através da Internet para verificar a versão de software e o estado de atualização no Auscultador [BRAND_NAME_PROXY] do utilizador. Se a [BRAND_NAME_PROXY] lançar qualquer notificação de atualização, a [BRAND_NAME_PROXY] permitirá ao utilizador atualizar o estado e as versões de Software [BRAND_NAME_PROXY] através do Serviço [BRAND_NAME_PROXY].
+ Quando está disponível Software [BRAND_NAME_PROXY], o utilizador aceita que a [BRAND_NAME_PROXY] lhe envie uma notificação destas atualizações. Se o utilizador confirmar as novas atualizações disponíveis, significa que aceita que a [BRAND_NAME_PROXY] atualize automaticamente o respetivo Auscultador [BRAND_NAME_PROXY].
+ (b) Sincronização e atualização do conteúdo:
+ Depois de ligar o Auscultador [BRAND_NAME_PROXY] ao computador ou outro dispositivo, o Auscultador [BRAND_NAME_PROXY] do utilizador atualizará automaticamente os conteúdos relacionados, entre outras informações (por exemplo: informações de contacto, calendário, marcadores e ficheiros.)
+ 
+ 5. Reserva e todos os direitos de propriedade, entre outros, no Software [BRAND_NAME_PROXY]
+ Apesar de o utilizador ter licença para utilizar o Software e Serviços [BRAND_NAME_PROXY], a [BRAND_NAME_PROXY], os respetivos fornecedores e afiliada mantém todos os direitos relacionados com o Software [BRAND_NAME_PROXY], incluindo, sem limitação, direitos de propriedade, direitos de autor e outros direitos de propriedade intelectual.
+ 
+ Todos os direitos mencionados relacionados com o Software [BRAND_NAME_PROXY] estão protegidos por leis locais e tratados internacionais.
+ 
+ 6. Exclusão de responsabilidade
+ A [BRAND_NAME_PROXY] não presta qualquer declaração ou garantia, expressa ou implícita, incluindo, sem limitação, as garantias implícitas de comercialização, qualidade satisfatória e adequação a um fim particular, ou não infração. 
+ A [BRAND_NAME_PROXY] não garante que:
+ (a) Qualquer Serviço [BRAND_NAME_PROXY] obtido pelo utilizador será exato ou fiável; ou
+ (b) O Serviço [BRAND_NAME_PROXY] será prestado de forma ininterrupta, atempada e segura; ou
+ (c) Quaisquer defeitos ou erros no Software fornecido serão corrigidos imediatamente.
+ 
+ A [BRAND_NAME_PROXY] não será responsável por quaisquer perdas ou danos causados por vírus ou outros materiais prejudiciais tecnicamente que possam infetar o Auscultador [BRAND_NAME_PROXY], os programas, os dados ou outro material proprietário devido à utilização dos Serviços [BRAND_NAME_PROXY] por parte do utilizador. Todos os conteúdos e outros materiais transferidos ou obtidos pelo utilizador através do [BRAND_NAME_PROXY] são acedidos por sua própria conta e risco, e o utilizador será o único responsável por quaisquer danos ao Auscultador [BRAND_NAME_PROXY] ou perda de dados ou conteúdos que resultem da transferência de qualquer software.
+ 
+ 7. Limitação da Responsabilidade e Ressarcimento Exclusivo
+ A [BRAND_NAME_PROXY] não será responsável por quaisquer danos consequentes, incidentais, indiretos ou punitivos, ou danos por perda de lucros ou informações confidenciais, entre outras, por interrupção de negócio, danos pessoais, danos em bens materiais, perda de privacidade, incumprimento de deveres, incluindo deveres impostos pela boa fé ou deveres de diligência, ou por negligência.
+ Na máxima extensão permitida pela lei aplicável, a responsabilidade agregada máxima da [BRAND_NAME_PROXY] perante o utilizador, e o ressarcimento exclusivo ao abrigo dos Termos por todo e qualquer dano, danos pessoais, danos em bens materiais e perdas resultantes de todo e qualquer litígio ou ações judiciais relacionadas ou associadas com os Termos para recuperar os danos reais em que o utilizador incorreu serão limitados a dez dólares americanos (USD 10). 
+ 
+ As ações judiciais ou litígios relacionados ou associados aos Termos não irão superar a limitação de responsabilidade e, na máxima extensão permitida pelas leis aplicáveis, serão o único e exclusivo ressarcimento do utilizador.
+ 
+ Se um tribunal de jurisdição competente determinar o limite de responsabilidade supra não aplicável, será, nessa medida, não aplicável, mas as palavras limitado a dez dólares serão consideradas como substituídas pelas palavras \"limitado ao valor da transação na sequência da qual a responsabilidade surgiu.\"
+ 
+ Esta ação judicial ou litígio relacionado ou associado aos Termos terão de ser interpostos no prazo de um ano após o surgimento da causa da ação judicial. 
+ 8. Indemnização 
+ O utilizador compromete-se a defender, indemnizar e proteger a [BRAND_NAME_PROXY], os respetivos acionistas, diretores, responsáveis, partes interessadas, empregados, subsidiárias e afiliadas contra quaisquer exigências, perdas, responsabilidade, despesas ou ações judiciais (incluindo os honorários de advogados) interpostas contra a [BRAND_NAME_PROXY] por parte de terceiros devido a, ou resultantes, ou associadas à utilização indevida dos Serviços [BRAND_NAME_PROXY] que infringem os direitos de quaisquer terceiros.
+ 
+ 9. Cessação do Serviço
+ O utilizador não terá permissão para utilizar de forma legítima os Serviços [BRAND_NAME_PROXY] se não cumprir os Termos. Nesta circunstância, o utilizador compromete-se a destruir e remover todas as cópias do Software [BRAND_NAME_PROXY]. Entretanto, a garantia do Auscultador [BRAND_NAME_PROXY] do utilizador será afetada.
+ Na eventualidade de ocorrer a violação acima mencionada, o utilizador concorda que a [BRAND_NAME_PROXY] tem direitos de adotar o seguinte comportamento:
+ (a) Cessão imediata do direito de acesso à conta do utilizador da [BRAND_NAME_PROXY]; e/ou
+ (b) Bloquear o acesso futuro do utilizador à conta de Serviço [BRAND_NAME_PROXY]
+ 
+ O utilizador também concorda que qualquer violação aos Termos causará danos irreparáveis à [BRAND_NAME_PROXY], para os quais os danos monetários seriam inadequados, e o utilizador concorda que a [BRAND_NAME_PROXY] pode obter qualquer medida cautelar ou equivalente que a [BRAND_NAME_PROXY] considere necessária ou adequada nessas circunstâncias. Estes ressarcimentos acrescem a quaisquer outros ressarcimentos que a [BRAND_NAME_PROXY] possa ter previstos pela lei ou em equidade.
+ 
+ 10. Lei Aplicável e Jurisdição
+ O utilizador concorda que todos os assuntos relacionados com todos os litígios baseados nos Termos serão regulados pelas leis da República da China (R.P.C.), sem levar em consideração os conflitos de disposições legais. 
+ 
+ O utilizador aceita como jurisdição pessoal e foro competente o tribunal de comarca de Taipei, Taiwan, e exclui qualquer objeção à referida jurisdição ou foro competente.
+ 
+ Nenhum litígio poderá ser resolvido por um acordo amigável mútuo entre o utilizador e a [BRAND_NAME_PROXY], que terá direito a promover a mediação em nome do utilizador ou da [BRAND_NAME_PROXY]. Se não for possível resolver o litígio por mediação no prazo de 30 dias do calendário, o litígio dará entrada no tribunal supra mencionado.
+ 
+ 11. Cláusula Geral
+ Os títulos nos Termos são utilizados apenas para comodidade.
+ A ausência de ação por parte da [BRAND_NAME_PROXY] na sequência da violação por parte utilizador não constitui uma renúncia aos respetivos direitos pela referida violação ou por violações subsequentes ou semelhantes.
+ 
+ Se um tribunal de jurisdição competente determinar que qualquer parte dos presentes Termos é inválida ou não aplicável, substituirá a disposição inválida ou não aplicável por outra que seja válida e aplicável, e que mais se aproxime da intenção da disposição original, e os restantes Termos permanecerão em vigor. 
+ 
+ O utilizador não poderá transferir os Termos, nem transferi-los ou sublicenciar os respetivos direitos nos Termos.
+ 
+ A [BRAND_NAME_PROXY] poderá transferir os presentes Termos, em todo ou em parte, em qualquer altura, com ou sem aviso prévio ao utilizador. 
+ 
+ Os presentes Termos sobrepõem-se a todas as comunicações anteriores ou contemporâneas, de qualquer tipo, entre o utilizador e a [BRAND_NAME_PROXY] no âmbito do Site.
+ 
+ 12. Contrato integral
+ Os Termos e os anexos de renovação constituem o contrato integral entre o utilizador e a [BRAND_NAME_PROXY] no que se refere aos Serviços [BRAND_NAME_PROXY].
+ 
+ 13. Modificação dos Termos
+ A [BRAND_NAME_PROXY] poderá, periodicamente, atualizar, alterar ou eliminar o conteúdo dos Termos, segundo o seu critério.
+ 
+ O utilizador é responsável pela consulta dos termos publicados no Web site da [BRAND_NAME_PROXY], que poderão ser diferentes dos termos que leu originalmente.
+ 
+ A utilização do software renovado e do Auscultador [BRAND_NAME_PROXY] constitui a aceitação da alteração por parte do utilizador.
+"</string>
+    <string name="fih_legal_title">Assuntos legais da [BRAND_NAME_PROXY]</string>
+    <string name="finish_button_label">Concluir</string>
+    <string name="google_account_add_account">Iniciar sessão com o Google</string>
+    <string name="google_account_intro_description">Configura uma conta Google para desfrutar de todos os serviços Google.</string>
+    <string name="google_account_intro_title">Conta do Google</string>
+    <string name="hmd_legal_message">"Termos do serviço 
+ 
+Entrada em vigor a 14 de outubro de 2016 
+ 
+1. Aceitação 
+Os presentes Termos do Serviço da HMD Global, juntamente com a Política de Privacidade e todos os outros termos e informações adicionais que possam ser fornecidos no âmbito do Serviço (coletivamente, os Termos), governam a sua utilização do serviço, do site, dos conteúdos e do software (coletivamente, o \"Serviço\"). Ao proceder ao registo ou utilizar o Serviço, ou qualquer parte do mesmo, o utilizador aceita os presentes Termos. 
+ 
+Os Termos constituem um acordo entre si e a HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finlândia, incluindo as respetivas subsidiárias e fornecedores (coletivamente, a HMD Global), e definem os seus direitos e responsabilidades e os da HMD Global relativamente ao Serviço. 
+ 
+2. Condições de elegibilidade 
+Para utilizar o Serviço, o utilizador tem de ter pelo menos 13 (treze) anos de idade. Se tiver menos de 13 (treze) anos de idade, ou pelo menos 13 (treze) anos de idade, mas for considerado um menor no local onde reside, o seu pai, mãe ou tutor legal terá de aceitar o registo do utilizador em nome deste e aprovar a utilização do Serviço pelo utilizador. A pessoa que proceder ao registo tem de possuir capacidade jurídica. 
+ 
+3. Registo e cessação 
+Para utilizar um Serviço, poderá ser necessário registar-se e criar uma Conta HMD com nome de utilizador e palavra-passe, que poderá estar sujeita a termos separados. O utilizador poderá ter de prestar outras informações, nomeadamente pessoais. A HMD Global pode verificar o seu endereço de e-mail antes de ser possível utilizar a sua Conta HMD. Após a primeira utilização do seu dispositivo e cada vez que atualizar o software do dispositivo Nokia, será enviada uma mensagem de texto à HMD Global. A criação de uma Conta HMD requer uma transmissão de dados. Poderão ser cobradas taxas pela transmissão de dados. 
+ 
+O utilizador compromete-se a prestar informações verdadeiras e completas aquando do seu registo no Serviço, e a manter essas informações atualizadas. O utilizador deve tomar os devidos cuidados para proteger o seu nome de utilizador e palavra-passe contra uso indevido por terceiros e notificar imediatamente a HMD Global acerca de qualquer uso indevido. O utilizador, e o seu pai, mãe ou tutor legal, se o utilizador for menor, são pessoalmente responsáveis por qualquer utilização do Serviço. 
+ 
+O utilizador pode cancelar o registo se já não pretender utilizar o Serviço. Após o cancelamento, o utilizador deixa de ter acesso ao Serviço. A HMD Global pode cessar ou limitar o acesso do utilizador a determinadas partes do Serviço se acreditar, dentro do razoável, que o utilizador violou os Termos ou, com aviso prévio, se o utilizador não tiver iniciado sessão no Serviço com o seu nome de utilizador nos últimos 6 (seis) meses. 
+ 
+Exceto conforme disposto na Política de Privacidade, a HMD Global não se responsabiliza por qualquer remoção ou perda de informações ou conteúdos que o utilizador tenha enviado ao Serviço. Em caso de remoção de informações ou conteúdos do Serviço por parte do utilizador ou da HMD Global, poderão permanecer vestígios ou cópias dos mesmos noutros locais. 
+ 
+4. Licenças 
+A HMD Global concede ao utilizador uma licença não exclusiva, intransferível, revogável em qualquer altura a critério exclusivo da HMD Global, de acesso e utilização do Serviço em estrita conformidade com os Termos. A utilização do Serviço não confere ao utilizador quaisquer direitos de propriedade intelectual sobre, ou relativos a, quaisquer informações ou conteúdos do Serviço. 
+ 
+Como parte do Serviço, a HMD Global pode fornecer ao utilizador conteúdos desenvolvidos pela HMD Global ou respetivos licenciantes (Conteúdo). A HMD Global concede ao utilizador uma licença não exclusiva e perpétua de utilização dos Conteúdos para o fim a que se destina, salvo disposição em contrário nos Termos aplicáveis ou na ordem de compra. Alguns Conteúdos podem estar disponíveis apenas para residentes de determinadas áreas geográficas. O utilizador fica vinculado às restrições aplicáveis a determinados Conteúdos que o mesmo obtiver através do Serviço. Qualquer licença adquirida sobre os Conteúdos de terceiros constitui um contrato vinculativo entre o utilizador e o terceiro fornecedor de Conteúdos. O utilizador tem apenas os direitos aos Conteúdos expressamente concedidos pelo presente documento. 
+ 
+Como parte do Serviço, a HMD Global pode fornecer ao utilizador determinado software desenvolvido pela HMD Global ou respetivos licenciantes (Software). A utilização do Software pelo utilizador pode ficar sujeita a termos e condições autónomos, que o utilizador tem de aceitar antes de utilizar o Software. Se não forem aplicáveis a esse Software outros termos e condições, serão aplicados os seguintes termos: A HMD Global concede ao utilizador um direito limitado, não exclusivo e intransferível de instalar e utilizar o Software no seu computador e/ou dispositivo móvel. O utilizador não pode copiar o Software, salvo para efetuar uma única cópia de segurança de arquivo. O utilizador não pode distribuir, transmitir o direito de utilizar, modificar, traduzir, reproduzir, revender, sublicenciar, alugar, sujeitar a engenharia inversa ou, de outro modo, procurar descobrir o código-fonte ou criar obras derivadas do Software. Ao Software licenciado de fonte aberta aplicam-se os termos da licença de fonte aberta. O seu uso do Software indica a aceitação de quaisquer termos e condições aplicáveis. 
+ 
+O Software pode estar sujeito a controlos de exportação e ao abrigo dos Regulamentos da Administração de Exportações dos Estados Unidos e de outros regulamentos de controlo de importação ou exportação. O utilizador aceita cumprir estritamente todas as regulamentações de importação e exportação aplicáveis e reconhece que tem a responsabilidade de obter licenças para exportação, reexportação, transferência ou importação do referido Software. 
+ 
+O utilizador pode enviar informações ou conteúdos (Materiais) para o Serviço. A HMD Global não reivindica a propriedade do Material do utilizador. O envio de Material pelo utilizador não transfere direitos de propriedade do Material para a HMD Global. A HMD Global transmite apenas o Material e não é responsável pelo controlo editorial sobre o mesmo. Ao enviar Material para o Serviço, o utilizador concede à HMD Global uma licença global, não exclusiva, sublicenciável, atribuível, totalmente paga, isenta de direitos, perpétua e irrevogável para a utilização, cópia, execução pública, apresentação, distribuição em qualquer meio de comunicação e modificação do Material para incorporar o Material noutros trabalhos, e concede sublicenças semelhantes dentro dos limites necessários para o fornecimento do Serviço pela HMD Global. O utilizador poderá proceder aos ajustamentos da presente licença nas configurações de privacidade e noutras configurações do Serviço. 
+ 
+O utilizador tem a exclusiva responsabilidade de efetuar cópias de segurança dos dados que armazenar no Serviço, incluindo Conteúdos que carregar. Se o Serviço for descontinuado ou cancelado, a HMD Global pode eliminar os dados do utilizador de forma permanente. A HMD Global não tem qualquer obrigação de devolver dados ao utilizador após a descontinuação ou o cancelamento do Serviço. 
+ 
+5. Utilização do Serviço 
+O utilizador compromete-se a: 
+• Cumprir as leis aplicáveis, os Termos e as boas maneiras; 
+• Utilizar o Serviço apenas para fins pessoais e não comerciais do utilizador; 
+• Não enviar Materiais ilícitos, ofensivos, imprecisos, enganosos, abusivos, pornográficos, importunos, difamadores ou, de outro modo, inapropriados; 
+• Obter todos os consentimentos, permissões ou licenças que possam ser exigidos por lei para que o utilizador possa enviar quaisquer Materiais; 
+• Respeitar a privacidade de terceiros; 
+• Não distribuir nem publicar spam, ficheiros excessivamente grandes, mensagens em cadeia, mensagens propondo esquemas em pirâmide, vírus; 
+• Não utilizar outras tecnologias nem iniciar outras atividades que possam lesar o Serviço, ou os interesses ou bens dos utilizadores do Serviço; 
+• Não utilizar quaisquer sistemas automatizados ou meios para aceder, adquirir, copiar ou monitorizar qualquer parte do Serviço; e 
+• Assumir a responsabilidade pelas consequências decorrentes dos Materiais que o utilizador publicar. 
+ 
+A HMD Global pode mas não está obrigada a: 
+• Monitorizar ou moderar Conteúdos ou Materiais; 
+• Remover quaisquer Materiais do Serviço; e 
+• Restringir o acesso a qualquer parte do Serviço, em qualquer momento e segundo o seu exclusivo critério. 
+ 
+6. Conteúdos 
+Antes de transferir ou aceder a quaisquer Conteúdos, o utilizador deverá verificar se os Conteúdos a que pretende aceder estão sujeitos a restrições etárias ou estão identificados como sendo potencialmente ofensivos ou explícitos. 
+ 
+A HMD Global não se responsabilizará por quaisquer reclamações ou ofensas causadas ou sofridas pelo utilizador ao aceder ao referido Conteúdo. 
+ 
+O utilizador compromete-se a: 
+• Utilizar os Conteúdos apenas para fins pessoais e não comerciais do utilizador; 
+• Utilizar os Conteúdos de acordo com as restrições previstas nas leis aplicáveis, em termos adicionais, orientações e políticas ou nas páginas do produto que forem aplicáveis a essa parte dos Conteúdos em particular; 
+• Não efetuar cópias, ceder, vender, revender, emprestar, alugar, oferecer, transmitir, enviar, distribuir, transferir, comunicar ao público, reproduzir, modificar, apresentar, executar, explorar comercialmente ou tornar os Conteúdos disponíveis, salvo autorização em contrário nos Termos aplicáveis, e a informar imediatamente a HMD Global sobre qualquer utilização não autorizada; 
+• Não remover, contornar, sujeitar a engenharia inversa, desencriptar ou de outro modo alterar ou interferir com quaisquer regras de utilização aplicáveis, ou tentar contornar as funcionalidades de gestão de direitos digitais ou de proteção de cópia associadas aos Conteúdos ou quaisquer outras tecnologias empregues para controlar o acesso ou a utilização dos Conteúdos, ou as informações de identificação; 
+• Não utilizar quaisquer meios ou sistemas automáticos, excetuando os que forem disponibilizados por nós, para selecionar ou transferir os Conteúdos; e 
+• Não divulgar a sua palavra-passe ou permitir que outras pessoas acedam aos Conteúdos. As restrições à cópia que se aplicam aos meios de armazenamento aplicáveis também se aplicam aos Conteúdos acedidos no âmbito deste Serviço. 
+ 
+Os Conteúdos são propriedade e/ou controlados pela HMD Global e/ou respetivos licenciantes e estão protegidos por leis de propriedade intelectual. O fornecedor de Conteúdos de terceiros é unicamente responsável pelos Conteúdos que fornecer, pelas respetivas garantias, na medida em que estas não tenham sido excluídas, e por quaisquer reclamações que o utilizador possa vir a apresentar relativamente aos Conteúdos ou à utilização de tais Conteúdos. Contudo, a HMD Global poderá fazer valer os termos da licença de Conteúdos de terceiros contra o utilizador na qualidade de terceiro beneficiário dos referidos termos. Os fornecedores de Conteúdos de terceiros são beneficiários externos ao abrigo dos presentes Termos e poderão exigir o cumprimento das disposições que digam diretamente respeito aos Conteúdos sobre os quais tenham direitos. A HMD Global pode atuar como agente de um fornecedor de Conteúdos de terceiros ao fornecer os Conteúdos ao utilizador. A HMD Global não é uma parte na transação entre o utilizador e fornecedor de Conteúdos de terceiros relativamente a esses Conteúdos. 
+ 
+7. Alegações de Violação de Direitos de Autor 
+A HMD Global respeita os direitos de propriedade intelectual de terceiros. Caso o utilizador pretenda enviar uma notificação de violação de direitos de propriedade intelectual, incluindo queixas de violação de direitos de autor, utilize os nossos procedimentos para envio de Notificações de Violação de Direitos. TODAS AS QUESTÕES NÃO PERTINENTES AO REFERIDO PROCEDIMENTO NÃO TERÃO QUALQUER RESPOSTA. 
+ 
+A HMD Global utiliza os processos identificados no Título 17, Código dos Estados Unidos, Secção 512 para responder a notificações de violação de direitos de autor. Nas circunstâncias apropriadas, a HMD Global também pode desativar ou encerrar contas de utilizadores de serviços HMD Global que sejam infratores reincidentes. 
+ 
+8. Notificações 
+A HMD Global pode publicar notificações no âmbito do Serviço. A HMD Global também pode enviar notificações ao utilizador sobre produtos e serviços para o endereço de e-mail ou o número de telefone que nos forneceu. Considera-se que o utilizador recebeu as referidas notificações, no máximo, até 7 (sete) dias a contar da data de envio ou publicação das mesmas pela HMD. A utilização continuada do Serviço pelo utilizador constitui uma receção, pelo utilizador, de todas as notificações, independentemente do método de entrega. 
+ 
+9. Taxas 
+A utilização do Serviço pelo utilizador pode ser, ou pode passar a ficar, sujeita à aplicação de taxas. 
+ 
+Quaisquer taxas cobradas pela HMD Global serão anunciadas em separado no âmbito do Serviço. 
+ 
+A utilização do Serviço pode envolver a transmissão de dados através da rede do fornecedor de serviços do utilizador. Os preços indicados no Serviço não incluem possíveis taxas de transmissão de dados, de mensagens de texto ou de voz ou de outros serviços, bem como as aplicadas pelo fornecedor de serviços de rede do utilizador. 
+ 
+A HMD Global não assume qualquer responsabilidade pelo pagamento de eventuais custos dos fornecedores de serviços do utilizador. 
+ 
+10. Termos dos Pagamentos e Encomendas 
+\"Encomenda\" significa a seleção de Conteúdos sujeitos a pagamento e/ou a subscrição de Conteúdos disponibilizados pela HMD Global e disponíveis no Serviço e o envio do método de pagamento, bem como o envio da encomenda através da seleção da opção \"comprar\", \"ok\", \"aceito\" ou outra confirmação de aceitação semelhante no fluxo de encomenda ou o fornecimento de outra indicação de termos de aceitação que sejam apresentados ao utilizador no fluxo de encomenda. 
+ 
+Para efetuar uma Encomenda no Serviço, o utilizador tem de ter a idade mínima exigida para ter capacidade jurídica nos termos da lei aplicável. Se o utilizador não tiver atingido a idade mínima exigida para ter capacidade jurídica, o utilizador apenas pode efetuar Encomendas com o prévio consentimento do seu pai, mãe ou tutor legal. 
+ 
+O utilizador assume que todas as Encomendas efetuadas são juridicamente válidas e vinculativas. Todas as Encomendas estão sujeitas a aceitação pela HMD Global. 
+ 
+O utilizador pode pagar com cartão de crédito ou débito, por cobrança ao fornecedor do serviço de rede ou por outros meios de pagamento, se estiverem disponíveis. 
+ 
+O cartão de crédito ou débito do utilizador tem de ter um endereço de faturação no país onde os Conteúdos são disponibilizados pelo Serviço. A HMD Global cobrará o montante no cartão de crédito ou débito ou na conta bancária do utilizador dentro de um período de tempo razoável após o utilizador ter efetuado a sua Encomenda. Todos os pagamentos com cartão de crédito estão sujeitos a controlos de validação e à autorização pelo emissor do cartão. 
+ 
+Se o utilizador optar pela faturação do fornecedor de serviços de rede, os custos aparecerão na fatura do dispositivo móvel do utilizador ou serão deduzidos da sua conta pré-paga, no caso de se tratar de conta pré-paga. Alguns fornecedores de serviços de rede poderão sujeitar a utilização do Serviço a termos e condições adicionais, incluindo a imposição de limites máximos de custos a incorrer através da faturação do fornecedor de serviços de rede. Os custos que excedam os limites estabelecidos pelos fornecedores de serviços de rede ou do saldo da conta poderão ser rejeitados. 
+ 
+O utilizador aceita pagar as taxas relacionadas com a Encomenda, a assegurar que o instrumento de pagamento é válido no momento em que a Encomenda é efetuada, que o utilizador é o legítimo titular do instrumento e que o instrumento é utilizado dentro dos seus limites de crédito. 
+ 
+Os Conteúdos fornecidos são licenciados ao utilizador. O utilizador aceita utilizar os referidos Conteúdos apenas dentro dos limites estabelecidos nos presentes Termos e em quaisquer termos adicionais que possam ser apresentados durante o fluxo de encomenda. 
+ 
+O Serviço poderá oferecer subscrições. O utilizador autoriza a cobrança pelo Serviço de uma taxa periódica durante o período da subscrição. O Serviço também poderá proporcionar um período experimental. Se a Encomenda envolver um período experimental (também conhecido por try-and-buy), poder-lhe-á ser cobrado um valor após o fim do período experimental, salvo se o utilizador proceder ao seu cancelamento de acordo com o termos da subscrição/período experimental. 
+ 
+Os preços do Serviço estão sujeitos a alterações ocasionais. Os preços incluem os impostos aplicáveis que estiverem em vigor no momento em que o utilizador efetuar a transação, salvo indicação em contrário. Nalgumas situações, o banco ou o emissor do cartão de crédito do utilizador poderá efetuar cobrar encargos adicionais com base nas taxas de câmbio utilizadas e/ou em taxas adicionais aplicadas. A HMD Global não assume qualquer responsabilidade pelo pagamento de eventuais taxas ou custos de serviços bancários ou de quaisquer outros serviços de terceiros. 
+ 
+11. Cancelamentos e reembolsos 
+O utilizador aceita a entrega de Conteúdos por via eletrónica iniciada em simultâneo com a realização da sua Encomenda. O utilizador não poderá cancelar a Encomenda após o seu processamento. A natureza dos Conteúdos não permite a sua devolução. 
+ 
+Se, após a Encomenda, o utilizador descobrir e informar imediatamente a HMD Global, dentro de 48 horas, que (a) os Conteúdos que encomendou têm defeitos; (b) os Conteúdos que a HMD Global entrega ao utilizador não correspondem à descrição dos Conteúdos encomendados através do Serviço; ou (c) a ocorrência de problemas técnicos atrasou ou impediu a entrega dos Conteúdos ou gerou várias encomendas acidentais, a única e exclusiva solução do utilizador relativamente aos referidos Conteúdos será a respetiva substituição ou o reembolso do preço pago pelos mesmos, conforme determinado em exclusivo pela HMD Global. 
+ 
+À exceção das situações acima referidas, não serão efetuados reembolsos. Se o utilizador detetar algum dos problemas supracitados, contacte o Apoio ao Cliente da HMD Global. 
+ 
+Tenha em atenção que o Apoio ao Cliente da HMD Global pode não conseguir processar o pedido de suporte ao cliente se o utilizador não fornecer o ID da transação, o qual lhe é fornecido pela HMD Global após a Encomenda do Serviço. A HMD Global só pode processar reembolsos relativos a Conteúdos em que o preço total seja superior ao limite monetário estipulado na legislação local aplicável. 
+ 
+12. Comentários à HMD Global 
+Ao enviar ideias, comentários e/ou propostas (\"Comentários\") à HMD Global através do Serviço ou de outros meios, o utilizador reconhece e aceita que: (1) A HMD Global pode ter ideias de desenvolvimento semelhantes aos Comentários; (2) os Comentários do utilizador não contêm informações confidenciais ou proprietárias suas ou de terceiros; (3) a HMD Global não está sujeita a qualquer obrigação de confidencialidade relativamente aos Comentários; (4) a HMD Global tem a liberdade de utilizar, distribuir, explorar, desenvolver adicionalmente e modificar os Comentários para qualquer fim; e (5) o utilizador não tem direito a compensação de qualquer tipo por parte da HMD Global. 
+ 
+13. Atividades Sociais e Partilha de Localização 
+O utilizador pode utilizar as funcionalidades do Serviço para partilhar a sua localização, situação, conteúdos, Materiais ou informação pessoal ou para interagir com outros utilizadores, sites e serviços. Ao utilizar estas funcionalidades, concorda que a HMD Global pode utilizar e fornecer essas informações a outros serviços e pessoas com as quais escolher interagir ou partilhar estas informações. Os utilizadores desses serviços e as pessoas, tais como os contactos do utilizador, podem visualizar a localização, situação e/ou informações pessoais do utilizador. Ao utilizar estas funcionalidades, o utilizador aceita não partilhar informações, Conteúdos ou Material nem estabelecer ligação a qualquer serviço ou site que: (a) inclua conteúdos ou outro material ilegal ou inadequado; ou (b) explore direitos de propriedade intelectual sem autorização ou incentive os utilizadores à prática de pirataria. Nenhuma interação envolve a HMD Global e ocorre exclusivamente entre o próprio utilizador e o(s) outro(s) utilizador(es). 
+ 
+14. Disponibilidade e Requisitos Técnicos 
+A disponibilidade dos Conteúdos e do Serviço pode variar e está sujeita ao critério exclusivo da HMD Global. A HMD Global renuncia expressamente a qualquer representação ou garantia de que quaisquer Conteúdos ou Serviço específicos estarão disponíveis. O Serviço pode não estar disponível em todos os países, e pode ser fornecido apenas em determinados idiomas. O Serviço, as operações e algumas funcionalidades podem também estar dependentes da rede, da compatibilidade dos dispositivos utilizados e dos formatos de conteúdo suportados. 
+ 
+Para aceder ao Serviço, o utilizador pode ter de transferir um software específico desenvolvido pela HMD Global ou por outra parte. 
+ 
+A HMD Global pode, a seu critério exclusivo, alterar, corrigir ou descontinuar o serviço, no todo ou em parte. O Serviço poderá não estar disponível durante as interrupções para fins de manutenção e noutras ocasiões. Para garantir que o utilizador tem o software e as aplicações mais recentes no dispositivo, este poderá verificar automaticamente a disponibilidade de atualizações de software da HMD Global. Se forem detetadas atualizações disponíveis, o utilizador deverá aprovar a instalação. O utilizador pode desativar a verificação automática de atualizações através das definições do seu dispositivo. O utilizador também pode instalar software através dos canais de atualização de software disponíveis. Se a HMD Global considerar uma atualização de Software importante ou crítica, o utilizador não pode continuar a utilizar a versão anterior do Software. A HMD Global pode impedir a utilização da versão anterior do Software ou do Serviço enquanto o utilizador não instalar a atualização. 
+ 
+A HMD Global pode desativar quaisquer Conteúdos ou software incluídos na conta do Serviço do utilizador por qualquer motivo e remover quaisquer Conteúdos ou Software e/ou desativar cópias de qualquer aplicação no dispositivo do utilizador para fins de proteção do Serviço, fornecedores de aplicações, operadores sem fios em cuja rede o utilizador acede ao serviço e quaisquer outras partes afetadas ou potencialmente afetadas. 
+ 
+Um determinado serviço poderá tratar-se de uma versão de pré-lançamento, por exemplo uma versão beta, que poderá não funcionar como a respetiva versão final. A HMD Global pode alterar significativamente qualquer versão do Serviço ou do Software ou decidir não comercializar uma versão final. 
+ 
+15. Ligações para conteúdos e sites de terceiros 
+A HMD Global pode incluir o acesso a sites e serviços na Internet ou clientes pré-carregados que permitam interagir com sites e serviços que são detidos ou operados por terceiros, não sendo parte do Serviço. O utilizador tem de ler e aceitar os termos e condições destes sites ou serviços antes de os utilizar. 
+ 
+A HMD Global não tem controlo sobre os conteúdos, sites ou serviços de terceiros e não assume qualquer responsabilidade pelos serviços fornecidos ou pelo material criado ou publicado nestes sites ou serviços de terceiros. Uma ligação para um site de terceiros não implica que a HMD Global apoie o site ou os produtos ou serviços referenciados no site. 
+ 
+Em acréscimo, o utilizador e outros utilizadores podem criar conteúdos e ligações para conteúdos no Serviço que não tenham sido de outro modo enviados para o Serviço. A HMD Global não se responsabiliza por este tipo de conteúdos ou ligações. 
+ 
+16. Anúncios 
+O Serviço pode incluir anúncios. Os anúncios podem visar os conteúdos ou informações armazenados no Serviço, as consultas realizadas através do Serviço ou outras informações. 
+ 
+17. Dados pessoais 
+A utilização dos dados pessoais do utilizador é regida pela Política de Privacidade e outras informações sobre privacidade adicionais que forem disponibilizadas ao utilizador. 
+ 
+18. Limitação da responsabilidade 
+O Serviço é prestado TAL COMO É e DE ACORDO COM A DISPONIBILIDADE. A HMD Global não garante que o Serviço será ininterrupto nem que estará isento de erros ou vírus. Não é emitida qualquer garantia de qualquer tipo, expressa ou implícita, incluindo, sem caráter limitativo, garantias de titularidade, não violação, comerciabilidade ou aptidão para determinado fim, em relação à disponibilidade, exatidão, fiabilidade, informações ou conteúdos do Serviço. O utilizador aceita e reconhece expressamente que o risco de utilização do Serviço corre exclusivamente por sua conta e que o mesmo pode ficar exposto a conteúdos de diversas fontes. 
+ 
+À exceção da responsabilidade por morte ou ferimentos pessoais provocados por negligência grosseira ou conduta inapropriada, a HMD Global não será responsável, em circunstância alguma, por quaisquer danos indiretos, incidentais, punitivos ou consequenciais decorrentes da utilização ou da incapacidade de utilização do Serviço pelo utilizador. 
+ 
+19. Indemnização 
+O utilizador aceita defender e indemnizar a HMD Global relativamente e contra todas as queixas de terceiros e todas as responsabilidades, perdas, custos ou danos resultantes ou decorrentes (i) da sua violação dos Termos, (ii) da sua infração ou violação de quaisquer direitos de propriedade intelectual, outros direitos ou privacidade de terceiros, ou (iii) uso indevido do Serviço por terceiros quando este tiver resultado da falha do utilizador em tomar medidas razoáveis para proteção do seu nome de utilizador e palavra-passe contra uso indevido. 
+ 
+20. Disposições diversas 
+ 
+20.1 Lei aplicável 
+Os Termos são regulados pelas leis da Finlândia, sem atender às suas disposições sobre conflitos de leis. 
+ 
+20.2 Validade 
+Os Termos não excluem nem limitam os direitos do utilizador no seu país de residência que, nos termos da lei, não possam ser objeto de renúncia. Se uma disposição dos Termos for considerada inválida, as restantes disposições não serão afetadas e a disposição inválida será substituída por uma disposição válida que se aproxime o mais possível do resultado e finalidade dos Termos. No caso de uma ou mais disposições destes Termos não serem relevantes para a utilização do Serviço, não terá impacto sobre a validade ou aplicabilidade das restantes disposições dos Termos ou dos Termos na íntegra. Caso exista qualquer conflito entre os presentes Termos do Serviço da HMD Global e a Política de Privacidade, prevalecerão as disposições dos presentes Termos do Serviço da HMD Global. As disposições dos Termos que se destinem a permanecer em vigor após o cancelamento do registo do utilizador permanecerão em vigor após esse cancelamento. 
+ 
+20.3 Alterações aos Termos 
+A HMD Global pode modificar os Termos a qualquer altura sem aviso prévio. Se os Termos forem alterados de forma material e adversa, a HMD Global irá fornecer um aviso em separado relativo à alteração. 
+ 
+O utilizador é responsável por consultar os Termos com regularidade. A utilização continuada do Serviço pelo utilizador constitui um consentimento, por parte do mesmo, em relação a todas as alterações e modificações. 
+ 
+21. Propriedade intelectual 
+O Serviço, os Conteúdos e o Software estão protegidos pelas leis internacionais sobre direitos de autor. A HMD Global reclama direitos de autor no respetivo Serviço, Conteúdos e Software na máxima extensão prevista pela lei. Sujeito aos Termos, a HMD Global detém todos os direitos, titularidade e interesse no Serviço, nos respetivos Conteúdos, no Software e em todos os outros produtos, software e outras propriedades HMD Global que sejam fornecidos ou utilizados pelo utilizador através do Serviço. 
+ 
+22. Cessão 
+A HMD Global pode ceder os seus direitos e obrigações ao abrigo dos presentes Termos à sua empresa-mãe, a qualquer uma das suas subsidiárias ou a qualquer empresa sob controlo comum com a HMD Global. Em adição, a HMD Global pode ceder os seus direitos e obrigações ao abrigo dos presentes Termos a terceiros no âmbito de uma fusão, aquisição, venda de ativos, por aplicação de lei ou de outra forma."</string>
+    <string name="idle_too_long_toast">Este telemóvel está inativo há algum tempo. Desligue agora para poupar energia.</string>
+    <string name="label_text">Aceito.</string>
+    <string name="label_text_negitive">Não aceito.</string>
+    <string name="location_for_service">"Utilizar a minha localização para resultados da pesquisa Google e outros serviços Google.
+
+"</string>
+    <string name="location_info_1">Graças ao serviço de localização da Google, as aplicações podem obter a sua localização aproximada sem recorrer ao GPS.</string>
+    <string name="location_info_2">Pode desativar estas funcionalidades em Definições, em serviços de localização.</string>
+    <string name="location_network">Permitir que o serviço de localização da Google recolha dados de localização anónimos. A recolha de dados poderá ocorrer mesmo quando não existam aplicações em execução.</string>
+    <string name="location_title">Utilizar a localização da Google</string>
+    <string name="nevigation_selection_back">Voltar</string>
+    <string name="nevigation_selection_home">Início</string>
+    <string name="nevigation_selection_recent">Recentes</string>
+    <string name="nevigation_selection_text">Pode alterar a cor de fundo e posiciono as teclas Voltar / Recentes.</string>
+    <string name="nevigation_selection_title">Esquema de navegação</string>
+    <string name="next_btn_lebel">Seguinte</string>
+    <string name="normal_date_format">Regional (%s)</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="setup_complete_hmd">Está pronto para começar...</string>
+    <string name="setup_complete_main">Está</string>
+    <string name="setup_complete_message">O seu telefone está configurado e pronto a ser utilizado.</string>
+    <string name="setup_complete_sub">PREPARADO.</string>
+    <string name="setup_completed_congratulations">Parabéns!</string>
+    <string name="sim_not_exist_toast">Verifique se o cartão SIM está inserido.</string>
+    <string name="skip_add_account_button_label">Agora não</string>
+    <string name="skip_button_label">Ignorar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Aceitar</string>
+    <string name="term_disagree_text">Não aceitar</string>
+    <string name="terms_of_service_description">"
+A utilização de serviços que requerem ligação de rede como, por exemplo, serviços de meteorologia, serviços de Internet, e-mail, navegador, etc. poderá acarretar custos adicionais devido à utilização de dados móveis. Para gerir as taxas de utilização de dados móveis de forma mais eficiente, recomendamos que contacte a sua operadora e adquira um pacote de serviços móveis apropriado.
+
+Ao selecionar Aceito, significa que permite que estes serviços liguem à rede sempre que necessário.
+
+Além disso, a atualização automática do software está ativada por predefinição. Para oferecer a experiência de software mais recente, poderão ser utilizados alguns dados móveis. Pode alterar a opção mais tarde nas Definições.
+
+"</string>
+    <string name="terms_title">Utilização de dados</string>
+    <string name="time_picker_title">Hora</string>
+    <string name="traffic_prompt_content">Se não aceitar, terá de adquirir manualmente o serviço de atualização de software, previsão do estado do tempo ou outras informações.</string>
+    <string name="upload_agent_configuration">Programa de experiência de utilizador</string>
+    <string name="upload_agent_des">Ajude-nos a melhorar os nossos produtos e serviços ao permitir a recolha de dados de diagnóstico quando o seu dispositivo apresentar uma falha ou erro de software. Pode alterar a opção na configuração do agente de carregamento.</string>
+    <string name="upload_agent_des_text">"Enviar relatórios diagnóstico quando ocorrer um problema no dispositivo. &lt;a href='launch.AddUploadAgentHandler://Kode'>Declaração de Privacidade&lt;/a>. Pode alterar esta opção mais tarde nas Definições."</string>
+    <string name="upload_agent_title">Programa de experiência de utilizador</string>
+    <string name="v7_preference_off">DESATIVADO</string>
+    <string name="v7_preference_on">ATIVADO</string>
+    <string name="welcome_infocus_term_of_use">"Ao tocar na seta, o utilizador concorda com os&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Termos de Utilização&lt;/a>"</string>
+    <string name="welcome_message">Bem-vindo</string>
+    <string name="welcome_start_button_label">INICIAR</string>
+    <string name="wifi_picker_connection_des_text">A atual ligação de rede móvel utilizada poderá acarretar custos ao verificar o seu software.</string>
+    <string name="wifi_picker_connection_negative">Ligar</string>
+    <string name="wifi_picker_connection_negative_prc">Ligar WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">Ligar Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Ligação de rede</string>
+    <string name="wifi_picker_warning_des_text">O telefone não poderá verificar se o seu software está atualizado sem ligação à Internet.</string>
+    <string name="wifi_picker_warning_negative">Ignorar mesmo assim</string>
+    <string name="wifi_picker_warning_positive">Não ignorar</string>
+    <string name="wifi_picker_warning_title">Aviso</string>
+    <string name="zone_auto">Fuso horário automático</string>
+    <string name="zone_auto_summaryOff">Utilizar fuso horário fornecido pela rede</string>
+    <string name="zone_auto_summaryOn">Utilizar fuso horário fornecido pela rede</string>
+    <string name="sugarsync_intro_description">Pode desfrutar de uma integração simples do armazenamento na nuvem com o SugarSync ao executar alguns passos fáceis.</string>
+</resources>

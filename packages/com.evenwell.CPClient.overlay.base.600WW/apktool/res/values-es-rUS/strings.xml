@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Cliente CP</string>
+    <string name="fih_cp_notify_statusbar_content">Nuevo mensaje de aprovisionamiento</string>
+    <string name="fih_cp_notification_channel_name">Notificaciones generales</string>
+    <string name="fih_cp_ui_mode_ok">Aceptar</string>
+    <string name="fih_cp_ui_mode_postpone">Posponer</string>
+    <string name="fih_cp_ui_mode_delete">Borrar</string>
+    <string name="fih_cp_apply_dialog_head_msg">Nuevo aprovisionamiento</string>
+    <string name="fih_cp_apply_dialog_body_msg">¿Deseas aplicar la nueva configuración?</string>
+    <string name="fih_cp_toast_info_update">Perfil actualizado.</string>
+    <string name="fih_cp_toast_info_create">Perfil creado.</string>
+    <string name="fih_cp_editor_apn_name">Nombre</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_http_port">Puerto</string>
+    <string name="fih_cp_editor_apn_user">Usuario</string>
+    <string name="fih_cp_editor_apn_password">Contraseña</string>
+    <string name="fih_cp_editor_apn_server">Servidor</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Proxy de MMS</string>
+    <string name="fih_cp_editor_apn_mms_port">Puerto MMS</string>
+    <string name="fih_cp_editor_apn_auth_type">Tipo de autenticación</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Ninguno</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP o CHAP</string>
+    <string name="fih_cp_editor_apn_type">Tipo de APN</string>
+    <string name="fih_cp_btn_ok">Aceptar</string>
+    <string name="fih_cp_btn_cancel">Cancelar</string>
+    <string name="fih_cp_btn_next">Siguiente</string>
+    <string name="fih_cp_btn_back">Atrás</string>
+    <string name="fih_cp_apn_not_set">&lt;No establecido></string>
+    <string name="fih_cp_error_title">Atención</string>
+    <string name="fih_cp_error_name_empty">El campo Nombre no puede estar vacío</string>
+    <string name="fih_cp_error_apn_empty">El APN no puede estar vacío.</string>
+    <string name="fih_cp_error_other">Error de sintaxis de datos.</string>
+    <string name="fih_cp_input_pin_code">Ingresar PIN:</string>
+    <string name="fih_cp_input_pin_code_ok">Aceptar</string>
+    <string name="fih_cp_input_pin_code_cancel">Cancelar</string>
+    <string name="fih_cp_input_pin_code_incorrect">Código PIN incorrecto.</string>
+    <string name="fih_cp_input_pin_code_empty">Escriba el código PIN.</string>
+    <string name="fih_cp_sim_not_available">No hay tarjeta SIM disponible.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Abbrechen</string>
+    <string name="fih_battery_protect_power_off">Aus</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Allgemeine Benachrichtigungen</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Abbrechen</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Bitte Originalakku verwenden</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Laden abgebrochen</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Bitte verwenden Sie zum Laden den Originalakku, andernfalls kann es zu dauerhaften/physischen Schäden am Gerät kommen.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Der Akku ist ungültig</string>
+    <string name="fih_battery_protect_notification_cooling_down">Abkühlen</string>
+    <string name="fih_battery_protect_tap_learn_more">Für weitere Informationen tippen.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Das Telefon wird heiß und hat Maßnahmen zur Abkühlung eingeleitet. Es kann weiter verwendet werden, zeigt aber möglicherweise folgende Symptome:
+·Laden pausiert.
+·WLAN deaktiviert.
+·Anwendungen geschlossen.
+·Flugmodus aktiviert.
+Nach dem Abkühlen funktioniert das Telefon wieder wie gewohnt."</string>
+</resources>

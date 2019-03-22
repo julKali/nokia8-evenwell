@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP klients</string>
+    <string name="fih_cp_notify_statusbar_content">Ziņojums par jaunu nodrošināšanu</string>
+    <string name="fih_cp_notification_channel_name">Vispārīgie paziņojumi</string>
+    <string name="fih_cp_ui_mode_ok">Labi</string>
+    <string name="fih_cp_ui_mode_postpone">Atlikt</string>
+    <string name="fih_cp_ui_mode_delete">Dzēst</string>
+    <string name="fih_cp_apply_dialog_head_msg">Jauna nodrošināšana</string>
+    <string name="fih_cp_apply_dialog_body_msg">Vai vēlaties lietot jauno konfigurāciju?</string>
+    <string name="fih_cp_toast_info_update">Profils atjaunināts</string>
+    <string name="fih_cp_toast_info_create">Profils izveidots</string>
+    <string name="fih_cp_editor_apn_name">Vārds</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Starpniekserveris</string>
+    <string name="fih_cp_editor_apn_http_port">Ports</string>
+    <string name="fih_cp_editor_apn_user">Lietotājvārds</string>
+    <string name="fih_cp_editor_apn_password">Parole</string>
+    <string name="fih_cp_editor_apn_server">Serveris</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS starpniekserveris</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS ports</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Autentifikācijas veids</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Nav</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP vai CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN veids</string>
+    <string name="fih_cp_btn_ok">Labi</string>
+    <string name="fih_cp_btn_cancel">Atcelt</string>
+    <string name="fih_cp_btn_next">Tālāk</string>
+    <string name="fih_cp_btn_back">Atpakaļ</string>
+    <string name="fih_cp_apn_not_set">&lt;Nav iestatīts></string>
+    <string name="fih_cp_error_title">Uzmanību!</string>
+    <string name="fih_cp_error_name_empty">Vārda lauks nedrīkst būt tukšs.</string>
+    <string name="fih_cp_error_apn_empty">APN lauks nedrīkst būt tukšs.</string>
+    <string name="fih_cp_error_other">Datu sintakses kļūda.</string>
+    <string name="fih_cp_input_pin_code">Ievadiet PIN kodu.</string>
+    <string name="fih_cp_input_pin_code_ok">Labi</string>
+    <string name="fih_cp_input_pin_code_cancel">Atcelt</string>
+    <string name="fih_cp_input_pin_code_incorrect">PIN kods nav pareizs.</string>
+    <string name="fih_cp_input_pin_code_empty">Lūdzu, ievadiet PIN kodu.</string>
+    <string name="fih_cp_sim_not_available">SIM karte nav pieejama.</string>
+</resources>

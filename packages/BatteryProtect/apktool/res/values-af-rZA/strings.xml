@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Kanselleer</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Kanselleer</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Jou foon is besig om warm te word, so dit neem stappe om self af te koel. Jy kan dit steeds gebruik, maar jy sal dalk oplet dat:
+·Herlaaiing kan stop.
+·Wi-Fi kan afgeskakel word.
+·Toepassings kan toemaak.
+·Vliegtuigmodus kan aangeskakel word.
+Jou foon sal terugkeer na normaal nadat dit afgekoel het."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Algemene kennisgewings</string>
+    <string name="fih_battery_protect_high_full_charging">Die maksimum laai-limiet is teen hoë temperature bereik! Wanneer die foontemperatuur na normaal terugkeer, sal die stelsel voortgaan om teen normale spoed te laai.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Hoë temperatuur laai-limiet bereik</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Gebruik asseblief die oorspronklike battery om te laai, andersins kan jy permanente/fisiese skade aan jou toestel veroorsaak.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Gebruik asseblief die oorspronklike battery</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Laai het gestop</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Die battery is ongeldig</string>
+    <string name="fih_battery_protect_low_full_charging">Die maksimum laai-limiet is teen lae temperature bereik! Wanneer die foontemperatuur na normaal terugkeer, sal die stelsel voortgaan om teen normale spoed te laai.</string>
+    <string name="fih_battery_protect_low_full_charging_title">Lae temperatuur laai-limiet bereik</string>
+    <string name="fih_battery_protect_notification_cooling_down">Koel tans af ...</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_tap_learn_more">Tik om meer uit te vind.</string>
+</resources>

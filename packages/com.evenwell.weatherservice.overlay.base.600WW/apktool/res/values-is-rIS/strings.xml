@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Veðurþjónusta</string>
+    <string name="fih_weather_permission_hint_1">Þetta forrit þarf frekari heimildir til að virka rétt. Veittu heimildina þegar um það er beðið.</string>
+    <string name="fih_weather_permission_hint_2">Þetta forrit þarf frekari heimildir til að virka rétt. Opnaðu stillingarnar til að stjórna heimildum veðurþjónustunnar.</string>
+    <string name="fih_weather_button_ok">Ókei</string>
+    <string name="fih_weather_button_close">Loka</string>
+    <string name="fih_weather_button_setting">Stillir</string>
+    <string name="fih_weather_permission_success">Staðsetningarheimild var veitt</string>
+    <string name="fih_weather_permission_failed">Staðsetningarheimild var ekki veitt. Ekki er hægt að sækja staðsetningu.</string>
+    <string name="fih_weather_notification_title">Veðurþjónustan krefst heimilda</string>
+    <string name="fih_weather_notification_text">Ýttu til að leyfa</string>
+    <string name="fih_weather_notification_channel_title">Almennar tilkynningar</string>
+</resources>

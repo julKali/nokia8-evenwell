@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">PREKLIČI</string>
+    <string name="DONE">Končano</string>
+    <string name="NEXT">NAPREJ</string>
+    <string name="OK">V redu</string>
+    <string name="PREVIOUS">PREJŠNJE</string>
+    <string name="abc_action_bar_home_description">Krmarjenje domov</string>
+    <string name="abc_action_bar_up_description">Krmarjenje navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOPLJENO</string>
+    <string name="abc_capital_on">VKLOPLJENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Meni +</string>
+    <string name="abc_search_hint">Iskanje …</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Deljenje z</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
+    <string name="alert_empty_desc">Dodajte svoj opis.</string>
+    <string name="alert_warning_title">Nasveti</string>
+    <string name="enter_comments">Vnesite komentar (1000 znakov)</string>
+    <string name="extremely_likely">(Zelo verjetno)</string>
+    <string name="feedback">Pošlji komentarje</string>
+    <string name="helps_us_improve_our_products">Vaše povratne informacije nam pomagajo izboljšati naše izdelke.</string>
+    <string name="intro_title">Kako verjetno je, da boste ta telefon priporočili prijatelju ali sodelavcu?</string>
+    <string name="msg_send_after">Sporočilo se bo samodejno naložilo, ko bo naprava povezana v splet. Hvala za odgovor.</string>
+    <string name="msg_send_fail">Pošiljanje ni uspelo. Sporočilo se bo samodejno naložilo, ko bo naprava povezana v splet. Hvala za odgovor.</string>
+    <string name="no_ask_feedback_again_text">Ne pokaži več</string>
+    <string name="no_showagain_text">Ne pokaži več</string>
+    <string name="not_at_all_likely">(Ni verjetno)</string>
+    <string name="privacy_context_wifi">"Spoštovani uporabniki, 
+
+vabljeni k uporabi odjemalske programske opreme za povratne informacije. Pred uporabo tega izdelka pazljivo preberite pogoje storitve in se dobro seznanite z njimi. Če kliknete 「Strinjam se」, to pomeni, da ste razumeli pravice glede te programske opreme in se strinjate z njeno uporabo. Če se NE strinjate s temi pogoji, pritisnite「Izhod」. Zaradi zagotavljanja celovitih storitev aplikacija potrebuje naslednja dovoljenja: 
+1. Dostop do interneta, omrežja WLAN za pošiljanje povratnih informacij 
+2. Uvoz podatkov IMEI, PSN in MNC\\MCC za samodejno pridobivanje osnovnih podatkov o telefonu"</string>
+    <string name="search_menu_title">Iskanje</string>
+    <string name="select_a_value">Izberite vrednost</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Strinjam se</string>
+    <string name="str_leave">Izhod</string>
+    <string name="submit_fail">Pošiljanje ni uspelo</string>
+    <string name="submit_success">Hvala za odgovor</string>
+    <string name="thank_your_feedback">Hvala za povratne informacije.</string>
+    <string name="we_appreciate_your_help">Hvala za pomoč pri prizadevanju, da bodo izdelki Nokia najboljši na svetu</string>
+    <string name="we_hope_enjoying_nokia_device">Upamo, da uživate v uporabi naprave Nokia Vaše povratne informacije prispevajo k izboljšanju naših izdelkov</string>
+    <string name="we_will_contact_you_again">V prihodnosti se bomo spet obrnili na vas.</string>
+    <string name="we_will_contact_you_again_enjoy">V prihodnosti se bomo spet obrnili na vas. Uživajte v uporabi naprave Nokia.</string>
+    <string name="why_you_gave_this_score">Povejte nam, zakaj ste dali to oceno:</string>
+</resources>

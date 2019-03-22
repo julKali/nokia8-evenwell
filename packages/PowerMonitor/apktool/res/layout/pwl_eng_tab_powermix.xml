@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:persistent="false" android:title="@string/app_power_mix_name" android:key="powermix">
+        <SwitchPreference android:persistent="false" android:title="@string/power_mix_title" android:key="toggle_power_mix" android:summaryOn="@string/power_mix_summary" android:summaryOff="@string/power_mix_summary" />
+        <SwitchPreference android:persistent="false" android:title="@string/toggle_power_mix_developer_mode" android:key="toggle_power_mix_developer_mode" android:summaryOn="@string/power_mix_developer_mode_summary" android:summaryOff="@string/power_mix_developer_mode_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>

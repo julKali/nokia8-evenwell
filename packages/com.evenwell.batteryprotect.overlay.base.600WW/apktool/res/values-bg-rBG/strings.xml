@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Отказ</string>
+    <string name="fih_battery_protect_power_off">Изключване</string>
+    <string name="fih_battery_protect_high_full_charging">Достигната е максималната граница на зареждане при висока температура! Когато температурата на телефона се върне към обичайното ниво, системата ще продължи да се зарежда с нормална скорост.</string>
+    <string name="fih_battery_protect_low_full_charging">Достигната е максималната граница на зареждане при ниска температура! Когато температурата на телефона се върне към обичайното ниво, системата ще продължи да се зарежда с нормална скорост.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Достигната е границата на зареждане при висока температура</string>
+    <string name="fih_battery_protect_low_full_charging_title">Достигната е границата на зареждане при ниска температура</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Общи известия</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Отказ</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Използвайте оригиналната батерия</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Зареждането спря</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Използвайте оригиналната батерия за зареждане, в противен случай може да нанесете трайна/физическа повреда на устройството.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Батерията е невалидна</string>
+    <string name="fih_battery_protect_notification_cooling_down">Охлаждане</string>
+    <string name="fih_battery_protect_tap_learn_more">Докоснете, за да научите повече.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Телефонът ви прегрява, затова предприема мерки да се охлади. Можете да продължите да го използвате, но е възможно да забележите следното:
+·Зареждането може да спре на пауза.
+·Wi-Fi може да се изключи.
+·Приложенията може да се затворят.
+·Може да се включи самолетният режим.
+Телефонът ви ще се върне към нормалното си състояние, след като се охлади."</string>
+</resources>

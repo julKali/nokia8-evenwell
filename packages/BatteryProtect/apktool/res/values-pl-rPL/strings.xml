@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Anuluj</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Anuluj</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefon się nagrzał i próbuje teraz obniżyć temperaturę. Da się go używać, ale możesz zauważyć, że:
+·ładowanie zostało wstrzymane,
+·sieć Wi-Fi jest wyłączona,
+·aplikacje zostały zamknięte,
+·włączony jest Tryb samolotowy.
+Gdy telefon się schłodzi, wszystko wróci do normy."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Powiadomienia ogólne</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Użyj oryginalnego akumulatora do naładowania urządzenia; w przeciwnym razie możesz trwale je uszkodzić.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Użyj oryginalnego akumulatora</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Ładowanie zatrzymane</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Akumulator jest nieprawidłowy</string>
+    <string name="fih_battery_protect_notification_cooling_down">Ochładzanie</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_power_off">Wyłącz</string>
+    <string name="fih_battery_protect_tap_learn_more">Kliknij, by dowiedzieć się więcej.</string>
+</resources>

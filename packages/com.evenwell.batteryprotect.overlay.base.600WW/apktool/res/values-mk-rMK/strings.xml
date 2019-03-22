@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Заштита на батеријата</string>
+    <string name="fih_battery_protect_alert_dialog_ok">Во ред</string>
+    <string name="fih_battery_protect_warning_title">Внимание, висока температура</string>
+    <string name="fih_battery_protect_cooldown_title">Ладење</string>
+    <string name="fih_battery_protect_normalmode_title">Нормална температура</string>
+    <string name="fih_battery_protect_warning_text">Прекинете го повикот и апликациите за да се олади телефонот.</string>
+    <string name="fih_battery_protect_cooldown_text">Моментално телефонот е во режим на ладење, возможни се само итни повици.</string>
+    <string name="fih_battery_protect_normalmode_text">Вратено е на нормално работење.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Повик за итни случаи</string>
+    <string name="fih_battery_protect_maxtemp_title">Максимална температура</string>
+    <string name="fih_battery_protect_maxtemp_text">Температурата на телефонот е премногу висока, телефонот ќе се исклучи.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Престанете да полните</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">Престанете да полните</string>
+    <string name="fih_battery_protect_low_temp_title">Предупредување</string>
+    <string name="fih_battery_protect_low_temp_text">Температурата е прениска, прекини го полнењето.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">Температурата е надвор од опсегот</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Температурата на батеријата не може да се детектира, осигурете се дека батеријата е инсталирана правилно, во спротивно нема да се полни.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Температурата на батеријата не може да се детектира.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">осигурете дека батеријата е правилно инсталирана, инаку нема да се полни.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Температурата на батеријата не може да се детектира и телефонот е во режим на ладење, може да се вршат само итни повици, осигурете се дека батеријата е правилно инсталирана.</string>
+    <string name="fih_battery_protect_aging_title">Волшебник за батерија</string>
+    <string name="fih_battery_protect_aging_nm_text">Јавете се во центарот за грижа за корисниците, телефон %1$s Ви благодариме.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Јавете се во центарот за грижа за корисниците, ви благодариме.</string>
+    <string name="fih_battery_protect_bl_warning_title">Намали го предупредувањето за осветлување</string>
+    <string name="fih_battery_protect_bl_warning_text">Температурата на телефонот е поголема од нормалното, намалете ја осветленоста за да се излади телефонот</string>
+    <string name="fih_battery_protect_full_charging">Полнењето е завршено</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Откажи</string>
+    <string name="fih_battery_protect_power_off">Исклучување</string>
+    <string name="fih_battery_protect_high_full_charging">Максималната граница на полнење беше достигната при висока температура! Кога телефонот ќе се врати во нормална состојба, системот ќе продолжи со полнење со нормална брзина.</string>
+    <string name="fih_battery_protect_low_full_charging">Максималната граница на полнење беше достигната при ниска температура! Кога телефонот ќе се врати во нормална состојба, системот ќе продолжи со полнење со нормална брзина.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Достигната е горната температурна граница за полнење</string>
+    <string name="fih_battery_protect_low_full_charging_title">Достигната е долната температурна граница за полнење</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Општи известувања</string>
+    <string name="fih_battery_protect_warning_title_wear">Внимание, висока температура</string>
+    <string name="fih_battery_protect_cooldown_title_wear">Ладење</string>
+    <string name="fih_battery_protect_normalmode_title_wear">Нормална температура</string>
+    <string name="fih_battery_protect_warning_text_wear">Прекинете го повикот и апликациите за да се олади телефонот.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">Обезбедуваме апликации за намалување на осветленоста и исклучување за ладење на уредот со притискање на копче.</string>
+    <string name="fih_battery_protect_cooldown_text_wear">Моментално телефонот е во режим на ладење, возможни се само итни повици.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">Вратено е на нормално работење.</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">Максимална температура</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">Температурата на уредот е премногу висока, уредот ќе се исклучи.</string>
+    <string name="fih_battery_protect_low_temp_title_wear">Предупредување</string>
+    <string name="fih_battery_protect_low_temp_text_wear">Температурата на батеријата е прениска, прекини го полнењето.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Во моментов, температурата на батеријата не може да се детектира и уредот е во режим на ладење, може да се вршат само итни повици, осигурете се дека батеријата е правилно инсталирана.</string>
+    <string name="fih_battery_protect_install_error_title_wear">Волшебник за батерија</string>
+    <string name="fih_battery_protect_aging_title_wear">Волшебник за батерија</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">Внимание, висока температура</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">Престанете да полните</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">Грешка за инсталирање на батеријата</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">Температурата е надвор од опсегот</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">Осигурете дека батеријата е правилно инсталирана.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">Температурата на батеријата е превисока, прекини го полнењето.</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">Волшебник за батерија</string>
+    <string name="fih_battery_protect_full_charging_wear">Полнењето е завршено</string>
+    <string name="fih_battery_protect_ok_wear">Во ред</string>
+    <string name="fih_battery_protect_cancel_wear">Откажи</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">Сега уредот е во режимот Ладење. Користете го подоцна.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Користете оригинална батерија</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Полнењето е запрено</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Користете ја оригиналната батерија бидејќи можете да предизвикате трајно/физичко оштетување на уредот.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Батеријата не е исправна</string>
+    <string name="fih_battery_protect_notification_cooling_down">Ладење</string>
+    <string name="fih_battery_protect_tap_learn_more">Допрете за да дознаете повеќе.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Вашиот телефон се прегрева, затоа презема чекори да се олади. Сепак можете да го користите, но можете да забележите дека:
+·Полнењето може да е паузирано.
+·Wi-Fi може да биде исклучено.
+·Апликациите може да бидат затворени.
+·Може да биде вклучен режимот за авион.
+Вашиот телефон ќе се врати во нормала штом се олади."</string>
+</resources>

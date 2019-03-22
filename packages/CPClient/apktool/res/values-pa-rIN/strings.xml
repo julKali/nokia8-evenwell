@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP ਕਲਾਇੰਟ</string>
+    <string name="fih_cp_apn_not_set">&lt;ਸੈੱਟ ਨਹੀਂ ਕੀਤਾ></string>
+    <string name="fih_cp_apply_dialog_body_msg">ਕੀ ਤੁਸੀਂ ਨਵੀਂ ਕੰਫਿਗਰੇਸ਼ਨ ਲਾਗੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="fih_cp_apply_dialog_head_msg">ਨਵੀਂ ਪ੍ਰੋਵਿਜ਼ਨਿੰਗ</string>
+    <string name="fih_cp_btn_back">ਪਿੱਛੇ</string>
+    <string name="fih_cp_btn_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="fih_cp_btn_next">ਅੱਗੇ</string>
+    <string name="fih_cp_btn_ok">ਠੀਕ</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">ਪ੍ਰਮਾਣੀਕਰਨ ਪ੍ਰਕਾਰ</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">ਕੋਈ ਨਹੀਂ</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP ਜਾਂ CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">ਪੋਰਟ</string>
+    <string name="fih_cp_editor_apn_http_proxy">ਪ੍ਰੌਕਸੀ</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS ਪੋਰਟ</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS ਪ੍ਰੌਕਸੀ</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">ਨਾਮ</string>
+    <string name="fih_cp_editor_apn_password">ਪਾਸਵਰਡ</string>
+    <string name="fih_cp_editor_apn_server">ਸਰਵਰ</string>
+    <string name="fih_cp_editor_apn_type">APN ਪ੍ਰਕਾਰ</string>
+    <string name="fih_cp_editor_apn_user">ਯੂਜ਼ਰ ਨਾਮ</string>
+    <string name="fih_cp_error_apn_empty">APN ਖੇਤਰ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ।</string>
+    <string name="fih_cp_error_name_empty">ਨਾਮ ਖੇਤਰ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ।</string>
+    <string name="fih_cp_error_other">ਡੈਟਾ ਸਿਨਟੈਕਸ ਤਰੁੱਟੀ।</string>
+    <string name="fih_cp_error_title">ਧਿਆਨ ਦਿਓ</string>
+    <string name="fih_cp_input_pin_code">PIN ਕੋਡ ਦਾਖਲ ਕਰੋ:</string>
+    <string name="fih_cp_input_pin_code_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="fih_cp_input_pin_code_empty">ਕਿਰਪਾ ਕਰਕੇ PIN ਕੋਡ ਦਾਖਲ ਕਰੋ।</string>
+    <string name="fih_cp_input_pin_code_incorrect">ਗਲਤ PIN ਕੋਡ।</string>
+    <string name="fih_cp_input_pin_code_ok">ਠੀਕ</string>
+    <string name="fih_cp_notification_channel_name">ਆਮ ਸੂਚਨਾਵਾਂ</string>
+    <string name="fih_cp_notify_statusbar_content">ਨਵਾਂ ਪ੍ਰੋਵਿਜ਼ਨਿੰਗ ਸੁਨੇਹਾ</string>
+    <string name="fih_cp_sim_not_available">ਸਿਮ ਕਾਰਡ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।</string>
+    <string name="fih_cp_toast_info_create">ਪ੍ਰੋਫਾਈਲ ਬਣਾਓ ਸਫਲ</string>
+    <string name="fih_cp_toast_info_update">ਪ੍ਰੋਫਾਈਲ ਅਪਡੇਟ ਕਰੋ ਸਫਲ</string>
+    <string name="fih_cp_ui_mode_delete">ਮਿਟਾਓ</string>
+    <string name="fih_cp_ui_mode_ok">ਠੀਕ</string>
+    <string name="fih_cp_ui_mode_postpone">ਮੁਲਤਵੀ ਕਰੋ</string>
+</resources>

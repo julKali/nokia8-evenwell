@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Достъпност</string>
+    <string name="available_via_passpoint">Налично чрез %1$s</string>
+    <string name="back_btn_lebel">ВРЪЩАНЕ</string>
+    <string name="backup_and_restore_description">"Ако разполагате с резервно копие на акаунта си, можете да го възстановите на мобилното устройство.
+
+Можете да промените настройките за резервно копие в Настройки по всяко време."</string>
+    <string name="backup_and_restore_title">Създаване на резервно копие и възстановяване</string>
+    <string name="connected_via_passpoint">Свързано чрез %1$s</string>
+    <string name="connected_via_wfa">Свързано чрез помощника за Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Отказ</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Настройки за дата и час</string>
+    <string name="date_and_time_settings_title">Дата и час</string>
+    <string name="date_time_auto_summaryOff">Използване на точно време от мрежата</string>
+    <string name="date_time_auto_summaryOn">Използване на точно време от мрежата</string>
+    <string name="date_time_set_time">Задаване на час</string>
+    <string name="date_time_set_timezone">Задаване на часова зона</string>
+    <string name="device_checking_message">Добре дошли</string>
+    <string name="emergency_dial_hmd_message">Спешно</string>
+    <string name="finish_button_label">КРАЙ</string>
+    <string name="hmd_user_experience_program_message">С участието си в програмата за подобряване на практическата работа на потребителите помагате на HMD Global да разбере по-добре какво харесвате в устройството си Nokia и какво мислите, че трябва да се подобри. Понякога може да получаваме анонимни данни с технически характеристики за устройството ви, като например файл с данни за вероятен срив в софтуера. Моля, имайте предвид, че данни от този род няма да бъдат предавани по мобилна връзка. Радваме се, когато получаваме отзиви от вас с мнения за устройството ви Nokia!</string>
+    <string name="hmd_user_experience_program_title">Програма за подобряване на практическата работа на потребителите</string>
+    <string name="idle_too_long_toast">От известно време устройството е в неактивен режим. Изключете го, за да съхраните енергия.</string>
+    <string name="insert_sim_cards">Поставяне на SIM карти</string>
+    <string name="insert_sim_cards_prompt_content">"Не знаете как? Вижте инструкциите към телефона.
+
+След като поставите SIM картите, може да са необходими няколко секунди, за да се активират."</string>
+    <string name="language_selection_cancel_btn">ОТКАЗ</string>
+    <string name="language_selection_title">Избор на език</string>
+    <string name="light_room_description">%1$s поддържа заснемане на RAW (DNG) изображения. Можете да редактирате директно на новия си смартфон благодарение на партньорството ни с Adobe.&lt;br/>&lt;br/>Изтеглете сега Adobe Photoshop Lightroom CC от Google Play Магазин.</string>
+    <string name="light_room_title">Увличате се от фотография?</string>
+    <string name="link_speed">%1$d Мбит/с</string>
+    <string name="nevigation_selection_back">Назад</string>
+    <string name="next_btn_lebel">СЛЕДВАЩ</string>
+    <string name="not_now">НЕ СЕГА...</string>
+    <string name="passpoint_content">Идентификационни данни на %1$s</string>
+    <string name="passpoint_label">Записано чрез</string>
+    <string name="please_select_phase2">Фаза 2 на удостоверяване</string>
+    <string name="proxy_error_empty_host_set_port">Полето за порт трябва да е празно, ако полето за хост е празно.</string>
+    <string name="proxy_error_empty_port">Трябва да попълните полето за порт.</string>
+    <string name="proxy_error_invalid_exclusion_list">Въведеният списък с изключения не е правилно форматиран. Изключените домейни трябва да са разделени със запетаи.</string>
+    <string name="proxy_error_invalid_port">Въведеният порт е невалиден.</string>
+    <string name="proxy_exclusionlist_label">Заобикаляне на прокси сървъра за</string>
+    <string name="proxy_hostname_label">Име на хост за прокси сървър</string>
+    <string name="proxy_port_label">Порт на прокси сървър</string>
+    <string name="proxy_settings_title">Прокси</string>
+    <string name="proxy_url_title">"URL адрес на PAC: "</string>
+    <string name="proxy_warning_limited_support">HTTP прокси сървърът се използва от браузъра, но не може да се използва от другите приложения.</string>
+    <string name="saved_network">Записано от %1$s</string>
+    <string name="select_sim_card">Избор на SIM карта</string>
+    <string name="setup_complete_hmd">Всичко е готово...</string>
+    <string name="setup_complete_hmd_1">Почти сте готови да започнете...!</string>
+    <string name="setup_complete_main">Вие сте</string>
+    <string name="setup_complete_sub">ВСИЧКО Е ГОТОВО.</string>
+    <string name="setup_completed_congratulations">Поздравления!</string>
+    <string name="setup_finish">ДА ЗАПОЧВАМЕ</string>
+    <string name="sim_editor_title">Слот за SIM карта %1$d</string>
+    <string name="term_agree_text">Приемам</string>
+    <string name="upload_agent_hmd_des_text_3">"С докосването на ДА ЗАПОЧВАМЕ приемате да се включите в програмата за потребители. &lt;a href='launch.UserExperienceActivity://Kode'>Научете повече&lt;/a>. Винаги можете да се включите по-късно чрез \"Настройки\"."</string>
+    <string name="upload_agent_title">Програма за подобряване на потребителския опит</string>
+    <string name="welcome_hmd_term_of_use_2">"С докосването на стрелката приемате &lt;a href='launch.TermOfServiceActivity://Kode'>Условията за ползване на услугата&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>Декларацията за поверителност&lt;/a>. Информацията за активиране на устройството с еднократно определяне на местоположението му ще бъде изпратена до HMD Global. Възможно е да се прилагат такси за данни."</string>
+    <string name="welcome_hmd_term_of_use_4">"С докосването на бутона приемате &lt;a href='launch.TermOfServiceActivity://Kode'>Условията за ползване на услугата&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>Декларацията за поверителност&lt;/a>. Информацията за активиране на устройството с еднократно определяне на местоположението му ще бъде изпратена до HMD Global.&lt;br/>&lt;br/>Известието за автоматично актуализиране на софтуера ще бъде разрешено, чрез което ще се инсталират автоматично най-новите актуализации. Това може да изразходва малка част от бюджета ви за данни. Услугите ще осъществяват достъп до интернет, когато е необходимо.&lt;br/>&lt;br/>Тези услуги ще ви струват допълнителни разходи, когато осъществяват достъп до клетъчни мрежи."</string>
+    <string name="welcome_hmd_term_of_use_5">"С докосването на бутона приемате &lt;a href='launch.TermOfServiceActivity://Kode'>Условията за ползване на услугата&lt;/a>. Информацията за активиране на устройството с еднократно определяне на местоположението му ще бъде изпратена до HMD Global. Възможно е да се прилагат такси за данни. Данните ще се използват съгласно &lt;a href='launch.AddUploadAgentHandler://Kode'>Декларацията за поверителност&lt;/a>."</string>
+    <string name="welcome_message">Добре дошли</string>
+    <string name="welcome_start_button_label">СТАРТ</string>
+    <string name="wifi_add_network">Добавяне на мрежа</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Падащ списък с разширени опции. Докоснете двукратно за разгъване.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Падащ списък с разширени опции. Докоснете двукратно за свиване.</string>
+    <string name="wifi_and_mobile_skipped_message">"Свързването с мрежа ви помага да настроите бързо телефона си.
+
+Без връзка не можете:
+
+"<li>да влизате в профила си в облака;</li>"
+
+"<li>да получавате актуализации на софтуера;</li>"
+
+"<li>да настройвате автоматично час и дата.</li></string>
+    <string name="wifi_auth_password_wrong">Паролата може да е грешна</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Отказ</string>
+    <string name="wifi_certificate">Сертификат</string>
+    <string name="wifi_connect">Свързване</string>
+    <string name="wifi_connected_no_internet">Свързано, няма интернет</string>
+    <string name="wifi_disabled_generic">Деактивирано</string>
+    <string name="wifi_disabled_network_failure">Грешка в конфигурацията на IP</string>
+    <string name="wifi_disabled_password_failure">Проблем с удостоверяването</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Без предоставяне</string>
+    <string name="wifi_do_not_validate_eap_server">Без валидиране</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Не е посочен сертификат. Връзката ви няма да бъде частна.</string>
+    <string name="wifi_dont_skip">НАЗАД</string>
+    <string name="wifi_eap_anonymous">Анонимна самоличност</string>
+    <string name="wifi_eap_ca_cert">Сертификат от сертифициращ орган</string>
+    <string name="wifi_eap_domain">Домейн</string>
+    <string name="wifi_eap_identity">Самоличност</string>
+    <string name="wifi_eap_method">EAP метод</string>
+    <string name="wifi_eap_user_cert">Сертификат на потребителя</string>
+    <string name="wifi_fail_to_scan">Не може да сканира за мрежи</string>
+    <string name="wifi_failed_connect_message">Неуспешно свързване с мрежата</string>
+    <string name="wifi_failed_forget_message">Неуспешно забравяне на мрежата</string>
+    <string name="wifi_failed_save_message">Неуспешно записване на мрежата</string>
+    <string name="wifi_forget">Забравяне</string>
+    <string name="wifi_frequency">Честота</string>
+    <string name="wifi_gateway">Шлюз</string>
+    <string name="wifi_ip_address">IP адрес</string>
+    <string name="wifi_ip_settings">IP настройки</string>
+    <string name="wifi_ip_settings_invalid_dns">Въведете валиден DNS адрес.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Въведете валиден адрес на шлюз.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Въведете валиден IP адрес.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Въведете дължина на мрежов префикс между 0 и 32.</string>
+    <string name="wifi_multiple_cert_added">(Добавени са няколко сертификата)</string>
+    <string name="wifi_network_prefix_length">Дължина на мрежов префикс</string>
+    <string name="wifi_no_domain_warning">Трябва да посочите домейн.</string>
+    <string name="wifi_no_internet">Няма връзка с интернет</string>
+    <string name="wifi_no_internet_no_reconnect">Няма да се свързва автоматично</string>
+    <string name="wifi_not_in_range">Извън диапазона</string>
+    <string name="wifi_password">Парола</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_remembered">Записано</string>
+    <string name="wifi_save">Запазване</string>
+    <string name="wifi_security">Сигурност</string>
+    <string name="wifi_security_none">Няма</string>
+    <string name="wifi_setting_title">Свързване</string>
+    <string name="wifi_shared">Споделяне с другите потребители на устройството</string>
+    <string name="wifi_show_advanced">Разширени опции</string>
+    <string name="wifi_show_password">Показване на паролата</string>
+    <string name="wifi_signal">Сила на сигнала</string>
+    <string name="wifi_skip_anyway">ПРОПУСНИ ВЪПРЕКИ ТОВА</string>
+    <string name="wifi_speed">Скорост на връзката</string>
+    <string name="wifi_ssid">Име на мрежата</string>
+    <string name="wifi_ssid_hint">Въведете SSID</string>
+    <string name="wifi_status">Състояние</string>
+    <string name="wifi_unchanged">(непроменено)</string>
+    <string name="wifi_unspecified">Моля, изберете</string>
+    <string name="wifi_use_system_certs">Използване на системни сертификати</string>
+</resources>

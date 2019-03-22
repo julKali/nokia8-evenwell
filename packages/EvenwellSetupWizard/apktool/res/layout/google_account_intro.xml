@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:id="@id/title_bg" android:layout_width="fill_parent" android:layout_height="120.0dip" />
+        <TextView android:id="@id/title_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/google_account_intro_title" android:layout_below="@id/title_bg" style="@style/Title_2" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/outer_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/MainBackground">
+        <ImageView android:id="@id/account_intro_pic" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:scaleType="centerInside" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+        <RelativeLayout android:id="@id/text_frame" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/account_intro_pic">
+            <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+                <TextView android:gravity="left" android:id="@id/description_text" android:text="@string/google_account_intro_description" android:layout_alignParentTop="true" style="@style/DescriptionText2" />
+            </ScrollView>
+        </RelativeLayout>
+        <LinearLayout android:id="@id/btn1_linear_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="40.0dip" android:layout_below="@id/text_frame">
+            <Button android:gravity="center" android:id="@id/add_account_btn" android:background="@drawable/google_btn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="36.0dip" android:layout_marginRight="36.0dip" android:text="@string/google_account_add_account" android:layout_centerHorizontal="true" />
+        </LinearLayout>
+        <include layout="@layout/foot_bar" />
+    </RelativeLayout>
+</LinearLayout>

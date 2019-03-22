@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Wetterdienst</string>
+    <string name="fih_weather_permission_hint_1">App benötigt weitere Berechtigung zur Funktion. Bitte auf Anforderung zulassen.</string>
+    <string name="fih_weather_permission_hint_2">App benötigt weitere Berechtigung zur Funktion. Berechtigung für WeatherService in Einstellung verwalten.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Schließen</string>
+    <string name="fih_weather_button_setting">Einstellung...</string>
+    <string name="fih_weather_permission_success">Berechtigung erfolgreich gewährt</string>
+    <string name="fih_weather_permission_failed">Gewährung von Berechtigung verweigert, Ort nicht abrufbar.</string>
+    <string name="fih_weather_notification_title">WeatherService erfordert Berechtigungen</string>
+    <string name="fih_weather_notification_text">Zum Erlauben tippen</string>
+    <string name="fih_weather_notification_channel_title">Allgemeine Benachrichtigungen</string>
+</resources>

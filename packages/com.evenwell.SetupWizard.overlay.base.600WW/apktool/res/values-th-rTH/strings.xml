@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"เมื่อแตะปุ่มจะถือว่าคุณยอมรับ &lt;a href='launch.TermOfServiceActivity://Kode'>ข้อกำหนดการให้บริการ&lt;/a> และ &lt;a href='launch.AddUploadAgentHandler://Kode'>นโยบายความเป็นส่วนตัว&lt;/a> ข้อมูลการเปิดใช้งานอุปกรณ์ที่มีตำแหน่งอุปกรณ์ครั้งเดียวจะถูกส่งไปยัง HMD Global&lt;br/>&lt;br/>ระบบจะเปิดใช้งานการแจ้งเตือนการอัปเดตซอฟต์แวร์โดยอัตโนมัติ ซึ่งจะติดตั้งการอัปเดตล่าสุดให้กับคุณ โดยอาจใช้ปริมาณการรับส่งข้อมูลบางส่วนของคุณ บริการจะเข้าใช้อินเทอร์เน็ตเมื่อใดก็ตามที่ต้องการ&lt;br/>&lt;br/>บริการเหล่านี้จะมีค่าใช้จ่ายเพิ่มเติมเมื่อเข้าใช้เครือข่ายมือถือ"</string>
+    <string name="welcome_hmd_term_of_use_5">"เมื่อแตะปุ่มจะถือว่าคุณยอมรับ&lt;a href='launch.TermOfServiceActivity://Kode'> ข้อกำหนดการให้บริการ&lt;/a> ระบบจะประมวลผลข้อมูลของคุณตาม&lt;a href='launch.AddUploadAgentHandler://Kode'>นโยบายความเป็นส่วนตัว&lt;/a>ของ HMD ข้อมูลการเปิดใช้งานอุปกรณ์ที่มีตำแหน่งอุปกรณ์ครั้งเดียวจะถูกส่งไปยัง HMD Global อาจมีค่าธรรมเนียมการใช้ข้อมูลมือถือ"</string>
+    <string name="next_btn_lebel">ถัดไป</string>
+    <string name="accessibility_text">การเข้าถึง</string>
+    <string name="language_selection_cancel_btn">ยกเลิก</string>
+    <string name="term_agree_text">ตกลง</string>
+    <string name="datausage_dialog_positive_btn">ตกลง</string>
+    <string name="datausage_dialog_negitive_btn">ยกเลิก</string>
+    <string name="nevigation_selection_back">ย้อนกลับ</string>
+    <string name="wifi_picker_connection_positive">ตกลง</string>
+    <string name="wapi_psk_security_type">ประเภทรหัสผ่าน</string>
+    <string name="upload_agent_hmd_des_text_3">"เมื่อแตะปุ่ม \"ไปกันเลย\" จะถือว่าคุณตกลงเข้าร่วมโปรแกรมประสบการณ์การใช้งานของผู้ใช้ &lt;a href='launch.UserExperienceActivity://Kode'>ดูเพิ่ม&lt;/a> โปรดทราบว่าคุณสามารถเข้าร่วมได้ในภายหลังผ่านทางการตั้งค่า"</string>
+    <string name="setup_complete_hmd_1">คุณเกือบพร้อมแล้ว...</string>
+    <string name="not_now">ยังไม่ใช่ตอนนี้...</string>
+    <string name="setup_finish">ไปกันเลย</string>
+    <string name="wifi_fail_to_scan">ไม่สามารถสแกนหาเครือข่าย</string>
+    <string name="wifi_security_none">ไม่มี</string>
+    <string name="wifi_remembered">บันทึกแล้ว</string>
+    <string name="wifi_disabled_generic">ปิดใช้งาน</string>
+    <string name="wifi_disabled_network_failure">ไม่สามารถกำหนดค่า IP</string>
+    <string name="wifi_disabled_password_failure">ปัญหาในการรับรองความถูกต้อง</string>
+    <string name="wifi_not_in_range">ไม่อยู่ในช่วง</string>
+    <string name="wifi_no_internet_no_reconnect">จะไม่เชื่อมต่อโดยอัตโนมัติ</string>
+    <string name="wifi_no_internet">ไม่มีการเข้าถึงอินเทอร์เน็ต</string>
+    <string name="saved_network">บันทึกโดย %1$s</string>
+    <string name="connected_via_passpoint">เชื่อมต่อผ่านทาง %1$s</string>
+    <string name="available_via_passpoint">ใช้ได้ผ่านทาง %1$s</string>
+    <string name="wifi_connected_no_internet">เชื่อมต่อแล้ว ไม่มีอินเทอร์เน็ต</string>
+    <string name="wifi_auth_password_wrong">รหัสผ่านอาจไม่ถูกต้อง</string>
+    <string name="connected_via_wfa">เชื่อมต่อผ่านทางตัวช่วย Wi‑Fi</string>
+    <string name="wifi_ssid">ชื่อเครือข่าย</string>
+    <string name="wifi_ssid_hint">ป้อน SSID</string>
+    <string name="wifi_security">ความปลอดภัย</string>
+    <string name="wifi_eap_method">วิธี EAP</string>
+    <string name="please_select_phase2">การรับรองความถูกต้องเฟส 2</string>
+    <string name="wifi_eap_ca_cert">ใบรับรอง CA</string>
+    <string name="wifi_do_not_validate_eap_server_warning">ไม่ได้ระบุใบรับรอง การเชื่อมต่อของคุณจะไม่ส่วนตัว</string>
+    <string name="wifi_eap_domain">โดเมน</string>
+    <string name="wifi_no_domain_warning">ต้องระบุโดเมน</string>
+    <string name="wifi_eap_user_cert">ใบรับรองผู้ใช้</string>
+    <string name="wifi_eap_identity">ตัวตน</string>
+    <string name="wifi_eap_anonymous">ไม่เปิดเผยตัวตน</string>
+    <string name="wifi_password">รหัสผ่าน</string>
+    <string name="wifi_show_password">แสดงรหัสผ่าน</string>
+    <string name="wifi_advanced_toggle_description_collapsed">ตัวเลือกขั้นสูงของรายการดรอปดาวน์ แตะสองครั้งเพื่อขยาย</string>
+    <string name="wifi_show_advanced">ตัวเลือกขั้นสูง</string>
+    <string name="proxy_settings_title">พร็อกซี</string>
+    <string name="proxy_warning_limited_support">พร็อกซี HTTP สามารถใช้โดยเบราว์เซอร์ แต่ไม่สามารถใช้โดยแอปอื่นๆ</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">ชื่อโฮสต์ของพร็อกซี</string>
+    <string name="proxy_exclusionlist_label">หลีกเลี่ยงพร็อกซีสำหรับ</string>
+    <string name="wifi_ip_settings">การตั้งค่า IP</string>
+    <string name="wifi_ip_address">ที่อยู่ IP</string>
+    <string name="wifi_gateway">เกตเวย์</string>
+    <string name="wifi_network_prefix_length">ความยาวส่วนนำหน้าเครือข่าย</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">แชร์กับผู้ใช้อุปกรณ์รายอื่นๆ</string>
+    <string name="proxy_port_label">พอร์ตของพร็อกซี</string>
+    <string name="wifi_unspecified">โปรดเลือก</string>
+    <string name="wifi_multiple_cert_added">(มีการเพิ่มใบรับรองหลายรายการ)</string>
+    <string name="wifi_use_system_certs">ใช้ใบรับรองของระบบ</string>
+    <string name="wifi_do_not_provide_eap_user_cert">ไม่ระบุ</string>
+    <string name="wifi_do_not_validate_eap_server">ไม่ตรวจสอบความถูกต้อง</string>
+    <string name="wifi_add_network">เพิ่มเครือข่าย</string>
+    <string name="wifi_save">บันทึก</string>
+    <string name="passpoint_label">บันทึกผ่านทาง</string>
+    <string name="wifi_connect">เชื่อมต่อ</string>
+    <string name="wifi_status">สถานะ</string>
+    <string name="wifi_signal">ความแรงของสัญญาณ</string>
+    <string name="wifi_speed">ความเร็วลิงก์</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">ความถี่</string>
+    <string name="wifi_forget">ไม่จำ</string>
+    <string name="wifi_cancel">ยกเลิก</string>
+    <string name="proxy_error_invalid_port">พอร์ตที่คุณพิมพ์ไม่ถูกต้อง</string>
+    <string name="wifi_ip_settings_invalid_ip_address">พิมพ์ที่อยู่ IP ที่ถูกต้อง</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">พิมพ์ความยาวส่วนนำหน้าเครือข่ายตั้งแต่ 0 ถึง 32 ตัวอักษร</string>
+    <string name="wifi_ip_settings_invalid_gateway">พิมพ์ที่อยู่เกตเวย์ที่ถูกต้อง</string>
+    <string name="wifi_ip_settings_invalid_dns">พิมพ์ที่อยู่ DNS ที่ถูกต้อง</string>
+    <string name="wifi_unchanged">(ไม่เปลี่ยนแปลง)</string>
+    <string name="wifi_failed_connect_message">ไม่สามารถเชื่อมต่อกับเครือข่าย</string>
+    <string name="wifi_failed_save_message">ไม่สามารถบันทึกเครือข่าย</string>
+    <string name="wifi_failed_forget_message">ไม่สามารถไม่จำเครือข่าย</string>
+    <string name="proxy_error_empty_host_set_port">ช่องพอร์ตต้องว่างหากช่องโฮสต์นั้นว่าง</string>
+    <string name="proxy_error_empty_port">คุณจำเป็นต้องกรอกช่องพอร์ต</string>
+    <string name="proxy_error_invalid_exclusion_list">รายการข้อยกเว้นที่คุณพิมพ์อยู่ในรูปแบบที่ไม่เหมาะสม ให้พิมพ์รายการโดเมนที่ยกเว้นโดยคั่นด้วยจุลภาค</string>
+    <string name="wifi_advanced_toggle_description_expanded">ตัวเลือกขั้นสูงของรายการดรอปดาวน์ แตะสองครั้งเพื่อย่อ</string>
+    <string name="passpoint_content">ข้อมูลประจำตัว %1$s</string>
+    <string name="select_sim_card">เลือกซิมการ์ด</string>
+    <string name="sim_editor_title">ช่องซิม %1$d</string>
+    <string name="wifi_certificate">ใบรับรอง</string>
+    <string name="wifi_setting_title">เริ่มเชื่อมต่อ</string>
+    <string name="wifi_skip_anyway">บังคับข้าม</string>
+    <string name="wifi_dont_skip">ย้อนกลับ</string>
+    <string name="wifi_and_mobile_skipped_message">"การเชื่อมต่อกับเครือข่ายจะช่วยให้คุณสามารถตั้งค่าโทรศัพท์ได้อย่างรวดเร็ว
+
+หากไม่มีการเชื่อมต่อ คุณจะไม่สามารถ:
+
+"<li>ลงชื่อเข้าใช้บัญชีระบบคลาวด์ของคุณ</li>"
+
+"<li>รับการอัปเดตซอฟต์แวร์</li>"
+
+"<li>ตั้งค่าวันที่และเวลาโดยอัตโนมัติ</li></string>
+</resources>

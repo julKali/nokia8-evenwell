@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">መልክ</string>
+    <string name="pref_dialog_title_time_out">እረፍት</string>
+    <string name="pref_title_alarm_information">የማንቂያ ደወል መረጃ</string>
+    <string name="pref_title_calendar_reminder">የቀን መቁጠሪያ ማስታወሻ</string>
+    <string name="pref_title_missed_calls">ያልታዩ ጥሪዎች አመልካች</string>
+    <string name="pref_title_time_out">ስልኩ በማይንቀሳቀስበት ወቅት እረፍት</string>
+    <string name="pref_title_unread_mails">ያልተነበቡ ኢሜይሎች አመልካች</string>
+    <string name="pref_title_unread_messages">ያልተነበቡ መልእክቶች አመልካች</string>
+    <string name="switch_off_text">አጥፋ</string>
+    <string name="switch_on_text">አብራ</string>
+</resources>

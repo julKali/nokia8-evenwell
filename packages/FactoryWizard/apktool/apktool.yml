@@ -1,0 +1,26 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: FactoryWizard.apk
+compressionType: false
+doNotCompress:
+- dex
+- arsc
+- png
+- res/drawable-xhdpi-v4/spinner_default_holo_light.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '12'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '9001006'
+  versionName: 9.0010.06

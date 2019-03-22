@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/setupwizard_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:textDirection="ltr" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/viewStatusBar" android:background="@color/status_bar" android:layout_width="fill_parent" android:layout_height="@dimen/status_bar_height" />
+    <ImageView android:layout_width="34.0dip" android:layout_height="34.0dip" android:layout_marginTop="45.0dip" android:layout_marginBottom="16.0dip" android:src="@drawable/set_date_time" android:layout_marginStart="26.0dip" />
+    <TextView android:textSize="24.0sp" android:textColor="#ff212121" android:id="@id/title_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="25.0dip" android:text="@string/date_and_time_settings_title" android:layout_marginStart="25.0dip" />
+    <View android:textColor="#ff212121" android:id="@id/timezone_dropdown_anchor" android:layout_width="fill_parent" android:layout_height="0.0px" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" />
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0px" android:layout_weight="1.0">
+        <fragment android:name="com.fihtdc.setupwizard.DateTimeSettings" android:id="@id/viewer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </RelativeLayout>
+    <include layout="@layout/setupwizard_footer" />
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Megjelenítés</string>
+    <string name="pref_dialog_title_time_out">Időtúllépés</string>
+    <string name="pref_title_alarm_information">Ébresztés adatai</string>
+    <string name="pref_title_calendar_reminder">Naptáremlékeztető</string>
+    <string name="pref_title_missed_calls">Nem fogadott hívások kijelzője</string>
+    <string name="pref_title_time_out">Időtúllépés, ha a telefon nincs mozgásban</string>
+    <string name="pref_title_unread_mails">Nem olvasott e-mailek kijelzője</string>
+    <string name="pref_title_unread_messages">Nem olvasott üzenetek kijelzője</string>
+    <string name="switch_off_text">Ki</string>
+    <string name="switch_on_text">Be</string>
+</resources>

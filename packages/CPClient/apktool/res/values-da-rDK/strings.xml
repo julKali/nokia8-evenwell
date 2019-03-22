@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP-klient</string>
+    <string name="fih_cp_apn_not_set">&lt;Ikke angivet></string>
+    <string name="fih_cp_apply_dialog_body_msg">Vil du anvende den nye konfiguration?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Ny opsætning</string>
+    <string name="fih_cp_btn_back">Tilbage</string>
+    <string name="fih_cp_btn_cancel">Annuller</string>
+    <string name="fih_cp_btn_next">Næste</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Godkendelsestype</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Ingen</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP eller CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS-port</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS-proxy</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Navn</string>
+    <string name="fih_cp_editor_apn_password">Adgangskode</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_type">APN-type</string>
+    <string name="fih_cp_editor_apn_user">Brugernavn</string>
+    <string name="fih_cp_error_apn_empty">Feltet APN skal udfyldes.</string>
+    <string name="fih_cp_error_name_empty">Feltet Navn skal udfyldes.</string>
+    <string name="fih_cp_error_other">Datasyntaksfejl.</string>
+    <string name="fih_cp_error_title">Bemærk</string>
+    <string name="fih_cp_input_pin_code">Angiv PIN-kode:</string>
+    <string name="fih_cp_input_pin_code_cancel">Annuller</string>
+    <string name="fih_cp_input_pin_code_empty">Angiv pinkode.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Forkert pinkode.</string>
+    <string name="fih_cp_input_pin_code_ok">Ok</string>
+    <string name="fih_cp_notification_channel_name">Generelle underretninger</string>
+    <string name="fih_cp_notify_statusbar_content">Besked om ny opsætning</string>
+    <string name="fih_cp_sim_not_available">SIM-kort er ikke tilgængeligt.</string>
+    <string name="fih_cp_toast_info_create">Profil oprettet</string>
+    <string name="fih_cp_toast_info_update">Profil opdateret</string>
+    <string name="fih_cp_ui_mode_delete">Slet</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Udsæt</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Vejrtjeneste</string>
+    <string name="fih_weather_permission_hint_1">Denne app kræver en tilladelse for at fungere korrekt. Giv tilladelse ved anmodning.</string>
+    <string name="fih_weather_permission_hint_2">Denne app kræver tilladelser for at fungere korrekt. Angiv tilladelser for Vejrtjeneste i Indstillinger.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Luk</string>
+    <string name="fih_weather_button_setting">Indstiller...</string>
+    <string name="fih_weather_permission_success">Placeringstilladelse givet</string>
+    <string name="fih_weather_permission_failed">Placeringstilladelse afvist. Kan ikke hente placering.</string>
+    <string name="fih_weather_notification_title">Vejrtjenesten kræver tilladelser</string>
+    <string name="fih_weather_notification_text">Tryk for at tillade</string>
+    <string name="fih_weather_notification_channel_title">Generelle underretninger</string>
+</resources>

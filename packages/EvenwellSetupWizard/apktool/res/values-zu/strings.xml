@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zulazulela ekhaya</string>
+    <string name="abc_action_bar_up_description">Zulazulela phezulu</string>
+    <string name="abc_action_menu_overflow_description">Izinketho eziningi</string>
+    <string name="abc_action_mode_done">Kwenziwe</string>
+    <string name="abc_activity_chooser_view_see_all">Buka konke</string>
+    <string name="abc_activitychooserview_choose_application">Khetha uhlelo lokusebenza</string>
+    <string name="abc_capital_off">VALIWE</string>
+    <string name="abc_capital_on">VULIWE</string>
+    <string name="abc_search_hint">Iyasesha...</string>
+    <string name="abc_searchview_description_clear">Sula inkinga</string>
+    <string name="abc_searchview_description_query">Umbuzo wosesho</string>
+    <string name="abc_searchview_description_search">Sesha</string>
+    <string name="abc_searchview_description_submit">Hambisa umbuzo</string>
+    <string name="abc_searchview_description_voice">Ukusesha ngezwi</string>
+    <string name="abc_shareactionprovider_share_with">Yabelana no-</string>
+    <string name="abc_shareactionprovider_share_with_application">Yabelana ne-%s</string>
+    <string name="abc_toolbar_collapse_description">Goqa</string>
+    <string name="accessibility_text">Ukufinyeleleka</string>
+    <string name="choose_timezone">Khetha isikhathi sendawo</string>
+    <string name="datausage_dialog_negitive_btn">Khansela</string>
+    <string name="datausage_dialog_positive_btn">KULUNGILE</string>
+    <string name="date_and_time">Usuku nezilungiselelo zesikhathi</string>
+    <string name="date_and_time_settings_summary">Setha idethi, isikhathi, umkhwawulo wesikhathi; namafomethi</string>
+    <string name="date_and_time_settings_title_setup_wizard">Setha idethi nesikhathi</string>
+    <string name="date_picker_title">Usuku:</string>
+    <string name="date_time_24hour">Sebenzisa ifomethi ye-24 amahora</string>
+    <string name="date_time_auto">Idethi nesikhathi ngokuzenzakalela</string>
+    <string name="date_time_auto_summaryOff">Sebenzisa isikhathi esinikeziwe senethiwekhi</string>
+    <string name="date_time_auto_summaryOn">Sebenzisa isikhathi esinikeziwe senethiwekhi</string>
+    <string name="date_time_date_format">Khetha ifomethi yedethi</string>
+    <string name="date_time_set_date">Setha idethi</string>
+    <string name="date_time_set_time">Setha isikhathi</string>
+    <string name="date_time_set_timezone">Khetha umkhawulo wesikhathi</string>
+    <string name="device_checking_message">Siyakwamukela</string>
+    <string name="emergency_dial_message">Ucingo lwezimo eziphuthumayo</string>
+    <string name="expand_button_title">Okuthuthukisiwe</string>
+    <string name="google_account_add_account">Ngena ngemvume nge-Google</string>
+    <string name="hmd_legal_message">"Imigomo Yesevisi 
+ 
+Usuku lokuqalisa ngumhla ka-14 Okthoba 2016 
+ 
+1. Ukwamukela 
+Le Migomo Yesevisi ye-HMD Global kanye Nenqubomgomo Yobumfihlo kuhlanganise neminye imigomo eyengeziwe nolwazi olungase lunikezwe phakathi neSevisi (sekukonke “Imigomo”) kubusa ukusebenzisa kwakho isevisi, isayithi, okuqukethwe nesofthiwe (sekukonke \"Isevisi\"). Ngokubhalisela noma ukusebenzisa Isevisi nanoma iyiphi ingxenye yayo wamukela le Migomo. 
+ 
+Imigomo yenza isivumelwano phakathi kwakho ne-HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, e-Finland okuhlanganisa labo esebenzisana nabo nabahlinzeki bayo (sekukonke i-“HMD Global”), ngokuchaza amalungelo nezibopho zakho neze-HMD Global ngokuhlobene neSevisi. 
+ 
+2. Ukufaneleka 
+Ukuze usebenzise Isevisi, okungenani kufanele ube neminyaka eyishumi nantathu (13) ubudala. Uma ungaphansi kweminyaka eyishumi nantathu (13) ubudala, noma okungenani eyishumi nantathu (13) kodwa useyingane ngokomthetho ezweni lakini, kufanele umzali noma umnakekeli wakho osemthethweni amukele ukubhalisa kwakho esikhundleni sakho futhi avumele ukusebenzisa kwakho Isevisi. Noma ubani obhalisayo kufanele kube ofanelekile ngokomthetho. 
+ 
+3. Ukubhalisa Nokumisa 
+Ukuze usebenzise Isevisi ungase udinge ukubhalisa futhi wakhe i-Akhawunti ye-HMD enegama lomsebenzisi nephasiwedi okungase kube ngaphansi kwemigomo ehlukile. Ungase udinge ukuthi usinikeze ulwazi oluthize lokomuntu siqu kanye nolunye ulwazi. I-HMD Global ingase iqinisekise ikheli lakho le-imeyili ngaphambi kokuthi kusetshenziswe i-Akhawunti yakho ye-HMD. Ngemva kokusebenzisa idivayisi yakho okokuqala ngqa futhi njalo lapho ubuyekeza isofthiwe yedivayisi ye-Nokia, umlayezo wombhalo uzothunyelwa e-HMD Global. Ukwakhiwa kwe-Akhawunti ye-HMD kuzodinga ukudluliswa kwedatha. Izindleko zokudluliswa kwedatha zingase zisebenze. 
+ 
+Uyavuma ukunikeza ulwazi oluyiqiniso noluphelele lapho ubhalisela Isevisi futhi nokugcina lolo lwazi lubuyekeziwe. Kufanele uthathe izinyathelo zokuvikela igama lakho lomsebenzisi nephasiwedi ukuze kungasetshenziswa kabi abanye abantu futhi wazise i-HMD Global mayelana nanoma yikuphi ukusetshenziswa kabi. Wena, nomzali wakho noma umnakekeli ongokomthetho uma useyingane, ninesibopho somuntu siqu sonoma yikuphi ukusetshenziswa kweSevisi. 
+ 
+Ungase umise ukubhalisa kwakho uma ungasafisi ukusebenzisa Isevisi. Ngemva kokumisa, ngeke usakwazi ukufinyelela kuSevisi. I-HMD Global ingase imise noma ifake umkhawulo ekufinyeleleni kwakho kwezinye izingxenye zeSevisi uma i-HMD Global ikholelwa ukuthi wephule Imigomo noma ngokunikezwa isaziso sangaphambilini uma ungazange ungene kuSevisi ngegama lakho lomsebenzisi ezinyangeni eziyisithupha (6) ezedlule. 
+ 
+Ngaphandle uma kuboniswe Kunqobomgomo Yobumfihlo, i-HMD Global ngeke ibe nesibopho sanoma yikuphi ukukhishwa noma ukulahlekelwa kolwazi noma okuqukethwe okuthumele kuSevisi. Uma ulwazi noma okuqukethwe kukhishwe nguwe noma i-HMD Global kusuka kuSevisi, imikhondo noma amakhophi angase asale ndawana thize . 
+ 
+4. Amalayisense 
+I-HMD Global ikunikeza ilayisense engakhethekile, engadluliseki, engaguqulwa nganoma yisiphi isikhathi ngokuqonda okuphelele kwe-HMD Global, ukuze ufinyelele futhi usebenzise Isevisi ngokuvumelana neMigomo. Ukusebenzisa Isevisi akukunikeze noma yimaphi amalungelo wezinto oziqambele zona ngengqondo yakho noma wanoma yiluphi ulwazi noma okuqukethwe kuSevisi. 
+ 
+Njengengxenye yeSevisi, i-HMD Global ingase ikunikeze okuqukethwe okusungulwe yi-HMD Global noma yilabo abanikeza amalayisense wayo (Okuqukethwe). I-HMD Global ikunikeza ilayisense engakhethekile futhi enganqamukiyo ukuze usebenzise Okuqukethwe ngokwenjongo ehloselwe yona, ngaphandle uma kuchazwe ngenye indlela Kumigomo esebenzayo noma encwadini yezinto ezithengiwe. Okunye Okuqukethwe kungase kutholakale kuzakhamuzi zezindawo ezithize kuphela. Ubophekile ngaphansi kwanoma yimiphi imikhawulo esebenza Kokuqukethwe okuthize okuthola ngeSevisi. Noma iyiphi ilayisense etholekele Yokuqukethwe kwenkampani yangaphandle kuyisivumelwano esiyisibopho phakathi kwakho nomhlinzeki Wokuqukethwe kwenkampani yangaphandle. Unamalungelo Wokuqukethwe okunikezwe lapha ngokucacile kuphela. 
+ 
+I-HMD Global ingase ikunikeze isofthiwe ethize esungulwe yi-HMD Global, noma yilabo abanikeza amalayisense wayo (Isofthiwe) njengenxenye yeSevisi. Ukusebenzisa kwakho Isofthiwe kungase kube ngaphansi kwemigomo nemibandela ehlukile okufanele uyamukele ngaphambi kokusebenzisa Isofthiwe. Uma ingekho imigomo nemibandela ehlukile esebenzayo kuleyo Softhiwe, imigomo elandelayo iyasebenza: I-HMD Global ikunikeza ilungelo eliphelele, elingakhethekile, elingadluliseki lokufaka nokusebenzisa Isofthiwe kukhompuyutha yakho futh/noma kudivayisi yeselula. Ngeke ukwazi ukukopisha Isofthiwe, ngaphandle kokuthi wenze ikhophi yokusekela ngokulondoloza yengobo yomlando. Ngeke ukwazi ukusabalalisa, ukudlulisa ilungelo lokusebenzisa, ukuguqula, ukuhumusha, ukukhiqiza kabusha, ukuthengisa kabusha, ukunikeza ilayisense engaphansi, ukuqashisa, ukuguqula ubunjiniyela, noma ukuzama ukuthola ikhodi yomthombo noma ukwenza imisebenzi yokuphumela kokunye yeSofthiwe. Kusofthiwe yelayisense yomthombo ovulekile, imigomo yelayisense yomthombo ovulekile iyasebenza. Ukusebenzisa kwakho Isofthiwe kubonisa ukwamukela kwakho imigomo nemibandela esebenzayo. 
+ 
+Isofthiwe ingase ibe ngaphansi kokulawulwa kokuthekelisa ngaphansi Kwemithetho Yokuphatha Ukuthekelisa ye-US kanye neminye imithetho yokulawula ukungenisa nokuthekelisa. Uyavuma ukuthobela ngokuqinile imithetho esebenzayo yokungenisa nokuthekelisa futhi uyaphela ukuthi unesibopho sokuthola amalayisense wokuthekelisa, ukuthekelisa kabusha, ukudlulisa, noma ukungenisa Isofthiwe enjalo. 
+ 
+Ungase ukwazi ukudlulisa ulwazi noma okuqukethwe (Izinto) kuSevisi. I-HMD Global ayifaki isimangalo sokuba umnikazi Wezinto zakho. Ukudlulisa kwakho Izinto akudluliseli ubunikazi bamalungelo Wezinto ku-HMD Global. I-HMD Global idlulisa kuphela Izinto futhi ayinaso isibopho sokulawula kokuzihlela. Ngokuthumela Izinto ngeSevisi, unikeza i-HMD Global ilayisense yomhlaba jikelele, engakhethekile, yokunikezwa kwelayisense yangaphansi, enikezwayo, ekhokhelwe ngokuphelele, engenazo izinkokhiso, futhi eguqukayo yokusebenzisa, ukukophisha, yokusetshenziswa emphakathini, yokubonisa, ukusabalalisa kunoma iyiphi imidiya futhi nokuguqula Into ibe eminye imisebenzi, futhi nokunikeza amalayisense angaphansi acishe afane ngokwezinga elidingekayo ku-HMD Global ukuze ihlinzeke ngeSevisi. Ungase futhi ukwazi ukulungisa lokhu okunikezwayo kumasethingi wobumfihlo nakwamanye amasethingi weSevisi. 
+ 
+Unesibopho sokwenza amakhophi wokusekela ngokulondoloza idatha oyigcina kuSevisi, okubandakanya Okuqukethwe okulayishayo. Uma Isevisi imisiwe noma ikhanseliwe, i-HMD Global ingase isuse ngokuphelele idatha yakho. I-HMD Global ayinaso isibopho sokubuyisa idatha ngemva kokuthi Isevisi imisiwe noma ikhanseliwe. 
+ 
+5. Ukusebenzisa Isevisi 
+Uyavuma: 
+• Ukuthobela imithetho esebenzayo, Imigomo nokuziphatha kahle; 
+• Ukusebenzisa Isevisi ngokwezinjongo zakho zokomuntu siqu kuphela, hhayi ezentengiselwano; 
+• Ukungathumeli Into engekho emthethweni, ekhubayo, enganembile, edukisayo, ehlukumezayo, yezocansi, ekhathazayo, enyundelayo noma engafanelekile; 
+• Ukuthola noma yiziphi izimvume noma amalayisense angase adingeke ngokomthetho ukuze ukwazi ukuthumela noma iyiphi Into; 
+• Ukuhlonipha ubumfihlo babanye abantu; 
+• Ukungasabalalisi noma ukuthumela i-imeyli engadingekile, amafayela amakhulu kakhulu, izincwadi eziphuma ebantwini abaningi, ama-pyramid scheme, namagciwane; 
+• Ukungasebenzisi obunye ubuchwepheshe noma ukuqalisa eminye imisebenzi engase yonakalise Isevisi, noma isithakazelo noma isakhiwo sabasebenzisi beSevisi; 
+• Ukungamukeli noma yimaphi amasistimu azenzakalelayo noma izindlela zokufinyelela, ukuthola, ukukopisha noma ukuqapha noma iyiphi ingxenye Yesevisi; futhi 
+• Wamukela isibopho semiphumela ehlobene neNto oyithumelayo. 
+ 
+I-HMD Global ingase kodwa ayinaso isibopho: 
+• Sokuqapha noma sokongamela noma yikuphi Okuqukethwe noma Into; 
+• Sokususa noma iyiphi Into Kusuka kuSevisi; futhi 
+• Sokubeka umkhawulo ekufinyeleleni kunoma iyiphi ingxenye yeSevisi nganoma yisiphi isikhathi ngokuqonda kwayo okuphelele. 
+ 
+6. Okuqukethwe 
+Ngaphambi kokulanda noma ukufinyelela noma yikuphi Okuqukethwe, siza uhlole ukuthi ingabe Okuqukethwe ofisa ukukufinyelela kufakwe umkhawulo wobudala noma buphawulwe njengobungase 'bukhube' noma 'bube nezocansi’ yini. 
+ 
+I-HMD Global ngeke ibe nesibopho sanoma yiziphi izimangalo noma ukukhubeka obudalwe noma obhekane nakho ngenxa yokufinyelela Okuqukethwe okunjalo 
+ 
+Uyavuma: 
+• Ukusebenzisa Okuqukethwe ngokwezinjongo zakho zokomuntu siqu kuphela, hhayi ezentengiselwano; 
+• Ukusebenzisa Okuqukethwe ngokuvumelana nemikhawulo ebekwe imithetho esebenzayo, imigomo eyengeziwe, imihlahlandlela nezinqubomgomo noma emakhasini omkhiqizo asebenza kuleyo ngxenye Yokuqukethwe; 
+• Ukungenzi amakhophi, ukunikeza, ukuthengisa, ukuthengisa kabusha, ukuqashisa, ukusakaza, ukuthumela, ukusabalalisa, ukudlulisa, ukukudlulisa emphakathini, ukukhiqiza kabusha, ukuguqula, ukubonisa, ukwenza, ukuchaya ngokwezintengiselwano noma ukwenza Okuqukethwe kutholakale ngaphandle uma kugunyaziwe Kumigomo esebenzayo futhi nokwazisa i-HMD Global ngokushesha uma kukhona lokho kusebenzisa okungagunyaziwe; 
+• Ukungakhiphi, ukugwema, ukuguqula ubunjiniyela, ukuyekisa ububhala ngobumfihlo, noma ukushintsha noma ukuphazamisa noma iyiphi imithetho yokusetshenziswa esebenzayo noma ukuzama ukugwema ukuphathwa kwamalungelo wedijithali noma ukukopisha izici zokuvikela ezihlobene nalokhu Okuqukethwe noma obunye ubuchwepheshe obusetshenziselwa ukulawula ukufinyelela noma ukusebenzisa Okuqukethwe noma ulwazi lwakho oluhlonzayo; 
+• Ukungasebenzisi noma yimaphi amasistimu azenzakalayo noma izindlela, ngaphandle kwalezo ezinikezwe yithi, ukukhetha noma ukulanda Okuqukethwe; futhi 
+• Ukunganikezi abanye abantu iphasiwedi yakho noma ukuvumela abanye abantu ukuthi bafinyelele Kokuqukethwe. Imikhawulo yokukopisha esebenza kusizinda esifanelekile nayo iyasebenza Kokuqukethwe okufinyelelwe njengengxenye yale Sevisi. 
+ 
+Okuqukethwe kungubunikazi futhi/noma kulawula i-HMD Global futhi/noma abanikezi bayo bamalayisense abahlukene futhi kuvikelwe ngemithetho yezinto abantu abaziqambe ngezingqondo zabo. Umhlinzeki Wokuqukethwe kwenkampani yangaphandle unesibopho esiphelele sanoma yikuphi Okuqukethwe akunikezayo, noma yimaphi amawaranti ngokwezinga lokuthi lawo mawaranti awazange alahlwe futhi ngokwanoma yiziphi izimangalo ongase ube nazo ngokuhlobene nalokho Okuqukethwe noma ukusebenzisa kwakho lokho Okuqukethwe. Nokho, i-HMD Global ingase iphoqelele imigomo yelayisense Yokuqukethwe kwenkampani yangaphandle ngokumelene nawe njengomamukeli waleyo migomo yenkampani yangaphandle. Abahlinzeki Bokuqukethwe kwenkampani yangaphandle ngabamukeli benkampani yangaphandle ngaphansi kwale Migomo futhi bangase baphoqelele amalungiselelo athinta ngokuqondile Okuqukethwe onamalungelo kukho. I-HMD Global ingase ibe njengomsebenzeli womhlinzeki Wokuqukethwe kwenkampani yangaphandle ukuze ikunikeze Okuqukethwe. I-HMD Global ayilona ilungu kusivumelwano esiphakathi kwakho nomhlinzeki Wokuqukethwe kwenkampani yangaphandle walokho Kuqukethwe. 
+ 
+7. Izinsolo Zokwephulwa Kwelungelo Lokukopisha 
+I-HMD Global ihlonipha amalungelo wezinto eziqanjwe izinkampani zangaphandle ngezingqondo zazo. Uma ufisa ukuthumela isaziso sokwephulwa sezinto eziqanjwe abantu ngezingqondo zabo, okuhlanganisa izimangalo zokwephulwa kwelungelo lokukopisha, siza usebenzise izimiso zethu ukuthumela Izaziso Zokwephulwa. ZONKE IZIKHALAZO EZINGAHLOBENE NALESI SIMISO NGEKE ZIPHENDULWE. 
+ 
+I-HMD Global isebenzisa izinqubo eziboniswe Esihlokweni 17, Zekhodi yase-United States, Isigaba 512 ukusabela kuzaziso zokwephulwa kwelungelo lokukopisha. Ezimweni ezifanelekile, i-HMD Global ingase futhi ikhubaze noma imise ama-akhawunti wabasebenzi bamasevisi we-HMD Global okungenzeka bangabephuli abaphindayo. 
+ 
+8. Izaziso 
+I-HMD Global ingase ithumele izaziso kuyo Isevisi. I-HMD Global ingase ikuthumele izaziso ezimayelana nemikhiqizo namasevisi ekhelini le-imeyili noma kunombolo yocingo osinikeze yona. Kuzothathwa ngokuthi uzitholile lezo zaziso okungenani phakathi nezinsuku eziyisikhombisa (7) kusuka ngesikhathi i-HMD Global ethumele noma epose ngazo lezo zaziso. Ukuqhubeka kwakho nokusebenzisa Isevisi kusho ukwamukela kwakho zonke izaziso kungakhathaliseki indlela yokuthumela. 
+ 
+9. Izinkokhelo 
+Ukusebenzisa kwakho Isevisi kungase kube ngaphansi kwezindleko. 
+ 
+Noma yiziphi izinkokhelo ze-HMD Global zizokwethulwa ngokwehlukile ngokuhlobene neSevisi 
+ 
+Ukusebenzisa Isevisi kungase kuhlanganise ukudluliswa kwedatha ngenethiwekhi yomhlinzeki wakho wesevisi. Amanani aboniswe kuSevisi awahlanganisi izindleko zokudluliswa kwedatha, zomlayezo wombhalo, zezwi noma zelinye ilungiselelo lesevisi ezingase zibe khona zomhlinzeki wesevisi yenethiwekhi yakho. 
+ 
+I-HMD Global ngeke ibe nesibopho senkokhelo yanoma yiziphi izindleko zomhlinzeki wesevisi yakho. 
+ 
+10. Imigomo ye-Oda Nenkokhelo 
+\"I-Oda\" lisho ukukhethwa Kokuqukethwe okukhokhelwayo futhi/noma ubulungu Bokuqukethwe obunikezwa i-HMD Global futhi litholakala ngeSevisi nokuthunyelwa kwendlela yokukhokha, kanye nokuthumela i-oda ngokukhetha okuthi \"thenga\", \"kulungile\", \"Ngiyamukela\" noma okunye ukuqinisekisa kokwamukela okufanayo kokwenziwa kwe-oda noma ngokunikeza enye indlela yokubonisa ukwamukela imigomo onikezwe yona ekwenziweni kwe-oda. 
+ 
+Ukuze ufake i-Oda kuSevisi, kufanele ube neminyaka efanelekile ngokomthetho ngokuvumelana nomthetho osebenzayo. Uma ungekho eminyakeni evumelekile ngokomthetho, ungakwazi ukufaka ama-Oda ngemvume yomzali noma yomnakekeli wakho ongokomthetho kuphela. 
+ 
+Uyavuma ukuthi wonke ama-oda kufanele abe semthethweni futhi abe yisibopho. Wonke ama-Oda angaphansi kokwamukelwa i-HMD Global. 
+ 
+Ungase ukhokhe ngekhadi lesikweletu noma ngekhadi lakho lasebhange, ngokukhokhela umhlinzeki wesevisi wenethiwekhi, noma ngenye indlela yokukhokha uma itholakala. 
+ 
+Ikhadi lakho lwesikweletu noma lasebhange kufanele libe nekheli lokukhokha ezweni lapho Okuqukethwe kunikezwa khona Isevisi. I-HMD Global izodonsa imali ekhadini lakho lesikweletu noma lasebhange phakathi nesikhathi esifanele ngemva kokuthi ufake i-Oda. Zonke izinkokhelo zekhadi zingaphansi kokuhlolwa kokuqinisekisa futhi zigunyazwe ngumnikezi wekhadi. 
+ 
+Uma ukhetha ukukhokha komhlinzeki wesevisi yenethiwekhi, izindleko zizovela kusisatimende sakho seselula noma zizodonswa kusuka ku-akhawunti oyikhokhela ngaphambili uma kuyi-akhawunti ekhokhelwa ngaphambilini. Abanye abahlinzeki besevisi yenethiwekhi bangase benze ukusebenzisa kwakho Isevisi kube ngaphansi kwemigomo nemibandela eyengeziwe okuhlanganisa ukubeka imikhawulo kumanani wezindleko ezingase zibe khona ekukhokheni komhlinzeki wesevisi yenethiwekhi. Izindleko ezingaphezu kwemikhawulo yomhlinzeki wesevisi yenethiwekhi noma kwebhalansi ye-akhawunti zingase zinqatshelwe. 
+ 
+Uyavuma ukukhokhela izindleko ezihlobene ne-Oda lakho, ukuqinisekisa ukuthi le ndlela yokukhokha ivumelekile ngesikhathi sokufaka i-Oda, ukuthi ungumnikazi ofanelekile wendlela yokukhokha nokuthi leyo ndlela isetshenziswa phakathi nemikhawulo yayo yekhredithi. 
+ 
+Okuqukethwe okuthunyelwayo bunikezwa wena. Uyavuma ukusebenzisa lokho Okuqukethwe kuphela njengoba kuvunyelwe yile Migomo nanoma yimiphi eminye imigomo eyengeziwe ongase unikezwe yona lapho kwenziwa i-oda. 
+ 
+Isevisi ingase ihlinzeke ngobulungu. Ugunyaza Isevisi ukuthi ngezinye izikhathi ifake indleko phakathi nesikhathi sobulungu. Isevisi ingase ihlinzeke ngesikhathi sokuhlola. Uma i-Oda lakho lihlanganisa isikhathi sokuhlola (okwaziwa futhi ngokuthi ukuhlola bese uyathenga), ungase ukhokhiswe imali ekupheleni kwesikhathi sokuhlola, ngaphandle uma ukhansela ngokuvumelana nemigomo yobulungu/yokuhlola. 
+ 
+Amanani weSevisi angase ashintshe ekuhambeni kwesikhathi. Amanani ahlanganisa izintela ezisebenzayo kusuka ekuqaleni kokuthenga kwakho, ngaphandle uma kubonisiwe. Kungase kube khona izimo lapho uba nezindleko ezengeziwe kusuka ebhange noma kumhlinzeki wekhadi lakho lesikweletu kuya ngezilinganiso zokuguqulwa kohlobo lwemali olusetshenziswayo futhi/noma izinkokhelo ezengeziwe ezihloliwe. I-HMD Global ngeke ibe nesibopho senkokhelo yanoma yiziphi izinkokhelo noma izindleko zasebhange noma zenkampani yangaphandle. 
+ 
+11. Ukukhanselwa Nokubuyiswa Kwemali 
+Uvumelana nokuthunyelwa ngogesi Kokuqukethwe okuqaliswa kanye nokufakwa kwe-Oda lakho. Ngeke ukwazi ukukhansela i-Oda lakho ngemva kokuthi selicutshunguliwe. Uhlobo Lokuqukethwe lenziwe ngendlela yokuthi ngeke lukwazi ukubuyiswa. 
+ 
+Uma kwenzeka ukuthi ngemva kokufaka i-Oda uthola futhi wazisa i-HMD Global ngokushesha phakathi namahora angu-48 ukuthi (a) Okuqukethwe oku-odile kunephutha; (b) Okuqukethwe i-HMD Global ekuthumela khona akufani nencazelo Yokuqukethwe oku-odile ngeSevisi; noma (c) izinkinga zezobuchwepheshe ziphazamise noma zivimbele ukuthunyelwe kokuQukethwe kwakho noma kube khona ama-oda amaningi afakwe ngephutha ngenxa yezinkinga zezobuchwepheshe, isixazululo sakho ngokuhlobene nalokho Okuqukethwe kungase kube ukuthola okunye Okuqukethwe, ukubuyiselwa imali yenani elikhokhelwe lalokho Okuqukethwe, njengoba kucatshangelwa ngokuphelele i-HMD Global. 
+ 
+Ngaphandle kwakho, akukho ukubuyiselwa imali okuzotholakala. Uma uhlangabezana nanoma yiziphi izinkinga kwezingenhla, siza uxhumane Nabanakekeli Bamakhasimende be-HMD Global. 
+ 
+Siza uqaphele ukuthi Abanakekeli Bamakhasimende be-HMD Global bangase bangakwazi ukwenza isicelo sakho sokweseka amakhasimende uma ungabanikezi i-ID yokuthengile, onikezwa yona i-HMD Global ngemva kokufaka i-Oda lakho kuSevisi. I-HMD ingase ingabuyisi imali Yokuqukethwe uma ingqikithi lenani lingaphezu komkhawulo wemali obekiwe ngokuvumelana nomthetho wendawo. 
+ 
+12. Imbuyisambiko eya ku-HMD Global 
+Ngokuthumela noma yimiphi imibono, impendulo futhi/noma okusikiselwayo (\"Imbuyisambiko\") ku-HMD Global ngeSevisi noma ngezinye izindlela, uyaqaphela ukuthi: (1) I-HMD Global ingase ibe nemibono yokuthuthukisa efanayo Nembuyisambiko yakho; (2) Imbuyisambiko yakho ayinalo ulwazi oluyimfihlo noma legunya lobunikazi bakho noma benye inkampani yangaphandle; (3) I-HMD Global ayikho ngaphansi kwesibopho sobumfihlo ngokuhlobene Nembuyisambiko; (4) I-HMD Global ingase isebenzise ngokukhululekile, isabalalise, ichayise futhi ithuthukise ngokwengeziwe futhi iguqule Imbuyisambiko ngokwanoma iyiphi injongo; futhi (5) awunalo ilungelo lokuthola isinxephezelo sanoma yiluphi uhlobo kusuka e-HMD Global. 
+ 
+13. Imisebenzi Yezomphakathi Nokwabelana Kwendawo 
+Ungase usebenzise izici ezikuSevisi ukuze wabelane ngendawo yakho, isimo, okuqukethwe, Izinto noma ulwazi lokomuntu siqu noma ukuze uxhumane nabanye abasebenzisi, amasayithi namasevisi. Ngokusebenzisa izici uyavuma ukuthi i-HMD Global ingase isebenzise futhi ihlinzeke ngalolo lwazi kwamanye amasevisi nabantu okhetha ukuxhumana noma ukwabelana nabo ngalolu lwazi. Abasebenzisi balama sevisi nabantu, njengoxhumana nabo, bangase babone indawo yakho, isimo futhi/noma ulwazi lokomuntu siqu. Ngokusebenzisa lezi zici uyavuma ukungabelani ngolwazi, Okuqukethwe noma Into noma ukuxhumanisa kunoma iyiphi isevisi noma isayithi: (a) enokuqukethwe noma ezinye izinto ezingekho emthethweni noma ezingafanelekile (b) exhaphaza amalungelo wezinto eziqanjwe abantu ngemiqondo yabo ngaphandle kwemvume noma ekhuthaza abasebenzisi ukukhiqiza kabusha ngaphandle kwemvume. Noma yikuphi ukuxhumana akuhlanganisi i-HMD Global futhi kuphakathi kwakho nomunye umsebenzisi(aba) ngokuphelele. 
+ 
+14. Ukutholakala Nezimfuneko Zezobuchwepheshe 
+Ukutholakala Kokuqukethwe neSevisi kungase kwehluke futhi kungaphansi kokuqonda okuphelele kwe-HMD Global. I-HMD Global inqabela ngokucacile noma yikuphi ukumelela noma iwaranti yokuthi noma yikuphi Okuqukethwe noma Isevisi kuzotholakala. Isevisi ingase ingatholakali kuwo wonke amazwe futhi ingase inikezwe kuphela ngezilimi ezithize. Isevisi, imisebenzi nezinye izici kungase nakho kuncike kunethiwekhi, ukuhambelana kwamadivayisi asetshenziswayo namafomethi wokuqukethwe asekelwayo. 
+ 
+Ukuze ufinyelele Isevisi, kungase kudingeke ukuthi ulande isofthiwe ethize esungulwe i-HMD Global noma elinye ilungu. 
+ 
+I-HMD Global ingase, ngokuqonda kwayo okuphelele, ishintshe, ilungise noma imise Isevisi ngokuphelele noma ingxenye yayo. Isevisi ingase ingatholakali phakathi nezikhathi zokulungisa kanye nezinye izikhathi. Ukuqinisekisa ukuthi unesofthiwe yedivayisi yakamuva nezinhlelo zokusebenza, idivayisi yakho izohlola ngokuzenzakalelayo ukutholakala kwezibuyekezo zesofthiwe kusuka ku-HMD Global. Uma kukhona ezitholakele uzokwaziswa ukuthi wamukele ukufakwa. Ungase ukhubaze ukuhlola okuzenzakalelayo kwezibuyekezo kumasethingi wedivayisi yakho. Ungase futhi ufake isofthiwe ngamashaneli wesibuyekezo sesofthiwe atholakalayo. Uma i-HMD Global ibheka isibuyekezo Sesofthiwe njengesibalulekile noma esibucayi ngeke ukwazi ukuqhubeka nokusebenzisa inguqulo yangaphambilini yeSofthiwe. I-HMD Global ingase igweme ukusebenzisa kwenguqulo yangaphambilini yeSofthiwe noma Isevisi kuze kube yilapho ufaka isibuyekezo. 
+ 
+HMD Global ingase ikhubaze noma yikuphi Okuqukethwe noma Isofthiwe equkethwe ku-akhawunti yeSevisi yakho ngokwanoma yisiphi isizathu futhi ikhiphe noma yikuphi Okuqukethwe noma Isofthiwe futhi/noma ikhubaze amakhophi wanoma yiluphi uhlelo lokusebenza kudivayisi yakho ukuze ivikele Isevisi, abahlinzeki bohlelo lokusebenza, izinkampani zenethiwekhi engenantambo lezo ofinyelela isevisi ngenethiwekhi yazo noma amanye amalungu athintekile noma angase athinteke. 
+ 
+Isevisi ethize ingase ibe inguqulo ekhululwa ngaphambilini, ngokwesibonelo ukukhululwa kwe-beta, futhi ingase ingasebenzi ngendlela inguqulo yokugcina esebenza ngayo. I-HMD Global ingase ishintshe ngokubonakalayo noma iyiphi inguqulo yeSevisi noma Isofthiwe noma ikhethe ukungakhululi inguqulo yokugcina. 
+ 
+15. Izixhumanisi Zamasayithi Nokuqukethwe Kwezinkampani Zangaphandle 
+I-HMD Global ingase ihlanganise ukufinyelela kumasayithi namasevisi ku-Inthanethi noma ilayishe ngaphambilini amaklayenti akuvumela ukuthi ukwazi ukuxhumana namasayithi namasevisi aphethwe noma asetshenziswa izinkampani zangaphandle futhi lawo angeyona ingxenye yeSevisi. Kufanele ubuyekeze futhi uvumelane nemigomo nemibandela yalama sayithi noma amasevisi ngaphambi kokusebenzisa lama sayithi noma amasevisi. 
+ 
+I-HMD Global ayikwazi ukulawula okuqukethwe, amasayithi noma amasevisi wenkampani yangaphandle futhi ayinaso isibopho samasevisi anikezwayo noma izinto ezakhiwe noma ngisho lezo ezishicilelwe kulama sayithi noma amasevisi wenkampani yangaphandle. Isixhumanisi sesayithi yenkampani yangaphandle asisho ukuthi i-HMD Global ivumela isayithi noma imikhiqizo namasevisi aboniswe kusayithi. 
+ 
+Ngaphez kwalokho, wena nabanye abasebenzisi ningase nakhe okuqukethwe nezixhumanisi zokuqukethwe kuSevisi okungazange kuthunyelwe kuSevisi. I-HMD Global ayinaso isibopho salolu hlobo lokuqukethwe noma izixhumanisi. 
+ 
+16. Izikhangiso 
+Isevisi ingase ihlangnaise izikhangiso. Izikhangiso zingase zihloselwe kokuqukethwe noma kulwazi olugcinwe kuSevisi, izinkinga ezithunyelwa ngeSevisi, noma olunye ulwazi. 
+ 
+17. Ulwazi Lomuntu Siqu 
+Inqubomgomo Yobumfihlo kanye nolunye ulwazi lobumfihlo olwenziwa lutholakale kuwe kubusa ukusetshenziswa kwedatha yokomuntu siqu. 
+ 
+18. Umkhawulo Wesibopho 
+Isevisi inikezwa NJENGOBA INJALO futhi NJENGOBA ITHOLAKALA. I-HMD Global ayiqinisekisi ukuthi Isevisi ngeke iphazanyiswe noma ngeke ibe namaphutha noma igciwane. Asikho isiqinisekiso sanoma yiluphi uhlobo, esicacisiwe noma esisikiselwe kodwa okuhlanganisa futhi iziqinisekiso zesihloko, ukungephulwa, ezohwebo, noma ukufanela kwenjongo ethize, okwenziwe ngokuhlobene nokutholakala, ukunemba, ukwethembeka, ulwazi noma okuqukethwe kweSevisi. Uvuma ngokucacile futhi uqaphela ukuthi ukusebenzisa Isevisi kungokuzithandela kwakho nokuthi ungase uchayeke kokuqukethwe okusuka kweminye imithombo. 
+ 
+Ngaphandle uma kukhona icala lokufa noma lokulimala elibangelwe ubudedengu bayo noma ukuzipatha kabi ngamabomu, i-HMD Global ngeke ibe nesibopho sezingozi eziqondile, eziyingozi, ezijezisayo noma ezinemiphumela eziba khona ngenxa yokusebenzisa kwakho noma ukungakwazi ukusebenzisa Isevisi. 
+ 
+19. Ukuvimbela Icala 
+Uyavuma ukuvikela nokuvimbela icala le-HMD Global kusuka kunoma yiziphi izimangalo zenkampani yangaphandle nawo wonke amacala, ukuhlolwa, ukulahlekelwa, izindleko noma ukonakala okungase kube khona ngenxa (i) yokwephula kwakho Imigomo, (ii) ukweqa kwakho noma ukwephula noma yimaphi amalungelo wezinto abantu abaziqambe ngezingqondo zabo, amanye amalungelo noma ubumfihlo benkampani yangaphandle, noma (iii) ukusetshenziswa kabi kweSevisi inkampani yangaphandle lapho ukusebenzisa kabi kube khona ngenxa yokwehluleka kwakho ukuthatha izinyathelo ezifanelekile zokuvikela igama lakho lomsebenzisi nephasiwedi ukuze kungasetshenziswa kabi. 
+ 
+20. Inhlanganisela 
+ 
+20.1 Uhlobo Lomthetho 
+Imigomo ibuswa imithetho yaseFinland ngaphandle kwamalungiselelo awo wokungqubuzana komthetho 
+ 
+20.2 Ukubanamandla Emthethweni 
+Imigomo ayikhiphi noma ayibeki umkhawulo kunoma yimaphi amalungelo awo ayimfuneko ezweni lakini lawo angeke ayekiswe ngokomthetho. Uma ilungiselelo Lemigomo litholakala njengelingalungile, amalungiselelo asele ngeke athinteke futhi ilungiselelo elingalungile lizoshintshwa ngelungiselelo elilungile elisondelene nomphumela nenjongo yeMigomo. Uma kwenzeka ukuthi ilungiselelo elilodwa noma ngaphezulu leMigomo alifaneli ukusebenzisa kwakho Isevisi, ngeke kuthinte ukuba namandla emthethweni noma ukuphoqeleleka kwanoma yiliphi ilungiselelo Lemigomo noma yonke Imigomo isiyonke. Uma kukhona noma yikuphi ukungqubuzana phakathi kwale Migomo Yesevisi Nenqubomgomo Yobumfihlo ye-HMD Global, amalungiselelo wale Migomo Yesevisi ye-HMD Global yiwo azosebenza. Amalungiselelo Wemigomo ahloselwe ukusala evumelekile ngemva kokuthi ukubhalisa kwakho kumisiwe. 
+ 
+20.3 Izinguquko Zemigomo 
+I-HMD Global ingase iguqule Imigomo nganoma yisiphi isikhathi ngaphandle kwesaziso sangaphambilini. Uma Imigomo ishintshiwe kuzinto, ngendlela enkulu kakhulu, i-HMD Global izonikeza isaziso esehlukile esimayelana nalolo shintsho. 
+ 
+Unesibopho sanoma yikuphi ukubuyekezwa njalo kweMigomo. Ukuqhubeka kwakho nokusebenzisa Isevisi kusho ukwamukela noma yiluphi ushintsho nokuguqulwa. 
+ 
+21. Izinto Abantu Abazimbele Zona Ngemigqondo Yabo 
+Isevisi, Okuqukethwe neSofthiwe kuvikelwe ngaphansi kwemithetho yelungelo lokukopisha yasemazweni wonke. I-HMD Global ibheka amalungelo wokukopisha Kusevisi, Okuqukethwe Nesofthiwe yayo ngokwezinga eliphezulu lomthetho. Ngaphansi kweMigomo, i-HMD Global igcina lonke ilungelo, isihloko nesithakazelo Kusevisi, Okuqukethwe kwayo, Isofthiwe nakuyo yonke imikhiqizo ye-HMD Global, isofthiwe nezinye izici onikezwa zona noma ozisebenzayo ngeSevisi. 
+ 
+22. Ukunikezwa 
+I-HMD Global ingase inikeze amalungelo nezibopho zayo ngaphansi kwale Migomo kumzali wenhlangano yayo, kunoma yibaphi abantu esebenzisana nabo, noma kunoma iyiphi inkampani ngaphansi kokulawula okufanayo kwe-HMD Global. Ngaphezu kwalokho, i-HMD Global ingase inikeze amalungelo nezibopho zayo ngaphansi kwale Migomo kwinkampani yangaphandle ngokuhlobene nokuhlanganisa izinkampani, inzuzo, ukuthengiswa kwamafa, nokwenza ngokuvumelana nomthetho noma ngenye indlela."</string>
+    <string name="nevigation_selection_back">Phindela emuva</string>
+    <string name="nevigation_selection_home">Ikhaya</string>
+    <string name="nevigation_selection_recent">Okwakamuva</string>
+    <string name="next_btn_lebel">OKULANDELAYO</string>
+    <string name="normal_date_format">Okwesifunda (%s)</string>
+    <string name="search_menu_title">Sesha</string>
+    <string name="skip_add_account_button_label">Hhayi manje</string>
+    <string name="skip_button_label">Yeqa</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Vuma</string>
+    <string name="term_disagree_text">Angivumi</string>
+    <string name="time_picker_title">Isikhathi</string>
+    <string name="v7_preference_off">VALA</string>
+    <string name="v7_preference_on">VULA</string>
+    <string name="welcome_message">Siyakwamukela</string>
+    <string name="welcome_start_button_label">QALA</string>
+    <string name="wifi_picker_connection_negative">Xhuma</string>
+    <string name="wifi_picker_connection_positive">KULUNGILE</string>
+    <string name="wifi_picker_warning_negative">Yeqa noma kunjalo</string>
+    <string name="zone_auto">Umkhawulo wesikhathi ozenzakalelayo</string>
+    <string name="zone_auto_summaryOff">Sebenzisa umkhawulo wesikhathi esinikeziwe senethiwekhi</string>
+    <string name="zone_auto_summaryOn">Sebenzisa umkhawulo wesikhathi esinikeziwe senethiwekhi</string>
+</resources>

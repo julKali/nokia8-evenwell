@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Error al descargar el software.</string>
+    <string name="prepare_to_reboot_force_summary">El software instalado necesita reiniciar el dispositivo para configurar los ajustes. Le aconsejamos que reinicie ahora.</string>
+    <string name="update_ota_self">Actualización de software en curso.</string>
+    <string name="ab_update_fail">Problema de instalación.</string>
+    <string name="ab_update_wrong_status">El motor de actualización está ocupado. Inténtelo de nuevo más tarde o reinicie.</string>
+    <string name="ab_update_installing">Actualizando el sistema</string>
+    <string name="tag_engineer_mode">Modo ingeniero</string>
+    <string name="engineer_version_incorrect">Su versión de dispositivo es incorrecta</string>
+    <string name="msg_engineer_ota_restore">Toque para restaurar la versión oficial</string>
+    <string name="msg_engineer_ota_restore_warning">Esta acción restaurará la versión oficial. ¿Desea continuar?</string>
+    <string name="silent_mode_data_fee_warning">Actualización disponible. La descarga de actualizaciones puede suponer cargos adicionales. Descargue las actualizaciones mediante Wi-Fi si es posible.</string>
+    <string name="msg_updating_system">Actualizando el sistema...</string>
+    <string name="msg_tap_to_reboot">Toque para reiniciar</string>
+    <string name="msg_pause_download">Pausar la descarga</string>
+    <string name="notification_channel_name">Actualización del sistema</string>
+    <string name="notification_channel_alert_name">Notificaciones generales</string>
+</resources>

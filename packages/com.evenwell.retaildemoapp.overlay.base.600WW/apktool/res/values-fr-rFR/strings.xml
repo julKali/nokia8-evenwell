@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="cancel">ANNULER</string>
+    <string name="system_busy_msg">Le système est occupé. Réessayez plus tard.</string>
+    <string name="no_new_demo_found_msg">"Aucun nouveau matériel de démonstration trouvé.
+
+Appuyez sur OK pour lancer le mode de démonstration ?"</string>
+    <string name="copying">Copie en cours...</string>
+    <string name="downloading">Téléchargement en cours...</string>
+    <string name="download_complete_msg">"Téléchargement terminé.
+
+Appuyez sur OK pour lancer le mode de démonstration."</string>
+    <string name="download_fail_msg">"Échec du téléchargement du matériel de démonstration sur Internet.
+
+Appuyez sur OK pour lancer le mode de démonstration ?"</string>
+    <string name="enable_demo_mode">Activer le mode de démonstration ?</string>
+    <string name="disable_demo_mode">Ne pas afficher le mode de démonstration</string>
+    <string name="update_demo_video">Mettre à jour la vidéo de démonstration</string>
+    <string name="reset_device">"Réinitialiser l'appareil ?"</string>
+    <string name="demo_mode_notifications">Notifications du mode de démonstration</string>
+</resources>

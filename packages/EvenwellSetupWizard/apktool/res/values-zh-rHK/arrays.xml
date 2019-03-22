@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_slot">
+        <item>(未指定)</item>
+        <item>SIM 插槽 1</item>
+        <item>SIM 插槽 2</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>自動偵測</item>
+        <item>設定為按數據用量收費</item>
+        <item>設定為不限數據用量收費</item>
+    </string-array>
+</resources>

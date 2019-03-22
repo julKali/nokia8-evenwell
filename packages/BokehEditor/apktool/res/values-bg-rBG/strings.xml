@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Редактор за боке ефекти</string>
+    <string name="image_not_null">Пътят към изображението не може да е празен</string>
+    <string name="no_bokeh_type">Няма тип боке ефекти</string>
+    <string name="no_mpo_file">Няма MPO файл</string>
+    <string name="save">Запазване</string>
+    <string name="save_success">Запазването е успешно</string>
+</resources>

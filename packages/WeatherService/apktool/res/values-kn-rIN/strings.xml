@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">ಮುಚ್ಚಿ</string>
+    <string name="fih_weather_button_ok">ಸರಿ</string>
+    <string name="fih_weather_button_setting">ಜೋಡಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="fih_weather_notification_channel_title">ಸಾಮಾನ್ಯ ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="fih_weather_notification_text">ಅನುಮತಿಸಲು ಟ್ಯಾಪ್‌ ಮಾಡಿ</string>
+    <string name="fih_weather_notification_title">ಹವಾಮಾನ ಮಾಹಿತಿಗೆ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ</string>
+    <string name="fih_weather_permission_failed">ಸ್ಥಳದ ಅನುಮತಿ ನಿರಾಕರಿಸಲಾಗಿದೆ, ಸ್ಥಳದ ಮಾಹಿತಿ ಪಡೆಯಲಾಗುತ್ತಿಲ್ಲ.</string>
+    <string name="fih_weather_permission_hint_1">ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು, ಈ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಹೆಚ್ಚುವರಿ ಅನುಮತಿಯ ಅಗತ್ಯವಿದೆ. ಕೇಳಿದಾಗ ಅನುಮತಿಗೆ ಅವಕಾಶ ನೀಡಿ.</string>
+    <string name="fih_weather_permission_hint_2">ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು, ಈ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಹೆಚ್ಚುವರಿ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ. ಸೆಟ್ಟಿಂಗ್‌ನಲ್ಲಿ WeatherService ಅನುಮತಿಯನ್ನು ನಿರ್ವಹಿಸಿ.</string>
+    <string name="fih_weather_permission_success">ಸ್ಥಳದ ಅನುಮತಿ ನೀಡಲಾಗಿದೆ</string>
+    <string name="fih_weather_service_title_txt">ಹವಾಮಾನ ಸೇವೆ</string>
+</resources>

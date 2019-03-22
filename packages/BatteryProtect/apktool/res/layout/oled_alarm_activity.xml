@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/shape_corner" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:background="#ff424242" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip">
+        <ImageView android:layout_gravity="left" android:id="@id/alarm_image" android:layout_width="wrap_content" android:layout_height="@dimen/oled_battery_height" android:layout_marginLeft="24.0dip" android:src="@drawable/oled_fih_batteryprotect" android:scaleType="centerInside" />
+        <TextView android:gravity="center|left" android:layout_gravity="left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:text="@string/fih_battery_protect_warning_title" style="@style/OledwindowTitleStyle" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="#ff424242" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip">
+        <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="24.0dip" android:layout_weight="1.0" style="@style/OledDialogStyle_Light">
+            <TextView android:id="@id/normal_dec_text" android:text="@string/fih_battery_protect_warning_text" style="@style/OledDialogStyle_Light" />
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:gravity="bottom|center|right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <Button android:id="@id/alarm_activity_button" android:text="@string/fih_battery_protect_alert_dialog_ok" style="@style/OledButtonStyle_Light" />
+    </LinearLayout>
+</LinearLayout>

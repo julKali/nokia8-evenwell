@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Annuller</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Annuller</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Din telefon er ved at blive varm, så den foretager handlinger for at blive kølet af. Du kan stadig bruge den, men bemærk følgende:
+·Opladning kan blive sat på pause.
+·Wi-Fi kan blive deaktiveret.
+·Applikationer kan blive lukket.
+·Flytilstand kan blive deaktiveret.
+Din telefon vender tilbage til normal drift, når den er kølet af."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Generelle underretninger</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Brug det originale batteri til at oplade. Ellers kan du forårsage permanent/fysisk skade på din enhed.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Brug et originalt batteri</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Opladningen stoppede</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Batteriet er ikke gyldigt</string>
+    <string name="fih_battery_protect_low_temp_title">Alarm</string>
+    <string name="fih_battery_protect_notification_cooling_down">Køler af</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_power_off">Sluk</string>
+    <string name="fih_battery_protect_tap_learn_more">Tryk for at få mere at vide.</string>
+</resources>

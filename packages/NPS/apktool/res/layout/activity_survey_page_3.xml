@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="24.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/survey_page3_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/thank_your_feedback" style="@style/DescriptionTextStyle" />
+        <TextView android:id="@id/survey_page3_description2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/we_appreciate_your_help" style="@style/DescriptionTextStyle" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/dont_show_again_view3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+            <CheckBox android:id="@id/survey_page3_dont_ask_checkbox" android:paddingLeft="8.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false" android:text="@string/no_ask_feedback_again_text" style="@style/DescriptionTextStyle" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

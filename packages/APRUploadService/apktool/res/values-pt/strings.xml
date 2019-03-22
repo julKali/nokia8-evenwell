@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diagnóstico do sistema</string>
+    <string name="setting_page_name">Programa de experiência de utilizador</string>
+    <string name="send_diag_dialog_any_network">Quando a ligação de dados está disponível</string>
+    <string name="send_diag_dialog_wifi">Quando a ligação Wi-Fi está disponível</string>
+    <string name="send_diag_dialog_wlan">Quando a ligação WLAN está disponível</string>
+    <string name="send_diag_dialog_title">Enviar diagnóstico</string>
+    <string name="diagnostics_setting">Diagnóstico</string>
+    <string name="diagnostics_report">Relatório do diagnóstico</string>
+    <string name="diagnostics_report_summary">Enviar relatório do diagnóstico quando o dispositivo apresentar um erro de software. A utilização da rede pode acarretar custos. Recomenda-se a aquisição de um pacote de rede de dados fornecido pela sua operadora.</string>
+    <string name="network_options">Opções de rede</string>
+    <string name="send_diagnostics">Enviar diagnóstico</string>
+    <string name="privacy_statement">Declaração de privacidade</string>
+    <string name="diagnostics_description">Ajude-nos a melhorar os nossos produtos e serviços ao permitir a recolha de dados de diagnóstico quando o seu dispositivo apresentar uma falha ou erro de software. Pode alterar a opção em Definições quando quiser.</string>
+    <string name="privacy_activity">Declaração de privacidade</string>
+    <string name="go_label">Concluído</string>
+    <string name="diagnostics_confirmation">Sim, concordo com o envio automático dos dados de diagnóstico.</string>
+    <string name="setcomplete">Configuração concluída</string>
+    <string name="agree_dialog">O nosso programa de experiência de utilizador e respetiva declaração de privacidade foram já alterados. Ajude-nos a melhorar os nossos produtos e serviços ao aderir agora ao programa de experiência de utilizador. Pode alterar a opção em Definições quando quiser. A utilização da rede após a adesão ao plano de experiência de utilizador pode acarretar custos. Recomenda-se a aquisição de um pacote de rede de dados fornecido pela sua operadora.</string>
+    <string name="agree">Aceitar</string>
+    <string name="see_detail">Detalhe</string>
+    <string name="next_btn_lebel">Seguinte</string>
+</resources>

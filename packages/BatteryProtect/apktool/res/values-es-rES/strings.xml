@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Cancelar</string>
+    <string name="fih_battery_protect_alert_dialog_ok">Aceptar</string>
+    <string name="fih_battery_protect_cancel_wear">Cancelar</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Su teléfono se estaba calentando, así que está tomando medidas para bajar la temperatura. Puede seguir usándolo, pero es posible que:
+·Se pause la carga de la batería.
+·Se apague el Wi-Fi.
+·Se apaguen algunas aplicaciones.
+·Se encienda el modo avión.
+Su teléfono volverá a la normalidad una vez se haya enfriado."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Notificaciones generales</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Utilice la batería original para realizar la carga o puede causar daños permanentes/físicos en su dispositivo.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Utilice la batería original</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Se ha detenido la carga</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">La batería no es válida</string>
+    <string name="fih_battery_protect_notification_cooling_down">Enfriando</string>
+    <string name="fih_battery_protect_ok_wear">Aceptar</string>
+    <string name="fih_battery_protect_power_off">Apagar</string>
+    <string name="fih_battery_protect_tap_learn_more">Toque para obtener más información.</string>
+</resources>

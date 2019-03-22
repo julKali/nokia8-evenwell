@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Aspect</string>
+    <string name="pref_dialog_title_time_out">Expirare</string>
+    <string name="pref_title_alarm_information">Informații alarmă</string>
+    <string name="pref_title_calendar_reminder">Reamintire calendar</string>
+    <string name="pref_title_missed_calls">Indicator apeluri pierdute</string>
+    <string name="pref_title_time_out">Expiră atunci când telefonul nu se mișcă</string>
+    <string name="pref_title_unread_mails">Indicator e-mailuri necitite</string>
+    <string name="pref_title_unread_messages">Indicator e-mesaje necitite</string>
+    <string name="switch_off_text">Dezactivat</string>
+    <string name="switch_on_text">Activat</string>
+</resources>

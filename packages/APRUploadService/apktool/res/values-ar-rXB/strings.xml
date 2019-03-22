@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_character">‏‮WLAN‬‏</string>
+    <string name="apr_server_url">‏‮apr.c2dms.com‬‏</string>
+    <string name="brand_name_en">‏‮Commtiva‬‏</string>
+    <string name="brand_name_local">‏‮Commtiva‬‏</string>
+    <string name="status_server_url">‏‮https://upps.c2dms.com/api/v1/UserExperience/ChangeStatusStatusHistory‬‏</string>
+    <string name="app_name">‏‮System‬‏ ‏‮Diagnostics‬‏</string>
+    <string name="setting_page_name">‏‮User‬‏ ‏‮Experience‬‏ ‏‮Program‬‏</string>
+    <string name="start">‏‮Start‬‏</string>
+    <string name="save">‏‮Save‬‏</string>
+    <string name="send_diag_dialog_any_network">‏‮When‬‏ ‏‮data‬‏ ‏‮connection‬‏ ‏‮is‬‏ ‏‮available‬‏</string>
+    <string name="send_diag_dialog_wifi">‏‮When‬‏ ‏‮Wi-Fi‬‏ ‏‮connection‬‏ ‏‮is‬‏ ‏‮available‬‏</string>
+    <string name="send_diag_dialog_wlan">‏‮When‬‏ ‏‮WLAN‬‏ ‏‮connection‬‏ ‏‮is‬‏ ‏‮available‬‏</string>
+    <string name="send_diag_dialog_title">‏‮Send‬‏ ‏‮diagnostics‬‏</string>
+    <string name="diagnostics_setting">‏‮Diagnostics‬‏</string>
+    <string name="diagnostics_report">‏‮Diagnostics‬‏ ‏‮report‬‏</string>
+    <string name="diagnostics_report_summary">‏‮Send‬‏ ‏‮diagnostics‬‏ ‏‮report‬‏ ‏‮when‬‏ ‏‮device‬‏ ‏‮is‬‏ ‏‮experiencing‬‏ ‏‮a‬‏ ‏‮software‬‏ ‏‮error.‬‏ ‏‮It‬‏ ‏‮might‬‏ ‏‮generate‬‏ ‏‮cost‬‏ ‏‮of‬‏ ‏‮using‬‏ ‏‮network.‬‏ ‏‮Acquiring‬‏ ‏‮data‬‏ ‏‮network‬‏ ‏‮package‬‏ ‏‮from‬‏ ‏‮carrier‬‏ ‏‮is‬‏ ‏‮recommended.‬‏</string>
+    <string name="network_options">‏‮Network‬‏ ‏‮Options‬‏</string>
+    <string name="send_diagnostics">‏‮Send‬‏ ‏‮diagnostics‬‏</string>
+    <string name="privacy_statement">‏‮Privacy‬‏ ‏‮statement‬‏</string>
+    <string name="diagnostics_description">‏‮Please‬‏ ‏‮help‬‏ ‏‮us‬‏ ‏‮to‬‏ ‏‮improve‬‏ ‏‮our‬‏ ‏‮products‬‏ ‏‮and‬‏ ‏‮services‬‏ ‏‮by‬‏ ‏‮allowing‬‏ ‏‮us‬‏ ‏‮to‬‏ ‏‮collect‬‏ ‏‮diagnostic‬‏ ‏‮data‬‏ ‏‮when‬‏ ‏‮your‬‏ ‏‮device‬‏ ‏‮experiences‬‏ ‏‮a‬‏ ‏‮software‬‏ ‏‮error‬‏ ‏‮or‬‏ ‏‮crash.‬‏ ‏‮You‬‏ ‏‮can‬‏ ‏‮always‬‏ ‏‮change‬‏ ‏‮the‬‏ ‏‮option‬‏ ‏‮later‬‏ ‏‮in‬‏ ‏‮Settings.‬‏</string>
+    <string name="privacy_activity">‏‮Privacy‬‏ ‏‮statement‬‏</string>
+    <string name="go_label">‏‮Done‬‏</string>
+    <string name="diagnostics_confirmation">‏‮Yes,‬‏ ‏‮I‬‏ ‏‮agree‬‏ ‏‮to‬‏ ‏‮send‬‏ ‏‮the‬‏ ‏‮diagnostic‬‏ ‏‮data‬‏ ‏‮automatically.‬‏</string>
+    <string name="setcomplete">‏‮Setup‬‏ ‏‮Completed‬‏</string>
+    <string name="agree_dialog">‏‮We‬‏ ‏‮have‬‏ ‏‮already‬‏ ‏‮changed‬‏ ‏‮our‬‏ ‏‮User‬‏ ‏‮Experience‬‏ ‏‮Program‬‏ ‏‮and‬‏ ‏‮related‬‏ ‏‮Privacy‬‏ ‏‮Statement.‬‏ ‏‮Please‬‏ ‏‮help‬‏ ‏‮us‬‏ ‏‮improve‬‏ ‏‮our‬‏ ‏‮products‬‏ ‏‮and‬‏ ‏‮services‬‏ ‏‮by‬‏ ‏‮joining‬‏ ‏‮User‬‏ ‏‮Experience‬‏ ‏‮Program‬‏ ‏‮now.‬‏ ‏‮You‬‏ ‏‮can‬‏ ‏‮always‬‏ ‏‮change‬‏ ‏‮the‬‏ ‏‮option‬‏ ‏‮in‬‏ ‏‮Settings.It‬‏ ‏‮might‬‏ ‏‮generate‬‏ ‏‮cost‬‏ ‏‮of‬‏ ‏‮using‬‏ ‏‮network‬‏ ‏‮after‬‏ ‏‮joining‬‏ ‏‮User‬‏ ‏‮Experience‬‏ ‏‮Plan.‬‏ ‏‮Acquiring‬‏ ‏‮data‬‏ ‏‮network‬‏ ‏‮package‬‏ ‏‮from‬‏ ‏‮carrier‬‏ ‏‮is‬‏ ‏‮recommended.‬‏</string>
+    <string name="agree">‏‮Agree‬‏</string>
+    <string name="see_detail">‏‮Detail‬‏</string>
+    <string name="next_btn_lebel">‏‮Next‬‏</string>
+    <string name="enable_db_log">‏‮Enable‬‏ ‏‮Process‬‏ ‏‮Log‬‏ ‏‮to‬‏ ‏‮DB‬‏</string>
+    <string name="upload_buffered_size">‏‮Upload‬‏ ‏‮Buffered‬‏ ‏‮Size(MB)‬‏</string>
+    <string name="upload_mode">‏‮Upload‬‏ ‏‮Mode‬‏</string>
+    <string name="server_url">‏‮Server‬‏ ‏‮URL‬‏</string>
+    <string name="qry_jobs">‏‮Query‬‏ ‏‮Jobs‬‏</string>
+    <string name="is_debug_mode">‏‮is‬‏ ‏‮enable‬‏ ‏‮debug‬‏ ‏‮mode‬‏</string>
+    <string name="hmd_privacy_policy">‏‮HMD‬‏ ‏‮privacy‬‏ ‏‮policy‬‏</string>
+    <string name="diagnostic_info_collect">‏‮Diagnostic‬‏ ‏‮Information‬‏ ‏‮Collect‬‏</string>
+    <string name="privacy_policy">‏‮Privacy‬‏ ‏‮Policy‬‏</string>
+    <string name="third_party_info_agreement">‏‮Third-party‬‏ ‏‮information‬‏ ‏‮provider‬‏ ‏‮agreement‬‏</string>
+    <string name="cancel_upload_confirm_msg">‏‮You‬‏ ‏‮are‬‏ ‏‮about‬‏ ‏‮to‬‏ ‏‮quit‬‏ ‏‮from‬‏ ‏‮our‬‏ ‏‮User‬‏ ‏‮Experience‬‏ ‏‮Program.‬‏ ‏‮Software‬‏ ‏‮errors‬‏ ‏‮happened‬‏ ‏‮in‬‏ ‏‮your‬‏ ‏‮phone‬‏ ‏‮won’t‬‏ ‏‮be‬‏ ‏‮kept‬‏ ‏‮and‬‏ ‏‮sent,‬‏ ‏‮and‬‏ ‏‮thus‬‏ ‏‮might‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮able‬‏ ‏‮to‬‏ ‏‮improve‬‏ ‏‮your‬‏ ‏‮experience‬‏ ‏‮while‬‏ ‏‮using‬‏ ‏‮the‬‏ ‏‮phone!‬‏</string>
+    <string name="settings_safetylegal_activity_loading">‏‮Loading…‬‏</string>
+</resources>

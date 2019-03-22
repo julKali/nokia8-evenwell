@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Activer</string>
+    <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil.</string>
+    <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
+    <string name="common_google_play_services_unknown_issue">"L'application %1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil.</string>
+    <string name="common_google_play_services_update_button">Mettre à jour</string>
+    <string name="common_google_play_services_update_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas mis à jour les services Google Play."</string>
+    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour.</string>
+    <string name="common_google_play_services_wear_update_text">La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement.</string>
+    <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
+    <string name="common_signin_button_text">Se connecter</string>
+    <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="fih_weather_button_close">Fermer</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">réglage</string>
+    <string name="fih_weather_notification_channel_title">Notifications générales</string>
+    <string name="fih_weather_notification_text">Appuyez pour autoriser</string>
+    <string name="fih_weather_notification_title">WeatherService nécessite des autorisations</string>
+    <string name="fih_weather_permission_failed">"Autorisation de localisation refusée, impossible d'obtenir la localisation."</string>
+    <string name="fih_weather_permission_hint_1">Pour fonctionner correctement, cette application nécessite une autorisation supplémentaire. Veuillez accorder les autorisations lorsque vous y êtes invité.</string>
+    <string name="fih_weather_permission_hint_2">Pour fonctionner correctement, cette application nécessite des autorisations supplémentaires. Veuillez gérer les autorisations de WeatherService dans Réglage.</string>
+    <string name="fih_weather_permission_success">Autorisation de localisation accordée avec succès</string>
+    <string name="fih_weather_service_title_txt">Service météorologique</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+</resources>

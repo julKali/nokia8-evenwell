@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">Потврди</string>
+    <string name="cancel">ОТКАЖИ</string>
+    <string name="system_busy_msg">Систем је заузет. Покушајте поново касније.</string>
+    <string name="no_new_demo_found_msg">"Није нађен нови демонстрациони материјал.
+
+Додирнућете \"Потврди\" да бисте покренули режим демонстрације?"</string>
+    <string name="copying">Копира се…</string>
+    <string name="downloading">Преузима се…</string>
+    <string name="download_complete_msg">"Преузимање завршено.
+
+Додирните \"Потврди\" да бисте покренули режим демонстрације."</string>
+    <string name="download_fail_msg">"Демонстрациони материјал није преузет са интернета.
+
+Додирнућете \"Потврди\" да бисте покренули режим демонстрације?"</string>
+    <string name="enable_demo_mode">Омогућити режим демонстрације?</string>
+    <string name="disable_demo_mode">Онемогући режим демонстрације</string>
+    <string name="update_demo_video">Ажурирај демонстрацијски видео</string>
+    <string name="reset_device">Resetovati uređaj?</string>
+    <string name="demo_mode_notifications">Oбавештења о режиму демонстрације</string>
+</resources>

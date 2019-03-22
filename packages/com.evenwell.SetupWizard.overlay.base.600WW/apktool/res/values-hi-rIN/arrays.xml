@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>स्‍कैन कर रहा है…</item>
+        <item>कनेक्ट हो रहा है…</item>
+        <item>प्रमाणीकरण कर रहा है…</item>
+        <item>IP पता प्राप्त कर रहा है…</item>
+        <item>कनेक्ट है</item>
+        <item>निलंबित</item>
+        <item>डिस्‍कनेक्‍ट कर रहा है…</item>
+        <item>डिस्कनेक्‍ट किया गया</item>
+        <item>असफल</item>
+        <item>अवरोधित</item>
+        <item>खराब कनेक्शन को अस्थायी रूप से अनदेखा कर रहा है</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>स्‍कैन कर रहा है…</item>
+        <item>%1$s… से कनेक्‍ट कर रहा है</item>
+        <item>%1$s… के साथ प्रमाणीकरण कर रहा है</item>
+        <item>%1$s… से IP पता प्राप्त कर रहा है</item>
+        <item>%1$s से कनेक्ट किया गया</item>
+        <item>निलंबित</item>
+        <item>%1$s… से डिस्‍कनेक्‍ट कर रहा है</item>
+        <item>डिस्कनेक्‍ट किया गया</item>
+        <item>असफल</item>
+        <item>अवरोधित</item>
+        <item>खराब कनेक्शन को अस्थायी रूप से अनदेखा कर रहा है</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>कमज़ोर</item>
+        <item>उपयुक्त</item>
+        <item>अच्छा</item>
+        <item>उत्कृष्ट</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>कोई नहीं</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>कोई नहीं</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>स्थिर</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>कोई नहीं</item>
+        <item>मैन्युअल</item>
+        <item>प्रॉक्सी स्वत: कॉन्फ़िग</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(unspecified)</item>
+        <item>Sim Slot 1</item>
+        <item>Sim Slot 2</item>
+    </string-array>
+</resources>

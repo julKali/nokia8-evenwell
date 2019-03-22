@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP-biðlari</string>
+    <string name="fih_cp_notify_statusbar_content">Skilaboð um nýja úthlutun</string>
+    <string name="fih_cp_notification_channel_name">Almennar tilkynningar</string>
+    <string name="fih_cp_ui_mode_ok">Í lagi</string>
+    <string name="fih_cp_ui_mode_postpone">Fresta</string>
+    <string name="fih_cp_ui_mode_delete">Eyða</string>
+    <string name="fih_cp_apply_dialog_head_msg">Ný úthlutun</string>
+    <string name="fih_cp_apply_dialog_body_msg">Viltu nota nýju grunnstillinguna?</string>
+    <string name="fih_cp_toast_info_update">Snið uppfært</string>
+    <string name="fih_cp_toast_info_create">Snið stofnað</string>
+    <string name="fih_cp_editor_apn_name">Nafn</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy-þjónn</string>
+    <string name="fih_cp_editor_apn_http_port">Gátt</string>
+    <string name="fih_cp_editor_apn_user">Notandanafn</string>
+    <string name="fih_cp_editor_apn_password">Aðgangsorð</string>
+    <string name="fih_cp_editor_apn_server">Netþjónn</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Proxy-þjónn fyrir MMS</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS-gátt</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Tegund auðkenningar</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Engin</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP eða CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN-tegund</string>
+    <string name="fih_cp_btn_ok">Í lagi</string>
+    <string name="fih_cp_btn_cancel">Hætta við</string>
+    <string name="fih_cp_btn_next">Áfram</string>
+    <string name="fih_cp_btn_back">Til baka</string>
+    <string name="fih_cp_apn_not_set">&lt;Ekki stillt></string>
+    <string name="fih_cp_error_title">Athugaðu</string>
+    <string name="fih_cp_error_name_empty">Reiturinn fyrir heiti má ekki vera auður.</string>
+    <string name="fih_cp_error_apn_empty">APN-reiturinn má ekki vera auður.</string>
+    <string name="fih_cp_error_other">Málskipanarvilla gagnanna.</string>
+    <string name="fih_cp_input_pin_code">Sláðu inn PIN-númer:</string>
+    <string name="fih_cp_input_pin_code_ok">Í lagi</string>
+    <string name="fih_cp_input_pin_code_cancel">Hætta við</string>
+    <string name="fih_cp_input_pin_code_incorrect">Rangt PIN-númer.</string>
+    <string name="fih_cp_input_pin_code_empty">Sláðu inn PIN-númer.</string>
+    <string name="fih_cp_sim_not_available">SIM-kort er ekki tiltækt.</string>
+</resources>

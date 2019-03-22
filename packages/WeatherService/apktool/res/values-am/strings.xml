@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">አንቃ</string>
+    <string name="common_google_play_services_enable_text">Google Play አገልግሎቶችን ካላነቁ በስተቀር %1$s አይሰራም።</string>
+    <string name="common_google_play_services_enable_title">Google Play አገልግሎቶችን ያንቁ</string>
+    <string name="common_google_play_services_install_button">ጫን</string>
+    <string name="common_google_play_services_install_text">%1$s ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በመሣሪያዎ ላይ የሉም።</string>
+    <string name="common_google_play_services_install_title">Google Play አገልግሎቶችን ያግኙ</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play አገልግሎቶች ተገኝነት</string>
+    <string name="common_google_play_services_notification_ticker">የGoogle Play አገልግሎቶች ስህተት</string>
+    <string name="common_google_play_services_unknown_issue">%1$s በGoogle Play አገልግሎቶች ላይ ችግሮች እያጋጠሙት ነው። እባክዎ እንደገና ይሞክሩ።</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ያለGoogle Play አገልግሎቶች አይሄድም፣ እነዚህም በመሣሪያዎ አይደገፉም።</string>
+    <string name="common_google_play_services_update_button">ያዘምኑ</string>
+    <string name="common_google_play_services_update_text">Google Play አገልግሎቶችን ካላዘመኑ በስተቀር ድረስ %1$s አይሰራም።</string>
+    <string name="common_google_play_services_update_title">Google Play አገልግሎቶችን ያዘምኑ</string>
+    <string name="common_google_play_services_updating_text">%1$s ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በአሁኑ ጊዜ በመዘመን ላይ ናቸው።</string>
+    <string name="common_google_play_services_wear_update_text">አዲስ የGoogle Play አገልግሎቶች ስሪት ያስፈልጋል። በቅርቡ እራሱን ያዘምናል።</string>
+    <string name="common_open_on_phone">ስልክ ላይ ክፈት</string>
+    <string name="common_signin_button_text">ግባ</string>
+    <string name="common_signin_button_text_long">በGoogle ይግቡ</string>
+    <string name="fih_weather_button_close">ዝጋ</string>
+    <string name="fih_weather_button_ok">ጥሩ</string>
+    <string name="fih_weather_button_setting">መቼቶች...</string>
+    <string name="fih_weather_notification_text">ለመፍቀድ መታ ያድርጉ</string>
+    <string name="fih_weather_notification_title">የአየር ሁኔታ አገልግሎት ፈቃዶችን ይፈልጋል</string>
+    <string name="fih_weather_permission_failed">የመገኛ አካባቢ ፈቃድ ተከልክሏል፣ እናም መገኛ ቦታው ሊገኝ አይችልም</string>
+    <string name="fih_weather_permission_hint_1">ይህ መተግበሪያ በአግባቡ ለመስራት የተወሰኑ አስፈላጊ ፈቃዶችን ይፈልጋል። እባክዎ በተጠየቁ ጊዜ ፈቃዶችን ይስጡ።</string>
+    <string name="fih_weather_permission_hint_2">በአግባቡ ለመስራት፣ ይህ መተግበሪያ ተጨማሪ ፈቃዶችን ይፈልጋል። እባክዎ የ「አየር ሁኔታ አገልግሎት」 ፈቃድን በ「ክንውን አውዶች」 ውስጥ ያስተዳድሩ።</string>
+    <string name="fih_weather_permission_success">የመገኛ አካባቢ ፈቃዶችን ይስጡ</string>
+    <string name="fih_weather_service_title_txt">የአየር ሁኔታ አገልግሎት</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

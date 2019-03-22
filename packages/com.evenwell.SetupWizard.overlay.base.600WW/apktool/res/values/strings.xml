@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brand_name">Nokia</string>
+    <string name="brand_name_proxy">HMD</string>
+    <string name="BrandUIStyle">6</string>
+    <string name="skip_btn_label">SKIP</string>
+    <string name="upload_agent_des_text">"Join user experience program. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Learn more&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"By tapping the button, you agree to &lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&lt;/a>. The device activation information with one-time device location will be sent to HMD Global. Data charges may apply. Data will be used according to &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>.&lt;br/>&lt;br/>Auto Software Update notification will be enabled which installs the latest updates for you. This may use up a small portion of your data budget. The services will access the Internet whenever they need.&lt;br/>&lt;br/>These services will cost you overage charges when they access cellular networks.&lt;br/>&lt;br/>The device may send device activation information to local operators.&lt;br/>&lt;br/>To provide complete service, Google Play Services need to connect to network, access your contact, location, phone, SMS, Microphone, Camera, Sensor, Calendar and storage."</string>
+    <string name="welcome_hmd_term_of_use_5">"By tapping the button, you agree to &lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&lt;/a>. Your data will be processed according to HMD’s &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>. The device activation information with one-time device location will be sent to HMD Global. Mobile data charges may apply. "</string>
+    <string name="welcome_vision_settings_button_label">Accessibility</string>
+</resources>

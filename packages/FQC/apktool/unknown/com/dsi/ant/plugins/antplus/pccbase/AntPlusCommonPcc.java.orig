@@ -1,0 +1,769 @@
+package com.dsi.ant.plugins.antplus.pccbase;
+
+import android.os.Bundle;
+import android.os.Message;
+
+import com.dsi.ant.plugins.antplus.pcc.controls.defines.GenericCommandNumber;
+import com.dsi.ant.plugins.antplus.pcc.defines.BatteryStatus;
+import com.dsi.ant.plugins.antplus.pcc.defines.EventFlag;
+import com.dsi.ant.plugins.antplus.pcc.defines.RequestStatus;
+import com.dsi.ant.plugins.internal.pluginsipc.AntPluginMsgDefines;
+import com.dsi.ant.plugins.utility.log.LogAnt;
+
+import java.math.BigDecimal;
+import java.util.EnumSet;
+import java.util.concurrent.Semaphore;
+
+/**
+ * Adds common pages support to a PCC
+ */
+public abstract class AntPlusCommonPcc extends AntPluginPcc
+{
+    private static final String TAG = AntPlusCommonPcc.class.getSimpleName();
+
+    /**
+     * ANT+ Common Data Pages
+     */
+    public enum CommonDataPage
+    {
+        /**
+         * Hardware revision, manufacturer ID and a model number
+         */
+        MANUFACTURER_IDENTIFICATION(80),
+
+        /**
+         * Allots two bytes for software revision number as well as the ability to transmit the lowest four bytes of the device's serial number
+         */
+        PRODUCT_INFORMATION(81),
+
+        /**
+         * The battery voltage and status of device
+         */
+        BATTERY_STATUS(82),
+
+        /**
+         * The status of commands sent from a slave to master device
+         */
+        COMMAND_STATUS(71),
+
+        /**
+         * The value sent by the plugin service was unrecognized indicating an upgrade of the PCC may be required to handle the value.
+         */
+        UNRECOGNIZED(-1);
+
+        private int intValue;
+
+        private CommonDataPage(int intValue)
+        {
+            this.intValue = intValue;
+        }
+
+        /**
+        * Convert enum to equivalent int value
+        * @return integer value equivalent
+        */
+
+        public int getIntValue()
+        {
+            return intValue;
+        }
+
+        /**
+         * Convert int to equivalent enum value
+         * @param intValue integer to convert
+         * @return enum value equivalent
+         */
+        public static CommonDataPage getValueFromInt(int intValue)
+        {
+            for(CommonDataPage source : CommonDataPage.values())
+            {
+                if(source.getIntValue() == intValue)
+                    return source;
+            }
+
+            CommonDataPage unrecognized = UNRECOGNIZED;
+            unrecognized.intValue = intValue;
+            return unrecognized;
+        }
+    }
+
+    /**
+     * Defines the keys and values used to communicate between the PCC and plugin.
+     * User code should never have to reference these defines.
+     */
+    public class IpcDefines
+    {
+         /**
+          * The estimated timestamp of when this event was triggered.
+         */
+         public static final String MSG_EVENT_ALLDATAEVENTS_PARAM_longESTTIMESTAMP = "long_EstTimestamp";
+
+         /**
+          * The informational flags about the event.
+          */
+         public static final String MSG_EVENT_ALLDATAEVENTS_PARAM_longEVENTFLAGS = "long_EventFlags";
+
+        /**
+         * Information about the manufacturer and hardware.
+         */
+        public static final int MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERIDENTIFICATION = 100;
+
+            /**
+             * Manufacturer defined. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERIDENTIFICATION} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_MANUFACTURERIDENTIFICATION_PARAM_intHARDWAREREVISION = "int_hardwareRevision";
+
+            /**
+             * ANT+ Alliance managed manufacturer identifier. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERIDENTIFICATION} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_MANUFACTURERIDENTIFICATION_PARAM_intMANUFACTURERID = "int_manufacturerID";
+
+            /**
+             * Manufacturer defined. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERIDENTIFICATION} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_MANUFACTURERIDENTIFICATION_PARAM_intMODELNUMBER = "int_modelNumber";
+
+        /**
+         * Information about the product and software.
+         */
+        public static final int MSG_EVENT_BASECOMMONPAGES_whatPRODUCTINFORMATION = 101;
+
+            /**
+             * Manufacturer defined main software revision number. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatPRODUCTINFORMATION} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_PRODUCTINFORMATION_PARAM_intMAINSOFTWAREREVISION = "int_softwareRevision";
+
+            /**
+             * Manufacturer defined supplementary software revision number.  Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatPRODUCTINFORMATION} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_PRODUCTINFORMATION_PARAM_intSUPPLEMENTALSOFTWAREREVISION = "int_supplementaryRevision";
+
+            /**
+             * Serial number of the device. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatPRODUCTINFORMATION} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_PRODUCTINFORMATION_PARAM_longSERIALNUMBER = "long_serialNumber";
+
+        /**
+         * Information about the battery status and operating time.
+         */
+        public static final int MSG_EVENT_BASECOMMONPAGES_whatBATTERYSTATUS = 102;
+
+            /**
+             * The cumulative operating time since the battery was inserted. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatBATTERYSTATUS} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_longCUMULATIVEOPERATINGTIME = "long_cumulativeOperatingTime";
+
+            /**
+             * Current battery voltage (up to 1/256V resolution). Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatBATTERYSTATUS} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_decimalBATTERYVOLTAGE = "decimal_batteryVoltage";
+
+            /**
+             * The current reported {@link BatteryStatus}. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatBATTERYSTATUS} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_intBATTERYSTATUSCODE = "int_batteryStatusCode";
+
+            /**
+             * The resolution accuracy of the cumulativeOperatingTime. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatBATTERYSTATUS} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_intCUMULATIVEOPERATINGTIMERESOLUTION = "int_cumulativeOperatingTimeResolution";
+
+            /**
+             * Specifies how many batteries are available in the system
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_intNUMBEROFBATTERIES = "int_numberOfBatteries";
+
+            /**
+             * Identifies the battery in system to which this battery status pertains
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_intBATTERYIDENTIFIER = "int_batteryIdentifier";
+
+        /**
+         * Manufacturer specific data.
+         */
+        public static final int MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERSPECIFICDATA = 103;
+
+            /**
+             * The raw eight bytes of the manufacturer specific page. Sent in the
+             * {@link #MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERSPECIFICDATA}
+             * event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_MANUFACTURERSPECIFICDATA_PARAM_arrayByteRAWDATABYTES = "arrayByte_rawDataBytes";
+
+
+        /**
+         * Allow a slave device to issue a command to a master device, while providing a means of error checking and resolving ambiguities in case of reception failures.
+         */
+        public static final int MSG_CMD_BASECOMMONPAGES_whatREQUESTCOMMANDBURST = 104;
+
+            /**
+             * The ID of the command being requested.
+             */
+            public static final String MSG_CMD_BASECOMMONPAGES_REQUESTCOMMANDBURST_PARAM_intREQUESTEDCOMMANDID = "int_requestedCommandId";
+
+            /**
+             * The command data as defined for the requested command ID. It is required to be a multiple of 8 bytes.
+             */
+            public static final String MSG_CMD_BASECOMMONPAGES_REQUESTCOMMANDBURST_PARAM_arrayByteCOMMANDDATA = "arrayByte_commandData";
+
+        /**
+         * Request confirmation of status of commands sent from a slave to master device
+         */
+        public static final int MSG_CMD_BASECOMMONPAGES_whatREQUESTCOMMANDSTATUS = 105;
+
+        /**
+         * Generic request for a data page from a device.
+         */
+        public static final int MSG_CMD_BASECOMMONPAGES_whatREQUESTDATAPAGE = 106;
+
+            public static final String MSG_CMD_BASECOMMONPAGES_REQUESTDATAPAGE_PARAM_intREQUESTEDDATAPAGE = "int_requestedDataPage";
+
+        /**
+         * Final result of the command requested.
+         */
+        public static final int MSG_EVENT_BASECOMMONPAGES_whatREQUESTFINISHED = 107;
+
+            public static final String MSG_EVENT_BASECOMMONPAGES_REQUESTFINISHED_PARAM_intREQUESTSTATUS = "int_requestStatus";
+
+        /**
+         * Generic command received through page 73
+         */
+        public static final int MSG_EVENT_BASECOMMONPAGES_whatGENERICCOMMAND = 108;
+
+            // Note: the content of these strings must not be changed, as they were set up to match the non-generically defined version of these events.
+            /**
+             * The serial number of the remote control device. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatGENERICCOMMAND} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_GENERICCOMMAND_PARAM_intSERIALNUMBER = "int_serialNumber";
+
+            /**
+             * ANT+ Alliance managed manufacturer identifier of the remote control. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatGENERICCOMMAND} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_GENERICCOMMAND_PARAM_intMANUFACTURERID = "int_manufacturerID";
+
+            /**
+             * Sequence number which increments with each new command received. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatGENERICCOMMAND} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_GENERICCOMMAND_PARAM_intSEQUENCENUMBER = "int_sequenceNumber";
+
+            /**
+             * The requested {@link GenericCommandNumber}. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatGENERICCOMMAND} event.
+             */
+            public static final String MSG_EVENT_BASECOMMONPAGES_GENERICCOMMAND_PARAM_intCOMMANDNUMBER = "int_commandNumber";
+
+        /**
+         * Generic RSSI event.
+         */
+        public static final int MSG_EVENT_BASECOMMONPAGES_whatRSSI = 109;
+
+            public static final String MSG_EVENT_BASECOMMONPAGES_RSSI_PARAM_intRSSI = "int_rssi";
+
+        /**
+         * Raw data pages.
+         */
+            public static final int MSG_EVENT_BASECOMMONPAGES_whatRAWDATAPAGE = 104;
+                /**
+                 * The raw eight bytes of the received page. Sent in the {@link #MSG_EVENT_BASECOMMONPAGES_whatRAWDATAPAGE}
+                 */
+                public static final String MSG_EVENT_BASECOMMONPAGES_RAWDATAPAGE_PARAM_arrayByteRAWDATAPAGEBYTES = "arrayByteRAWDATAPAGEBYTES";
+    }  //End of IpcDefines
+
+
+    /**
+     * Receiver for the ManufacturerIdentification event, which is:
+     * Information about the manufacturer and hardware.
+     */
+    public interface IManufacturerIdentificationReceiver
+    {
+        /**
+         * Receives the data from a ManufacturerIdentification event.
+         * @param estTimestamp The estimated timestamp of when this event was triggered. Useful for correlating multiple events and determining when data was sent for more accurate data records.
+         * @param eventFlags Informational flags about the event.
+         * @param hardwareRevision Manufacturer defined. -1 = 'Not available'.
+         * @param manufacturerID ANT+ Alliance managed manufacturer identifier.
+         * @param modelNumber Manufacturer defined. -1 = 'Not available'.
+         */
+        public void onNewManufacturerIdentification(long estTimestamp, EnumSet<EventFlag> eventFlags, int hardwareRevision, int manufacturerID, int modelNumber);
+    }
+    /**
+     * Receiver for the ProductInformation event, which is:
+     * Information about the product and software.
+     */
+    public interface IProductInformationReceiver
+    {
+        /**
+         * Receives the data from a ProductInformation event.
+         * @param estTimestamp The estimated timestamp of when this event was triggered. Useful for correlating multiple events and determining when data was sent for more accurate time records.
+         * @param eventFlags Informational flags about the event.
+         * @param mainSoftwareRevision Manufacturer defined main software revision.
+         * @param supplementalSoftwareRevision Manufacturer defined supplemental software revision. 0xFF = Invalid. -2 = Not supported by installed ANT+ Plugins Service version. @since 3.1.0; requires Plugin Service 3.1.0+
+         * @param serialNumber Serial number of the device.
+         */
+        public void onNewProductInformation(long estTimestamp, EnumSet<EventFlag> eventFlags, int mainSoftwareRevision, int supplementalSoftwareRevision, long serialNumber);
+    }
+    /**
+     * Receiver for the BatteryStatus event, which is:
+     * Information about the battery status and operating time.
+     */
+    public interface IBatteryStatusReceiver
+    {
+        /**
+         * Receives the data from a BatteryStatus event.
+         * @param estTimestamp The estimated timestamp of when this event was triggered. Useful for correlating multiple events and determining when data was sent for more accurate time records.
+         * @param eventFlags Informational flags about the event.
+         * @param cumulativeOperatingTime The cumulative operating time since the battery was inserted.
+         *  Units: seconds (resolution indicated by cumulativeOperatingTimeResolution]).
+         *  Rollover: Every 16777215s*resolution. ie:~1.1yrs at 2s resolution, ~8.5yrs at 16s resolution.
+         * @param batteryVoltage Current battery voltage. Invalid = -1. Units: Volts (with 1/256V resolution).
+         * @param batteryStatus The current reported {@link BatteryStatus}.
+         * @param cumulativeOperatingTimeResolution The resolution accuracy of the cumulativeOperatingTime. Units: seconds.
+         * @param numberOfBatteries Specifies how many batteries are available in the system. Invalid = -1. Unsupported, requires upgrade to ANT+ Plugin Service Version 2.3.0 or newer = -2. @since 2.1.7; requires Plugin Service 2.2.8+
+         * @param batteryIdentifier Identifies the battery in system to which this battery status pertains. Invalid = -1. Unsupported, requires upgrade to ANT+ Plugin Service Version 2.3.0 or newer = -2. @since 2.1.7; requires Plugin Service 2.2.8+
+         */
+        public void onNewBatteryStatus(long estTimestamp, EnumSet<EventFlag> eventFlags, long cumulativeOperatingTime, BigDecimal batteryVoltage, BatteryStatus batteryStatus, int cumulativeOperatingTimeResolution, int numberOfBatteries, int batteryIdentifier);
+    }
+    /**
+     * Receiver for the ManufacturerSpecificData event, which is:
+     * Manufacturer specific data.
+     */
+    public interface IManufacturerSpecificDataReceiver
+    {
+        /**
+         * Receives the data from a ManufacturerSpecificData event.
+         * @param estTimestamp The estimated timestamp of when this event was triggered. Useful for correlating multiple events and determining when data was sent for more accurate time records.
+         * @param eventFlags Informational flags about the event.
+         * @param rawDataBytes The raw eight bytes which make up the manufacturer specific page.
+         */
+        public void onNewManufacturerSpecificData(long estTimestamp, EnumSet<EventFlag> eventFlags, byte[] rawDataBytes);
+    }
+    /**
+     * Receiver for the RequestFinished event, which is:
+     * Final result of the command requested.
+     */
+    public interface IRequestFinishedReceiver
+    {
+        /**
+         * Receives the data from a RequestFinished event.
+         * @param requestStatus The {@link RequestStatus} for the requested operation. Note that even if a command is sent successfully, there is no guaranteed response from the sensor. Please contact the manufacturer for more information on how this request is handled.
+         */
+        public void onNewRequestFinished(RequestStatus requestStatus);
+    }
+
+    /**
+     * Receiver for the rssi event, which is:
+     * Rssi of received messages.
+     */
+    public interface IRssiReceiver
+    {
+        /**
+         * Receives the data from an rssi event.
+         * @param estTimestamp The estimated timestamp of when this event was triggered. Useful for correlating multiple events and determining when data was sent for more accurate time records.
+         * @param rssi The rssi in dBm of the triggering message.
+         */
+        public void onRssiData(long estTimestamp, EnumSet<EventFlag> eventFlags, int rssi);
+    }
+    /**
+     * Receiver for the RawDataPage event, which is:
+     * The raw bytes of all pages received
+     */
+    public interface IRawDataPageReceiver
+    {
+        /**
+         * Receives the data from a RawDataPage event.
+         * @param estTimestamp The estimated timestamp of when this event was triggered. Useful for correlating multiple events and determining when data was sent for more accurate time records.
+         * @param eventFlags Informational flags about the event.
+         * @param rawDataPageBytes The raw eight bytes which make up the data page.
+         */
+        public void onNewRawDataPage(long estTimestamp, EnumSet<EventFlag> eventFlags, byte[] rawDataPageBytes);
+    }
+
+    protected IRequestFinishedReceiver mRequestFinishedReceiver;
+    protected Semaphore mCommandLock = new Semaphore(1);
+    IManufacturerIdentificationReceiver mManufacturerIdentificationReceiver;
+    IProductInformationReceiver mProductInformationReceiver;
+    IBatteryStatusReceiver mBatteryStatusReceiver;
+    IManufacturerSpecificDataReceiver mManufacturerSpecificDataReceiver;
+<<<<<<< HEAD
+    IRawDataPageReceiver mRawDataPageReceiver;
+=======
+    IRssiReceiver mRssiReceiver;
+>>>>>>> remotes/origin/master
+
+    @Override
+    protected void handlePluginEvent(Message eventMsg)
+    {
+        switch(eventMsg.arg1)
+        {
+            case IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERIDENTIFICATION:
+                {
+                    if(mManufacturerIdentificationReceiver == null)
+                        break;
+
+                    Bundle b = eventMsg.getData();
+                    long estTimestamp = b.getLong(AntPlusCommonPcc.IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longESTTIMESTAMP);
+                    EnumSet<EventFlag> eventFlags = EventFlag.getEventFlagsFromLong(b.getLong(AntPlusCommonPcc.IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longEVENTFLAGS));
+                    int hardwareRevision = b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_MANUFACTURERIDENTIFICATION_PARAM_intHARDWAREREVISION);
+                    int manufacturerID = b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_MANUFACTURERIDENTIFICATION_PARAM_intMANUFACTURERID);
+                    int modelNumber = b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_MANUFACTURERIDENTIFICATION_PARAM_intMODELNUMBER);
+                    mManufacturerIdentificationReceiver.onNewManufacturerIdentification(estTimestamp, eventFlags, hardwareRevision, manufacturerID, modelNumber);
+                }
+                break;
+
+            case IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatPRODUCTINFORMATION:
+                {
+                    if(mProductInformationReceiver == null)
+                        break;
+
+                    Bundle b = eventMsg.getData();
+                    long estTimestamp = b.getLong(AntPlusCommonPcc.IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longESTTIMESTAMP);
+                    EnumSet<EventFlag> eventFlags = EventFlag.getEventFlagsFromLong(b.getLong(AntPlusCommonPcc.IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longEVENTFLAGS));
+                    int mainSoftwareRevision = b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_PRODUCTINFORMATION_PARAM_intMAINSOFTWAREREVISION);
+                    int supplementaryRevision = b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_PRODUCTINFORMATION_PARAM_intSUPPLEMENTALSOFTWAREREVISION, -2);
+                    long serialNumber = b.getLong(IpcDefines.MSG_EVENT_BASECOMMONPAGES_PRODUCTINFORMATION_PARAM_longSERIALNUMBER);
+                    mProductInformationReceiver.onNewProductInformation(estTimestamp, eventFlags, mainSoftwareRevision, supplementaryRevision, serialNumber);
+                }
+                break;
+
+            case IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatBATTERYSTATUS:
+                {
+                    if(mBatteryStatusReceiver == null)
+                        break;
+
+                    Bundle b = eventMsg.getData();
+                    long estTimestamp = b.getLong(AntPlusCommonPcc.IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longESTTIMESTAMP);
+                    EnumSet<EventFlag> eventFlags = EventFlag.getEventFlagsFromLong(b.getLong(AntPlusCommonPcc.IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longEVENTFLAGS));
+                    long cumulativeOperatingTime = b.getLong(IpcDefines.MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_longCUMULATIVEOPERATINGTIME);
+                    BigDecimal batteryVoltage = (BigDecimal)b.getSerializable(IpcDefines.MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_decimalBATTERYVOLTAGE);
+                    BatteryStatus batteryStatus = BatteryStatus.getValueFromInt(b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_intBATTERYSTATUSCODE));
+                    int cumulativeOperatingTimeResolution = b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_intCUMULATIVEOPERATINGTIMERESOLUTION);
+                    //Note: The fields below are new to this page so the default values must be set properly to handle old service versions (-2).
+                    int numberOfBatteries = b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_intNUMBEROFBATTERIES, -2);
+                    int batteryIdentifier = b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_BATTERYSTATUS_PARAM_intBATTERYIDENTIFIER, -2);
+                    mBatteryStatusReceiver.onNewBatteryStatus(estTimestamp, eventFlags, cumulativeOperatingTime, batteryVoltage, batteryStatus, cumulativeOperatingTimeResolution, numberOfBatteries, batteryIdentifier);
+                }
+                break;
+
+            case IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERSPECIFICDATA:
+            {
+                if (mManufacturerSpecificDataReceiver == null)
+                    break;
+
+                Bundle b = eventMsg.getData();
+                long estTimestamp = b.getLong(
+                        IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longESTTIMESTAMP);
+                EnumSet<EventFlag> eventFlags = EventFlag.getEventFlagsFromLong(b.getLong(
+                        IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longEVENTFLAGS));
+                byte[] rawDataBytes = b.getByteArray(
+                        IpcDefines.
+                        MSG_EVENT_BASECOMMONPAGES_MANUFACTURERSPECIFICDATA_PARAM_arrayByteRAWDATABYTES);
+
+                mManufacturerSpecificDataReceiver.onNewManufacturerSpecificData(
+                        estTimestamp,eventFlags, rawDataBytes);
+            }
+                break;
+
+            case IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatRSSI:
+            {
+                if(mRssiReceiver == null)
+                    break;
+
+                Bundle b = eventMsg.getData();
+                long estTimestamp = b.getLong(
+                        IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longESTTIMESTAMP);
+                EnumSet<EventFlag> eventFlags = EventFlag.getEventFlagsFromLong(b.getLong(
+                        IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longEVENTFLAGS));
+                int rssi = b.getInt(
+                        IpcDefines.MSG_EVENT_BASECOMMONPAGES_RSSI_PARAM_intRSSI);
+                mRssiReceiver.onRssiData(estTimestamp, eventFlags, rssi);
+            }
+                break;
+
+            case IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatREQUESTFINISHED:
+            {
+                IRequestFinishedReceiver tempReceiver = mRequestFinishedReceiver;
+                mRequestFinishedReceiver = null;
+                mCommandLock.release();
+
+                if(tempReceiver == null)
+                    break;
+                Bundle b = eventMsg.getData();
+                int requestStatus = b.getInt(IpcDefines.MSG_EVENT_BASECOMMONPAGES_REQUESTFINISHED_PARAM_intREQUESTSTATUS);
+                tempReceiver.onNewRequestFinished(RequestStatus.getValueFromInt(requestStatus));
+            }
+                break;
+
+              case IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatRAWDATAPAGE:
+              {
+                  if(mRawDataPageReceiver == null)
+                      break;
+
+                  Bundle b = eventMsg.getData();
+                  long estTimestamp = b.getLong(AntPlusCommonPcc.IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longESTTIMESTAMP);
+                  EnumSet<EventFlag> eventFlags = EventFlag.getEventFlagsFromLong(b.getLong(AntPlusCommonPcc.IpcDefines.MSG_EVENT_ALLDATAEVENTS_PARAM_longEVENTFLAGS));
+                  byte[] rawDataBytes = b.getByteArray(IpcDefines.MSG_EVENT_BASECOMMONPAGES_RAWDATAPAGE_PARAM_arrayByteRAWDATAPAGEBYTES);
+                  mRawDataPageReceiver.onNewRawDataPage(estTimestamp, eventFlags, rawDataBytes);
+              }
+              break;
+
+            default:
+                LogAnt.d(TAG, "Unrecognized event received: " + eventMsg.arg1);
+                break;
+        }
+    }
+
+    /**
+     * Subscribe to receive ManufacturerIdentification events, which contain:
+     * Information about the manufacturer and hardware.
+     * This function can also be used to unsubscribe from an event, by passing null as the receiver.
+     * @param ManufacturerIdentificationReceiver receiver to receive events (or null to unsubscribe from this event).
+     */
+    public void subscribeManufacturerIdentificationEvent(IManufacturerIdentificationReceiver ManufacturerIdentificationReceiver)
+    {
+        mManufacturerIdentificationReceiver = ManufacturerIdentificationReceiver;
+        if (ManufacturerIdentificationReceiver != null)
+        {
+            subscribeToEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERIDENTIFICATION);
+        }
+        else
+        {
+            unsubscribeFromEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERIDENTIFICATION);
+        }
+    }
+
+    /**
+     * Subscribe to receive ProductInformation events, which contain:
+     * Information about the product and software.
+     * This function can also be used to unsubscribe from an event, by passing null as the receiver.
+     * @param ProductInformationReceiver receiver to receive events (or null to unsubscribe from this event).
+     */
+    public void subscribeProductInformationEvent(IProductInformationReceiver ProductInformationReceiver)
+    {
+        mProductInformationReceiver = ProductInformationReceiver;
+        if (ProductInformationReceiver != null)
+        {
+            subscribeToEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatPRODUCTINFORMATION);
+        }
+        else
+        {
+            unsubscribeFromEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatPRODUCTINFORMATION);
+        }
+    }
+
+    /**
+     * Subscribe to receive BatteryStatus events, which contain:
+     * Information about the battery status and operating time.
+     * This function can also be used to unsubscribe from an event, by passing null as the receiver.
+     * @param BatteryStatusReceiver receiver to receive events (or null to unsubscribe from this event).
+     */
+    public void subscribeBatteryStatusEvent(IBatteryStatusReceiver BatteryStatusReceiver)
+    {
+        mBatteryStatusReceiver = BatteryStatusReceiver;
+        if (BatteryStatusReceiver != null)
+        {
+            subscribeToEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatBATTERYSTATUS);
+        }
+        else
+        {
+            unsubscribeFromEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatBATTERYSTATUS);
+        }
+    }
+
+<<<<<<< HEAD
+//    /**
+//     * Subscribe to receive ManufacturerSpecificData events, which contain:
+//     * Manufacturer specific data.
+//     * This function can also be used to unsubscribe from an event, by passing null as the receiver.
+//     * @param ManufacturerSpecificDataReceiver receiver to receive events (or null to unsubscribe from this event).
+//     */
+//    public void subscribeManufacturerSpecificDataEvent(IManufacturerSpecificDataReceiver ManufacturerSpecificDataReceiver)
+//    {
+//        mManufacturerSpecificDataReceiver = ManufacturerSpecificDataReceiver;
+//        if (ManufacturerSpecificDataReceiver != null)
+//        {
+//            subscribeToEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERSPECIFICDATA);
+//        }
+//        else
+//        {
+//            unsubscribeFromEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERSPECIFICDATA);
+//        }
+//    }
+
+
+    /**
+     * Subscribe to receive RawDataPage events, which contain:
+     * The raw bytes of the received page
+     * @param RawDataPageReceiver receiver to receive events (or null to unsubscribe from this event).
+     */
+    public void subscribeRawDataPageEvent(IRawDataPageReceiver RawDataPageReceiver)
+    {
+        mRawDataPageReceiver = RawDataPageReceiver;
+        if (RawDataPageReceiver != null)
+        {
+            subscribeToEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatRAWDATAPAGE);
+        }
+        else
+        {
+            unsubscribeFromEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatRAWDATAPAGE);
+        }
+=======
+    /**
+     * Subscribe to receive ManufacturerSpecificData events, which contain:
+     * Manufacturer specific data. This function can also be used to unsubscribe
+     * from an event, by passing null as the receiver.
+     *
+     * @param ManufacturerSpecificDataReceiver receiver to receive events (or
+     *            null to unsubscribe from this event).
+     * @return true if successful
+     * @since 2.1.5; requires Plugin Service 2.2.6+
+     */
+    public boolean subscribeManufacturerSpecificDataEvent(
+            IManufacturerSpecificDataReceiver ManufacturerSpecificDataReceiver)
+    {
+        if(reportedServiceVersion < 20206)
+        {
+            LogAnt.w(TAG, "subscribeManufacturerSpecificDataEvent requires ANT+ Plugins Service >20206, installed: " + reportedServiceVersion);
+            return false;
+        }
+
+        mManufacturerSpecificDataReceiver = ManufacturerSpecificDataReceiver;
+        if (ManufacturerSpecificDataReceiver != null)
+        {
+            return subscribeToEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERSPECIFICDATA);
+        }
+        else
+        {
+            unsubscribeFromEvent(
+                    IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatMANUFACTURERSPECIFICDATA);
+            return true;
+        }
+    }
+
+    /**
+     * Subscribe to receive Rssi events, which contain rssi signal strength data.
+     * This function can also be used to unsubscribe from an event, by passing
+     * null as the receiver.
+     *
+     * @param RssiReceiver receiver to receive events (or
+     *            null to unsubscribe from this event).
+     * @return true if successful
+     * @since 3.2.3; requires Plugin Service 3.2.3+
+     */
+    public boolean subscribeRssiEvent(
+            IRssiReceiver RssiReceiver)
+    {
+        if(reportedServiceVersion < 30203)
+        {
+            LogAnt.w(TAG, "subscribeManufacturerSpecificDataEvent requires ANT+ Plugins Service >30203, installed: " + reportedServiceVersion);
+            return false;
+        }
+
+        mRssiReceiver = RssiReceiver;
+        if (RssiReceiver != null)
+        {
+            return subscribeToEvent(IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatRSSI);
+        }
+        else
+        {
+            unsubscribeFromEvent(
+                    IpcDefines.MSG_EVENT_BASECOMMONPAGES_whatRSSI);
+            return true;
+        }
+    }
+
+    /**
+     * Send a request to the device to send the requested {@link CommonDataPage}.
+     * This command is optional and may not be supported by all devices. If it is unsupported the device will not respond.
+     *
+     * @param commonDataPage The {@link CommonDataPage} to be requested from the device.
+     * @param requestFinishedReceiver Receiver for the results of the command request.
+     * @return True if request was submitted successfully and you are guaranteed a result on the result receiver.
+     */
+    public boolean requestCommonDataPage(CommonDataPage commonDataPage, IRequestFinishedReceiver requestFinishedReceiver)
+    {
+        String cmdName = "requestCommonDataPage";
+
+        int whatCmd = AntPlusCommonPcc.IpcDefines.MSG_CMD_BASECOMMONPAGES_whatREQUESTDATAPAGE;
+        Bundle params = new Bundle();
+        params.putInt(AntPlusCommonPcc.IpcDefines.MSG_CMD_BASECOMMONPAGES_REQUESTDATAPAGE_PARAM_intREQUESTEDDATAPAGE, commonDataPage.getIntValue());
+
+        return sendRequestCommand(cmdName, whatCmd, params, requestFinishedReceiver, 20209);
+    }
+
+    public boolean supportsRssi()
+    {
+        return supportsRssiEvent;
+    }
+
+    protected boolean sendRequestCommand(String cmdName, int whatCmd, Bundle params, IRequestFinishedReceiver requestFinishedReceiver, Integer requiredServiceVersion)
+    {
+        if(requiredServiceVersion != null && reportedServiceVersion < requiredServiceVersion)
+        {
+            LogAnt.w(TAG, cmdName + " requires ANT+ Plugins Service >=" +  requiredServiceVersion + ", installed: " + reportedServiceVersion);
+            if(requestFinishedReceiver != null)
+                requestFinishedReceiver.onNewRequestFinished(RequestStatus.FAIL_PLUGINS_SERVICE_VERSION);
+            return false;
+        }
+
+        if(!mCommandLock.tryAcquire())
+        {
+            LogAnt.e(TAG, "Cmd " + cmdName + " failed to start because a local command is still processing.");
+            return false;
+        }
+
+        mRequestFinishedReceiver = requestFinishedReceiver;
+
+        Message cmdMsg = Message.obtain();
+        cmdMsg.what = whatCmd;
+
+        if(params != null)
+            cmdMsg.setData(params);
+
+        Message ret = sendPluginCommand(cmdMsg);
+
+        if (ret == null)
+        {
+            LogAnt.e(TAG, "Cmd " + cmdName + " died in sendPluginCommand()");
+            mCommandLock.release();
+            return false; //abort, when sendPluginCommand fails it means we are closing down
+        }
+
+        if(ret.arg1 == AntPluginMsgDefines.MSG_CMD_RESULT_whatFAIL_BADPARAMS)
+        {
+            LogAnt.e(TAG, "Cmd " + cmdName + " failed with code " + ret.arg1);
+            ret.recycle(); //Need to recycle because we are not in a handler which would do it for us
+            mRequestFinishedReceiver = null;
+            mCommandLock.release();
+            if(requestFinishedReceiver != null)
+                requestFinishedReceiver.onNewRequestFinished(RequestStatus.FAIL_BAD_PARAMS);
+            return false;
+        }
+        else if(ret.arg1 != AntPluginMsgDefines.MSG_CMD_RESULT_whatSUCCESS)
+        {
+            //This function is a void return, so any failure must be an internal programming error
+            LogAnt.e(TAG, "Cmd " + cmdName + " failed with code " + ret.arg1);
+            ret.recycle(); //Need to recycle because we are not in a handler which would do it for us
+            mRequestFinishedReceiver = null;
+            mCommandLock.release();
+            throw new RuntimeException(cmdName + " cmd failed internally");
+        }
+
+        ret.recycle(); //Need to recycle because we are not in a handler which would do it for us
+        return true;
+    }
+
+    protected boolean sendRequestCommand(String cmdName, int whatCmd, IRequestFinishedReceiver requestFinishedReceiver)
+    {
+        return sendRequestCommand(cmdName, whatCmd, null, requestFinishedReceiver, null);
+    }
+
+    protected boolean sendRequestCommand(String cmdName, int whatCmd, Bundle params, IRequestFinishedReceiver requestFinishedReceiver)
+    {
+        return sendRequestCommand(cmdName, whatCmd, params, requestFinishedReceiver, null);
+    }
+
+    protected boolean sendRequestCommand(String cmdName, int whatCmd, IRequestFinishedReceiver requestFinishedReceiver, Integer requiredServiceVersion)
+    {
+        return sendRequestCommand(cmdName, whatCmd, null, requestFinishedReceiver, requiredServiceVersion);
+>>>>>>> remotes/origin/master
+    }
+}

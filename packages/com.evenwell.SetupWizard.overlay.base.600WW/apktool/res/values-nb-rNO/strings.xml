@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"Ved å trykke på knappen godtar du &lt;a href='launch.TermOfServiceActivity://Kode'>tjenestevilkårene&lt;/a> og &lt;a href='launch.AddUploadAgentHandler://Kode'>personvernerklæringen&lt;/a>. Informasjon om aktivering av enheten med engangs enhetsposisjon sendes til HMD Global.&lt;br/>&lt;br/>Varsel om automatisk programvareoppdatering blir aktivert og installerer de nyeste oppdateringene for deg. Dette kan koste deg en liten del av databudsjettet ditt. Tjenestene kobles til Internett når det er behov for det.&lt;br/>&lt;br/>Disse tjenestene medfører tilleggskostnader for deg når de kobler seg til mobilnettverk."</string>
+    <string name="welcome_hmd_term_of_use_5">"Ved å trykke på knappen godtar du &lt;a href='launch.TermOfServiceActivity://Kode'>tjenestevilkårene&lt;/a>. Dataene dine blir behandlet i henhold til HMDs &lt;a href='launch.AddUploadAgentHandler://Kode'>personvernerklæring&lt;/a>. Informasjon om aktivering av enheten med engangs enhetsposisjon sendes til HMD Global. Kostnader for mobildata kan påløpe."</string>
+    <string name="next_btn_lebel">NESTE</string>
+    <string name="accessibility_text">Tilgjengelighet</string>
+    <string name="language_selection_cancel_btn">AVBRYT</string>
+    <string name="term_agree_text">Godta</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="datausage_dialog_negitive_btn">Avbryt</string>
+    <string name="nevigation_selection_back">Tilbake</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wapi_psk_security_type">Passordtype</string>
+    <string name="upload_agent_hmd_des_text_3">"Ved å trykke på \"KOM I GANG\" samtykker du i å bli med i brukeropplevelsesprogrammet. &lt;a href='launch.UserExperienceActivity://Kode'>Finn ut mer&lt;/a>. Husk at du alltids kan bli med senere via Innstillinger."</string>
+    <string name="setup_complete_hmd_1">Du er nesten klar til å begynne ...!</string>
+    <string name="not_now">IKKE NÅ ...</string>
+    <string name="setup_finish">KOM I GANG</string>
+    <string name="wifi_fail_to_scan">Kan ikke søke etter nettverk</string>
+    <string name="wifi_security_none">Ingen</string>
+    <string name="wifi_remembered">Lagret</string>
+    <string name="wifi_disabled_generic">Slått av</string>
+    <string name="wifi_disabled_network_failure">IP-konfigurasjonsfeil</string>
+    <string name="wifi_disabled_password_failure">Autentiseringsproblem</string>
+    <string name="wifi_not_in_range">Ugyldig verdi</string>
+    <string name="wifi_no_internet_no_reconnect">Automatisk tilkobling ikke mulig</string>
+    <string name="wifi_no_internet">Ingen Internett-tilgang</string>
+    <string name="saved_network">Lagret av %1$s</string>
+    <string name="connected_via_passpoint">Tilkoblet via %1$s</string>
+    <string name="available_via_passpoint">Tilgjengelig via %1$s</string>
+    <string name="wifi_connected_no_internet">Tilkoblet, ikke Internett-forbindelse</string>
+    <string name="wifi_auth_password_wrong">Passord kan være feil</string>
+    <string name="connected_via_wfa">Tilkoblet via Wi‑Fi-assistent</string>
+    <string name="wifi_ssid">Nettverksnavn</string>
+    <string name="wifi_ssid_hint">Skriv inn SSID</string>
+    <string name="wifi_security">Sikkerhet</string>
+    <string name="wifi_eap_method">EAP-metode</string>
+    <string name="please_select_phase2">Fase 2-autentisering</string>
+    <string name="wifi_eap_ca_cert">CA-sertifikat</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Ingen sertifikater angitt. Tilkoblingen blir ikke privat.</string>
+    <string name="wifi_eap_domain">Domene</string>
+    <string name="wifi_no_domain_warning">Du må angi et domene.</string>
+    <string name="wifi_eap_user_cert">Brukersertifikat</string>
+    <string name="wifi_eap_identity">Identitet</string>
+    <string name="wifi_eap_anonymous">Anonym identitet</string>
+    <string name="wifi_password">Passord</string>
+    <string name="wifi_show_password">Vis passord</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Nedtrekksliste Avanserte alternativer. Dobbelttrykk for å utvide.</string>
+    <string name="wifi_show_advanced">Avanserte alternativer</string>
+    <string name="proxy_settings_title">Proxy-tjener</string>
+    <string name="proxy_warning_limited_support">HTTP-proxy-tjeneren brukes av nettleseren, men kan ikke brukes av andre apper.</string>
+    <string name="proxy_url_title">"PAC-nettadresse: "</string>
+    <string name="proxy_hostname_label">Proxy-tjenerens vertsnavn</string>
+    <string name="proxy_exclusionlist_label">Ikke bruk proxy-tjener for</string>
+    <string name="wifi_ip_settings">IP-innstillinger</string>
+    <string name="wifi_ip_address">IP-adresse</string>
+    <string name="wifi_gateway">Nettport</string>
+    <string name="wifi_network_prefix_length">Nettverksprefiks-lengde</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">Del med andre brukere av enheten</string>
+    <string name="proxy_port_label">Port for proxy-tjener</string>
+    <string name="wifi_unspecified">Velg</string>
+    <string name="wifi_multiple_cert_added">(Flere sertifikater er lagt til)</string>
+    <string name="wifi_use_system_certs">Bruk systemsertifikater</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Ikke oppgi</string>
+    <string name="wifi_do_not_validate_eap_server">Ikke godkjenn</string>
+    <string name="wifi_add_network">Legg til nettverk</string>
+    <string name="wifi_save">Lagre</string>
+    <string name="passpoint_label">Lagret via</string>
+    <string name="wifi_connect">Koble til</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_signal">Signalstyrke</string>
+    <string name="wifi_speed">Koblingshastighet</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Frekvens</string>
+    <string name="wifi_forget">Glem</string>
+    <string name="wifi_cancel">Avbryt</string>
+    <string name="proxy_error_invalid_port">Angitt port er ikke gyldig.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Angi en gyldig IP-adresse.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Angi lengde for nettverksprefiks mellom 0 og 32.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Angi en gyldig nettportadresse.</string>
+    <string name="wifi_ip_settings_invalid_dns">Angi en gyldig DNS-adresse.</string>
+    <string name="wifi_unchanged">(uendret)</string>
+    <string name="wifi_failed_connect_message">Kan ikke koble til nettverket</string>
+    <string name="wifi_failed_save_message">Kunne ikke lagre nettverket</string>
+    <string name="wifi_failed_forget_message">Kunne ikke slette nettverket</string>
+    <string name="proxy_error_empty_host_set_port">Feltet for portnummer må være tomt hvis feltet for vertsnavn er tomt.</string>
+    <string name="proxy_error_empty_port">Du må fylle ut portfeltet.</string>
+    <string name="proxy_error_invalid_exclusion_list">Eksklusjonslisten du tastet inn er ikke riktig formatert. Tast inn en kommadelt liste med ekskluderte domener.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Nedtrekksliste Avanserte alternativer. Dobbelttrykk for å skjule.</string>
+    <string name="passpoint_content">%1$s-legitimasjon</string>
+    <string name="select_sim_card">Velg SIM-kort</string>
+    <string name="sim_editor_title">SIM-kortspor %1$d</string>
+    <string name="wifi_certificate">Sertifikat</string>
+    <string name="wifi_setting_title">Opprett tilkobling</string>
+    <string name="wifi_skip_anyway">HOPP OVER UANSETT</string>
+    <string name="wifi_dont_skip">GÅ TILBAKE</string>
+    <string name="wifi_and_mobile_skipped_message">"Det går raskt å konfigurere telefonen når du er koblet til et nettverk.
+
+Uten tilkobling kan du ikke:
+
+"<li>Logge på Sky-kontoen din</li>"
+
+"<li>Hente programvareoppdateringer</li>"
+
+"<li>Stille inn dato og klokkeslett automatisk</li></string>
+</resources>

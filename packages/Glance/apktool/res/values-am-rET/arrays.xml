@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_time_out_titles">
+        <item>1 ደቂቃ</item>
+        <item>2 ደቂቃ</item>
+        <item>5 ደቂቃ</item>
+        <item>10 ደቂቃ</item>
+        <item>20 ደቂቃ</item>
+    </string-array>
+</resources>

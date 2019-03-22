@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="cancel">HỦY</string>
+    <string name="system_busy_msg">Hệ thống đang bận. Vui lòng thử lại sau.</string>
+    <string name="no_new_demo_found_msg">"Không tìm thấy tài liệu trình diễn mới nào.
+
+Nhấn vào OK để khởi chạy chế độ Trình diễn?"</string>
+    <string name="copying">Đang sao chép…</string>
+    <string name="downloading">Đang tải xuống…</string>
+    <string name="download_complete_msg">"Tải xuống hoàn tất.
+
+Nhấn vào OK để khởi chạy chế độ Trình diễn."</string>
+    <string name="download_fail_msg">"Không tải xuống được tài liệu trình diễn nào từ Internet.
+
+Nhấn vào OK để khởi chạy chế độ Trình diễn?"</string>
+    <string name="enable_demo_mode">Bật chế độ trình diễn?</string>
+    <string name="disable_demo_mode">Tắt chế độ trình diễn</string>
+    <string name="update_demo_video">C.nhật video tr.diễn</string>
+    <string name="reset_device">Đặt lại thiết bị?</string>
+    <string name="demo_mode_notifications">Thông báo trong chế độ trình diễn</string>
+</resources>

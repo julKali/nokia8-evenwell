@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/setupwizard_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/title_layout" android:layout_width="360.0dip" android:layout_height="80.0dip">
+        <TextView android:textSize="25.0dip" android:textColor="@color/white" android:id="@id/title_content" android:clickable="false" android:longClickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginBottom="8.0dip" android:text="@string/phone_mode_title" android:layout_alignParentBottom="true" android:fontFamily="sans-serif" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/outer_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/MainBackground">
+        <LinearLayout android:id="@id/title_shadow" android:background="@drawable/header_shadow" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/title_layout" />
+        <RelativeLayout android:id="@id/text_frame" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="18.0sp" android:gravity="left" android:id="@id/termofuse_title" android:layout_marginLeft="20.0dip" android:layout_marginTop="24.0dip" android:layout_marginRight="32.0dip" android:text="@string/skt_term_of_use_title" android:layout_alignParentTop="true" android:fontFamily="sans-serif-medium" style="@style/DescriptionText_no_margin" />
+            <ScrollView android:id="@id/text_scrollview" android:background="@drawable/scrollviewbound" android:layout_width="fill_parent" android:layout_height="160.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="24.0dip" android:layout_marginRight="32.0dip" android:layout_below="@id/termofuse_title" android:fadeScrollbars="false">
+                <TextView android:textSize="14.0sp" android:gravity="left" android:id="@id/termofuse_text" android:paddingLeft="12.0dip" android:text="@string/skt_term_of_use_text" android:layout_alignParentTop="true" android:lineSpacingExtra="7.0dip" style="@style/DescriptionText_no_margin" />
+            </ScrollView>
+            <TextView android:textSize="18.0sp" android:gravity="left" android:id="@id/personal_title" android:layout_marginLeft="20.0dip" android:layout_marginTop="24.0dip" android:layout_marginRight="32.0dip" android:text="@string/skt_personal_title" android:layout_below="@id/text_scrollview" android:fontFamily="sans-serif-medium" style="@style/DescriptionText_no_margin" />
+            <ScrollView android:id="@id/text_scrollview2" android:background="@drawable/scrollviewbound" android:layout_width="fill_parent" android:layout_height="160.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="24.0dip" android:layout_marginRight="32.0dip" android:layout_below="@id/personal_title" android:fadeScrollbars="false">
+                <TextView android:textSize="14.0sp" android:gravity="left" android:id="@id/personal_text" android:paddingLeft="12.0dip" android:text="@string/skt_personal_text" android:layout_alignParentTop="true" android:lineSpacingExtra="7.0dip" style="@style/DescriptionText_no_margin" />
+            </ScrollView>
+        </RelativeLayout>
+        <include layout="@layout/foot_bar" />
+    </RelativeLayout>
+</LinearLayout>

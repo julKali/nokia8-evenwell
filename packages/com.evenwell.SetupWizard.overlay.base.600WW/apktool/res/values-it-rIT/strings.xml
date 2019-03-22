@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"Toccando il pulsante, l'utente accetta le &lt;a href='launch.TermOfServiceActivity://Kode'>Condizioni per l'Utilizzo del Servizio&lt;/a> e l'&lt;a href='launch.AddUploadAgentHandler://Kode'>Informativa sulla Privacy&lt;/a>. I dati relativi all'attivazione del dispositivo unitamente alla posizione in cui si trova verranno inviati a HMD Global.&lt;br/>&lt;br/>Verrà abilitata la notifica dell'aggiornamento automatico del software e dell'installazione degli ultimi aggiornamenti. È possibile che venga consumata una piccola parte dei dati a disposizione. I servizi effettueranno l'accesso a Internet all'occorrenza.&lt;br/>&lt;br/>Nel caso in cui tali servizi utilizzino reti cellulari, verranno addebitati costi maggiori."</string>
+    <string name="welcome_hmd_term_of_use_5">"Toccando il pulsante, l'utente accetta le &lt;a href='launch.TermOfServiceActivity://Kode'>Condizioni per l'Utilizzo del Servizio&lt;/a>. I dati dell'utente verranno trattati in conformità all'&lt;a href='launch.AddUploadAgentHandler://Kode'>Informativa sulla Privacy&lt;/a> di HMD. I dati relativi all'attivazione del dispositivo unitamente alla posizione in cui si trova verranno inviati a HMD Global. È possibile che vengano applicati costi per i dati mobili."</string>
+    <string name="next_btn_lebel">AVANTI</string>
+    <string name="back_btn_lebel">INDIETRO</string>
+    <string name="finish_button_label">FINE</string>
+    <string name="idle_too_long_toast">Il telefono è inattivo da un po’. Spegnilo per risparmiare energia.</string>
+    <string name="welcome_message">Benvenuto</string>
+    <string name="welcome_start_button_label">AVVIO</string>
+    <string name="emergency_dial_hmd_message">Emergenza</string>
+    <string name="accessibility_text">Accessibilità</string>
+    <string name="language_selection_cancel_btn">ANNULLA</string>
+    <string name="term_agree_text">Accetto</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="datausage_dialog_negitive_btn">Annulla</string>
+    <string name="date_and_time">Impostazioni data e ora</string>
+    <string name="date_and_time_settings_title">Data e ora</string>
+    <string name="nevigation_selection_back">Indietro</string>
+    <string name="upload_agent_title">Programma esperienza utente</string>
+    <string name="setup_completed_congratulations">Congratulazioni!</string>
+    <string name="setup_complete_hmd">È tutto pronto...</string>
+    <string name="setup_complete_main">È</string>
+    <string name="setup_complete_sub">TUTTO PRONTO.</string>
+    <string name="hmd_user_experience_program_title">Programma esperienza utente</string>
+    <string name="hmd_user_experience_program_message">La tua partecipazione nel programma esperienza utente aiuta HMD Global a comprendere meglio cosa ti piace del tuo dispositivo Nokia e cosa pensi che vada migliorato. Di tanto in tanto, potremmo ricevere dati anonimi con caratteristiche tecniche sul tuo dispositivo, come un file con i dati sugli arresti del software che potrebbero essere avvenuti. Tieni presente che tali dati non saranno trasmessi su una connessione cellulare. Vogliamo sapere cosa pensi del tuo dispositivo Nokia!</string>
+    <string name="device_checking_message">Benvenuto</string>
+    <string name="backup_and_restore_title">Backup e ripristina</string>
+    <string name="backup_and_restore_description">"Se hai effettuato precedentemente il backup dell’account, puoi ripristinarlo sul telefono ora.
+
+Puoi cambiare le tue impostazioni di backup in Impostazioni."</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wapi_psk_security_type">Tipo di password</string>
+    <string name="upload_agent_hmd_des_text_3">"Toccando \"INIZIA\", si accetta di partecipare al Programma utente. &lt;a href='launch.UserExperienceActivity://Kode'>Ulteriori informazioni&lt;/a>. È sempre possibile aderire in seguito tramite Impostazioni."</string>
+    <string name="setup_complete_hmd_1">Procedere...</string>
+    <string name="not_now">NON ORA…;</string>
+    <string name="setup_finish">INIZIA</string>
+    <string name="wifi_fail_to_scan">No ricerca reti</string>
+    <string name="wifi_security_none">Nessuno</string>
+    <string name="wifi_remembered">Salvata</string>
+    <string name="wifi_disabled_generic">Disattivato</string>
+    <string name="wifi_disabled_network_failure">Configurazione IP non riuscita</string>
+    <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
+    <string name="wifi_not_in_range">Fuori intervallo</string>
+    <string name="wifi_no_internet_no_reconnect">Nessuna connessione automatica</string>
+    <string name="wifi_no_internet">Nessun accesso a Internet</string>
+    <string name="saved_network">Salvata da %1$s</string>
+    <string name="connected_via_passpoint">Connesso tramite %1$s</string>
+    <string name="available_via_passpoint">Disponibile tramite %1$s</string>
+    <string name="wifi_connected_no_internet">Connesso, Internet assente</string>
+    <string name="wifi_auth_password_wrong">La password potrebbe essere errata</string>
+    <string name="connected_via_wfa">Connesso tramite assistente Wi‑Fi</string>
+    <string name="wifi_ssid">Nome rete</string>
+    <string name="wifi_ssid_hint">"Inserisci l'SSID"</string>
+    <string name="wifi_security">Sicurezza</string>
+    <string name="wifi_eap_method">Metodo EAP</string>
+    <string name="please_select_phase2">Autenticazione fase 2</string>
+    <string name="wifi_eap_ca_cert">Certificato CA</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nessun certificato specificato. La connessione non sarà privata.</string>
+    <string name="wifi_eap_domain">Dominio</string>
+    <string name="wifi_no_domain_warning">È necessario specificare un dominio.</string>
+    <string name="wifi_eap_user_cert">Certificato utente</string>
+    <string name="wifi_eap_identity">Identità</string>
+    <string name="wifi_eap_anonymous">Identità anonima</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_show_password">Mostra password</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Casella di riepilogo a discesa Opzioni avanzate. Toccare due volte per espanderla.</string>
+    <string name="wifi_show_advanced">Opzioni avanzate</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser, ma potrebbe non essere usato da altre app.</string>
+    <string name="proxy_url_title">"URL PAC: "</string>
+    <string name="proxy_hostname_label">Nome host proxy</string>
+    <string name="proxy_exclusionlist_label">Ignora proxy per</string>
+    <string name="wifi_ip_settings">Impostazioni IP</string>
+    <string name="wifi_ip_address">Indirizzo IP</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_network_prefix_length">Lunghezza prefisso rete</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">Condividi con altri utenti del dispositivo</string>
+    <string name="proxy_port_label">Porta proxy</string>
+    <string name="wifi_unspecified">"Selezionare un'opzione"</string>
+    <string name="wifi_multiple_cert_added">(Più certificati aggiunti)</string>
+    <string name="wifi_use_system_certs">Utilizza certificati di sistema</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Non fornire</string>
+    <string name="wifi_do_not_validate_eap_server">Non convalidare</string>
+    <string name="wifi_add_network">Aggiungi rete</string>
+    <string name="wifi_save">Salva</string>
+    <string name="passpoint_label">Salvata tramite</string>
+    <string name="wifi_connect">Connetti</string>
+    <string name="wifi_status">Stato</string>
+    <string name="wifi_signal">Intensità segnale</string>
+    <string name="wifi_speed">Velocità di collegamento</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Frequenza</string>
+    <string name="wifi_forget">Elimina</string>
+    <string name="wifi_cancel">Annulla</string>
+    <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Digitare un indirizzo IP valido.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Digitare un prefisso di rete di 0-32 caratteri.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Digitare un indirizzo di gateway valido.</string>
+    <string name="wifi_ip_settings_invalid_dns">Digitare un indirizzo DNS valido.</string>
+    <string name="wifi_unchanged">(invariata)</string>
+    <string name="wifi_failed_connect_message">Impossibile connettersi alla rete</string>
+    <string name="wifi_failed_save_message">Impossibile salvare la rete</string>
+    <string name="wifi_failed_forget_message">Impossibile eliminare la rete</string>
+    <string name="proxy_error_empty_host_set_port">Il campo Porta deve essere vuoto se il campo Host è vuoto.</string>
+    <string name="proxy_error_empty_port">È necessario inserire un valore nel campo Porta.</string>
+    <string name="proxy_error_invalid_exclusion_list">L’elenco di esclusioni digitato non è nel formato corretto. Digitare un elenco di domini esclusi separati da virgole.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Casella di riepilogo a discesa Opzioni avanzate. Toccare due volte per comprimerla.</string>
+    <string name="passpoint_content">Credenziali di %1$s</string>
+    <string name="select_sim_card">Seleziona scheda SIM</string>
+    <string name="sim_editor_title">Slot SIM %1$d</string>
+    <string name="wifi_certificate">Certificato</string>
+    <string name="wifi_setting_title">Stabilisci connessione</string>
+    <string name="wifi_skip_anyway">IGNORA COMUNQUE</string>
+    <string name="wifi_dont_skip">TORNA INDIETRO</string>
+    <string name="wifi_and_mobile_skipped_message">"La connessione a una rete consente di configurare rapidamente il telefono.
+
+Senza una connessione non è possibile:
+
+"<li>Accedere al proprio account Cloud</li>"
+
+"<li>Scaricare aggiornamenti software</li>"
+
+"<li>"Impostare automaticamente la data e l'ora"</li></string>
+</resources>

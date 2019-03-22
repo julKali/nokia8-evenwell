@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Hava Durumu Hizmeti</string>
+    <string name="fih_weather_permission_hint_1">Bu uygulamanın düzgün çalışabilmesi için ek izinler verilmesi lazım. Lütfen sorulduğunda izin verin.</string>
+    <string name="fih_weather_permission_hint_2">"Bu uygulamanın düzgün çalışması için ek izinler gerekiyor. Ayarlar'da Hava Durumu Hizmeti'nin iznini düzenleyin."</string>
+    <string name="fih_weather_button_ok">USB belleği</string>
+    <string name="fih_weather_button_close">Kapat</string>
+    <string name="fih_weather_button_setting">Ayarlanıyor...</string>
+    <string name="fih_weather_permission_success">Konum bilgisi izni verildi</string>
+    <string name="fih_weather_permission_failed">Konum bilgisi izni reddedildi, konum alınamıyor.</string>
+    <string name="fih_weather_notification_title">Hava Durumu Hizmeti izin gerektiriyor</string>
+    <string name="fih_weather_notification_text">İzin vermek için dokunun</string>
+    <string name="fih_weather_notification_channel_title">Genel bildirimler</string>
+</resources>

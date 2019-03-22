@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Mteja wa CP</string>
+    <string name="fih_cp_apn_not_set">&lt;Haijawekwa></string>
+    <string name="fih_cp_apply_dialog_body_msg">Je, ungependa kutekeleza usanidi mpya?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Matoleo Mapya</string>
+    <string name="fih_cp_btn_back">Nyuma</string>
+    <string name="fih_cp_btn_cancel">Ghairi</string>
+    <string name="fih_cp_btn_next">Ifuatayo</string>
+    <string name="fih_cp_btn_ok">Sawa</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Aina ya uhalalishaji</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Hamna</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP au CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Kituo</string>
+    <string name="fih_cp_editor_apn_http_proxy">Seva mbadala</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">Kituo cha MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Seva mbadala ya MMS</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Jina</string>
+    <string name="fih_cp_editor_apn_password">Nenosiri</string>
+    <string name="fih_cp_editor_apn_server">Seva</string>
+    <string name="fih_cp_editor_apn_type">Aina ya APN</string>
+    <string name="fih_cp_editor_apn_user">Jina la mtumiaji</string>
+    <string name="fih_cp_error_apn_empty">Sehemu ya APN haiwezi kuwa tupu.</string>
+    <string name="fih_cp_error_name_empty">Sehemu ya Jina haiwezi kuwa tupu.</string>
+    <string name="fih_cp_error_other">Kosa la sintaksi ya data.</string>
+    <string name="fih_cp_error_title">Zingatia</string>
+    <string name="fih_cp_input_pin_code">Ingiza msimbo wa PIN:</string>
+    <string name="fih_cp_input_pin_code_cancel">Ghairi</string>
+    <string name="fih_cp_input_pin_code_empty">Tafadhali ingiza msimbo wa PIN.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Msimbo wa PIN si sahihi.</string>
+    <string name="fih_cp_input_pin_code_ok">Sawa</string>
+    <string name="fih_cp_notification_channel_name">Arifa za kawaida</string>
+    <string name="fih_cp_notify_statusbar_content">Ujumbe wa matoleo mapya</string>
+    <string name="fih_cp_sim_not_available">SIM kadi haipatikani.</string>
+    <string name="fih_cp_toast_info_create">Umefanikiwa kuunda wasifu</string>
+    <string name="fih_cp_toast_info_update">Umefanikiwa kusasisha wasifu</string>
+    <string name="fih_cp_ui_mode_delete">Futa</string>
+    <string name="fih_cp_ui_mode_ok">Sawa</string>
+    <string name="fih_cp_ui_mode_postpone">Hairisha</string>
+</resources>

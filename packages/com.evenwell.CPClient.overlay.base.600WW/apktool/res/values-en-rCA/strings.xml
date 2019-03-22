@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP Client</string>
+    <string name="fih_cp_notify_statusbar_content">New provisioning message</string>
+    <string name="fih_cp_notification_channel_name">General notifications</string>
+    <string name="fih_cp_ui_mode_postpone">Postpone</string>
+    <string name="fih_cp_ui_mode_delete">Delete</string>
+    <string name="fih_cp_apply_dialog_head_msg">New Provisioning</string>
+    <string name="fih_cp_apply_dialog_body_msg">Do you want to apply the new configuration?</string>
+    <string name="fih_cp_toast_info_update">Profile updated successfully</string>
+    <string name="fih_cp_toast_info_create">Profile created successfully</string>
+    <string name="fih_cp_editor_apn_name">Name</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_user">Username</string>
+    <string name="fih_cp_editor_apn_password">Password</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS proxy</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS port</string>
+    <string name="fih_cp_editor_apn_auth_type">Authentication type</string>
+    <string name="fih_cp_editor_apn_auth_type_none">None</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP or CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN type</string>
+    <string name="fih_cp_btn_next">Next</string>
+    <string name="fih_cp_btn_back">Back</string>
+    <string name="fih_cp_apn_not_set">&lt;Not set></string>
+    <string name="fih_cp_error_title">Attention</string>
+    <string name="fih_cp_error_name_empty">The Name field cannot be empty.</string>
+    <string name="fih_cp_error_apn_empty">The APN field cannot be empty.</string>
+    <string name="fih_cp_error_other">Data syntax error.</string>
+    <string name="fih_cp_input_pin_code">Enter PIN code:</string>
+    <string name="fih_cp_input_pin_code_incorrect">Incorrect PIN code.</string>
+    <string name="fih_cp_input_pin_code_empty">Please enter PIN code.</string>
+    <string name="fih_cp_sim_not_available">SIM card is not available.</string>
+</resources>

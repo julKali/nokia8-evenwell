@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WizardScript wizard:version="2"
+    xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+
+    <!-- Preliminary setup for OEMs [CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_PRE_SETUP;end" id="oem_pre_setup" />
+
+
+    <!-- Secondary user warning [RECOMMENDED, CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.USER_WARNING;end" id="secondary_user_warning">
+        <result wizard:resultCode="111" wizard:action="check_user_unlock_dpm_user_complete" wizard:name="dpm_user_complete" />
+        <result wizard:action="check_user_unlock" />
+    </WizardAction>
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock_dpm_user_complete">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock">
+    </WizardAction>
+
+
+    <!-- Network selection [REQUIRED, CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.NETWORK_SETTINGS;end" id="network_settings">
+        <result wizard:resultCode="102" wizard:action="wifi_settings" wizard:name="see_all_wifi" />
+        <result wizard:resultCode="1" wizard:action="network_check" wizard:name="skip" />
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+
+
+    <!-- Wi-Fi setup [REQUIRED, CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.WIFI_SETTINGS;end" id="wifi_settings">
+        <result wizard:resultCode="1" wizard:action="network_check" wizard:name="skip" />
+    </WizardAction>
+
+
+    <!-- Resolve captive portal access, and wait for check-in [REQUIRED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CAPTIVE_PORTAL;end" id="captive_portal" />
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMS_CHECKIN;end" id="gms_checkin" />
+
+
+    <!-- Update other important packages [REQUIRED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.EARLY_UPDATE;end" id="early_update" />
+
+
+    <!-- Check network availability and return RESULT_OK or RESULT_SKIP [REQUIRED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.NETWORK_CHECK;end" id="network_check">
+        <result wizard:resultCode="1" wizard:action="no_account_flow" wizard:name="skip" />
+    </WizardAction>
+
+
+    <!-- Script that includes steps to rollback auth early update [REQUIRED] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_rollback_auth_early_update_flow" id="rollback_auth_early_update" />
+
+
+    <!-- Add an account [REQUIRED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOAD_ADD_ACCOUNT_INTENT;end" id="load_account_intent" />
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_SETUP;end" id="account_setup">
+        <result wizard:resultCode="1" wizard:action="no_account_flow" wizard:name="skip" />
+        <!-- Alternate flow if managed provisioning already set the user up (for enterprise) [RECOMMENDED] -->
+        <result wizard:resultCode="111" wizard:action="oem_post_setup" wizard:name="dpm_user_complete" />
+    </WizardAction>
+
+
+    <!-- Checkin with Gservices using account. If it fails, VPA will not be available. [REQUIRED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMS_ACCOUNT_CHECKIN;end" id="gms_account_checkin">
+        <result wizard:resultCode="1" wizard:action="mfm_check" wizard:name="skip" />
+    </WizardAction>
+
+
+    <!-- Branch to script for setting up with or without an account [REQUIRED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_CHECK;end" id="mfm_check">
+        <result wizard:resultCode="1" wizard:action="no_account_flow" wizard:name="skip" />
+    </WizardAction>
+
+
+    <!-- Set up with an account [REQUIRED] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_user_account_flow" id="account_flow">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+
+
+    <!-- Set up without an account [REQUIRED] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_user_no_account_flow" id="no_account_flow">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+
+
+    <!-- OEM completion [CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_POST_SETUP;end" id="oem_post_setup" />
+
+
+    <!-- Google kid account setup. Must be the last setup action. [REQUIRED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.KID_POST_SETUP;end" id="kid_post_setup" />
+
+    <!-- Add Amazon account flow { -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.evenwell.setupwizard.action.AddAmazonAccountUserHandler;end" id="amazon_account_handler">
+        <result wizard:resultCode="1" wizard:action="exit" wizard:name="skip" />
+        <result wizard:resultCode="21" wizard:action="amazon_oobe1" />
+        <result wizard:resultCode="22" wizard:action="amazon_oobe2" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.amazon.alphafirstrun/raw/wizard_script_amazon" id="amazon_oobe1">
+        <result wizard:action="exit" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.amazon.firstrun.in/raw/wizard_script_amazon" id="amazon_oobe2">
+        <result wizard:action="exit" />
+    </WizardAction>
+    <!-- Add Amazon account flow } -->
+
+    <!-- Leave Setup Wizard [REQUIRED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.EXIT;end" id="exit" />
+
+    <!-- Labeled end of script (for branching) [RECOMMENDED, CUSTOMIZABLE] -->
+    <WizardAction id="END_OF_SCRIPT" />
+</WizardScript>

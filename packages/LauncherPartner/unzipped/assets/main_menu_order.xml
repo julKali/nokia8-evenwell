@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Exampl
+     <app>com.android.contacts.activities.DialtactsActivity</app>
+-->
+<menu_order>
+<!-- Page1 -->
+    <app>com.android.vending.AssetBrowserActivity</app><!-- Google Play -->
+    <app>com.google.android.googlequicksearchbox.SearchActivity</app><!-- Google Search -->
+    <app>com.google.android.apps.chrome.Main</app><!-- Chrome -->
+    <app>com.google.android.gm.ConversationListActivityGmail</app><!-- Gmail -->
+    <app>com.google.android.maps.MapsActivity</app><!-- Google Maps -->
+    <app>com.google.android.youtube.app.honeycomb.Shell$HomeActivity</app><!-- YouTube -->
+    <app>com.google.android.apps.docs.app.NewMainProxyActivity</app><!-- Google Drive -->
+    <app>com.android.music.activitymanagement.TopLevelActivity</app><!-- Google Play Music -->
+    <app>com.google.android.youtube.videos.EntryPoint</app><!-- Google Play Movies -->
+    <app>com.google.android.apps.tachyon.MainActivity</app><!-- Duo -->
+    <app>com.google.android.talk.SigningInActivity</app><!-- Hangouts -->
+    <app>com.google.android.apps.photos.home.HomeActivity</app><!-- Google Photos -->
+    <app>com.google.android.apps.books.app.BooksActivity</app><!-- Google Play Books -->
+    <app>com.google.apps.dots.android.app.activity.CurrentsStartActivity</app><!-- Google Play Newsstand -->
+    <app>com.google.android.gms.games.ui.destination.main.MainActivity</app><!-- Google Play Games -->
+    <app>com.google.android.googlequicksearchbox.VoiceSearchActivity</app><!-- Voice Search -->
+    <app>com.google.android.keep.activities.BrowseActivity</app><!-- Keep -->
+    <app>com.google.android.apps.wallpaper.picker.CategoryPickerActivity</app><!-- Wallpapers -->
+    <app>com.google.android.apps.handwriting.ime.WelcomeActivity</app><!-- Google Handwriting -->
+    <app>com.google.android.dialer.extensions.GoogleDialtactsActivity</app><!-- Google Dialer -->
+    <app>com.google.android.apps.messaging.ui.ConversationListActivity</app><!-- Messenger -->
+    <app>com.android.calculator2.Calculator</app><!-- Calculator -->
+    <app>com.android.calendar.AllInOneActivity</app><!-- Calendar -->
+    <app>com.android.contacts.activities.PeopleActivity</app><!-- People -->
+<!-- Page2 -->
+    <app>com.android.email.activity.Welcome</app><!-- Email -->
+    <app>com.android.camera.CameraLauncher</app><!-- Camera -->
+    <app>com.android.deskclock.DeskClock</app><!-- Clock -->
+    <app>com.android.documentsui.LauncherActivity</app><!-- Downloads -->
+    <app>com.fihtdc.filemanager.FileManager</app><!-- FileManager -->
+    <app>com.evenwell.fmradio.FMRadioActivity</app><!-- FMradio -->
+    <app>com.fihtdc.music.ui.activities.MainActivity</app><!-- Music -->
+    <app>com.android.settings.Settings</app><!-- Settings -->
+    <app>com.fihtdc.gallery.videoplayer.MovieListActivityLauncher</app><!-- Video Player -->
+    <app>com.fihtdc.weather.activity.WeatherDetailActivity</app><!-- Weather -->
+</menu_order>

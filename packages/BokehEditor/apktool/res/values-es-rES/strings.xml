@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh Editor</string>
+    <string name="image_not_null">La ruta de la imagen no puede ser nula</string>
+    <string name="no_bokeh_type">No hay tipo de bokeh</string>
+    <string name="no_mpo_file">No hay archivo MPO</string>
+    <string name="save">Guardar</string>
+    <string name="save_success">Guardada correctamente</string>
+</resources>

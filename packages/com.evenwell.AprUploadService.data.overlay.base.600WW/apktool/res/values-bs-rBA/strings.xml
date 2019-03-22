@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Izjava o privatnosti</string>
+    <string name="privacy_activity">Izjava o privatnosti</string>
+    <string name="go_label">Završi</string>
+    <string name="agree">Pristajem</string>
+    <string name="see_detail">Detalji</string>
+    <string name="next_btn_lebel">Sljedeće</string>
+    <string name="app_name">Dijagnoza sistema</string>
+    <string name="setting_page_name">Program korisničkog doživljaja</string>
+    <string name="send_diag_dialog_any_network">Kada je dostupna podatkovna veza</string>
+    <string name="send_diag_dialog_wifi">Kada je dostupna Wi-Fi veza</string>
+    <string name="send_diag_dialog_wlan">Kada je dostupna WLAN veza</string>
+    <string name="send_diag_dialog_title">Prenesi dijagnostički izvještaj</string>
+    <string name="diagnostics_setting">Dijagnostički izvještaj</string>
+    <string name="diagnostics_report">Dijagnostički izvještaj</string>
+    <string name="diagnostics_report_summary">Kada se pojave greške u softveru uređaja, slanje dijagnostičkog izvještaja može uzrokovati troškove prijenosa podataka, stoga se preporučuje da se prijavite za podatkovni paket kod operatera.</string>
+    <string name="network_options">Mrežne opcije</string>
+    <string name="send_diagnostics">Prenesi dijagnostički izvještaj</string>
+    <string name="diagnostics_description">Pomozite nam da poboljšamo proizvod i uslugu, te nam dopustite da prikupljamo dijagnostičke podatke o greškama ili padovima softvera. Kasnije možete promijeniti ovu opciju u postavkama.</string>
+    <string name="cancel_upload_confirm_msg">Napuštate naš program korisničkog doživljaja. Greške na softveru koje se pojavljuju na mobilnom telefonu neće biti zadržane i poslane, tako da to možda neće poboljšati vaš doživljaj korištenja mobilnog telefona!</string>
+</resources>

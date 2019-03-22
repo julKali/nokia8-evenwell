@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Le téléchargement du logiciel a échoué.</string>
+    <string name="prepare_to_reboot_force_summary">"Le logiciel installé doit redémarrer l'appareil pour pouvoir configurer les paramètres. Nous vous invitons à le redémarrer maintenant."</string>
+    <string name="update_ota_self">La mise à jour du logiciel est en cours.</string>
+    <string name="ab_update_fail">"Problème lié à l'installation."</string>
+    <string name="ab_update_wrong_status">Le moteur de mise à jour est actuellement occupé. Veuillez réessayer plus tard ou redémarrer le système.</string>
+    <string name="ab_update_installing">Mise à jour du système</string>
+    <string name="tag_engineer_mode">"Mode d'ingénierie"</string>
+    <string name="engineer_version_incorrect">"La version de l'appareil est incorrecte."</string>
+    <string name="msg_engineer_ota_restore">Appuyer pour restaurer la version officielle</string>
+    <string name="msg_engineer_ota_restore_warning">La version officielle sera ainsi restaurée. Souhaitez-vous continuer ?</string>
+    <string name="silent_mode_data_fee_warning">La mise à jour est disponible. Le téléchargement de mises à jour peut entraîner des frais supplémentaires. Vous pouvez télécharger les mises à jour via le Wi-Fi.</string>
+    <string name="msg_updating_system">Mise à jour du système...</string>
+    <string name="msg_tap_to_reboot">Appuyer pour redémarrer</string>
+    <string name="msg_pause_download">Interrompre le téléchargement</string>
+    <string name="notification_channel_name">Mise à jour du système</string>
+    <string name="notification_channel_alert_name">Notifications générales</string>
+</resources>

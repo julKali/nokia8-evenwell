@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Orientohu për në shtëpi</string>
+    <string name="abc_action_bar_up_description">Ngjitu lart</string>
+    <string name="abc_action_menu_overflow_description">Opsione të tjera</string>
+    <string name="abc_action_mode_done">U krye!</string>
+    <string name="abc_activity_chooser_view_see_all">Shikoji të gjitha</string>
+    <string name="abc_activitychooserview_choose_application">Zgjidh një aplikacion</string>
+    <string name="abc_capital_off">JOAKTIV</string>
+    <string name="abc_capital_on">AKTIV</string>
+    <string name="abc_search_hint">Kërko...</string>
+    <string name="abc_searchview_description_clear">Pastro pyetjen</string>
+    <string name="abc_searchview_description_query">Kërko pyetjen</string>
+    <string name="abc_searchview_description_search">Kërko</string>
+    <string name="abc_searchview_description_submit">Dërgo pyetjen</string>
+    <string name="abc_searchview_description_voice">Kërkim me zë</string>
+    <string name="abc_shareactionprovider_share_with">Shpërnda publikisht me</string>
+    <string name="abc_shareactionprovider_share_with_application">Ndaje me %s</string>
+    <string name="abc_toolbar_collapse_description">Shpalos</string>
+    <string name="accessibility_text">Mundësia e përdorimit</string>
+    <string name="choose_timezone">Zgjidh zonën orare</string>
+    <string name="datausage_dialog_negitive_btn">Anulo</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time_settings_title_setup_wizard">Vendos datën dhe orën</string>
+    <string name="date_picker_title">Data</string>
+    <string name="date_time_24hour">Përdor formatin 24-orësh</string>
+    <string name="date_time_auto">Datë &amp; orë automatike</string>
+    <string name="date_time_auto_summaryOff">Përdor orën e ofruar nga rrjeti</string>
+    <string name="date_time_auto_summaryOn">Përdor orën e ofruar nga rrjeti</string>
+    <string name="date_time_set_date">Vendos datën</string>
+    <string name="date_time_set_time">vendos orën</string>
+    <string name="date_time_set_timezone">Zgjidh zonën orare</string>
+    <string name="device_checking_message">Mirësevini</string>
+    <string name="emergency_dial_message">Telefonatë emergjence</string>
+    <string name="expand_button_title">Të përparuara</string>
+    <string name="google_account_add_account">Hyni me Google</string>
+    <string name="hmd_legal_message">"Kushtet e shërbimit 
+ 
+Data e hyrjes në fuqi 14 tetor 2016 
+ 
+1. Pranimi 
+Këto Kushte të shërbimit të HMD Global bashkë me Politikën e privatësisë dhe të gjitha kushtet dhe informacionet e tjera shtesë që mund të jepen brenda Shërbimit (së bashku Kushtet) rregullojnë përdorimin nga ana juaj të shërbimit, të sajtit, të përmbajtjes dhe të softuerit (së bashku \"Shërbimi\"). Duke u regjistruar ose duke përdorur Shërbimin ose çdo pjesë të tij, ju pranoni këto Kushte. 
+ 
+Kushtet përbëjnë një marrëveshje mes jush dhe HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finlandë, duke përfshirë degët dhe furnizuesit e saj, (së bashku “HMD Global”), ku përcaktohen të drejtat dhe përgjegjësitë tuaja dhe të HMD Global në lidhje me Shërbimin. 
+ 
+2. Përshtatshmëria për kushtet 
+Për të përdorur Shërbimin, ju duhet të jeni të paktën trembëdhjetë (13) vjeç. Nëse jeni nën moshën trembëdhjetë (13) vjeç, ose të paktën trembëdhjetë (13) vjeç por një i mitur në vendin ku jetoni, duhet që prindi ose kujdestari juaj ligjor të pranojë regjistrimin tuaj në emrin tuaj dhe të miratojë përdorimin e Shërbimit nga ana juaj. Çdo person që plotëson regjistrimin duhet të ketë kompetencë ligjore. 
+ 
+3. Regjistrimi dhe ndërprerja 
+Për të përdorur një Shërbim, mund të jetë e nevojshme që të regjistroheni dhe të krijoni një llogari të HMD me një emër përdoruesi dhe një fjalëkalim që mund të jetë objekt i kushteve të veçanta. Mund të jetë e nevojshme të na jepni informacione të caktuara personale dhe informacione të tjera. HMD Global mund të verifikojë adresën tuaj të emailit para se të mund të përdoret llogaria juaj e HMD. Në përdorimin e parë të pajisjes tuaj dhe sa herë që përditësoni softuerin e pajisjes Nokia, do të dërgohet një mesazh me tekst te HMD Global. Krijimi i një llogarie të HMD do të kërkojë transmetim të dhënash. Mund të zbatohen kosto për transmetimin e të dhënave. 
+ 
+Ju pranoni që të jepni informacione të vërteta dhe të plota kur regjistroheni për Shërbimin dhe që t'i përditësoni ato informacione. Ju duhet të tregoni kujdesin e duhur për mbrojtjen e emrit të përdoruesit dhe fjalëkalimit tuaj nga keqpërdorimi nga të tjerët si dhe të njoftoni menjëherë HMD Global për çdo keqpërdorim të tillë. Ju dhe prindi ose kujdestari juaj ligjor nëse jeni një i mitur, jeni personalisht përgjegjës për çdo përdorim të Shërbimit. 
+ 
+Ju mund ta ndërprisni regjistrimin tuaj nëse nuk dëshironi ta përdorni më Shërbimin. Pas ndërprerjes, nuk do të keni më qasje te Shërbimi. HMD Global mund ta ndërpresë ose ta kufizojë qasjen tuaj në pjesë të caktuara të Shërbimit nëse HMD Global beson në mënyrë të arsyeshme se keni shkelur Kushtet ose duke ju njoftuar paraprakisht nëse nuk keni hyrë te Shërbimi me emrin tuaj të përdoruesit në gjashtë (6) muajt e fundit. 
+ 
+Përveçse siç përcaktohet në Politikën e privatësisë, HMD Global nuk është përgjegjëse për asnjë heqje ose humbje të informacioneve ose përmbajtjeve që keni paraqitur te Shërbimi. Kur informacionet ose përmbajtjet hiqen nga Shërbimi nga ju ose nga HMD Global, gjurmët ose kopjet e tyre mund të mbeten përsëri në vende të tjera. 
+ 
+4. Licencat 
+HMD Global ju jep një licencë jo ekskluzive dhe jo të transferueshme, të revokueshme në çdo kohë sipas gjykimit të HMD Global, për të pasur qasje dhe për të përdorur Shërbimin rreptësisht në përputhje me Kushtet. Përdorimi i Shërbimit nuk ju jep asnjë të drejtë mbi pronësinë intelektuale në (ose për) asnjë informacion ose përmbajtje te Shërbimi. 
+ 
+Si pjesë e Shërbimit, HMD Global mund t'ju ofrojë përmbajtje të zhvilluara nga HMD Global ose licencuesit e saj (“Përmbajtja”). HMD Global ju jep një licencë jo ekskluzive dhe të përhershme për të përdorur Përmbajtjen për qëllimin e saj të planifikuar, përveçse kur përcaktohet ndryshe në Kushtet ose në porosinë përkatëse të blerjes. Disa Përmbajtje mund të jenë të disponueshme vetëm për banorët në zona të caktuara gjeografike. Çdo kufizim i vlefshëm për një Përmbajtje specifike që merrni nëpërmjet Shërbimit është i detyrueshëm për ju. Çdo licencë e marrë për një Përmbajtje të palëve të treta është një marrëveshje detyruese mes jush dhe ofruesit të Përmbajtjes së palës së tretë. Ju keni vetëm të drejtat për Përmbajtjen që janë dhënë shprehimisht këtu. 
+ 
+HMD Global mund t'ju ofrojë softuerë të caktuar të zhvilluar nga HMD Global ose licencuesit e saj (“Softueri”) si pjesë e Shërbimit. Përdorimi i Softuerit mund të jetë objekt i kushteve të përgjithshme të veçanta që duhet t'i pranoni para se të përdorni Softuerin. Nëse nuk ka kushte të përgjithshme të veçanta të vlefshme për një Softuer të tillë, zbatohen kushtet e mëposhtme: HMD Global ju jep një të drejtë të kufizuar, jo ekskluzive dhe jo të transferueshme për të instaluar dhe për të përdorur Softuerin në kompjuterin dhe/ose pajisjen tuaj celulare. Ju nuk mund ta kopjoni Softuerin, përveçse për të bërë një kopje rezervë të vetme arkivimi. Ju nuk mund ta shpërndani, të transferoni të drejtën e përdorimit, të modifikoni, të përktheni, të riprodhoni, të rishisni, të nënlicenconi, të merrni me qira, të jepni me qira, të deshifroni apo të përpiqeni në një mënyrë tjetër për të zbuluar kodin burimor apo të krijoni punë të prejardhura nga Softueri. Për softuerët e licencuar me burim të hapur, zbatohen kushtet përkatëse të licencës me burim të hapur. Përdorimi i Softuerit nga ana juaj tregon pranimin tuaj për çdo kusht përkatës të përgjithshëm. 
+ 
+Softueri mund të jetë objekt i kontrolleve për eksportin sipas Rregulloreve të administratës së eksportit në Shtetet e Bashkuara dhe rregulloreve të tjera për kontrollin e importit ose eksportit. Ju pranoni që të veproni rreptësisht në përputhje me të gjitha rregulloret përkatëse për importin dhe eksportin dhe pranoni se keni përgjegjësinë për të marrë licencat për eksportin, rieksportin, transferimin ose importin e një Softueri të tillë. 
+ 
+Ju mund të paraqitni informacione ose përmbajtje (“Materiali”) te Shërbimi. HMD Global nuk pretendon pronësinë për Materialin tuaj. Paraqitja e Materialit nga ana juaj nuk transferon pronësinë e të drejtave për Materialin te HMD Global. HMD Global transmeton vetëm Materialin dhe nuk është përgjegjëse për kontrollin editorial mbi të. Duke e paraqitur Materialin te Shërbimi, ju i jepni HMD Global një licencë mbarëbotërore, jo ekskluzive, të nënlicencueshme, të caktueshme, plotësisht të paguar, të çliruar nga e drejta e autorit, të përhershme dhe të parevokueshme për të përdorur, për të kopjuar, për të prezantuar publikisht, për të shfaqur, për ta shpërndarë në çdo media dhe për ta modifikuar Materialin për ta integruar Materialin në punë të tjera, si dhe për të dhënë nënlicenca të ngjashme në masën e nevojshme për HMD Global për të ofruar Shërbimin. Këtë pranim mund ta rregulloni në parametrat e privatësisë dhe parametrat e tjerë të Shërbimit. 
+ 
+Ju jeni plotësisht përgjegjës për marrjen e kopjeve rezervë të të dhënave që ruani te Shërbimi, duke përfshirë Përmbajtjen që ngarkoni. Nëse Shërbimi ndërpritet ose anulohet, HMD Global mund t'i fshijë përgjithmonë të dhënat tuaja. HMD Global nuk ka asnjë detyrim për t'ju kthyer të dhënat pas ndërprerjes ose anulimit të Shërbimit. 
+ 
+5. Përdorimi i Shërbimit 
+Ju pranoni që: 
+• Të veproni në përputhje me ligjet në fuqi, Kushtet dhe normat e duhura; 
+• Të përdorni Shërbimin vetëm për qëllime personale jo tregtare; 
+• Të mos paraqitni Materiale të jashtëligjshme, fyese, të pasakta, çorientuese, abuzive, pornografike, ngacmuese, shpifëse ose të papërshtatshme në ndonjë mënyrë tjetër; 
+• Të merrni çdo pëlqim, leje ose licencë që mund të kërkohet ligjërisht për paraqitjen e çdo Materiali nga ana juaj; 
+• Të respektoni privatësinë e të tjerëve; 
+• Të mos shpërndani ose të mos postoni postë të bezdisshme, skedarë jashtëzakonisht të mëdhenj, letra zinxhir, skema piramidale, viruse; 
+• Të mos përdorni teknologji të tjera ose të mos inicioni aktivitete të tjera që mund të dëmtojnë Shërbimin, ose interesin apo pronën e përdoruesve të Shërbimit; 
+• Të mos përdorni ndonjë sistem të automatizuar ose mënyra për të pasur qasje, për të marrë, për të kopjuar ose për të monitoruar ndonjë pjesë të Shërbimit; dhe 
+• Të pranoni përgjegjësinë për pasojat në lidhje me Materialin që postoni. 
+ 
+HMD Global mund të bëjë sa më poshtë, por nuk ka detyrimin për ta bërë këtë: 
+• Të monitorojë ose moderojë çdo Përmbajtje ose Material; 
+• Të heqë çdo Material nga Shërbimi; dhe 
+• Të kufizojë qasjen te çdo pjesë e Shërbimit në çdo kohë sipas gjykimit të saj. 
+ 
+6. Përmbajtja 
+Para se të shkarkoni ose të qaseni në çdo Përmbajtje, kontrolloni nëse Përmbajtja ku dëshironi të keni qasje është e kufizuar sipas moshës ose e shënuar si ndoshta fyese ose e papërshtatshme. 
+ 
+HMD Global nuk do të jetë përgjegjëse për asnjë pretendim ose shkelje të shkaktuar ose të pësuar nga ju nga qasja në një Përmbajtje të tillë. 
+ 
+Ju pranoni: 
+• Të përdorni Përmbajtjen vetëm për qëllime personale jo tregtare; 
+• Të përdorni Përmbajtjen në përputhje me kufizimet e përcaktuara në ligjet në fuqi, kushtet shtesë, udhëzimet dhe politikat ose në faqet e produktit që zbatohen për atë pjesë të veçantë të Përmbajtjes; 
+• Të mos bëni kopje, të mos jepni, të mos shisni, të mos rishisni, të mos merrni me qira, të mos jepni me qira, të mos ofroni, të mos transmetoni, të mos dërgoni, të mos shpërndani, të mos transferoni, të mos komunikoni publikisht, të mos riprodhoni, të mos modifikoni, të mos shfaqni, të mos prezantoni, të mos shfrytëzoni për qëllime tregtare ose të mos vini Përmbajtjen në dispozicion përveçse siç autorizohet ndryshe në Kushtet përkatëse dhe të këshilloni menjëherë HMD Global për një përdorim të tillë të paautorizuar; 
+• Të mos hiqni, të mos shmangni, të mos deshifroni, të mos dekriptoni ose të mos ndryshoni apo ndërhyni në një mënyrë tjetër në asnjë nga rregullat përkatës të përdorimit për shmangien e menaxhimit të të drejtave dixhitale ose për kopjimin e tipareve të mbrojtjes të lidhura me Përmbajtjen ose çdo teknologji tjetër të përdorur për të kontrolluar qasjen ose përdorimin e Përmbajtjes, ose të informacioneve të saj identifikuese; 
+• Të mos përdorni ndonjë sistem të automatizuar ose mënyra, përveçse ato të dhëna nga ne, për përzgjedhjen ose shkarkimin e Përmbajtjes; dhe 
+• Të mos jepni fjalëkalimin ose t'u lejoni në një mënyrë tjetër të tjerëve të kenë qasje te Përmbajtja. Kufizimet për kopjimin që zbatohen për median përkatëse zbatohen edhe për Përmbajtjen ku jeni qasur si pjesë e këtij Shërbimi. 
+ 
+Përmbajtja është në pronësi dhe/ose kontrollohet nga HMD Global dhe/ose licencuesit e saj përkatës dhe mbrohet nga ligjet për pronësinë intelektuale. Ofruesi i Përmbajtjes së palës së tretë është plotësisht përgjegjës për çdo Përmbajtje që ofron, çdo garanci në masën që garanci të tilla nuk janë refuzuar dhe për çdo pretendim që mund të keni në lidhje me Përmbajtjen ose përdorimin e Përmbajtjes nga ana juaj. Sidoqoftë, HMD Global mund të detyrojë zbatimin e kushteve të licencës së Përmbajtjes së palës së tretë për ju si një përfituese palë e tretë për ato kushte. Ofruesit e Përmbajtjes së palës së tretë janë përfitues si palë e tretë sipas këtyre Kushteve dhe mund të zbatohen dispozitat që lidhen drejtpërdrejt me Përmbajtjen ku ata kanë të drejta. HMD Global mund të veprojë si një agjente për ofruesin e Përmbajtjes së palës së tretë në kuadër të ofrimit të Përmbajtjes për ju. HMD Global nuk është palë në transaksionin mes jush dhe ofruesit të Përmbajtjes së palës së tretë për një Përmbajtje të tillë. 
+ 
+7. Pretendimet për shkelje të të drejtave të autorit 
+HMD Global respekton të drejtat për pronësinë intelektuale të palëve të treta. Nëse dëshironi të dërgoni një njoftim për shkelje të pronësisë intelektuale, duke përfshirë pretendimet për shkelje të të drejtave të autorit, përdorni procedurat tona për paraqitjen e Njoftimeve për shkeljet. TË GJITHA KËRKESAT QË NUK KANË LIDHJE ME KËTË PROCEDURË NUK DO TË MARRIN PËRGJIGJE. 
+ 
+HMD Global përdor proceset e përcaktuara në Titullin 17, Kodi i Shteteve të Bashkuara, Paragrafi 512, për t'iu përgjigjur njoftimeve për shkelje të së drejtës së autorit. Në rrethanat e duhura, HMD Global mund të çaktivizojë ose të ndërpresë po ashtu llogaritë e përdoruesve të shërbimeve të HMD Global që mund të kenë kryer shkelje të përsëritura. 
+ 
+8. Njoftimet 
+HMD Global mund të postojë njoftime brenda Shërbimit. HMD Global mund t'ju dërgojë po ashtu njoftime për produktet dhe shërbimet tek adresa e emailit ose numri i telefonit që na keni dhënë. Njoftime të tilla konsiderohet se i keni marrë maksimumi brenda shtatë (7) ditëve nga dërgimi ose postimi i tyre nga HMD Global. Vazhdimi i përdorimit të Shërbimit nga ana juaj nënkupton marrjen e të gjitha njoftimeve, pavarësisht nga mënyra e dërgimit. 
+ 
+9. Tarifat 
+Përdorimi i Shërbimit nga ana juaj mund të jetë ose mund të bëhet objekt i tarifave. 
+ 
+Për çdo tarifë të vendosur nga HMD Global do të njoftoheni në mënyrë të veçantë në lidhje me Shërbimin. 
+ 
+Përdorimi i Shërbimit mund të përfshijë transmetimin e të dhënave nëpërmjet rrjetit të ofruesit tuaj të shërbimit. Çmimet e listuara brenda Shërbimit nuk përfshijnë tarifat e mundshme për transmetimin e të dhënave, mesazhet me tekst, ofrimin e shërbimit zanor ose një shërbimi tjetër nga ofruesi i shërbimit tuaj të rrjetit. 
+ 
+HMD Global nuk mban asnjë përgjegjësi për pagesën e çdo tarife të ofruesve të shërbimit tuaj. 
+ 
+10. Kushtet për porosinë dhe pagesën 
+\"Porosi\" do të thotë përzgjedhja e Përmbajtjes së pagueshme dhe/ose abonimi te Përmbajtja e ofruar nga HMD Global dhe e disponueshme te Shërbimi dhe paraqitja e mënyrës së pagesës, si dhe paraqitja e porosisë duke zgjedhur \"bli\", \"në rregull\", \"Pranoj\" ose një konfirmim tjetër i ngjashëm i pranimit në rrjedhën e porosisë ose ofrimi i një treguesi tjetër të kushteve të pranimit që ju prezantohen në rrjedhën e porosisë. 
+ 
+Për të bërë një Porosi brenda Shërbimit, duhet të keni moshën e kompetencës ligjore ose të moshës madhore sipas legjislacionit në fuqi. Nëse nuk keni moshën e kompetencës ligjore ose moshën madhore, mund t'i bëni Porositë vetëm me pëlqimin paraprak të prindit ose të kujdestarit tuaj ligjor. 
+ 
+Ju pranoni se të gjitha Porositë do të jenë ligjërisht të vlefshme dhe detyruese. Të gjitha Porositë janë objekt i pranimit nga HMD Global. 
+ 
+Ju mund të paguani me kartë krediti ose debiti, me faturimin e ofruesit të shërbimit të rrjetit ose me mënyra të tjera të pagesës në rast se janë të disponueshme. 
+ 
+Karta juaj e kreditit ose e debitit duhet të ketë një adresë faturimi në shtetin ku ofrohet Përmbajtja nga Shërbimi. HMD Global do të tarifojë kartën tuaj të kreditit ose do të debitojë llogarinë tuaj bankare brenda një kohe të arsyeshme pasi të keni kryer Porosinë tuaj. Të gjitha pagesat me kartë krediti janë objekt i kontrolleve të vlefshmërisë dhe autorizimit nga lëshuesi i kartës. 
+ 
+Nëse zgjidhni faturimin e ofruesit të shërbimit të rrjetit, tarifat do të shfaqen në faturën e telefonit tuaj celular ose do të zbriten nga llogaria juaj me parapagim nëse është një llogari me parapagim. Disa ofrues të shërbimit të rrjetit mund ta kushtëzojnë përdorimin tuaj të Shërbimit sipas kushteve të përgjithshme shtesë, duke përfshirë vendosjen e kufijve mbi shumën e tarifave të mundshme me faturimin e ofruesit të shërbimit të rrjetit. Tarifat mbi kufijtë e ofruesit të shërbimit të rrjetit ose mbi gjendjen e llogarisë mund të refuzohen. 
+ 
+Ju pranoni që të paguani tarifat në lidhje me Porosinë tuaj, që të siguroheni se instrumenti i pagesës është i vlefshëm në kohën e Porosisë, që jeni mbajtësi i ligjshëm i instrumentit dhe që instrumenti përdoret brenda kufijve të tij të kreditit. 
+ 
+Përmbajtja që dërgohet është e licencuar për ju. Ju pranoni që ta përdorni një Përmbajtje të tillë vetëm siç lejohet në këto Kushte dhe në çdo kusht shtesë që mund t'ju prezantohet në rrjedhën e porosisë. 
+ 
+Shërbimi mund të ofrojë abonime. Ju e autorizoni Shërbimin që të vendosë një tarifë periodike gjatë periudhës së abonimit. Shërbimi mund të ofrojë po ashtu një periudhë prove. Nëse Porosia juaj përfshin një periudhë prove (e njohur edhe si provoje dhe blije), mund të tarifoheni kur të skadojë periudha e provës, përveçse nëse e anuloni në përputhje me kushtet e abonimit/provës. 
+ 
+Çmimet në Shërbim mund të ndryshojnë herë pas here. Çmimet përfshijnë taksat e zbatueshme në fuqi në kohën e transaksionit, përveçse nëse cilësohet ndryshe. Mund të ketë raste kur do të keni tarifa shtesë nga banka ose ofruesi juaj i kartës së kreditit në bazë të kurseve të këmbimit të monedhës që përdoren dhe/ose tarifave shtesë të vlerësuara. HMD Global nuk mban asnjë përgjegjësi për pagesën e tarifave ose detyrimeve të bankës ose të shërbimit të palëve të treta. 
+ 
+11. Anulimi dhe rimbursimet 
+Ju pranoni nisjen e dorëzimit elektronik të Përmbajtjes në të njëjtën kohë me vendosjen e Porosisë tuaj. Ju nuk do të jeni në gjendje ta anuloni Porosinë tuaj pasi ajo të jetë përpunuar. Natyra e Përmbajtjes është e tillë që ajo nuk mund të kthehet. 
+ 
+Në rast se pas Porosisë tuaj zbuloni dhe njoftoni menjëherë HMD Global brenda 48 orëve se (a) Përmbajtja që keni porositur ka gabime; (b) Përmbajtja që ju dorëzon HMD Global nuk përputhet me përshkrimin e Përmbajtjes që keni porositur nëpërmjet Shërbimit; ose (c) problemet teknike kanë vonuar ose parandaluar dorëzimin e Përmbajtjes tuaj ose janë shkaktuar shumë porosi aksidentale nga probleme të tilla teknike, kompensimi juaj i vetëm dhe ekskluziv në lidhje me një Përmbajtje të tillë do të jetë zëvendësimi i Përmbajtjes së tillë ose rimbursimi i çmimit të paguar për një Përmbajtje të tillë, siç përcaktohet ekskluzivisht nga HMD Global. 
+ 
+Në rast të kundërt, nuk ka rimbursime të disponueshme. Në rast se ndeshni një nga problemet e mësipërme, kontaktoni me Kujdesin për klientin të HMD Global. 
+ 
+Kini parasysh se Kujdesi për klientin i HMD Global mund të mos jenë në gjendje ta përpunojë kërkesën tuaj të mbështetjes për klientin nëse nuk mund të jepni ID-në e transaksionit që ju jepet nga HMD Global pas Porosisë tuaj nga Shërbimi. HMD Global mund t'i përpunojë rimbursimet për Përmbajtjen vetëm kur çmimi total është mbi kufirin monetar të përcaktuar në legjislacionin lokal në fuqi. 
+ 
+12. Reagimi për HMD Global 
+Duke paraqitur çdo ide, reagim dhe/ose propozim (\"Reagimi\") për HMD Global nëpërmjet Shërbimit ose mënyrave të tjera, ju vërtetoni dhe pranoni se: (1) HMD Global mund të ketë ide zhvillimi të ngjashme me Reagimin; (2) Reagimi juaj nuk përmban informacione konfidenciale ose ekskluzive të tuajat ose të një pale të tretë; (3) HMD Global nuk ka detyrimin për konfidencialitet në lidhje me Reagimin; (4) HMD Global mund të përdorë lirisht, të shpërndajë, të shfrytëzojë dhe të zhvillojë e të modifikojë më tej Reagimin tuaj për çdo qëllim; dhe (5) ju nuk keni të drejtë për asnjë kompensim të asnjë lloji nga HMD Global. 
+ 
+13. Aktivitetet sociale dhe bashkëndarja e vendndodhjes 
+Ju mund të përdorni tipare te Shërbimi për të bashkëndarë vendndodhjen tuaj, statusin, përmbajtjen, Materialet ose informacione personale ose për të ndërvepruar me përdorues, sajte dhe shërbime të tjera. Duke përdorur këto tipare, ju pranoni që HMD Global mund t'i përdorë dhe t'i ofrojë këto informacione për shërbime dhe persona të tjerë me të cilët zgjidhni të ndërveproni ose të bashkëndani këto informacione. Përdoruesit e këtyre shërbimeve dhe personat, si p.sh. kontaktet tuaja, mund të shikojnë vendndodhjen tuaj, statusin dhe/ose informacione personale. Duke përdorur këto tipare, ju pranoni që të mos bashkëndani informacione, Përmbajtje ose Materiale ose të lidheni me një shërbim ose sajt që: (a) përmban përmbajtje ose materiale të tjera që janë të jashtëligjshme ose të papërshtatshme; ose (b) shfrytëzon të drejtat e pronësisë intelektuale pa autorizim ose i nxit përdoruesit të përdorin piraterinë. Çdo ndërveprim nuk përfshin HMD Global dhe është vetëm mes jush dhe përdoruesit(ve) tjetër. 
+ 
+14. Disponueshmëria dhe kërkesat teknike 
+Disponueshmëria e Përmbajtjes dhe e Shërbimit mund të variojë dhe është objekt i gjykimit të HMD Global. HMD Global refuzon shprehimisht çdo deklarim ose garanci se një Përmbajtje ose një Shërbim i veçantë do të jetë i disponueshëm. Shërbimi mund të mos jetë i disponueshëm në të gjitha shtetet ose rajonet dhe mund të ofrohet vetëm në gjuhët e zgjedhura. Shërbimi, operacionet dhe disa tipare mund të varen po ashtu nga rrjeti, përputhshmëria e pajisjeve të përdorura dhe formateve të mbështetura të përmbajtjes. 
+ 
+Për të pasur qasje te Shërbimi, mund të jetë e nevojshme të shkarkoni një softuer specifik të zhvilluar nga HMD Global ose nga një palë e tretë. 
+ 
+HMD Global, sipas gjykimit të saj, mund të ndryshojë, të korrigjojë ose të mos e vazhdojë Shërbimin, pjesërisht ose plotësisht. Shërbimi mund të mos jetë i disponueshëm gjatë ndërprerjeve për mirëmbajtje dhe rasteve të tjera. Për të siguruar që keni softuerin dhe aplikacionet më të fundit të pajisjes, pajisja juaj mund të kontrollojë automatikisht për disponueshmërinë e përditësimeve të softuerit nga HMD Global. Nëse zbulohet ndonjë përditësim, do t'ju kërkohet të miratoni instalimin. Ju mund ta çaktivizoni kontrollin automatik për përditësime nëpërmjet parametrave në pajisjen tuaj. Ju mund ta instaloni po ashtu softuerin nëpërmjet kanaleve të disponueshme të përditësimit të softuerit. Nëse HMD Global e konsideron një përditësim të Softuerit si të rëndësishëm ose kritik, mund të mos jeni në gjendje të vazhdoni të përdorni versionin e mëparshëm të Softuerit. HMD Global mund të parandalojë përdorimin e versionit të mëparshëm të Softuerit ose të Shërbimit nga ana juaj deri sa të instaloni përditësimin. 
+ 
+HMD Global mund të çaktivizojë çdo Përmbajtje ose Softuer të përfshirë në llogarinë tuaj të Shërbimit për çdo arsye dhe të heqë çdo Përmbajtje ose Softuer dhe/ose të çaktivizojë kopjet e çdo aplikacioni në pajisjen tuaj për të mbrojtur Shërbimin, ofruesit e aplikacioneve, operatorët celularë në rrjetet e të cilëve qaseni te shërbimi ose çdo palë tjetër të prekur ose ndoshta të prekur. 
+ 
+Një shërbim i veçantë mund të jetë një version para publikimit, për shembull, një version beta, dhe ai mund të mos funksionojë ashtu siç funksionon versioni përfundimtar. HMD Global mund të ndryshojë në mënyrë të konsiderueshme çdo version të Shërbimit ose Softuerit ose mund të vendosë që të mos e publikojë një version përfundimtar. 
+ 
+15. Lidhjet me sajtet dhe përmbajtjet e palëve të treta 
+HMD Global mund të përfshijë qasjen te sajte dhe shërbime në internet ose klientë të ngarkuar paraprakisht që bëjnë të mundur që të ndërveproni me sajte dhe shërbime që zotërohen ose drejtohen nga palë të treta dhe që nuk janë pjesë e Shërbimit. Ju duhet të rishikoni dhe të pranoni kushtet e përgjithshme të këtyre sajteve ose shërbimeve para se t'i përdorni këto sajte ose shërbime. 
+ 
+HMD Global nuk ka kontroll mbi përmbajtjet, sajtet ose shërbimet e palëve të treta dhe nuk mban asnjë përgjegjësi për shërbimet e ofruara ose materialet e krijuara ose publikuara në këto sajte ose shërbime të palëve të treta. Një lidhje për te një sajt i një pale të tretë nuk nënkupton se HMD Global e mbështet sajtin ose produktet ose shërbimet e referuara në sajt. 
+ 
+Përveç kësaj, ju dhe përdoruesit e tjerë mund të krijoni përmbajtje dhe lidhje për te përmbajtjet brenda Shërbimit që nuk janë paraqitur në një mënyrë tjetër te Shërbimi. HMD Global nuk është përgjegjëse për këto lloje përmbajtjeje ose lidhjesh. 
+ 
+16. Reklamat 
+Shërbimi mund të përfshijë reklama. Reklamat mund t'i drejtohen përmbajtjes ose informacioneve të ruajtura te Shërbimi, pyetjet e bëra nëpërmjet Shërbimit ose informacioneve të tjera. 
+ 
+17. Të dhënat personale 
+Politika e privatësisë dhe çdo informacion tjetër i privatësisë që ju është vënë në dispozicion rregullojnë përdorimin e të dhënave tuaja personale. 
+ 
+18. Kufizimi i përgjegjësisë 
+Shërbimi ofrohet mbi një bazë SIÇ ËSHTË dhe SIÇ DISPONOHET. HMD Global nuk garanton se Shërbimi do të jetë pa ndërprerje, pa gabime ose pa viruse. Nuk jepet asnjë lloj garancie, e shprehur apo e nënkuptuar, duke përfshirë, por pa u kufizuar me, garancitë e të së drejtës, të mosshkeljes, të tregtueshmërisë ose të përshtatshmërisë për një qëllim të caktuar, në lidhje me disponueshmërinë, saktësinë, qëndrueshmërinë, informacionet ose përmbajtjen e Shërbimit. Ju pranoni dhe vërtetoni shprehimisht se rreziku i përdorimit të Shërbimit është përgjegjësi vetëm e juaja dhe se mund të ekspozoheni ndaj përmbajtjeve nga burime të ndryshme. 
+ 
+Përveçse për përgjegjësinë për vdekje ose lëndime personale të shkaktuara nga neglizhenca e plotë ose sjellja e gabuar e qëllimshme, HMD Global nuk do të jetë përgjegjëse në asnjë rast për asnjë dëmtim të tërthortë, aksidental, ndëshkues ose rrjedhimor që shkaktohet nga përdorimi ose pamundësia juaj për të përdorur Shërbimin. 
+ 
+19. Zhdëmtimi 
+Ju pranoni të mbroni dhe të zhdëmtoni HMD Global nga dhe për të gjitha pretendimet e palëve të treta dhe për të gjitha detyrimet, vlerësimet, humbjet, kostot ose dëmtimet që shkaktohen ose lindin nga (i) shkelja e Kushteve nga ana juaj, (ii) shkelja ose dhunimi i çdo të drejte të pronësisë intelektuale, të të drejtave të tjera ose të privatësisë së një pale të tretë, ose (iii) keqpërdorimi i Shërbimit nga një palë e tretë ku keqpërdorimi është bërë i mundur nga dështimi juaj për të marrë masa të arsyeshme për të mbrojtur emrin e përdoruesit dhe fjalëkalimin tuaj nga keqpërdorimi. 
+ 
+20. Të ndryshme 
+ 
+20.1 Juridiksioni 
+Kushtet drejtohen nga ligjet e Finlandës, pavarësisht nga konfliktet e tyre me dispozitat ligjore. 
+ 
+20.2 Vlefshmëria 
+Kushtet nuk përjashtojnë dhe as kufizojnë asnjë nga të drejtat tuaja të detyrueshme në shtetin tuaj të banimit që nuk mund të refuzohen sipas ligjit. Nëse një dispozitë e Kushteve rezulton se është e pavlefshme, kjo nuk do të ndikojë në dispozitat e mbetura dhe dispozita e pavlefshme do të zëvendësohet me një dispozitë të vlefshme që është më e afërt me rezultatin dhe qëllimin e Kushteve. Në rast se një ose më shumë dispozita të këtyre Kushteve nuk kanë lidhje me përdorimin e Shërbimit nga ana juaj, kjo nuk do të ndikojë në vlefshmërinë ose zbatueshmërinë e asnjë dispozite tjetër të Kushteve ose të Kushteve në tërësi. Nëse ka ndonjë konflikt mes këtyre Kushteve të shërbimit të HMD Global dhe Politikës së privatësisë, do të kenë përparësi dispozitat e këtyre Kushteve të shërbimit të HMD Global. Dispozitat e Kushteve që kanë si qëllim të vazhdojnë zbatimin pas ndërprerjes së regjistrimit tuaj, do të mbeten të vlefshme pas kësaj ndërprerjeje. 
+ 
+20.3 Ndryshimet në Kushtet 
+HMD Global mund t'i modifikojë Kushtet në çdo kohë pa njoftim paraprak. Nëse Kushtet ndryshohen në një mënyrë të konsiderueshme dhe me efekt të kundërt, HMD Global do të japë një njoftim të veçantë që ju këshillon për ndryshimin. 
+ 
+Ju jeni përgjegjës për rishikimin e rregullt të Kushteve. Vazhdimi i përdorimit të Shërbimit nga ana juaj nënkupton pëlqimin tuaj për çdo ndryshim dhe modifikim. 
+ 
+21. Pronësia intelektuale 
+Shërbimi, Përmbajtja dhe Softueri mbrohen nga ligjet ndërkombëtare të së drejtës së autorit. HMD Global pretendon të drejtën e autorit në Shërbimin, Përmbajtjen dhe Softuerin e saj në masën maksimale të ligjit. Sipas Kushteve, HMD Global ruan të gjitha të drejtat, titujt dhe interesat në Shërbimin, Përmbajtjen dhe Softuerin e saj dhe në të gjitha produktet, softuerët e tjerë të HMD Global dhe prona të tjera që ju ofrohen ose që përdoren nga ju nëpërmjet Shërbimit. 
+ 
+22. Transferimi 
+HMD Global mund t'i transferojë të drejtat dhe detyrimet e saj sipas këtyre Kushteve te kompania korporative mëmë, çdo degë e saj, ose te çdo kompani nën një kontroll të përbashkët me HMD Global. Përveç kësaj, HMD Global mund t'i transferojë të drejtat dhe detyrimet e saj sipas këtyre Kushteve te një palë e tretë në lidhje me një shkrirje, blerje, shitje të aseteve, sipas zbatimit të ligjit ose në një mënyrë tjetër."</string>
+    <string name="nevigation_selection_back">Kthehu</string>
+    <string name="nevigation_selection_home">Ekrani kryesor</string>
+    <string name="nevigation_selection_recent">Të fundit</string>
+    <string name="next_btn_lebel">Tjetra</string>
+    <string name="normal_date_format">Rajonale (%s)</string>
+    <string name="search_menu_title">Kërko</string>
+    <string name="skip_add_account_button_label">Jo tani</string>
+    <string name="skip_button_label">Tejkalo</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Pranoj</string>
+    <string name="term_disagree_text">Nuk pranoj</string>
+    <string name="time_picker_title">Ora</string>
+    <string name="v7_preference_off">JOAKTIV</string>
+    <string name="v7_preference_on">AKTIV</string>
+    <string name="welcome_message">Mirësevini</string>
+    <string name="wifi_picker_connection_negative">Lidhu</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_warning_negative">Tejkalo gjithsesi</string>
+    <string name="wifi_picker_warning_title">Paralajmërim</string>
+    <string name="zone_auto">Zona orare automatike</string>
+    <string name="zone_auto_summaryOff">Përdor zonën orare të ofruar nga rrjeti</string>
+    <string name="zone_auto_summaryOn">Përdor zonën orare të ofruar nga rrjeti</string>
+</resources>

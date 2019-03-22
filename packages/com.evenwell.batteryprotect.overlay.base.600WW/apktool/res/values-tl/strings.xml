@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Proteksyon ng baterya</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_warning_title">Mag-ingat</string>
+    <string name="fih_battery_protect_cooldown_title">Pagpapalamig</string>
+    <string name="fih_battery_protect_normalmode_title">Alert</string>
+    <string name="fih_battery_protect_warning_text">Mangyaring patayin ang mga tawag at application upang mapalamig ang telepono.</string>
+    <string name="fih_battery_protect_cooldown_text">Kasalukuyan ang telepono ay nasa Cool Down mode, mga emerhensiyang tawag lamang.</string>
+    <string name="fih_battery_protect_normalmode_text">Ang normal na operasyon ay nagpapatuloy.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Emerhensiyang tawag</string>
+    <string name="fih_battery_protect_maxtemp_title">Pinakamataas na Temperatura</string>
+    <string name="fih_battery_protect_maxtemp_text">Ang temperature ng telepono ay labis na mataas, ito ay isasara na ngayon.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Ang pagkakarga ay hihinto</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">Ihinto ang pagkakarga!</string>
+    <string name="fih_battery_protect_normalmode_warning_dec">Inalis na ang telepono sa Warning mode. Ang normal na operasyon ay nagpapatuloy.</string>
+    <string name="fih_battery_protect_normalmode_cooldone_dec">Inalis na ang telepono sa Cool Down mode. Ang normal na operasyon ay nagpapatuloy.</string>
+    <string name="fih_battery_protect_normalmode_max_dec">Inalis na ang telepono sa Maximum Temperature mode. Ang normal na operasyon ay nagpapatuloy.</string>
+    <string name="fih_battery_protect_low_temp_title">Alert</string>
+    <string name="fih_battery_protect_low_temp_text">Ang temperature ay labis na mababa, ihinto ang pagkakarga.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">Ang temperature ay wala sa saklaw.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Hindi matuklasan ang temperature ng baterya, gamitin ang tamang baterya at i-install.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Hindi matuklasan ang temperature ng baterya</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">Gamitin ang tamang baterya at i-install.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Sa kasalukuyan, hindi matuklasan ang temperatura ng baterya, at ang phone ay nasa Cool Down mode, pang-emerhensiyang tawag lamang, tiyakin na tama ang pagkakabit ng baterya.</string>
+    <string name="fih_battery_protect_aging_title">Battery Wizard</string>
+    <string name="fih_battery_protect_aging_text">Minamahal na InFocus customer, ang baterya ay nakokonsumo, kung mabilis nang maubos ang baterya ng phone, dalhin ang phone sa ahente upang suriin at panatilihin, upang matiyak na epektibong magagamit ang iyong phone kung mapananatili ito sa pinakamainam na kondisyon. Kung ikaw ay may katanungan, tumawag sa Customer Service Centre, telepono %1$s. Salamat po.</string>
+    <string name="fih_battery_protect_aging_nm_text">Tumawag sa Customer Service Centre, telepono%1$s Salamat po.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">Minamahal na InFocus Customer, dahil ipinapalagay na ang baterya ay isang bahaging nakokonsumo, kung napag-alamang mong bumaba nang sobra ang lakas ng baterya ng iyong telepono, mangyaring dalhin ang iyong telepono sa dealer upang siyasatin at kumpunihin upang masigurong patuloy na gumagana sa pinakamahusay na kondisyon nito ang iyong telepono. Kung mayroon kang anumang katanungan, mangyaring makipag-ugnay sa aming Customer Service Center. Salamat.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Mangyaring makipag-ugnay sa aming Customer Service Center, Salamat.</string>
+    <string name="fih_battery_protect_bl_warning_title">Alertong Hinaan Ang Liwanag</string>
+    <string name="fih_battery_protect_bl_warning_text">Ang temperatura ng phone ay mataas kaysa sa normal, hinaan ang liwanag para palamigin ang phone</string>
+    <string name="fih_battery_protect_full_charging">Kumpleto na ang Pagkarga</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Ikansela</string>
+    <string name="fih_battery_protect_power_off">Power off</string>
+    <string name="fih_battery_protect_high_full_charging">Naabot na ang maximum na limitasyon sa pag-charge dahil sa sobrang init! Kapag bumalik na sa normal ang temperatura ng telepono, patuloy na magcha-charge sa normal na bilis ang system.</string>
+    <string name="fih_battery_protect_low_full_charging">Naabot na ang maximum na limitasyon sa pag-charge dahil sa sobrang lamig! Kapag bumalik na sa normal ang temperatura ng telepono, patuloy na magcha-charge sa normal na bilis ang system.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Naabot ang limitasyon sa pag-charge sa init.</string>
+    <string name="fih_battery_protect_low_full_charging_title">Naabot ang limitasyon sa pag-charge sa lamig.</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Mga pangkalahatang notification</string>
+    <string name="fih_battery_protect_warning_title_wear">Mataas na Temp</string>
+    <string name="fih_battery_protect_cooldown_title_wear">Pagpapalamig</string>
+    <string name="fih_battery_protect_normalmode_title_wear">Normal na Temp</string>
+    <string name="fih_battery_protect_warning_text_wear">Mangyaring patayin ang mga tawag at application upang mapalamig ang device.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">Nagbibigay kami ng mga application sa pagbawas ng liwanag at sa pagsasara upang palamigin ang device sa pamamagitan ng pagpindot sa button.</string>
+    <string name="fih_battery_protect_cooldown_text_wear">Kasalukuyang nasa Cool Down mode ang telepono, tawag pang-emergency lamang.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">Nagpatuloy ang normal na operasyon.</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">Maximum na Temp</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">Masyadong mataas ang temperatura ng device, isasara na ngayon.</string>
+    <string name="fih_battery_protect_low_temp_title_wear">Mababang Temp</string>
+    <string name="fih_battery_protect_low_temp_text_wear">Masyadong mababa ang temperatura ng baterya, kaya ihinto ang pagkarga.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Kasalukuyang hindi kayang alamin ang temperatura ng baterya, at nasa Cool Down mode ang device, pang-emergency na tawag lamang, siguruhing na-install nang wasto ang baterya.</string>
+    <string name="fih_battery_protect_install_error_title_wear">Battery Wizard</string>
+    <string name="fih_battery_protect_aging_title_wear">Battery Wizard</string>
+    <string name="fih_battery_protect_aging_text_wear">Minamahal na InFocus Customer, dahil ipinapalagay na ang baterya ay isang nakokonsumong bahagi, kung napag-alaman mong bumaba nang sobra ang lakas ng baterya ng iyong device, mangyaring dalhin ang iyong device sa dealer upang siyasatin at kumpunihin at siguruhing patuloy na gagana sa pinakamahusay na kondisyon nito. Kung mayroon kang anumang katanungan, mangyaring makipag-ugnay sa aming Customer Service Center, sa telepono %1$s. Salamat po.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">Minamahal na InFocus Customer, dahil ipinapalagay na ang baterya ay isang nakokonsumong bahagi, kung napag-alaman mong bumaba nang sobra ang lakas ng baterya ng iyong device, mangyaring dalhin ang iyong device sa dealer upang siyasatin at kumpunihin at siguruhing patuloy na gagana sa pinakamahusay na kondisyon nito. Kung mayroon kang anumang katanungan, mangyaring makipag-ugnay sa aming Customer Service Center. Salamat.</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">Mataas na Temp</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">Ihinto ang Pagkarga</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">Error sa Pag-install ng Baterya</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">Hindi malaman ang temperatura.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">Tiyaking na-install nang maayos ang baterya.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">Masyadong mataas ang temperatura ng baterya, kaya ihinto ang pagkarga.</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">Battery Wizard</string>
+    <string name="fih_battery_protect_full_charging_wear">Kumpleto na ang Pagkarga</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Ikansela</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">Ang device ay nasa Cool Down mode ngayon. Mamaya na ito gamitin.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">Masyadong mataas ang temperatura ng orasan. Iminumungkahi naming padilimin ang screen at ihinto ang mga aplikasyon. Pakisuri para kumpirmahin ang mga aksyong ito.</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">Balik na sa normal na operasyon ang orasan.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">Naabot ng temperatura ng orasan ang limitasyon nito at magsasara ito kaagad.</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">Masyadong mababa ang temperatura ng baterya at hihinto ito sa pagcha-charge.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Mangyaring gumamit ng orihinal na baterya</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Inihinto ang pag-charge</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Pakigamit ang orihinal na baterya para mag-charge, kundi ay maaari kang magdulot ng permanente/pisikal na pagkasira sa iyong device.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Hindi tama ang baterya</string>
+    <string name="fih_battery_protect_notification_cooling_down">Nagpapalamig</string>
+    <string name="fih_battery_protect_tap_learn_more">Mag-tap para matuto pa.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Nagiging masyado nang mainit ang iyong telepono, kaya nagsasagawa ito ng mga hakbang upang magpalamig. Magagamit mo pa rin ito, ngunit maaaring mapansin mo ang mga sumusunod:
+·Maaaring mag-pause ang pagcha-charge.
+·Maaaring mag-off ang Wi-Fi.
+·Maaaring magsara ang mga application.
+·Maaaring mag-on ang airplane mode.
+Babalik sa normal ang iyong telepono kapag hindi na ito masyadong mainit."</string>
+</resources>

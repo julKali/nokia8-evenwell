@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD کی رازداری کی پالیسی</string>
+    <string name="privacy_activity">HMD کی رازداری کی پالیسی</string>
+    <string name="go_label">ہو گیا</string>
+    <string name="agree">متفق</string>
+    <string name="see_detail">تفصیل</string>
+    <string name="next_btn_lebel">واپس جائیں</string>
+    <string name="app_name">سسٹم کی تشخیصات</string>
+    <string name="setting_page_name">صارف تجربے کا پروگرام</string>
+    <string name="send_diag_dialog_any_network">جب ڈیٹا کنکشن دستیاب ہو</string>
+    <string name="send_diag_dialog_wifi">جب Wi-Fiکنکشن دستیاب ہو</string>
+    <string name="send_diag_dialog_wlan">جب WLAN کنکشن دستیاب ہو</string>
+    <string name="send_diag_dialog_title">تشخیصات بھیجیں</string>
+    <string name="diagnostics_setting">تشخیصات</string>
+    <string name="diagnostics_report">تشخیصات کی رپورٹ</string>
+    <string name="diagnostics_report_summary">جب آلے کے سافٹ وئیر میں نقص ہو تو تشخیصات کی رپورٹ بھیجیں۔ نیٹورک استعمال کے اخراجات لگ سکتے ہيں۔ کیرئیر سے ڈیٹا نیٹورک کے پیکٹ کے حصول کی تجویز دی جاتی ہے۔</string>
+    <string name="network_options">نیٹورک اختیارات</string>
+    <string name="send_diagnostics">تشخیصات بھیجیں</string>
+    <string name="diagnostics_description">آپ کے آلے میں سافٹ وئیر غلطی یا کریش کی صورت میں تشخیصی ڈیٹا جمع کرکے ہمیں اپنے مصنوعات اور خدمات کو بہتر بنانے کا موقع دیں۔ آپ بعد میں ترتیبات میں یہ اختیار تبدیل کرسکتے ہيں</string>
+    <string name="cancel_upload_confirm_msg">آپ ہمارے صارف کے تجربے کے پروگرام چھوڑنے والے ہیں. سافٹ ویئر نقص جو آپ کے موبائل فون پر ھوتے ہیں وہ برقرار اور اور بھیجے نہیں جائیں گے، تو اس لئے یہ آپ کے موبائل فون کے استعمال کے تجربے کو بہتر نہیں بنا سکتے ہیں!</string>
+</resources>

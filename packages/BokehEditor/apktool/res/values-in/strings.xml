@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Editor Bokeh</string>
+    <string name="cancel">Batal</string>
+    <string name="data_process_fail">Pemrosesan data gagal</string>
+    <string name="delete">Hapus</string>
+    <string name="image_not_null">Jalur gambar tidak boleh null</string>
+    <string name="no_bokeh_type">Tak ada tipe bokeh</string>
+    <string name="no_mpo_file">Tak ada berkas MPO</string>
+    <string name="save">Simpan</string>
+    <string name="save_success">Berhasil disimpan</string>
+    <string name="share">Bagikan</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_watermarks">Tanda air</string>
+    <string name="watermark_empty">Tidak ada tanda air</string>
+</resources>

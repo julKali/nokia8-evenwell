@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የ Bokeh አርታዒ</string>
+    <string name="image_not_null">የምስል ዱካ ኢምንት ሊሆን አይችልም</string>
+    <string name="no_bokeh_type">የብዥታ አይነት የለም</string>
+    <string name="no_mpo_file">MPO አይነት የለም</string>
+    <string name="save">አስቀምጥ</string>
+    <string name="save_success">በተሳካ ሁኔታ ተቀምጧል</string>
+</resources>

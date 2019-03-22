@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Ghairi</string>
+    <string name="fih_battery_protect_alert_dialog_ok">Sawa</string>
+    <string name="fih_battery_protect_cancel_wear">Ghairi</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Simu yako inapata joto, kwa hivyo inachukua hatua za kuituliza. Unaweza bado kuitumia, lakini unaweza kugundua:
+·Kuchaji kunaweza kusitishwa.
+·Huenda Wi-Fi ikazimwa.
+·Huenda programu zikafungwa.
+·Huenda hali ya ndege ikawashwa.
+Simu yako itarudi kuwa kawaida mara tu ikitulia."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Arifa za kawaida</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Tafadhali tumia betri halisi ili kuchaji, au unaweza kusababisha uharibifu wa kudumu/halisi kwenye kifaa chako.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Tafadhali tumia betri halisi</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Imeacha kuchaji</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Betri si halali</string>
+    <string name="fih_battery_protect_notification_cooling_down">Kutuliza</string>
+    <string name="fih_battery_protect_ok_wear">Sawa</string>
+    <string name="fih_battery_protect_tap_learn_more">Gusa ili kupata maelezo zaidi.</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Η λήψη του λογισμικού απέτυχε.</string>
+    <string name="msg_install_system_software_update_3">"
+
+Δεν θα μπορείτε να χρησιμοποιήσετε τη συσκευή σας κατά την αναβάθμιση.
+
+Η τυχόν διακοπή του ρεύματος ή η αφαίρεση του αρχείου που έχει ληφθεί κατά την αναβάθμιση του λογισμικού, θα προκαλέσει μη αναμενόμενα αποτελέσματα."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Δεν θα μπορείτε να χρησιμοποιήσετε τη συσκευή σας ή να κάνετε κλήσεις έκτακτης ανάγκης κατά την αναβάθμιση.
+
+Το αποτέλεσμα θα είναι μη αναμενόμενο εάν τυχόν διακοπεί το ρεύμα ή αφαιρεθεί το αρχείο που έχει ληφθεί κατά την αναβάθμιση του λογισμικού."</string>
+    <string name="msg_unable_to_connect_2">Για χρήση αυτής της εφαρμογής, χρειάζεστε σύνδεση δικτύου. Ενεργοποιήστε τη σύνδεση δικτύου κινητής τηλεφωνίας στις \"Ρυθμίσεις\".</string>
+    <string name="msg_unable_to_connect_wlan">Για χρήση της εφαρμογής, χρειάζεστε σύνδεση δικτύου. Ενεργοποιήστε τη σύνδεση δικτύου κινητής τηλεφωνίας ή WLAN στις \"Ρυθμίσεις\".</string>
+    <string name="msg_no_available_size_card_2">Αυτό το αρχείο ενημέρωσης χρειάζεται %s MB διαθέσιμου χώρου. Διαγράψτε κάποια αρχεία στον αποθηκευτικό χώρο.</string>
+    <string name="msg_remove_sd_card_2">Το αρχείο που λήφθηκε, δεν μπορεί να εγγραφεί στον αποθηκευτικό χώρο. Ελέγξτε τον αποθηκευτικό χώρο.</string>
+    <string name="msg_remove_sd_card_short_2">Απέτυχε η πρόσβαση στην αποθήκευση δεδομένων.</string>
+    <string name="menu_enabled">Μόνο ενεργοποιημένο λογισμικό</string>
+    <string name="using_internal_storage">Χρησιμοποιείται ο εσωτερικός αποθηκευτικός χώρος</string>
+    <string name="using_external_storage">Χρησιμοποιείται ο εξωτερικός αποθηκευτικός χώρος</string>
+    <string name="msg_root_message">"
+
+Η κανονική ενημέρωση δεν μπορεί να είναι εγγυημένη εάν γίνει ενεργοποίηση των δικαιωμάτων διαχειριστή στη συσκευή (root)."</string>
+    <string name="msg_responsibility_message">Εάν έχουν ενεργοποιηθεί τα δικαιώματα διαχειριστή στη συσκευή (root), ο χρήστης είναι υπεύθυνος για τυχόν αντικανονική συμπεριφορά του συστήματος μετά από ενημέρωση.</string>
+    <string name="install_fail">Αποτυχία εγκατάστασης</string>
+    <string name="install_all">Εγκατάσταση όλων</string>
+    <string name="installed_version">Εγκατεστημένη έκδοση</string>
+    <string name="update_available">Η ενημέρωση είναι διαθέσιμη.</string>
+    <string name="apk_update_available">Η ενημέρωση της εφαρμογής είναι διαθέσιμη.</string>
+    <string name="recommend">Συνιστάται</string>
+    <string name="roaming_restriction">Περιορισμός περιαγωγής δεδομένων</string>
+    <string name="roaming_restriction_summary">Δεν είναι δυνατή η ενημέρωση λόγω περιορισμού περιαγωγής δεδομένων.</string>
+    <string name="changelog">Αλλαγή αρχείου καταγραφής</string>
+    <string name="apk_update_available_summary">%s διαθέτει διαθέσιμη μια ενημέρωση. Κάντε κλικ στην επιλογή OK για να κάνετε εγκατάσταση τώρα ή κάντε κλικ στο Άκυρο για να ελέγξετε για ενημερώσεις μια ημέρα αργότερα.</string>
+    <string name="apk_removed">Αυτή η εφαρμογή έχει αφαιρεθεί.</string>
+    <string name="apk_available_items">Συνολικά %s διαθέσιμα στοιχεία</string>
+    <string name="apk_available_item">Συνολικά %s διαθέσιμο στοιχείο</string>
+    <string name="invalid_update_summary">Η ενημέρωση είναι μη έγκυρη, ελέγξτε ξανά.</string>
+    <string name="recheck">Ελέγξτε ξανά</string>
+    <string name="image_download_exception_summary">Δεν είναι δυνατή η πρόσβαση στο διακομιστή, ελέγξτε ξανά αργότερα.</string>
+    <string name="apk_download_exception">Δεν είναι δυνατή η πρόσβαση στον διακομιστή</string>
+    <string name="installation_confirmation">Επιβεβαίωση εγκατάστασης</string>
+    <string name="apk_need_reboot_summary">Αυτή η ενημέρωση λογισμικού θα επιφέρει αυτόματα την επανεκκίνηση του συστήματος μετά το τέλος της εγκατάστασης. Να γίνει εγκατάσταση τώρα;</string>
+    <string name="prepare_to_reboot">Προετοιμαστείτε για επανεκκίνηση</string>
+    <string name="prepare_to_reboot_summary">Το εγκατεστημένο λογισμικό πρέπει να επανεκκινήσει τη συσκευή για να γίνει διαμόρφωση των ρυθμίσεων. Συνιστούμε να γίνει επανεκκίνηση τώρα αλλά μπορείτε να επανεκκινήσετε και αργότερα τη συσκευή.</string>
+    <string name="prepare_to_reboot_force_summary">Το εγκατεστημένο λογισμικό πρέπει να επανεκκινήσει τη συσκευή για να γίνει διαμόρφωση των ρυθμίσεων. Συνιστούμε να γίνει επανεκκίνηση τώρα.</string>
+    <string name="reboot_fail">Η επανεκκίνηση απέτυχε</string>
+    <string name="reboot_fail_summary">Δεν είναι δυνατή η επανεκκίνηση επειδή απουσιάζει API. Κάντε επανεκκίνηση με μη αυτόματο τρόπο.</string>
+    <string name="apk_no_avaliable_size">Δεν είναι δυνατή η λήψη λόγω ανεπαρκούς χωρητικότητας του εσωτερικού αποθηκευτικού χώρου.</string>
+    <string name="update_finished">Η ενημέρωση ολοκληρώθηκε</string>
+    <string name="msg_root_warning">Στη συσκευή σας έχουν ενεργοποιηθεί τα δικαιώματα διαχειριστή (root) ή έχει γίνει παραποίηση του επίσημου λογισμικού του. Η συνέχιση της ενημέρωσης συστήματος μπορεί να προκαλέσει αστάθεια στο σύστημα ή την κατάρρευσή του και ενδέχεται να επιφέρει την ακύρωση της εγγύησης της συσκευής σας. Είστε σίγουροι ότι θέλετε να συνεχίσετε;</string>
+    <string name="multi_image_update">Υπάρχουν διαθέσιμες κάποιες ενημερώσεις εικόνων</string>
+    <string name="available_update_list">Λίστα διαθέσιμων ενημερώσεων</string>
+    <string name="downloading_summary">Ακυρώστε τη λήψη της εικόνας</string>
+    <string name="msg_erase_userdata_warning">Αυτή η ενημέρωση απαιτεί τη διαγραφή των δεδομένων χρήστη. Θέλετε να συνεχίσετε;</string>
+    <string name="msg_autoupdate_date_fee_warning">Η ενεργοποίηση της αυτόματης ενημέρωσης ενδέχεται να επιφέρει πρόσθετες χρεώσεις.</string>
+    <string name="invalid_update">Η ενημέρωση δεν είναι έγκυρη.</string>
+    <string name="file_corrupted">Το σύστημα δεν μπορεί να αναβαθμιστεί επειδή το αρχείο είναι κατεστραμμένο.</string>
+    <string name="ask_for_apk_check">Θέλετε να ελέγξετε για ενημερώσεις στη συσκευή;</string>
+    <string name="update_ota_self">Ενημέρωση λογισμικού σε εξέλιξη.</string>
+    <string name="ab_update_fail">Πρόβλημα εγκατάστασης.</string>
+    <string name="ab_update_wrong_status">Η μηχανή ενημέρωσης είναι απασχολημένη τώρα. Δοκιμάστε ξανά αργότερα ή κάντε επανεκκίνηση.</string>
+    <string name="ab_update_installing">Ενημέρωση συστήματος</string>
+    <string name="tag_engineer_mode">Λειτουργία μηχανικού</string>
+    <string name="engineer_version_incorrect">Η έκδοση της συσκευής σας είναι εσφαλμένη</string>
+    <string name="msg_engineer_ota_restore">Πατήστε για να επαναφέρετε την επίσημη έκδοση</string>
+    <string name="msg_engineer_ota_restore_warning">Με τον τρόπο αυτό θα αποκατασταθεί η επίσημη έκδοση. Θέλετε να συνεχίσετε;</string>
+    <string name="silent_mode_data_fee_warning">Η ενημέρωση είναι διαθέσιμη. Η λήψη ενημερώσεων ενδέχεται να επιφέρει πρόσθετες χρεώσεις. Είναι δυνατή η λήψη ενημερώσεων μέσω Wi-Fi.</string>
+    <string name="msg_updating_system">Ενημέρωση συστήματος...</string>
+    <string name="msg_tap_to_reboot">Πατήστε για επανεκκίνηση</string>
+    <string name="msg_pause_download">Παύση λήψης</string>
+    <string name="notification_channel_name">Ενημέρωση συστήματος</string>
+    <string name="notification_channel_alert_name">Γενικές ειδοποιήσεις</string>
+</resources>

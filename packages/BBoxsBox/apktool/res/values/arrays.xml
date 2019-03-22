@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="interval">
+        <item>10 Seconds</item>
+        <item>10 Minutes</item>
+        <item>1 Hour</item>
+        <item>6 Hours</item>
+        <item>18 Hours</item>
+        <item>1 Day</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="interval_value">
+        <item>10000</item>
+        <item>600000</item>
+        <item>3600000</item>
+        <item>21600000</item>
+        <item>64800000</item>
+        <item>86400000</item>
+        <item>0</item>
+    </string-array>
+</resources>

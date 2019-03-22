@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">განაცხადი კონფიდენციალურობის შესახებ</string>
+    <string name="privacy_activity">განაცხადი კონფიდენციალურობის შესახებ</string>
+    <string name="go_label">შეყვანა</string>
+    <string name="agree">თანახმა ვარ</string>
+    <string name="next_btn_lebel">შემდეგი</string>
+    <string name="app_name">სისტემის დიაგნოსტიკა</string>
+    <string name="setting_page_name">სამომხმარებლო პროგრამა</string>
+    <string name="send_diag_dialog_any_network">მობილური ინტერნეტ-კავშირის არსებობის შემთხვევაში</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi-ის არსებობის შემთხვევაში</string>
+    <string name="send_diag_dialog_wlan">WLAN-ის არსებობის შემთხვევაში</string>
+    <string name="send_diag_dialog_title">დიაგნოსტიკის გაგზავნა</string>
+    <string name="diagnostics_setting">დიაგნოსტიკა</string>
+    <string name="diagnostics_report">დიაგნოსტიკის ანგარიში</string>
+    <string name="diagnostics_report_summary">დიაგნოსტიკის ანგარიშის გაგზავნა, როდესაც მოწყობილობა განიცდის პროგრამულ შეცდომას. შესაძლოა, მოქმედებდეს ქსელთან დაკავშირების ტარიფები. რეკომენდებულია სერვისის პროვაიდერთან მობილური ინტერნეტის შეძენა.</string>
+    <string name="network_options">ქსელის პარამეტრები</string>
+    <string name="send_diagnostics">დიაგნოსტიკის გაგზავნა</string>
+    <string name="cancel_upload_confirm_msg">თქვენ აპირებთ სამომხმარებლო პროგრამიდან გასვლას. თქვენს ტელეფონში მომხდარი პროგრამული შეცდომები არ იქნება შენახული ან გაგზავნილი და ამდენად, ჩვენ ვერ შევძლებთ ამ ტელეფონის საშუალებით თქვენი გამოცდილების გაუმჯობესებას.</string>
+</resources>

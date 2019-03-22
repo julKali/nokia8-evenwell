@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Diagnostics</string>
+    <string name="setting_page_name">Program Pengalaman Pengguna</string>
+    <string name="send_diag_dialog_any_network">Bila tersedia sambungan data</string>
+    <string name="send_diag_dialog_wifi">Bila tersedia sambungan Wi-Fi</string>
+    <string name="send_diag_dialog_wlan">Bila tersedia sambungan WLAN</string>
+    <string name="send_diag_dialog_title">Kirim diagnostik</string>
+    <string name="diagnostics_setting">Diagnostik</string>
+    <string name="diagnostics_report">Laporan diagnostik</string>
+    <string name="diagnostics_report_summary">Kirim laporan diagnostik bila perangkat mengalami kesalahan perangkat lunak</string>
+    <string name="network_options">Pilihan Jaringan</string>
+    <string name="send_diagnostics">Kirim diagnostik</string>
+    <string name="privacy_statement">Pernyataan privasi</string>
+    <string name="diagnostics_description">Bantu kami meningkatkan produk dan layanan dengan membolehkan pengumpulan data diagnostik bila perangkat mengalami kesalahan atau kerusakan perangkat lunak. Anda dapat mengubah pilihan di lain waktu dalam Pengaturan.</string>
+    <string name="privacy_activity">Pernyataan privasi</string>
+    <string name="go_label">Selesai</string>
+    <string name="diagnostics_confirmation">Ya, saya setuju untuk mengirim data diagnostik secara otomatis.</string>
+    <string name="setcomplete">Konfigurasi Selesai</string>
+    <string name="agree_dialog">Kami telah mengubah Program Pengalaman Pengguna dan Pernyataan Privasi terkait. Bantu kami meningkatkan produk dan layanan dengan mengikuti Program Pengalaman Pengguna sekarang. Anda dapat mengubah pilihan dalam Pengaturan.</string>
+    <string name="agree">Setuju</string>
+    <string name="see_detail">Rincian</string>
+    <string name="next_btn_lebel">Berikutnya</string>
+</resources>

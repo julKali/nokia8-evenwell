@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.evenwell.providers.weather">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application android:icon="@drawable/fih_widget_weather_ico" android:label="@string/app_label" android:process="android.process.acore">
+        <provider android:authorities="com.evenwell.providers.weather" android:exported="true" android:name="com.evenwell.providers.weather.WeatherInfoProvider"/>
+        <provider android:authorities="com.evenwell.providers.accu" android:exported="true" android:name="com.evenwell.providers.weather.AccuDatabaseProvider"/>
+        <receiver android:exported="true" android:name="com.evenwell.providers.weather.WeatherProviderIntentReceiver" android:permission="com.evenwell.providers.weather">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+                <action android:name="evenwell.intent.action.UPDATE_CITY_NAME_TRANSLATIONS"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

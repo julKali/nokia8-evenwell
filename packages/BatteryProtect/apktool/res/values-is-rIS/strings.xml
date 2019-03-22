@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Rafhlöðuvörn</string>
+    <string name="fih_battery_protect_aging_nm_text">Hafðu samband við þjónustuverið í síma %1$s.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Hafðu samband við þjónustuverið.</string>
+    <string name="fih_battery_protect_aging_text">Kæri viðskiptavinur InFocus. Farsímarafhlaða telst rekstrarvara. Ef rafhlöðuending símans hefur minnkað til muna skaltu fara með hann til söluaðilans til greiningar og viðgerðar. Þannig tryggirðu að síminn virki sem best. Ef einhverjar spurningar vakna skaltu hafa samband við þjónustuverið í síma %1$s. Takk fyrir.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">Kæri viðskiptavinur InFocus. Farsímarafhlaða telst rekstrarvara. Ef rafhlöðuending símans hefur minnkað til muna skaltu fara með hann til söluaðilans til greiningar og viðgerðar. Þannig tryggirðu að síminn virki sem best. Ef einhverjar spurningar vakna skaltu hafa samband við þjónustuverið. Takk fyrir.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">Kæri viðskiptavinur InFocus. Rafhlaða snjalltækis telst rekstrarvara. Ef rafhlöðuending tækisins hefur minnkað til muna skaltu fara með það til söluaðilans til greiningar og viðgerðar. Þannig tryggirðu að tækið virki sem best. Ef einhverjar spurningar vakna skaltu hafa samband við þjónustuverið. Takk fyrir.</string>
+    <string name="fih_battery_protect_aging_text_wear">Kæri viðskiptavinur InFocus. Rafhlaða snjalltækis telst rekstrarvara. Ef rafhlöðuending tækisins hefur minnkað til muna skaltu fara með það til söluaðilans til greiningar og viðgerðar. Þannig tryggirðu að tækið virki sem best. Ef einhverjar spurningar vakna skaltu hafa samband við þjónustuverið í síma %1$s. Takk fyrir.</string>
+    <string name="fih_battery_protect_aging_title">Rafhlöðuleiðsögn</string>
+    <string name="fih_battery_protect_aging_title_wear">Rafhlöðuleiðsögn</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Hætta við</string>
+    <string name="fih_battery_protect_alert_dialog_ok">Ókei</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">Gættu þess að rafhlaðan sé rétt sett í. Annars hleðst hún ekki.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">Gættu þess að rafhlaðan sé rétt sett í.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Ekki er hægt að mæla hitastig rafhlöðunnar. Gættu þess að rafhlaðan sé rétt sett í. Annars hleðst hún ekki.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Ekki er hægt að mæla hitastig rafhlöðunnar.</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">Hættu hleðslu!</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">Hitastigið er utan marka.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Hleðslu hætt</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">Rafhlöðuleiðsögn</string>
+    <string name="fih_battery_protect_bl_warning_text">Hitastig símans er hærra en eðlilegt telst. Minnkaðu birtustigið til að kæla símann.</string>
+    <string name="fih_battery_protect_bl_warning_title">Viðvörun um að minnka birtustig</string>
+    <string name="fih_battery_protect_cancel_wear">Hætta við</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Neyðarsímtal</string>
+    <string name="fih_battery_protect_cooldown_text">Síminn er að kólna. Aðeins er hægt að hringja neyðarsímtöl.</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">Síminn er að kólna í augnablikinu. Notaðu hann síðar.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Síminn er farinn að hitna, svo verið er að kæla hann niður. Þú getur ennþá notað hann en þú gætir lent í því að:
+Hleðsla stöðvist.
+Slökkt verði á Wi-Fi.
+Forritum verði lokað.
+Kveikt verði á flugstillingu.
+Síminn fer aftur í eðlilegt ástand þegar hann hefur kólnað."</string>
+    <string name="fih_battery_protect_cooldown_text_wear">Tækið er að kólna. Aðeins er hægt að hringja neyðarsímtöl.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Ekki er hægt að mæla hitastig rafhlöðunnar og síminn er að kólna. Aðeins er hægt að hringja neyðarsímtöl. Gættu þess að rafhlaðan sé rétt sett í.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Ekki er hægt að mæla hitastig rafhlöðunnar og tækið er að kólna. Aðeins er hægt að hringja neyðarsímtöl. Gættu þess að rafhlaðan sé rétt sett í.</string>
+    <string name="fih_battery_protect_cooldown_title">Kólnar</string>
+    <string name="fih_battery_protect_cooldown_title_wear">Kólnar</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Almennar tilkynningar</string>
+    <string name="fih_battery_protect_full_charging">Hleðslu lokið</string>
+    <string name="fih_battery_protect_full_charging_wear">Hleðslu lokið</string>
+    <string name="fih_battery_protect_high_full_charging">Hámarkshleðslu hefur verið náð við hátt hitastig! Kerfið heldur áfram að hlaðast á venjulegum hraða þegar síminn nær aftur eðlilegu hitastigi.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Hámarkshitastigi við hleðslu náð</string>
+    <string name="fih_battery_protect_high_temp_text_wear">Rafhlaðan er of heit. Hættu hleðslu.</string>
+    <string name="fih_battery_protect_install_error_title_wear">Rafhlöðuleiðsögn</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Notaðu upprunalega rafhlöðu til að hlaða, því að annars geturðu varanlegum skemmdum á tækinu.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Notaðu upprunalega rafhlöðu</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Hleðsla stöðvuð</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Rafhlaðan er ógild</string>
+    <string name="fih_battery_protect_low_full_charging">Hámarkshleðslu hefur verið náð við lágt hitastig! Kerfið heldur áfram að hlaðast á venjulegum hraða þegar síminn nær aftur eðlilegu hitastigi.</string>
+    <string name="fih_battery_protect_low_full_charging_title">Lágmarkshitastigi við hleðslu náð</string>
+    <string name="fih_battery_protect_low_temp_text">Hitastigið er of lágt. Hættu hleðslu.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">Rafhlaðan er of köld. Hættu hleðslu.</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">Rafhlaðan er mjög köld og hleðslu verður hætt.</string>
+    <string name="fih_battery_protect_low_temp_title">Viðvörun</string>
+    <string name="fih_battery_protect_low_temp_title_wear">Lágt hitastig</string>
+    <string name="fih_battery_protect_maxtemp_text">Síminn er of heitur. Slökkt verður á honum núna.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">Tækið er of heitt. Slökkt verður á því núna.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">Úrið er orðið of heitt og slökkt verður á því strax.</string>
+    <string name="fih_battery_protect_maxtemp_title">Hámarkshiti</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">Hámarkshiti</string>
+    <string name="fih_battery_protect_normalmode_cooldone_dec">Síminn er ekki lengur að kólna. Eðlilegri virkni hefur verið komið á.</string>
+    <string name="fih_battery_protect_normalmode_max_dec">Síminn er ekki lengur of heitur. Eðlilegri virkni hefur verið komið á.</string>
+    <string name="fih_battery_protect_normalmode_text">Eðlilegri virkni hefur verið komið á.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">Eðlilegri virkni hefur verið komið á.</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">Eðlilegri virkni úrsins hefur verið komið á aftur.</string>
+    <string name="fih_battery_protect_normalmode_title">Eðlilegt hitastig</string>
+    <string name="fih_battery_protect_normalmode_title_wear">Eðlilegt hitastig</string>
+    <string name="fih_battery_protect_normalmode_warning_dec">Síminn er ekki lengur í viðvörunarstillingu. Eðlilegri virkni hefur verið komið á.</string>
+    <string name="fih_battery_protect_notification_cooling_down">Kælir</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">Mikill hiti</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">Rafhlöðuvilla</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">Hættu hleðslu</string>
+    <string name="fih_battery_protect_ok_wear">Ókei</string>
+    <string name="fih_battery_protect_power_off">Slökkva</string>
+    <string name="fih_battery_protect_tap_learn_more">Pikkaðu til að fá frekari upplýsingar.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">Hitastigið er utan marka.</string>
+    <string name="fih_battery_protect_warning_text">Slíttu símtölum og lokaðu forritum til að kæla símann niður.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">Þú getur ýtt á hnappinn til að minnka birtustigið og loka forritum í því skyni að kæla tækið niður.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">Úrið er of heitt. Við mælum með að minnka birtustig skjásins og loka forritum. Staðfestu þessar aðgerðir.</string>
+    <string name="fih_battery_protect_warning_text_wear">Slíttu símtölum og lokaðu forritum til að kæla tækið niður.</string>
+    <string name="fih_battery_protect_warning_title">Hitaviðvörun</string>
+    <string name="fih_battery_protect_warning_title_wear">Mikill hiti</string>
+</resources>

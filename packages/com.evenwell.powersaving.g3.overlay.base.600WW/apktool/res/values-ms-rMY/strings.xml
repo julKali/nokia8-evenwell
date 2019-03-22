@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_notice_dialog_title">Notis</string>
+    <string name="fih_power_saving_remember_choice">Jangan tunjuk lagi.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Batal</string>
+    <string name="fih_power_saving_screen_title">Skrin</string>
+    <string name="fih_power_saving_data_title">Sambungan data:</string>
+    <string name="fih_power_saving_data_time_always">Sepanjang hari</string>
+    <string name="fih_power_saving_lpm_restrict_background_data">Hadkan data latar belakang</string>
+    <string name="fih_power_saving_lpm_timeout_bright_sysdefined">Simpan</string>
+    <string name="fih_power_saving_lpm_power_saving_minute">minit</string>
+    <string name="fih_power_saving_lpm_power_saving_second">saat</string>
+    <string name="fih_power_saving_lpm_power_saving_minutes">minit</string>
+    <string name="fih_power_saving_lpm_power_saving_seconds">saat</string>
+    <string name="switch_on_text">Hidupkan</string>
+    <string name="switch_off_text">Mati</string>
+    <string name="app_about">Perihal</string>
+    <string name="version">Versi</string>
+    <string name="feedback">Hantar maklum balas</string>
+    <string name="fih_power_saving_permission_settings">Tetapan</string>
+    <string name="fih_power_saving_permission_cancel">Batal</string>
+    <string name="blacklist">Senarai hitam</string>
+    <string name="lock_screen_ap_protect_title">Pengurus aktiviti latar belakang</string>
+    <string name="all_aps">Tambahkan semua Aplikasi kepada senarai putih</string>
+    <string name="fih_power_saving_doze_high_consumption">Penggunaan kuasa yang tinggi</string>
+    <string name="fih_power_saving_background_activity_text">Bolehkan pengurus aktiviti Latar Belakang untuk melanjutkan hayat bateri tetapi pemberitahuan sesetengah Aplikasi atau E-mel mungkin tidak boleh didapatkan semula dengan serta merta. Anda boleh mengurus hayat bateri dengan menambah atau mengalih keluar Aplikasi kepada atau daripada senarai putih.</string>
+    <string name="fih_power_saving_background_cleaner">Pembersih aktiviti latar belakang</string>
+    <string name="fih_power_saving_background_cleaner_summary">Pemberitahuan tidak boleh diambil dengan segera</string>
+    <string name="app_block_list">Senarai APLIKASI terhad</string>
+</resources>

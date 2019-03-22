@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_text">Accessibility</string>
+    <string name="datausage_dialog_negitive_btn">Cancel</string>
+    <string name="emergency_dial_message">Emergency call</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="insert_sim_cards">Insert SIM cards</string>
+    <string name="insert_sim_cards_prompt_content">"Not sure how? Check the instructions that came with your phone.
+
+Once you insert your SIM cards, they may take a few seconds to activate."</string>
+    <string name="language_selection_cancel_btn">CANCEL</string>
+    <string name="light_room_description">%1$s supports capture of RAW (DNG) images. You can edit directly on your new smartphone thanks to our partnership with Adobe.&lt;br/>&lt;br/>Download Adobe Photoshop Lightroom CC from the Google Play store now.</string>
+    <string name="light_room_title">Passionate about photography?</string>
+    <string name="next_btn_lebel">NEXT</string>
+    <string name="not_now">NOT NOW…;</string>
+    <string name="search_menu_title">Search</string>
+    <string name="setup_complete_hmd_1">You are nearly ready to go...</string>
+    <string name="setup_finish">"LET'S GO"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="upload_agent_hmd_des_text_3">"By tapping \"LET'S GO\", you agree to join the User Experience Program. &lt;a href='launch.UserExperienceActivity://Kode'>Learn more&lt;/a>. Remember, you can always join later via Settings."</string>
+    <string name="upload_agent_title">User Experience Programme</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="welcome_hmd_term_of_use_4">"By tapping the button, you agree to the &lt;a href='launch.TermOfServiceActivity://Kode'>Terms of Service&lt;/a> and &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>. The device activation information and location will be sent to HMD Global. Mobile data charges may apply. Data will be used according to Privacy Policy.&lt;br/>&lt;br/> Auto Software Update notification will be enabled which installs the latest updates for you. This may use up a small portion of your data budget. The services will access the Internet whenever they need.&lt;br/>&lt;br/> These services will cost you coverage charges when they access mobile networks.&lt;br/>&lt;br/> The device may send device activation information to local operators.&lt;br/>&lt;br/> To provide complete service, Google Play Services need to connect to network, access your contact, location, phone, SMS, Microphone, Camera, Sensor, Calendar and storage."</string>
+    <string name="welcome_hmd_term_of_use_5">"By tapping the button, you agree to &lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&lt;/a>. The device activation information with one-time device location will be sent to HMD Global. Data charges may apply. Mobile data will be used according to &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>."</string>
+</resources>

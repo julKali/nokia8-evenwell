@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Settings">
+        <item name="android:listPreferredItemPaddingStart">75.0dip</item>
+        <item name="android:colorPrimary">#fff5f5f5</item>
+        <item name="android:colorPrimaryDark">#ffe0e0e0</item>
+    </style>
+</resources>

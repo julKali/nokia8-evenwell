@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP-client</string>
+    <string name="fih_cp_notify_statusbar_content">Bericht over nieuwe inrichting</string>
+    <string name="fih_cp_notification_channel_name">Algemene meldingen</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Uitstellen</string>
+    <string name="fih_cp_ui_mode_delete">Verwijderen</string>
+    <string name="fih_cp_apply_dialog_head_msg">Nieuwe inrichting</string>
+    <string name="fih_cp_apply_dialog_body_msg">Wilt u de nieuwe configuratie toepassen?</string>
+    <string name="fih_cp_toast_info_update">Profiel bijwerken geslaagd</string>
+    <string name="fih_cp_toast_info_create">Profiel maken geslaagd</string>
+    <string name="fih_cp_editor_apn_name">Naam</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_http_port">Poort</string>
+    <string name="fih_cp_editor_apn_user">Gebruikersnaam</string>
+    <string name="fih_cp_editor_apn_password">Wachtwoord</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS-proxy</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS-poort</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Verificatietype</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Geen</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP of CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN-type</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_btn_cancel">Annuleren</string>
+    <string name="fih_cp_btn_next">Volgende</string>
+    <string name="fih_cp_btn_back">Vorige</string>
+    <string name="fih_cp_apn_not_set">&lt;Niet ingesteld></string>
+    <string name="fih_cp_error_title">Let op</string>
+    <string name="fih_cp_error_name_empty">"Het veld 'Naam' mag niet leeg zijn."</string>
+    <string name="fih_cp_error_apn_empty">"Het veld 'APN' mag niet leeg zijn."</string>
+    <string name="fih_cp_error_other">De gegevenssyntaxisfout.</string>
+    <string name="fih_cp_input_pin_code">Geef pincode op:</string>
+    <string name="fih_cp_input_pin_code_ok">OK</string>
+    <string name="fih_cp_input_pin_code_cancel">Annuleren</string>
+    <string name="fih_cp_input_pin_code_incorrect">Onjuiste pincode.</string>
+    <string name="fih_cp_input_pin_code_empty">Geef de pincode op.</string>
+    <string name="fih_cp_sim_not_available">Simkaart is niet beschikbaar.</string>
+</resources>

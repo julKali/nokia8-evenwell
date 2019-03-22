@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/modem_conf_name" android:key="parent">
+        <PreferenceScreen android:title="@string/strSSRRamdumpConf" android:summary="@string/strSSRRamdumpConf">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.ModemSSRRamdumpConfig" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/str_ssr_option_label" android:summary="@string/str_ssr_option_label">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.SsrOptionActivity" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/strDiagLog" android:summary="@string/strDiagLog">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.QDiagLogging" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

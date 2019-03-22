@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD personvernerklæring</string>
+    <string name="privacy_activity">HMD personvernerklæring</string>
+    <string name="go_label">Ferdig</string>
+    <string name="agree">Godta</string>
+    <string name="see_detail">Detalj</string>
+    <string name="next_btn_lebel">Neste</string>
+    <string name="app_name">Systemdiagnose</string>
+    <string name="setting_page_name">Brukeropplev.program</string>
+    <string name="send_diag_dialog_any_network">Hvis tilgjengelig dataforbindelse</string>
+    <string name="send_diag_dialog_wifi">Hvis tilgjeng. Wi-Fi-forbindelse</string>
+    <string name="send_diag_dialog_wlan">Hvis tilgjeng. WLAN-forbindelse</string>
+    <string name="send_diag_dialog_title">Send diagnose</string>
+    <string name="diagnostics_setting">Diagnose</string>
+    <string name="diagnostics_report">Diagnoserapport</string>
+    <string name="diagnostics_report_summary">Send diagnoserapport hvis det er en programvarefeil i enheten. Det kan medføre nettverkskostnader. Vi anbefaler å anskaffe en datanettverkspakke fra operatør.</string>
+    <string name="network_options">Nettverksvalg</string>
+    <string name="send_diagnostics">Send diagnose</string>
+    <string name="diagnostics_description">Hjelp oss med å forbedre produktene og tjenestene våre ved å la oss få samle feilsøkingsdata hvis det oppstår programvarefeil eller stopp på enheten. Du kan alltid endre dette valget i Innstillinger.</string>
+    <string name="cancel_upload_confirm_msg">Du er i ferd med å forlate brukeropplevelsesprogrammet vårt. Programvarefeil som oppstår på mobiltelefonen, blir ikke bevart og sendt, og vil derfor kanskje ikke gi deg en bedre brukeropplevelse av mobiltelefonen.</string>
+</resources>

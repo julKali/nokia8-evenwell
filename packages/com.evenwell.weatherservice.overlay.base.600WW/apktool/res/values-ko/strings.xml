@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">날씨 서비스</string>
+    <string name="fih_weather_permission_hint_1">앱이 올바로 작동하려면 추가 권한이 필요합니다.</string>
+    <string name="fih_weather_permission_hint_2">앱이 올바로 작동하려면 추가 권한이 필요합니다.</string>
+    <string name="fih_weather_button_ok">확인</string>
+    <string name="fih_weather_button_close">취소</string>
+    <string name="fih_weather_button_setting">설정</string>
+    <string name="fih_weather_permission_success">위치 정보 권한 승인</string>
+    <string name="fih_weather_permission_failed">위치 정보 권한이 거부 당했습니다. 위치를 확인할수 없습니다.</string>
+    <string name="fih_weather_notification_title">날씨정보 권한 요청</string>
+    <string name="fih_weather_notification_text">탭하여 주세요.</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>แบบสแตติก</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>ตรวจจับอัตโนมัติ</item>
+        <item>ถือว่าวัดแล้ว</item>
+        <item>ถือว่าไม่ได้วัด</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>ไม่มี</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ไม่มี</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>ไม่มี</item>
+        <item>ปรับเอง</item>
+        <item>การกำหนดค่าพร็อกซีโดยอัตโนมัติ</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ไม่ดี</item>
+        <item>ปานกลาง</item>
+        <item>ดี</item>
+        <item>ดีมาก</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>กำลังสแกน…</item>
+        <item>กำลังเชื่อมต่อ…</item>
+        <item>กำลังรับรองความถูกต้อง…</item>
+        <item>กำลังรับที่อยู่ IP…</item>
+        <item>เชื่อมต่อแล้ว</item>
+        <item>ระงับแล้ว</item>
+        <item>กำลังสิ้นสุดการเชื่อมต่อ…</item>
+        <item>สิ้นสุดการเชื่อมต่อแล้ว</item>
+        <item>ไม่สำเร็จ</item>
+        <item>ถูกบล็อค</item>
+        <item>หลีกเลี่ยงการเชื่อมต่อที่ไม่ดีชั่วคราว</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>กำลังสแกน…</item>
+        <item>กำลังเชื่อมต่อกับ %1$s…</item>
+        <item>กำลังรับรองความถูกต้องกับ %1$s…</item>
+        <item>กำลังรับที่อยู่ IP จาก %1$s…</item>
+        <item>เชื่อมต่อแล้วกับ %1$s</item>
+        <item>ระงับแล้ว</item>
+        <item>กำลังสิ้นสุดการเชื่อมต่อจาก %1$s…</item>
+        <item>สิ้นสุดการเชื่อมต่อแล้ว</item>
+        <item>ไม่สำเร็จ</item>
+        <item>ถูกบล็อค</item>
+        <item>หลีกเลี่ยงการเชื่อมต่อที่ไม่ดีชั่วคราว</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>เลขฐานสิบหก WAPI</item>
+    </string-array>
+</resources>

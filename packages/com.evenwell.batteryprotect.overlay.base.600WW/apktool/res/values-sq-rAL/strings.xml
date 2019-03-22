@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Mbrojtja e baterisë</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_warning_title">Kujdes nga temperatura e lartë</string>
+    <string name="fih_battery_protect_cooldown_title">Duke u ftohur</string>
+    <string name="fih_battery_protect_normalmode_title">Temperatura normale</string>
+    <string name="fih_battery_protect_warning_text">Mbyllni telefonatat dhe aplikacionet për të ftohur telefonin.</string>
+    <string name="fih_battery_protect_cooldown_text">Aktualisht telefoni është në modalitetin e Ftohjes. Vetëm telefonata të urgjencës.</string>
+    <string name="fih_battery_protect_normalmode_text">Ka vazhduar funksionimi normal.</string>
+    <string name="fih_battery_protect_maxtemp_title">Temperatura maksimale</string>
+    <string name="fih_battery_protect_maxtemp_text">Temperatura e telefonit është shumë e lartë. Ai do të fiket tani.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Ndaloni ngarkimin</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">Ndaloni ngarkimin</string>
+    <string name="fih_battery_protect_low_temp_text">Temperatura është shumë e ulët. Ndaloni karikimin.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">Temperatura është jashtë diapazonit të saj</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Temperatura e baterisë nuk mund të zbulohet. Sigurohuni që bateria të jetë instaluar si duhet, në rast të kundërt nuk do të karikohet.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Temperatura e baterisë nuk mund të zbulohet.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">Sigurohuni që bateria të jetë instaluar si duhet, në rast të kundërt nuk do të karikohet.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Temperatura e pajisjes nuk mund të zbulohet aktualisht dhe telefoni është në modalitetin e Ftohjes, duke kryer vetëm telefonata të urgjencës. Sigurohuni që bateria është e instaluar si duhet.</string>
+    <string name="fih_battery_protect_aging_title">Eksperti i baterisë</string>
+    <string name="fih_battery_protect_aging_nm_text">Kontaktoni me Qendrën e shërbimit të klientit, numri i telefonit %1$s Faleminderit.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Kontaktoni me Qendrën e shërbimit të klientit. Faleminderit.</string>
+    <string name="fih_battery_protect_bl_warning_title">Sinjalizimi për uljen e ndriçimit</string>
+    <string name="fih_battery_protect_bl_warning_text">Temperatura e telefonit është më e lartë se normalisht, kështu ulni ndriçimin për të ftohur telefonin</string>
+    <string name="fih_battery_protect_full_charging">Karikimi përfundoi</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Anulo</string>
+    <string name="fih_battery_protect_high_full_charging">Kufiri maksimal i karikimit është arritur në temperatura të larta! Kur temperatura e telefonit të kthehet në normale, sistemi do të vazhdojë karikimin me shpejtësi normale.</string>
+    <string name="fih_battery_protect_low_full_charging">Kufiri maksimal i karikimit është arritur në temperatura të ulëta! Kur temperatura e telefonit të kthehet në normale, sistemi do të vazhdojë karikimin me shpejtësi normale.</string>
+    <string name="fih_battery_protect_high_full_charging_title">U arrit kufiri i karikimit me temperaturë të lartë</string>
+    <string name="fih_battery_protect_low_full_charging_title">U arrit kufiri i karikimit me temperaturë të ulët</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Njoftime të përgjithshme</string>
+    <string name="fih_battery_protect_warning_title_wear">Kujdes nga temperatura e lartë</string>
+    <string name="fih_battery_protect_cooldown_title_wear">Duke u ftohur</string>
+    <string name="fih_battery_protect_normalmode_title_wear">Temperatura normale</string>
+    <string name="fih_battery_protect_warning_text_wear">Mbyllni telefonatat dhe aplikacionet për të ftohur telefonin.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">Ne ulim ndriçimin dhe mbyllim aplikacionet për ftohjen e pajisjes me shtypjen e butonit.</string>
+    <string name="fih_battery_protect_cooldown_text_wear">Aktualisht telefoni është në modalitetin e Ftohjes. Vetëm telefonata të urgjencës.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">Ka vazhduar funksionimi normal.</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">Temperatura maksimale</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">Temperatura e pajisjes është shumë e lartë. Ajo do të fiket tani.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">Temperatura e baterisë është shumë e ulët, kështu që ndaloni karikimin.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Temperatura e pajisjes nuk mund të zbulohet aktualisht dhe pajisja është në modalitetin e Ftohjes, duke kryer vetëm telefonata të urgjencës. Sigurohuni që bateria është e instaluar si duhet.</string>
+    <string name="fih_battery_protect_install_error_title_wear">Eksperti i baterisë</string>
+    <string name="fih_battery_protect_aging_title_wear">Eksperti i baterisë</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">Ndaloni ngarkimin</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">Gabim i instalimit të baterisë</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">Temperatura është jashtë diapazonit të saj</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">Sigurohuni që bateria të jetë instaluar si duhet.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">Temperatura e baterisë është shumë e lartë, kështu që ndaloni karikimin.</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">Eksperti i baterisë</string>
+    <string name="fih_battery_protect_full_charging_wear">Karikimi përfundoi</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Cancel</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">Pajisja është në modalitetin e Ftohjes tani. Përdoreni më vonë.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Përdorni baterinë origjinale</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Karikimi ndaloi</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Përdorni baterinë origjinale për karikimin, pasi mund të shkaktoni dëmtime të përhershme/fizike të pajisjes suaj.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Bateria është e pavlefshme</string>
+    <string name="fih_battery_protect_notification_cooling_down">Duke u ftohur</string>
+    <string name="fih_battery_protect_tap_learn_more">Trokitni për të mësuar më shumë.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefoni juaj po nxehet, prandaj po ndërmerr hapa për t'u ftohur. Mund ta përdorni përsëri, por mund të vini re:
+·Karikimi mund të ndërpritet.
+·Wi-Fi mund të çaktivizohet.
+·Aplikacionet mund të mbyllen.
+·Modaliteti i aeroplanit mund të aktivizohet.
+Telefoni juaj do të kthehet në funksionimin normal pasi të ftohet."</string>
+</resources>

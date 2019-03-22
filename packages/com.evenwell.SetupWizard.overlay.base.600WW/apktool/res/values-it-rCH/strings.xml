@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"Toccando il pulsante, l'utente accetta le &lt;a href='launch.TermOfServiceActivity://Kode'>Condizioni per l'Utilizzo del Servizio&lt;/a> e l'&lt;a href='launch.AddUploadAgentHandler://Kode'>Informativa sulla Privacy&lt;/a>. I dati relativi all'attivazione e la posizione del dispositivo verranno inviati a HMD Global.&lt;br/>&lt;br/>Verrà attivata la notifica dell'aggiornamento automatico del software e dell'installazione degli ultimi aggiornamenti. È possibile che venga consumata una piccola parte dei dati a disposizione. I servizi effettueranno l'accesso a Internet all'occorrenza.&lt;br/>&lt;br/>Nel caso in cui tali servizi utilizzino reti cellulari, verranno addebitati costi maggiori."</string>
+    <string name="welcome_hmd_term_of_use_5">"Toccando il pulsante, l'utente accetta le &lt;a href='launch.TermOfServiceActivity://Kode'>Condizioni per l'Utilizzo del Servizio&lt;/a>. I dati dell'utente verranno trattati in conformità all'&lt;a href='launch.AddUploadAgentHandler://Kode'>Informativa sulla Privacy&lt;/a> di HMD. I dati relativi all'attivazione del dispositivo unitamente alla posizione in cui si trova verranno inviati a HMD Global. È possibile che vengano applicati costi per i dati mobili."</string>
+    <string name="welcome_vision_settings_button_label">Accessibilità</string>
+    <string name="next_btn_lebel">AVANTI</string>
+    <string name="sim_not_exist_toast">Controllare inserimento scheda SIM.</string>
+    <string name="idle_too_long_toast">"Telefono non usato da un po'. Chiudere per risparmiare carica."</string>
+    <string name="welcome_message">Introduzione</string>
+    <string name="welcome_start_button_label">AVVIA</string>
+    <string name="emergency_dial_hmd_message">Emergenza</string>
+    <string name="accessibility_text">Accessibilità</string>
+    <string name="language_selection_title">Scegli lingua</string>
+    <string name="language_selection_cancel_btn">ANNULLA</string>
+    <string name="welcome_lets_go_button_label">Inizia</string>
+    <string name="datausage_dialog_negitive_btn">Annulla</string>
+    <string name="date_and_time">Impostazioni data e ora</string>
+    <string name="date_time_auto">Data e ora automatiche</string>
+    <string name="date_time_auto_summaryOn">"Utilizza l'ora fornita dalla rete"</string>
+    <string name="date_time_auto_summaryOff">"Utilizza l'ora fornita dalla rete"</string>
+    <string name="zone_auto">Fuso orario automatico</string>
+    <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
+    <string name="zone_auto_summaryOff">Utilizza il fuso orario fornito dalla rete</string>
+    <string name="date_time_set_date">Imposta data</string>
+    <string name="date_time_set_time">Imposta ora</string>
+    <string name="date_time_set_timezone">Seleziona fuso orario</string>
+    <string name="date_time_24hour">Usa formato 24 ore</string>
+    <string name="date_and_time_settings_title">Data e ora</string>
+    <string name="upload_agent_hmd_des_text_2">"Partecipa al Programma utente Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Scopri di più.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Programma utente</string>
+    <string name="setup_completed_congratulations">Congratulazioni!</string>
+    <string name="setup_complete_hmd">Procedere...</string>
+    <string name="setup_complete_main">Si è</string>
+    <string name="setup_complete_sub">PRONTI PER PROCEDERE.</string>
+    <string name="hmd_user_experience_program_title">Programma utente</string>
+    <string name="hmd_user_experience_program_message">"La partecipazione al Programma utente consente a HMD Global di comprendere meglio che cosa piace del dispositivo Nokia e che cosa si pensa che debba essere perfezionato. Di tanto in tanto HMD Global può ricevere dati anonimi con caratteristiche tecniche riguardanti il dispositivo, ad esempio un file con dati relativi a un errore software. Tali dati non verranno trasmessi su una connessione cellulare. HMD Global desidera conoscere l'opinione dell'utente sul dispositivo Nokia."</string>
+    <string name="skip_button_label">Ignora</string>
+    <string name="skip_add_account_button_label">Non ora</string>
+    <string name="device_checking_message">Introduzione</string>
+    <string name="backup_and_restore_title">Backup e ripristino</string>
+    <string name="backup_and_restore_description">"Se in precedenza è stato eseguito il backup dell'account, ripristinarlo nel telefono ora.
+
+È possibile cambiare le opzioni in Impostazioni."</string>
+    <string name="upload_agent_hmd_des_text_3">"Toccando \"INIZIA\", si accetta di partecipare al Programma utente. &lt;a href='launch.UserExperienceActivity://Kode'>Ulteriori informazioni&lt;/a>. È sempre possibile aderire in seguito tramite Impostazioni."</string>
+    <string name="setup_complete_hmd_1">Procedere...</string>
+    <string name="not_now">NON ORA…</string>
+    <string name="setup_finish">INIZIA</string>
+</resources>

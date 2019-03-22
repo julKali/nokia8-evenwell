@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/DialogStyle_Light">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/cooldown_image" android:layout_width="120.0dip" android:layout_height="@dimen/battery_height" android:src="@drawable/fih_batteryprotect_cooldown" android:scaleType="centerInside" />
+            <View android:layout_width="fill_parent" android:layout_height="3.0dip" />
+            <TextView android:id="@id/cooldown_dec_text" android:text="@string/fih_battery_protect_cooldown_text" style="@style/DialogContent_Light" />
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:gravity="bottom|center|right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <Button android:id="@id/cooldown_activity_button" android:text="@string/fih_battery_protect_cooldown_emergecycall_button" style="@style/ButtonStyle2_Light_up" />
+        <Button android:id="@id/shutdown_button" android:text="@string/fih_battery_protect_power_off" style="@style/ButtonStyle2_Light_down" />
+    </LinearLayout>
+</LinearLayout>

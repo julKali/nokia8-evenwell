@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ویرایشگر بوکه</string>
+    <string name="image_not_null">مسیر تصویر نمی‌تواند خالی باشد</string>
+    <string name="no_bokeh_type">هیچ نوع بوکه وجود ندارد</string>
+    <string name="no_mpo_file">هیچ فایل mpo وجود ندارد</string>
+    <string name="save">ذخیره</string>
+    <string name="save_success">با موفقیت ذخیره شد</string>
+</resources>

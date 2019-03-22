@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fih="http://schemas.android.com/apk/res-auto">
+    <com.fihtdc.bboxsbox.app.BBSSwitchPreference android:title="@string/pref_title_service_switch" android:key="SERVICE_SWITCH" android:summary="@string/pref_summary_service_switch" android:defaultValue="true" />
+    <com.fihtdc.bboxsbox.app.BBSListPreference android:entries="@array/interval" android:title="@string/pref_title_upload_interval" android:key="UPLOAD_INTERVAL" android:summary="@string/pref_summary_upload_interval" android:dialogTitle="@string/pref_dialog_title_interval" android:entryValues="@array/interval_value" fih:task="com.fihtdc.bboxsbox.action.UPLOAD_DATA" />
+    <com.fihtdc.bboxsbox.app.BBSListPreference android:entries="@array/interval" android:title="@string/pref_title_data_usage_interval" android:key="DATA_USAGE_INTEVAL" android:summary="@string/pref_summary_data_usage_interval" android:dialogTitle="@string/pref_dialog_title_interval" android:entryValues="@array/interval_value" fih:task="com.fihtdc.bboxsbox.action.RECORD_DATA_USSAGE" />
+</PreferenceScreen>

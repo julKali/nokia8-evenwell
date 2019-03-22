@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh સંપાદક</string>
+    <string name="image_not_null">છબીનો પથ ખાલી ન હોઈ શકે</string>
+    <string name="no_bokeh_type">કોઈ બોકે પ્રકાર નથી</string>
+    <string name="no_mpo_file">કોઈ MPO ફાઇલ નથી</string>
+    <string name="refocus_type_description">આ ફોટો ડેપ્થ મૅપ રીફોકસ કરીને પોર્ટ્રેટ મોડમાં લેવામાં આવ્યો છે.</string>
+    <string name="refocus_type_name">પોર્ટ્રેટ મોડ</string>
+    <string name="save">સાચવો</string>
+    <string name="save_success">સફળતાપૂર્વક સેવ થઇ ગયું છે.</string>
+    <string name="saving_photos">ફોટા સાચવી રહ્યું છે...</string>
+</resources>

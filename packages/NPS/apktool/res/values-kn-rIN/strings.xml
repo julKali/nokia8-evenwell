@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ರದ್ದುಮಾಡಿ</string>
+    <string name="DONE">ಮುಗಿದಿದೆ</string>
+    <string name="NEXT">ಮುಂದೆ</string>
+    <string name="OK">ಸರಿ</string>
+    <string name="PREVIOUS">ಹಿಂದಿನ</string>
+    <string name="alert_empty_desc">ದಯವಿಟ್ಟು ನಿಮ್ಮ ವಿವರಣೆಯನ್ನು ಸೇರಿಸಿ!</string>
+    <string name="alert_warning_title">ಸಲಹೆಗಳು</string>
+    <string name="enter_comments">ಕಾಮೆಂಟ್‌ಗಳನ್ನು ನಮೂದಿಸಿ (1000 ಅಕ್ಷರಗಳು)</string>
+    <string name="extremely_likely">(ಅತ್ಯಂತ ಹೆಚ್ಚು ಸಾಧ್ಯತೆಯಿದೆ)</string>
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="helps_us_improve_our_products">ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆ ನಮ್ಮ ಉತ್ಪನ್ನಗಳನ್ನು ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ!</string>
+    <string name="intro_title">ಸ್ನೇಹಿತರಿಗೆ ಅಥವಾ ಸಹೋದ್ಯೋಗಿಗೆ ನೀವು ಈ ಫೋನ್‌ ಅನ್ನು ಶಿಫಾರಸು ಮಾಡಲು ಹೇಗೆ ಬಯಸುವಿರಿ?</string>
+    <string name="msg_send_after">ಸಾಧನವು ಆನ್‌ಲೈನ್ ಇರುವಾಗ ಸಂದೇಶವು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತದೆ. ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗಾಗಿ ಧನ್ಯವಾದಗಳು.</string>
+    <string name="msg_send_fail">ಕಳುಹಿಸಲು ವಿಫಲವಾಗಿದೆ. ಸಾಧನವು ಆನ್‌ಲೈನ್ ಇರುವಾಗ ಸಂದೇಶವು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತದೆ. ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗಾಗಿ ಧನ್ಯವಾದಗಳು.</string>
+    <string name="no_ask_feedback_again_text">ಮತ್ತೆ ಪ್ರತಿಕ್ರಿಯೆ ಕೇಳಬೇಡಿ</string>
+    <string name="no_showagain_text">ಮತ್ತೆ ತೋರಿಸಬೇಡ</string>
+    <string name="not_at_all_likely">(ಸ್ವಲ್ಪವೂ ಸಾಧ್ಯತೆ ಇಲ್ಲ)</string>
+    <string name="privacy_context_wifi">"ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, 
+
+ಪ್ರತಿಕ್ರಿಯೆ ಕ್ಲೈಂಟ್ ಸಾಫ್ಟ್‌ವೇರ್‍ ಬಳಸಲು ಸುಸ್ವಾಗತ. ಈ ಉತ್ಪನ್ನವನ್ನು ಬಳಸುವುದಕ್ಕಿಂತ ಮುನ್ನ ಸೇವಾ ನಿಯಮಗಳನ್ನು ದಯವಿಟ್ಟು ಎಚ್ಚರಿಕೆಯಿಂದ ಓದಿರಿ ಮತ್ತು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ. 「ಒಪ್ಪುತ್ತೇನೆ 」ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವುದರ ಅರ್ಥ ನೀವು ಈ ಸಾಫ್ಟ್‌ವೇರ್‌ನ ಸವಲತ್ತುಗಳನ್ನು ಚೆನ್ನಾಗಿ ಅರ್ಥಮಾಡಿಕೊಂಡಿದ್ದೀರಿ ಮತ್ತು ಅದನ್ನು ಬಳಸಲು ಒಪ್ಪುತ್ತೀರಿ ಎಂಬುದಾಗಿದೆ. ನೀವು ಈ ನಿಯಮಗಳಿಗೆ ಒಪ್ಪುವುದಿಲ್ಲವಾದರೆ, ದಯವಿಟ್ಟು 「ನಿರ್ಗಮಿಸಿ」ಒತ್ತಿರಿ. ನಿಮಗೆ ಸಮಗ್ರ ಸೇವೆಗಳನ್ನು ಒದಗಿಸಲು, ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಕೆಳಗಿನ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿರುತ್ತದೆ: 
+1. ಪ್ರತಿಕ್ರಿಯೆ ಮಾಹಿತಿಯನ್ನು ಕಳುಹಿಸಲು ಇಂಟರ್ನೆಟ್, WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಪ್ರವೇಶ 
+2. ಫೋನ್ ಮೂಲಭೂತ ಮಾಹಿತಿಯನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪಡೆದುಕೊಳ್ಳಲು IMEI, PSN ಮತ್ತು MNCMCC ಮಾಹಿತಿಯನ್ನು ಆಮದುಮಾಡಿ"</string>
+    <string name="select_a_value">ಮೌಲ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="str_agree">ಒಪ್ಪಿಕೊಳ್ಳಿ</string>
+    <string name="str_leave">ನಿರ್ಗಮಿಸಿ</string>
+    <string name="submit_fail">ಸಲ್ಲಿಕೆ ವಿಫಲವಾಗಿದೆ</string>
+    <string name="submit_success">ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗಾಗಿ ಧನ್ಯವಾದಗಳು</string>
+    <string name="thank_your_feedback">ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗೆ ಧನ್ಯವಾದಗಳು!</string>
+    <string name="we_appreciate_your_help">ಜಗತ್ತಿನಲ್ಲಿ Nokia ಉತ್ಪನ್ನಗಳನ್ನು ಉತ್ತಮವನ್ನಾಗಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ಸಹಾಯ ಮಾಡಿದಕ್ಕೆ ನಾವು ನಿಮಗೆ ಪ್ರಶಂಸೆ ವ್ಯಕ್ತಪಡಿಸುತ್ತೇವೆ.</string>
+    <string name="we_hope_enjoying_nokia_device">ನಿಮ್ಮ Nokia ಸಾಧನವನ್ನು ನೀವು ಆನಂದಿಸುತ್ತಿರುವಿರಿ ಎಂದು ನಾವು ಭಾವಿಸಿದ್ದೇವೆ. ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆ ನಮಗೆ ಬಹಳ ಮುಖ್ಯವಾಗಿದೆ.</string>
+    <string name="we_will_contact_you_again">ಭವಿಷ್ಯದಲ್ಲಿ ಮತ್ತೆ ನಿಮ್ಮನ್ನು ನಾವು ಸಂಪರ್ಕಿಸುತ್ತೇವೆ.</string>
+    <string name="we_will_contact_you_again_enjoy">ಭವಿಷ್ಯದಲ್ಲಿ ಮತ್ತೆ ನಿಮಗೆ ನಾವು ಸಂಪರ್ಕಿಸುತ್ತೇವೆ. ನಿಮ್ಮ ಹೊಸ Nokia ಸಾಧನವನ್ನು ಆನಂದಿಸಿ!</string>
+    <string name="why_you_gave_this_score">ನೀವು ಈ ಸ್ಕೋರ್‌ ಯಾಕೆ ನೀಡಿರುವಿರಿ ಎಂಬುದು ನಮಗೆ ತಿಳಿಸಿ:</string>
+</resources>

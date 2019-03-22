@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Գաղտնիության քաղաքականություն</string>
+    <string name="privacy_activity">Գաղտնիության քաղաքականություն</string>
+    <string name="app_name">Համակարգի ախտորոշում</string>
+    <string name="setting_page_name">Օգտվողի փորձառության ծրագիր</string>
+    <string name="send_diag_dialog_any_network">Երբ տվյալների միացումը հասանելի է</string>
+    <string name="send_diag_dialog_wifi">Երբ Wi-Fi միացումը հասանելի է</string>
+    <string name="send_diag_dialog_wlan">Երբ WLAN միացումը հասանելի է</string>
+    <string name="send_diag_dialog_title">Ուղարկել ախտորոշումը</string>
+    <string name="diagnostics_setting">Ախտորոշում</string>
+    <string name="diagnostics_report">Ախտորոշման հաշվետվություն</string>
+    <string name="diagnostics_report_summary">Ուղարկել ախտորոշման հաշվետվություն, երբ սարքում տեղի է ունենում ծրագրային ապահովման սխալ։ Կարող են կիրառվել ցանցային միացման ծախսեր։ Խորհուրդ է տրվում տվյալների ցանցային փաթեթի ձեռք բերում Ծառայության մատակարարից։</string>
+    <string name="network_options">Ցանցային ընտրանքներ</string>
+    <string name="send_diagnostics">Ուղարկել ախտորոշումը</string>
+    <string name="cancel_upload_confirm_msg">Դուք փակում եք Օգտվողի փորձառության ծրագիրը։ Ձեր հեռախոսի վրա առաջացած ծրագրային ապահովման սխալները չեն պահվի կամ ուղարկվի, այսպիսով մենք չեն կարող բարելավել այս հեռախոսով ձեր ունեցած փորձը։</string>
+</resources>

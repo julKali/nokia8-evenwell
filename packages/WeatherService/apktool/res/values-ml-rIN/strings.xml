@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">അടയ്ക്കുക</string>
+    <string name="fih_weather_button_ok">ശരി</string>
+    <string name="fih_weather_button_setting">ക്രമീകരിക്കുന്നു...</string>
+    <string name="fih_weather_notification_channel_title">പൊതുവായ അറിയിപ്പുകൾ</string>
+    <string name="fih_weather_notification_text">അനുവദിക്കാൻ ടാപ് ചെയ്യുക</string>
+    <string name="fih_weather_notification_title">കാലാവസ്ഥാ സേവനത്തിന് അനുമതികൾ ആവശ്യമാണ്</string>
+    <string name="fih_weather_permission_failed">ലൊക്കേഷൻ അനുമതി നൽകൽ നിരസിച്ചു, ലൊക്കേഷൻ നേടാനാകില്ല.</string>
+    <string name="fih_weather_permission_hint_1">ശരിയായി പ്രവർത്തിക്കാൻ, ഈ ആപ്പിന് അധിക അനുമതി ആവശ്യമാണ്. ആവശ്യപ്പെടുമ്പോൾ, അനുമതി നൽകുക.</string>
+    <string name="fih_weather_permission_hint_2">ശരിയായി പ്രവർത്തിക്കാൻ, ഈ ആപ്പിന് അധിക അനുമതികൾ ആവശ്യമാണ്. ക്രമീകരണത്തിൽ WeatherService-ന്റെ അനുമതി മാനേജുചെയ്യുക.</string>
+    <string name="fih_weather_permission_success">ലൊക്കേഷൻ അനുമതി നൽകൽ വിജയിച്ചു</string>
+    <string name="fih_weather_service_title_txt">കാലാവസ്ഥ സേവനം</string>
+</resources>

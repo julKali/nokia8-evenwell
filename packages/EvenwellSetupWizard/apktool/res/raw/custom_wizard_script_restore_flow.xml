@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.NETWORK_SETTINGS;end" id="network_settings">
+        <result wizard:resultCode="101" wizard:action="activate_mobile_data" wizard:name="use_mobile" />
+        <result wizard:resultCode="102" wizard:action="wifi_settings" wizard:name="see_all_wifi" />
+        <result wizard:resultCode="1" wizard:action="no_network_flow" wizard:name="skip" />
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.WIFI_SETTINGS;end" id="wifi_settings">
+        <result wizard:resultCode="101" wizard:action="activate_mobile_data" wizard:name="use_mobile" />
+        <result wizard:resultCode="1" wizard:action="no_account_flow" wizard:name="skip" />
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.ACTIVATE_MOBILE_DATA;end" id="activate_mobile_data">
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CAPTIVE_PORTAL;end" id="captive_portal" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMS_CHECKIN;end" id="gms_checkin" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.OTA_UPDATE;end" id="ota_update">
+        <result wizard:resultCode="1" wizard:action="early_update" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=android.settings.SYSTEM_UPDATE_SETTINGS;end" id="system_update" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.EARLY_UPDATE;end" id="early_update" />
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_zero_touch_flow" id="zero_touch">
+        <result wizard:resultCode="111" wizard:action="END_OF_SCRIPT" wizard:name="dpm_user_complete" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USB_MIGRATION;end" id="usb_migration">
+        <result wizard:resultCode="101" wizard:action="usb_migration_after_add_account" wizard:name="result_usb_migration_with_account" />
+        <result wizard:resultCode="103" wizard:action="add_account_during_usb_transfer" />
+        <result wizard:action="restore_choice" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOAD_ADD_ACCOUNT_INTENT;B.showTapAndGo=false;end" id="add_account_during_usb_transfer" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_SETUP;end" id="account_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USB_MIGRATION_AFTER_ACCOUNT;end" id="usb_migration_after_add_account">
+        <result wizard:action="restore_with_usb_flow" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.RESTORE_CHOICE;end" id="restore_choice">
+        <result wizard:resultCode="101" wizard:action="restore_with_device_flow" wizard:name="d2d" />
+        <result wizard:resultCode="102" wizard:action="restore_with_ios_flow" wizard:name="ios_restore" />
+        <result wizard:action="restore_with_account_flow" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_restore_with_usb_flow" id="restore_with_usb_flow">
+        <result wizard:action="END_OF_SCRIPT" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_restore_with_account_flow" id="restore_with_account_flow">
+        <result wizard:action="END_OF_SCRIPT" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_restore_with_device_flow" id="restore_with_device_flow">
+        <result wizard:action="END_OF_SCRIPT" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_restore_with_ios_flow" id="restore_with_ios_flow">
+        <result wizard:action="END_OF_SCRIPT" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_no_account_flow" id="no_account_flow">
+        <result wizard:action="END_OF_SCRIPT" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_no_network_flow" id="no_network_flow">
+        <result wizard:action="END_OF_SCRIPT" />
+    </WizardAction>
+
+    <WizardAction id="END_OF_SCRIPT" />
+</WizardScript>

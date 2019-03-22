@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Не удалось скачать ПО.</string>
+    <string name="msg_root_message">"
+
+После получения root-доступа нормальное обновление не гарантируется."</string>
+    <string name="msg_responsibility_message">Если для устройства получен root-доступ, за любые отклонения в работе системы после обновления отвечает пользователь.</string>
+    <string name="changelog">Журнал изменений</string>
+    <string name="apk_update_available_summary">Для %s доступно обновление. Щелкните \"ОК\" для установки сейчас или \"Отмена\" для проверки обновления через день.</string>
+    <string name="apk_removed">Это приложение удалено.</string>
+    <string name="apk_available_items">Всего доступно элементов: %s</string>
+    <string name="apk_available_item">Всего доступно элементов: %s</string>
+    <string name="invalid_update_summary">Обновление недействительно, повторите проверку.</string>
+    <string name="recheck">Проверить снова</string>
+    <string name="image_download_exception_summary">Сервер недоступен, повторите проверку позже.</string>
+    <string name="apk_download_exception">Сервер недоступен</string>
+    <string name="installation_confirmation">Подтверждение установки</string>
+    <string name="apk_need_reboot_summary">Это обновление ПО автоматически перезагрузит систему по завершении установки. Установить сейчас?</string>
+    <string name="prepare_to_reboot">Подготовка к перезагрузке</string>
+    <string name="prepare_to_reboot_summary">Установленному ПО необходимо перезагрузить устройство для настройки. Перезагрузку предлагается выполнить сейчас, но можно и позднее.</string>
+    <string name="prepare_to_reboot_force_summary">Установленному ПО необходимо перезагрузить устройство для настройки. Предлагаем перезагрузить сейчас.</string>
+    <string name="reboot_fail">Сбой перезагрузки</string>
+    <string name="reboot_fail_summary">Не удается перезагрузить из-за отсутствия API. Перезагрузите вручную.</string>
+    <string name="apk_no_avaliable_size">Скачивание невозможно из-за недостаточного объема внутренней памяти.</string>
+    <string name="update_finished">Обновление завершено</string>
+    <string name="msg_root_warning">Для устройства получен root-доступ, или официальное ПО модифицировано. Продолжение обновления системы может привести к нестабильности или сбою системы и аннулированию гарантии на устройство. Продолжить?</string>
+    <string name="multi_image_update">Доступны обновления образов</string>
+    <string name="available_update_list">Список доступных обновлений</string>
+    <string name="downloading_summary">Отмените скачивание образа</string>
+    <string name="msg_erase_userdata_warning">Этому обновлению необходимо удалить данные пользователя. Продолжить?</string>
+    <string name="msg_autoupdate_date_fee_warning">Включение автообновления может повлечь за собой дополнительные расходы.</string>
+    <string name="invalid_update">Обновление недействительно.</string>
+    <string name="file_corrupted">Обновление системы невозможно из-за поврежденного файла.</string>
+    <string name="ask_for_apk_check">Проверить обновления приложения?</string>
+    <string name="update_ota_self">Выполняется обновление ПО.</string>
+    <string name="ab_update_fail">Проблема установки.</string>
+    <string name="ab_update_wrong_status">Средство обновления занято. Повторите попытку позже или выполните перезагрузку.</string>
+    <string name="ab_update_installing">Обновление системы</string>
+    <string name="tag_engineer_mode">Инженерный режим</string>
+    <string name="engineer_version_incorrect">Неправильная версия устройства</string>
+    <string name="msg_engineer_ota_restore">Коснитесь для восстановления официальной версии</string>
+    <string name="msg_engineer_ota_restore_warning">При этом будет восстановлена официальная версия. Продолжить?</string>
+    <string name="silent_mode_data_fee_warning">Доступно обновление. Скачивание обновлений может повлечь за собой дополнительные расходы. По возможности скачивайте обновления через Wi-Fi.</string>
+    <string name="msg_updating_system">Обновление системы...</string>
+    <string name="msg_tap_to_reboot">Коснитесь для перезагрузки</string>
+    <string name="msg_pause_download">Приостановить скачивание</string>
+    <string name="notification_channel_name">Обновление системы</string>
+    <string name="notification_channel_alert_name">Общие уведомления</string>
+</resources>

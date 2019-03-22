@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">بند کریں</string>
+    <string name="fih_weather_button_ok">ٹھیک ہے</string>
+    <string name="fih_weather_button_setting">سیٹنگ۔۔۔</string>
+    <string name="fih_weather_notification_channel_title">عام نوٹیفیکیشنز</string>
+    <string name="fih_weather_notification_text">اجازت کیلئے ٹیپ</string>
+    <string name="fih_weather_notification_title">موسم کی خدمت کو اجازت درکار ہے</string>
+    <string name="fih_weather_permission_failed">مقام کی اجازت دینے سے انکار، مقام حاصل کرنے سے قاصر</string>
+    <string name="fih_weather_permission_hint_1">درست طور پر کام کرنے کیلئے اس ایپ کو اضافی اجازت درکار ہے۔ مانگے جانے پر براہ کرم اجازت دیں۔</string>
+    <string name="fih_weather_permission_hint_2">صحیح طرح سےکام کرنے کیلئے اس ایپ کو اضافی اجازتیں درکار ہیں براہ کرم ترتیبات میں موسم کی خدمت کی اجازت منظم کریں</string>
+    <string name="fih_weather_permission_success">مقام کی اجازت دینا کامیاب</string>
+    <string name="fih_weather_service_title_txt">موسم کی خدمت</string>
+</resources>

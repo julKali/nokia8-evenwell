@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="copying">ਕਾਪੀ ਕਰ ਰਿਹਾ ਹੈ…</string>
+    <string name="demo_mode_notifications">ਡੈਮੋ ਮੋਡ ਸੂਚਨਾਵਾਂ</string>
+    <string name="disable_demo_mode">ਡੈਮੋ ਮੋਡ ਅਸਮਰਥ ਬਣਾਓ</string>
+    <string name="download_complete_msg">"ਡਾਊਨਲੋਡ ਪੂਰਾ।
+
+ਡੈਮੋ ਮੋਡ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਠੀਕ 'ਤੇ ਟੈਪ ਕਰੋ।"</string>
+    <string name="download_fail_msg">"ਇੰਟਰਨੈਟ ਤੋਂ ਡੈਮੋ ਸਮੱਗਰੀ ਡਾਊਨਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰਥ।
+
+ਡੈਮੋ ਮੋਡ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਠੀਕ 'ਤੇ ਟੈਪ ਕਰਨਾ ਹੈ?"</string>
+    <string name="downloading">ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="enable_demo_mode">ਡੈਮੋ ਮੋਡ ਸਮਰੱਥ ਬਣਾਉਣਾ ਹੈ?</string>
+    <string name="enable_demo_mode_setup">ਡੈਮੋ ਮੋਡ ਸਮਰੱਥ ਬਣਾਉਣਾ ਹੈ</string>
+    <string name="no_new_demo_found_msg">"ਕੋਈ ਨਵੀਂ ਡੈਮੋ ਸਮੱਗਰੀ ਨਹੀਂ ਮਿਲੀ।
+
+ਡੈਮੋ ਮੋਡ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਠੀਕ 'ਤੇ ਟੈਪ ਕਰਨਾ ਹੈ?"</string>
+    <string name="ok">ਠੀਕ</string>
+    <string name="reset_device">ਡਿਵਾਈਸ ਰੀਸੈੱਟ ਕਰਨਾ ਹੈ?</string>
+    <string name="system_busy_msg">ਸਿਸਟਮ ਵਿਅਸਤ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="update_demo_video">ਡੇਮੋ ਵੀਡੀਓ ਅੱਪਡੇਟ ਕਰੋ</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">لغو</string>
+    <string name="copying">در حال کپی…</string>
+    <string name="demo_mode_notifications">آگهی های حالت نمونه نمایشی</string>
+    <string name="disable_demo_mode">غیرفعالسازی کردن حالت نمایشی</string>
+    <string name="download_complete_msg">"دانلود کامل شد.
+
+برای راه‌اندازی حالت نمایشی روی \"تأیید\" ضربه بزنید."</string>
+    <string name="download_fail_msg">"دانلود مطلب نمایشی از اینترنت انجام نشد.
+
+با ضربه زدن روی \"تأیید\" حالت نمایشی راه‌اندازی شود؟"</string>
+    <string name="downloading">در حال دانلود…</string>
+    <string name="enable_demo_mode">فعال کردن حالت نمایشی؟</string>
+    <string name="enable_demo_mode_setup">فعال کردن حالت نمایشی</string>
+    <string name="no_new_demo_found_msg">"هیچ مطلب نمایشی یافت نشد.
+
+با ضربه زدن روی \"تأیید\" حالت نمایشی راه‌اندازی شود؟"</string>
+    <string name="ok">تأیید</string>
+    <string name="reset_device">بازنشانی دستگاه؟</string>
+    <string name="system_busy_msg">سیستم مشغول است. بعداً مجدداً امتحان کنید.</string>
+    <string name="update_demo_video">بهنگام سازی ویدیو نمایشی</string>
+</resources>

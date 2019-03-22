@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/btn_enable_demo_video" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Enable Demo Video" android:onClick="onClickEnableDemoVideo" />
+        <Button android:id="@id/btn_disable_demo_video" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Disable Demo Video" android:onClick="onClickDisableDemoVideo" />
+        <Button android:id="@id/btn_create_switch_demo_user" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Create And Switch to DemoUser" android:onClick="onClickCreateAndSwitchtoDemoUser" />
+        <Button android:id="@id/btn_switch_to_owner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="switch to Owner" android:onClick="onClickSwitchtoOwner" />
+        <Button android:id="@id/btn_enable_demo_mode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Enable demo Mode" android:onClick="onClickSetDemoMode" />
+        <Button android:id="@id/btn_disable_demo_mode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Disable demo mode" android:onClick="onClickClearDemoMode" />
+        <Button android:id="@id/btn_update_video" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Update video" android:onClick="onClickUpdateVideo" />
+    </LinearLayout>
+</ScrollView>

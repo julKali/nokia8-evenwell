@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAȚI</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți folosind %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="accessibility_text">Accesibilitate</string>
+    <string name="account_intro_description">Mod folosire dispozitiv prin înregistrarea la [BRAND_NAME].</string>
+    <string name="account_intro_title">Cont servicii [BRAND_NAME]</string>
+    <string name="add_baidu_button_label">Conectare 百度云</string>
+    <string name="add_infocus_service_account">Adăugare cont [BRAND_NAME]</string>
+    <string name="back_btn_lebel">ÎNAPOI</string>
+    <string name="backup_and_restore_description">"Dacă anterior ați creat copie de rezervă contului, îl puteți restabili acum pe telefon.
+
+Schimbați setările copiei de rezervă în Setări."</string>
+    <string name="backup_and_restore_title">Copii/restaurare</string>
+    <string name="baidu_intro_description">Vă puteți bucura de integrarea stocării în cloud cu 百度云 parcurgând câțiva pași simpli.</string>
+    <string name="baidu_intro_title">Stocare cloud pt. Baidu</string>
+    <string name="baidu_progress_dialog_des">Așteptați...</string>
+    <string name="choose_timezone">Selectaţi fusul orar</string>
+    <string name="datausage_dialog_negitive_btn">„Anulare”</string>
+    <string name="datausage_dialog_positive_btn">„Ok</string>
+    <string name="date_and_time">Setări privind data şi ora</string>
+    <string name="date_and_time_settings_summary">Setați data, ora, fusul orar și formatele.</string>
+    <string name="date_and_time_settings_title">Data și ora</string>
+    <string name="date_and_time_settings_title_setup_wizard">Setați data și ora</string>
+    <string name="date_picker_title">Dată :</string>
+    <string name="date_time_24hour">Utilizaţi formatul de 24 de ore</string>
+    <string name="date_time_auto">Dată și oră automate</string>
+    <string name="date_time_auto_summaryOff">Folosire oră furnizată de rețea</string>
+    <string name="date_time_auto_summaryOn">Folosire oră furnizată de rețea</string>
+    <string name="date_time_date_format">Alegeţi formatul de dată</string>
+    <string name="date_time_set_date">Setaţi data</string>
+    <string name="date_time_set_time">Setați ora</string>
+    <string name="date_time_set_timezone">Selectaţi un fus orar</string>
+    <string name="device_checking_message">Bun venit</string>
+    <string name="dropbox_fih_description">Spațiu gratuit Dropbox de 2 GB pt. a salva fotografiile/videoclipurile.</string>
+    <string name="dropbox_fih_signin">Conectați-vă cu Dropbox</string>
+    <string name="dropbox_fih_signup">Înregistrați-vă cu Dropbox</string>
+    <string name="emergency_dial_hmd_message">Urgenţă</string>
+    <string name="emergency_dial_message">Apel de urgență</string>
+    <string name="expand_button_title">Avansat</string>
+    <string name="fih_legal_message">"Termeni de utilizare pt. software-ul [BRAND_NAME_PROXY]
+ 
+ Data efectivă: 20 mai 2016
+ 
+ Următorii Termeni și condiții (denumiți „Termeni”) reprezintă un contract legal ce guvernează utilizarea de către dvs. a software-ului [BRAND_NAME_PROXY], încheiat între dvs. și [BRAND_NAME_PROXY] Inc. și agenții săi, Commtiva Technology Ltd. (denumiți colectiv „[BRAND_NAME_PROXY]”); se aplică utilizării de către dvs. a software-ului [BRAND_NAME_PROXY], inclusiv, dar fără a se limita la descărcarea, instalarea, reînnoirea automată (denumite „Serviciu software”). Dacă folosiți software-ul [BRAND_NAME_PROXY], sunteți de acord cu Termenii; în caz contrar, nu descărcați, nu copiați, nu utilizați și nu păstrați software-ul [BRAND_NAME_PROXY].
+ 
+ 1. Termeni de utilizare
+ Atât timp cât respectați Termenii, [BRAND_NAME_PROXY] vă oferă servicii personale, neexclusive, netransferabile, revocabile și cu utilizare limitată a software-ului [BRAND_NAME_PROXY]. [BRAND_NAME_PROXY] va instala codul de obiect în dispozitivul mobil inteligent [BRAND_NAME_PROXY] (denumit „Aparat [BRAND_NAME_PROXY]”) prin internet. Recunoașteți și confirmați că software-ul [BRAND_NAME_PROXY] de pe aparatul [BRAND_NAME_PROXY] nu poate fi utilizat în scop comercial sau transferat unei terțe părți.
+ Sunteți de acord că nu veți utiliza software-ul [BRAND_NAME_PROXY] în:
+ (a) Cracking pentru software-ul [BRAND_NAME_PROXY] (inclusiv tehnologii de bază)/folosind software-ul [BRAND_NAME_PROXY] pe dispozitive fără marca [BRAND_NAME_PROXY];
+ (b) Analizarea, decompilarea, refacerea programului sursă, decodificarea, copierea, modificarea software-ului [BRAND_NAME_PROXY], lucrări derivate în orice scop;
+ (c) Măsuri, precum transferul, darea în leasing, închirierea sau sublicențierea, ce intră în conflict cu Termenii, care fac public software-ul [BRAND_NAME_PROXY]/lasă terța parte să utilizeze, să acceseze, să dețină software-ul [BRAND_NAME_PROXY];
+ (d) Eliminarea notificării de proprietate, a siglei, a mărcilor comerciale pt. software-ul [BRAND_NAME_PROXY], a documentelor fără consimțământul [BRAND_NAME_PROXY] scris;
+ (e) Utilizarea software-ului [BRAND_NAME_PROXY] în moduri ce contravin legii/încalcă drepturile celeilalte părți;
+ (f) Utilizarea software-ului [BRAND_NAME_PROXY] în medii ce interzic/limitează utilizarea, precum zona de control a zborurilor, benzinării, echipament nuclear; sau
+ (g) Folosirea software-ului [BRAND_NAME_PROXY] în modul interzis prin Termeni.
+ 
+ Pentru a vă asigura că aparatul [BRAND_NAME_PROXY] și software-ul [BRAND_NAME_PROXY] funcționează bine, promiteți că nu distrugeți și nu mutați etichetele de pe aparatul [BRAND_NAME_PROXY] fără ajutorul personalului [BRAND_NAME_PROXY]. Astfel de activități neautorizate vor afecta scopul și perioada garanției oferită de [BRAND_NAME_PROXY].
+ 
+ 2. Politica de confidențialitate
+ Recunoașteți și confirmați că [BRAND_NAME_PROXY] poate colecta și păstra informații, inclusiv, dar fără a se limita la model, numărul serial, codul IMEI/MEID, versiunea de HW și SW, timpul de utilizare, SKU ID, setările implicite și versiunea SO de pe aparatul [BRAND_NAME_PROXY] (denumite „Informații”). 
+ Dacă i se solicită să dezvăluie informații unei agenții guvernamentale sau unei instanțe judecătorești, [BRAND_NAME_PROXY] va face acest lucru.
+ 
+ Aparatul [BRAND_NAME_PROXY] va informa [BRAND_NAME_PROXY] că nu a fost conectat la o rețea mobilă timp de cel puțin 14 zile de la data achiziției.
+ 
+ Pentru detalii, consultați Politica de confidențialitate [BRAND_NAME_PROXY].
+ 
+ 3. Servicii de asistență
+ [BRAND_NAME_PROXY] va furniza servicii de software, inclusiv, dar fără a se limita la actualizări/upgrade-uri pt. software-ul [BRAND_NAME_PROXY] în funcție de starea pe care [BRAND_NAME_PROXY] o obține de la aparatul [BRAND_NAME_PROXY].
+ [BRAND_NAME_PROXY] furnizează actualizări, corecții sau elemente adăugate la software-ul [BRAND_NAME_PROXY] după utilizarea de către dvs. a acestuia prin internet, care va fi supusă Termenilor.
+ 
+ 
+ [BRAND_NAME_PROXY] va publica versiunile ulterioare ale software-ului [BRAND_NAME_PROXY]; vă cere să folosiți versiunea SO recentă.
+ 
+ 4. Actualizare automată
+ Pentru a îmbunătăți propriul aparat [BRAND_NAME_PROXY], descărcați automat cel mai recent firmware și software de la [BRAND_NAME_PROXY] 
+ 
+ Pentru siguranța și stabilitatea aparatului [BRAND_NAME_PROXY], sunteți de acord să respectați instrucțiunile necesare oferite de [BRAND_NAME_PROXY]. 
+ 
+ Pentru a evita pierderea de documente, fotografii, texte, fișiere sunet, fișiere video și orice tip de înregistrări electronice ce s-ar putea pierde/distruge ca urmare a actualizărilor pentru aparatul [BRAND_NAME_PROXY], veți fi responsabil pentru copiile înregistrărilor electronice din aparatul [BRAND_NAME_PROXY] înainte de descărcarea versiunii recente de firmware/software.
+ 
+ După ce aparatul [BRAND_NAME_PROXY] se actualizează automat sau cu acordul dvs. sub formă de mesaj, înseamnă că sunteți de acord cu următorul conținut:
+ (a) Actualizare software:
+ Sunteți de acord că [BRAND_NAME_PROXY] se poate conecta prin internet pt. a verifica versiunea de software/starea actualizării de pe aparatul [BRAND_NAME_PROXY]. Dacă [BRAND_NAME_PROXY] emite o notificare de upgrade, [BRAND_NAME_PROXY] vă permite să actualizați software-ul [BRAND_NAME_PROXY] și starea prin serviciul [BRAND_NAME_PROXY].
+ Când este disponibil un nou software [BRAND_NAME_PROXY], permiteți [BRAND_NAME_PROXY] să vă trimită notificări de actualizări. Dacă acceptați actualizările disponibile, sunteți de acord să permiteți [BRAND_NAME_PROXY] să actualizeze automat aparatul [BRAND_NAME_PROXY].
+ (b) Sincronizare și actualizare conținut:
+ După conectarea aparatului [BRAND_NAME_PROXY] la computer sau alt dispozitiv, aparatul [BRAND_NAME_PROXY] va actualiza automat conținutul aferent și alte informații (de ex.: informații de contact, calendar, marcaje și fișiere.)
+ 
+ 5. Rezervarea dreptului de proprietate/altor drepturi în software-ul [BRAND_NAME_PROXY]
+ Deși aveți licență pentru software-ul/serviciile [BRAND_NAME_PROXY], [BRAND_NAME_PROXY], afiliații și furnizorii săi păstrează drepturile pt. software-ul [BRAND_NAME_PROXY], precum dreptul de proprietate, de autor/alte drepturi de proprietate intelectuală.
+ 
+ Drepturile pt. software-ul [BRAND_NAME_PROXY] sunt protejate de legi naționale/tratate internaționale.
+ 
+ 6. Exonerare de răspundere
+ [BRAND_NAME_PROXY] nu oferă nicio declarație sau garanție, expresă sau implicită, inclusiv, dar fără a se limita la, garanțiile implicite de vandabilitate, calitatea satisfăcătoare și adecvarea la un anumit scop ori neîncălcarea legilor. 
+ [BRAND_NAME_PROXY] nu oferă garanția că:
+ (a) Niciun serviciu [BRAND_NAME_PROXY] obținut de dvs. nu va fi exact, fiabil; sau
+ (b) Serviciul [BRAND_NAME_PROXY] va fi furnizat neîntrerupt, la timp și securizat; sau
+ (c) Defectele sau erorile din software-ul furnizat vor fi corectate imediat.
+ 
+ [BRAND_NAME_PROXY] nu va fi responsabilă pentru pierderea sau deteriorarea cauzate de viruși sau alte materiale dăunătoare ce pot infecta aparatul [BRAND_NAME_PROXY], programele, datele sau alte materiale din cauza utilizării serviciilor [BRAND_NAME_PROXY]. Întregul conținut și alte materiale pe care le descărcați sau obțineți prin [BRAND_NAME_PROXY] sunt accesate pe propriul risc, dvs. fiind singurul responsabil pentru daunele la aparatul [BRAND_NAME_PROXY] sau pt. pierderea datelor/conținutului software-ului descărcat.
+ 
+ 7. Limitarea răspunderii și măsuri reparatorii exclusive
+ [BRAND_NAME_PROXY] nu va fi responsabilă pentru daune incidente, subsecvente, indirecte, punitive, sau daune din cauza pierderii profitului, a informațiilor confidențiale, a altor informații, pentru întreruperea activității, vătămări corporale, pierderea confidențialității, neîndeplinirea obligațiilor, îngrijire rezonabilă, neglijență.
+ În limita maximă permisă de legea în vigoare, răspunderea maximă cumulată a [BRAND_NAME_PROXY] față de dvs. și singura măsură reparatorie în baza Termenilor pentru oricare sau toate daunele, rănirile, deteriorarea bunurilor și pierderile rezultate din toate pretențiile sau procesele asociate Termenilor pentru recuperarea daunelor reale nu va depăși 10 dolari (10 USD). 
+ 
+ Pretențiile sau procesele multiple legate de Termeni nu vor extinde limitarea răspunderii și, în limita maximă permisă de legea în vigoare, va fi singura măsură reparatorie.
+ 
+ Dacă o instanță cu jurisdicție competentă consideră inaplicabilă asumarea responsabilității, aceasta se va aplica doar în limita permisă, iar cuvintele „nu depășește 10 dolari” se vor înlocui cu „nu depășește valoarea tranzacției în legătură cu care s-a asumat responsabilitatea”.
+ 
+ O astfel de pretenție legată de Termeni trebuie depusă în decurs de un an după apariția cauzei acțiunii. 
+ 8. Despăgubiri
+ Sunteți de acord să apărați, să compensați, să protejați [BRAND_NAME_PROXY], acționarii, directorii, funcționarii, părțile interesate, angajații, filialele, afiliații săi, de orice cerere, pierdere, răspundere, pretenție, cheltuială (inclusiv onorariile avocaților) formulate împotriva [BRAND_NAME_PROXY] de orice terță parte din cauza sau rezultată din/în legătură cu utilizarea incorectă a serviciilor [BRAND_NAME_PROXY] care încalcă drepturile terței părți.
+ 
+ 9. Încetarea serviciului
+ Nu vi se permite să utilizați serviciile [BRAND_NAME_PROXY] dacă nu respectați Termenii. În astfel de situații, veți distruge/elimina toate copiile software-ului [BRAND_NAME_PROXY]. Între timp, garanția propriului aparat [BRAND_NAME_PROXY] va fi afectată.
+ În cazul unei astfel de încălcări de mai sus, sunteți de acord că [BRAND_NAME_PROXY] are dreptul la următoarele:
+ (a) Încetarea imediată a dreptului de acces la contul [BRAND_NAME_PROXY]; și/sau
+ (b) Blocarea accesului ulterior la contul [BRAND_NAME_PROXY]
+ 
+ De asemenea, sunteți de acord că încălcarea Termenilor va cauza un rău ireparabil [BRAND_NAME_PROXY], pentru care despăgubirile bănești vor fi inadecvate; sunteți de acord cu obținerea de către [BRAND_NAME_PROXY] de hotărâri judecătorești pe care [BRAND_NAME_PROXY] le consideră necesare în astfel de situații. Aceste măsuri reparatorii sunt în plus față de altele pe care [BRAND_NAME_PROXY] le are prin lege sau oficial.
+ 
+ 10. Legea care guvernează; jurisdicția
+ Sunteți de acord că toate problemele privind disputele legate de Termeni vor fi guvernate de legile Republicii Chineze (R.O.C), indiferent de conflictele din prevederile legale. 
+ 
+ Sunteți de acord cu jurisdicția locală a instanței din Taipei, Taiwan și renunțați la orice obiecție legată de jurisdicție.
+ 
+ Disputele nu pot fi rezolvate printr-un aranjament amiabil reciproc între dvs. și [BRAND_NAME_PROXY] are dreptul să solicite mediere între dvs. sau [BRAND_NAME_PROXY]. Dacă disputa nu poate fi rezolvată prin mediere în decurs de 30 de zile calendaristice, va fi înaintată instanței de mai sus.
+ 
+ 11. Clauză generală
+ Titlurile din Termeni sunt numai pentru ușurință.
+ Nerespectarea de către [BRAND_NAME_PROXY] de a lua măsuri împotriva încălcării nu constituie o renunțare a drepturilor pentru această încălcare/încălcările subsecvente.
+ 
+ Dacă o instanță cu jurisdicție competentă stabilește că Termenii nu sunt valabili/aplicabili, aceasta înlocuiește prevederea nevalidă/inaplicabilă cu una validă/aplicabilă, care se potrivește cel mai mult cu prevederea inițială, iar restul Termenilor vor rămâne în continuare valabili. 
+ 
+ Nu aveți dreptul să atribuiți Termenii, să transferați, să sublicențiați drepturile din Termeni.
+ 
+ [BRAND_NAME_PROXY] are dreptul să atribuie Termenii, total sau parțial, oricând, cu sau fără notificare. 
+ 
+ Acești Termeni prevalează asupra comunicărilor anterioare/curente de orice fel între dvs. și [BRAND_NAME_PROXY] cu privire la Site.
+ 
+ 12. Întregul contract
+ Termenii și atașările de reînnoire alcătuiesc întregul contract între dvs. și [BRAND_NAME_PROXY] cu privire la serviciile [BRAND_NAME_PROXY].
+ 
+ 13. Modificarea Termenilor
+ [BRAND_NAME_PROXY] are dreptul să actualizeze, modifice, șteargă conținutul Termenilor la alegerea sa.
+ 
+ Trebuie să verificați termenii publicați pe site-ul [BRAND_NAME_PROXY] care ar putea diferi de termenii citiți inițial de dvs.
+ 
+ Se consideră că acceptați modificarea utilizând software-ul de reînnoire și aparatul [BRAND_NAME_PROXY].
+"</string>
+    <string name="fih_legal_title">Aspecte juridice privind [BRAND_NAME_PROXY]</string>
+    <string name="finish_button_label">TERMINARE</string>
+    <string name="google_account_add_account">Conectați-vă cu Google</string>
+    <string name="google_account_intro_description">Pentru servicii Google, configurați contul Google.</string>
+    <string name="google_account_intro_title">Cont Google</string>
+    <string name="hmd_legal_message">"Condiții de furnizare a serviciilor 
+ 
+Data intrării în vigoare: 14 octombrie 2016 
+ 
+1. Acceptare 
+Acești Termeni și condiții pentru serviciile HMD Global împreună cu Politica de confidențialitate, precum și toți ceilalți termeni și informații suplimentare ce pot fi puse la dispoziție în cadrul Serviciului (denumite împreună „Condițiile”) guvernează utilizarea serviciului, site-ului web, conținutului și a software-ului (denumite împreună „Serviciul”). Prin înregistrarea pentru sau prin folosirea Serviciului sau a oricărei secțiuni, acceptați Condițiile. 
+ 
+Condițiile constituie un acord între dumneavoastră și HMD Global Oy, cu sediul în Bertel Jungin aukio 9, 02610 Espoo, Finlanda, inclusiv subsidiarele și furnizorii acesteia (denumite împreună „HMD Global”), ce definește drepturile și responsabilitățile dumneavoastră și ale HMD Global cu privire la Serviciu. 
+ 
+2. Eligibilitate 
+Pentru a folosi Serviciul, trebuie să fi împlinit treisprezece (13) ani. Dacă nu ați împlinit treisprezece (13) ani sau aveți treisprezece (13) ani, dar sunteți încă minor în statul în care locuiți, trebuie ca un părinte sau un reprezentant legal să accepte înregistrarea în numele dumneavoastră și să fie de acord cu utilizarea Serviciului de către dumneavoastră. Orice persoană ce efectuează înregistrarea trebuie să fie competentă din punct de vedere legal. 
+ 
+3. Înregistrare și renunțare 
+Pentru a folosi un Serviciu, este posibil să trebuiască să vă înregistrați și să creați un cont HMD cu un nume de utilizator și o parolă, care poate fi supus unor condiții separate. Este posibil ca dumneavoastră să trebuiască să ne furnizați anumite informații personale și de altă natură. HMD Global poate verifica adresa dumneavoastră de e-mail anterior posibilității de a utiliza contul. La o primă utilizare a dispozitivului dumneavoastră și la fiecare actualizare a software-ului Nokia al dispozitivului dumneavoastră, un mesaj text va fi trimis către HMD Global. Crearea unui cont HMD necesită transfer de date. Pentru transferul de date pot fi incidente costuri. 
+ 
+Sunteți de acord să furnizați informații corecte și complete când vă înregistrați pentru Serviciu și să mențineți aceste informații actualizate. Trebuie să luați toate măsurile necesare pentru a vă proteja numele de utilizator și parola împotriva utilizării abuzive de către alte persoane și să notificați HMD Global cu promptitudine cu privire la orice utilizare abuzivă. Dumneavoastră și, în cazul în care sunteți minor, părintele sau tutorele dumneavoastră legal, sunteți personal răspunzător (răspunzători) pentru orice utilizare a Serviciului. 
+ 
+Puteți renunța la înregistrarea dumneavoastră dacă nu mai doriți să utilizați Serviciul. După renunțarea la înregistrare, nu veți mai avea acces la Serviciu. HMD Global poate înceta sau vă poate restricționa accesul la anumite părți din Serviciu, dacă HMD Global consideră în mod rezonabil că ați încălcat Condițiile sau cu o notificare prealabilă scrisă, în cazul în care nu v-ați conectat cu numele dumneavoastră de utilizator în Serviciu în cursul ultimelor șase (6) luni. 
+ 
+Cu excepția prevederilor din Politica de confidențialitate, HMD Global nu este răspunzătoare pentru ștergerea sau pierderea din Serviciu a informațiilor sau conținutului pe care le-ați transmis. Când informațiile sau conținutul sunt șterse din Serviciu fie de către dumneavoastră, fie de către HMD Global, urme sau copii mai pot rămâne altundeva. 
+ 
+4. Licențe 
+HMD Global vă acordă o licență neexclusivă, netransferabilă, revocabilă în orice moment la libera alegere a HMD Global, pentru a accesa și utiliza Serviciul în conformitate cu Condițiile. Utilizarea Serviciului nu vă acordă niciun drept de proprietate intelectuală asupra oricăror informații sau conținut ale Serviciului. 
+ 
+Ca parte a Serviciului, HMD Global vă poate pune la dispoziție conținutul dezvoltat de HMD Global sau de titularii săi de licență („Conținutul”). HMD Global vă acordă o licență neexclusivă și perpetuă pentru a folosi Conținutul în scopurile pentru care a fost creat, în afara situației când se stipulează diferit în Condițiile aplicabile sau în comanda de achiziție. O parte a Conținutului poate fi disponibilă numai utilizatorilor din anumite zone geografice. Vă supuneți oricăror restricții aplicabile Conținutului specific obținut de pe seama Serviciului. Orice licență obținută privind un terț Conținut este un acord cu caracter obligatoriu între dumneavoastră și furnizorul acelui Conținut terț. Beneficiați doar de drepturile asupra Conținutului ce vă sunt acordate în mod expres prin prezenta informare. 
+ 
+Ca parte a Serviciului, HMD Global vă poate pune la dispoziție anumite software-uri dezvoltate de HMD Global sau de titularii săi de licență („Software”). Utilizarea Software-ului de către dumneavoastră poate fi supusă altor termeni și condiții pe care trebuie să le acceptați înainte de utilizarea Software-ului. Dacă nu există termeni și condiții separate aplicabile produselor Software, se aplică următoarele condiții: HMD Global vă oferă dreptul limitat, neexclusiv și netransferabil de a instala și utiliza Software-ul pe computerul și/sau dispozitivul dumneavoastră mobil. Nu puteți copia Software-ul, cu excepția unei singure copii de siguranță tip arhivă. Nu puteți distribui, transfera dreptul de utilizare, modifica, traduce, reproduce, revinde, sublicenția, închiria, da în locațiune, folosi tehnica ingineriei inverse, sau orice altă modalitate de a descoperi codul sursă sau de a produce opere derivate ale Software-ului. Pentru software-ul licențiat de tip „open source”, se aplică condițiile de licențiere „open source” relevante. Utilizarea de către dumneavoastră a Software-ului indică acceptarea tuturor termenilor și condițiilor aplicabile. 
+ 
+Software-ul poate fi supus controalelor privind exportul în temeiul Reglementărilor SUA privind Administrarea Exporturilor, precum și altor reglementări de control al importurilor sau exporturilor. Sunteți de acord să vă supuneți cu strictețe tuturor reglementărilor aplicabile privind importul și exportul și confirmați că aveți obligația de a obține licențe pentru exportul, reexportul, transferul sau importul de astfel de Software. 
+ 
+Veți avea posibilitatea să transmiteți informații sau conținut („Material”) către Serviciu. HMD Global nu pretinde dreptul de proprietate asupra Materialului dumneavoastră. Transmiterea Materialului nu determină transferarea către HMD Global a drepturilor dumneavoastră de proprietate asupra Materialului. HMD Global doar transmite Materialul și nu este răspunzătoare pentru controlul editorial asupra acestuia. Prin transmiterea Materialului către Serviciu, acordați către HMD Global o licență valabilă la nivel internațional, neexclusivă, care poate fi sublicențiată, care poate fi cesionată, care a fost integral achitată, fără plata unor drepturi de autor, permanentă și irevocabilă pentru a utiliza, copia, executa public, afișa, distribui în orice medii și modifica Materialul sau include Materialul în alte lucrări, precum și a acorda sublicențe similare, în măsura în care acest fapt îi este necesar lui HMD Global pentru furnizarea Serviciului. Dumneavoastră veți putea să ajustați această permisiune în setările de confidențialitate și în alte setări ale Serviciului. 
+ 
+Sunteți singur răspunzător pentru efectuarea de copii de siguranță a datelor pe care le stocați în Serviciu, inclusiv Conținutul pe care îl încărcați. Dacă Serviciul este întrerupt sau anulat, HMD Global poate șterge definitiv datele dumneavoastră. HMD Global nu are nicio obligație de a vă returna date după ce Serviciul a fost întrerupt sau anulat. 
+ 
+5. Utilizarea serviciului 
+Sunteți de acord: 
+• să respectați legile aplicabile, Condițiile și bunele maniere; 
+• să utilizați Serviciul doar în scopuri personale, necomerciale; 
+• să nu transmiteți Materiale ilegale, cu conținut ofensator, incorect, înșelător, abuziv, pornografic, șicanator, denigrator sau vreun alt Material necorespunzător; 
+• să obțineți orice aprobări, permise sau licențe care v-ar putea fi necesare pentru a furniza în mod legal orice Material; 
+• să respectați confidențialitatea altor persoane; 
+• să nu distribuiți și să nu postați mesaje spam, documente de dimensiuni nerezonabil de mari, mesaje concatenate, scheme piramidale, viruși; 
+• să nu folosiți orice alte tehnologii sau să inițiați acțiuni care pot aduce daune Serviciului, intereselor sau proprietății utilizatorilor Serviciului; 
+• să nu folosiți niciun tip de sisteme sau mijloace automate de accesare, obținere, copiere sau monitorizare a oricărei părți a Serviciului și 
+• să fiți responsabil de consecințele în legătură cu Materialul pe care l-ați postat. 
+ 
+HMD Global poate, dar nu are obligația de: 
+• a monitoriza sau restricționa orice Conținut sau Material; 
+• a șterge din Serviciu un Material și 
+• a limita în orice moment accesul la orice parte a Serviciului, la libera sa alegere. 
+ 
+6. Conținut 
+Înainte de a descărca sau accesa orice Conținut, vă rugăm să verificați restricțiile de vârstă sau evidențierea drept „ofensator” sau „explicit” aplicabile Conținutului pe care doriți să îl accesați. 
+ 
+HMD Global nu va fi răspunzătoare în niciun fel pentru orice pretenții sau ofense cauzate sau suferite de accesarea de către dumneavoastră a respectivului Conținut. 
+ 
+Sunteți de acord: 
+• să utilizați Conținutul doar în scopuri personale, necomerciale; 
+• să utilizați Conținutul în conformitate cu restricțiile prevăzute de legislația aplicabilă, condițiile suplimentare, ghiduri și politici sau de paginile de produs care se aplică părții respective a Conținutului; 
+• să nu faceți copii, să dați, vindeți, revindeți, împrumutați, închiriați, oferiți, difuzați, trimiteți, distribuiți, transferați, comunicați publicului, reproduceți, modificați, afișați, efectuați, exploatați comercial sau să puneți la dispoziție Conținutul, dacă nu sunteți autorizat prin Condițiile aplicabile, și să informați HMD Global cu promptitudine despre oricare astfel de utilizare neautorizată; 
+• să nu ștergeți, eludați, să folosiți inginerie inversă, decriptați, sau să modificați sau să interveniți asupra oricăror reguli de utilizare aplicabile sau să încercați să eludați gestionarea drepturilor digitale sau să copiați caracteristicile de protecție asociate Conținutului sau oricăror altor tehnologii folosite pentru controlul accesului și folosirea Conținutului sau informațiilor sale de identificare; 
+• să nu folosiți sisteme sau mijloace automate, cu excepția celor furnizate de noi, pentru selectarea și descărcarea Conținutului și 
+• să nu furnizați parola dumneavoastră sau să permiteți în alt mod altcuiva să acceseze Conținutul. Restricțiile privind copierea care se aplică pentru media sunt incidente de asemenea Conținutului accesat ca parte a acestui Serviciu. 
+ 
+Conținutul este proprietatea și/sau este controlat de HMD Global și/sau de respectivii furnizori de licențe și este protejat de legile privind proprietatea intelectuală. Furnizorul de Conținut terț este singurul răspunzător pentru orice Conținut pe care îl furnizează, pentru orice garanții, în măsura în care nu s-a renunțat la astfel de garanții, și pentru orice pretenții ați putea avea în legătură cu acel Conținut sau cu privire la folosirea acelui Conținut de către dumneavoastră. Cu toate acestea, HMD Global poate pune în executare condițiile de licențiere a Conținutului terților împotriva dumneavoastră în calitate de terț beneficiar al acestor condiții. Furnizorii de Conținut terți sunt terți beneficiari cu privire la aceste Condiții și pot pune în executare prevederile acestor Condiții ce privesc direct Conținutul asupra cărora au drepturi. HMD Global poate acționa ca intermediar pentru furnizorii de Conținut terți în furnizarea Conținutului către dumneavoastră. HMD Global nu este parte la tranzacția dintre dumneavoastră și furnizorii de Conținut terți pentru astfel de Conținut. 
+ 
+7. Acuzațiile de încălcare a drepturilor de autor 
+HMD Global respectă drepturile de proprietate intelectuală ale terților. Dacă doriți să trimiteți o notificare cu privire la o încălcare a drepturilor de proprietate intelectuală, inclusiv dispute legate de încălcarea drepturilor de proprietate intelectuală, vă rugăm să utilizați procedurile de transmitere a Notificărilor legate de încălcări. NICIO PROBLEMĂ CARE NU ARE LEGĂTURĂ CU ACEASTĂ PROCEDURĂ NU VA PRIMI UN RĂSPUNS. 
+ 
+HMD Global utilizează procedurile prevăzute la Capitolul 17 din Codul Statelor Unite, Secțiunea 512, pentru a răspunde notificărilor referitoare la încălcarea drepturilor de autor. În anumite cazuri, HMD Global poate dezactiva sau renunța la conturile utilizatorilor de servicii HMD Global care efectuează încălcări repetate. 
+ 
+8. Notificări 
+HMD Global poate posta notificări în cadrul Serviciului. HMD Global poate, de asemenea, să trimită notificări despre produse și servicii către adresa de e-mail sau la numărul de telefon pe care ni le-ați furnizat. Se consideră că ați primit aceste notificări în cel mult șapte (7) zile de când HMD Global le-a transmis sau postat. Utilizarea continuă a Serviciului constituie dovada primirii de către dumneavoastră a notificărilor, indiferent de metoda de transmitere. 
+ 
+9. Tarife 
+Utilizarea Serviciului de către dumneavoastră poate fi sau poate deveni supusă unor tarife. 
+ 
+Orice tarife percepute de HMD Global în legătură cu Serviciul vor fi anunțate separat. 
+ 
+Utilizarea Serviciului poate presupune transmiterea de date prin intermediul rețelei furnizorului dumneavoastră de servicii. Tarifele afișate în cadrul Serviciului nu includ eventualele tarife pentru transferul de date, mesaje text, furnizarea de servicii de voce și de altă natură, percepute de furnizorul dumneavoastră de servicii de rețea. 
+ 
+HMD Global nu-și asumă răspunderea pentru plata niciunor tarife ale furnizorilor dumneavoastră de servicii. 
+ 
+10. Condiții de comandă și plată 
+„Comandă” va avea sensul de selecție a Conținutului plătibil și/sau a abonamentului la Conținut oferite de HMD Global și disponibile în Serviciu, și de transmitere a metodei de plată, precum și de transmitere a comenzii prin selectarea opțiunii „cumpăr”, „ok”, „accept” sau orice confirmare de acceptare similară în procesul de comandă, sau furnizarea altei indicații de acceptare a condițiilor ce vă sunt prezentate în procesul de comandă. 
+ 
+Pentru a face o Comandă în cadrul Serviciului, trebuie să fi împlinit vârsta legală sau a majoratului, potrivit legislației aplicabile. Dacă nu ați împlinit vârsta legală sau a majoratului, puteți face Comenzi doar cu acordul prealabil al părinților sau al tutorelui dumneavoastră legal. 
+ 
+Sunteți de acord că toate Comenzile vor fi valabile din punct de vedere legal și obligatorii. Toate Comenzile sunt supuse acceptării de către HMD Global. 
+ 
+Puteți plăti prin card de debit sau de credit, prin facturare la furnizorul dumneavoastră de servicii de rețea sau prin orice altă metodă de plată disponibilă. 
+ 
+Cardul dumneavoastră de debit sau credit trebuie sa aibă o adresă de facturare în statul în care Conținutul vă este oferit de Serviciu. HMD Global va taxa cardul dumneavoastră de credit sau va debita contul dumneavoastră bancar într-un interval de timp rezonabil după ce ați efectuat Comanda. Toate plățile prin card de credit sunt supuse unor verificări de validare și autorizare din partea emitentului de card. 
+ 
+Dacă alegeți facturarea prin intermediul furnizorului dumneavoastră de servicii de rețea, tarifele vor apărea pe factura dumneavoastră pentru telefonul mobil sau vor fi deduse din contul dumneavoastră preplătit, dacă utilizați un cont preplătit. Anumiți furnizori de servicii de rețea pot condiționa utilizarea de către dumneavoastră a Serviciului de respectarea unor termeni și condiții suplimentare, inclusiv stabilirea de limite ale valorii tarifelor ce pot fi facturate prin intermediul acestora. Tarifele ce depășesc limitele impuse de furnizorii de servicii de rețea sau soldul contului pot fi refuzate. 
+ 
+Sunteți de acord să plătiți tarifele în legătură cu Comanda dumneavoastră, să vă asigurați că instrumentul de plată este valid în momentul efectuării Comenzii, că sunteți deținătorul de drept al instrumentului și că acest instrument de plată este folosit fără a se depăși limitele de credit. 
+ 
+Conținutul livrat este licențiat către dumneavoastră. Sunteți de acord să folosiți acest Conținut numai în măsura permisă de aceste Condiții și de orice alte condiții suplimentare care vă pot fi prezentate în cadrul procesului de comandă. 
+ 
+Serviciul poate oferi abonamente. Prin prezenta autorizați Serviciul să aplice un tarif periodic pe perioada abonamentului. De asemenea, Serviciul poate oferi o perioadă de probă. În cazul în care Comanda dumneavoastră include o perioadă de probă (cunoscută și ca „încearcă-și-cumpără”), puteți fi taxat când expiră perioada de probă, în afară de cazul în care anulați Comanda în conformitate cu condițiile abonamentului/probei. 
+ 
+Prețurile Serviciului pot fi modificate periodic. Prețurile includ tarifele aplicabile în vigoare la data tranzacției dumneavoastră, cu excepția cazului în care se prevede altfel. Pot exista cazuri în care să suportați tarife suplimentare percepute de banca sau de furnizorul dumneavoastră de carduri de credit, în baza unor rate de schimb valutar utilizate și/ sau a unor comisioane suplimentare evaluate. HMD Global nu își asumă nicio răspundere pentru plata de comisioane sau tarife bancare sau aferente oricăror altor servicii ale unor terțe părți. 
+ 
+11. Anulări și rambursări 
+Sunteți de acord ca transmiterea în formă electronică a Conținutului să fie inițiată concomitent cu plasarea Comenzii dumneavoastră. Nu veți putea anula Comanda dumneavoastră o dată ce a fost prelucrată. Conținutul nu este de natură a fi returnat. 
+ 
+În eventualitatea în care după Comanda dumneavoastră descoperiți și informați HMD Global în următoarele 48 de ore că (a) Conținutul pe care l-ați comandat nu poate fi utilizat corespunzător, (b) Conținutul pe care HMD Global îl furnizează nu corespunde descrierii Conținutului pe care l-ați comandat prin intermediul Serviciului sau (c) probleme tehnice au amânat sau împiedicat livrarea Conținutului dumneavoastră sau comenzi multiple accidentale cauzate de asemenea probleme tehnice, atunci măsura singură și exclusivă de care dispuneți în legătură cu respectivul Conținut va fi fie înlocuirea respectivului Conținut, fie rambursarea prețului plătit pentru respectivul Conținut, așa cum este stabilit exclusiv de HMD Global. 
+ 
+În caz contrar, nu se pot efectua rambursări. În cazul în care vă confruntați cu oricare dintre problemele menționate mai sus, vă rugăm să contactați serviciul de asistență clienți al HMD Global. 
+ 
+Vă rugăm să luați la cunoștință faptul că serviciul de asistență clienți al HMD Global nu va putea să proceseze cererea dumneavoastră de asistență dacă nu veți putea furniza numărul de identificare al tranzacției, care vă este pus la dispoziție de HMD Global ca urmare a Comenzii din Serviciu. HMD Global va putea procesa doar rambursările pentru Conținut unde prețul total este mai mare decât limita monetară prevăzută în legislația locală aplicabilă. 
+ 
+12. Reacții adresate HMD Global 
+Prin transmiterea oricăror idei, reacții și/sau propuneri („Reacții”) către HMD Global prin intermediul Serviciului sau al altor mijloace, conștientizați și sunteți de acord că: (1) HMD Global poate avea idei similare de dezvoltare față de Reacții; (2) Reacțiile dumneavoastră nu conțin informații ale dumneavoastră sau ale unei terțe părți cu caracter confidențial sau proprietar; (3) HMD Global nu are nicio obligație de confidențialitate cu privire la Reacții; (4) HMD Global poate în mod liber să utilizeze, să distribuie, să exploateze, să dezvolte și să modifice ulterior Reacțiile în orice scop; și (5) nu sunteți îndreptățit să primiți nicio compensație de niciun fel din partea HMD Global. 
+ 
+13. Activități sociale și partajarea locației 
+Puteți utiliza funcțiile Serviciului pentru a partaja locația dumneavoastră, starea, Conținutul, Materialele sau informațiile personale, sau pentru a interacționa cu alți utilizatori, site-uri și servicii. Prin utilizarea acestor funcții, sunteți de acord că HMD Global poate utiliza și furniza respectivele informații către alte servicii și persoane cu care dumneavoastră alegeți să interacționați sau să partajați respectivele informații. Utilizatorii acestor servicii și persoane, precum contactele dumneavoastră, vor putea vedea locația, starea și/sau informațiile dumneavoastră personale. În folosirea acestor funcții, consimțiți să nu partajați informații, Conținut sau Material sau să postați linkuri către alte servicii sau site-uri web care: (a) includ conținut sau alt material ilegal sau necorespunzător; sau (b) exploatează drepturi de proprietate intelectuală fără autorizare și încurajează pirateria. Nicio interacțiune nu implică HMD Global și se desfășoară exclusiv între dumneavoastră și ceilalți utilizatori. 
+ 
+14. Disponibilitate și cerințe tehnice 
+Disponibilitatea Conținutului și Serviciului poate varia și este supusă exclusiv deciziei HMD Global. HMD Global declară în mod expres că nu recunoaște vreo declarație sau garanție că orice Conținut sau Serviciu va fi disponibil. Serviciul poate să nu fie disponibil în toate țările și poate fi furnizat numai în limbile selectate. De asemenea, Serviciul, operațiunile și unele funcții pot să depindă de rețea, de compatibilitatea dispozitivelor folosite și de formatele de conținut acceptate de acestea. 
+ 
+Pentru a accesa Serviciul, poate fi necesar să descărcați o anumită parte a unui software dezvoltat de HMD Global sau de o terță parte. 
+ 
+HMD Global poate, la libera sa alegere, să schime, să corecteze sau să întrerupă Serviciul în întregime sau în parte. Este posibil ca Serviciul să nu fie disponibil pe parcursul perioadelor de mentenanță sau în alte momente. Pentru a vă asigura că dețineți cea mai recentă versiune de software și aplicații, dispozitivul dumneavoastră poate verifica în mod automat disponibilitatea actualizărilor de software de la HMD Global. Dacă sunt detectate orice astfel de actualizări, vi se va cere să aprobați instalarea. Puteți dezactiva verificarea automată de actualizări prin setările dispozitivului dumneavoastră. De asemenea, puteți instala software prin canalele de actualizare software disponibile. Dacă HMD Global consideră că o actualizare de Software este importantă sau esențială, nu veți mai putea folosi versiunile anterioare ale Software-ului. HMD Global poate împiedica utilizarea de către dumneavoastră a versiunilor anterioare ale Software-ului sau a Serviciului până când instalați actualizarea respectivă. 
+ 
+HMD Global poate dezactiva orice Conținut sau Software inclus în contul dumneavoastră din Serviciu pentru orice motiv și poate înlătura orice Conținut sau Software și/sau dezactiva copii ale oricărei aplicații de pe dispozitivul dumneavoastră, pentru a proteja Serviciul, furnizorii de aplicații, furnizorii de transmisie wireless, prin a căror rețea accesați serviciul sau oricare alte părți afectate sau potențial afectate. 
+ 
+Un serviciu particular poate fi o versiune prelansare, de exemplu o lansare beta, și este posibil să nu funcționeze în modul în care funcționează o versiune finală. HMD Global poate să modifice în mod substanțial orice versiune a Serviciului sau a Software-ului sau să decidă să nu lanseze o versiune finală. 
+ 
+15. Linkuri către alte site-uri web și alt conținut 
+HMD Global poate include linkuri către site-uri web și servicii de pe Internet sau preîncărcate care vă permit să interacționați cu site-uri web și servicii care sunt deținute sau operate de terți care nu sunt parte din Serviciu. Trebuie să revizuiți și să consimțiți asupra termenilor și condițiilor de utilizare a acestor site-uri web și servicii, înainte de a le utiliza. 
+ 
+HMD Global nu deține niciun control asupra conținutului, site-urilor web sau serviciilor aparținând unor terțe părți și nu-și asumă răspunderea pentru serviciile furnizate de terțe părți și nici pentru materialul creat sau publicat pe site-urile web ale unor terțe părți. Un link către un site web aparținând unui terț nu presupune că HMD Global aprobă site-ul web sau produsele sau serviciile la care se face referire în respectivul site web. 
+ 
+În plus, dumneavoastră și ceilalți utilizatori puteți crea conținut și linkuri către conținut în cadrul Serviciului, care nu au făcut în alt mod obiectul Serviciului. HMD Global nu este responsabilă pentru acest tip de conținut sau linkuri. 
+ 
+16. Anunțuri 
+Serviciul poate include anunțuri. Acestea pot fi direcționate către conținut sau informații stocate în Serviciu, către interogările făcute prin intermediul Serviciului sau către alte informații. 
+ 
+17. Date cu caracter personal 
+Politica de confidențialitate și orice alte informații suplimentare privind informațiile cu caracter personal ce v-au fost puse la dispoziție guvernează utilizarea datelor dumneavoastră cu caracter personal. 
+ 
+18. Limitarea răspunderii 
+Serviciul este asigurat în baza principiilor „CA ATARE” și „AȘA CUM ESTE DISPONIBIL”. HMD Global nu garantează că Serviciul nu va fi întrerupt sau că nu va avea erori sau viruși. Nu se acordă nicio garanție de nicio natură, expresă sau implicită, inclusiv, dar fără limitare la garanțiile asupra titlului sau neîncălcarea drepturilor și nicio garanție presupusă a caracterului comercial sau adecvat la un anumit scop, în legătură cu disponibilitatea, exactitatea, fiabilitatea, informațiile sau conținutul Serviciului. Consimțiți și recunoașteți în mod expres că utilizarea Serviciului se face doar pe riscul dumneavoastră și că puteți fi expuși unui conținut provenind din surse diferite. 
+ 
+Exceptând răspunderea în caz de deces sau vătămare corporală determinată de culpă gravă sau de încălcare cu intenție, HMD Global nu va fi răspunzătoare în niciun caz pentru daune indirecte, incidente, punitive sau subsecvente rezultând din utilizarea sau imposibilitatea de a utiliza Serviciul. 
+ 
+19. Compensații 
+Sunteți de acord să apărați, să despăgubiți și să nu țineți HMD Global răspunzătoare pentru nicio pretenție a terților și pentru nicio obligație, evaluare, pierdere, cost sau daună care rezultă din sau ia naștere din (i) încălcarea de către dumneavoastră a Condițiilor, (ii) încălcarea sau violarea de către dumneavoastră a oricăror drepturi de proprietate intelectuală, a altor drepturi sau a confidențialității unui terț sau (iii) utilizarea abuzivă a Serviciului de către un terț, în cazul în care utilizarea abuzivă a fost făcută posibilă ca urmare a neglijenței dumneavoastră de a lua măsuri rezonabile pentru a vă proteja numele de utilizator și parola împotriva utilizării abuzive. 
+ 
+20. Diverse 
+ 
+20.1 Legea aplicabilă 
+Condițiile sunt guvernate de legile din Finlanda indiferent de prevederile acestora privind conflictele de legi. 
+ 
+20.2 Validitate 
+Condițiile nici nu exclud și nici nu limitează niciunul dintre drepturile dumneavoastră obligatorii din țara dumneavoastră de reședință, la care nu se poate renunța prin lege. În cazul în care o prevedere a Condițiilor este considerată ca fiind lipsită de valabilitate, celelalte prevederi nu vor fi afectate, iar prevederea lipsită de valabilitate va fi înlocuită cu o prevedere valabilă care este cea mai aproape de rezultatul și de scopul Condițiilor. În cazul în care una sau mai multe prevederi ale acestor Condiții nu sunt relevante pentru utilizarea Serviciului de către dumneavoastră, acestea nu vor afecta valabilitatea sau forța executorie a oricărei alte prevederi a Condițiilor sau a Condițiilor ca și întreg. În cazul în care există un conflict între aceste Condiții pentru Serviciile HMD Global și Politica de confidențialitate, vor prevala prevederile acestor Condiții pentru Serviciile HMD Global. Prevederile Condițiilor care sunt menite să continue să producă efecte după încetarea înregistrării dumneavoastră rămân în vigoare după încetare. 
+ 
+20.3 Modificarea condițiilor 
+HMD Global poate modifica în orice moment Condițiile, fără vreo notificare prealabilă. În cazul în care Condițiile sunt modificate în mod semnificativ și contrar, HMD Global va transmite o notificare separată, de informare în legătură cu modificarea. 
+ 
+Sunteți răspunzător pentru revizuirea în mod regulat a Condițiilor. Utilizarea continuă a Serviciului reprezintă acordul dumneavoastră privind orice schimbări sau modificări. 
+ 
+21. Proprietate intelectuală 
+Serviciul, Conținutul și Software-ul sunt protejate în baza legilor internaționale privind drepturile de autor. HMD Global pretinde drepturi de autor cu privire la Serviciul, Conținutul și Software-ul său în măsura maximă prevăzută de lege. Sub rezerva Condițiilor, HMD Global reține toate drepturile, titlurile și interesele asupra Serviciului, Conținutului său, Software-ului, precum și asupra tuturor altor produse, software și altor proprietăți aparținând HMD Global care vă sunt puse la dispoziție sau pe care le utilizați prin intermediul Serviciului. 
+ 
+22. Cesiunea 
+HMD Global poate cesiona drepturile și obligațiile sale ce decurg din aceste Condiții către societatea sa mamă, către oricare dintre filialele sale sau către orice companie aflată în control comun cu HMD Global. În plus, HMD Global poate cesiona drepturile și obligațiile sale ce decurg din aceste Condiții unui terț în legătură cu o fuziune, achiziție, vânzare de active, prin efectul legii sau altfel."</string>
+    <string name="hmd_user_experience_program_message">Participarea dvs. la programul de experiență a utilizatorilor ajută HMD Global să înțeleagă mai bine ce apreciați la dispozitivul Nokia și ce considerați că trebuie îmbunătățit. Periodic, putem primi date anonime cu caracteristici tehnice despre dispozitivul dvs., cum ar fi un fișier cu date despre erorile de sistem care au avut loc. Rețineți că astfel de date nu vor fi transmise prin conexiunea de date mobile. Ne face plăcere să ascultăm ce aveți de spus despre dispozitivul dvs. Nokia!</string>
+    <string name="hmd_user_experience_program_title">Programul de experiență a utilizatorilor</string>
+    <string name="idle_too_long_toast">Acest telefon este inactiv. Închideți-l pt. a economisi bateria.</string>
+    <string name="language_selection_cancel_btn">ANULARE</string>
+    <string name="language_selection_title">Alegeți limba</string>
+    <string name="location_for_service">Utilizați Locația mea pt. căutarea Google și alte servicii Google.</string>
+    <string name="location_info_1">Serviciul de localizare Google oferă aplicații cu locația aproximativă fără a utiliza GPS.</string>
+    <string name="location_info_2">Puteți dezactiva funcțiile în Setări, în Servicii de localizare.</string>
+    <string name="location_network">Permiteți localizării Google să colecteze date anonime ale locației. Colectarea se va face chiar și când nu rulează o aplicație.</string>
+    <string name="location_title">Utilizare locație Google</string>
+    <string name="nevigation_selection_back">„Înapoi”</string>
+    <string name="nevigation_selection_home">Acasă</string>
+    <string name="nevigation_selection_recent">Recente</string>
+    <string name="nevigation_selection_text">Puteți schimba culoarea fundalului și poziția tastelor Înapoi/Recent.</string>
+    <string name="nevigation_selection_title">Setări bară navigare</string>
+    <string name="next_btn_lebel">ÎNAINTE</string>
+    <string name="normal_date_format">Regional (%s)</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="setup_complete_hmd">Sunteți gata să începeți...</string>
+    <string name="setup_complete_main">Sunteți</string>
+    <string name="setup_complete_sub">GATA.</string>
+    <string name="setup_completed_congratulations">Felicitări!</string>
+    <string name="sim_not_exist_toast">Verificați dacă ați introdus SIM-ul.</string>
+    <string name="skip_add_account_button_label">Nu acum</string>
+    <string name="skip_button_label">Ignorare</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Acceptă</string>
+    <string name="term_disagree_text">Nu sunt de acord</string>
+    <string name="terms_of_service_description">"
+Posibil să se perceapă taxe suplimentare pt. utilizarea datelor mobile când folosiți serviciile ce necesită conexiune la rețea: servicii meteo, internet, e-mail, browser etc. Pt. a gestiona eficient taxa pt. utilizarea datelor mobile, solicitați de la operator pachetul de servicii mobile.
+
+Dacă selectați Sunt de acord, permiteți serviciilor să se conecteze la rețea.
+
+În plus, actualizarea automată a software-ului este activată implicit. Pentru a vă oferi cel mai nou software, se pot utiliza date mobile. Ulterior puteți schimba oricând opțiunea în Setări.
+
+"</string>
+    <string name="terms_title">Utilizare date</string>
+    <string name="time_picker_title">Timp:</string>
+    <string name="traffic_prompt_content">Dacă nu sunteți de acord, trebuie să obțineți manual actualizarea de software, prognoza meteo sau alte informații.</string>
+    <string name="upload_agent_des_text">"Program experiență clienți. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Detalii&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Participați la Programul Nokia pentru utilizatori. &lt;a href='launch.UserExperienceActivity://Kode'>Aflați mai multe.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Program utilizatori</string>
+    <string name="v7_preference_off">DEZACTIVAT</string>
+    <string name="v7_preference_on">ACTIVAT</string>
+    <string name="welcome_hmd_term_of_use_2">"Dacă atingeți săgeata, sunteți de acord cu &lt;a href='launch.TermOfServiceActivity://Kode'>Termenii serviciului&lt;/a> și cu &lt;a href='launch.AddUploadAgentHandler://Kode'>Politica de confidențialitate&lt;/a>. Informațiile de activare a dispozitivului cu locația dispozitivului vor fi trimise o singură dată la HMD Global. Se pot aplica taxe pentru date."</string>
+    <string name="welcome_infocus_term_of_use">"Cu săgeata, acceptați&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Termenii de utilizare&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Să începem</string>
+    <string name="welcome_message">Bun venit</string>
+    <string name="welcome_start_button_label">PORNIȚI</string>
+    <string name="welcome_vision_settings_button_label">Setări vizualizare</string>
+    <string name="wifi_picker_connection_des_text">Dezactivarea WLAN poate genera costuri la verificarea software-ului prin rețeaua mobilă.</string>
+    <string name="wifi_picker_connection_negative">Conectare</string>
+    <string name="wifi_picker_connection_negative_prc">Conectare WLAN</string>
+    <string name="wifi_picker_connection_positive">„Ok</string>
+    <string name="wifi_picker_connection_title">Conexiune la rețea</string>
+    <string name="wifi_picker_warning_des_text">Până când nu aveți o conexiune la internet, telefonul nu va putea verifica actualizarea software-ului.</string>
+    <string name="wifi_picker_warning_negative">Omiteți oricum</string>
+    <string name="wifi_picker_warning_positive">Nu ignorați</string>
+    <string name="wifi_picker_warning_title">Avertizare</string>
+    <string name="zone_auto">Fus orar automat</string>
+    <string name="zone_auto_summaryOff">Folosește fusul orar din rețea</string>
+    <string name="zone_auto_summaryOn">Folosește fusul orar din rețea</string>
+    <string name="sugarsync_intro_description">Vă puteți bucura de integrarea stocării în cloud cu SugarSync parcurgând câțiva pași simpli.</string>
+</resources>

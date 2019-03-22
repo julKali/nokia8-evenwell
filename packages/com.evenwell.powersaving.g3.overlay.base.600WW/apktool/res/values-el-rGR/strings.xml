@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Να μην εμφανιστεί ξανά.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Ακύρωση</string>
+    <string name="switch_on_text">Ενεργοποίηση</string>
+    <string name="switch_off_text">Απενεργοποίηση</string>
+    <string name="fih_power_saving_permission_cancel">Ακύρωση</string>
+    <string name="lock_screen_ap_protect_title">Διαχείριση δραστηριότητας παρασκηνίου</string>
+    <string name="all_aps">Προσθήκη όλων των εφαρμογών στη λίστα αποδοχής</string>
+    <string name="fih_power_saving_doze_high_consumption">Υψηλή κατανάλωση ενέργειας</string>
+    <string name="fih_power_saving_background_activity_text">Ενεργοποιήστε τη Διαχείριση δραστηριότητας παρασκηνίου, για να παρατείνετε τη διάρκεια μπαταρίας. Ωστόσο, οι ειδοποιήσεις ορισμένων εφαρμογών ή email ενδέχεται να μην μπορούν να ανακτηθούν αμέσως. Μπορείτε να διαχειριστείτε τη διάρκεια μπαταρίας προσθέτοντας ή αφαιρώντας εφαρμογές από τη λίστα αποδοχής.</string>
+    <string name="fih_power_saving_background_cleaner">Καθαρισμός δραστηριότητας παρασκηνίου</string>
+    <string name="fih_power_saving_background_cleaner_summary">Οι ειδοποιήσεις ενδέχεται να μην ανακτώνται αμέσως</string>
+    <string name="app_block_list">Λίστα περιορισμένων ΕΦΑΡΜΟΓΩΝ</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/itemname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/FQCFCI" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:gravity="right" android:id="@id/itemtime" android:layout_width="60.0dip" android:layout_height="wrap_content" style="@style/FQCFCI" />
+        <TextView android:gravity="right" android:id="@id/itemcount" android:layout_width="50.0dip" android:layout_height="wrap_content" style="@style/FQCFCI" />
+        <TextView android:gravity="right" android:id="@id/itemresult" android:layout_width="65.0dip" android:layout_height="wrap_content" style="@style/FQCFCI" />
+    </LinearLayout>
+</LinearLayout>

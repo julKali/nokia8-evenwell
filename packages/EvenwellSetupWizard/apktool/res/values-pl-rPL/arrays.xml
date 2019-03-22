@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statyczny</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Wykrywaj automatycznie</item>
+        <item>Traktuj jako ograniczone</item>
+        <item>Traktuj jako nieograniczone</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Brak</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Brak</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Brak</item>
+        <item>Ręcznie</item>
+        <item>Autokonfiguracja proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Słaba</item>
+        <item>Dostateczna</item>
+        <item>Dobra</item>
+        <item>Doskonała</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skanowanie…</item>
+        <item>Łączenie…;</item>
+        <item>Uwierzytelnianie…</item>
+        <item>Uzyskiwanie adresu IP…</item>
+        <item>Połączono</item>
+        <item>Zawieszony</item>
+        <item>Trwa rozłączanie…</item>
+        <item>Rozłączono</item>
+        <item>Niepowodzenie</item>
+        <item>Zablokowane</item>
+        <item>Tymczasowo, by uniknąć połączenia o niskiej jakości</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skanowanie…</item>
+        <item>Łączenie z %1$s…</item>
+        <item>Trwa uwierzytelnianie w sieci %1$s…</item>
+        <item>Uzyskiwanie adresu IP z sieci %1$s…</item>
+        <item>Połączono z %1$s</item>
+        <item>Zawieszony</item>
+        <item>Trwa rozłączanie z siecią %1$s…</item>
+        <item>Rozłączono</item>
+        <item>Niepowodzenie</item>
+        <item>Zablokowane</item>
+        <item>Tymczasowo, by uniknąć połączenia o niskiej jakości</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI szesnastkowy</item>
+    </string-array>
+</resources>

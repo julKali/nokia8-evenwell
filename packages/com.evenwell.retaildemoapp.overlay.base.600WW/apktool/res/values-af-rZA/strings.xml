@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="cancel">KANSELLEER</string>
+    <string name="system_busy_msg">Stelsel is besig. Probeer asb later weer.</string>
+    <string name="no_new_demo_found_msg">"Geen demomateriaal gevind nie.
+
+Druk Oukei om demo-modus te begin?"</string>
+    <string name="copying">Kopieer tans...</string>
+    <string name="downloading">Laai tans af...</string>
+    <string name="download_complete_msg">"Aflaai afgehandel.
+
+Druk Oukei om demo-modus te begin."</string>
+    <string name="download_fail_msg">"Kon nie demomateriaal van die internet af aflaai nie.
+
+Druk Oukei om demo-modus te begin?"</string>
+    <string name="enable_demo_mode">Aktiveer demo-modus?</string>
+    <string name="disable_demo_mode">Deaktiveer demo-modus</string>
+    <string name="update_demo_video">Opdateer demo-video</string>
+    <string name="reset_device">Moet die toestel teruggestel word?</string>
+    <string name="demo_mode_notifications">Kennisgewings vir demo-modus</string>
+</resources>

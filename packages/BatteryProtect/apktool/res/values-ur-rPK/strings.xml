@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">بیٹری کی حفاظت</string>
+    <string name="fih_battery_protect_aging_nm_text">برائے مہربانی ہمارے کسٹمر سروس سنٹر سے رابطہ کریں، ٹیلی فون%1$sشکریہ</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">برائے مہربانی ہمارے کسٹمر سروس سنٹر سے رابطہ کریں؛ شکریہ</string>
+    <string name="fih_battery_protect_aging_text">محترم InFocus صارف، موبائل فون کی بیٹری کو قابل استعمال پرزہ سمجھا جاتا ہے، لہذا اگر آپ کو محسوس ہو کہ آپ کے فون کی بیٹری کی طاقت کافی حد تک کم ہوگئی ہو تو اس کے بہترین عمل کو یقینی بنانے کیلئے تشخیص اور مرمت کیلئے ڈیلر کے پاس لے جائيں۔ سوالات کے سلسلے میں برائے مہربانی ہمارے کسٹمر سروس سنٹر سے رابطہ کریں، ٹیلی فون%1$s شکریہ۔</string>
+    <string name="fih_battery_protect_aging_text_no_phone">محترم InFocus صارف، موبائل فون کی بیٹری کو قابل استعمال پرزہ سمجھا جاتا ہے، لہذا اگر آپ کو محسوس ہو کہ آپ کے فون کی بیٹری کی طاقت کافی حد تک کم ہوگئی ہو تو اس کے بہترین عمل کو یقینی بنانے کیلئے تشخیص اور مرمت کیلئے ڈیلر کے پاس لے جائيں۔ سوالات کے سلسلے میں برائے مہربانی ہمارے کسٹمر سروس سنٹر سے رابطہ کریں۔ شکریہ۔</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">محترم InFocus صارف، موبائل آلے کی بیٹری کو قابل استعمال پرزہ سمجھا جاتا ہے، لہذا اگر آپ کو محسوس ہو کہ آپ کے فون کی بیٹری کی طاقت کافی حد تک کم ہوگئی ہو تو اس کے بہترین عمل کو یقینی بنانے کیلئے تشخیص اور مرمت کیلئے ڈیلر کے پاس لے جائيں۔ سوالات کے سلسلے میں برائے مہربانی ہمارے کسٹمر سروس سنٹر سے رابطہ کریں۔ شکریہ۔</string>
+    <string name="fih_battery_protect_aging_text_wear">محترم InFocus صارف، موبائل آلے کی بیٹری کو قابل استعمال پرزہ سمجھا جاتا ہے، لہذا اگر آپ کو محسوس ہو کہ آپ کے فون کی بیٹری کی طاقت کافی حد تک کم ہوگئی ہو تو اس کے بہترین عمل کو یقینی بنانے کیلئے تشخیص اور مرمت کیلئے ڈیلر کے پاس لے جائيں۔ سوالات کے سلسلے میں برائے مہربانی ہمارے کسٹمر سروس سنٹر سے رابطہ کریں، ٹیلی فون%1$s شکریہ۔</string>
+    <string name="fih_battery_protect_aging_title">بیٹری وزارڈ</string>
+    <string name="fih_battery_protect_aging_title_wear">بیٹری وزارڈ</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">منسوخ کریں</string>
+    <string name="fih_battery_protect_alert_dialog_ok">ٹھیک ہے</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">یقین کرلیں کہ بیٹری صحیح سے لگ گئی ہے، ورنہ ہو چارج نہيں ہوگی۔</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">يقين کريں کہ بیٹری صحیح سے لگی ہوئی ہے۔</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">بیٹری کے درجہ حرارت کی جانچ کرنے سے قاصر۔ یقین کرلیں کہ بیٹری صحیح سے نصب ہے، ورنہ وہ چارج نہيں ہوگی۔</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">بیٹری کی درجہ حرارت درج کرنے سے قاصر۔</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">چارجنگ روک دیں!</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">درجہ حرارت زد سے باہر ہے۔</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">چارجنگ روک دیں</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">بیٹری وزارڈ</string>
+    <string name="fih_battery_protect_bl_warning_text">فون کا درجہ حرارت معمول سے زیادہ ہے۔ فون کو ٹھنڈا کرنے کیلئے اجلاپن کم کردیں</string>
+    <string name="fih_battery_protect_bl_warning_title">اجلاپن کم کرنے کی تنبیہہ</string>
+    <string name="fih_battery_protect_cancel_wear">منسوخ کریں</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">ہنگامی کال</string>
+    <string name="fih_battery_protect_cooldown_text">اف وقت فون کول ڈاؤن وضع میں ہے، صرف ایمرجنسی کالوں کی اجازت ہے۔</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">فون اس وقت کول ڈاؤن وضع میں ہے۔ بعد میں استعمال کریں۔</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"آپ کا فون گرم ہو رہا ہے، اس لئے یہ اپنے آپ کو ٹھنڈا کرنے کے لئے اقدام لے رہا ہے. آپ اب بھی اسے استعمال کر سکتے ہہیں، لیکن آپ نوٹس کر سکتے ہیں:
+چارجنگ رک سکتی ہے۔
+Wi-Fi بند ہو سکتا ہے۔
+ایپلی کیشنز بند ہو سکتی ہیں۔
+ہوائی جہاز موڈ کھل سکتا ہے۔
+آپ کا فون ایک بار یہ ٹھنڈا ہونے کے بعد عام حالت میں واپس آجائے گا."</string>
+    <string name="fih_battery_protect_cooldown_text_wear">اف وقت آلہ کول ڈاؤن وضع میں ہے، صرف ایمرجنسی کالوں کی اجازت ہے۔</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">بیٹری کا درجہ حرارت جانچنے سے قاصر، فون کول ڈاؤن وضع میں ہے، صرف ایمرجنسی کال کی جاسکتی ہے۔ یقین کرلیں کہ بیٹری صحیح سے نصب ہے۔</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">بیٹری کا درجہ حرارت جانچنے سے قاصر، آلہ کول ڈاؤن وضع میں ہے، صرف ایمرجنسی کال کی جاسکتی ہے۔ یقین کرلیں کہ بیٹری صحیح سے نصب ہے۔</string>
+    <string name="fih_battery_protect_cooldown_title">ٹھنڈا ہورہا ہے</string>
+    <string name="fih_battery_protect_cooldown_title_wear">ٹھنڈا ہورہا ہے</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">عام نوٹیفیکیشنز</string>
+    <string name="fih_battery_protect_full_charging">چارجنگ مکمل</string>
+    <string name="fih_battery_protect_full_charging_wear">چارجنگ مکمل</string>
+    <string name="fih_battery_protect_high_full_charging">زیادہ سے زیادہ چارجنگ کی حد اعلی درجہ حرارت پر پہنچی جاچکی ہے! جب فون کا درجہ حرارت معمول پر آ جاتا ہے تو سسٹم عام رفتار پر چارج کرنا جاری رکھے گا۔</string>
+    <string name="fih_battery_protect_high_full_charging_title">اعلی درجہ حرارت پر چارجنگ کی حد</string>
+    <string name="fih_battery_protect_high_temp_text_wear">بیٹری کا درجہ حرارت بہت زیادہ ہے، چارجنگ روک دیں</string>
+    <string name="fih_battery_protect_install_error_title_wear">بیٹری وزارڈ</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">چارج کرنے کے لئے براہ کرم اصلی بیٹری استعمال کرین، یا اس کی وجہ سے آپ کے آلہ کو دائمی/فزیکل نقصان ہو سکتا ہے۔</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">براہ کرم اصلی بیٹری استعمال کریں</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">چارجنگ رک گئی</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">بیٹری غلط ہے</string>
+    <string name="fih_battery_protect_low_full_charging">زیادہ سے زیادہ چارجنگ کی حد کم درجہ حرارت پر پہنچی جاچکی ہے! جب فون کا درجہ حرارت معمول پر آ جاتا ہے تو سسٹم عام رفتار پر چارج کرنا جاری رکھے گا۔</string>
+    <string name="fih_battery_protect_low_full_charging_title">کم درجہ حرارت پر چارجنگ کی حد</string>
+    <string name="fih_battery_protect_low_temp_text">درجہ حرارت بہت کم ہے، چارجنگ روک دیں</string>
+    <string name="fih_battery_protect_low_temp_text_wear">بیٹری کا درجہ حرارت بہت کم ہے، چارجنگ روک دیں</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">بیٹری کا درجہ حرارت بہت کم ہے، چارجنگ رک جائے گی۔</string>
+    <string name="fih_battery_protect_low_temp_title">انتباہ</string>
+    <string name="fih_battery_protect_low_temp_title_wear">کم درجہ حرارت</string>
+    <string name="fih_battery_protect_maxtemp_text">فون کا درجہ حرارت بہت زیادہ ہے، بند ہوجائے گا۔</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">آلے کا درجہ حرارت بہت زیادہ ہے، بند ہوجائے گا۔</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">گھڑی کی درجہ حرارت حد تک پہنچ گئی ہے، اسے فوری طور پر بند کردیا جائے گا۔</string>
+    <string name="fih_battery_protect_maxtemp_title">زیادہ سے زیادہ درجہ حرارت</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">زیادہ سے زیادہ درجہ حرارت</string>
+    <string name="fih_battery_protect_normalmode_cooldone_dec">فون کول ڈاؤن وضع سے خارج ہوچکا ہے عام عمل بحال ہوچکا ہے۔</string>
+    <string name="fih_battery_protect_normalmode_max_dec">فون زیادہ سے زیادہ درجہ حرارت ڈاؤن وضع سے خارج ہوچکا ہے عام عمل بحال ہوچکا ہے۔</string>
+    <string name="fih_battery_protect_normalmode_text">عام عمل بحال ہوچکا ہے۔</string>
+    <string name="fih_battery_protect_normalmode_text_wear">عام عمل بحال ہوچکا ہے۔</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">گھڑی عام عمل پر واپس آچکی ہے۔</string>
+    <string name="fih_battery_protect_normalmode_title">عام درجہ حرارت</string>
+    <string name="fih_battery_protect_normalmode_title_wear">عام درجہ حرارت</string>
+    <string name="fih_battery_protect_normalmode_warning_dec">فون تنبیہہ وضع سے خارج ہوچکا ہے عام عمل بحال ہوچکا ہے۔</string>
+    <string name="fih_battery_protect_notification_cooling_down">ٹھنڈا ہورہا ہے</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">تیز درجہ حرارت</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">بیٹری نصب کرنے کی غلطی</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">چارجنگ روک دیں</string>
+    <string name="fih_battery_protect_ok_wear">ٹھیک ہے</string>
+    <string name="fih_battery_protect_power_off">پاور آف</string>
+    <string name="fih_battery_protect_tap_learn_more">مزید جاننے کیلئے ٹیپ کریں.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">درجہ حرارت زد سے باہر ہے۔</string>
+    <string name="fih_battery_protect_warning_text">فون ٹھنڈا کرنے کیلئے کال اور ایپلیکیشن بند کردیں۔</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">ہم بٹن دبا کر فون کو ٹھنڈا کرنے کیلئے اجلاپن کم کرنے اور ایپلیکیشن بند کرنے کی سہولت فراہم کرتے ہيں۔</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">گھڑی کا درجہ حرارت بہت زیادہ ہے۔ ہم اسکرین کو مدھم کرنے اور ایپلیکیشن روکنے کا مشورہ دیتے ہيں۔ ان اقدام کی تصدیق کی پڑتال کريں۔</string>
+    <string name="fih_battery_protect_warning_text_wear">آلہ ٹھنڈا کرنے کیلئے کال اور ایپلیکیشن بند کردیں۔</string>
+    <string name="fih_battery_protect_warning_title">احتیاط درجہ حرارت</string>
+    <string name="fih_battery_protect_warning_title_wear">تیز درجہ حرارت</string>
+</resources>

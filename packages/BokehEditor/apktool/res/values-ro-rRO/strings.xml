@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Editor de bokeh</string>
+    <string name="image_not_null">Calea imaginii nu poate fi necompletată</string>
+    <string name="no_bokeh_type">Niciun tip de bokeh</string>
+    <string name="no_mpo_file">Niciun fișier MPO</string>
+    <string name="save">Salvați</string>
+    <string name="save_success">Configurație salvată</string>
+</resources>

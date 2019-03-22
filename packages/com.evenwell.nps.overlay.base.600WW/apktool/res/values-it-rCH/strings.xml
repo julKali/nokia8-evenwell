@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feedback">Feedback</string>
+    <string name="intro_title">Consiglierebbe questo telefono a un amico o a un collega?</string>
+    <string name="select_a_value">"Selezionare un'opzione"</string>
+    <string name="extremely_likely">(Molto probabile)</string>
+    <string name="not_at_all_likely">(Affatto probabile)</string>
+    <string name="why_you_gave_this_score">Motivi il punteggio assegnato:</string>
+    <string name="helps_us_improve_our_products">Il feedback ci consente di migliorare i prodotti.</string>
+    <string name="we_will_contact_you_again_enjoy">La ricontatteremo prossimamente. Sfrutti al meglio il nuovo Nokia.</string>
+    <string name="we_will_contact_you_again">La ricontatteremo prossimamente.</string>
+    <string name="we_hope_enjoying_nokia_device">Speriamo che il dispositivo Nokia sia di Suo gradimento. Il Suo feedback è molto importante per noi.</string>
+    <string name="thank_your_feedback">Grazie per il feedback.</string>
+    <string name="we_appreciate_your_help">Apprezziamo il contributo che ci consente di rendere i prodotti Nokia i migliori al mondo.</string>
+    <string name="enter_comments">Inserire commenti (1000 caratteri)</string>
+    <string name="PREVIOUS">PRECEDENTE</string>
+    <string name="DONE">FINE</string>
+    <string name="CANCEL">ANNULLA</string>
+    <string name="NEXT">AVANTI</string>
+    <string name="OK">OK</string>
+    <string name="alert_warning_title">Suggerimenti</string>
+    <string name="alert_empty_desc">Aggiungere la propria descrizione.</string>
+    <string name="submit_success">Grazie per la risposta.</string>
+    <string name="submit_fail">Invio non riuscito</string>
+    <string name="msg_send_after">Il messaggio si caricherà automaticamente quando il dispositivo sarà online. Grazie per la risposta.</string>
+    <string name="msg_send_fail">Invio non riuscito. Il messaggio si caricherà automaticamente quando il dispositivo sarà online. Grazie per la risposta.</string>
+    <string name="str_agree">ACCETTO</string>
+    <string name="str_leave">ESCI</string>
+    <string name="no_showagain_text">Non mostrare più questo messaggio.</string>
+    <string name="no_ask_feedback_again_text">Non chiedere più il feedback</string>
+</resources>

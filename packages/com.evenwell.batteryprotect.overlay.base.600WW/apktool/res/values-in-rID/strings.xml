@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Batal</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Notifikasi umum</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Batal</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Gunakan baterai asli</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Pengisian daya terhenti</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Gunakan baterai asli untuk mengisi daya, atau kerusakan permanen/fisik dapat terjadi pada perangkat.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Baterai tidak valid</string>
+    <string name="fih_battery_protect_notification_cooling_down">Mendingin</string>
+    <string name="fih_battery_protect_tap_learn_more">Ketuk untuk selengkapnya.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Suhu telepon meningkat, sehingga otomatis mendinginkan diri. Anda dapat tetap menggunakannya, namun mungkin menemukan hal berikut:
+·Pengisian daya mungkin dijeda.
+·Wi-Fi mungkin dinonaktifkan.
+·Aplikasi mungkin ditutup.
+·Modus pesawat mungkin diaktifkan.
+Telepon akan kembali normal setelah mendingin."</string>
+</resources>

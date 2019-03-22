@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Eguraldi-zerbitzua</string>
+    <string name="fih_weather_permission_hint_1">Ondo funtzionatzeko, aplikazio honek baimen gehigarria behar du. Onartu baimena eskatutakoan.</string>
+    <string name="fih_weather_permission_hint_2">\"Ondo funtzionatzeko, aplikazio honek baimen gehigarriak behar ditu. Kudeatu Eguraldi-zerbitzuaren baimenak Ezarpenetan.\"</string>
+    <string name="fih_weather_button_ok">Ados</string>
+    <string name="fih_weather_button_close">Itxi</string>
+    <string name="fih_weather_button_setting">\"Ezarpenak\"</string>
+    <string name="fih_weather_permission_success">\"Kokalekua onartuta\"</string>
+    <string name="fih_weather_permission_failed">\"Baimena ukatu da; kokalekua ez dago erabilgarri.\"</string>
+    <string name="fih_weather_notification_title">\"Eguraldi-zerbitzuak baimenak behar ditu\"</string>
+    <string name="fih_weather_notification_text">Sakatu onartzeko</string>
+</resources>

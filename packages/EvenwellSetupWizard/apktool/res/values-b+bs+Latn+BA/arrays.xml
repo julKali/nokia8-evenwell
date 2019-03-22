@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statička</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Ništa</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Ništa</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Ništa</item>
+        <item>Ručno</item>
+        <item>Automatska konfiguracija proksija</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Loše</item>
+        <item>Slabo</item>
+        <item>Dobro</item>
+        <item>Odlično</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skeniranje…</item>
+        <item>Povezivanje…</item>
+        <item>Provjera vjerodostojnosti…</item>
+        <item>Dobivanje IP adrese…</item>
+        <item>Povezano</item>
+        <item>Suspendiran</item>
+        <item>Prekidanje veze…</item>
+        <item>Isključen</item>
+        <item>Neuspješno</item>
+        <item>Blokirano</item>
+        <item>Privremeno izbjegavaj veze lošeg kvaliteta</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skeniranje…</item>
+        <item>Povezivanje na mrežu %1$s…</item>
+        <item>Provjera vjerodostojnosti s mrežom %1$s…</item>
+        <item>Dobivanje IP adrese s mreže %1$s…</item>
+        <item>Povezan na %1$s</item>
+        <item>Suspendiran</item>
+        <item>Prekidanje veze s mrežom %1$s…</item>
+        <item>Isključen</item>
+        <item>Neuspješno</item>
+        <item>Blokirano</item>
+        <item>Privremeno izbjegavaj veze lošeg kvaliteta</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI heksadecimalni</item>
+    </string-array>
+</resources>

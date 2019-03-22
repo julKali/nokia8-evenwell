@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">שירות מזג אוויר</string>
+    <string name="fih_weather_permission_hint_1">כדי לעבוד כראוי, יישום זה דורש הרשאה נוספת. תן הרשאה כשתתבקש.</string>
+    <string name="fih_weather_permission_hint_2">"כדי לעבוד כראוי, יישום זה דורש הרשאות נוספות. נהל את ההרשאות של 'שירות מזג האוויר' תחת 'הגדרות'."</string>
+    <string name="fih_weather_button_ok">אשר</string>
+    <string name="fih_weather_button_close">סגור ערוץ</string>
+    <string name="fih_weather_button_setting">מגדיר...</string>
+    <string name="fih_weather_permission_success">הענקת הרשאת מיקום הצליחה</string>
+    <string name="fih_weather_permission_failed">הענקת הרשאת מיקום נדחתה, לא ניתן להשיג מיקום.</string>
+    <string name="fih_weather_notification_title">"'שירות מזג האוויר' דורש הרשאות"</string>
+    <string name="fih_weather_notification_text">הקש כדי לאפשר</string>
+    <string name="fih_weather_notification_channel_title">התראות כלליות</string>
+</resources>

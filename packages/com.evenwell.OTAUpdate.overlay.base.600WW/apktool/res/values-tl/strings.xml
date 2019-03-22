@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Update ng software</string>
+    <string name="file_not_found">Ang file ay hindi nakita</string>
+    <string name="remote_file_fail">Hindi ma-access ang remote file. Mangyaring subukan muli mamaya.</string>
+    <string name="no_description">(walang deskripsyon)</string>
+    <string name="login_fail">Bigo sa pag-login sa server. Mangyaring subukan muli mamaya.</string>
+    <string name="get_service_url_fail">Ang koneksyon ng network ay hindi matatag( Hindi nakuha ang URL ng serbisyo) Mangyaring subukan muli mamaya.</string>
+    <string name="query_sw_fail">Nabigong pag-query ng impormasyon ng software.</string>
+    <string name="download_sw_fail">Nabigo ang pag-download ng software.</string>
+    <string name="query_sw_incorrect">Ang resulta ay hindi tama.</string>
+    <string name="no_update_available">Walang mas bagong update ang magagamit.</string>
+    <string name="update_not_ready">Ang bagong update ay hindi pa handa sa server. Mangyaring subukan muli mamaya.</string>
+    <string name="check_now_label">Siyasatin ngayon</string>
+    <string name="checking">Sinisiyasat…</string>
+    <string name="verifying">Kinukumpirma…</string>
+    <string name="header_verifying_update_file">Kinukumpirma ang ia-update na file…</string>
+    <string name="unzipping">Ina-unzip…</string>
+    <string name="please_wait">Mangyaring maghintay</string>
+    <string name="header_starting_to_download_file">Nagsisimulang i-download ang file…</string>
+    <string name="header_system_update_available">Ang update ng sistema ay magagamit</string>
+    <string name="new_version_desc_prompt">Ang bagong bersyon ay kinabibilangan ng:</string>
+    <string name="header_attention">Atensyon</string>
+    <string name="data_fee_warning">Ang paggamit ng serbisyong ito sa koneksyon ng iyong mobile network ay maaaring magdulot ng pagsingil!</string>
+    <string name="header_downloading_update">Dina-download ang update</string>
+    <string name="header_install_system_software_update">I-install ang update ng software ng sistema</string>
+    <string name="msg_install_system_software_update_1">"Nais mo bang i-install ang mga sumusunod na software ng sistema?
+I-upgrade ang sistema sa"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Hindi mo magagamit ang iyong aparato o gumawa ng emerhensiyang tawag tuwing naga-upgrade.
+
+Ito ay hahantong sa hindi inaasahang resulta kung tatanggalin mo ang baterya o SD card habang naga-update ang software."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Hindi mo maaaring magamit ang iyong aparato sa panahon ng upgrade.
+
+Ito ay hahantong sa hindi inaasahang resulta kung puputulin ang power o tatanggalin ang na-download na file habang ina-update ang software."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Hindi mo maaaring magamit ang iyong aparato o makakagawa ng emerhensiyang tawag sa panahon ng upgrade.
+
+Ito ay hahantong sa hindi inaasahang resulta kung puputulin ang power o tatanggalin ang na-download na file habang ina-update ang software."</string>
+    <string name="button_install_now">I-install ngayon</string>
+    <string name="button_install_later">I-install mamaya</string>
+    <string name="header_unable_to_connect">Hindi makakonek</string>
+    <string name="msg_unable_to_connect">Kailangan mo ng koneksyon ng iyong network upang magamit ang application na ito. Mangyaring buksan ang mobile network o Wi-Fi sa Settings.</string>
+    <string name="msg_unable_to_connect_2">Kailangan mo ng koneksyon ng iyong network upang magamit ang application na ito. Mangyaring buksan ang network sa Settings.</string>
+    <string name="msg_unable_to_connect_wlan">Kailangan mo ng koneksyon ng iyong network upang magamit ang application na ito. Mangyaring buksan ang mobile network o WLAn sa Settings.</string>
+    <string name="msg_unable_to_connect_short">Walang koneksyon ang network</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_settings">Settings</string>
+    <string name="header_system_is_update">Ang sistema ay napapanahon.</string>
+    <string name="msg_system_is_update">Walang mas bagong update ang magagamit.</string>
+    <string name="msg_system_is_update_short">Walang bagong update</string>
+    <string name="msg_no_sd_card">Ang SD card ay kinakailangan para sa pag-update ng sistema. Mangyaring i-insert ang SD card.</string>
+    <string name="msg_no_sd_card_short">Walang SD card</string>
+    <string name="msg_no_available_size_card">Ang update file na ito ay nangangailangan ng %s na MB ng magagamit na laki. Mangyaring magbura ng ilang mga file sa SD card.</string>
+    <string name="msg_no_available_size_card_2">Ang update file na ito ay nangangailangan ng %s na MB ng magagamit na laki. Mangyaring magbura ng ilang files sa data storage.</string>
+    <string name="msg_no_available_size_card_short">Ang libreng espasyo ay hindi sapat.</string>
+    <string name="msg_do_not_remove_sd_card">Mangyaring HUWAG tanggalin ang SD card.</string>
+    <string name="title_system_update_ready">Ang pag-update ng sistema ay handa na</string>
+    <string name="msg_system_update_ready">I-tap upang i-install ang update ng sistema.</string>
+    <string name="msg_system_battery_too_low">"Ang update ng sistema ay handa na, ngunit ang baterya ng iyong aparato ay mababa na para i-install ito. Mangyaring kargahan ang baterya at simulan ang pagi-install mamaya.
+
+Ang lebel ng baterya ay dapat higit sa 35%%.
+Ang kasalukuyang lebel ng baterya: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Ang baterya ay sobrang baba na</string>
+    <string name="msg_remove_sd_card">Ang na-download na file ay hindi pedeng isulat sa SD card. Mangyaring siyasatin ang Sd card.</string>
+    <string name="msg_remove_sd_card_2">Ang na-download na file ay hindi maaaring isulat sa data storage. Mangyaring siyasatin ang storage.</string>
+    <string name="msg_remove_sd_card_short">Nabigong i-access ang SD card.</string>
+    <string name="msg_remove_sd_card_short_2">Nabigong i-access ang data storage.</string>
+    <string name="msg_verify_fail">Ang na-download na file ay nabigong kumpirmahin.</string>
+    <string name="msg_verify_fail_short">Ang pagkumpirma ay bigo</string>
+    <string name="msg_unzip_fail">Ang na-download na file ay nabigong i-unzip.</string>
+    <string name="msg_unzip_fail_short">Nabigong i-unzip</string>
+    <string name="hide">Itago</string>
+    <string name="data_size">Sukat ng data</string>
+    <string name="required_size">Kinakailangang espasyo</string>
+    <string name="network_not_match">Ang uri ng network ay hindi katugma. Mangyaring subukan uli matapos mabago ang network.</string>
+    <string name="network_not_match_short">Ang network ay hindi tugma.</string>
+    <string name="without_reboot_api">Hindi ma-reboot dahil sa walang API. Mangyaring i-reboot sa recovery upang gawing aktibo ang manwal pag-update.</string>
+    <string name="update_complete">Ang update ng sistema ay kumpleto na.</string>
+    <string name="update_complete_short">Ang update ay kumpleto na</string>
+    <string name="file_removed">Ang na-download na file ay tinaggal. Mangyaring i-download muli.</string>
+    <string name="file_removed_short">Ang na-download na file ay tinaggal na.</string>
+    <string name="file_not_match">Ang na-download na file ay hindi tugma katulad ng inasahan. Mangyaring i-download muli.</string>
+    <string name="file_not_match_short">Ang file ay hindi tugma.</string>
+    <string name="menu_url">Baguhin ang url ng server</string>
+    <string name="menu_enabled">In-enable na Software Lamang</string>
+    <string name="using_internal_storage">Paggamit ng internal storage</string>
+    <string name="using_external_storage">Paggamit ng external storage</string>
+    <string name="msg_agree_message">"
+
+
+Mayroong maliit na posibilidad ng pagbura ng data ng gumagamit na dulot ng pag-upgrade. Kung kinakailangan, mangyaring i-backup ang iyong data bago i-inbstall ang upgrade ng sistema."</string>
+    <string name="msg_root_message">"
+
+
+Ang normal na update ay hindi garantisado matapos na ma-root ang aparato."</string>
+    <string name="msg_responsibility_message">Kung ang root ay nag-aambag sa abnormal na gamit ng aparato sa proseso ng pag-update, ang gumagamit ang dapat maging responsable para dito.</string>
+    <string name="msg_upgrade_agree">Nabasa at sumasang-ayon</string>
+    <string name="later">Mamaya</string>
+    <string name="update">I-update</string>
+    <string name="update_summary">Siyasatin para sa mga update</string>
+    <string name="wifi_only">Wi-Fi lamang</string>
+    <string name="wlan_only">WLAN lamang</string>
+    <string name="wifi_only_summary">I-download ang updates kapag ang Wi-Fi ay magagamit</string>
+    <string name="wlan_only_summary">I-download ang updates kapag ang WLAN ay magagamit</string>
+    <string name="auto_update">Awtomatikong i-update</string>
+    <string name="auto_update_summary">Awtomatikong magsiyasat para sa mga update</string>
+    <string name="new_data_fee_warning">Ang pagsisiyasat at pagda-download ng mga update ay maaaring magdulot ng karagdagang singil. I-download ang mga update gamit ang Wi-Fi kung possible.</string>
+    <string name="wlan_data_fee_warning">Ang pagsisiyasat at pagda-download ng mga update ay maaaring magdulot ng karagdagang singil. I-download ang mga update gamit ang WLAN kung possible.</string>
+    <string name="installing">Ini-install…</string>
+    <string name="install_complete">Naka-install na</string>
+    <string name="install_fail">Ang pagi-install ay nabigo</string>
+    <string name="install_all">I-install lahat</string>
+    <string name="install">I-install</string>
+    <string name="installed_version">Naka-install na bersyon</string>
+    <string name="update_available">Ang update ay magagamit.</string>
+    <string name="apk_update_available">Ang update ng application ay magagamit.</string>
+    <string name="recommend">Irekumenda</string>
+    <string name="roaming_restriction">Restriksyon sa roaming</string>
+    <string name="roaming_restriction_summary">Hindi ma-update dahil sa restriksyon ng roaming</string>
+    <string name="changelog">Change Log</string>
+    <string name="description">Deskripsyon</string>
+    <string name="apk_update_available_summary">%s ay may magagamit na update. I-click ang OK upang i-install ngayon din o i-click ang Cancel upang siyasatin ang update matapos ang isang araw.</string>
+    <string name="apk_removed">Ang application ay tinanggal.</string>
+    <string name="apk_available_items">Kabuuang %s ng magagamit na mga aytem</string>
+    <string name="apk_available_item">Kabuuang %s ng magagamit na aytem</string>
+    <string name="new_forpreference">Bago</string>
+    <string name="invalid_update_summary">Ang update ay imbalido, mangyaring siyasatin muli.</string>
+    <string name="recheck">Magsiyasat muli</string>
+    <string name="image_download_exception_summary">Hindi ma-access ang server, mangyaring siyasatin muli.</string>
+    <string name="apk_download_exception">Hindi ma-access ang server</string>
+    <string name="installation_confirmation">Kumpirmasyon ng Pagi-install</string>
+    <string name="apk_need_reboot_summary">Ang update ng software na ito ay awtomatikong magri-reboot pagkatapos ng pagi-install. Nais mo bang i-install ngayon?</string>
+    <string name="downloaded">Na-download na</string>
+    <string name="prepare_to_reboot">Maghanda para sa reboot</string>
+    <string name="prepare_to_reboot_summary">Na-install na ang software, kailangan i-reboot ang aparato para sa configuration setting. Iminumungkahing i-reboot na ngayon o maaari mo ding i-reboot mamaya.</string>
+    <string name="prepare_to_reboot_force_summary">Kinakailangan ng naka-install na software na i-reboot ang device para i-configure ang mga setting. Iminumungkahi naming mag-reboot na ngayon.</string>
+    <string name="reboot">I-reboot</string>
+    <string name="reboot_fail">Ang pag-reboot ay nabigo</string>
+    <string name="reboot_fail_summary">Hindi ma-reboot dahil sa walang API. Mangyaring manwal na i-reboot.</string>
+    <string name="apk_no_avaliable_size">Hindi ma-download dahil sa hindi sapat na sukat ng internal storage.</string>
+    <string name="update_finished">Ang update ay tapos na</string>
+    <string name="header_warning">Babala</string>
+    <string name="msg_root_warning">Ang iyong aparato ay rooted nab a o ang opisyal na imahe ng software ay napakialaman. Ang pagpapatuloy sa pag-update ng sistema ay maaaring magresulta sa hindi matatag na sistema o pag-crash nito, at maaaring pawalang bisa ang warranty ng iyong aparato. Sigurado kabang nais mong magpatuloy?</string>
+    <string name="multi_image_update">May ilang magagamit na update ng imahe</string>
+    <string name="available_update_list">Listahan ng Magagamit na Update</string>
+    <string name="downloading_summary">Mangyaring ikansela ang nagda-download na imahe</string>
+    <string name="msg_erase_userdata_warning">Ang update na ito ay nangangailangan na burahin ang data ng gumagamit, nais mo bang magpatuloy?</string>
+    <string name="msg_autoupdate_date_fee_warning">Ang pagiin-enable ng awtomatikong paga-update ay maaaring magdulot ng karagdagang singil.</string>
+    <string name="invalid_update">Ang update ay imbalido.</string>
+    <string name="file_corrupted">Hindi ma-upgrade ang system dahil sira ang file.</string>
+    <string name="ask_for_apk_check">Gusto mo bang suriin ang mga udpate sa application?</string>
+    <string name="update_ota_self">Kasalukuyang Ina-update ang Software.</string>
+    <string name="ab_update_fail">Problema sa Pag-install.</string>
+    <string name="ab_update_wrong_status">Abala ngayon ang update engine. Pakisubukang muli sa ibang pagkakataon o mag-reboot.</string>
+    <string name="ab_update_installing">Ina-update ang system</string>
+    <string name="tag_engineer_mode">Engineer Mode</string>
+    <string name="engineer_version_incorrect">Mali ang bersyon ng iyong device</string>
+    <string name="msg_engineer_ota_restore">I-tap para i-restore ang opisyal na bersyon</string>
+    <string name="msg_engineer_ota_restore_warning">Ire-restore nito ang opisyal na bersyon Gusto mo bang magpatuloy?</string>
+    <string name="silent_mode_data_fee_warning">"May update. Maaaring may mga karagdagang singil ang pag-download ng mga update. I-download ang mga update sa pamamagitan ng Wi-Fi hangga't maaari."</string>
+    <string name="msg_updating_system">Ina-update ang system...</string>
+    <string name="msg_tap_to_reboot">I-tap para mag-reboot</string>
+    <string name="msg_pause_download">I-pause ang download</string>
+    <string name="notification_channel_name">Update sa system</string>
+    <string name="notification_channel_alert_name">Mga pangkalahatang notification</string>
+</resources>

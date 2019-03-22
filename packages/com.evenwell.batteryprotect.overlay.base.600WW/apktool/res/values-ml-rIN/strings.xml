@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ബാറ്ററി പരിരക്ഷ</string>
+    <string name="fih_battery_protect_alert_dialog_ok">ശരി</string>
+    <string name="fih_battery_protect_warning_title">ഉയർന്ന ഊഷ്‌മാവ് മുന്നറിയിപ്പ്</string>
+    <string name="fih_battery_protect_cooldown_title">തണുപ്പിക്കൽ</string>
+    <string name="fih_battery_protect_normalmode_title">സാധാരണ ഊഷ്‌മാവ്</string>
+    <string name="fih_battery_protect_warning_text">ഫോൺ തണുപ്പിക്കാൻ കോളും ആപ്ലിക്കേഷനുകളും ഷട്ട് ഡൗൺ ചെയ്യുക.</string>
+    <string name="fih_battery_protect_cooldown_text">"ഫോൺ നിലവിൽ 'തണുപ്പിക്കൽ' മോഡിലാണ്, അടിയന്തരഘട്ട കോളുകൾ മാത്രം അനുവദനീയം."</string>
+    <string name="fih_battery_protect_normalmode_text">സാധാരണ പ്രവർത്തനം പുനരാരംഭിച്ചു.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">അടിയന്തര കോൾ</string>
+    <string name="fih_battery_protect_maxtemp_title">പരമാവധി ഊഷ്‌മാവ്</string>
+    <string name="fih_battery_protect_maxtemp_text">ഫോൺ ഊഷ്‌മാവ് വളരെ കൂടുതലാണ്, അത് ഇപ്പോൾ ഷട്ട് ഡൗൺ ചെയ്യും.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">ചാർജിംഗ് നിർത്തി</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">ചാർജിംഗ് നിർത്തൂ!</string>
+    <string name="fih_battery_protect_normalmode_warning_dec">"ഫോൺ 'മുന്നറിയിപ്പ്' മോഡിൽ നിന്നും പുറത്തുകടന്നു.  സാധാരണ പ്രവർത്തനം പുനരാരംഭിച്ചു."</string>
+    <string name="fih_battery_protect_normalmode_cooldone_dec">"ഫോൺ 'തണുപ്പിക്കൽ' മോഡിൽ നിന്നും പുറത്തുകടന്നു.  സാധാരണ പ്രവർത്തനം പുനരാരംഭിച്ചു."</string>
+    <string name="fih_battery_protect_normalmode_max_dec">"ഫോൺ 'പരമാവധി ഊഷ്‌മാവ്' മോഡിൽ നിന്നും പുറത്തുകടന്നു.  സാധാരണ പ്രവർത്തനം പുനരാരംഭിച്ചു."</string>
+    <string name="fih_battery_protect_low_temp_title">അലേർട്ട്</string>
+    <string name="fih_battery_protect_low_temp_text">ഊഷ്‌മാവ് വളരെ കുറവാണ്, ചാർജിംഗ് നിർത്തുക.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">ഊഷ്‌മാവ് നിയന്ത്രണാതീതമാണ്.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">ബാറ്ററി ഊഷ്‌മാവ് കണ്ടെത്താനാകുന്നില്ല, ബാറ്ററി ശരിയായി ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക, അല്ലെങ്കിൽ അത് ചാർജാകില്ല.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">ബാറ്ററി ഊഷ്‌മാവ് കണ്ടെത്താനാകുന്നില്ല.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">ബാറ്ററി ശരിയായി ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക, അല്ലെങ്കിൽ അത് ചാർജാകില്ല.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">"നിലവിൽ ബാറ്ററി ഊഷ്‌മാവ് കണ്ടെത്താനാകുന്നില്ല, ഫോൺ നിലവിൽ 'തണുപ്പിക്കൽ' മോഡിലാണ്, ഒരു അടിയന്തരഘട്ട കോൾ വിളിക്കുന്നത് മാത്രം അനുവദനീയം, ബാറ്ററി ശരിയായി ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക."</string>
+    <string name="fih_battery_protect_aging_title">ബാറ്ററി വിസാർഡ്</string>
+    <string name="fih_battery_protect_aging_text">പ്രിയ InFocus ഉപയോക്താവേ, സെൽ ഫോൺ ബാറ്ററിയെ ഒരു ഉപഭോഗ ഘടകഭാഗമായി പരിഗണിക്കുന്നതിനാൽ, നിങ്ങളുടെ ഫോണിലെ ബാറ്ററി ക്ഷമത ഗണ്യമായി കുറയുന്നതായി കാണുന്നുവെങ്കിൽ, നിങ്ങളുടെ ഫോൺ നല്ല രീതിയിൽ പ്രവർത്തിച്ചുകൊണ്ടിരിക്കുന്നത് ഉറപ്പുവരുത്താനായി അത് പരിശോധിച്ച് റിപ്പയർ ചെയ്യാൻ നിങ്ങളുടെ ഫോണുമായി ഡീലറെ ബന്ധപ്പെടുക. നിങ്ങൾക്ക് എന്തെങ്കിലും സംശയങ്ങളുണ്ടെങ്കിൽ, %1$sഎന്ന ടെലിഫോൺ നമ്പറിൽ ഞങ്ങളുടെ ഉപയോക്തൃ സേവന കേന്ദ്രവുമായി ബന്ധപ്പെടുക. നന്ദി.</string>
+    <string name="fih_battery_protect_aging_nm_text">%1$s എന്ന ടെലിഫോൺ നമ്പറിൽ ഞങ്ങളുടെ ഉപയോക്തൃ സേവന കേന്ദ്രവുമായി ബന്ധപ്പെടുക. നന്ദി.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">പ്രിയ InFocus ഉപയോക്താവേ, സെൽ ഫോൺ ബാറ്ററിയെ ഒരു ഉപഭോഗ ഘടകഭാഗമായി പരിഗണിക്കുന്നതിനാൽ, നിങ്ങളുടെ ഫോണിലെ ബാറ്ററി ക്ഷമത ഗണ്യമായി കുറയുന്നതായി കാണുന്നുവെങ്കിൽ, നിങ്ങളുടെ ഫോൺ നല്ല രീതിയിൽ പ്രവർത്തിച്ചുകൊണ്ടിരിക്കുന്നത് ഉറപ്പുവരുത്താനായി അത് പരിശോധിച്ച് റിപ്പയർ ചെയ്യാൻ നിങ്ങളുടെ ഫോണുമായി ഡീലറെ ബന്ധപ്പെടുക. നിങ്ങൾക്ക് എന്തെങ്കിലും സംശയങ്ങളുണ്ടെങ്കിൽ, ഞങ്ങളുടെ ഉപയോക്തൃ സേവന കേന്ദ്രവുമായി ബന്ധപ്പെടുക.നന്ദി.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">ഞങ്ങളുടെ ഉപയോക്തൃ സേവന കേന്ദ്രവുമായി ബന്ധപ്പെടുക. നന്ദി.</string>
+    <string name="fih_battery_protect_bl_warning_title">തെളിച്ചം കുറയ്‌ക്കൽ അലേർട്ട്</string>
+    <string name="fih_battery_protect_bl_warning_text">ഫോണിന്റെ ഊഷ്‌മാവ് സാധാരണയിലും അധികമാണ്, ഫോൺ തണുപ്പിക്കാൻ തെളിച്ചം കുറയ്‌ക്കുക</string>
+    <string name="fih_battery_protect_full_charging">ചാർജിംഗ് പൂർത്തിയായി</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">റദ്ദാക്കുക</string>
+    <string name="fih_battery_protect_power_off">പവർ ഓഫാക്കുക</string>
+    <string name="fih_battery_protect_high_full_charging">പരമാവധി ചാർജ്ജുചെയ്യൽ പരിധി, ഉയർന്ന താപനിലകളിലെത്തി! ഫോൺ താപനില തിരികെ സാധാരണ നിലയിലാകുമ്പോൾ, സിസ്റ്റം സാധാരണ വേഗതയിൽ ചാർജ്ജുചെയ്യുന്നത് തുടരും.</string>
+    <string name="fih_battery_protect_low_full_charging">പരമാവധി ചാർജ്ജുചെയ്യൽ പരിധി, താഴ്‌ന്ന താപനിലകളിലെത്തി! ഫോൺ താപനില തിരികെ സാധാരണ നിലയിലാകുമ്പോൾ, സിസ്റ്റം സാധാരണ വേഗതയിൽ ചാർജ്ജുചെയ്യുന്നത് തുടരും.</string>
+    <string name="fih_battery_protect_high_full_charging_title">ഉയർന്ന താപനില ചാർജ്ജുചെയ്യൽ പരിധിയിലെത്തി</string>
+    <string name="fih_battery_protect_low_full_charging_title">താഴ്‌ന്ന താപനില ചാർജ്ജുചെയ്യൽ പരിധിയിലെത്തി</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">പൊതുവായ അറിയിപ്പുകൾ</string>
+    <string name="fih_battery_protect_warning_title_wear">ഉയർന്ന ഊഷ്‌മാവ്</string>
+    <string name="fih_battery_protect_cooldown_title_wear">തണുപ്പിക്കൽ</string>
+    <string name="fih_battery_protect_normalmode_title_wear">സാധാരണ ഊഷ്‌മാവ്</string>
+    <string name="fih_battery_protect_warning_text_wear">ഉപകരണം തണുപ്പിക്കാൻ, കോളും ആപ്ലിക്കേഷനുകളും ഷട്ട് ഡൗൺ ചെയ്യുക.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">ബട്ടൺ അമർത്തുന്നതിലൂടെ, ഉപകരണം തണുപ്പിക്കാനായി ഞങ്ങൾ തെളിച്ചം കുറച്ച് ആപ്ലിക്കേഷനുകൾ ഷട്ട് ഡൗൺ ചെയ്യുന്നു.</string>
+    <string name="fih_battery_protect_cooldown_text_wear">"ഉപകരണം നിലവിൽ 'തണുപ്പിക്കൽ' മോഡിലാണ്, അടിയന്തരഘട്ട കോളുകൾ മാത്രം അനുവദനീയം."</string>
+    <string name="fih_battery_protect_normalmode_text_wear">സാധാരണ പ്രവർത്തനം പുനരാരംഭിച്ചു.</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">പരമാവധി ഊഷ്‌മാവ്</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">ഉപകരണ ഊഷ്‌മാവ് വളരെ കൂടുതലാണ്, അത് ഇപ്പോൾ ഷട്ട് ഡൗൺ ചെയ്യും.</string>
+    <string name="fih_battery_protect_low_temp_title_wear">കുറഞ്ഞ ഊഷ്‌മാവ്</string>
+    <string name="fih_battery_protect_low_temp_text_wear">ബാറ്ററി ഊഷ്‌മാവ് വളരെ കുറവായതിനാൽ ചാർജിംഗ് നിർത്തുക.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">"നിലവിൽ ബാറ്ററി ഊഷ്‌മാവ് കണ്ടെത്താനാകുന്നില്ല, ഉപകരണം നിലവിൽ 'തണുപ്പിക്കൽ' മോഡിലാണ്, ഒരു അടിയന്തരഘട്ട കോൾ വിളിക്കുന്നത് മാത്രം അനുവദനീയം, ബാറ്ററി ശരിയായി ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക."</string>
+    <string name="fih_battery_protect_install_error_title_wear">ബാറ്ററി വിസാർഡ്</string>
+    <string name="fih_battery_protect_aging_title_wear">ബാറ്ററി വിസാർഡ്</string>
+    <string name="fih_battery_protect_aging_text_wear">പ്രിയ InFocus ഉപയോക്താവേ, സെൽ ഉപകരണ ബാറ്ററിയെ ഒരു ഉപഭോഗ ഘടകഭാഗമായി പരിഗണിക്കുന്നതിനാൽ, നിങ്ങളുടെ ഉപകരണത്തിലെ ബാറ്ററി ക്ഷമത ഗണ്യമായി കുറയുന്നതായി കാണുന്നുവെങ്കിൽ, നിങ്ങളുടെ ഉപകരണം നല്ല രീതിയിൽ പ്രവർത്തിച്ചുകൊണ്ടിരിക്കുന്നത് ഉറപ്പുവരുത്താനായി അത് പരിശോധിച്ച് റിപ്പയർ ചെയ്യാൻ നിങ്ങളുടെ ഉപകരണവുമായി ഡീലറെ ബന്ധപ്പെടുക. നിങ്ങൾക്ക് എന്തെങ്കിലും സംശയങ്ങളുണ്ടെങ്കിൽ, %1$sഎന്ന ടെലിഫോൺ നമ്പറിൽ ഞങ്ങളുടെ ഉപയോക്തൃ സേവന കേന്ദ്രവുമായി ബന്ധപ്പെടുക. നന്ദി.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">പ്രിയ InFocus ഉപയോക്താവേ, സെൽ ഉപകരണ ബാറ്ററിയെ ഒരു ഉപഭോഗ ഘടകഭാഗമായി പരിഗണിക്കുന്നതിനാൽ, നിങ്ങളുടെ ഉപകരണത്തിലെ ബാറ്ററി ക്ഷമത ഗണ്യമായി കുറയുന്നതായി കാണുന്നുവെങ്കിൽ, നിങ്ങളുടെ ഉപകരണം നല്ല രീതിയിൽ പ്രവർത്തിച്ചുകൊണ്ടിരിക്കുന്നത് ഉറപ്പുവരുത്താനായി അത് പരിശോധിച്ച് റിപ്പയർ ചെയ്യാൻ നിങ്ങളുടെ ഉപകരണവുമായി ഡീലറെ ബന്ധപ്പെടുക. നിങ്ങൾക്ക് എന്തെങ്കിലും സംശയങ്ങളുണ്ടെങ്കിൽ, ഞങ്ങളുടെ ഉപയോക്തൃ സേവന കേന്ദ്രവുമായി ബന്ധപ്പെടുക.നന്ദി.</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">ഉയർന്ന ഊഷ്‌മാവ്</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">ചാർജിംഗ് നിർത്തുക</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">ബാറ്ററി ഇൻസ്റ്റാൾ ചെയ്യൽ പിശക്</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">ഊഷ്‌മാവ് നിയന്ത്രണാതീതമാണ്.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">ബാറ്ററി ശരിയായി ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">ബാറ്ററി ഊഷ്‌മാവ് വളരെ കൂടുതലായതിനാൽ ചാർജിംഗ് നിർത്തുക.</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">ബാറ്ററി വിസാർഡ്</string>
+    <string name="fih_battery_protect_full_charging_wear">ചാർജിംഗ് പൂർത്തിയായി</string>
+    <string name="fih_battery_protect_ok_wear">ശരി</string>
+    <string name="fih_battery_protect_cancel_wear">റദ്ദാക്കുക</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">"ഫോൺ ഇപ്പോൾ 'തണുപ്പിക്കൽ മോഡിലാണ്. ഇത് പിന്നീട് ഉപയോഗിക്കൂ."</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">വാച്ച് ഊഷ്‌മാവ് വളരെ കൂടുതലാണ്. സ്ക്രീൻ മങ്ങിപ്പിക്കാനും ആപ്ലിക്കേഷനുകൾ നിർത്താനും ഞങ്ങൾ നിർദ്ദേശിക്കുന്നു. ഈ പ്രവർത്തനങ്ങൾ സ്ഥിരീകരിക്കുന്നത് പരിശോധിക്കുക.</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">വാച്ച് സാധാരണ പ്രവർത്തനത്തിലേക്ക് മടങ്ങി.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">വാച്ചിന്റെ ഊഷ്‌മാവ് അതിന്റെ പരിധിയിലെത്തി, അത് ഇപ്പോൾ ഉടനടി ഷട്ട് ഡൗൺ ചെയ്യും.</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">ബാറ്ററി ഊഷ്‌മാവ് തീരെ കുറവായതിനാൽ ചാർജിംഗ് നിർത്തും.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">ഒറിജിനൽ ബാറ്ററി ഉപയോഗിക്കുക</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">ചാർജിംഗ് അവസാനിപ്പിച്ചു</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">ചാർജ് ചെയ്യുന്നതിന് ഒറിജിനൽ ബാറ്ററി ഉപയോഗിക്കുക അല്ലെങ്കിൽ നിങ്ങളുടെ ഉപകരണത്തിന് ശാശ്വതമായ/ഭൗതികമായ നാശം ഉണ്ടായേക്കാം.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">ബാറ്ററി അസാധുവാണ്.</string>
+    <string name="fih_battery_protect_notification_cooling_down">തണുപ്പിക്കുന്നു</string>
+    <string name="fih_battery_protect_tap_learn_more">കൂടുതലറിയാൻ ടാപ്പ് ചെയ്യുക</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"നിങ്ങളുടെ ഫോൺ ചൂടാകുന്നു, അതിനാൽ സ്വയം തണുക്കുന്നതിനുള്ള ഘട്ടങ്ങൾ കൈക്കൊള്ളുകയാണ് അത്. നിങ്ങൾക്ക് അതിപ്പോഴും ഉപയോഗിക്കാമെങ്കിലും, ഇനിപ്പറയുന്ന കാര്യങ്ങൾ നിങ്ങളുടെ ശ്രദ്ധയിൽ പെട്ടേക്കാം:
+·ചാർജിംഗ് തൽക്കാലം നിലച്ചേക്കാം.
+·Wi-Fi ഓഫായേക്കാം.
+·ആപ്ലിക്കേഷനുകൾ അടയ്ക്കപ്പെട്ടേക്കാം.
+·എയർപ്ലെയിൻ മോഡ് ഓണായേക്കാം.
+തണുത്ത് കഴിഞ്ഞാൽ നിങ്ങളുടെ ഫോൺ സാധാരണ നിലയിലേക്ക് തിരികെ വരും."</string>
+</resources>

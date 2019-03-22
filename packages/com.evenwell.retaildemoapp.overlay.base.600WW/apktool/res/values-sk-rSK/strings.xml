@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="cancel">ZRUŠIŤ</string>
+    <string name="system_busy_msg">Systém je zaneprázdnený. Opakujte akciu neskôr.</string>
+    <string name="no_new_demo_found_msg">"Nenašiel sa žiaden nový predvádzací materiál.
+
+Chcete ťuknutím na tlačidlo OK spustiť predvádzací režim?"</string>
+    <string name="copying">Kopíruje sa...</string>
+    <string name="downloading">Sťahuje sa...</string>
+    <string name="download_complete_msg">"Sťahovanie bolo dokončené.
+
+Ťuknutím na tlačidlo OK sa spustí predvádzací režim."</string>
+    <string name="download_fail_msg">"Nepodarilo sa stiahnuť predvádzací materiál z internetu.
+
+Chcete ťuknutím na tlačidlo OK spustiť predvádzací režim?"</string>
+    <string name="enable_demo_mode">Povoliť predvádzací režim?</string>
+    <string name="disable_demo_mode">Zablokovať predvádzací režim</string>
+    <string name="update_demo_video">Aktualizovať predvádzacie video</string>
+    <string name="reset_device">Obnoviť zariadenie?</string>
+    <string name="demo_mode_notifications">Upozornenia režimu ukážky</string>
+</resources>

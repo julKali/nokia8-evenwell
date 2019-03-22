@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">റദ്ദാക്കുക</string>
+    <string name="DONE">പൂർത്തിയായി</string>
+    <string name="NEXT">അടുത്തത്</string>
+    <string name="OK">ശരി</string>
+    <string name="PREVIOUS">മുമ്പത്തേത്</string>
+    <string name="alert_empty_desc">നിങ്ങളുടെ വിവരണം ചേർക്കുക!</string>
+    <string name="alert_warning_title">നുറുങ്ങുകൾ</string>
+    <string name="enter_comments">അഭിപ്രായങ്ങൾ നൽകുക (1000 പ്രതീകങ്ങൾ)</string>
+    <string name="extremely_likely">(വളരെയധികം സാധ്യത)</string>
+    <string name="feedback">ഫീഡ്ബാക്ക്</string>
+    <string name="helps_us_improve_our_products">ഞങ്ങളുടെ ഉൽപ്പന്നങ്ങൾ മെച്ചപ്പെടുത്താൻ നിങ്ങളുടെ ഫീഡ്ബാക്ക് സഹായിക്കുന്നു!</string>
+    <string name="intro_title">ഈ ഫോൺ നിങ്ങൾ ഒരു സുഹൃത്തിനോ സഹപ്രവർത്തകനോ ശുപാർശ ചെയ്യാൻ എത്രത്തോളം സാധ്യതയുണ്ട്?</string>
+    <string name="msg_send_after">ഉപകരണം ഓൺലൈൻ ആകുമ്പോൾ സന്ദേശം സ്വയമേവ അപ്‌ലോഡ് ചെയ്യും. നിങ്ങളുടെ മറുപടിക്ക് നന്ദി.</string>
+    <string name="msg_send_fail">അയയ്ക്കൽ പരാജയപ്പെട്ടു. ഉപകരണം ഓൺലൈൻ ആകുമ്പോൾ സന്ദേശം സ്വയമേവ അപ്‌ലോഡ് ചെയ്യും. നിങ്ങളുടെ മറുപടിക്ക് നന്ദി.</string>
+    <string name="no_ask_feedback_again_text">വീണ്ടും ഫീഡ്ബാക്ക് ആവശ്യപ്പെടരുത്</string>
+    <string name="no_showagain_text">വീണ്ടും കാണിക്കരുത്</string>
+    <string name="not_at_all_likely">(ഒട്ടും സാധ്യതയില്ല)</string>
+    <string name="privacy_context_wifi">"പ്രിയ ഉപയോക്താക്കളേ, 
+
+ഫീഡ്ബാക്ക് ക്ലയന്റ് സോഫ്റ്റ്‌വെയർ ഉപയോഗിക്കുന്നതിന് സ്വാഗതം. ഈ ഉൽപ്പന്നം ഉപയോഗിക്കുന്നതിന് മുമ്പ്, സേവന വ്യവസ്ഥകൾ ശ്രദ്ധാപൂർവ്വം വായിക്കുകയും നന്നായി മനസ്സിലാക്കുകയും ചെയ്യുക. 「സമ്മതിക്കുന്നു」എന്നതിൽ ക്ലിക്കുചെയ്യുന്നത് ഈ സോഫ്റ്റ്‌വെയറിന്റെ സവിശേഷാധികാരം നന്നായി മനസ്സിലാക്കുകയും അതുപയോഗിക്കാൻ നിങ്ങൾ സമ്മതിക്കുകയും ചെയ്തിട്ടുണ്ട് എന്നാണ് അർത്ഥമാക്കുന്നത്. ഈ വ്യവസ്ഥകൾ നിങ്ങൾ അംഗീകരിക്കുന്നില്ലെങ്കിൽ, 「പുറത്തുകടക്കുക」 എന്നതിൽ അമർത്തുക. സമഗ്രമായ സേവനങ്ങൾ നിങ്ങൾക്ക് നൽകുന്നതിന്, ഇനിപ്പറയുന്ന അനുമതികൾ ആപ്പിന് ആവശ്യമാണ്: 
+1. ഫീഡ്‌ബാക്ക് വിവരങ്ങൾ അയയ്ക്കുന്നതിന് ഇന്റർനെറ്റ്, WLAN നെറ്റ്‌വർക്ക് ആക്സസ് ചെയ്യുക 
+2. ഫോണിന്റെ അടിസ്ഥാന വിവരങ്ങൾ സ്വയമേവ നേടിയെടുക്കുന്നതിന് IMEI, PSN, MNCMCC വിവരങ്ങൾ ഇമ്പോർട്ടുചെയ്യുക"</string>
+    <string name="select_a_value">ഒരു മൂല്യം തിരഞ്ഞെടുക്കുക</string>
+    <string name="str_agree">സമ്മതിക്കുക</string>
+    <string name="str_leave">പുറത്തുകടക്കുക</string>
+    <string name="submit_fail">സമർപ്പിക്കൽ പരാജയപ്പെട്ടു</string>
+    <string name="submit_success">നിങ്ങളുടെ മറുപടിക്ക് നന്ദി</string>
+    <string name="thank_your_feedback">നിങ്ങളുടെ ഫീഡ്‌ബാക്കിന് നന്ദി!</string>
+    <string name="we_appreciate_your_help">Nokia ഉൽപ്പന്നങ്ങൾ ലോകത്തിൽ മികച്ചതാക്കി മാറ്റാനുള്ള നിങ്ങളുടെ സഹായത്തെ ഞങ്ങൾ വിലമതിക്കുന്നു.</string>
+    <string name="we_hope_enjoying_nokia_device">നിങ്ങൾ Nokia ഉപകരണം ആസ്വദിക്കുന്നതായി ഞങ്ങൾ പ്രതീക്ഷിക്കുന്നു. നിങ്ങളുടെ ഫീഡ്‌ബാക്ക് ഞങ്ങൾക്ക് സുപ്രധാനമാണ്.</string>
+    <string name="we_will_contact_you_again">ഭാവിയിൽ വീണ്ടും നിങ്ങളെ ബന്ധപ്പെടും.</string>
+    <string name="we_will_contact_you_again_enjoy">ഭാവിയിൽ വീണ്ടും നിങ്ങളെ ബന്ധപ്പെടും. നിങ്ങളുടെ Nokia ഉപകരണം ആസ്വദിക്കൂ!</string>
+    <string name="why_you_gave_this_score">ഈ സ്കോർ നൽകിയതിന്റെ കാരണം ഞങ്ങളെ അറിയിക്കൂ:</string>
+</resources>

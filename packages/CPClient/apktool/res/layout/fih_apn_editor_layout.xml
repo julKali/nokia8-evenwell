@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ListView n1:id="@android:id/list" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:drawSelectorOnTop="false" n1:layout_weight="1.0" />
+    <RelativeLayout n1:background="@android:drawable/bottom_bar" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <Button n1:id="@id/btn_cancel" n1:layout_width="80.0dip" n1:layout_height="wrap_content" n1:layout_margin="5.0dip" n1:text="@string/fih_cp_btn_cancel" n1:layout_alignParentLeft="true" />
+        <LinearLayout n1:orientation="horizontal" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_alignParentRight="true">
+            <Button n1:id="@id/btn_back" n1:layout_width="110.0dip" n1:layout_height="wrap_content" n1:layout_marginTop="5.0dip" n1:text="@string/fih_cp_btn_back" n1:drawableLeft="@drawable/ic_btn_back" n1:drawablePadding="5.0dip" />
+            <Button n1:id="@id/btn_next" n1:layout_width="110.0dip" n1:layout_height="wrap_content" n1:layout_marginTop="5.0dip" n1:layout_marginRight="5.0dip" n1:text="@string/fih_cp_btn_next" n1:drawableRight="@drawable/ic_btn_next" n1:drawablePadding="5.0dip" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

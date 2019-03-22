@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mga Diagnostic ng Sistema</string>
+    <string name="setting_page_name">User Experience Program</string>
+    <string name="send_diag_dialog_any_network">Kapag mayroong data connection</string>
+    <string name="send_diag_dialog_wifi">Kapag mayroong koneksyon ng Wi-Fi</string>
+    <string name="send_diag_dialog_wlan">Kapag mayroong koneksyon ng WLAN</string>
+    <string name="send_diag_dialog_title">Ipadala ang mga diagnostic</string>
+    <string name="diagnostics_setting">Mga Diagnostic</string>
+    <string name="diagnostics_report">Report ng mga diagnostic</string>
+    <string name="diagnostics_report_summary">Ipadala ang report ng mga diagnostic kapag ang aparato ay nakararanas ng software error. Ito ay maaaring lumikha ng gastos sa paggamit ng network. Ang pagkuha ng data network package mula sa tagahatid ng serbisyo ay inirerekomenda.</string>
+    <string name="network_options">Mga Opsyon ng Network</string>
+    <string name="send_diagnostics">Ipadala ang mga diagnostic</string>
+    <string name="privacy_statement">Privacy statement</string>
+    <string name="diagnostics_description">Mangyaring tulungan ninyo kaming pagbutihin ang aming mga produkto at serbisyo sa pamamagitan ng pagpapahintulot sa amin na mangolekta ng diagnostic data kapag ang iyong aparato ay nakararanas ng software error o nag-crash. Maaari mong palitan ang opsyon mamaya sa Settings.</string>
+    <string name="privacy_activity">Privacy statement</string>
+    <string name="go_label">Tapos na</string>
+    <string name="diagnostics_confirmation">Oo, ako ay sumasang-ayon na kusang ipadala ang diagnostic data.</string>
+    <string name="setcomplete">Ang setup ay kumpleto na</string>
+    <string name="agree_dialog">Binago na namin ang iyong User Experience Program at kaugnay na Privacy Statement. Kung maaari’y tulungan ninyo kaming pagbutihin ang aming mga produkto at serbisyo sa pamamagitan ng pagsali sa User Experience Program ngayon. Maaari mong baguhin ang opsyon sa Settings. Maaari itong lumikha ng gastos sa paggamit ng network matapos sumali sa User Experience Plan. Ang pagkuha ng data network package mula sa tagahatid ng serbisyo ay inirerekomenda.</string>
+    <string name="agree">Sumasang-ayon</string>
+    <string name="see_detail">Detalye</string>
+    <string name="next_btn_lebel">Susunod</string>
+</resources>

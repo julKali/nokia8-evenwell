@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_sim_accounts">true</bool>
+    <bool name="config_set_sim_label_as_default">true</bool>
+    <bool name="config_show_call_recording">false</bool>
+    <bool name="config_never_sleep">false</bool>
+    <bool name="config_call_alert">false</bool>
+    <bool name="config_auto_answer">false</bool>
+    <bool name="config_quick_responses">false</bool>
+    <bool name="config_accessibility_settings">false</bool>
+    <bool name="config_android_default_style">true</bool>
+    <bool name="config_disable_sim_network_locked">true</bool>
+    <bool name="config_rat_display">false</bool>
+</resources>

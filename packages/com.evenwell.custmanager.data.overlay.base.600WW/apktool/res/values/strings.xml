@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CustManager</string>
+    <string name="action">Action</string>
+    <string name="content_path">Content Path</string>
+    <string name="default_action">android.intent.action.UPDATE_TZDATA</string>
+    <string name="default_content_path">/data/local/tmp/out.zip</string>
+    <string name="default_required_hash">NONE</string>
+    <string name="default_version">1</string>
+    <string name="required_hash">Required Hash</string>
+    <string name="trigger_install">Trigger Install</string>
+    <string name="version">Version</string>
+    <string name="cust_action">Action</string>
+    <string name="trigger_cust">Trigger Action</string>
+    <string name="sim_label">SIM</string>
+    <string name="sim2_label">SIM2</string>
+    <string name="mccmnc_hint">mcc-mnc (ex. 46692)</string>
+    <string name="mccmnc2_hint">mcc-mnc (ex. 46697)</string>
+    <string name="spn_hint">spn</string>
+    <string name="pnn_hint">pnn</string>
+    <string name="imsi_hint">imsi</string>
+    <string name="gid1_hint">gid1</string>
+    <string name="reboot_mg">Reboot to update operator settings?</string>
+    <string name="reboot">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="app_reset">App Self Factory Reset</string>
+</resources>

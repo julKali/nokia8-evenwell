@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_category_items_display" android:key="items_display">
+        <SwitchPreference android:title="@string/pref_title_missed_calls" android:key="missed_calls" android:defaultValue="true" />
+    </PreferenceCategory>
+    <SwitchPreference android:title="@string/pref_title_unread_mails" android:key="unread_mails" android:defaultValue="true" />
+    <SwitchPreference android:title="@string/pref_title_unread_messages" android:key="unread_messages" android:defaultValue="true" />
+    <SwitchPreference android:title="@string/pref_title_alarm_information" android:key="alarm_information" android:defaultValue="true" />
+    <SwitchPreference android:title="@string/pref_title_calendar_reminder" android:key="calendar_reminder" android:defaultValue="true" />
+    <ListPreference android:entries="@array/pref_time_out_titles" android:title="@string/pref_title_time_out" android:key="time_out" android:defaultValue="@string/default_time_out" android:dialogTitle="@string/pref_dialog_title_time_out" android:entryValues="@array/pref_time_out_values" />
+</PreferenceScreen>

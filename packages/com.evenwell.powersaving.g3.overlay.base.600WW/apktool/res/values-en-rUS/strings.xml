@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_power_saver_title">Power saver</string>
+    <string name="fih_power_saving_power_saver_status_on">On</string>
+    <string name="fih_power_saving_power_saver_status_off">Off</string>
+    <string name="fih_power_saving_time_schedule_title">Schedule</string>
+    <string name="fih_power_saving_time_schedule_set_time_equal">"Start time can't match end time."</string>
+    <string name="fih_power_saving_request_dialog_title">Enable power saver mode?</string>
+    <string name="fih_power_saving_request_dialog_cancel">CANCEL</string>
+    <string name="fih_power_saving_request_dialog_enable">ENABLE</string>
+    <string name="fih_power_saving_battery_Approx">Approx. %1$s left</string>
+    <string name="fih_power_saving_normal_mode_title">Normal mode</string>
+    <string name="fih_power_saving_normal_mode_summary">Apply default normal battery-saving settings to save power.</string>
+    <string name="fih_power_saving_extreme_mode_title">Extreme mode</string>
+    <string name="fih_power_saving_extreme_mode_summary">Disable all background apps and internet connection. Some apps may not work normally.</string>
+    <string name="fih_power_saving_normal_mode_is_running">Normal power-saving mode is running</string>
+    <string name="fih_power_saving_extreme_mode_is_running">Extreme power-saving mode is running</string>
+    <string name="fih_power_saving_time_schedule_mode_selection_title">Mode selection</string>
+    <string name="fih_power_saving_time_schedule_mode_selection_normal">Normal</string>
+    <string name="fih_power_saving_time_schedule_mode_selection_extreme">Extreme</string>
+    <string name="fih_power_saving_time_schedule_set_time_title">Set the power saver schedule</string>
+    <string name="fih_power_saving_time_schedule_start_label">Start - </string>
+    <string name="fih_power_saving_time_schedule_end_label">End - </string>
+    <string name="fih_power_saving_request_dialog_msg_normal_mode">"The remaining battery charge is under 20%. Do you want to enable power saver mode to save power ?
+
+This will enable normal power saver mode."</string>
+    <string name="fih_power_saving_request_dialog_msg_extreme_mode">"The remaining battery charge is under 10%. Do you want to enable power saver mode to save power ?
+
+This will enable extreme power saver mode."</string>
+    <string name="power_saving_mode_warning_info_normal_mode_title">"Enabling Normal mode will do the following:
+
+"</string>
+    <string name="power_saving_mode_warning_info_extreme_mode_title">"Enabling Extreme mode will do the following:
+
+"</string>
+    <string name="power_saving_mode_warning_info_item_cpu">"• Limit CPU performance.
+"</string>
+    <string name="power_saving_mode_warning_info_item_brightness">"• Reduce display brightness.
+"</string>
+    <string name="power_saving_mode_warning_info_item_bt">"• Disable bluetooth.
+"</string>
+    <string name="power_saving_mode_warning_info_item_ic">"• Automatically disconnect internet connection when there is no download activity.
+"</string>
+    <string name="power_saving_mode_warning_info_item_bg_service">"• Enable background service control.
+"</string>
+    <string name="power_saving_mode_warning_info_item_gps">"• Disable GPS.
+"</string>
+    <string name="power_saving_mode_warning_info_item_resolution">"• Downgrade the display resolution.
+"</string>
+    <string name="power_saving_mode_warning_info_item_glance">"• Disable Glance mode service.
+"</string>
+    <string name="power_saving_mode_warning_info_item_vibration">"• Disable the vibration and background service.
+"</string>
+    <string name="power_saving_mode_warning_info_item_hotspot">"• Disable WiFi hotspot service.
+"</string>
+    <string name="power_saving_mode_warning_info_item_timeout">"• Change display timeout to 15 sec.
+"</string>
+    <string name="fih_power_saving_dialog_ok_FIH">OK</string>
+    <string name="fih_power_saving_battery_status">Battery status</string>
+</resources>

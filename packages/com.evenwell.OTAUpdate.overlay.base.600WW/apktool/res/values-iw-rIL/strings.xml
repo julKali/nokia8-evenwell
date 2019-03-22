@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">הורדת התוכנה נכשלה.</string>
+    <string name="msg_install_system_software_update_3">"
+
+לא תוכל להשתמש במכשיר שלך במהלך השדרוג.
+
+הסרת הקובץ שהורדת או ניתוק הספקת החשמל במהלך עדכון התוכנה יוביל לתוצאות בלתי צפויות."</string>
+    <string name="msg_install_system_software_update_4">"
+
+לא תוכל להשתמש במכשיר שלך כדי לבצע שיחות חירום במהלך השדרוג.
+
+הסרת הקובץ שהורדת או ניתוק הספקת החשמל במהלך עדכון התוכנה יוביל לתוצאה בלתי צפויה."</string>
+    <string name="msg_unable_to_connect_2">"דרוש חיבור לרשת כדי להשתמש ביישום זה. הפעל רשת סלולרית ב'הגדרות'."</string>
+    <string name="msg_unable_to_connect_wlan">"דרוש חיבור לרשת כדי להשתמש ביישום זה. הפעל רשת סלולרית או WLAN ב'הגדרות'."</string>
+    <string name="msg_no_available_size_card_2">לקובץ העדכון דרושים MB %s של מקום פנוי. מחק חלק מהקבצים באחסון הנתונים.</string>
+    <string name="msg_remove_sd_card_2">לא ניתן לכתוב את הקובץ שהורד באחסון הנתונים. בדוק את האחסון.</string>
+    <string name="msg_remove_sd_card_short_2">הגישה לאחסון הנתונים נכשלה.</string>
+    <string name="menu_enabled">רק תוכנה שהופעלה</string>
+    <string name="using_internal_storage">שימוש באחסון פנימי</string>
+    <string name="using_external_storage">שימוש באחסון חיצוני</string>
+    <string name="msg_agree_message">"
+
+ישנה סבירות נמוכה שתהליך השדרוג יוביל למחיקת נתוני המשתמש. אם הדבר נדרש, גבה את הנתונים שלך לפני התקנת עדכון המערכת."</string>
+    <string name="msg_root_message">"
+
+לא ניתן להבטיח עדכון רגיל למכשיר לאחר שתבוצע בו פעולת רוט (Rooting)."</string>
+    <string name="msg_responsibility_message">אם בוצע רוט (Root) של המכשיר, המשתמש אחראי לכל פעולה חריגה של המערכת לאחר עדכון.</string>
+    <string name="msg_upgrade_agree">קרא והסכם</string>
+    <string name="install_fail">ההתקנה נכשלה</string>
+    <string name="install_all">התקן הכול</string>
+    <string name="installed_version">גרסה מותקנת</string>
+    <string name="update_available">ישנו עדכון זמין.</string>
+    <string name="apk_update_available">ישנו עדכון זמין של יישום.</string>
+    <string name="recommend">מומלץ</string>
+    <string name="roaming_restriction">הגבלה על נדידת נתונים</string>
+    <string name="roaming_restriction_summary">לא ניתן לעדכן בגלל הגבלה של נדידת נתונים.</string>
+    <string name="changelog">יומן שינויים</string>
+    <string name="apk_update_available_summary">"ל-%s יש עדכון מערכת זמין לחץ על 'אישור' כדי להתקין עכשיו או לחץ על 'ביטול' כדי לבדוק את העדכון בעוד יום."</string>
+    <string name="apk_removed">היישום הוסר.</string>
+    <string name="apk_available_items">%s פריטים זמינים סה\"כ</string>
+    <string name="apk_available_item">%s פריטים זמינים סה\"כ</string>
+    <string name="invalid_update_summary">העדכון אינו חוקי, בדוק שוב.</string>
+    <string name="recheck">בדוק שוב</string>
+    <string name="image_download_exception_summary">לא ניתן לגשת לשרת, בדוק שוב מאוחר יותר.</string>
+    <string name="apk_download_exception">לא ניתן לגשת לשרת</string>
+    <string name="installation_confirmation">אישור התקנה</string>
+    <string name="apk_need_reboot_summary">עדכון המערכת יבצע אתחול אוטומטי של המערכת לאחר סיום ההתקנה. האם ברצונך להתקין כעת?</string>
+    <string name="prepare_to_reboot">התכונן לאתחול</string>
+    <string name="prepare_to_reboot_summary">התוכנה שהותקנה צריכה לאתחל את המכשיר כדי לקבוע את ההגדרות. אנו ממליץ לך לעדכן עכשיו. תוכל לעדכן גם מאוחר יותר.</string>
+    <string name="prepare_to_reboot_force_summary">התוכנה שהותקנה צריכה לאתחל את המכשיר כדי לקבוע את ההגדרות. אנו ממליצים שתאתחל עכשיו.</string>
+    <string name="reboot_fail">האתחול נכשל</string>
+    <string name="reboot_fail_summary">לא ניתן לאתחל את המכשיר בגלל API חסר. אתחל אותו באופן ידני.</string>
+    <string name="apk_no_avaliable_size">לא ניתן להוריד בגלל שגודל האחסון פנימי אינו מספיק.</string>
+    <string name="update_finished">העדכון הסתיים</string>
+    <string name="msg_root_warning">בוצע רוט (Root) למכשיר, או שהתוכנה הרשמית טופלה שלא כדין. המשך ביצוע עדכון המערכת עלול לגרום לחוסר יציבות במערכת או לקריסתה, ועלול להוביל לביטול האחריות של המכשיר שלך. האם אתה בטוח שברצונך להמשיך?</string>
+    <string name="multi_image_update">ישנם עדכוני תמונות זמינים</string>
+    <string name="available_update_list">רשימת העדכונים הזמינים</string>
+    <string name="downloading_summary">בטל את הורדת התמונה</string>
+    <string name="msg_erase_userdata_warning">העדכון צריך למחוק את נתוני המשתמש. האם ברצונך להמשיך?</string>
+    <string name="msg_autoupdate_date_fee_warning">הפעלת העדכון האוטומטי עשויה להוביל לחיובים נוספים.</string>
+    <string name="invalid_update">העדכון אינו חוקי.</string>
+    <string name="file_corrupted">לא ניתן לעדכן את המערכת בגלל שהקובץ פגום.</string>
+    <string name="ask_for_apk_check">האם ברצונך לבדוק אם ישנם עדכונים ליישום?</string>
+    <string name="update_ota_self">עדכון התוכנה מתבצע.</string>
+    <string name="ab_update_fail">בעיה בהתקנה.</string>
+    <string name="ab_update_wrong_status">מנגנון העדכון תפוס כעת. נסה שוב מאוחר יותר או בצע אתחול.</string>
+    <string name="ab_update_installing">מעדכן את המערכת</string>
+    <string name="tag_engineer_mode">מצב מהנדס</string>
+    <string name="engineer_version_incorrect">גרסת המכשיר שלך שגויה</string>
+    <string name="msg_engineer_ota_restore">הקש כדי לשחזר את הגרסה הרשמית</string>
+    <string name="msg_engineer_ota_restore_warning">הפעולה תשחזר את הגרסה הרשמית. האם ברצונך להמשיך?</string>
+    <string name="silent_mode_data_fee_warning">ישנו עדכון זמין. הורדת עדכונים עשויה להוביל לחיובים נוספים. אם ניתן, הורד את העדכון דרך Wi-Fi.</string>
+    <string name="msg_updating_system">מעדכן את המערכת...</string>
+    <string name="msg_tap_to_reboot">הקש כדי לאתחל</string>
+    <string name="msg_pause_download">השהיית ההורדה</string>
+    <string name="notification_channel_name">עדכון מערכת</string>
+    <string name="notification_channel_alert_name">התראות כלליות</string>
+</resources>

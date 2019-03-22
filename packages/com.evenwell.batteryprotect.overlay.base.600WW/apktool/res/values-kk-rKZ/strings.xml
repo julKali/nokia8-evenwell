@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Батареяны қорғау</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_warning_title">Абайлаңыз: жоғары температура</string>
+    <string name="fih_battery_protect_cooldown_title">Салқындату</string>
+    <string name="fih_battery_protect_normalmode_title">Қалыпты температура</string>
+    <string name="fih_battery_protect_warning_text">Телефонды салқындату үшін қоңырау мен қолданбалардың жұмысын тоқтатыңыз.</string>
+    <string name="fih_battery_protect_cooldown_text">Қазір телефон салқындату режимінде, тек жедел қызметке қоңырау шалу кезінде тұр.</string>
+    <string name="fih_battery_protect_normalmode_text">Қалыпты жұмыс қалпына келді.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Төтенше жағдай қызметіне қоңырау шалу</string>
+    <string name="fih_battery_protect_maxtemp_title">Ең жоғарғы температура</string>
+    <string name="fih_battery_protect_maxtemp_text">Телефон температурасы тым жоғары, ол қазір өшеді.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Зарядтауды тоқтатыңыз!</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">Зарядтауды тоқтатыңыз!</string>
+    <string name="fih_battery_protect_low_temp_title">Дабыл</string>
+    <string name="fih_battery_protect_low_temp_text">Температура тым төмен, зарядтауды тоқтатыңыз.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">Температура ауқымнан тыс</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Батарея температурасын анықтау мүмкін емес, батареяның дұрыс салынғанына көз жеткізіңіз, әйтпесе ол зарядталмайды.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Батареяның температурасын анықтау мүмкін емес.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">батареяның дұрыс салынғанына көз жеткізіңіз, әйтпесе ол зарядталмайды.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Батарея температурасын қазір анықтау мүмкін емес және телефон салқындату режимінде тұр, төтенше қоңырау шалу арқылы ғана батареяның дұрыс салынғанына көз жеткізіңіз.</string>
+    <string name="fih_battery_protect_aging_title">Батарея шебері</string>
+    <string name="fih_battery_protect_aging_text">Құрметті InFocus тұтынушысы, ұялы телефонның батареясы сарқылатын бөлшек болғандықтан, телефоныңыздың батарея төзімділігі едәуір төмендеп кеткенін байқасаңыз, телефоныңыздың жақсы жұмыс істеу қалпында қалуын қамтамасыз ету үшін телефоныңызды дилерге диагностика жасауына және жөндеуіне алып барыңыз. Егер сұрағыңыз болса, біздің тұтынушыларды қолдау орталығымызға %1$s телефон нөмірі бойынша хабарласыңыз. Рақмет.</string>
+    <string name="fih_battery_protect_aging_nm_text">Тұтынушыларды қолдау орталығына %1$s телефон нөмірі бойынша хабарласыңыз. Рақмет.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Тұтынушыларды қолдау орталығына хабарласыңыз. Рақмет.</string>
+    <string name="fih_battery_protect_bl_warning_title">Жарықтық ескерту дыбысын төмендету</string>
+    <string name="fih_battery_protect_bl_warning_text">Телефонның температурасы қалыптыдан жоғары, телефонды салқындату үшін жарықтығын төмендетіңіз</string>
+    <string name="fih_battery_protect_full_charging">Зарядтау аяқталды</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Болдырмау</string>
+    <string name="fih_battery_protect_power_off">Өшіру</string>
+    <string name="fih_battery_protect_high_full_charging">Жоғары температураларда ең жоғарғы зарядтау шегіне жетті! Телефон температурасы қалыпты мәніне қайтқанда, жүйе қалыпты жылдамдықпен зарядтауын жалғастырады.</string>
+    <string name="fih_battery_protect_low_full_charging">Төмен температураларда ең жоғарғы зарядтау шегіне жетті! Телефон температурасы қалыпты мәніне қайтқанда, жүйе қалыпты жылдамдықпен зарядтауын жалғастырады.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Жоғары температурада зарядтау шегіне жетті</string>
+    <string name="fih_battery_protect_low_full_charging_title">Төмен температурада зарядтау шегіне жетті</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Жалпы хабарландырулар</string>
+    <string name="fih_battery_protect_warning_title_wear">Жоғары температура</string>
+    <string name="fih_battery_protect_cooldown_title_wear">Салқындату</string>
+    <string name="fih_battery_protect_normalmode_title_wear">Қалыпты температура</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">Құрылғыны салқындату үшін жарықтығын төмендетіп, қолданбаларды жабуға кеңес береміз.</string>
+    <string name="fih_battery_protect_cooldown_text_wear">Қазір құрылғы салқындату режимінде, тек жедел қызметке қоңырау шалу кезінде тұр.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">Қалыпты жұмыс қалпына келді.</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">Ең жоғарғы температура</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">Құрылғы температурасы тым жоғары, ол қазір өшеді.</string>
+    <string name="fih_battery_protect_low_temp_title_wear">Төменгі температура</string>
+    <string name="fih_battery_protect_low_temp_text_wear">Батарея температурасы тым төмен, сондықтан зарядтауды тоқтатыңыз.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Батарея температурасын қазір анықтау мүмкін емес және құрылғы салқындату режимінде тұр, төтенше қоңырау шалу арқылы ғана батареяның дұрыс салынғанына көз жеткізіңіз.</string>
+    <string name="fih_battery_protect_install_error_title_wear">Батарея шебері</string>
+    <string name="fih_battery_protect_aging_title_wear">Батарея шебері</string>
+    <string name="fih_battery_protect_aging_text_wear">Құрметті InFocus тұтынушысы, ұялы телефонның батареясы сарқылатын бөлшек болғандықтан, телефоныңыздың батарея төзімділігі едәуір төмендеп кеткенін байқасаңыз, телефоныңыздың жақсы жұмыс істеу қалпында қалуын қамтамасыз ету үшін телефоныңызды дилерге диагностика жасауына және жөндеуіне алып барыңыз. Егер сұрағыңыз болса, біздің тұтынушыларды қолдау орталығымызға %1$s телефон нөмірі бойынша хабарласыңыз. Рақмет.</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">Жоғары температура</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">Батарея салу қатесі</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">Температура ауқымнан тыс</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">батареяның дұрыс салынғанына көз жеткізіңіз, әйтпесе ол зарядталмайды.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">Батарея температурасы тым жоғары, сондықтан зарядтауды тоқтатыңыз.</string>
+    <string name="fih_battery_protect_full_charging_wear">Зарядтау аяқталды</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Болдырмау</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">Құрылғы қазір салқындату режимінде тұр. Оны кейінірек пайдаланыңыз.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">Сағат температурасы тым жоғары. Экранды күңгірттеп, қолданбаларды тоқтатуға кеңес береміз. Бұл әрекеттерді растау үшін тексеріңіз.</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">Сағат қалыпты жұмысына қайтарылды.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">Сағат температурасы шегіне жетті және ол бірден жабылады.</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">Батарея температурасы тым төмен және ол зарядталуды тоқтатады.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Түпнұсқа батареяны пайдаланыңыз</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Зарядтау тоқтатылды</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Зарядтауға түпнұсқа батареяны пайдаланыңыз немесе құрылғыңызға тұрақты/физикалық зақым келтіруіңіз мүмкін.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Батарея жарамсыз</string>
+    <string name="fih_battery_protect_notification_cooling_down">Салқындату</string>
+    <string name="fih_battery_protect_tap_learn_more">Қосымша ақпарат алу үшін түртіңіз.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Телефоныңыз қызып бара жатыр, сондықтан өзін-өзі салқындатуға шара қолданып жатыр. Оны пайдалана беруге болады, бірақ мына ескертуге болады:
+·Зарядтау кідіртуі мүмкін.
+·Wi-Fi өшуі мүмкін.
+·Қолданбалар жабылуы мүмкін.
+·Ұшақ режимі қосылуы мүмкін.
+Телефоныңыз салқындаған соң қалыпты жағдайға қайтады."</string>
+</resources>

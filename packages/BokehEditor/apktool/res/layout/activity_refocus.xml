@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/rootView" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.evenwell.bokeheditor.ui.view.RefocusView android:id="@id/refocusView" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <RelativeLayout android:background="@drawable/top_menu_bg" android:layout_width="fill_parent" android:layout_height="@dimen/top_height" android:layout_alignParentTop="true">
+        <ImageView android:gravity="center_vertical" android:id="@id/cancel" android:paddingLeft="28.0dip" android:paddingRight="28.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_close" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <TextView android:textSize="18.0dip" android:textColor="@android:color/white" android:gravity="center_vertical" android:id="@id/save" android:paddingLeft="28.0dip" android:paddingRight="28.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/save" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/seekBarLayout" android:background="@drawable/bottom_menu_bg" android:layout_width="fill_parent" android:layout_height="56.0dip" android:layout_marginBottom="48.0dip" android:layout_alignParentBottom="true">
+        <SeekBar android:id="@id/blurSeekBar" android:layout_width="274.0dip" android:layout_height="56.0dip" android:maxHeight="56.0dip" android:minHeight="56.0dip" android:layout_centerInParent="true" style="@style/Widget.Material.SeekBar.PicEdit" />
+        <ImageView android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/ic_refocus_slider_icon" android:layout_centerVertical="true" android:layout_toStartOf="@id/blurSeekBar" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/NavigationBarBG" android:background="@color/bottom_navigation_bar_color" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_alignParentBottom="true" />
+</RelativeLayout>

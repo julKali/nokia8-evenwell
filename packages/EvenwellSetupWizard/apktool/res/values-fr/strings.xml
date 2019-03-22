@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="accessibility_text">Accessibilité</string>
+    <string name="account_intro_description">Vous pouvez profiter des services [BRAND_NAME] avec ces quelques étapes faciles.</string>
+    <string name="account_intro_title">Services [BRAND_NAME]</string>
+    <string name="add_account_button_label">Configurer un compte</string>
+    <string name="add_baidu_button_label">Se connecter 百度云</string>
+    <string name="add_infocus_service_account">Ajouter un compte de services [BRAND_NAME]</string>
+    <string name="available_via_passpoint">Disponible via %1$s</string>
+    <string name="back_btn_lebel">RETOUR</string>
+    <string name="backup_and_restore_description">"Si vous avez déjà sauvegardé votre compte, vous pouvez le restaurer sur ce téléphone dès maintenant.
+
+Vous pouvez modifier vos paramètres de sauvegarde à tout moment dans les Réglages."</string>
+    <string name="backup_and_restore_title">Sauvegarde et restauration</string>
+    <string name="baidu_intro_description">"Vous pouvez profiter de l'intégration transparente des stockages Cloud avec 百度云 avec ces quelques étapes faciles."</string>
+    <string name="baidu_intro_title">Cloud Storage pour Baidu</string>
+    <string name="baidu_progress_dialog_des">Veuillez patienter...</string>
+    <string name="choose_timezone">Choisissez le fuseau horaire</string>
+    <string name="connected_via_passpoint">Connecté via %1$s</string>
+    <string name="connected_via_wfa">"Connecté via l'assistant Wi‑Fi"</string>
+    <string name="datausage_dialog_negitive_btn">Annuler</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">"Réglage de la date et de l'heure"</string>
+    <string name="date_and_time_settings_summary">"Réglez la date, l'heure, le fuseau horaire, et les formats"</string>
+    <string name="date_and_time_settings_title">Date et heure</string>
+    <string name="date_and_time_settings_title_setup_wizard">"Régler la date et l'heure"</string>
+    <string name="date_picker_title">Date</string>
+    <string name="date_time_24hour">Utiliser le format 24 heures</string>
+    <string name="date_time_auto">Date et heure automatiques</string>
+    <string name="date_time_auto_summaryOff">"Utilisez l'heure fournie par le réseau"</string>
+    <string name="date_time_auto_summaryOn">"Utiliser l'heure fournie par le réseau"</string>
+    <string name="date_time_date_format">Choisissez le format de la date</string>
+    <string name="date_time_set_date">Régler la date</string>
+    <string name="date_time_set_time">"Régler l'heure"</string>
+    <string name="date_time_set_timezone">Sélectionnez le fuseau horaire</string>
+    <string name="device_checking_message">Bienvenue</string>
+    <string name="dropbox_fih_description">"Obtenez gratuitement 2 Go d'espace Dropbox pour enregistrer vos photos et vidéos automatiquement."</string>
+    <string name="dropbox_fih_signin">Se connecter avec Dropbox</string>
+    <string name="dropbox_fih_signup">"S'inscrire avec Dropbox"</string>
+    <string name="emergency_dial_hmd_message">Urgence</string>
+    <string name="emergency_dial_message">"Appel d'urgence"</string>
+    <string name="expand_button_title">Options avancées</string>
+    <string name="fih_legal_message">"Conditions d'utilisation du logiciel [BRAND_NAME_PROXY]
+
+
+
+Date de prise d'effet : 20 mai 2016
+
+
+
+Les Conditions générales suivantes (désignées sous la mention \" Conditions \") constituent un contrat légal régissant votre usage de tout logiciel [BRAND_NAME_PROXY] entre vous, [BRAND_NAME_PROXY] Inc. et son agent, Commtiva Technology Ltd. (désigné collectivement sous la mention \"[BRAND_NAME_PROXY]\"), et s'applique à votre usage du logiciel [BRAND_NAME_PROXY], y compris mais sans y être limité le téléchargement, l'installation et le renouvellement automatique (désignés sous la mention \" Service logiciel \"). En utilisant ce logiciel [BRAND_NAME_PROXY], vous acceptez de respecter ces Conditions ; si vous n'acceptez pas les Conditions, ne téléchargez pas, ne copiez pas, n'utilisez pas et ne conservez pas le logiciel [BRAND_NAME_PROXY].
+
+
+
+1. Conditions d'utilisation
+
+À condition de respecter les présentes Conditions, [BRAND_NAME_PROXY] vous octroie un usage personnel, non exclusif, non transférable, révocable et limité des Services logiciels [BRAND_NAME_PROXY]. [BRAND_NAME_PROXY] installera du code objet sur votre périphérique intelligent mobile [BRAND_NAME_PROXY] (désigné sous la mention Appareil \" [BRAND_NAME_PROXY] \") via Internet. Vous reconnaissez et acceptez de ne pas utiliser le Logiciel [BRAND_NAME_PROXY] sur votre Appareil [BRAND_NAME_PROXY] à des fins commerciales ou de le transférer à un tiers.
+
+Vous acceptez également de ne pas utiliser le Logiciel [BRAND_NAME_PROXY] d'une des manières suivantes :
+
+(a)\u0009craquage du Logiciel [BRAND_NAME_PROXY] (y compris des technologies sous-jacentes) ou utilisation du Logiciel [BRAND_NAME_PROXY] sur un périphérique de marque autre que [BRAND_NAME_PROXY];
+
+(b)\u0009analyse, décompilation, ingénierie inverse, décodage, copie, modification du Logiciel [BRAND_NAME_PROXY] ou création de travaux dérivés de ces actions à des fins quelconques ;
+
+(c)\u0009toutes activités, y compris mais sans y être limité, tout transfert, location, prêt ou octroi de sous-licence, en conflit avec les Conditions et rendant le Logiciel [BRAND_NAME_PROXY] public ou permettant à un tiers d'utiliser, d'accéder ou de posséder le Logiciel [BRAND_NAME_PROXY] ;
+
+(d)\u0009suppression d'un avis de propriété, logo ou marque commerciale dans le Logiciel [BRAND_NAME_PROXY] ou dans des documents sans l'accord écrit préalable de [BRAND_NAME_PROXY] ;
+
+(e)\u0009utilisation du Logiciel [BRAND_NAME_PROXY] d'une manière contraire à la loi en vigueur ou qui enfreint des droits de tiers ;
+
+(f)\u0009utilisation du Logiciel [BRAND_NAME_PROXY] dans des environnements qui interdisent ou limitent cet usage, y compris mais sans y être limité dans une zone de contrôle aérien limitée, une station-essence, un équipement nucléaire ; ou
+
+(g)\u0009utilisation du Logiciel [BRAND_NAME_PROXY] d'une façon interdite par les Conditions.
+
+
+
+Pour assurer le bon fonctionnement de l'Appareil [BRAND_NAME_PROXY] et du Logiciel [BRAND_NAME_PROXY], vous promettez et vous vous engagez à ne pas détruire ou déplacer d'étiquette(s) apposée(s) sur votre Appareil [BRAND_NAME_PROXY] sans l'aide du personnel [BRAND_NAME_PROXY]. De telles activités non autorisées affectent l'étendue et la durée de garantie que [BRAND_NAME_PROXY] vous fournit.
+
+
+
+2. Politique de confidentialité
+
+Vous reconnaissez et acceptez que [BRAND_NAME_PROXY] collecte et conserve des informations, notamment mais sans y être limité, le type de mode, numéro de série, code IMEI/MEID, version HW, version SW, durée d'utilisation, SKU ID, paramètres par défaut et version du système d'exploitation de votre Appareil [BRAND_NAME_PROXY] (désignées sous la mention \" Informations \"). 
+
+Si [BRAND_NAME_PROXY] est obligé de divulguer des Informations à l'administration ou la justice, [BRAND_NAME_PROXY] les communiquera comme requis.
+
+
+
+L'Appareil [BRAND_NAME_PROXY] communiquera à [BRAND_NAME_PROXY] le statut selon lequel l'Appareil [BRAND_NAME_PROXY] n'a pas été connecté au réseau mobile pendant 14 jours au moins depuis la date d'achat.
+
+
+
+Pour plus d'informations, consultez la Politique de confidentialité de [BRAND_NAME_PROXY].
+
+
+
+3. Prise en charge du Service
+
+[BRAND_NAME_PROXY] fournira des Services logiciels, y compris mais sans y être limité, des mises à jour et mises à niveau, à votre Logiciel [BRAND_NAME_PROXY] en fonction de l'état en vigueur que [BRAND_NAME_PROXY] obtient de l'Appareil [BRAND_NAME_PROXY].
+  
+[BRAND_NAME_PROXY] fournira des mises à jour, correctifs ou nouveau élément à votre Logiciel [BRAND_NAME_PROXY] une fois que vous aurez utilisé le Logiciel [BRAND_NAME_PROXY] via Internet et dans le respect des Conditions.
+
+
+
+[BRAND_NAME_PROXY] se réserve le droit de résilier votre droit d'utiliser directement le logiciel [BRAND_NAME_PROXY] via Internet et le service [BRAND_NAME_PROXY].
+
+[BRAND_NAME_PROXY] publie des nouvelles versions du Logiciel [BRAND_NAME_PROXY] et exige que vous utilisiez la plus récente version du système d'exploitation.
+
+
+
+4. Mise à jour automatique
+
+À des fins d'optimisation, votre Appareil [BRAND_NAME_PROXY] est préconfiguré pour télécharger automatiquement la plus récente version du microprogramme et du logiciel de [BRAND_NAME_PROXY] 
+
+
+
+Pour garantir la sécurité et la stabilité de votre Appareil [BRAND_NAME_PROXY], vous acceptez de respecter les instructions nécessaires pour cette configuration conformément aux directives de [BRAND_NAME_PROXY]. En acceptant de télécharger le dernier microprogramme ou logiciel, vous êtes supposé accepter ce renouvellement et cette installation.
+
+
+
+Pour éviter de perdre des documents, photos, textes, fichiers son, fichiers vidéo ou tous autres enregistrements électriques susceptibles d'être perdus ou détruits lorsque que l'Appareil [BRAND_NAME_PROXY] exécute les mises à jour, il vous appartient de sauvegarder tous ces enregistrements électriques stockés dans l'Appareil [BRAND_NAME_PROXY] avant de télécharger la dernière version du microprogramme ou du logiciel.
+
+
+
+Une fois que votre Appareil [BRAND_NAME_PROXY] effectue les mises à jour automatiquement ou avec votre accord sous forme de message, cela signifie que vous acceptez ce qui suit :
+
+(a)\u0009Mise à jour du logiciel :
+
+Vous acceptez et reconnaissez que [BRAND_NAME_PROXY] se connecte à votre Appareil [BRAND_NAME_PROXY] via Internet pour vérifier la version du logiciel et l'état de mise à jour. Si [BRAND_NAME_PROXY] publie une notification de mise à niveau, [BRAND_NAME_PROXY] vous autorise à mettre à jour les versions et l'état du Logiciel [BRAND_NAME_PROXY] via le Service [BRAND_NAME_PROXY].
+
+Lorsqu'un nouveau Logiciel [BRAND_NAME_PROXY] est disponible, vous autorisez [BRAND_NAME_PROXY] à vous envoyer une notification relative à ces mises à jour. En confirmant les nouvelles mises à jour disponibles, vous acceptez que [BRAND_NAME_PROXY] mette automatiquement à jour votre Appareil [BRAND_NAME_PROXY].
+
+(b)\u0009Synchronisation et mise à jour de contenus :
+
+Lorsque vous connectez votre Appareil [BRAND_NAME_PROXY] à votre ordinateur ou à un autre périphérique, votre Appareil [BRAND_NAME_PROXY] met automatiquement à jour des contenus associés et autres informations (notamment des données de contact, le calendrier, des signets et des fichiers.)
+
+
+
+5. Réservation de tous les droits de propriété et autres droits dans le Logiciel [BRAND_NAME_PROXY]
+
+Bien qu'une licence vous autorise à utiliser le Logiciel et les Services [BRAND_NAME_PROXY], [BRAND_NAME_PROXY], ses affiliés et ses fournisseurs conservent tous les droits du Logiciel [BRAND_NAME_PROXY], y compris mais sans y être limité, les droits de propriété, copyright et autres droits de propriété intellectuelle.
+
+
+
+Tous ces droits du Logiciel [BRAND_NAME_PROXY] sont protégés par des lois locales et des traités internationaux.
+
+
+
+6. Avis de non responsabilité
+
+[BRAND_NAME_PROXY] ne fait aucune déclaration et ne donne aucune garantie, expresse ou implicite, y compris mais sans y être limité, les garanties implicites de qualité marchande, de qualité satisfaisante et d'adéquation à un usage particulier ou d'absence de violation. 
+
+[BRAND_NAME_PROXY] ne garantit pas :
+
+(a)\u0009la précision ou la fiabilité de tout Service [BRAND_NAME_PROXY] que vous avez obtenu ; ou
+
+(b)\u0009la fourniture de manière ininterrompue, ponctuelle et sécurisée du Service [BRAND_NAME_PROXY] ; ou
+
+(c)\u0009la correction instantanée des défauts ou erreurs dans le Logiciel fourni.
+
+
+
+[BRAND_NAME_PROXY] n'est pas responsable des pertes ou dommages causés par des virus ou autres matériaux techniquement nuisibles qui pourraient infecter votre Appareil [BRAND_NAME_PROXY], programmes, données ou autre matériel propriétaire découlant de votre utilisation des Services [BRAND_NAME_PROXY]. Vous accédez à vos propres risques aux contenus et autres matériaux téléchargés et obtenus via [BRAND_NAME_PROXY] et vous êtes seul responsable des dommages occasionnés à votre Appareil [BRAND_NAME_PROXY] ou des pertes de données ou de contenus résultant du téléchargement d'un logiciel.
+
+
+
+7. Responsabilité limitée et recours exclusif
+
+[BRAND_NAME_PROXY] n'est pas responsable des dommages consécutifs, fortuits, indirects ou punitifs ou bien des dommages liés à la perte de profits ou d'informations confidentielles ou autre, des interruptions d'activité, des blessures corporelles, des dégâts matériels, de la perte de confidentialité, du manquement à l'obligation d'agir de bonne foi ou de diligence raisonnable ou bien de négligence.
+
+Dans les limites prévues par la loi en vigueur, la responsabilité globale et maximale de [BRAND_NAME_PROXY] envers vous ainsi que votre seul recours exclusif conformément aux Conditions pour tous dommages, blessures, dégâts matériels et pertes découlant de toutes réclamations ou procès apparentés ou associés aux Conditions en vue de récupérer les dommages réel encourus, sera limité à dix dollars américains (10 USD). 
+
+
+
+L'existence de plusieurs réclamations ou procès apparentés ou associés aux Conditions n'étend pas la responsabilité limitée ou, dans les limites prévues par la loi applicable, votre seul et unique recours.
+
+
+
+Si un tribunal de la juridiction compétente déclare la limite de responsabilité ci-dessus inapplicable, elle ne sera pas, dans ces limites, applicable, et les termes limité à dix dollars devront être remplacés par les termes \"limité à la valeur de la transaction concernée par la responsabilité établie.\"
+
+
+
+Cette réclamation ou ce procès apparenté ou associé aux Conditions devra être archivé moins d'un an après l'apparition de la cause de l'action.
+
+
+8. Indemnité 
+
+Vous acceptez de défendre, d'indemniser et de tenir à couvert [BRAND_NAME_PROXY], ses actionnaires, administrateurs, dirigeants, parties intéressées, employés, filiales et affiliés pour toutes demandes, pertes, responsabilités, réclamations ou frais (y compris les frais de justice), réclamés à l'encontre de [BRAND_NAME_PROXY] par un tiers, dus, découlant ou en rapport avec votre utilisation erronée des Services [BRAND_NAME_PROXY] enfreignant des droits d'un tiers.
+
+
+
+9. Résiliation du Service
+
+Vous n'êtes pas autorisé à utiliser légalement les Services [BRAND_NAME_PROXY] si vous ne respectez pas les Conditions. Dans de telles circonstances, vous devez détruire et supprimer toutes les copies du Logiciel [BRAND_NAME_PROXY]. Parallèlement, cela affectera la garantie de votre propre Appareil [BRAND_NAME_PROXY].
+
+En cas d'infraction mentionnée plus haut, vous acceptez que [BRAND_NAME_PROXY] ait le droit d'adopter les mesures suivantes,
+
+(a)\u0009résiliation immédiate de votre droit à accéder au compte [BRAND_NAME_PROXY] ; et/ou
+
+(b)\u0009blocage de votre accès ultérieur au compte de Service [BRAND_NAME_PROXY] 
+
+
+
+Vous acceptez également que toute violation des Conditions occasionnera un préjudice irréparable à [BRAND_NAME_PROXY], pour lequel une indemnisation monétaire serait inapproprié, et vous consentez à ce que [BRAND_NAME_PROXY] obtienne toute compensation équitable ou poursuite judiciaire que [BRAND_NAME_PROXY] estime nécessaire ou appropriée à de telles circonstances. Ces recours s'ajoutent à tout autre recours de [BRAND_NAME_PROXY] en vertu de la loi ou de l'équité.
+
+
+
+10. Droit applicable et tribunaux compétents
+
+Vous acceptez que toutes les questions relatives aux litiges en rapport avec les Conditions soient régis par les lois de la République de Chine (R.O.C.) abstraction faite des conflits de ses conditions de lois. 
+
+
+
+Vous acceptez la juridiction et la compétence des tribunaux du district de Tapei de Taïwan et ne dressez aucune objection envers cette juridiction ou compétence.
+
+
+
+Tout litige ne pouvant être résolu par un accord à l'amiable mutuel ente vous et [BRAND_NAME_PROXY] devra tenter d'être résolu par la voie de la médiation de votre part ou celle de [BRAND_NAME_PROXY]. Si le litige ne peut être résolu par la voie de la médiation dans un délai de 30 jours calendrier, il sera confié au tribunal de district mentionné plus haut.
+
+
+
+11. Clause générale
+
+Les titres dans les Conditions ne sont utilisés qu'à des fins de convenance.
+ 
+L'absence de mise en œuvre d'action par [BRAND_NAME_PROXY] à l'encontre d'une infraction de votre part ne doit pas être interprétée comme une renonciation à ses droits envers cette infraction ou d'autres infractions ultérieures ou similaires.
+
+
+
+Si un tribunal de la juridiction compétente détermine qu'une partie quelconque des présentes Conditions n'est pas valable ou applicable, la disposition non valable ou applicable sera remplacée par la disposition valable et applicable qui répond le plus étroitement à l'intention de la disposition d'origine et le reste des Conditions demeurera en vigueur. 
+
+
+
+Vous ne pouvez pas céder les Conditions ou céder, transférer ou concéder par sous-licence les droits qui vous sont octroyés dans les Conditions.
+
+
+
+[BRAND_NAME_PROXY] peut céder les présentes Conditions, en tout ou en partie, à tout moment, sans nécessairement devoir vous en aviser. 
+
+
+
+Les présentes Conditions remplacent toutes communications antérieures ou contemporaines de n'importe quel type entre vous et [BRAND_NAME_PROXY] au sujet du Site.
+
+
+
+12. Contrat intégral
+
+Les Conditions et pièces jointes de renouvellement constituent l'intégralité du contrat entre vous et [BRAND_NAME_PROXY] concernant les Services [BRAND_NAME_PROXY] .
+
+
+
+13. Modification des conditions
+
+[BRAND_NAME_PROXY] peut occasionnellement mettre à jour, modifier ou supprimer du contenu dans les Conditions, à sa seule discrétion.
+
+
+
+Vous devez consulter les conditions publiées sur le site Web de [BRAND_NAME_PROXY] qui pourraient différer de celles que vous avez initialement lues.
+
+
+
+Vous êtes supposé accepter ces modifications en utilisant le nouveau logiciel et l'Appareil [BRAND_NAME_PROXY].
+
+"</string>
+    <string name="fih_legal_title">Mentions légales [BRAND_NAME_PROXY]</string>
+    <string name="finish_button_label">Terminer</string>
+    <string name="google_account_add_account">Se connecter avec Google</string>
+    <string name="google_account_intro_description">Configurez un compte Google pour profiter de tous les services Google.</string>
+    <string name="google_account_intro_title">Compte Google</string>
+    <string name="hmd_legal_message">"Conditions de service 
+ 
+Date d'entrée en vigueur : 14 octobre 2016 
+ 
+1. Acceptation 
+Les présentes Conditions d’utilisation du Service HMD Global, ainsi que la Politique de confidentialité et toutes les autres conditions et informations supplémentaires pouvant figurer dans le Service (ci-après, ensemble, les Conditions d’utilisation) régissent votre utilisation du service, du site, du contenu et du logiciel (ci-après, ensemble, le Service). En vous inscrivant au Service ou en utilisant le Service (ou toute partie de celui-ci), vous acceptez les présentes Conditions d’utilisation. 
+ 
+Les Conditions d’utilisation constituent un contrat entre vous et la société HMD Global, sise à Bertel Jungin aukio 9, 02610 Espoo, Finlande, y compris ses filiales et prestataires (ci-après, ensemble, HMD Global), et énoncent vos droits et obligations ainsi que ceux de HMD Global en ce qui concerne le Service. 
+ 
+2. Droit d’accès au Service 
+Pour utiliser le Service, vous devez être âgé de plus de treize (13) ans. Si vous avez moins de treize (13) ans, ou si vous avez plus de treize (13) ans mais êtes considéré comme mineur dans votre pays de résidence, vous devez demander à votre parent ou représentant légal d’accepter votre inscription en votre nom et d’approuver votre utilisation du Service. Toute personne procédant à l’inscription doit être dotée de la capacité légale. 
+ 
+3. Inscription et désinscription 
+Pour utiliser le Service, il est possible que vous deviez vous enregistrer et créer un Compte HMD avec un nom d’utilisateur et un mot de passe, qui pourra être soumis à des conditions différentes. Vous aurez peut-être à nous communiquer certaines informations personnelles et d’autres types d’informations. HMD Global se réserve le droit de vérifier votre adresse email avant toute utilisation du Compte HMD. Lorsque vous utiliserez votre mobile pour la première fois et à chaque fois que vous mettrez à jour le logiciel du téléphone Nokia, un SMS sera envoyé à HMD Global. La création d’un Compte HMD nécessite la transmission de données. Des frais de transmission de données peuvent s'appliquer. 
+ 
+Vous vous engagez à fournir, lors de votre inscription au Service, des informations complètes et exactes et à les tenir à jour. Vous devez prendre toutes les précautions nécessaires afin de protéger votre nom d’utilisateur et votre mot de passe contre toute utilisation frauduleuse par des tiers et à informer dans les plus brefs délais HMD Global de toute utilisation frauduleuse. Vous, et votre parent ou représentant légal si vous êtes mineur, êtes personnellement responsables de toute utilisation du Service. 
+ 
+Vous pouvez vous désinscrire si vous ne souhaitez plus utiliser le Service. Après votre désinscription, vous n’aurez plus accès au Service. HMD Global pourra annuler votre inscription ou restreindre votre accès à certaines parties du Service HMD Global si elle estime, en se fondant sur des motifs raisonnables, que vous avez commis un manquement aux Conditions d’utilisation ou, moyennant un préavis, si vous ne vous êtes pas connecté au Service avec votre nom d’utilisateur au cours des six (6) derniers mois. 
+ 
+Sauf indication contraire dans la Politique de confidentialité, HMD Global décline toute responsabilité en cas de suppression ou de perte d’informations ou de contenus que vous avez soumis au Service. Lorsque vous supprimez (ou lorsque HMD Global supprime) des informations ou des contenus du Service, certaines traces ou copies peuvent subsister ailleurs. 
+ 
+4. Licences 
+HMD Global vous concède une licence non exclusive et non transférable, et révocable à tout moment à l’entière discrétion de HMD Global, vous permettant d’accéder au Service et de l’utiliser dans le strict respect des Conditions d’utilisation. Le fait d’utiliser le Service ne vous concède aucun droit de propriété intellectuelle sur toute information ou tout contenu figurant dans le Service. 
+ 
+HMD Global peut vous fournir, dans le cadre du Service, du contenu développé par HMD Global ou ses concédants (ci-après le ou les Contenu(s)). HMD Global vous concède une licence non exclusive et valable pour toute la durée des droits de propriété intellectuelle vous permettant d’utiliser le Contenu (pour l’usage auquel il est destiné), sauf indication contraire dans les Conditions d’utilisation ou dans la commande. Certains Contenus ne sont disponibles que pour les résidents de certaines zones géographiques. Vous êtes lié par toutes restrictions qui pourraient s’appliquer à certains Contenus que vous obtenez par le biais du Service. Toute licence acquise relative à du Contenu tiers constitue un contrat entre vous et le fournisseur du Contenu tiers. Vous ne bénéficiez que des droits sur le Contenu qui sont expressément concédés aux présentes. 
+ 
+HMD Global peut vous fournir, dans le cadre du Service, certains logiciels développés par HMD Global ou ses concédants (ci-après le ou les Logiciel(s)). Votre utilisation des Logiciels peut être régie par des conditions distinctes que vous devez accepter avant d’utiliser les Logiciels. En l’absence de conditions distinctes applicables à ces Logiciels, les conditions suivantes s’appliquent : HMD Global vous concède un droit limité, non exclusif et non transférable d’installer et d’utiliser les Logiciels sur votre ordinateur et/ou téléphone portable. Vous vous interdisez de copier les Logiciels, mais vous avez le droit d’en faire une seule copie à des fins de sauvegarde et d’archivage. Vous vous interdisez de distribuer, transférer le droit d’utiliser, modifier, traduire, reproduire, revendre, sous-concéder, louer ou reconstituer la logique des Logiciels, ou de tenter d’obtenir le code source ou de créer des œuvres dérivées des Logiciels. Pour les logiciels Open Source, des conditions de licence spécifiques à l’Open Source s’appliquent. Votre utilisation du Logiciel indique que vous en acceptez les conditions générales. 
+ 
+Les Logiciels peuvent faire l’objet de contrôles à l’exportation en vertu des Export Administration Regulations des États-Unis et d’autres réglementations relatives aux contrôles à l’importation ou l’exportation. Vous vous engagez à respecter strictement toutes les réglementations applicables relatives à l’importation et l’exportation et reconnaissez qu’il vous incombe d’obtenir des autorisations pour l’exportation, la réexportation, le transfert ou l’importation de ces Logiciels. 
+ 
+Vous pourrez éventuellement envoyer des informations ou du contenu (les Informations) sur le Service. HMD Global ne revendique aucun droit de propriété sur vos Informations. Le fait que vous adressiez des Informations n’a pas pour effet de transférer à HMD Global des droits de propriété sur ces Informations. HMD Global transmet uniquement ces Informations et n’est pas responsable du contrôle éditorial les concernant. En envoyant des Informations sur le Service, vous concédez à HMD Global une licence non exclusive, valable dans le monde entier, sous-concédable, cessible, intégralement payée, libre de redevance, valable pour toute la durée des droits de propriété intellectuelle et irrévocable l’autorisant à utiliser, copier, présenter publiquement, diffuser, distribuer sur tout support et modifier les Informations, à incorporer les Informations dans d’autres œuvres et à sous-concéder des licences similaires, et ce pour lui permettre de fournir le Service. Vous pourrez éventuellement affiner ou redéfinir cette licence concédée dans la Politique de confidentialité ou dans d’autres paramètres du Service. 
+ 
+Vous avez la responsabilité d’effectuer des copies de sauvegarde des données que vous stockez sur le Service, y compris du Contenu que vous mettez en ligne. En cas d’interruption ou d’annulation du Service, HMD Global peut effacer définitivement vos données. HMD Global n’est pas tenue de vous restituer les données après l’interruption ou l’annulation du Service. 
+ 
+5. Utilisation du Service 
+Vous vous engagez à : 
+• vous conformer aux lois applicables et aux Conditions d’utilisation et à être respectueux des bonnes manières ; 
+• utiliser le Service uniquement à des fins personnelles et non commerciales ; 
+• ne pas fournir d’Informations illicites, insultantes, inexactes, mensongères, outrageantes ou diffamatoires, à caractère pornographique ou de nature à harceler autrui, ou de toute autre manière inappropriées ; 
+• obtenir l'ensemble des autorisations, consentements ou permissions éventuellement requis par la loi pour communiquer toutes Informations ; 
+• respecter la vie privée d’autrui ; 
+• ne pas distribuer ou diffuser des messages non sollicités, des fichiers de taille déraisonnable, des chaînes de lettres, des systèmes pyramidaux ou des virus ; 
+• ne pas utiliser toutes autres technologies ou mener toutes autres activités susceptibles de porter atteinte au Service ou aux intérêts ou droits de propriété des utilisateurs du Service ; 
+• ne pas utiliser tous systèmes ou moyens automatisés pour accéder à quelque partie du Service ou pour acquérir, copier ou contrôler quelque partie du Service ; et 
+• assumer les conséquences des Informations que vous diffusez. 
+ 
+HMD Global pourra, mais n’est pas tenue de : 
+• contrôler ou modifier légèrement tout Contenu ou toutes Informations ; 
+• supprimer toutes Informations du Service ; et 
+• restreindre l’accès à toute partie du Service, à tout moment et à son entière discrétion. 
+ 
+6. Contenu 
+Avant de télécharger ou d’accéder à tout Contenu, vous devez vérifier si le Contenu auquel vous souhaitez accéder fait l’objet de restrictions en fonction de l’âge ou s’il porte la mention potentiellement choquant ou à caractère pornographique. 
+ 
+HMD Global décline toute responsabilité en cas de réclamation ou de préjudice que vous causez ou subissez en accédant à ce Contenu. 
+ 
+Vous vous engagez à : 
+• n’utiliser le Contenu qu’à des fins personnelles et non commerciales ; 
+• n’utiliser le Contenu que conformément aux restrictions énoncées dans les lois et réglementations applicables, dans les conditions, recommandations et politiques supplémentaires ou sur les pages produit qui s’appliquent au Contenu spécifique concerné ; 
+• ne pas copier, donner, vendre, revendre, prêter, louer, offrir, diffuser, envoyer, distribuer, transférer, communiquer au public, reproduire, modifier, afficher, présenter, exploiter commercialement ou mettre à disposition le Contenu, sauf si cela est autorisé dans les Conditions d’utilisation applicables, et à informer dans les plus brefs délais HMD Global de toute utilisation non autorisée ; 
+• ne pas retirer, contourner, reconstituer la logique de, décrypter ou modifier ou compromettre de toute autre manière toutes règles d’usage applicables, ni tenter de contourner des fonctions de gestion de droits numériques ou de protection des copies associées au Contenu ou toutes autres technologies utilisées pour contrôler l'accès à, ou l'utilisation de, ce Contenu ou ses données nominatives ; 
+• ne pas utiliser tous systèmes ou moyens automatisés, excepté ceux que nous fournissons, pour la sélection ou le téléchargement du Contenu ; et 
+• ne pas communiquer votre mot de passe ni autoriser d'autres personnes à accéder au Contenu. Les restrictions de reproduction s'appliquant aux supports sont également applicables au Contenu accessible via ce Service. 
+ 
+Le Contenu appartient à et/ou est contrôlé par HMD Global et/ou ses concédants respectifs et est protégé par les lois applicables en matière de propriété intellectuelle. Le fournisseur de Contenu tiers est uniquement responsable du Contenu qu’il fournit, des garanties qu’il donne, à condition qu’elles n’aient pas été exclues, et de toute réclamation que vous pourriez formuler concernant le Contenu ou votre utilisation de ce Contenu. Toutefois, HMD Global peut, en tant que tiers bénéficiaire, faire valoir et faire appliquer les conditions de licence du Contenu tiers à votre encontre. Les fournisseurs de Contenu tiers sont des tiers bénéficiaires en application des présentes Conditions d’utilisation et peuvent faire appliquer les conditions qui portent directement sur le Contenu à l'égard duquel ils disposent de droits. HMD Global peut agir en qualité de mandataire pour le fournisseur de Contenu tiers dans le cadre de la fourniture du Contenu. HMD Global n’est pas partie prenante à la transaction conclue entre vous et le fournisseur de Contenu tiers pour ce Contenu. 
+ 
+7. Allégations de contrefaçon de droits d’auteur 
+HMD Global respecte les droits de propriété intellectuelle des tierces parties. Si vous souhaitez envoyer un avis de violation des droits de propriété intellectuelle, notamment des réclamations de contrefaçon de droits d'auteur, suivez nos procédures d'envoi d'Avis de violation. TOUTES LES DEMANDES NE CONCERNANT PAS CETTE PROCÉDURE DEMEURERONT SANS RÉPONSE. 
+ 
+HMD Global suit les procédures définies dans l'article 512 du titre 17 du Code des États-Unis pour répondre aux avis de violation de droits d'auteur. Dans certains cas, HMD Global peut également désactiver ou supprimer des comptes d'utilisateurs de services HMD Global en cas de violations répétées. 
+ 
+8. Notifications 
+HMD Global peut envoyer des notifications sur le Service. HMD Global peut également vous envoyer des notifications sur des produits et services à l’adresse de messagerie ou au numéro de téléphone que vous avez communiqué. Vous êtes réputé avoir reçu ces notifications au plus tard dans les sept (7) jours qui suivent leur envoi par HMD Global. Votre utilisation continue du Service vaut réception de toutes les notifications, quel que soit le moyen utilisé pour les envoyer. 
+ 
+9. Frais 
+Votre utilisation du Service peut ou pourra faire l’objet de frais. 
+ 
+Tous les frais facturés par HMD Global seront annoncés distinctement dans le cadre du Service. 
+ 
+L’utilisation du Service peut impliquer la transmission de données par le biais du réseau de votre fournisseur d’accès. Les prix indiqués dans le Service ne comprennent pas les éventuels frais de transmission de données, d’envoi de SMS, de messages vocaux ou autres frais liés à la fourniture de services facturés par votre fournisseur d’accès réseau. 
+ 
+HMD Global décline toute responsabilité quant au paiement de tous frais facturés par votre fournisseur d’accès. 
+ 
+10. Modalités de commande et de paiement 
+Le terme Commande désigne le fait de choisir du Contenu payant et/ou un abonnement au Contenu proposé par HMD Global et disponible sur le Service et le mode de paiement, ainsi que le fait de passer la commande en sélectionnant acheter, ok ou accepter ou toute autre confirmation d’acceptation similaire lors de la procédure de commande ou en fournissant toute autre indication d’acceptation qui vous est proposée lors de la procédure de commande. 
+ 
+Pour passer Commande sur le Service, vous devez avoir atteint l’âge minimum légal requis par la législation applicable. Ainsi, si vous n’avez pas l’âge minimum légal requis, vous ne pouvez passer Commande qu’avec l’accord préalable de votre parent ou représentant légal. 
+ 
+Vous reconnaissez que toutes les Commandes sont légalement valides et exécutoires. Toutes les Commandes doivent être acceptées par HMD Global. 
+ 
+Vous pouvez payer au moyen d’une carte de crédit ou de débit, par facturation établie par le fournisseur d’accès réseau ou par tout autre mode de paiement proposé (le cas échéant). 
+ 
+L’adresse de facturation figurant sur votre carte de crédit ou de débit doit se situer dans le pays dans lequel le Contenu est proposé par le Service. HMD Global procèdera au débit de votre carte de crédit ou de votre compte bancaire dans un délai raisonnable après la passation de votre Commande. Tous les paiements par carte de crédit font l’objet de contrôles de validation et d’une autorisation de la part de l’émetteur de la carte. 
+ 
+Si vous choisissez la facturation par le fournisseur d’accès réseau, les frais dus apparaîtront sur votre facture de téléphone portable ou seront déduits de votre compte prépayé si vous en possédez un. En fonction des fournisseurs d’accès réseau, votre utilisation du Service peut être subordonnée à des conditions supplémentaires, comme, par exemple, le fait de limiter le montant des frais pouvant apparaître sur la facturation par le fournisseur d’accès réseau. Les frais supérieurs aux limites imposées par le fournisseur d’accès réseau ou au solde du compte peuvent être rejetés. 
+ 
+Vous vous engagez à payer les frais liés à votre Commande, à vous assurer que l’instrument de paiement utilisé est valable au moment de la Commande, que vous êtes le détenteur légitime de cet instrument et qu’il est utilisé dans les limites du crédit accordé. 
+ 
+Le Contenu fourni vous est concédé sous licence. Vous vous engagez à utiliser ce Contenu uniquement dans le respect des présentes Conditions d’utilisation et de toutes conditions supplémentaires qui peuvent vous être proposées lors de la procédure de commande. 
+ 
+Le Service peut proposer des abonnements. Vous autorisez le Service à imposer des frais périodiques pendant la durée de l’abonnement. Le Service peut également proposer une période d’essai. Si votre Commande comprend une période d’essai (également appelée offre d’essai), les frais peuvent vous être facturés à l’expiration de la période d’essai, sauf annulation de votre part conformément aux conditions de l’abonnement/offre d’essai. 
+ 
+Les prix pratiqués dans le Service peuvent être modifiés à tout moment. Sauf indication contraire, les prix s’entendent toutes taxes comprises en vigueur au moment de votre transaction. Il est possible que votre banque ou votre fournisseur de carte de crédit vous facture des frais supplémentaires en fonction des taux de change utilisés et/ou des frais supplémentaires évalués. HMD Global exclut toute responsabilité relative au paiement des frais bancaires ou de tous autres frais facturés par des tiers. 
+ 
+11. Annulations et remboursements 
+Vous acceptez que la livraison électronique du Contenu intervienne en même temps que la passation de votre Commande. Vous ne pourrez pas annuler votre Commande une fois que celle-ci aura été traitée. La nature du Contenu est telle que celui-ci ne peut pas être retourné. 
+ 
+Si, après votre Commande, vous découvrez et informez HMD Global dans les plus brefs délais (et au plus tard dans les 48 heures) que (a) le Contenu que vous avez commandé est défectueux ; (b) le Contenu que HMD Global vous fournit ne correspond pas à la description du Contenu que vous avez commandé sur le Service ; ou (c) des problèmes techniques ont retardé ou empêché la livraison de votre Contenu ou ont donné lieu, accidentellement, à plusieurs commandes, votre seul recours en ce qui concerne ce Contenu sera soit son remplacement, soit le remboursement du prix que vous avez payé pour ce Contenu, à l’entière discrétion de HMD Global. 
+ 
+Aucun remboursement n’est possible dans tous les autres cas. Si vous rencontrez l’un quelconque des problèmes visés ci-dessus, vous devez contacter le service clientèle de HMD Global. 
+ 
+Il est précisé que si vous ne pouvez pas fournir votre numéro (ou ID) de transaction, qui vous est communiqué par HMD Global après la passation de votre Commande sur le Service clientèle, HMD Global peut ne pas être en mesure de traiter la demande adressée au service clientèle. HMD Global pourra traiter uniquement les remboursements liés à du Contenu dont le prix total est supérieur au seuil prévu par la législation applicable. 
+ 
+12. Retours d’informations à HMD Global 
+En soumettant toutes idées, avis et/ou propositions (les Retours d’informations) à HMD Global par le biais du Service ou par tous autres moyens, vous reconnaissez que : (1) HMD Global peut répondre de la même manière aux Retours d’informations ; (2) vos Retours d’informations ne contiennent aucune information confidentielle ou privée vous appartenant ou appartenant à des tiers ; (3) HMD Global n’est tenue à aucune obligation de confidentialité concernant les Retours d’informations ; (4) HMD Global peut librement utiliser, distribuer, exploiter et multiplier et modifier les Retours d’informations à quelque fin que ce soit ; et (5) vous ne pouvez prétendre à aucune indemnisation de la part de HMD Global. 
+ 
+13. Activités sociales et partage de la position géographique 
+Vous pouvez utiliser des fonctionnalités dans le Service qui vous permettent de communiquer votre position géographique, votre situation/statut, du contenu, des Informations ou des informations personnelles, ou d’interagir avec d’autres utilisateurs, sites et services. En utilisant ces fonctionnalités, vous acceptez que HMD Global puisse utiliser et transmettre ces informations à d’autres services et personnes avec lesquels vous choisissez d’être en contact ou de partager ces informations. Les utilisateurs de ces services et ces personnes, comme, par exemple, vos contacts, peuvent visualiser votre position géographique, votre situation/statut et/ou vos informations personnelles. En utilisant ces fonctionnalités, vous vous engagez à ne pas partager d’éléments d’informations, du Contenu ou des Informations ou aller sur tous services ou sites qui : (a) contiennent du contenu ou tout autre élément illégal ou inapproprié ; ou (b) exploitent des droits de propriété intellectuelle sans autorisation ou qui incitent les utilisateurs à se livrer à des actes de piraterie. Toute interaction n’implique en aucun cas HMD Global et ne concerne que vous et le ou les autres utilisateurs. 
+ 
+14. Disponibilité et exigences techniques 
+La disponibilité du Contenu et du Service peut varier et est soumise à l’entière discrétion de HMD Global. HMD Global exclut expressément toute déclaration ou garantie selon laquelle un Contenu ou un Service particulier sera disponible. Le Service peut ne pas être disponible dans tous les pays et n’être proposé que dans certaines langues. Il est possible que le Service, son fonctionnement et certaines fonctions dépendent également du réseau, de la compatibilité des dispositifs utilisés et des formats de contenu pris en charge. 
+ 
+Pour accéder au Service, il est possible que vous ayez besoin de télécharger un logiciel spécifique développé par HMD Global ou par un tiers. 
+ 
+HMD Global peut, à son entière discrétion, modifier, corriger ou interrompre le Service, en tout ou partie. Le Service est susceptible d’être interrompu pour procéder à des travaux de maintenance ou pour toute autre raison. Pour être sûr que vous disposiez des derniers logiciels et applications du mobile, votre mobile peut vérifier automatiquement la disponibilité des mises à jour de logiciels auprès de HMD Global. Si ces mises à jour sont détectées, il vous sera demandé d’en accepter l’installation. Vous pouvez désactiver la fonction de vérification automatique des mises à jour sur les paramètres de votre mobile. Vous pouvez également installer des logiciels via les réseaux de mises à jour de logiciels disponibles. Si HMD Global considère qu’une mise à jour de Logiciel est particulièrement importante ou cruciale, vous devez cesser d’utiliser la version précédente du Logiciel. HMD Global pourrait alors vous empêcher d’utiliser la version précédente de ce Logiciel ou du Service tant que vous n’aurez pas installé la mise à jour. 
+ 
+HMD Global peut désactiver tout Contenu ou Logiciel figurant dans votre compte pour quelque raison que ce soit et supprimer tout Contenu ou Logiciel et/ou désactiver les copies de toute application présente sur votre téléphone afin de protéger le Service, les fournisseurs d’applications, les opérateurs sans fil dont vous utilisez les réseaux pour accéder au Service ou toutes autres parties concernées ou potentiellement concernées. 
+ 
+Il est possible qu’un service particulier corresponde à une version pré-commerciale, par exemple une version bêta, et donc ne fonctionne pas de la même manière qu’une version définitive. HMD Global peut modifier sensiblement toute version du Service ou d’un Logiciel ou décider de ne pas lancer une version définitive. 
+ 
+15. Liens vers des sites et du contenu appartenant à des tiers 
+HMD Global peut inclure un accès vers des sites et des services sur Internet ou des clients pré-chargés qui vous permettent d’interagir avec des sites et des services qui sont détenus ou exploités par des tiers et qui ne font pas partie du Service. Vous devez, avant d’utiliser ces sites ou ces services, prendre connaissance de leurs conditions d’utilisation et les accepter. 
+ 
+HMD Global ne dispose d’aucun contrôle sur le contenu, les sites ou les services de ces tiers et n’assume aucune responsabilité concernant les services fournis ou les contenus créés ou publiés sur ces sites ou ces services tiers. L’insertion d’un lien vers un site tiers ne signifie pas que HMD Global approuve le site ou les produits ou services qui y sont mentionnés. 
+ 
+En outre, vous et les autres utilisateurs pouvez créer sur le Service du contenu et des liens vers du contenu qui n’ont pas été soumis sur le Service de toute autre manière. HMD Global n’est pas responsable de ce type de contenu ou de liens. 
+ 
+16. Publicités 
+Le Service peut contenir des publicités. Ces publicités peuvent porter sur du contenu ou des informations stockées sur le Service, sur des demandes de renseignements faites par le biais du Service ou sur d’autres informations. 
+ 
+17. Données à caractère personnel 
+La Politique de confidentialité et toutes informations supplémentaires relatives à la vie privée qui vous sont communiquées régissent l’utilisation de vos données à caractère personnel. 
+ 
+18. Limitation de responsabilité 
+Le Service est fourni EN L’ÉTAT et TEL QUE DISPONIBLE. HMD Global ne garantit pas que le Service sera ininterrompu ou exempt d’erreurs ou de virus. HMD Global ne fournit aucune garantie d’aucune sorte, expresse ou implicite, notamment des garanties de propriété, d’absence de contrefaçon, de qualité ou d’adéquation à un usage particulier, quant à la disponibilité, l’exactitude, la fiabilité, les informations ou le contenu du Service. Vous reconnaissez et déclarez expressément que vous assumez seul l’ensemble des risques liés à l’utilisation du Service et que vous êtes susceptible d’être exposé à des contenus provenant de diverses sources. 
+ 
+A l’exception de l’engagement de sa responsabilité en cas de décès ou de préjudice corporel résultant d’une faute lourde ou grave de sa part, HMD Global ne peut en aucun cas être tenue responsable de dommages indirects ou accessoires découlant de votre utilisation du Service ou de votre impossibilité de l’utiliser. 
+ 
+19. Obligation de défense 
+Vous vous engagez à défendre et garantir HMD Global contre toutes les réclamations ou actions en justice formées par des tiers et contre tous les frais, coûts, dépenses, débours ou dommages et intérêts résultant de ou liés à (i) un manquement de votre part aux Conditions d’utilisation, (ii) la contrefaçon ou la violation de votre part de tous droits de propriété intellectuelle, de tous autres droits ou droits à la vie privée d’un tiers, ou (iii) une utilisation frauduleuse du Service par un tiers si l’utilisation frauduleuse résulte d’un manquement de votre part à prendre toutes les précautions raisonnables afin de protéger votre nom d’utilisateur et votre mot de passe contre toute utilisation frauduleuse. 
+ 
+20. Stipulations diverses 
+ 
+20.1 Droit applicable 
+Les Conditions d’utilisation sont régies par les lois finlandaises, sans donner d’effet aux dispositions régissant les conflits de lois. 
+ 
+20.2 Validité 
+Les Conditions d’utilisation n’excluent ni ne limitent aucun des droits qui vous sont garantis par la loi dans votre pays de résidence et auxquels il n’est pas possible de renoncer en vertu de la loi. Si toute clause contenue dans les Conditions d’utilisation est jugée nulle et non applicable, les autres clauses contenues dans les Conditions d’utilisation demeureront valables et pleinement applicables et la clause non applicable sera alors remplacée par une clause applicable se rapprochant au mieux de l’objectif et du résultat prévus par les Conditions d’utilisation. Si une ou plusieurs clauses des présentes Conditions d’utilisation ne s’appliquent pas à votre utilisation du Service, les autres clauses ou les Conditions d’utilisation dans leur ensemble demeureront néanmoins valables et pleinement applicables. En cas de conflit entre les présentes Conditions d’utilisation du Service HMD Global et la Politique de confidentialité, les Conditions d’utilisation du Service HMD Global prévalent. Toutes les stipulations des Conditions d’utilisation qui sont destinées à demeurer en vigueur après toute résiliation de votre adhésion demeurent en vigueur. 
+ 
+20.3 Modification des Conditions d’utilisation 
+HMD Global peut modifier à tout moment et sans préavis les Conditions d’utilisation. En cas de modifications importantes, HMD Global vous en informera par voie de notification séparée. 
+ 
+Il vous appartient de consulter régulièrement les Conditions d’utilisation. Votre utilisation continue du Service vaut acceptation des changements et modifications mentionnés ci-dessus. 
+ 
+21. Propriété intellectuelle 
+Le Service, le Contenu et les Logiciels sont protégés par les lois internationales en matière de droits d’auteur. HMD Global revendique les droits d’auteur sur son Service, le Contenu et les Logiciels, dans toute la mesure permise par la loi. Sous réserve des Conditions d’utilisation, HMD Global est titulaire de tous les droits de propriété sur le Service, le Contenu et les Logiciels ainsi que sur tous les autres produits, logiciels et autres biens HMD Global qui vous sont fournis ou que vous utilisez par le biais du Service. 
+ 
+22. Cession 
+HMD Global peut céder ses droits et obligations en vertu des présentes Conditions d’utilisation à sa société mère, l’une de ses filiales ou toute société sous contrôle commun avec HMD Global. Par ailleurs, HMD Global peut céder ses droits et obligations en vertu des présentes Conditions d’utilisation à un tiers dans le cadre d’une fusion, d’une acquisition, d’une cession d’actifs, en application de la loi ou de toute autre manière."</string>
+    <string name="hmd_user_experience_program_message">"Votre partage d'expérience permet à HMD Global de mieux comprendre ce que vous appréciez dans votre appareil Nokia et ce qui mérite, selon vous, d'être amélioré. Il peut arriver que des informations anonymes avec des données techniques sur votre appareil nous soient envoyées (ex : un fichier faisant état d'un dysfonctionnement de logiciel). Veuillez noter que de telles données ne seront pas transmises via une connexion au réseau mobile. Votre avis sur votre appareil Nokia nous intéresse !"</string>
+    <string name="hmd_user_experience_program_title">"Partage d'expérience"</string>
+    <string name="idle_too_long_toast">"Ce téléphone est inactif depuis un certain temps. Arrêter maintenant pour conserver de l'énergie."</string>
+    <string name="label_text">"Oui, je suis d'accord."</string>
+    <string name="label_text_negitive">"Désolé, je ne suis pas d'accord."</string>
+    <string name="language_selection_cancel_btn">ANNULER</string>
+    <string name="language_selection_title">Choisir la langue</string>
+    <string name="light_room_description">"%1$s prend en charge la capture d'images RAW (DNG). Vous pouvez apporter des modifications directement sur votre smartphone grâce à notre partenariat avec Adobe.&lt;br/>&lt;br/>Téléchargez maintenant Adobe Photoshop Lightroom CC à partir de la boutique Google Play."</string>
+    <string name="light_room_title">Passionné de photographie ?</string>
+    <string name="link_speed">%1$d Mbit/s</string>
+    <string name="location_for_service">"Utiliser Ma position pour obtenir des résultats de recherche Google et d'autres services Google.
+
+"</string>
+    <string name="location_info_1">"Le service de localisation de Google fournit des applications avec votre position approximative sans l'aide du GPS."</string>
+    <string name="location_info_2">Vous pouvez désactiver ces fonctionnalités dans Réglages, sous Services de localisation.</string>
+    <string name="location_network">"Autoriser le service de localisation de Google à recueillir des données de localisation anonymes. La collecte aura lieu même si aucune application n'est en cours d'exécution."</string>
+    <string name="location_title">"Utiliser l'emplacement Google"</string>
+    <string name="nevigation_selection_back">Retour</string>
+    <string name="nevigation_selection_home">Accueil</string>
+    <string name="nevigation_selection_recent">Récent</string>
+    <string name="nevigation_selection_text">"Vous pouvez modifier la couleur de l'arrière-plan et la position des touches Retour / Récent."</string>
+    <string name="nevigation_selection_title">Mise en page de la navigation</string>
+    <string name="next_btn_lebel">Suivant</string>
+    <string name="normal_date_format">Régional (%s)</string>
+    <string name="not_now">PAS MAINTENANT…</string>
+    <string name="passpoint_content">Identifiants de %1$s</string>
+    <string name="passpoint_label">Enregistré via</string>
+    <string name="please_select_phase2">Authentification phase 2</string>
+    <string name="proxy_error_empty_host_set_port">"Le champ Port doit rester vide si le champ Hôte n'est pas renseigné."</string>
+    <string name="proxy_error_empty_port">Le champ Port est obligatoire.</string>
+    <string name="proxy_error_invalid_exclusion_list">La liste d’exclusions saisie n’est pas correctement formatée. Saisissez une liste séparée par des virgules des domaines exclus</string>
+    <string name="proxy_error_invalid_port">Le port indiqué n’est pas valide.</string>
+    <string name="proxy_exclusionlist_label">Ignorer le proxy pour</string>
+    <string name="proxy_hostname_label">"Nom d'hôte du proxy"</string>
+    <string name="proxy_port_label">Port du proxy</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"URL PAC : "</string>
+    <string name="proxy_warning_limited_support">"Le proxy HTTP est utilisé par le navigateur, mais ne peut pas l'être par les autres applications."</string>
+    <string name="saved_network">Enregistré par %1$s</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="select_sim_card">Sélectionner une carte SIM</string>
+    <string name="setup_complete_hmd">Vous êtes prêt...</string>
+    <string name="setup_complete_hmd_1">Vous êtes presque prêt...!</string>
+    <string name="setup_complete_main">Vous êtes</string>
+    <string name="setup_complete_message">"Votre téléphone est configuré et prêt à l'emploi."</string>
+    <string name="setup_complete_sub">PRÊT À COMMENCER</string>
+    <string name="setup_completed_congratulations">Félicitations !</string>
+    <string name="setup_finish">ALLONS-Y</string>
+    <string name="sim_editor_title">Emplacement pour carte SIM %1$d</string>
+    <string name="sim_not_exist_toast">Veuillez vérifier si vous insérez la carte SIM.</string>
+    <string name="skip_add_account_button_label">Pas maintenant</string>
+    <string name="skip_button_label">Sauter</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">"D'accord"</string>
+    <string name="term_disagree_text">"Pas d'accord"</string>
+    <string name="terms_of_service_description">"
+Cela peut coûter des frais supplémentaires d'utilisation de données mobiles lorsque vous utilisez des services qui nécessitent une connexion réseau, tels que les services météorologiques, les services Internet, l'E-mail, le navigateur... etc. Pour gérer vos frais d'utilisation de données mobiles plus efficacement, nous vous conseillons de souscrire au forfait de services mobiles le appropriée auprès de votre opérateur.
+
+En choisissant Accepter, vous autorisez ces services à se connectent au réseau lorsque nécessaire.
+
+De plus, la mise à jour automatique des logiciels est activée par défaut. Pour vous apporter la toute dernière expérience logicielle, cela peut utiliser quelques données mobiles. Vous pouvez toujours modifier l'option ultérieurement dans les Paramètres.
+
+"</string>
+    <string name="terms_title">Utilisation des données</string>
+    <string name="time_picker_title">Heure</string>
+    <string name="traffic_prompt_content">"Si vous n'êtes pas d'accord, vous devez acquérir la mise à jour du logiciel, les prévisions météo, et autres informations manuellement."</string>
+    <string name="upload_agent_des_text">"Envoyer un rapport de diagnostics lorsque l'appareil a un problème. &lt;a href='launch.AddUploadAgentHandler://Kode'>Déclaration de confidentialité&lt;/a> .Vous pouvez modifier cette option ultérieurement dans les Paramètres."</string>
+    <string name="upload_agent_hmd_des_text_2">"Rejoignez le programme Nokia Partage d'expérience. &lt;a href='launch.UserExperienceActivity://Kode'>En savoir plus.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"En appuyant sur \"ALLONS-Y\", vous acceptez de rejoindre le programme d'expérience utilisateur. &lt;a href='launch.UserExperienceActivity://Kode'>En savoir plus&lt;/a>. N'oubliez pas que vous pouvez toujours rejoindre le programme ultérieurement via les Paramètres."</string>
+    <string name="upload_agent_title">"Programme d'expérience utilisateur"</string>
+    <string name="v7_preference_off">DÉSACTIVÉ</string>
+    <string name="v7_preference_on">ACTIVÉ</string>
+    <string name="welcome_hmd_term_of_use_2">"En cliquant sur la flèche, vous acceptez les &lt;a href='launch.TermOfServiceActivity://Kode'>Conditions d'utilisation&lt;/a> et la &lt;a href='launch.AddUploadAgentHandler://Kode'>Politique de confidentialité&lt;/a>. Les informations de l'activation de votre appareil avec une localisation unique seront envoyées à HMD Global. Des frais de données peuvent s'appliquer."</string>
+    <string name="welcome_hmd_term_of_use_4">"En appuyant sur le bouton, vous acceptez les &lt;a href='launch.TermOfServiceActivity://Kode'>Conditions de service&lt;/a> et la &lt;a href='launch.AddUploadAgentHandler://Kode'>Politique de confidentialité&lt;/a>. Les informations de l'activation de l'appareil avec une localisation unique seront envoyées à HMD Global.&lt;br/>&lt;br/>La notification de mise à jour automatique du logiciel, qui installe pour vous les dernières mises à jour, sera activée. Cela peut consommer une petite partie de votre budget de données. Les services accèdent à Internet chaque fois qu'ils en ont besoin.&lt;br/>&lt;br/>Ces services vous coûtent des frais de couverture lorsqu'ils accèdent à des réseaux mobiles."</string>
+    <string name="welcome_hmd_term_of_use_5">"En appuyant sur le bouton, vous acceptez les &lt;a href='launch.TermOfServiceActivity://Kode'>Conditions du service&lt;/a>. Les informations de l'activation de votre appareil avec une localisation unique seront envoyées à HMD Global. Des frais de données peuvent s'appliquer. Les données seront utilisées conformément à la &lt;a href='launch.AddUploadAgentHandler://Kode'>Politique de confidentialité&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"En tapant sur la flèche, vous acceptez les&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Conditions d'utilisation&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Allons-y</string>
+    <string name="welcome_message">Bienvenue</string>
+    <string name="welcome_start_button_label">DÉMARRER</string>
+    <string name="welcome_vision_settings_button_label">Paramètres visuels</string>
+    <string name="wifi_add_network">Ajouter un réseau</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Liste déroulante Options avancées. Appuyez deux fois pour la développer.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Liste déroulante Options avancées. Appuyez deux fois pour la réduire.</string>
+    <string name="wifi_and_mobile_skipped_message">"La connexion à un réseau vous aide à configurer rapidement votre téléphone.
+
+Sans connexion, vous ne pouvez pas :
+
+"<li>vous connecter à votre compte Cloud</li>"
+
+"<li>obtenir des mises à jour logicielles</li>"
+
+"<li>"configurer automatiquement la date et l'heure"</li></string>
+    <string name="wifi_auth_password_wrong">"Le mot de passe n'est peut être pas correct"</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Annuler</string>
+    <string name="wifi_certificate">Certificat</string>
+    <string name="wifi_connect">Se connecter</string>
+    <string name="wifi_connected_no_internet">"Connecté, pas d'Internet"</string>
+    <string name="wifi_disabled_generic">Désactivé</string>
+    <string name="wifi_disabled_network_failure">Défaut de configuration IP</string>
+    <string name="wifi_disabled_password_failure">"Problème d'authentification"</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Ne pas fournir</string>
+    <string name="wifi_do_not_validate_eap_server">Ne pas valider</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Pas de certificat spécifié. Votre connexion ne sera pas privée.</string>
+    <string name="wifi_dont_skip">REVENIR EN ARRIÈRE</string>
+    <string name="wifi_eap_anonymous">Anonyme</string>
+    <string name="wifi_eap_ca_cert">Certificat CA</string>
+    <string name="wifi_eap_domain">Domaine</string>
+    <string name="wifi_eap_identity">Identité</string>
+    <string name="wifi_eap_method">Méthode EAP</string>
+    <string name="wifi_eap_user_cert">Certificat utilisateur</string>
+    <string name="wifi_fail_to_scan">Impossible de détecter les réseaux</string>
+    <string name="wifi_failed_connect_message">Échec de la connexion au réseau</string>
+    <string name="wifi_failed_forget_message">Échec de la suppression du réseau</string>
+    <string name="wifi_failed_save_message">"Échec de l'enregistrement du réseau"</string>
+    <string name="wifi_forget">Supprimer</string>
+    <string name="wifi_frequency">Fréquence</string>
+    <string name="wifi_gateway">Passerelle</string>
+    <string name="wifi_ip_address">Adresse IP</string>
+    <string name="wifi_ip_settings">Paramètres IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Saisissez une adresse DNS valide.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Saisissez une adresse de passerelle valide.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Saisissez une adresse IP valide.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">La longueur du préfixe réseau doit être comprise entre 0 et 32.</string>
+    <string name="wifi_multiple_cert_added">(Plusieurs certificats ajoutés)</string>
+    <string name="wifi_network_prefix_length">Longueur du préfixe réseau</string>
+    <string name="wifi_no_domain_warning">Vous devez spécifier un domaine.</string>
+    <string name="wifi_no_internet">"Pas d'accès Internet"</string>
+    <string name="wifi_no_internet_no_reconnect">Ne se connectera pas automatiquement</string>
+    <string name="wifi_not_in_range">Non compris dans la plage</string>
+    <string name="wifi_password">Mot de passe</string>
+    <string name="wifi_picker_connection_des_text">Disable WLAN connection may cause charge when verifying your software via mobile network.</string>
+    <string name="wifi_picker_connection_negative">Connect</string>
+    <string name="wifi_picker_connection_negative_prc">Connect WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">Connect Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Network connection</string>
+    <string name="wifi_picker_warning_des_text">Until you have an internet connection, the phone will not be able to verify that your software is up to date.</string>
+    <string name="wifi_picker_warning_negative">Skip anyway</string>
+    <string name="wifi_picker_warning_positive">Do not skip</string>
+    <string name="wifi_picker_warning_title">Warning</string>
+    <string name="wifi_remembered">Enregistré</string>
+    <string name="wifi_save">Enregistrer</string>
+    <string name="wifi_security">Sécurité</string>
+    <string name="wifi_security_none">Aucun</string>
+    <string name="wifi_setting_title">Soyez connecté</string>
+    <string name="wifi_shared">"Partager avec d'autres utilisateurs de l'appareil"</string>
+    <string name="wifi_show_advanced">Options avancées</string>
+    <string name="wifi_show_password">Afficher le mot de passe</string>
+    <string name="wifi_signal">Intensité du signal</string>
+    <string name="wifi_skip_anyway">IGNORER QUAND MÊME</string>
+    <string name="wifi_speed">Vitesse de connexion</string>
+    <string name="wifi_ssid">Nom du réseau</string>
+    <string name="wifi_ssid_hint">Saisissez le SSID</string>
+    <string name="wifi_status">État</string>
+    <string name="wifi_unchanged">(aucune modification)</string>
+    <string name="wifi_unspecified">Veuillez sélectionner</string>
+    <string name="wifi_use_system_certs">Utiliser les certificats du système</string>
+    <string name="zone_auto">Fuseau horaire automatique</string>
+    <string name="zone_auto_summaryOff">Utilisez le fuseau horaire fourni par le réseau</string>
+    <string name="zone_auto_summaryOn">Utiliser le fuseau horaire fourni par le réseau</string>
+    <string name="sugarsync_intro_description">"Vous pouvez profiter de l'intégration transparente du stockage Cloud avec SugarSync avec ces quelques étapes faciles."</string>
+</resources>

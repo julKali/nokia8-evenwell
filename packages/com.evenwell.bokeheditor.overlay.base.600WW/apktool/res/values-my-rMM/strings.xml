@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh Editor</string>
+    <string name="save">Save</string>
+    <string name="refocus_type_name">Bokeh</string>
+    <string name="refocus_type_description">This photo is taken in Bokeh mode with depth map to refocus.</string>
+    <string name="dual_sight_type_name">Dual-Sight</string>
+    <string name="dual_sight_type_description">Nokia Dual-Sight technology uses both front and rear cameras simultaneously so you can tell both sides of the story.</string>
+    <string name="initiating">Initiating</string>
+    <string name="save_to">"Save to "</string>
+    <string name="saving_photos">Saving photos...</string>
+    <string name="dlg_processing">Processing...</string>
+    <string name="permission_main_permission_alert">To work properly, this app need more permission below:</string>
+    <string name="permission_item_storage">- Storage</string>
+    <string name="permission_button_give_permission">Give permission</string>
+    <string name="image_format_error">"Image format error, it can't be edited!"</string>
+    <string name="image_save_fail">Image save failed!</string>
+    <string name="discover_name">Dual-Sight</string>
+    <string name="editor_description">Refocus and bokeh level adjustment</string>
+    <string name="google_store_title">Bokeh Editor content provider</string>
+    <string name="google_store_description">Camera extended features for Nokia phones</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">AVBRYT</string>
+    <string name="copying">Kopierer…</string>
+    <string name="demo_mode_notifications">Varsler for demomodus</string>
+    <string name="disable_demo_mode">Deaktiver demomodus</string>
+    <string name="download_complete_msg">"Nedlasting fullført.
+
+Trykk på OK for å starte Demomodus."</string>
+    <string name="download_fail_msg">"Kunne ikke laste ned demomateriale fra Internett.
+
+Trykk på OK for å starte Demomodus."</string>
+    <string name="downloading">Laster ned…</string>
+    <string name="enable_demo_mode">Aktivere demomodus?</string>
+    <string name="enable_demo_mode_setup">Aktivere demomodus</string>
+    <string name="no_new_demo_found_msg">"Nytt demomateriale ikke funnet.
+
+Trykk på OK for å starte Demomodus."</string>
+    <string name="ok">OK</string>
+    <string name="reset_device">Tilbakestill enheten?</string>
+    <string name="system_busy_msg">Systemet er opptatt. Prøv på nytt senere.</string>
+    <string name="update_demo_video">Oppdater demo-video</string>
+</resources>

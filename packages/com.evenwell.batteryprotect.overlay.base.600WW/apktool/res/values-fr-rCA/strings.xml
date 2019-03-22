@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Annuler</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Annuler</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">"Veuillez utiliser la batterie d'origine"</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Arrêt de la charge</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">"Veuillez utiliser la batterie d'origine pour charger l'appareil, sous peine d'occasionner des dommages physiques/permanents."</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">"La batterie n'est pas valide"</string>
+    <string name="fih_battery_protect_notification_cooling_down">Refroidissement</string>
+    <string name="fih_battery_protect_tap_learn_more">Appuyez pour en savoir plus.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"« Votre téléphone devient chaud, il prend donc les mesures nécessaires pour se refroidir. Vous pouvez continuer à l'utiliser, mais vous pourriez remarquer : ·Une pause possible de la charge. ·Le Wi-Fi pourrait être mis hors fonction. ·Des applications pourraient se fermer. ·Le mode Avion peut être activé. Votre téléphone redeviendra normal lorsqu'il sera refroidi. »"</string>
+</resources>

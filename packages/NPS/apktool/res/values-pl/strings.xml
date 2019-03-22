@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ANULUJ</string>
+    <string name="DONE">Gotowe</string>
+    <string name="NEXT">DALEJ</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">POPRZEDNI</string>
+    <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+    <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+    <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+    <string name="abc_action_mode_done">Gotowe</string>
+    <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+    <string name="abc_capital_off">WYŁ.</string>
+    <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Funkcyjny+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spacja</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+    <string name="abc_shareactionprovider_share_with_application">Udostępnij przez: %s</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
+    <string name="alert_empty_desc">Dodaj opis.</string>
+    <string name="alert_warning_title">Wskazówki</string>
+    <string name="enter_comments">Wpisz komentarz (1000 znaków)</string>
+    <string name="extremely_likely">(Bardzo prawdopodobne)</string>
+    <string name="feedback">Opinia</string>
+    <string name="helps_us_improve_our_products">Twoja opinia pozwala nam ulepszać produkty.</string>
+    <string name="intro_title">Jak bardzo prawdopodobne jest, że polecisz ten telefon znajomemu?</string>
+    <string name="msg_send_after">Wiadomość zostanie automatycznie przesłana po nawiązaniu połączenia internetowego. Dziękujemy za odpowiedź.</string>
+    <string name="msg_send_fail">Nie udało się wysłać. Wiadomość zostanie automatycznie przesłana po nawiązaniu połączenia internetowego. Dziękujemy za odpowiedź.</string>
+    <string name="no_ask_feedback_again_text">Nie pokazuj ponownie</string>
+    <string name="no_showagain_text">Nie pokazuj ponownie</string>
+    <string name="not_at_all_likely">(Niemożliwe)</string>
+    <string name="privacy_context_wifi">"Szanowni Użytkownicy, 
+
+witamy w aplikacji klienckiej do wyrażania opinii. Prosimy o uważne przeczytanie warunków świadczenia usługi przed rozpoczęciem korzystania z tego produktu. Klikniecie przycisku「Wyrażam zgodę」jest równoznaczne z zapoznaniem się z warunkami i wyrażeniem zgody na używanie niniejszego oprogramowania. Jeśli NIE akceptujesz tych warunków, naciśnij opcję「Zamknij」. Aby zaoferować Ci kompleksowe usługi, Aplikacja potrzebuje następujących uprawnień: 
+1. Dostęp do internetu, sieć WLAN do wysyłania opinii 
+2. Importowanie danych IMEI, PSN i MNC\\MCC do automatycznego pobierania podstawowych informacji o telefonie"</string>
+    <string name="search_menu_title">Szukaj</string>
+    <string name="select_a_value">Wybierz wartość</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Wyrażam zgodę</string>
+    <string name="str_leave">Zamknij</string>
+    <string name="submit_fail">Przesłanie nie powiodło się</string>
+    <string name="submit_success">Dziękujemy za odpowiedź</string>
+    <string name="thank_your_feedback">Dziękujemy za opinię.</string>
+    <string name="we_appreciate_your_help">Doceniamy Twój wkład w poprawę jakości produktów Nokia.</string>
+    <string name="we_hope_enjoying_nokia_device">Mamy nadzieję, że jesteś zadowolony ze swojego urządzenia Nokia. Twoja opinia jest dla nas bardzo ważna.</string>
+    <string name="we_will_contact_you_again">Skontaktujemy się z Tobą w przyszłości.</string>
+    <string name="we_will_contact_you_again_enjoy">Skontaktujemy się z Tobą w przyszłości. Ciesz się nowym urządzeniem Nokia!</string>
+    <string name="why_you_gave_this_score">Powiedz nam, z czego wynika Twoja opinia:</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>স্থির</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>স্বয়ংক্রিয়ভাবে চিহ্নিত করুন</item>
+        <item>মিটার্ড হিসাবে ধরুন</item>
+        <item>আনমিটার্ড হিসাবে ধরুন</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>কোনোটিই নয়</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>কোনোটিই নয়</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>কোনোটিই নয়</item>
+        <item>ম্যানুয়াল</item>
+        <item>প্রক্সি স্বয়ংক্রিয়-কনফিগ</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>নিম্নমানের</item>
+        <item>ভালো</item>
+        <item>ভালো</item>
+        <item>অসাধারণ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>স্ক্যান করা হচ্ছে…</item>
+        <item>সংযুক্ত হচ্ছে…</item>
+        <item>প্রমাণীকরণ হচ্ছে…</item>
+        <item>IP ঠিকানা প্রাপ্ত করা হচ্ছে…</item>
+        <item>সংযুক্ত হয়েছে</item>
+        <item>স্থগিত করা হয়েছে</item>
+        <item>সংযোগ বিচ্ছিন্ন হচ্ছে…</item>
+        <item>সংযোগ বিচ্ছিন্ন হয়েছে</item>
+        <item>অসফল</item>
+        <item>ব্লককৃত</item>
+        <item>সাময়িকরূপে দুর্বল সংযোগ এড়ানো হচ্ছে</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>স্ক্যান করা হচ্ছে…</item>
+        <item>%1$s-এ সংযোগ করা হচ্ছে…</item>
+        <item>%1$s দিয়ে প্রমাণীকরণ করা হচ্ছে…</item>
+        <item>%1$s থেকে IP ঠিকানা জানা হচ্ছে…</item>
+        <item>%1$s -এ সংযুক্ত হয়ে আছে</item>
+        <item>স্থগিত করা হয়েছে</item>
+        <item>%1$s থেকে সংযোগ বিচ্ছিন্ন হচ্ছে…</item>
+        <item>সংযোগ বিচ্ছিন্ন হয়েছে</item>
+        <item>অসফল</item>
+        <item>ব্লককৃত</item>
+        <item>সাময়িকরূপে দুর্বল সংযোগ এড়ানো হচ্ছে</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI হেক্সাডেসিমেল</item>
+    </string-array>
+</resources>

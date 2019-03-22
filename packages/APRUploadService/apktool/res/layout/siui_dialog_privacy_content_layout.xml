@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/container_material" android:background="@color/siui_dialog_panel" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:scrollbarSize="4.0dip" android:scrollbarThumbVertical="@drawable/siui_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textSize="18.0sp" android:textColor="@color/siui_text_color" android:id="@id/txtPrivacy" android:background="@color/siui_dialog_panel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/siui_privacy_dialog_margin" android:layout_marginRight="@dimen/siui_privacy_dialog_margin" />
+    </ScrollView>
+    <View android:id="@id/line_2" android:background="@color/siui_line_bd_color" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/siui_privacy_dialog_margin" android:layout_marginTop="1.0dip" android:layout_marginRight="@dimen/siui_privacy_dialog_margin" />
+    <LinearLayout android:gravity="center" android:background="@color/siui_dialog_panel" android:padding="0.0dip" android:paddingBottom="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="0.0dip">
+        <Button android:textSize="@dimen/bottom_button_text_size" android:textColor="@color/siui_agree_text_color" android:id="@id/dialog_button_ok" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/go_label" android:height="55.0dip" android:layout_weight="1.0" style="@style/EditNotesButton" />
+    </LinearLayout>
+</LinearLayout>

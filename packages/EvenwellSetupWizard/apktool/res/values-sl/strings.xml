@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Krmarjenje domov</string>
+    <string name="abc_action_bar_up_description">Krmarjenje navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOPLJENO</string>
+    <string name="abc_capital_on">VKLOPLJENO</string>
+    <string name="abc_search_hint">Iskanje …</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Deljenje z</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
+    <string name="accessibility_text">Pripomočki za osebe s posebnimi potrebami</string>
+    <string name="account_intro_description">Pridružite se storitvi[BRAND_NAME], da boste svojo napravo uporabljali pametneje in učinkoviteje.</string>
+    <string name="account_intro_title">[BRAND_NAME]Račun storitve</string>
+    <string name="add_baidu_button_label">Prijavite se v Baidu Cloud</string>
+    <string name="add_infocus_service_account">Nov račun storitve [BRAND_NAME]</string>
+    <string name="back_btn_lebel">Prejšnji korak</string>
+    <string name="backup_and_restore_description">"Če ste že varnostno kopirali svoj račun, lahko zdaj obnovite podatke v mobilnem telefonu. 
+
+Nastavitev varnostnega kopiranja lahko vedno spremenite v možnosti \"Nastavitev\"."</string>
+    <string name="backup_and_restore_title">Varnostno kopiranje in obnovitev</string>
+    <string name="baidu_intro_description">Z nekaj preprostimi koraki lahko nemoteno uporabljate prostor za shranjevanje v storitvi Baidu Cloud.</string>
+    <string name="baidu_intro_title">Prostor za shranjevanje v storitvi Baidu Cloud</string>
+    <string name="baidu_progress_dialog_des">Počakajte trenutek</string>
+    <string name="choose_timezone">Izberite časovni pas</string>
+    <string name="datausage_dialog_negitive_btn">Zrušiť</string>
+    <string name="datausage_dialog_positive_btn">V redu</string>
+    <string name="date_and_time">Datum in nastavitve</string>
+    <string name="date_and_time_settings_summary">Nastavi datum, uro, časovni pas in oblike</string>
+    <string name="date_and_time_settings_title">Datum in čas</string>
+    <string name="date_and_time_settings_title_setup_wizard">Nastavitev datuma in ure</string>
+    <string name="date_picker_title">Datum:</string>
+    <string name="date_time_24hour">Uporabljaj 24-urno obliko</string>
+    <string name="date_time_auto">Samodejna datum in ura</string>
+    <string name="date_time_auto_summaryOff">Uporabi uro omrežja</string>
+    <string name="date_time_auto_summaryOn">Uporabi uro omrežja</string>
+    <string name="date_time_date_format">Izbira oblike datuma</string>
+    <string name="date_time_set_date">Nastavitev datuma</string>
+    <string name="date_time_set_time">Nastavitev ure</string>
+    <string name="date_time_set_timezone">Izberite časovni pas</string>
+    <string name="device_checking_message">Pozdravljeni</string>
+    <string name="dropbox_fih_description">Pridobite 2 GB brezplačnega prostora v storitvi Dropbox za samodejno nalaganje fotografij in videov.</string>
+    <string name="dropbox_fih_signin">Prijavite se v Dropbox</string>
+    <string name="dropbox_fih_signup">Vpišite se v Dropbox</string>
+    <string name="emergency_dial_hmd_message">Klic v sili</string>
+    <string name="emergency_dial_message">Klic v sili</string>
+    <string name="expand_button_title">Dodatno</string>
+    <string name="fih_legal_message">"Pogodba o lastništvu in pogojih uporabe programske opreme [BRAND_NAME_PROXY]
+
+ Datum veljavnosti: 20. maj 2016
+
+ Vsebina teh pogojev uporabe (v nadaljnjem besedilu: pogoji uporabe) velja za zagotovljene storitve, kot so prenos programske opreme [BRAND_NAME_PROXY], storitev samodejnega posodabljanja itd. (v nadaljnjem besedilu: storitve programske opreme). Če prenesete, namestite ali uporabljate programsko opremo [BRAND_NAME_PROXY], to pomeni, da se strinjate s pogoji uporabe. Če se ne strinjate s temi pogoji uporabe, programske opreme [BRAND_NAME_PROXY]ne prenašajte, kopirajte ali uporabljajte. 
+
+ 1. Pravila uporabe
+ Po tem, ko sprejmete pogoje uporabe, vam bo podeljeno neprenosljivo, nelastniško, osebno in omejeno pooblastilo do uporabe storitev programske opreme[BRAND_NAME_PROXY]. Programska oprema[BRAND_NAME_PROXY]bo nameščena v vašo napravo [BRAND_NAME_PROXY]v obliki ciljne kode in programsko opremo [BRAND_NAME_PROXY]lahko začnete uporabljati, ko jo zaženete. Razumete, da programske opreme[BRAND_NAME_PROXY]ne smete uporabljati za komercialne namene in da jo boste uporabljali v svoji osebni napravi[BRAND_NAME_PROXY]. 
+ Glede programske opreme[BRAND_NAME_PROXY]boste upoštevali zahteve pogojev uporabe in se zavezujete, da ne boste izvajali ničesar od naslednjega: 
+ (a) poskušali preseči tehnološke omejitve podjetja [BRAND_NAME_PROXY]za programsko opremo [BRAND_NAME_PROXY]ali v povezavi s kakršnim koli projektom ali storitvijo poskušali zaobiti tehnična sredstva za nadzor arhivov ali drugih zbirk podatkov ali pravic;
+ (b)[BRAND_NAME_PROXY]izvajali dejanja, kot so povratni razvoj, obratno zbiranje, dekodiranje, povratno prevajanje, ali poskušali pridobiti izvorno kodo programske opreme [BRAND_NAME_PROXY]ali uporabljali drugih sredstev v zvezi s programsko opremo [BRAND_NAME_PROXY], ki jih zakoni izrecno ne dovoljujejo, dodajali celotnih ali delnih dodatkov ter brisali delov, spreminjali ali krnili programske opreme;
+ (C) omogočili tretji osebi stik s programsko opremo [BRAND_NAME_PROXY], njeno uporabo ali lastništvo z objavljanjem, prenašanjem, oddajanjem v najem, izposojo, podlicenciranjem ali razkrivanjem itd. 
+ (d) odstranili, ne sami ne osebe, ki jih ni pooblastil [BRAND_NAME_PROXY], nobene izjave ali oznake o avtorskih pravicah v zvezi s programsko opremo [BRAND_NAME_PROXY]ali vsemi z njo povezanimi datotekami v kateri koli obliki;
+ (e) uporabljali programsko opremo [BRAND_NAME_PROXY]tako, da se s tem kršijo pravice drugih ljudi, ali z vedenjem, ki nasprotuje zakonom in predpisom; ali
+ (f) uporabljali programsko opremo [BRAND_NAME_PROXY]v okolju, kjer je njena uporaba, vključno z jedrskimi objekti, letali in kontrolo letalskega prometa, bencinskimi črpalkami ter v drugih okoliščinah ali okoljih, kjer bi lahko to povzročilo ali povečalo tveganje pred nesrečami ali finančno škodo; ali
+ (g) uporabljali programsko opremo [BRAND_NAME_PROXY]na kateri koli drug način, ki ga ti pogoji uporabe prepovedujejo. 
+ Da zagotovite normalno delovanje programske opreme [BRAND_NAME_PROXY]in svoje naprave [BRAND_NAME_PROXY], se zavezujete, da ne boste poškodovali ali spreminjali oznake nosilca naprave [BRAND_NAME_PROXY]brez pomoči usposobljenega osebja [BRAND_NAME_PROXY]. Takšno vedenje in vedenje, opisano v točki (a) tega člena, vplivata na obseg zagotavljanja podpore in jamstva podjetja [BRAND_NAME_PROXY]za vašo napravo [BRAND_NAME_PROXY]. 
+
+ 2. Pravilnik o pravici do zasebnosti
+ Obveščeni ste o tem in strinjate se s tem, da za namen povečanja kakovosti storitve [BRAND_NAME_PROXY]zbira in hrani vse prenose programske opreme ali komunikacijo s sporočili, ki jih izvajate prek različnih storitev, ki jih zagotavlja spletno mesto [BRAND_NAME_PROXY]. To vključuje številko modela/zaporedno številko naprave [BRAND_NAME_PROXY], kodo IMEI/MEID, različico strojne opreme, različico programske opreme, skupni čas storitve, skupni čas stanja pripravljenosti, kodo SKU ID, statistične podatke o napakah, ime programske opreme/postopka z napako, pogostost napak, podatke o različici itd. 
+ Če tako zahtevajo administrativni/sodni organi ali zakoni in predpisi, [BRAND_NAME_PROXY]boste sodelovali pri razkrivanju zadevnih informacij. 
+ Če je vaša naprava [BRAND_NAME_PROXY]brez internetne povezave 14 zaporednih dni po nakupu, bo naprava [BRAND_NAME_PROXY]podjetju[BRAND_NAME_PROXY] poslala kratko sporočilo, da je naprava [BRAND_NAME_PROXY]v stanju razpoložljivosti. 
+ Za podrobna navodila glejte [Pravilnik o zasebnosti] podjetja [BRAND_NAME_PROXY]. 
+
+ 3. Storitev podpore
+ Storitve posodabljanja, prenosa in uporabe zagotavljamo v skladu trenutnimi okoliščinami ob času, ko je bila programska oprema prenesena ali posodobljena, in se lahko [BRAND_NAME_PROXY]glede na okoliščine[BRAND_NAME_PROXY] odloči o nadaljnjem zagotavljanju ustreznih storitev podpore in posodabljanja [BRAND_NAME_PROXY]. 
+ Potem ko pridobite začetne datoteke [BRAND_NAME_PROXY], bo [BRAND_NAME_PROXY]prek interneta zagotovili posodobitve, dopolnila, dodatne komponente ali komponente storitev, pri čemer za vsa dejanja v postopkih prenašanja, posodabljanja in uporabe programske opreme veljajo določila pogojev uporabe. 
+ [BRAND_NAME_PROXY]si pridržuje pravico do prekinitve vseh storitev programske opreme [BRAND_NAME_PROXY], ki ste jih pridobili med brskanjem po spletu, ali uporabe storitev programske opreme, da zagotovimo nemoteno delovanje vseh vrst programske opreme. 
+ [BRAND_NAME_PROXY]lahko samodejno izda objave o naslednji in posodobljeni različici programske opreme [BRAND_NAME_PROXY], o čemer prejmete obvestilo in zahtevo, da s spletnim prenosom uporabljate najnovejšo različico. 
+
+ 4. Samodejno posodabljanje
+ [BRAND_NAME_PROXY]Svojo napravo [BRAND_NAME_PROXY]in programsko opremo [BRAND_NAME_PROXY]lahko posodabljate, izboljšujete, zaščitite ali nadalje izboljšujete njuno uporabo s samodejnim prenašanjem vdelane programske opreme in programske opreme [BRAND_NAME_PROXY]v napravo. 
+ Vdelana programska oprema [BRAND_NAME_PROXY]in programska oprema [BRAND_NAME_PROXY]v napravi bosta privzeto v stanju »Zagon«, z drugimi besedami, prek interneta sta povezani s strežnikom [BRAND_NAME_PROXY]in samodejno povežeta napravo [BRAND_NAME_PROXY]brez dodatnih ročnih postopkov. Za zagotovitev varnosti in stabilnosti naprave [BRAND_NAME_PROXY]ste seznanjeni z zahtevami [BRAND_NAME_PROXY]v zvezi s postopkom posodabljanja in se strinjate s tem, da boste jih upoštevali in sledili navodilom za posodabljanje. 
+ Da se izognete izgubi podatkov v postopku posodabljanja, varnostno kopirajte svoj osebni profil (na primer fotografije, stike, koledar, glasbo, zaznamke, dokumente in drugo) v napravi [BRAND_NAME_PROXY]in podatke shranite v napravo [BRAND_NAME_PROXY], povezano z vašim računalnikom. 
+ [BRAND_NAME_PROXY]Potem ko se naprava samodejno posodobi ali se ob sprejemu sporočila podjetja [BRAND_NAME_PROXY]o posodabljanju strinjate z začetkom postopka posodabljanja, se šteje, da se strinjate z opisom naslednjih funkcij posodabljanja: 
+ (a) Posodobitev programske opreme
+ Obveščeni ste o tem in se strinjate s tem, da je programska oprema [BRAND_NAME_PROXY]povezana z vašo napravo [BRAND_NAME_PROXY]prek interneta, s čimer se potrjujeta izdaja programske opreme [BRAND_NAME_PROXY]in stanje posodobitve v strežniku. Če je objavljeno sporočilo [BRAND_NAME_PROXY]o posodabljanju, boste lahko [BRAND_NAME_PROXY]povezali v strežnik za posodobitev različice in stanja vdelane programske opreme. 
+ Strinjate se, da vas[BRAND_NAME_PROXY] o posodabljanju s sporočilom obvešča sproti, ko bo posodobitev programske opreme na voljo. Če potrdite prejem obvestila o posodabljanju, se šteje, da se strinjate s posodobitvijo [BRAND_NAME_PROXY]in namestitvijo programske opreme [BRAND_NAME_PROXY]v svojo napravo [BRAND_NAME_PROXY]s prenosom datoteke posodobitve. 
+ (b) Posodabljanje s sinhronizacijo vsebine
+ Zdaj uporabljate posodobljeno vsebino naprave [BRAND_NAME_PROXY]in s tem bo vaše povezane naprave [BRAND_NAME_PROXY]ali računalnik samodejno posodobljeni z vsebino in drugimi informacijami (kot so podatki o stikih, koledar, zaznamki, dokumenti in druge oblike vsebine). 
+ 
+ 5.[BRAND_NAME_PROXY] Lastništvo programske opreme in ohranjanje vseh pravic
+ [BRAND_NAME_PROXY]Njegova odvisna podjetja in dobavitelji so lastniki in si pridržujejo lastništvo, avtorske pravice in druge pravice intelektualne lastnine vse programske opreme [BRAND_NAME_PROXY], za katere v pogojih uporabe ni jasno navedeno, da so dodeljene vam. 
+ [BRAND_NAME_PROXY]Za vso zagotovljeno programsko opremo veljajo zakoni in mednarodni predpisi v zvezi z avtorskimi pravicami in drugimi pravicami intelektualne lastnine. 
+
+ 6. Zavrnitev odgovornosti
+ Do največje mere, ki jo dovoljuje zakonodaja, glede programske opreme [BRAND_NAME_PROXY]in izvedenih storitev, ki jih zagotavljamo v skladu[BRAND_NAME_PROXY] s trenutnim stanjem, nismo odgovorni za napake. [BRAND_NAME_PROXY]Naša odvisna podjetja in dobavitelji ne dajejo nobenih naznačenih ali zakonsko opredeljenih jamstev, zavez o jamstvu, odgovornosti ali stanjih za okoliščine, vključno s primernostjo za prodajo in uporabnostjo programske opreme[BRAND_NAME_PROXY]in izvedenih storitev za določene namene (kot je storitev posodabljanja). 
+ [BRAND_NAME_PROXY]Ne dajemo jamstev glede uporabnosti ali naznačenih jamstev za naslednje: 
+ (a) [BRAND_NAME_PROXY]lastništvo, status nekršitve, skladnost z vsemi vrstami opisov, izjava o odsotnosti virusov, odsotnost hroščev v programu, natančnost in popolnost delovanja; ali
+ (b)[BRAND_NAME_PROXY]tekoče delovanje, delovanje brez motenj ali napak v programski opremi; ali
+ (c)[BRAND_NAME_PROXY] takojšnja odprava vseh morebitnih hroščev vseh vrst v programski opremi. 
+ S tem, ko prenesete in uporabljate programsko opremo [BRAND_NAME_PROXY], ste seznanjeni z vsemi tveganji (vključno s [BRAND_NAME_PROXY]poškodbo naprave, ki je v uporabi, izgubo vsebin, odstranitvijo ali razveljavljenjem programske opreme drugega ponudnika itd.), ki izhajajo iz uporabe ali delovanja programske opreme [BRAND_NAME_PROXY]ali izvedenih storitev (če obstajajo), in s tem se šteje, da se strinjate, da prevzemate zadevna tveganja in odgovornosti, [BRAND_NAME_PROXY]pa v zvezi s tem ne daje nobenih zagotovil in ne prevzema odgovornosti. Strinjate se, da ima[BRAND_NAME_PROXY]pravico do presoje in odstranjevanja programov in programske opreme, ki vplivajo na delovanje, in sami prej varnostno kopirate svoje podatke in programsko opremo. 
+ Če prenesete program ali datoteko in to povzroči razkrivanje vaših informacij ali poškodbo sistema vaše naprave [BRAND_NAME_PROXY], za to nismo[BRAND_NAME_PROXY]odgovorni in strinjate se, da sami prevzamete s tem povezana tveganja. 
+
+ 7. Obseg odgovornosti in omejitev ali izključite odškodnine 
+ Nismo odgovorni za nadomestila za škodo vseh vrst, kot je neposredna, naključna, ponavljajoča se škoda, za kaznovalne ali druge odškodnine ali za kakršno koli izgubo koristi v vseh okoliščinah, [BRAND_NAME_PROXY]razen v primerih, ko to izrecno prepovedujejo zakoni. Tudi če je to podjetje[BRAND_NAME_PROXY]obveščeno, da lahko pride do škode, in ne glede na to, kakšni so vzroki ali podlage za zahtevke in kakšno zvezo ima podjetje [BRAND_NAME_PROXY]s tem, ne prevzema odgovornosti. 
+ V primeru, da prevzamemo odgovornost za nadomestilo za uporabo spletnega mesta [BRAND_NAME_PROXY]ali njegovih vsebin v skladu s pogoji uporabe, je to nadomestilo omejeno na dejansko in neposredno škodo, ki je nastala zaradi razumnega zaupanja v programsko opremo, največji znesek nadomestila pa je 10 USD. Ne glede na obliko morajo biti zahtevki, ki izhajajo iz pogojev uporabe, vloženi v roku enega leta po tem, ko ste se seznanili z vzrokom dogodka ali je nastala podlaga za zahtevek. Če pa pristojno sodišče ne dovoli omejitve obsega odgovornosti, navedena določila o omejitvi odgovornosti ne veljajo. 
+
+ 8. Izjava o odškodnini
+ Če brskate po podatkih, jih prenašate, kopirate, oddajate, kodirate, stiskate (razen podatkov, ki jih zagotavlja[BRAND_NAME_PROXY]) prek programske opreme[BRAND_NAME_PROXY]in kršite pravice drugih ljudi ali zakonska določila; če kršite določila pogojev uporabe in povzročate, da drugi ljudje vlagajo zahtevke ali predloge v zvezi s škodo, odgovornostmi ali stroški (vključno z odvetniškimi stroški) proti deležniku, direktorju in nadzorniku, vodstvenemu osebju, zaposlenim našega podjetja ali tretji osebi z ustreznim interesom,[BRAND_NAME_PROXY]se strinjate, da prevzemate ustrezno odškodninsko odgovornost in[BRAND_NAME_PROXY]branite v zadevnem primeru ter tega deležnika, direktorja ali nadzornika, vodstveno osebje, zaposlenega ali tretjo osebo z ustreznimi interesi odvezujete od odškodninske odgovornosti. Če deležnik, direktor in nadzornik, vodstveno osebje, zaposleni podjetja [BRAND_NAME_PROXY]ali tretja oseba z ustreznimi interesi utrpijo škodo, ste pripravljeni ustrezno povrniti škodo. 
+
+ 9. Prenehanje storitve
+ Če prekršite katero koli določilo pogojev uporabe, to pomeni, da ste izgubili pravico do zakonite uporabe programske opreme [BRAND_NAME_PROXY]in da morate takoj uničiti ali izbrisati vse kopije programske opreme. Pod posebnimi pogoji to tudi vpliva na časovno omejitev in obseg zagotavljanja podpore za vašo napravo[BRAND_NAME_PROXY]. 
+ V navedenih okoliščinah se strinjate s postopki [BRAND_NAME_PROXY]v skladu s položajem, medtem pa ne vi na tretja oseba ne prevzemate odškodninske odgovornosti: 
+ (1) Preneha vam pravica [BRAND_NAME_PROXY]do vstopa v račun storitve,
+ (2) in/ali vaš dostop do računa storitve [BRAND_NAME_PROXY]v prihodnosti je blokiran. 
+ Glede kršenja pogojev uporabe ste o tem seznanjeni in se strinjate, da bo to podjetju [BRAND_NAME_PROXY]povzročilo škodo, ki je ni mogoče nadomestiti z denarjem. V primeru, v katerem[BRAND_NAME_PROXY]meni, da je to nujno ali ustrezno, se strinjate, da lahko [BRAND_NAME_PROXY]zahteva začasni zaseg, začasno sodno prepoved, trajno ali začasno kazen in druga sredstva za zmanjšanje obsega škode. 
+ Če kršite pogoje uporabe in [BRAND_NAME_PROXY] nazadnje proti vam sproži pravni postopek, imamo pravico od vas zahtevati vi pa se strinjate, da boste podjetju [BRAND_NAME_PROXY] plačali vse razumne odvetniške in pravne stroške kot tudi druga nadomestila za škodo, ki jih predlaga in zahteva zakon. 
+
+ 10. Upoštevnost zakonodaje in pristojnost sodišča
+ Strinjate se z vsemi ustreznimi določili v zvezi s pogoji uporabe. Določila so v skladu z zakoni Ljudske republike Kitajske, Ljudsko sodišče okrožja Čaojang mesta Peking pa bo pristojno sodišče in mesto sojenja v primeru kršenja pogojev uporabe. Strinjate se s pristojnostjo in mestom sojenja in se odpovedujete ugovorom ali nasprotovanjem. 
+ Obe stranki si bosta po najboljših močeh prizadevali s pogajanji razrešiti vsak spor, ki je nastal v zvezi s pogoji uporabe. Če spora ni mogoče razrešiti s pogajanji v razumnem obdobju (v 30 koledarskih dneh), vsaka stranka predloži spor v poravnavo. Če poravnava spodleti, obe stranki razrešita spor v pravdnem postopku. 
+
+ 11. Splošna pravila. 
+ Imena določil v tej pogodbi se uporabljajo samo kot priročna referenca brez pravnega učinka ali pomena. 
+ [BRAND_NAME_PROXY]Če proti vam niso bili sproženi ukrepi zaradi kršenja pogojev uporabe, to ne pomeni, da se odpovedujemo pravici do zaščitnih ukrepov proti podobnim dejanjem v prihodnosti. 
+ Če pristojno sodišče meni, da je kateri koli del pogojev uporabe nezakonit, neučinkovit ali neizvršljiv, na druge pogoje ali omejitve, ki niso bili opredeljeni za takšne, to ne vpliva in ostajajo v celoti v veljavi. 
+ Pravic do uporabe, ki vam jih podeljujejo ti pogoji uporabe, ne smete dodeliti ali dati na voljo drugim. 
+ Nasledniki in prevzemniki pravic [BRAND_NAME_PROXY] prav tako uveljavljajo vsebino teh pogojev uporabe po formalnem podedovanju navedenih pravic. 
+
+ 12. Celovitost pogojev uporabe. 
+ Ti pogoji uporabe in dodatni pogoji, navedeni v posodobitvah, so sestavni del teh pogojev uporabe. 
+
+ 13. Pravica do spreminjanje pogojev
+ [BRAND_NAME_PROXY] si pridržuje pravico do spreminjanja, prilagajanja, dodajanja ali brisanja vsebine pogojev uporabe po lastni presoji. Biti morate na tekočem s spremembami pogojev uporabe in z objavljanjem vseh informacij o spremembah na tem spletnem mestu [BRAND_NAME_PROXY], z nadaljnjo uporabo naprave ali programske opreme [BRAND_NAME_PROXY] pa sprejemate navedene spremembe. 
+ Pogodba o lastništvu in pogojih uporabe programske opreme [BRAND_NAME_PROXY]
+
+ Datum veljavnosti: 20. maj 2016
+
+ Ti pogoji uporabe (v nadaljnjem besedilu: pogoji uporabe) veljajo zagotavljanje prenosov programske opreme, samodejnih posodobitev in drugih storitev podjetja [BRAND_NAME_PROXY] (v nadaljnjem besedilu: storitve programske opreme). Če prenašate, nameščate ali uporabljate programsko opremo [BRAND_NAME_PROXY], to pomeni, da ne strinjate s temi pogoji uporabe. Če se ne strinjate s temi pogoji uporabe, programske opreme [BRAND_NAME_PROXY] ne prenašajte, kopirajte ali uporabljajte. 
+
+ 1. Pravila uporabe
+ Po tem, ko sprejmete pogoje uporabe, vam bo [BRAND_NAME_PROXY] podelil neprenosljiv, neizključni, osebni, omejen dostop do storitev programske opreme. Programska oprema [BRAND_NAME_PROXY] bo nameščena v vašo napravo [BRAND_NAME_PROXY] v obliki predmetne kode in programsko opremo [BRAND_NAME_PROXY] lahko začnete uporabljati, ko napravo zaženete. Izrecno razumete, da programske opreme [BRAND_NAME_PROXY]ne smete uporabljati za komercialne namene in da jo boste uporabljali v svoji osebni napravi [BRAND_NAME_PROXY]. 
+ Glede programske opreme [BRAND_NAME_PROXY] morate upoštevati te pogoje uporabe in ne smete izvajati ničesar od naslednjega: 
+ (a) zaobšli tehnološke omejitve v programski opremi [BRAND_NAME_PROXY] ali uporabljali programsko opremo [BRAND_NAME_PROXY], samostojno ali skupaj z katero koli napravo, programom in storitvijo, za namen izogibanja tehničnim ukrepom za nadzor datotek ali pravic;
+ (b) izvajali obratnega inženirstva, povratnega prevajanja, dešifriranja ali obratnega zbiranja programske opreme [BRAND_NAME_PROXY] ali poskušali drugače dostopati do izvorne kode programske opreme [BRAND_NAME_PROXY] ali izvajali druge dejavnosti, ki jih izrecno ali po razlagi omejuje zakonodaja, ali ustvarjali izvedenih del iz programske opreme [BRAND_NAME_PROXY], bodisi v celoti bodisi deloma;
+ (C) omogočili tretji osebi dostop do programske opreme [BRAND_NAME_PROXY], njeno uporabo ali lastništvo z objavljanjem, prenašanjem, zakupom, izposojo, podlicenciranjem ali razkrivanjem;
+ (d) odstranili nobene izjave ali oznake o pravicah v zvezi s programsko opremo [BRAND_NAME_PROXY] ali z njo povezanimi datotekami v kateri koli obliki, ne sami ne druge osebe, ki jih ne pooblasti [BRAND_NAME_PROXY]; 
+ (e) uporabljali programsko opremo [BRAND_NAME_PROXY] za kršenje pravic tretje stranke ali na način, ki krši veljavne zakone; ali
+ (f) uporabljali programsko opremo [BRAND_NAME_PROXY] v okolju, kjer je njena uporaba omejena ali prepovedana ali bi lahko povzročila tveganje pred osebnimi poškodbam ali smrt, vključno z jedrskimi objekti, kontrolo zračnega prometa, bencinskimi črpalkami in drugimi okoliščinami ali okolji; ali
+ (g) uporabljali programsko opremo [BRAND_NAME_PROXY] na kateri koli drug način, ki ga ti pogoji uporabe prepovedujejo. 
+ Da zagotovite pravilno delovanje programske opreme [BRAND_NAME_PROXY] s svojo napravo [BRAND_NAME_PROXY], se zavezujete, da ne boste uničevali ali spreminjali oznake naprave [BRAND_NAME_PROXY] brez pomoči osebja [BRAND_NAME_PROXY]. Takšno vedenje in vedenje, opisano v točki (a) tega člena, vplivata na obseg in trajanje jamstva s strani [BRAND_NAME_PROXY] za napravo [BRAND_NAME_PROXY]. 
+
+ 2. Pravilnik o zasebnosti
+ Izrecno priznavate in se strinjate, da lahko [BRAND_NAME_PROXY] z namenom izboljšanja kakovosti storitve zbira in hrani prenose programske opreme ali sporočilno komunikacijo, ki jo izvajate prek različnih storitev, ki jih zagotavlja spletno mesto [BRAND_NAME_PROXY], vključno s številko modela/serijsko številko naprave [BRAND_NAME_PROXY], kodo IMEI/MEID, različico strojne opreme, različico programske opreme, skupni čas uporabe, skupni čas stanja pripravljenosti, kodo SKU ID, statističnimi podatki o napakah, imenom programske opreme/programov, v katerih prihaja do težav, številom napak, podatki o različici itd. 
+ Če tako zahtevajo administrativni/sodni organi ali zakoni, bo [BRAND_NAME_PROXY] sodeloval pri razkrivanju zadevnih informacij. 
+ Če je bila vaša naprava [BRAND_NAME_PROXY] brez povezave z internetom 14 zaporednih dni po nakupu, bo naprava [BRAND_NAME_PROXY] poslala SMS z obvestilom podjetju [BRAND_NAME_PROXY], da je bila naprava [BRAND_NAME_PROXY] odprta za uporabo. 
+ Za podrobnejši opis glejte Pravilnik o zasebnosti [BRAND_NAME_PROXY]. 
+
+ 3. Storitve podpore
+ Glede na stanje programske opreme [BRAND_NAME_PROXY] KAKRŠNO JE ob času, ko je prenesena ali posodobljena, in storitve posodobitev, prenosov in uporabe, ki jih zagotavlja [BRAND_NAME_PROXY], se lahko [BRAND_NAME_PROXY] odloči, ali bo še naprej zagotavljal ustrezne storitve podpore in posodabljanja. 
+ Potem ko pridobite začetne datoteke za programsko opremo [BRAND_NAME_PROXY], bo [BRAND_NAME_PROXY] v skladu s temi pogoji uporabo zagotovil različne posodobitve, dopolnila in dodatke ali komponente storitev prek interneta med prenašanjem, posodabljanjem in uporabo programske opreme. 
+ [BRAND_NAME_PROXY] si pridržuje pravico do prekinitve vseh storitev programske opreme, do katerih ste dostopali z brskanjem po omrežju, ali storitev, zagotovljenih z uporabo programske opreme [BRAND_NAME_PROXY], da poskrbi za nemoteno delovanje različnih storitev programske opreme. 
+ [BRAND_NAME_PROXY] lahko po svoji presoji izda nadaljnje posodobljene različice programske opreme [BRAND_NAME_PROXY], vas obvesti o posodobitvi in od vas zahteva, da po omrežju prenesete in uporabljate najnovejšo posodobljeno različico. 
+
+ 4. Samodejne posodobitve
+ [BRAND_NAME_PROXY] lahko vašo napravo [BRAND_NAME_PROXY] in programsko opremo [BRAND_NAME_PROXY] posodablja, izboljšuje, zaščiti ali nadalje izboljšujete njuno uporabo s samodejnim prenašanjem vdelane programske opreme in programske opreme v napravo [BRAND_NAME_PROXY]. 
+ Vdelana programska oprema in programska oprema [BRAND_NAME_PROXY] v napravi [BRAND_NAME_PROXY] bosta privzeto v stanju \"Omogočeno\", kar pomeni, da je strežnik [BRAND_NAME_PROXY] povezan prek omrežja, naprava [BRAND_NAME_PROXY] pa se samodejno poveže brez dodatnih ročnih postopkov. Za zagotovitev varnosti in stabilnosti naprave [BRAND_NAME_PROXY] izrecno priznavate in se strinjate, da boste programe posodabljali v skladu z zahtevami podjetja [BRAND_NAME_PROXY] za posodabljanje programov in upoštevali navodila. 
+ Da se izognete izgubi podatkov v postopku posodabljanja, varnostno kopirajte svoje osebne podatke (na primer fotografije, stike, koledarje, glasbo, zaznamke, dokumente itd.) v napravi [BRAND_NAME_PROXY] in jih shranite v računalnik ali drugo napravo, povezano z napravo [BRAND_NAME_PROXY]. 
+ Potem ko je naprava [BRAND_NAME_PROXY] samodejno posodobljena ali vam [BRAND_NAME_PROXY] pošlje sporočilo o posodobitvi in se strinjate z začetkom postopka posodabljanja, to pomeni, da se strinjate z opisi naslednjih funkcij posodabljanja: 
+ (a) Posodobitve programske opreme
+ Izrecno priznavate in se strinjate s tem, da se bo programska oprema [BRAND_NAME_PROXY] povezala z vašo napravo [BRAND_NAME_PROXY] prek interneta, s čimer se potrjujeta različica programske opreme in stanje posodobitve v strežniku [BRAND_NAME_PROXY]. Če je [BRAND_NAME_PROXY] objavil sporočila o posodabljanju, vam bo omogočil povezavo v strežnik prek programske opreme [BRAND_NAME_PROXY] za posodobitev različice in stanja vdelane programske opreme. 
+ Kadar je na voljo posodobitev programske opreme, se strinjate, da vas [BRAND_NAME_PROXY] o tem sproti obvesti s sporočilom. Če po potrditvi prejmete obvestilo o posodobitvi, se strinjate, da lahko [BRAND_NAME_PROXY] posodobi in namesti programsko opremo [BRAND_NAME_PROXY] v vašo napravo [BRAND_NAME_PROXY] s prenosom posodobitve. 
+ (b) Posodabljanje s sinhronizacijo vsebine
+ Posodobljena vsebina naprave [BRAND_NAME_PROXY], ki jo trenutno uporabljate, bo samodejno posodobila vsebino in druge informacije (kot so podatki o stikih, koledarji, zaznamki, datoteke dokumentov in druge oblike vsebine) v vašimi povezanimi napravami ali računalniki [BRAND_NAME_PROXY]. 
+ 
+ 5. Ohranjanje lastništva in pravic programske opreme [BRAND_NAME_PROXY]
+ [BRAND_NAME_PROXY], njegove podružnice in dobavitelji imajo v lasti in si pridržujejo lastništvo, avtorske pravice in druge pravice intelektualne lastnine različne programske opreme [BRAND_NAME_PROXY], za katere v pogojih uporabe ni izrecno navedeno, da so dodeljene vam. 
+ Različna programska oprema, ki jo dobavlja [BRAND_NAME_PROXY], je zaščitena z zakoni in mednarodnimi predpisi v zvezi z avtorskimi pravicami in drugimi pravicami intelektualne lastnine. 
+
+ 6. Zavrnitev odgovornosti
+ Do največje mere, ki jo dovoljuje zakonodaja, [BRAND_NAME_PROXY] glede programske opreme [BRAND_NAME_PROXY] in izvedenih storitev (vključno s storitvami posodabljanja), ki jih zagotavlja na podlagi stanja, \"kakršno je, ni odgovoren za napake. [BRAND_NAME_PROXY], njegove podružnice in dobavitelji ne dajejo nobenih izrecnih, naznačenih ali zakonsko opredeljenih jamstev, vključno z naznačenimi jamstvi, zavezami ali stanji v zvezi s primernostjo za prodajo in uporabnostjo programske opreme in izvedenih storitev (kot je storitev posodabljanja) [BRAND_NAME_PROXY] za določene namene. 
+ 
+[BRAND_NAME_PROXY] ne daje nobenih jamstev, izrecnih ali naznačenih, v zvezi s spodaj navedenimi zadevami: 
+ 
+(a) lastništvo, status nekršitve, skladnost z različnimi opisi, izjave o odsotnosti virusov, odsotnost ranljivosti v programu, pravilno delovanje in celovitost programske opreme [BRAND_NAME_PROXY] ali podpornih storitev; ali
+
+(b) tekoče delovanje, delovanje brez motenj ali napak v programski opremi [BRAND_NAME_PROXY]; ali
+
+(c) takojšnja odprava vseh morebitnih napak v programski opremi [BRAND_NAME_PROXY]. 
+ 
+S tem, ko prenesete in uporabljate programsko opremo [BRAND_NAME_PROXY], izrecno priznavate vsa tveganja (vključno s poškodbo naprave [BRAND_NAME_PROXY] med uporabo, izgubo vsebin, odstranitvijo ali odpovedjo programske opreme drugega ponudnika itd.), ki izhajajo iz uporabe ali delovanja programske opreme [BRAND_NAME_PROXY] ali izvedenih storitev (če obstajajo), s čimer se šteje, da se strinjate, da prevzemate zadevna tveganja in odgovornosti, [BRAND_NAME_PROXY] pa v zvezi s tem ne daje nobenih zagotovil in ne prevzema odgovornosti. Strinjate se, da ima [BRAND_NAME_PROXY] pravico določati in odstranjevati programe in programsko opremo, ki vplivajo na postopke posodabljanja, in sami prej varnostno kopirate svoje podatke in programsko opremo. 
+ 
+Če prenesete programe ali datoteke, kar povzroči razkrivanje vaših informacij ali poškodbo sistema naprave [BRAND_NAME_PROXY], [BRAND_NAME_PROXY] za to ni odgovoren in strinjate se, da sami prevzamete vsa s tem povezana tveganja. 
+
+
+7. Obseg odgovornosti in omejitev ter izključitev odgovornosti za škodo. 
+ 
+Razen če tega izrecno ne prepoveduje zakon, [BRAND_NAME_PROXY] ni na noben način odgovoren za neposredno, naključno, ponavljajočo se škodo, kaznovalno ali pavšalno odškodnino in druga nadomestila za škodo, vključno z izgubo dobička. Podjetje [BRAND_NAME_PROXY] ali njegove podružnice za to niso odgovorni, tudi če je bilo podjetje [BRAND_NAME_PROXY] opozorjeno, da lahko pride do navedene škode, in ne glede vzrok dejanja ali podlago zahtevka. 
+ 
+V skladu s temi pogoji uporabe je odgovornost podjetja [BRAND_NAME_PROXY] za škodo v zvezi z vašo uporabo tega spletnega mesta ali njegove vsebine omejena na največ 10 USD za dejansko neposredno škodo, ki izhaja iz razumnega zanašanja na programsko opremo. Ne glede na obliko morajo biti zahtevki, ki izhajajo iz pogojev uporabe, vloženi v roku enega leta po tem, ko ste ugotovili, da je nastal vzrok ali podlaga za zahtevek. Toda če pristojno sodišče ne dovoli omejitev obsega odgovornosti, navedena omejitev odgovornosti ne velja. 
+
+
+8. Izjava o odškodnini
+
+Strinjate se, da boste podjetje [BRAND_NAME_PROXY], njegove deležnike, direktorje, vodje, zaposlene in tretje povezane osebe branili, jim povrnili škodo in jih odvezali odgovornosti ter boste [BRAND_NAME_PROXY], njegove deležnike, direktorje, vodje, zaposlene in tretje povezane osebe odvezali odgovornosti v zvezi z vsemi izgubami, odgovornostmi ali stroški (vključno z odvetniškimi stroški), nastalimi kot posledica zahtevka tretje osebe na podlagi vašega kršenja pravic druge osebe ali veljavnega zakona z uporabo programske opreme [BRAND_NAME_PROXY] za dejavnosti, kot so med drugim brskanje po podatkih, prenašanje, kopiranje, prenos, kodiranje ali stiskanje podatkov (razen podatkov, ki jih zagotovi [BRAND_NAME_PROXY]); ali vašega kršenja katerega koli določila teh pogojev uporabe. Če [BRAND_NAME_PROXY] ali njegovi deležniki, direktorji, vodje, zaposleni ali tretje povezane osebe utrpijo škodo, ki izhaja iz tega, ste pripravljeni ustrezno povrniti škodo. 
+
+
+9. Prenehanje storitve
+
+Če prekršite katero koli določilo teh pogojev uporabe, izgubite pravico do zakonite uporabe programske opreme [BRAND_NAME_PROXY] in morate takoj uničiti ali izbrisati vse kopije programske opreme. V nekaterih primerih takšno kršenje vpliva tudi na trajanje in obseg jamstva za napravo [BRAND_NAME_PROXY]. 
+ 
+Strinjate se, da se lahko [BRAND_NAME_PROXY] v navedenih primerih odzove na naslednji način, na da bi vas ali katero koli tretjo osebo s tem zavezal k posledični odgovornosti: 
+ 
+(1) ukine vašo pravico do dostopa v račun storitve [BRAND_NAME_PROXY]
+
+(2) in/ali blokira vaš dostop do računa storitve [BRAND_NAME_PROXY]. 
+ 
+Prav tako izrecno priznavate in se strinjate, da bo vaše kršenje teh pogojev uporabe podjetju [BRAND_NAME_PROXY] povzročilo škodo, ki je ni mogoče poplačati z denarnim nadomestilom. V primerih, v katerih [BRAND_NAME_PROXY] meni, da je to nujno ali ustrezno, se strinjate, da lahko [BRAND_NAME_PROXY] v skladu z zakonodajo poskuša zmanjšati obseg škode, tako da zahteva začasni zaseg, začasno sodno prepoved, predhodno sodno prepoved in druga sredstva. 
+ 
+Če je [BRAND_NAME_PROXY] nazadnje proti vam sproži pravni postopek zaradi vašega kršenja teh pogojev uporabe, se strinjate, da boste plačali vse razumne odvetniške in pravne stroške kot tudi druge odškodnine, ki jih lahko zahteva [BRAND_NAME_PROXY] v skladu z zakonom. 
+
+
+10. Upoštevna zakonodaje in pristojnost sodišča
+
+Strinjate se, da vse zadeve v zvezi s temi pogoji uporabe urejajo zakoni Ljudske republike Kitajske, in prav tako se strinjate, da se odpovedujete ugovorom ali nasprotovanjem proti pristojnosti in kraju Ljudskega sodišča okrožja Čaojang mesta Peking, saj pristojnost in kraj sodišča izhajata iz teh pogojev uporabe. 
+ 
+Če pride do sporov v zvezi s temi pogoji uporabe, si bosta obe shranki prizadevali s pogajanji v skrajno dobri veri razrešiti spor. Če se spor ne razreši s pogajanji v razumnem obdobju (največ v 30 koledarskih dneh), lahko vsaka stranka predloži spor v posredovanje. Če posredovanje spodleti, stranki razrešita spor v pravdnem postopku. 
+
+
+11. Splošna določila. 
+ 
+Naslovi oddelkov v teh pogodbi so samo za prikladnost in nimajo pravnega učinka ali pomena. 
+ 
+Če [BRAND_NAME_PROXY] ne ukrepa v zvezi z vašim kršenjem teh pogojev uporabe, to ne pomeni, da se odpoveduje pravici do ukrepanja v zvezi s podobnim vedenjem v prihodnosti. 
+ 
+Če pristojno sodišče šteje katero koli določilo ali omejitev v teh pogojih uporabe za nezakonito, neveljavno ali neizvršljivo, ostajajo preostali pogoji in omejitve v celoti v veljavi in nanje to na noben način ne vpliva ali jih ne razveljavi. 
+ 
+Pravic do uporabe, ki vam jih podeljujejo ti pogoji uporabe, ne smete dodeliti ali dati na voljo drugim. 
+ 
+Nasledniki in prevzemniki pravic [BRAND_NAME_PROXY] prav tako uveljavljajo vsebino teh pogojev uporabe po formalnem podedovanju navedenih pravic. 
+
+
+12. Celovitost pogojev uporabe. 
+ 
+Ti pogoji uporabe in dodatni pogoji, navedeni v posodobitvah, so sestavni del teh pogojev uporabe. 
+
+
+13. Pravica do spreminjanje pogojev
+
+[BRAND_NAME_PROXY] si pridržuje pravico do spreminjanja, prilagajanja, dodajanja ali brisanja vsebine pogojev uporabe po lastni presoji. Biti morate na t"</string>
+    <string name="fih_legal_title">Pravne informacije podjetja [BRAND_NAME_PROXY]</string>
+    <string name="finish_button_label">Dokončaj</string>
+    <string name="google_account_add_account">Prijavite se v Google</string>
+    <string name="google_account_intro_description">Če želite uporabljati Googlove storitve se prijavite v Google Račun.</string>
+    <string name="google_account_intro_title">Google Račun</string>
+    <string name="hmd_legal_message">"Pogoji za storitve 
+ 
+Datum začetka veljavnosti je 14. oktober 2016. 
+ 
+1. Sprejem 
+Ti globalni pogoji za storitve HMD Global skupaj s pravilnikom o zasebnosti ter vsemi drugimi pogoji in informacijami, ki so lahko na voljo v storitvi (skupaj imenovani »pogoji«) urejajo vašo uporabo storitev, spletnega mesta, vsebine in programske opreme (skupaj imenovani »storitve«). Z registracijo za storitev, njeno uporabo ali uporabo katerega koli njenega dela sprejemate te pogoje. 
+ 
+Pogoji predstavljajo pogodbo med vami in podjetjem HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finska, vključno z njegovimi podružnicami in dobavitelji (skupaj imenovani »HMD Global«), ki določa pravice in odgovornosti vas in podjetja HMD Global v zvezi s storitvijo. 
+ 
+2. Upravičenost 
+Za uporabo storitve morate biti stari najmanj trinajst (13) let. Če ste mlajši od trinajst (13) let oziroma ste stari trinajst (13) let, vendar se tam, kjer živite, obravnavate kot mladoletna oseba, morajo registracijo v vašem imenu sprejeti vaši starši ali zakoniti skrbnik, ki morajo odobriti tudi vašo uporabo storitve. Oseba, ki opravlja registracijo, mora biti zakonito opravilno sposobna. 
+ 
+3. Registracija in prekinitev 
+Za uporabo storitve se boste morda morali registrirati ter z uporabniškim imenom in geslom ustvariti račun pri podjetju HMD, kar je lahko predmet ločenih pogojev. Navesti boste morali določene osebne in druge podatke. HMD Global lahko pred začetkom uporabe računa pri podjetju HMD preveri vaš e-poštni naslov. Ob prvi uporabi naprave in ob vsaki posodobitvi programske opreme naprave Nokia bo podjetju HMD Global poslano sporočilo SMS. Za odpiranje računa HMD bo potreben prenos podatkov. Ta prenos podatkov boste morda morali plačati. 
+ 
+Strinjate se, da boste pri registraciji za storitev navedli resnične in popolne podatke ter poskrbeli, da bodo vedno posodobljeni. Uporabniško ime in geslo skrbno ščitite pred zlorabo s strani tretjih oseb in o morebitni zlorabi takoj obvestite HMD Global. Vi in vaši starši ali zakoniti skrbnik, če ste mladoletna oseba, ste osebno odgovorni za vso uporabo storitve. 
+ 
+Če storitve ne želite več uporabljati, lahko ukinete registracijo. Po ukinitvi ne boste več imeli dostopa do storitve. HMD Global lahko prekine ali omeji vaš dostop do določenih delov storitve, če utemeljeno meni, da ste kršili pogoje, oziroma s prejšnjim obvestilom, če se v zadnjih šestih (6) mesecih niste z uporabniškim imenom prijavili v storitev. 
+ 
+Razen kot je določeno v pravilniku o zasebnosti, HMD Global ne prevzema odgovornosti za morebitno odstranitev ali izgubo podatkov ali vsebine, ki ste jih predložili v storitev. Kadar vi ali HMD Global iz storitve odstranite podatke ali vsebino, lahko sledovi ali kopije te vsebine še vedno ostanejo na drugih mestih. 
+ 
+4. Licence 
+HMD Global vam podeljuje neizključno in neprenosljivo licenco za dostop do storitve in njeno uporabo skladno s pogoji, ki jo lahko HMD Global kadar koli po lastni presoji prekliče. Uporaba storitve vam ne podeljuje nobenih pravic do intelektualne lastnine ali do morebitnih podatkov ali vsebine storitve. 
+ 
+HMD Global vam lahko v okviru storitve posreduje vsebino, ki so jo je razvili HMD Global ali njegov licencedajalci (»vsebina«). HMD Global vam podeljuje neizključno in trajno licenco za uporabo vsebine za predvideni namen, razen če je v upoštevnih pogojih in naročilnici navedeno drugače. Nekatera vsebina je morda na voljo le prebivalcem določenih geografskih območij. Obvezujejo vas omejitve, ki veljajo za posamezno vsebino, do katere dostopate v okviru storitve. Morebitna licenca, pridobljena za vsebino tretjih oseb, je zavezujoča pogodba med vami in zunanjim dobaviteljem vsebine. Imate le pravice do vsebine, ki so vam izrecno podeljene tukaj. 
+ 
+HMD Global vam bo v okviru storitve morda dal na voljo programsko opremo, ki so jo razvili HMD Global ali njegovi licencedajalci (»programska oprema«). Vašo uporabo programske opreme morda urejajo ločeni pogoji in določila, ki jih morate sprejeti pred uporabo programske opreme. Če za programsko opremo ni ločenih pogojev in določil, veljajo naslednji pogoji: HMD Global vam podeljuje omejeno, neizključno in neprenosljivo pravico do namestitve in uporabe programske opreme v vašem računalniku in/ali mobilni napravi. Programske opreme ne smete kopirati, razen za izdelavo ene arhivske varnostne kopije. Prepovedani so distribucija programske opreme, prenos pravic do njene uporabe, njeno spreminjanje, prevajanje, razmnoževanje, nadaljnja prodaja, podlicenciranje, dajanje v najem, dajanje v zakup ter izvajanje obratnega inženirstva ali drugih poskusov odkrivanja izvorne kode ali ustvarjanja del, izpeljanih iz programske opreme. Za odprtokodno licencirano programsko opremo veljajo pogoji odprtokodne licence. Če uporabljate programsko opremo, to pomeni, da se strinjate z vsemi upoštevnimi pogoji in določili. 
+ 
+Za programsko opremo morda velja nadzor izvoza v okviru predpisov za nadzor izvoza v Združenih državah ali drugih predpisov za nadzor uvoza ali izvoza. Strinjate se, da boste strogo upoštevali vse upoštevne predpise glede uvoza in izvoza, ter potrjujete, da ste odgovorni za pridobitev dovoljenj za izvoz, nadaljnji izvoz, prenos ali uvoz te programske opreme. 
+ 
+V storitev boste morda lahko predložili podatke ali vsebino (»gradivo«). HMD Global ne uveljavlja lastništva vašega gradiva. Vaša predložitev gradiva ne pomeni prenosa lastniških pravic do gradiva podjetju HMD Global. HMD Global samo prenaša gradivo in ni odgovoren za uredniški nadzor gradiva. Če v storitev predložite gradivo, podjetju HMD Global podeljujete svetovno, neizključno, prenosljivo, v celoti plačano, trajno in nepreklicno licenco, ki jo je mogoče podlicencirati in vam brez plačila tantiem dovoljuje uporabo, kopiranje, javno izvajanje, spreminjanje in prikazovanje gradiva ter njegovo distribuiranje v poljubni obliki z namenom vključitve gradiva v druga dela ter podelitev podobnih podlicenc, kot je potrebno, da lahko HMD Global zagotavlja storitev. To podelitev licence lahko morda prilagodite v nastavitvah zasebnosti in drugih nastavitvah storitve. 
+ 
+Ste v celoti odgovorni za varnostno kopiranje podatkov, ki jih hranite v storitvi, vključno z vsebino, ki jo prenesete vanjo. V primeru ukinitve ali preklica storitev lahko HMD Global trajno izbriše vaše podatke. HMD Global vam ni dolžan vrniti podatkov po ukinitvi ali preklicu storitve. 
+ 
+5. Uporaba storitve 
+Strinjate se, da: 
+• boste upoštevali veljavne zakone, pogoje in splošno oliko; 
+• boste storitev uporabljali samo za osebne, nekomercialne namene; 
+• ne boste predložili nezakonitega, žaljivega, netočnega, zavajajočega, neprimernega, pornografskega, nadlegujočega, obrekljivega ali kakor koli drugače neprimernega gradiva; 
+• boste pridobili vsa soglasja, dovoljenja ali licence, ki so morda zakonsko potrebni za predložitev gradiva; 
+• boste spoštovali zasebnosti drugih; 
+• ne boste distribuirali ali pošiljali neželene elektronske pošte, nerazumno velikih datotek, verižnih pisem, piramidnih shem in virusov; 
+• ne boste uporabljali drugih tehnologij ali sprožali drugih dejavnosti, ki lahko škodujejo storitvi ali interesom ali lastnini uporabnikov storitve; 
+• ne boste uporabljali avtomatiziranih sistemov ali sredstev za dostop do katerega koli dela storitev, njihovo pridobitev, kopiranje ali spremljanje; in 
+• prevzemate odgovornost za posledice, povezane z gradivom, ki ga objavite. 
+ 
+HMD Global lahko stori naslednje, vendar tega ni dolžan: 
+• spremlja ali moderira kakršno koli vsebino ali gradivo; 
+• iz storitve odstrani kakršno koli gradivo; in 
+• po lastni presoji kadar koli omeji dostop do katerega koli dela storitev. 
+ 
+6. Vsebina 
+Pred prenosom morebitne vsebine ali dostopom do nje preverite, ali je starostno omejena ali označena kot morebiti »žaljiva« ali »eksplicitna«. 
+ 
+HMD Global ne prevzema odgovornosti za morebitne zahtevke ali žalitve, povzročene ali utrpljene pri vašem dostopu do take vsebine. 
+ 
+Strinjate se, da: 
+• boste vsebino uporabljali samo za osebne in nekomercialne namene; 
+• boste vsebino uporabljali v skladu z omejitvami, določenimi v veljavni zakonodaji, dodatnih pogojih, smernicah in pravilnikih ali na straneh izdelka, ki veljajo za ta del vsebine; 
+• vsebine ne boste kopirali, podarili, prodajali, nadalje prodajali, posojali, dajali v najem, ponujali, predvajali, pošiljali, distribuirali, prenašali, sporočali javnosti, razmnoževali, spreminjali, prikazovali, izvajali, komercialno izkoriščali ali je dali na voljo, če vam ni drugače dovoljeno v upoštevnih pogojih, in da boste HMD Global takoj obvestili o morebitni taki nedovoljeni uporabi; 
+• ne boste odstranili, zaobšli ali dešifrirali morebitnih upoštevnih pravil uporabe oziroma na njih izvajali obratnega inženirstva ali poskušali zaobiti funkcij za upravljanje digitalnih pravic ali zaščito proti kopiranju, povezanih z vsebino, ali morebitnih drugih tehnologij, ki se uporabljajo za nadzor dostopa do vsebine in njenih določljivih podatkov; 
+• ne boste uporabljali nobenih avtomatiziranih sistemov ali sredstev za izbor ali prenos vsebin, razen tistih, ki vam jih damo na voljo; in 
+• ne boste razkrili svojega gesla ali drugače drugim omogočili dostopa do vsebine. Omejitve kopiranja, ki veljajo za upoštevne medije, veljajo tudi za vsebino, do katere dostopate v okviru te storitve. 
+ 
+Vsebina je last in/ali pod nadzorom podjetja HMD Global in/ali njegovih licencedajalcev ter je zaščitena z zakoni o varovanju intelektualne lastnine. Zunanji ponudnik vsebine prevzema vso odgovornost za vso vsebino, ki jo zagotovi, morebitna jamstva, če niso bila zavrnjena, in morebitne zahtevke, ki jih imate v zvezi z vsebino ali vašo uporabo te vsebine. Kljub temu lahko HMD Global kot upravičena tretja oseba zoper vas uveljavlja licenčne pogoje za vsebino tretjih oseb v korist tretje osebe. Zunanji ponudniki vsebine so v skladu s temi pogoji upravičene tretje osebe in lahko uveljavljajo določbe, ki se nanašajo neposredno na vsebino, do katere imajo pravice. HMD Global lahko s tem, ko vam zagotavlja vsebino zunanjega ponudnika vsebine, deluje kot njegov posrednik. HMD Global ne sodeluje v transakciji med vami in zunanjim ponudnikom vsebine za to vsebino. 
+ 
+7. Obtožbe o kršitvi avtorskih pravic 
+HMD Global spoštuje pravice intelektualne lastnine tretjih oseb. Če želite poslati obvestilo o kršitvi pravic intelektualne lastnine, vključno z navedbami o kršitvi avtorskih pravic, to storite z uporabo naših postopkov za pošiljanje obvestil o kršitvi. NA MOREBITNE POIZVEDBE, KI SE NE NANAŠAJO NA TA POSTOPEK, NE BOMO ODGOVORILI. 
+ 
+HMD Global na obvestila o kršitvi avtorskih pravic odgovarja na podlagi postopkov, navedenih v razdelku 512 17. poglavja ameriškega zakonika. V ustreznih okoliščinah lahko HMD Global onemogoči ali zapre račune uporabnikov storitev HMD Global, če gre za večkratne kršitelje. 
+ 
+8. Obvestila 
+HMD Global lahko v okviru storitev objavi obvestila. HMD Global vam lahko obvestila o izdelkih in storitvah pošlje tudi na e-poštni naslov ali telefonsko številko, ki ste nam ju posredovali. Obravnava se, da ste taka obvestila prejeli najpozneje sedem (7) dni, potem ko jih HMD Global pošlje ali objavi. Vaša nadaljnja uporaba storitve pomeni, ste prejeli vsa obvestila, ne glede na njihov način dostave. 
+ 
+9. Nadomestila 
+Vaša uporaba storitve je lahko ali lahko postane plačljiva. 
+ 
+Morebitna nadomestila, ki jih obračuna HMD Global, bodo objavljena ločeno v povezavi s storitvijo. 
+ 
+Uporaba storitev lahko vključuje prenos podatkov prek omrežja vašega ponudnika storitev. Cene, navedene v storitvi, ne vključujejo morebitnih stroškov prenosa podatkov, sporočil SMS in glasovnih sporočil ali drugih nadomestil za storitve, ki vam jih obračuna ponudnik omrežnih storitev. 
+ 
+HMD Global ne prevzema odgovornosti za plačilo stroškov vaših ponudnikov storitev. 
+ 
+10. Pogoji plačila in naročanja 
+»Naročilo« pomeni izbor plačljive vsebine in/ali naročnino na vsebino, ki jo ponuja HMD Global in je dostopna v storitvi, ter predložitev načina plačila in naročila z izbiro možnosti »kupi», »v redu», »sprejmem« ali podobne potrditve sprejema v toku naročila ali morebitne druge potrditve sprejema pogojev, prikazane v toku naročila. 
+ 
+V skladu z veljavno zakonodajo morate biti za oddajo naročila v okviru storitve dovolj stari, da ste pravno sposobni ali polnoletni. Naročila lahko sicer oddajate le na podlagi prejšnjega dovoljenja staršev ali zakonitega skrbnika. 
+ 
+Strinjate se, da so vsa naročila pravno veljavna in zavezujoča. Vsa naročila mora sprejeti HMD Global. 
+ 
+Plačate lahko s kreditno ali debetno kartico, z obračunavanjem prek ponudnika omrežnih storitev ali z morebitnimi drugimi načini plačila, ki so na voljo. 
+ 
+Naslov kreditne ali debetne kartice mora biti v državi, v kateri storitev ponuja vsebino. HMD Global bremeni vašo kreditno kartico ali bančni račun (če gre za debetno kartico) v razumnem času, potem ko oddate naročilo. Za vsa plačila s kreditno kartico se izvede preverjanje in avtorizacija pri izdajatelju kartice. 
+ 
+Če ste izbrali obračunavanje prek ponudnika omrežnih storitev, bodo stroški prikazani na računu za storitve mobilne telefonije ali odšteti od predplačniškega računa, če ga uporabljate. Nekateri ponudniki omrežnih storitev lahko za vašo uporabo storitve določijo dodatne pogoje in določila, vključno z omejitvami višine možnih stroškov pri obračunavanju prek ponudnika omrežnih storitev. Stroški, ki presegajo omejitve ponudnika omrežnih storitev ali stanje na računu, bodo morda zavrnjeni. 
+ 
+Strinjate se, da boste plačali stroške, povezane z vašim naročilom, zagotovili, da je plačilno sredstvo veljavno, ko oddate naročilo, da ste zakoniti lastnik plačilnega sredstva in da ga uporabljate znotraj limita, določenega zanj. 
+ 
+Vsebino vam zagotavljamo na podlagi licence. Strinjate se, da boste to vsebino uporabljali samo, kot je dovoljeno v teh pogojih in morebitnih dodatnih pogoji, ki so vam lahko posredovani v toku naročila. 
+ 
+Storitev lahko ponuja naročnine. Storitev pooblaščate za občasno obračunavanje stroškov med naročniškim obdobjem. Storitev lahko ponuja preskusno obdobje. Če naročilo vključuje preskusno obdobje (imenovano tudi »preskusi in kupi«), vam bomo morda zaračunali šele po poteku preskusnega obdobja, razen če naročilo prekličete v skladu z pogoji naročnine/preskusa. 
+ 
+Cene storitve se lahko občasno spremenijo. Če ni navedeno drugače, cene vključujejo upoštevne davke, ki so veljavni v času transakcije. Včasih lahko nastanejo dodatni stroški, ki jih banka ali izdajatelj kreditne kartice zaračuna zaradi pretvorbe valut in/ali morebitnih dodatnih stroškov. HMD Global ne prevzema odgovornosti za plačilo stroškov ali nadomestil bank in drugih zunanjih ponudnikov storitev. 
+ 
+11. Preklici in vračila kupnine 
+Strinjate se z elektronsko dostavo vsebine, ki se začne hkrati z oddajo naročila. Obdelanega naročila ni mogoče preklicati. Narava vsebine je taka, da je ni mogoče vrniti. 
+ 
+Če po izvedbi naročila odkrijete in v roku 48 ur HMD Global obvestite, da (a) je vsebina, ki ste jo naročili, okvarjena; (b) se vsebina, ki vam jo je zagotovil HMD Global, ne ujema z opisom vsebine, ki ste jo naročili v okviru storitve; ali (c) je bila dostava vsebine zaradi tehničnih težav zapoznela ali nemogoča oziroma je zaradi teh težav prišlo do nenamernega večkratnega naročila, je vaše edino in izključno pravno sredstvo za to vsebino njena zamenjava ali vračilo cene, plačane za vsebino, po izključni presoji podjetja HMD Global. 
+ 
+Sicer niste upravičeni do vračila kupnine. Če naletite na katero koli od zgornjih težav, se obrnite na skrb za stranke podjetja HMD Global. 
+ 
+Upoštevajte, da oddelek za skrb za stranke podjetja HMD Global ne more obdelati vaše zahteve za podporo strankam, če ne navedete ID-ja transakcije, ki ste ga ob naročilu v storitvi dobili od podjetja HMD Global. HMD Global lahko vračila kupnine obdela samo za vsebino, pri kateri je skupna cena nad denarno omejitvijo, določeno v veljavni lokalni zakonodaji. 
+ 
+12. Povratne informacije za HMD Global 
+S posredovanjem morebitnih zamisli, povratnih informacij in/ali predlogov (»Povratne informacije») podjetju HMD Global prek storitve ali na drug način potrjujete naslednje in se strinjate z njim: (1) HMD Global ima lahko podobne razvojne zamisli kot so v povratnih informacijah; (2) vaše povratne informacije ne vsebujejo zaupnih ali lastniških informacij, ki pripadajo vam ali tretjim osebam; (3) HMD Global nima nobenih obveznosti glede zaupnosti povratnih informacij; (4) HMD Global lahko prosto razpolaga s povratnimi informacijami, jih distribuira, izkorišča ter dodatno razvija in spreminja za poljuben namen; in (5) upravičeni niste do nobenega nadomestila od podjetja HMD Global. 
+ 
+13. Družbene dejavnost in razkritje lokacije 
+Funkcije v storitvi lahko uporabljate za razkritje lokacije, stanja, vsebine, gradiva ali osebnih podatkov ali za interakcijo z drugimi uporabniki, spletnimi mesti ali storitvami. Z uporabo teh funkcij potrjujete, da se strinjate s tem, da lahko HMD Global te podatke uporablja in jih posreduje drugim storitvam in ljudem, s katerimi želite sodelovati ali jim razkriti te podatke. Uporabniki teh storitev in ljudje, kot so vaši stiki, lahko morda vidijo vašo lokacijo, stanje in/ali osebne podatke. Z uporabo teh funkcij potrjujete, da se strinjate, da podatkov, vsebine ali gradiva ne boste razkrili ali povezali s katerim koli spletnim mestom ali storitvijo, ki: (a) vsebuje nezakonito ali neprimerno vsebino ali gradivo; ali (b) brez dovoljenja izkorišča pravice intelektualne lastnine ali uporabnike spodbuja k piratstvu. Nobena interakcija ne vključuje podjetja HMD Global in poteka izključno med vami in drugimi uporabniki. 
+ 
+14. Razpoložljivost in tehnične zahteve 
+Razpoložljivost vsebine in storitve se lahko razlikuje in je predmet izključne presoje podjetja HMD Global. HMD Global izrecno zavrača vsakršna zagotovila ali jamstva, da bo določena vsebina ali storitev na voljo. Storitev morda ne bo na voljo v vseh državah in bo na voljo samo v nekaterih jezikih. Storitev, postopki in nekatere funkcije so lahko odvisni od omrežja, združljivosti uporabljenih naprav in podprtih oblik zapisa vsebine. 
+ 
+Za dostop do storitve boste morda morali prenesti določeno komponento programske opreme, ki jo je razvil HMD Global ali drugo podjetje. 
+ 
+HMD Global lahko po lastni presoji delno ali v celoti spremeni, popravi ali ukine storitev. Storitev morda ne bo na voljo med vzdrževanjem ali ob drugih časih. Zaradi zagotavljanja, da imate na voljo najnovejšo programsko opremo naprave in aplikacije, lahko vaše naprave samodejno preverijo, ali so od podjetja HMD Global na voljo posodobitve programske opreme. Če so posodobitve na voljo, boste morali odobriti njihovo namestitev. V nastavitvah naprave lahko onemogočite samodejno iskanje posodobitev. Programsko opremo lahko namestite tudi prek razpoložljivih kanalov za posodobitev programske opreme. Če HMD Global meni, da je posodobitev programske opreme pomembna ali nujna, ne smete več uporabljati prejšnje različice programske opreme. HMD Global vam lahko prepreči uporabo prejšnje različice programske opreme ali storitve, dokler ne namestite posodobitve. 
+ 
+HMD Global lahko iz poljubnega razloga onemogoči morebitno vsebino ali programsko opremo, ki je v vašem računu storitve, ter jo odstrani in/ali onemogoči kopije katere koli aplikacije v vaši napravi zaradi zaščite storitve, ponudnikov aplikacij in operaterjev brezžičnih omrežij, prek katerih dostopate to storitve, oziroma drugih prizadete ali potencialno prizadetih oseb. 
+ 
+Določena storitev je lahko v predizdajni različici, kot je različica beta, in morda ne bo delovala enako kot končna različica. HMD Global lahko bistveno spremeni poljubno različico storitve ali programske opreme oziroma se odloči, da končne različice ne izda. 
+ 
+15. Povezave do spletnih mest in vsebine tretjih oseb 
+HMD Global lahko vključi dostop do spletnih mest in storitev v internetu ali do vnaprej naloženih odjemalcev, ki omogočajo interakcijo s spletnimi mesti in storitvami, ki so v lasti tretjih oseb ali jih te upravljajo in niso del storitve. Pred uporabo teh spletnih mest in storitev morate prebrati in sprejeti pogoje in določila zanje. 
+ 
+HMD Global ne nadzira vsebine, spletnih mest in storitev tretjih oseb in ne prevzema nobene odgovornosti za ponujene storitve ali gradivo, ustvarjeno ali objavljeno na teh spletnih mestih ali storitvah tretjih oseb. Povezava do spletnega mesta tretje osebe ne pomeni, da HMD Global podpira spletno mesto, izdelke ali storitve, navedene na spletnem mestu. 
+ 
+Poleg tega lahko vi in drugi uporabniki ustvarjate vsebino in povezave do vsebine v okviru storitve, ki drugače niso bile predložene v storitev. HMD Global ne prevzema odgovornost za to vrsto vsebine ali povezav. 
+ 
+16. Oglasi 
+Storitev lahko vključuje oglase. Oglasi so lahko ciljani na vsebino ali podatke, shranjene v storitvi, poizvedbe, narejene prek storitve, ali druge podatke. 
+ 
+17. Osebni podatki 
+Uporabo vaših osebnih podatkov urejajo pravilnik o zasebnost in morebitne druge informacije o zasebnosti, ki ste jih prejeli. 
+ 
+18. Omejitev odgovornosti 
+Storitev je na voljo »KAKRŠNA JE« in »KOT JE NA VOLJO«. HMD Global ne jamči za neprekinjeno delovanje storitve ali da bo brez napak in virusov. Glede razpoložljivosti, točnosti, zanesljivosti, podatkov ali vsebine storitve ni nobenega izrecnega ali implicitnega jamstva, vključno z jamstvom glede lastništva, odsotnosti kršitev, primernosti za prodajo ali za določen namen, vendar ne omejeno nanje. Izrecno se strinjate in potrjujete, da storitve uporabljate izključno na lastno tveganje in da boste pri tem morda izpostavljeni vsebini iz različnih virov. 
+ 
+Razen odgovornosti za smrt ali telesne poškodbe, povzročene zaradi grobe malomarnosti ali namernega napačnega vedenja, ni HMD Global v nobenem primeru odgovoren za morebitno posredno, naključno, kaznovalno ali posledično škodo, nastalo zaradi vaše uporabe ali nezmožnosti uporabe storitve. 
+ 
+19. Odškodovanje 
+Strinjate se, da boste podjetje HMD Global branili in ga odškodovali v primeru vseh zahtevkov tretjih oseb in vseh odgovornosti, posegov, ocen, izgub, stroškov ali škod, ki so posledica (i) vaše kršitve pogojev, (ii) vaše kršitve morebitnih pravic intelektualne lastnine, drugih pravic ali zasebnosti tretje osebe ali (iii) zlorabe storitve s strani tretje osebe, kjer je to zlorabo omogočilo to, da niste uvedli ustreznih ukrepov za zaščito uporabniškega imena in gesla proti zlorabi. 
+ 
+20. Razno 
+ 
+20.1 Izbira zakonodaje 
+Pogoje urejajo finski zakoni ne glede na določbe glede kolizije zakonodaj. 
+ 
+20.2 Veljavnost 
+Pogoji ne izključujejo in ne omejujejo obveznih pravic v državi vašega prebivališča, ki jih ni moč opustiti z zakonom. Če se ugotovi, da je določilo pogojev neveljavno, to ne vpliva na veljavnost drugih določil, neveljavno določilo pa se nadomesti z veljavnim, ki se najbolj približuje rezultatu in namenu pogojev. Če se eno ali več določil teh pogojev ne nanaša na vašo uporabo storitve, to ne vpliva na veljavnost drugih določil pogojev ali pogojev kot celote. V primeru navzkrižja med temi pogoji storitve podjetja HMD Global in pravilnikom o zasebnost se uporabljajo določila teh pogojev storitev podjetja HMD Global. Določila pogojev, katerih veljavnost je predvidena tudi po koncu vaše registracije, ostanejo v veljavi tudi po koncu. 
+ 
+20.3 Spremembe pogojev 
+HMD Global lahko pogoje spremeni kadar koli in brez prejšnjega obvestila. V primeru večjih sprememb, ki negativno vplivajo na vas, bo HMD Global zagotovil ločeno obvestilo o spremembi. 
+ 
+Odgovorni ste za redno spremljanje pogojev. Če storitev uporabljate še naprej, to pomeni, da se strinjate z morebitnimi spremembami in dopolnitvami. 
+ 
+21. Intelektualna lastnina 
+Storitev, vsebina in programska oprema so zaščitene z mednarodnimi zakoni o avtorskih pravicah. HMD Global uveljavlja svoje avtorske pravice v storitvi, vsebini in programski opremi v največji meri, ki jo dovoljuje zakon. Ob upoštevanju pogojev si HMD Global pridržuje vse pravice, lastništvo in interese v storitvi, njeni vsebini, programski opremi in vseh drugih izdelkih, programski opremi in znamkah podjetja HMD Global, ki so vam na voljo ali jih uporabljate v okviru storitve. 
+ 
+22. Prenos 
+HMD Global lahko svoje pravice in obveznosti iz teh pogojev prenese na svoje matično podjetje ali katero koli svojo podružnico ali na katero koli podjetje, ki je pod skupnim nadzorom s podjetjem HMD Global. Poleg tega lahko HMD Global v primeru združitve, pridobitve, prodaje sredstev, na zakonski ali drugi osnovi svoje pravice in obveznosti iz teh pogojev prenese na tretje osebe."</string>
+    <string name="hmd_user_experience_program_message">Če se udeležite programa za uporabniško izkušnjo, s tem pomagate podjetju HMD Global bolje razumeti, kaj vam je všeč pri napravi Nokia in kaj menite, da je treba izboljšati. Občasno lahko prejmemo anonimne podatke s tehničnimi značilnostmi vaše naprave, na primer datoteko s podatki o zrušitvi programske opreme, ki se je morda zgodila. Upoštevajte, da takšni podatki ne bodo preneseni prek mobilne internetne povezave. Radi bi vedeli, kaj menite o svoji napravi Nokia!</string>
+    <string name="hmd_user_experience_program_title">Program za uporabniško izkušnjo</string>
+    <string name="idle_too_long_toast">Če je bil ta telefon nekaj časa nedejaven, ga morate izklopiti, da preklopite na varčevanje z energijo.</string>
+    <string name="language_selection_cancel_btn">PREKLIČI</string>
+    <string name="language_selection_title">Izberite jezik</string>
+    <string name="location_for_service">Uporabi mojo lokacijo za iskanja v Googlu in druge Googlove storitve.</string>
+    <string name="location_info_1">Aplikacije, ki uporabljajo Googlovo lokacijsko storitev, lahko pridobijo vašo približno lokacijo tudi brez uporabe GPS-a.</string>
+    <string name="location_info_2">Te funkcije lahko onemogočite v nastavitvah lokacijskih storitev.</string>
+    <string name="location_network">Omogoči Googlovim lokacijskim storitvam zbiranje anonimnih lokacijskih podatkov. Zbiranje se nadaljuje, tudi ko se aplikacije ne izvajajo.</string>
+    <string name="location_title">Uporabi Googlovo določanje položaja</string>
+    <string name="nevigation_selection_back">Späť</string>
+    <string name="nevigation_selection_home">Začetni zaslon</string>
+    <string name="nevigation_selection_recent">Nedavno</string>
+    <string name="nevigation_selection_text">Položaj in barvo ozadja gumbov \"Nazaj\"/\"Nazadnje uporabljeno\" lahko spreminjate</string>
+    <string name="nevigation_selection_title">Nastavitve vrstice za krmarjenje</string>
+    <string name="next_btn_lebel">NAPREJ</string>
+    <string name="normal_date_format">Območni (%s)</string>
+    <string name="search_menu_title">Iskanje</string>
+    <string name="setup_complete_hmd">Pripravljeni ste ...</string>
+    <string name="setup_complete_main">Vaš telefon</string>
+    <string name="setup_complete_sub">je pripravljen za uporabo</string>
+    <string name="setup_completed_congratulations">Čestitamo!</string>
+    <string name="sim_not_exist_toast">Preverite, ali ste vstavili kartico SIM.</string>
+    <string name="skip_add_account_button_label">Ne zdaj</string>
+    <string name="skip_button_label">Preskoči</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Súhlasiť</string>
+    <string name="term_disagree_text">Ne strinjam se</string>
+    <string name="terms_of_service_description">"
+Pri uporabi teh storitev nastanejo stroški podatkovnega prometa: vreme, spletno shranjevanje, nalaganje, prenosi, e-pošta ali internetni brskalniki. Priporočamo, da pri svojem operaterju pridobite podatkovni paket, da prihranite stroške. 
+
+Če označite \"Strinjam se\", to pomeni, da jasno razumete to obvestilo in se strinjate, da se lahko vaš telefon samodejno poveže v internet za uporabo ustreznih storitev. 
+
+Poleg tega so samodejna obvestila o posodobitvah programske opreme privzeto omogočena, pri čemer se uporabljajo majhne količine podatkov, kar omogoča novo izkušnjo programske opreme. To možnost lahko pozneje izklopite v nastavitvah. 
+
+"</string>
+    <string name="terms_title">Obvestila o preneseni količini podatkov</string>
+    <string name="time_picker_title">Čas:</string>
+    <string name="traffic_prompt_content">Če označite, da se ne strinjate, morate ročno pridobiti informacije o tem: posodobitve programske opreme, vremenske napovedi itd.</string>
+    <string name="upload_agent_des_text">"Pridružite se programu za uporabniško izkušnjo &lt;a href='launch.AddUploadAgentHandler://Kode'>Pogoji &amp; določila o zasebnosti&lt;/a> 。"</string>
+    <string name="upload_agent_hmd_des_text_2">"Pridružite se programu za uporabniško izkušnjo Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Preberite več o tem.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Program za uporabniško izkušnjo</string>
+    <string name="v7_preference_off">IZKLOPLJENO</string>
+    <string name="v7_preference_on">VKLOPLJENO</string>
+    <string name="welcome_hmd_term_of_use_2">"Če tapnete puščico, se strinjate s &lt;a href='launch.TermOfServiceActivity://Kode'>pogoji storitve&lt;/a> in &lt;a href='launch.AddUploadAgentHandler://Kode'>pravilnikom o zasebnosti&lt;/a>. Podatki o aktiviranju naprave in o lokaciji naprave ob tem času bodo poslani podjetju HMD Global. Nastanejo lahko stroški za prenos podatkov."</string>
+    <string name="welcome_infocus_term_of_use">"Pritisnite Start, kar pomeni, da se strinjate s&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>pogoji &amp; določili storitve&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Začnimo</string>
+    <string name="welcome_message">Pozdravljeni</string>
+    <string name="welcome_start_button_label">ZAŽENI</string>
+    <string name="welcome_vision_settings_button_label">Nastavitve pogleda</string>
+    <string name="wifi_picker_connection_des_text">Če niste povezani v WLAN, bo pristnost programske opreme preverjena z uporabo mobilnega omrežja, kar lahko povzroči stroške za prenos podatkov.</string>
+    <string name="wifi_picker_connection_negative">Vzpostavi povezavo</string>
+    <string name="wifi_picker_connection_negative_prc">Poveži se v WLAN</string>
+    <string name="wifi_picker_connection_positive">V redu</string>
+    <string name="wifi_picker_connection_title">Omrežna povezava</string>
+    <string name="wifi_picker_warning_des_text">Če nimate internetne povezave, ne bo mogoče potrditi, da je vaša programska oprema posodobljena.</string>
+    <string name="wifi_picker_warning_negative">Vseeno preskoči</string>
+    <string name="wifi_picker_warning_positive">Ne preskoči</string>
+    <string name="wifi_picker_warning_title">Výstraha</string>
+    <string name="zone_auto">Samodejni časovni pas</string>
+    <string name="zone_auto_summaryOff">Uporabi časovni pas omrežja</string>
+    <string name="zone_auto_summaryOn">Uporabi časovni pas omrežja</string>
+    <string name="sugarsync_intro_description">Z nekaj preprostimi koraki lahko nemoteno uporabljate prostor za shranjevanje v storitvi SugarSync.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Ilme</string>
+    <string name="pref_dialog_title_time_out">Ajalõpp</string>
+    <string name="pref_title_alarm_information">Alarmi teave</string>
+    <string name="pref_title_calendar_reminder">Kalendri meeldetuletus</string>
+    <string name="pref_title_missed_calls">Vastamata kõnede näidik</string>
+    <string name="pref_title_time_out">Ajalõpp, kui telefon ei liigu</string>
+    <string name="pref_title_unread_mails">Lugemata meilide näidik</string>
+    <string name="pref_title_unread_messages">Lugemata sõnumite näidik</string>
+    <string name="switch_off_text">Väljas</string>
+    <string name="switch_on_text">Sees</string>
+</resources>

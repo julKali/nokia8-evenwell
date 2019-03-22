@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Laikapstākļu pakalpojums</string>
+    <string name="fih_weather_permission_hint_1">Lai šī lietotne darbotos pareizi, tai ir nepieciešamas attiecīgas atļaujas. Atļaujiet atļaujas pēc pieprasījuma.</string>
+    <string name="fih_weather_permission_hint_2">Lai šī lietotne darbotos pareizi, tai ir nepieciešamas papildu atļaujas. Lūdzu, pārvaldiet vienuma「Laikapstākļu pakalpojums」atļaujas sadaļā「Iestatījumi」</string>
+    <string name="fih_weather_button_ok">Labi</string>
+    <string name="fih_weather_button_close">Aizvērt</string>
+    <string name="fih_weather_button_setting">Uzstāda...</string>
+    <string name="fih_weather_permission_success">Piešķirt atrašanās vietas atļauju</string>
+    <string name="fih_weather_permission_failed">Atrašanās vietas atļaujas piešķiršana ir liegta, nevar iegūt atrašanās vietu</string>
+    <string name="fih_weather_notification_title">Laikaziņu pakalpojumam ir nepieciešamas atļaujas</string>
+    <string name="fih_weather_notification_text">Pieskarties, lai atļautu</string>
+    <string name="fih_weather_notification_channel_title">Vispārīgie paziņojumi</string>
+</resources>

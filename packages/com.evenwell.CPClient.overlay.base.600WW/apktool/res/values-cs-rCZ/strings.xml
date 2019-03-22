@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Klient CP</string>
+    <string name="fih_cp_notify_statusbar_content">Nová zpráva správy účtů</string>
+    <string name="fih_cp_notification_channel_name">Obecná oznámení</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Odložit</string>
+    <string name="fih_cp_ui_mode_delete">Odstranit</string>
+    <string name="fih_cp_apply_dialog_head_msg">Nová správa účtů</string>
+    <string name="fih_cp_apply_dialog_body_msg">Chcete použít novou konfiguraci?</string>
+    <string name="fih_cp_toast_info_update">Profil byl úspěšně aktualizován</string>
+    <string name="fih_cp_toast_info_create">Profil byl úspěšně vytvořen</string>
+    <string name="fih_cp_editor_apn_name">Jméno</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_user">Uživatelské jméno</string>
+    <string name="fih_cp_editor_apn_password">Heslo</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Proxy server MMS</string>
+    <string name="fih_cp_editor_apn_mms_port">Port MMS</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Typ ověřování</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Žádný</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP nebo CHAP</string>
+    <string name="fih_cp_editor_apn_type">Typ APN</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_btn_cancel">Storno</string>
+    <string name="fih_cp_btn_next">Další</string>
+    <string name="fih_cp_btn_back">Zpět</string>
+    <string name="fih_cp_apn_not_set">&lt;Nenastaveno></string>
+    <string name="fih_cp_error_title">Pozor</string>
+    <string name="fih_cp_error_name_empty">Pole Název nesmí být prázdné.</string>
+    <string name="fih_cp_error_apn_empty">Pole APN nesmí být prázdné.</string>
+    <string name="fih_cp_error_other">Chyba syntaxe dat.</string>
+    <string name="fih_cp_input_pin_code">Zadejte kód PIN:</string>
+    <string name="fih_cp_input_pin_code_ok">OK</string>
+    <string name="fih_cp_input_pin_code_cancel">Storno</string>
+    <string name="fih_cp_input_pin_code_incorrect">Nesprávný kód PIN.</string>
+    <string name="fih_cp_input_pin_code_empty">Zadejte kód PIN.</string>
+    <string name="fih_cp_sim_not_available">SIM karta není k dispozici.</string>
+</resources>

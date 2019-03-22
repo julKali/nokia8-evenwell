@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="0x7f020000" />
+    <public type="drawable" name="root" id="0x7f020001" />
+    <public type="layout" name="activity_main" id="0x7f030000" />
+    <public type="layout" name="dialog" id="0x7f030001" />
+    <public type="layout" name="root_status" id="0x7f030002" />
+    <public type="dimen" name="activity_horizontal_margin" id="0x7f040000" />
+    <public type="dimen" name="activity_vertical_margin" id="0x7f040001" />
+    <public type="id" name="pager" id="0x7f050000" />
+    <public type="id" name="isExpanded" id="0x7f050001" />
+    <public type="id" name="fragmentContainer" id="0x7f050002" />
+    <public type="id" name="lldialog" id="0x7f050003" />
+    <public type="id" name="ImageView" id="0x7f050004" />
+    <public type="id" name="message" id="0x7f050005" />
+    <public type="id" name="dialog_button_ok" id="0x7f050006" />
+    <public type="id" name="dialog_button_cancel" id="0x7f050007" />
+    <public type="id" name="rootStatus" id="0x7f050008" />
+    <public type="id" name="imageStatus" id="0x7f050009" />
+    <public type="string" name="app_name" id="0x7f060000" />
+    <public type="string" name="warning_title" id="0x7f060001" />
+    <public type="string" name="warning_message" id="0x7f060002" />
+    <public type="string" name="ok_btn" id="0x7f060003" />
+    <public type="string" name="ignore_btn" id="0x7f060004" />
+</resources>

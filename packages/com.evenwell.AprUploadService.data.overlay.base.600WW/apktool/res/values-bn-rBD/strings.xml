@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD গোপনীয়তা নীতি</string>
+    <string name="privacy_activity">HMD গোপনীয়তা নীতি</string>
+    <string name="go_label">সম্পন্ন</string>
+    <string name="agree">সম্মত</string>
+    <string name="see_detail">বিস্তারিত</string>
+    <string name="next_btn_lebel">ফেরত যান</string>
+    <string name="app_name">সিস্টেম ডায়াগোনস্টিক্স</string>
+    <string name="setting_page_name">ব্যবহারকারী অভিজ্ঞতা প্রোগ্রাম</string>
+    <string name="send_diag_dialog_any_network">ডেটা সংযোগ উপলভ্য থাকার সময়</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi সংযোগ উপলভ্য থাকার সময়</string>
+    <string name="send_diag_dialog_wlan">WLAN সংযোগ উপলভ্য থাকার সময়</string>
+    <string name="send_diag_dialog_title">ডায়াগোনস্টিক পাঠান</string>
+    <string name="diagnostics_setting">ডায়াগোনস্টিক</string>
+    <string name="diagnostics_report">ডায়াগোনস্টিক্স রিপোর্ট</string>
+    <string name="diagnostics_report_summary">ডিভাইসটি যখন কোনো সফ্টওয়্যার ত্রুটির সম্মুখীন হয় তখন ডায়াগোনস্টিক্স রিপোর্ট পাঠান। এর জন্য নেটওয়ার্ক ব্যবহারের খরচ দিতে হতে পারে। পরিষেবা প্রদানকারীর থেকে ডেটা নেটওয়ার্ক প্যাকেজ নেওয়ার সুপারিশ করা হয়।</string>
+    <string name="network_options">নেটওয়ার্ক বিকল্পগুলো</string>
+    <string name="send_diagnostics">ডায়াগোনস্টিক পাঠান</string>
+    <string name="diagnostics_description">আপনার ডিভাইসটি কোনো সফ্টওয়্যার ত্রুটি বা ক্র্যাশ অভিজ্ঞতার সম্মুখীন হলে আমাদেরকে ডায়াগোনস্টিক তথ্য সংগ্রহ করা অনুমতি দিয়ে দয়া করে আমাদের পণ্য ও পরিষেবাদি উন্নতিতে সাহায্য করুন। আপনি পরে যে কোনো সময় সেটিংসে গিয়ে এই বিকল্পটি পরিবর্তন করতে পারেন।</string>
+    <string name="cancel_upload_confirm_msg">আপনি এখন ব্যবহারকারী অভিজ্ঞতা প্রোগ্রাম থেকে বের হতে যচ্ছেন। আপনার মোবাইল ফোনে যেসব সফটওয়ারে ত্রুটি ঘটবে সেগুলো সংরক্ষণ এবং প্রেরণ করা হবে না, এর ফলে আপনার মোবাইল ফোন ব্যবহারেরে অভিজ্ঞতায় উন্নতি নাও ঘটাতে পারে!</string>
+</resources>

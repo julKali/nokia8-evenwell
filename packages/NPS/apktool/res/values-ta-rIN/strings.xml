@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ரத்துசெய்</string>
+    <string name="DONE">முடிந்தது</string>
+    <string name="NEXT">அடுத்து</string>
+    <string name="OK">செய்தாயிற்று</string>
+    <string name="PREVIOUS">முந்தையது</string>
+    <string name="alert_empty_desc">உங்கள் விளக்கத்தைச் சேர்க்கவும்!</string>
+    <string name="alert_warning_title">உதவிக்குறிப்புகள்</string>
+    <string name="enter_comments">கருத்துகளை உள்ளிடவும் (1000 எழுத்துக்குறிகள்)</string>
+    <string name="extremely_likely">(மிகவும் சாத்தியமுள்ளது)</string>
+    <string name="feedback">கருத்து</string>
+    <string name="helps_us_improve_our_products">உங்களின் கருத்தானது எங்களின் தயாரிப்புகளை மேம்படுத்த உதவும்!</string>
+    <string name="intro_title">இந்த ஃபோனை உங்கள் நண்பர் அல்லது சகப்பணியாளருக்கு எந்த அளவு பரிந்துரைக்கிறீர்கள்?</string>
+    <string name="msg_send_after">சாதனத்தில் இணைப்பு கிடைக்கும்போது, செய்தியானது தானாகவே பதிவேற்றப்படும். உங்கள் பதிலுக்கு நன்றி.</string>
+    <string name="msg_send_fail">அனுப்ப முடியவில்லை. சாதனத்தில் இணைப்பு கிடைக்கும்போது, செய்தியானது தானாகவே பதிவேற்றப்படும். உங்கள் பதிலுக்கு நன்றி.</string>
+    <string name="no_ask_feedback_again_text">மீண்டும் கருத்துக்களை கேட்க வேண்டாம்</string>
+    <string name="no_showagain_text">மீண்டும் காட்டதே</string>
+    <string name="not_at_all_likely">(சாத்தியமே இலை)</string>
+    <string name="privacy_context_wifi">"அன்புள்ள பயனர்களுக்கு, 
+
+கருத்து அனுப்புவதற்கான கிளையன்ட் மென்பொருளைப் பயன்படுத்த வரவேற்கிறோம். இந்தத் தயாரிப்பைப் பயன்படுத்துவதற்கு முன்னர், சேவை விதிமுறைகளைக் கவனமாகப் படித்து நன்கு புரிந்து கொள்ளவும். 「ஏற்கிறேன்」என்பதைக் கிளிக் செய்வதன் மூலம், இந்த மென்பொருளின் சிறப்புரிமைகளை நீங்கள் நன்கு புரிந்து கொண்டதாகவும், இதைப் பயன்படுத்த ஒப்புக் கொள்வதாகவும் பொருள்படும். இந்த விதிமுறைகளை நீங்கள் ஏற்கவில்லை எனில்,「வெளியேறு」என்பதை அழுத்தவும். இணக்கமான சேவைகளை உங்களுக்கு வழங்குவதற்காக, பயன்பாட்டுக்குப் பின்வரும் அனுமதிகள் தேவை: 
+1. கருத்துத் தகவலை அனுப்புவதற்கு, இணையம் மற்றும் WLAN நெட்வொர்க் அணுகல் 
+2. ஃபோனின் அடிப்படைத் தகவலைப் பெறுவதற்கு, IMEI, PSN மற்றும் MNC\\MCC தகவலை இறக்குமதி செய்தல்"</string>
+    <string name="select_a_value">மதிப்பைத் தேர்ந்தெடு</string>
+    <string name="str_agree">ஏற்கிறேன்</string>
+    <string name="str_leave">வெளியேறு</string>
+    <string name="submit_fail">சமர்ப்பிக்க முடியவில்லை</string>
+    <string name="submit_success">உங்கள் பதிலுக்கு நன்றி</string>
+    <string name="thank_your_feedback">உங்கள் கருத்திற்கு நன்றி!</string>
+    <string name="we_appreciate_your_help">Nokia தயாரிப்புகளை உலகின் சிறந்தவையாக மாற்றுவதற்கான உங்கள் உதவியை பாராட்டுகிறோம்.</string>
+    <string name="we_hope_enjoying_nokia_device">Nokia சாதனத்தைப் பயன்படுத்தி மகிழ்வீர்கள் என நம்புகிறோம். உங்களின் கருத்து எங்களுக்கு மிக முக்கியமானதாகும்.</string>
+    <string name="we_will_contact_you_again">எதிர்காலத்தில் உங்களை மீண்டும் தொடர்புகொள்வோம்.</string>
+    <string name="we_will_contact_you_again_enjoy">எதிர்காலத்தில் உங்களை மீண்டும் தொடர்புகொள்வோம். உங்களின் புதிய Nokia சாதனத்தைப் பயன்படுத்தி மகிழவும்!</string>
+    <string name="why_you_gave_this_score">நீங்கள் இந்த மதிப்பீட்டை வழங்கியதற்கான காரணத்தை எங்களுக்குத் தெரிவிக்கவும்:</string>
+</resources>

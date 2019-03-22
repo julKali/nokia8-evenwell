@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">KANSELAHIN</string>
+    <string name="DONE">TAPOS NA</string>
+    <string name="NEXT">SUSUNOD</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">NAUNA</string>
+    <string name="abc_action_bar_home_description">Mag-navigate patungo sa home</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang mga opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng isang app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi gamit ang %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="alert_empty_desc">Pakidagdag ang iyong paglalarawan!</string>
+    <string name="alert_warning_title">Atensyon</string>
+    <string name="app_name">NPS</string>
+    <string name="enter_comments">Ipasok ang mga komento (1000 na mga letra)</string>
+    <string name="extremely_likely">(Higit na malamang)</string>
+    <string name="feedback">Feedback</string>
+    <string name="helps_us_improve_our_products">Ang iyong katugunan ay makakatulong na pagbutihin ang aming mga produkto!</string>
+    <string name="intro_title">Gaano kalamang na irerekomenda mo ang teleponong ito sa kaibigan o kasamahan?</string>
+    <string name="msg_send_after">Ay awtomatikong mag-upload kapag ang aparato sa online, Salamat sa iyong tugon Mensahe</string>
+    <string name="msg_send_fail">Hindi naipadala. Awtomatikong maa-upload ang mensahe kapag online ang device. Salamat sa iyong tugon.</string>
+    <string name="no_ask_feedback_again_text">Huwag ipakitang muli</string>
+    <string name="no_showagain_text">Huwag ipakitang muli</string>
+    <string name="not_at_all_likely">(Malamang na hindi talaga)</string>
+    <string name="privacy_context_wifi">"Mahal na user, 
+
+Welcome sa paggamit ng Feedback. Bago gamitin ang App, pakibasa nang mabuti at unawain ang mga sumusunod na tuntunin. Kung sumasang-ayon ka sa mga tuntuning ito, pakipindot ang button na Sumasang-ayon upang magamit ang App. Kung HINDI ka sumasang-ayon sa mga tuntuning ito, pakipindot ang button na Exit upang makalabas sa App. Upang mabigyan ka ng mga komprehensibong serbisyo, kinakailangan ng App ang mga sumusunod na pahintulot: 
+1. Access sa Internet, WLAN network upang magpadala ng impormasyon sa feedback 
+2. Basahin ang impormasyon sa IMEI, PSN at MNC\\MCC upang awtomatikong makuha ang pangunahing impormasyon sa telepono"</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="select_a_value">Pumili ng halaga</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Sumang-ayon</string>
+    <string name="str_leave">Iwanang</string>
+    <string name="submit_fail">Hindi naisumite</string>
+    <string name="submit_success">Ipinapadala ang Mensahe! Salamat sa iyong tugon</string>
+    <string name="thank_your_feedback">Salamat sa iyong tugon!</string>
+    <string name="we_appreciate_your_help">Aming pinahahalagahan ang iyong tulong upang gawin ang mga produkto ng Nokia na pinakamahusay sa buong mundo.</string>
+    <string name="we_hope_enjoying_nokia_device">Kami ay umaasa na ikaw ay masaya sa iyong Nokia na aparato. Ang iyong katugunan ay mahalaga sa amin.</string>
+    <string name="we_will_contact_you_again">Makikipag-ugnayan kaming muli sa iyo sa hinaharap.</string>
+    <string name="we_will_contact_you_again_enjoy">Kami ay makikipagalam sa inyo sa hinaharap. Tamasain ang iyong bagong Nokia na aparato.</string>
+    <string name="why_you_gave_this_score">Mangyaring sabihin sa amin bakit binigyan mo kami ng ganitong iskor:</string>
+</resources>

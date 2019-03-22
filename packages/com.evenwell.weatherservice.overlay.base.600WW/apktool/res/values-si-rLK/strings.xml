@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">කාලගුණ සේවාව</string>
+    <string name="fih_weather_permission_hint_1">නියම ක්‍රියාකාරිත්වය පිණිස, මෙම යෙදුම අතිරේක අවසරය සොයයි. විමසන විට අවසර ඉඩ දෙන්න.</string>
+    <string name="fih_weather_permission_hint_2">නියම ක්‍රියාකාරිත්වය පිණිස, මෙම යෙදුම අතිරේක අවසර සොයයි. පසුතල තුළ WeatherService හි අවසර කළමනාකරණය කරන්න.</string>
+    <string name="fih_weather_button_ok">හරි</string>
+    <string name="fih_weather_button_close">වසන්න</string>
+    <string name="fih_weather_button_setting">සකසමින්</string>
+    <string name="fih_weather_permission_success">පිහිටුම් අවසර ප්‍රදානය සාර්ථකයි</string>
+    <string name="fih_weather_permission_failed">පිහිටුම් අවසර ප්‍රදානය ප්‍රතික්ෂේපිතයි, පිහිටුම ගත නොහැකිය.</string>
+    <string name="fih_weather_notification_title">WeatherService හට අවසර අවශ්‍යයි</string>
+    <string name="fih_weather_notification_text">ඉඩ දීමට තට්ටු කරන්න</string>
+    <string name="fih_weather_notification_channel_title">සාමාන්‍ය දැනුම්දීම්</string>
+</resources>

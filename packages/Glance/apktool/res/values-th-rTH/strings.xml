@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">ลักษณะที่ปรากฏ</string>
+    <string name="pref_dialog_title_time_out">หมดเวลา</string>
+    <string name="pref_title_alarm_information">ข้อมูลนาฬิกาปลุก</string>
+    <string name="pref_title_calendar_reminder">ตัวเตือนปฏิทิน</string>
+    <string name="pref_title_missed_calls">ตัวแจ้งเตือนสายที่ไม่ได้รับ</string>
+    <string name="pref_title_time_out">หมดเวลาเมื่อโทรศัพท์ไม่ขยับ</string>
+    <string name="pref_title_unread_mails">ตัวแจ้งเตือนจดหมายที่ยังไม่ได้อ่าน</string>
+    <string name="pref_title_unread_messages">ตัวแจ้งเตือนข้อความยังไม่ได้อ่าน</string>
+    <string name="switch_off_text">ปิด</string>
+    <string name="switch_on_text">เปิด</string>
+</resources>

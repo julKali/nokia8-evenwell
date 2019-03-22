@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP සේවාලාභියා</string>
+    <string name="fih_cp_notify_statusbar_content">නව විධිවිධාන පණිවුඩය</string>
+    <string name="fih_cp_notification_channel_name">සාමාන්‍ය දැනුම්දීම්</string>
+    <string name="fih_cp_ui_mode_ok">හරි</string>
+    <string name="fih_cp_ui_mode_postpone">කල් දමන්න</string>
+    <string name="fih_cp_ui_mode_delete">මකන්න</string>
+    <string name="fih_cp_apply_dialog_head_msg">නව විධිවිධානය</string>
+    <string name="fih_cp_apply_dialog_body_msg">ඔබට නව වින්‍යාසකරණය අදාල කිරීමට අවශ්‍ය ද?</string>
+    <string name="fih_cp_toast_info_update">පැතිකඩ යාවත්කාලය සාර්ථකයි</string>
+    <string name="fih_cp_toast_info_create">පැතිකඩ නිර්මාණය සාර්ථකයි</string>
+    <string name="fih_cp_editor_apn_name">නම‍</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">ප්‍රොක්සිය</string>
+    <string name="fih_cp_editor_apn_http_port">තොට</string>
+    <string name="fih_cp_editor_apn_user">පරිශීලක නාමය</string>
+    <string name="fih_cp_editor_apn_password">මුරපදය</string>
+    <string name="fih_cp_editor_apn_server">සේවාදායකය</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS ප්‍රොක්සිය</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS තොට</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">සත්‍යාපන වර්ගය</string>
+    <string name="fih_cp_editor_apn_auth_type_none">කිසිවක් නැත</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP හෝ CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN වර්ගය</string>
+    <string name="fih_cp_btn_ok">හරි</string>
+    <string name="fih_cp_btn_cancel">අවලංගු කරන්න</string>
+    <string name="fih_cp_btn_next">මීලඟ</string>
+    <string name="fih_cp_btn_back">ආපසු</string>
+    <string name="fih_cp_apn_not_set">&lt;සකසා නැත></string>
+    <string name="fih_cp_error_title">අවධානය</string>
+    <string name="fih_cp_error_name_empty">නම ක්‍ෂේත්‍රය හිස් විය නොහැක.</string>
+    <string name="fih_cp_error_apn_empty">APN ක්‍ෂේත්‍රය හිස් විය නොහැක.</string>
+    <string name="fih_cp_error_other">දත්ත පද ගැලපුම් දෝෂය.</string>
+    <string name="fih_cp_input_pin_code">PIN කේතය ඇතුළු කරන්න:</string>
+    <string name="fih_cp_input_pin_code_ok">හරි</string>
+    <string name="fih_cp_input_pin_code_cancel">අවලංගු කරන්න</string>
+    <string name="fih_cp_input_pin_code_incorrect">වැරදි PIN කේතයකි.</string>
+    <string name="fih_cp_input_pin_code_empty">කරුණාකර PIN කේතය ඇතුලත් කරන්න.</string>
+    <string name="fih_cp_sim_not_available">SIM පත ලද නොහැකිය.</string>
+</resources>

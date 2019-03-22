@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Klien CP</string>
+    <string name="fih_cp_apn_not_set">&lt;Tidak ditetapkan></string>
+    <string name="fih_cp_apply_dialog_body_msg">Anda ingin menerapkan konfigurasi baru?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Penyediaan Baru</string>
+    <string name="fih_cp_btn_back">Kembali</string>
+    <string name="fih_cp_btn_cancel">Batal</string>
+    <string name="fih_cp_btn_next">Berikutnya</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Jenis Autentikasi</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Tidak ada</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP atau CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">Port MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Proxy MMS</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Nama</string>
+    <string name="fih_cp_editor_apn_password">Sandi</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_type">Jenis APN</string>
+    <string name="fih_cp_editor_apn_user">Nama pengguna</string>
+    <string name="fih_cp_error_apn_empty">Bidang APN tidak boleh kosong.</string>
+    <string name="fih_cp_error_name_empty">Bidang Nama tidak boleh kosong.</string>
+    <string name="fih_cp_error_other">Kesalahan sintaks data.</string>
+    <string name="fih_cp_error_title">Perhatian</string>
+    <string name="fih_cp_input_pin_code">Masukkan kode PIN:</string>
+    <string name="fih_cp_input_pin_code_cancel">Batal</string>
+    <string name="fih_cp_input_pin_code_empty">Masukkan kode PIN.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Kode PIN salah.</string>
+    <string name="fih_cp_input_pin_code_ok">Ok</string>
+    <string name="fih_cp_notification_channel_name">Notifikasi umum</string>
+    <string name="fih_cp_notify_statusbar_content">Pesan penyediaan baru</string>
+    <string name="fih_cp_sim_not_available">Kartu SIM tidak tersedia.</string>
+    <string name="fih_cp_toast_info_create">Profil berhasil dibuat</string>
+    <string name="fih_cp_toast_info_update">Profil berhasil diperbarui</string>
+    <string name="fih_cp_ui_mode_delete">Hapus</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Tunda</string>
+</resources>

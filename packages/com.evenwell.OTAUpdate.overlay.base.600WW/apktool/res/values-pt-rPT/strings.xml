@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Falha ao transferir o software.</string>
+    <string name="prepare_to_reboot_force_summary">O software instalado precisa de reiniciar o dispositivo para configurar as definições. Sugerimos reiniciar agora.</string>
+    <string name="update_ota_self">Atualização de Software em curso.</string>
+    <string name="ab_update_fail">Problema de instalação.</string>
+    <string name="ab_update_wrong_status">O motor de atualização está ocupado. Tente novamente mais tarde ou reinicie.</string>
+    <string name="ab_update_installing">A atualizar o sistema</string>
+    <string name="tag_engineer_mode">Modo de engenheiro</string>
+    <string name="engineer_version_incorrect">A versão do seu dispositivo está incorreta</string>
+    <string name="msg_engineer_ota_restore">Toque para restaurar a versão oficial</string>
+    <string name="msg_engineer_ota_restore_warning">Será restaurada a versão oficial. Pretende continuar?</string>
+    <string name="silent_mode_data_fee_warning">A atualização está disponível. Ao transferir atualizações pode incorrer em custos adicionais. Se possível, transfira as atualizações via Wi-Fi.</string>
+    <string name="msg_updating_system">A atualizar o sistema...</string>
+    <string name="msg_tap_to_reboot">Toque para reiniciar</string>
+    <string name="msg_pause_download">Pausar transferência</string>
+    <string name="notification_channel_name">Atualização do sistema</string>
+    <string name="notification_channel_alert_name">Notificações gerais</string>
+</resources>

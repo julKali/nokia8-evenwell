@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aktualizácia softvéru</string>
+    <string name="remote_file_fail">Prístup k vzdialenému súboru sa nedá získať. Skúste to znova neskôr.</string>
+    <string name="no_description">(Žiadny popis)</string>
+    <string name="login_fail">Nepodarilo sa prihlásiť na server. Skúste to znova neskôr.</string>
+    <string name="get_service_url_fail">Sieťové pripojenie nie je stabilné (nepodarilo sa získať URL adresu služby). Skúste to znova neskôr.</string>
+    <string name="query_sw_fail">Nepodarilo sa odoslať dopyt po informáciách o softvéri.</string>
+    <string name="download_sw_fail">Nepodarilo sa stiahnuť softvér.</string>
+    <string name="query_sw_incorrect">Výsledok nie je správny.</string>
+    <string name="no_update_available">K dispozícii nie je žiadna novšia aktualizácia.</string>
+    <string name="update_not_ready">Novšia aktualizácia nie je na serveri pripravená. Skúste to znova neskôr.</string>
+    <string name="check_now_label">Skontrolovať</string>
+    <string name="verifying">Overuje sa...</string>
+    <string name="header_verifying_update_file">Overuje sa aktualizovaný súbor...</string>
+    <string name="unzipping">Dekomprimuje sa...</string>
+    <string name="header_starting_to_download_file">Spúšťa sa sťahovanie súboru...</string>
+    <string name="new_version_desc_prompt">Nová verzia zahŕňa:</string>
+    <string name="data_fee_warning">Za používanie tejto služby prostredníctvom pripojenia k mobilnej sieti sa môžu účtovať poplatky.</string>
+    <string name="header_downloading_update">Sťahuje sa aktualizácia</string>
+    <string name="header_install_system_software_update">Inštalovať aktualizáciu softvéru systému</string>
+    <string name="msg_install_system_software_update_1">"Chcete nainštalovať nasledujúci softvér systému?
+Inovácia systému na"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Počas inovácie nebudete môcť používať svoje zariadenie ani vykonávať tiesňové volania.
+
+Vybratie batérie alebo SD karty počas aktualizovania softvéru môže viesť k neočakávaným výsledkom."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Počas inovácie nebudete môcť používať svoje zariadenie.
+
+Výpadok prúdu alebo odstránenie stiahnutého súboru počas aktualizovania softvéru bude viesť k neočakávaným výsledkom."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Počas inovácie nebudete môcť používať svoje zariadenie ani vykonávať tiesňové volania.
+
+Ak počas aktualizovania softvéru dôjde k výpadku prúdu alebo odstránite stiahnutý súbor, bude to viesť k neočakávaným výsledkom."</string>
+    <string name="button_install_later">Inštalovať neskôr</string>
+    <string name="msg_unable_to_connect">Na používanie tejto aplikácie potrebujete sieťové pripojenie. Zapnite v nastaveniach mobilnú sieť alebo sieť Wi-Fi.</string>
+    <string name="msg_unable_to_connect_2">Na používanie tejto aplikácie potrebujete sieťové pripojenie. Zapnite v nastaveniach mobilnú sieť.</string>
+    <string name="msg_unable_to_connect_wlan">Na používanie tejto aplikácie potrebujete sieťové pripojenie. Zapnite v nastaveniach mobilnú sieť alebo sieť WLAN.</string>
+    <string name="msg_unable_to_connect_short">Žiadne sieťové pripojenie</string>
+    <string name="header_system_is_update">Systém je aktualizovaný.</string>
+    <string name="msg_system_is_update">K dispozícii nie je žiadna novšia aktualizácia.</string>
+    <string name="msg_system_is_update_short">Žiadne novšie aktualizácie</string>
+    <string name="msg_no_sd_card">Na aktualizáciu systému sa vyžaduje SD karta. Vložte dostupnú SD kartu.</string>
+    <string name="msg_no_available_size_card">Tento súbor s aktualizáciou si vyžaduje %s MB dostupného miesta. Odstráňte niektoré súbory z SD karty.</string>
+    <string name="msg_no_available_size_card_2">Tento súbor s aktualizáciou si vyžaduje %s MB dostupného miesta. Odstráňte niektoré súbory v úložisku dát.</string>
+    <string name="msg_no_available_size_card_short">Nedostatok voľného miesta.</string>
+    <string name="msg_do_not_remove_sd_card">NEVYBERAJTE SD kartu.</string>
+    <string name="msg_system_battery_too_low">"Aktualizácia systému je pripravená, no stav nabitia batérie zariadenia je príliš nízky na jej inštaláciu. Nabite batériu a inštaláciu spustite neskôr.
+
+Úroveň nabitia batérie by mala byť vyššia ako 35%%.
+Aktuálna úroveň nabitia batérie: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Nízky stav nabitia batérie</string>
+    <string name="msg_remove_sd_card">Stiahnutý súbor sa nedá zapísať na SD kartu. Skontrolujte SD kartu.</string>
+    <string name="msg_remove_sd_card_2">Stiahnutý súbor sa nedá zapísať do úložiska dát. Skontrolujte úložisko.</string>
+    <string name="msg_remove_sd_card_short">Nepodarilo sa získať prístup k SD karte.</string>
+    <string name="msg_remove_sd_card_short_2">Nepodarilo sa získať prístup do úložiska dát.</string>
+    <string name="msg_verify_fail">Nepodarilo sa overiť stiahnutý súbor.</string>
+    <string name="msg_verify_fail_short">Overenie sa nepodarilo</string>
+    <string name="msg_unzip_fail">Nepodarilo sa dekomprimovať stiahnutý súbor.</string>
+    <string name="msg_unzip_fail_short">Dekomprimácia sa nepodarila</string>
+    <string name="data_size">Veľkosť dát</string>
+    <string name="required_size">Požadované miesto</string>
+    <string name="network_not_match">Aktuálne je nastavené sťahovanie iba cez sieť WLAN. Vyberte sieť WLAN alebo zmeňte nastavenia.</string>
+    <string name="network_not_match_short">Sieť sa nezhoduje.</string>
+    <string name="without_reboot_api">Z dôvodu chýbajúceho rozhrania API nie je reštart možný. Reštartovaním môžete manuálne obnoviť aktívnu aktualizáciu.</string>
+    <string name="update_complete">Aktualizácia systému je dokončená.</string>
+    <string name="update_complete_short">Aktualizácia je dokončená</string>
+    <string name="file_removed">Daný stiahnutý súbor bol odstránený. Stiahnite ho znova.</string>
+    <string name="file_removed_short">Stiahnutý súbor bol odstránený.</string>
+    <string name="file_not_match">Veľkosť stiahnutého súboru sa nezhoduje s očakávanou veľkosťou. Stiahnite ho znova.</string>
+    <string name="file_not_match_short">Súbor sa nezhoduje.</string>
+    <string name="menu_url">Zmeniť URL adresu servera</string>
+    <string name="menu_enabled">Iba zapnutý softvér</string>
+    <string name="using_internal_storage">Využíva sa interné úložisko</string>
+    <string name="using_external_storage">Využíva sa externé úložisko</string>
+    <string name="msg_agree_message">"
+
+Existuje nízka pravdepodobnosť, že v dôsledku procesu inovácie dôjde k vymazaniu používateľských dát. V prípade potreby si pred inštaláciou inovácie systému zálohujte svoje dáta."</string>
+    <string name="msg_root_message">"
+
+Po rootovaní zariadenia nemožno zaručiť normálnu aktualizáciu."</string>
+    <string name="msg_responsibility_message">Ak je zariadenie rootované, používateľ nesie zodpovednosť za akékoľvek abnormálne správanie po aktualizácii.</string>
+    <string name="msg_upgrade_agree">Prečítať a vyjadriť súhlas</string>
+    <string name="update_summary">Vyhľadať aktualizácie</string>
+    <string name="wlan_only">Iba WLAN</string>
+    <string name="wifi_only_summary">Stiahnuť aktualizácie, keď bude dostupná sieť Wi-Fi</string>
+    <string name="wlan_only_summary">Stiahnuť aktualizácie, keď bude dostupná sieť WLAN</string>
+    <string name="auto_update">Automatická aktualizácia</string>
+    <string name="auto_update_summary">Automaticky vyhľadať aktualizácie</string>
+    <string name="new_data_fee_warning">Za vyhľadanie a stiahnutie aktualizácií sa môžu účtovať ďalšie poplatky. Ak je to možné, sťahujte aktualizácie cez sieť Wi-Fi.</string>
+    <string name="wlan_data_fee_warning">Za vyhľadanie a stiahnutie aktualizácií sa môžu účtovať ďalšie poplatky. Ak je to možné, sťahujte aktualizácie cez sieť WLAN.</string>
+    <string name="install_fail">Zlyhanie inštalácie</string>
+    <string name="install_all">Inštalovať všetko</string>
+    <string name="installed_version">Nainštalovaná verzia</string>
+    <string name="update_available">K dispozícii je aktualizácia.</string>
+    <string name="apk_update_available">K dispozícii je aktualizácia aplikácie.</string>
+    <string name="recommend">Odporučiť</string>
+    <string name="roaming_restriction">Obmedzenie dátového roamingu</string>
+    <string name="roaming_restriction_summary">Z dôvodu obmedzenia dátového roamingu nie je aktualizácia možná.</string>
+    <string name="changelog">Denník zmien</string>
+    <string name="apk_update_available_summary">%s má k dispozícii aktualizáciu. Kliknutím na tlačidlo OK ju môžete ihneď nainštalovať. Kliknutím na tlačidlo Zrušiť sa aktualizácia po jednom dni vyhľadá.</string>
+    <string name="apk_removed">Táto aplikácia bola odstránená.</string>
+    <string name="apk_available_items">Celkový počet dostupných položiek: %s</string>
+    <string name="apk_available_item">Celkovo je dostupná %s položka</string>
+    <string name="invalid_update_summary">Daná aktualizácia je neplatná, skúste to znova.</string>
+    <string name="recheck">Znova skontrolovať</string>
+    <string name="image_download_exception_summary">Prístup na server sa nedá získať, skúste to znova neskôr.</string>
+    <string name="apk_download_exception">Prístup na server sa nedá získať</string>
+    <string name="installation_confirmation">Potvrdenie o inštalácii</string>
+    <string name="apk_need_reboot_summary">Táto aktualizácia softvéru automaticky reštartuje systém po dokončení inštalácie. Chcete teraz vykonať inštaláciu?</string>
+    <string name="prepare_to_reboot">Pripraviť na reštart</string>
+    <string name="prepare_to_reboot_summary">Nainštalovaný softvér musí reštartovať zariadenie, aby sa nastavenia nakonfigurovali. Odporúčame vám vykonať reštart teraz, prípadne môžete tiež reštartovať neskôr.</string>
+    <string name="prepare_to_reboot_force_summary">Nainštalovaný softvér musí reštartovať zariadenie, aby sa nastavenia nakonfigurovali. Odporúčame vám vykonať reštart teraz.</string>
+    <string name="reboot_fail">Reštart zlyhal</string>
+    <string name="reboot_fail_summary">Z dôvodu chýbajúceho rozhrania API nie je reštart možný. Reštart vykonajte manuálne.</string>
+    <string name="apk_no_avaliable_size">Z dôvodu nedostatočnej veľkosti interného úložiska nie je sťahovanie možné.</string>
+    <string name="update_finished">Aktualizácia bola dokončená</string>
+    <string name="msg_root_warning">Vaše zariadenie je rootované alebo oficiálny softvér je sfalšovaný. Ak budete pokračovať v aktualizácii systému, môže dôjsť k nestabilite alebo zlyhaniu systému a k zrušeniu záruky na zariadenie. Naozaj chcete pokračovať?</string>
+    <string name="multi_image_update">K dispozícii je niekoľko aktualizácií obrazu</string>
+    <string name="available_update_list">Zoznam dostupných aktualizácií</string>
+    <string name="downloading_summary">Zrušte sťahovanie obrazu</string>
+    <string name="msg_erase_userdata_warning">Táto aktualizácia musí vymazať používateľské dáta. Chcete pokračovať?</string>
+    <string name="msg_autoupdate_date_fee_warning">Za povolenie automatickej aktualizácie sa môžu účtovať ďalšie poplatky.</string>
+    <string name="invalid_update">Daná aktualizácia je neplatná.</string>
+    <string name="file_corrupted">Systém sa nedá inovovať, pretože daný súbor je poškodený.</string>
+    <string name="ask_for_apk_check">Chcete vyhľadať aktualizácie aplikácie?</string>
+    <string name="update_ota_self">Prebieha aktualizácia softvéru.</string>
+    <string name="ab_update_fail">Problém s inštaláciou.</string>
+    <string name="ab_update_wrong_status">Nástroj na aktualizáciu je teraz zaneprázdnený. Skúste to znova neskôr alebo ho reštartujte.</string>
+    <string name="ab_update_installing">Aktualizuje sa systém</string>
+    <string name="tag_engineer_mode">Režim inžiniera</string>
+    <string name="engineer_version_incorrect">Verzia zariadenia je nesprávna</string>
+    <string name="msg_engineer_ota_restore">Ťuknutím obnovte oficiálnu verziu</string>
+    <string name="msg_engineer_ota_restore_warning">Týmto krokom sa obnoví oficiálna verzia. Chcete pokračovať?</string>
+    <string name="silent_mode_data_fee_warning">K dispozícii je aktualizácia. Za stiahnutie aktualizácií sa môžu účtovať ďalšie poplatky. Ak je to možné, sťahujte aktualizácie cez sieť Wi-Fi.</string>
+    <string name="msg_updating_system">Aktualizuje sa systém...</string>
+    <string name="msg_tap_to_reboot">Ťuknutím reštartujte</string>
+    <string name="msg_pause_download">Pozastaviť sťahovanie</string>
+    <string name="notification_channel_name">Aktualizácia systému</string>
+    <string name="notification_channel_alert_name">Všeobecné upozornenia</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>1,5 seconden</item>
+        <item>30 seconden</item>
+        <item>1 minuut</item>
+        <item>2 minuten</item>
+        <item>Door systeem gedefinieerd</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>Automatische helderheid</item>
+        <item>Use system defined</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 minuten</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>Prestaties</item>
+        <item>Stability</item>
+        <item>User Interface</item>
+        <item>Power Saving Effect</item>
+        <item>Other Problems</item>
+        <item>Suggestions</item>
+    </string-array>
+</resources>

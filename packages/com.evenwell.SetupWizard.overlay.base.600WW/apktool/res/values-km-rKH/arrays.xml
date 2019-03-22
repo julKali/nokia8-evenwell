@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>កំពុង​វិភាគ​រក…</item>
+        <item>កំពុង​ត​ភ្ជាប់​…</item>
+        <item>កំពុង​ផ្ទៀងផ្ទាត់...</item>
+        <item>កំពុង​ទទួល​អាសយដ្ឋាន IP…</item>
+        <item>បាន​តភ្ជាប់</item>
+        <item>បាន​ពន្យារ​ពេល</item>
+        <item>កំពុង​ផ្ដាច់…</item>
+        <item>បាន​ផ្ដាច់</item>
+        <item>មិន​ជោគជ័យ</item>
+        <item>បានទប់ស្កាត់</item>
+        <item>ជៀសវាង​ការ​តភ្ជាប់​​ខ្សោយ​ជា​បណ្ដោះអាសន្ន</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>កំពុង​វិភាគ​រក…</item>
+        <item>កំពុង​តភ្ជាប់​ទៅ %1$s…</item>
+        <item>កំពុង​ផ្ទៀងផ្ទាត់​ជា​មួយ %1$s…</item>
+        <item>កំពុង​យក​អាសយដ្ឋាន IP ពី %1$s…</item>
+        <item>បាន​តភ្ជាប់​ទៅ %1$s</item>
+        <item>បាន​ពន្យារ​ពេល</item>
+        <item>កំពុង​ផ្ដាច់​ពីរ %1$s…</item>
+        <item>បាន​ផ្ដាច់</item>
+        <item>មិន​ជោគជ័យ</item>
+        <item>បានទប់ស្កាត់</item>
+        <item>ជៀសវាង​ការ​តភ្ជាប់​​ខ្សោយ​ជា​បណ្ដោះអាសន្ន</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ខ្សោយ</item>
+        <item>មធ្យម​</item>
+        <item>ល្អ</item>
+        <item>ល្អ​ណាស់</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>គ្មាន</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>គ្មាន</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ថេរ</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>គ្មាន</item>
+        <item>ដោយដៃ</item>
+        <item>រចនាសម្ព័ន្ធប្រូកស៊ីស្វ័យប្រវត្តិ</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI ឆទសភាគ</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(unspecified)</item>
+        <item>Sim Slot 1</item>
+        <item>Sim Slot 2</item>
+    </string-array>
+</resources>

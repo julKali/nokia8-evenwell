@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/LLtitle" android:layout_width="fill_parent" android:layout_height="70.0dip">
+        <TextView android:textAppearance="@style/Title" android:gravity="bottom" android:id="@id/TVtitle" android:paddingLeft="5.0dip" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/title_indent" android:layout_marginRight="@dimen/title_indent" android:minHeight="@dimen/title_height" android:text="@string/setting_page_name" />
+        <TextView android:id="@id/aline" android:background="#ff33b5e5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:height="2.0px" android:layout_below="@id/TVtitle" />
+    </LinearLayout>
+    <ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="310.0dip" android:drawSelectorOnTop="false" android:layout_below="@id/LLtitle" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="24.0dip" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+        <Button android:id="@id/btnsetcomplete" android:text="@string/next_btn_lebel" style="@style/MissingSimSkipButton" />
+    </LinearLayout>
+</RelativeLayout>

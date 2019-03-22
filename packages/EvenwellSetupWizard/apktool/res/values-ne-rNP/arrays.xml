@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>अचल</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>स्वतः पत्ता लगाउनुहोस्</item>
+        <item>मिटरका रूपमा व्यवहार गर्नुहोस्</item>
+        <item>अनमिटरका रूपमा व्यवहार गर्नुहोस्</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>कुनै पनि होइन</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>कुनै पनि होइन</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>कुनै पनि होइन</item>
+        <item>म्यानुअल</item>
+        <item>स्वतः प्रोक्सी कन्फिगरेसन</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>कमजोर</item>
+        <item>ठीकै</item>
+        <item>राम्रो</item>
+        <item>उत्कृष्ट</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>स्क्यान गर्दै…</item>
+        <item>जडान गर्दै…</item>
+        <item>प्रमाणीकरण गर्दै…</item>
+        <item>IP ठेगाना प्राप्त गर्दै…</item>
+        <item>जडान छ</item>
+        <item>निलम्बित</item>
+        <item>विच्छेद गर्दै…</item>
+        <item>विच्छेद भयो</item>
+        <item>असफल भयो</item>
+        <item>रोक लगाइयो</item>
+        <item>कमजोर जडानहरूलाई अस्थायी रूपमा नकार्दै</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>स्क्यान गर्दै…</item>
+        <item>%1$s मा जडान गर्दै…</item>
+        <item>%1$s मार्फत प्रमाणीकरण गर्दै…</item>
+        <item>%1$s बाट IP ठेगाना प्राप्त गर्दै…</item>
+        <item>%1$s मा जडान गरियो</item>
+        <item>निलम्बित</item>
+        <item>%1$s बाट विच्छेद गर्दै…</item>
+        <item>विच्छेद भयो</item>
+        <item>असफल भयो</item>
+        <item>रोक लगाइयो</item>
+        <item>कमजोर जडानहरूलाई अस्थायी रूपमा नकार्दै</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI हेक्साडेसिमल</item>
+    </string-array>
+</resources>

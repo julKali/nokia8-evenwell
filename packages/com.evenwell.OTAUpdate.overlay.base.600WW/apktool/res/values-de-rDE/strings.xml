@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Download der Software fehlgeschlagen.</string>
+    <string name="msg_root_message">"
+
+Ein normales Update kann nicht garantiert werden, wenn das Gerät gerootet wurde."</string>
+    <string name="msg_responsibility_message">Wenn das Gerät gerootet wurde, ist der Benutzer verantwortlich für abnormales Systemverhalten nach einem Update.</string>
+    <string name="install_fail">Installation fehlgeschlagen</string>
+    <string name="install_all">Alle installieren</string>
+    <string name="installed_version">Installierte Version</string>
+    <string name="update_available">Update verfügbar.</string>
+    <string name="apk_update_available">Anwendungsupdate verfügbar.</string>
+    <string name="recommend">Empfehlen</string>
+    <string name="roaming_restriction">Einschränkung für Daten-Roaming</string>
+    <string name="roaming_restriction_summary">Update wegen Einschränkung für Daten-Roaming nicht möglich.</string>
+    <string name="changelog">Protokoll ändern</string>
+    <string name="apk_update_available_summary">Update verfügbar für %s. Auf \"OK\" klicken, um direkt zu installieren; auf \"Abbrechen\" klicken, um das Update nach einem Tag erneut zu prüfen.</string>
+    <string name="apk_removed">Diese Anwendung wurde entfernt.</string>
+    <string name="apk_available_items">Insgesamt %s verfügbare Elemente</string>
+    <string name="apk_available_item">Insgesamt %s verfügbares Element</string>
+    <string name="invalid_update_summary">Update ungültig. Bitte erneut prüfen.</string>
+    <string name="recheck">Erneut prüfen</string>
+    <string name="image_download_exception_summary">Zugriff auf Server nicht möglich, bitte später versuchen.</string>
+    <string name="apk_download_exception">Zugriff auf Server nicht möglich</string>
+    <string name="installation_confirmation">Bestätigung der Installation</string>
+    <string name="apk_need_reboot_summary">Nach der Installation dieses Softwareupdates wird das System automatisch neu gestartet. Jetzt installieren?</string>
+    <string name="prepare_to_reboot">Neustart vorbereiten</string>
+    <string name="prepare_to_reboot_summary">Die installierte Software erfordert einen Neustart des Geräts zum Konfigurieren der Einstellungen. Ein sofortiger Neustart wird empfohlen, er kann jedoch auch später durchgeführt werden.</string>
+    <string name="prepare_to_reboot_force_summary">Die installierte Software erfordert einen Neustart des Geräts zum Konfigurieren der Einstellungen. Ein sofortiger Neustart wird empfohlen.</string>
+    <string name="reboot_fail">Neustart fehlgeschlagen</string>
+    <string name="reboot_fail_summary">Neustart aufgrund fehlender API nicht möglich. Bitte manuell neu starten.</string>
+    <string name="apk_no_avaliable_size">Download nicht möglich, da interner Speicher nicht ausreichend.</string>
+    <string name="update_finished">Update abgeschlossen</string>
+    <string name="msg_root_warning">Ihr Gerät wurde gerootet oder die offizielle Software wurde manipuliert. Fortsetzen des Systemupdates kann zu Instabilität oder Absturz des Systems führen und die Garantie Ihres Geräts aufheben. Möchten Sie wirklich fortfahren?</string>
+    <string name="multi_image_update">Es sind Image-Updates verfügbar</string>
+    <string name="available_update_list">Liste verfügbarer Updates</string>
+    <string name="downloading_summary">Bitte den Image-Download abbrechen.</string>
+    <string name="msg_erase_userdata_warning">Für dieses Update müssen Benutzerdaten gelöscht werden. Fortfahren?</string>
+    <string name="msg_autoupdate_date_fee_warning">Für das Aktivieren von automatischen Updates können zusätzliche Gebühren anfallen.</string>
+    <string name="invalid_update">Das Update ist ungültig.</string>
+    <string name="file_corrupted">Systemupgrade nicht möglich, da Datei beschädigt ist.</string>
+    <string name="ask_for_apk_check">Möchten Sie nach Anwendungsupdates suchen?</string>
+    <string name="update_ota_self">Softwareupdate wird durchgeführt.</string>
+    <string name="ab_update_fail">Installationsproblem</string>
+    <string name="ab_update_wrong_status">Die Update-Engine ist ausgelastet. Später erneut versuchen oder neu starten.</string>
+    <string name="ab_update_installing">System wird aktualisiert</string>
+    <string name="tag_engineer_mode">Engineer-Modus</string>
+    <string name="engineer_version_incorrect">Ihre Geräteversion ist inkorrekt.</string>
+    <string name="msg_engineer_ota_restore">Tippen, um offizielle Version wiederherzustellen</string>
+    <string name="msg_engineer_ota_restore_warning">Dadurch wird die offizielle Version wiederhergestellt. Fortfahren?</string>
+    <string name="silent_mode_data_fee_warning">Update verfügbar. Für das Herunterladen von Updates können zusätzliche Gebühren anfallen. Updates wenn möglich über WLAN herunterladen.</string>
+    <string name="msg_updating_system">System wird aktualisiert ...</string>
+    <string name="msg_tap_to_reboot">Für Neustart tippen</string>
+    <string name="msg_pause_download">Download pausieren</string>
+    <string name="notification_channel_name">Systemupdate</string>
+    <string name="notification_channel_alert_name">Allgemeine Benachrichtigungen</string>
+</resources>

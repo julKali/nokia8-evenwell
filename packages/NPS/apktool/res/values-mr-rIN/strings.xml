@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">रद्द करा</string>
+    <string name="DONE">झाले</string>
+    <string name="NEXT">पुढील</string>
+    <string name="OK">ओके</string>
+    <string name="PREVIOUS">मागील</string>
+    <string name="alert_empty_desc">कृपया आपले वर्णन जोडा!</string>
+    <string name="alert_warning_title">टिपा</string>
+    <string name="enter_comments">टिप्पण्या प्रविष्ट करा (1000 वर्णे)</string>
+    <string name="extremely_likely">(अत्यंत संभवनीय)</string>
+    <string name="feedback">अभिप्राय</string>
+    <string name="helps_us_improve_our_products">आपला अभिप्राय आम्हाला आमची उत्पादने सुधारण्यात मदत करते!</string>
+    <string name="intro_title">आपण या फोनची मित्राला किंवा सहकर्म्याला कितपत शिफारस करता?</string>
+    <string name="msg_send_after">डिव्हाइस ऑनलाइन असताना संदेश स्वयंचलितपणे अपलोड होईल. आपल्या प्रत्युत्तराबद्दल धन्यवाद.</string>
+    <string name="msg_send_fail">पाठवणे अयशस्वी. डिव्हाइस ऑनलाइन असताना संदेश स्वयंचलितपणे अपलोड होईल. आपल्या प्रत्युत्तराबद्दल धन्यवाद.</string>
+    <string name="no_ask_feedback_again_text">पुन्हा अभिप्राय विचारू नका</string>
+    <string name="no_showagain_text">पुन्हा दर्शवू नका</string>
+    <string name="not_at_all_likely">(अजिबात संभवनीय नाही)</string>
+    <string name="privacy_context_wifi">"प्रिय वापरकर्ते, 
+
+अभिप्राय क्लायन्ट सॉफ्टवेअर वापरण्यासाठी आपले स्वागत आहे. हे उत्पादन वापरण्यापूर्वी कृपया सेवा अटी काळजीपूर्वक वाचा आणि नीट समजून घ्या. 「सहमत」क्लिक करणे म्हणजे आपण या सॉफ्टवेअरचा विशेषाधिकार नीट समजून घेतला आहे आणि तो वापरण्यास सहमत आहात. आपण या अटींशी सहमत नसल्यास, कृपया「निर्गमन करा」बटण दाबा. आपल्याला व्यापक सेवा देण्यासाठी, अ‍ॅपला पुढील परवानग्या आवश्यक आहेत: 
+1. इंटरनेट प्रवेश, अभिप्राय माहिती पाठवण्यासाठी WLAN नेटवर्क 
+2. फोनची प्राथमिक माहिती स्वयंचलितपणे मिळवण्यासाठी IMEI, PSN आणि MNC\\MCC माहिती आयात करा"</string>
+    <string name="select_a_value">मूल्य निवडा</string>
+    <string name="str_agree">सहमत</string>
+    <string name="str_leave">निर्गमन करा</string>
+    <string name="submit_fail">सबमिशन अयशस्वी झाले</string>
+    <string name="submit_success">आपल्या प्रत्युत्तराबद्दल धन्यवाद</string>
+    <string name="thank_your_feedback">आपल्या अभिप्रायाबद्द्ल धन्यवाद!</string>
+    <string name="we_appreciate_your_help">आम्ही Nokia उत्पादने जगभरात सर्वोत्तम बनवण्यात आपण केलेल्या मदतीची प्रशंसा करतो.</string>
+    <string name="we_hope_enjoying_nokia_device">आम्हाला आशा आहे की आपण आपल्या Nokia डिव्हाइसचा आनंद घेता. आपला अभिप्राय आम्हाला खूपच महत्वाचा आहे.</string>
+    <string name="we_will_contact_you_again">आम्ही आपल्याशी भविष्यात पुन्हा संपर्क साधू.</string>
+    <string name="we_will_contact_you_again_enjoy">आम्ही आपल्याला भविष्यात पुन्हा संपर्क साधू. आपल्या नवीन Nokia डिव्हाइसचा आनंद घ्या!</string>
+    <string name="why_you_gave_this_score">कृपया आम्हाला सांगा आपण हे गुण का दिले:</string>
+</resources>

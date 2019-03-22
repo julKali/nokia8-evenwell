@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Način rada za uštedu energije</string>
+    <string name="fih_power_saving_notice_dialog_title">Obavijest</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Otkaži</string>
+    <string name="fih_power_saving_apply_notify">Način rada za uštedu energije je uključen</string>
+    <string name="fih_power_saving_apply_notify_msg">Nema omogućenih stavki</string>
+    <string name="fih_power_saving_apply_ticker_msg">Način rada za uštedu energije je uključen, nema omogućenih stavki</string>
+    <string name="fih_power_saving_data_turn_on_dialog_msg">Uključivanje mehanizma može uzrokovati nemogućnost aplikacija da prime informacije u stvarnom vremenu s interneta kada je ekran isključen.</string>
+    <string name="fih_power_saving_lpm_dialog_msg">Način rada za nisku potrošnju je aktiviran</string>
+    <string name="fih_power_saving_pw_turn_on_dialog_msg">Uključivanje mehanizma može uzrokovati nemogućnost aplikacija s funkcijom alarma ili obavještenja da probude uređaj na vrijeme. Preporučuje se dodavanje tih aplikacija na spisak dozvola za periodično buđenje s njihovih stranica za postavke.</string>
+    <string name="switch_on_text">Uključeno</string>
+    <string name="switch_off_text">Isključeno</string>
+    <string name="fih_power_saving_permission_msg">Za pravilan rad, ova aplikacija zahtijeva dodatne dozvole. Upravljajte povlasticama za「%s」u opciji「Postavke」</string>
+    <string name="fih_power_saving_permission_settings">Settings</string>
+    <string name="fih_power_saving_permission_cancel">Otkaži</string>
+    <string name="fih_power_saving_permission_lpm_notification_title">%s zahtijeva dozvole</string>
+    <string name="fih_power_saving_permission_lpm_notification_summary">Dodirnite da dozvolite</string>
+    <string name="fih_power_saving_permission_first_time_or_always_deny">Za pravilan rad, ova aplikacija zahtijeva odgovarajuće dozvole. Omogućite dozvole kada budu zatražene.</string>
+    <string name="blacklist">Lista zabrana</string>
+    <string name="lock_screen_ap_protect_title">Upravitelj pozadinske aktivnosti</string>
+    <string name="app_block_list">Spisak ograničenih aplikacija</string>
+    <string name="bam_notification_content_title">Postoje aplikacije koje u pozadini troše bateriju.</string>
+    <string name="bam_notification_content_text">Uključite ovu opciju da produžite trajanje baterije.</string>
+    <string name="bam_notification_btn_turnon">UKLJUČI</string>
+    <string name="bam_notification_btn_nevershowthis">NIKAD NE PRIKAZUJ</string>
+    <string name="fih_power_saving_background_activity_text_blacklist">Uključite upravitelja pozadinske aktivnosti da biste produžili vijek trajanja baterije, ali obavještenja o nekim aplikacijama ili e-porukama možda neće biti odmah preuzeta. Možete upravljati vijekom trajanja baterije tako što ćete dodavati ili uklanjati aplikacije s liste zabrana.</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>1,5 секунди</item>
+        <item>30 секунди</item>
+        <item>1 минута</item>
+        <item>2 минути</item>
+        <item>Използвай фабричните</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>Автоматична яркост</item>
+        <item>Use system defined</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 минути</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>Ефективност</item>
+        <item>Stability</item>
+        <item>User Interface</item>
+        <item>Power Saving Effect</item>
+        <item>Other Problems</item>
+        <item>Suggestions</item>
+    </string-array>
+</resources>

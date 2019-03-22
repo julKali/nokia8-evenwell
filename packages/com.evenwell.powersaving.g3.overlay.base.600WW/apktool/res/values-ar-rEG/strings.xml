@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_dialog_ok">موافق</string>
+    <string name="switch_on_text">تشغيل</string>
+    <string name="switch_off_text">إيقاف</string>
+    <string name="lock_screen_ap_protect_title">مدير نشاط الخلفية</string>
+    <string name="app_block_list">قائمة التطبيقات المحجوبة</string>
+    <string name="fih_power_saving_background_activity_text_blacklist">إضافة التطبيقات إلى قائمة التطبيقات المحجوبة قد تطيل عمر البطارية، ولكن قد يتعذر استرداد إشعارات بعض التطبيقات ورسائل البريد الإلكتروني على الفور. يمكنك إدارة عمر البطارية بإضافة التطبيقات أو إزالتها من قائمة التطبيقات المحجوبة.</string>
+</resources>

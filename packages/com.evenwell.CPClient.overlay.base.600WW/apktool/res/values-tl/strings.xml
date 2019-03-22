@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP Client</string>
+    <string name="fih_cp_notify_statusbar_content">Bagong provisioning message</string>
+    <string name="fih_cp_notification_channel_name">Mga pangkalahatang notification</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Ipagpaliban</string>
+    <string name="fih_cp_ui_mode_delete">Tanggalin</string>
+    <string name="fih_cp_apply_dialog_head_msg">Bagong Provisioning</string>
+    <string name="fih_cp_apply_dialog_body_msg">Gusto mo bang ilapat ang bagong configuration?</string>
+    <string name="fih_cp_toast_info_update">Tagumpay na na-update ang profile</string>
+    <string name="fih_cp_toast_info_create">Tagumpay na nakagawa ng profile</string>
+    <string name="fih_cp_editor_apn_name">Pangalan</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_user">Username</string>
+    <string name="fih_cp_editor_apn_password">Password</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS proxy</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS port</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Uri ng pagpapatotoo</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Wala</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP o CHAP</string>
+    <string name="fih_cp_editor_apn_type">Uri ng APN</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_btn_cancel">Kanselahin</string>
+    <string name="fih_cp_btn_next">Susunod</string>
+    <string name="fih_cp_btn_back">Bumalik</string>
+    <string name="fih_cp_apn_not_set">&lt;Hindi natakda></string>
+    <string name="fih_cp_error_title">Babala</string>
+    <string name="fih_cp_error_name_empty">Hindi maaaring walang laman ang field ng Pangalan.</string>
+    <string name="fih_cp_error_apn_empty">Hindi maaaring walang laman ang field ng APN.</string>
+    <string name="fih_cp_error_other">Ang data syntax error.</string>
+    <string name="fih_cp_input_pin_code">Ilagay ang PIN code:</string>
+    <string name="fih_cp_input_pin_code_ok">Ok</string>
+    <string name="fih_cp_input_pin_code_cancel">Kanselahin</string>
+    <string name="fih_cp_input_pin_code_incorrect">Hindi tamang PIN code.</string>
+    <string name="fih_cp_input_pin_code_empty">Pakilagay ang PIN code.</string>
+    <string name="fih_cp_sim_not_available">Hindi available ang SIM card.</string>
+</resources>

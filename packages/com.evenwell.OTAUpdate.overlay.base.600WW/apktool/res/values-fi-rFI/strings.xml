@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Ohjelmiston lataus epäonnistui.</string>
+    <string name="msg_install_system_software_update_3">"
+
+Laitetta ei voi käyttää päivityksen aikana.
+
+Virran katkaisemisella tai ladatun tiedoston poistamisella ohjelmiston päivityksen aikana on odottamattomia seurauksia."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Laitetta ei voi käyttää eikä hätäpuheluita voi soittaa päivityksen aikana.
+
+Virran katkaisemisella tai ladatun tiedoston poistamisella ohjelmiston päivityksen aikana on odottamattomia seurauksia."</string>
+    <string name="msg_unable_to_connect_2">Tämän sovelluksen käyttö edellyttää verkkoyhteyttä. Ota matkapuhelinverkko Asetukset-kohdassa käyttöön.</string>
+    <string name="msg_unable_to_connect_wlan">Tämän sovelluksen käyttö edellyttää verkkoyhteyttä. Ota matkapuhelinverkko tai WLAN Asetukset-kohdassa käyttöön.</string>
+    <string name="msg_no_available_size_card_2">Tämä päivitystiedosto vaatii %s Mt vapaata tilaa. Poista tallennuspaikasta joitakin tiedostoja.</string>
+    <string name="msg_remove_sd_card_2">Ladattua tiedostoa ei voi kirjoittaa tallennuspaikkaan. Tarkista tallennuspaikka.</string>
+    <string name="msg_remove_sd_card_short_2">Tallennuspaikkaa ei voitu käyttää.</string>
+    <string name="menu_enabled">Vain käyttöön otettu ohjelmisto</string>
+    <string name="using_internal_storage">Käytetään sisäistä tallennustilaa</string>
+    <string name="using_external_storage">Käytetään ulkoista tallennustilaa</string>
+    <string name="msg_root_message">"
+
+Normaalia päivitystä ei taata laitteen roottaamisen jälkeen."</string>
+    <string name="msg_responsibility_message">Jos laite on rootattu, käyttäjä vastaa järjestelmän epänormaalista toiminnasta päivityksen jälkeen.</string>
+    <string name="install_fail">Asennusvirhe</string>
+    <string name="install_all">Asenna kaikki</string>
+    <string name="installed_version">Asennettu versio</string>
+    <string name="update_available">Päivitys saatavilla.</string>
+    <string name="apk_update_available">Sovelluspäivitys saatavilla.</string>
+    <string name="recommend">Suosittele</string>
+    <string name="roaming_restriction">Dataverkkovierailun rajoitus</string>
+    <string name="roaming_restriction_summary">Ei voi päivittää dataverkkovierailun rajoituksen vuoksi.</string>
+    <string name="changelog">Muutosloki</string>
+    <string name="apk_update_available_summary">Sovellukseen %s on saatavilla päivitys. Napsauta OK, jos haluat asentaa sen nyt, tai Peruuta, jos haluat hakea päivityksen yhden päivän kuluttua.</string>
+    <string name="apk_removed">Tämä sovellus on poistettu.</string>
+    <string name="apk_available_items">Yhteensä %s käytettävissä olevaa kohdetta</string>
+    <string name="apk_available_item">Yhteensä %s käytettävissä oleva kohde</string>
+    <string name="invalid_update_summary">Päivitys ei kelpaa, hae uudelleen.</string>
+    <string name="recheck">Tarkista uudelleen</string>
+    <string name="image_download_exception_summary">Palvelimeen ei saada yhteyttä, yritä myöhemmin uudelleen.</string>
+    <string name="apk_download_exception">Palvelimeen ei saada yhteyttä</string>
+    <string name="installation_confirmation">Asennuksen vahvistus</string>
+    <string name="apk_need_reboot_summary">Tämä ohjelmistopäivitys käynnistää järjestelmän automaattisesti uudelleen asennuksen suorittamisen jälkeen. Haluatko asentaa nyt?</string>
+    <string name="prepare_to_reboot">Valmistaudu uudelleenkäynnistykseen</string>
+    <string name="prepare_to_reboot_summary">Asennetun ohjelmiston on käynnistettävä laite uudelleen asetusten määrittämistä varten. Suosittelemme, että suoritat uudelleenkäynnistyksen nyt, mutta voit tehdä sen myös myöhemmin.</string>
+    <string name="prepare_to_reboot_force_summary">Asennetun ohjelmiston on käynnistettävä laite uudelleen asetusten määrittämistä varten. Suosittelemme, että suoritat uudelleenkäynnistyksen nyt.</string>
+    <string name="reboot">Käynnistä uudelleen</string>
+    <string name="reboot_fail">Uudelleenkäynnistys epäonnistui</string>
+    <string name="reboot_fail_summary">Ei voi käynnistää uudelleen puuttuvan ohjelmointirajapinnan vuoksi. Käynnistä uudelleen manuaalisesti.</string>
+    <string name="apk_no_avaliable_size">Ei voi ladata, koska sisäisen tallennustilan koko ei riitä.</string>
+    <string name="update_finished">Päivitys suoritettu</string>
+    <string name="msg_root_warning">Laitteesi on rootattu tai virallista ohjelmistoa on peukaloitu. Järjestelmäpäivityksen jatkaminen voi johtaa järjestelmän epävakauteen tai järjestelmän kaatumiseen ja mitätöidä laitteen takuun. Haluatko varmasti jatkaa?</string>
+    <string name="multi_image_update">Joitakin näköistiedostopäivityksiä on saatavilla</string>
+    <string name="available_update_list">Saatavilla olevien päivitysten luettelo</string>
+    <string name="downloading_summary">Peruuta näköistiedoston lataus</string>
+    <string name="msg_erase_userdata_warning">Tämän päivityksen on poistettava käyttäjätietoja. Haluatko jatkaa?</string>
+    <string name="msg_autoupdate_date_fee_warning">Automaattisen päivityksen käyttöönotosta voi aiheutua lisämaksuja.</string>
+    <string name="invalid_update">Päivitys ei kelpaa.</string>
+    <string name="file_corrupted">Järjestelmää ei voi päivittää, koska tiedosto on vioittunut.</string>
+    <string name="ask_for_apk_check">Haluatko hakea sovelluspäivityksiä?</string>
+    <string name="update_ota_self">Ohjelmistopäivitys käynnissä.</string>
+    <string name="ab_update_fail">Asennusongelma.</string>
+    <string name="ab_update_wrong_status">Päivitysmoduuli on varattu. Yritä myöhemmin uudelleen tai käynnistä uudelleen.</string>
+    <string name="ab_update_installing">Päivitetään järjestelmää</string>
+    <string name="tag_engineer_mode">Insinööritila</string>
+    <string name="engineer_version_incorrect">Laiteversio on virheellinen</string>
+    <string name="msg_engineer_ota_restore">Palauta virallinen versio napauttamalla tätä</string>
+    <string name="msg_engineer_ota_restore_warning">Tämä palauttaa virallisen version. Haluatko jatkaa?</string>
+    <string name="silent_mode_data_fee_warning">Päivitys saatavilla. Päivitysten lataamisesta voi aiheutua lisämaksuja. Lataa päivitykset mahdollisuuksien mukaan WLAN-yhteyden kautta.</string>
+    <string name="msg_updating_system">Päivitetään järjestelmää...</string>
+    <string name="msg_tap_to_reboot">Käynnistä uudelleen napauttamalla tätä</string>
+    <string name="msg_pause_download">Keskeytä lataus</string>
+    <string name="notification_channel_name">Järjestelmäpäivitys</string>
+    <string name="notification_channel_alert_name">Yleiset ilmoitukset</string>
+</resources>

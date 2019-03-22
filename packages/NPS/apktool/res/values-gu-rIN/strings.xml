@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">રદ કરો</string>
+    <string name="DONE">પૂર્ણ થયું</string>
+    <string name="NEXT">આગલું</string>
+    <string name="OK">ઓકે</string>
+    <string name="PREVIOUS">પહેલાંનું</string>
+    <string name="alert_empty_desc">કૃપા કરીને તમારું વર્ણન ઉમેરો!</string>
+    <string name="alert_warning_title">ટિપ્સ</string>
+    <string name="enter_comments">ટિપ્પણીઓ સામેલ કરો (1000 વર્ણ)</string>
+    <string name="extremely_likely">(બહુ સંભવિત)</string>
+    <string name="feedback">પ્રતિસાદ</string>
+    <string name="helps_us_improve_our_products">તમારી પ્રતિક્રિયા અમને અમારા ઉત્પાદનો સુધારવામાં મદદ કરે છે!</string>
+    <string name="intro_title">તમે મિત્ર અથવા સાથીદારને આ ફોનની ભલામણ કરશો તે માટે કેટલી શક્યતા?</string>
+    <string name="msg_send_after">ઉપકરણ ઑનલાઇન હશે, ત્યારે સંદેશ સ્વત: અપલોડ થશે. તમારા જવાબ માટે આભાર.</string>
+    <string name="msg_send_fail">મોકલવામાં નિષ્ફળ થયા. ઉપકરણ ઑનલાઇન હશે, ત્યારે સંદેશ સ્વત: અપલોડ થશે. તમારા જવાબ માટે આભાર.</string>
+    <string name="no_ask_feedback_again_text">પ્રતિસાદ ફરી પૂછશો નહીં</string>
+    <string name="no_showagain_text">ફરીથી બતાવશો નહીં</string>
+    <string name="not_at_all_likely">(સંપૂર્ણપણે અસંભવ)</string>
+    <string name="privacy_context_wifi">"પ્રિય વપરાશકર્તાઓ, 
+
+પ્રતિભાવ ક્લાયન્ટ સૉફ્ટવેરનો ઉપયોગ કરવામાં તમારું સ્વાગત છે. આ ઉત્પાદનનો ઉપયોગ કરતા પહેલાં, કૃપા કરીને સેવાના નિયમો કાળજીપૂર્વક વાંચો અને બરાબર સમજો. 「સંમત」પર ક્લિક કરવાનો અર્થ છે કે તમે આ સૉફ્ટવેરનો લાભ બરાબર સમજ્યા છો અને તેનો ઉપયોગ કરવા સાથે સંમત થયા છો. જો તમે આ નિયમો સાથે સંમત ન થતા હો, તો કૃપા કરીને 「બહાર」બટન દબાવો. તમને સર્વગ્રાહી સેવાઓ પ્રદાન કરવા માટે, ઍપ્લિકેશન માટે નિમ્નલિખિત પરવાનગીઓ આવશ્યક છે: 
+1. પ્રતિભાવ માહિતી મોકલવા માટે ઇન્ટરનેટ, WLAN નેટવર્કની ઍક્સેસ 
+2. ફોનની પ્રાથમિક માહિતી સ્વત: મેળવવા માટે IMEI, PSN અને MNC\\MCC માહિતી લાવવી"</string>
+    <string name="select_a_value">નીચે આપેલમાંથી પસંદ કરો</string>
+    <string name="str_agree">સંમત</string>
+    <string name="str_leave">બહાર</string>
+    <string name="submit_fail">સબમિશન નિષ્ફળ થયું</string>
+    <string name="submit_success">તમારા જવાબ માટે આભાર</string>
+    <string name="thank_your_feedback">તમારી પ્રતિક્રિયા બદલ આભાર!</string>
+    <string name="we_appreciate_your_help">Nokia ઉત્પાદનોને વિશ્વમાં શ્રેષ્ઠ બનાવવામાં તમારી મદદની અમે પ્રશંસા કરીએ છીએ.</string>
+    <string name="we_hope_enjoying_nokia_device">અમને આશા છે કે તમે તમારા Nokia ઉપકરણનો આનંદ માણી રહ્યાં હશો. તમારી પ્રતિક્રિયા અમારા માટે ખૂબ જ મહત્વપૂર્ણ છે.</string>
+    <string name="we_will_contact_you_again">અમે ભવિષ્યમાં ફરીથી તમારો સંપર્ક કરીશું.</string>
+    <string name="we_will_contact_you_again_enjoy">અમે ભવિષ્યમાં ફરીથી તમારો સંપર્ક કરીશું. તમારા નવા Nokia ઉપકરણનો આનંદ માણો!</string>
+    <string name="why_you_gave_this_score">કૃપા કરીને અમને કહો કે તમે શા માટે આ સ્કોર આપ્યો:</string>
+</resources>

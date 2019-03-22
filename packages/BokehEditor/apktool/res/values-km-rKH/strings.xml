@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">កម្មវិធី​កែ​ភាពព្រិល</string>
+    <string name="image_not_null">ផ្លូវ​នៃ​រូប​មិន​អាច​គ្មាន​តម្លៃ</string>
+    <string name="no_bokeh_type">គ្មាន​ប្រភេទ​ព្រិល</string>
+    <string name="no_mpo_file">គ្មាន​ឯកសារ MPO</string>
+    <string name="refocus_type_description">រូបថត​នេះ​ត្រូវ​បាន​ថត​ក្នុង​ទម្រង់​បញ្ឈរ​ជាមួយ​ប្លង់​ជ្រៅ​ដើម្បី​ផ្ដោត​ឡើងវិញ។</string>
+    <string name="refocus_type_name">ទម្រង់​បញ្ឈរ</string>
+    <string name="save">រក្សាទុក</string>
+    <string name="save_success">បានរក្សាទុកដោយជោគជ័យ</string>
+    <string name="saving_photos">កំពុង​រក្សាទុក​រូបថត...</string>
+</resources>

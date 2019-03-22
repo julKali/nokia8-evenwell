@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következővel: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="hmd_service_terms_message">HMD GLOBAL SZOLGÁLTATÁSI FELTÉTELEK &lt;br/> &lt;br/>Hatálybalépés napja: szeptember 1, 2017 &lt;br/> &lt;br/>&lt;b>1. Elfogadás&lt;/b> &lt;br/> &lt;br/>A jelen HMD Global Térképek Szolgáltatási Feltételek az Adatvédelmi Irányelvvel és a Szolgáltatásokban szereplő, esetleges további feltételekkel és információkkal (együttesen: “Feltételek”) együtt határozzák meg a szolgáltatás, oldal, tartalom és szoftver (együttesen: “Szolgáltatás”) Ön általi használatát. A Szolgáltatásra való</string>
+    <string name="nokia_legal_title">HMD jogi információ</string>
+    <string name="positive">OK</string>
+    <string name="privacy_activity">HMD adatvédelmi irányelvek</string>
+    <string name="privacy_context">"A HMD Global termékekről és szolgáltatásokról szóló adatvédelmi irányelve
+
+Hatálybalépés dátuma: 2018. november 1.
+
+Törődünk az adatai védelmével
+
+A HMD Global Oy elkötelezett az adatai védelmének tisztelete iránt, és megfelel a vonatkozó adatvédelmi törvényeknek. Ez az adatvédelmi irányelv („Irányelv”) azt mutatja be, hogy miként gyűjtjük és használjuk a személyes adatait, amikor a HMD az adatkezelő, vagy ahol ennek az Irányelvnek az alkalmazhatóságára hivatkozunk. „Személyes adatok” alatt az Önre vagy más, azonosítható személyre vonatkozó információkat értjük.
+
+A jelen Irányelv kiegészítéseként további adatvédelmi adatokat nyújtunk Önnek, amelyek egy bizonyos termékre vagy szolgáltatásra vonatkoznak, és további értesítéseket biztosítunk, miközben a termékeinket vagy a szolgáltatásainkat használja. Ha különbség van az ilyen értesítések és ezen Irányelv között, akkor az értesítések az irányadók.
+
+Kérjük, szánjon egy pillanatot arra, hogy megismerkedjen az Irányelveinkkel, és ha bármilyen kérdése felmerül, akkor forduljon hozzánk.
+
+Milyen információkat gyűjtünk?
+
+Személyes adatait és egyéb adatait akkor gyűjtjük, amikor megvásárolja, használja vagy regisztrálja egy termékünket vagy szolgáltatásunkat, részt vesz egy kampányban vagy kutatásban, vagy más módon kapcsolatba lép velünk. Ez a következő kategóriákat tartalmazza:
+
+•　Termék- és szolgáltatásaktiválások. A HMD-termékek és -szolgáltatások elektronikus aktiválást igényelhetnek, ahol a készüléket és az alkalmazás típusát, valamint az egyedi eszköz, az alkalmazás, a hálózat és az előfizetés azonosítóját a rendszer elküldi a HMD vállalatnak.
+
+•　A termékek és a szolgáltatások használata.
+
+　o　Amikor hozzáfér az online szolgáltatásainkhoz, akkor a webszervereink automatikusan létrehoznak egy nyilvántartást a látogatásáról. Ezek a nyilvántartások jellemzően az IP-címet, a hozzáférési időket, a linkelt webhelyeket, a látogatott oldalakat, a használt hivatkozásokat és funkciókat, a megtekintett vagy kért tartalmat, a böngészőt vagy az alkalmazástípust, a nyelvet és más hasonló információkat tartalmaznak. Alkalmazásaink időnként kapcsolatba léphetnek szervereinkkel, például frissítések ellenőrzése vagy a szolgáltatás használatával kapcsolatos adatok elküldése céljából.
+
+　o　Fejlesztési programok. Felkérhetjük Önt, hogy csatlakozzon az önkéntes termék- és szolgáltatásfejlesztési vagy kutatási programokhoz, ahol részletes információkat gyűjtünk. További információért tekintse meg a Felhasználói élmény program kiegészítését.
+
+　o　Helymeghatározási és helyadatok. A helyalapú szolgáltatások a műholdas, a mobil, a Wi-Fi vagy más hálózati alapú helymeghatározási módszerek használatával határozzák meg az Ön pontos vagy megközelítő helyét. Ezeknek a technológiáknak a használata során a rendszer a helyadatok és az egyedi eszközök, valamint a mobil, Wi-Fi vagy egyéb hálózati azonosítókat biztosítja a HMD részére. Ezeket az információkat a beleegyezése nélkül nem használjuk személyazonosításra.
+
+•　Az Ön által megadott adatok. Amikor létrehoz egy fiókot, vásárol, szolgáltatásokat igényel, részt vesz egy kutatásban vagy kampányokban, vagy más módon kapcsolatba lép velünk, kérhetünk olyan információkat, mint például a neve, az e-mail-címe, a telefonszáma, az utcaneve, a felhasználóneve és a jelszavai, az eszközére vonatkozó adatai, a kora, a neme és a nyelve, a bankszámlaszáma, a hitelkártya-adatai és egyéb hasonló pénzügyi adatai. Továbbá nyilvántartjuk a – például a helyadatokra, a marketingre és a személyes adatok megosztására vonatkozó – hozzájárulásait, preferenciáit és beállításait is.
+
+•　Harmadik felű forrásból származó információk. Bizonyos adatokat harmadik féltől származó közösségi hálózati szolgáltatásoktól kapunk, például amikor egy közösségi hálózati fiók bejelentkezési adataival jelentkezik be a fiókjába. További információért tekintse meg a Nokia-telefonfiók kiegészítését.
+
+•　A velünk végzett tranzakciói. Nyilvántartásainkban rögzítjük a vásárlásait, a letöltéseit, a velünk megosztott tartalmait, a kéréseit, az Önnek nyújtott termékeket és szolgáltatásokat, a fizetési és a szállítási részleteket, a kapcsolatait, kommunikációját és egyéb velünk történő interakcióit. Az alkalmazandó jogszabályoknak megfelelően rögzíthetjük, amikor kapcsolatba lép az ügyfélszolgálatunkkal vagy más hasonló kapcsolattartási pontokkal.
+
+Miért dolgozzuk fel a személyes adatokat?
+
+A HMD az alábbi célokból feldolgozhatja a személyes adatait. Egy vagy több célt egyidejűleg is alkalmazhatunk.
+
+•　Termékek és szolgáltatások biztosítása. A személyes adatait felhasználjuk termékeink és szolgáltatásaink biztosításához, a kérelmek feldolgozásához, vagy más olyan tevékenységhez, amely szükséges az Ön és a HMD között létrejött szerződés betartásához, a termékeink és a szolgáltatásaink funkcióinak és biztonságának biztosításához, az Ön azonosításához, valamint ahhoz, hogy megelőzzük és kivizsgáljuk a csalásokat, és más helytelen használatot. Például az eszközaktiválási adatok használatával aktiváljuk a készülék jótállását, és vonatkozó ügyfélszolgálati szolgáltatásokat nyújtunk Önnek.
+
+•　A termékek és a szolgáltatások személyre szabása. Személyes adatait arra használjuk fel, hogy személyre szabjuk az Ön által használt termékeinket és szolgáltatásainkat, és hogy relevánsabb szolgáltatásokat nyújtsunk, amelyek jobban megfelelnek a profiljának és az érdeklődési körének, például abból a célból, hogy javaslatokat tegyünk, és személyre szabott tartalmakat és hirdetéseket jelenítsünk meg a szolgáltatásainkban.
+
+•　Fiókok. Egyes szolgáltatásokhoz fiókra van szükség, hogy segítsünk a tartalom és a beállítások kezelésében. További információért tekintse meg Nokia-telefonfiókunk kiegészítését.
+
+•　A termékek és a szolgáltatások fejlesztése. Személyes adatait termékeink, szolgáltatásaink, ügyfélszolgálatunk, az értékesítések és a marketingünk fejlesztésére használjuk. Például csatlakozhat a Felhasználói élmény programhoz, így biztosítja számunkra a személyes adatait termékeink és szolgáltatásaink minősége és teljesítménye javításának céljából. Ha bővebben szeretne olvasni arról, hogy miként használjuk fel személyes adatait a termékeink és szolgáltatásaink fejlesztéséhez, akkor tekintse meg a Felhasználói élmények kiegészítését. Társíthatjuk az összegyűjtött személyes adatait egy adott HMD-termék és/vagy -szolgáltatás használati adataival kapcsolatban olyan személyes adatokkal, amelyeket rögzítettünk Önről, kivéve, ha az összegyűjtött adatokat más célból rögzítettük.
+
+•　Kommunikáció Önnel. Személyes adatait felhasználhatjuk arra, hogy kapcsolatba lépjünk Önnel, például tájékoztassuk Önt arról, hogy szolgáltatásaink megváltoztak, vagy kritikus figyelmeztetéseket és hasonló értesítéseket küldjünk Önnek a termékeinkről és/vagy a szolgáltatásainkról, és arra, hogy az ügyfélszolgálati ügyekben felvegyük Önnel a kapcsolatot. Ha bővebben szeretne olvasni arról, hogy miként használjuk fel személyes adatait az ügyfélszolgálati szolgáltatások biztosításához, akkor olvassa el a Nokia mobil-ügyfélszolgálati kiegészítését.
+
+•　Marketing. Felvehetjük Önnel a kapcsolatot, hogy tájékoztassuk Önt az általunk kínált új termékekről, szolgáltatásokról vagy promóciókról, valamint piackutatás céljából, ha beleegyezett, vagy más módon engedélyezett. Személyes adatait felhasználhatjuk arra, hogy személyre szabjuk az ajánlatunkat, és hogy relevánsabb szolgáltatásokat nyújtsunk, amelyek jobban megfelelnek a profiljának és az érdeklődési körének marketingcélokból, például arra, hogy személyre szabott tartalmat jelenítsünk meg, és hogy tartozékokkal kapcsolatos javaslatokat biztosítsunk. Ez magában foglalhatja a HMD és harmadik felek tartalmainak megjelenítését.
+
+Melyek a feldolgozás alapjai?
+
+A HMD csak akkor dolgozza fel a személyes adatait, ha ez jogszerű. A feldolgozás a következő jogalapon alapul:
+
+•　Szerződés. A személyes adatok feldolgozása szükséges az Ön és a HMD közötti szerződés teljesítéséhez. A személyes adatait felhasználjuk termékeink és szolgáltatásaink biztosításához, valamint a funkciók és a biztonság biztosításához. Ha nem adja meg a szükséges információkat, az azt jelenti, hogy nem tudjuk Önnek biztosítani a terméket vagy a szolgáltatást. A szerződés a feldolgozás alapja, például akkor, amikor:
+
+　o　Gyűjtjük a szükséges személyes adatokat a fizetés feldolgozásához és a vásárlás biztosításához.
+
+　o　Kapcsolatba lépünk Önnel, például tájékoztatjuk a szoftverfrissítésekről, kritikus figyelmeztetéseket és hasonló értesítéseket küldünk Önnek a termékeinkről és/vagy a szolgáltatásainkról, és ügyfélszolgálattal kapcsolatos ügyekben felvesszük Önnel a kapcsolatot.
+
+•　Törvényes érdekek.  A HMD akkor dolgozza fel a személyes adatokat, amikor ez a HMD által végrehajtott törvényes érdekekhez szükséges. A törvényes érdekek olyan érdekekre utalnak, amelyek törvényesek, és fontosak a HMD számára. A törvényes érdekeken alapuló feldolgozási tevékenységek során a jogait figyelembe vesszük és egyeztetjük őket a HMD érdekeivel. Ha felveszi velünk a kapcsolatot, akkor további tájékoztatást nyújtunk az egyensúlytesztekről. Önnek jogában áll kifogást emelni a törvényes érdekeken alapuló feldolgozással szemben. A „Mik a jogai?” című szakaszban bővebben olvashat arról, hogy mik a jogai, és hogyan veheti fel velünk a kapcsolatot. A törvényes érdekek nyújtják az alapját az olyan feldolgozásnak, amikor például:
+
+　o　A HMD-termékeket és -szolgáltatásokat elektronikusan aktiválja, és a készüléket és az alkalmazás típusát, valamint az egyedi eszköz, az alkalmazás, a hálózat és az előfizetési azonosítóját a rendszer elküldi a HMD vállalatnak.
+
+　o　Kapcsolatba lépünk Önnel, hogy tájékoztasson Önt a korábban megvásárolt hasonló termékekről vagy szolgáltatásokról.
+
+　o　Személyes adatait felhasználhatjuk arra, hogy személyre szabjuk az ajánlatunkat, és hogy relevánsabb szolgáltatásokat nyújtsunk, amelyek jobban megfelelnek a profiljának és az érdeklődési körének, például arra, hogy javaslatokat tegyünk, valamint személyre szabott tartalmakat és marketinget jelenítsünk meg a szolgáltatásainkban. Ez magában foglalhatja a harmadik felű tartalmak megjelenítését.
+
+　o　Elemezzük az Ön érdeklődési körére, vásárlási viselkedésére és visszajelzésére vonatkozó adatokat üzleti tevékenységünk, termékeink és szolgáltatásaink fejlesztése céljából.
+
+　o　A személyes adatokat a csalás és más visszaélések megakadályozása és kivizsgálása céljából dolgozzuk fel, valamint a HMD törvényes érdekeinek védelme érdekében, például a polgári vagy büntetőjogi eljárásokban.
+
+•　Beleegyezés. A személyes adatok feldolgozása az Ön beleegyezésén alapulhat. Ilyen esetekben a személyes adatok feldolgozása előtt a hozzájárulását kérjük. A beleegyezés mindig önkéntes, és bármikor visszavonhatja a beleegyezését. A beleegyezés visszavonása nem befolyásolja a visszavonás előtti beleegyezés alapján történő feldolgozás jogszerűségét. Nyilvántartjuk a – például a marketingre, a helyadatokra és a személyes adatok megosztására vonatkozó – hozzájárulásait, preferenciáit és beállításait. A beleegyezés a feldolgozás alapja az alábbi helyzetekben:
+
+　o　Ön részt vesz a Felhasználói élmény programban, és adatokat gyűjtünk arról, hogy miként használja az egyes HMD-termékeket és/vagy -szolgáltatásokat. Az adatokat arra használjuk fel, hogy javítsuk termékeinket és szolgáltatásainkat. A beleegyezését az eszköz beállításaiban vonhatja vissza. Kérjük, további információért tekintse meg a Felhasználói élmény program kiegészítését.
+
+　o　Feliratkozik a levelezőlistára, hogy értesüljön az új termékekről, szolgáltatásokról és promóciókról. A hírlevél alján található visszavonási link használatával visszavonhatja a marketingcélra történő használat engedélyét.
+
+　o　Ehhez a szolgáltatáshoz fiókra van szükség, hogy segítsünk a tartalom és a beállítások kezelésében. A fiók beállításaiban kezelheti a feldolgozási hozzájárulásait.
+
+　o　A HMD-termékek és -szolgáltatások használata az Ön beleegyezése alapján magában foglalhatja a helyadatok felhasználását. Az eszköz vagy az alkalmazás beállításaiban vonhatja vissza a helyadatok feldolgozására vonatkozó beleegyezését.
+
+•　Jogi kötelezettség Előfordulhat, hogy a HMD-nek fel kell dolgoznia a személyes adatait ahhoz, hogy megfeleljen azoknak a jogi követelményeknek, amelyek hatálya alá tartozik a HMD. A HMD-nek például jogi kötelezettsége lehet arra, hogy a hatóságok kérésre közzétegye az Ön személyes adatait.
+
+Megosztjuk a személyes adatokat?
+
+A személyes adatait nem adjuk el, nem adjuk bérbe, és nem biztosítjuk őket harmadik feleknek. A személyes adatait csak az alábbi helyzetekben adjuk ki harmadik félnek:
+
+•　HMD-vállalatok és felhatalmazott harmadik felek. Megoszthatjuk személyes adatait más HMD-vállalatokkal vagy hitelesített harmadik felekkel, akik a HMD megbízásából személyes adatokat dolgoznak fel a jelen Irányelvben ismertetett célokból. Ez magában foglalhatja például a hálózati szolgáltatón keresztüli, vagy más módon történő számlázást, a megvásárolt termékek kiszállítását, a szolgáltatásnyújtást, beleértve az ügyfélszolgálatot, a fogyasztói adatok kezelését és elemzését, a hitelbírálatokat, valamint a kutatásokat. Egy HMD-termék vásárlásakor lehetséges, hogy információcserére van szükség a hálózati szolgáltatóval. Ezek a harmadik felek nem használhatják az Ön személyes adatait semmilyen más célra. Megköveteljük tőlük, hogy a jelen Irányelvvel összhangban járjanak el, és megfelelő biztonsági intézkedéseket alkalmazzanak a személyes adatok védelme érdekében.
+
+•　Marketing. Megoszthatjuk személyes adatait marketingpartnereinkkel, például marketingkampányok kezelése céljából. Közös marketing- és egyéb jellegű kommunikációt folytathatunk partnereinkkel. A dupla vagy szükségtelen kommunikáció elkerülése és az üzenet személyre szabása érdekében szükség lehet arra, hogy a HMD által összegyűjtött adatokat összevessük a partner által összegyűjtött adatokkal, ha ezt a törvény megengedi. Marketingpartnereink nem használhatják a személyes adatokat semmilyen más célra. Megköveteljük tőlük, hogy a jelen Irányelvvel összhangban járjanak el, és megfelelő biztonsági intézkedéseket alkalmazzanak a személyes adatok védelme érdekében.
+
+•　A személyes adatok nemzetközi átvitele. Termékeinket és szolgáltatásainkat a világ számos országában és régiójában található erőforrások és szerverek segítségével biztosítjuk, beleértve az Európai Uniót, az Amerikai Egyesült Államokat, Szingapúrt és Kínát. Így az Ön személyes adatait továbbíthatjuk a termékeink és a szolgáltatásaink használati országán kívülre is, a nemzeti határokon keresztül, beleértve az Európai Gazdasági Térségen (EGT) kívüli országokat is, amelyek nem rendelkeznek olyan jogszabályokkal, amelyek speciális védelmet nyújtanak a személyes adatok tekintetében, vagy amelyek eltérő adatvédelmi rendeletekkel rendelkeznek. Ilyen esetekben biztosítjuk az ilyen átvitel jogalapját, és a személyes adatok az alkalmazandó jogszabályok által előírt megfelelő védelmét, például az illetékes hatóságok által elfogadott szabványos megállapodások (szükség szerinti) használatával és egyéb megfelelő technikai és szervezeti információbiztonsági intézkedések alkalmazásával.
+
+•　Kötelező adatszolgáltatás. A kötelező jogszabályok alapján lehetséges, hogy arra köteleznek minket, hogy a személyes adatait átadjuk bizonyos hatóságoknak vagy más harmadik feleknek, például azon országok bűnüldöző szerveinek, ahol mi vagy a mi nevünkben eljáró harmadik személyek tevékenykednek. Az alkalmazandó jognak megfelelően nyilvánosságra hozhatjuk és más módon feldolgozhatjuk a személyes adatait a HMD törvényes érdekeinek védelme érdekében, például polgári vagy büntetőjogi eljárásokban.
+
+•　Összeolvadások és felvásárlások. Ha úgy döntünk, hogy bizonyos országokban értékesítjük, megvásároljuk, egyesítjük vagy más módon átszervezzük üzleti tevékenységünket, akkor ez magában foglalhatja azt, hogy felfedjük a személyes adatokat a leendő vagy tényleges vásárlók és a tanácsadóik számára, illetve hogy személyes adatokat kapunk az eladóktól és a tanácsadóiktól.
+
+Hogyan kezeljük a gyermekek adatvédelmét?
+
+A HMD-termékek és -szolgáltatások általában általános közönségnek készülnek. A HMD nem gyűjt tudatosan adatokat a gyermekekről a szüleik vagy gondviselőik beleegyezése nélkül.
+
+Milyen lépéseket teszünk a személyes adatok védelme érdekében?
+
+Az adatvédelem és a biztonság kulcsfontosságú szempont a termékeink és szolgáltatásaink létrehozása és biztosítása szempontjából. A magánélet és a biztonsággal kapcsolatos kérdések kezelésére külön felelősségi kört vezettünk be. Belső irányelveinket és útmutatásainkat megfelelő tevékenységekkel hajtjuk végre, beleértve a proaktív és reaktív kockázatkezelést, a biztonsági és adatvédelmi technikát, a képzést és az értékeléseket. Megfelelő lépéseket teszünk az online biztonság, a fizikai biztonság, az adatvesztés és más hasonló kockázatok kezelésére, figyelembe véve a feldolgozás során fennálló kockázatot és a védett adatok természetét. Továbbá korlátozzuk a személyes adatokat tartalmazó adatbázisainkhoz való hozzáférést azon jogosult személyek számára, akiknek az ilyen információkra jogos igényük van.
+
+Hogyan használjuk a cookie-kat?
+
+A HMD cookie-kat és más hasonló technológiákat használ a weboldalak működtetésére és fejlesztésére. Cookie-kat használunk a hirdetések személyre szabáshoz és megjelenítéséhez. Egyes HMD-webhelyek harmadik felű hirdetési technológiákat – például a DoubleClick szolgáltatást – használnak a hirdetések megjelenítésére.
+
+Domainjeink tartalmazhatnak olyan harmadik féltől származó elemeket is, amelyek cookie-kat állítanak be egy harmadik fél nevében, például a harmadik felű közösségi hálózatára vonatkozóan. A cookie-k használatával kapcsolatos további információkért lásd a Cookie-kra vonatkozó irányelvet.
+
+Mennyi ideig őrizzük meg az adatokat?
+
+Megfelelő lépéseket teszünk a tulajdonunkban lévő személyes adatok pontos megőrzésére és a helytelen vagy felesleges személyes adatok törlésére.
+
+A megőrzési idő az adatok típusától és a kérdéses szolgáltatástól vagy terméktől függően változik. A személyes adatok megőrzési idejét az alábbi kritériumok szerint határozzuk meg:
+
+•　Termék- és szolgáltatásaktiválási információk (például az egyedi eszköz-, az alkalmazás-, a hálózati és az előfizetési azonosító): Az adatokat a jótállási időszak során és a garanciális időszak végét követő 24 hónapig őrizzük meg.
+
+•　A Felhasználói élmény program adatai (például IMEI, stabilitás, akkumulátorállapot): Az adatokat az adatok összegyűjtése után 6 hónapig őrizzük meg, vagy addig, amíg vissza nem vonja a feldolgozásról szóló engedélyt.
+
+•　Fiókadatok (például név, e-mail-cím, felhasználónevek, jelszavak): Az adatok mindaddig megmaradnak, amíg a fiók aktív. Ha a fiók 24 hónapja inaktív, az adatok törlésre kerülnek.
+
+•　Vásárlási információk (például vásárlások és letöltések, bankszámlaszám, hitelkártya-adatok): A számviteli rendelkezések betartása érdekében az adatokat az adatgyűjtést követő 10 évig őrizzük meg.
+
+•　Kommunikációs és interakciós információk (például név, e-mail-cím, kérések):\u0009Az adatokat az adatok összegyűjtése után 24 hónapig őrizzük meg.
+
+Ezenkívül a HMD-t törvény kötelezi arra, hogy megőrizze az adatokat a kötelező jogszabályoknak való megfelelés érdekében.
+
+Milyen jogai vannak?
+
+Az alább felsoroltak szerint joga van tudni, hogy milyen személyes adatokat tárolunk Önről. Önnek jogában áll kitölteni vagy frissíteni a hiányos, helytelen vagy elavult személyes adatokat. Bizonyos esetekben jogosult a személyes adatainak a törlésre, a korlátozásra, az adatok hordozhatóságára, vagy arra, hogy tiltakozzon a személyes adatainak feldolgozásával szemben. Jogait úgy érvényesítheti, ha az eszköz vagy a szolgáltatások profilkezelési eszközein keresztül kezeli a fiókját és a választásait, vagy ha felveszi velünk a kapcsolatot. Bizonyos esetekben, különösen akkor, ha törölni szeretné a személyes adatai, vagy le szeretné állítani a feldolgozást, akkor ez azt is jelentheti, hogy nem tudjuk tovább folytatni a szolgáltatások biztosítását.
+
+•　Hozzáférési jog. Joga van tudni, hogy milyen személyes adatokat tárolunk Önről, vagy ahhoz, hogy megerősítést kapjon arról, hogy nem dolgozzuk fel az Ön személyes adatait. Adatait a fiókja beállításain keresztül érheti el. Az adatokhoz való hozzáférést kérheti az alábbi elérhetőségeken is.
+
+•　Helyesbítéshez való jog.  Önnek jogában áll kiegészíteni a hiányos, helytelen vagy elavult személyes adatokat. A fiókja beállításaiban korrigálhatja és frissítheti adatait, és javasoljuk, hogy ezt tegye meg időről időre, hogy a személyes adatai naprakészek legyenek. Az adatok kiigazítását vagy kitöltését kérheti az alábbi elérhetőségeken is.
+
+•　Az elfeledtetéshez való jog.  Önnek jogában áll töröltetni a személyes adatait bizonyos helyzetekben, például amikor az adatok feldolgozása már nem szükséges azokból a célokból, amelyek miatt összegyűjtöttük őket, vagy ha a feldolgozás az Ön beleegyezésén alapul, és vissza szeretné vonni a beleegyezését, és nincs más alapja a feldolgozásnak. Kérjük, vegye figyelembe, hogy az adatok szükségesek lehetnek az Ön és a HMD közötti szerződés teljesítéséhez, vagy a HMD-re kényszerítő jogalap vonatkozhat bizonyos adatok megőrzésével kapcsolatban. Ha törölni szeretné az ilyen adatokat, akkor ez azt is jelentheti, hogy nem tudjuk tovább folytatni a szolgáltatások biztosítását. Adatait a fiókja beállításaiban, vagy az alábbi kapcsolatfelvételi adatok egyikén is törölheti.
+
+•　Tiltakozáshoz való jog. Ha a személyes adatainak feldolgozása törvényes érdekeken alapul, akkor jogában áll kifogást emelni az ilyen feldolgozás ellen. Kérheti, hogy abbahagyjuk a személyes adatai közvetlen marketing vagy profilkészítés céljából történő feldolgozását. A hírlevelünk alján található leiratkozási linkre kattintva leiratkozhat a hírlevélről. Továbbra is elküldhetünk kritikus figyelmeztetéseket és egyéb fontos értesítéseket. A tiltakozáshoz való jog értelmében az adatait a fiókja beállításaiban, vagy az alábbi kapcsolatfelvételi adatok használatával is törölheti.
+
+•　A feldolgozás korlátozásához való jog.  Bizonyos esetekben Önnek jogában áll, hogy korlátozza az adatai feldolgozását. Ha a feldolgozást korlátozta, az adatokat a továbbiakban csak tárolni foguk, és nem fogjuk tovább feldolgozni. Ha például vitatja az adatok pontosságát, akkor jogában áll, hogy a megtámadott adatok feldolgozási korlátozásra kerüljenek, amíg biztosítjuk az adatok pontosságát. A tiltakozáshoz való jog értelmében az adatait az alábbi kapcsolatfelvételi adatok használatával törölheti.
+
+•　Adatátviteli jog.  Ha a feldolgozás automatizált módon történik, és szerződésen vagy beleegyezésen alapul, akkor Önnek jogában áll az, hogy gépileg olvasható formában megszerezze a HMD-nek átadott adatokat, hogy átvigye egy másik vezérlőre. Ezt a fiókja beállításaiban, vagy az alábbi kapcsolatfelvételi adatok egyikén is elvégezheti.
+
+Ha nem tudja érvényesíteni a jogait közvetlenül a használ HMD-termékeken és szolgáltatásokon belül, akkor vegye fel velünk a kapcsolatot az alábbi elérhetőségeken:
+
+•　Nokia telefonok fiókportálja: www.nokia.com/phones/sso/login
+
+•　Vevőszolgálat: www.nokia.com/en_int/phones/support#contact-us
+
+•　Támogatási alkalmazás a Nokia-telefonon
+
+•　Posta: HMD Global Oy, c/o Privacy, Bertel Jungin aukio 9, 02600 Espoo, Finland (Finnország)
+
+Ha bővebben szeretne tájékozódni a fent említett harmadik felekkel, harmadik országokkal és óvintézkedésekkel kapcsolatban, akkor vegye fel velünk a kapcsolatot. Ha úgy véli, hogy a HMD – az Adatvédelmi Irányelvben és a vonatkozó kiegészítésekben meghatározott elvektől függetlenül – sérti az Ön jogait az alkalmazandó adatvédelmi jogszabályok szerint, akkor jogosult arra, hogy panaszt nyújtson be az adatvédelmi hatósághoz.
+
+Ki kezeli az Ön személyes adatait?
+
+A HMD Global Oy a személyes adatok adatkezelője, amikor a Nokia telefonnal, a Nokia-telefonfiókkal és egyéb kapcsolódó szolgáltatásokkal kapcsolatban feldolgozzuk a személyes adatait. Adatvédelmi tisztviselőnk Jari Koljonen.
+
+A HMD adatvédelmi gyakorlatával kapcsolatos kérdésekkel a következő címen veheti fel velünk a kapcsolatot:
+
+HMD Global Oy, c/o Privacy, Bertel Jungin aukio 9, 02600 Espoo, Finland (Finnország)
+
+Termékeink vagy szolgáltatásaink tartalmazhatnak olyan, más cégek weboldalaira és szolgáltatásaira mutató linkeket, amelyek saját adatvédelmi irányelvekkel rendelkeznek. Az ilyen webhelyekre és szolgáltatásokra mutató összes link kizárólag az Ön kényelmét szolgálja. Mielőtt személyes adatait elküldi egy harmadik félnek, a HMD azt javasolja, hogy szánjon egy kis időt arra, hogy megismerkedjen a harmadik fél adatvédelmi irányelveivel.
+
+Az adatvédelmi irányelv módosításai
+
+A HMD időről időre frissítheti ezeket az Irányelveket, hogy tükrözze a személyesadat-feldolgozási gyakorlatunk változásait a termékeink és szolgáltatásaik, illetve az alkalmazandó jog tekintetében. A jelen Adatvédelmi irányelv módosításai a HMD adatvédelmi portálján (www.nokia.com/phones/privacyportal) találhatók a „Mi változott?” című szakaszban. Azt is jelezni fogjuk az Irányelv tetején, hogy mikor frissítettük utoljára.
+
+"</string>
+    <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

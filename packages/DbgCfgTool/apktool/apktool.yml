@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: DbgCfgTool.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '24'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  com/evenwell/PowerMonitor/service/aidl/IPowerLogService.aidl: '8'
+  com/evenwell/PowerMonitor/service/aidl/IPwlCallback.aidl: '8'
+  com/fihtdc/bboxsbox/IBBSCallback.aidl: '8'
+  com/fihtdc/bboxsbox/IBBoxsBoxService.aidl: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '9001008'
+  versionName: 9.0010.08

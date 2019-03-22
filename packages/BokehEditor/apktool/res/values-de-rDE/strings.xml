@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh-Editor</string>
+    <string name="image_not_null">Der Bildpfad darf nicht leer sein.</string>
+    <string name="no_bokeh_type">Kein Bokeh-Typ</string>
+    <string name="no_mpo_file">Keine MPO-Datei</string>
+    <string name="save">Speichern</string>
+    <string name="save_success">Die Konfiguration wurde gespeichert</string>
+</resources>

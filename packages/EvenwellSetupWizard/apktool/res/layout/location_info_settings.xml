@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:id="@id/title_bg" android:layout_width="fill_parent" android:layout_height="120.0dip" />
+        <TextView android:id="@id/title_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/location_title" android:layout_below="@id/title_bg" style="@style/Title_2" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/outer_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/MainBackground">
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="36.0dip" android:layout_above="@id/btn_linear_layout">
+            <RelativeLayout android:orientation="vertical" android:id="@id/linear_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+                <TextView android:id="@id/location_info_text_1" android:text="@string/location_info_1" android:layout_alignParentTop="true" style="@style/DescriptionText2" />
+                <TextView android:id="@id/location_info_text_2" android:layout_marginTop="10.0dip" android:text="@string/location_info_2" android:layout_below="@id/location_info_text_1" style="@style/DescriptionText2" />
+                <TextView android:id="@id/aline" android:background="#ffdcdcdc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="13.0dip" android:layout_marginTop="50.0dip" android:layout_marginRight="13.0dip" android:height="4.0px" android:layout_below="@id/location_info_text_2" />
+                <LinearLayout android:id="@id/checkbox1_linearlayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="38.0dip" android:layout_below="@id/aline">
+                    <CheckBox android:id="@id/cbxLocation_Network" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" style="@style/CheckBox" />
+                    <TextView android:textSize="16.0dip" android:textColor="#ff212121" android:id="@id/location_Network" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:text="@string/location_network" />
+                </LinearLayout>
+                <LinearLayout android:id="@id/checkbox2_linearlayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="25.0dip" android:layout_below="@id/checkbox1_linearlayout">
+                    <CheckBox android:id="@id/cbxLocation_FOR_SERVICES" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" style="@style/CheckBox" />
+                    <TextView android:textSize="16.0dip" android:textColor="#ff212121" android:id="@id/location_SERVICES" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:text="@string/location_for_service" />
+                </LinearLayout>
+            </RelativeLayout>
+        </ScrollView>
+        <include layout="@layout/foot_bar" />
+    </RelativeLayout>
+</LinearLayout>

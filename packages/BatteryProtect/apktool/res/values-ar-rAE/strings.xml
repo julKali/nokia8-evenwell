@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">إلغاء</string>
+    <string name="fih_battery_protect_alert_dialog_ok">موافق</string>
+    <string name="fih_battery_protect_cancel_wear">إلغاء</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"درجة حرارة هاتفك ترتفع، لذا يتخذ الهاتف خطوات لتبريد نفسه. يُمكنك استخدامها، ولكن قد تلاحظ:
+·قد يتوقف الشحن مؤقتًا.
+·قد يتم إيقاف تشغيل Wi-Fi.
+·قد يتم إغلاق بعض التطبيقات.
+·قد يتم تشغيل وضع الطيران.
+سيعود هاتفك إلى طبيعته بمجرد أن تنخفض درجة حرارته."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">الإشعارات العامة</string>
+    <string name="fih_battery_protect_high_full_charging">تم بلوغ الحد الأقصى للشحن عند درجات حرارة مرتفعة! عندما تعود درجة حرارة الهاتف إلى طبيعتها، سوف يستأنف النظام الشحن بالسرعة العادية.</string>
+    <string name="fih_battery_protect_high_full_charging_title">تم بلوغ الحد الأقصى لدرجة الحرارة المرتفعة.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">يُرجى استخدام البطارية الأصلية للشحن أو قد تتسبب في تلف دائم/مادي لجهازك.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">يُرجى استخدام البطارية الأصلية</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">توقف الشحن</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">البطارية غير صالحة</string>
+    <string name="fih_battery_protect_low_full_charging">تم بلوغ الحد الأقصى للشحن عند درجات حرارة منخفضة! عندما تعود درجة حرارة الهاتف إلى طبيعتها، سوف يستأنف النظام الشحن بالسرعة العادية.</string>
+    <string name="fih_battery_protect_low_full_charging_title">تم بلوغ الحد الأقصى لدرجة الحرارة المنخفضة.</string>
+    <string name="fih_battery_protect_notification_cooling_down">تنزيل درجة الحرارة</string>
+    <string name="fih_battery_protect_ok_wear">موافق</string>
+    <string name="fih_battery_protect_tap_learn_more">انقر للتعرف على المزيد.</string>
+</resources>

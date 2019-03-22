@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_title_missed_calls">Missed calls indicator</string>
+    <string name="pref_title_unread_mails">Unread mails indicator</string>
+    <string name="pref_title_unread_messages">Unread messages indicator</string>
+    <string name="pref_title_alarm_information">Alarm information</string>
+    <string name="pref_title_calendar_reminder">Calendar reminder</string>
+    <string name="pref_title_time_out">Time-out when the phone does not move</string>
+    <string name="pref_dialog_title_time_out">Time-out</string>
+    <string name="pref_category_items_display">Appearance</string>
+    <string name="switch_on_text">On</string>
+    <string name="switch_off_text">Off</string>
+</resources>

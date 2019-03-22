@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD құпиялық саясаты</string>
+    <string name="privacy_activity">HMD құпиялық саясаты</string>
+    <string name="go_label">Дайын</string>
+    <string name="agree">Келісу</string>
+    <string name="next_btn_lebel">Келесі</string>
+    <string name="app_name">Жүйе диагностикасы</string>
+    <string name="setting_page_name">Пайдаланушы тәжірибесі бағдарламасы</string>
+    <string name="send_diag_dialog_any_network">Деректер байланысы қолжетімді болғанда</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi байланысы қолжетімді болғанда</string>
+    <string name="send_diag_dialog_wlan">WLAN байланысы қолжетімді болғанда</string>
+    <string name="send_diag_dialog_title">Диагностика жіберу</string>
+    <string name="diagnostics_setting">Диагностика</string>
+    <string name="diagnostics_report">Диагностикалық есеп</string>
+    <string name="diagnostics_report_summary">Құрылғыда бағдарламалық құрал қатесі пайда болғанда, диагностикалық есеп жіберіңіз. Желіге қосылу ақылары алынуы мүмкін. Қызмет көрсетуші провайдерден деректер желісі бумасын алуға кеңес беріледі.</string>
+    <string name="network_options">Желі параметрлері</string>
+    <string name="send_diagnostics">Диагностика жіберу</string>
+    <string name="cancel_upload_confirm_msg">Пайдаланушы тәжірибесі бағдарламамыздан шыққалы жатырсыз. Телефоныңызда пайда болған бағдарламалық құрал қателері сақталмайды немесе жіберілмейді, сондықтан бұл телефонмен тәжірибеңізді жақсарта алмауымыз мүмкін.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">हवामान सेवा</string>
+    <string name="fih_weather_permission_hint_1">योग्यरित्या कार्य करण्यासाठी, या अ‍ॅपला अतिरिक्त परवानग्या आवश्यक आहेत. विचारल्यावर कृपया परवानगीला अनुमती द्या.</string>
+    <string name="fih_weather_permission_hint_2">योग्यरित्या कार्य करण्यासाठी, या अ‍ॅपला अतिरिक्त परवानग्या आवश्यक आहेत. कृपया सेटिंगमध्ये हवामान सेवा परवानगी व्यवस्थापित करा.</string>
+    <string name="fih_weather_button_ok">ओके</string>
+    <string name="fih_weather_button_close">बंद करा</string>
+    <string name="fih_weather_button_setting">सेटिंग...</string>
+    <string name="fih_weather_permission_success">स्थान परवानगी मंजूरी यशस्वी</string>
+    <string name="fih_weather_permission_failed">स्थान परवानगीला मंजूरी देणे नाकारले, स्थान मिळवू शकत नाही.</string>
+    <string name="fih_weather_notification_title">हवामान सेवेला परवानग्या आवश्यक आहेत</string>
+    <string name="fih_weather_notification_text">अनुमती देण्यासाठी टॅप करा</string>
+    <string name="fih_weather_notification_channel_title">सर्वसाधारण सूचना</string>
+</resources>

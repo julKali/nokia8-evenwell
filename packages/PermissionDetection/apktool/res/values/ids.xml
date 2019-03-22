@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="pager" />
+    <item type="id" name="isExpanded" />
+    <item type="id" name="fragmentContainer">false</item>
+    <item type="id" name="lldialog">false</item>
+    <item type="id" name="ImageView">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="dialog_button_ok">false</item>
+    <item type="id" name="dialog_button_cancel">false</item>
+    <item type="id" name="rootStatus">false</item>
+    <item type="id" name="imageStatus">false</item>
+</resources>

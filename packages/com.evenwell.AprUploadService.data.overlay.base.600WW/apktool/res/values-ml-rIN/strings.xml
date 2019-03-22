@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD സ്വകാര്യതാ നയം</string>
+    <string name="privacy_activity">HMD സ്വകാര്യതാ നയം</string>
+    <string name="go_label">ബന്ധങ്ങള്‍ കണ്ടെത്തുക </string>
+    <string name="agree">അംഗീകരിക്കുക</string>
+    <string name="see_detail">വിശദാംശങ്ങൾ</string>
+    <string name="next_btn_lebel">മടങ്ങുക</string>
+    <string name="app_name">സിസ്റ്റം ഡയഗ്‌നോസ്റ്റിക്‌സ്</string>
+    <string name="setting_page_name">ഉപയോക്തൃ അനുഭവ പ്രോഗ്രാം</string>
+    <string name="send_diag_dialog_any_network">ഡാറ്റാ കണക്ഷൻ ലഭ്യമാകുമ്പോൾ</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi കണക്ഷൻ ലഭ്യമാകുമ്പോൾ</string>
+    <string name="send_diag_dialog_wlan">WLAN കണക്ഷൻ ലഭ്യമാകുമ്പോൾ</string>
+    <string name="send_diag_dialog_title">ഡയഗ്‌നോസ്റ്റിക്‌സ് അയയ്ക്കുക</string>
+    <string name="diagnostics_setting">ഡയഗ്നോസ്റ്റിക്സ്</string>
+    <string name="diagnostics_report">ഡയഗ്‌നോസ്റ്റിക്സ് റിപ്പോർട്ട്</string>
+    <string name="diagnostics_report_summary">ഉപകരണത്തിൽ ഒരു സോഫ്റ്റ്‌വെയർ പിശക് നേരിടുമ്പോൾ ഡയഗ്‌നോസ്റ്റിക് റിപ്പോർട്ട് അയയ്ക്കുക. ഇത് നെറ്റ്‌വർക്ക് ഉപയോഗ ചെലവ് സൃഷ്‌ടിച്ചേക്കാം. കാരിയറിയിൽ നിന്നും ഡാറ്റാ നെറ്റ്‌വർക്ക് പാക്കേജ് കരസ്ഥമാക്കുന്നത് ശുപാർശചെയ്യുന്നു.</string>
+    <string name="network_options">നെറ്റ്‌വർക്ക് ഓപ്‌ഷനുകൾ</string>
+    <string name="send_diagnostics">ഡയഗ്‌നോസ്റ്റിക്‌സ് അയയ്ക്കുക</string>
+    <string name="diagnostics_description">നിങ്ങളുടെ ഉപകരണത്തിൽ ഒരു സോഫ്റ്റ്‌വെയർ പിശകോ ക്രാഷോ നേരിടുമ്പോൾ ഡയഗ്‌നോസ്റ്റിക് ഡാറ്റ ശേഖരിക്കാൻ ഞങ്ങളെ അനുവദിക്കുന്നത് വഴി, ഞങ്ങളുടെ ഉൽപ്പന്നങ്ങളും സേവനങ്ങളും മെച്ചപ്പെടുത്താൻ സഹായിക്കൂ. നിങ്ങൾക്ക് എല്ലായ്‌പ്പോഴും ക്രമീകരണത്തിൽ പിന്നീട് ഈ ഓപ്‌ഷൻ മാറ്റാനാകും.</string>
+    <string name="cancel_upload_confirm_msg">നിങ്ങൾ ഉപയോക്തൃ അനുഭവ പ്രോഗ്രാം വിടാൻ ഒരുങ്ങുകയാണ്. നിങ്ങളുടെ മൊബൈൽ ഫോണിൽ സംഭവിക്കുന്ന സോഫ്റ്റ്‌വെയർ പിശകുകൾ സൂക്ഷിച്ചുവയ്ക്കുകയും അയയ്ക്കുകയും ചെയ്യില്ല, അതിനാൽ മൊബൈൽ ഫോൺ ഉപയോഗവുമായി ബന്ധപ്പെട്ട നിങ്ങളുടെ അനുഭവം ഇത് മെച്ചപ്പെടുത്തിയേക്കില്ല!</string>
+</resources>

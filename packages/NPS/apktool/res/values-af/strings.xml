@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">KANSELLEER</string>
+    <string name="DONE">KLAAR</string>
+    <string name="NEXT">VOLGENDE</string>
+    <string name="OK">Oukei</string>
+    <string name="PREVIOUS">VORIGE</string>
+    <string name="abc_action_bar_home_description">Navigeer tuis</string>
+    <string name="abc_action_bar_up_description">Navigeer op</string>
+    <string name="abc_action_menu_overflow_description">Nog opsies</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Sien alles</string>
+    <string name="abc_activitychooserview_choose_application">"Kies 'n program"</string>
+    <string name="abc_capital_off">AF</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksie+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasiebalk</string>
+    <string name="abc_menu_sym_shortcut_label">Simbool+</string>
+    <string name="abc_prepend_shortcut_label">Kieslys+</string>
+    <string name="abc_search_hint">Soek …</string>
+    <string name="abc_searchview_description_clear">Vee navraag uit</string>
+    <string name="abc_searchview_description_query">Soeknavraag</string>
+    <string name="abc_searchview_description_search">Soek</string>
+    <string name="abc_searchview_description_submit">Dien navraag in</string>
+    <string name="abc_searchview_description_voice">Stemsoektog</string>
+    <string name="abc_shareactionprovider_share_with">Deel met</string>
+    <string name="abc_shareactionprovider_share_with_application">Deel met %s</string>
+    <string name="abc_toolbar_collapse_description">Vou in</string>
+    <string name="alert_empty_desc">Voeg asseblief jou beskrywing by!</string>
+    <string name="alert_warning_title">Wenke</string>
+    <string name="enter_comments">Voer kommentaar in (1000 karakters)</string>
+    <string name="extremely_likely">(Uiters waarskynlik)</string>
+    <string name="feedback">Terugvoer</string>
+    <string name="helps_us_improve_our_products">Jou terugvoer help ons om produkte te verbeter!</string>
+    <string name="intro_title">Wat is waarskynlikheid dat jy d fn aan vriend/kollega sal aanbeveel?</string>
+    <string name="msg_send_after">Boodskap sal outomaties oplaai wanneer die toestel aanlyn is. Dankie vir jou antwoord.</string>
+    <string name="msg_send_fail">Stuur het misluk. Boodskap sal outomaties oplaai wanneer die toestel aanlyn is. Dankie vir jou antwoord.</string>
+    <string name="no_ask_feedback_again_text">Moenie weer vertoon nie</string>
+    <string name="no_showagain_text">Moenie weer vertoon nie</string>
+    <string name="not_at_all_likely">(Glad nie waarskynlik nie)</string>
+    <string name="privacy_context_wifi">"Geagte gebruikers 
+
+Welkom by die gebruik van die terugvoer van kliëntesagteware. Lees asseblief die diensbepalings noukeurig en met begrip deur voordat hierdie produk gebruik word. Deur「Stem in」te klik, beteken dit dat jy die voorreg van hierdie sagteware baie goed begryp en instem om dit te gebruik. Indien jy NIE tot hierdie bepalings instem NIE, druk asseblief「Verlaat」. Ten einde jou met omvattende dienste te voorsien, benodig die program die volgende toestemmings: 
+1. Toegang tot die internet, WLAN-netwerk om terugvoerinligting te stuur 
+2. Om IMEI-, PSN- en MNC\\MCC-inligting in te voer om outomaties basiese fooninligting te verkry"</string>
+    <string name="search_menu_title">Soek</string>
+    <string name="select_a_value">Kies ’n waarde</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Stem in</string>
+    <string name="str_leave">Verlaat</string>
+    <string name="submit_fail">Indiening het misluk</string>
+    <string name="submit_success">Dankie vir jou antwoord</string>
+    <string name="thank_your_feedback">Dankie vir jou terugvoer!</string>
+    <string name="we_appreciate_your_help">Ons waardeer jou hulp om Nokia-produkte die beste in wêreld te maak.</string>
+    <string name="we_hope_enjoying_nokia_device">Ons hoop jy geniet jou Nokia-toestel. Jou terugvoer is baie belangrik vir ons.</string>
+    <string name="we_will_contact_you_again">Ons sal jou in die toekoms weer kontak.</string>
+    <string name="we_will_contact_you_again_enjoy">Ons sal jou in die toekoms kontak. Geniet jou nuwe Nokia-toestel!</string>
+    <string name="why_you_gave_this_score">Vertel ons hoekom jy telling gegee het:</string>
+</resources>

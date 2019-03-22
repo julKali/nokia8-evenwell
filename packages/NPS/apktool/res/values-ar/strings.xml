@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">إلغاء</string>
+    <string name="DONE">تم</string>
+    <string name="NEXT">التالي</string>
+    <string name="OK">موافق</string>
+    <string name="PREVIOUS">السابق</string>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="alert_empty_desc">يرجى إضافة وصفك!</string>
+    <string name="alert_warning_title">تلميحات</string>
+    <string name="enter_comments">أدخل التعليقات (1000 حرف)</string>
+    <string name="extremely_likely">(احتمالية كبيرة جدًا)</string>
+    <string name="feedback">تعليق</string>
+    <string name="helps_us_improve_our_products">تساعد تعليقاتك في تحسين منتجاتنا!</string>
+    <string name="intro_title">ما مدى احتمالية أن تنصح صديق أو زميل باستخدام هذا الهاتف؟</string>
+    <string name="msg_send_after">سيتم تحميل الرسالة تلقائيا عند اتصال الجهاز بالإنترنت. شكرًا لردك.</string>
+    <string name="msg_send_fail">فشل الإرسال. سيتم تحميل الرسالة تلقائيا عند اتصال الجهاز بالإنترنت. شكرًا لردك.</string>
+    <string name="no_ask_feedback_again_text">لا تُظهر ثانيةً</string>
+    <string name="no_showagain_text">لا تُظهر ثانيةً</string>
+    <string name="not_at_all_likely">(غير محتمل إطلاقًا)</string>
+    <string name="privacy_context_wifi">"عزيزي المستخدم، 
+
+مرحبًا بك لاستخدام برنامج عميل التعليقات. يرجى قراءة شروط الخدمة بعناية واستيعابها على نحو جيد قبل استخدام هذا المنتج. يشير النقر فوق「موافق」إلى فهمك الجيد لامتيازات هذا البرنامج وأنك توافق على استخدامه. إذا لم تكن موافقًا على هذه الشروط، يرجى الضغط على「خروج」. لكي نمدك بالخدمات الشاملة، يتطلب التطبيق الأذونات التالية: 
+1. الاتصال بالإنترنت، وشبكة WLAN لإرسال معلومات التعليقات 
+2. استيراد معلومات IMEI وPSN وMNC\\MCC للحصول على معلومات أساسية حول الهاتف بشكل تلقائي"</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="select_a_value">اختر قيمة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">أوافق</string>
+    <string name="str_leave">خروج</string>
+    <string name="submit_fail">فشل الإرسال</string>
+    <string name="submit_success">شكرًا لردك</string>
+    <string name="thank_your_feedback">شكرًا على تعليقك!</string>
+    <string name="we_appreciate_your_help">نحن نقدر مساعدتك لجعل منتجات Nokia الأفضل في العالم.</string>
+    <string name="we_hope_enjoying_nokia_device">نتمنى أن تستمتع بجهاز Nokia الخاص بك. إن تعليقك في غاية الأهمية بالنسبة لنا.</string>
+    <string name="we_will_contact_you_again">سنتواصل معك مجددًا في المستقبل.</string>
+    <string name="we_will_contact_you_again_enjoy">سنتواصل معك مجددًا في المستقبل. استمتع بجهاز Nokia الجديد!</string>
+    <string name="why_you_gave_this_score">الرجاء إخبارنا سبب منح هذه النقاط:</string>
+</resources>

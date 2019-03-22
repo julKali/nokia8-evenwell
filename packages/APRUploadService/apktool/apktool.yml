@@ -1,0 +1,26 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: APRUploadService.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- res/drawable-xxhdpi-v4/oobe_btn_normal.9.png
+- res/drawable-xxhdpi-v4/oobe_btn_press.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '26'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '71'
+  versionName: 9.0010.02

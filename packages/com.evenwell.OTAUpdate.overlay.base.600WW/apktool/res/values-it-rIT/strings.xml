@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Impossibile scaricare software.</string>
+    <string name="msg_install_system_software_update_3">"
+
+Sarà impossibile utilizzare il dispositivo durante l'aggiornamento.
+
+Interrompere l'alimentazione o rimuovere i file scaricati mentre si aggiorna il software darà luogo a risultati imprevisti."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Sarà impossibile utilizzare il dispositivo o effettuare chiamate di emergenza durante l'aggiornamento.
+
+Interrompere l'alimentazione o rimuovere i file scaricati mentre si aggiorna il software darà luogo a risultati imprevisti."</string>
+    <string name="msg_unable_to_connect_2">"Serve connessione di rete per usare l'applicazione. Attivare la rete mobile in Impostazioni."</string>
+    <string name="msg_unable_to_connect_wlan">"Serve connessione di rete per usare l'applicazione. Attivare rete mobile o WLAN in Impostazioni."</string>
+    <string name="msg_no_available_size_card_2">Questo aggiornamento richiede %s MB di spazio disponibile. Eliminare alcuni file in archivio dati.</string>
+    <string name="msg_remove_sd_card_2">"Il file scaricato non può essere scritto nell'archivio dati. Verificare l'archivio."</string>
+    <string name="msg_remove_sd_card_short_2">No accesso ad archivio dati.</string>
+    <string name="menu_enabled">Solo software abilitato</string>
+    <string name="using_internal_storage">Utilizzo archivio interno</string>
+    <string name="using_external_storage">Utilizzo archivio esterno</string>
+    <string name="msg_root_message">"
+
+Normale aggiornamento non garantito. Dispositivo con permessi di root."</string>
+    <string name="msg_responsibility_message">"Se il dispositivo ha ottenuto i permessi di root, l'utente è responsabile di qualsiasi comportamento anomalo del sistema dopo un aggiornamento."</string>
+    <string name="install_fail">Errore installazione</string>
+    <string name="install_all">Installa tutto</string>
+    <string name="installed_version">Versione installata</string>
+    <string name="update_available">Aggiornamento disponibile.</string>
+    <string name="apk_update_available">Aggiornamento app disponibile.</string>
+    <string name="recommend">Consiglia</string>
+    <string name="roaming_restriction">Limitazione roaming dati</string>
+    <string name="roaming_restriction_summary">Impossibile aggiornare. Limitazione roaming dati.</string>
+    <string name="changelog">Cambia registro</string>
+    <string name="apk_update_available_summary">"In %s disponibile aggiornamento. Fare clic su OK per installare subito o su Annulla per controllare l'aggiornamento dopo un giorno."</string>
+    <string name="apk_removed">"L'applicazione è stata rimossa."</string>
+    <string name="apk_available_items">%s elementi disponibili totali.</string>
+    <string name="apk_available_item">%s elemento disponibile in totale.</string>
+    <string name="invalid_update_summary">Aggiornamento non valido. Verificare di nuovo.</string>
+    <string name="recheck">Ricontrolla</string>
+    <string name="image_download_exception_summary">No accesso al server. Verificare di nuovo più tardi.</string>
+    <string name="apk_download_exception">No accesso al server</string>
+    <string name="installation_confirmation">Conferma installazione</string>
+    <string name="apk_need_reboot_summary">"L'aggiornamento software riavvierà il sistema automaticamente al termine dell'installazione. Installarlo ora?"</string>
+    <string name="prepare_to_reboot">Prepara riavvio</string>
+    <string name="prepare_to_reboot_summary">Necessario riavvio dispositivo per configurare impostazioni software installato. Riavviare ora o anche più tardi.</string>
+    <string name="prepare_to_reboot_force_summary">Necessario riavvio dispositivo per configurare impostazioni software installato. Riavviare ora.</string>
+    <string name="reboot_fail">Riavvio non riuscito</string>
+    <string name="reboot_fail_summary">No riavvio a causa di API mancante. Riavviare manualmente.</string>
+    <string name="apk_no_avaliable_size">Impossibile scaricare. Dimensioni archivio interno insufficienti.</string>
+    <string name="update_finished">Fine aggiornamento</string>
+    <string name="msg_root_warning">"Il dispositivo in uso ha ottenuto i permessi di root o il software ufficiale è stato manomesso. Procedere con l'aggiornamento del sistema potrebbe causare instabilità o l'arresto anomalo, nonché rendere nulla la garanzia del dispositivo. Continuare?"</string>
+    <string name="multi_image_update">Alcuni aggiornamenti immagini disponibili</string>
+    <string name="available_update_list">Elenco aggiornamenti disponibili</string>
+    <string name="downloading_summary">Annullare download immagini</string>
+    <string name="msg_erase_userdata_warning">Questo aggiornamento cancella i dati utente. Continuare?</string>
+    <string name="msg_autoupdate_date_fee_warning">"L'attivazione dell'aggiornamento automatico può incorrere in costi aggiuntivi."</string>
+    <string name="invalid_update">Aggiornamento non valido.</string>
+    <string name="file_corrupted">Impossibile aggiornare il sistema. File danneggiato.</string>
+    <string name="ask_for_apk_check">"Cercare gli aggiornamenti dell'applicazione?"</string>
+    <string name="update_ota_self">Aggiornamento software in corso.</string>
+    <string name="ab_update_fail">Problema di installazione.</string>
+    <string name="ab_update_wrong_status">Motore aggiornamento occupato ora. Tentare di nuovo più tardi o riavviare.</string>
+    <string name="ab_update_installing">Aggiornamento sistema</string>
+    <string name="tag_engineer_mode">Modalità progettazione</string>
+    <string name="engineer_version_incorrect">Versione dispositivo in uso errata</string>
+    <string name="msg_engineer_ota_restore">Toccare per ripristinare la versione ufficiale</string>
+    <string name="msg_engineer_ota_restore_warning">Verrà ripristinata la versione ufficiale. Continuare?</string>
+    <string name="silent_mode_data_fee_warning">Aggiornamento disponibile. Il download di aggiornamenti può incorrere in costi aggiuntivi. Eseguirlo tramite Wi-Fi se possibile.</string>
+    <string name="msg_updating_system">Aggiornamento sistema...</string>
+    <string name="msg_tap_to_reboot">Toccare per riavviare</string>
+    <string name="msg_pause_download">Pausa download</string>
+    <string name="notification_channel_name">Aggiornamento sistema</string>
+    <string name="notification_channel_alert_name">Notifiche generali</string>
+</resources>

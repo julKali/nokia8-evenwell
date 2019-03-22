@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">ગોપનીયતા વિધાન</string>
+    <string name="privacy_activity">ગોપનીયતા વિધાન</string>
+    <string name="go_label">પૂર્ણ થયું</string>
+    <string name="agree">સંમત</string>
+    <string name="see_detail">વિગત</string>
+    <string name="next_btn_lebel">આગલું</string>
+    <string name="app_name">સિસ્ટમ નિદાનો</string>
+    <string name="setting_page_name">વપરાશકર્તા અનુભવ પ્રોગ્રામ</string>
+    <string name="send_diag_dialog_any_network">જ્યારે ડેટા કનેક્શન ઉપલબ્ધ હોય</string>
+    <string name="send_diag_dialog_wifi">જ્યારે Wi-Fi કનેક્શન ઉપલબ્ધ હોય</string>
+    <string name="send_diag_dialog_wlan">જ્યારે WLAN કનેક્શન ઉપલબ્ધ હોય</string>
+    <string name="send_diag_dialog_title">નિદાનો મોકલો</string>
+    <string name="diagnostics_setting">નિદાનો</string>
+    <string name="diagnostics_report">નિદાન રિપોર્ટ</string>
+    <string name="diagnostics_report_summary">જ્યારે ઉપકરણ સૉફ્ટવેર ભૂલ અનુભવી રહ્યું હોય ત્યારે નિદાન રિપોર્ટ મોકલો. નેટવર્ક વપરાશને કારણે તેનાથી શુલ્ક લાગી શકે છે. કૅરિઅરથી ડેટા નેટવર્ક પેકેજ મેળવવાની ભલામણ કરાયેલ છે.</string>
+    <string name="network_options">નેટવર્ક વિકલ્પો</string>
+    <string name="send_diagnostics">નિદાનો મોકલો</string>
+    <string name="diagnostics_description">જ્યારે તમારું ઉપકરણ સૉફ્ટવેર ભૂલ અથવા ક્રેશ અનુભવે ત્યારે અમને નિદાન ડેટા એકત્ર કરવાની મંજૂરી આપીને અમારા ઉપ્તાદનો અને સેવાઓને બહેતર બનાવવામાં અમારી મદદ કરો. તમે પછીથી સેટિંગ્સમાં હંમેશાં વિકલ્પો બદલી શકો છો.</string>
+    <string name="cancel_upload_confirm_msg">તમે અમારો વપરાશકર્તા અનુભવ કાર્યક્રમ છોડવા જઈ રહ્યા છો. તમારા મોબાઇલ ફોનમાં થતી સૉફ્ટવેર ભૂલો રાખવામાં આને મોકલવામાં આવશે નહીં, તેથી આનાથી મોબાઇલનો ઉપયોગ કરવાનો તમારો અનુભવ બહેતર ન પણ થાય!</string>
+</resources>

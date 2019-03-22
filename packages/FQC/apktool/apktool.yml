@@ -1,0 +1,41 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: FQC.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- res/drawable-hdpi-v4/border_view_finder.9.png
+- jpg
+- res/drawable/ic_focus_failed.9.png
+- res/drawable/ic_focus_focused.9.png
+- res/drawable/ic_focus_focusing.9.png
+- res/drawable/zzz_fih_button_black_forground.9.png
+- res/drawable/zzz_fih_button_blue_pressed.9.png
+- res/drawable/zzz_fih_button_green_forground.9.png
+- res/drawable/zzz_fih_button_green_pressed.9.png
+- res/drawable/zzz_fih_button_red_forground.9.png
+- res/drawable/zzz_fih_button_red_pressed.9.png
+- res/drawable/zzz_fih_button_white_forground.9.png
+- res/drawable/zzz_fih_button_yellow_forground.9.png
+- res/drawable/zzz_fih_button_yellow_pressed.9.png
+- res/drawable/zzz_fih_confirm_dialog_bk.9.png
+- mp3
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '25'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  com/dsi/ant/plugins/antplus/pccbase/AntPlusCommonPcc.java.orig: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '9011001'
+  versionName: 9.0110.01

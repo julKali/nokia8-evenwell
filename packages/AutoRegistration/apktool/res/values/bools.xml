@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="ENABLE_OFF_PERIOD">true</bool>
+    <bool name="PRODUCTION_MODE">true</bool>
+    <bool name="SUPPORT_ADDITIONAL_PHASE">true</bool>
+    <bool name="SUPPORT_SMS_REGISTER">false</bool>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="isCTA">false</bool>
+    <bool name="isCnVersion">false</bool>
+    <bool name="isFihProject">false</bool>
+    <bool name="isNokiaProject">false</bool>
+    <bool name="isOperationTest">false</bool>
+    <bool name="isSharpProject">false</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+</resources>

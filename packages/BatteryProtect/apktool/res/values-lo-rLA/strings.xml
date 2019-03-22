@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ປົກປ້ອງແບັດເຕີຣີ</string>
+    <string name="fih_battery_protect_aging_nm_text">ກະລຸນາຕິດຕໍ່ຫາສູນບໍລິການລູກຄ້າຂອງພວກເຮົາ, ທີ່ເບີ %1$s ຂໍຂອບໃຈ.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">ກະລຸນາຕິດຕໍ່ຫາສູນບໍລິການລູກຄ້າຂອງພວກເຮົາ, ຂໍຂອບໃຈ.</string>
+    <string name="fih_battery_protect_aging_text">ສະບາຍດີລູກຄ້າ InFocus, ເພາະວ່າແບັດເຕີຣີໂທລະສັບມືຖືແມ່ນຖືວ່າເປັນສ່ວນທີ່ສາມາດໃຊ້ໝົດໄດ້, ຖ້າທ່ານເຫັນວ່າຄວາມທົນທານຂອງແບັດເຕີຣີໂທລະສັບຂອງທ່ານຫຼຸດລົງຢ່າງຫຼວງຫາຍ, ກະລຸນານຳເອົາໂທລະສັບຂອງທ່ານໄປຫາຕົວແທນຈຳໜ່າຍເພື່ອກວດວິເຄາະ ແລະ ສ້ອມແປງເພື່ອຮັບປະກັນໃຫ້ໂທລະສັບຂອງທ່ານໃຊ້ງານໄດ້ດີທີ່ສຸດ. ຖ້າທ່ານມີຄຳຖາມໃດໆ, ກະລຸນາຕິດຕໍ່ຫາສູນບໍລິການລູກຄ້າຂອງພວກເຮົາ, ທີ່ເບີ %1$s. ຂໍຂອບໃຈ.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">ສະບາຍດີລູກຄ້າ InFocus, ເພາະວ່າແບັດເຕີຣີໂທລະສັບມືຖືແມ່ນຖືວ່າເປັນສ່ວນທີ່ສາມາດໃຊ້ໝົດໄດ້, ຖ້າທ່ານເຫັນວ່າຄວາມທົນທານຂອງແບັດເຕີຣີໂທລະສັບຂອງທ່ານຫຼຸດລົງຢ່າງຫຼວງຫາຍ, ກະລຸນານຳເອົາໂທລະສັບຂອງທ່ານໄປຫາຕົວແທນຈຳໜ່າຍເພື່ອກວດວິເຄາະ ແລະ ສ້ອມແປງເພື່ອຮັບປະກັນໃຫ້ໂທລະສັບຂອງທ່ານໃຊ້ງານໄດ້ດີທີ່ສຸດ. ຖ້າທ່ານມີຄຳຖາມໃດໆ, ກະລຸນາຕິດຕໍ່ຫາສູນບໍລິການລູກຄ້າຂອງພວກເຮົາ, ຂໍຂອບໃຈ.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">ສະບາຍດີລູກຄ້າ InFocus, ເພາະວ່າແບັດເຕີຣີອຸປະກອນມືຖືແມ່ນຖືວ່າເປັນສ່ວນທີ່ສາມາດໃຊ້ໝົດໄດ້, ຖ້າທ່ານເຫັນວ່າຄວາມທົນທານຂອງແບັດເຕີຣີອຸປະກອນຂອງທ່ານຫຼຸດລົງຢ່າງຫຼວງຫາຍ, ກະລຸນານຳເອົາອຸປະກອນຂອງທ່ານໄປຫາຕົວແທນຈຳໜ່າຍເພື່ອກວດວິເຄາະ ແລະ ສ້ອມແປງເພື່ອຮັບປະກັນໃຫ້ອຸປະກອນຂອງທ່ານໃຊ້ງານໄດ້ດີທີ່ສຸດ. ຖ້າທ່ານມີຄຳຖາມໃດໆ, ກະລຸນາຕິດຕໍ່ຫາສູນບໍລິການລູກຄ້າຂອງພວກເຮົາ, ຂໍຂອບໃຈ.</string>
+    <string name="fih_battery_protect_aging_text_wear">ສະບາຍດີລູກຄ້າ InFocus, ເພາະວ່າແບັດເຕີຣີອຸປະກອນມືຖືແມ່ນຖືວ່າເປັນສ່ວນທີ່ສາມາດໃຊ້ໝົດໄດ້, ຖ້າທ່ານເຫັນວ່າຄວາມທົນທານຂອງແບັດເຕີຣີອຸປະກອນຂອງທ່ານຫຼຸດລົງຢ່າງຫຼວງຫາຍ, ກະລຸນານຳເອົາອຸປະກອນຂອງທ່ານໄປຫາຕົວແທນຈຳໜ່າຍເພື່ອກວດວິເຄາະ ແລະ ສ້ອມແປງເພື່ອຮັບປະກັນໃຫ້ອຸປະກອນຂອງທ່ານໃຊ້ງານໄດ້ດີທີ່ສຸດ. ຖ້າທ່ານມີຄຳຖາມໃດໆ, ກະລຸນາຕິດຕໍ່ຫາສູນບໍລິການລູກຄ້າຂອງພວກເຮົາ, ທີ່ເບີ %1$s. ຂໍຂອບໃຈ.</string>
+    <string name="fih_battery_protect_aging_title">ຕົວຊ່ວຍສ້າງແບັດເຕີຣີ</string>
+    <string name="fih_battery_protect_aging_title_wear">ຕົວຊ່ວຍສ້າງແບັດເຕີຣີ</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">ຍົກເລີກການ</string>
+    <string name="fih_battery_protect_alert_dialog_ok">ຖືກແລ້ວ</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">ກວດໃຫ້ແນ່ໃຈວ່າໄດ້ຕິດຕັ້ງແບັດເຕີຣີຢ່າງຖືກຕ້ອງ, ຖ້າບໍ່ດັ່ງນັ້ນມັນຈະບໍ່ສາກ.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">ກວດໃຫ້ແນ່ໃຈວ່າໄດ້ຕິດຕັ້ງແບັດເຕີຣີຢ່າງຖືກຕ້ອງ.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">ບໍ່ສາມາດກວດພົບອຸນຫະພູມແບັດເຕີຣີໄດ້, ກວດໃຫ້ແນ່ໃຈວ່າໄດ້ຕິດຕັ້ງແບັດເຕີຣີຢ່າງຖືກຕ້ອງ, ຖ້າບໍ່ດັ່ງນັ້ນມັນຈະບໍ່ສາກ.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">ບໍ່ສາມາດກວດພົບອຸນຫະພູມແບັດເຕີຣີໄດ້.</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">ຢຸດການສາກ!</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">ອຸນຫະພູມເກີນຂອບເຂດ.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">ການສາກຢຸດແລ້ວ</string>
+    <string name="fih_battery_protect_bl_warning_text">ອຸນຫະພູມໂທລະສັບສູງເກີນກວ່າປົກກະຕິ, ໃຫ້ຫຼຸດຄວາມສະຫວ່າງລົງເພື່ອເຮັດໃຫ້ໂທລະສັບເຢັນລົງ</string>
+    <string name="fih_battery_protect_bl_warning_title">ການເຕືອນໃຫ້ຫຼຸດຄວາມສະຫວ່າງລົງ</string>
+    <string name="fih_battery_protect_cancel_wear">ຍົກເລີກການ</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">ໂທສຸກເສີນ</string>
+    <string name="fih_battery_protect_cooldown_text">ໃນປັດຈຸບັນ ໂທລະສັບຢູ່ໃນໂໝດລະບາຍຄວາມຮ້ອນ, ໂທສຸກເສີນເທົ່ານັ້ນ.</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">ອຸປະກອນຢູ່ໃນໂໝດລະບາຍຄວາມຮ້ອນໃນຕອນນີ້. ກະລຸນາໃຊ້ມັນໃນພາຍຫຼັງ.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"ໂທລະສັບຂອງທ່ານກຳລັງຮ້ອນຂຶ້ນ, ດັ່ງນັ້ນມັນຈຶ່ງກຳລັງດຳເນີນນານເພື່ອໃຫ້ຕົວມັນເຢັນລົງຢູ່. ທ່ານຍັງຄົງສາມາດໃຊ້ມັນໄດ້, ແຕ່ທ່ານອາດພົບວ່າ:
+·ການສາກໄຟອາດຢຸດລົງຊົ່ວຄາວ.
+·Wi-Fi ອາດຖືກປິດໄວ້.
+·ແອັບພລິເຄຊັນຕ່າງໆອາດປິດຕົວລົງ.
+·ອາດມີການເປີດໃຊ້ໂໝດຢູ່ໃນຍົນ.
+ໂທລະສັບຂອງທ່ານຈະກັບເປັນປົກກະຕິເມື່ອມັນເຢັນຂຶ້ນ."</string>
+    <string name="fih_battery_protect_cooldown_text_wear">ໃນປັດຈຸບັນ ອຸປະກອນຢູ່ໃນໂໝດລະບາຍຄວາມຮ້ອນ, ໂທສຸກເສີນເທົ່ານັ້ນ.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">ບໍ່ສາມາດກວດພົບອຸນຫະພູມແບັດເຕີຣີໄດ້ໃນຂະນະນີ້ ແລະ ໂທລະສັບຢູ່ໃນໂໝດລະບາຍຄວາມຮ້ອນ, ພຽງແຕ່ເຮັດການໂທສຸກເສີນເທົ່ານັ້ນ, ຮັບປະກັນວ່າແບັດເຕີຣີຖືກຕິດຕັ້ງຢ່າງຖືກຕ້ອງ.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">ບໍ່ສາມາດກວດຈັບອຸນຫະພູມແບັດເຕີຣີໄດ້ໃນຂະນະນີ້ ແລະ ອຸປະກອນຢູ່ໃນໂໝດລະບາຍຄວາມຮ້ອນ, ພຽງແຕ່ເຮັດການໂທສຸກເສີນເທົ່ານັ້ນ, ຮັບປະກັນວ່າແບັດເຕີຣີຖືກຕິດຕັ້ງຢ່າງຖືກຕ້ອງ.</string>
+    <string name="fih_battery_protect_cooldown_title">ກຳລັງລະບາຍຄວາມຮ້ອນ</string>
+    <string name="fih_battery_protect_cooldown_title_wear">ກຳລັງລະບາຍຄວາມຮ້ອນ</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">ການແຈ້ງເຕືອນທົ່ວໄປ</string>
+    <string name="fih_battery_protect_full_charging">ການສາກສຳເລັດແລ້ວ</string>
+    <string name="fih_battery_protect_full_charging_wear">ການສາກສຳເລັດແລ້ວ</string>
+    <string name="fih_battery_protect_high_full_charging">ຮອດຂີດຈຳກັດການສາກສູງສຸດໃນອຸນຫະພູມສູງແລ້ວ! ເມື່ອອຸນຫະພູມໂທລະສັບກັບຄືນເປັນປົກກະຕິ, ລະບົບຈະສືບຕໍ່ສາກໃນຄວາມໄວປົກກະຕິ.</string>
+    <string name="fih_battery_protect_high_full_charging_title">ຮອດຂີດຈຳກັດການສາກຢູ່ອຸນຫະພູມສູງແລ້ວ</string>
+    <string name="fih_battery_protect_high_temp_text_wear">ອຸນຫະພູມແບັດເຕີຣີສູງເກີນໄປ, ສະນັ້ນຢຸດການສາກໄວ້ແລ້ວ.</string>
+    <string name="fih_battery_protect_install_error_title_wear">ຕົວຊ່ວຍສ້າງແບັດເຕີຣີ</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">ກະລຸນາໃຊ້ແບັດເຕີຣີຂອງແທ້ເພື່ອສາກ ຫຼື ບໍ່ດັ່ງນັ້ນທ່ານອາດສ້າງຄວາມເສຍຫາຍຖາວອນ/ຄວາມເສຍຫາຍພາຍນອກໃຫ້ກັບອຸປະກອນຂອງທ່ານ.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">ກະລຸນາໃຊ້ແບັດເຕີຣີຂອງແທ້</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">ຢຸດການສາກໄຟແລ້ວ</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">ແບັດເຕີຣີບໍ່ຖືກຕ້ອງ</string>
+    <string name="fih_battery_protect_low_full_charging">ຮອດຂີດຈຳກັດການສາກສູງສຸດຢູ່ອຸນຫະພູມຕໍ່າແລ້ວ! ເມື່ອອຸນຫະພູມໂທລະສັບກັບຄືນເປັນປົກກະຕິ, ລະບົບຈະສືບຕໍ່ສາກໃນຄວາມໄວປົກກະຕິ.</string>
+    <string name="fih_battery_protect_low_full_charging_title">ຮອດຂີດຈຳກັດການສາກຢູ່ອຸນຫະພູມຕໍ່າແລ້ວ</string>
+    <string name="fih_battery_protect_low_temp_text">ອຸນຫະພູມຕໍ່າເກີນໄປ, ຢຸດການສາກແລ້ວ.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">ອຸນຫະພູມແບັດເຕີຣີຕໍ່າເກີນໄປ, ສະນັ້ນຢຸດການສາກໄວ້ແລ້ວ.</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">ອຸນຫະພູມແບັດເຕີຣີຕໍ່າສຸດຂີດ ແລະ ມັນຈະຢຸດການສາກ.</string>
+    <string name="fih_battery_protect_low_temp_title">​ແຈ້ງ​ເຕ​ືອນ</string>
+    <string name="fih_battery_protect_low_temp_title_wear">ອຸນຫະພູມຕໍ່າ</string>
+    <string name="fih_battery_protect_maxtemp_text">ອຸນຫະພູມໂທລະສັບສູງເກີນໄປ, ຈະຖືກປິດເຄື່ອງດຽວນີ້.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">ອຸນຫະພູມອຸປະກອນສູງເກີນໄປ, ຈະຖືກປິດເຄື່ອງດຽວນີ້.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">ອຸນຫະພູມໂມງໄດ້ຮອດຂີດຈຳກັດຂອງມັນແລ້ວ ແລະ ມັນຈະປິດເຄື່ອງໃນທັນທີ.</string>
+    <string name="fih_battery_protect_maxtemp_title">ອຸນຫະພູມສູງສຸດ</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">ອຸນຫະພູມສູງສຸດ</string>
+    <string name="fih_battery_protect_normalmode_text">ກັບຄືນສູ່ການໃຊ້ງານປົກກະຕິແລ້ວ.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">ກັບຄືນສູ່ການໃຊ້ງານປົກກະຕິແລ້ວ.</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">ໂມງໄດ້ກັບຄືນສູ່ການໃຊ້ງານປົກກະຕິແລ້ວ.</string>
+    <string name="fih_battery_protect_normalmode_title">ອຸນຫະພູມປົກກະຕິ</string>
+    <string name="fih_battery_protect_normalmode_title_wear">ອຸນຫະພູມປົກກະຕິ</string>
+    <string name="fih_battery_protect_notification_cooling_down">ກຳລັງເຮັດໃຫ້ເຢັນຂຶ້ນ</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">ອຸນຫະພູມສູງ</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">ຕິດຕັ້ງແບັດເຕີຣີບໍ່ຖືກຕ້ອງ</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">ຢຸດການສາກ</string>
+    <string name="fih_battery_protect_ok_wear">ຖືກແລ້ວ</string>
+    <string name="fih_battery_protect_power_off">ປິດເຄື່ອງ</string>
+    <string name="fih_battery_protect_tap_learn_more">ແຕະເພື່ອສຶກສາເພີ່ມເຕີມ.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">ອຸນຫະພູມເກີນຂອບເຂດ.</string>
+    <string name="fih_battery_protect_warning_text">ກະລຸນາປິດການໂທ ແລະ ແອັບພລິເຄຊັນເພື່ອເຮັດໃຫ້ໂທລະສັບເຢັນລົງ.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">ພວກເຮົາແນະນຳໃຫ້ຫຼຸດຄວາມສະຫວ່າງລົງ ແລະ ປິດແອັບພລິເຄຊັນຕ່າງໆ ເພື່ອໃຫ້ອຸປະກອນເຢັນລົງໂດຍການກົດປຸ່ມ.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">ອຸນຫະພູມໂມງສູງເກີນໄປ. ພວກເຮົາແນະນຳໃຫ້ລີ່ໜ້າຈໍໃຫ້ມືດລົງ ແລະ ຢຸດແອັບພລິເຄຊັນຕ່າງໆ. ກະລຸນາກວດເພື່ອຢືນຢັນການດຳເນີນການເຫຼົ່ານີ້.</string>
+    <string name="fih_battery_protect_warning_title">ລະວັງອຸນຫະພູມໂມງສູງ.</string>
+    <string name="fih_battery_protect_warning_title_wear">ອຸນຫະພູມສູງ</string>
+</resources>

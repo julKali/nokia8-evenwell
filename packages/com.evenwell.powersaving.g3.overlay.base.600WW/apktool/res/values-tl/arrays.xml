@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 segundo</item>
+        <item>30 segundo</item>
+        <item>1 minuto</item>
+        <item>2 minuto</item>
+        <item>Gamitin ang natukoy na sistema</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>Awtomatikong liwanag</item>
+        <item>Gamitin ang natukoy na sistema</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 minuto</item>
+        <item>5 minuto</item>
+        <item>10 minuto</item>
+        <item>15 minuto</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>Paggawa</item>
+        <item>Katatagan</item>
+        <item>User Interface</item>
+        <item>Epekto ng Pagsi-save ng power</item>
+        <item>Ibang Mga Problema</item>
+        <item>Mga Suhestiyon</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_schedule_entries">
+        <item>10% power ng baterya</item>
+        <item>15% power ng baterya</item>
+        <item>20% power ng baterya</item>
+        <item>30% power ng baterya</item>
+        <item>40% power ng baterya</item>
+    </string-array>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statis</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Deteksi secara otomatis</item>
+        <item>Tangani sebagai terukur</item>
+        <item>Tangani sebagai tidak terukur</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Tidak ada</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Tidak ada</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Tidak ada</item>
+        <item>Manual</item>
+        <item>Konfigurasi Otomatis Proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Lemah</item>
+        <item>Cukup</item>
+        <item>Bagus</item>
+        <item>Sempurna</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Memindai…</item>
+        <item>Menyambung…</item>
+        <item>Mengautentikasi…</item>
+        <item>Mendapatkan alamat IP…</item>
+        <item>"T'sambung"</item>
+        <item>Ditangguhkan</item>
+        <item>Memutuskan…</item>
+        <item>Terputus</item>
+        <item>Tidak berhasil</item>
+        <item>Diblokir</item>
+        <item>Menghindari koneksi lemah untuk sementara</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Memindai…</item>
+        <item>Menyambung ke %1$s…</item>
+        <item>Mengautentikasi dengan %1$s…</item>
+        <item>Mendapatkan alamat IP dari %1$s…</item>
+        <item>Tersambung ke %1$s</item>
+        <item>Ditangguhkan</item>
+        <item>Memutuskan dari %1$s…</item>
+        <item>Terputus</item>
+        <item>Tidak berhasil</item>
+        <item>Diblokir</item>
+        <item>Menghindari koneksi lemah untuk sementara</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI heksadesimal</item>
+    </string-array>
+</resources>

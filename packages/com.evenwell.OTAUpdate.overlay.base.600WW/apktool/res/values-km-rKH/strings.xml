@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="file_not_found">ហ្វៃល៍មិនបានរកឃើញ</string>
+    <string name="download_sw_fail">បាន​បរាជ័យ​ក្នុង​ការ​ទាញយក​សុហ្វវែរ។</string>
+    <string name="checking">កំពុង​ពិនិត្យ...</string>
+    <string name="verifying">កំពុង​ផ្ទៀង​ផ្ទាត់...</string>
+    <string name="please_wait">សូម​មេត្តារង់ចាំ...</string>
+    <string name="header_system_update_available">អាប់ដេតប្រព័ន្ធ​អាចរកបាន</string>
+    <string name="header_attention">ប្រុងប្រយ័ត្ន</string>
+    <string name="button_install_now">ដំឡើងឥឡូវនេះ</string>
+    <string name="header_unable_to_connect">មិនអាចភ្ជាប់</string>
+    <string name="button_reset">សិតឡើងវិញ</string>
+    <string name="button_settings">ការសិត</string>
+    <string name="msg_no_sd_card_short">មិនមានកាត SD​ ទេ</string>
+    <string name="title_system_update_ready">កំពុងត្រៀមអាប់ដេត​ប្រព័ន្ធ</string>
+    <string name="msg_system_update_ready">ចុចដើម្បីដំឡើងអាប់ដេត​ប្រព័ន្ធ</string>
+    <string name="hide">លាក់</string>
+    <string name="update">ធ្វើបច្ចុប្បន្នភាព</string>
+    <string name="wifi_only">តែ Wi-Fi ទេ</string>
+    <string name="installing">កំពុងដំឡើង...</string>
+    <string name="install_complete">បានតម្លើង</string>
+    <string name="install">បញ្ចូល</string>
+    <string name="description">ពិពណ៌នា：</string>
+    <string name="new_forpreference">ថ្មី៖</string>
+    <string name="downloaded">បាន​ទាញ​យក</string>
+    <string name="prepare_to_reboot_force_summary">សុហ្វវែរ​ដែល​បាន​ដំឡើង​ត្រូវការ​ចាប់ផ្ដើម​ឧបករណ៍​ឡើងវិញ ដើម្បី​ធ្វើ​ការកំណត់​រចនាសម្ពន្ធ។ យើង​ស្នើ​ឲ្យ​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវ។</string>
+    <string name="reboot">ចាប់​ផ្ដើម​ឡើង​វិញ​</string>
+    <string name="header_warning">ការ​ព្រមាន</string>
+    <string name="ask_for_apk_check">តើ​អ្នក​ចង់​ពិនិត្យ​រក​បច្ចុប្បន្នភាព​នៃ​កម្មវិធី?</string>
+    <string name="update_ota_self">បច្ចុប្បន្នភាព​នៃ​សុហ្វវែរ​កំពុង​ដំណើរការ។</string>
+    <string name="ab_update_fail">បញ្ហា​ការដំឡើង។</string>
+    <string name="ab_update_wrong_status">ឥឡូវ ម៉ាស៊ីន​បច្ចុប្បន្នភាព​កំពុង​រវល់។ សូម​សាកល្បង​ម្ដងទៀត​ពេលក្រោយ ឬ ចាប់ផ្ដើម​ឡើងវិញ។</string>
+    <string name="ab_update_installing">កំពុង​ធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធ</string>
+    <string name="tag_engineer_mode">ទម្រង់​វិស្វកម្ម</string>
+    <string name="engineer_version_incorrect">កំណែ​ឧបករណ៍​របស់​អ្នក​មិន​ត្រឹមត្រូវ</string>
+    <string name="msg_engineer_ota_restore">ប៉ះ ដើម្បី​ស្ដារ​កំណែ​ផ្លូវការ</string>
+    <string name="msg_engineer_ota_restore_warning">នេះ​នឹង​ស្ដារ​កំណែ​ផ្លូវការ។ តើ​អ្នក​ចង់​បន្ត?</string>
+    <string name="silent_mode_data_fee_warning">បច្ចុប្បន្នភាព​មិន​អាច​ប្រើ​បាន។ ការទាញយក​បច្ចុប្បន្នភាព​អាច​គិតថ្លៃ​បន្ថែម។ ទាញយក​បច្ចុប្បន្នភាព​តាម Wi-Fi បើ​អាច។</string>
+    <string name="msg_updating_system">កំពុង​ធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធ...</string>
+    <string name="msg_tap_to_reboot">ប៉ះ ដើម្បី​ចាប់ផ្ដើម​ឡើងវិញ</string>
+    <string name="msg_pause_download">ផ្អាក​ការទាញយក</string>
+    <string name="notification_channel_name">បច្ចុប្បន្នភាព​ប្រព័ន្ធ</string>
+    <string name="notification_channel_alert_name">ការជូនដំណឹង​ទូទៅ</string>
+</resources>

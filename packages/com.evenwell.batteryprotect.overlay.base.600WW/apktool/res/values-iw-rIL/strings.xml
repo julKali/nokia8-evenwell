@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">אישור</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">ביטול</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">התראות כלליות</string>
+    <string name="fih_battery_protect_ok_wear">אישור</string>
+    <string name="fih_battery_protect_cancel_wear">ביטול</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">יש להשתמש בסוללה מקורית</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">הטעינה הופסקה</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">יש להשתמש בסוללה מקורית בעת טעינה כדי למנוע אפשרות של נזק קבוע/פיזי למכשיר שלך.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">הסוללה אינה תקינה</string>
+    <string name="fih_battery_protect_notification_cooling_down">צינון</string>
+    <string name="fih_battery_protect_tap_learn_more">הקש לקבלת מידע נוסף.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"הטלפון מתחמם, לכן הוא מבצע כמה פעולות כדי להתקרר. עדיין תוכל להשתמש בו, אך ייתכן שתבחין\"
+·טעינה עשויה להפסיק.
+·ייכן שה-Wi-Fi יושבת.
+·ייכן שאפליקציות ייסגרו.
+ייכן שהמכשיר יעבור למצב טיסה.
+הטלפון יחזור למצב רגיל לאחר שהוא יתקרר."</string>
+</resources>

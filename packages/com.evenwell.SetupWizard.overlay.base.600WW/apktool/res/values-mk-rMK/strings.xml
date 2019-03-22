@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"Придружете се на програмата за искуство на корисникот. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Научете повеќе&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"Со допирање на копчето се согласувате на &lt;a href='launch.TermOfServiceActivity://Kode'>Условите за услугата&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>Политиката за приватност&lt;/a>. Информациите за активирање на уредот со еднократно лоцирање на уредот ќе бидат испратени на HMD Global.&lt;br/>&lt;br/>Ќе биде овозможено известување за автоматско ажурирање на софтверот со што ќе се инсталираат најновите ажурирања за вас. Тоа може да потроши мал дел од вашиот податочен буџет Услугите ќе пристапуваат на Интернет секогаш кога им е тоа потребно.&lt;br/>&lt;br/>Овие услуги ќе предизвикаат трошоци за пречекорување кога пристапуваат на мобилни мрежи."</string>
+    <string name="welcome_hmd_term_of_use_5">"Со допирање на копчето се согласувате на &lt;a href='launch.TermOfServiceActivity://Kode'>Условите за услугата&lt;/a>. Податоците ќе бидат користени според &lt;a href='launch.AddUploadAgentHandler://Kode'>Политиката за приватност на HMD&lt;/a>. Информациите за активирање на уредот со еднократно лоцирање на уредот ќе бидат испратени на HMD Global. Може да настанат трошоци за податочната врска."</string>
+    <string name="welcome_vision_settings_button_label">Поставки за вид</string>
+    <string name="next_btn_lebel">СЛЕДНО</string>
+    <string name="sim_not_exist_toast">Проверете дали ставивте SIM-картичка.</string>
+    <string name="idle_too_long_toast">Овој телефон е во мирување подолго време. Исклучете го сега за да заштедите енергија.</string>
+    <string name="welcome_message">Добредојдовте</string>
+    <string name="welcome_infocus_term_of_use">"Со допирање на стрелката, се согласувате со&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Условите за услугата&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_2">"Со допирање на стрелката се согласувате со &lt;a href='launch.TermOfServiceActivity://Kode'>Условите за услугата&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>Политиката за приватност&lt;/a>. Информациите за активирање на уредот со еднократно лоцирање на уредот ќе бидат испратени на HMD Global. Може да настанат трошоци за податоците."</string>
+    <string name="welcome_start_button_label">СТАРТ</string>
+    <string name="emergency_dial_message">Повик за итни случаи</string>
+    <string name="emergency_dial_hmd_message">Итен случај</string>
+    <string name="accessibility_text">Пристапност</string>
+    <string name="language_selection_title">Изберете јазик</string>
+    <string name="language_selection_cancel_btn">ОТКАЖИ</string>
+    <string name="welcome_lets_go_button_label">Да започнеме</string>
+    <string name="terms_title">Користење на податоците</string>
+    <string name="terms_of_service_description">"
+Може да се појават дополнителни трошоци од користење на мобилната податочна врска кога користите услуги што наложуваат мрежна врска, како што се услуги за временска прогноза, услуги за Интернет, е-пошта, пребарувач итн. За поефикасно управување со надоместокот за користење мобилна податочна врска, советуваме да аплицирате за соодветен пакет мобилни услуги од вашиот оператор.
+
+Со избирање Се согласувам, дозволувате овие услуги да се поврзат на мрежа кога тоа е потребно.
+
+Освен тоа, автоматско ажурирање на софтверот е стандардно овозможено. За да ви го дадат најновото искуство во софтверот, можеби ќе искористат малку мобилни податоци. Секогаш можете да ја смените оваа опција во Поставки.
+
+"</string>
+    <string name="term_agree_text">Се согласувам</string>
+    <string name="term_disagree_text">Не се согласувам</string>
+    <string name="datausage_dialog_positive_btn">Во ред</string>
+    <string name="datausage_dialog_negitive_btn">Откажи</string>
+    <string name="traffic_prompt_content">Доколку не се согласите, ќе мора рачно да го преземате ажурирањето на софтверот, временската прогноза или други информации.</string>
+    <string name="google_account_intro_description">За да ги користите сите услуги на Google креирајте сметка на Google.</string>
+    <string name="google_account_intro_title">Сметка на Google</string>
+    <string name="google_account_add_account">Најави се со Google</string>
+    <string name="location_title">Користете локација од Google</string>
+    <string name="location_info_1">Услугата на Google за локација обезбедува апликации со вашата приближна локација без користење GPS.</string>
+    <string name="location_info_2">Можете да ги оневозможите овие одлики во Поставки, во Услуги за локација.</string>
+    <string name="location_network">Овозможете услугата за лоцирање на Google да собира анонимни податоци за локацијата. Собирањето податоци ќе се случува дури и кога апликацијата не е стартувана.</string>
+    <string name="location_for_service">Користи My Location за резултатите од пребарување на Google и другите услуги на Google.</string>
+    <string name="date_and_time">Поставки за датум и време</string>
+    <string name="date_time_auto">Автоматски датум и време</string>
+    <string name="date_time_auto_summaryOn">Користи време обезбедено од мрежа</string>
+    <string name="date_time_auto_summaryOff">Користи време обезбедено од мрежа</string>
+    <string name="zone_auto">Автоматска временска зона</string>
+    <string name="zone_auto_summaryOn">Користи временска зона обезбедена од мрежа</string>
+    <string name="zone_auto_summaryOff">Користи временска зона обезбедена од мрежа</string>
+    <string name="date_time_set_date">Постави датум</string>
+    <string name="date_time_set_time">постави време</string>
+    <string name="date_time_set_timezone">Избери временска зона</string>
+    <string name="date_time_24hour">Користи 24-часовен формат</string>
+    <string name="date_time_date_format">Избери формат на датум</string>
+    <string name="choose_timezone">Избери временска зона</string>
+    <string name="normal_date_format">Регионален (%s)</string>
+    <string name="date_and_time_settings_title">Датум и време</string>
+    <string name="date_and_time_settings_title_setup_wizard">Подеси датум и време</string>
+    <string name="date_and_time_settings_summary">Постави датум, време, временска зона и формати</string>
+    <string name="date_picker_title">Датум</string>
+    <string name="time_picker_title">Време</string>
+    <string name="account_intro_title">Сметка за услуги на [BRAND_NAME]</string>
+    <string name="account_intro_description">Користете го уредот попаметно преку приклучување на услугите на [BRAND_NAME].</string>
+    <string name="add_infocus_service_account">Додај сметка за услуги на [BRAND_NAME]</string>
+    <string name="dropbox_fih_signup">Регистрирајте се на Dropbox</string>
+    <string name="dropbox_fih_signin">Најави се на Dropbox</string>
+    <string name="dropbox_fih_description">Земете бесплатен простор од 2 GB во Dropbox за автоматско чување на вашите фотографии и видео-записи.</string>
+    <string name="nevigation_selection_title">Приказ на софтверско копче</string>
+    <string name="nevigation_selection_text">Можете да ја смените бојата на заднината и положбата на копчињата за Назад/Неодамнешни.</string>
+    <string name="nevigation_selection_back">Оди назад..</string>
+    <string name="nevigation_selection_home">Почетен екран</string>
+    <string name="nevigation_selection_recent">Скорешни</string>
+    <string name="upload_agent_hmd_des_text_2">"Придружете се на програмата за искуство на корисникот на Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Научете повеќе.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Програма за искуство на корисникот</string>
+    <string name="setup_completed_congratulations">Честитки!</string>
+    <string name="setup_complete_hmd">Можете да започнете...</string>
+    <string name="setup_complete_main">Вие сте</string>
+    <string name="setup_complete_sub">ПОДГОТВЕН ЗА СТАРТУВАЊЕ.</string>
+    <string name="hmd_user_experience_program_title">Програма за искуство на корисникот</string>
+    <string name="hmd_user_experience_program_message">Вашето учество во програмата за искуство на корисникот му помага на HMD Global подобро да разбере што сакате од уредот на Nokia и што мислите дека треба да се подобри. Од време на време, може да добиваме анонимни податоци со технички карактеристики за вашиот уред, како на пример датотека со податоци за пад на софтверот што можеби се случил. Таквите податоци нема да бидат пренесувани преку мобилна врска. Со задоволство сакаме да чуеме што мислите за вашиот уред од Nokia!</string>
+    <string name="skip_button_label">Прескокни</string>
+    <string name="skip_add_account_button_label">Не сега</string>
+    <string name="device_checking_message">Добредојдовте</string>
+    <string name="backup_and_restore_title">Резервна копија и обновување</string>
+    <string name="backup_and_restore_description">"Доколку претходно сте направиле резервна копија на вашата сметка, сега можете да ја обновите на овој телефон.
+
+Во секое време можете да ги промените поставките за резервна копија во Поставки."</string>
+    <string name="baidu_intro_title">Склад во облак за Baidu</string>
+    <string name="baidu_intro_description">Можете да уживате во непречена интеграција на складови во облак со Baidu Yun преку правење неколку едноставни чекори.</string>
+    <string name="add_baidu_button_label">Најави се на Baidu Yun</string>
+    <string name="baidu_progress_dialog_des">Ве молиме, почекајте...</string>
+    <string name="wifi_picker_connection_title">Мрежна врска</string>
+    <string name="wifi_picker_connection_des_text">Оневозможувањето на врската преку WLAN може да предизвика трошок кога вашиот софтвер се верификува преку мобилната мрежа.</string>
+    <string name="wifi_picker_connection_positive">Во ред</string>
+    <string name="wifi_picker_connection_negative_prc">Поврзи на WLAN</string>
+    <string name="wifi_picker_connection_negative">Поврзи се</string>
+    <string name="wifi_picker_warning_title">Предупредување:</string>
+    <string name="wifi_picker_warning_des_text">Додека на добиете интернет врска, телефонот нема да може да провери дали вашиот софтвер е ажуриран.</string>
+    <string name="wifi_picker_warning_positive">Не прескокнувај</string>
+    <string name="wifi_picker_warning_negative">Сепак прескокни</string>
+    <string name="wapi_psk_security_type">Тип на лозинка</string>
+    <string name="upload_agent_hmd_des_text_3">"Со допирање на \"ЗАПОЧНИ\", се согласувате да се приклучите на програмата за искуство на корисникот. &lt;a href='launch.UserExperienceActivity://Kode'>Научете повеќе&lt;/a>. Запомнете, секогаш можете да се приклучите преку Поставки."</string>
+    <string name="setup_complete_hmd_1">Речиси сте подготвени да започнете...!</string>
+    <string name="not_now">НЕ СЕГА...</string>
+    <string name="setup_finish">ДА ПОЧНЕМЕ</string>
+    <string name="wifi_fail_to_scan">Не може да се скенираат мрежи</string>
+    <string name="wifi_disabled_network_failure">Неуспешна конфигурација на IP</string>
+    <string name="wifi_disabled_password_failure">Проблем при потврдување</string>
+    <string name="wifi_not_in_range">Надвор од опсег</string>
+    <string name="wifi_no_internet_no_reconnect">Нема да се поврзе автоматски</string>
+    <string name="wifi_no_internet">Нема пристап до Интернет</string>
+    <string name="saved_network">Зачувано од %1$s</string>
+    <string name="connected_via_passpoint">Поврзано преку %1$s</string>
+    <string name="available_via_passpoint">Достапно преку %1$s</string>
+    <string name="wifi_connected_no_internet">Поврзано, нема Интернет</string>
+    <string name="wifi_auth_password_wrong">Лозинката може да е неточна</string>
+    <string name="connected_via_wfa">Поврзано преку помошник на Wi‑Fi</string>
+    <string name="wifi_ssid">Име на мрежата</string>
+    <string name="wifi_ssid_hint">Внесете SSID</string>
+    <string name="wifi_eap_method">Метода EAP</string>
+    <string name="please_select_phase2">Фаза 2 потврдување</string>
+    <string name="wifi_eap_ca_cert">CA-сертификат</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Нема специфициран сертификат. Вашата врска нема да биде приватна.</string>
+    <string name="wifi_eap_domain">Домен</string>
+    <string name="wifi_no_domain_warning">Мора да се наведе домен.</string>
+    <string name="wifi_eap_user_cert">Сертификат на корисникот</string>
+    <string name="wifi_eap_identity">Идентитет</string>
+    <string name="wifi_eap_anonymous">Анонимен идентитет</string>
+    <string name="wifi_show_password">Покажи лозинка</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Паѓачка листа Напредни опции. Допрете двојно за раширување.</string>
+    <string name="wifi_show_advanced">Напредни опции</string>
+    <string name="proxy_warning_limited_support">Прокси-серверот HTTP може да се користи од пребарувачот, но не може да се користи од другите апликации.</string>
+    <string name="proxy_hostname_label">Име на хостот на прокси-серверот</string>
+    <string name="proxy_exclusionlist_label">Заобиколи го прокси-серверот за</string>
+    <string name="wifi_ip_settings">IP-поставки</string>
+    <string name="wifi_ip_address">IP-адреса</string>
+    <string name="wifi_gateway">Порта</string>
+    <string name="wifi_network_prefix_length">Должина на префиксот на мрежата</string>
+    <string name="wifi_shared">Сподели со другите корисници на уредот</string>
+    <string name="proxy_port_label">Порта на прокси-сервер</string>
+    <string name="wifi_unspecified">Ве молиме изберете</string>
+    <string name="wifi_multiple_cert_added">(Додадени се повеќе сертификати)</string>
+    <string name="wifi_use_system_certs">Користи сертификати од системот</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Не обезбедувај</string>
+    <string name="wifi_do_not_validate_eap_server">Не потврдувај</string>
+    <string name="wifi_add_network">Додај мрежа</string>
+    <string name="wifi_save">Зачувај</string>
+    <string name="passpoint_label">Зачувано преку</string>
+    <string name="wifi_status">Статус</string>
+    <string name="wifi_signal">Јачина на сигналот</string>
+    <string name="wifi_speed">Брзина на веб-врската</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_forget">Заборави</string>
+    <string name="proxy_error_invalid_port">Портата што ја внесовте не е валидна.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Внесете валидна IP-адреса.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Внесете должина на префиксот на мрежата од 0 до 32</string>
+    <string name="wifi_ip_settings_invalid_gateway">Внесете валидна адреса на портата.</string>
+    <string name="wifi_ip_settings_invalid_dns">Внесете валидна DNS-адреса.</string>
+    <string name="wifi_unchanged">(непроменето)</string>
+    <string name="wifi_failed_connect_message">Неуспешно поврзување на мрежата.</string>
+    <string name="wifi_failed_save_message">Неуспешно зачувување на мрежа</string>
+    <string name="wifi_failed_forget_message">Неуспешно заборавање мрежа</string>
+    <string name="proxy_error_empty_host_set_port">Доколку полето на хостот е празно, полето на портата мора да биде празно.</string>
+    <string name="proxy_error_empty_port">Треба да го пополните полето за портата.</string>
+    <string name="proxy_error_invalid_exclusion_list">Листата на исклучоци која ја внесовте не е правилно форматирана. Внесете листа на исклучени домени со запирка како сепаратор.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Паѓачка листа Напредни опции. Допрете двојно за собирање.</string>
+    <string name="passpoint_content">Акредитиви на %1$s</string>
+    <string name="sim_editor_title">Лежиште за SIM %1$d</string>
+    <string name="wifi_certificate">Сертификат</string>
+    <string name="wifi_setting_title">Поврзете се</string>
+    <string name="wifi_skip_anyway">ПРЕСКОКНИ СЕКАКО</string>
+    <string name="wifi_dont_skip">ОДИ НАЗАД</string>
+    <string name="wifi_and_mobile_skipped_message">"Поврзување на мрежа ви помага брзо да го поставите телефонот.
+
+Без врска, не можете да:
+
+"<li>се најавите на вашата сметка на Cloud</li>"
+
+"<li>добивате ажурирања на софтверот</li>"
+
+"<li>автоматски поставувате време и датум</li></string>
+</resources>

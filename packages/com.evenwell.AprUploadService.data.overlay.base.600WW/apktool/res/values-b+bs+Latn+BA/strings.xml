@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Pravila o privatnosti kompanije HMD</string>
+    <string name="privacy_activity">Pravila o privatnosti kompanije HMD</string>
+    <string name="go_label">Urađeno</string>
+    <string name="next_btn_lebel">Naprijed</string>
+    <string name="app_name">Dijagnostika sistema</string>
+    <string name="setting_page_name">Program korisnički doživljaj</string>
+    <string name="send_diag_dialog_any_network">Kada je podatkovna veza na rasposlaganju</string>
+    <string name="send_diag_dialog_wifi">Kada je Wi-Fi veza na rasposlaganju</string>
+    <string name="send_diag_dialog_wlan">Kada je WLAN veza na rasposlaganju</string>
+    <string name="send_diag_dialog_title">Pošalji dijagnostiku</string>
+    <string name="diagnostics_setting">Dijagnostika</string>
+    <string name="diagnostics_report">Dijagnostički izvještaj</string>
+    <string name="diagnostics_report_summary">Pošaljite dijagnostički izvještaj kada se uređaj suočava s greškom softvera. Moguće je da se primjenjuju troškovi mrežne veze. Preporučuje se nabavljanje paketa podatakovne mreže od pružaoca usluge.</string>
+    <string name="network_options">Mrežne opcije</string>
+    <string name="send_diagnostics">Pošalji dijagnostiku</string>
+    <string name="cancel_upload_confirm_msg">Nalazite se pred otkazivanjem našeg programa o korisničkom doživljaju. Greške na softveru koje su se pojavile u vašem telefonu neće biti pohranjene ili poslane, tako da možda nećemo moći poboljšati vaš doživljaj na ovom telefonu.</string>
+</resources>

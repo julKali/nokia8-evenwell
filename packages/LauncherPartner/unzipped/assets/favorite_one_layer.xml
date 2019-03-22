@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites>
+<!-- hotseat -->
+    <!-- Google Dialer -->
+    <favorite packageName="com.google.android.dialer" className="com.google.android.dialer.extensions.GoogleDialtactsActivity"
+        container="-101" screen="0" x="0" y="0" />
+    <!-- Contacts -->
+    <favorite packageName="com.google.android.contacts" className="com.android.contacts.activities.PeopleActivity"
+        container="-101" screen="1" x="0" y="0" />
+    <!-- Messenger -->
+    <favorite packageName="com.google.android.apps.messaging" className="com.google.android.apps.messaging.ui.ConversationListActivity"
+        container="-101" screen="2" x="0" y="0" />
+    <!-- Chrome -->
+    <favorite packageName="com.android.chrome" className="com.google.android.apps.chrome.Main"
+        container="-101" screen="3" x="0" y="0" />
+    <!-- Camera -->
+    <favorite packageName="com.evenwell.camera2" className="com.android.camera.CameraLauncher"
+        container="-101" screen="4" x="0" y="0" />
+
+<!-- Main screen (0) -->
+    <!-- Google Search Widget -->
+    <widget packageName="com.google.android.googlequicksearchbox" className="com.google.android.googlequicksearchbox.SearchWidgetProvider"
+        container="-100" screen="0" x="0" y="0" spanX="5" spanY="1" />
+    <!-- Google Clock Widget -->
+    <widget packageName="com.google.android.deskclock" className="com.android.alarmclock.DigitalAppWidgetProvider"
+        container="-100" screen="0" x="0" y="1" spanX="5" spanY="2" />
+    <!-- Google Play -->
+    <favorite packageName="com.android.vending" className="com.android.vending.AssetBrowserActivity"
+        container="-100" screen="0" x="0" y="4" />
+    <!-- Music -->
+    <favorite packageName="com.evenwell.music" className="com.fihtdc.music.ui.activities.MainActivity"
+        container="-100" screen="0" x="1" y="4" />
+    <!-- Email -->
+    <favorite packageName="com.android.email" className="com.android.email.activity.Welcome"
+        container="-100" screen="0" x="2" y="4" />
+    <!-- Settings -->
+    <favorite packageName="com.android.settings" className="com.android.settings.Settings"
+        container="-100" screen="0" x="3" y="4" />
+    <!-- Google Folder -->
+    <folder container="-100" screen="0" x="4" y="4" title="Google">
+        <!-- Google Search -->
+        <favorite packageName="com.google.android.googlequicksearchbox" className="com.google.android.googlequicksearchbox.SearchActivity" />
+        <!-- Chrome -->
+        <!--<favorite packageName="com.android.chrome" className="com.google.android.apps.chrome.Main" />-->
+        <!-- Gmail -->
+        <favorite packageName="com.google.android.gm" className="com.google.android.gm.ConversationListActivityGmail" />
+        <!-- Google Maps -->
+        <favorite packageName="com.google.android.apps.maps" className="com.google.android.maps.MapsActivity" />
+        <!-- YouTube -->
+        <favorite packageName="com.google.android.youtube" className="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" />
+        <!-- Google Drive -->
+        <favorite packageName="com.google.android.apps.docs" className="com.google.android.apps.docs.app.NewMainProxyActivity" />
+        <!-- Google Play Music -->
+        <favorite packageName="com.google.android.music" className="com.android.music.activitymanagement.TopLevelActivity" />
+        <!-- Google Play Movies -->
+        <favorite packageName="com.google.android.videos" className="com.google.android.youtube.videos.EntryPoint" />
+        <!-- Duo -->
+        <favorite packageName="com.google.android.apps.tachyon" className="com.google.android.apps.tachyon.MainActivity" />
+        <!-- Hangouts -->
+        <favorite packageName="com.google.android.talk" className="com.google.android.talk.SigningInActivity" />
+        <!-- Google Photos -->
+        <favorite packageName="com.google.android.apps.photos" className="com.google.android.apps.photos.home.HomeActivity" />
+        <!--<favorite packageName="com.google.android.apps.plus" className="com.google.android.apps.plus.phone.ConversationListActivity" />-->
+        <!-- Google Play Books -->
+        <favorite packageName="com.google.android.apps.books" className="com.google.android.apps.books.app.BooksActivity" />
+        <!-- Google Play Newsstand -->
+        <favorite packageName="com.google.android.apps.magazines" className="com.google.apps.dots.android.app.activity.CurrentsStartActivity" />
+        <!-- Google Play Games -->
+        <favorite packageName="com.google.android.play.games" className="com.google.android.gms.games.ui.destination.main.MainActivity" />
+        <!-- Voice Search -->
+        <favorite packageName="com.google.android.googlequicksearchbox" className="com.google.android.googlequicksearchbox.VoiceSearchActivity" />
+        <!-- Keep -->
+        <favorite packageName="com.google.android.keep" className="com.google.android.keep.activities.BrowseActivity" />
+        <!-- Wallpapers -->
+        <favorite packageName="com.google.android.apps.wallpaper" className="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" />
+        <!-- Google Zhuyin -->
+        <favorite packageName="com.google.android.apps.inputmethod.zhuyin" className="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" />
+        <!-- Google Settings -->
+        <favorite packageName="com.google.android.gms" className="com.google.android.gms.app.settings.GoogleSettingsActivity" />
+        <!-- Google Plus -->
+        <favorite packageName="com.google.android.apps.plus" className="com.google.android.apps.plus.phone.HomeActivity" />
+        <!-- Google News and Weather -->
+        <favorite packageName="com.google.android.apps.genie.geniewidget" className="com.google.android.apps.genie.geniewidget.activities.NewsActivity" />
+        <!-- Google Handwriting -->
+        <favorite packageName="com.google.android.apps.handwriting.ime" className="com.google.android.apps.handwriting.ime.WelcomeActivity" />
+    </folder>
+
+<!-- Right1 screen (1) -->
+    <!-- Calculator -->
+    <favorite packageName="com.google.android.calculator" className="com.android.calculator2.Calculator"
+        container="-100" screen="1" x="0" y="0" />
+    <!-- Calendar -->
+    <favorite packageName="com.google.android.calendar" className="com.android.calendar.AllInOneActivity"
+        container="-100" screen="1" x="1" y="0" />
+    <!-- Clock -->
+    <favorite packageName="com.google.android.deskclock" className="com.android.deskclock.DeskClock"
+        container="-100" screen="1" x="2" y="0" />
+    <!-- Downloads -->
+    <favorite packageName="com.android.documentsui" className="com.android.documentsui.LauncherActivity"
+        container="-100" screen="1" x="3" y="0" />
+    <!-- File Manager -->
+    <favorite packageName="com.fihtdc.filemanager" className="com.fihtdc.filemanager.FileManager"
+        container="-100" screen="1" x="4" y="0" />
+    <!-- FM Radio -->
+    <favorite packageName="com.evenwell.fmradio" className="com.evenwell.fmradio.FMRadioActivity"
+        container="-100" screen="1" x="0" y="1" />
+    <!-- Video Player -->
+    <favorite packageName="com.evenwell.gallery" className="com.fihtdc.gallery.videoplayer.MovieListActivityLauncher"
+        container="-100" screen="1" x="1" y="1" />
+    <!-- Weather -->
+    <favorite packageName="com.evenwell.weather" className="com.fihtdc.weather.activity.WeatherDetailActivity"
+        container="-100" screen="1" x="2" y="1" />
+    <!-- SIM Toolkit -->
+    <!--
+    <favorite packageName="com.android.stk" className="com.android.stk.StkMain"
+        container="-100" screen="1" x="3" y="1" />
+    -->
+
+<!-- Right2 screen (2) -->
+
+
+</favorites>

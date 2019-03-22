@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:orderInCategory="100">
+        <item android:icon="@drawable/ic_menu_upload" android:id="@id/action_upload" android:orderInCategory="300" android:title="@string/action_upload" android:showAsAction="ifRoom" />
+        <item android:icon="@drawable/ic_menu_save" android:id="@id/action_save" android:orderInCategory="400" android:title="@string/action_save" android:showAsAction="ifRoom" />
+        <item android:icon="@drawable/ic_menu_folder" android:id="@id/action_load" android:orderInCategory="500" android:title="@string/action_load" android:showAsAction="ifRoom" />
+        <item android:icon="@drawable/ic_menu_delete" android:id="@id/action_delete" android:orderInCategory="600" android:title="@string/action_delete" android:showAsAction="ifRoom" />
+        <item android:icon="@drawable/ic_menu_settings" android:id="@id/action_settings" android:orderInCategory="700" android:title="@string/action_settings" android:showAsAction="ifRoom" />
+    </group>
+</menu>

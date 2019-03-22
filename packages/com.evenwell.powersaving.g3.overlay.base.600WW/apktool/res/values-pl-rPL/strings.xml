@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Nie pokazuj ponownie.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Anuluj</string>
+    <string name="switch_on_text">Wł.</string>
+    <string name="switch_off_text">Wył.</string>
+    <string name="fih_power_saving_permission_settings">Ustawienia</string>
+    <string name="fih_power_saving_permission_cancel">Anuluj</string>
+    <string name="lock_screen_ap_protect_title">Menedżer aktywności w tle</string>
+    <string name="all_aps">Dodaj wszystkie aplikacje do białej listy</string>
+    <string name="fih_power_saving_doze_high_consumption">Wysokie zużycie energii</string>
+    <string name="fih_power_saving_background_activity_text">Zezwól, by Menedżer aktywności w tle wydłużył czas pracy baterii, ale pamiętaj, że powiadomienia niektórych aplikacji i poczty elektronicznej mogą nie wyświetlać się od razu. Możesz zarządzać czasem pracy baterii, dodając aplikacje do białej listy lub usuwając je z tej listy.</string>
+    <string name="fih_power_saving_background_cleaner">Oczyszczarka aktywności w tle</string>
+    <string name="fih_power_saving_background_cleaner_summary">Powiadomienia mogą nie wyświetlać się od razu</string>
+    <string name="app_block_list">Lista aplikacji z ograniczeniami</string>
+</resources>

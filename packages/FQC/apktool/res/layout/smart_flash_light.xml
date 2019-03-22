@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/flash_light_start_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:gravity="center" android:id="@id/flash_light_btn_start" android:background="@drawable/zzz_fih_button_black" android:layout_width="150.0dip" android:layout_height="wrap_content" android:text="@string/flight_test_start" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/flash_light_testing" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="30.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/flash_light_being_tested" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/flash_light_result_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:gravity="center" android:id="@id/flash_light_btn_failed" android:background="@drawable/zzz_fih_button_red" android:layout_width="150.0dip" android:layout_height="wrap_content" android:text="@string/flight_test_failed" />
+        <Button android:gravity="center" android:id="@id/flash_light_btn_glint_once" android:background="@drawable/zzz_fih_button_white" android:layout_width="150.0dip" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="@string/flight_glint_once" />
+        <Button android:gravity="center" android:id="@id/flash_light_btn_glint_twice" android:background="@drawable/zzz_fih_button_white" android:layout_width="150.0dip" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="@string/flight_glint_twice" />
+        <Button android:gravity="center" android:id="@id/flash_light_btn_glint_thrice" android:background="@drawable/zzz_fih_button_white" android:layout_width="150.0dip" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:text="@string/flight_glint_thrice" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">[ÑåVîĝåţé ĥöḿé one two]</string>
+    <string name="abc_action_bar_home_description_format">[»%1$s«, »%2$s« one]</string>
+    <string name="abc_action_bar_home_subtitle_description_format">[»%1$s«, »%2$s«, »%3$s« one]</string>
+    <string name="abc_action_bar_up_description">[ÑåVîĝåţé ûþ one two]</string>
+    <string name="abc_action_menu_overflow_description">[Ḿöŕé öþţîöñš one two]</string>
+    <string name="abc_action_mode_done">[Ðöñé one]</string>
+    <string name="abc_activity_chooser_view_see_all">[Šéé åļļ one two]</string>
+    <string name="abc_activitychooserview_choose_application">[Çĥööšé åñ åþþ one two]</string>
+    <string name="abc_capital_off">[ÖFF one]</string>
+    <string name="abc_capital_on">[ÖÑ one]</string>
+    <string name="abc_search_hint">[Šéåŕçĥ… one two]</string>
+    <string name="abc_searchview_description_clear">[Çļéåŕ Qûéŕý one two]</string>
+    <string name="abc_searchview_description_query">[Šéåŕçĥ Qûéŕý one two]</string>
+    <string name="abc_searchview_description_search">[Šéåŕçĥ one two]</string>
+    <string name="abc_searchview_description_submit">[Šûɓḿîţ Qûéŕý one two]</string>
+    <string name="abc_searchview_description_voice">[νöîçé šéåŕçĥ one two]</string>
+    <string name="abc_shareactionprovider_share_with">[Šĥåŕé ŵîţĥ one two]</string>
+    <string name="abc_shareactionprovider_share_with_application">[Šĥåŕé ŵîţĥ »%s« one two]</string>
+    <string name="abc_toolbar_collapse_description">[Çöļļåþšé one two]</string>
+    <string name="app_name">[ÇöļöŕŢéḿþéŕåţûŕéḾåñåĝéŕ one two three]</string>
+    <string name="search_menu_title">[Šéåŕçĥ one two]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+    <string name="v7_preference_off">[ÖFF one]</string>
+    <string name="v7_preference_on">[ÖÑ one]</string>
+</resources>

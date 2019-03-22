@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">സോഫ്റ്റ്‌വെയർ അപ്‌ഡേറ്റ്</string>
+    <string name="file_not_found">ഫയൽ കണ്ടെത്തിയില്ല.</string>
+    <string name="remote_file_fail">റിമോട്ട് ഫയൽ ആക്സസ് ചെയ്യാൻ കഴിയില്ല പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="no_description">(വിവരണമില്ല)</string>
+    <string name="login_fail">സെർവറിൽ ലോഗിൻ ചെയ്യുന്നത് പരാജയപ്പെട്ടു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="get_service_url_fail">നെറ്റ്‌വർക്ക് കണക്ഷൻ സ്ഥിരമല്ല (സേവന URL ലഭ്യമാക്കുന്നതിൽ പരാജയപ്പെട്ടു). പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="query_sw_fail">സോഫ്റ്റ്‌വെയർ വിവരങ്ങൾ അന്വേഷിക്കുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="download_sw_fail">സോഫ്റ്റ്‌വെയർ ഡൗൺലോഡ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="query_sw_incorrect">ഫലം ശരിയല്ല.</string>
+    <string name="no_update_available">പുതിയ അപ്‌ഡേറ്റൊന്നും ലഭ്യമല്ല.</string>
+    <string name="update_not_ready">സെർവറിൽ പുതിയ അപ്‌ഡേറ്റ് തയ്യാറല്ല. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="check_now_label">ഇപ്പോൾ പരിശോധിക്കുക</string>
+    <string name="checking">പരിശോധിക്കുന്നു...</string>
+    <string name="verifying">സ്ഥിരീകരിക്കുന്നു...</string>
+    <string name="header_verifying_update_file">അപ്‌ഡേറ്റ് ചെയ്ത ഫയൽ പരിശോധിച്ചുറപ്പിക്കുന്നു...</string>
+    <string name="unzipping">അൺസിപ്പ് ചെയ്യുന്നു...</string>
+    <string name="please_wait">ദയവായി കാക്കുക...</string>
+    <string name="header_starting_to_download_file">ഫയൽ ഡൗൺലോഡ് ആരംഭിക്കുന്നു...</string>
+    <string name="header_system_update_available">സിസ്റ്റം അപ്‌ഡേറ്റ് ലഭ്യമാണ്</string>
+    <string name="new_version_desc_prompt">പുതിയ പതിപ്പിൾ ഉൾപ്പെടുന്നവ:</string>
+    <string name="header_attention">ശ്രദ്ധിക്കുക</string>
+    <string name="data_fee_warning">നിങ്ങളുടെ മൊബൈൽ നെറ്റ്‌വർക്ക് കണക്ഷനിലൂടെ ഈ സേവനം ഉപയോഗിക്കുന്നത് നിരക്കിന് ഇടയാക്കാം!</string>
+    <string name="header_downloading_update">അപ്‌ഡേറ്റ് ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+    <string name="header_install_system_software_update">സിസ്റ്റം സോഫ്റ്റ്‌വെയർ അപ്ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="msg_install_system_software_update_1">"ഇനിപ്പറയുന്ന സിസ്റ്റം സോഫ്റ്റ്‌വെയർ ഇൻസ്റ്റാൾ ചെയ്യാൻ താൽപ്പര്യപ്പെടുന്നുണ്ടോ?
+സിസ്റ്റം ഇതിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"</string>
+    <string name="msg_install_system_software_update_2">"
+
+അപ്‌ഗ്രേഡ് സമയത്ത് നിങ്ങൾക്ക് ഉപകരണം ഉപയോഗിക്കാനോ എമർജൻസി കോൾ വിളിക്കാനോ ആവില്ല.
+
+സോഫ്റ്റ്‌വെയർ അപ്‌ഡേറ്റ് ചെയ്യുന്ന സമയത്ത്, ബാറ്ററിയോ SD കാർഡോ നീക്കംചെയ്യുന്നത് അപ്രതീക്ഷിത ഫലങ്ങളിലേക്ക് നയിക്കും."</string>
+    <string name="msg_install_system_software_update_3">"
+
+അപ്‌ഗ്രേഡ് സമയത്ത് നിങ്ങൾക്ക് ഉപകരണം ഉപയോഗിക്കാനാവില്ല.
+
+സോഫ്റ്റ്‌വെയർ അപ്‌ഡേറ്റ് ചെയ്യുന്ന സമയത്ത്, വൈദ്യുതി വിച്ഛേദിക്കുന്നതോ ഡൗൺലോഡ് ചെയ്ത ഫയൽ നീക്കംചെയ്യുന്നതോ അപ്രതീക്ഷിത ഫലങ്ങളിലേക്ക് നയിക്കും."</string>
+    <string name="msg_install_system_software_update_4">"
+
+അപ്‌ഗ്രേഡ് സമയത്ത് നിങ്ങൾക്ക് ഉപകരണം ഉപയോഗിക്കാനോ എമർജൻസി കോൾ വിളിക്കാനോ ആവില്ല.
+
+സോഫ്റ്റ്‌വെയർ അപ്‌ഡേറ്റ് ചെയ്യുന്ന സമയത്ത്, വൈദ്യുതി വിച്ഛേദിക്കുന്നതോ ഡൗൺലോഡ് ചെയ്ത ഫയൽ നീക്കംചെയ്യുന്നതോ അപ്രതീക്ഷിത ഫലങ്ങളിലേക്ക് നയിക്കും."</string>
+    <string name="button_install_now">ഇപ്പോൾ ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="button_install_later">പിന്നീട് ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="header_unable_to_connect">കണക്റ്റുചെയ്യാനായില്ല</string>
+    <string name="msg_unable_to_connect">ഈ ആപ്ലിക്കേഷൻ ഉപയോഗിക്കാൻ നിങ്ങൾക്ക് ഒരു നെറ്റ്‌വർക്ക് കണക്ഷൻ ആവശ്യമാണ്. ക്രമീകരണത്തിൽ മൊബൈൽ നെറ്റ്‌വർക്ക് അല്ലെങ്കിൽ Wi-Fi ഓണാക്കുക.</string>
+    <string name="msg_unable_to_connect_2">ഈ ആപ്ലിക്കേഷൻ ഉപയോഗിക്കാൻ നിങ്ങൾക്ക് നെറ്റ്‌വർക്ക് കണക്ഷൻ ആവശ്യമാണ്. ക്രമീകരണത്തിൽ മൊബൈൽ നെറ്റ്‌വർക്ക് ഓണാക്കുക.</string>
+    <string name="msg_unable_to_connect_wlan">ഈ ആപ്ലിക്കേഷൻ ഉപയോഗിക്കാൻ നിങ്ങൾക്ക് ഒരു നെറ്റ്‌വർക്ക് കണക്ഷൻ ആവശ്യമാണ്. ക്രമീകരണത്തിൽ മൊബൈൽ നെറ്റ്‌വർക്ക് അല്ലെങ്കിൽ WLAN ഓണാക്കുക.</string>
+    <string name="msg_unable_to_connect_short">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല</string>
+    <string name="button_reset">പുനക്രമീകരിക്കുക</string>
+    <string name="button_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="header_system_is_update">സിസ്റ്റം അപ്-ടു-ഡേറ്റ് ആണ്.</string>
+    <string name="msg_system_is_update">പുതിയ അപ്‌ഡേറ്റൊന്നും ലഭ്യമല്ല.</string>
+    <string name="msg_system_is_update_short">പുതിയ അപ്‌ഡേറ്റുകളൊന്നും ലഭ്യമല്ല.</string>
+    <string name="msg_no_sd_card">സിസ്റ്റം അപ്‌ഡേറ്റിന് SD കാർഡ് ആവശ്യമാണ്. ലഭ്യമായൊരു SD കാർഡ് ചേർക്കുക.</string>
+    <string name="msg_no_sd_card_short">SD കാർഡ് ഇല്ല</string>
+    <string name="msg_no_available_size_card">ഈ അപ്‌ഡേറ്റ് ഫയലിന് ലഭ്യമായ %s MB ഇടം ആവശ്യമാണ്. SD കാർഡിൽ നിന്ന് കുറച്ച് ഫയലുകൾ ഇല്ലാതാക്കുക.</string>
+    <string name="msg_no_available_size_card_2">ഈ അപ്‌ഡേറ്റ് ഫയലിന് ലഭ്യമായ %s MB ഇടം ആവശ്യമാണ്. ഡാറ്റാ സ്റ്റോറേജിലെ കുറച്ച് ഫയലുകൾ ഇല്ലാതാക്കുക.</string>
+    <string name="msg_no_available_size_card_short">ആവശ്യമായ സ്വതന്ത്ര ഇടമില്ല.</string>
+    <string name="msg_do_not_remove_sd_card">SD കാർഡ് നീക്കംചെയ്യരുത്.</string>
+    <string name="title_system_update_ready">സിസ്റ്റം അപ്‌ഡേറ്റ് തയ്യാറാണ്</string>
+    <string name="msg_system_update_ready">സിസ്റ്റം അപ്ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യാൻ ടാപ്പ് ചെയ്യുക.</string>
+    <string name="msg_system_battery_too_low">"സിസ്റ്റം അപ്‌ഡേറ്റ് തയ്യാറാണ്, എന്നാൽ അത് ഇൻസ്റ്റാൾ ചെയ്യാൻ കഴിയാത്തത്ര താഴ്ന്നതാണ് നിങ്ങളുറ്റെ ഉപകരണ ബാറ്ററി. ബാറ്ററി മാറ്റുക, പിന്നീട് ഇൻസ്റ്റലേഷൻ ആരംഭിക്കുക.
+
+ബാറ്ററി നില 35%%-നേക്കാൾ കൂടുതലായിരിക്കണം.
+നിലവിലെ ബാറ്ററി നില: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">തീരെ താഴ്ന്ന ബാറ്ററി</string>
+    <string name="msg_remove_sd_card">ഡൗൺലോഡ് ചെയ്ത ഫയൽ, SD കാർഡിലേക്ക് എഴുതാൻ കഴിയില്ല. SD കാർഡ് പരിശോധിക്കുക.</string>
+    <string name="msg_remove_sd_card_2">ഡൗൺലോഡ് ചെയ്ത ഫയൽ, ഡാറ്റാ സ്റ്റോറേജിലേക്ക് എഴുതാൻ കഴിയില്ല. സ്റ്റോറേജ് പരിശോധിക്കുക.</string>
+    <string name="msg_remove_sd_card_short">SD കാർഡ് ആക്സസ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="msg_remove_sd_card_short_2">ഡാറ്റാ സ്റ്റോറേജ് ആക്‌സസ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="msg_verify_fail">ഡൗൺലോഡ് ചെയ്ത ഫയൽ പരിശോധിച്ചുറപ്പിക്കുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="msg_verify_fail_short">പരിശോധിച്ചുറപ്പിക്കുന്നത് പരാജയപ്പെട്ടു</string>
+    <string name="msg_unzip_fail">ഡൗൺലോഡ് ചെയ്ത ഫയൽ അൺസിപ്പ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="msg_unzip_fail_short">അൺസിപ്പ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു</string>
+    <string name="hide">മറയ്‌ക്കുക</string>
+    <string name="data_size">ഡാറ്റാ വലുപ്പം</string>
+    <string name="required_size">ആവശ്യമായ ഇടം</string>
+    <string name="network_not_match">WLAN-ലൂടെ മാത്രം ഡൗൺലോഡ് ചെയ്യുന്ന രീതിയിലാണ് നിങ്ങളുടെ നിലവിലെ ക്രമീകരണമുള്ളത്. ഒരു WLAN നെറ്റ്‌വർക്ക് തിരഞ്ഞെടുക്കുക അല്ലെങ്കിൽ നിങ്ങളുടെ ക്രമീകരണം മാറ്റുക.</string>
+    <string name="network_not_match_short">നെറ്റ്‌വർക്ക് പൊരുത്തപ്പെട്ടില്ല.</string>
+    <string name="without_reboot_api">API വിട്ടുപോയിരിക്കുന്നതിനാൽ റീബൂട്ട് ചെയ്യാൻ കഴിയില്ല. സജീവ അപ്‌ഡേറ്റ് വീണ്ടെടുക്കാൻ നേരിട്ട് റീബൂട്ട് ചെയ്യുക.</string>
+    <string name="update_complete">സിസ്റ്റം അപ്‌ഡേറ്റ് പൂർത്തിയായി.</string>
+    <string name="update_complete_short">ബാക്കപ്പ് പൂർത്തിയായി</string>
+    <string name="file_removed">ഡൗൺലോഡ് ചെയ്ത ഫയൽ നീക്കംചെയ്തിരിക്കുന്നു. വീണ്ടും ഡൗൺലോഡ് ചെയ്യുക.</string>
+    <string name="file_removed_short">ഡൗൺലോഡ് ചെയ്ത ഫയൽ നീക്കംചെയ്തിരിക്കുന്നു.</string>
+    <string name="file_not_match">പ്രതീക്ഷിക്കപ്പെടുന്ന വലുപ്പവുമായി ഡൗൺലോഡ് ചെയ്ത ഫയൽ പൊരുത്തപ്പെടുന്നില്ല. വീണ്ടും ഡൗൺലോഡ് ചെയ്യുക.</string>
+    <string name="file_not_match_short">ഫയൽ പൊരുത്തപ്പെടുന്നില്ല.</string>
+    <string name="menu_url">സെർവർ URL മാറ്റുക</string>
+    <string name="menu_enabled">പ്രാപ്തമാക്കിയ സോഫ്‌റ്റ്‌വെയർ മാത്രം</string>
+    <string name="using_internal_storage">ഇന്റേണൽ സ്‌റ്റോറേജ് ഉപയോഗിക്കുന്നു</string>
+    <string name="using_external_storage">എക്‌സ്‌റ്റേണൽ സ്‌റ്റോറേജ് ഉപയോഗിക്കുന്നു</string>
+    <string name="msg_agree_message">"
+
+അപ്‌ഗ്രേഡ് പ്രക്രിയ മുഖേന, ഉപയോക്തൃ ഡാറ്റ മായ്ക്കപ്പെടുന്നതിന് ചെറിയൊരു സാധ്യതയുണ്ട്. ആവശ്യമെങ്കിൽ, സിസ്റ്റം അപ്‌ഗ്രേഡ് ഇൻസ്റ്റാൾ ചെയ്യുന്നതിന് മുമ്പായി ഡാറ്റ ബാക്കപ്പെടുക്കുക."</string>
+    <string name="msg_root_message">"
+
+ഉപകരണം റൂട്ട് ചെയ്തതിന് ശേഷം, സാധാരണ ഗതിയിലുള്ള അപ്‌ഡേറ്റ് ഉറപ്പ് നൽകാൻ കഴിയില്ല."</string>
+    <string name="msg_responsibility_message">ഉപകരണം റൂട്ട് ചെയ്തിരിക്കുന്നതിനാൽ, അപ്‌ഡേറ്റിന് ശേഷം ഉണ്ടാകുന്ന അസാധാരണ സിസ്റ്റം പെരുമാറ്റത്തിന്റെ ഉത്തരവാദിത്തം ഉപയോക്താവിനായിരിക്കും.</string>
+    <string name="msg_upgrade_agree">വായിക്കുക, അംഗീകരിക്കുക</string>
+    <string name="later">പിന്നീട്</string>
+    <string name="update">"അപ്‌ഡേറ്റ്  ചെയ്യുക"</string>
+    <string name="update_summary">അപ്ഡേറ്റുകൾക്ക് പരിശോധിക്കുക</string>
+    <string name="wifi_only">വൈഫൈ മാത്രം</string>
+    <string name="wlan_only">WLAN മാത്രം</string>
+    <string name="wifi_only_summary">Wi-Fi ലഭ്യമാകുമ്പോൾ അപ്‌ഡേറ്റുകൾ ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="wlan_only_summary">WLAN ലഭ്യമാകുമ്പോൾ അപ്‌ഡേറ്റുകൾ ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="auto_update">സ്വയമേവയുള്ള അപ്‌ഡേറ്റ്</string>
+    <string name="auto_update_summary">സ്വയമേവ അപ്ഡേറ്റുകൾക്ക് പരിശോധിക്കുക</string>
+    <string name="new_data_fee_warning">അപ്‌ഡേറ്റുകൾ പരിശോധിക്കുന്നതും ഡൗൺലോഡ് ചെയ്യുന്നതും അധിക നിരക്കുകൾക്ക് കാരണമാകാം. സാധ്യമെങ്കിൽ, Wi-Fi-യിലൂടെ അപ്‌ഡേറ്റുകൾ ഡൗൺലോഡ് ചെയ്യുക.</string>
+    <string name="wlan_data_fee_warning">അപ്‌ഡേറ്റുകൾ പരിശോധിക്കുന്നതും ഡൗൺലോഡ് ചെയ്യുന്നതും അധിക നിരക്കുകൾക്ക് കാരണമാകാം. സാധ്യമെങ്കിൽ, WLAN-ലൂടെ അപ്‌ഡേറ്റുകൾ ഡൗൺലോഡ് ചെയ്യുക.</string>
+    <string name="installing">ഇൻസ്‌റ്റാൾ ചെയ്യുന്നു</string>
+    <string name="install_complete">ഇൻസ്റ്റാളുചെയ്തു</string>
+    <string name="install_fail">ഇൻസ്റ്റലേഷൻ പരാജയം</string>
+    <string name="install_all">എല്ലാം ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="install">ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="installed_version">ഇൻസ്റ്റാൾ ചെയ്ത പതിപ്പ്</string>
+    <string name="update_available">അപ്‌ഡേറ്റ് ലഭ്യമാണ്.</string>
+    <string name="apk_update_available">ആപ്ലിക്കേഷൻ അപ്‌ഡേറ്റ് ലഭ്യമാണ്.</string>
+    <string name="recommend">ശുപാർശ ചെയ്യുക</string>
+    <string name="roaming_restriction">ഡാറ്റ റോമിംഗ് നിയന്ത്രണം</string>
+    <string name="roaming_restriction_summary">ഡാറ്റാ റോമിംഗ് നിയന്ത്രണം ഉള്ളതിനാൽ അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിയില്ല.</string>
+    <string name="changelog">മാറ്റ ലോഗ്</string>
+    <string name="description">വിവരണം:</string>
+    <string name="apk_update_available_summary">%s എന്നതിനൊരു അപ്‌ഡേറ്റ് ലഭ്യമാണ്. ഇപ്പോൾ തന്നെ ഇൻസ്റ്റാൾ ചെയ്യാൻ ശരി ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കിൽ ഒരു ദിവസത്തിന് ശേഷം അപ്‌ഡേറ്റ് പരിശോധിക്കാൻ റദ്ദാക്കുക ക്ലിക്ക് ചെയ്യുക.</string>
+    <string name="apk_removed">ഈ ആപ്ലിക്കേഷൻ നീക്കംചെയ്തിരിക്കുന്നു.</string>
+    <string name="apk_available_items">മൊത്തം %s ലഭ്യമായ ഇനങ്ങൾ</string>
+    <string name="apk_available_item">മൊത്തം %s ലഭ്യമായ ഇനം</string>
+    <string name="new_forpreference">പുതിയത്:</string>
+    <string name="invalid_update_summary">അപ്‌ഡേറ്റ് അസാധുവാണ്, വീണ്ടും പരിശോധിക്കുക.</string>
+    <string name="recheck">വീണ്ടും പരിശോധിക്കുക</string>
+    <string name="image_download_exception_summary">സെർവർ ആക്‌സസ് ചെയ്യാൻ കഴിയുന്നില്ല, പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="apk_download_exception">സെർവർ ആക്സസ് ചെയ്യാൻ കഴിയില്ല</string>
+    <string name="installation_confirmation">ഇൻസ്റ്റലേഷൻ സ്ഥിരീകരണം</string>
+    <string name="apk_need_reboot_summary">ഈ സിസ്റ്റം അപ്‌ഡേറ്റ്, ഇൻസ്റ്റലേഷൻ പൂർത്തിയായിക്കഴിഞ്ഞാൽ, സിസ്റ്റത്തെ സ്വയമേവ റീബൂട്ട് ചെയ്യും. ഇപ്പോൾ ഇൻസ്റ്റാൾ ചെയ്യാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+    <string name="downloaded">ഡൗൺലോഡുചെയ്തു</string>
+    <string name="prepare_to_reboot">റീബൂട്ട് ചെയ്യാൻ തയ്യാറെടുക്കുക</string>
+    <string name="prepare_to_reboot_summary">ക്രമീകരണം കോൺഫിഗർ ചെയ്യുന്നതിന് ഉപകരണം റീബൂട്ട് ചെയ്യാൻ ഇൻസ്റ്റാൾ ചെയ്ത സോഫ്റ്റ്‌വെയർ ആവശ്യപ്പെടുന്നു. ഇപ്പോൾ റീബൂട്ട് ചെയ്യാൻ ഞങ്ങൾ നിർദ്ദേശിക്കുന്നു അല്ലെങ്കിൽ നിങ്ങൾക്ക് പിന്നീട് റീബൂട്ട് ചെയ്യുകയുമാകാം.</string>
+    <string name="prepare_to_reboot_force_summary">ക്രമീകരണം കോൺഫിഗർ ചെയ്യുന്നതിന് ഉപകരണം റീബൂട്ട് ചെയ്യാൻ ഇൻസ്റ്റാൾ ചെയ്ത സോഫ്റ്റ്‌വെയർ ആവശ്യപ്പെടുന്നു. ഇപ്പോൾ റീബൂട്ട് ചെയ്യാൻ ഞങ്ങൾ നിർദ്ദേശിക്കുന്നു.</string>
+    <string name="reboot">റീബൂട്ട് ചെയ്യുക</string>
+    <string name="reboot_fail">റീബൂട്ട് പരാജയപ്പെട്ടു</string>
+    <string name="reboot_fail_summary">API വിട്ടുപോയിരിക്കുന്നതിനാൽ റീബൂട്ട് ചെയ്യാൻ കഴിയില്ല. നേരിട്ട് റീബൂട്ട് ചെയ്യരുത്.</string>
+    <string name="apk_no_avaliable_size">വേണ്ടത്ര ഇന്റേണൽ സ്റ്റോറേജ് ഇല്ലാത്തതിനാൽ ഡൗൺലോഡ് ചെയ്യാൻ കഴിയില്ല.</string>
+    <string name="update_finished">ബാക്കപ്പ് പൂർത്തിയായി</string>
+    <string name="header_warning">മുന്നറിയിപ്പ്</string>
+    <string name="msg_root_warning">നിങ്ങളുടെ ഉപകരണം റൂട്ട് ചെയ്തിരിക്കുന്നു അല്ലെങ്കിൽ ഔദ്യോഗിക സോഫ്റ്റ്‌വെയറിൽ മാറ്റം വരുത്തിയിരിക്കുന്നു. സിസ്റ്റം അപ്‌ഡേറ്റുമായി മുന്നോട്ട് പോകുന്നത്, സിസ്റ്റം അസ്ഥിരതയ്ക്കോ സിസ്റ്റം ക്രാഷിനോ കാരണമാകാം, നിങ്ങളുടെ ഉപകരണത്തിന്റെ വാറന്റി റദ്ദാക്കപ്പെടാനും ഇടയുണ്ട്. തുടരണമെന്ന് തീർച്ചയാണോ?</string>
+    <string name="multi_image_update">കുറച്ച് ഇമേജ് അപ്‌ഡേറ്റുകൾ ലഭ്യമാണ്</string>
+    <string name="available_update_list">ലഭ്യമായ അപ്ഡേറ്റുകളുടെ ലിസ്റ്റ്</string>
+    <string name="downloading_summary">ഇമേജ് ഡൗൺലോഡ് റദ്ദാക്കുക</string>
+    <string name="msg_erase_userdata_warning">ഉപയോക്തൃ ഡാറ്റ മായ്ക്കാൻ ഈ അപ്‌ഡേറ്റ് ആവശ്യപ്പെടുന്നു. തുടരാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+    <string name="msg_autoupdate_date_fee_warning">സ്വയമേവയുള്ള അപ്‌ഡേറ്റ് പ്രാപ്തമാക്കുന്നത് അധിക നിരക്കുകൾക്ക് കാരണമാകാം.</string>
+    <string name="invalid_update">അപ്‌ഡേറ്റ് അസാധുവാണ്.</string>
+    <string name="file_corrupted">ഫയൽ കേടായതിനാൽ സിസ്റ്റം അപ്‌ഗ്രേഡ് ചെയ്യാൻ കഴിയില്ല.</string>
+    <string name="ask_for_apk_check">ആപ്ലിക്കേഷൻ അപ്‌ഡേറ്റുകൾ ഉണ്ടോയെന്ന് പരിശോധിക്കാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+    <string name="update_ota_self">സോഫ്റ്റ്‌വെയർ അപ്ഡേറ്റ് പുരോഗതിയിൽ</string>
+    <string name="ab_update_fail">ഇൻസ്റ്റലേഷൻ പ്രശ്നം.</string>
+    <string name="ab_update_wrong_status">അപ്‌ഡേറ്റ് എഞ്ചിൻ ഇപ്പോൾ തിരക്കിലാണ്. പിന്നീട് വീണ്ടും ശ്രമിക്കുക അല്ലെങ്കിൽ റീബൂട്ട് ചെയ്യുക.</string>
+    <string name="ab_update_installing">സി‌സ്‌റ്റം അപ്‌ഡേറ്റ് ചെയ്യുന്നു</string>
+    <string name="tag_engineer_mode">എഞ്ചിനീയർ മോഡ്</string>
+    <string name="engineer_version_incorrect">ഈ ഉപകരണ പതിപ്പ് തെറ്റാണ്</string>
+    <string name="msg_engineer_ota_restore">ഇത് ഔദ്യോഗിക പതിപ്പ് പുനഃസ്ഥാപിക്കുന്നതിന് ടാപ്പ് ചെയ്യുക</string>
+    <string name="msg_engineer_ota_restore_warning">ഇത് ഔദ്യോഗിക പതിപ്പ് പുനഃസ്ഥാപിക്കും. തുടരാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+    <string name="silent_mode_data_fee_warning">അപ്‌ഡേറ്റ് ലഭ്യമാണ്. അപ്‌ഡേറ്റുകൾ ഡൗൺലോഡ് ചെയ്യുന്നത് അധിക നിരക്കുകൾക്ക് കാരണമാകാം. സാധ്യമെങ്കിൽ, Wi-Fi-യിലൂടെ അപ്‌ഡേറ്റുകൾ ഡൗൺലോഡ് ചെയ്യുക.</string>
+    <string name="msg_updating_system">സി‌സ്‌റ്റം അപ്‌ഡേറ്റ് ചെയ്യുന്നു...</string>
+    <string name="msg_tap_to_reboot">റീബൂട്ട് ചെയ്യാൻ ടാപ്പ് ചെയ്യുക</string>
+    <string name="msg_pause_download">ഡൗൺലോഡ് തൽക്കാലം നിർത്തുക</string>
+    <string name="notification_channel_name">സി‌സ്‌റ്റം അപ്‌ഡേറ്റ്</string>
+    <string name="notification_channel_alert_name">പൊതുവായ അറിയിപ്പുകൾ</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bulanıklık Düzenleyici</string>
+    <string name="image_not_null">Resim yolu boş olamaz</string>
+    <string name="no_bokeh_type">Bokeh türü yok</string>
+    <string name="no_mpo_file">MPO dosyası yok</string>
+    <string name="save">Kaydet</string>
+    <string name="save_success">Başarıyla kaydedildi</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profile-data>
+    <CT>
+        <ID>1</ID>
+        <SMS_NUMBER>10659401</SMS_NUMBER>
+        <DESTINATION_PORT>32767</DESTINATION_PORT>
+        <RETRY>3</RETRY>
+    </CT>
+    <APT>
+        <ID>1</ID>
+        <SMS_NUMBER>41020</SMS_NUMBER>
+        <DESTINATION_PORT>32767</DESTINATION_PORT>
+        <RETRY>0</RETRY>
+    </APT>
+</profile-data>

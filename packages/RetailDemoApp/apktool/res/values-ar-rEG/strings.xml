@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copying">جارٍ النسخ...</string>
+    <string name="demo_mode_notifications">إشعارات الوضع التجريبي</string>
+    <string name="disable_demo_mode">تعطيل الوضع التجريبي</string>
+    <string name="download_complete_msg">"اكتمل التنزيل.
+
+اضغط على موافق لتشغيل الوضع التجريبي."</string>
+    <string name="download_fail_msg">"فشل تنزيل مواد الوضع التجريبي من الإنترنت.
+
+هل تريد الضغط على موافق لتشغيل الوضع التجريبي؟"</string>
+    <string name="enable_demo_mode">هل تريد تمكين الوضع التجريبي؟</string>
+    <string name="enable_demo_mode_setup">تمكين الوضع التجريبي</string>
+    <string name="no_new_demo_found_msg">"لم يتم العثور على مواد جديدة للوضع التجريبي.
+
+هل تريد الضغط على موافق لتشغيل الوضع التجريبي؟"</string>
+    <string name="ok">موافق</string>
+    <string name="reset_device">هل تريد إعادة تعيين الجهاز؟</string>
+    <string name="system_busy_msg">النظام مشغول. يرجى إعادة المحاولة لاحقًا.</string>
+    <string name="update_demo_video">تحديث الفيديو التجريبي</string>
+</resources>

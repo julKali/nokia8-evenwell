@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">لغو</string>
+    <string name="DONE">انجام شد</string>
+    <string name="NEXT">بعدی</string>
+    <string name="OK">قبول</string>
+    <string name="PREVIOUS">قبلی</string>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_up_description">پیمایش به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">مشاهده همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">کلید فاصله</string>
+    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">منو+</string>
+    <string name="abc_search_hint">جستجو…</string>
+    <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
+    <string name="abc_searchview_description_query">عبارت جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
+    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
+    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
+    <string name="abc_shareactionprovider_share_with_application">اشتراک‌گذاری با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="alert_empty_desc">لطفاً‌ توضیحتان را اضافه کنید!</string>
+    <string name="alert_warning_title">نکات</string>
+    <string name="enter_comments">ورود نظرات (1000 کاراکتر)</string>
+    <string name="extremely_likely">(به احتمال بسیار زیاد)</string>
+    <string name="feedback">بازخورد</string>
+    <string name="helps_us_improve_our_products">بازخورد به ما در بهبود محصولمان کمک می کند!</string>
+    <string name="intro_title">چقدر احتمال دارد که این تلفن را به یک دوست یا همکار پیشنهاد دهید؟</string>
+    <string name="msg_send_after">پس از آنلاین شدن دستگاه، پیام به‌صورت خودکار آپلود می‌شود. از پاسخ شما سپاسگزاریم.</string>
+    <string name="msg_send_fail">ارسال نشد. پس از آنلاین شدن دستگاه، پیام به‌صورت خودکار آپلود می‌شود. از پاسخ شما سپاسگزاریم.</string>
+    <string name="no_ask_feedback_again_text">دوباره نشان داده نشود</string>
+    <string name="no_showagain_text">دوباره نشان داده نشود</string>
+    <string name="not_at_all_likely">(اصلاً احتمال ندارد)</string>
+    <string name="privacy_context_wifi">"کاربران عزیز، 
+
+به نرم‌افزار کلاینت بازخورد خوش آمدید. لطفاً قبل از استفاده از این محصول، شرایط سرویس را بادقت بخوانید و کاملاً به آن‌ها توجه کنید. کلیک کردن روی [موافق] به این معناست که شما با مزایای این نرم‌افزار به‌خوبی آشنا شده‌اید و با استفاده از آن موافق هستید. اگر با این شرایط موافقت «نیستید»، روی [خروج] فشار دهید. به منظور ارائه خدمات کامل، برنامه نیازمند مجوزهای زیر است: 
+۱. برای ارسال اطلاعات بازخورد به اینترنت، شبکه WLAN دسترسی پیدا کنید 
+۲. برای دستیابی خودکار به اطلاعات اصلی تلفن، اطلاعات IMEI، PSN و MNC\\MCC را وارد کنید"</string>
+    <string name="search_menu_title">جستجو</string>
+    <string name="select_a_value">انتخاب مقدار</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">موافق</string>
+    <string name="str_leave">خروج</string>
+    <string name="submit_fail">ارسال نشد</string>
+    <string name="submit_success">از پاسخ شما سپاسگزاریم</string>
+    <string name="thank_your_feedback">از بازخورد شما سپاسگزاریم!</string>
+    <string name="we_appreciate_your_help">سپاس از کمک شما برای داشتن بهترین محصولات Nokia در جهان.</string>
+    <string name="we_hope_enjoying_nokia_device">امیدواریم از دستگاه Nokia خود لذت ببرید. باز خورد شما برای ما بسیار مهم است</string>
+    <string name="we_will_contact_you_again">ما در آینده با شما تماس خواهیم گرفت.</string>
+    <string name="we_will_contact_you_again_enjoy">ما در آینده با شما تماس خواهیم گرفت. از Nokia جدید خود لذت ببرید!</string>
+    <string name="why_you_gave_this_score">لطفاً دلیل این امتیاز را بگویید:</string>
+</resources>

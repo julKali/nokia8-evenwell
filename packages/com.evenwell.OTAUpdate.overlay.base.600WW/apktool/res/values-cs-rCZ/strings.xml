@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Stažení softwaru se nezdařilo.</string>
+    <string name="msg_install_system_software_update_3">"
+
+Při přechodu na vyšší verzi nelze vaše zařízení používat.
+
+Přerušení napájení či odstranění stahovaného souboru při aktualizaci může vést k nepředvídaným výsledkům."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Během přechodu na vyšší verzi nebudete moci své zařízení používat, ani vytáčet čísla tísňového volání.
+
+Odpojení od zdroje napájení či odstranění stahovaného souboru v při přechodu na vyšší verzi softwaru může vést k nepředvídaným důsledkům."</string>
+    <string name="msg_unable_to_connect_2">Chcete-li používat tuto aplikaci, musíte být připojeni k síti. Zapněte v aplikaci Nastavení mobilní síť.</string>
+    <string name="msg_unable_to_connect_wlan">Chcete-li používat tuto aplikaci, musíte být připojeni k síti. Zapněte v aplikaci Nastavení mobilní síť nebo síť WLAN.</string>
+    <string name="msg_no_available_size_card_2">Tento soubor aktualizace vyžaduje %s MB volného místa. Odstraňte prosím některé soubory v uložišti dat.</string>
+    <string name="msg_remove_sd_card_2">Stažený soubor se nepodařilo zapsat do datového úložiště. Zkontrolujte prosím úložiště.</string>
+    <string name="msg_remove_sd_card_short_2">Nepovedlo se získat přístup k úložišti dat.</string>
+    <string name="menu_enabled">Pouze povolený software</string>
+    <string name="using_internal_storage">Používání interního úložiště</string>
+    <string name="using_external_storage">Používání externího úložiště</string>
+    <string name="msg_root_message">"
+
+U zařízení, u kterého byl proveden root, nelze zaručit standardní průběh aktualizace."</string>
+    <string name="msg_responsibility_message">Pokud byl u zařízení proveden root, odpovídá za jakékoli abnormální chování systému po dokončení aktualizace uživatel.</string>
+    <string name="install_fail">Instalace se nezdařila</string>
+    <string name="install_all">Instalovat vše</string>
+    <string name="installed_version">Instalovaná verze</string>
+    <string name="update_available">Aktualizace je k dispozici.</string>
+    <string name="apk_update_available">Je k dispozici aktualizace této aplikace.</string>
+    <string name="recommend">Doporučeno</string>
+    <string name="roaming_restriction">Omezení datového roamingu</string>
+    <string name="roaming_restriction_summary">Kvůli omezení datového roamingu nelze provést aktualizaci.</string>
+    <string name="changelog">Záznam změn</string>
+    <string name="apk_update_available_summary">Pro %s je k dispozici aktualizace softwaru Pro zahájení instalace klikněte na tlačítko \"OK\"; po stisknutí tlačítka \"Zrušit\" bude dostupnost aktualizace zkontrolována další den.</string>
+    <string name="apk_removed">Tato aplikace byla odstraněna.</string>
+    <string name="apk_available_items">Celkem %s dostupných položek</string>
+    <string name="apk_available_item">Celkem %s dostupná položka</string>
+    <string name="invalid_update_summary">Aktualizace je neplatná, zkontrolujte ji znovu.</string>
+    <string name="recheck">Zkontrolovat znovu</string>
+    <string name="image_download_exception_summary">Nelze získat přístup k serveru, zkuste to prosím později znovu.</string>
+    <string name="apk_download_exception">Nelze získat přístup k serveru</string>
+    <string name="installation_confirmation">Potvrzení instalace</string>
+    <string name="apk_need_reboot_summary">Po dokončení této softwarové aktualizace se systém automaticky restartuje. Chcete instalaci zahájit nyní?</string>
+    <string name="prepare_to_reboot">Připravuje se restart.</string>
+    <string name="prepare_to_reboot_summary">Instalovaný software vyžaduje restart zařízení, aby mohl provést konfiguraci nastavení. Doporučujeme okamžitý restart zařízení, ale je ho možné provést i později.</string>
+    <string name="prepare_to_reboot_force_summary">Instalovaný software vyžaduje restart zařízení, aby mohl nakonfigurovat jeho nastavení. Doporučujeme okamžitý restart.</string>
+    <string name="reboot_fail">Restart se nezdařil.</string>
+    <string name="reboot_fail_summary">Nelze restartovat z důvodu chybějícího API. Restartujte prosím manuálně.</string>
+    <string name="apk_no_avaliable_size">Stahování nelze zahájit z důvodu nedostatečné kapacity interního úložiště.</string>
+    <string name="update_finished">Aktualizace byla dokončena</string>
+    <string name="msg_root_warning">U zařízení byl proveden root nebo byl změněn jeho oficiální software. Pokračování v aktualizaci systémového softwaru může mít za následek nestabilitu systému nebo jeho zablokování a může anulovat záruku na zařízení. Chcete opravdu pokračovat?</string>
+    <string name="multi_image_update">K dispozici je několik aktualizací obrazu</string>
+    <string name="available_update_list">Seznam dostupných aktualizací</string>
+    <string name="downloading_summary">Zrušte prosím stahování obrazu.</string>
+    <string name="msg_erase_userdata_warning">Tato aktualizace musí provést vymazání uživatelských dat. Chcete pokračovat?</string>
+    <string name="msg_autoupdate_date_fee_warning">Povolení automatických aktualizací může znamenat dodatečné poplatky.</string>
+    <string name="invalid_update">Aktualizace je neplatná.</string>
+    <string name="file_corrupted">Systém nemůže být aktualizován, protože soubor je poškozen.</string>
+    <string name="ask_for_apk_check">Chcete ověřit dostupnost aktualizací pro tuto aplikaci?</string>
+    <string name="update_ota_self">Probíhá aktualizace softwaru.</string>
+    <string name="ab_update_fail">Problém při instalaci.</string>
+    <string name="ab_update_wrong_status">Softwarové jádro aktualizace je zaneprázdněno. Zkuste to později znovu nebo zařízení restartujte.</string>
+    <string name="ab_update_installing">Aktualizace systému</string>
+    <string name="tag_engineer_mode">Vývojářský režim</string>
+    <string name="engineer_version_incorrect">Nesprávná verze vašeho zařízení</string>
+    <string name="msg_engineer_ota_restore">Klepnutím obnovte oficiální verzi</string>
+    <string name="msg_engineer_ota_restore_warning">Tato volba obnoví oficiální verzi. Chcete pokračovat?</string>
+    <string name="silent_mode_data_fee_warning">Aktualizace je k dispozici. Za stažení aktualizací mohou být účtovány dodatečné poplatky. Aktualizace stahujte pokud možno prostřednictvím Wi-Fi.</string>
+    <string name="msg_updating_system">Aktualizace systému…</string>
+    <string name="msg_tap_to_reboot">Klepnutím proveďte restart zařízení</string>
+    <string name="msg_pause_download">Přerušit stahování</string>
+    <string name="notification_channel_name">Aktualizace systému</string>
+    <string name="notification_channel_alert_name">Obecná oznámení</string>
+</resources>

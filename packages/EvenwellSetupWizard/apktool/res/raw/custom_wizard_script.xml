@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+    xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_PRE_SETUP;end" id="oem_pre_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.evenwell.setupwizard.action.WelcomeSetupWizard;end" id="welcome">
+        <result wizard:resultCode="101" wizard:action="check_user_unlock_qr" wizard:name="start_qr_provision" />
+        <result wizard:resultCode="111" wizard:action="check_user_unlock_dpm_user_complete" wizard:name="dpm_user_complete" />
+        <result wizard:resultCode="102" wizard:action="check_user_unlock_demo" wizard:name="demo_mode_flow" />
+        <result wizard:action="check_user_unlock" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock_qr">
+        <result wizard:action="qr_provision_flow" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock_dpm_user_complete">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock_demo">
+        <result wizard:action="demo_mode_start" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock">
+        <result wizard:action="sim_missing" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.SIM_MISSING;end" id="sim_missing" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CARRIER_SETUP;end" id="carrier_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.SIM_SETUP;end" id="sim_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.DEVICE_OWNER_WARNING;end" id="device_owner_warning">
+        <result wizard:resultCode="1" wizard:action="check_frp" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FACTORY_RESET;end" id="factory_reset" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.CHECK_FRP;end" id="check_frp" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.FLOW_CHOICE;end" id="flow_choice">
+        <result wizard:resultCode="1" wizard:action="setup_as_new_flow" wizard:name="skip" />
+        <result wizard:resultCode="101" wizard:action="demo_mode_start_verizon" wizard:name="demo_mode_flow" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_restore_flow" id="restore_flow">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_setup_as_new_flow" id="setup_as_new_flow">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_demo_mode_flow" id="demo_mode_start">
+        <result wizard:action="exit" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_demo_mode_verizon_flow" id="demo_mode_start_verizon">
+        <result wizard:action="exit" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_qr_provision_flow" id="qr_provision_flow" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_POST_SETUP;end" id="oem_post_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.evenwell.setupwizard.action.SetupCompleteActivity;end" id="evenwell_complete" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.EXIT;end" id="exit" />
+</WizardScript>

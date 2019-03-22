@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Προσβασιμότητα</string>
+    <string name="available_via_passpoint">Διαθέσιμο μέσω %1$s</string>
+    <string name="back_btn_lebel">ΠΙΣΩ</string>
+    <string name="backup_and_restore_description">"Αν έχετε ήδη δημ/γήσει αντίγραφο ασφάλειας του λογ/σμού σας, μπορείτε να τον ανακτήσετε σε αυτό το τηλέφωνο τώρα.
+
+Μπορείτε να αλλάξετε τις ρυθμίσεις αντ. ασφ. οποτεδήποτε στις ρυθμίσεις."</string>
+    <string name="backup_and_restore_title">Αντ. ασφ. και επαναφορά</string>
+    <string name="connected_via_passpoint">Συνδέεται μέσω %1$s</string>
+    <string name="connected_via_wfa">Συνδέεται μέσω βοηθού Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Ακύρωση</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Ρυθμ. ημ/νίας &amp; ώρας</string>
+    <string name="date_and_time_settings_title">Ημ/νία &amp; Ώρα</string>
+    <string name="device_checking_message">Καλώς ορίσατε</string>
+    <string name="emergency_dial_hmd_message">Έκτακτη ανάγκη</string>
+    <string name="finish_button_label">ΤΕΛΟΣ</string>
+    <string name="hmd_user_experience_program_message">Η συμμετοχή σας στο πρόγραμμα εμπειρίας χρήστη βοηθά την HMD Global να κατανοεί καλύτερα τι σας αρέσει στη συσκευή Nokia, καθώς και τι πιστεύετε πως πρέπει να βελτιωθεί. Από καιρό σε καιρό, μπορεί να λαβαίνουμε ανώνυμα στοιχεία με τεχνικά χαρακτηριστικά σχετικά με τη συσκευή, όπως για παράδειγμα ένα αρχείο με δεδομένα σχετικά με ένα σφάλμα λογισμικού που μπορεί να συνέβη. Σημειώστε πως αυτά τα στοιχεία δεν θα μεταδίδονται μέσω σύνδεσης δικτύου κινητής τηλεφωνίας. Μας αρέσει να ακούμε τη γνώμη σας για τη συσκευή σας Nokia!</string>
+    <string name="hmd_user_experience_program_title">Πρόγραμμα εμπειρίας χρήστη</string>
+    <string name="idle_too_long_toast">Το τηλέφωνο βρίσκεται σε αδράνεια για αρκετό χρόνο. Απενεργοποιήστε το τώρα για εξοικονόμηση ενέργειας.</string>
+    <string name="insert_sim_cards">Τοποθετήστε κάρτες SIM</string>
+    <string name="insert_sim_cards_prompt_content">"Δεν είστε σίγουροι; Ανατρέξτε στις οδηγίες που σας δόθηκαν με το τηλέφωνό σας.
+
+Από τη στιγμή που θα εισάγετε τις κάρτες SIM, θα χρειαστούν μερικά δευτερόλεπτα για να ενεργοποιηθούν."</string>
+    <string name="language_selection_cancel_btn">ΑΚΥΡΩΣΗ</string>
+    <string name="light_room_description">Το %1$s υποστηρίζει την αποτύπωση εικόνων RAW (DNG). Μπορείτε να τις επεξεργαστείτε απευθείας στο νέο σας smartphone χάρη στη συνεργασία μας με την Adobe.&lt;br/>&lt;br/>Κάντε τώρα λήψη του Adobe Photoshop Lightroom CC από το Google Play.</string>
+    <string name="light_room_title">Έχετε πάθος με τη φωτογραφία;</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="nevigation_selection_back">Πίσω</string>
+    <string name="next_btn_lebel">ΕΠΟΜΕΝΟ</string>
+    <string name="not_now">ΟΧΙ ΤΩΡΑ…</string>
+    <string name="passpoint_content">Διαπιστευτήρια %1$s</string>
+    <string name="passpoint_label">Αποθηκεύτηκε μέσω</string>
+    <string name="please_select_phase2">2η φάση ελέγχου ταυτότητας</string>
+    <string name="proxy_error_empty_host_set_port">Το πεδίο θύρας θα πρέπει να είναι κενό αν το πεδίο κεντρικού υπολογιστή είναι κενό.</string>
+    <string name="proxy_error_empty_port">Θα πρέπει να συμπληρώσετε το πεδίο θύρας.</string>
+    <string name="proxy_error_invalid_exclusion_list">Η λίστα εξαιρέσεων που πληκτρολογήσατε δεν έχει διαμορφωθεί σωστά. Πληκτρολογήστε μια λίστα εξαιρούμενων τομέων, διαχωρισμένων μεταξύ τους με κόμματα.</string>
+    <string name="proxy_error_invalid_port">Η θύρα που πληκτρολογήσατε δεν είναι έγκυρη.</string>
+    <string name="proxy_exclusionlist_label">Διακομιστής μεσολάβησης παράκαμψης για</string>
+    <string name="proxy_hostname_label">Όνομα κεντρικού υπολογιστή διακομιστή μεσολάβησης</string>
+    <string name="proxy_port_label">Θύρα διακομιστή μεσολάβησης</string>
+    <string name="proxy_settings_title">Διακομιστής μεσολάβησης</string>
+    <string name="proxy_url_title">"Διεύθυνση URL PAC: "</string>
+    <string name="proxy_warning_limited_support">Ο διακ/στής μεσ/σης ΗΤΤΡ μπορεί να χρησ/θεί απο το πρ/μα περ/σης, αλλά όχι από άλλες εφαρμογές.</string>
+    <string name="saved_network">Αποθηκεύτηκε από %1$s</string>
+    <string name="select_sim_card">Επιλογή κάρτας SIM</string>
+    <string name="setup_complete_hmd">Είστε έτοιμος/η...</string>
+    <string name="setup_complete_hmd_1">Είστε σχεδόν έτοιμοι...!</string>
+    <string name="setup_complete_main">Είστε</string>
+    <string name="setup_complete_sub">ΕΤΟΙΜΟ.</string>
+    <string name="setup_completed_congratulations">Συγχαρητήρια!</string>
+    <string name="setup_finish">ΑΣ ΞΕΚΙΝΗΣΟΥΜΕ</string>
+    <string name="sim_editor_title">Υποδοχή SIM %1$d</string>
+    <string name="term_agree_text">Συμφωνώ</string>
+    <string name="upload_agent_hmd_des_text_3">"Πατώντας \"ΑΣ ΞΕΚΙΝΗΣΟΥΜΕ\", συμφωνείτε να λάβετε μέρος στο Πρόγραμμα εμπειρίας χρηστών. &lt;a href='launch.UserExperienceActivity://Kode'>Μάθετε περισσότερα&lt;/a>. Θυμηθείτε ότι μπορείτε πάντα να δηλώσετε συμμετοχή αργότερα μέσω των Ρυθμίσεων."</string>
+    <string name="upload_agent_title">Πρόγραμμα εμπειρίας χρήστη</string>
+    <string name="welcome_hmd_term_of_use_4">"Πατώντας το κουμπί, συμφωνείτε με τους &lt;a href='launch.TermOfServiceActivity://Kode'>Όρους Χρήσης Υπηρεσίας&lt;/a> και την &lt;a href='launch.AddUploadAgentHandler://Kode'>Πολιτική απορρήτου&lt;/a>. Οι πληροφορίες ενεργοποίησης της συσκευής με εφάπαξ εντοπισμό της συσκευής θα αποσταλούν στην HMD Global.&lt;br/>&lt;br/>Η ειδοποίηση αυτόματηης ενημέρωσης λογισμικού θα ενεργοποιηθεί και με αυτή θα εγκαθίστανται οι τελευταίες ενημερώσεις για λογαριασμό σας. Με αυτές ενδέχεται να καταναλωθεί ένα μικρό μέρος των διαθέσιμων δεδομένων σας. Οι υπηρεσίες θα έχουν πρόσβαση στο Internet οποτεδήποτε το χρειάζονται.&lt;br/>&lt;br/>Με αυτές οι υπηρεσίες θα χρεωθείτε με δαπάνες κάλυψης όταν θα έχουν πρόσβαση σε δίκτυα κινητής τηλεφωνίας."</string>
+    <string name="welcome_hmd_term_of_use_5">"Πατώντας το κουμπί, συμφωνείτε με τους &lt;a href='launch.TermOfServiceActivity://Kode'>Όρους Χρήσης Υπηρεσίας&lt;/a>. Οι πληροφορίες ενεργοποίησης της συσκευής με εφάπαξ εντοπισμό της συσκευής θα αποσταλεί στην HMD Global. Ενδέχεται να υπάρξει χρέωση δεδομένων. Τα δεδομένα θα χρησιμοποιούνται σύμφωνα με την &lt;a href='launch.AddUploadAgentHandler://Kode'>Πολιτική ιδιωτικού απορρήτου&lt;/a>."</string>
+    <string name="welcome_message">Καλώς ορίσατε</string>
+    <string name="welcome_start_button_label">ΕΝΑΡΞΗ</string>
+    <string name="wifi_add_network">Προσθήκη δικτύου</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Αναπτυσσόμενη λίστα Σύνθετων επιλογών. Πατήστε δύο φορές για επέκταση.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Αναπτυσσόμενη λίστα Σύνθετων επιλογών. Πατήστε δύο φορές για συρρίκνωση.</string>
+    <string name="wifi_and_mobile_skipped_message">"Η σύνδεση σε δίκτυο σας βοηθά να διαμορφώσετε γρήγορα το τηλέφωνό σας.
+
+Χωρίς σύνδεση, δεν μπορείτε να:
+
+"<li>Συνδεθείτε στο λογαριασμό σας στο Cloud</li>"
+
+"<li>Αποκτήσετε ενημερώσεις λογισμικού</li>"
+
+"<li>Ρυθμίσετε αυτόματα την ώρα και την ημερομηνία</li></string>
+    <string name="wifi_auth_password_wrong">Ο κωδικός πρόσβασης μπορεί να είναι εσφαλμένος</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Ακύρωση</string>
+    <string name="wifi_certificate">Πιστοποιητικό</string>
+    <string name="wifi_connect">Σύνδεση</string>
+    <string name="wifi_connected_no_internet">Συνδεδεμένο, χωρίς Internet</string>
+    <string name="wifi_disabled_generic">Απενεργοποιημένη</string>
+    <string name="wifi_disabled_network_failure">Αστοχία διαμόρφωσης IP</string>
+    <string name="wifi_disabled_password_failure">Πρόβλημα ελέγχου ταυτότητας</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Να μην παρέχεται</string>
+    <string name="wifi_do_not_validate_eap_server">Να μην επικυρώνεται</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Δεν ορίστηκε πιστοποιητικό. Η σύνδεσή σας δεν θα είναι ιδιωτική.</string>
+    <string name="wifi_dont_skip">ΕΠΙΣΤΡΟΦΗ</string>
+    <string name="wifi_eap_anonymous">Ανώνυμη ταυτότητα</string>
+    <string name="wifi_eap_ca_cert">Πιστοποιητικό CA</string>
+    <string name="wifi_eap_domain">Τομέας</string>
+    <string name="wifi_eap_identity">Ταυτότητα</string>
+    <string name="wifi_eap_method">Μέθοδος EAP</string>
+    <string name="wifi_eap_user_cert">Πιστοποιητικό χρήστη</string>
+    <string name="wifi_fail_to_scan">Δεν είναι δυνατή η σάρωση για δίκτυα</string>
+    <string name="wifi_failed_connect_message">Αποτυχία σύνδεσης στο δίκτυο</string>
+    <string name="wifi_failed_forget_message">Αποτυχία κατάργησης απομνημόνευσης δικτύου</string>
+    <string name="wifi_failed_save_message">Αποτυχία αποθήκευσης δικτύου</string>
+    <string name="wifi_forget">Διαγραφή</string>
+    <string name="wifi_frequency">Συχνότητα</string>
+    <string name="wifi_gateway">Πύλη</string>
+    <string name="wifi_ip_address">Διεύθυνση IP</string>
+    <string name="wifi_ip_settings">Ρυθμίσεις IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Πληκτρολογήστε μια έγκυρη διεύθυνση DNS.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Πληκτρολογήστε μια έγκυρη διεύθυνση πύλης.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Πληκτρολογήστε μια έγκυρη διεύθυνση IP.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Εισαγάγετε το μήκος προθέματος δικτύου από 0 έως 32.</string>
+    <string name="wifi_multiple_cert_added">(Προστέθηκαν πολλά πιστοποιητικά)</string>
+    <string name="wifi_network_prefix_length">Μήκος προθέματος δικτύου</string>
+    <string name="wifi_no_domain_warning">Πρέπει να καθορίσετε έναν τομέα.</string>
+    <string name="wifi_no_internet">Χωρίς πρόσβαση στο Internet</string>
+    <string name="wifi_no_internet_no_reconnect">Δεν γίνεται αυτόματη σύνδεση</string>
+    <string name="wifi_not_in_range">Εκτός εύρους</string>
+    <string name="wifi_password">Κωδικός πρόσβασης</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_remembered">Αποθηκεύτηκε</string>
+    <string name="wifi_save">Aποθήκευση</string>
+    <string name="wifi_security">Ασφάλεια</string>
+    <string name="wifi_security_none">Καμία</string>
+    <string name="wifi_setting_title">Συνδεθείτε</string>
+    <string name="wifi_shared">Κοινή χρήση με άλλους χρήστες της συσκευής</string>
+    <string name="wifi_show_advanced">Σύνθετες επιλογές</string>
+    <string name="wifi_show_password">Εμφάνιση κωδικού πρόσβασης</string>
+    <string name="wifi_signal">Ισχύς σήματος</string>
+    <string name="wifi_skip_anyway">ΠΑΡΑΒΛΕΨΗ ΣΕ ΚΑΘΕ ΠΕΡΙΠΤΩΣΗ</string>
+    <string name="wifi_speed">Ταχύτητα σύνδεσης</string>
+    <string name="wifi_ssid">Όνομα δικτύου</string>
+    <string name="wifi_ssid_hint">Πληκτρολογήστε το SSID</string>
+    <string name="wifi_status">Κατάσταση</string>
+    <string name="wifi_unchanged">(δεν έγινε αλλαγή)</string>
+    <string name="wifi_unspecified">Επιλέξτε</string>
+    <string name="wifi_use_system_certs">Χρήση πιστοποιητικών συστήματος</string>
+</resources>

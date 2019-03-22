@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>در حال اسکن…</item>
+        <item>در حال اتصال…</item>
+        <item>در حال تأیید اعتبار…</item>
+        <item>‏در حال دریافت آدرس IP…</item>
+        <item>Connected</item>
+        <item>معلق</item>
+        <item>در حال قطع اتصال…</item>
+        <item>اتصال قطع شد</item>
+        <item>Unsuccessful</item>
+        <item>مسدودشده</item>
+        <item>جلوگیری موقت از اتصال ضعیف</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>در حال اسکن…</item>
+        <item>در حال اتصال به %1$s…</item>
+        <item>در حال تأیید اعتبار با %1$s…</item>
+        <item>در حال دریافت آدرس IP از %1$s…</item>
+        <item>متصل شد به %1$s</item>
+        <item>معلق</item>
+        <item>در حال قطع اتصال از %1$s…</item>
+        <item>اتصال قطع شد</item>
+        <item>Unsuccessful</item>
+        <item>مسدودشده</item>
+        <item>جلوگیری موقت از اتصال ضعیف</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ضعیف</item>
+        <item>متعادل</item>
+        <item>خوب</item>
+        <item>عالی</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>None</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ثابت</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>None</item>
+        <item>Manual</item>
+        <item>پیکربندی خودکار پراکسی</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI ده دهی</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(unspecified)</item>
+        <item>Sim Slot 1</item>
+        <item>Sim Slot 2</item>
+    </string-array>
+</resources>

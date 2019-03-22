@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="cta_mode">false</bool>
+    <bool name="is_enable_userexperience">true</bool>
+    <bool name="is_tg_customization">false</bool>
+    <bool name="is_enable_privacy_statement">false</bool>
+    <bool name="is_enable_piggyback">true</bool>
+</resources>

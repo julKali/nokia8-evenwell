@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">හරි</string>
+    <string name="cancel">අවලංගු කරන්න</string>
+    <string name="system_busy_msg">පද්ධතිය කාර්ය බහුලයි. කරුණාකර පසුව යළි උත්සාහ කරන්න.</string>
+    <string name="no_new_demo_found_msg">"නව ආදර්ශන ද්‍රව්‍ය සොයා ගත්තේ නැත.
+
+ආදර්ශන ප්‍රකාරය ආරම්භ කිරීමට හරි තට්ටු කරන්නේද?"</string>
+    <string name="copying">පිටපත් කරමින්...</string>
+    <string name="downloading">බාගනිමින්…</string>
+    <string name="download_complete_msg">"බාගැනීම සම්පූර්ණයි.
+
+ආදර්ශන ප්‍රකාරය ආරම්භ කිරීමට හරි තට්ටු කරන්න."</string>
+    <string name="download_fail_msg">"අන්තර්ජාලයෙන් ආදර්ශන ද්‍රව්‍ය බාගැනීම අසාර්ථක විය.
+
+ආදර්ශන ප්‍රකාරය ආරම්භ කිරීමට හරි තට්ටු කරන්නේද?"</string>
+    <string name="enable_demo_mode">ආදර්ශන ප්‍රකාරය සබල කරන්නද?</string>
+    <string name="disable_demo_mode">ආදර්ශන ප්‍රකාරය අබල කරන්න</string>
+    <string name="update_demo_video">ආදර්ශන වීඩියෝව යාවත්කාලීන කරන්න</string>
+    <string name="reset_device">උපාංගය යළි සකසන්න ද?</string>
+    <string name="demo_mode_notifications">ආදර්ශන ප්‍රකාර දැනුම්දීම්</string>
+</resources>

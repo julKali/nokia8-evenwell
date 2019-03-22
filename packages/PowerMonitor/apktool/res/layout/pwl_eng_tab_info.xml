@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:persistent="false" android:title="@string/powermonitor_info_title" android:key="powermonitor_info">
+        <Preference android:persistent="false" android:title="@string/powermonitor_version_title" android:key="powermonitor_version" />
+        <Preference android:persistent="false" android:title="@string/powerlog_version_title" android:key="powerlog_version" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"Bashkohuni në programin e eksperiencës së përdoruesit. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Mësoni më shumë&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"Duke trokitur te butoni, ju pranoni &lt;a href='launch.TermOfServiceActivity://Kode'>Kushtet e shërbimit&lt;/a> dhe &lt;a href='launch.AddUploadAgentHandler://Kode'>Politikën e privatësisë&lt;/a>. Informacionet e aktivizimit të pajisjes me vendndodhjen e pajisjes vetëm një herë do të dërgohen te HMD Global.&lt;br/>&lt;br/>Njoftimi për Përditësimin automatik të softuerit do të aktivizohet, i cili instalon përditësimet më të fundit për ju. Kjo mund të përdorë një pjesë të vogël të buxhetit të të dhënave tuaja. Shërbimet do të kenë qasje në internet sa herë të kenë nevojë.&lt;br/>&lt;br/>Këto shërbime do të kenë tarifa shtesë kur të kenë qasje te rrjetet celulare."</string>
+    <string name="welcome_hmd_term_of_use_5">"Duke trokitur te butoni, ju pranoni &lt;a href='launch.TermOfServiceActivity://Kode'>Kushtet e shërbimit&lt;/a>. Të dhënat tuaja do të përpunohen sipas &lt;a href='launch.AddUploadAgentHandler://Kode'>Politikës së privatësisë&lt;/a> së kompanisë HMD. Informacionet e aktivizimit të pajisjes me vendndodhjen e pajisjes vetëm një herë do të dërgohen te HMD Global. Mund të zbatohen tarifat për të dhënat celulare."</string>
+    <string name="welcome_vision_settings_button_label">Cilësimet e shikimit</string>
+    <string name="next_btn_lebel">PËRPARA</string>
+    <string name="sim_not_exist_toast">Kontrolloni nëse e keni futur kartën SIM.</string>
+    <string name="idle_too_long_toast">Ky telefon është në qetësi për një farë kohe. Fikeni tani për të kursyer energjinë.</string>
+    <string name="welcome_infocus_term_of_use">"Duke trokitur te shigjeta, ju pranoni&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Kushtet e shërbimit&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_2">"Duke trokitur te shigjeta, ju pranoni &lt;a href='launch.TermOfServiceActivity://Kode'>Kushtet e shërbimit&lt;/a> dhe &lt;a href='launch.AddUploadAgentHandler://Kode'>Politikën e privatësisë&lt;/a>. Informacionet e aktivizimit të pajisjes me vendndodhjen e pajisjes vetëm një herë do të dërgohen te HMD Global. Mund të zbatohen tarifat për të dhënat."</string>
+    <string name="welcome_start_button_label">NISNI</string>
+    <string name="emergency_dial_hmd_message">Urgjenca</string>
+    <string name="accessibility_text">Qasshmëria</string>
+    <string name="language_selection_title">Zgjidhni gjuhën</string>
+    <string name="language_selection_cancel_btn">ANULONI</string>
+    <string name="welcome_lets_go_button_label">Le të vazhdojmë</string>
+    <string name="terms_title">Përdorimi i të dhënave</string>
+    <string name="terms_of_service_description">"
+Mund të kushtojë më shumë për përdorimin e të dhënave celulare kur përdor shërbimet që kërkojnë një lidhje rrjeti, si p.sh. shërbimet e motit, shërbimet e internetit, emaili, shfletuesi etj. Për të menaxhuar me më shumë efikasitet tarifën për përdorimin e të dhënave celulare, sugjerojmë që të aplikoni për paketën e duhur të shërbimit celular nga operatori celular.
+
+Duke zgjedhur \"pranoj\", ju lejoni që këto shërbime të lidhen me rrjetin kur të kërkohet.
+
+Përveç kësaj, përditësimi automatik i softuerit është i aktivizuar si parazgjedhje. Për t'ju sjellë eksperiencën më të fundit për softuerin, ai mund të përdorë disa të dhëna celulare. Mund ta ndryshoni gjithmonë opsionin më vonë te Cilësimet.
+
+"</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="datausage_dialog_negitive_btn">Anulo</string>
+    <string name="traffic_prompt_content">"Nëse zgjidhni që ta refuzoni, do të duhet t'i merrni në mënyrë manuale përditësimin e softuerit, parashikimin e motit dhe informacionet e tjera."</string>
+    <string name="google_account_intro_description">Konfiguroni llogarinë e Google për të shijuar të gjitha shërbimet e Google.</string>
+    <string name="google_account_intro_title">Llogaria e Google</string>
+    <string name="location_title">Përdorni vendndodhjen e Google</string>
+    <string name="location_info_1">Shërbimi i vendndodhjes së Google u ofron aplikacioneve vendndodhjen tuaj të përafërt pa përdorur shërbimin GPS.</string>
+    <string name="location_info_2">"Mund t'i çaktivizoni këto tipare te Cilësimet, nën Shërbimet e vendndodhjes."</string>
+    <string name="location_network">Lejoni që shërbimi i vendndodhjes së Google të mbledhë të dhëna anonime të vendndodhjes. Mbledhja e tyre do të ndodhë edhe kur nuk ka asnjë aplikacion në ekzekutim.</string>
+    <string name="location_for_service">Përdor vendndodhjen time për rezultatet e kërkimit të Google dhe shërbime të tjera të Google.</string>
+    <string name="date_and_time">Cilësimet e datës dhe orës</string>
+    <string name="date_and_time_settings_title">Data dhe ora</string>
+    <string name="account_intro_title">Llogaria e shërbimeve të [BRAND_NAME]</string>
+    <string name="account_intro_description">Një mënyrë më inteligjente për të përdorur pajisjen tuaj duke u bashkuar në shërbimet e [BRAND_NAME].</string>
+    <string name="add_infocus_service_account">Shtoni llogarinë e shërbimeve të [BRAND_NAME]</string>
+    <string name="dropbox_fih_signup">Regjistrohuni me Dropbox</string>
+    <string name="dropbox_fih_signin">Hyni me Dropbox</string>
+    <string name="dropbox_fih_description">Merrni 2 GB hapësirë falas në Dropbox për të ruajtur automatikisht fotografitë dhe videot tuaja.</string>
+    <string name="nevigation_selection_title">Shfaqja e tastit të programueshëm</string>
+    <string name="nevigation_selection_text">Mund ta ndryshoni ngjyrën e sfondit dhe pozicionin e tasteve Prapa / Të fundit.</string>
+    <string name="upload_agent_hmd_des_text_2">"Bashkohuni në programin e Eksperiencës së përdoruesit të Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Mësoni më shumë.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Programi i eksperiencës së përdoruesit</string>
+    <string name="setup_completed_congratulations">Përgëzime!</string>
+    <string name="setup_complete_hmd">Jeni gati për të vazhduar...</string>
+    <string name="setup_complete_main">Jeni</string>
+    <string name="setup_complete_sub">GATI PËR TË VAZHDUAR.</string>
+    <string name="hmd_user_experience_program_title">Programi i eksperiencës së përdoruesit</string>
+    <string name="hmd_user_experience_program_message">Pjesëmarrja juaj në programin e eksperiencës së përdoruesit e ndihmon HMD Global të kuptojë më mirë se çfarë ju pëlqen në pajisjen Nokia dhe se çfarë mendoni se duhet të përmirësohet. Herë pas here, ne mund të marrim të dhëna anonime me karakteristikat teknike për pajisjen tuaj, si p.sh. një skedar me të dhënat për një ndërprerje aksidentale të softuerit që mund të ketë ndodhur. Kini parasysh se këto të dhëna nuk do të transmetohen nëpërmjet një lidhjeje celulare. Dëshirojmë të mësojmë nga ju se çfarë mendoni për pajisjen tuaj Nokia!</string>
+    <string name="backup_and_restore_title">Kopja rezervë dhe restaurimi</string>
+    <string name="backup_and_restore_description">"Nëse keni ruajtur më parë kopje rezervë për llogarinë tuaj, mund ta restauroni atë tani në këtë telefon.
+
+Mund t'i ndryshoni cilësimet e kopjes rezervë në çdo kohë te Cilësimet."</string>
+    <string name="baidu_intro_title">Hapësira ruajtëse në renë kompjuterike për Baidu</string>
+    <string name="baidu_intro_description">Mund të shijoni integrimin e pandërprerë të hapësirës ruajtëse në renë kompjuterike me Baidu Yun duke përfunduar disa hapa të lehtë.</string>
+    <string name="add_baidu_button_label">Hyni në Baidu Yun</string>
+    <string name="baidu_progress_dialog_des">Pritni...</string>
+    <string name="wifi_picker_connection_title">Lidhja e rrjetit</string>
+    <string name="wifi_picker_connection_des_text">Çaktivizimi i lidhjes WLAN mund të shkaktojë tarifa kur verifikoni softuerin tuaj nëpërmjet rrjetit celular.</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_negative_prc">Lidhni WLAN</string>
+    <string name="wifi_picker_warning_des_text">Deri sa të keni një lidhje interneti, telefoni nuk do të mund të verifikojë që softueri është i përditësuar.</string>
+    <string name="wifi_picker_warning_positive">Mos kapërceni</string>
+    <string name="wapi_psk_security_type">Tipi i fjalëkalimit</string>
+    <string name="upload_agent_hmd_des_text_3">"Duke trokitur te \"LE TË VAZHDOJMË\", ju pranoni të bashkoheni në Programin e eksperiencës së përdoruesit. &lt;a href='launch.UserExperienceActivity://Kode'>Mësoni më shumë&lt;/a>. Mos harroni se mund të bashkoheni gjithmonë më vonë nëpërmjet Cilësimeve."</string>
+    <string name="setup_complete_hmd_1">Jeni thuajse gati për të vazhduar...!</string>
+    <string name="not_now">JO TANI…</string>
+    <string name="setup_finish">LE TË VAZHDOJMË</string>
+    <string name="wifi_fail_to_scan">Nuk mund të skanojë për rrjete</string>
+    <string name="wifi_disabled_network_failure">Dështim i konfigurimit të IP-së</string>
+    <string name="wifi_disabled_password_failure">Problem me vërtetimin</string>
+    <string name="wifi_not_in_range">Nuk është brenda rrezes</string>
+    <string name="wifi_no_internet_no_reconnect">Nuk do të lidhet automatikisht</string>
+    <string name="wifi_no_internet">Nuk ka qasje në internet</string>
+    <string name="saved_network">Ruajtur nga %1$s</string>
+    <string name="connected_via_passpoint">Lidhur nëpërmjet %1$s</string>
+    <string name="available_via_passpoint">Në dispozicion nëpërmjet %1$s</string>
+    <string name="wifi_connected_no_internet">Lidhur, nuk ka internet</string>
+    <string name="wifi_auth_password_wrong">Fjalëkalimi mund të jetë i pasaktë</string>
+    <string name="connected_via_wfa">Lidhur nëpërmjet asistentit të Wi‑Fi</string>
+    <string name="wifi_ssid">Emri i rrjetit</string>
+    <string name="wifi_ssid_hint">Futni kodin SSID</string>
+    <string name="wifi_eap_method">Metoda EAP</string>
+    <string name="please_select_phase2">Vërtetimi i fazës 2</string>
+    <string name="wifi_eap_ca_cert">Certifikata CA</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nuk është specifikuar asnjë certifikatë. Lidhja juaj nuk do të jetë private.</string>
+    <string name="wifi_eap_domain">Domeni</string>
+    <string name="wifi_no_domain_warning">Duhet të specifikohet një domen.</string>
+    <string name="wifi_eap_user_cert">Certifikata e përdoruesit</string>
+    <string name="wifi_eap_identity">Identiteti</string>
+    <string name="wifi_eap_anonymous">Identitet anonim</string>
+    <string name="wifi_show_password">Shfaqni fjalëkalimin</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Opsionet e përparuara të listës me lëshim poshtë Trokitni dy herë për ta zgjeruar.</string>
+    <string name="wifi_show_advanced">Opsionet e përparuara</string>
+    <string name="proxy_warning_limited_support">Përfaqësuesi i protokollit HTTP është përdorur nga shfletuesi, por mund të mos përdoret nga aplikacionet e tjera.</string>
+    <string name="proxy_hostname_label">Emri i pritësit të përfaqësuesit</string>
+    <string name="proxy_exclusionlist_label">Anashkaloni përfaqësuesin për</string>
+    <string name="wifi_ip_settings">Cilësimet e IP-së</string>
+    <string name="wifi_ip_address">Adresa IP</string>
+    <string name="wifi_gateway">Portëkalimi</string>
+    <string name="wifi_network_prefix_length">Gjatësia e prefiksit të rrjetit</string>
+    <string name="wifi_shared">Ndani me përdoruesit e tjerë të pajisjes</string>
+    <string name="proxy_port_label">Porta e përfaqësuesit</string>
+    <string name="wifi_unspecified">Zgjidhni</string>
+    <string name="wifi_multiple_cert_added">(Janë shtuar shumë certifikata)</string>
+    <string name="wifi_use_system_certs">Përdorni certifikatat e sistemit</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Mos jepni</string>
+    <string name="wifi_do_not_validate_eap_server">Mos miratoni</string>
+    <string name="wifi_add_network">Shtoni një rrjet</string>
+    <string name="wifi_save">Ruani</string>
+    <string name="passpoint_label">Ruajtur nëpërmjet</string>
+    <string name="wifi_status">Statusi</string>
+    <string name="wifi_signal">Fuqia e sinjalit</string>
+    <string name="wifi_speed">Shpejtësia e lidhjes</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_forget">Harroni</string>
+    <string name="proxy_error_invalid_port">Porta që shkruat nuk është e vlefshme.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Shkruani një adresë IP të vlefshme.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Shkruani një prefiks të rrjetit me gjatësi nga 0 deri në 32.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Shkruani një adresë të vlefshme të portëkalimit.</string>
+    <string name="wifi_ip_settings_invalid_dns">Shkruani një adresë DNS të vlefshme.</string>
+    <string name="wifi_unchanged">(nuk është ndryshuar)</string>
+    <string name="wifi_failed_connect_message">Lidhja me rrjetin dështoi</string>
+    <string name="wifi_failed_save_message">Ruajtja e rrjetit dështoi</string>
+    <string name="wifi_failed_forget_message">Rrjeti nuk mund të harrohej</string>
+    <string name="proxy_error_empty_host_set_port">Fusha e portës duhet të jetë bosh nëse fusha e pritësit është bosh.</string>
+    <string name="proxy_error_empty_port">Duhet të plotësoni fushën e portës.</string>
+    <string name="proxy_error_invalid_exclusion_list">Lista e përjashtimit që shkruat nuk është në formatin e duhur. Shkruani një listë të ndarë me presje për domenet e përjashtuara.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Opsionet e përparuara të listës me lëshim poshtë Trokitni dy herë për ta palosur.</string>
+    <string name="passpoint_content">Kredencialet e %1$s</string>
+    <string name="sim_editor_title">Foleja e kartës SIM %1$d</string>
+    <string name="wifi_certificate">Certifikata</string>
+    <string name="wifi_setting_title">Lidhuni</string>
+    <string name="wifi_skip_anyway">KAPËRCENI GJITHSESI</string>
+    <string name="wifi_dont_skip">KTHEHUNI PRAPA</string>
+    <string name="wifi_and_mobile_skipped_message">"Lidhja me një rrjet ju ndihmon të konfiguroni me shpejtësi telefonin tuaj.
+
+Këtë nuk mund ta bëni pa një lidhje:
+
+"<li>Hyni te llogaria juaj në renë kompjuterike</li>"
+
+"<li>Merrni përditësimet e softuerit</li>"
+
+"<li>Konfiguroni automatikisht orën dhe datën</li></string>
+</resources>

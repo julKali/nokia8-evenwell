@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Kunne ikke downloade software.</string>
+    <string name="msg_install_system_software_update_3">"
+
+Du kan ikke bruge enheden under opgraderingen.
+
+Hvis strømmen afbrydes, eller downloadede filer fjernes under softwareopdateringen, kan det give uventede resultater."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Du kan ikke bruge enheden eller foretage nødopkald under opgraderingen.
+
+Hvis strømmen afbrydes, eller downloadede filer fjernes under softwareopdateringen, kan det give uventede resultater."</string>
+    <string name="msg_unable_to_connect_2">Denne app kræver netværksforbindelse. Slå mobilnetværk til i Indstillinger.</string>
+    <string name="msg_unable_to_connect_wlan">Denne app kræver en netværksforbindelse. Slå mobilnetværk eller WLAN til i Indstillinger.</string>
+    <string name="msg_no_available_size_card_2">Opdateringen skal bruge %s MB ledig plads. Slet nogle filer i datalageret.</string>
+    <string name="msg_remove_sd_card_2">Den downloadede fil kan ikke skrives ind datalageret. Kontrollér lagerpladsen.</string>
+    <string name="msg_remove_sd_card_short_2">Kunne ikke få adgang til datalager.</string>
+    <string name="menu_enabled">Kun aktiveret software</string>
+    <string name="using_internal_storage">Bruger intern lagerplads</string>
+    <string name="using_external_storage">Bruger ekstern lagerplads</string>
+    <string name="msg_root_message">"
+
+Når enheden er \"rootet\", kan en normal opdatering ikke garanteres."</string>
+    <string name="msg_responsibility_message">Hvis enheden har været \"rootet\", er brugeren ansvarlig for eventuel unormal systemadfærd efter en opdatering.</string>
+    <string name="install_fail">Installationsfejl</string>
+    <string name="install_all">Installer alle</string>
+    <string name="installed_version">Installeret version</string>
+    <string name="update_available">Opdatering er tilgængelig.</string>
+    <string name="apk_update_available">Appopdatering er tilgængelig.</string>
+    <string name="recommend">Anbefal</string>
+    <string name="roaming_restriction">Begrænsning på dataroaming</string>
+    <string name="roaming_restriction_summary">Kan ikke opdatere på grund af begrænsning på dataroaming.</string>
+    <string name="changelog">Ændringslog</string>
+    <string name="apk_update_available_summary">%s har en tilgængelig opdatering. Klik på OK for at installere nu, eller klik på Annuller, hvis du vil kontrollere opdateringen om en dag.</string>
+    <string name="apk_removed">Applikationen er blevet fjernet.</string>
+    <string name="apk_available_items">Tilgængelige elementer i alt %s</string>
+    <string name="apk_available_item">Tilgængeligt element i alt %s</string>
+    <string name="invalid_update_summary">Opdateringen er ugyldig. Kontrollér igen.</string>
+    <string name="recheck">Kontrollér igen</string>
+    <string name="image_download_exception_summary">Kan ikke få adgang til serveren. Kontrollér igen senere.</string>
+    <string name="apk_download_exception">Kan ikke få adgang til serveren</string>
+    <string name="installation_confirmation">Bekræftelse af installation</string>
+    <string name="apk_need_reboot_summary">Softwareopdateringen genstarter automatisk systemet, når installationen er afsluttet. Vil du installere nu?</string>
+    <string name="prepare_to_reboot">Gør klar til genstart</string>
+    <string name="prepare_to_reboot_summary">Enheden skal genstartes, for at den installerede software kan konfigurere indstillinger. Vi anbefaler, at du genstarter nu, men du kan også genstarte senere.</string>
+    <string name="prepare_to_reboot_force_summary">Enheden skal genstartes, for at den installerede software kan konfigurere indstillinger. Vi anbefaler, at du genstarter nu.</string>
+    <string name="reboot_fail">Genstart mislykkedes</string>
+    <string name="reboot_fail_summary">Der mangler en API. Kan ikke genstarte. Genstart manuelt.</string>
+    <string name="apk_no_avaliable_size">Kunne ikke downloade, da der ikke var tilstrækkelig intern lagerplads.</string>
+    <string name="update_finished">Opdatering afsluttet</string>
+    <string name="msg_root_warning">Enheden har været \"rootet\", eller den officielle software er blevet ændret. Hvis systemopdateringen fortsætter, kan det gøre systemet ustabilt eller få det til at gå ned, og enhedsgarantien kan blive ugyldig. Ønsker du at fortsætte?</string>
+    <string name="multi_image_update">Der er tilgængelige billedopdateringer</string>
+    <string name="available_update_list">Liste over tilgængelig opdateringer</string>
+    <string name="downloading_summary">Annuller download af billede</string>
+    <string name="msg_erase_userdata_warning">Denne opdatering sletter brugerdata. Vil du fortsætte?</string>
+    <string name="msg_autoupdate_date_fee_warning">Aktivering af automatiske opdateringer kan medføre ekstraudgifter.</string>
+    <string name="invalid_update">Opdateringen er ugyldig.</string>
+    <string name="file_corrupted">Systemet kan ikke opgraderes, da filen er beskadiget.</string>
+    <string name="ask_for_apk_check">Vil du kontrollere efter appopdateringer?</string>
+    <string name="update_ota_self">Softwareopdatering i gang.</string>
+    <string name="ab_update_fail">Installationsproblem.</string>
+    <string name="ab_update_wrong_status">Opdateringsmaskinen er optaget for øjeblikket. Prøv igen senere, eller genstart.</string>
+    <string name="ab_update_installing">Opdaterer system</string>
+    <string name="tag_engineer_mode">Tekniktilstand</string>
+    <string name="engineer_version_incorrect">Enhedsversionen er forkert</string>
+    <string name="msg_engineer_ota_restore">Tryk for at gendanne den officielle version</string>
+    <string name="msg_engineer_ota_restore_warning">Dette gendanner den officielle version. Vil du fortsætte?</string>
+    <string name="silent_mode_data_fee_warning">Opdatering er tilgængelig. Download af opdateringer kan medføre ekstraudgifter. Download opdateringer via Wi-Fi, hvis det er muligt.</string>
+    <string name="msg_updating_system">Opdaterer system...</string>
+    <string name="msg_tap_to_reboot">Tryk for genstarte</string>
+    <string name="msg_pause_download">Afbryd download midlertidigt</string>
+    <string name="notification_channel_name">Systemopdatering</string>
+    <string name="notification_channel_alert_name">Generelle underretninger</string>
+</resources>

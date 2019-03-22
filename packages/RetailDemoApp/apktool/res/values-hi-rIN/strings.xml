@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">रद्द करें</string>
+    <string name="copying">कॉपी हो रही हैं…</string>
+    <string name="demo_mode_notifications">डेमो मोड की सूचनाएं</string>
+    <string name="disable_demo_mode">डेमो मोड अक्षम करें</string>
+    <string name="download_complete_msg">"डाउनलोड पूरा हुआ.
+
+डेमो मोड लॉन्च करने के लिए ठीक पर टैप करें."</string>
+    <string name="download_fail_msg">"इंटरनेट से डेमो सामग्री डाउनलोड नहीं की जा सकी.
+
+डेमो मोड लॉन्च करने के लिए ठीक पर टैप करें?"</string>
+    <string name="downloading">डाउनलोड हो रही है…</string>
+    <string name="enable_demo_mode">डेमो मोड सक्षम करें?</string>
+    <string name="enable_demo_mode_setup">डेमो मोड सक्षम करें</string>
+    <string name="no_new_demo_found_msg">"कोई भी नई डेमो सामग्री नहीं मिली.
+
+डेमो मोड लॉन्च करने के लिए ठीक पर टैप करें?"</string>
+    <string name="ok">ठीक</string>
+    <string name="reset_device">डिवाइस को रीसेट करें?</string>
+    <string name="system_busy_msg">सिस्‍टम व्‍यस्‍त है. कृपया बाद में पुनः प्रयास करें.</string>
+    <string name="update_demo_video">डेमो वीडियो अपडेट करें</string>
+</resources>

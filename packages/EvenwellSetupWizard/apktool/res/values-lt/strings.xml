@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Eiti į pagrindinį puslapį</string>
+    <string name="abc_action_bar_up_description">Eiti į viršų</string>
+    <string name="abc_action_menu_overflow_description">Daugiau parinkčių</string>
+    <string name="abc_action_mode_done">Atlikta</string>
+    <string name="abc_activity_chooser_view_see_all">Peržiūrėti viską</string>
+    <string name="abc_activitychooserview_choose_application">Pasirinkti programą</string>
+    <string name="abc_capital_off">IŠJUNGTA</string>
+    <string name="abc_capital_on">ĮJUNGTI</string>
+    <string name="abc_search_hint">Ieškoti...</string>
+    <string name="abc_searchview_description_clear">Išvalyti užklausą</string>
+    <string name="abc_searchview_description_query">Paieškos užklausa</string>
+    <string name="abc_searchview_description_search">Paieška</string>
+    <string name="abc_searchview_description_submit">Pateikti užklausą</string>
+    <string name="abc_searchview_description_voice">Paieška balsu</string>
+    <string name="abc_shareactionprovider_share_with">Bendrinti naudojant</string>
+    <string name="abc_shareactionprovider_share_with_application">Bendrinti naudojant programą „%s“</string>
+    <string name="abc_toolbar_collapse_description">Sutraukti</string>
+    <string name="accessibility_text">Pritaikymas neįgaliesiems</string>
+    <string name="account_intro_description">Užsisakykite[BRAND_NAME]paslaugą, kad galėtumėte išmaniau ir efektyviau naudoti įrenginį.</string>
+    <string name="account_intro_title">[BRAND_NAME]Paslaugos paskyra</string>
+    <string name="add_baidu_button_label">Prisijungti prie \"Baidu Cloud</string>
+    <string name="add_infocus_service_account">Nauja [BRAND_NAME] paslaugos paskyra</string>
+    <string name="back_btn_lebel">Ankstesnis žingsnis</string>
+    <string name="backup_and_restore_description">"jeigu jau kūrėte atsarginę savo paskyros kopiją, galite dabar atnaujinti duomenis mobiliajame telefone. 
+
+Bet kada galima keisti atsarginės kopijos kūrimo parametrą srityje Parametras."</string>
+    <string name="backup_and_restore_title">Atsarginė kopija ir atkūrimas</string>
+    <string name="baidu_intro_description">Atlikus kelis paprastus veiksmus galima mėgautis \"Baidu Cloud\" saugykloje teikiama vieta.</string>
+    <string name="baidu_intro_title">\"Baidu Cloud\" saugyklos vieta</string>
+    <string name="baidu_progress_dialog_des">Palaukite</string>
+    <string name="choose_timezone">Pasirinkite laiko juostą</string>
+    <string name="datausage_dialog_negitive_btn">Atšaukti</string>
+    <string name="datausage_dialog_positive_btn">Gerai</string>
+    <string name="date_and_time">Datos ir laiko nustatymai</string>
+    <string name="date_and_time_settings_summary">Nustatyti datą, laiką, laiko juostą ir formatus</string>
+    <string name="date_and_time_settings_title">Data ir laikas</string>
+    <string name="date_and_time_settings_title_setup_wizard">Nustatyti datą ir laiką</string>
+    <string name="date_picker_title">Data :</string>
+    <string name="date_time_24hour">Naudoti 24 val. formatą</string>
+    <string name="date_time_auto">Automatinė data ir laikas</string>
+    <string name="date_time_auto_summaryOff">Naudoti tinklo pateiktą laiką</string>
+    <string name="date_time_auto_summaryOn">Naudoti tinklo pateiktą laiką</string>
+    <string name="date_time_date_format">Pasirinkite datos formatą</string>
+    <string name="date_time_set_date">Nustatyti datą</string>
+    <string name="date_time_set_time">Nustatyti laiką</string>
+    <string name="date_time_set_timezone">Laiko juosta</string>
+    <string name="device_checking_message">Sveiki</string>
+    <string name="dropbox_fih_description">Gaukite 2 GB nemokamos vietos \"Dropbox\", kad galėtumėte automatiškai nusiųsti savo nuotraukas ir vaizdo įrašus.</string>
+    <string name="dropbox_fih_signin">Prisijungti prie \"Dropbox\"</string>
+    <string name="dropbox_fih_signup">Užsiregistruoti \"Dropbox\"</string>
+    <string name="emergency_dial_hmd_message">Kritiška padėtis</string>
+    <string name="emergency_dial_message">Skambutis pagalbos numeriu</string>
+    <string name="expand_button_title">Išplėstinės</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] programinės įrangos nuosavybės ir naudojimo sąlygų sutartis
+
+ Įsigaliojimo data: 2016 m. gegužės 20 d.
+
+ Naudojimo sąlygų turinys (toliau – Naudojimo sąlygos) taikomas tokių paslaugų kaip programinės įrangos [BRAND_NAME_PROXY]atsisiuntimas, automatinio naujinimo paslauga ir pan. (toliau – programinės įrangos paslaugos) teikimui. Atsisiųsdami, diegdami ar naudodami programinę įrangą [BRAND_NAME_PROXY]išreiškiate sutikimą laikytis Naudojimo sąlygų. Jeigu nesutinkate su Naudojimo sąlygomis, nesisiųskite, nekopijuokite ir nenaudokite programinės įrangos [BRAND_NAME_PROXY]. 
+
+ 1. Naudojimo taisyklės
+ Jums bus suteiktos neperduodamos, nenuosavybinės, asmeninės ir ribotos teisės naudoti programinės įrangos[BRAND_NAME_PROXY]paslaugas, sutikus su Naudojimo sąlygomis. Programinė įranga [BRAND_NAME_PROXY]bus įdiegta jūsų [BRAND_NAME_PROXY]įrenginyje tikslinio kodo forma ir galėsite ją naudoti paleidę programinę įrangą [BRAND_NAME_PROXY]. Gerai žinote, kad jos negalima naudoti komerciniais tikslais ir program"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] Teisinė informacija</string>
+    <string name="finish_button_label">Baigti</string>
+    <string name="google_account_add_account">Prisijungti naudojant „Google“</string>
+    <string name="google_account_intro_description">Prisijunkite prie savo \"Google\" paskyros, kad galėtumėte naudoti \"Google\" paslaugas.</string>
+    <string name="google_account_intro_title">\"Google\" paskyra</string>
+    <string name="hmd_legal_message">"Paslaugų naudojimo sąlygos 
+ 
+Galioja nuo 2016 m. spalio 14 d. 
+ 
+1. Sutikimas 
+Šios „HMD Global“ paslaugos sąlygos kartu su Privatumo politika ir visomis kitomis papildomomis sąlygomis ir informacija, kuri gali būti pateikta teikiant Paslaugą, (bendrai – „Sąlygos“) apibrėžia paslaugos, svetainės, turinio ir programinės įrangos (bendrai „Paslauga“) naudojimą. Užsiregistruodami arba naudodami Paslaugą arba bet kurią jos dalį, jūs sutinkate su šiomis Sąlygomis. 
+ 
+Sąlygos sudaro jūsų ir „HMD Global Oy“ (Bertel Jungin aukio 9, 02610 Espoo, Suomija), įskaitant jos filialus ir tiekėjus, (bendrai – „HMD Global“) sutartį, kuri apibrėžia jūsų ir „HMD Global“ teises ir įsipareigojimus, susijusius su Paslauga. 
+ 
+2. Teisė naudoti Paslaugą 
+Norėdami naudotis Paslauga, turite būti ne jaunesni nei trylikos (13) metų amžiaus. Jei esate jaunesnis arba lygiai trylikos (13) metų amžiaus, bet nepilnametis toje valstybėje, kurioje gyvenate, jūsų tėvai ar globėjai turi jūsų vardu pritarti registracijai ir duoti sutikimą naudotis Paslauga. Registraciją gali atlikti tik asmenys, turintys visišką teisinį veiksnumą. 
+ 
+3. Registracija ir nutraukimas 
+Norint naudotis Paslauga, jums gali tekti užsiregistruoti ir sukurti HMD paskyrą, naudojant vartotojo vardą ir slaptažodį, kuriems gali būti taikomos atskiros sąlygos. Galime jūsų paprašyti pateikti tam tikrus asmeninius duomenis ir kitą informaciją. „HMD Global“ gali patikrinti jūsų el. pašto adresą prieš jums pradedant naudoti HMD paskyrą. Prieš naudojant įrenginį pirmą kartą ir kaskart atnaujinus „Nokia“ įrenginio programinę įrangą, „HMD Global“ siunčiamas teksto pranešimas. Kuriant HMD paskyrą reikės perduoti duomenis. Gali būti taikomi duomenų perdavimo mokesčiai. 
+ 
+Jūs sutinkate pateikti teisingą ir visą informaciją, kai registruositės gauti Paslaugą, ir nuolatos šią informaciją atnaujinsite. Privalote imtis atitinkamų priemonių, kad apsaugotumėte vartotojo vardą ir slaptažodį nuo kitų asmenų piktnaudžiavimo, ir nedelsdami pranešti „HMD Global“ apie bet kokį piktnaudžiavimą. Jūs, jūsų tėvai ar globėjai, jei esate nepilnametis, esate asmeniškai atsakingi už bet kokį Paslaugos naudojimą. 
+ 
+Jei nebenorite naudotis Paslauga, galite panaikinti savo registraciją. Nutraukus registraciją, nebeturėsite prieigos prie Paslaugos. „HMD Global“ gali nutraukti arba apriboti prieigą prie tam tikrų Paslaugos dalių, jeigu „HMD Global“ pagrįstai nuspręs, kad pažeidėte Sąlygas, arba iš anksto pranešusi, jei nebuvote prisijungę prie Paslaugos naudodami savo vartotojo vardą pastaruosius šešis (6) mėnesius. 
+ 
+Išskyrus toliau Privatumo politikoje nurodytus atvejus, „HMD Global“ neatsako už jokį informacijos arba turinio, kurį pateikėte Paslaugai, pašalinimą arba praradimą. Kai jūs arba „HMD Global“ pašalina informaciją arba turinį iš Paslaugos, jos pėdsakų arba kopijos gali likti kitur. 
+ 
+4. Licencijos 
+„HMD Global“ suteikia jums bendrąją, neperduodamą licenciją, kurią „HMD Global“ bet kada gali savo nuožiūra atšaukti, skirtą Paslaugai pasiekti ir naudoti griežtai laikantis Sąlygų. Paslaugos naudojimas nesuteikia jums jokių intelektinės nuosavybės teisių į Paslaugą ar į bet kokią jos informaciją ar turinį. 
+ 
+Kaip Paslaugos dalį „HMD Global“ gali teikti jums „HMD Global“ arba jos licencijos išdavėjų sukurtą turinį („Turinys“). „HMD Global“ suteikia jums bendrąją ir nuolatinę licenciją naudoti Turinį pagal jo paskirtį, jei neapibrėžta kitaip atitinkamose Sąlygose arba pirkimo užsakyme. Dalis Turinio gali būti pasiekiama tik tam tikrų geografinių sričių gyventojams. Privalote laikytis nustatytų apribojimų, taikomų tam tikram Turiniui, kurį gaunate naudodami Paslaugą. Kiekviena licencija, suteikianti teisę naudoti trečiųjų asmenų Turinį, yra įpareigojanti sutartis, sudaryta tarp jūsų ir trečiosios šalies Turinio teikėjo. Turite tik aiškiai čia suteiktas teises į Turinį. 
+ 
+Kaip Paslaugos dalį „HMD Global“ gali teikti jums „HMD Global“ arba jos licencijos išdavėjų sukurtą tam tikrą programinę įrangą („Programinė įranga“). Jūsų naudojimuisi Programine įranga gali būti taikomos atskiros sąlygos, su kuriomis turite sutikti prieš naudodamiesi Programine įranga. Jei atskirų sąlygų, taikomų tokiai Programinei įrangai, nėra, bus taikomos šios sąlygos: „HMD Global“ suteikia jums ribotąją, bendrąją, neperduodamą teisę diegti ir naudoti Programinę įrangą jūsų kompiuteryje ir (arba) mobiliajame įrenginyje. Negalite kopijuoti Programinės įrangos, išskyrus vieną archyvinę atsarginės versijos kopiją. Jūs negalite platinti, perleisti teisės naudoti, modifikuoti, versti, atgaminti, perparduoti, sublicencijuoti, nuomoti, perkonstruoti ar kitokiu būdu bandyti iššifruoti Programinės įrangos kodą ar kitokiu būtu kurti jos išvestines programas. Atviro šaltinio programinei įrangai yra taikomos atvirojo šaltinio programinės įrangos licencijos sąlygos. Naudodami Programinę įrangą, sutinkate su visomis galiojančiomis teisinėmis sąlygomis. 
+ 
+Programinei įrangai gali būti taikoma JAV eksporto valdymo reglamento ir kitų importavimo arba eksportavimo kontrolės taisyklių eksportavimo kontrolė. Jūs sutinkate griežtai laikytis visų taikomų importavimo ir eksportavimo taisyklių ir patvirtinate, kad įsipareigojate gauti tokios Programinės įrangos eksportavimo, pakartotinio eksportavimo, perdavimo arba importavimo licencijas. 
+ 
+Į Paslaugą galite įkelti informaciją ar turinį („Duomenis“). „HMD Global“ nereiškia pretenzijų dėl nuosavybės teisės į jūsų Duomenis. Pateikdami Duomenis, neperduodate Duomenų nuosavybės teisių „HMD Global“. „HMD Global“ tik perduoda tik Duomenis ir neatsako už jų redakcinę kontrolę. Pateikdami Duomenis Paslaugai, jūs suteikiate „HMD Global“ pasaulinę, bendrąją, pakartotinai licencijuojamą, priskiriamą, visiškai apmokėtą, be mokesčių taikymo, nuolatinę ir neatšaukiamą licenciją naudoti, kopijuoti, viešai naudoti, rodyti, platinti medijoje ir modifikuoti Duomenis, įtraukti Duomenis į kitus darbus ir suteikti panašias antrines licencijas, kiek tai būtina „HMD Global“ Paslaugai teikti. Jums gali būti suteikta galimybė koreguoti šį sutikimą Paslaugos privatumo ir kituose nustatymuose. 
+ 
+Esate visiškai atsakingi už duomenų, kuriuos laikote Paslaugoje, atsarginių kopijų kūrimą, įskaitant jūsų įkeliamą Turinį. Jeigu Paslauga nutraukiama arba atšaukiama, „HMD Global“ gali negrįžtamai panaikinti jūsų duomenis. „HMD Global“ neįsipareigoja grąžinti jums duomenų po to, kai Paslauga nutraukiama arba atšaukiama. 
+ 
+5. Paslaugos naudojimas 
+Jūs sutinkate: 
+• Laikytis taikomų teisės aktų, Sąlygų ir gero elgesio taisyklių. 
+• Naudoti Paslaugą išimtinai savo asmeniniais, nekomerciniais tikslais. 
+• Neperkelti neteisėtų, nusikalstamų, netikslių, klaidinančių, įžeidžiančių, pornografinių, priekabiaujančių, šmeižiančių ar kitokių netinkamų Duomenų. 
+• Gauti sutikimus, leidimus ar licencijas, kurių gali būti reikalaujama norint įkelti kokius nors Duomenis. 
+• Gerbti kitų privatumą. 
+• Neplatinti arba nepersiųsti nepagrįstai didelių failų, grandininių laiškų, piramidinių schemų, virusų. 
+• Nenaudoti jokių kitų technologijų ar neinicijuoti kitų veiklų, kurios gali pakenti Paslaugai arba Paslaugos vartotojų interesams ar nuosavybei. 
+• Nenaudoti jokių automatinių sistemų ar priemonių norint pasiekti, įsigyti, kopijuoti ar stebėti bet kokią Paslaugos dalį. 
+• Prisiimti atsakomybę už pasekmes, susijusias su jūsų paskelbtais Duomenimis. 
+ 
+„HMD Global“ gali, bet neįsipareigoja: 
+• Stebėti ar tvarkyti bet kokį Turinį ar Duomenis. 
+• Pašalinti bet kokius Duomenis iš Paslaugos. 
+• Apriboti prieigą prie bet kurios Paslaugos dalies bet kuriuo metu išimtinai savo nuožiūra. 
+ 
+6. Turinys 
+Prieš perkeldami ar pasiekdami bet kokį Turinį, patikrinkite, ar Turinys, kurį ketinate pasiekti, yra apribotas tikro amžiaus reikalavimu arba pažymėtas kaip potencialiai „įžeidžiantis“ ar „intymus“. 
+ 
+„HMD Global“ neatsako už jokias pretenzijas ar baudžiamuosius nusižengimus, atsiradusius ar jūsų patirtus pasiekus tokį Turinį. 
+ 
+Jūs sutinkate: 
+• Naudoti Turinį išimtinai savo asmeniniais, nekomerciniais tikslais 
+• Naudoti Turinį laikantis teisės aktuose nustatytų reikalavimų, papildomų sąlygų, gairių ir politikos ar nustatytų produktų internetinėse svetainėse, kurios gali būti taikomos tam tikrai konkrečiai Turinio daliai. 
+• Nekurti kopijų, neduoti, neparduoti, neperparduoti, nepaskolinti, nenuomoti, nesiūlyti, netransliuoti, nesiųsti, neplatinti, neperduoti, neviešinti, neatkurti, nemodifikuoti, nerodyti, nevykdyti, neišnaudoti komerciškai arba nepadaryti Turinio pasiekiamo, jei kitaip neleidžia atitinkamos Sąlygos, ir nedelsiant pranešti „HMD Global“ apie bet kokį tokį neteisėtą naudojimą. 
+• Nešalinti, netrukdyti, neperkonstruoti, neiššifruoti ar kitokiu būdu nepažeisti ar nesutrikdyti jokių taikomų naudojimo taisyklių ar siekti sutrukdyti skaitmeninių teisių valdymą ar kopijavimą saugančias funkcijas, susijusias su Turiniu ar kitomis technologijomis, naudojamomis siekiant kontroliuoti Turinio ar jį identifikuojančios informacijos prieigą ar naudojimą. 
+• Nenaudoti jokių automatinių sistemų ar priemonių, išskyrus mūsų pateikiamas, siekiant išsirinkti ar parsisiųsti Turinį. 
+• Neatskleisti savo slaptažodžio ar kitokiu būdu neleisti kitiems asmenims prieiti prie Turinio. Kopijavimo apribojimai, taikomi laikmenoms, taip pat taikomi Turiniui, kuris pasiekiamas kaip šios Paslaugos dalis. 
+ 
+Turinys priklauso ir (arba) yra kontroliuojamas „HMD Global“ ir (arba) jos atitinkamo licencijos išdavėjo ir yra apsaugotas intelektinės nuosavybės įstatymais. Trečiųjų asmenų Turinio teikėjas yra išimtinai atsakingas už teikiamą Turinį, bet kokias suteiktas garantijas (tol, kol joms nėra pateikta pretenzijų) ir už bet kokias jūsų pretenzijas, kurias galite turėti dėl Turinio ar jo naudojimo. Tačiau „HMD Global“ gali taikyti trečiosios šalies Turinio licencijos sąlygas jums, kaip šių sąlygų trečiosios šalies naudos gavėjui. Trečiųjų asmenų Turinio teikėjai yra šių Sąlygų naudos gavėjai ir gali įgyvendinti šių Sąlygų nuostatas, kurios tiesiogiai susijusios su Turiniu, į kuriuos jie turi teises. Teikiant Turinį jums, „HMD Global“ gali veikti kaip trečiosios šalies Turinio teikėjo agentas. „HMD Global“ nėra jūsų ir trečiosios šalies Turinio teikėjo operacijos su tokiu Turiniu šalis. 
+ 
+7. Įtarimai dėl autorių teisių pažeidimo 
+„HMD Global“ gerbia trečiųjų šalių intelektinės nuosavybės teises. Jei norite siųsti pranešimą apie intelektinės nuosavybės teisės pažeidimą, įskaitant pretenzijas dėl autoriaus teisių pažeidimo, pateikite Pranešimą apie pažeidimą laikydamiesi mūsų procedūrų. Į UŽKLAUSAS, PATEIKTAS NESILAIKANT ŠIOS PROCEDŪROS, ATSAKYTA NEBUS. 
+ 
+Atsakymui į pranešimus apie autoriaus teisių pažeidimus „HMD Global“ naudoja Jungtinių Amerikos Valstijų kodekso 17 antraštinės dalies 512 skyriuje apibrėžtus procesus. Tam tikromis aplinkybėmis „HMD Global“ gali išjungti arba nutraukti „HMD Global“ paslaugų vartotojų paskyras, kurios gali būti pakartotinai pažeistos. 
+ 
+8. Pranešimai 
+„HMD Global“ gali skelbti pranešimus Paslaugoje. „HMD Global“ taip pat gali siųsti jums pranešimus apie produktus ir paslaugas jūsų pateiktu el. pašto adresu arba telefono numeriu. Manoma, kad tokius pranešimus gaunate ne vėliau nei per septynias (7) dienas po to, kai „HMD Global“ juos išsiunčia arba paskelbia. Jūsų tolesnis Paslaugos naudojimas patvirtina, kad gavote visus šiuos pranešimus nepaisant pristatymo būdo. 
+ 
+9. Mokesčiai 
+Jūsų naudojimasis Paslauga gali būti mokamas arba tapti mokamas. 
+ 
+Visi „HMD Global“ taikomi mokesčiai už atitinkamą Paslaugą skelbiami atskirai. 
+ 
+Paslaugos naudojimas gali įtraukti duomenų perdavimą per jūsų paslaugų teikėjo tinklą. Į Paslaugos kainas nėra įtraukiamos jūsų tinklo paslaugų teikėjo išlaidos už duomenų perdavimą, tekstinius pranešimus, balso ar kitas paslaugas. 
+ 
+„HMD Global“ neprisiima jokios atsakomybės už mokesčių mokėjimą jūsų paslaugos teikėjams. 
+ 
+10. Užsakymas ir mokėjimo sąlygos 
+„Užsakymas“ reiškia „HMD Global“ siūlomo ir Paslaugoje pasiekiamo mokamo Turinio pasirinkimą ir (arba) Turinio prenumeratą ir mokėjimo metodo nurodymą, bei užsakymo pateikimą pasirinkus„pirkti“, „gerai“, „sutinku“ ar kitą panašų sutikimo patvirtinimą užsakymo sekoje arba pateikiant kitą sutikimo su užsakymo sekoje jums pateiktomis sąlygomis indikaciją. 
+ 
+Norėdami pateikti Paslaugos Užsakymą, privalote būti sulaukęs teisės aktuose nustatyto teisinio kompetetingumo amžiaus arba pilnametystės. Jei nesate pasiekęs teisinio kompetetingumo amžiaus arba pilnametystės, Užsakymą galite pateikti tik turėdami iš anksto duotą tėvų ar globėjų sutikimą. 
+ 
+Sutinkate, kad visi Užsakymai yra galiojantys ir įpareigojantys. Visus Užsakymus privalo patvirtinti „HMD Global“. 
+ 
+Galite mokėti kredito ar debeto kortele, tinklo paslaugų teikėjo mokėjimo arba kitu mokėjimo būdu, jei įmanoma. 
+ 
+Jūsų kredito ar debeto kortelėje nurodytas mokėjimo adresas turi būti toje valstybėje, kurioje yra Paslaugos siūlomas Turinys. Jums pateikus užsakymą, „HMD Global“ per pagrįstą laikotarpį nuskaitys mokestį nuo jūsų kredito kortelės arba banko sąskaitos. Visų mokėjimų kredito kortele galiojimą ir leidimą tikrina kortelės išdavėjas. 
+ 
+Jei pasirenkate mokėjimą per tinklo paslaugų teikėją, mokestis bus įtraukiamas į mobiliojo telefono sąskaitą arba bus nuskaičiuota nuo jūsų išankstinės mokėjimo sąskaitos, jei tai yra išankstinio mokėjimo sąskaita. Kai kurie tinklo paslaugų teikėjai gali nustatyti papildomas sąlygas jūsų naudojimuisi Paslauga, įskaitant sumos, kurią galima išleisti apmokėjimams per tinklo paslaugų teikėją, limitų nustatymą. Mokesčiai, viršijantys tinklo paslaugų teikėjo nustatytus limitus ar sąskaitos likutį, gali būti atšaukti. 
+ 
+Jūs sutinkate apmokėti išlaidas, susijusias su jūsų Užsakymu, užtikrinti, kad Užsakymo metu mokėjimo priemonė yra galiojanti, kad jūsų esate teisėtas šios priemonės turėtojas ir kad priemonė yra naudojama neviršijant nustatytų kredito limitų. 
+ 
+Jums suteikiama pristatyto Turinio licencija. Jūs sutinkate naudoti šį Turinį tik taip, kaip nustatyta šiose Sąlygose ir kitose papildomose sąlygose, kurios gali būti nurodytos jūsų užsakymo sekoje. 
+ 
+Paslauga gali pasiūlyti įsigyti prenumeratas. Jūs suteikiate teisę prenumeratos laikotarpiu periodiškai nuskaičiuoti mokestį už Paslaugą. Gali būti siūlomas bandomasis Paslaugos naudojimo laikotarpis. Jeigu jūsų Užsakymas apima bandomąjį laikotarpį (dar vadinamą „pabandyk ir įsigyk“), gali tekti sumokėti pasibaigus bandomajam laikotarpiui, išskyrus tuos atvejus, jei atšaukiate naudojimąsi pagal prenumeratos/bandomosios versijos sąlygas. 
+ 
+Paslaugos kainos gali būti periodiškai keičiamos. Jei nenustatyta kitaip, į kainas yra įskaičiuoti taikomi mokesčiai, galiojantys jūsų atliekamos operacijos metu. Gali būti, kad bankas arba kredito kortelės išdavėjas priskaičiuos papildomus mokesčius dėl valiutų keitimo kurso ir (arba) kitų papildomų mokesčių. „HMD Global“ neprisiima jokios atsakomybės už mokesčių mokėjimą bankui ar kitai trečiajai šaliai. 
+ 
+11. Atšaukimai ir pinigų grąžinimai 
+Sutinkate, kad Turinys el. būdu pristatomas tuo pačiu metu, kai atliksite Užsakymą. Apdorojus Užsakymą, jo atšaukti nebegalėsite. Dėl Turinio pobūdžio jis negali būti grąžintas. 
+ 
+Jeigu pateikę Užsakymą pastebite ir nedelsdami pranešate „HMD Global“ per 48 valandas, kad (a) užsakėte klaidingą Turinį; (b) Turinys, kurį „HMD Global“ pateikia jums, neatitinka naudojant Paslaugą jūsų užsakyto Turinio aprašo; arba (c) dėl techninių problemų vėlavo arba nebuvo pristatytas Turinys arba dėl tokių techninių problemų netyčia buvo pateikti keli užsakymai, vienintelė ir išskirtinė jūsų priemonė dėl tokio Turinio bus tokio Turinio pakeitimas arba už tokį Turinį sumokėtos pinigų sumos grąžinimas, kaip išskirtinai nuspręs „HMD Global“. 
+ 
+Kitu atveju pinigų grąžinimas yra negalimas. Jei iškilo anksčiau aprašytų problemų, kreipkitės į „HMD Global“ klientų aptarnavimo atstovą. 
+ 
+Atminkite, kad „HMD Global“ klientų aptarnavimo atstovas negali svarstyti jūsų kliento palaikymo užklausos, jeigu negalite pateikti operacijos ID, kurį jums suteikia „HMD Global“ gavusi Užsakymą per Paslaugą. „HMD Global“ gali svarstyti pinigų grąžinimą tik už Turinį, kurio bendra kaina viršija atitinkamuose vietos teisės aktuose nustatytą piniginį dydį. 
+ 
+12. Atsiliepimai „HMD Global“ 
+Pateikdami idėjas, atsiliepimus ir (arba) pasiūlymus („Atsiliepimas“) „HMD Global“ naudodami Paslaugą ar kitas priemones, jūs pripažįstate ir sutinkate, kad: (1) „HMD Global“ gali turėti panašių į Atsiliepimą kūrimo idėjų; (2) jūsų Atsiliepime nėra jūsų arba trečiosios šalies konfidencialios arba nuosavybės teisėmis apsaugotos informacijos; (3) „HMD Global“ neįsipareigoja saugoti Atsiliepimo konfidencialumo; (4) „HMD Global“ gali laisvai naudoti, platinti, išnaudoti ir toliau kurti ir modifikuoti Atsiliepimą bet kokiu tikslu; ir (5) jūs neturite jokios teisės į „HMD Global“ kompensaciją. 
+ 
+13. Socialinė veikla ir vietos pasidalijimas 
+Jūs galite naudoti Paslaugoje esančias funkcijas, skirtas vietai, būsenai, turiniui, Duomenims ar asmeninei informacijai pasidalinti ar susisiekite su kitais vartotojais, svetainėmis ir paslaugomis. Naudodami šias funkcijas jūs sutinkate, kad „HMD Global“ gali naudoti ir teikti informaciją kitoms paslaugoms ir asmenims, su kuriais pasirenka bendrauti arba bendrai naudoti šią informaciją. Šių paslaugų vartotojai ir asmenys, pvz., jūsų kontaktai, gali matyti jūsų vietą, būseną ir (arba) asmeninę informaciją. Naudodami šias funkcijas jūs sutinkate nebendrinti informacijos, Turinio ar Duomenų arba nesusieti su jokia paslauga ar svetaine, kuriose: (a) yra nelegalaus arba netinkamo turinio arba kitų duomenų; arba (b) be leidimo išnaudojamas intelektinės nuosavybės teisių pažeidžiamumas arba vartotojai skatinami piratauti. Bet kokia sąveika yra nesusijusi su „HMD Global“ ir yra išskirtinai tarp jūsų ir kito (-ų) vartotojo (-ų). 
+ 
+14. Pasiekiamumas ir techniniai reikalavimai 
+Turinio ir Paslaugos pasiekiamumas gali skirtis „HMD Global“ nuožiūra. „HMD Global“ aiškiai atsisako bet kokių pareiškimų arba garantijų, kad konkretus Turinys arba Paslauga bus pasiekiami. Ši Paslauga gali būti teikiama ne visose šalyse ir tik tam tikromis kalbomis. Paslauga, operacijos ir kai kurios funkcijos gali taip pat priklausyti nuo tinklo, naudojamų prietaisų suderinamumo ir pateikiamo turinio formato. 
+ 
+Norint pasiekti Paslaugą, gali tekti atsisiųsti konkrečią „HMD Global“ ar kitos šalies sukurtą programinę įrangą. 
+ 
+„HMD Global“ savo nuožiūra gali keisti, taisyti arba nutraukti visą Paslaugą ar jos dalį. Paslauga nėra prieinama techninės priežiūros atlikimo ir kitu metu. Siekiant užtikrinti, kad turėtumėte naujausią įrenginio programinę įrangą ir programas, jūsų įrenginys gali automatiškai tikrinti programinės įrangos atnaujinimų pasiekiamumą „HMD Global“. Jei aptinkami kokie nors atnaujinimai, būsite iš karto paraginti patvirtinti diegimą. Galite išjungti automatinę atnaujinimų paiešką savo prietaiso nustatymuose. Jūs taip pat galite įdiegti programinę įrangą per pasiekiamus programinės įrangos atnaujinimo kanalus. Jeigu „HMD Global“ laikosi nuomonės, kad Programinės įrangos atnaujinimas yra svarbus arba kritinis, ankstesnės Programinės įrangos versijos naudoti nebegalėsite. „HMD Global“ gali neleisti naudoti ankstesnės Programinės įrangos arba Paslaugos versijos, kol įdiegsite atnaujinimą. 
+ 
+„HMD Global“ gali dėl bet kokios priežasties išjungti bet kokį Turinį arba Paslaugą jūsų Paslaugos paskyroje ir pašalinti bet kokį Turinį arba Programinę įrangą ir (arba) išjungti bet kokią programą jūsų įrenginyje, kad apsaugotų Paslaugą, programos teikėjus, belaidžio ryšio operatorius, kurių tinklais pasiekiate paslaugą, arba kitas paveiktas arba potencialiai paveikiamas šalis. 
+ 
+Tam tikra paslauga gali būti išankstinės versijos, pavyzdžiui, beta leidimo, ir gali neveikti taip, kaip veiktų galutinė versija. „HMD Global“ gali pastebimai pakeisti bet kurią Paslaugos arba Programinės įrangos versiją arba nuspręsti neišleisti galutinės versijos. 
+ 
+15. Nuorodos į trečiųjų šalių svetaines ir Turinį 
+„HMD Global“ gali įtraukti prieigą prie svetainių ir paslaugų internete arba iš anksto įkeltuose klientuose, kad galėtumėte sąveikauti su svetainėmis ir paslaugomis, kurios priklauso trečiosioms šalims arba yra jų valdomos ir nėra Paslaugos dalis. Jūs privalote peržiūrėti ir sutikti su šių internetinių svetainių ar paslaugų sąlygomis prieš pradėdami jas naudotis. 
+ 
+„HMD Global“ nekontroliuoja trečiosios šalies turinio, svetainių arba paslaugų ir neprisiima jokios atsakomybės už teikiamas paslaugas, sukurtus arba paskelbtus duomenis šių trečiųjų šalių svetainėse arba paslaugose. Nuoroda į trečiosios šalies svetaines nereiškia, kad „HMD Global“ pritaria svetainei arba svetainėje pateiktiems produktams ar paslaugoms. 
+ 
+Be to, jūs ir kiti vartotojai Paslaugoje gali sukurti turinį ir nuorodas į turinį, kuris kitokiu atveju nebūtų pateiktas Paslaugoje. „HMD Global“ neatsako už tokio tipo turinį arba nuorodas. 
+ 
+16. Reklaminiai skelbimai 
+Paslaugoje gali būti reklaminių skelbimų. Reklaminiai skelbimai gali būti taikomi pagal Paslaugoje saugomą turinį ar informaciją. Užklausos pateikiamos per Paslaugą ar kitą informaciją. 
+ 
+17. Asmeniniai duomenys 
+Privatumo politika ir kita jums prieinama papildoma privatumo informacija nustato asmeninių duomenų naudojimą. 
+ 
+18. Atsakomybės ribojimas 
+Paslauga suteikiama TOKIA, KOKIA YRA ir TIEK, KIEK PASIEKIAMA. „HMD Global“ negarantuoja, kad Paslauga bus teikiama nepertraukiamai, be klaidų arba be virusų. Nėra pateikiama jokių garantijų nei aiškiai išreikštų, nei numanomų, susijusių su Paslaugos prieinamumu, tikslumu, patikimumu, informacija ar turiniu, įskaitant, bet neapsiribojant nuosavybės garantija, nepažeidžiančiu pobūdžiu, perkamumu ar tinkamumo naudoti tam tikram tikslui. Jūs aiškiai sutinkate ir patvirtinate, kad naudojate Paslaugą savo rizika ir kad galite būti paveikti kito turinio, gauto iš įvairių šaltinių. 
+ 
+Išskyrus atsakomybę už pirtį arba asmens sužalojimą dėl didelio aplaidumo arba tyčinio netinkamo elgesio, „HMD Global“ jokiu būdu nebus atsakinga už bet kokią netiesioginę, atsitiktinę, drausminę arba pasekminę žalą, atsiradusią dėl Paslaugos naudojimo arba negalėjimo jos naudoti. 
+ 
+19. Atleidimas nuo atsakomybės 
+Jūs sutinkate ginti ir atlyginti nuostolius „HMD Global“ dėl trečiosios šalies pretenzijų ir visų įsipareigojimų, reikalavimų apmokėti, nuostolių, išlaidų arba žalos, atsiradusios (i) jums pažeidus Sąlygas, (ii) jums pažeidus bet kokias trečiosios šalies intelektinės nuosavybės teises, kitas teises arba privatumą arba (iii) trečiajai šaliai netinkamai naudojant Paslaugą, kai netinkamas naudojimas buvo galimas dėl to, kad nesiėmėte tinkamų priemonių savo vartotojo vardui ir slaptažodžiui apsaugoti nuo netinkamo naudojimo. 
+ 
+20. Baigiamosios nuostatos 
+ 
+20.1 Taikytini įstatymai 
+Sąlygoms taikomi Suomijos įstatymai, neatsižvelgiant į jos teisės nuostatų konfliktus. 
+ 
+20.2 Galiojimas 
+Sąlygos neapriboja ir nepanaikina jūsų teisių, privalomai įtvirtintų jūsų šalies teisės aktuose ir kurių negalima atsisakyti pagal įstatymus. Jeigu Sąlygų nuostata yra pripažįstama negaliojančia, likusios nuostatos toliau galios, o negaliojanti nuostata bus pakeista taip, kad galiotų ir labiausiai atitiktų rezultatą ir Sąlygų tikslus. Jei viena ar kelios Sąlygų nuostatos nėra susijusios su jūsų Paslaugos naudojimu, tai neturės įtakos bet kurios kitos Sąlygų nuostatos arba visų Sąlygų galiojimui ir įgyvendinimui. Jeigu yra prieštaravimų tarp šių „HMD Global“ Paslaugos sąlygų ir Privatumo politikos, galioja šių „HMD Global“ Paslaugos sąlygų nuostatos. Tos Sąlygų nuostatos, kurios pagal savo pobūdį galioja po jūsų registracijos pasibaigimo, bus taikomos nepaisant registracijos pasibaigimo. 
+ 
+20.3 Sąlygų pakeitimai 
+„HMD Global“ gali bet kada be išankstinio įspėjimo modifikuoti Sąlygas. Jeigu sąlygos iš esmės keičiamos prastinant sąlygas, „HMD Global“ pateiks atskirą pranešimą apie keitimą. 
+ 
+Esate patys atsakingi už Sąlygų peržiūrėjimą reguliariai. Jūsų tęstinis naudojimasis Paslauga reiškia, kad sutinkate su bet kokiais pakeitimais. 
+ 
+21. Intelektinė nuosavybė 
+Tarptautinė autorių teisių teisė saugo Paslaugą, Turinį ir Programinę įrangą. „HMD Global“ pretenduoja į jos Paslaugos,. Turinio ir Programinės įrangos autoriaus teises didžiausia įstatymo leidžiama apimtimi. Pagal Sąlygų nuostatas „HMD Global“ išlaiko visas Paslaugos, jos Turinio, Programinės įrangos ir visų kitų „HMD Global“ produktų, programinės įrangos bei kitų, naudojant Paslaugą, jums pateiktų arba jūsų naudojamų nuosavybių intelektinės nuosavybės teises. 
+ 
+22. Teisių perleidimas 
+„HMD Global“ gali perleisti šiose Sąlygose apibrėžtas teises ir įsipareigojimus savo pirminei įmonei, filialams arba bet kuriai kitai bendrai su „HMD Global“ valdomai įmonei. Be to, „HMD Global“ gali perleisti trečiajai šaliai šiose Sąlygose apibrėžtas teises ir įsipareigojimus, kai turtas sujungiamas, įsigyjamas ar parduodamas, kaip numato įstatymas ar kitu būdu."</string>
+    <string name="hmd_user_experience_program_message">Jūsų dalyvavimas naudotojų patirties programoje padeda \"HMD Global\" geriau suprasti, kuo jums patinka \"Nokia\" įrenginys ir ką, jūsų manymu, reikėtų patobulinti. Retkarčiais galite gauti anoniminių duomenų su techninėmis charakteristikomis apie įrenginį, pvz., failą su duomenimis apie programinės įrangos gedimą, kuris galėjo įvykti. Atminkite, kad tokie duomenys nebus perduodami koriniu ryšiu. Būtų labai malonu išgirsti, ką galvojate apie \"Nokia\" įrenginį!</string>
+    <string name="hmd_user_experience_program_title">Naudotojų patirties programa</string>
+    <string name="idle_too_long_toast">Jeigu šis telefonas buvo kurį laiką nenaudojamas, būtina jį išjungti, kad taupytumėte energiją.</string>
+    <string name="language_selection_cancel_btn">ATŠAUKTI</string>
+    <string name="language_selection_title">Pasirinkite kalbą</string>
+    <string name="location_for_service">Naudoti mano vietą \"Google\" ieškoms ir kitoms \"Google\" paslaugoms.</string>
+    <string name="location_info_1">Programos, kurias teikia \"Google\" vietos paslauga [galima būtų sakyti \"Programos, kurios NAUDOJA \"Google\" vietos paslaugą...] gali gauti apytikslės jūsų vietos informaciją net nenaudojant GPS.</string>
+    <string name="location_info_2">Šias funkcijas galima išjungti vietos paslaugų parametruose.</string>
+    <string name="location_network">Leisti \"Google\" vietos paslaugoms kaupti anoniminius vietos duomenis. Kaupimas vykdomas net nepaleidus jokių programų.</string>
+    <string name="location_title">Naudoti \"Google\" vietos nustatymo paslaugą</string>
+    <string name="nevigation_selection_back">Atgal</string>
+    <string name="nevigation_selection_home">Namai</string>
+    <string name="nevigation_selection_recent">Naujos</string>
+    <string name="nevigation_selection_text">Galima pakeisti mygtukų \"Grįžti\" ir \"Paskutinės naudotos\" vietą ir fono spalvą</string>
+    <string name="nevigation_selection_title">Naršymo juostos parametrai</string>
+    <string name="next_btn_lebel">KITAS</string>
+    <string name="normal_date_format">Pagal vietovę (%s)</string>
+    <string name="search_menu_title">Paieška</string>
+    <string name="setup_complete_hmd">Esate pasirengę...</string>
+    <string name="setup_complete_main">Jūsų telefonas</string>
+    <string name="setup_complete_sub">paruoštas naudoti</string>
+    <string name="setup_completed_congratulations">Sveikiname!</string>
+    <string name="sim_not_exist_toast">Įsitikinkite, kad įdėjote SIM kortelę.</string>
+    <string name="skip_add_account_button_label">Ne dabar</string>
+    <string name="skip_button_label">Praleisti</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Sutinku</string>
+    <string name="term_disagree_text">Nesutinku</string>
+    <string name="terms_of_service_description">"
+Duomenų srauto mokesčiai taikomi naudojant tokias paslaugas, kaip: orų prognozė, duomenų siuntimas į interneto saugyklą ir jų atsisiuntimas, el. paštas ar interneto naršyklės. Rekomenduojame užsisakyti iš mobiliojo ryšio paslaugų teikėjo duomenų paketą, kad sumažintumėte išlaidas. 
+
+Pažymėję \"Sutinku\" nurodote, kad aiškiai suprantate šį pranešimą ir sutinkate, kad jūsų telefonas bus automatiškai prijungtas prie interneto, kad būtų galima naudoti susijusias paslaugas. 
+
+Be to, nustatyta, kad bus automatiškai pateikiami programinės įrangos naujinimo pranešimai, kurie naudoja nedidelius duomenų kiekius, kad galėtų perteikti naują programinės įrangos patirtį. Šią parinktį vėliau galima išjungti srityje Parametrai. 
+
+"</string>
+    <string name="terms_title">Duomenų naudojimo pranešimai</string>
+    <string name="time_picker_title">Laikas:</string>
+    <string name="traffic_prompt_content">Jeigu pažymėsite, kad nesutinkate, būtina rankiniu būdu gauti informaciją apie: programinės įrangos naujinius, orų prognozę ir t. t.</string>
+    <string name="upload_agent_des_text">"Prisijunkite prie naudotojų patirties programos &lt;a href='launch.AddUploadAgentHandler://Kode'>Privatumo sąlygos&lt;/a> 。"</string>
+    <string name="upload_agent_hmd_des_text_2">"Prisijunkite prie \"Nokia\" naudotojų patirties programos. &lt;a href='launch.UserExperienceActivity://Kode'>Sužinokite daugiau.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Naudotojų patirties programa</string>
+    <string name="v7_preference_off">Išjungta</string>
+    <string name="v7_preference_on">Įjungta</string>
+    <string name="welcome_hmd_term_of_use_2">"Bakstelėdami rodyklę sutinkate su &lt;a href='launch.TermOfServiceActivity://Kode'>paslaugų naudojimo sąlygomis&lt;/a> ir &lt;a href='launch.AddUploadAgentHandler://Kode'>privatumo politika&lt;/a>. Įrenginio aktyvinimo informacija su vienkartine įrenginio vietos informacija bus nusiųsta \"HMD Global\". Gali būti taikomi duomenų srauto mokesčiai."</string>
+    <string name="welcome_infocus_term_of_use">"Paspauskite Pradėti, kad sutiktumėte su&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Paslaugos sąlygomis&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Pirmyn</string>
+    <string name="welcome_message">Sveiki</string>
+    <string name="welcome_start_button_label">ĮJUNGTI</string>
+    <string name="welcome_vision_settings_button_label">Vaizdo parametrai</string>
+    <string name="wifi_picker_connection_des_text">Jeigu nesate prisijungęs prie WLAN, programinė įranga bus autentifikuota naudojant mobiliojo ryšio tinklą, todėl gali būti taikomi duomenų perdavimo mokesčiai.</string>
+    <string name="wifi_picker_connection_negative">Prisijungti</string>
+    <string name="wifi_picker_connection_negative_prc">Prisijungti prie WLAN</string>
+    <string name="wifi_picker_connection_positive">Gerai</string>
+    <string name="wifi_picker_connection_title">Tinklo ryšys</string>
+    <string name="wifi_picker_warning_des_text">Patvirtinti, kad programinė įranga yra atnaujinta galima tik prisijungus prie interneto.</string>
+    <string name="wifi_picker_warning_negative">Vis tiek praleisti</string>
+    <string name="wifi_picker_warning_positive">Nepraleisti</string>
+    <string name="wifi_picker_warning_title">Įspėjimas</string>
+    <string name="zone_auto">Automatinė laiko juosta</string>
+    <string name="zone_auto_summaryOff">Naudoti tinklo pateiktą laiko juostą</string>
+    <string name="zone_auto_summaryOn">Naudoti tinklo pateiktą laiko juostą</string>
+    <string name="sugarsync_intro_description">Atlikus kelis paprastus veiksmus galima naudotis \"SugarSync\" debesies saugyklos vieta.</string>
+</resources>

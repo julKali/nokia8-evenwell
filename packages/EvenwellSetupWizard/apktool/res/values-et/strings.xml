@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeerimine avaekraanile</string>
+    <string name="abc_action_bar_up_description">Navigeerimine üles</string>
+    <string name="abc_action_menu_overflow_description">Rohkem valikuid</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Kuva kõik</string>
+    <string name="abc_activitychooserview_choose_application">Valige rakendus</string>
+    <string name="abc_capital_off">VÄLJAS</string>
+    <string name="abc_capital_on">SEES</string>
+    <string name="abc_search_hint">Otsige …</string>
+    <string name="abc_searchview_description_clear">Päringu tühistamine</string>
+    <string name="abc_searchview_description_query">Otsingupäring</string>
+    <string name="abc_searchview_description_search">Otsing</string>
+    <string name="abc_searchview_description_submit">Päringu esitamine</string>
+    <string name="abc_searchview_description_voice">Häälotsing</string>
+    <string name="abc_shareactionprovider_share_with">Jagamine:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jagamine rakendusega %s</string>
+    <string name="abc_toolbar_collapse_description">Ahendamine</string>
+    <string name="accessibility_text">Lisafunktsioon</string>
+    <string name="account_intro_description">Liituge[BRAND_NAME]teenusega, et kasutada oma seadet nutikamal ja tulemuslikumal moel.</string>
+    <string name="account_intro_title">[BRAND_NAME]Teenusekonto</string>
+    <string name="add_baidu_button_label">Logige Baidu Cloudi sisse</string>
+    <string name="add_infocus_service_account">Uus [BRAND_NAME] teenusekonto</string>
+    <string name="back_btn_lebel">Eelmine samm</string>
+    <string name="backup_and_restore_description">"Kui varundasite enne oma konto, saate nüüd andmed mobiiltelefonis taastada. 
+
+Varundamise sätteid saab jaotises Sätted alati muuta."</string>
+    <string name="backup_and_restore_title">Varundamine ja taastamine</string>
+    <string name="baidu_intro_description">Mõne lihtsa toiminguga saate nautida sujuvat Baidu Cloudi mäluruumi.</string>
+    <string name="baidu_intro_title">Baidu Cloudi lõppsalvestuse ruum</string>
+    <string name="baidu_progress_dialog_des">Oodake üks hetk</string>
+    <string name="datausage_dialog_negitive_btn">Loobu</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Kuupäeva ja kellaaja seadistamine</string>
+    <string name="date_and_time_settings_title">Kuupäev ja kellaeg</string>
+    <string name="date_time_24hour">24 tunni vormingus</string>
+    <string name="date_time_auto">Määra kuupäev ja kellaaeg automaatselt</string>
+    <string name="date_time_auto_summaryOff">Interneti ajal</string>
+    <string name="date_time_auto_summaryOn">Võrgu pakutud kellaaja kasutamine</string>
+    <string name="date_time_set_date">Määra kuupäev</string>
+    <string name="date_time_set_time">Kellaaja määramine</string>
+    <string name="date_time_set_timezone">Valige ajavöönd</string>
+    <string name="device_checking_message">Tere tulemast</string>
+    <string name="dropbox_fih_description">Hankige 2 GB tasuta Dropboxi mäluruumi fotode ja videote automaatseks üleslaadimiseks.</string>
+    <string name="dropbox_fih_signin">Logi Dropboxi sisse</string>
+    <string name="dropbox_fih_signup">Registreeru Dropboxis</string>
+    <string name="emergency_dial_hmd_message">Hädaabi</string>
+    <string name="emergency_dial_message">Hädaabikõne</string>
+    <string name="expand_button_title">Täpsemad</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] Tarkvara omandiõiguse ja kasutustingimuste leping
+
+ Jõustumiskuupäev: 20.05.2016
+
+ Nende kasutustingimuste (edaspidi kasutustingimused) sisu kehtib sellistele osutatavatele teenustele nagu tarkvara [BRAND_NAME_PROXY]allalaadimine, automaatne värskendusteenus jne (edaspidi tarkvarateenused). [BRAND_NAME_PROXY]tarkvara alla laadides, installides või kasutades nõustute kasutustingimusi järgima. Kui te kasutustingimustega ei nõustu, ärge [BRAND_NAME_PROXY]tarkvara alla laadige, kopeerige ega kasutage. 
+
+ 1. Kasutusreeglid
+ Teile[BRAND_NAME_PROXY]antakse mitteüleantav, mittevaraline, isiklik ja piiratud õigus tarkvarateenuste kasutamiseks pärast seda, kui olete kasutustingimustega nõustunud. [BRAND_NAME_PROXY]tarkvara installitakse teie [BRAND_NAME_PROXY]seadmesse sihtkoodi kujul ja võite kasutada [BRAND_NAME_PROXY]tarkvara selle käivitamisel. Olete teadlik, et[BRAND_NAME_PROXY]tarkvara ei tohi kasutada ärieesmärgil ja peaksite kasutama tarkvara isiklikus seadmes[BRAND_NAME_PROXY]. 
+ [BRAND_NAME_PROXY]tarkvara puhul peaksite järgima kasutustingimuste nõudmisi ja lubama, et te ei tee ühtegi järgmist toimingut: 
+ a) ei püüa murda läbi [BRAND_NAME_PROXY]tarkvara [BRAND_NAME_PROXY]tehnoloogilisest piirangust ega minna seoses mõne projekti või teenusega mööda tehnilistest abinõudest arhiivide või muude andmekogumite või õiguste kontrollimiseks;
+ b)[BRAND_NAME_PROXY]ei pöördprojekteeri tarkvara, lahuta seda osadeks, dekodeeri, dekompileeri ega püüa hankida [BRAND_NAME_PROXY]tarkvara lähtekoodi ega muid tarkvara vastu suunatud vahendeid, mis on sõnaselgelt seadustega piiratud, ei tee [BRAND_NAME_PROXY]tarkvarale täielikke ega osalisi täiendusi ja kustutamisi, muutmisi ega vähendusi;
+ c) ei luba kolmandal isikul [BRAND_NAME_PROXY]tarkvaraga ühendust luua, seda kasutada ega enda valduses hoida avaldamise, edastamise, rentimise, laenamise, all-litsentsimise või avaldamise vmt kaudu; 
+ d) ei eemalda ise ega lase muul [BRAND_NAME_PROXY]vastava õiguseta isikul eemaldada [BRAND_NAME_PROXY]tarkvaralt ühtegi sellel olevat autoriõiguse avaldust ega vastavaid faile piiramata vormingutes;
+ e) ei kasuta [BRAND_NAME_PROXY]tarkvara sellisel viisil, et see riivab teiste inimeste õigusi, ega seaduste ja eeskirjade vastaselt käitudes; ega
+ f) üheski keskkonnas, kus [BRAND_NAME_PROXY]tarkvara kasutamine on piiratud või keelatud, muu hulgas tuumajaamad, lennukid ja lennureguleerimispunktid, bensiinijaamad ja muud olukorrad või keskkonnad, kus tarkvara kasutamine võib põhjustada vigastusi või rahalist kahju või suurendada selle ohtu; ega
+ g) kasuta [BRAND_NAME_PROXY]tarkvara muul viisil, mis on kasutustingimustega keelatud. 
+ [BRAND_NAME_PROXY]tarkvara ja teie [BRAND_NAME_PROXY]seadme normaalse töö tagamiseks lubate mitte kahjustada ega muuta [BRAND_NAME_PROXY]seadme köitesilti vastavate töötajate [BRAND_NAME_PROXY]abita. Selline käitumine ja selle artikli punktis a) nimetatud käitumine mõjutavad mõlemad [BRAND_NAME_PROXY]teie [BRAND_NAME_PROXY]seadme kvaliteeti ja garantiid. 
+
+ 2. Privaatsusõiguste poliitika
+ Teid on teavitatud ja nõustute, et teenuse kvaliteedi parandamiseks [BRAND_NAME_PROXY]kogume ja hoiame enda käes igasuguseid tarkvaraedastusi või sõnumsidet, millega mitmesuguste [BRAND_NAME_PROXY]veebisaidi pakutavate teenuste kaudu tegelete. See hõlmab muu hulgas [BRAND_NAME_PROXY]seadme mudeli numbrit / järjekorranumbrit, IMEI-/MEID-koodi, HW versiooni, SW versiooni, kogunenud teenindusaega, kogunenud unerežiimi aega, SKU ID-d, statistilisi tõrkeandmeid, tarkvara / tõrkega protseduuri nime, tõrke sagedust, versiooniteavet jne. 
+ Kui administratiiv-/õigusasutus esitab vastava nõudmise või kui see on seaduste ja määruste alusel vajalik, [BRAND_NAME_PROXY]peaksite tegema koostööd ja vastavad andmed avaldama. 
+ Kui teie [BRAND_NAME_PROXY]seade on pärast ostmist 14 päeva järjest ilma Interneti-ühenduseta, saadab [BRAND_NAME_PROXY]seade[BRAND_NAME_PROXY] teile lühisõnumi, et [BRAND_NAME_PROXY]seade on saadaval. 
+ Vt [BRAND_NAME_PROXY][privaatsuspoliitikast] üksikasjalikke juhiseid. 
+
+ 3. Tugiteenus
+ Värskendamise, allalaadimise ja kasutusteenuste osutamine vastavalt tarkvara allalaadimise või värskendamise hetkeolukorrale. [BRAND_NAME_PROXY]otsus, kas jätkata vastavate toe ja värskendusteenuste [BRAND_NAME_PROXY]osutamist, oleneb[BRAND_NAME_PROXY] olukorrast. 
+ Pärast seda, kui olete [BRAND_NAME_PROXY]algsed failid hankinud, kehtivad [BRAND_NAME_PROXY]värskenduste, täienduste, komponentide lisamise või mis tahes Interneti kaudu edastatavate teenusekomponentidega seotud igasuguste tegevuste puhul tarkvara allalaadimisel, värskendamisel ja kasutamisel need kasutustingimused. 
+ [BRAND_NAME_PROXY]jätab endale õiguse lõpetada mis tahes [BRAND_NAME_PROXY]tarkvarateenuste osutamise, mille veebis surfates hankisite, või tarkvara pakutava teenuse kasutamise, et tagada igasuguse tarkvara sujuv töötamine. 
+ [BRAND_NAME_PROXY]võib saata automaatseid teateid [BRAND_NAME_PROXY]tarkvara järgmiste ja värskendatud versioonide kohta, teavitades teid sellest ja paludes teil kasutada veebist allalaaditavat uusimat versiooni. 
+
+ 4. Automaatne värskendus
+ [BRAND_NAME_PROXY]Võite värskendada, täiustada, kaitsta või parandada [BRAND_NAME_PROXY]seadme ja [BRAND_NAME_PROXY]tarkvara kasutamist, laadides oma seadmesse automaatselt alla püsivara ja [BRAND_NAME_PROXY]tarkvara. 
+ Teie seadmes olev [BRAND_NAME_PROXY]püsivara ja [BRAND_NAME_PROXY]tarkvara on vaikimisi käivitatudolekus, teisisõnu on see Interneti kaudu [BRAND_NAME_PROXY]serveriga ühendatud ja loob automaatselt teie [BRAND_NAME_PROXY]seadmega ühenduse, ilma et oleks vaja käsitsi midagi lisaks teha. [BRAND_NAME_PROXY]seadme ohutuse ja stabiilsuse tagamiseks olete teadlik ja nõustute tegema koostööd [BRAND_NAME_PROXY]värskendamisprotseduuri nõuetega ning järgima värskendamise juhiseid. 
+ Värskendamisprotsessi käigus andmete kaotsimineku vältimiseks varundage oma isiklik profiil (nt foto, kontakt, kalender, muusika, järjehoidja, dokument jms) [BRAND_NAME_PROXY]seadmes ja salvestage see arvutiga ühendatud [BRAND_NAME_PROXY]seadmesse. 
+ [BRAND_NAME_PROXY]Pärast seadme automaatset värskendamist või kui nõustute käivitama värskenduse edastatud [BRAND_NAME_PROXY]värskendussõnumi vastuvõtmisel, arvestatakse, et olete nõustunud järgmiste värskendusfunktsioonide kirjeldusega. 
+ a) Tarkvaravärskendus
+ Olete teadlik ja nõustute, et [BRAND_NAME_PROXY]tarkvara on ühendatud teie [BRAND_NAME_PROXY]seadmega interneti kaudu, et kinnitada serveris [BRAND_NAME_PROXY]tarkvaraversioon ja värskenduse olek. Kui väljastatakse [BRAND_NAME_PROXY]mõni värskendusteade, antakse teile luba [BRAND_NAME_PROXY]serveriga ühenduse loomiseks, et värskendada püsivara versiooni ja olekut. 
+ Nõustute, et[BRAND_NAME_PROXY] edastab teile reaalajas värskendusteateid, kui tarkvaravärskendus on saadaval. Kui kinnitate värskendusteate kättesaamist, siis käsitletakse seda nõusolekuna [BRAND_NAME_PROXY]tarkvara [BRAND_NAME_PROXY]värskendamiseks ja installimiseks [BRAND_NAME_PROXY]seadmesse värskendusfaili allalaadimisega. 
+ b) Sisu sünkroonimise värskendus
+ Kasutate nüüd värskendatud [BRAND_NAME_PROXY]seadme sisu, [BRAND_NAME_PROXY]vastava seadme või arvuti sisu ja muud andmed (nt kontaktandmed, kalender, järjehoidjad, dokumendid ja muu sisu) värskendatakse automaatselt. 
+ 
+ 5.[BRAND_NAME_PROXY] tarkvara omandiõigus ja kõigi õiguste säilitamine
+ Igasuguse [BRAND_NAME_PROXY]tarkvara puhul, mida pole kasutustingimustes sõnaselgelt teile antud, kuuluvad omandiõigus, autoriõigus ja muud intellektuaalse omandi õigused [BRAND_NAME_PROXY], vastavatele ettevõtetele ja tarnijatele. 
+ [BRAND_NAME_PROXY]Igasuguse edastatud tarkvara puhul kehtivad autoriõigusi ja muid intellektuaalse omandi õigusi reguleerivad seadused ja rahvusvahelised määrused. 
+
+ 6. Lahtiütlus
+ Seadusega[BRAND_NAME_PROXY] maksimaalselt lubatud ulatuses ei vastuta me praeguse oleku kohaselt edastatud [BRAND_NAME_PROXY]tarkvara ja tuletatud teenuste puhul ühegi defekti eest. [BRAND_NAME_PROXY], vastavad ettevõtted ja tarnijad ei anna ühtegi sõnaselget ega kaudset lubadust ega seadusjärgset garantiid, nad ei anna ühtegi lubadust ühegi vaikegarantii, vastutuse ega tingimuse suhtes seoses (muu hulgas)[BRAND_NAME_PROXY]tarkvara müügikõlblikkuse ja spetsiaalseks otstarbeks sobivuse kohta ning tuletatud teenuste kohta (nt värskendusteenus). 
+ [BRAND_NAME_PROXY]Järgmiste üksuste puhul ei tagata nende toimivust ega kaudset garantiid: 
+ (a) [BRAND_NAME_PROXY]omandiõigus, mitterikkumise olek, vastavus kõikvõimalikele kirjeldustele, viiruste puudumise kinnitus, veavaba programm, toimimise täpsus ja terviklikkus või
+ (b)[BRAND_NAME_PROXY]tarkvara sujuv töötamine, katkestuste või vigadeta töötamine või
+ (c)[BRAND_NAME_PROXY] kõikvõimalike tarkvaravigade viivitamatu parandamine. 
+ [BRAND_NAME_PROXY]tarkvara alla laadides ja kasutades olete hästi kursis kõigi ohtudega (muu hulgas [BRAND_NAME_PROXY]kasutatava seadme kahjustumine, sisu kaotsiminek, muu tootja tarkvara eemaldamine või kehtetuks muutumine), mis tuleneb [BRAND_NAME_PROXY]tarkvara ja tuletatud teenuste (kui neid on) kasutamisest või käitamisest, ja nõustute võtma enda kanda vastavad riskid ja vastutuse, ilma et [BRAND_NAME_PROXY]annaks mingit garantiid või võtaks selle eest vastutust. Nõustute, et[BRAND_NAME_PROXY]on õigus hinnata ja eemaldada programme ning tarkvara, mis toimimist mõjutavad, ja te varundate eelnevalt andmed ning tarkvara. 
+ Kui allalaaditud programm või fail põhjustab teie andmete avaldamise või kahjustab teie [BRAND_NAME_PROXY]seadme süsteemi, pole see meiega[BRAND_NAME_PROXY] seotud ja nõustute ise selle eest vastutama. 
+
+ 7. Vastutuse ulatus ja piirang ning kahjude kompenseerimise välistamine 
+ Me ei kohustu hüvitama ühtegi kahju, muu hulgas kaudset, juhuslikku või karistuslikku või tulu kaotust üheski olukorras, [BRAND_NAME_PROXY]kui see pole seadustega sõnaselgelt keelatud. Isegi kui[BRAND_NAME_PROXY]on kahjude võimalikkusest teadlik ja olenemata nõude põhjustest ning alustest või sellest, kas need on ettevõttega [BRAND_NAME_PROXY]seotud, ei ole ettevõttel mingit vastutust. 
+ Kui võtame endale [BRAND_NAME_PROXY]veebisaidi või selle sisu kasutamise eest kasutustingimuste kohaselt hüvitamise kohustuse, on see piiratud tarkvara mõistlikust usaldamisest tuleneva tegeliku ja otsese kahjuga ja suurim hüvitise summa on 10 USA dollarit. Kõikvõimalikud kasutustingimustest tulenevad nõuded tuleb esitada ühe aasta jooksul pärast sündmuse põhjusest või nõude aluse toimumisest teadasaamist. Kuid juhul, kui kohus ei luba vastutuse ulatust piirata, siis eelnevalt nimetatud vastutuse piirangut puudutavad sätted ei rakendu. 
+
+ 8. Hüvitamise avaldus
+ Kui sirvite, laadite alla, kopeerite, edastate, kodeerite, tihendate andmeid ([BRAND_NAME_PROXY]v.a andmed, mis on tarkvara kaudu edastatud)[BRAND_NAME_PROXY]tarkvara kaudu, rikkudes teiste inimeste õigusi või seaduse sätteid; kui rikute mis tahes kasutustingimuste sätet ja selle tagajärjel esitavad muud isikud kahjude, kohustuste või tasude (sh advokaaditasu) kohta nõude ettevõtte aktsionärile, direktorile ja juhile, juhtivtöötajatele, töötajale või muule vastava seosega isikule,[BRAND_NAME_PROXY]olete valmis võtma endale vastutuse hüvitise maksmise eest ja ettevõtte kaitsmise eest selles olukorras ning vabastama ettevõtte[BRAND_NAME_PROXY]aktsionäri, direktori ja juhi, juhtivtöötajad, töötaja või muu vastava seosega isiku hüvitamise kohustusest. Kui ettevõtte [BRAND_NAME_PROXY]aktsionär, direktor ja juht, juhtivtöötajad, töötaja või muu vastava seosega isik kannab kahju, olete valmis vastava kahju hüvitama. 
+
+ 9. Teenuse osutamise lõpetamine
+ Kasutustingimuse sätete rikkumine toob kaasa [BRAND_NAME_PROXY]tarkvara seadusliku kasutamise õigusest ilmajäämise ning peaksite hävitama või kustutama kohe kõik tarkvaraeksemplarid. Eritingimuste korral mõjutab see ka teie[BRAND_NAME_PROXY]seadme garantiiaega ja garantii ulatust. 
+ Eelnevalt nimetatud olukorras nõustute [BRAND_NAME_PROXY]olukorraga leppima, samas kui teile ega muule isikule ei maksta hüvitist, kui: 
+ (1) teilt võetakse õigus [BRAND_NAME_PROXY]teenusekontole siseneda,
+ (2) ja/või teil takistatakse tulevikus [BRAND_NAME_PROXY]teenusekontole sisenemine. 
+ Kasutustingimusi rikkudes olete teadlik ja nõustute, et [BRAND_NAME_PROXY]see põhjustab kahju, mida ei ole võimalik rahaliselt kompenseerida. Kui[BRAND_NAME_PROXY]seda peetakse vajalikuks, siis nõustute [BRAND_NAME_PROXY]karistustega, mis on mõeldud kahjude suurenemise võimaluse vähendamiseks. 
+ Kui rikute kasutustingimusi, võib [BRAND_NAME_PROXY] teie vastu lõpuks hagi esitada ning meil õigus teilt nõuda ja kohustute tasuma ettevõttele [BRAND_NAME_PROXY]mõistlikud advokaaditasud ja kohtukulud ning muud seadusega ette nähtud hüvitised. 
+
+ 10. Kehtiv seadusandlus ja kohtualluvus
+ Nõustute kõigi kasutustingimustega seotud sätetega, meie koostatud täpsustustega Hiina Rahvavabariigi seaduste kohaselt ja Beijingi linna Chaoyangi piirkonna rahvakohus on kasutustingimuste alusel tekkinud juhtumite lahendamise kohus ja istungite asukoht ning nõustute loobuma igasugusest vastuseisust kohtualluvuse ja istungite asukoha suhtes. 
+ Mõlemad pooled annavad endast parima, et lahendada kasutustingimustest tulenevad vaidlused läbirääkimiste teel. Kui vaidlust mõistliku aja jooksul (30 kalendripäeva jooksul) lahendada ei õnnestu, edastab kumbki pool vaidluse lepitajale. Kui lepitamine nurjub, lahendavad pooled vaidluse kohtus. 
+
+ 11. Üldsätted. 
+ Pealkirju kasutatakse selles lepingus ainult mugavuse eesmärgil ja neil puudub juriidiline mõju. 
+ [BRAND_NAME_PROXY]Kui kasutustingimuste rikkumise korral pole teie vastu meetmeid rakendatud, ei tähenda see, et teine pool loobub oma õigusest sarnaste tegevuste puhul tulevikus kaitsemeetmeid rakendada. 
+ Kui valitsev kohus leiab, et mingi osa kasutustingimuste sisust on ebaseaduslik, ebaefektiivne või jõustamatu, siis ei mõjuta see muid tingimusi või piiranguid, mida pole selliseks tunnistatud, ja need jäävad täies ulatuses kehtima. 
+ Te ei tohi nende kasutustingimuste alusel omandatud kasutusõigusi edasi anda ega neist loobuda. 
+ Ettevõtte [BRAND_NAME_PROXY] õigusjärglased ja volitatud osapooled rakendavad pärast nimetatud õiguste omandamist samuti nende kasutustingimuste sisu. 
+
+ 12. Kasutustingimuste terviklikkus. 
+ Need kasutustingimused ja värskendustes kirjeldatud lisatingimused on nende kasutustingimuste lahutamatu osa. 
+
+ 13. Tingimuste muutmise õigus
+ [BRAND_NAME_PROXY] jätab endale õiguse muuta, täiendada või kustutada kasutustingimuste sisu oma äranägemisel. Kohustute olema kursis kasutustingimuste muudatustega ja muudatusi puudutava teabega ettevõtte [BRAND_NAME_PROXY] veebisaidil ning kui jätkate [BRAND_NAME_PROXY]-seadme või tarkvara kasutamist, tähendab see muudatustega nõustumist. 
+ [BRAND_NAME_PROXY] Tarkvara omandiõiguse ja kasutustingimuste leping
+
+ Jõustumiskuupäev: 20.05.2016
+
+ Need kasutustingimused (edaspidi kasutustingimused kehtivad tarkvara allalaadimiste, automaatsete värskenduste ja muude ettevõtte [BRAND_NAME_PROXY] teenuste puhul (edaspidi tarkvarateenused). Ettevõtte [BRAND_NAME_PROXY] tarkvara alla laadides, installides või kasutades nõustute neid kasutustingimusi järgima. Ärge laadige alla, kopeerige ega kasutage ettevõtte [BRAND_NAME_PROXY] tarkvara, kui te nende kasutustingimustega ei nõustu. 
+
+ 1. Kasutusreeglid
+ Pärast kasutustingimustega nõustumist annab [BRAND_NAME_PROXY] teile mitteüleantava, mittevälistava, isikliku ja piiratud õiguse tarkvarateenuste kasutamiseks. [BRAND_NAME_PROXY] installitakse teie [BRAND_NAME_PROXY]-seadmesse objektikoodi kujul ja tarkvara [BRAND_NAME_PROXY] kasutamiseks tuleb seade sisse lülitada. Mõistate sõnaselgelt, et te ei tohi tarkvara [BRAND_NAME_PROXY] kasutada ärieesmärgil ja peate seda tarkvara kasutama oma isiklikus [BRAND_NAME_PROXY]-seadmes. 
+ Tarkvaraga [BRAND_NAME_PROXY] seoses peate järgima neid kasutustingimusi ega tohi teha järgmist: 
+ a) mööduda tarkvara [BRAND_NAME_PROXY] tehnilistest piirangutest ega kasutada tarkvara [BRAND_NAME_PROXY] üksi ega koos ühegi spetsiaalse seadme, programmi või teenusega selleks, et minna mööda failide või muude andmekogumite või õiguste ohjamiseks rakendatud tehnilistest meetmetest;
+ b) tarkvara [BRAND_NAME_PROXY] pöördprojekteerida, dekompileerida, dešifreerida ega osadeks võtta, püüda muul viisil juurde pääseda tarkvara [BRAND_NAME_PROXY] lähtekoodile ega teha muid toiminguid, mis on seadusega otseselt või kaudselt keelatud, samuti ei tohi tarkvara [BRAND_NAME_PROXY] osaliselt ega tervikuna muuta ega luua sellest tuletisi;
+ c) lubada muul osapoolel tarkvarale [BRAND_NAME_PROXY] juurde pääseda, seda kasutada ega enda valduses hoida avaldamise, edastamise, rentimise, laenamise, all-litsentsimise või avalikuks tegemise kaudu;
+ d) eemaldada ise ega lasta muul ettevõtte [BRAND_NAME_PROXY] loata isikul eemaldada tarkvaralt [BRAND_NAME_PROXY] ühtki sellel olevat autoriõiguse teatist või silti või seotud faile mis tahes vormingutes; 
+ e) kasutada tarkvara [BRAND_NAME_PROXY] mis tahes muu osapoole õiguste rikkumiseks ega mis tahes muul viisil, mis rikub kõiki kohalduvaid seadusi; ega
+ f) kasutada tarkvara [BRAND_NAME_PROXY] üheski keskkonnas, kus selle kasutamine on piiratud või keelatud ja kus see võib põhjustada vigastusi või surma või suurendada selle ohtu, muu hulgas tuumajaamades, lennukites ja lennureguleerimispunktides, bensiinijaamades ning muudes olukordades või keskkondades; ega
+ g) kasutada tarkvara [BRAND_NAME_PROXY] muul viisil, mis on nende kasutustingimustega keelatud. 
+ Tarkvara [BRAND_NAME_PROXY] ja teie [BRAND_NAME_PROXY]-seadme normaalse koostöö tagamiseks võtate endale kohustuse mitte hävitada ega muuta [BRAND_NAME_PROXY]-seadme silti ettevõtte [BRAND_NAME_PROXY] töötajate abita. Selline käitumine ja selle artikli punktis a) nimetatud käitumine mõjutavad mõlemad ettevõttelt [BRAND_NAME_PROXY] teie [BRAND_NAME_PROXY]-seadmele antud garantii ulatust ja kestust. 
+
+ 2. Privaatsuspoliitika
+ Olete teadlik ja nõustute, et teenuse kvaliteedi parandamiseks võib [BRAND_NAME_PROXY] koguda ja säilitada teie ettevõtte [BRAND_NAME_PROXY] veebisaidi kaudu pakutavate erinevate teenuste kaudu toimuvaid tarkvaraedastusi või sõnumsidet, muu hulgas [BRAND_NAME_PROXY]-seadme mudeli-/seerianumber, IMEI-/MEID-kood, riistvara versioon, tarkvara versioon, kumulatiivne kasutusaeg, kumulatiivne unerežiimiaeg, SKU ID, tõrkestatistika, tarkvara/programmi nimi, milles probleemid esinevad, tõrgete arv, versiooniteave jne. 
+ Kui valitsus- või õigusasutus esitab asjakohase nõudmise või kui see on seaduse alusel nõutav, peab [BRAND_NAME_PROXY] tegema koostööd ja seotud teabe avaldama. 
+ Kui teie [BRAND_NAME_PROXY]-seade on olnud pärast ostmist järjest 14 päeva jooksul võrguühenduseta, saadab teie [BRAND_NAME_PROXY]-seade ettevõttele [BRAND_NAME_PROXY] SMS-i teatega, et teie [BRAND_NAME_PROXY]-seade on kasutamiseks avatud. 
+ Vaadake üksikasjalikku kirjeldust ettevõtte [BRAND_NAME_PROXY] privaatsuspoliitikast. 
+
+ 3. Tugiteenused
+ Tarkvara [BRAND_NAME_PROXY] allalaadimise või värskendamise hetkeolukorra ning tarkvara [BRAND_NAME_PROXY] värskenduste, allalaadimiste ja kasutusteenuste pakkumise alusel võib [BRAND_NAME_PROXY] otsustada, kas jätkata seotud tugi- ja värskendusteenuste osutamist. 
+ Pärast seda, kui olete tarkvara [BRAND_NAME_PROXY] algsed failid hankinud, rakendab [BRAND_NAME_PROXY] nende kasutustingimuste sätted mitmesugustele värskendustele, täiendustele, lisandmoodulitele või mis tahes võrgu kaudu edastatavatele teenusekomponentidele tarkvara allalaadimisel, värskendamisel ja kasutamisel. 
+ [BRAND_NAME_PROXY] jätab endale õiguse lõpetada mis tahes tarkvarateenuste osutamise, millele pääsete juurde võrgu või tarkvara [BRAND_NAME_PROXY] kaudu, et tagada kõigi tarkvarateenuste sujuv töötamine. 
+ [BRAND_NAME_PROXY] võib oma äranägemisel väljastada tarkvarast [BRAND_NAME_PROXY] järgmisi värskendatud versioone, teavitada teid värskendusest ning nõuda teilt uusima versiooni võrgu kaudu allalaadimist ja kasutamist. 
+
+ 4. Automaatsed värskendused
+ [BRAND_NAME_PROXY] võib värskendada, täiustada, kaitsta või parandada teie [BRAND_NAME_PROXY]-seadme ja tarkvara [BRAND_NAME_PROXY] kasutamist, laadides püsivara ja tarkvara teie [BRAND_NAME_PROXY]-seadmesse automaatselt alla. 
+ Teie [BRAND_NAME_PROXY]-seadmes olev püsivara ja tarkvara [BRAND_NAME_PROXY] on vaikimisi olekus Lubatud, mis tähendab, et ettevõtte [BRAND_NAME_PROXY] server on võrgu kaudu ühendatud ja teie [BRAND_NAME_PROXY]-seade ühendatakse automaatselt, ilma et peaksite midagi lisaks käsitsi tegema. Oma [BRAND_NAME_PROXY]-seadme ohutuse ja stabiilsuse tagamiseks olete teadlik ja nõustute värskendama programme vastavalt ettevõtte [BRAND_NAME_PROXY] programmide värskendamise nõuetele ning järgima vastavaid juhiseid. 
+ Värskendustoimingu käigus andmete kaotsimineku vältimiseks varundage oma [BRAND_NAME_PROXY]-seadmes olevad isiklikud andmed (nt fotod, kontaktid, kalendrid, muusika, järjehoidjad, dokumendid jms) ning salvestage need arvutisse või muusse teie [BRAND_NAME_PROXY]-seadmega ühendatud seadmesse. 
+ Kui [BRAND_NAME_PROXY]-seade on automaatselt värskendatud või kui [BRAND_NAME_PROXY] on edastanud värskendusteate ja nõustute värskenduse käivitama, siis arvestatakse, et olete nõustunud järgmiste värskendusfunktsioonide kirjeldusega. 
+ a) Tarkvaravärskendused
+ Olete teadlik ja nõustute, et tarkvara [BRAND_NAME_PROXY] loob teie [BRAND_NAME_PROXY]-seadmega võrgu kaudu ühenduse, et kinnitada ettevõtte [BRAND_NAME_PROXY] serveris tarkvara versioon ja värskenduse olek. Kui [BRAND_NAME_PROXY] on väljastanud mõne värskendusteate, võimaldab see teil serveriga tarkvara [BRAND_NAME_PROXY] kaudu ühenduse luua, et värskendada püsivara versiooni ja olekut. 
+ Nõustute, et [BRAND_NAME_PROXY] edastab teile reaalajas värskendusteateid, kui saadaval on mõni tarkvaravärskendus. Kui kinnitate värskendusteate kättesaamist, siis käsitletakse seda nõusolekuna, et [BRAND_NAME_PROXY] võib tarkvara [BRAND_NAME_PROXY] teie [BRAND_NAME_PROXY]-seadmes värskendada ja installida, laadides alla värskendusfaili. 
+ b) Sisu sünkroonimise värskendus
+ Teie praegu kasutatava [BRAND_NAME_PROXY]-seadme sisu värskendamisel värskendatakse automaatselt sisu ja muu teave teie [BRAND_NAME_PROXY]-seadmega ühendatud seadmetes või arvutites, muu hulgas kontaktteave, kalendrid, järjehoidjad, dokumendifailid ja muus vormingus sisu. 
+ 
+ 5. Tarkvara [BRAND_NAME_PROXY] omandiõiguse ja muude õiguste säilitamine
+ Ettevõttele [BRAND_NAME_PROXY], selle sidusettevõtetele ja tarnijatele kuuluvad ja nad säilitavad kõik tarkvara [BRAND_NAME_PROXY] omandiõigused, autoriõigused ja muud intellektuaalomandiõigused, mida pole teile neis kasutustingimustes sõnaselgelt antud. 
+ Ettevõtte [BRAND_NAME_PROXY] pakutav tarkvara on kaitstud autoriõiguse ja muude intellektuaalomandi õiguse seaduste ning rahvusvaheliste kokkulepetega. 
+
+ 6. Lahtiütlus
+ Seadusega lubatud ulatuses ei vastuta [BRAND_NAME_PROXY] olemasoleval kujul pakutavate tarkvara [BRAND_NAME_PROXY] ja tuletatud teenuste (sh värskendusteenuste) puhul ühegi defekti eest. [BRAND_NAME_PROXY], selle sidusettevõtted ega tarnijad ei anna ühtki otsest, kaudset ega seadusjärgset garantiid, muu hulgas ühtki kaudset lubadust, kohustust ega tingimust seoses tarkvara [BRAND_NAME_PROXY] ja tuletatud teenuste (nt värskendusteenuste) müügikõlblikkuse ja kindlaks otstarbeks sobivuse kohta. 
+ [BRAND_NAME_PROXY] ei anna ühtki otsest ega kaudset garantiid seoses järgmiste asjaoludega: 
+ a) tarkvara [BRAND_NAME_PROXY] või tugiteenuste omandiõigus, mitterikkumise olek, vastavus kõikvõimalikele kirjeldustele, viiruste puudumise kinnitus, programmi haavamatus, toimimise täpsus ja terviklikkus;
+ b) tarkvara [BRAND_NAME_PROXY] sujuv, katkestuste või tõrgeteta töötamine;
+ c) tarkvara [BRAND_NAME_PROXY] kõigi võimalike vigade viivitamatu parandamine. 
+ Tarkvara [BRAND_NAME_PROXY] alla laadides ja kasutades olete teadlik kõigist ohtudest (muu hulgas [BRAND_NAME_PROXY]-seadme kahjustumine kasutamise ajal, sisu kaotsiminek, muu tootja tarkvara eemaldamine või tõrked jne), mis tulenevad tarkvara [BRAND_NAME_PROXY] ja tuletatud teenuste (kui neid on) kasutamisest või käitamisest, ning nõustute võtma enda kanda asjakohased riskid ja vastutuse, ilma et [BRAND_NAME_PROXY] annaks mingit garantiid või võtaks sellega seoses vastutuse. Nõustute, et ettevõttel [BRAND_NAME_PROXY] on õigus hinnata ja eemaldada programme ning tarkvara, mis mõjutavad värskendustoiminguid, ning varundate esmalt ise oma andmed ja tarkvara. 
+ Kui mõni allalaaditud programm või fail põhjustab teie teabe lekkimise või kahjustab [BRAND_NAME_PROXY]-seadme süsteemi, ei vastuta selle eest [BRAND_NAME_PROXY] ning üksnes teie kannate kõik sellega seotud riskid. 
+
+ 7. Vastutuse ulatus ja piirang ning kahjude kompenseerimise välistamine. 
+ [BRAND_NAME_PROXY] ei kohustu hüvitama mingil viisil ühtki kaudset, juhuslikku, tagajärgedest tulenevat, kahjutasuga, õnnetuste või karistusega seotud ega muud kahju, sealhulgas tulukaotust, välja arvatud juhul, kui see pole seadusega sõnaselgelt keelatud. [BRAND_NAME_PROXY] ega selle sidusettevõtted ei ole seetõttu vastutavad, isegi kui [BRAND_NAME_PROXY] on nimetatud kahjude võimalikkusest teada andnud ja olenemata hagi või nõude alusest. 
+ Nende kasutustingimuste alusel on ettevõtte [BRAND_NAME_PROXY] vastutus seoses veebisaidi või selle sisu kasutamisega seotud kahjustuste puhul piiratud kuni 10 USA dollariga tegelike otseste kulude eest tarkvaraga seoses mõistlikel alustel. Olenemata nõude vormist tuleb kõik kasutustingimustest tulenevad nõuded esitada ühe aasta jooksul pärast hagi või nõude aluse toimumisest teadasaamist. Kui aga pädev kohus ei luba siiski vastutuse ulatuse piiranguid, siis eespool nimetatud vastutuse piirang ei kehti. 
+
+ 8. Hüvitamise avaldus
+ Kui sirvite, laadite alla, kopeerite, edastate, kodeerite või tihendate andmeid (v.a tarkvara [BRAND_NAME_PROXY] edastatud andmed) tarkvara [BRAND_NAME_PROXY] abil, rikkudes mis tahes muu osapoole õigusi või kohalduvat seadust, või kui rikute mis tahes nende kasutustingimuste sätet ja selle tagajärjel esitavad muud isikud kahjude, kohustuste või tasude (sh advokaaditasu) kohta nõude ettevõttele [BRAND_NAME_PROXY], selle aktsionäridele, direktoritele, juhtivtöötajatele, töötajatele või muudele huvitatud osapooltele, olete valmis võtma endale vastutuse hüvitise maksmise eest ning ettevõtte [BRAND_NAME_PROXY] ja selle aktsionäride, direktorite, juhtivtöötajate, töötajate või muude huvitatud isikute kaitsmise eest selles olukorras ning vabastama nad hüvitamise kohustusest. Kui ettevõte [BRAND_NAME_PROXY] või selle aktsionärid, direktorid, juhtivtöötajad, töötajad või muud huvitatud osapooled kannavad tulenevat kahju, olete valmis selle kahju hüvitama. 
+
+ 9. Teenuse osutamise lõpetamine
+ Kasutustingimuse mis tahes sätte rikkumisel jääte ilma tarkvara [BRAND_NAME_PROXY] seadusliku kasutamise õigusest ning peate hävitama või kustutama kohe kõik selle tarkvara eksemplarid. Teatud juhtudel mõjutab selline rikkumine ka teie [BRAND_NAME_PROXY] seadme garantii kestust ja ulatust. 
+ Eespool nimetatud juhtudel nõustute, et [BRAND_NAME_PROXY] võib toimida järgmiselt, ilma et sellega kaasneks vastutus teie või mis tahes muu osapoole ees: 
+ 1) teilt võetakse õigus teenuse [BRAND_NAME_PROXY] kontole juurde pääseda
+ 2) ja/või teil takistatakse tulevikus juurdepääsu teenuse [BRAND_NAME_PROXY] kontole. 
+ Olete teadlik ja nõustute, et nende kasutustingimuste rikkumisel põhjustate ettevõttele [BRAND_NAME_PROXY] kahju, mida ei ole võimalik rahaliselt kompenseerida. Nõustute, et kui [BRAND_NAME_PROXY] peab vajalikuks või sobilikuks, võib [BRAND_NAME_PROXY] kooskõlas seadusega vähendada kahju ulatust, rakendades ajutist äravõtmist, ajutist kohtulikku keeldu või muid vahendeid. 
+ Kui [BRAND_NAME_PROXY] esitab nende kasutustingimuste rikkumise tõttu teie vastu lõpuks hagi, nõustute tasuma kõik mõistlikud advokaaditasud ja kohtukulud ning kahjud, mida [BRAND_NAME_PROXY] võib seaduse alusel nõuda. 
+
+ 10. Kohalduv seadus ja kohtualluvus
+ Nõustute, et kõigile nende kasutustingimustega seotud asjaoludele kehtivad Hiina Rahvavabariigi seadused, samuti nõustute loobuma igasugusest vastuseisust kohtualluvuse ja istungite asukoha suhtes ning et tekkinud juhtumite lahendamise kohus ja istungite asukoht on Pekingi Chaoyangi piirkonna rahvakohus. 
+ Kasutustingimuste alusel tekkinud vaidluste korral püüavad mõlemad osapooled lahendada vaidluse läbirääkimiste teel. Kui vaidlust ei õnnestu läbirääkimiste teel mõistliku aja (kuni 30 kalendripäeva) jooksul lahendada, võib kumbki pool edastada vaidluse lepitajale. Kui lepitamine nurjub, lahendavad pooled vaidluse kohtus. 
+
+ 11. Üldsätted. 
+ Jaotiste pealkirju kasutatakse selles lepingus ainult mugavuse eesmärgil ja neil puudub juriidiline mõju. 
+ Ettevõtte [BRAND_NAME_PROXY] tegevusetus seoses kasutustingimuste teiepoolse rikkumisega ei tähenda tegutsemisõigusest loobumist seoses tulevaste sarnaste juhtumitega. 
+ Kui pädev kohus peab nende kasutustingimuste mis tahes sätet või piirangut ebaseaduslikuks, kehtetuks või jõustamatuks, jäävad ülejäänud sätted ja piirangud täiel määral jõusse ega muutu kehtetuks. 
+ Te ei tohi nende kasutustingimuste alusel omandatud kasutusõigusi edasi anda ega neist loobuda. 
+ Ettevõtte [BRAND_NAME_PROXY] õigusjärglased ja volitatud osapooled rakendavad pärast nimetatud õiguste omandamist samuti nende kasutustingimuste sisu. 
+
+ 12. Kasutustingimuste terviklikkus. 
+ Need kasutustingimused ja värskendustes kirjeldatud lisatingimused on nende kasutustingimuste lahutamatu osa. 
+
+ 13. Tingimuste muutmise õigus
+ [BRAND_NAME_PROXY] jätab endale õiguse muuta, täiendada või kustutada kasutustingimuste sisu oma äranägemisel. Kohustute olema kursis kasutustingimuste muudatustega ja muudatusi puudutava teabega ettevõtte [BRAND_NAME_PROXY] veebisaidil ning kui jätkate [BRAND_NAME_PROXY]-seadme või tarkvara kasutamist, tähendab see muudatustega nõustumist. 
+"</string>
+    <string name="fih_legal_title">Ettevõtte [BRAND_NAME_PROXY] juriidiline teave</string>
+    <string name="finish_button_label">Lõpeta</string>
+    <string name="google_account_add_account">"Logige sisse Google'i kontoga"</string>
+    <string name="google_account_intro_description">"Google'i teenuste kasutamiseks logige oma Google'i kontosse sisse."</string>
+    <string name="google_account_intro_title">"Google'i konto"</string>
+    <string name="hmd_legal_message">"Teenuse kasutustingimused 
+ 
+Jõustumise kuupäev 14. oktoober 2016 
+ 
+1. Nõustumus 
+Käesolevad HMD Globali Teenuse Tingimused koos Privaatsuspoliitikaga ja kõik muud täiendavad tingimused ja informatsioon, mida võidakse pakkuda Teenuse osana (ühiselt „Tingimused“), reguleerivad Teie poolt teenuse, veebilehe, sisu ja tarkvara kasutamist (ühiselt „Teenus”). Teenuse kasutajaks registreerumise või teenuse või mõne selle osa kasutamise korral nõustute nende tingimustega. 
+ 
+Tingimused moodustavad Teie ja HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Soome, sh tema tütarettevõtete ja tarnijate (ühisnimetusega HMD Global) vahelise lepingu, millega määratletakse teie ja HMD Globali õigused ning vastutused seoses teenusega. 
+ 
+2. Vanusepiirang 
+Teenuse kasutamiseks peate olema vähemalt 13-aastane. Kui olete noorem kui 13-aastane või vähemalt 13-aastane, kuid oma elukohas alaealine, peab Teie vanem või seaduslik eestkostja andma Teie eest nõusoleku Teie registreerimiseks ja teiepoolseks teenuse kasutamiseks. Isik, kes teeb registreeringu, peab olema teovõimeline. 
+ 
+3. Registreerimine ja tühistamine 
+Teenuse kasutamiseks võib Teil olla vajalik registreerida ja luua HMD konto koos kasutajanime ja salasõnaga, millele võivad kehtida eraldi tingimused. Teil võib olla vajalik esitada meile teatud isiku- ja muid andmeid. HMD Global võib kontrollida Teie e-posti aadressi, enne kui saate kasutada oma HMD kontot. Seadme esmakordsel kasutamisel ja iga kord, kui uuendate Nokia seadme tarkvara, saadetakse tekstisõnum HMD Globalile. HMD konto loomiseks on vajalik andmeedastus. Rakenduda võivad andmeedastuse tasud. 
+ 
+Teenuse kasutajaks registreerimisel nõustute esitama tõest ja täielikku teavet ning esitatud teabe muutumisel seda uuendama. Olete kohustatud rakendama vajalikku hoolt oma kasutajanime ja salasõna kaitsmiseks väärkasutamise eest ning kohustute HMD Globalit koheselt teavitama mistahes väärkasutusest. Teenuse igasuguse kasutamise eest vastutate Teie isiklikult; kui olete alaealine, siis ka Teie vanem või seaduslik eestkostja. 
+ 
+Kui soovite teenuse kasutamisest loobuda, võite oma registreeringu tühistada. Pärast tühistamist ei ole Teil enam juurdepääsu teenusele. HMD Global võib tühistada või piirata Teie juurdepääsu teenuse teatud osadele, kui HMD Global põhjendatult usub, et Te olete tingimusi rikkunud, või eelneva etteteatamisega juhul, kui Te ei ole teenusesse oma kasutajanimega sisse loginud viimase kuue (6) kuu jooksul. 
+ 
+HMD Global ei vastuta Teie poolt teenusesse esitatud teabe või sisu eemaldamise või kadumise eest, välja arvatud Privaatsuspoliitikas sätestatud juhtudel ja korras. Teie või HMD Globali poolt teabe või sisu teenusest eemaldamise korral võib siiski mujale jääda jälgi või koopiaid. 
+ 
+4. Litsentsid 
+HMD Global annab Teile mitte-eksklusiivse, mitte-loovutatava litsentsi teenusele juurdepääsuks ja teenuse kasutamiseks rangelt kooskõlas tingimustega, mille HMD Global võib ühepoolselt igal ajal tagasi võtta või tühistada. Teenuse kasutamine ei anna Teile mistahes intellektuaalse omandi õigusi teenuses oleva informatsiooni või sisu suhtes. 
+ 
+Osana teenusest võib HMD Global Teile pakkuda HMD Globali või tema litsensiaaride poolt arendatud sisu („Sisu”). HMD Global annab Teile mitte-eksklusiivse ja tähtajatu litsentsi sisu kasutamiseks selle kavandatud otstarbel, välja arvatud kui kohalduvates tingimustes või ostutellimuses on teisiti sätestatud. Osa sisu võib olla kättesaadav üksnes teatud geograafiliste piirkondade elanikele. Te olete seotud mistahes teatud konkreetse sisu, mida Te teenuse vahendusel omandate, suhtes rakendatavate piirangutega. Mistahes kolmandate osapoole sisu kasutamiseks omandatud litsents on siduv leping Teie ja kolmanda osapoole sisu pakkuja vahel. Teil on sisu suhtes ainult need õigused, mis on käesolevaga sõnaselgelt antud. 
+ 
+Osana teenusest võib HMD Global Teile pakkuda HMD Globali või tema litsensiaaride poolt arendatud teatud tarkvara („Tarkvara”). Teiepoolne tarkvara kasutamine võib olla reguleeritud täiendavate tingimustega, millega Te peate enne tarkvara kasutamist nõustuma. Kui tarkvara suhtes ei ole kehtestatud täiendavaid tingimusi, siis kohalduvad järgmised tingimused: HMD Global annab Teile piiratud, mitte-eksklusiivse, mitte-loovutatava õiguse paigaldada ja kasutada tarkvara Teie arvutis ja/või mobiilseadmes. Te ei või tarkvara kopeerida, välja arvatud ühe tagavarakoopia tegemine arhiivi. Te ei või levitada, kasutamisõigust võõrandada, muuta, tõlkida, reprodutseerida, edasi müüa, all-litsentseerida, üürida, rentida, pöördprojekteerida või mistahes muul viisil proovida selgitada välja lähtekoodi või teha tuletatud töid tarkvarast. Avatud lähtekoodiga litsentsi kasutava tarkvara suhtes võivad kohalduda asjakohased avatud lähtekoodiga litsentsi tingimused. Tarkvara kasutamine Teie poolt näitab Teie nõustumist kohalduvate tingimustega. 
+ 
+Tarkvara suhtes võivad rakenduda ekspordi piirangud vastavalt Ameerika Ühendriikide ekspordi haldamise regulatsioonidele või muudele impordi või ekspordi kontrollimise regulatsioonidele. Te nõustute rangelt järgima kõiki kohalduvaid impordi ja ekspordi regulatsioone ja olete teadlik, et Teil on kohustus hankida õigused sellise tarkvara ekspordiks, reekspordiks, üleviimiseks või impordiks. 
+ 
+Teil võib olla võimalik edastada teenusesse informatsiooni või sisu („Materjal”). HMD Global ei esita Teie materjali osas omandiõiguse nõudeid. Materjali esitamine ei too kaasa materjali omandiõiguse üleminekut HMD Globalile. HMD Global üksnes edastab materjali ning ei vastuta selle toimetajakontrolli eest. Materjali teenusesse esitamisega annate Te HMD Globalile ülemaailmse, mitte-eksklusiivse, all-litsentseeritava, täielikult tasutud, litsentsitasu-vaba, tähtajatu ja tagasivõtmatu litsentsi materjali kasutamiseks, kopeerimiseks, avalikult esitamiseks, demonstreerimiseks, jagamiseks igasuguses meedias ja materjali muutmiseks, et ühendada materjal teistesse töödesse, ning anda sarnaseid all-litsentse ulatuses, mis on vajalik HMD Globali poolt teenuse osutamiseks. Teil võib olla võimalik kohandada seda litsentsi andmist teenuse privaatsus- ja muudes seadistustes. 
+ 
+Andmetest, mille olete teenuses salvestanud, sealhulgas Teie poolt üleslaaditud sisust, tagavarakoopiate tegemise eest vastutate ainuisikuliselt Teie. Kui teenuse osutamine lõpetatakse või katkestatakse, võib HMD Global püsivalt Teie andmed kustutada. HMD Globalil ei ole mingisugust kohustust tagastada Teile andmeid pärast seda, kui teenus on lõpetatud või katkestatud. 
+ 
+5. Teenuse kasutamine 
+Te nõustute: 
+• tegutsema kooskõlas kohalduvate seaduste, tingimuste ja heade tavadega; 
+• kasutama teenust üksnes isiklikul, mitte-ärilisel otstarbel; 
+• mitte esitama ebaseaduslikku, solvavat, ebatäpset, eksitavat, ründavat, pornograafilist, ahistavat, laimavat või muul moel ebasobivat materjali; 
+• hankima kõik nõusolekud, load või litsentsid, mis võivad olla seaduse kohaselt nõutavad Teie poolt materjali esitamiseks; 
+• austama teiste isikute privaatsust; 
+• mitte levitama ega postitama rämpsposti, ebamõistlikult suuri faile, kettkirju, püramiidskeeme, viirusi; 
+• mitte kasutama muid tehnoloogiaid või algatama mistahes tegevusi, mis võivad kahjustada teenust või teenuse kasutajate huve või vara; 
+• mitte kasutama mistahes automaatseid süsteeme või vahendeid, et siseneda, omandada, kopeerida või seirata mistahes teenuse osa; ja 
+• võtma vastutuse Teie poolt postitatud materjaliga seotud tagajärgede eest. 
+ 
+HMD Global võib, kuid ei ole kohustatud: 
+• seirata või modereerida mistahes sisu või materjali; 
+• eemaldada mistahes materjali teenusest; ja 
+• igal ajal omal valikul piirata juurdepääsu teenuse mistahes osale. 
+ 
+6. Sisu 
+Enne ükskõik millise sisu allalaadimist või avamist kontrollige, kas see sisu, mida Te soovite avada, on piiratud juurdepääsuga sõltuvalt vanusest või märgitud kui potentsiaalselt „solvav” või „paljastav”. 
+ 
+HMD Global ei ole vastutav mingisuguste nõuete või solvangute eest, mida Teile esitatakse või mida kogete sellise sisu avamise tõttu. 
+ 
+Te nõustute: 
+• kasutama sisu ainult isiklikel, mitte-kommertslikel eesmärkidel; 
+• kasutama sisu kooskõlas piirangutega, mis on sätestatud rakenduvates õigusaktides, täiendavates tingimustes, juhendites ja eeskirjades või toote lehtedel, mis kohalduvad antud konkreetsele sisu osale; 
+• mitte tegema koopiaid, andma, müüma, edasi müüma, laenama, rentima, pakkuma, edastama, saatma, jagama, üle kandma, avalikkusele kommunikeerima, reprodutseerima, modifitseerima, näitama, esitama, äriliselt kasutama ega sisu kättesaadavaks tegema, välja arvatud kui see on rakenduvate tingimustega lubatud, ja Te nõustute teavitama HMD Globalit koheselt igasugusest sellisest volitamata kasutusest; 
+• mitte eemaldama, mööda minema, pöördprojekteerima, dekrüpteerima või muul viisil muutma või mõjutama mistahes rakenduvaid kasutamise reegleid ning mitte üritama minna mööda digitaalsete õiguste haldamise või koopiate tegemise takistamise vahenditest, mis on seotud sisuga, või mistahes muudest tehnoloogiatest, mida kasutatakse sisu või tuvastamise teabe juurdepääsu või kasutamise kontrollimiseks; 
+• mitte kasutama sisu valimiseks ja allalaadimiseks mingisuguseid automaatseid süsteeme või vahendeid, välja arvatud meie poolt pakutavaid; ja 
+• mitte avaldama oma parooli ega muul viisil lubama teistel isikutel saada juurdepääsu sisule. Piirangud kopeerimisele, mis rakenduvad vastavale meediale, rakenduvad samuti sisule, millele saadakse juurdepääs käesoleva teenuse osana. 
+ 
+Sisu on HMD Globali ja/või selle vastavate litsensiaaride omanduses ja/või kontrolli all ja seda kaitsevad intellektuaalse omandi seadused. Kolmandast isikust sisupakkuja on ainuisikuliselt vastutav mistahes tema pakutava sisu suhtes, mistahes garantiide suhtes ulatuses, milles need garantiid pole välistatud, ja kõikide nõuete suhtes, mis Teil võivad olla seoses selle sisu või Teie poolt selle sisu kasutamisega. Kuid HMD Global kui kolmanda isiku sisu litsentsi tingimuste alusel kasusaaja isik võib siiski Teilt nõuda nende tingimuste täitmist. Kolmandast isikust sisupakkujad on käesolevate tingimuste alusel kasusaavad kolmandad isikud ja võivad nõuda selliste tingimuste täitmist, mis otseselt puudutavad sisu, mille suhtes neil on õigusi. HMD Global võib tegutseda kolmandast isikust sisupakkuja esindajana Teile sisu pakkumisel. HMD Global ei ole Teie ja kolmandast isikust sellise sisu pakkuja vahelise tehingu osapool. 
+ 
+7. Autoriõiguste rikkumise väited 
+HMD Global austab kolmandate osapoolte intellektuaalse omandi õigusi. Kui soovite edastada teate intellektuaalse omandi õiguste rikkumise kohta, sh autoriõiguste rikkumise väite, kasutage selleks meie rikkumisteadete esitamise protseduure. KÕIK NEILE PROTSEDUURIDELE MITTEKOHASED PÄRINGUD JÄÄVAD TÄHELEPANUTA. 
+ 
+HMD Global kasutab autoriõiguste rikkumise teadetele reageerimiseks protseduure, mis on sätestatud Ameerika Ühendriikide seadustiku (United States Code) 17. jaotise 512. jaos. Sobivatel asjaoludel võib HMD Global lõpetada või tühistada HMD Globali teenuste korduvrikkujatest kasutajate kontod. 
+ 
+8. Teatised 
+HMD Global võib teenuse raames teatisi postitada. HMD Global võib Teile toodete ja teenuste kohta teatisi saata ka e-posti aadressile või telefoninumbrile, mille Te meile andnud olete. Need teatised loetakse teie poolt kättesaaduks hiljemalt seitsme (7) päeva jooksul alates hetkest, millal HMD Global need saatis või postitas. Teie poolt jätkuv teenuste kasutamine tähendab, et olete kätte saanud kõik teatised, hoolimata kättetoimetamise viisist. 
+ 
+9. Tasud 
+Teie poolt teenuse kasutamine võib olla või võib muutuda tasuliseks. 
+ 
+Igasugustest tasudest, mida HMD Global võtab, teavitatakse eraldi seoses teenusega. 
+ 
+Teenuse kasutamisega võib kaasneda andmete ülekanne läbi Teie teenusepakkuja võrgu. Teenuses märgitud hinnad ei sisalda Teie teenusepakkuja võimalikke tasusid seoses andmete ülekande, tekstisõnumite, heli- ja teiste teenuste osutamisega. 
+ 
+HMD Global ei võta mingisugust vastutust Teie teenusepakkuja poolt kehtestatud tasude maksmise eest. 
+ 
+10. Tellimis- ja maksetingimused 
+„Tellimus” tähendab teenuse raames kättesaadava ja HMD Globali poolt pakutava tasulise sisu valimist ja/või sisuga liitumist, sisestades makseviisi ja valides „osta”, „ok”, või „nõustun” või muu sarnane nõustumise kinnitus tellimise protsessis või esitades muu indikatsiooni nõustumise tingimuste kohta, mis on Teile kättesaadavad tellimise protsessis. 
+ 
+Selleks et teenuse raames tellimust esitada, peate Te olema vanuses, millest alates Teid loetakse teovõimeliseks vastavalt kohalduvale õigusele. Kui Te ei ole jõudnud vanuseni, millest alates Teid teovõimeliseks loetakse, võite Te tellimusi esitada vaid Teie vanema või seadusliku eestkostja eelneval nõusolekul. 
+ 
+Te nõustute, et kõik tellimused on õiguslikult kehtivad ja siduvad. Kõik tellimused sõltuvad HMD Globali poolt antavast nõusolekust. 
+ 
+Te võite maksta krediit- või deebetkaardiga, võrguteenuse pakkuja arveldamisega või kasutades muud makseviisi, kui see on olemas. 
+ 
+Teie krediit- või deebetkaardil peab olema arveldamise aadress riigis, kus teenusega sisu pakutakse. HMD Global võtab vastava summa maha Teie krediitkaardilt või pangakontolt mõistliku aja jooksul pärast seda, kui Te olete tellimuse teinud. Kõiki krediitkaardi makseid kontrollitakse ja autoriseeritakse kaardi väljastaja poolt. 
+ 
+Kui Te valite võrguteenuse pakkuja arveldamise, ilmnevad tasud Teie mobiiltelefoni arvel või need lahutatakse Teie ettemakstud kontolt, kui tegemist on ettemakstud kontoga. Mõned võrguteenuse pakkujad võivad Teie poolt teenuse kasutamisele seada täiendavad tingimused, sealhulgas piirmäärade seadmine võimalikule tasude summale võrguteenuse pakkuja arveldamisel. Võrguteenuse pakkuja piirmäärasid või konto saldot ületavatest tasudest võidakse keelduda. 
+ 
+Te olete nõus tasuma Teie tellimusega seonduvad tasud ja tagama, et maksevahend on tellimuse ajal kehtiv ja et Te olete maksevahendi õigustatud valdaja ja maksevahendit kasutatakse selle makselimiitide piires. 
+ 
+Üle antav sisu litsentseeritakse Teile. Te nõustute kasutama sellist sisu üksnes nii, nagu lubatud käesolevates tingimustes ja kõikides täiendavates tingimustes, mis võidakse Teile esitada tellimise protsessis. 
+ 
+Teenus võib pakkuda liitumisi (abonement). Liitumise perioodil volitate Te teenust rakendama perioodilist tasu. Teenus võib samuti sisaldada prooviperioodi. Kui Teie tellimus sisaldab prooviperioodi (samuti tuntud kui proovi-ja-osta), võib Teilt prooviperioodi lõppedes nõuda tasu, välja arvatud kui Te loobute vastavalt liitumise/proovimise tingimustele. 
+ 
+Teenuse hinnad võivad aeg-ajalt muutuda. Hinnad sisaldavad kohalduvaid makse, mis kehtivad Teie tehingu tegemise ajal, kui pole öeldud teisiti. Võib esineda juhtumeid, kus Teie pank või krediitkaardi pakkuja võib nõuda täiendavaid tasusid kasutatavate valuutavahetuse kursside põhjal ja/või täiendavalt määratud tasusid. HMD Global ei vastuta pankade või mis tahes muu kolmanda osapoole kehtestatud tasude maksmise eest. 
+ 
+11. Tühistamine ja raha tagastamine 
+Te nõustute sisu elektroonilise kättetoimetamisega, mis algab samaaegselt Teie tellimuse esitamisega. Te ei saa oma tellimust tühistada, kui see on juba esitatud. Sisu olemus on selline, et seda pole võimalik tagastada. 
+ 
+Juhul kui Te pärast tellimust avastate ja teavitate HMD Globali 48 tunni jooksul, et (a) sisu, mille te olete tellinud, on defekte; (b) sisu, mis HMD Global Teile kätte toimetab, ei vasta selle sisu kirjeldusele, mis Te teenuse kaudu tellisite; või (c) tehnilised probleemid tekitasid viivituse või ei võimaldanud Teie sisu kättetoimetamist või sellised tehnilised probleemid on põhjustanud tahtmatuid mitmekordseid tellimusi, on Teie ainuke õiguskaitsevahend seoses sellise sisuga kas sellise sisu asendamine või hinna, mis on sellise sisu eest tasutud, tagastamine, HMD Globali poolt kindlaks määratud tingimustel. 
+ 
+Muudel juhtudel raha ei tagastata. Kui Te puutute kokku mis tahes ülalnimetatud probleemiga, võtke ühendust HMD Globali klienditeenindusega. 
+ 
+Arvestage, et HMD Globalil ei pruugi olla võimalik Teie klienditeeninduse taotlust läbi vaadata, kui Te ei anna oma tehingu ID-d, mille HMD Global on Teile andnud pärast Teie tellimust teenusest. HMD Global võib tagastada raha üksnes sisu eest, mille koguhind ületab kohalduvas kohalikus õiguses sätestatud rahalise limiidi. 
+ 
+12. Tagasiside HMD Globalile 
+Esitades teenuse kaudu või muul viisil HMD Globalile ideid, tagasisidet ja/või ettepanekuid („Tagasiside”), mõistate ja nõustute, et: (1) HMD Globalil võib olla tagasisidega sarnaseid arendusideid; (2) Teie tagasiside ei sisalda Teie või mis tahes kolmanda osapoole konfidentsiaalset või varalist informatsiooni; (3) HMD Globalil ei ole tagasiside suhtes konfidentsiaalsuskohustust; (4) HMD Global võib tagasisidet mis tahes eesmärgil vabalt kasutada, jagada, rakendada ja edasi arendada ning muuta; ja (5) Teil ei ole õigust saada HMD Globalilt mistahes kompensatsiooni. 
+ 
+13. Sotsiaalsed tegevused ja asukoha jagamine 
+Te võite kasutada teenuse funktsioone, et jagada oma asukohta, staatust, sisu, materjale või isiklikku informatsiooni, või et suhelda teiste kasutajatega, lehekülgede ja teenustega. Kasutades neid funktsioone, Te nõustute, et HMD Global võib kasutada ja anda sellist informatsiooni teistele teenustele ja isikutele, kellega Te otsustate suhelda või seda informatsiooni jagada. Nende teenuste kasutajad ja isikud, nagu näiteks Teie kontaktid, võivad näha Teie asukohta, staatust ja/või isiklikku informatsiooni. Kasutades selliseid funktsioone, Te nõustute mitte jagama informatsiooni, sisu ega materjali või linkima mistahes teenust või veebisaiti, mis: (a) sisaldab sisu või muud materjali, mis on ebaseaduslik või sobimatu; või (b) kasutab intellektuaalse omandi õigusi ilma loata või julgustab kasutajaid piraatlusele. Igasugune suhtlemine ei hõlma HMD Globali ja leiab aset üksnes Teie ja teis(t)e kasutaja(te) vahel. 
+ 
+14. Kättesaadavus ja tehnilised nõuded 
+Sisu ja teenuse kättesaadavus võib erineda ja allub täielikult HMD Globali äranägemisele. HMD Global keeldub sõnaselgelt andmast mistahes lubadust või tagatist, et mistahes kindel sisu või teenus on kättesaadav. Teenus ei pruugi olla kättesaadav kõikide riikides ja seda võidakse osutada vaid valitud keeltes. Teenus, tegevused ja teatavad funktsioonid võivad sõltuda ka võrgust, kasutatud seadmete kokkusobivusest ja toetatud sisuformaatidest. 
+ 
+Selleks et teenusele juurde pääseda, võib Teil olla vaja alla laadida teatud tarkvara, mis on HMD Globali või muu osapoole arendatud. 
+ 
+HMD Global võib vastavalt oma ainuisikulisele äranägemisele teenust täies ulatuses või osaliselt muuta, täiendada või katkestada. Teenus võib olla mitte kättesaadav hoolduspauside ja muul ajal. Selleks et tagada, et Teil on seadme tarkvara ja rakenduste viimane versioon, võib Teie seade kontrollida HMD Globali tarkvarauuenduste olemasolu. Nende leidmisel palutakse Teil installimine kinnitada. Te võite oma seadme sätetes automaatse uuenduste kontrollimise välja lülitada. Te võite installida tarkvara ka kättesaadavate tarkvarauuenduste kanalite kaudu. Kui HMD Global peab tarkvara uuendust oluliseks või väga tähtsaks, ei pruugi Teil olla võimalik jätkata tarkvara eelmise versiooni kasutamist. HMD Global võib takistada Teil tarkvara või teenuse eelmise versiooni kasutamist kuniks Te installite uuenduse. 
+ 
+HMD Global võib tõkestada mistahes Teie teenuse kontol sisalduva sisu või tarkvara mistahes põhjusel ja kõrvaldada mistahes sisu või tarkvara ja/või tõkestada mistahes rakenduse koopiad Teie seadmes selleks, et kaitsta teenust, rakenduste pakkujaid, traadita ühenduse pakkujaid, üle kelle võrgu Te teenust kasutate, või mistahes teisi mõjutatud või potentsiaalselt mõjutatud osapooli. 
+ 
+Konkreetne teenus võib olla väljaande eelversioon, näiteks beetaversioon, ja ei pruugi töötada selliselt, nagu töötab lõplik versioon. HMD Global võib oluliselt muuta igat teenuse või tarkvara versiooni või otsustada mitte väljastada lõplikku versiooni. 
+ 
+15. Lingid kolmandate osapoolte veebisaitidele ja sisule 
+HMD Global võib lisada juurdepääsu Interneti veebisaitidele või teenustele või juba laetud klientidele, mis võimaldavad Teil ühenduda veebisaitide või teenustega, mis kuuluvad kolmandatele osapooltele või mida haldavad kolmandad osapooled ja mis pole teenuse osa. Te peate selliste veebisaitide või teenuste tingimused üle vaatama ja nendega nõustuma enne selliste veebisaitide või teenuste kasutamist. 
+ 
+Te nõustute, et HMD Global ei kontrolli kolmandate osapoolte sisu, veebisaite või teenuseid ega vastuta nendel kolmandate osapoolte veebisaitidel või teenustel osutatud teenuste või loodud või avaldatud materjali eest. Link kolmanda osapoole veebisaidile ei viita sellele, et HMD Global propageeriks seda veebisaiti või sellel veebisaidil kajastatud tooteid või teenuseid. 
+ 
+Lisaks võite Teie ja teised kasutajad teenuse raames ka sisu luua ja lisada linke sisule, mida pole muul viisil teenusesse liidetud. HMD Global ei vastuta sellise sisu või linkide eest. 
+ 
+16. Reklaamid 
+Teenus võib sisaldada reklaame. Reklaamid võivad olla suunatud sisule või teenuses hoitavale informatsioonile, teenuse kaudu tehtud järelepärimistele või muule informatsioonile. 
+ 
+17. Isikuandmed 
+Teie isikuandmete kasutamist reguleerib Privaatsuspoliitika ja mistahes muu Teile kättesaadavaks tehtud täiendav privaatsust puudutav informatsioon. 
+ 
+18. Vastutuse piirang 
+Teenust pakutakse „OLEMASOLEVAL KUJUL” ja „VASTAVALT KÄTTESAADAVUSELE” põhimõttel. HMD Global ei garanteeri, et teenus toimib katkestusteta või on vaba vigadest ja viirustest. Seoses teenuse kättesaadavuse, täpsuse, usaldatavuse, informatsiooni või sisuga ei anta mistahes garantiid, ei otsest ega kaudset, sealhulgas garantiid seoses omandiga, rikkumiste puudumisega, kasutatavuse või sobivusega konkreetseks ülesandeks. Te nõustute ja teadvustate sõnaselgelt, et teenuse kasutamine toimub üksnes Teie enda riisikol ja et Te võite puutuda kokku erinevatest allikatest pärineva mitmesuguse sisuga. 
+ 
+Välja arvatud vastutus surma ja kehavigastuse eest, mille on põhjustanud HMD Globali raske hooletus või tahtlik väärkäitumine, ei ole HMD Global vastutav mingisuguste otseste kahjude eest, mille on põhjustanud Teie poolt teenuse kasutamine või võimetus teenust kasutada. 
+ 
+19. Kaitsmine nõuete eest 
+Te nõustute kaitsma HMD Globali kõikide kolmandate isikute nõuete ja kõikide vastutuste, hinnangute, kaotuste, kulutuste ja kahjude eest, mis tulenevad (i) Teie poolt tingimuste rikkumisest, (ii) Teie poolt kolmanda osapoole mistahes intellektuaalse omandi õiguste, muude õiguste või privaatsuse rikkumisest või (iii) teenuse väärkasutamise eest kolmanda osapoole poolt, kui väärkasutamine osutus võimalikuks seeläbi, et Te ei kasutanud mõistlikke vahendeid oma kasutajanime ja parooli kaitsmiseks väärkasutamise eest. 
+ 
+20. Muu 
+ 
+20.1 Kohalduv õigus 
+Tingimustele kohaldub Soome õigus, olenemata selle rahvusvahelise eraõiguse sätetest. 
+ 
+20.2 Kehtivus 
+Tingimused ei välista ega piira mistahes kohustuslikke õigusi Teie riigis, millest ei ole seaduse kohaselt võimalik loobuda. Kui tingimuste säte osutub kehtetuks, ei mõjuta see teisi sätteid ja kehtetu säte asendatakse kehtiva sättega, mis on võimalikult lähedane tingimuste tulemusele ja eesmärgile. Juhul kui üks või mitu käesolevate tingimuste sätetest ei ole Teie poolt teenuse kasutamise suhtes asjakohane, ei mõjuta see tingimuste teiste sätete või tervikuna kogu tingimuste kehtivust ja täitmisele pööratavust. Vastuolu korral mistahes käesolevate HMD Globali teenuse tingimuste ja Privaatsuspoliitika vahel rakendatakse käesolevaid HMD Globali teenuse tingimusi. Tingimuste sätted, mis on mõeldud jääma kestma ka pärast Teie registreeringu tühistamist, jäävad pärast tühistamist jõusse. 
+ 
+20.3 Muutused tingimustes 
+HMD Global võib igal ajal muuta tingimusi ilma sellest eelnevalt ette teatamata. Kui tingimusi muudetakse oluliselt ja ebasoodsas suunas, annab HMD Global muudatusest eraldiseisva teatisega teada. 
+ 
+Te vastutate tingimuste korrapärase ülevaatamise eest. Teenuse jätkuv kasutamine Teie poolt loetakse Teie nõustumiseks tehtud muutuste ja modifikatsioonidega. 
+ 
+21. Intellektuaalne omand 
+Teenus, sisu ja tarkvara on rahvusvaheliste autoriõiguste seaduste kaitse all. HMD Global on nõudnud endale oma teenuse, sisu ja tarkvara autoriõigused seaduse maksimaalses ulatuses. Tingimuste alusel jätab HMD Global endale kõik õigused, omandi ja huvid teenuses, selle sisus, tarkvaras ja kõikides teistes HMD Globali toodetes, tarkvaras ja muus varas, mida Teile teenuse kaudu pakutakse või mida Te kasutate. 
+ 
+22. Loovutamine 
+HMD Global võib loovutada enda õigusi ja kohustusi käesolevate tingimuste alusel oma emaühingule, oma tütarühingutele või mistahes äriühingule, mis on HMD Globaliga ühise kontrolli all. Täiendavalt võib HMD Global loovutada enda õigusi ja kohustusi käesolevate tingimuste alusel kolmandale osapoolele seoses ühinemisega, omandamisega, varade müügiga, seaduse alusel või muul juhul."</string>
+    <string name="hmd_user_experience_program_message">Teie osalemine kasutuskogemuse programmis aitab HMD Globalil paremini mõista, mis teile Nokia seadme puhul meeldib ja mida teie arvates parandama peaks. Aeg-ajalt võime koguda teie seadme tehnilisi parameetreid sisaldavaid anonüümseid andmeid, näiteks võidakse meile saata fail, milles on andmed toimunud tarkvarakrahhi kohta. Pidage meeles, et selliseid andmeid ei edastata mobiilsideühenduse kaudu. Meile meeldiks teada saada, mida oma Nokia seadmest arvate!</string>
+    <string name="hmd_user_experience_program_title">Kasutuskogemuse programm</string>
+    <string name="idle_too_long_toast">Kui telefon on olnud mõnda aega tegevuseta, peate selle energia säästmiseks välja lülitama.</string>
+    <string name="language_selection_cancel_btn">TÜHISTA</string>
+    <string name="language_selection_title">Valige oma keel</string>
+    <string name="location_for_service">"Kasuta minu asukohta Google'i otsingute ja muude Google'i teenuste jaoks."</string>
+    <string name="location_info_1">"Google'i asukohateenust kasutavad rakendused saavad siiski ilma GPS-i kasutamata hankida teie ligikaudse asukoha."</string>
+    <string name="location_info_2">Saate need funktsioonid keelata asukohateenuste sätetes.</string>
+    <string name="location_network">"Luba Google'i asukohateenustel koguda anonüümseid asukohaandmeid. Kogumine jätkub ka siis, kui ükski rakendus ei tööta."</string>
+    <string name="location_title">"Kasuta Google'i positsioneerimist"</string>
+    <string name="nevigation_selection_back">Tagasi</string>
+    <string name="nevigation_selection_home">Kodune telefon</string>
+    <string name="nevigation_selection_recent">Hiljutised</string>
+    <string name="nevigation_selection_text">Saate muuta nuppude Tagasi ja Viimati kasutatud asukohta ning taustavärvi.</string>
+    <string name="nevigation_selection_title">Navigeerimisriba sätted</string>
+    <string name="next_btn_lebel">Edasi</string>
+    <string name="search_menu_title">Otsing</string>
+    <string name="setup_complete_hmd">Olete minekuks valmis…</string>
+    <string name="setup_complete_main">Teie telefon</string>
+    <string name="setup_complete_sub">on kasutamiseks valmis</string>
+    <string name="setup_completed_congratulations">Palju õnne!</string>
+    <string name="sim_not_exist_toast">Kontrollige, kas SIM-kaart on sisestatud.</string>
+    <string name="skip_add_account_button_label">Mitte praegu</string>
+    <string name="skip_button_label">Jäta vahele</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Nõustu</string>
+    <string name="term_disagree_text">Ei nõustu</string>
+    <string name="terms_of_service_description">"
+Järgmiste teenuste kasutamisel võivad kaasneda andmeliiklustasud: ilmateated, veebimällu üles-/allalaadimised, meiliteenus või Interneti-brauserid. Soovitame kulude säästmiseks tellida operaatorilt andmesidepakett. 
+
+Valiku Nõustun märkimine tähendab, et saate sellest teatest täielikult aru ja nõustute, et teie telefon võib asjakohaste teenuste kasutamiseks Internetiga automaatselt ühenduse luua. 
+
+Lisaks annavad tarkvara automaatse värskendamise vaikimisi lubatud teated, mis kasutavad väikest andmehulka, teile uutmoodi tarkvaraelamuse. Saate selle valiku hiljem sätetes välja lülitada. 
+
+"</string>
+    <string name="terms_title">Andmekasutuse teated</string>
+    <string name="traffic_prompt_content">Kui valite Ei nõustu, peate teavet tarkvaravärskenduste, ilmateadete jms kohta käsitsi tooma.</string>
+    <string name="upload_agent_des_text">"Liituge kasutuskogemuse programmiga &lt;a href='launch.AddUploadAgentHandler://Kode'>Privaatsustingimused&lt;/a> 。"</string>
+    <string name="upload_agent_hmd_des_text_2">"Ühinege Nokia kasutuskogemuse programmiga. &lt;a href='launch.UserExperienceActivity://Kode'>Lisateave.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Kasutuskogemuse programm</string>
+    <string name="v7_preference_off">VÄLJAS</string>
+    <string name="v7_preference_on">SEES</string>
+    <string name="welcome_hmd_term_of_use_2">"Noole puudutamisega nõustute &lt;a href='launch.TermOfServiceActivity://Kode'>teenusetingimuste&lt;/a> ja &lt;a href='launch.AddUploadAgentHandler://Kode'>privaatsuseeskirjaga&lt;/a>. HMD Globalile saadetakse seadme aktiveerimisteave ja ühekordselt seadme asukohateave. Kaasneda võivad andmesidetasud."</string>
+    <string name="welcome_infocus_term_of_use">"Vajutage nuppu Alusta, et näidata oma nõusolekut &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>teenusetingimustega&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Alustame</string>
+    <string name="welcome_message">Tere tulemast!</string>
+    <string name="welcome_start_button_label">Alusta</string>
+    <string name="welcome_vision_settings_button_label">Nähtavusesätted</string>
+    <string name="wifi_picker_connection_des_text">Kui te pole WLAN-iga ühendatud, autenditakse tarkvara mobiilivõrgu kaudu, mis võib tuua kaasa andmeedastustasusid.</string>
+    <string name="wifi_picker_connection_negative_prc">Ühenda WLAN-iga</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Võrguühendus</string>
+    <string name="wifi_picker_warning_des_text">Kui teil pole Interneti-ühendust, pole tarkvara ajakohasust võimalik kontrollida.</string>
+    <string name="wifi_picker_warning_negative">Jäta ikkagi vahele</string>
+    <string name="wifi_picker_warning_positive">Ära jäta vahele</string>
+    <string name="wifi_picker_warning_title">Hoiatus</string>
+    <string name="zone_auto">Tuvasta ajavöönd automaatselt</string>
+    <string name="zone_auto_summaryOff">Kasuta võrgu pakutud ajavööndit</string>
+    <string name="zone_auto_summaryOn">Kasuta võrgu ajavööndit</string>
+    <string name="sugarsync_intro_description">Vaid mõne lihtsa toiminguga saate kasutada sujuvat SugarSynci pilvemäluruumi.</string>
+</resources>

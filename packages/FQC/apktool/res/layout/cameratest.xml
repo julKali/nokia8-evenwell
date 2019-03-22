@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/camera" android:background="@drawable/camera_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.evenwell.fqc.activity.view.PreviewFrameLayout android:id="@id/frame_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <FrameLayout android:id="@id/frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <SurfaceView android:id="@id/camera_preview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <ImageView android:layout_gravity="center" android:id="@id/focusing_image" android:visibility="gone" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/ic_focus_focusing" />
+            <ImageView android:layout_gravity="center" android:id="@id/focused_image" android:visibility="gone" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/ic_focus_focused" />
+            <ImageView android:layout_gravity="center" android:id="@id/nonfocus_image" android:visibility="gone" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/ic_focus_failed" />
+            <ImageView android:id="@id/viewlastimage" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </com.evenwell.fqc.activity.view.PreviewFrameLayout>
+</LinearLayout>

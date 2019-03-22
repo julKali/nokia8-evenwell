@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD गोपनीयता धोरण</string>
+    <string name="privacy_activity">HMD गोपनीयता धोरण</string>
+    <string name="go_label">झाले</string>
+    <string name="agree">सहमत आहे</string>
+    <string name="see_detail">तपशील</string>
+    <string name="next_btn_lebel">पुढील</string>
+    <string name="app_name">सिस्टम निदान</string>
+    <string name="setting_page_name">वापरकर्ता अनुभव कार्यक्रम</string>
+    <string name="send_diag_dialog_any_network">डेटा कनेक्शन उपलब्ध असताना</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi कनेक्शन उपलब्ध असताना</string>
+    <string name="send_diag_dialog_wlan">WLAN कनेक्शन उपलब्ध असताना</string>
+    <string name="send_diag_dialog_title">निदान पाठवा</string>
+    <string name="diagnostics_setting">निदान</string>
+    <string name="diagnostics_report">निदान अहवाल</string>
+    <string name="diagnostics_report_summary">डिव्हाइसला सॉफ्टवेअर त्रुटी येत असताना निदान अहवाल पाठवा. नेटवर्क वापरल्याने शुल्क लागू शकते. वाहकामधून डेटा नेटवर्क पॅकेज मिळवण्याची शिफारस केली आहे.</string>
+    <string name="network_options">नेटवर्क पर्याय</string>
+    <string name="send_diagnostics">निदान पाठवा</string>
+    <string name="diagnostics_description">तुमच्या डिव्हाईसमध्ये जेव्हा सॉफ्टवेअर त्रुटी येते किंवा ते क्रॅश होते तेव्हा डायग्नोस्टिक डेटा संकलित करण्यास आम्हाला परवानगी देऊन कृपया आम्हाला आमची उत्पादने आणि सेवा सुधारण्यासाठी मदत करा. तुम्ही सेटिंग्जमध्ये नंतर तो पर्याय नेहमीच बदलू शकता.</string>
+    <string name="cancel_upload_confirm_msg">आपण आमचा वापरकर्ता अनुभव कार्यक्रम सोडणार आहात. आपल्या मोबाईल फोनवर होणार्‍या सॉफ्टवेअर त्रुटी राखून ठेवून पाठवल्या जाणार नाहीत, म्हणून हे आपला मोबाईल फोन वापरण्याचा अनुभव सुधारू शकणार नाही!</string>
+</resources>

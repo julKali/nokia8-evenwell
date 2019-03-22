@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/LinearLayout02" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <Button android:id="@id/btnModemGeneralConfigSave" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_button_Save" />
+            <TextView android:id="@id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_save_debug_config_note" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout03" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugModemLoggerCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_modem_logger_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout04" android:paddingLeft="30.0dip" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugAutoStartEMLCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_auto_start_eml_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout05" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugUsbQxdmModeCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView04" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_usb_qxdm_mode_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout06" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugWpDbgbufCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView05" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_wp_dbgbuf_cfg" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

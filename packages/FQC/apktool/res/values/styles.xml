@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FQCFCI">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="FQCText">
+        <item name="android:textSize">25.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="FQCText_WATCH_180_288">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="FihConfimrDialogAnim">
+        <item name="android:windowEnterAnimation">@anim/zzz_fih_confirm_dialog_enter</item>
+    </style>
+    <style name="FihConfirmDialogTheme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/FihConfimrDialogAnim</item>
+        <item name="android:background">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="nonotif">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="notitle">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

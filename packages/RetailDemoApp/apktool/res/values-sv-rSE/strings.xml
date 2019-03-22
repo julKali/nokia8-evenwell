@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">AVBRYT</string>
+    <string name="copying">Kopierar…</string>
+    <string name="demo_mode_notifications">Aviseringar för demoläge</string>
+    <string name="disable_demo_mode">Inaktivera demoläge</string>
+    <string name="download_complete_msg">"Nedladdningen är klar.
+
+Tryck på OK för att starta demoläge."</string>
+    <string name="download_fail_msg">"Det gick inte att ladda ned demomaterial från internet.
+
+Tryck på OK för att starta demoläge?"</string>
+    <string name="downloading">Laddar ned…</string>
+    <string name="enable_demo_mode">Aktivera demoläge?</string>
+    <string name="enable_demo_mode_setup">Aktivera demoläge</string>
+    <string name="no_new_demo_found_msg">"Inget nytt demomaterial hittades.
+
+Tryck på OK för att starta demoläge?"</string>
+    <string name="ok">OK</string>
+    <string name="reset_device">Återställa enheten?</string>
+    <string name="system_busy_msg">Systemet är upptaget. Försök igen senare.</string>
+    <string name="update_demo_video">Demovideo om uppdatering</string>
+</resources>

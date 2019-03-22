@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+    <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+    <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+    <string name="abc_action_mode_done">Gotowe</string>
+    <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+    <string name="abc_capital_off">WYŁ.</string>
+    <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+    <string name="abc_shareactionprovider_share_with_application">Udostępnij przez: %s</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
+    <string name="accessibility_text">Ułatwienia dostępu</string>
+    <string name="account_intro_description">Usługi [BRAND_NAME] to lepszy sposób korzystania z urządzenia.</string>
+    <string name="account_intro_title">Konto usług [BRAND_NAME]</string>
+    <string name="add_baidu_button_label">Zaloguj się w 百度云</string>
+    <string name="add_infocus_service_account">Dodaj konto usług [BRAND_NAME]</string>
+    <string name="back_btn_lebel">WSTECZ</string>
+    <string name="backup_and_restore_description">"Jeśli masz kopię zapasową konta, możesz ją przywrócić w telefonie.
+
+Ustawienia kopii zapasowej można zmienić w Ustawieniach."</string>
+    <string name="backup_and_restore_title">Kopia zapasowa i przywracanie</string>
+    <string name="baidu_intro_description">Wykonując kilka prostych kroków, możesz cieszyć się integracją magazynów chmurowych z 百度云.</string>
+    <string name="baidu_intro_title">Magazyn-chmura dla Baidu</string>
+    <string name="baidu_progress_dialog_des">Czekaj...</string>
+    <string name="choose_timezone">Wybierz strefę czasową</string>
+    <string name="datausage_dialog_negitive_btn">Anuluj</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Ustawienia daty i godziny</string>
+    <string name="date_and_time_settings_summary">Ustaw datę, godzinę, strefę czasową i formaty.</string>
+    <string name="date_and_time_settings_title">Data i godzina</string>
+    <string name="date_and_time_settings_title_setup_wizard">Ustaw datę i godzinę</string>
+    <string name="date_picker_title">Data:</string>
+    <string name="date_time_24hour">Format 24-godzinny</string>
+    <string name="date_time_auto">Automatyczna data i godzina</string>
+    <string name="date_time_auto_summaryOff">Użyj czasu podanego przez sieć.</string>
+    <string name="date_time_auto_summaryOn">Użyj czasu podanego przez sieć.</string>
+    <string name="date_time_date_format">Wybierz format daty</string>
+    <string name="date_time_set_date">Ustaw datę</string>
+    <string name="date_time_set_time">Ustaw godzinę</string>
+    <string name="date_time_set_timezone">Wybierz strefę czasową</string>
+    <string name="device_checking_message">Witaj</string>
+    <string name="dropbox_fih_description">Uzyskaj za darmo 2 GB miejsca w usłudze Dropbox na zdjęcia i filmy.</string>
+    <string name="dropbox_fih_signin">Dropbox — logowanie</string>
+    <string name="dropbox_fih_signup">Dropbox — rejestracja</string>
+    <string name="emergency_dial_hmd_message">Połączenie alarmowe</string>
+    <string name="emergency_dial_message">Połączenie alarmowe</string>
+    <string name="expand_button_title">Zaawansowane</string>
+    <string name="fih_legal_message">"Warunki korzystania z oprogramowania [BRAND_NAME_PROXY]
+ 
+ Data wejścia w życie: 20 maja 2016
+ 
+ Następujące warunki korzystania (Warunki) stanowią umowę prawną dotyczącą korzystania przez użytkownika z dowolnego Oprogramowania [BRAND_NAME_PROXY], zawartą między użytkownikiem a spółką [BRAND_NAME_PROXY] Inc. i jej przedstawicielem, Commtiva Technology Ltd. (łącznie [BRAND_NAME_PROXY]), której podlega korzystanie z przez użytkownika z Oprogramowania [BRAND_NAME_PROXY], w tym między innymi pobieranie instalowanie i automatyczne odnawianie ( Usługa do obsługi Oprogramowania). Korzystając z Oprogramowania [BRAND_NAME_PROXY], użytkownik zgadza się związać postanowieniami tych Warunków, a jeśli nie wyraża na nie zgody, nie może pobierać, duplikować, używać ani zachowywać [BRAND_NAME_PROXY] Oprogramowania.
+ 
+ 1. Warunki korzystania
+ Tak długo jak użytkownik przestrzega tych Warunków, [BRAND_NAME_PROXY] przyznaje mu osobiste, niewyłączne, niepodlegające przeniesieniu, możliwe do odwołania i ograniczone prawo do używania Usług do Oprogramowania [BRAND_NAME_PROXY]. [BRAND_NAME_PROXY] zainstaluje kod obiektu na urządzeniu mobilnym [BRAND_NAME_PROXY] użytkownika ( [BRAND_NAME_PROXY] Urządzenie) przez internet. Użytkownik zgadza się, że Oprogramowanie [BRAND_NAME_PROXY] w jego Urządzeniu [BRAND_NAME_PROXY] nie może być wykorzystywane do celów komercyjnych ani przekazane innej osobie.
+ Użytkownik zgadza się też, że nie będzie używać Oprogramowania [BRAND_NAME_PROXY] w żaden z poniższych sposobów:
+ (a) Łamanie zabezpieczeń Oprogramowania [BRAND_NAME_PROXY] (w tym jego podstawowych technologii) lub używanie Oprogramowania [BRAND_NAME_PROXY] na jakimkolwiek urządzeniu nieoznaczonym marką [BRAND_NAME_PROXY];
+ (b) Analizowanie, dekompilowanie, odtwarzanie, dekodowanie, kopiowanie, modyfikowanie Oprogramowania [BRAND_NAME_PROXY] lub tworzenie prac pochodnych na jego podstawie w jakimkolwiek celu;
+ (c) Podejmowanie różnych działań, w tym między innymi przenoszenie, wynajmowanie, wypożyczanie, sublicencjonowanie, upublicznianie Oprogramowania [BRAND_NAME_PROXY] i naruszanie Warunków lub zezwalanie osobom trzecim na używanie lub posiadanie Oprogramowania [BRAND_NAME_PROXY], lub uzyskiwanie do niego dostępu.
+ (d) Usuwanie jakichkolwiek informacji dotyczących praw własności lub znaków towarowych z Oprogramowania [BRAND_NAME_PROXY] lub dokumentów bez uzyskania wcześniejszej zgody [BRAND_NAME_PROXY];
+ (e) Używanie Oprogramowania [BRAND_NAME_PROXY] w sposób niezgodny z obowiązującym prawem lub naruszający prawa osób trzecich;
+ (f) Używanie Oprogramowania [BRAND_NAME_PROXY] w obszarach zabraniających lub ograniczających jego używanie, w tym między innymi w obszarze kontrolo lotów, na stacjach benzynowych, przy urządzeniach jądrowych; oraz
+ (g) Używanie Oprogramowania [BRAND_NAME_PROXY] w sposób zabroniony w Warunkach.
+ 
+ Aby zapewnić prawidłowe działanie Urządzenia [BRAND_NAME_PROXY] i Oprogramowania [BRAND_NAME_PROXY], użytkownik zobowiązuje się, że nie zniszczy ani nie usunie etykiet ze swojego Urządzenia [BRAND_NAME_PROXY] bez pomocy personelu [BRAND_NAME_PROXY]. Takie nieautoryzowanie działania będą miały wpływ na zakres i okres gwarancji przyznawanej użytkownikowi przez [BRAND_NAME_PROXY].
+ 
+ 2. Zasady ochrony prywatności
+ Użytkownik przyjmuje do wiadomości i zgadza się, że [BRAND_NAME_PROXY] może zbierać i zachowywać informacje, w tym między innymi typ modelu, numer seryjny, kod IMEI/MEID, wersję sprzętu, wersję oprogramowania, czas użytkowania, SKU ID, domyślne ustawienia i wersję systemu operacyjnego urządzenia [BRAND_NAME_PROXY] użytkownika (Informacje). 
+ Jeśli spółka [BRAND_NAME_PROXY] zostanie zobowiązana do ujawnienia jakichkolwiek Informacji na rzecz agencji rządowej lub w sądzie, wówczas [BRAND_NAME_PROXY] zrobi to w wymagany sposób.
+ 
+ Urządzenie [BRAND_NAME_PROXY] przekaże [BRAND_NAME_PROXY] informację, że Urządzenie [BRAND_NAME_PROXY] nie łączyło się z siecią komórkową przez co najmniej 14 dni od daty zakupu.
+ 
+ Więcej informacji znajduje się w Zasadach ochrony prywatności [BRAND_NAME_PROXY].
+ 
+ 3. Usługi pomocnicze
+ [BRAND_NAME_PROXY] będzie udostępniać Usługi pomocnicze, w tym między innymi aktualizacje i uaktualnienia, do Oprogramowania [BRAND_NAME_PROXY] zgodnie z aktualnym stanem jaki [BRAND_NAME_PROXY] uzyska z Urządzenia [BRAND_NAME_PROXY].
+ [BRAND_NAME_PROXY] będzie udostępniać aktualizacje, poprawki i dodatki do Oprogramowania [BRAND_NAME_PROXY] użytkownika po skorzystaniu z niego z Oprogramowania [BRAND_NAME_PROXY] za pośrednictwem internetu i zgodnie z postanowieniami Warunków.
+ 
+ [BRAND_NAME_PROXY] zastrzega sobie prawo do wypowiedzenia prawa użytkownika do uzyskiwania jakichkolwiek Usług [BRAND_NAME_PROXY] za pośrednictwem internetu, by korzystanie z Usług i Oprogramowania [BRAND_NAME_PROXY] przebiegało płynnie.
+ [BRAND_NAME_PROXY] będzie publikować kolejne wersje Oprogramowania [BRAND_NAME_PROXY] i będzie wymagać od użytkownika używania najbardziej aktualnej wersji systemu operacyjnego.
+ 
+ 4. Automatyczne aktualizacje
+ By Urządzenie [BRAND_NAME_PROXY] działało coraz lepiej, ma ustawione automatyczne pobieranie najnowszego oprogramowania i oprogramowania układowego od [BRAND_NAME_PROXY] 
+ 
+ By zapewnić bezpieczeństwo i stabilność urządzenia [BRAND_NAME_PROXY] użytkownik zgadza się postępować zgodnie z instrukcjami przekazanymi przez [BRAND_NAME_PROXY]. Ponieważ użytkownik zgadza się, pobierać najnowsze oprogramowanie lub oprogramowanie układowe, uznaje się, że zgadza się również na jego odnawianie i instalowanie.
+ 
+ By uniknąć utraty własnych dokumentów, zdjęć, tekstów, plików dźwiękowych i innego typu danych, które mogą zostać utracone lub zniszczone podczas aktualizacji Urządzenia [BRAND_NAME_PROXY], użytkownik jest zobowiązany do utworzenia kopii zapasowych wszystkich wspomnianych danych przechowywanych w Urządzeniu [BRAND_NAME_PROXY] przed pobraniem najnowszej wersji oprogramowania lub oprogramowania układowego.
+ 
+ Automatyczna aktualizacja Urządzenia [BRAND_NAME_PROXY] lub aktualizacja za zgodą użytkownika w formie wiadomości oznacza, że użytkownik wyraża zgodę na następujące treści:
+ (a) Aktualizacja oprogramowania:
+ Użytkownik zgadza się, że [BRAND_NAME_PROXY] może przez internet łączyć się z Urządzeniem [BRAND_NAME_PROXY] użytkownika i sprawdzać wersję jego oprogramowania i aktualizować stan. Jeśli [BRAND_NAME_PROXY] opublikuje powiadomienie o uaktualnieniu, wówczas [BRAND_NAME_PROXY] umożliwi użytkownikowi aktualizację stanu i wersji Oprogramowania [BRAND_NAME_PROXY] za pośrednictwem Usługi [BRAND_NAME_PROXY].
+ Użytkownik zgadza się otrzymywać od [BRAND_NAME_PROXY] powiadomienia o dostępności nowego Oprogramowania [BRAND_NAME_PROXY]. Jeśli użytkownik potwierdzi nową dostępną aktualizację, oznacza to, że zezwala [BRAND_NAME_PROXY] na automatyczną aktualizację Urządzenia [BRAND_NAME_PROXY].
+ (b) Synchronizowanie treści i aktualizacje:
+ Po połączeniu Urządzenia [BRAND_NAME_PROXY] z komputerem lub innym urządzeniem Urządzenie [BRAND_NAME_PROXY] automatycznie zaktualizuje powiązane treści i inne informacje (np. informacje kontaktowe, kalendarz, zakładki i pliki).
+ 
+ 5. Zastrzeżenie wszelkich praw własności i innych praw do Oprogramowania [BRAND_NAME_PROXY]
+ Mimo że użytkownik ma licencję na używanie Usług i Oprogramowania [BRAND_NAME_PROXY], [BRAND_NAME_PROXY], jego podmioty stowarzyszone i dostawcy zachowują wszelkie prawa do Oprogramowania [BRAND_NAME_PROXY], w tym między innymi prawa własności, autorskie i prawa własności intelektualnej.
+ 
+ Wszystkie te prawa do Oprogramowania [BRAND_NAME_PROXY] są chronione prawem krajowym i umowami międzynarodowymi.
+ 
+ 6. Zrzeczenie odpowiedzialności
+ [BRAND_NAME_PROXY] nie składa żadnych oświadczeń ani nie udziela żadnych gwarancji, wyraźnych ani dorozumianych, w tym dorozumianej rękojmi co do wartości handlowej, odpowiedniej jakości, przydatności do określonego celu ani braku naruszeń własności intelektualnej. 
+ [BRAND_NAME_PROXY] nie gwarantuje, że:
+ (a) Jakakolwiek Usługa [BRAND_NAME_PROXY] uzyskana przez Użytkownika będzie dokładna i wiarygodna; lub
+ (b) Usługa [BRAND_NAME_PROXY] będzie dostępna w sposób nieprzerwany, bezpieczny i na czas; lub
+ (c) Wszelkie braki i błędy w Usługach będą natychmiast naprawiane.
+ 
+ [BRAND_NAME_PROXY] nie ponosi odpowiedzialności za żadne szkody ani straty spowodowane wirusami lub innymi technicznie szkodliwymi materiałami, które mogą zainfekować Urządzenie [BRAND_NAME_PROXY] użytkownika, jego programy, dane lub inne materiały w wyniku korzystania przez niego z Usług [BRAND_NAME_PROXY]. Dostęp do wszystkich treści lub innych materiałów pobieranych lub uzyskiwanych za pośrednictwem [BRAND_NAME_PROXY] odbywa się na własne ryzyko użytkownika, który ponosi wyłączną odpowiedzialność za uszkodzenia swojego Urządzenia [BRAND_NAME_PROXY] lub utratę danych lub treści w wyniku pobrania jakiegokolwiek oprogramowania.
+ 
+ 7. Ograniczenie odpowiedzialności i jedyne uprawnienie
+ [BRAND_NAME_PROXY] nie ponosi odpowiedzialności za żadne szkody wtórne i uboczne, odszkodowania retorsyjne, szkody z tytułu utraconych korzyści, informacji poufnych lub innych, szkody wynikłe z przerw w działalności, szkody na osobie, uszkodzenie mienia, utratę prywatności, ani za szkody spowodowane niedopełnieniem zobowiązania do działania w dobrej wierze lub niedbalstwem.
+ W maksymalnym zakresie dozwolonym przez prawo właściwe maksymalna łączna odpowiedzialność [BRAND_NAME_PROXY] względem użytkownika i jego jedyne uprawnienie na mocy Warunków z tytułu wszelkich szkód, urazów, szkód na mieniu i strat związanych z jakimikolwiek roszczeniami lub pozwami bezpośrednio lub pośrednio związanymi z Warunkami jest ograniczone do odpowiedzialności za szkody rzeczywiste poniesione przez użytkownika i wynosi 10 (dziesięć) USD. 
+ 
+ Wielokrotne pozwy lub roszczenia pośrednio lub bezpośrednio wynikające z Warunków nie rozszerzają ograniczenia odpowiedzialności i w maksymalnym zakresie dozwolonym przez prawo stanowią jedyne uprawnienie użytkownika.
+ 
+ Jeśli sąd właściwej jurysdykcji uzna powyższy limit odpowiedzialności za bezskuteczny, w tym zakresie nie będzie miał on zastosowania, a słowa wynoszą 10 USD zostaną uznane za zastąpione słowami  jest ograniczone do wartości transakcji, w związku z którą zaistniała odpowiedzialność.
+ 
+ Taki pozew lub roszczenie pośrednio lub bezpośrednio wynikające z Warunków musi zostać zgłoszone w ciągu roku od zaistnienia jego przyczyny. 
+ 8. Zabezpieczenie
+ Użytkownik zgadza się przejąć od spółki [BRAND_NAME_PROXY], jej udziałowców, dyrektorów, przedstawicieli, partnerów, pracowników, podmiotów zależnych i stowarzyszonych odpowiedzialność cywilną z tytułu wszelkich roszczeń, szkód i odszkodowań kierowanych przeciwko [BRAND_NAME_PROXY] przez wszelkie osoby trzecie w związku z niewłaściwym korzystaniem przez użytkownika z Usług [BRAND_NAME_PROXY], które narusza jakiekolwiek prawa osób trzecich, oraz zrekompensować wszelkie związane z nimi wydatki (w tym honoraria adwokatów).
+ 
+ 9. Wypowiedzenie usługi
+ Jeśli użytkownik naruszy niniejsze Warunki, nie będzie mógł legalnie korzystać z Usług [BRAND_NAME_PROXY]. W takiej sytuacji użytkownik musi zniszczyć i usunąć wszystkie kopie Oprogramowania [BRAND_NAME_PROXY]. Wpłynie to również na gwarancję Urządzenia [BRAND_NAME_PROXY] użytkownika.
+ W razie wystąpienia powyższego naruszenia użytkownik uznaje, że [BRAND_NAME_PROXY] ma prawo przyjąć następujące postanowienia:
+ (a) Natychmiastowe wypowiedzenie prawa dostępu do konta [BRAND_NAME_PROXY]; lub
+ (b) Zablokowanie przyszłego dostępu do konta Usługi [BRAND_NAME_PROXY].
+ 
+ Użytkownik zgadza się również, że każde naruszenie Warunków spowoduje dla [BRAND_NAME_PROXY] szkodę nie do naprawienia, której nie zrekompensuje odszkodowanie finansowe, i wyraża zgodę, aby spółka [BRAND_NAME_PROXY] uzyskała takie zabezpieczenie roszczeń w drodze nakazu lub zakazu sądowego lub godziwe zadośćuczynienie, jakie [BRAND_NAME_PROXY] uzna za konieczne lub stosowne w danych okolicznościach. Te środki zaradcze są uzupełnieniem innych środków, jakie mogą przysługiwać [BRAND_NAME_PROXY] zgodnie z prawem lub na zasadzie słuszności.
+ 
+ 10. Prawo właściwe i jurysdykcja
+ Użytkownik zgadza się, że wszelkie sprawy związane ze sporami dotyczącymi Warunków podlegają prawom Chińskiej Republiki Ludowej bez względu na sprzeczność norm prawnych. 
+ 
+ Użytkownik wyraża zgodę na właściwość rzeczową i miejscową sądu okręgowego Tajpej (Tajwan) i zrzeka się podnoszenia zarzutów dotyczących takiej jurysdykcji i miejsca.
+ 
+ Wszelkie spory, których nie da się rozstrzygnąć przez polubowne porozumienie między użytkownikiem a [BRAND_NAME_PROXY], będą mogły być przedmiotem mediacji wnioskowanej przez użytkownika lub [BRAND_NAME_PROXY]. Jeśli sporu nie da się rozwiązać w drodze mediacji w ciągu 30 dni kalendarzowych, należy założyć sprawę w sądzie okręgowym wspomnianym powyżej.
+ 
+ 11. Postanowienia ogólne
+ Nagłówki Warunków są używane wyłącznie dla wygody.
+ Niepodjęcie przez [BRAND_NAME_PROXY] działań w związku z naruszeniem nie stanowi zrzeczenia się praw przysługujących z tytułu takiego naruszenia ani kolejnych lub podobnych naruszeń.
+ 
+ Jeśli sąd właściwej jurysdykcji stwierdzi, że jakakolwiek część niniejszych Warunków jest nieważna lub niewykonalna, wówczas dane nieważne lub niewykonalne postanowienie zostanie zastąpione ważnym i wykonalnym postanowieniem, które w możliwie najwierniejszy sposób będzie odzwierciedlać intencję pierwotnego postanowienia, a pozostała część Warunków pozostanie w mocy. 
+ 
+ Użytkownik nie może przenieść lub zbyć swoich praw wynikających z Warunków, ani udzielić na nie sublicencji.
+ 
+ [BRAND_NAME_PROXY] może przenieść swoje prawa wynikające z niniejszych Warunków w całości lub w części, w każdym momencie za powiadomieniem lub bez powiadomienia użytkownika. 
+ 
+ Niniejsze Warunki zastępują wszystkie wcześniejsze lub obecne porozumienia między użytkownikiem a [BRAND_NAME_PROXY] w związku z Witryną.
+ 
+ 12. Całość umowy
+ Niniejsze Warunki i jej załączniki stanowią całość porozumienia między użytkownikiem a [BRAND_NAME_PROXY] w związku z Usługami [BRAND_NAME_PROXY].
+ 
+ 13. Zmiana postanowień
+ [BRAND_NAME_PROXY] może od czasu do czasu aktualizować, zmieniać lub usuwać treść Warunków według własnego uznania.
+ 
+ Użytkownik powinien sprawdzać warunki opublikowane w witrynie [BRAND_NAME_PROXY], które mogą się różnić od warunków dostępnych wcześniej.
+ 
+ Korzystanie przez użytkownika z odnowionego oprogramowania i Urządzenia [BRAND_NAME_PROXY] uznaje się za zgodę na takie zmiany.
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] informacje prawne</string>
+    <string name="finish_button_label">KONIEC</string>
+    <string name="google_account_add_account">Zaloguj się przez Google</string>
+    <string name="google_account_intro_description">Skonfiguruj konto Google, by korzystać z wszystkich usług Google.</string>
+    <string name="google_account_intro_title">Konto Google</string>
+    <string name="hmd_legal_message">"Warunki korzystania z Usługi 
+ 
+Data wejścia w życie: 14 października 2016 r. 
+ 
+1. Wyrażenie zgody 
+Niniejsze Warunki korzystania z Usługi HMD Global, wraz z Zasadami ochrony prywatności oraz innymi warunkami dodatkowymi i informacjami (zbiorczo określanymi jako \"Warunki\") w zakresie świadczonej Usługi, dotyczą korzystania z naszych usług, stron internetowych, materiałów i oprogramowania (zbiorczo określanych jako \"Usługi\"). Zarejestrowanie się lub korzystanie z naszych Usług bądź jakiejkolwiek ich części jest równoznaczne z zaakceptowaniem niniejszych Warunków. 
+ 
+Niniejsze Warunki stanowią umowę miedzy Użytkownikiem a spółką HMD Global Oy (z siedzibą pod adresem: Bertel Jungin aukio 9, 02610 Espoo, Finlandia) (łącznie z jej spółkami zależnymi i dostawcami określanymi zbiorczo jako \"HMD Global\"), która określa prawa i zobowiązania po stronie Użytkownika, jak i HMD Global w odniesieniu do Usług. 
+ 
+2. Warunki wstępne korzystania z Usług 
+Z usług HMD Global mogą korzystać wyłącznie osoby, które ukończyły 13 lat. Użytkownicy poniżej 13 lat lub powyżej, ale niebędący w świetle prawa lokalnego osobami dorosłymi, muszą poprosić rodzica lub opiekuna prawnego o założenie konta w ich imieniu i wyrażenie zgody na korzystanie z Usług przez osobę niepełnoletnią. Użytkownik rejestrujący się w naszych Usługach musi mieć zdolność prawną do wykonania tej czynności. 
+ 
+3. Rejestracja i zamknięcie konta. 
+Do korzystania z określonej usługi konieczne jest zarejestrowanie się i założenie konta HMD, składającego się z nazwy użytkownika i hasła (które muszą być zgodne z odpowiednimi osobnymi warunkami). Użytkownik zakładający konto musi podać spółce HMD Global niektóre dane osobowe i inne informacje. HMD Global zweryfikuje adres e-mail Użytkownika przed udostępnieniem konta HMD. Po pierwszym uruchomieniu urządzenia i po każdej aktualizacji oprogramowania urządzenia Nokia zostanie wysłana wiadomość tekstowa do HMD Global. Założenie konta HMD wiąże się z przekazaniem odpowiednich danych i naliczeniem opłaty za transfer danych. 
+ 
+Użytkownik zobowiązuje się do podania rzetelnych i dokładnych informacji podczas rejestracji konta oraz do ich zaktualizowania, jeżeli ulegną zmianie. Użytkownik ponosi odpowiedzialność za zabezpieczenie swojej nazwy użytkownika i hasła oraz uniemożliwienie innym osobom nieuprawnionego wykorzystywania tych informacji. Jeśli Użytkownik dowie się, że jego nazwa użytkownika i hasło zostały użyte niezgodnie z zasadami lub prawem, jest zobowiązany do niezwłocznego powiadomienia HMD Global. Użytkownik oraz jego rodzic lub opiekun prawny (w przypadku osób niepełnoletnich) ponoszą odpowiedzialność za sposób korzystania z Usług. 
+ 
+Jeśli Użytkownik nie chce korzystać z Usług HMD Global, może zamknąć konto i wyrejestrować się z Usług. Zamknięcie konta jest równoznaczne z utratą dostępu do Usług HMD Global. Jeżeli HMD Global w sposób rozsądny i uzasadniony stwierdzi, że Użytkownik naruszył Warunki korzystania z usług lub nie korzystał ze swojej nazwy użytkownika do logowania się w określonych usługach w ciągu ostatnich sześciu miesięcy, HMD Global może wyłączyć lub ograniczyć jego dostęp do takich usług po wcześniejszym powiadomieniu. 
+ 
+HMD Global nie przyjmuje żadnej odpowiedzialności za usunięcie lub utratę informacji bądź materiałów przekazanych przez Użytkownika w ramach korzystania z Usługi poza danymi wyszczególnionymi w Zasadach ochrony prywatności. Po zamknięciu konta, bez względu na to, czy z inicjatywy Użytkownika czy spółki HMD Global, ślady lub kopie niektórych informacji bądź materiałów mogą nadal istnieć w innych miejscach. 
+ 
+4. Licencje 
+HMD Global przyznaje Użytkownikowi niewyłączną i niezbywalną licencję (którą może wycofać według własnego uznania) na korzystanie z Usług pod warunkiem przestrzegania wszystkich Warunków opisanych w niniejszym dokumencie. Korzystanie z Usług nie jest równoznaczne z przeniesieniem na Użytkownika jakichkolwiek praw własności intelektualnej w odniesieniu do informacji i materiałów udostępnianych przez HMD Global w ramach świadczonych usług. 
+ 
+W ramach świadczenia Usług HMD Global może dostarczać Użytkownikowi określone treści (\"Materiały\") przygotowane i opracowane przez spółkę HMD Global lub jej licencjobiorców. HMD Global przyznaje Użytkownikowi niewyłączną, bezterminową licencję na korzystanie z Materiałów zgodnie z ich przeznaczeniem, chyba że określono inaczej w odpowiednich warunkach zamówień zakupu. Niektóre Materiały mogą być dostępne wyłącznie w określonych obszarach geograficznych. Użytkownik jest zobowiązany do przestrzegania wszelkich ograniczeń odnoszących się do poszczególnych materiałów udostępnianych w ramach świadczenia usług. Wszelkie licencje przyznawane w ramach usług przez osoby trzecie stanowią wiążącą umowę między Użytkownikiem a zewnętrznym administratorem materiałów. Użytkownik ma prawo do korzystania z tych treści zgodnie z postanowieniami warunków ich użytkowania. 
+ 
+W ramach świadczenia usług HMD Global może dostarczać Użytkownikowi określone oprogramowanie (\"Oprogramowanie\") przygotowane i opracowane przez spółkę HMD Global lub jej licencjobiorców. Korzystanie z Oprogramowania podlega osobnym warunkom, które należy zaakceptować przed przystąpieniem do użytkowania Oprogramowania. W przypadku braku osobnych warunków regulujących korzystanie z Oprogramowania obowiązują następujące postanowienia: HMD Global przyznaje Użytkownikowi niewyłączne i niezbywalne prawo do instalacji i używania Oprogramowania na komputerze lub urządzeniu mobilnym. Użytkownik nie może kopiować Oprogramowania za wyjątkiem utworzenia jego jednej kopii zapasowej. Użytkownik nie może przyznawać ani przekazywać uprawnień do: użytkowania, modyfikowania, tłumaczenia, kopiowania, odsprzedawania, dystrybuowania, wypożyczania, odtwarzania ani podejmowania jakichkolwiek prób odtworzenia kodu źródłowego Oprogramowania, jak również opracowywania produktów pochodnych Oprogramowania. W przypadku oprogramowania o kodzie otwartym obowiązują osobne licencje regulujące warunki korzystania z poszczególnych produktów. Korzystanie z Oprogramowania jest równoznaczne z zaakceptowaniem wszystkich odpowiednich warunków. 
+ 
+Oprogramowanie może podlegać przepisom dotyczącym ograniczeń eksportowych obowiązującym w Stanach Zjednoczonych lub innym regulacjom importowym/eksportowym. Użytkownik zobowiązuje się do przestrzegania wszystkich obowiązujących przepisów importowych/eksportowych oraz uzyskania wszelkich licencji wymaganych do eksportu, reeksportu, transferu lub importu Oprogramowania. 
+ 
+Użytkownik może przekazywać w ramach usług określone informacje lub materiały (\"Materiały\"). HMD Global nie rości sobie praw własności do Materiałów przekazywanych przez Użytkownika. Przekazanie lub udostępnianie Materiałów w żadnym wypadku nie oznacza przeniesienia praw własności do Materiałów na HMD Global. HMD Global ponosi wyłączną odpowiedzialność za przesyłanie Materiałów, natomiast nie ponosi żadnej odpowiedzialności za zawarte w nich treści. Przekazując Materiały w ramach usług, Użytkownik przyznaje spółce HMD Global globalną, niewyłączną, przekazywalną, bezpłatną, bezterminową i nieodwołalną licencję na korzystanie z Materiałów (z uwzględnieniem możliwości kopiowania, egzekwowania, wyświetlania lub dystrybuowania Materiałów na dowolnym nośniku i modyfikowania Materiałów pod kątem dopasowania ich do innych prac, a także przyznawania podobnych podlicencji w ramach i zakresie usług świadczonych przez HMD Global). Użytkownik może zmienić warunki licencji i inne ustawienia usługi w sposób poufny. 
+ 
+Użytkownik ponosi wyłączną odpowiedzialność za utworzenie i zabezpieczenie kopii zapasowych swoich danych zapisanych w usługach (łącznie z przesłanymi przez siebie Materiałami). HMD Global może trwale usunąć dane Użytkownika w przypadku zawieszenia lub zaprzestania świadczenia usług. W razie zawieszenia lub zaprzestania świadczenia usług HMD Global nie ma obowiązku zwracania Użytkownikowi jego danych. 
+ 
+5. Korzystanie z Usług 
+Użytkownik wyraża zgodę na 
+• zachowanie zgodności ze wszystkimi obowiązującymi przepisami prawa, niniejszymi Warunkami oraz najlepszymi praktykami; 
+• korzystanie z usług wyłącznie na potrzeby prywatne, nie komercyjne; 
+• nieprzesyłanie Materiałów niezgodnych z prawem, o treściach agresywnych, nierzetelnych, wprowadzających w błąd, obelżywych, pornograficznych, oszczerczych, wyczerpujących znamiona molestowania lub prześladowania, ani żadnych innych nieodpowiednich i niedozwolonych treści; 
+• uzyskanie wszelkich wymaganych przepisami prawa zgód lub licencji na przekazywanie jakichkolwiek treści; 
+• • poszanowanie prywatności innych osób; 
+• niewysyłanie (w wiadomościach e-mail ani żadnymi innymi kanałami) spamu, bardzo dużych plików, łańcuszków, piramid ani wirusów. 
+• nieużywanie technologii i niepodejmowanie działań, które mogłyby skutkować awarią usług lub pogwałceniem praw, interesów lub uszczerbkiem na własności użytkowników usług; 
+• nieużywanie automatycznych metod lub systemów do uzyskania dostępu, kopiowania, monitorowania usług ani żadnej ich części; 
+• poniesienie wszelkiej odpowiedzialności i konsekwencji związanych z przekazywanymi przez siebie treściami. 
+ 
+HMD Global może (przy czym nie ma obowiązku): 
+• monitorować lub modyfikować zawartość Materiałów; 
+• usuwać Materiały z usług; 
+• według własnego uznania ograniczać dostęp do Usług lub dowolnych ich części; 
+ 
+6. Materiały 
+Przed pobraniem lub skorzystaniem z jakichkolwiek materiałów należy upewnić się, że są one odpowiednia do wieku danego Użytkownika, tj. nie są obwarowane ograniczeniem wiekowym ani potencjalnie obraźliwe, dwuznaczne lub prowokujące. 
+ 
+HMD Global nie przyjmuje odpowiedzialności odszkodowawczej, karnej ani cywilnej w związku z korzystaniem z Materiałów przez Użytkownika. 
+ 
+Użytkownik wyraża zgodę na 
+• korzystanie z Materiałów wyłącznie na potrzeby prywatne, nie komercyjne; 
+• korzystanie z Materiałów lub stron poświęconych produktom zgodnie z obowiązującymi przepisami prawa, wytycznymi, zasadami użytkowania i przeznaczeniem przedmiotowych materiałów; 
+• niekopiowanie, nieprzekazywanie, niesprzedawanie, nieodsprzedawanie, niezastawianie pod hipotekę, niepożyczanie, nierozpowszechnianie, niewysyłanie, nietransferowanie, niedystrybuowanie, niepodawanie do opinii publicznej, niepowielanie, niemodyfikowanie, nieeksponowanie, nieopracowywanie i niedostarczanie materiałów na zasadach komercyjnych, chyba że określono inaczej w stosownych postanowieniach; W przypadku wykrycia nieautoryzowanego wykorzystania Materiałów Użytkownik zobowiązuje się do niezwłocznego zawiadomienia HMD Global o tym fakcie. 
+• nieusuwanie, nieobchodzenie, niedeszyfrowanie, niedekompilowanie, niezmienianie i nieingerowanie w postanowienia regulujące sposób korzystania z zawartości, a także zobowiązuje się do nieobchodzenia przepisów o ochronie praw własności cyfrowej oraz niekopiowania innych funkcji zabezpieczeń technologicznych związanych z materiałami lub używanych do kontroli dostępu albo wykorzystywania zawartości i informacji wymienionych powyżej; 
+• nieużywania automatycznych systemów i podobnych środków do wybierania lub pobierania materiałów, innych niż udostępnianych przez HMD Global. 
+• nieudostępniania swojego hasła do konta i nieumożliwiania innym osobom uzyskiwania dostępu do tych materiałów; 
+ 
+Wszelkie ograniczenia kopiowania materiałów multimedialnych dotyczą także zawartości będącej elementem tych usług. 
+ 
+Właścicielem lub administratorem Materiałów jest spółka HMD Global lub jej licencjobiorcy. Materiały podlegają przepisom o ochronie własności intelektualnej. Zewnętrzni administratorzy zawartości ponoszą odpowiedzialność wyłącznie za dostarczane przez siebie treści oraz wszelkie roszczenia i odwołania zgłaszane przez Użytkownika względem należących do nich treści lub działań Użytkownika związanych z korzystaniem z tych treści. Niemniej HMD Global może być zewnętrznym beneficjentem tych warunków w odniesieniu do przestrzegania przez Użytkownika odpowiednich postanowień licencyjnych zewnętrznego dostawcy materiałów. Jako zewnętrzni beneficjenci tych warunków, zewnętrzni dostawcy materiałów mogą egzekwować swoje prawa względem materiałów będących ich własnością. Dostarczając Materiały Użytkownikowi, HMD Global może pełnić funkcję przedstawiciela zewnętrznych administratorów materiałów. HMD Global nie jest stroną w żadnych transakcjach zawieranych między Użytkownikiem a zewnętrznym administratorem w odniesieniu do tych treści. 
+ 
+7. Postanowienia dotyczące naruszania praw autorskich 
+HMD Global szanuje i respektuje prawa własności intelektualnej osób trzecich. Aby zgłosić przypadek naruszenia praw własności intelektualnej (łącznie z roszczeniami odszkodowawczymi z tytułu naruszenia tych praw), należy postępować zgodnie z naszą procedurą zgłaszania naruszenia praw własności intelektualnej. HMD Global nie ustosunkuje się do żadnych zawiadomień składanych niezgodnie z tą procedurą. 
+ 
+HMD Global odpowie na wszelkie zgłoszenia naruszenia praw własności intelektualnej przekazane zgodnie z procedurą opisaną szczegółowo w punkcie 17. na podstawie Artykułu 512 Kodeksu Stanów Zjednoczonych (United States Code). W stosownych przypadkach HMD Global może zawiesić lub wyłączyć konto Użytkownika usług HMD Global (ze względu na możliwość kolejnych naruszeń prawa). 
+ 
+8. Powiadomienia 
+HMD Global może wysyłać Użytkownikowi powiadomienia odnoszące się do Usług. HMD Global może także wysyłać powiadomienia dotyczące produktów i usług na adres e-mail lub numer telefonu podany przez Użytkownika. Takie powiadomienia uznaje się za dostarczone nie później niż po upływie 7 od daty ich wysłania przez HMD Global. Jeżeli Użytkownik kontynuuje korzystanie z Usług, uznaje się, że otrzymał wszystkie powiadomienia przesłane przez HMD Global (nie dotyczy powiadomień o formach płatności). 
+ 
+9. Opłaty 
+Korzystanie z Usług może być płatne. 
+ 
+Wszelkie opłaty pobierane przez HMD Global są wyszczególnione w warunkach korzystania z każdej z usług. 
+ 
+Korzystanie z Usług może się wiązać z przesyłem określonych informacji przez sieć operatora. Opłaty za korzystanie z Usług nie uwzględniają opłat za transfer danych, wiadomości tekstowe, usługi głosowe ani innych kosztów naliczanych przez operatora sieci komórkowej. 
+ 
+HMD Global nie ponosi żadnej odpowiedzialności za regulowanie opłat naliczanych przez operatora sieci komórkowej. 
+ 
+10. Warunki składania zamówień i płatności 
+\"Zamówienie\" powinno zawierać następujące elementy: 
+ 
+Zgodnie z obowiązującymi przepisami prawa, aby wysłać zamówienie na usługę, Użytkownik musi być osobą dorosłą lub w wieku umożliwiającym wykonanie określonej czynności prawnej. Jeśli Użytkownik nie jest osobą dorosłą lub w wieku umożliwiającym wykonanie określonej czynności prawnej, wysłanie zamówienia na usługę musi być poprzedzone uzyskaniem zgody rodzica lub opiekuna prawnego. 
+ 
+Użytkownik zaświadcza, że wszystkie składane przez niego zamówienia są wiążące i mają moc prawną. Wszystkie zamówienia muszą zostać zaakceptowane przez HMD Global. 
+ 
+Użytkownik może regulować należności przy użyciu karty kredytowej, debetowej, w ramach rachunku za usługi internetowe lub korzystając z innej formy płatności. 
+ 
+Karta kredytowa lub debetowa musi być zarejestrowana w kraju, w którym jest świadczona usługa. HMD Global obciąży kartę kredytową lub rachunek bankowy Użytkownika w rozsądnym czasie od złożenia zamówienia. 
+ 
+Wszystkie płatności kartami kredytowymi muszą zostać sprawdzone pod kątem prawidłowości i zatwierdzone przez wystawcę karty. 
+ 
+Jeżeli Użytkownik wybierze regulowanie opłat w ramach rachunku za usługi operatora sieciowego, należność zostanie dodana do rachunku za telefon komórkowy lub pobrana z konta przedpłaconego. Niektórzy usługodawcy sieciowi mogą stosować dodatkowe warunki korzystania z usług, w tym dotyczące limitów opłat za usługi sieciowe. Opłaty przewyższające limity określone przez usługodawcę sieciowego lub saldo konta Użytkownika mogą zostać odrzucone. 
+ 
+Użytkownik zobowiązuje się do pokrycia odpowiednich opłat za zamówienie i zapewnienia, że wskazany instrument płatniczy jest ważny i dostępny na potrzeby realizacji zamówienia, a także poświadcza, iż jest właścicielem prawnym tego instrumentu i będzie go używał w ramach ustawionego limitu kredytowego. 
+ 
+Użytkownik ma prawo korzystania z wszelkich materiałów, które otrzyma. Użytkownik zobowiązuje się do korzystania Materiałów zgodnie z niniejszymi warunkami oraz postanowieniami dodatkowymi odnoszącymi się do procedury składania zamówień. 
+ 
+W ramach Usług oferowane są Materiały dla subskrybentów. Użytkownik wyraża zgodę na obciążanie jego formy płatności opłatami okresowymi w czasie trwania subskrypcji. W ramach Usług HMD Global może zaoferować Użytkownikowi skorzystanie z bezpłatnego okresu próbnego. Jeżeli zamówienie złożone przez Użytkownika uwzględnia bezpłatny okres próbny, Użytkownik zostanie obciążony stosownymi opłatami po zakończeniu tego okresu, chyba że anuluje subskrypcję zgodnie z jej warunkami. 
+ 
+Ceny Usług mogą ulec zmianie w dowolnym momencie. Jeżeli nie określono inaczej, cena usługi zawiera wszelkie podatki należne w dniu zawarcia transakcji. Bank lub wystawca karty kredytowej mogą naliczyć dodatkowe opłaty, np. za przeliczenie waluty. 
+ 
+11. Anulowanie zamówień i zwroty pieniędzy 
+Użytkownik wyraża zgodę na otrzymanie odpowiednich materiałów w formie elektronicznej po złożeniu zamówienia. Po przetworzeniu i realizacji zamówienia Użytkownik nie może go anulować ani zwrócić otrzymanych materiałów. 
+ 
+Jeśli po złożeniu zamówienia wystąpi którakolwiek z poniższych okoliczności, należy poinformować o tym fakcie HMD Global w ciągu 48 godzin: (a) Zamówione materiały zawierają błędy; (b) Istnieją rozbieżności między materiałami zamówionymi za pośrednictwem usługi a treścią dostarczoną przez HMD Global; (c) Z powodu problemów technicznych dostawa zamówienia została opóźniona lub problemy techniczne spowodowały przypadkowe złożenie więcej niż jednego zamówienia. W wyżej wymienionych przypadkach Użytkownik ma prawo wymiany materiałów lub otrzymania zwrotu pieniędzy za zamówione materiały; HMD Global podejmie decyzję na podstawie okoliczności. 
+ 
+W innych przypadkach nie przysługuje zwrot pieniędzy. W przypadku wystąpienia wyżej wymienionych problemów technicznych należy skontaktować się z Biurem Obsługi Klienta HMD. 
+ 
+UWAGA: warunkiem przetworzenia prośby zgłoszonej w Biurze Obsługi Klienta jest podanie numeru transakcji (wystawionego przez HMD Global po złożeniu zamówienia). Jeśli cena łączna przekracza limit nałożony przez lokalne przepisy prawa, HMD Global zwróci pieniądze za zakupione materiały. 
+ 
+12. Wystawianie opinii w HMD Global. 
+Wystawiając opinie, oceny lub zamieszczając propozycje dla HMD Global za pośrednictwem usługi lub innych metod (\"Opinie\") Użytkownik wyraża zgodę na następujące warunki: (1) HMD Global ma pomysły dotyczące udoskonaleń podobne do tych, które zostały wyrażone w Opiniach; (2) Opinie Użytkownika nie zawierają informacji poufnych ani ekskluzywnych dotyczących Użytkownika lub osób trzecich; (3) HMD Global nie ma obowiązku zachowania poufności Opinii; (4) HMD Global może dowolnie wykorzystywać, dystrybuować, opracowywać i modyfikować Opinie według własnych potrzeb; (5) Użytkownik nie ma prawa do ubiegania się o wynagrodzenie za Opinie w jakiejkolwiek formie. 
+ 
+13. Aktywność w mediach społecznościowych i udostępnianie danych o lokalizacji 
+Użytkownik może używać funkcji usług do udostępniania danych o swojej lokalizacji, statusie, materiałach lub informacji osobistych w celu interakcji z innymi użytkownikami oraz korzystania ze stron internetowych i usług. Korzystanie z tych funkcji jest równoznaczne z wyrażeniem zgody na wykorzystywanie przez HMD Global podanych informacji oraz przekazywanie ich organizacjom lub osobom, którym Użytkownik zgodził się jej udostępniać. Takie osoby lub organizacje mogą mieć dostęp do kontaktów, lokalizacji, statusie lub informacji osobistych Użytkownika. Użytkownik zobowiązuje się, że w trakcie korzystania z tych funkcji nie będzie udostępniał następujących informacji, zawartości, materiałów, ani nie będzie podawał łączy do usług, które je zawierają: (a) nieodpowiednie materiały; (b) nieautoryzowane wykorzystywanie praw własności intelektualnej lub zachęcanie użytkowników do piractwa lub plagiatów. Wszelkie interakcje mają miejsce między Użytkownikiem a innymi użytkownikami, bez udziału HMD Global. 
+ 
+14. Dostępność i wymagania techniczne 
+Dostępność usług i materiałów może ulegać zmianom, według uznania HMD Global. HMD Global nie udziela żadnych gwarancji odnośnie do dostępności określonych materiałów lub usług. HMD Global nie świadczy usług we wszystkich krajach, a oferowane usługi są dostępne tylko w wybranych językach. Usługi, ich działanie i niektóre funkcje zależą także od zgodności sprzętu, oprogramowania, formatu materiałów oraz sieci. 
+ 
+Do korzystania z usług konieczne jest pobranie odpowiedniego oprogramowania lub części oprogramowania HMD Global lub innego dewelopera. 
+ 
+HMD Global może modyfikować, poprawiać lub zawieszać dowolne elementy usług, a także wyłączać dostęp do usług na czas konserwacji systemów i w innych okolicznościach. Aby zapewnić Użytkownikowi najnowsze oprogramowanie i aplikacje, urządzenie Użytkownika może automatycznie sprawdzać dostępność aktualizacji oprogramowania HMD Global. W przypadku wykrycia aktualizacji urządzenie wyświetli monit o pozwolenie na ich instalację. Użytkownik może wyłączyć funkcję automatycznego wyszukiwania aktualizacji w ustawieniach urządzenia. Oprogramowanie można instalować z podanych kanałów aktualizacji. Jeżeli HMD Global uzna, że dana aktualizacja ma znaczenie krytyczne, należy zaprzestać korzystania z wcześniejszych wersji oprogramowania. HMD Global może uniemożliwić Użytkownikowi korzystanie z wcześniejszych wersji oprogramowania lub usług do czasu zainstalowania wymaganych aktualizacji. 
+ 
+HMD Global może wyłączyć możliwość korzystania z dowolnych materiałów lub oprogramowania na koncie Użytkownika w usłudze, usunąć dowolne materiały lub oprogramowanie, a także wyłączyć jakiekolwiek kopie aplikacji zapisane w urządzeniu Użytkownika w celu ochrony usług, administratorów aplikacji i dostawców usług sieci bezprzewodowych, za pośrednictwem których Użytkownik uzyskuje dostęp do usług, oraz wszelkich pozostałych osób i systemów, których interesy lub bezpieczeństwo mogą być zagrożone. 
+ 
+Niektóre usługi mogą być udostępniane w wersjach wstępnych, np. testowych, a ich działanie może różnić się od działania finalnych wersji. HMD Global może wprowadzać poważne zmiany w usługach lub wersjach oprogramowania, albo zdecydować o nieudostępnieniu finalnej wersji. 
+ 
+15. Łącza do stron internetowych i materiałów należących do osób trzecich 
+HMD Global może zamieszczać ścieżki dostępu do innych stron i usług na swoich stronach lub w aplikacjach, umożliwiając Użytkownikowi korzystanie z takich stron i usług osób trzecich (takie strony internetowe i usługi nie wchodzą w zakres Usług zgodnie z niniejszymi warunkami). Przed korzystaniem z takich stron lub usług należy przeczytać obowiązujące w nich warunki. 
+ 
+HMD Global nie ma uprawnień do kontrolowania materiałów, stron internetowych ani usług osób trzecich. Z tego względu HMD Global nie ponosi żadnej odpowiedzialności za usługi ani materiały utworzone lub opublikowane na podstawie stron lub usług osób trzecich. Zamieszczenie łącza do strony internetowej osoby trzeciej w żaden sposób nie oznacza, że HMD Global zgadza się z treścią, produktami lub usługami prezentowanymi na takiej stronie. 
+ 
+Ponadto użytkownicy mogą tworzyć zawartość i łącza do materiałów dostępnych w usługach (bez podawania tych treści w ramach usług opisanych w niniejszych warunkach). HMD Global nie ponosi żadnej odpowiedzialności za tego rodzaju łącza lub materiały. 
+ 
+16. Reklama 
+W ramach Usług mogą być prezentowane reklamy. Prezentowane reklamy odnoszą się do materiałów lub informacji dostępnych w Usługach, zapytaniach, wnioskach lub innych informacji. 
+ 
+17. Dane osobowe 
+Podane Zasady ochrony prywatności i inne informacje dotyczące prywatności dotyczą wykorzystywania przez Użytkownika jego danych osobowych. 
+ 
+18. Ograniczenie odpowiedzialności 
+Usługa jest dostępna \"tak jak jest\" bez żadnych gwarancji co do dalszej dostępności. HMD Global nie gwarantuje braku zakłóceń w świadczeniu usługi, ani nie zapewnia, że jest ona wolna od błędów umożliwiających występowanie wirusów. HMD Global nie udziela żadnych gwarancji wyraźnych lub dorozumianych w zakresie dostępności, rzetelności, niezawodności informacji ani treści Usług, w tym praw własności, respektowania praw, przydatności komercyjnej ani przydatności do określonego celu. Użytkownik ponosi pełną odpowiedzialność i ryzyko związane z korzystaniem z usług oraz przyjmuje do wiadomości, że może mieć do czynienia z materiałami pochodzącymi z różnych źródeł. 
+ 
+Wyłączając odpowiedzialność z tytułu śmierci lub odniesienia obrażeń na skutek rażących zaniedbań lub nadużyć, HMD Global nie ponosi żadnej odpowiedzialności za straty pośrednie, przypadkowe lub moralne spowodowane korzystaniem lub brakiem możliwości korzystania z Usług. 
+ 
+19. Odszkodowania 
+Użytkownik zobowiązuje się do zadośćuczynienia HMD Global oraz ochrony HMD Global przed roszczeniami odszkodowawczymi osób trzecich, odpowiedzialnością prawną, zobowiązaniami podatkowymi, stratami, kosztami lub szkodami wynikającymi z: (i) Naruszenia przez Użytkownika niniejszych Warunków; (ii) Naruszenia przez Użytkownika praw własności intelektualnej, innych praw lub prywatności osoby trzeciej; (iii) Nieuprawnionego korzystania z Usług przez osobę trzecią, jeżeli jest ono skutkiem niepodjęcia przez Użytkownika rozsądnych środków w celu zabezpieczenia swojego hasła i nazwy użytkownika. 
+ 
+20. Inne postanowienia 
+ 
+20.1 Prawo właściwe 
+Niniejsze Warunki podlegają prawu obowiązującemu w Finlandii (bez uwzględnienia przepisów dotyczących konfliktów prawnych). 
+ 
+20.2 Ważność 
+Niniejsze Warunki nie wyłączają ani nie ograniczają żadnych praw ustawowych przysługujących Użytkownikowi w jego kraju zamieszkania. Stwierdzenie nieważności któregokolwiek z postanowień zawartych w niniejszych Warunkach nie wpływa na ważność pozostałych zapisów. Nieważne postanowienia powinny zostać zastąpione ważnymi, które będą w jak największym stopniu odpowiadały intencjom i celom niniejszych postanowień. Jeżeli jedno lub więcej postanowień nie ma zastosowania do korzystania przez Użytkownika z Usług, nie ma to wpływu na ważność lub wykonalność pozostałych zapisów niniejszych Warunków. 
+ 
+W razie sprzeczności między Warunkami a Zasadami ochrony prywatności HMD Global Warunki mają znaczenie nadrzędne. Po wygaśnięciu niniejszych Warunków pozostają w mocy te postanowienia, które obowiązują po wygaśnięciu dostępu do konta użytkownika. 
+ 
+20.3 Zmiany Warunków 
+HMD Global może w dowolnym momencie wprowadzać zmiany w niniejszych Warunkach bez powiadomienia. W przypadku wprowadzenia ważnych, sprzecznych ze stanem obecnym zmian w niniejszych Warunkach HMD Global wyśle Użytkownikowi stosowne powiadomienie. 
+ 
+Należy co jakiś czas czytać niniejsze Warunki. Kontynuowanie korzystania z Usług jest równoznaczne z wyrażeniem zgody na wprowadzane zmiany. 
+ 
+21. Prawa własności intelektualnej 
+Usługi, materiały i oprogramowanie podlegają ochronie w ramach międzynarodowych przepisów o ochronie praw autorskich. HMD Global jest właścicielem praw autorskich do swoich usług, materiałów i oprogramowania w maksymalnym zakresie dozwolonym przez prawo. Zgodnie z postanowieniami niniejszych Warunków HMD Global zastrzega sobie wszelkie prawa, w tym prawa własności usług, materiałów i oprogramowania dostępnych w ramach Usług, a także do wszelkich pozostałych produktów, usług, zasobów i oprogramowania HMD Global udostępnianych Użytkownikowi za pośrednictwem Usług. 
+ 
+22. Przeniesienie praw 
+HMD Global może przenieść swoje prawa i zobowiązania wynikające z niniejszych Warunków na spółkę dominującą lub zależną pozostającą w zarządzie HMD Global. HMD Global może przenieść swoje prawa i zobowiązania wynikające z niniejszych Warunków na osobę trzecią będącą podmiotem stowarzyszonym z HMD Global na skutek fuzji, sprzedaży aktywów, przepisów prawa lub wystąpienia innych okoliczności."</string>
+    <string name="hmd_user_experience_program_message">Biorąc udział w Programie poprawy satysfakcji użytkowników, pomożesz HMD Global lepiej zrozumieć Twoje preferencje i zidentyfikować obszary wymagające poprawy. Od czasu do czasu możemy otrzymywać anonimowe dane uwzględniające parametry techniczne Twojego urządzenia, np. plik z informacjami o awarii oprogramowania. Pamiętaj, że dane te nie będą przesyłane przez połączenie komórkowe. Z przyjemnością dowiemy się, co Ci się podoba w urządzeniu Nokia.</string>
+    <string name="hmd_user_experience_program_title">Program poprawy satysfakcji użytkowników</string>
+    <string name="idle_too_long_toast">Ten telefon jest od jakiegoś czasu nieużywany. Wyłącz go, by oszczędzać energię.</string>
+    <string name="language_selection_cancel_btn">ANULUJ</string>
+    <string name="language_selection_title">Wybierz język</string>
+    <string name="location_for_service">Użyj mojej lokalizacji dla wyników wyszukiwania Google lub innych usług Google.</string>
+    <string name="location_info_1">Usługa lokalizacji Google przekazuje aplikacjom przybliżoną lokalizację bez użycia GPS.</string>
+    <string name="location_info_2">Możesz wyłączyć te funkcje w Ustawieniach w obszarze usług lokalizacji.</string>
+    <string name="location_network">Zezwól usłudze lokalizacji Google na zbieranie anonimowych danych o lokalizacji. Dane będą zbierane nawet wtedy, gdy żadna aplikacja nie działa.</string>
+    <string name="location_title">Użyj lokalizacji Google</string>
+    <string name="nevigation_selection_back">Wstecz</string>
+    <string name="nevigation_selection_home">Ekran główny</string>
+    <string name="nevigation_selection_recent">Najnowsze</string>
+    <string name="nevigation_selection_text">Możesz zmieniać kolor tła i pozycję klawiszy Wstecz / Ostatnie.</string>
+    <string name="nevigation_selection_title">Ustawienia paska nawigacji</string>
+    <string name="next_btn_lebel">DALEJ</string>
+    <string name="normal_date_format">Regionalny (%s)</string>
+    <string name="search_menu_title">Szukaj</string>
+    <string name="setup_complete_hmd">Możesz zaczynać...</string>
+    <string name="setup_complete_main">Możesz</string>
+    <string name="setup_complete_sub">ZACZYNAĆ.</string>
+    <string name="setup_completed_congratulations">Gratulacje!</string>
+    <string name="sim_not_exist_toast">Sprawdź, czy karta SIM jest włożona.</string>
+    <string name="skip_add_account_button_label">Nie teraz</string>
+    <string name="skip_button_label">Pomiń</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Zgadzam się</string>
+    <string name="term_disagree_text">Nie zgadzam się</string>
+    <string name="terms_of_service_description">"
+Korzystanie z usług wymagających połączenia sieciowego, np. pogody, internetu, poczty e-mail, przeglądarki itp., może wiązać się z opłatami za zużycie danych komórkowych. By skuteczniej zarządzać opłatami za zużycie danych komórkowych, warto wykupić odpowiedni pakiet usług mobilnych u operatora.
+
+Wyrażając zgodę, zezwalasz tym usługom na łączenie się z siecią w razie potrzeby.
+
+Ponadto domyślnie włączona jest automatyczna aktualizacja oprogramowania. By zapewnić Ci najnowsze oprogramowanie, mogą być zużywane dane komórkowe. Zawsze możesz zmienić tę opcję w Ustawieniach.
+
+"</string>
+    <string name="terms_title">Użycie danych</string>
+    <string name="time_picker_title">Godzina</string>
+    <string name="traffic_prompt_content">Jeśli nie wyrazisz zgody, aktualizacje oprogramowania, prognozę pogody i inne informacje trzeba będzie pobierać samodzielnie.</string>
+    <string name="upload_agent_des_text">"Badanie opinii użytkowników. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Więcej informacji&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Dołącz do programu poprawy satysfakcji użytkowników produktów firmy Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Dowiedz się więcej.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Program poprawy satysfakcji użytkowników</string>
+    <string name="v7_preference_off">WYŁ.</string>
+    <string name="v7_preference_on">WŁ.</string>
+    <string name="welcome_hmd_term_of_use_2">"Naciskając strzałkę, wyrażasz zgodę na &lt;a href='launch.TermOfServiceActivity://Kode'>Warunki świadczenia usługi&lt;/a> i &lt;a href='launch.AddUploadAgentHandler://Kode'>Zasady ochrony prywatności&lt;/a>. Do HMD Global zostanie wysłane powiadomienie o aktywacji urządzenia wraz z jednorazową informacją o jego lokalizacji. Mogą zostać naliczone opłaty za transfer danych."</string>
+    <string name="welcome_infocus_term_of_use">"Strzałką akceptujesz&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Warunki usługi&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">ROZPOCZNIJ</string>
+    <string name="welcome_message">Witaj</string>
+    <string name="welcome_start_button_label">TAK</string>
+    <string name="welcome_vision_settings_button_label">Ustawienia widoku</string>
+    <string name="wifi_picker_connection_des_text">Wyłączenie połączenia WLAN może powodować naliczenie opłat podczas weryfikowania oprogramowania przez sieć komórkową.</string>
+    <string name="wifi_picker_connection_negative">Połącz</string>
+    <string name="wifi_picker_connection_negative_prc">Połącz z WLAN</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Połączenie sieciowe</string>
+    <string name="wifi_picker_warning_des_text">Telefon nie będzie mógł sprawdzić aktualności oprogramowania do czasu nawiązania połączenia internetowego.</string>
+    <string name="wifi_picker_warning_negative">Pomiń mimo to</string>
+    <string name="wifi_picker_warning_positive">Nie pomijaj</string>
+    <string name="wifi_picker_warning_title">Ostrzeżenie</string>
+    <string name="zone_auto">Automatyczna strefa czasowa</string>
+    <string name="zone_auto_summaryOff">Użyj strefy czasowej podanej przez sieć</string>
+    <string name="zone_auto_summaryOn">Użyj strefy czasowej podanej przez sieć</string>
+    <string name="sugarsync_intro_description">Wykonując kilka prostych kroków, możesz cieszyć się integracją magazynu chmurowego z SugarSync.</string>
+</resources>

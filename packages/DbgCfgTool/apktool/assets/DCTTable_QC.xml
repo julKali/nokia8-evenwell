@@ -1,0 +1,38 @@
+<root>
+<header checkSize="1" receiveIntent="1"></header>
+<type0	type="1" srcPath="/data/anr/" desPath="trace"	keyword="*" DateTime="false" command="null">trace</type0>
+<type0  type="1" srcPath="/data/misc/samba/var/" desPath="smbd"   keyword="*" DateTime="false" command="null">log.smbd</type0>
+<type1	type="1" srcPath="/data/" desPath="logs" keyword="alog" DateTime="true" command="null">alog</type1>
+<type1	type="1" srcPath="/data/" desPath="logs" keyword="alog_radio"	DateTime="true"	command="null">alog_radio</type1>
+<type1	type="1" srcPath="/data/" desPath="logs" keyword="alog_system" DateTime="true" command="null">alog_system</type1>
+<type1	type="1" srcPath="/data/" desPath="logs" keyword="alog_event"	DateTime="true"	command="null">alog_event</type1>
+
+<type1	type="1" srcPath="/data/logs/" desPath="logs/data" keyword="alog" DateTime="true" command="null">alog</type1>
+<type1	type="1" srcPath="/data/logs/" desPath="logs/data" keyword="alog_radio"	DateTime="true"	command="null">alog_radio</type1>
+<type1	type="1" srcPath="/data/logs/" desPath="logs/data" keyword="alog_system" DateTime="true" command="null">alog_system</type1>
+<type1	type="1" srcPath="/data/logs/" desPath="logs/data" keyword="alog_event"	DateTime="true"	command="null">alog_event</type1>
+
+<type1  type="1" srcPath="/data/media/0/logs/" desPath="logs/sdcard0" keyword="alog" DateTime="true" command="null">alog</type1>
+<type1  type="1" srcPath="/data/media/0/logs/" desPath="logs/sdcard0" keyword="alog_radio"      DateTime="true" command="null">alog_radio</type1>
+<type1  type="1" srcPath="/data/media/0/logs/" desPath="logs/sdcard0" keyword="alog_system" DateTime="true" command="null">alog_system</type1>
+<type1  type="1" srcPath="/data/media/0/logs/" desPath="logs/sdcard0" keyword="alog_event"      DateTime="true" command="null">alog_event</type1>
+
+<type1  type="1" srcPath="/hdd/media/0/logs/" desPath="logs/sdcard0" keyword="alog" DateTime="true" command="null">alog</type1>
+<type1  type="1" srcPath="/hdd/media/0/logs/" desPath="logs/sdcard0" keyword="alog_radio"      DateTime="true" command="null">alog_radio</type1>
+<type1  type="1" srcPath="/hdd/media/0/logs/" desPath="logs/sdcard0" keyword="alog_system" DateTime="true" command="null">alog_system</type1>
+<type1  type="1" srcPath="/hdd/media/0/logs/" desPath="logs/sdcard0" keyword="alog_event"      DateTime="true" command="null">alog_event</type1>
+
+
+<!--
+<type1  type="1" srcPath="/storage/sdcard1/logs/" desPath="logs/sdcard1" keyword="alog" DateTime="true" command="null">alog</type1>
+<type1  type="1" srcPath="/storage/sdcard1/logs/" desPath="logs/sdcard1" keyword="alog_radio"      DateTime="true" command="null">alog_radio</type1>
+<type1  type="1" srcPath="/storage/sdcard1/logs/" desPath="logs/sdcard1" keyword="alog_system" DateTime="true" command="null">alog_system</type1>
+<type1  type="1" srcPath="/storage/sdcard1/logs/" desPath="logs/sdcard1" keyword="alog_event"      DateTime="true" command="null">alog_event</type1>
+-->
+
+<type1	type="1" srcPath="/data/tombstones/" desPath="tombstone" keyword="tombstone" DateTime="true" command="null">tombstone</type1>
+<type1	type="1" srcPath="/data/system/dropbox/" desPath="dropbox" keyword="*" DateTime="false" command="null">dropbox</type1>
+<type2	type="2" srcPath="/data/" desPath="MKY_LOG" keyword="MKY_LOG" DateTime="false" command="null">MKY_LOG</type2>
+<!--<type2	type="2" srcPath="/data/ramdump/" desPath="ramdump" keyword="*" DateTime="false" command="null">ramdump</type2>-->
+<!-- <type3	type="3" srcPath="null" desPath="dumpsys" keyword="dumpsys" DateTime="false" command="dumpsys">dumpsys</type3> -->
+</root>

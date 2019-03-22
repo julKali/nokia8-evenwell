@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: PowerMonitor.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- res/drawable-xhdpi-v4/tab_focus.9.png
+- res/drawable-xhdpi-v4/tab_press.9.png
+- res/drawable-xhdpi-v4/tab_selected.9.png
+- res/drawable-xhdpi-v4/tab_unselected.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '28'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '9001023'
+  versionName: 9.0010.23

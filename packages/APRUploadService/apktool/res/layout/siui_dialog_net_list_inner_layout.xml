@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton android:id="@id/radio1" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/siui_net_dialog_margin" android:layout_marginTop="@dimen/siui_net_dialog_margin" android:layout_marginBottom="@dimen/siui_net_dialog_margin" />
+    <TextView android:textSize="@dimen/privacy_context_text_size" android:textColor="@color/siui_text_color" android:gravity="center|left" android:id="@id/textNetworkOption" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/siui_net_dialog_margin" android:layout_alignParentLeft="true" />
+</LinearLayout>

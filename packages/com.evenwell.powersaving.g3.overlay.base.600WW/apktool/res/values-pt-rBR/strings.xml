@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">economia de energia</string>
+    <string name="fih_power_saving_notice_dialog_title">Notificação</string>
+    <string name="fih_power_saving_remember_choice">Não mostrar novamente.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Cancelar</string>
+    <string name="fih_power_saving_screen_title">tela</string>
+    <string name="fih_power_saving_screen_summary">Diminua o brilho para preservar a carga da bateria</string>
+    <string name="fih_power_saving_apply_notify">economia de energia ativada</string>
+    <string name="fih_power_saving_apply_ticker_msg">economia de energia ativada. Nenhum item ativado</string>
+    <string name="fih_power_saving_data_title">Coxexão de dados</string>
+    <string name="fih_power_saving_data_summary_wifi">Desligar os dados móveis e Wi-Fi quando a tela está desligada</string>
+    <string name="fih_power_saving_data_summary_wlan">Desligar os dados móveis e WLAN quando a tela está desligada</string>
+    <string name="fih_power_saving_data_cate_allow">Permitir a ligação de dados quando a tela está desligada</string>
+    <string name="fih_power_saving_data_allow_null">A lista atual está vazia. Adicione aplicativos da lista abaixo.</string>
+    <string name="fih_power_saving_data_cate_applist">Lista de aplicativos</string>
+    <string name="fih_power_saving_data_turn_on_dialog_msg">Ao ativar o mecanismo, os aplicativos poderão não receber informações em tempo real a partir da Internet enquanto a tela está desligada,</string>
+    <string name="fih_power_saving_lpm_schedule_title">Ativar o modo de bateria baixa</string>
+    <string name="fih_power_saving_lpm_schedule_summary">Quando o nível da bateria for inferior a %d%%</string>
+    <string name="fih_power_saving_lpm_item_title">Definições do modo de bateria baixa</string>
+    <string name="fih_power_saving_lpm_timeout">Ajustar o tempo limite da tela</string>
+    <string name="fih_power_saving_lpm_timeout_dialog_title">Tempo limite da tela</string>
+    <string name="fih_power_saving_pw_allow_null">A lista atual está vazia. Adicione aplicativos da lista abaixo.</string>
+    <string name="fih_power_saving_pw_turn_on_dialog_msg">Ao ativar o mecanismo, os aplicativos com alarme ou as funções de notificação poderão não ativar o dispositivo a tempo. Recomendamos que adicione esses aplicativos à lista branca de ativações periódicas a partir da respectiva página de configurações.</string>
+    <string name="switch_on_text">Ligado</string>
+    <string name="switch_off_text">Desligado</string>
+    <string name="fih_power_saving_permission_msg">Para funcionar corretamente, este aplicativo requer permissões adicionais. Faça a gestão da permissão de %snas configurações.</string>
+    <string name="fih_power_saving_permission_settings">Configurações</string>
+    <string name="fih_power_saving_permission_cancel">Cancelar</string>
+    <string name="blacklist">Lista Preta</string>
+    <string name="fih_power_saving_pw_and_data_notice_when_ap_install_dialog_msg">O mecanismo de ativação periódica está ativado. Se o aplicativo instalado possuir funções de notificação ou alarme, recomendamos que adicione o aplicativo à lista branca de ativações periódicas a partir da respetiva página de configurações.</string>
+    <string name="rateApp">Avaliar o aplicativo</string>
+    <string name="lock_screen_ap_protect_title">Gerenciador de atividade de segundo plano</string>
+    <string name="all_aps">Adicionar todos os apps à lista de permissões</string>
+    <string name="fih_power_saving_doze_high_consumption">Alto consumo de energia</string>
+    <string name="fih_power_saving_background_activity_text">Permite que o gerenciador de atividade de segundo plano estenda a vida útil da bateria, mas as notificações de alguns apps ou e-mails podem não estar disponíveis para recuperação imediata. Você pode gerenciar a vida útil da bateria adicionando ou removendo os apps da lista de permissões.</string>
+    <string name="fih_power_saving_background_cleaner">Limpador de atividade em segundo plano</string>
+    <string name="fih_power_saving_background_cleaner_summary">As notificações não podem ser recuperadas instantaneamente</string>
+    <string name="app_block_list">Lista de aplicativos restritos</string>
+</resources>

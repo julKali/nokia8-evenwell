@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Tampilan</string>
+    <string name="pref_dialog_title_time_out">Waktu habis</string>
+    <string name="pref_title_alarm_information">Informasi alarm</string>
+    <string name="pref_title_calendar_reminder">Pengingat kalender</string>
+    <string name="pref_title_missed_calls">Indikator panggilan tidak terjawab</string>
+    <string name="pref_title_time_out">Waktu habis saat ponsel tidak bergerak</string>
+    <string name="pref_title_unread_mails">Indikator email belum dibaca</string>
+    <string name="pref_title_unread_messages">Indikator pesan belum dibaca</string>
+    <string name="switch_off_text">Tidak Aktif</string>
+    <string name="switch_on_text">Aktif</string>
+</resources>

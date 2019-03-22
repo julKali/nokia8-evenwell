@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_text">Accessibility</string>
+    <string name="backup_and_restore_description">"If you previously backed up your account, you can restore it to this phone now.
+
+You can change your backup settings at any time in Settings."</string>
+    <string name="backup_and_restore_title">Backup and restore</string>
+    <string name="date_and_time">Date &amp; time settings</string>
+    <string name="date_and_time_settings_title">Date &amp; Time</string>
+    <string name="date_time_24hour">Use 24-hour format</string>
+    <string name="date_time_auto">Automatic date &amp; time</string>
+    <string name="date_time_auto_summaryOff">Use network-provided time</string>
+    <string name="date_time_auto_summaryOn">Use network-provided time</string>
+    <string name="date_time_set_date">Set date</string>
+    <string name="date_time_set_time">Set time</string>
+    <string name="date_time_set_timezone">Select time zone</string>
+    <string name="device_checking_message">Welcome</string>
+    <string name="emergency_dial_hmd_message">Emergency</string>
+    <string name="emergency_dial_message">Emergency call</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="hmd_user_experience_program_message">Your participation in the user experience program helps HMD Global to better understand what you like about your Nokia device, and what you think needs to be improved. From time to time, we may receive anonymous data with technical characteristics about your device, such as a file containing data about a software crash that may have happened. Please note that such data will not be transmitted over a mobile data connection. We love hearing what you think about your Nokia device!</string>
+    <string name="hmd_user_experience_program_title">User experience program</string>
+    <string name="idle_too_long_toast">This phone has been idle for some time. Shut down now to save battery power.</string>
+    <string name="insert_sim_cards">Insert SIM cards</string>
+    <string name="insert_sim_cards_prompt_content">"Not sure how? Check the instructions that came with your phone.
+
+Once you insert your SIM cards, they may take a few seconds to activate."</string>
+    <string name="language_selection_cancel_btn">CANCEL</string>
+    <string name="language_selection_title">Choose your language</string>
+    <string name="light_room_title">Passionate about photography?</string>
+    <string name="not_now">NOT NOW…</string>
+    <string name="search_menu_title">Search</string>
+    <string name="setup_complete_hmd">You are ready to go...</string>
+    <string name="setup_complete_hmd_1">You are nearly ready to go...!</string>
+    <string name="setup_complete_main">You are</string>
+    <string name="setup_complete_sub">READY TO GO.</string>
+    <string name="setup_completed_congratulations">Congratulations!</string>
+    <string name="setup_finish">LET</string>
+    <string name="sim_not_exist_toast">Please check that you have inserted a SIM card.</string>
+    <string name="skip_add_account_button_label">Not now</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="upload_agent_hmd_des_text_2">"Join the Nokia User Experience program. &lt;a href='launch.UserExperienceActivity://Kode'>Learn more.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"By tapping LET'S GO!, you agree to join the User Experience Program. &lt;a href='launch.UserExperienceActivity://Kode'>Learn more&lt;/a>. Remember, you can always join later via Settings."</string>
+    <string name="upload_agent_title">User Experience Program</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="welcome_hmd_term_of_use_5">"By tapping the button, you agree to the &lt;a href='launch.TermOfServiceActivity://Kode'>Terms of Service&lt;/a>. The device activation information with one-time device location will be sent to HMD Global. Mobile data charges may apply. Data will be used according to the &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>."</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="welcome_start_button_label">START</string>
+    <string name="welcome_vision_settings_button_label">Accessibility</string>
+    <string name="zone_auto">Automatic time zone</string>
+    <string name="zone_auto_summaryOff">Use network-provided time zone</string>
+    <string name="zone_auto_summaryOn">Use network-provided time zone</string>
+</resources>

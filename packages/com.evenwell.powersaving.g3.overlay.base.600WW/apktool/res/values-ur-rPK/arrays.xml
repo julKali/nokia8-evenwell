@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 سیکنڈ</item>
+        <item>30 سیکنڈ</item>
+        <item>1 منٹ</item>
+        <item>2 منٹ</item>
+        <item>سسٹم واضح استعمال</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>خود کار چمک</item>
+        <item>Use system defined</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 منٹ</item>
+        <item>5 منٹ</item>
+        <item>10 منٹ</item>
+        <item>15 منٹ</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>کارکردگی</item>
+        <item>Stability</item>
+        <item>User Interface</item>
+        <item>Power Saving Effect</item>
+        <item>Other Problems</item>
+        <item>Suggestions</item>
+    </string-array>
+</resources>

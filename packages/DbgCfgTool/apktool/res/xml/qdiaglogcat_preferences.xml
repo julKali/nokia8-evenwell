@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="@string/qdiaglogcat_settings" android:key="diag_settings" android:defaultValue="false" />
+    <ListPreference android:title="@string/str_diag_select_filter" android:key="@string/str_diag_filter_key" android:summary="@string/str_diag_filter_summary" android:widgetLayout="@layout/arrow_down" android:dialogTitle="@string/str_diag_dialog_title" />
+    <CheckBoxPreference android:title="@string/checkbox_qdiaglogcat" android:key="diag_logcat" android:defaultValue="false" />
+    <CheckBoxPreference android:title="@string/checkbox_qdiaglogcat_bootrun" android:key="diag_logcat_boot_run" android:defaultValue="false" />
+    <PreferenceCategory android:title="@string/diag_log_copy" android:key="pref_key_copy_logs">
+        <Preference android:title="@string/diag_log_copy" android:key="diag_copy_logs" />
+        <CheckBoxPreference android:title="@string/diag_delete_after_copy" android:key="diag_delete_after_copy" />
+    </PreferenceCategory>
+</PreferenceScreen>

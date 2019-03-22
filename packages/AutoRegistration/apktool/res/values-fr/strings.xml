@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">supprimer</string>
+    <string name="abc_menu_enter_shortcut_label">entrée</string>
+    <string name="abc_menu_function_shortcut_label">Fonction+</string>
+    <string name="abc_menu_meta_shortcut_label">Méta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">espace</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="cmcc_body">"Conseils concernant China Mobile : Afin de vous offrir le service étendu permanent gratuit, celui-ci a été créé par Chinese Mobile pour assurer la gestion du terminal mobile. Réglage à distance des paramètres du terminal facilement disponible et services de mise à niveau de version logicielle pour vous), vous devez enregistrer votre appareil sur la plate-forme de gestion de terminal Chinese Mobile. L'inscription sera envoyée par SMS incluant des informations sur l'appareil ; Le SMS est gratuit, et envoyé seulement une fois (à l'exception de Hong Kong, Macao, Taiwan et les zones d'itinérance internationale). Si vous choisissez Oui, vous vous engagez alors à vous inscrire et à utiliser le service étendu ; Si vous choisissez Non, alors vous n'êtes pas d'accord pour vous inscrire, China Mobile ne vous fournira pas le service."</string>
+    <string name="cmcc_cancel_body">Conseils concernant China Mobile : Après avoir annulé, China Mobile ne vous fournira plus le service étendu permanent et gratuit, êtes-vous sûr de vouloir annuler le service ?</string>
+    <string name="cmcc_notification_text">"Le service étendu demande l'autorisation d'envoi de message"</string>
+    <string name="cmcc_notify_title">Service étendu</string>
+    <string name="cmcc_title">Service étendu</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="send_sms_accept">Oui</string>
+    <string name="send_sms_body">Pour vous offrir une meilleure expérience utilisateur et les services associés, nous allons enregistrer les informations de base de votre téléphone, tels que IMEI / MEID, par SMS ; vos informations personnelles telles que votre numéro de téléphone et autres renseignements personnels ne seront pas incluses. Vous serez facturé des frais de SMS une seule fois pour cette inscription.</string>
+    <string name="send_sms_decline">Non</string>
+    <string name="send_sms_title">"Services d'enregistrement"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

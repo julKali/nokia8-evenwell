@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Perkhidmatan Cuaca</string>
+    <string name="fih_weather_permission_hint_1">Untuk berfungsi dengan betul, aplikasi ini memerlukan kebenaran tambahan. Sila berikan kebenaran apabila diminta.</string>
+    <string name="fih_weather_permission_hint_2">Untuk berfungsi dengan betul, aplikasi ini memerlukan kebenaran tambahan. Sila uruskan kebenaran WeatherService dalam Tetapan.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Tutup</string>
+    <string name="fih_weather_button_setting">Tetapan</string>
+    <string name="fih_weather_permission_success">Berjaya beri kebenaran lokasi</string>
+    <string name="fih_weather_permission_failed">Beri kebenaran lokasi dinafikan, tidak boleh mendapatkan lokasi.</string>
+    <string name="fih_weather_notification_title">Khdmt Cuaca memerlukan kebenaran</string>
+    <string name="fih_weather_notification_text">Ketik untuk benarkan</string>
+    <string name="fih_weather_notification_channel_title">Pemberitahuan umum</string>
+</resources>

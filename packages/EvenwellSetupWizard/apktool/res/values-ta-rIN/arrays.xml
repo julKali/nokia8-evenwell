@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>நிலையானது</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>தானாகவே கண்டறி</item>
+        <item>கட்டணமுள்ளதாகக் கையாளவும்</item>
+        <item>கட்டணமற்றதாகக் கையாளவும்</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>ஏதுமில்லை</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ஏதுமில்லை</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>ஏதுமில்லை</item>
+        <item>கைமுறை</item>
+        <item>ப்ராக்ஸி தானியங்கு-உள்ளமைவு</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>மோசம்</item>
+        <item>சுமார்</item>
+        <item>நன்று</item>
+        <item>பிரமாதம்</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>ஸ்கேன் செய்கிறது…</item>
+        <item>இணைக்கிறது…</item>
+        <item>அங்கீகரிக்கிறது…</item>
+        <item>IP முகவரியைப் பெறுகிறது…</item>
+        <item>இணைக்கப்பட்டது</item>
+        <item>இடைநீக்கப்பட்டது</item>
+        <item>துண்டிக்கிறது…</item>
+        <item>துண்டிக்கப்பட்டது</item>
+        <item>தோல்வி</item>
+        <item>தடுக்கப்பட்டது</item>
+        <item>மெதுவான இணைப்பைத் தற்காலிகமாகத் தவிர்க்கிறது</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>ஸ்கேன் செய்கிறது…</item>
+        <item>%1$s உடன் இணைக்கிறது…</item>
+        <item>%1$s மூலம் அங்கீகரிக்கிறது…</item>
+        <item>%1$s இலிருந்து IP முகவரியைப் பெறுகிறது…</item>
+        <item>%1$s உடன் இணைக்கப்பட்டது</item>
+        <item>இடைநீக்கப்பட்டது</item>
+        <item>%1$sஇலிருந்து துண்டிக்கிறது…</item>
+        <item>துண்டிக்கப்பட்டது</item>
+        <item>தோல்வி</item>
+        <item>தடுக்கப்பட்டது</item>
+        <item>மெதுவான இணைப்பைத் தற்காலிகமாகத் தவிர்க்கிறது</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI ஹெக்சாடெசிமல்</item>
+    </string-array>
+</resources>

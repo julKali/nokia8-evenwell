@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh Editor</string>
+    <string name="cancel">Cancel</string>
+    <string name="data_process_fail">Data processing failed</string>
+    <string name="delete">Delete</string>
+    <string name="image_not_null">Image path cannot be null</string>
+    <string name="no_bokeh_type">No boken type</string>
+    <string name="no_mpo_file">No mpo file</string>
+    <string name="permission_dialog_allow_permission">To work properly, this app requires additional permission. Please allow permission when asked.</string>
+    <string name="permission_dialog_cancel">Cancel</string>
+    <string name="permission_dialog_manage_permission">To work properly, this app requires additional permissions. Please manage %1$s’s permission in Setting.</string>
+    <string name="permission_dialog_settings">Settings</string>
+    <string name="processing">Processing</string>
+    <string name="provider_authority">com.evenwell.bokeheditor.providers.DepthTypeDBProvider</string>
+    <string name="refocus_type_description">This photo is taken in Bokeh mode with depth map to refocus.</string>
+    <string name="refocus_type_name">Bokeh</string>
+    <string name="save">Save</string>
+    <string name="save_success">Saved successfully</string>
+    <string name="saving_photos">Saving Refocus Image</string>
+    <string name="share">Share</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_watermarks">Watermarks</string>
+    <string name="watermark_empty">No watermark</string>
+    <item type="string" name="APKTOOL_DUMMY_4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c">false</item>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">MÉGSE</string>
+    <string name="copying">Másolás…</string>
+    <string name="demo_mode_notifications">Demó móddal kapcsolatos értesítések</string>
+    <string name="disable_demo_mode">Demó mód letiltása</string>
+    <string name="download_complete_msg">"A letöltés befejeződött.
+
+A Demó mód elindításához koppintson az OK gombra."</string>
+    <string name="download_fail_msg">"Nem sikerült letölteni a demóanyagot az internetről.
+
+A OK gombra való koppintással elindítja a Demó módot?"</string>
+    <string name="downloading">Letöltés…</string>
+    <string name="enable_demo_mode">Demó mód engedélyezése?</string>
+    <string name="enable_demo_mode_setup">Demó mód engedélyezése</string>
+    <string name="no_new_demo_found_msg">"Nincs új demóanyag.
+
+A OK gombra való koppintással elindítja a Demó módot?"</string>
+    <string name="ok">OK</string>
+    <string name="reset_device">Visszaállítja az eszközt?</string>
+    <string name="system_busy_msg">A rendszer foglalt. Próbálja újra később.</string>
+    <string name="update_demo_video">Demó videó feltöltése</string>
+</resources>

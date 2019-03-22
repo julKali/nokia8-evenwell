@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Pribatutasun-adierazpena</string>
+    <string name="privacy_activity">Pribatutasun-adierazpena</string>
+    <string name="go_label">Eginda</string>
+    <string name="agree">Onartu</string>
+    <string name="see_detail">Xehetasuna</string>
+    <string name="next_btn_lebel">Hurrengoa</string>
+    <string name="app_name">Sistema-diagnostikoak</string>
+    <string name="setting_page_name">Erabiltzaileen Esperientziaren Programa</string>
+    <string name="send_diag_dialog_any_network">Datu-konexioa erabilgarri dagoenean</string>
+    <string name="send_diag_dialog_wifi">WiFi konexioa erabilgarri dagoenean</string>
+    <string name="send_diag_dialog_wlan">WLAN konexioa erabilgarri dagoenean</string>
+    <string name="send_diag_dialog_title">Bidali diagnostikoa</string>
+    <string name="diagnostics_setting">Diagnostikoa</string>
+    <string name="diagnostics_report">Diagnostiko-txostena</string>
+    <string name="diagnostics_report_summary">Bidali diagnostiko-txostena gailua software-errore bat izaten ari denean. Sare-konexioaren kostuak aplika daitezke. Zerbitzu-hornitzaileari datu-sarearen paketea erostea gomendatzen da.</string>
+    <string name="network_options">Sare-aukerak</string>
+    <string name="send_diagnostics">Bidali diagnostikoa</string>
+    <string name="cancel_upload_confirm_msg">Gure Erabiltzaileen Esperientziaren Programatik irtetera zoaz. Zure telefonoan gertatutako software-erroreak ez dira gordeko edo bidaliko, eta, beraz, ezingo dugu hobetu telefono hau erabiltzean duzun esperientzia.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Dịch vụ thời tiết</string>
+    <string name="fih_weather_permission_hint_1">Để h.động thích hợp, ứng dụng này cần g.phép bổ sung. Hãy cấp phép khi được yêu cầu.</string>
+    <string name="fih_weather_permission_hint_2">Để h.động thích hợp, ứng dụng này cần các g.phép bổ sung. Hãy quản lý giấy phép của Dịch Vụ Thời Tiết trong Cài đặt.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Đóng</string>
+    <string name="fih_weather_button_setting">Cài đặt</string>
+    <string name="fih_weather_permission_success">Cấp g.phép địa điểm thành công</string>
+    <string name="fih_weather_permission_failed">Cấp g.phép địa điểm bị từ chối, ko thể có được địa điểm.</string>
+    <string name="fih_weather_notification_title">Dịch Vụ Thời Tiết cần các giấy phép</string>
+    <string name="fih_weather_notification_text">Chạm để cho phép</string>
+    <string name="fih_weather_notification_channel_title">Thông báo chung</string>
+</resources>

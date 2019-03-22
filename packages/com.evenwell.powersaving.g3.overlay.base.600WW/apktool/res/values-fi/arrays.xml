@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>1,5 sekuntia</item>
+        <item>30 sekuntia</item>
+        <item>1 minuutti</item>
+        <item>2 minuuttia</item>
+        <item>Käytä järjestelmän määrittämää</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>Automaattinen kirkkaus</item>
+        <item>Use system defined</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 minuuttia</item>
+        <item>5 minuuttia</item>
+        <item>10 minuuttia</item>
+        <item>15 minuuttia</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>Tehokkuus</item>
+        <item>Stability</item>
+        <item>User Interface</item>
+        <item>Power Saving Effect</item>
+        <item>Other Problems</item>
+        <item>Suggestions</item>
+    </string-array>
+</resources>

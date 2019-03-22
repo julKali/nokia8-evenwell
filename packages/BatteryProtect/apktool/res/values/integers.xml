@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="bt_warning_mode_threshold">-128</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="config_alarm_mode_threshold_55">55</integer>
+    <integer name="config_alarm_mode_threshold_60">60</integer>
+    <integer name="config_battery_change_intent_min_interval">5000</integer>
+    <integer name="config_battery_level_alert_showtime">3000</integer>
+    <integer name="config_bt_service_detect_time">180000</integer>
+    <integer name="config_cooldown_mode_threshold_68">68</integer>
+    <integer name="config_enable_service_detect">0</integer>
+    <integer name="config_lowtemp_mode_threshold_0">0</integer>
+    <integer name="config_maxtemp_mode_threshold_70">70</integer>
+    <integer name="config_shutdown_delaytime">8000</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

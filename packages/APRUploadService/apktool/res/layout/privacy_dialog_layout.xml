@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/line_view0" android:background="@color/fih_lollipop_control_foreground_gray" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:id="@id/privacy_context_text" android:paddingLeft="10.0dip" android:paddingTop="10.0dip" android:paddingRight="10.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/privacy_context" android:singleLine="false" />
+    </ScrollView>
+    <View android:id="@id/line_view" android:background="@color/fih_lollipop_control_foreground_gray" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <RelativeLayout android:id="@id/buttonArea" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/buttonBarStyle">
+        <Button android:textColor="@color/fih_lollipop_Group6_default_accent" android:id="@id/go_button" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/go_label" android:layout_weight="1.0" android:layout_alignParentRight="true" style="?android:attr/buttonBarButtonStyle" />
+    </RelativeLayout>
+</LinearLayout>

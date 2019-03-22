@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Værtjeneste</string>
+    <string name="fih_weather_permission_hint_1">Denne appen krever ekstra tillatelse for å fungere riktig. Gi tillatelse ved forespørsel.</string>
+    <string name="fih_weather_permission_hint_2">Denne appen krever flere tillatelser for å fungere riktig. Du kan endre værtjenestetillatelse i Innstillinger</string>
+    <string name="fih_weather_button_ok">SMS-servicesenter er satt</string>
+    <string name="fih_weather_button_close">Lukk</string>
+    <string name="fih_weather_button_setting">Stiller inn ...</string>
+    <string name="fih_weather_permission_success">Tildeling av stedstillat. utført</string>
+    <string name="fih_weather_permission_failed">Tildele stedstillatelse avvist, kan ikke hente sted.</string>
+    <string name="fih_weather_notification_title">Værtjeneste krever tillatelser</string>
+    <string name="fih_weather_notification_text">Trykk f till</string>
+    <string name="fih_weather_notification_channel_title">Generelle varsler</string>
+</resources>

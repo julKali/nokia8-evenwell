@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Tekrar gösterme.</string>
+    <string name="fih_power_saving_dialog_ok">Tamam</string>
+    <string name="fih_power_saving_dialog_cancel">İptal</string>
+    <string name="switch_on_text">Açık</string>
+    <string name="switch_off_text">Kapalı</string>
+    <string name="fih_power_saving_permission_cancel">İptal</string>
+    <string name="lock_screen_ap_protect_title">Arka plan etkinlik yöneticisi</string>
+    <string name="all_aps">Tüm Uygulamaları onaylananlar listesine ekle</string>
+    <string name="fih_power_saving_doze_high_consumption">Yüksek güç tüketimi</string>
+    <string name="fih_power_saving_background_activity_text">Pil ömrünü uzatmak için Arka plan etkinlik yöneticisini etkinleştirin, ama bazı Uygulama ve E-posta bildirimleri hemen alınamayabilir. Pil ömrünü, Uygulamaları onaylananlar listesine ekleyerek ya da listeden çıkararak yönetebilirsiniz.</string>
+    <string name="fih_power_saving_background_cleaner">Arka plan etkinlik temizleyicisi</string>
+    <string name="fih_power_saving_background_cleaner_summary">Bildirimler hemen alınamayabilir</string>
+    <string name="app_block_list">Kısıtlanmış Uygulama Listesi</string>
+</resources>

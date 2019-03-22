@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"వినియోగదారు కార్య.లో చేరండి. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>మరింత తెలుసుకో&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"బటన్‌ని నొక్కడం ద్వారా, మీరు &lt;a href='launch.TermOfServiceActivity://Kode'>సేవా నిబంధనలు&lt;/a> మరియు &lt;a href='launch.AddUploadAgentHandler://Kode'>గోప్యతా విధానానికి&lt;/a> అంగీకరిస్తున్నారు. ఒక-పర్యాయం పరికర స్థానాన్ని కలిగిన పరికర యాక్టివేషన్ సమాచారం HMD Globalకి పంపబడుతుంది.&lt;br/>&lt;br/>స్వీయ సాఫ్ట్‌వేర్ నవీకరణ నోటిఫికేషన్ ప్రారంభించబడుతుంది, ఇది మీ కోసం తాజా నవీకరణలను ఇన్‌స్టాల్ చేస్తుంది. ఇది మీ డేటాలో కొంత ఉపయోగించవచ్చు. సేవలు వాటికి అవసరమైనప్పుడు ఇంటర్నెట్‌ని ఉపయోగిస్తాయి.&lt;br/>&lt;br/>ఈ సేవలు సెల్యులార్ నెట్‌వర్క్‌లను ఉపయోగించడం వల్ల మీరు ఛార్జీలు చెల్లించాల్సి రావచ్చు."</string>
+    <string name="welcome_hmd_term_of_use_5">"బటన్‌ని నొక్కడం ద్వారా, మీరు &lt;a href='launch.TermOfServiceActivity://Kode'>సేవా నిబంధనల&lt;/a>కు అంగీకరిస్తున్నారు. HMD &lt;a href='launch.AddUploadAgentHandler://Kode'>డేటా విధానం&lt;/a>కి అనుగుణంగా మీ డేటా ప్రాసెస్ చేయబడుతుంది. ఏక పర్యాయ పరికర స్థానంతో పరికర క్రియాశీలత సమాచారం HMD Globalకి పంపబడుతుంది. మొబైల్ డేటా ఛార్జీలు చెల్లించాల్సి రావచ్చు."</string>
+    <string name="welcome_vision_settings_button_label">దృశ్యమాన సెట్టింగ్‌లు</string>
+    <string name="next_btn_lebel">తదుపరి</string>
+    <string name="back_btn_lebel">వెనుకకు</string>
+    <string name="finish_button_label">పూర్తయింది</string>
+    <string name="sim_not_exist_toast">మీరు SIM కార్డ్‌ని చొప్పించారో లేదో తనిఖీ చేయండి.</string>
+    <string name="idle_too_long_toast">ఈ ఫోన్ కొంత సమయం పాటు నిష్క్రియంగా ఉంది. శక్తిని ఆదా చేయడం కోసం షట్‌డౌన్ చేయండి.</string>
+    <string name="welcome_message">స్వాగతం</string>
+    <string name="welcome_infocus_term_of_use">"బాణాన్ని నొక్కితే, &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>ఉపయోగ నిబంధనల&lt;/a>కు అంగీకరించినట్లు"</string>
+    <string name="welcome_hmd_term_of_use_2">"మీరు బాణాన్ని నొక్కడం ద్వారా &lt;a href='launch.TermOfServiceActivity://Kode'>సేవా నిబంధనలు&lt;/a> మరియు &lt;a href='launch.AddUploadAgentHandler://Kode'>గోప్యతా విధానాన్ని&lt;/a> అంగీకరిస్తున్నారు. ఏక పర్యాయ పరికర స్థానంతో పరికర క్రియాశీలత సమాచారం HMD Globalకి పంపబడుతుంది. డేటా ఛార్జీలు వర్తించవచ్చు."</string>
+    <string name="welcome_start_button_label">ప్రారంభించు</string>
+    <string name="emergency_dial_message">అత్యవసర కాల్</string>
+    <string name="emergency_dial_hmd_message">అత్యవసరం</string>
+    <string name="accessibility_text">అందుబాటు</string>
+    <string name="language_selection_title">మీ భాషను ఎంచుకోండి</string>
+    <string name="language_selection_cancel_btn">ని రద్దు</string>
+    <string name="welcome_lets_go_button_label">కొనసాగించండి</string>
+    <string name="terms_title">డేటా వినియోగం</string>
+    <string name="terms_of_service_description">"
+మీరు వాతావరణ సేవలు, ఇంటర్నెట్ సేవలు, ఇమెయిల్, బ్రౌజర్, మొ. నెట్‌వర్క్ అనుసంధానం అవసరమైన సేవలను ఉపయోగించినట్లయితే అదనపు డేటా వినియోగ ఛార్జీలు చెల్లించాల్సి ఉండవచ్చు. మీ మొబైల్ డేటా ఛార్జీలను మరింత పొదుపుగా వాడుకోవాలంటే, మీ క్యారియర్ నుండి మీకు సముచితంగా ఉండే మొబైల్ సేవా ప్యాకేజీని పొందాలని మేము సూచిస్తున్నాము.
+
+అంగీకరించుని ఎంచుకున్నట్లయితే, అవసరమైనప్పుడు నెట్‌వర్క్‌కు అనుసంధానం కావడానికి ఈ సేవలు అనుమతించబడాయి.
+
+అదనంగా, సాఫ్ట్‌వేర్ స్వీయ నవీకరణ డిఫాల్ట్‌గా ప్రారంభించబడుతుంది. మీకు తాజా సాఫ్ట్‌వేర్ అనుభవాన్ని అందించడం కోసం ఇది కొంత మొబైల్ డేటాని ఉపయోగించవచ్చు. మీరు ఏ సమయంలో అయినా సెట్టింగ్‌లలో ఎంపికను మార్చవచ్చు.
+
+"</string>
+    <string name="term_agree_text">అంగీకరిస్తున్నాను</string>
+    <string name="term_disagree_text">తిరస్కరిస్తున్నాను</string>
+    <string name="datausage_dialog_positive_btn">సరే</string>
+    <string name="datausage_dialog_negitive_btn">రద్దు చేయి</string>
+    <string name="traffic_prompt_content">మీరు నిరాకరించును ఎంచుకున్నట్లయితే, మీరు సాఫ్ట్‌వేర్ నవీకరణ, వాతావరణ సూచన లేదా ఇతర సమాచారాన్ని మానవీయంగా పొందాల్సి ఉంటుంది.</string>
+    <string name="google_account_intro_description">Google సేవలన్నింటినీ ఆస్వాదించడం కోసం Google ఖాతాని సెటప్ చేయండి.</string>
+    <string name="google_account_intro_title">Google ఖాతా</string>
+    <string name="google_account_add_account">Googleతో సైన్ ఇన్ చేయి</string>
+    <string name="location_title">Google స్థానాన్ని ఉపయోగించు</string>
+    <string name="location_info_1">Google యొక్క స్థాన సేవలు GPSని ఉపయోగించి మీ రమారమి స్థానం ఆధారంగా అనువర్తనాలను అందిస్తాయి.</string>
+    <string name="location_info_2">మీరు సెట్టింగ్‌లలో స్థాన సేవలకు వెళ్లి ఈ ఫీచర్‌లను నిలిపివేయవచ్చు.</string>
+    <string name="location_network">అనామక స్థాన డేటాని సేకరించడానికి Google యొక్క స్థానక సేవను అనుమతించండి. ఏ అనువర్తనాలు అమలు కాని సమయంలో కూడా సేకరణ కొనసాగుతుంది.</string>
+    <string name="location_for_service">Google శోధన ఫలితాలు మరియు ఇతర Google సేవల కోసం నా స్థానాన్ని ఉపయోగించు.</string>
+    <string name="date_and_time">తేదీ &amp; సమయం సెట్టింగ్‌లు</string>
+    <string name="date_time_auto">స్వయంచాలక తేదీ &amp; సమయం</string>
+    <string name="date_time_auto_summaryOn">నెట్వర్క్అందించిన విలువలను ఉపయోగించండి</string>
+    <string name="date_time_auto_summaryOff">నెట్వర్క్అందించిన విలువలను ఉపయోగించండి</string>
+    <string name="zone_auto">స్వయంచాలక సమయ మండలి</string>
+    <string name="zone_auto_summaryOn">నెట్‌వర్క్ అందించిన సమయ మండలిని ఉపయోగించు</string>
+    <string name="zone_auto_summaryOff">నెట్‌వర్క్ అందించిన సమయ మండలిని ఉపయోగించు</string>
+    <string name="date_time_set_date">తేదీని సెట్ చేయి</string>
+    <string name="date_time_set_time">సమయాన్ని అమర్చు</string>
+    <string name="date_time_set_timezone">సమయ మండలిని ఎంచుకోండి</string>
+    <string name="date_time_24hour">24-గంటల ఆకృతిని ఉపయోగించు</string>
+    <string name="date_time_date_format">తేదీ ఆకృతిని ఎంచుకోండి</string>
+    <string name="choose_timezone">సమయ మండలిని ఎంచుకోండి</string>
+    <string name="normal_date_format">ప్రాంతీయం (%s)</string>
+    <string name="date_and_time_settings_title">తేదీ &amp; సమయం</string>
+    <string name="date_and_time_settings_title_setup_wizard">తేదీ మరియు సమయాన్ని సెట్ చేయండి</string>
+    <string name="date_and_time_settings_summary">తేదీ, సమయం, సమయ మండలి &amp; ఆకృతులను సెట్ చేయి</string>
+    <string name="date_picker_title">డేట్</string>
+    <string name="time_picker_title">సమయం:</string>
+    <string name="account_intro_title">[BRAND_NAME] సేవల ఖాతా</string>
+    <string name="account_intro_description">మీ పరికరాన్ని స్మార్ట్‌గా ఉపయోగించాలంటే [BRAND_NAME] సేవల్లో చేరండి.</string>
+    <string name="add_infocus_service_account">[BRAND_NAME] సేవల ఖాతాని జోడించండి</string>
+    <string name="dropbox_fih_signup">Dropboxకు సైన్ అప్ చేయండి</string>
+    <string name="dropbox_fih_signin">Dropboxకు సైన్ ఇన్ చేయండి</string>
+    <string name="dropbox_fih_description">మీ ఫోటోలు మరియు వీడియోలను స్వయంచాలకంగా సేవ్ చేయడం కోసం ఉచితంగా 2 GB Dropbox నిల్వను పొందండి.</string>
+    <string name="nevigation_selection_title">నావిగేషన్ బార్ సెట్టింగ్‌లు</string>
+    <string name="nevigation_selection_text">మీరు వెనుకకు / ఇటీవలి కీల యొక్క నేపథ్య రంగు మరియు స్థితిని మార్చవచ్చు.</string>
+    <string name="nevigation_selection_back">వెనుకకు..</string>
+    <string name="nevigation_selection_home">హోం పేజి</string>
+    <string name="nevigation_selection_recent">ఇటీవలివి</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia వినియోగదారు అనుభవ కార్యక్రమంలో చేరండి. &lt;a href='launch.UserExperienceActivity://Kode'>ఇంకా నేర్చుకో.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">వినియోగదారు అనుభవ కార్యక్రమం</string>
+    <string name="setup_completed_congratulations">అభినందనలు!</string>
+    <string name="setup_complete_hmd">మీరు సిద్ధంగా ఉన్నారు...</string>
+    <string name="setup_complete_main">మీరు</string>
+    <string name="setup_complete_sub">కొనసాగించడానికి సిద్ధంగా ఉన్నారు.</string>
+    <string name="hmd_user_experience_program_title">వినియోగదారు అనుభవ ప్రోగ్రామ్</string>
+    <string name="hmd_user_experience_program_message">మీరు వినియోగదారు అనుభవ ప్రోగ్రామ్‌లో పాల్గొనడం వలన మీ Nokia పరికరంలో మీకు నచ్చిన అంశాలు ఏమిటి మరియు ఏయే అంశాలు మెరుగవ్వాలని మీరు భావిస్తున్నారనే విషయాలపై మెరుగైన అవగాహనను పొందడంలో HMD Globalకి సహాయకరంగా ఉంటుంది. సమయానుగుణంగా, సంభవించిన సాఫ్ట్‌వేర్ క్రాష్‌కు సంబంధించిన డేటా గల ఫైల్ వంటి మీ పరికర సంబంధిత సాంకేతిక విశేషాంశాలతో అజ్ఞాత డేటాను మేము స్వీకరించవచ్చు. సెల్యులార్ కనెక్షన్ ద్వారా ఇటువంటి డేటా పంపబడదని దయచేసి గుర్తుంచుకోండి. మీ Nokia పరికరం గురించి మీరు అందించే అభిప్రాయాన్ని మేము తెలుసుకోవాలనుకుంటున్నాము!</string>
+    <string name="skip_button_label">దాటవేయి</string>
+    <string name="skip_add_account_button_label">ఇప్పుడు కాదు</string>
+    <string name="device_checking_message">స్వాగతం</string>
+    <string name="backup_and_restore_title">బ్యాకప్ చేయండి మరియు పునరుద్ధరించండి</string>
+    <string name="backup_and_restore_description">"మీరు మునుపు మీ ఖాతాని బ్యాకప్ చేసి ఉంటే, దానిని ఇప్పుడు ఈ ఫోన్‌కు పునరుద్ధరించవచ్చు.
+
+మీరు ఏ సమయంలో అయినా సెట్టింగ్‌లలో మీ బ్యాకప్ సెట్టింగ్‌లను మార్చవచ్చు."</string>
+    <string name="baidu_intro_title">Baidu కోసం మేఘం నిల్వ</string>
+    <string name="baidu_intro_description">కొన్ని సులభమైన దశలను పూర్తి చేసిన తర్వాత 百度云 ద్వారా మీరు నిరంతర మేఘం నిల్వలను ఆస్వాదించవచ్చు.</string>
+    <string name="add_baidu_button_label">లాగిన్ చేయి 百度云</string>
+    <string name="baidu_progress_dialog_des">దయచేసి వేచి ఉండండి...</string>
+    <string name="wifi_picker_connection_title">నెట్‌వర్క్ అనుసంధానం</string>
+    <string name="wifi_picker_connection_des_text">WLAN అనుసంధానాన్ని నిలిపివేసిన తర్వాత మీ సాఫ్ట్‌వేర్‌ని మొబైల్ నెట్‌వర్క్ ద్వారా ధృవీకరిస్తే ఛార్జీలు చెల్లించాల్సి రావచ్చు.</string>
+    <string name="wifi_picker_connection_positive">సరే</string>
+    <string name="wifi_picker_connection_negative_prc">WLANకి అనుసంధానించండి</string>
+    <string name="wifi_picker_connection_negative">కనెక్ట్ చేయి</string>
+    <string name="wifi_picker_warning_title">హెచ్చరిక</string>
+    <string name="wifi_picker_warning_des_text">మీకు ఇంటర్నెట్ అనుసంధానం లేకుంటే, మీ సాఫ్ట్‌వేర్ తాజాగా ఉందో లేదో ఫోన్ తనిఖీ చేయదు.</string>
+    <string name="wifi_picker_warning_positive">దాటవేయవద్దు</string>
+    <string name="wifi_picker_warning_negative">ఏదేమైనా దాటవేయి</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] చట్టబద్ధం</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ ఉపయోగ నిబంధనలు
+ 
+ ప్రభావంలోకి వచ్చే తేదీ: 20 మే, 2016
+ 
+ కింది నిబంధనలు మరియు షరుతుల్లో (నిబంధనలు \" అంటారు \") ఒక చట్టబద్ధమైన ఒప్పందం ఉంది, ఇది మీరు ఉపయోగించే ఏదైనా [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌కు సంబంధించి మీకు మరియు [BRAND_NAME_PROXY] Inc., మరియు దాని ఎజెంట్, Commtiva Technology Ltd. (సంయుక్తంగా \"[BRAND_NAME_PROXY]\" అంటారు) మధ్య ఒప్పందం వలె పరిగణించబడుతుంది మరియు డౌన్‌లోడ్ చేయడం, ఇన్‌స్టాల్ చేయడం, స్వయంచాలకంగా పునరుద్ధరించడంతో సహా [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ ఉపయోగానికి (సాఫ్ట్‌వేర్ సేవ \" అంటారు \") వర్తిస్తుంది. [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని ఉపయోగించడం ద్వారా మీరు ఈ నిబంధనలకు కట్టుబడి ఉండటానికి అంగీకరించినట్లు పరిగణించబడుతుంది; నిబంధనలకు అంగీకరించనట్లయితే [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని డౌన్‌లోడ్ చేయవద్దు, నకిలీని రూపొందించవద్దు, ఉపయోగించవద్దు లేదా మీ వద్ద ఉంచుకోవద్దు.
+ 
+ 1. ఉపయోగ నిబంధనలు
+ మీరు ఈ నిబంధనలకు కట్టుబడి ఉన్నంత కాలం మీకు [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ సేవలకు సంబంధించి ఒక వ్యక్తిగత, సాధారణ, బదిలీ చేయలేని, పునరుద్ధరించగల మరియు పరిమిత స్థాయి అనుమతులను [BRAND_NAME_PROXY] మంజూరు చేస్తుంది. [BRAND_NAME_PROXY] ద్వారా ఇంటర్నెట్‌ నుండి మీ [BRAND_NAME_PROXY] స్మార్ట్ మొబైల్ పరికరంలో ఒక ఆబ్జెక్ట్ కోడ్ చొప్పించబడుతుంది (\" [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ \" అంటారు). మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్‌లో ఉన్న [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని ఏ రకమైన వాణిజ్య అవసరాలకు ఉపయోగించను లేదా ఏ మూడవ పక్షానికి బదిలీ చేయను అని మీరు అంగీకరించి, ఆమోదించాలి.
+ ఇంకా, [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని కింది అవసరాల కోసం ఉపయోగించను అని మీరు అంగీకరించాలి:
+ (a) (అంతర్లీన సాంకేతికతలతో సహా) [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని క్రాక్ చేయడం లేదా [BRAND_NAME_PROXY] బ్రాండ్‌కు చెందని ఏదైనా పరికరంలో [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని ఉపయోగించడం;
+ (b) [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని విశ్లేషించడం, డీకంపైల్ చేయడం, సాంకేతికతలను మార్చడం, డీకోడింగ్ చేయడం, కాపీ చేయడం, సవరించడం లేదా ఏదైనా ఇతర అవసరాల కోసం సాఫ్ట్‌వేర్ యొక్క సారూప్య కార్యాచరణలను సృష్టించడం;
+ (c) [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని పబ్లిక్‌గా ప్రదర్శించడంతో పాటు దానిని బదిలీ చేయడం, లీజుకు ఇవ్వడం, అరువుగా ఇవ్వడం లేదా ఉపలైన్స్ ఇవ్వడంతో సహా నిబంధనలకు విరుద్ధంగా ఉండే ఏ అవసరాల కోసం ఉపయోగించడం లేదా [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని ఉపయోగిండానికి, ప్రాప్యత చేయడానికి ఏదైనా మూడవ పక్షాన్ని అనుమతించడం లేదా దీనిని వారికి స్వాధీనం చేయడం;
+ (d) [BRAND_NAME_PROXY] నుండి ముందస్తు సమాచారం పొందకుండానే [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ లేదా పత్రాల యొక్క ఏదైనా యాజమాన్య గమనిక, లోగో లేదా వ్యాపారచిహ్నాలను తీసివేయడం;
+ (e) వర్తించే చట్టాలకు విరుద్ధంగా [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని ఉపయోగించడం లేదా ఇతరుల హక్కులను ఉల్లంఘించడం;
+ (f) విమాన నియంత్రణ ప్రాంతం, గ్యాస్ స్టేషన్ లేదా అణు పరికరాలు ఉన్న స్థలం వంటి ప్రత్యేక నియంత్రణలు వర్తించే ప్రాంతాల్లో [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని ఉపయోగించడం; లేదా
+ (g) నిబంధల ద్వారా అనుమతించని ఏ విధానంలో అయినా [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని ఉపయోగించడం.
+ 
+ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ మరియు [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ సరిగ్గా పని చేయాలంటే, మీరు [BRAND_NAME_PROXY] సిబ్బంది సహాయం లేకుండా మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్‌లో ఉన్న లేబుల్‌(ల)ను తీసివేయకూడదు లేదా తరలించకూడదు. అటువంటి అనధికారిక పనుల వల్ల మీ` [BRAND_NAME_PROXY] వారంటీ పరిధి మరియు వ్యవధి తగ్గిపోవచ్చు.
+ 
+ 2. గోప్యతా విధానం
+ [BRAND_NAME_PROXY] మీ పరికర మోడల్ రకం, వరుసక్రమం సంఖ్య, IMEI/MEID కోడ్, హార్డ్‌వేర్ సంస్కరణ, సాఫ్ట్‌వేర్ సంస్కరణ, సమగ్ర సమయం, మిగిలి ఉన్న సమయం, SKU ID, డిఫాల్ట్ సెట్టింగ్‌లు మరియు OS సంస్కరణతో సహా మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్‌కు సంబంధించిన ఇతర సంబంధిత సమాచారాన్ని (సమాచారం \" అంటారు \") సేకరించవచ్చని మరియు నిల్వ ఉంచవచ్చని మీరు అర్థం చేసుకుని, అంగీకరించాలి. 
+ [BRAND_NAME_PROXY] కనుక ఏదైనా సమాచారాన్ని ప్రభుత్వ సంస్థ లేదా న్యాయస్థానానికి అందించాల్సి వస్తే [BRAND_NAME_PROXY] తప్పక సమాచారాన్ని అందిస్తుంది.
+ 
+ కొనుగోలు చేసిన తేదీ నుండి 14 రోజుల పాటు మొబైల్ నెట్‌వర్క్‌కు అనుసంధానించకుంటే [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ [BRAND_NAME_PROXY] స్థితిని [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ తెలియజేస్తుంది.
+ 
+ దయచేసి వివరాల కోసం [BRAND_NAME_PROXY] గోప్యతా విధానాన్ని చూడండి.
+ 
+ 3. మద్దతు ఉన్న సేవ
+ [BRAND_NAME_PROXY] మీకు సాఫ్ట్‌వేర్ సేవలతో పాటు [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ నుండి [BRAND_NAME_PROXY] యొక్క తాజా స్థితిని తెలుసుకోవడం ద్వారా మీ [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌కు నవీకరణలు మరియు ఉన్నతీకరణలను అందించవచ్చు.
+ [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని మీ ఇంటర్నెట్ ద్వారా ఉపయోగించిన సమయంలో [BRAND_NAME_PROXY] మీకు [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ యొక్క నవీకరణలు, ప్యాచ్‌లు లేదా అదనపు మూలకాలను అందించవచ్చు మరియు అవి నిబంధనలకు కట్టుబడి ఉంటాయి.
+ 
+ [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ మరియు [BRAND_NAME_PROXY] సేవను నేరుగా ఉపయోగించగల మీ హక్కును రద్దు చేయగల అధికారం [BRAND_NAME_PROXY] కు ఉంది.
+ [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ యొక్క తదనంతర సంస్కరణలను [BRAND_NAME_PROXY] ప్రచురిస్తుంది మరియు మీరు అత్యంతర తాజా OS సంస్కరణను ఉపయోగించాలని కోరుకుంటుంది.
+ 
+ 4. స్వీయ నవీకరణ
+ మీ స్వంత [BRAND_NAME_PROXY] హ్యాండ్‌సెట్‌లో బలోపేతం చేయడం మరియు మెరుగుపరచడం కోసం ఇది [BRAND_NAME_PROXY] నుండి తాజా ఫర్మ్‌వేర్ మరియు సాఫ్ట్‌వేర్‌ని స్వయంచాలకంగా డౌన్‌లోడ్ చేస్తుంది 
+ 
+ మీ [BRAND_NAME_PROXY] పరికరం సురక్షితంగా మరియు స్థిరంగా పని చేయాలంటే, మీరు [BRAND_NAME_PROXY] సూచనలను అంగీకరించి, అనుసరించాలి. తాజా ఫర్మ్‌వేర్ మరియు సాఫ్ట్‌వేర్‌ని డౌన్‌లోడ్ చేయడానికి మీరు అంగీకరించారు కనుక దీనిని పునరుద్ధరించడానికి మరియు ఇన్‌స్టాల్ చేయడానికి మీరు అంగీకరించినట్లు పరిగణించబడుతుంది.
+ 
+ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ నవీకరించబడే సమయంలో మీ స్వంత పత్రాలు, ఫోటోలు, వచనాలు, ధ్వని ఫైల్‌లు, వీడియో ఫైల్‌లు మరియు ఇతర రకాల ఎలక్ట్రిక్ రికార్డ్‌లను కోల్పోకుండా ఉండాలంటే, తాజా ఫర్మ్‌వేర్ లేదా సాఫ్ట్‌వేర్ సంస్కరణను డౌన్‌లోడ్ చేయడం కంటే ముందు [BRAND_NAME_PROXY]లో నిల్వ చేయబడిన డేటాని మీరు బ్యాకప్ చేసుకోవాల్సిందిగా సిఫార్సు చేస్తున్నాము.
+ 
+ మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ స్వయంచాలకంగా నవీకరించబడినప్పుడు లేదా సందేశం రూపంలో మీ సమ్మతిని పొందడం ద్వారా నవీకరించబడినప్పుడు, మీరు కింది విషయాలకు సమ్మతించినట్లు పరిగణించబడుతుంది:
+ (a) సాఫ్ట్‌వేర్ నవీకరణ:
+ మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్‌లో ఉన్న సాఫ్ట్‌వేర్ యొక్క సంస్కరణ మరియు నవీకరణ స్థితిని తనిఖీ చేయడం కోసం [BRAND_NAME_PROXY] ఎప్పుడైనా ఇంటర్నెట్‌కు అనుసంధానం కావచ్చని మీరు అర్థం చేసుకుని, అంగీకరించాలి. If [BRAND_NAME_PROXY] ఏదైనా ఉన్నతీకరణ నోటిఫికేషన్‌ని విడుదల చేసినట్లయితే, [BRAND_NAME_PROXY] సేవ ద్వారాe [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ సంస్కరణలను మరియు స్థితిని నవీకరించడానికి [BRAND_NAME_PROXY] మిమ్మల్ని అనుమతిస్తుంది.
+ కొత్త [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ అందుబాటులో ఉన్నట్లయితే, అటువంటి నవీకరణలకు సంబంధించిన నోటిఫికేషన్‌ని మీకు పంపడానికి [BRAND_NAME_PROXY]ని మీరు అనుమతించాలి. మీరు కొత్తగా అందుబాటులో ఉన్న నవీకరణలను నిర్ధారించినట్లయితే, మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్‌ని స్వయంచాలకంగా నవీకరించడానికి [BRAND_NAME_PROXY] అనుమతించబడుతుంది.
+ (b) సమకాలీకరించబడే మరియు నవీకరించబడే కంటెంట్‌లు:
+ మీరు మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్‌ని మీ కంప్యూటర్ లేదా ఇతర పరికరానికి అనుసంధానించినట్లయితే, సంబంధిత కంటెంట్‌లు మరియు ఇతర సమాచారాన్ని (ఉదా: పరిచయ సమాచారం, క్యాలెండర్, బుక్‌మార్క్‌లు మరియు ఫైల్‌లు.) మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ స్వయంచాలకంగా నవీకరిస్తుంది
+ 
+ 5. [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌కి చెందిన అన్ని ఆస్తిపరమైన మరియు ఇతర హక్కులు ప్రత్యేకించబడ్డాయి
+ [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ మరియు సేవలను ఉపయోగించడానికి మీకు లైసెన్స్ ఉన్నా కూడా, ఆస్తిపరమైన, కాపీరైట్ మరియు ఇతర మేధోపరమైన ఆస్తి హక్కులతో సహా, [BRAND_NAME_PROXY], సాఫ్ట్‌వేర్‌కు చెందిన అన్ని ఇతర హక్కులు [BRAND_NAME_PROXY] దాని అనుసంభ సంస్థలు మరియు సరఫరాదారుల స్వంతం.
+ 
+ అటువంటి [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్ హక్కులన్నీ స్థానిక చట్టాలు మరియు అంతర్జాతీయ నిబంధనల ద్వారా రక్షించబడతాయి.
+ 
+ 6. నిరాకరణ
+ వర్తక యోగ్యత, సంతృప్తికర నాణ్యత మరియు నిర్దష్ట అవసరాలకు తగ్గట్లు ఉండటం లేదా ఉల్లంఘన రహితంగా ఉండటంతో ఏ ఇతర వారంటీలను [BRAND_NAME_PROXY] ప్రత్యక్షంగా కానీ లేదా పరోక్షంగా కానీ అందించదు. 
+ [BRAND_NAME_PROXY] వీటికి ఎటువంటి వారంటీలు ఇవ్వదు:
+ (a) మీరు పొందిన ఏదైనా [BRAND_NAME_PROXY] సేవ ఖచ్చితంగా లేదా విశ్వసనీయంగా ఉండటం; లేదా
+ (b) [BRAND_NAME_PROXY] సేవ ఖచ్చితంగా లేదా విశ్వసనీయంగా ఉండటం; లేదా
+ (c) అందించబడిన సాఫ్ట్‌వేర్‌లో ఏవైనా దోషాలు లేదా లోపాలు ఉంటే తక్షణమే సరి చేయబడతాయి.
+ 
+ [BRAND_NAME_PROXY] సేవలను మీరు ఉపయోగించినందుకు గాను మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్, ప్రోగ్రామ్‌లు, డేటా లేదా ఇతర ఆస్తులకు వైరస్ లేదా ఇతర సాంకేతికరంగా హానికరమైన విషయాల వల్ల ఏర్పడే ఏదైనా నష్టం లేదా హానికి [BRAND_NAME_PROXY] బాధ్యత వహించదు. మీరు [BRAND_NAME_PROXY] నుండి డౌన్‌లోడ్ చేసే అన్ని కంటెంట్‌లు మరియు ఇతర మెటీరియల్‌లను మీ స్వంత పూచీపై ఉపయోగించాలి మరియు డౌన్‌లోడ్ చేసిన ఏదైనా సాఫ్ట్‌వేర్ కారణంగా మీ [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ లేదా డేటాకి నష్టం లేదా హాని ఏర్పడినట్లు మీరే బాధ్యత వహించాలి.
+ 
+ 7. బాధ్యతలు మరియు ప్రత్యేక పరిహారాల పరిమితి
+ ఏవైనా తదనంతర, సంఘటనాత్మక, పరోక్ష లేదా శిక్షాత్మక హానులు లేదా లాభాలకు నష్టాలు లేదా గోప్యత లేదా సమాచారాన్ని కోల్పోవడం, వ్యాపారానికి అంతరాయం, వ్యక్తిగత హాని, ఆస్తి, గోప్యతకు నష్టం కలగడం, ఏదైనా నిర్దిష్ట అవసరాన్ని పూర్తి చేయలేకపోవడం లేదా విశ్వాసాన్ని కోల్పోవడం లేదా సరైన రక్షణ లేదా సావధానతను అందించలేకపోవడం వంటి వాటికి [BRAND_NAME_PROXY] బాధ్యత వహించదు.
+ వర్తించే చట్టం ద్వారా అనుమతించబడే గరిష్ట పరిధి మేరకు, మీకు ఏర్పడిన వాస్తవ నష్టానికి సంబంధించి నిబంధనలకు అనుగుణంగా మీరు సమర్పించే దావాలు లేదా ఇతర వ్యాజ్యాలకు కట్టుబడి ఏవైనా నష్టాలు, హానులు ఇతర ఇబ్బందులకు [BRAND_NAME_PROXY]’ ద్వారా మీకు గరిష్టంగా USD పది డాలర్లు (USD 10) పరిహారం వలె చెల్లించబడుతుంది. 
+ 
+ నిబంధనలకు సంబంధితంగా అనేకసార్లు దావాలు లేదా ఇతర వ్యాజ్యాలు సమర్పించినంత మాత్రాన మీకు చెల్లించే పరిహారం పెరగదు, వర్తించే చట్టం ద్వారా అనుమతించబడే గరిష్ట పరిధి మేరకు మీరు స్వంతంగా మరియు ప్రత్యేకంగా పరిహారాన్ని పొందండి.
+ 
+ ఏదైనా న్యాయస్థానం కనుక ఎగువ పేర్కొన్న గరిష్ట పరిహార పరిమితి అన్నది నిర్బంధంగా అమలు చేయాల్సిన అవసరం లేదని తేల్చినట్లయితే, అనుమతించబడిన గరిష్ట పరిధి మేరకు సమస్యకు కారణమైన లావాదేవీ యొక్క విలువ చెల్లించబడుతుంది అన్న పదాల స్థానంలో పది డాలర్లు చెల్లించబడతాయి \"అన్నది పరిగణించబడుతుంది.\"
+ 
+ సమస్య ఏర్పడిన సంవత్సరంలోపు నిబంధనలకు అనుగుణంగా దావాను లేదా ఇతర వ్యాజ్యాన్ని సమర్పించాలి. 
+ 8. నష్ట పరిహారం 
+ మీరు [BRAND_NAME_PROXY], సేవలను దుర్వినియోగం చేయడం కారణంగా ఏవైనా మూడవ పక్షాల యొక్క హక్కులకు భంగం కలిగినట్లయితే, దాని కారణంగా [BRAND_NAME_PROXY]కు వ్యతిరేకంగా [BRAND_NAME_PROXY], దాని షేర్ హోల్డర్‌లు, డైరెక్టర్‌లు, అధికారులు, భాగస్వాములు, ఉద్యోగులు, ఉప సంస్థలు మరియు అనుబంధ సంస్థలకు ఏర్పడే హాని, నష్టం, బాధ్యతలు, దావాలు లేదా ఖర్చులకు (న్యాయవాదుల రుసుములతో సహా) మీరే బాధ్యత వహించాలి.
+ 
+ 9. సేవా నిబంధన
+ మీరు నిబంధనలకు అంగీకరించకుంటే, చట్ట ప్రకారం [BRAND_NAME_PROXY] సేవలని ఉపయోగించలేరు. అలాంటి సందర్భాల్లో, మీరు [BRAND_NAME_PROXY] సాఫ్ట్‌వేర్‌ని తొలగించాలి మరియు దాని అన్ని కాపీలను తీసివేయాలి. ఈ సమయంలో, మీ స్వంత [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ యొక్క వారంటీపై ప్రభావం పడుతుంది.
+ ఎగువ పేర్కొన్న విధంగా అలాంటి ఉల్లంఘన ఏదైనా జరిగితే, కింది చర్యలు తీసుకోగల హక్కు [BRAND_NAME_PROXY]కు ఉందని మీరు అంగీకరించాలి,
+ (a) [BRAND_NAME_PROXY]ఖాతాకు మీ ప్రాప్యతను తక్షణనే రద్దు చేయడం; మరియు /లేదా
+ (b) [BRAND_NAME_PROXY] సేవా ఖాతాకు మీ భవిష్యత్ ప్రాప్యతను నిరోధించడం
+ 
+ నిబంధనలకు విరుద్ధంగా ఏదైనా ఉల్లంఘన చేసినట్లయితే, వెనక్కి తీసుకోలేని విధంగా [BRAND_NAME_PROXY]కు హాని జరగవచ్చని, దాని కారణంగా ద్రవ్యనిధి నష్టాలు ఏర్పడవచ్చని మరియు [BRAND_NAME_PROXY]ని పొందినందుకు అలాంటి సమయాల్లో [BRAND_NAME_PROXY] నిర్ణయానుసారం తక్షణ లేదా సమాన ఉపశమాన్ని కలిగించాలని మీరు అర్థం చేసుకుని, అంగీకరించాలి. చట్టం లేదా ఈక్విటీ ప్రకారం [BRAND_NAME_PROXY]కు అందించాల్సిన ఇతర ఉపశమానలకు ఇవి అదనంగా ఉంటాయి.
+ 
+ 10. పర్యవేక్షించే చట్టం మరియు న్యాయ పరిధి
+ రిపబ్లిక్ ఆఫ్ చైనా (R.O.C.) యొక్క చట్టాల్లో ఉన్న వైరుధ్యాల సంబంధం లేకుండా నిబంధనలకు సంబంధించిన వైరుధ్యాలు ఆ చట్టాల ప్రకారం పర్యవేక్షించబడతాయి. 
+ 
+ తైవానా తైపీ జిల్లా న్యాయస్థానానికి మీరు వ్యక్తిగత న్యాయ పరిధిని అందించాలి మరియు న్యాయ పరిధి లేదా వేదికకు సంబంధించిన అభ్యంతరాలను వ్యక్తం చేయకుండానే మీ హక్కును వదులుకోవాలి.
+ 
+ మీరు మరియు [BRAND_NAME_PROXY] పరస్పరం చర్చించుకోవడం ద్వారా పరిష్కరించలేని ఏ వివాదాన్ని మీ లేదా [BRAND_NAME_PROXY] తరపున మధ్యవర్తిత్వం ద్వారా పరిష్కరించాలి. మధ్యవర్తిత్వం ద్వారా కూడా 30 క్యాలెండర్ రోజుల్లో వివాదాన్ని పరిష్కరించలేకుంటే, అటువంటి వివాదాన్ని ఎగువ పేర్కొన్న న్యాయస్థానంలో పరిష్కరించుకోవాలి.
+ 
+ 11. సాధారణ క్లాజ్
+ కేవలం మీ సౌకర్యం కోసం మాత్రమే ఈ నిబంధనల్లో శీర్షికలు ఉపయోగించబడ్డాయి.
+ మీరు ఉల్లంఘనలు చేసిన సమయంలో [BRAND_NAME_PROXY] చర్యలు తీసుకోనంత మాత్రాన తన హక్కులను వదులుకున్నట్లు లేదా తదనంతర లేదా సారూప్య ఉల్లంఘనలకు అనుమతించినట్లు పరిగణించకూడదు.
+ 
+ ఈ నిబంధనల్లో ఏదైనా భాగం చెల్లనిదిగా లేదా అమలు చేయలేనిదిగా ఉన్నట్లు న్యాయస్థానం తేల్చినట్లయితే, చెల్లని లేదా అమలు చేయలేని నిబంధనల స్థానంలో వాటి ఉద్దేశానికి చాలా దగ్గరగా ఉన్న వేరే చెల్లుబాటు అయ్యే లేదా అమలు చేయగల నిబంధనలు ఉపయోగంలోకి వస్తాయి. 
+ 
+ మీరు నిబంధనలను లేదా నిబంధనల ప్రకారం మీకు వర్తించే హక్కులను ఇతరులకు కేటాయించకూడదు, బదిలీ చేయకూడదు లేదా ఉప లైసెన్స్‌ని అందించకూడదు.
+ 
+ [BRAND_NAME_PROXY] ఏ సమయంలో అయినా మీకు తెలియజేయకుండానే ఈ నిబంధనలను మొత్తంగా లేదా పాక్షికంగా వర్తింపజేయవచ్చు. 
+ 
+ సైట్‌కు సంబంధించి మీకు మరియు [BRAND_NAME_PROXY]కు మధ్య ఏ ఇతర ఒప్పందాలను అయినా ఈ నిబంధనలు భర్తీ చేస్తాయి.
+ 
+ 12. మొత్తం ఒప్పందం
+ [BRAND_NAME_PROXY] సేవలకు సంబంధించి మీకు మరియు [BRAND_NAME_PROXY]కు సంబంధించిన మొత్తం ఒప్పందం ఈ నిబంధనలు మరియు తదనంతర జోడింపుల్లో పేర్కొనబడతాయి.
+ 
+ 13. నిబంధనల్లో సవరణ
+ [BRAND_NAME_PROXY] తన స్వీయ నిర్ణయానుసారం కాలానుగుణంగా నిబంధనలలోని విషయాలను నవీకరించవచ్చు, మార్చవచ్చు లేదా తొలగించవచ్చు.
+ 
+ మీరు [BRAND_NAME_PROXY] వెబ్‌సైట్‌లోని నిబంధనలను తప్పనిసరిగా చదవాలి, మీరు వాస్తవంగా చదివిన నిబంధనలు వేరుగా ఉండవచ్చు.
+ 
+ మీరు సాఫ్ట్‌వేర్ మరియు [BRAND_NAME_PROXY] హ్యాండ్‌సెట్ యొక్క ఉపయోగాన్ని కొనసాగించినట్లయితే ఆ మార్పులకు మీరు అంగీకరించినట్లు పరిగణించబడుతుంది.
+"</string>
+    <string name="hmd_legal_message">"సేవా నిబంధనలు 
+ 
+అక్టోబర్ 14, 2016వ తేదీ నుంచి అమల్లోనికి వస్తుంది 
+ 
+1. అంగీకారం 
+ఈ గోప్యతా విధానం మరియు ఇతర అన్ని అదనపు నియమాలు మరియు సేవల లోపల అందించబడే సమాచారం మొత్తాన్ని కలిపిన ఈ HMD గ్లోబల్ సేవా నిబంధనలు (సమిష్టిగా “నిబంధనలు”) సేవలు, సైట్, కంటెంట్ మరియు సాఫ్ట్‌వేర్ యొక్క మీ ఉపయోగాన్ని పరిపాలిస్తాయి.(సమిష్టిగా సేవ). మా వద్ద రిజిస్టర్ చేసుకోవడం ద్వారా లేదా సేవలను లేదా దానిలో ఏదైనా భాగాన్ని ఉపయోగించడం ద్వారా మీరు ఈ నిబంధనలను ఆమోదిస్తున్నారు. 
+ 
+నిబంధనలు మీకు మరియు HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, ఫిన్లాండ్, దాని అనుబంధ సంస్థలు మరియు సరఫరాదారులు (సమిష్టిగా”HMD గ్లోబల్”) మధ్య ఒక ఒప్పందం ఏర్పరస్తుంది మరియు సేవకు సంబంధించి మీకు మరియు HMD గ్లోబల్‌కు ఉండే హక్కులు మరియు బాధ్యతలను నిర్వచించిస్తుంది. 
+ 
+2. అర్హత 
+సేవలు ఉపయోగించడానికి, మీకు కనీసం పదమూడు (13) సంవత్సరాల వయస్సు ఉండాలి. మీరు (13) సంవత్సరాల కంటే తక్కువ, లేదా కనీసం పదమూడు (13) సంవత్సరాల వయస్సు కలిగి ఉన్నప్పటికీ మీరు నివసించే ప్రాంతంలో మైనర్ అయితే, మీ తరఫునమీ తల్లిదండ్రులు లేదా సంరక్షకుడు మీ రిజిస్ట్రేషన్‌ని విధిగా ఆమోదించాలి మరియు సేవ యొక్క మీ ఉపయోగాన్ని అంగీకరించాలి. రిజిస్ట్రేషన్ పూర్తి చేసే ఎవరైనా చట్టబద్ధంగా సమర్థతను కలిగి ఉండాలి. 
+ 
+3. రిజిస్ట్రేషన్ మరియు తొలగింపు 
+సేవకు ఉపయోగించడానికి మీరు రిజిస్టర్ చేసుకోవడం మరియు యూజర్‌నేమ్ మరియు ఒక పాస్‌వర్డ్‌తో HMD ఖాతా సృష్టించుకోవడం అనేది ప్రత్యేక నిబంధనలకు లోబడి ఉంటుంది. మీరు కొంత వ్యక్తిగత మరియు ఇతర సమాచారాన్ని మాకు అందించడానికి అవసరం ఉంటుంది. మీరు మీ HMD ఖాతా ఉపయోగించడానికి ముందు HMD గ్లోబల్ మీ ఇమెయిల్ చిరునామాను ధృవీకరించవచ్చు. మీ పరికరాన్ని మొదటిసారి ఉపయోగించేటప్పుడు మరియు Nokia పరికరం సాఫ్ట్‌వేర్‌ని మీరు అప్‌డేట్ చేసిన ప్రతి"</string>
+    <string name="wapi_psk_security_type">పాస్‌వర్డ్ రకం</string>
+    <string name="upload_agent_hmd_des_text_3">"కొనసాగించు\"ని నొక్కడం ద్వారా మీరు వినియోగదారు అనుభవ కార్యక్రమంలో చేరడానికి అంగీకరిస్తున్నారు. &lt;a href='launch.UserExperienceActivity://Kode'>మరింత తెలుసుకోండి&lt;/a>. గుర్తుంచుకోండి, మీరు ఏ సమయంలో అయినా సెట్టింగ్‌ల ద్వారా తిరిగి చేరవచ్చు."</string>
+    <string name="setup_complete_hmd_1">మీరు కొనసాగించడానికి దాదాపు సిద్ధంగా ఉన్నారు...!</string>
+    <string name="not_now">ఇప్పుడు కాదు...</string>
+    <string name="setup_finish">కొనసాగించండి</string>
+    <string name="wifi_fail_to_scan">నెట్‌వర్క్‌ల కోసం స్కాన్ చేయడం సాధ్యం కాదు</string>
+    <string name="wifi_security_none">ఏదీ వద్దు</string>
+    <string name="wifi_remembered">సేవ్ చేయబడింది</string>
+    <string name="wifi_disabled_generic">నిలిపివేయబడింది</string>
+    <string name="wifi_disabled_network_failure">IP కాన్ఫిగరేషన్ వైఫల్యం</string>
+    <string name="wifi_disabled_password_failure">ప్రమాణీకరణ సమస్య</string>
+    <string name="wifi_not_in_range">పరిధిలో లేదు</string>
+    <string name="wifi_no_internet_no_reconnect">స్వయంచాలకంగా అనుసంధానించడం సాధ్యం కాదు</string>
+    <string name="wifi_no_internet">ఇంటర్నెట్ యాక్సెస్ లేదు</string>
+    <string name="saved_network">%1$s ద్వారా సేవ్ చేయబడింది</string>
+    <string name="connected_via_passpoint">%1$s ద్వారా అనుసంధానించబడింది</string>
+    <string name="available_via_passpoint">%1$s ద్వారా అందుబాటులో ఉంది</string>
+    <string name="wifi_connected_no_internet">అనుసంధానించింది, ఇంటర్నెట్ లేదు</string>
+    <string name="wifi_auth_password_wrong">పాస్‌వర్డ్ తప్పు కావచ్చు</string>
+    <string name="connected_via_wfa">Wi‑Fi సహాయకం ద్వారా అనుసంధానించబడింది</string>
+    <string name="wifi_ssid">నెట్‌వర్క్ పేరు</string>
+    <string name="wifi_ssid_hint">SSIDని నమోదు చేయండి</string>
+    <string name="wifi_security">భద్రత</string>
+    <string name="wifi_eap_method">EAP పద్ధతి</string>
+    <string name="please_select_phase2">2వ దశ ప్రమాణీకరణ</string>
+    <string name="wifi_eap_ca_cert">CA సర్టిఫికేట్</string>
+    <string name="wifi_do_not_validate_eap_server_warning">సర్టిఫికేట్‌ని పేర్కొనలేదు. మీ అనుసంధానం ప్రైవేట్‌గా ఉండదు.</string>
+    <string name="wifi_eap_domain">డొమైన్</string>
+    <string name="wifi_no_domain_warning">తప్పనిసరిగా డొమైన్‌ని పేర్కొనాలి.</string>
+    <string name="wifi_eap_user_cert">వినియోగదారు సర్టిఫికేట్</string>
+    <string name="wifi_eap_identity">గుర్తింపు</string>
+    <string name="wifi_eap_anonymous">అనామక గుర్తింపు</string>
+    <string name="wifi_password">పాస్‌వర్డ్</string>
+    <string name="wifi_show_password">పాస్‌వర్డ్‌ని చూపు</string>
+    <string name="wifi_advanced_toggle_description_collapsed">డ్రాప్ డౌన్ జాబితా అధునాతన ఎంపికలు. విస్తరించడం కోసం రెండుసార్లు నొక్కండి.</string>
+    <string name="wifi_show_advanced">అధునాతన ఎంపికలు</string>
+    <string name="proxy_settings_title">ప్రాక్సీ</string>
+    <string name="proxy_warning_limited_support">HTTP ప్రాక్సీని బ్రౌజర్ ఉపయోగిస్తోంది, కానీ ఇతర అనువర్తనాలు దీనిని ఉపయోగించడం లేదు.</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">ప్రాక్సీ హోస్ట్‌పేరు</string>
+    <string name="proxy_exclusionlist_label">దీని కోసం ప్రాక్సీని దాటవేయి</string>
+    <string name="wifi_ip_settings">IP సెట్టింగ్‌లు</string>
+    <string name="wifi_ip_address">IP చిరునామా</string>
+    <string name="wifi_gateway">గేట్‌వే</string>
+    <string name="wifi_network_prefix_length">నెట్‌వర్క్ ప్రీఫిక్స్ పొడవు</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">ఇతర పరికర వినియోగదారులతో భాగస్వామ్యం చేయండి</string>
+    <string name="proxy_port_label">ప్రాక్సీ పోర్ట్</string>
+    <string name="wifi_unspecified">దయచేసి ఎంచుకోండి</string>
+    <string name="wifi_multiple_cert_added">(బహుళ సర్టిఫికేట్‌లు జోడించబడ్డాయి)</string>
+    <string name="wifi_use_system_certs">సిస్టమ్ సర్టిఫికేట్‌లను ఉపయోగించు</string>
+    <string name="wifi_do_not_provide_eap_user_cert">అందించవద్దు</string>
+    <string name="wifi_do_not_validate_eap_server">ప్రమాణీకరించవద్దు</string>
+    <string name="wifi_add_network">నెట్‌వర్క్‌ని జోడించు</string>
+    <string name="wifi_save">సేవ్ చేయి</string>
+    <string name="passpoint_label">దీని ద్వారా సేవ్ చేయబడింది</string>
+    <string name="wifi_connect">అనుసంధానించండి</string>
+    <string name="wifi_status">స్థితి</string>
+    <string name="wifi_signal">సిగ్నల్ బలం</string>
+    <string name="wifi_speed">లింక్ వేగం</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">ఫ్రీక్వెన్సీ</string>
+    <string name="wifi_forget">మర్చిపో</string>
+    <string name="wifi_cancel">రద్దు చేయి</string>
+    <string name="proxy_error_invalid_port">మీరు టైప్ చేసిన పోర్ట్ చెల్లదు.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">చెల్లుబాటు అయ్యే IP చిరునామాని టైప్ చేయండి.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">0 మరియు 32 మధ్య ఉన్న నెట్‌వర్క్ ప్రీఫిక్స్ పొడవుని టైప్ చేయండి.</string>
+    <string name="wifi_ip_settings_invalid_gateway">చెల్లుబాటు అయ్యే గేట్‌వే చిరునామాని టైప్ చేయండి.</string>
+    <string name="wifi_ip_settings_invalid_dns">చెల్లుబాటు అయ్యే DNS చిరునామాని టైప్ చేయండి.</string>
+    <string name="wifi_unchanged">(మార్చలేదు)</string>
+    <string name="wifi_failed_connect_message">నెట్‌వర్క్‌కి అనుసంధానించడం విఫలమైంది</string>
+    <string name="wifi_failed_save_message">నెట్‌వర్క్‌ని సేవ్ చేయడం విఫలమైంది</string>
+    <string name="wifi_failed_forget_message">నెట్‌వర్క్‌ని మర్చిపోవడం విఫలమైంది</string>
+    <string name="proxy_error_empty_host_set_port">హోస్ట్ ఫీల్డ్ ఖాళీగా ఉన్నట్లయితే తప్పనిసరిగా పోర్ట్ ఫీల్డ్ ఖాళీగా ఉండాలి.</string>
+    <string name="proxy_error_empty_port">మీరు పోర్ట్ ఫీల్డ్‌ని పూర్తి చేయాలి.</string>
+    <string name="proxy_error_invalid_exclusion_list">మీరు టైప్ చేసిన మినహాయింపు జాబితా సరిగ్గా ఆకృతీకరించబడలేదు. కామాతో వేరు చేసిన మినహాయించబడిన డొమైన్‌లను టైప్ చేయండి.</string>
+    <string name="wifi_advanced_toggle_description_expanded">డ్రాప్ డౌన్ జాబితా అధునాతన ఎంపికలు. కుదించడం కోసం రెండుసార్లు నొక్కండి.</string>
+    <string name="passpoint_content">%1$s ఆధారాలు</string>
+    <string name="select_sim_card">SIM కార్డ్‌ని ఎంచుకోండి</string>
+    <string name="sim_editor_title">SIM స్లాట్ %1$d</string>
+    <string name="wifi_certificate">ధృవ పత్రం</string>
+    <string name="wifi_setting_title">అనుసంధానించండి</string>
+    <string name="wifi_skip_anyway">ఏదేమైనా దాటవేయి</string>
+    <string name="wifi_dont_skip">వెనుకకు వెళ్లు</string>
+    <string name="wifi_and_mobile_skipped_message">"నెట్‌వర్క్‌కి అనుసంధానించడం ద్వారా మీ ఫోన్‌ని త్వరగా సెటప్ చేయవచ్చు.
+
+అనుసంధానం లేకుంటే, మీరు వీటిని చేయలేరు:
+
+"<li>మీ క్లౌడ్ ఖాతాకి సైన్ ఇన్ చేయడం</li>"
+
+"<li>సాఫ్ట్‌వేర్ నవీకరణలను పొందడం</li>"
+
+"<li>స్వయంచాలకంగా సమయం మరియు తేదీని సెటప్ చేయడం</li></string>
+</resources>

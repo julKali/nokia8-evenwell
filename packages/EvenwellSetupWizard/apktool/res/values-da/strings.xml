@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Naviger hjem</string>
+    <string name="abc_action_bar_up_description">Naviger op</string>
+    <string name="abc_action_menu_overflow_description">Flere muligheder</string>
+    <string name="abc_action_mode_done">Luk</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Vælg en app</string>
+    <string name="abc_capital_off">FRA</string>
+    <string name="abc_capital_on">TIL</string>
+    <string name="abc_search_hint">Søg…</string>
+    <string name="abc_searchview_description_clear">Ryd forespørgslen</string>
+    <string name="abc_searchview_description_query">Søgeforespørgsel</string>
+    <string name="abc_searchview_description_search">Søg</string>
+    <string name="abc_searchview_description_submit">Indsend forespørgslen</string>
+    <string name="abc_searchview_description_voice">Talesøgning</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="accessibility_text">Tilgængelighed</string>
+    <string name="account_intro_description">Brug din enhed smartere med [BRAND_NAME]-tjenester.</string>
+    <string name="account_intro_title">[BRAND_NAME]-tjenestekonto</string>
+    <string name="add_baidu_button_label">Log på 百度云</string>
+    <string name="add_infocus_service_account">Tilføj [BRAND_NAME]-tjenestekonto</string>
+    <string name="back_btn_lebel">TILBAGE</string>
+    <string name="backup_and_restore_description">"Hvis du tidligere har sikkerhedskopieret din konto, kan du gendanne den på denne telefon.
+
+Du kan ændre indstillingerne i Indstillinger."</string>
+    <string name="backup_and_restore_title">Sikkerhedskopiér og gendan</string>
+    <string name="baidu_intro_description">Du kan uden problemer lagre ting i skyen med 百度云, hvis du udfører et par nemme trin.</string>
+    <string name="baidu_intro_title">Skylagring til Baidu</string>
+    <string name="baidu_progress_dialog_des">Vent...</string>
+    <string name="choose_timezone">Vælg tidszone</string>
+    <string name="datausage_dialog_negitive_btn">Annuller</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Indstillinger for dato og tid</string>
+    <string name="date_and_time_settings_summary">Angiv dato, klokkeslæt, tidszone og formater</string>
+    <string name="date_and_time_settings_title">Dato og klokkeslæt</string>
+    <string name="date_and_time_settings_title_setup_wizard">Indstil dato og tid</string>
+    <string name="date_picker_title">Dato :</string>
+    <string name="date_time_24hour">Brug 24-timers format</string>
+    <string name="date_time_auto">Automatisk dato og tid</string>
+    <string name="date_time_auto_summaryOff">Brug netværkets tid</string>
+    <string name="date_time_auto_summaryOn">Brug netværkets tid</string>
+    <string name="date_time_date_format">Vælg datoformat</string>
+    <string name="date_time_set_date">Angiv dato</string>
+    <string name="date_time_set_time">Angiv tidspunkt</string>
+    <string name="date_time_set_timezone">Vælg tidszone</string>
+    <string name="device_checking_message">Velkommen</string>
+    <string name="dropbox_fih_description">Få gratis 2 GB lagerplads på Dropbox til lagring af fotos og videoer.</string>
+    <string name="dropbox_fih_signin">Log på med Dropbox</string>
+    <string name="dropbox_fih_signup">Tilmeld dig med Dropbox</string>
+    <string name="emergency_dial_hmd_message">Nød</string>
+    <string name="emergency_dial_message">Nødopkald</string>
+    <string name="expand_button_title">Avanceret</string>
+    <string name="fih_legal_message">"Vilkår for [BRAND_NAME_PROXY]-software
+
+
+
+Gælder fra: 20. maj 2016
+
+
+
+Følgende vilkår og betingelser (kaldes \"vilkår\") udgør en juridisk aftale, som styrer din brug af [BRAND_NAME_PROXY]-software, mellem dig og [BRAND_NAME_PROXY] Inc. og dens repræsentant, Commtiva Technology Ltd., (kaldes samlet \"[BRAND_NAME_PROXY]\"). De gælder for din brug af [BRAND_NAME_PROXY]-software, herunder, men ikke begrænset til, download, installation og automatisk fornyelse (kaldes \"softwaretjeneste\"). Ved at bruge [BRAND_NAME_PROXY]-softwaren accepterer du disse vilkår. Accepterer du ikke vilkårene, må du ikke downloade, kopiere, bruge eller beholde [BRAND_NAME_PROXY]-software.
+
+
+
+1. Brugsvilkår
+
+Så længe du overholder disse vilkår, giver [BRAND_NAME_PROXY] dig en personlig, ikke-eksklusiv, ikke-overførbar, genkaldelig og begrænset ret til at bruge [BRAND_NAME_PROXY]-softwaren. [BRAND_NAME_PROXY] installerer objektkode på din mobile [BRAND_NAME_PROXY]-smartenhed (kaldes \" [BRAND_NAME_PROXY]-håndsæt\") via internettet. Du accepterer, at [BRAND_NAME_PROXY]-softwaren på dit [BRAND_NAME_PROXY]-håndsæt ikke må bruges til kommercielle formål eller overføres til en tredjepart.
+
+Du accepterer også, at du ikke må bruge [BRAND_NAME_PROXY]-softwaren på nogen af følgende måder:
+
+(a)\u0009Cracking af [BRAND_NAME_PROXY]-software (inkl. underteknologier) eller brug af [BRAND_NAME_PROXY]-software på en enhed, der ikke er brandet i [BRAND_NAME_PROXY].
+
+(b)\u0009Analyse, dekompilering, reverse engineering, afkodning, kopiering, ændring af [BRAND_NAME_PROXY]-software eller oprettelse af afledt arbejde uanset formål.
+
+(c)\u0009Aktiviteter, der strider mod vilkårene, herunder, men ikke kun, overførsel, leasing, udlejning eller licensering, offentliggørelse af [BRAND_NAME_PROXY]-software eller tiltag, der giver tredjepart adgang til [BRAND_NAME_PROXY]-softwaren.
+
+(d)\u0009Fjernelse af ejermærker, logoer eller varemærker i [BRAND_NAME_PROXY]-software eller dokumenter uden foregående skriftligt samtykke fra [BRAND_NAME_PROXY].
+
+(e)\u0009Brug af [BRAND_NAME_PROXY]-software i modstrid med loven eller på en måde, der krænker andres rettigheder.
+
+(f)\u0009Brug af [BRAND_NAME_PROXY]-software i miljøer, hvor brugen er forbudt eller begrænset, herunder, men ikke begrænset til, fly, benzinstationer og atomanlæg. Eller:
+
+(g)\u0009Brug af [BRAND_NAME_PROXY]-software på en måde, der forbydes i vilkårene.
+
+
+
+For at sikre, at [BRAND_NAME_PROXY]-håndsættet og [BRAND_NAME_PROXY]-softwaren fungerer korrekt, lover du, at du ikke vil ødelægge eller fjerne etiket(ter) på dit [BRAND_NAME_PROXY]-håndsæt uden hjælp fra [BRAND_NAME_PROXY]-medarbejdere. Sådanne uautoriserede handlinger påvirker den garantidækning, som [BRAND_NAME_PROXY] giver dig.
+
+
+
+2. Privatlivspolitik
+
+Du accepterer, at [BRAND_NAME_PROXY] kan indsamle og gemme oplysninger, herunder, men ikke begrænset til, tilstandstype, serienummer, IMEI/MEID-kode, HW-version, SW-version, samlet tid, SKU-id, standardstatistik og OS-version, på dit [BRAND_NAME_PROXY]-håndsæt (kaldes \"oplysninger\"). 
+
+Hvis det kræves, at [BRAND_NAME_PROXY] videregiver oplysninger til myndighederne eller retsvæsnet, vil [BRAND_NAME_PROXY] gøre som krævet.
+
+
+
+[BRAND_NAME_PROXY]-håndsættet informerer [BRAND_NAME_PROXY] om det, hvis [BRAND_NAME_PROXY]-håndsættet ikke har været tilsluttet mobilnetværket i mindst 14 dage siden købsdatoen.
+
+
+
+Se flere detaljer i [BRAND_NAME_PROXY] Privatlivspolitik.
+
+
+
+3. Understøttelse af tjeneste
+
+[BRAND_NAME_PROXY] leverer softwaretjenester, herunder uden begrænsning opdateringer og opgraderinger, til din [BRAND_NAME_PROXY]-software baseret på den aktuelle status, som [BRAND_NAME_PROXY] får fra dit [BRAND_NAME_PROXY]-håndsæt.
+  
+[BRAND_NAME_PROXY] leverer opdateringer, rettelser og nye elementer, der er underlagt disse vilkår, til din [BRAND_NAME_PROXY]-software via internettet efter din brug af [BRAND_NAME_PROXY]-softwaren.
+
+
+
+[BRAND_NAME_PROXY] forbeholder sig ret til at lukke din adgang til [BRAND_NAME_PROXY]-tjenester og [BRAND_NAME_PROXY]-softwaren.
+
+[BRAND_NAME_PROXY] vil udgive nye versioner af [BRAND_NAME_PROXY]-softwaren og kræver, at du bruge den opdaterede OS-version.
+
+
+
+4. Automatisk opdatering
+
+Dit [BRAND_NAME_PROXY]-håndsæt er indstillet til at downloade den nyeste firmware og software automatisk fra [BRAND_NAME_PROXY], så det altid fungerer optimalt. 
+
+
+
+For at beskytte og optimere dit [BRAND_NAME_PROXY]-håndsæt skal du acceptere at følge de nødvendige instruktioner fra [BRAND_NAME_PROXY]. Når du accepterer at downloade den nyeste firmware/software, accepterer du også denne opdatering og installation.
+
+
+
+For ikke at miste dine dokumenter, fotos, tekster, lydfiler, videofiler eller andre filer, som kan gå tabt, når [BRAND_NAME_PROXY]-håndsættet opdateres, skal du sikkerhedskopiere disse filer på [BRAND_NAME_PROXY]-håndsættet, inden du downloader den nyeste version af firmwaren/softwaren. Det er dit ansvar at foretage denne sikkerhedskopiering.
+
+
+
+Når dit [BRAND_NAME_PROXY]-håndsæt opdateres automatisk eller opdateres med dit samtykke via en besked, betyder det, at du accepterer følgende:
+
+(a)\u0009Softwareopdatering:
+
+Du accepterer, at [BRAND_NAME_PROXY] tjekker dit [BRAND_NAME_PROXY]-håndsæts softwareversion og opdateringsstatus via internettet. Hvis [BRAND_NAME_PROXY] sender en opgraderingsnotifikation, tillader [BRAND_NAME_PROXY], at du opdaterer [BRAND_NAME_PROXY]-software og -status via [BRAND_NAME_PROXY]-tjenesten.
+
+Du accepterer, at [BRAND_NAME_PROXY] sender dig en notifikation, når ny [BRAND_NAME_PROXY]-software er tilgængelig. Hvis du bekræfter de nye opdateringer, betyder det, du accepterer, at [BRAND_NAME_PROXY] må opdatere dit [BRAND_NAME_PROXY]-håndsæt automatisk.
+
+(b)\u0009Indholdssynkronisering og opdatering:
+
+Når du tilslutter dit [BRAND_NAME_PROXY]-håndsæt til din computer eller en anden enhed, opdaterer dit [BRAND_NAME_PROXY]-håndsæt automatisk relevant indhold og andre oplysninger (f.eks. kontaktoplysninger, kalender, bogmærker og filer).
+
+
+
+5. Reservation af ejendomsret og andre rettigheder i [BRAND_NAME_PROXY]-softwaren
+
+Selvom du har licens til at bruge [BRAND_NAME_PROXY]-software og -tjenester, beholder [BRAND_NAME_PROXY], dets partner og leverandører alle [BRAND_NAME_PROXY]-softwarerettigheder, herunder ejendomsret, ophavsret og andre immaterielle rettigheder.
+
+
+
+Disse [BRAND_NAME_PROXY]-softwarerettigheder er beskyttet af lokal lov og internationale aftaler.
+
+
+
+6. Ansvarsfraskrivelse
+
+[BRAND_NAME_PROXY] fremsætter ingen udtrykkelige eller stiltiende erklæringer eller garantier, herunder uden begrænsning stiltiende garantier for salgsbarhed, tilfredsstillende kvalitet, egnethed til et bestemt formål og ikke-krænkelse. 
+
+[BRAND_NAME_PROXY] garanterer ikke, at:
+
+(a)\u0009enhver [BRAND_NAME_PROXY]-tjeneste, du bruger, er præcis eller pålidelig; eller
+
+(b)\u0009[BRAND_NAME_PROXY]-tjenesten leveres uden afbrydelser, rettidig og beskyttet; eller
+
+(c)\u0009alle fejl i den leverede software rettes med det samme.
+
+
+
+[BRAND_NAME_PROXY] er ikke ansvarlig for tab eller skade, der skyldes virus eller andre skadelige materialer, som kan inficere dit [BRAND_NAME_PROXY]-håndsæt, programmer, data eller andet navnebeskyttet materiale pga. din brug af [BRAND_NAME_PROXY]-tjenester. Alt indhold og andet materiale, du downloader eller henter via [BRAND_NAME_PROXY], tilgås på eget ansvar, og du er alene ansvarlig for eventuelle skader på dit [BRAND_NAME_PROXY]-håndsæt eller tab af data eller indhold, som skyldes download af software.
+
+
+
+7. Begrænsning af ansvar og eneste beføjelse
+
+[BRAND_NAME_PROXY] er ikke ansvarlig for følgeskader, hændelige, indirekte, direkte eller økonomiske skader eller for tab af fortjeneste eller fortrolige eller andre oplysninger, driftsforstyrrelser, personskade, ejendomsskade, privatlivskrænkelse eller manglende pligtopfyldelse både i god tro, ved rimelig omhu eller ved uagtsomhed.
+
+I videst mulige omfang inden for gældende lov er [BRAND_NAME_PROXY]' maksimale, samlede ansvar over for dig og din eneste beføjelse under vilkårene for skader, men, ejendomsskader og tab, der indgår i krav eller søgsmål i relation til vilkårene, begrænset til ti dollars (USD 10) til dækning af de faktiske skader, du har pådraget dig. 
+
+
+
+Flere krav eller søgsmål i relation til vilkårene udvider ikke ansvarsbegrænsningen, og den er i videst mulige omfang inden for gældende lov din eneste beføjelse.
+
+
+
+Hvis en domstol i en kompetent jurisdiktion finder, at ovenstående ansvarsbegrænsning er uden retskraft, vil den ikke blive brugt, men ordene begrænset til ti dollars vil blive erstattet af ordene \"begrænset til værdien af den transaktion, som erstatningsansvaret fremsættes for .
+ 
+ Et sådant krav eller søgsmål i relation til vilkårene skal fremsættes inden for ét år efter fremkomsten af årsagen til kravet. 
+ 8. Skadesløsholdelse
+ Du accepterer, at du vil forsvare og skadesløsholde [BRAND_NAME_PROXY], dets aktionærer, direktører, ledere, interessenter, medarbejdere, associerede og datterselskaber fra alle krav, tab, ansvar og udgifter (herunder advokatsalær), der fremsættes over for [BRAND_NAME_PROXY] af en tredjepart pga. eller i relation til din misbrug af [BRAND_NAME_PROXY]-tjenester, som krænker en tredjeparts rettigheder.
+ 
+ 9. Ophør af tjeneste
+ Du kan ikke på lovlig vis bruge [BRAND_NAME_PROXY]-tjenesterne, hvis du overtræder vilkårene. I et sådant tilfælde skal du destruere og fjerne alle kopier af [BRAND_NAME_PROXY]-softwaren. Indtil det sker, vil garantien for dit [BRAND_NAME_PROXY]-håndsæt være påvirket.
+ I tilfælde af en overtrædelse som nævnt ovenfor, accepterer du, at [BRAND_NAME_PROXY] har ret til at gøre følgende:
+ (a) omgående lukke din adgang til [BRAND_NAME_PROXY]-kontoen; og/eller
+ (b) blokere din fremtidige adgang til [BRAND_NAME_PROXY]-tjenesten
+ 
+ Du accepterer også, at enhver overtrædelse af vilkårene kan medføre uoprettelig skade på [BRAND_NAME_PROXY], som pengeerstatning ikke kan dække, og du indvilliger i, at [BRAND_NAME_PROXY] kan nedlægge forbud og anvende andre retskrav, som [BRAND_NAME_PROXY] finder nødvendige eller passende. Disse beføjelser gælder ud over dem, som [BRAND_NAME_PROXY] har ifølge loven og billighedsret.
+ 
+ 10. Lovvalg og jurisdiktion
+ Du accepterer, at alle sager relateret til alle tvister om vilkårene er underlagt lovgivningen i Folkerepublikken Kina uden hensyntagen til konflikter mellem lovbestemmelser. 
+ 
+ Du accepterer, at Taiwan Taipai Distriktsret er personlig jurisdiktion og værneting, og frafalder enhver protest mod jurisdiktion/værneting.
+ 
+ Enhver tvist, der ikke kan løses ved en mindelig aftale mellem dig og [BRAND_NAME_PROXY], kan indgives til mægling af dig eller [BRAND_NAME_PROXY]. Hvis tvisten ikke kan løses ved mægling inden for 30 kalenderdage, skal sagen anlægges ved den ovenfor nævnte distriktsret.
+ 
+ 11. Generel klausul
+ Overskrifterne i vilkårene er kun til orientering.
+ Hvis [BRAND_NAME_PROXY] ikke retsforfølger din overtrædelse, bortfalder retten til at retsforfølge denne overtrædelse eller senere/lignende overtrædelser ikke.
+ 
+ Hvis en ret i en kompetent jurisdiktion bestemmer, at en del af disse vilkår er ugyldig eller uden retskraft, erstattes den ugyldige eller ikke-håndhævelige bestemmelse med en gyldig, retskraftig bestemmelse, som tættest muligt svarer til hensigten i den oprindelige bestemmelse, mens de øvrige vilkår fortsat gælder. 
+ 
+ Du må ikke overdrage vilkårene eller overdrage, overføre eller underlicensere rettighederne i vilkårene.
+ 
+ [BRAND_NAME_PROXY] kan når som helst overdrage disse vilkår helt eller delvist med eller uden varsel til dig. 
+ 
+ Disse vilkår tilsidesætter al tidligere eller midlertidig kommunikation mellem dig og [BRAND_NAME_PROXY] vedrørende dette websted.
+ 
+ 12. Fuldstændig aftale
+ Disse vilkår og opdaterede tillæg udgør hele aftalen mellem dig og [BRAND_NAME_PROXY] i forbindelse med [BRAND_NAME_PROXY]-tjenesterne.
+ 
+ 13. Ændring af vilkår
+ [BRAND_NAME_PROXY] kan fra tid til anden opdatere, ændre eller slette indhold i vilkårene efter eget skøn.
+ 
+ Du skal tjekke de vilkår, der er udgivet på [BRAND_NAME_PROXY]-webstedet, da de kan afvige fra de vilkår, du oprindeligt læste.
+ 
+ Du accepterer sådanne ændringer, når du bruger den opdaterede software og [BRAND_NAME_PROXY]-håndsættet.
+ "</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] juridisk</string>
+    <string name="finish_button_label">UDFØR</string>
+    <string name="google_account_add_account">Log ind med Google</string>
+    <string name="google_account_intro_description">Konfigurer Google-konto, så du kan bruge Google-tjenesterne.</string>
+    <string name="google_account_intro_title">Google-konto</string>
+    <string name="hmd_legal_message">"Tjenestevilkår 
+ 
+Ikrafttrædelsesdato: 14. oktober 2016 
+ 
+1. Accept 
+Nærværende vilkår for HMD Globals tjeneste samt privatlivspolitikken og alle øvrige vilkår og informationer, som leveres i tilknytning til tjenesten (kaldes samlet \"disse vilkår\"), finder anvendelse, hvad angår din brug af vores tjenester, websteder, indhold og software (kaldes samlet \"tjenesterne\"). Ved at tilmelde dig eller bruge vores tjenester eller en del af dem accepterer du disse vilkår. 
+ 
+Disse vilkår udgør en aftale mellem dig og HMD Global Oy (adresse: Bertel Jungin aukio 9, 02610 Espoo, Finland) (herunder dennes datterselskaber og leverandører – kaldes samlet \"HMD Global\"), som definerer dine og HMD Globals rettigheder og ansvar i forbindelse med tjenesterne. 
+ 
+2. Forudsætninger 
+Du skal være over 13 år gammel for at bruge vores tjenester. Hvis du er under 13 år gammel, eller over 13 år gammel men ikke betragtes som voksen, der hvor du bor, skal du få en af dine forældre eller værger til at tilmelde sig på dine vegne og godkende din brug af vores tjenester. Den person, der udfylder tilmeldingsformularen, skal have juridisk habilitet til at indgå aftaler. 
+ 
+3. Tilmelding og annullering 
+For at bruge en given tjeneste skal du tilmelde dig (registrere dig) og oprette en HMD-konto med et brugernavn og en adgangskode (som skal være i overensstemmelse med de relevante særskilte vilkår). Du skal også give os visse personlige oplysninger og andre oplysninger. HMD Global kontrollerer din mailadresse, før du kan bruge din HMD-konto. Der sendes en sms til HMD Global første gang, du bruger din Nokia-enhed, og hver gang, du opdaterer enhedens software. Oprettelsen af en HMD-konto nødvendiggør overførsel af relevant data og opkrævning af omkostninger, der er forbundet med overførsel af relevant data. 
+ 
+Du accepterer hermed at give nøjagtige og fuldstændige oplysninger ved din tilmelding til tjenesterne samt at opdatere disse oplysninger. Du skal gøre alt, hvad du kan, for at beskytte dit brugernavn og din adgangskode og for at forhindre, at andre misbruger dem. Hvis du opdager, at nogen har misbrugt dit brugernavn og din adgangskode, skal du straks oplyse HMD Global om dette. Du – og din forælder eller værge, hvis du ikke er voksen – er ansvarlig(e) for dine handlinger i forbindelse med din brug af tjenesten. 
+ 
+Hvis du ikke ønsker at bruge vores tjenester, kan du annullere din tilmelding. Efter du annullerer tilmeldingen, har du ikke længere adgang til tjenesterne. Hvis HMD Global med rimelighed kan konkludere, at du overtræder disse vilkår, eller at du ikke har brugt dit brugernavn til at logge på en bestemt tjeneste i de forudgående seks måneder, kan HMD Global annullere eller begrænse din adgang til visse tjenester efter på forhånd at have givet varsel om dette. 
+ 
+Undtagen som det beskrives i privatlivspolitikken, påtager HMD Global sig intet ansvar for sletning eller tab af informationer eller indhold, som du overfører til tjenesterne. Der kan fortsat være spor eller kopier af sådanne informationer eller sådant indhold andre steder, efter at du eller HMD Global sletter dem fra tjenesterne. 
+ 
+4. Licenser 
+HMD Global giver dig hermed en ikke-eksklusiv og ikke-overdragelig licens (HMD Global kan efter eget skøn tilbagekalde denne licens) til at få adgang til og bruge tjenesterne. Du skal dog nøje overholde bestemmelserne i hvert eneste afsnit af disse vilkår. Brugen af tjenesterne giver dig ingen intellektuel ejendomsret til informationer eller indhold i dine tjenester. 
+ 
+Som led i tjenesterne kan HMD Global levere indhold (\"indhold\") til dig, som er udviklet af HMD Global eller dennes licenshavere. HMD Global giver dig en ikke-eksklusiv og løbende licens til at bruge sådant indhold til det tiltænkte formål, medmindre andet er angivet i de relevante vilkår eller købsordrer. Noget af indholdet leveres muligvis kun til borgere i visse geografiske regioner. Du skal overholde alle restriktioner, der gælder for din brug af det specifikke indhold, du får via tjenesterne. Enhver licens til tredjepartsindhold udgør en bindende aftale indgået mellem dig og den tredjepart, der udbyder dette indhold. Du har ret til at bruge det indhold, der specifikt gives tilladelse til i disse vilkår. 
+ 
+Som led i tjenesterne kan HMD Global levere software (\"software\") til dig, som er udviklet af HMD Global eller dennes licenshavere. Din brug af softwaren skal være i overensstemmelse med de særskilte vilkår og betingelser, som du accepterede, inden du begyndte at bruge softwaren. Hvis ingen særskilte vilkår og betingelser gælder for softwaren, finder følgende vilkår anvendelse: HMD Global giver dig en eksklusiv, uoverdragelig ret til at installere og bruge softwaren på din computer og/eller mobilenhed. Du må ikke kopiere softwaren, undtagen med det formål at lave en enkelt sikkerhedskopi. Du må ikke give eller overdrage følgende rettigheder: bruge, ændre, oversætte, kopiere, videresælge, distribuere, udleje, lease, foretage reverse engineering af eller på anden vis forsøge at afdække softwarens kildekode eller udvikle produkter på baggrund af softwaren. Licensvilkårene for de relevante open source-licenser gælder for software med open source-licens. Ved at bruge softwaren tilkendegiver du, at du accepterer alle relevante vilkår og betingelser. 
+ 
+Softwaren kan være underlagt amerikanske eksportkontrolregler (US export administration regulations) eller andre import-/eksportkontrolbestemmelser. Du accepterer på strengeste vis at overholde alle relevante import-/eksportbestemmelser og bekræfter hermed, at du er ansvarlig for at indhente alle relevante licenser, der er nødvendige i forbindelse med eksport, reeksport, overdragelse eller import af softwaren. 
+ 
+Du vil muligvis kunne overføre visse informationer eller indhold (\"materiale\") til tjenesterne. HMD Global gør ikke krav på at være indehaver af dit materiale. Dine handlinger i forbindelse med overførelsen af materialet, er på ingen måde en tilkendegivelse af, at du overdrager ejerskab af materialet til HMD Global. HMD Global er kun ansvarlig for at overføre materialet og påtager sig ikke ansvar for redaktionel kontrol over sådant indhold. Ved at overføre materialet til tjenesterne tilkendegiver du, at du giver HMD Global en global licens, der er ikke-eksklusiv, viderelicenserbar, overdragelig, fuldt betalt, royalty-fri, permanent og uigenkaldelig (og dermed licens til at bruge, kopiere, offentligt håndhæve, vise og distribuere materialet i alle medier, til at ændre materialet med det formål at indarbejde det i andet arbejde og til at give tilsvarende underlicenser i forbindelse med HMD Globals levering af tjenesterne). Du kan tilpasse disse licenser og andre tjenesteindstillinger på fortrolig vis. 
+ 
+Du er selv ansvarlig for at tage sikkerhedskopier af de data, du gemmer i tjenesterne (herunder det indhold, du uploader). HMD Global kan slette dine data permanent, hvis tjenesterne afbrydes midlertidigt eller annulleres. HMD Global har ingen pligt til at returnere de relevante data til dig, efter at tjenesterne afbrydes eller annulleres. 
+ 
+5. Brug af tjenesterne 
+Du accepterer hermed, at 
+• Du vil overholde de gældende love, disse vilkår og best practice-metoder. 
+• Du vil kun bruge tjenesterne til personlige, ikke-kommercielle formål. 
+• Du vil ikke indsende materiale, der er ulovligt, konfliktsøgende, forkert, vildledende, groft, pornografisk, chikanerende, fornærmende, injurierende eller på anden måde upassende. 
+• Du vil indhente alle samtykker, tilladelser og licenser, der er nødvendige for, at du må indsende materialet. 
+• Du vil respektere andres privatliv. 
+• Du vil ikke distribuere eller maile spam, meget store filer, kædemail, pyramideordninger eller virusser. 
+• Du vil ikke bruge teknologier eller igangsætte begivenheder/aktiviteter, som kan skade tjenesten eller tjenestebrugernes rettigheder, interesser eller ejendom. 
+• Du vil ikke anvende automatiske systemer eller metoder til at tilgå, gøre brug af, kopiere eller monitorere tjenesterne eller dele af tjenesterne. 
+• Du påtager dig ansvaret for konsekvenserne forbundet med det materiale, du lægger op eller mailer. 
+ 
+HMD Global kan (men har ikke pligt til at): 
+• Monitorere eller tilpasse indholdet eller materialet. 
+• Slette materiale fra tjenesterne. 
+• Begrænse adgangen til tjenesterne eller dele heraf til enhver tid og efter eget skøn. 
+ 
+6. Indhold 
+Inden du downloader eller tilgår noget givent indhold, skal du tjekke, om der er nogen aldersbegrænsninger for det indhold, du ønsker at tilgå, eller om det potentielt er \"stødende\" eller \"med seksuelle undertoner\". 
+ 
+HMD Global pådrager sig intet ansvar, hvad angår erstatningskrav eller kriminelle handlinger, som du forårsager eller udsættes for ved at tilgå indholdet. 
+ 
+Du accepterer hermed, at 
+• Du vil kun bruge indholdet til personlige, ikke-kommercielle formål. 
+• Du vil bruge indholdet i overensstemmelse med relevante love, supplerende bestemmelser, retningslinjer og politikker samt de produktsider, der gælder for den specifikke del af indholdet. 
+• Du må ikke kopiere, forære, sælge, videresælge, pantsætte, udleje, udlåne, tilbyde, transmittere, sende, distribuere, overføre, offentligt kommunikere, reproducere, ændre, vise, afvikle, udvikle eller levere indhold kommercielt, bortset fra som der gives tilladelse til i de relevante bestemmelser. Hvis du opdager ulovlig brug, skal du straks oplyse HMD Global om dette. 
+• Du må ikke fjerne, omgå, foretage reverse-design af, dekryptere eller på anden vis ændre eller manipulere med relevante regler for brug eller forsøge at omgå digital rettighedskontrol eller andre kopibeskyttelsesfunktioner forbundet med indholdet eller andre teknologier, der anvendes til at kontrollere adgangen til eller brugen af indholdet eller oplysninger identificeret heri. 
+• Du må ikke bruge automatiske systemer eller metoder til at vælge eller downloade indhold, medmindre de er leveret af HMD Global. 
+• Du må ikke røbe din adgangskode eller på anden vis give en anden person adgang til indholdet. 
+ 
+Alle gældende begrænsninger vedrørende kopiering af de relevante medier gælder også for indhold, der er en del af disse tjenester. 
+ 
+Indholdet ejes og/eller kontrolleres af HMD Global og/eller dennes forskellige licenshavere og er beskyttet af love om intellektuel ejendom. En tredjepart, der udbyder indhold, er kun ansvarlig for det indhold, som denne har leveret, for garantier i det omfang, garantierne ikke er givet afkald på, og for de af dine retskrav, der vedrører dette indhold eller din brug af dette indhold. HMD Global kan dog gøre vilkår for tredjepartsindholdslicenser gældende over for dig, når HMD Global er af sådanne vilkår begunstiget tredjemand. Som af disse vilkår begunstigede tredjemænd kan de tredjeparter, der leverer indhold, gøre de bestemmelser gældende, som direkte vedrører det indhold, de har rettigheder i. I forbindelse med leveringen af indhold til dig kan HMD Global fungere som repræsentant for tredjeparter, der leverer indhold. HMD Global har ikke part i transaktioner mellem dig og tredjeparterne, hvad angår sådant indhold. 
+ 
+7. Krænkelse af copyright 
+HMD Global respekterer tredjeparters intellektuelle ejendomsrettigheder. Hvis du ønsker at sende en meddelelse om krænkelse af intellektuel ejendomsret (herunder erstatningskrav på grund af krænkelse af copyright), bedes du anvende vores procedurer for indsendelse af meddelelser om rettighedskrænkelse. Forespørgsler, der ikke er relevante i forhold til denne procedure, vil ikke blive besvaret. 
+ 
+HMD Global anvender den procedure, der er beskrevet i Title 17, United States Code, Section 512, til at reagere på meddelelser om krænkelse af copyright. Hvis omstændighederne kræver det, kan HMD Global også deaktivere eller lukke en brugerkonto til HMD Globals tjenester (for at forhindre gentagne krænkelser). 
+ 
+8. Meddelelser 
+HMD Global kan fremsende meddelelser, der er relevante i forhold til tjenesterne. HMD Global kan også sende meddelelser om produkter og tjenester til den mailadresse eller det telefonnummer, du har givet os. Du anses for at have modtaget disse meddelelser, højst syv dage fra den dato, hvor HMD Global sender dem eller slår dem op. Fortsætter du med at bruge vores tjenester, anses du for at have modtaget alle de meddelelser, vi har sendt, uanset leveringsmetode. 
+ 
+9. Gebyrer 
+Du skal muligvis betale visse gebyrer for at kunne bruge tjenesterne. 
+ 
+Alle gebyrer, der opkræves af HMD Global, er listet individuelt efter tjenestetype. 
+ 
+Brugen af tjenesterne kan medføre overførsel af visse data via dit mobilselskabs netværk. Tjenestepriserne omfatter ikke gebyrer for datatransmission, sms, taletelefoni eller andre betalinger for ydelser, som opkræves af dit mobilselskab. 
+ 
+HMD Global påtager sig ikke ansvar for betalinger til dit mobilselskab. 
+ 
+10. Bestillings- og betalingsvilkår 
+For bestillinger gælder følgende: 
+ 
+Du skal have nået myndighedsalderen ifølge gældende lov for at kunne afgive en bestilling i tjenesterne. Hvis du ikke har nået myndighedsalderen, må du kun afgive en bestilling med samtykke fra forælder eller værge. 
+ 
+Du accepterer, at alle bestillinger har retskraft og er juridisk bindende. Alle bestillinger er betinget af HMD Globals accept. 
+ 
+Du må betale med kredit- eller hævekort, gennem dit mobilselskab eller ved hjælp af andre betalingsmetoder, der måtte være tilgængelige. 
+ 
+Dit kredit- eller hævekort skal have en faktureringsadresse i det land, hvor tjenesterne leveres. HMD Global trækker betalingen på dit betalingskort, inden for rimelig tid efter at du har afgivet din bestilling. 
+ 
+Alle kreditkortbetalinger kontrolleres for at være gyldige og skal godkendes af kortudstederen. 
+ 
+Hvis du vælger betaling via dit mobilselskab, vil betalingerne figurere på din mobiltelefonregning eller blive trukket fra din forudbetalte konto. Visse mobilselskaber kan underlægge brugen af tjenesten yderligere vilkår og betingelser samt fastlægge grænser for, hvor meget du kan betale via mobilselskabet. Betalinger, der overskrider mobilselskabets grænser eller din kontosaldo, kan blive afvist. 
+ 
+Du accepterer at betale de relevante gebyrer i forbindelse med din bestilling, at sikre at betalingsinstrumentet er gyldigt i bestillingsperioden, at du er den retmæssige ejer af betalingsinstrumentet, og at du anvender betalingsinstrumentet inden for dets kreditgrænse. 
+ 
+Du har tilladelse til at bruge alt indhold, der er blevet leveret til dig. Du accepterer kun at bruge indholdet, som det er tilladt ifølge disse vilkår og eventuelle yderligere bestemmelser, du måtte blive forelagt i bestillingsprocessen. 
+ 
+Tjenesterne leverer abonnementsindhold. Du giver os tilladelse til at opkræve et periodisk gebyr for tjenesterne i abonnementsperioden. Tjenesterne kan også give mulighed for en prøveperiode. Hvis din bestilling vedrører en prøveperiode (køb efter prøvebrug), vil du blive opkrævet de relevante gebyrer efter prøveperiodens udløb, medmindre du annullerer i overensstemmelse med abonnements-/prøvevilkårene. 
+ 
+Priserne for tjenesterne kan til enhver tid ændres. Medmindre andet er angivet, inkluderer priserne de relevante skatter, der gælder på tidspunktet for transaktionen. Yderligere gebyrer kan pålægges af din bank- eller kreditkortudbyder på grundlag af valutavekslingskurser og/eller yderligere vurderede gebyrer. 
+ 
+11. Annullering og refusion 
+Du accepterer, at vi leverer det relevante indhold i elektronisk form, efter du afgiver en bestilling. Din bestilling kan ikke annulleres, når den først er blevet behandlet, og det relevante indhold kan heller ikke returneres. 
+ 
+Hvis du opdager, at nogen af følgende omstændigheder gør sig gældende, efter du sender din bestilling, skal du omgående oplyse HMD Global om det inden for 48 timer: (a) Der er fejl i det indhold, du bestilte, (b) der er uoverensstemmelse mellem det indhold, du bestilte via tjenesten, og det indhold, HMD Global har leveret, (c) tekniske problemer har forsinket eller forhindret leveringen af indholdet til dig eller ved et uheld ført til flere bestillinger. Under sådanne omstændigheder kan din mulighed for udbedring i forhold til dette indhold kun være en ombytning af indholdet eller refusion af det beløb, du betalte for indholdet. HMD Global træffer beslutning om dette på grundlag af omstændighederne i det enkelte tilfælde. 
+ 
+Bortset fra dette gives der ingen refusion. Kontakt venligst HMD Globals kundeserviceafdeling, hvis du oplever nogen af førnævnte tekniske problemer. 
+ 
+Hvis du ikke kan give os dit transaktions-ID (det transaktions-ID, du fik af HMD Global, efter du afgav tjenestebestillingen), vil HMD Globals kundeserviceafdeling ikke være i stand til at behandle din kundesupporthenvendelse. Hvis den samlede pris for indholdet overstiger det pengebeløb, der fremgår af den relevante lokale lovgivning, påtager HMD Global sig ansvaret for at behandle refusionen. 
+ 
+12. Feedback til HMD Global 
+Ved at indsende meninger, feedback og/eller forslag til HMD Global via tjenesten eller på anden vis (\"feedback\") tilkendegiver du, at du bekræfter og accepterer, at: (1) HMD Global kan have udviklingsideer, der i høj grad minder om feedbacken, (2) din feedback omfatter ikke fortrolig eller ejendomsretligt beskyttet viden tilhørende dig eller en tredjepart, (3) HMD Global er på ingen måde forpligtet til fortrolighed, hvad angår din feedback, (4) HMD Global kan frit bruge, distribuere, udnytte, videreudvikle eller modificere feedbacken til ethvert tænkeligt formål, og (5) du har ikke krav på at modtage nogen form for kompensation fra HMD Global. 
+ 
+13. Sociale aktiviteter og positionsdeling 
+Du må bruge funktionerne i tjenesterne til at dele din placering, din status, dit materiale eller personlige oplysninger eller til at interagere med andre brugere, websteder og tjenester. Ved at bruge disse funktioner tilkendegiver du, at HMD Global kan bruge sådanne informationer og levere dem til andre tjenesteorganisationer og personer, som du har valgt at interagere med eller at dele informationerne med. Disse tjenestebrugere og personer, for eksempel dine kontakter, vil muligvis kunne se din placering, din status og/eller dine personlige oplysninger. I forbindelse med brugen af disse funktioner accepterer du, at du ikke vil dele informationer, indhold eller materiale eller linke til tjenester eller websteder, der: (a) indeholder indhold eller andet materiale, som er ulovligt eller upassende, (b) udnytter intellektuelle ejendomsrettigheder uden tilladelse eller opfordrer brugere til piratkopiering eller plagiat. Alle interaktioner finder sted mellem dig og andre brugere og implicerer således ikke HMD Global. 
+ 
+14. Tilgængelighed og tekniske krav 
+Tilgængeligheden af indhold og tjenester kan ændre sig og er underlagt HMD Globals eget skøn. HMD Global fraskriver sig udtrykkeligt enhver tilkendegivelse eller garanti vedrørende tilgængeligheden af specifikt indhold eller specifikke tjenester. HMD Global leverer ikke tjenester i alle lande og tilbyder kun tjenesterne på nogle få udvalgte sprog. Tjenesterne og driften af dem samt visse funktioner afhænger også af de relevante netværks og den anvendte enheds kompatibilitet og understøttede indholdsformater. 
+ 
+For at få adgang til tjenesterne skal du downloade specifikt software eller dele heraf fra HMD Global eller en anden udvikler. 
+ 
+HMD Global kan ændre, rette eller midlertidigt afbryde hele eller dele af tjenesten på grundlag af givne omstændigheder og tilbyder sandsynligvis ikke tjenesterne i vedligeholdelsesperioder og på visse andre tidspunkter. Din kan enhed automatisk søge efter softwareopdateringer fra HMD Global for at sikre, at du har den nyeste enhedssoftware og de nyeste applikationer Hvis en opdatering registreres, vil du blive anmodet om at acceptere installationen af den. Du kan konfigurere enheden, så de automatiske opdateringstjek slås fra. Du kan installere software via de tilgængelige softwareopdateringskanaler. Hvis HMD Global betragter en softwareopdatering som værende ekstremt vigtig, må du ikke fortsætte med at bruge den tidligere version af softwaren. HMD Global kan forhindre dig i at bruge tidligere versioner af softwaren eller tjenesterne, indtil du installerer opdateringerne. 
+ 
+HMD Global kan forhindre brugen af indhold eller software på din tjenestekonto, fjerne indhold eller software og/eller deaktivere eventuelle kopier af applikationer på din bestilte enhed for at beskytte tjenesterne, applikationsudbydere, udbydere af trådløse netværkstjenester, hvis netværk du bruger til at tilgå tjenesterne, eller andre berørte eller potentielt berørte parter. 
+ 
+Specifikke tjenester kan være foreløbige versioner, fx testversioner, og vil derfor muligvis ikke fungere på samme måde som den endelige version. HMD Global kan i væsentlig grad ændre tjeneste- eller softwareversionerne eller beslutte ikke at udgive en endelig version. 
+ 
+15. Links til tredjeparters websteder og indhold 
+HMD Global kan levere links til andre websteder og tjenester på internettet eller præinstallerede klienter, som gør dig i stand til at interagere med websteder og tjenester, som ejes eller drives af tredjeparter (sådanne websteder og tjenester regnes ikke som en del af HMD Globals tjenester og er derfor ikke omfattet af disse vilkår). Inden du bruger sådanne websteder eller tjenester, skal du gennemlæse og acceptere vilkårene og betingelserne for disse websteder og tjenester. 
+ 
+HMD Global har ingen ret til at kontrollere tredjeparters indhold, websteder eller tjenester. HMD Global påtager sig derfor intet ansvar for de tjenester, der leveres, eller det materiale, der oprettes eller udgives på grundlag af disse tredjeparters websteder eller tjenester. Et link til en bestemt tredjeparts websted betyder på ingen måde, at HMD Global godkender webstedet eller de produkter eller tjenester, der nævnes på webstedet. 
+ 
+Endvidere kan du og andre brugere oprette indhold og links til tjenesternes indhold (uden at overføre dette indhold til de tjenester, der er beskrevet i disse vilkår). HMD Global påtager sig intet ansvar for indhold eller links af denne type. 
+ 
+16. Reklamer 
+Tjenesterne kan indeholde visse reklamer. Disse reklamer fremhæver indhold eller informationer, der er gemt i tjenesterne, forespørgsler leveret via tjenesterne eller anden information. 
+ 
+17. Personoplysninger 
+Privatlivspolitikken og eventuelle yderligere privatlivsinformationer regulerer brugen af dine personoplysninger. 
+ 
+18. Ansvarsbegrænsninger 
+Tjenesten leveres \"som den forefindes\" og \"som den er tilgængelig\". HMD Global garanterer ikke, at tjenesten ikke afbrydes, eller at den er fejl- eller virusfri. HMD Global stiller ingen garanti af nogen art, hverken direkte eller indirekte, for tilgængeligheden, nøjagtigheden, pålideligheden eller indholdet af tjenesterne eller deres informationer, herunder, men ikke begrænset til, garanti for ejerrettigheder, ikke-krænkelse af rettigheder, salgbarhed eller egnethed til et bestemt formål. Du accepterer og bekræfter udtrykkeligt, at du forstår, at brugen af tjenesten sker på dit helt eget ansvar, og at du kan blive udsat for indhold fra mange forskellige kilder. 
+ 
+Med undtagelse af erstatningspligt for dødsfald eller personskade forårsaget af grov uagtsomhed eller forsætlige ulovligheder er HMD Global under ingen omstændigheder pligtig til at betale pønalt begrundet erstatning, erstatning for indirekte tab eller erstatning for hændelige skader som følge af din brug af eller manglende mulighed for at bruge tjenesterne. 
+ 
+19. Erstatning 
+Du accepterer at betale erstatning til HMD Global og holde HMD Global skadesløs i forbindelse med alle erstatningskrav fra tredjeparter samt ansvar, beskatning, tab, udgifter eller skader, som opstår på grund af følgende: (1) Du overtræder disse vilkår, (2) du krænker eller overtræder rettigheder til intellektuel ejendom, andre rettigheder eller en tredjeparts privatliv, eller (3) en tredjepart misbruger tjenesterne, og misbruget blev gjort muligt, fordi du ikke tog rimelige foranstaltninger til at beskytte dit brugernavn og din adgangskode mod at blive misbrugt. 
+ 
+20. Diverse 
+ 
+20.1 Lovvalg 
+Disse vilkår reguleres af finske love (uden hensyntagen til de finske bestemmelser om lovkonflikt). 
+ 
+20.2 Gyldighed 
+Disse vilkår hverken udelukker eller begrænser lovfæstede rettigheder, som du ikke har givet afkald på i dit bopælsland. Hvis det vurderes, at en bestemmelse i disse vilkår er ugyldig, påvirker det ikke gyldigheden af de andre bestemmelser. De ugyldige bestemmelser erstattes af gyldige bestemmelser, der kommer så tæt som muligt på hensigten og formålet med disse vilkår. Hvis en eller flere bestemmelser i disse vilkår ikke er relevante for din brug af tjenesterne, påvirker det ikke gyldigheden eller retskraften af vilkårenes andre bestemmelser eller af denne paragraf. 
+ 
+I tilfælde af konflikt mellem disse HMD Global-tjenestevilkår og privatlivspolitikken har bestemmelserne i tjenestevilkårene forrang. De bestemmelser i nærværende vilkår, som tilsigtes fortsat at gælde efter annullering af din tilmelding, forbliver gældende efter annulleringen. 
+ 
+20.3 Ændringer af vilkårene 
+HMD Global kan til hver en tid revidere disse vilkår uden at give besked derom andetsteds. Hvis vilkårene ændres på en væsentlig, negativ måde, giver HMD Global dig særskilt besked om ændringerne. 
+ 
+Du bør læse disse vilkår jævnligt. Ved at fortsætte med at bruge tjenesterne tilkendegiver du, at du accepterer alle ændringer af disse. 
+ 
+21. Rettigheder til intellektuel ejendom 
+Tjenesterne, indholdet og softwaren er beskyttet af international copyrightlovgivning. HMD Global har copyrightejerskab i sine tjenester, sit indhold og sin software i lovens videste udstrækning. I overensstemmelse med disse vilkår forbeholder HMD Global sig alle rettigheder, al ejerskab og alle interesser i tjenesterne samt deres indhold og software og alle øvrige HMD Global-produkter, -software og -aktiver, der leveres til dig, eller som du anvender via tjenesterne. 
+ 
+22. Overdragelse 
+HMD Global kan overdrage sine rettigheder og forpligtelser i medfør af disse vilkår til sit moderselskab, til ethvert af sine datterselskaber eller til et selskab, der er under samme bestemmende indflydelse som HMD Global. Endvidere kan HMD Global overdrage sine rettigheder og forpligtelser efter disse vilkår til en tredjepart, der er tilknyttet HMD Global som følge af fusion, salg af aktiver, juridiske bestemmelser eller af andre årsager."</string>
+    <string name="hmd_user_experience_program_message">Din deltagelse i brugeroplevelsesprogrammet hjælper HMD Global med bedre at forstå, hvad du godt kan lide ved din Nokia-enhed, og hvor du synes, at den skal forbedres. Vi kan fra tid til anden modtage anonyme data med tekniske oplysninger om din enhed. Det kunne f.eks. være en fil med data om et softwarenedbrud, der kan være forekommet. Bemærk, at sådanne data ikke sendes via en mobilforbindelse. Vi vil meget gerne høre fra dig, hvad du synes om din Nokia-enhed!</string>
+    <string name="hmd_user_experience_program_title">Brugeroplevelsesprogram</string>
+    <string name="idle_too_long_toast">Telefonen skal ikke bruges i et stykke tid. Sluk den for at spare strøm.</string>
+    <string name="language_selection_cancel_btn">ANNULLER</string>
+    <string name="language_selection_title">Vælg dit sprog</string>
+    <string name="location_for_service">Brug Min placering til Google-søgning og andre Google-tjenester.</string>
+    <string name="location_info_1">Googles placeringstjeneste oplyser din omtrentlige placering til apps uden brug af GPS.</string>
+    <string name="location_info_2">Du kan slå funktionerne fra i Indstillinger under Placeringstjenester.</string>
+    <string name="location_network">Tillad Googles placeringstjeneste at indsamle anonyme placeringsdata. Indsamlingen foregår også, når der ikke er aktive apps.</string>
+    <string name="location_title">Brug Google Placering</string>
+    <string name="nevigation_selection_back">Tilbage</string>
+    <string name="nevigation_selection_home">Startside</string>
+    <string name="nevigation_selection_recent">Seneste</string>
+    <string name="nevigation_selection_text">Du kan ændre baggrundsfarven og placeringen af Tilbage/Seneste-taster.</string>
+    <string name="nevigation_selection_title">Indstillinger for navigationslinje</string>
+    <string name="next_btn_lebel">NÆSTE</string>
+    <string name="normal_date_format">Regional (%s)</string>
+    <string name="search_menu_title">Søg</string>
+    <string name="setup_complete_hmd">Du er klar til at gå i gang...</string>
+    <string name="setup_complete_main">Du er</string>
+    <string name="setup_complete_sub">KLAR TIL AT GÅ I GANG.</string>
+    <string name="setup_completed_congratulations">Tillykke!</string>
+    <string name="sim_not_exist_toast">Tjek, om du har indsat et SIM-kort.</string>
+    <string name="skip_add_account_button_label">Ikke nu</string>
+    <string name="skip_button_label">Spring over</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Enig</string>
+    <string name="term_disagree_text">Uenig</string>
+    <string name="terms_of_service_description">"
+Det kan koste et ekstra gebyr for mobildata, når du bruger tjenester, der kræver netværksforbindelse, f.eks. vejrtjenester, internettjenester, mail, browser osv. Vi anbefaler, at du får et mobilabonnement hos din udbyder, så du nemmere kan styre udgifterne til mobildata.
+
+Når du accepterer, tillader du, at disse tjenester får netværksforbindelse, når det er nødvendigt.
+
+Desuden opdateres softwaren som standard automatisk. Du skal muligvis bruge nogle få mobildata for at få den nyeste software. Du kan altid ændre tilladelsen under Indstillinger.
+
+"</string>
+    <string name="terms_title">Dataforbrug</string>
+    <string name="time_picker_title">Tidspunkt</string>
+    <string name="traffic_prompt_content">Hvis du ikke accepterer, skal du hente softwareopdateringer, vejrudsigten og andre oplysninger manuelt.</string>
+    <string name="upload_agent_des_text">"Vær med i brugeroplevelsesprogrammet. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Læs mere&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Deltag i Nokias brugeroplevelsesprogram. &lt;a href='launch.UserExperienceActivity://Kode'>Læs mere.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Brugeroplevelsesprogram</string>
+    <string name="v7_preference_off">FRA</string>
+    <string name="v7_preference_on">TIL</string>
+    <string name="welcome_hmd_term_of_use_2">"Hvis du trykker på pilen, accepterer du &lt;a href='launch.TermOfServiceActivity://Kode'>tjenestevilkårene&lt;/a> og &lt;a href='launch.AddUploadAgentHandler://Kode'>privatlivspolitikken&lt;/a>. Oplysningerne om aktivering af enheder, hvor placeringen af enheden identificeres én gang, sendes til HMD Global. Der kan gælde datagebyrer."</string>
+    <string name="welcome_infocus_term_of_use">"Tryk på pilen for at acceptere&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Brugsvilkår&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Lad os komme i gang</string>
+    <string name="welcome_message">Velkommen</string>
+    <string name="welcome_start_button_label">START</string>
+    <string name="welcome_vision_settings_button_label">Synsindstillinger</string>
+    <string name="wifi_picker_connection_des_text">Hvis WLAN deaktiveres, kan det koste et gebyr, når softwaren tjekkes via mobilnetværket.</string>
+    <string name="wifi_picker_connection_negative">Tilslut</string>
+    <string name="wifi_picker_connection_negative_prc">Tilslut WLAN</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Netværksforbindelse</string>
+    <string name="wifi_picker_warning_des_text">Telefonen kan ikke tjekke, om softwaren er opdateret, før du har en internetforbindelse.</string>
+    <string name="wifi_picker_warning_negative">Spring over alligevel</string>
+    <string name="wifi_picker_warning_positive">Spring ikke over</string>
+    <string name="wifi_picker_warning_title">Advarsel</string>
+    <string name="zone_auto">Automatisk tidszone</string>
+    <string name="zone_auto_summaryOff">Brug netværkets tidszone</string>
+    <string name="zone_auto_summaryOn">Brug netværkets tidszone</string>
+    <string name="sugarsync_intro_description">Du kan nemt lagre ting i skyen med SugarSync – du skal bare udføre et par nemme trin.</string>
+</resources>

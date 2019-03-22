@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ScrollView n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <LinearLayout n1:orientation="vertical" n1:paddingLeft="20.0dip" n1:paddingTop="20.0dip" n1:paddingRight="20.0dip" n1:paddingBottom="20.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <LinearLayout n1:orientation="vertical" n1:id="@id/layout_configurations" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <TextView n1:textSize="20.0sp" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/secretcode_configurations" />
+                <View n1:background="#ff000000" n1:layout_width="fill_parent" n1:layout_height="3.0dip" />
+                <LinearLayout n1:focusable="true" n1:focusableInTouchMode="true" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_auto_check_interval" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <EditText n1:gravity="center" n1:id="@id/ET_AutoCheckInterval" n1:layout_width="120.0dip" n1:layout_height="wrap_content" n1:digits="\ 0123456789" n1:inputType="numberDecimal" n1:labelFor="@id/ET_AutoCheckInterval" />
+                </LinearLayout>
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_apn_max_profile" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <EditText n1:gravity="center" n1:id="@id/ET_ApnMaxProfile" n1:layout_width="120.0dip" n1:layout_height="wrap_content" n1:digits="\ 0123456789" n1:inputType="numberDecimal" n1:labelFor="@id/ET_ApnMaxProfile" />
+                </LinearLayout>
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_max_password_retry" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <EditText n1:gravity="center" n1:id="@id/ET_MaxPasswordRetry" n1:layout_width="120.0dip" n1:layout_height="wrap_content" n1:digits="\ 0123456789" n1:inputType="numberDecimal" n1:labelFor="@id/ET_MaxPasswordRetry" />
+                </LinearLayout>
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_ui_mode" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <Spinner n1:id="@id/SP_UiMode" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_dump_message" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <Switch n1:id="@id/SB_DumpMsg" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_set_default" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <Switch n1:id="@id/SB_SetDefault" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_security_only" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <Switch n1:id="@id/SB_SecurityOnly" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_read_only" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <Switch n1:id="@id/SB_ReadOnly" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout n1:orientation="vertical" n1:id="@id/layout_debug_log" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <TextView n1:textSize="20.0sp" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="30.0dip" n1:text="@string/secretcode_debug_log" />
+                <View n1:background="#ff000000" n1:layout_width="fill_parent" n1:layout_height="3.0dip" />
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_show_log" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <Switch n1:id="@id/SB_ShowLog" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_show_parser_log" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <Switch n1:id="@id/SB_ShowParserLog" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip">
+                    <TextView n1:textSize="16.0sp" n1:layout_gravity="center_vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/secretcode_show_detail_reslut_log" />
+                    <View n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:layout_weight="1.0" />
+                    <Switch n1:id="@id/SB_ShowDetailReslutLog" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout n1:orientation="vertical" n1:id="@id/layout_database" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <TextView n1:textSize="20.0sp" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="30.0dip" n1:text="@string/secretcode_database" />
+                <View n1:background="#ff000000" n1:layout_width="fill_parent" n1:layout_height="3.0dip" />
+                <Button n1:id="@id/btn_reset" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="20.0dip" n1:text="@string/secretcode_reset" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

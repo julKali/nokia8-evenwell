@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/linux_android_debug_name" android:key="parent">
+        <PreferenceScreen android:title="@string/strHostRamdumpConf" android:summary="@string/strHostRamdumpConf">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.ModemRamdumpConfig" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

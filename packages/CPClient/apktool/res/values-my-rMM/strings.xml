@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP ဖောက်သည်</string>
+    <string name="fih_cp_apn_not_set">&lt;မသတ်မှတ်ထားပါ></string>
+    <string name="fih_cp_apply_dialog_body_msg">တပ်ဆင်မှု အသစ်ကို လျှောက်ထားလိုပါသလား။</string>
+    <string name="fih_cp_apply_dialog_head_msg">ပေးအပ်မှု အသစ်</string>
+    <string name="fih_cp_btn_back">နောက်သို့</string>
+    <string name="fih_cp_btn_cancel">မလုပ်တော့</string>
+    <string name="fih_cp_btn_next">ရှေ့သို့</string>
+    <string name="fih_cp_btn_ok">အိုကေ</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">စစ်မှန်ကြောင်းအတည်ပြုရန်အမျိုးအစား</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">တစ်ခုမှမဟုတ်ပါ</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP သို့မဟုတ် CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">ပို့ နံပါတ်</string>
+    <string name="fih_cp_editor_apn_http_proxy">ပရောက်စီ</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">MMSပို့နံပါတ်</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMSပရောက်စီ</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">အမည်</string>
+    <string name="fih_cp_editor_apn_password">လျို့ဝှက် နံပါတ်</string>
+    <string name="fih_cp_editor_apn_server">ဆာဗာ</string>
+    <string name="fih_cp_editor_apn_type">APNအမျိုးအစား</string>
+    <string name="fih_cp_editor_apn_user">သုံးစွဲသူ အမှတ်</string>
+    <string name="fih_cp_error_apn_empty">APN နေရာ လွတ်နေ၍ မရပါ။</string>
+    <string name="fih_cp_error_name_empty">အမည်အကွက်မှာ ကွက်လပ်ဖြစ်မနေစေရပါ</string>
+    <string name="fih_cp_error_other">ဒေတာ ဆင်းတက်ဇ် ပြဿနာရှိသည်။</string>
+    <string name="fih_cp_error_title">သတိပြုရန်</string>
+    <string name="fih_cp_input_pin_code">ပင်နံပါတ် ထည့်သွင်းပါ-</string>
+    <string name="fih_cp_input_pin_code_cancel">မလုပ်တော့</string>
+    <string name="fih_cp_input_pin_code_empty">ပင်နံပါတ် ထည့်သွင်းပါ။</string>
+    <string name="fih_cp_input_pin_code_incorrect">ပင်နံပါတ်မှားနေပါသည်</string>
+    <string name="fih_cp_input_pin_code_ok">အိုကေ</string>
+    <string name="fih_cp_notification_channel_name">အထွေထွေ အကြောင်းကြားချက်များ</string>
+    <string name="fih_cp_notify_statusbar_content">အမှာစာ ပေးအပ်မှု အသစ်</string>
+    <string name="fih_cp_sim_not_available">SIM ကဒ် မရရှိနိုင်ပါ။</string>
+    <string name="fih_cp_toast_info_create">ပရိုဖိုင်အောင်မြင်စွာ ဖန်တီးပြီးပြီ</string>
+    <string name="fih_cp_toast_info_update">ပရိုဖိုင် အောင်မြင်စွာ အပ်ဒိတ်လုပ်ပြီးပြီ</string>
+    <string name="fih_cp_ui_mode_delete">ဖျက်ရန်</string>
+    <string name="fih_cp_ui_mode_ok">အိုကေ</string>
+    <string name="fih_cp_ui_mode_postpone">ရွှေ့ဆိုင်းသည်</string>
+</resources>

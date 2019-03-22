@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">プライバシーについて</string>
+    <string name="privacy_activity">プライバシーについて</string>
+    <string name="go_label">終了</string>
+    <string name="agree">同意する</string>
+    <string name="see_detail">詳細ショウサイ</string>
+    <string name="next_btn_lebel">次へ</string>
+    <string name="app_name">システム診断</string>
+    <string name="setting_page_name">ユーザーエクスペリエンスプログラム</string>
+    <string name="send_diag_dialog_any_network">データ接続が使用できる場合</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi 接続が使用できる場合</string>
+    <string name="send_diag_dialog_wlan">WLAN 接続が使用できる場合</string>
+    <string name="send_diag_dialog_title">診断を送信</string>
+    <string name="diagnostics_setting">診断</string>
+    <string name="diagnostics_report">診断レポート</string>
+    <string name="diagnostics_report_summary">端末でソフトウェアエラーが生じた際に診断レポートを送信します。ネットワーク使用に関する費用が発生する場合があります。通信事業者のデータネットワークパッケージのご加入をお勧めします。</string>
+    <string name="network_options">ネットワークオプション</string>
+    <string name="send_diagnostics">診断を送信</string>
+    <string name="cancel_upload_confirm_msg">ユーザーエクスペリエンスプログラムを終了しようとしています。電話機内で発生したソフトウェアエラーは保存又は送信されません。従って電話機使用中のエクスペリエンスが向上しない場合があります。</string>
+</resources>

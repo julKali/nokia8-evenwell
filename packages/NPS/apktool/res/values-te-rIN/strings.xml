@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">రద్దు చేయి</string>
+    <string name="DONE">పూర్తయింది</string>
+    <string name="NEXT">తదుపరి</string>
+    <string name="OK">సరే</string>
+    <string name="PREVIOUS">మునుపటి</string>
+    <string name="alert_empty_desc">దయచేసి మీ వివరణను జోడించండి!</string>
+    <string name="alert_warning_title">చిట్కాలు</string>
+    <string name="enter_comments">వ్యాఖ్యలను నమోదు చేయండి (1000 అక్షరాలు)</string>
+    <string name="extremely_likely">(చాలా ఇష్టం)</string>
+    <string name="feedback">అభిప్రాయం</string>
+    <string name="helps_us_improve_our_products">మా ఉత్పత్తులను మెరుగురడంలో మీ అభిప్రాయం మాకు సహాయపడుతుంది!</string>
+    <string name="intro_title">మీరు ఈ ఫోన్‌ని స్నేహితులు లేదా సహోద్యోగులకు సిఫార్సు చేయగల అవకాశం ఎంతమేరకు ఉంది?</string>
+    <string name="msg_send_after">పరికరం ఆన్‌లైన్‌లో ఉన్నప్పుడు సందేశం స్వయంచాలకంగా అప్‌లోడ్ చేయబడుతుంది. ప్రత్యుత్తరం అందించినందుకు మీకు ధన్యవాదాలు.</string>
+    <string name="msg_send_fail">పంపడం విఫలమైంది. పరికరం ఆన్‌లైన్‌లో ఉన్నప్పుడు సందేశం స్వయంచాలకంగా అప్‌లోడ్ చేయబడుతుంది. ప్రత్యుత్తరం అందించినందుకు మీకు ధన్యవాదాలు.</string>
+    <string name="no_ask_feedback_again_text">మళ్ళీ చూడు అడగవద్దు</string>
+    <string name="no_showagain_text">మళ్లీ చూపవద్దు</string>
+    <string name="not_at_all_likely">(అస్సలు నచ్చింది)</string>
+    <string name="privacy_context_wifi">"ప్రియమైన వినియోగదారులకి, 
+
+అభిప్రాయ క్లయింట్ సాఫ్ట్‌వేర్ ఉపయోగానికి స్వాగతం. దయచేసి ఈ ఉత్పత్తని ఉపయోగించడం కంటే ముందు సేవా నిబంధనలను జాగ్రత్తగా చదివి, అర్థం చేసుకోండి. 「అంగీకరించు」ని క్లిక్ చేస్తే, మీరు ఈ సాఫ్ట్‌వేర్ యొక్క హక్కులను అర్థం చేసుకున్నట్లు మరియు దీనిని ఉపయోగించడానికి అంగీకరిస్తున్నట్లు పరిగణించబడుతుంది. మీరు ఈ నిబంధనలకు అంగీకరించనట్లయితే, దయచేసి 「నిష్క్రమించు」ని నొక్కండి. మీకు సమగ్ర సేవలను అందించాలంటే అనువర్తనానికి కింది అనుమతులను అందించాలి: 
+1. అభిప్రాయాన్ని పంపడం కోసం ఇంటర్నెట్, WLAN నెట్‌వర్క్‌కు ప్రాప్యత 
+2. ఫోన్ యొక్క ప్రాథమిక సమాచారాన్ని స్వయంచాలకంగా పొందడం కోసం IMEI, PSN మరియు MNC\\MCC సమాచారాన్ని దిగుమతి చేయండి"</string>
+    <string name="select_a_value">ఒక విలువను ఎంచుకోండి</string>
+    <string name="str_agree">అంగీకరించు</string>
+    <string name="str_leave">నిష్క్రమించు</string>
+    <string name="submit_fail">సమర్పించడం విఫలమైంది</string>
+    <string name="submit_success">ప్రత్యుత్తరం అందించినందుకు మీకు ధన్యవాదాలు</string>
+    <string name="thank_your_feedback">అభిప్రాయాన్ని అందించినందుకు మీకు ధన్యవాదాలు!</string>
+    <string name="we_appreciate_your_help">Nokia ఉత్పత్తులను ప్రపంచంలోనే ఉత్తమంగా మార్చడంలో మీ సహాయాన్ని అభినందిస్తున్నాము.</string>
+    <string name="we_hope_enjoying_nokia_device">మీరు మీ Nokia పరికరాన్ని ఆస్వాదిస్తున్నట్లు బావిస్తున్నాము. మీ అభిప్రాయం మాకు చాలా మఖ్యం.</string>
+    <string name="we_will_contact_you_again">మేము భవిష్యత్తులో మిమ్మల్ని మళ్లీ సంప్రదిస్తాము.</string>
+    <string name="we_will_contact_you_again_enjoy">మేము భవిష్యత్తులో మిమ్మల్ని మళ్లీ సంప్రదిస్తాము. మీ కొత్త Nokia పరికరాన్ని ఆస్వాదించండి!</string>
+    <string name="why_you_gave_this_score">దయచేసి మీరు ఈ స్కోర్ ఇవ్వడానికి గల కారణం మాకు తెలియజేయండి:</string>
+</resources>

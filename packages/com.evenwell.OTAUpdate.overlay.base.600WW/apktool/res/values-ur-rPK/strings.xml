@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سافٹ وئیر اپ ڈیٹ</string>
+    <string name="file_not_found">فائل نہیں ملی۔</string>
+    <string name="remote_file_fail">ریموٹ فائل تک رسائی نہیں کرسکتا۔ بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="no_description">(کوئی تفصیل نہیں)</string>
+    <string name="login_fail">سرور پر لاگ ان کرنے میں ناکام۔ بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="get_service_url_fail">نیٹ ورک کی کیفیت مستحکم نہيں ہے (سروس URL حاصل کرنے میں ناکام)۔ بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="query_sw_fail">سافٹ ویئر کی معلومات پوچھنے سے قاصر۔</string>
+    <string name="download_sw_fail">سافٹ ویئر ڈاؤن لوڈ کرنے میں ناکام۔</string>
+    <string name="query_sw_incorrect">نتیجہ درست نہیں ہے۔</string>
+    <string name="no_update_available">کوئی نیا اپ ڈیٹ دستیاب نہیں ہے۔</string>
+    <string name="update_not_ready">نیا اپ ڈیٹ سرور پر دستیاب نہیں ہے۔ بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="check_now_label">ابھی چیک کریں</string>
+    <string name="checking">چیک کیا جا رہا ہے…</string>
+    <string name="verifying">توثیق کر رہا ہے...</string>
+    <string name="header_verifying_update_file">اپ ڈیٹ شدہ فائل کی تصدیق ہورہی ہے…</string>
+    <string name="unzipping">ان زپ کررہا ہے…</string>
+    <string name="please_wait">براہِ کرم انتظار کریں</string>
+    <string name="header_starting_to_download_file">فائل ڈاؤن لوڈ شروع ہورہی ہے…</string>
+    <string name="header_system_update_available">سسٹم اپ ڈیٹ دستیاب ہے</string>
+    <string name="new_version_desc_prompt">نئے ورژن میں شامل ہے:</string>
+    <string name="header_attention">توجہ دیں</string>
+    <string name="data_fee_warning">موبائل نیٹ ورک کنیکشن پر اس سروس کے استعمال سے چارج لگ سکتا ہے!</string>
+    <string name="header_downloading_update">اپ ڈیٹ ڈاؤن لوڈ ہورہا ہے</string>
+    <string name="header_install_system_software_update">سسٹم سافٹ ویئر اپ ڈیٹ نصب کریں</string>
+    <string name="msg_install_system_software_update_1">"کیا آپ درج ذیل سسٹم سافٹ ویئر انسٹال کرنا چاہتے ہیں؟
+سسٹم اپ گریڈ کریں"</string>
+    <string name="msg_install_system_software_update_2">"
+
+آپ اپ گریڈ کے دوران اپنے آلہ کو استعمال یا ہنگامی کالیں نہیں کرسکیں گے۔
+
+سافٹ ویئر کو اپ ڈیٹ کرتے وقت بیٹری یا SD کارڈ نکالنے کے غیر متوقع نتائج ہوں گے۔"</string>
+    <string name="msg_install_system_software_update_3">"
+
+آپ اپ گریڈ کے دوران اپنے آلہ کو استعمال نہیں کرسکیں گے۔
+
+سافٹ ویئر کو اپ ڈیٹ کرتے وقت پاور کٹنے یا ڈاؤن لوڈ کردہ فائل کو حذف کرنے کے غیر متوقع نتائج ہوں گے۔"</string>
+    <string name="msg_install_system_software_update_4">"
+
+آپ اپ گریڈ کے دوران اپنے آلہ کو استعمال یا ایمرجنسی کالیں نہیں کرسکیں گے۔
+
+سافٹ ویئر کو اپ ڈیٹ کرتے وقت پاور کٹنے یا ڈاؤن لوڈ کردہ فائل کو حذف کرنے کے غیر متوقع نتائج ہوں گے۔"</string>
+    <string name="button_install_now">ابھی نصب کریں</string>
+    <string name="button_install_later">بعد میں نصب کریں</string>
+    <string name="header_unable_to_connect">متصل کرنے سے قاصر</string>
+    <string name="msg_unable_to_connect">اس ایپلیکیشن کو استعمال کرنے کیلئےآپ کو نیٹ ورک کنکشن درکار ہے۔ ترتیبات میں موبائل نیٹ ورک یا Wi-Fi آن کریں۔</string>
+    <string name="msg_unable_to_connect_2">اس ایپلیکیشن کا استعمال کرنے کیلئےآپ کو نیٹ ورک کنکشن درکار ہے۔ ترتیبات میں موبائل نیٹ ورک آن کریں۔</string>
+    <string name="msg_unable_to_connect_wlan">اس ایپلیکیشن کو استعمال کرنے کیلئےآپ کو نیٹ ورک کنکشن درکار ہے۔ ترتیبات میں موبائل نیٹ ورک یا WLAN آن کریں۔</string>
+    <string name="msg_unable_to_connect_short">نیٹ ورک کنکشن نہیں ہے</string>
+    <string name="button_reset">دوبارہ ترتیب دیں</string>
+    <string name="button_settings">ترتیبات</string>
+    <string name="header_system_is_update">سسٹم اپ ٹو ڈیٹ ہے۔</string>
+    <string name="msg_system_is_update">کوئی نیا اپ ڈیٹ دستیاب نہیں ہے۔</string>
+    <string name="msg_system_is_update_short">کوئی نئے اپ ڈیٹس نہیں ہیں</string>
+    <string name="msg_no_sd_card">سسٹم اپ ڈیٹ کے لیے SD کارڈ درکار ہے۔ براہ کرم ایک دستیاب SD کارڈ داخل کریں۔</string>
+    <string name="msg_no_sd_card_short">کوئی SD کارڈ نہیں</string>
+    <string name="msg_no_available_size_card">اس اپ ڈیٹ فائل کے لیے %s MB دستیاب جگہ کی ضرورت ہے۔ براہ کرم SD کارڈ سے کچھ فائلیں حذف کردیں۔</string>
+    <string name="msg_no_available_size_card_2">اس اپ ڈیٹ فائل کے لیے %s MB دستیاب جگہ کی ضرورت ہے۔ براہ کرم ڈیٹا اسٹوریج سے کچھ فائلیں حذف کریں۔</string>
+    <string name="msg_no_available_size_card_short">اسٹوریج کی کافی جگہ نہیں ہے۔</string>
+    <string name="msg_do_not_remove_sd_card">براہ کرم SD کارڈ کو نہ ہٹائیں۔</string>
+    <string name="title_system_update_ready">سسٹم اپ ڈیٹ تیار ہے</string>
+    <string name="msg_system_update_ready">سسٹم سافٹ ویئر اپ ڈیٹ نصب کرنے کے لیے ٹیپ کریں۔</string>
+    <string name="msg_system_battery_too_low">"سسٹم اپ ڈیٹ تیار ہے، لیکن آپ کے آلہ کی بیٹری اسے نصب کرنے کے لیے بہت کم ہے۔ براہ کرم بیٹری تبدیل کریں اور بعد میں تنصیب شروع کریں۔
+
+بیٹری کی سطح 35%% سے زیادہ ہونی چاہیے۔
+ابھی بیٹری کی سطح ہے: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">بیٹری بہت کم ہے</string>
+    <string name="msg_remove_sd_card">ڈاؤن لوڈ کردہ فائل SD کارڈ میں نہیں لکھی جاسکتی۔ برائے مہربانی SD چیک کریں۔</string>
+    <string name="msg_remove_sd_card_2">ڈاؤن لوڈ کردہ فائل ڈیٹا سٹوریج میں نہیں لکھی جاسکتی۔ براہ کرم اسٹوریج چیک کریں۔</string>
+    <string name="msg_remove_sd_card_short">SD کارڈ تک رسائی سے قاصر</string>
+    <string name="msg_remove_sd_card_short_2">ڈیٹا سٹوریج تک رسائی میں ناکام۔</string>
+    <string name="msg_verify_fail">ڈاؤن لوڈ کردہ فائل کی تصدیق میں ناکام۔</string>
+    <string name="msg_verify_fail_short">تصدیق میں ناکام</string>
+    <string name="msg_unzip_fail">ڈاؤن لوڈ کردہ فائل کو ان زپ کرنے میں ناکام۔</string>
+    <string name="msg_unzip_fail_short">ان زپ کرنے میں ناکام</string>
+    <string name="hide">چھپائیں</string>
+    <string name="data_size">ڈیٹا سائز</string>
+    <string name="required_size">مطلوبہ جگہ</string>
+    <string name="network_not_match">آپ کی موجودہ ترتیب صرف WLAN کے ذریعہ ڈاؤن لوڈ ہے۔ براہ کرم ایک WLAN نیٹ ورک منتخب کریں یا اپنی ترتیبات تبدیل کریں۔</string>
+    <string name="network_not_match_short">نیٹ ورک مماثل نہیں ہے۔</string>
+    <string name="without_reboot_api">غائب API ہونے پر ری بوٹ نہیں کرسکتا۔ براہ کرم فعال اپ ڈیٹ کی دستی طور پر بازیابی کے لیے ری بوٹ کریں۔</string>
+    <string name="update_complete">سسٹم اپ ڈیٹ مکمل ہوگیا۔</string>
+    <string name="update_complete_short">اپ ڈیٹ مکمل</string>
+    <string name="file_removed">ڈاؤن لوڈ شدہ فائل ہٹا دی گئی ہے۔ براہ کرم دوبارہ ڈاؤن لوڈ کریں۔</string>
+    <string name="file_removed_short">ڈاؤن لوڈ کردہ فائل ہٹا دی گئی۔</string>
+    <string name="file_not_match">ڈاؤن لوڈ کی ہوئی فائل متوقع سائز سے میل نہیں کھاتی۔ براہ کرم دوبارہ ڈاؤن لوڈ کریں۔</string>
+    <string name="file_not_match_short">فائل مماثل نہیں ہے۔</string>
+    <string name="menu_url">سرور URL تبدیل کریں</string>
+    <string name="menu_enabled">صرف مجاز کردہ سافٹ ویئر</string>
+    <string name="using_internal_storage">داخلی اسٹوریج استعمال کرنا</string>
+    <string name="using_external_storage">بیرونی اسٹوریج استعمال کرنا</string>
+    <string name="msg_agree_message">"
+
+اپ گریڈ کی کارروائی کے سبب صارف ڈیٹا کے مٹنے کا معمولی سا امکان ہے۔ اگر ضرورت ہو تو، براہ کرم سسٹم اپ گریڈ سے قبل اپنے ڈیٹا کا بیک اپ لے لیں۔"</string>
+    <string name="msg_root_message">"
+
+آلہ کے روٹ ہونے کے بعد معمول کے اپ ڈیٹ کی ضمانت نہیں دی جاسکتی۔"</string>
+    <string name="msg_responsibility_message">اگر آلہ روٹڈ ہوگیا ہے تو، اپ ڈیٹ کے بعد سسٹم کے کسی غیر معمول برتاؤ کے لیے صارف ذمہ دار ہے۔</string>
+    <string name="msg_upgrade_agree">پڑھیں اور اتفاق کریں</string>
+    <string name="later">بعد میں</string>
+    <string name="update">تازہ معلومات</string>
+    <string name="update_summary">اپ ڈیٹس چیک کریں</string>
+    <string name="wifi_only">‏صرف Wi-Fi</string>
+    <string name="wlan_only">صرف WLAN</string>
+    <string name="wifi_only_summary">Wi-Fi دستیاب ہونے پر اپ ڈیٹس ڈاؤن لوڈ کریں</string>
+    <string name="wlan_only_summary">WLAN دستیاب ہونے پر اپ ڈیٹس ڈاؤن لوڈ کریں</string>
+    <string name="auto_update">خود کار اپ ڈیٹ</string>
+    <string name="auto_update_summary">خود بخود اپ ڈیٹس چیک کریں</string>
+    <string name="new_data_fee_warning">اپ ڈیٹس چیک کرنے اور ڈاؤن لوڈ پر اضافی چارجز لگ سکتے ہیں۔ اگر ممکن ہو تو Wi-Fi کے ذریعہ اپ ڈیٹس ڈاؤن لوڈ کریں۔</string>
+    <string name="wlan_data_fee_warning">اپ ڈیٹس چیک کرنے اور ڈاؤن لوڈ پر اضافی چارجز لگ سکتے ہیں۔ اگر ممکن ہو تو WALAN کے ذریعہ اپ ڈیٹس ڈاؤن لوڈ کریں۔</string>
+    <string name="installing">انسٹال کیا جا رہا ہے</string>
+    <string name="install_complete">انسٹال شدہ</string>
+    <string name="install_fail">تنصیب ناکام</string>
+    <string name="install_all">سبھی کو نصب کریں</string>
+    <string name="install">نصب کریں</string>
+    <string name="installed_version">نصب شدہ ورژن</string>
+    <string name="update_available">اپ ڈیٹ دستیاب ہے۔</string>
+    <string name="apk_update_available">اپلیکیشن اپ ڈیٹ دستیاب ہے۔</string>
+    <string name="recommend">تجویز کریں</string>
+    <string name="roaming_restriction">ڈیٹا رومنگ کی پابندی</string>
+    <string name="roaming_restriction_summary">ڈیٹا رومنگ کی پابندی کے سبب اپ ڈیٹ نہیں کرسکتا۔</string>
+    <string name="changelog">لاگ تبدیل کریں</string>
+    <string name="description">تصریح:</string>
+    <string name="apk_update_available_summary">%s کا ایک نیا اپ ڈیٹ دستیاب ہے۔ ابھی نصب کرنے کے لیے ٹھیک ہے پر کلک کریں یا ایک دن بعد اپ ڈیٹ چیک کرنے کے لیے منسوخ پر کلک کریں۔</string>
+    <string name="apk_removed">یہ اپلیکیشن ہٹا دی گئی ہے۔</string>
+    <string name="apk_available_items">کل %s دستیاب آئٹمز</string>
+    <string name="apk_available_item">کل %s دستیاب آئٹم</string>
+    <string name="new_forpreference">نیا:</string>
+    <string name="invalid_update_summary">اپ ڈیٹ غلط ہے، براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="recheck">دوبارہ چیک کریں</string>
+    <string name="image_download_exception_summary">سرور تک رسائی نہیں ہو سکی، براہ کرم بعد میں دوبارہ چیک کریں۔</string>
+    <string name="apk_download_exception">سرور تک رسائی نہیں کرسکتا</string>
+    <string name="installation_confirmation">تنصیب کی تصدیق</string>
+    <string name="apk_need_reboot_summary">تنصیب مکمل ہونے کے بعد سافٹ ویئر اپ ڈیٹ سسٹم کو خود بخود ری بوٹ کرے گا۔ کیا آپ ابھی نصب کرنا چاہتے ہیں؟</string>
+    <string name="downloaded">ڈاؤن لوڈ کردہ</string>
+    <string name="prepare_to_reboot">ری بوٹ کے لیے تیار</string>
+    <string name="prepare_to_reboot_summary">ترتیبات کو کنفیگر کرنے کے یے نصب شدہ سافٹ ویئر کو آلہ کو ری بوٹ کرنے کی ضرورت ہے۔ ہم ابھی ری بوٹ کرنے کا مشورہ دیتے ہیں یا آپ بعد میں ری بوٹ کرسکتے ہیں۔</string>
+    <string name="prepare_to_reboot_force_summary">ترتیبات کو کنفیگر کرنے کے یے نصب شدہ سافٹ ویئر کو آلہ کو ری بوٹ کرنے کی ضرورت ہے۔ ہم ابھی ری بوٹ کرنے کا مشورہ دیتے ہیں۔</string>
+    <string name="reboot">ریبوٹ کریں</string>
+    <string name="reboot_fail">ری بوٹ ناکام ہوگئی</string>
+    <string name="reboot_fail_summary">API غائب ہونے پر ری بوٹ نہیں کرسکتا۔ براہ کرم دستی طور پر ری بوٹ کریں۔</string>
+    <string name="apk_no_avaliable_size">داخلی اسٹوریج سائز ناکافی ہونے کی وجہ سے ڈاؤن لوڈ نہیں کرسکتا۔</string>
+    <string name="update_finished">اپ ڈیٹ مکمل ہوگئی</string>
+    <string name="header_warning">تنبیہ</string>
+    <string name="msg_root_warning">آپ کا آلہ روٹڈ ہے یا باضابطہ سافٹ ویئر کے ساتھ چھیڑ چھاڑ ہوئی ہے۔ سسٹم اپ ڈیٹ کے ساتھ آگے بڑھنے کے نتیجے میں سسٹم میں عدم استحکام یا سسٹم کریش ہوسکتا ہے، اور آپ کے آلہ کی وارنٹی کالعدم ہوسکتی ہے۔ کیا آپ واقعی جاری رکھنا چاہتے ہیں؟</string>
+    <string name="multi_image_update">کچھ تصویروں کے اپ ڈیٹس دستیاب ہیں۔</string>
+    <string name="available_update_list">دستیاب اپ ڈیٹس کی فہرست</string>
+    <string name="downloading_summary">براہ کرم ڈاؤن لوڈ کردہ امیج کو منسوخ کریں</string>
+    <string name="msg_erase_userdata_warning">صارف ڈیٹا کو مٹانے کے لیے یہ اپ ڈیٹ درکار ہے۔ کیا آپ جاری رکھنا چاہتے ہیں؟</string>
+    <string name="msg_autoupdate_date_fee_warning">خودکار اپ ڈیٹ فعال کرنے پر اضافی چارجز لگ سکتے ہیں۔</string>
+    <string name="invalid_update">اپ ڈیٹ غلط ہے۔</string>
+    <string name="file_corrupted">فائل کے خراب ہونے کی وجہ سسٹم کو اپ گریڈ نہیں کیا جاسکتا۔</string>
+    <string name="ask_for_apk_check">کیا آپ اپلیکیشن کے اپ ڈیٹس چیک کرنا چاہتے ہیں؟</string>
+    <string name="update_ota_self">سافٹ ویئر اپ ڈیٹ جاری ہے۔</string>
+    <string name="ab_update_fail">تنصیب کا مسئلہ۔</string>
+    <string name="ab_update_wrong_status">اپ ڈیٹ انجن ابھی مصروف ہے۔ براہ کرم بعد میں دوبارہ کوشش یا ری بوٹ کریں۔</string>
+    <string name="ab_update_installing">سسٹم اپ ڈیٹ کررہا ہے</string>
+    <string name="tag_engineer_mode">انجینئیر موڈ</string>
+    <string name="engineer_version_incorrect">آپ کے آلہ کا ورژن غلط ہے</string>
+    <string name="msg_engineer_ota_restore">باضابطہ ورژن بحال کرنے کے لیے ٹیپ کریں</string>
+    <string name="msg_engineer_ota_restore_warning">یہ باضابطہ ورژن کو بحال کردے گا۔ کیا آپ جاری رکھنا چاہتے ہیں؟</string>
+    <string name="silent_mode_data_fee_warning">اپ ڈیٹ دستیاب ہے۔ اپ ڈیٹس ڈاؤن لوڈ کرنے پر اضافی چارجز لگ سکتے ہیں۔ اگر ممکن ہو تو Wi-Fi کے ذریعہ اپ ڈیٹس ڈاؤن لوڈ کریں۔</string>
+    <string name="msg_updating_system">سسٹم اپ ڈیٹ کررہا ہے…</string>
+    <string name="msg_tap_to_reboot">ری بوٹ کے لیے ٹیپ کریں</string>
+    <string name="msg_pause_download">ڈاؤن لوڈ روکیں</string>
+    <string name="notification_channel_name">سسٹم اپ ڈیٹ</string>
+    <string name="notification_channel_alert_name">عام نوٹیفیکیشنز</string>
+</resources>

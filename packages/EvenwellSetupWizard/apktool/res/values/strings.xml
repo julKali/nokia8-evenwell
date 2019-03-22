@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BrandUIStyle">6</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_no_wifi">Wifi disconnected.</string>
+    <string name="accessibility_text">Accessibility</string>
+    <string name="accessibility_wifi_off">Wifi off.</string>
+    <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
+    <string name="accessibility_wifi_security_type_none">Open network</string>
+    <string name="accessibility_wifi_security_type_secured">Secure network</string>
+    <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
+    <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
+    <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
+    <string name="account_intro_description">Smarter way to use your device by joining [BRAND_NAME] Services.</string>
+    <string name="account_intro_title">[BRAND_NAME] Services Account</string>
+    <string name="add_account_button_label">Set up account</string>
+    <string name="add_baidu_button_label">Log in Baidu Yun</string>
+    <string name="add_infocus_service_account">Add [BRAND_NAME] Services Account</string>
+    <string name="amazon_in_sku">600WW</string>
+    <string name="antivirus_des1">For consumer protection in accordance with government policy, an anti-virus program (McAfee Security) was installed and is currently running.</string>
+    <string name="antivirus_des2">The anti-virus program will monitor your device in real-time and will be updated automatically.</string>
+    <string name="antivirus_des3">Updating via mobile networks may result in additional charges depending on your payment plan.</string>
+    <string name="antivirus_title">Driving antivirus Information</string>
+    <string name="app_name">SetupWizard</string>
+    <string name="auto_shutdown_time">30</string>
+    <string name="available_via_carrier">Available via %1$s</string>
+    <string name="available_via_passpoint">Available via %1$s</string>
+    <string name="back_btn_lebel">BACK</string>
+    <string name="backup_and_restore_description">"If you previously backed up your account, you can restore it to this phone now.
+
+You can change your backup settings anytime in Settings."</string>
+    <string name="backup_and_restore_title">Backup and restore</string>
+    <string name="baidu_intro_description">You can enjoy seamless cloud storages integration with Baidu Yun by completing a few easy steps.</string>
+    <string name="baidu_intro_title">Cloud storage for Baidu</string>
+    <string name="baidu_progress_dialog_des">Please Wait...</string>
+    <string name="brand_name">Commtiva</string>
+    <string name="brand_name_proxy">Commtiva</string>
+    <string name="brand_name_watermark">Our Company</string>
+    <string name="bypass_setup_skip">SKIP ANYWAY</string>
+    <string name="bypass_setup_skip_cancel">GO BACK</string>
+    <string name="bypass_setup_tip_text">Tap skip anyway will skip the setup wizard and go to home screen. You can still complete the setup from system settings later.</string>
+    <string name="bypass_setup_tip_title">Skip setup wizard</string>
+    <string name="certinstaller_package">com.android.certinstaller</string>
+    <string name="choose_timezone">Choose time zone</string>
+    <string name="connected_via_carrier">Connected via %1$s</string>
+    <string name="connected_via_network_scorer">Automatically connected via %1$s</string>
+    <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+    <string name="connected_via_passpoint">Connected via %1$s</string>
+    <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+    <string name="data_usage_metered_auto">Automatic</string>
+    <string name="data_usage_metered_no">Not metered</string>
+    <string name="data_usage_metered_yes">Metered</string>
+    <string name="datausage_dialog_negitive_btn">Cancel</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Date &amp; time settings</string>
+    <string name="date_and_time_settings_summary">Set date, time, time zone, &amp; formats</string>
+    <string name="date_and_time_settings_title">Date &amp; Time</string>
+    <string name="date_and_time_settings_title_setup_wizard">Set date and time</string>
+    <string name="date_picker_title">Date</string>
+    <string name="date_time_24hour">Use 24-hour format</string>
+    <string name="date_time_auto">Automatic date &amp; time</string>
+    <string name="date_time_auto_summaryOff">Use network-provided time</string>
+    <string name="date_time_auto_summaryOn">Use network-provided time</string>
+    <string name="date_time_date_format">Choose date format</string>
+    <string name="date_time_set_date">Set date</string>
+    <string name="date_time_set_time">Set time</string>
+    <string name="date_time_set_timezone">Select time zone</string>
+    <string name="default_date_format">MM/dd/yyyy</string>
+    <string name="device_checking_message">Welcome</string>
+    <string name="dropbox_fih_description">Get free 2 GB Dropbox space to save your photos and videos automatically.</string>
+    <string name="dropbox_fih_signin">Sign in with Dropbox</string>
+    <string name="dropbox_fih_signup">Sign up with Dropbox</string>
+    <string name="dropbox_fih_title">Dropbox</string>
+    <string name="dual_sim_setting_call_title">Select a SIM for calls</string>
+    <string name="dual_sim_setting_data_title">Select a SIM for mobile data</string>
+    <string name="emergency_dial_hmd_message">Emergency</string>
+    <string name="emergency_dial_message">Emergency call</string>
+    <string name="eula_agree">Agree</string>
+    <string name="eula_diagnostic_title">Report Diagnostic Info</string>
+    <string name="eula_privacy_title">Privacy Policy</string>
+    <string name="eula_sw_title">End User License Agreement for Software</string>
+    <string name="eula_third_party_title">Privacy Policy towards the 3rd Party Suppliers</string>
+    <string name="eula_title">User agreements</string>
+    <string name="eula_toast_disagree">In order to use our services, you must agree to this Terms of Service.</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="fih_legal_message">"Terms of [BRAND_NAME_PROXY] Software Use
+ 
+ Effective Date: May 20, 2016
+ 
+ The following Terms and Conditions (referred to as \" Terms \") constitute a legal agreement that governs your use of any [BRAND_NAME_PROXY] Software between you and [BRAND_NAME_PROXY] Inc., and its agent, Commtiva Technology Ltd. (collectively referred as \"[BRAND_NAME_PROXY]\") and apply to your use of [BRAND_NAME_PROXY] Software , including but not limited to the downloading, installation, automatic renewing (referred as \" Software Service \"). By using [BRAND_NAME_PROXY] Software you agree to be bound by these Terms; if you do not agree to the Terms, do not download, duplicate, use or retain [BRAND_NAME_PROXY] Software.
+ 
+ 1. Terms of Use
+ As long as you comply with these Terms, [BRAND_NAME_PROXY] grants you a personal, non-exclusive, non-transferable, revocable and limited scope to use [BRAND_NAME_PROXY] Software Services. [BRAND_NAME_PROXY] will install object code into your [BRAND_NAME_PROXY] mobile smart device (referred to as \" [BRAND_NAME_PROXY] Handset \") via internet. You acknowledge and consent that [BRAND_NAME_PROXY] Software on your [BRAND_NAME_PROXY] Handset cannot be used for commercial purpose or transferred to any third party.
+ You further agree that you will not use [BRAND_NAME_PROXY] Software in any of the following manner:
+ (a) Cracking [BRAND_NAME_PROXY] Software (including the underlying technologies), or using [BRAND_NAME_PROXY] Software on any device not branded in [BRAND_NAME_PROXY];
+ (b) Analyzing, decompiling, reverse engineering, decoding, copying, modifying [BRAND_NAME_PROXY] Software, or creating derivation work of such for any purpose;
+ (c) Taking any activities including but not limited to transferring, leasing, lending, or sublicensing, conflicting with the Terms and make [BRAND_NAME_PROXY] Software public or let any third party use, access or posse [BRAND_NAME_PROXY] Software;
+ (d) Removing any proprietary notice, logo, or trademarks in kinds of [BRAND_NAME_PROXY] Software or documents without prior [BRAND_NAME_PROXY] written consent;
+ (e) Using [BRAND_NAME_PROXY] Software in the way against the then-current law or infringing other party’s rights;
+ (f) Using [BRAND_NAME_PROXY] Software in the environments prohibiting or limiting such use, including but not limited flight control area, gas station, nuclear equipment; or
+ (g) Using [BRAND_NAME_PROXY] Software in the way forbidding by the Terms.
+ 
+ In order to ensure [BRAND_NAME_PROXY] Handset and [BRAND_NAME_PROXY] Software work properly, you promise and covenant that you will not destroy or move the label(s) on your [BRAND_NAME_PROXY] Handset without the assistance of [BRAND_NAME_PROXY] personnel. Such unauthorized activities will affect the scope and period of warranty [BRAND_NAME_PROXY] provides to you.
+ 
+ 2. Privacy Policy
+ You acknowledge and agree that [BRAND_NAME_PROXY] can collect and retain any information, including but not limited mode type, serial number, IMEI/MEID code、HW Version, SW Version, accumulative time, SKU ID, default statics and OS version in your [BRAND_NAME_PROXY] Handset (referred to \" Information \"). 
+ In the event that [BRAND_NAME_PROXY] is required to disclose any Information to the governmental agency or court system, [BRAND_NAME_PROXY] will do so as required.
+ 
+ [BRAND_NAME_PROXY] Handset will inform [BRAND_NAME_PROXY] the status that [BRAND_NAME_PROXY] Handset has not been connected to the mobile network for at least 14 days since the purchase date.
+ 
+ Please refer to [BRAND_NAME_PROXY] Privacy Policy for details.
+ 
+ 3. Supporting Service
+ [BRAND_NAME_PROXY] will provide Software Services, including without limitation, updates and upgrades, to your [BRAND_NAME_PROXY] Software according to the then-current status [BRAND_NAME_PROXY] obtains from [BRAND_NAME_PROXY] Handset.
+ [BRAND_NAME_PROXY] will provide updates, patches or added element to your [BRAND_NAME_PROXY] Software after your use of [BRAND_NAME_PROXY] Software via internet and which will be subject to the Terms.
+ 
+ [BRAND_NAME_PROXY] reserves the right to terminate your right to obtain any [BRAND_NAME_PROXY] Service via internet to the use of [BRAND_NAME_PROXY] Software and Service is smoothly.
+ [BRAND_NAME_PROXY] will publish sequent versions of [BRAND_NAME_PROXY] Software and require you to use the most updated OS version.
+ 
+ 4. Automatically update
+ In order to strengthen and improve your own [BRAND_NAME_PROXY] Handset, it is preset to automatically download the latest firmware and software from [BRAND_NAME_PROXY] 
+ 
+ To ensure the safety and stability of your [BRAND_NAME_PROXY] Handset, and that you agree to follow necessary instructions for such setting and follow the instruction as instructions by [BRAND_NAME_PROXY]. As you agree to download the latest firmware or software, it is deemed your acceptance this renewing and installation.
+ 
+ To avoid the loss of your own documents, photos, texts, sound files, video files, and any kinds of electric records which may be lost or destroyed as the [BRAND_NAME_PROXY] Handset conducting updates, you shall be responsible to back up all above mentioned electric records stored in the [BRAND_NAME_PROXY] Handset prior to downloading the latest version of firmware or software.
+ 
+ Once your [BRAND_NAME_PROXY] Handset automatically updates or updates with your consent through form of message, it means that you agree to the following contents:
+ (a) Software update:
+ You agree and acknowledge that [BRAND_NAME_PROXY] can connect through internet to check the software version and update status on your [BRAND_NAME_PROXY] Handset. If [BRAND_NAME_PROXY] releases any upgrade notification, [BRAND_NAME_PROXY] allows you update [BRAND_NAME_PROXY] Software versions and status through [BRAND_NAME_PROXY] Service.
+ When new [BRAND_NAME_PROXY] Software is available, you agree to let [BRAND_NAME_PROXY] send you notification of such updates. If you confirm the new available updates it means that you agree to let [BRAND_NAME_PROXY] automatically update your [BRAND_NAME_PROXY] Handset.
+ (b) Contents sync and update:
+ After you connect your [BRAND_NAME_PROXY] Handset with your computer or other device, your [BRAND_NAME_PROXY] Handset will automatically update related contents and other information (ex: contact information, calendar, bookmarks and files.)
+ 
+ 5. Reservation of all proprietary and other rights in [BRAND_NAME_PROXY] Software
+ Although you are licensed to use [BRAND_NAME_PROXY] Software and Services, [BRAND_NAME_PROXY], its affiliate and suppliers retain all [BRAND_NAME_PROXY] Software rights including but not limited proprietary, copyright, and other intellectual property right.
+ 
+ All of those [BRAND_NAME_PROXY] Software rights are protected by local laws and international treaty.
+ 
+ 6. Disclaimer
+ [BRAND_NAME_PROXY] makes no representations or any warranties, express or implied, including without limitation, the implied warranties of merchantability, to the satisfactory quality, and fitness for a particular purpose, or non-infringement. 
+ [BRAND_NAME_PROXY] makes no warranty that:
+ (a) Any [BRAND_NAME_PROXY] Service obtained by you will be accurate or reliable; or
+ (b) [BRAND_NAME_PROXY] Service will be provided on an uninterrupted, timely, secure basis; or
+ (c) Any defects or errors in the Software provided will be corrected instantly.
+ 
+ [BRAND_NAME_PROXY] will not be liable for any loss or damage caused by viruses or other technically harmful materials that may infect your [BRAND_NAME_PROXY] Handset, programs, data or other proprietary material due to your use of [BRAND_NAME_PROXY] Services. All contents and other materials you download or obtain through [BRAND_NAME_PROXY] is accessed at your own risk, and you will be solely responsible for any damage to your [BRAND_NAME_PROXY] Handset or loss of data or contents that result from download of any software.
+ 
+ 7. Limitation of Liability and Exclusive Remedy
+ [BRAND_NAME_PROXY] will not be liable for any consequential, incidental, indirect or punitive damages, or damages for loss of profits or confidential or other information, for business interruption, for personal injury, property damage, for loss of privacy, for failure to meet any duty of good faith or reasonable care or for negligence.
+ To the maximum extent permitted by applicable law, [BRAND_NAME_PROXY]’ maximum, aggregate liability to you, and your exclusive remedy under the Terms for any and all damages, injury, property damage and losses arising from any and all claims, or suits related to or associated with the Terms to recover the actual damages you incur will be limited to USD ten dollars (USD 10). 
+ 
+ Multiple claims or suits related to or associated with the Terms will not extend the limitation of liability and, to the maximum extent permitted by applicable law, be your sole and exclusive remedy.
+ 
+ If a court of competent jurisdiction deems the above liability cap unenforceable, it will, to that extent not be applicable but instead the words limited to ten dollars will be deemed replaced by the words \"limited to the value of the transaction in respect of which liability has arisen.\"
+ 
+ Such claim or suit related to or associated with the Terms must be filed within one year after the cause of action arose. 
+ 8. Indemnity 
+ You agree to defend, indemnify and hold [BRAND_NAME_PROXY], its shareholders, directors, officers, party in interest, employees, subsidiaries and affiliates, harmless from any demands, loss, liability, claims or expenses (including attorneys’ fees), made against [BRAND_NAME_PROXY] by any third party due to or arising out of or in connection with your misuse of [BRAND_NAME_PROXY] Services that infringe any third party’s rights.
+ 
+ 9. Termination of Service
+ You will not be allowed to lawfully use [BRAND_NAME_PROXY] Services if you disobey the Terms. In such circumstance, you shall destroy and remove all copies of [BRAND_NAME_PROXY] Software. In the meantime, the warranty of your own [BRAND_NAME_PROXY] Handset will be affected.
+ In the event of such a breach mentioned above, you agree that [BRAND_NAME_PROXY] has rights to adopt the followings,
+ (a) Immediate termination of your right to access [BRAND_NAME_PROXY] account; and /or
+ (b) Block your future access to [BRAND_NAME_PROXY] Service account
+ 
+ You also agree that any violation against the Terms will cause irreparable harm to [BRAND_NAME_PROXY], for which monetary damages would be inadequate, and you consent to [BRAND_NAME_PROXY] obtaining any injunctive or equitable relief that [BRAND_NAME_PROXY] deems necessary or appropriate in such circumstances. These remedies are in addition to any other remedies [BRAND_NAME_PROXY] may have at law or in equity.
+ 
+ 10. Governing Law and Jurisdiction
+ You agree that all matters relating to all disputes as to the Terms will be governed by the laws of the Republic of China (R.O.C.) without regard to its conflicts of law provisions. 
+ 
+ You agree to the personal jurisdiction by and venue in Taiwan Taipei District court, and waive any objection to such jurisdiction or venue.
+ 
+ Any dispute cannot be resolved by a mutual amicable arrangement between you and [BRAND_NAME_PROXY] shall be entitled to seek for mediation by you or [BRAND_NAME_PROXY]. If the dispute can’t be resolved by mediation within 30 calendar days, such dispute be filed to the district court mentioned above.
+ 
+ 11. General Clause
+ The headings in the Terms are used only for convenience.
+ The failure of [BRAND_NAME_PROXY] to take action against your breach does not construe as the waiver of its right for such breach or for the subsequent or similar breaches.
+ 
+ If a court of competent jurisdiction determines that any part of these Terms is invalid or unenforceable, then it will replace the invalid or unenforceable provision with a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the Terms will continue in effect. 
+ 
+ You may not assign the Terms or assign, transfer, or sublicense your rights in the Terms.
+ 
+ [BRAND_NAME_PROXY] may assign these Terms, in whole or in part, at any time with or without notice to you. 
+ 
+ These Terms supersede all prior or contemporaneous communications of any kind between you and [BRAND_NAME_PROXY] with respect to the Site.
+ 
+ 12. Entire agreement
+ The Terms and renewing attachments constitute the entire agreement between you and [BRAND_NAME_PROXY] with respect to [BRAND_NAME_PROXY] Services.
+ 
+ 13. The Terms Modification
+ [BRAND_NAME_PROXY] may from time to time update, alter, or delete content of the Terms at its discretion.
+ 
+ You need to check the terms published on [BRAND_NAME_PROXY] website which might be different from the terms you originally read.
+ 
+ It is deemed to your acceptance such alteration by your using renewing software and [BRAND_NAME_PROXY] Handset.
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] legal</string>
+    <string name="finish_button_label">FINISH</string>
+    <string name="google_account_add_account">Sign in with Google</string>
+    <string name="google_account_intro_description">Setup Google account to enjoy all Google services.</string>
+    <string name="google_account_intro_title">Google Account</string>
+    <string name="hmd_legal_message">"Service Terms 
+ 
+Effective date 14th of October 2016 
+ 
+1. Acceptance 
+These HMD Global Service Terms together with the Privacy Policy and all other additional terms and information that may be provided within the Service (collectively “Terms”) govern your use of the service, site, content and software (collectively the \"Service\"). By registering for or using the Service or any portion of it you accept these Terms. 
+ 
+The Terms constitute an agreement between you and HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finland including its subsidiaries and suppliers (collectively “HMD Global”), defining your and HMD Global’s rights and responsibilities with respect to the Service. 
+ 
+2. Eligibility 
+To use the Service, you must be at least thirteen (13) years of age. If you are under thirteen (13) years of age, or at least thirteen (13) years of age but a minor where you live, you must have your parent or legal guardian accept your registration on your behalf and approve your use of the Service. Anyone completing the registration must be legally competent. 
+ 
+3. Registration and Termination 
+To use a Service you may need to register and create a HMD Account with username and a password that may be subject to separate terms. You may need to provide us with certain personal and other information. HMD Global may verify your email address before your HMD Account can be used. Upon first use of your device and each time you update the Nokia device software, a text message will be sent to HMD Global. The creation of a HMD Account will require data transmission. Data transmission costs may apply. 
+ 
+You agree to provide truthful and complete information when you register for the Service and to keep that information updated. You must take due care to protect your username and password against misuse by others and promptly notify HMD Global about any misuse. You, and your parent or legal guardian if you are a minor, are personally responsible for any use of the Service. 
+ 
+You may terminate your registration if you no longer wish to use the Service. After termination, you will no longer have access to the Service. HMD Global may terminate or restrict your access to certain parts of the Service if HMD Global reasonably believes that you have breached the Terms or with prior notice if you have not signed into the Service with your username in the past six (6) months. 
+ 
+Except as set forth in the Privacy Policy, HMD Global is not responsible for any removal or loss of the information or content you have submitted to the Service. When information or content is removed from the Service by either you or HMD Global, traces or copies may still remain elsewhere. 
+ 
+4. Licenses 
+HMD Global grants you a nonexclusive, nontransferable license, revocable at any time at HMD Global’s sole discretion, to access and use the Service strictly in accordance with the Terms. Use of the Service does not grant you any intellectual property rights in or to any information or content in the Service. 
+ 
+As part of the Service, HMD Global may provide you with content developed by HMD Global or its licensors (“Content”). HMD Global grants you a nonexclusive and perpetual license to use Content for the purpose it is intended, unless otherwise defined in the applicable Terms or the purchase order. Some Content may be available only to residents of certain geographical areas. You are bound by any restrictions applicable to specific Content you obtain through the Service. Any license acquired to third-party Content is a binding agreement between you and the third-party Content provider. You have only the rights to the Content that are expressly granted here. 
+ 
+HMD Global may provide you with certain software developed by HMD Global, or its licensors (“Software”) as part of the Service. Your use of Software may be subject to separate terms and conditions that you must accept before using the Software. If there are no separate terms and conditions applicable to such Software, the following terms apply: HMD Global grants to you a limited, nonexclusive, nontransferable right to install and use the Software on your computer and/or mobile device. You may not copy the Software, except to make a single archival backup copy. You may not distribute, transfer the right to use, modify, translate, reproduce, resell, sublicense, rent, lease, reverse engineer, or otherwise attempt to discover the source code of or make derivative works of the Software. For open source licensed software, applicable open source license terms apply. Your use of the Software indicates your acceptance of any applicable terms and conditions. 
+ 
+The Software may be subject to export controls under the US Export Administration Regulations and other import or export control regulations. You agree to strictly comply with all applicable import and export regulations and acknowledge that you have the responsibility to obtain licenses to export, reexport, transfer, or import such Software. 
+ 
+You may be able to submit information or content (“Material”) to the Service. HMD Global does not claim ownership in your Material. Your submission of Material does not transfer ownership of rights of the Material to HMD Global. HMD Global is transmitting only the Material and is not responsible for editorial control over it. By submitting Material to the Service, you grant HMD Global a worldwide, nonexclusive, sublicensable, assignable, fully paid-up, royalty-free, perpetual, and irrevocable license to use, copy, publicly perform, display, distribute in any media and modify the Material to incorporate the Material into other works, and grant similar sublicenses to the extent necessary for HMD Global to provide the Service. You may be able to adjust this grant in the privacy and other settings of the Service. 
+ 
+You are solely responsible for taking backup copies of the data that you store on the Service, including Content you upload. If the Service is discontinued or canceled, HMD Global may permanently delete your data. HMD Global has no obligation to return data to you after the Service is discontinued or canceled. 
+ 
+5. Using the Service 
+You agree to: 
+• Comply with applicable laws, the Terms and good manners; 
+• Use the Service only for your personal, non-commercial purposes; 
+• Not submit unlawful, offensive, inaccurate, misleading, abusive, pornographic, harassing, libelous or otherwise inappropriate Material; 
+• Obtain any consents, permission or licenses that may be legally required for you to submit any Material; 
+• Respect the privacy of others; 
+• Not distribute or post spam, unreasonably large files, chain letters, pyramid schemes, viruses; 
+• Not use any other technologies or initiate other activities that may harm the Service, or the interest or property of the Service users; 
+• Not to use any automated systems or means to access, acquire, copy or monitor any part of the Service; and 
+• Accept responsibility for the consequences related to the Material that you post. 
+ 
+HMD Global may but has no obligation to: 
+• Monitor or moderate any Content or Material; 
+• Remove any Material from the Service; and 
+• Restrict access to any part of the Service at any time in its sole discretion. 
+ 
+6. Content 
+Before downloading or accessing any Content, please check whether the Content which you wish to access is restricted by age or marked as potentially ‘offensive’ or ‘explicit’. 
+ 
+HMD Global shall not be responsible for any claims or offense caused or suffered by you accessing such Content. 
+ 
+You agree: 
+• To use the Content only for your personal, non-commercial purposes; 
+• To use the Content in accordance with the restrictions set out in the applicable laws, additional terms, guidelines and policies or on the product pages that apply to that particular piece of the Content; 
+• Not to make copies, give, sell, resell, loan, rent, offer, broadcast, send, distribute, transfer, communicate to the public, reproduce, modify, display, perform, commercially exploit or make the Content available unless otherwise authorized in the applicable Terms and to advise HMD Global promptly of any such unauthorized use; 
+• Not to remove, circumvent, reverse engineer, decrypt, or otherwise alter or interfere with any applicable usage rules or attempt to circumvent digital rights management or copy protection features associated with the Content or any other technologies used to control the access to or use of the Content or its identifying information; 
+• Not to use any automated systems or means, except for those provided by us, for the selection or downloading of the Content; and 
+• Not to give out your password or otherwise allow other people to access the Content. The restrictions on copying that apply to applicable media also apply to the Content accessed as part of this Service. 
+ 
+The Content is owned and/or controlled by HMD Global and/or its respective licensors and is protected by intellectual property laws. The third party Content provider is solely responsible for any Content it provides, any warranties to the extent that such warranties have not been disclaimed and for any claims you may have relating to that Content or your use of that Content. However, HMD Global may enforce the third party Content license terms against you as a third party beneficiary of those terms. The third party Content providers are third-party beneficiaries under these Terms and may enforce the provisions that directly concern the Content in which they have rights. HMD Global may be acting as an agent for third party Content provider in providing the Content to you. HMD Global is not a party to the transaction between you and the third party Content provider for such Content. 
+ 
+7. Allegations of Copyright Infringement 
+HMD Global respects the intellectual property rights of third parties. If you wish to send a notice of intellectual property infringement, including claims of copyright infringement, please use our procedures for submitting Notices of Infringement. ALL INQUIRIES NOT RELEVANT TO THIS PROCEDURE WILL NOT RECEIVE A RESPONSE. 
+ 
+HMD Global uses the processes set out in Title 17, United States Code, Section 512 to respond to notices of copyright infringement. In appropriate circumstances, HMD Global may also disable or terminate accounts of users of HMD Global services who may be repeat infringers. 
+ 
+8. Notices 
+HMD Global may post notices within the Service. HMD Global may also send you notices about products and services to the email address or telephone number you have provided to us. You are deemed to have received such notices at the latest within seven (7) days from HMD Global sending or posting those. Your continued use of the Service constitutes your receipt of all notices regardless of delivery method. 
+ 
+9. Fees 
+Your use of the Service may be or may become subject to charges. 
+ 
+Any fees charged by HMD Global will be announced separately in connection with the Service. 
+ 
+Use of the Service may involve transmission of data through your service provider’s network. Prices listed within the Service do not include possible data transmission, text message, voice or other service provision charges by your network service provider. 
+ 
+HMD Global assumes no responsibility for the payment of any charges of your service providers. 
+ 
+10. Order and Payment Terms 
+\"Order\" shall mean the selection of payable Content and/or subscription to Content offered by HMD Global and available in the Service and submission of payment method, as well as submitting the order by selecting the \"buy\", \"ok\", \"I accept\" or other similar confirmation of acceptance in the order flow or providing other indication of acceptance terms that are presented to you in the order flow. 
+ 
+To place an Order within the Service, you must have reached the age of legal competence or majority according to the applicable legislation. If you have not reached the age of legal competence or majority, you may place Orders only with the prior consent of your parent or legal guardian. 
+ 
+You agree that all Orders shall be legally valid and binding. All Orders are subject to acceptance by HMD Global. 
+ 
+You may pay by credit or debit card, network service provider billing, or other payment methods if available. 
+ 
+Your credit or debit card must have a billing address in the country where the Content is offered by the Service. HMD Global will charge your credit card or debit your bank account within a reasonable time after you have made your Order. All credit card payments are subject to validation checks and authorisation by the card issuer. 
+ 
+If you choose network service provider billing, charges will appear on your mobile phone bill or be deducted from your prepaid account if it is a prepaid account. Some network service providers may subject your usage of the Service to additional terms and conditions including placing limits on the amount of charges possible with network service provider billing. Charges in excess of network service provider limits or account balance may be rejected. 
+ 
+You agree to pay the charges related to your Order, to ensure that the instrument of payment is valid at the time of the Order, that you are the rightful holder of the instrument and that the instrument is used within its credit limits. 
+ 
+The Content that is delivered is licensed to you. You agree to use such Content solely as permitted in these Terms and in any additional terms that you may be presented in the order flow. 
+ 
+The Service may offer subscriptions. You authorise the Service to place a periodical charge during the period of the subscription. The Service may also offer a trial period. If your Order involves a trial period (also known as try-and-buy), you may be charged when the trial period expires, unless you cancel in accordance with the subscription/trial terms. 
+ 
+The prices in the Service may change from time to time. Prices include applicable taxes in effect at the time of your transaction, unless otherwise stated. There may be instances where you incur additional charges from your bank or credit card provider based on currency conversion rates used and/or additional fees assessed. HMD Global assumes no responsibility for the payment of bank or any other third party service fees or charges. 
+ 
+11. Cancellations and Refunds 
+You agree to the electronic delivery of Content being initiated concurrently with the placement of your Order. You will not be able to cancel your Order once it has been processed. The nature of the Content is such that it cannot be returned. 
+ 
+In the event that after your Order you discover and promptly inform HMD Global within 48 hours that (a) the Content you have ordered is faulty; (b) the Content HMD Global delivers to you does not match the description of the Content you ordered via the Service; or (c) technical problems delayed or prevented delivery of your Content or accidental multiple orders caused by such technical problems, your sole and exclusive remedy with respect to such Content will be either replacement of such Content, or refund of the price paid for such Content, as determined solely by HMD Global. 
+ 
+Otherwise, no refunds are available. If you encounter any of the above issues, please contact HMD Global Customer Care. 
+ 
+Please note that HMD Global Customer Care may not be able to process your customer support request if you are unable to provide your transaction ID, which is provided to you by HMD Global following your Order from the Service. HMD Global may only process refunds for Content where the total price is above the monetary limit stipulated in applicable local legislation. 
+ 
+12. Feedback to HMD Global 
+By submitting any ideas, feedback and/or proposals (\"Feedback\") to HMD Global through the Service or other means, you acknowledge and agree that: (1) HMD Global may have similar development ideas to the Feedback; (2) your Feedback does not contain confidential or proprietary information of you or any third party; (3) HMD Global is not under any obligation of confidentiality with respect to the Feedback; (4) HMD Global may freely use, distribute, exploit and further develop and modify Feedback for any purpose; and (5) you are not entitled to any compensation of any kind from HMD Global. 
+ 
+13. Social Activities and Location Sharing 
+You may use features in the Service to share your location, status, content, Materials or personal information or to interact with other users, sites and services. By using these features you agree that HMD Global may use and provide that information to other services and persons with whom you choose to interact or share this information. Users of these services and persons, such as your contacts, may see your location, status and/or personal information. In using these features you agree not to share information, Content or Material or to link to any service or site that: (a) contains content or other material that is illegal or inappropriate; or (b) exploits intellectual property rights without authorisation or encourages users to piracy. Any interaction does not involve HMD Global and is solely between you and the other user(s) . 
+ 
+14. Availability and Technical Requirements 
+The availability of Content and the Service may vary and is subject to HMD Global’s sole discretion. HMD Global expressly disclaims any representation or warranty that any particular Content or Service will be available. The Service may not be available in all countries and may be provided only in selected languages. The Service, operations and some features may also be dependent on the network, compatibility of the devices used and the content formats supported. 
+ 
+To access the Service, you may need to download a specific piece of software developed by HMD Global or by another party. 
+ 
+HMD Global may, in its sole discretion, change, correct or discontinue the Service in whole or in part. The Service may not be available during maintenance breaks and other times. To ensure you have the latest device software and applications, your device may automatically check for the availability of software updates from HMD Global. If any are detected you will be prompted to approve the installation. You may disable automatic checking for updates through settings in your device. You may also install software through available software update channels. If HMD Global considers a Software update to be important or critical you may not continue using the previous version of the Software. HMD Global may prevent your use of the previous version of the Software or Service until you install the update. 
+ 
+HMD Global may disable any Content or Software contained in your Service account for any reason and remove any Content or Software and/or disable copies of any application on your device in order to protect the Service, application providers, wireless carriers over whose network you access the service or any other affected or potentially affected parties. 
+ 
+A particular service may be a pre-release version, for example a beta release, and may not work in the way a final version works. HMD Global may significantly change any version of Service or Software or decide not to release a final version. 
+ 
+15. Links to Third Party Sites and Content 
+HMD Global may include access to sites and services on the Internet or preloaded clients that enable you to interact with sites and services that are owned or operated by third parties and that are not part of the Service. You must review and agree to the terms and conditions of these sites or services before using these sites or services. 
+ 
+HMD Global has no control over the third party content, sites or services and assumes no responsibility for services provided or material created or published on these third-party sites or services. A link to a third-party site does not imply that HMD Global endorses the site or the products or services referenced in the site. 
+ 
+In addition, you and other users may create content and links to content within the Service that has not otherwise been submitted to the Service. HMD Global is not responsible for this type of content or links. 
+ 
+16. Advertisements 
+Service may include advertisements. Advertisements may be targeted to the content or information stored on the Service, queries made through the Service, or other information. 
+ 
+17. Personal Data 
+The Privacy Policy and any additional privacy information made available to you govern the use of your personal data. 
+ 
+18. Limitation of Liability 
+The Service is provided on “AS IS” and “AS AVAILABLE” basis. HMD Global does not warrant that the Service will be uninterrupted or error or virus-free. No warranty of any kind, either express or implied, including but not limited to warranties of title, non-infringement, merchantability, or fitness for a particular purpose, is made in relation to the availability, accuracy, reliability, information or content of the Service. You expressly agree and acknowledge that the use of the Service is at your sole risk and that you may be exposed to content from various sources. 
+ 
+Except for liability for death or personal injury caused by its gross negligence or intentional misconduct, in no case will HMD Global be liable for any indirect, incidental, punitive or consequential damages resulting from your use of or inability to use the Service. 
+ 
+19. Indemnification 
+You agree to defend and indemnify HMD Global from and against all third party claims and all liabilities, assessments, losses, costs or damages resulting from or arising out of (i) your breach of the Terms, (ii) your infringement or violation of any intellectual property rights, other rights or privacy of a third party, or (iii) misuse of the Service by a third party where the misuse was made possible by your failure to take reasonable measures to protect your username and password against misuse. 
+ 
+20. Miscellaneous 
+ 
+20.1 Choice of Law 
+The Terms are governed by the laws of Finland without regard to its conflicts of law provisions. 
+ 
+20.2 Validity 
+The Terms neither exclude nor limit any of your mandatory rights in your country of residence that cannot by law be waived. If a provision of the Terms is found to be invalid, the remaining provisions will not be affected and the invalid provision will be replaced with a valid provision that comes closest to the result and purpose of the Terms. In the event one or more provisions of these Terms are not relevant to your use of the Service, it shall not impact the validity or enforceability of any other provision of the Terms or the Terms as a whole. If there is any conflict between these HMD Global Service Terms and the Privacy Policy, the provisions of these HMD Global Service Terms prevail. The provisions of the Terms that are intended to survive termination of your registration remain valid after termination. 
+ 
+20.3 Changes in Terms 
+HMD Global may modify the Terms at any time without prior notice. If the Terms are changed in a material, adverse way, HMD Global will provide a separate notice advising of the change. 
+ 
+You are responsible for regularly reviewing the Terms. Your continued use of the Service constitutes your consent to any changes and modification. 
+ 
+21. Intellectual Property 
+The Service, Content and Software are protected under international copyright laws. HMD Global claims copyrights in its Service, Content, and Software to the maximum extent of the law. Subject to the Terms, HMD Global retains all right, title and interest in the Service, its Content, the Software and in all other HMD Global products, software and other properties provided to you or used by you through the Service. 
+ 
+22. Assignment 
+HMD Global may assign its rights and obligations under these Terms to its corporate parent, any of its subsidiaries, or to any company under common control with HMD Global. Additionally, HMD Global may assign its rights and obligations under these Terms to a third party in connection with a merger, acquisition, sale of assets, by operation of law or otherwise."</string>
+    <string name="hmd_legal_sub_title">The Home of Nokia Phones</string>
+    <string name="hmd_legal_title">HMD Global</string>
+    <string name="hmd_user_experience_program_message">Your participation in the user experience program helps HMD Global to better understand what you like about your Nokia device, and what you think needs to be improved. From time to time, we may receive anonymous data with technical characteristics about your device, such as for example a file with data about a software crash that may have happened. Please note that such data will not be transmitted over a cellular connection. We love hearing from you what you think about your Nokia device!</string>
+    <string name="hmd_user_experience_program_title">User experience program</string>
+    <string name="idle_too_long_toast">This phone is idled for some times. Shut down now to keep power.</string>
+    <string name="insert_sim_cards">Insert SIM cards</string>
+    <string name="insert_sim_cards_prompt_content">"Not sure how? Check the instructions that came with your phone.
+
+Once you insert you SIM cards, they may take a few seconds to activicate."</string>
+    <string name="ip_address">IP address</string>
+    <string name="ip_address_unavailable">Unavailable</string>
+    <string name="label_text">Yes, I agree.</string>
+    <string name="label_text_negitive">"Sorry, I don't agree."</string>
+    <string name="language_selection_cancel_btn">CANCEL</string>
+    <string name="language_selection_title">Choose your language</string>
+    <string name="legal_term_title">HMD Legal information</string>
+    <string name="light_room_description">%1$s supports capture of RAW (DNG) images. You can edit directly on your new smartphone thanks to our partnership with Adobe.&lt;br/>&lt;br/>Download Adobe Photoshop Lightroom CC from the Google Play store now.</string>
+    <string name="light_room_title">Passionate about photography?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="location_for_service">Use My Location for Google search results and other Google services.</string>
+    <string name="location_info_1">"Google's location service provides applications with your approximate location without using GPS."</string>
+    <string name="location_info_2">You can disable these features in Settings, under Location services.</string>
+    <string name="location_network">"Allow Google's location service to collect anonymous location data. Collection will occur even when no applications are running."</string>
+    <string name="location_title">Use Google Location</string>
+    <string name="mac_address">MAC address</string>
+    <string name="nevigation_selection_back">Back</string>
+    <string name="nevigation_selection_home">Home</string>
+    <string name="nevigation_selection_recent">Recent</string>
+    <string name="nevigation_selection_text">You can change the background color and position of Back / Recent keys.</string>
+    <string name="nevigation_selection_title">Softkey display</string>
+    <string name="next_btn_lebel">NEXT</string>
+    <string name="normal_date_format">Regional (%s)</string>
+    <string name="not_now">NOT NOW…</string>
+    <string name="passpoint_content">%1$s credentials</string>
+    <string name="passpoint_label">Saved via</string>
+    <string name="phone_mode_oem_description">Provide optimized usability within the device.</string>
+    <string name="phone_mode_oem_title">Luna Phone</string>
+    <string name="phone_mode_skt_description">Provide spam filtering, fare inquiry, searching contact for free.</string>
+    <string name="phone_mode_skt_title">SK telecom T Phone</string>
+    <string name="phone_mode_title">Phone Mode Settings</string>
+    <string name="please_select_phase2">Phase 2 authentication</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="privacy_policy">"Privacy Policy
+This privacy policy is to help users to understand what personal information that TG&amp;Co. collect and why TG&amp;Co. need it. 
+• The personal information collector
+  TG&amp;Co. Inc.
+• Personal information gatherings and its purpose
+1.\u0009When users use certain pre-embedded applications (Safebox, File Manager, Note) and related software programs, personal information can be collected to offer product support and to improve service quality and performance improvements.
+2.\u0009The purpose of collecting personal information is to enhance TG&amp;Co.’s service (statistical analysis) and to protect users. TG&amp;Co. will not expose any sorts of information to others in any format that could be individually recognizable.
+• Personal information gathering items
+Device IMEI, customer code, access log, HW information, software version and upgrade information, TP &amp; camera ISP version, battery ID, network MCC/MNC information, the title and version of the application user have used, the time period and the number of times application have been run, CPU usage information, battery usage information, Wi-Fi usage information, mobile data usage information, total call duration, error occurred time, error log, personal information which may include phone number &amp; email addresses.
+• Personal information usage and storing period
+Personal information can be used and stored until the fulfillment of the personal information gathering purpose and direction from related government regulations.
+• Refusal to personal information gathering and usage
+Users have rights to refuse to personal information gathering and usage by TG&amp;Co. Refusal to personal information gathering and usage can limit using certain services offered by TG&amp;Co.
+ (Contact to refuse to this personal information gathering and usage agreement: privacy@tgnco.kr)
+"</string>
+    <string name="proxy_error_empty_host_set_port">The port field must be empty if the host field is empty.</string>
+    <string name="proxy_error_empty_port">You need to complete the port field.</string>
+    <string name="proxy_error_invalid_exclusion_list">The exclusion list you typed isn’t properly formatted. Type a comma-separated list of excluded domains.</string>
+    <string name="proxy_error_invalid_host">The hostname you typed isn’t valid.</string>
+    <string name="proxy_error_invalid_port">The port you typed isn’t valid.</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_exclusionlist_label">Bypass proxy for</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_hostname_label">Proxy hostname</string>
+    <string name="proxy_port_hint">8080</string>
+    <string name="proxy_port_label">Proxy port</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_warning_limited_support">The HTTP proxy is used by the browser but may not be used by the other apps.</string>
+    <string name="report_diagonstics_info">"Report Diagnostic Info.
+CONSENT TO PROVIDE DIAGNOSTIC AND USAGE DATA
+TG&amp;Co. Inc. and its affiliates (\"TG&amp;Co.\") would like your help in improving the quality and performance of its products and services. Your device includes diagnostic software that may, with your consent, automatically collect diagnostic and usage data form your device. Diagnostic software may send this data to TG&amp;Co. for statistical analysis in order to improve product and service quality, and track and address unexpected shutdowns or system errors. Diagnostic and usage data collected by TG&amp;Co. may include information on how you use your device or information about network providers (including connection status, charging status, setting status (such as display and power settings), etc.) and how you use your applications (device IMEI, Software version upgrade, TP and Camera ISP version, Battery ID, Mobile Country Code (MCC), Mobile Network Code (MNC), Application version and name, the time period and the number of times application have been run, CPU usage information, Wi-Fi usage information, mobile data usage information, total call time duration, error occurred time, error log, personal information which may include phone number and email addresses.). Since TG&amp;Co. has servers located all over the world, the data we collect may be stored outside your country of residence, including countries where the data protection laws may not be as comprehensive. By agreeing to provide us with this data, you expressly consent to this. All diagnostic and usage data collected for this purpose will be aggregated in a manner that does not personally identify you or your device, and is retained for 3 months. You may choose not to provide us with diagnostic and usage data, and such decision will not impact the functionality or operation of your device in any way. You may choose to disable this software at any time, through Settings on your device. By tapping on the Agree button below, you hereby agree to (i) the automatic transmit of diagnostic and usage data and (ii) the collection, use, storage, sharing and disclosure by TG&amp;Co. of diagnostic and usage data from your device for the purposes set out above.
+"</string>
+    <string name="saved_network">Saved by %1$s</string>
+    <string name="search_menu_title">Search</string>
+    <string name="select_sim_card">Select SIM card</string>
+    <string name="set_sim_call_ask_every_time">Ask every time</string>
+    <string name="set_sim_data">Use mobile network for setup</string>
+    <string name="settings_package">com.android.settings</string>
+    <string name="setup_complete_hmd">You are ready to go...</string>
+    <string name="setup_complete_hmd_1">You are nearly ready to go...!</string>
+    <string name="setup_complete_main">You are</string>
+    <string name="setup_complete_message">Your phone has been set up and ready to use.</string>
+    <string name="setup_complete_sub">READY TO GO.</string>
+    <string name="setup_completed_congratulations">Congratulations!</string>
+    <string name="setup_finish">LET’S GO</string>
+    <string name="sim_data_tip_btn_back">BACK</string>
+    <string name="sim_data_tip_btn_continue">CONTINUE</string>
+    <string name="sim_data_tip_content">Your phone will use the mobile network during setup, and you may be charged for this data usage. To avoid possible charges, connect to Wi-Fi</string>
+    <string name="sim_data_tip_title">Possible data charges</string>
+    <string name="sim_editor_title">SIM slot %1$d</string>
+    <string name="sim_not_exist_toast">Please check if you insert SIM card.</string>
+    <string name="sim_slot">SIM Slot</string>
+    <string name="skip_add_account_button_label">Not now</string>
+    <string name="skip_btn_label">SKIP</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="skt_personal_text">"1. 개인정보의 수집∙이용 목적
+
+1)T 전화 서비스(이하 서비스) 제공 관련 수집 및 활용
+
+(1)이용자의 전화번호 및 이용자의 단말기 주소록에 저장되어있거나 저장되는 제3자의 전화번호와 이름을 수집/이용하여 프로필 연결 형성, Data(연락처 등) 전송, 이미지링 표시 등의 서비스 제공
+
+(2)이용자 프로필 정보, 이용자 상태정보, 서비스 내 이용자의 이름, 가입 이동통신사 정보 등은 이용자가 서비스 내에서 이용자를 식별하고, 다른 이용자에게 자신을 알리기 위해 등록/공개하는 정보로서, 서비스 이용과정에서 공개됨
+
+(3)이용자의 이동전화 단말기 모델 및 이동통신사 정보는 이용자의 단말기에 최적화된 서비스를 제공하기 위해 이용
+
+(4)이용자의 기기고유 번호 및 USIM 고유 번호 등은 이용자의 전화번호와 조합하여 서비스 이용을 위한 본인확인 및 개인 식별을 위한 계정으로 사용
+
+(5)이용자가 신고하거나 추천한 연락처 정보는 안심통화 기능을 위한 데이터로 사용
+
+(6)기타 서비스에서의 본인식별 또는 인증 등 이용자 관리, 서비스 관련 고지사항 전달, 본인의사 확인, 서비스 관련 상담∙불만처리, 서비스 이용관련 혜택∙유의사항 등 정보제공, 신규 서비스나 이벤트 관련 정보 및 광고 전송, 컨텐츠 제공, 물품배송 등
+
+2)개인맞춤서비스 및 마케팅/광고 활용
+-개인정보의 수집항목에 기재된 정보 및 이를 조합∙분석한 정보를 이용하여, 서비스 개발 및 개선, 서비스 관련 문의 등에 대한 개인맞춤 상담∙정보 제공, 개인 맞춤 서비스∙정보 및 개인 맞춤 광고 제공
+
+ 3)통계분석
+ -개인을 식별할 수 없는 인구통계학적 분석자료(서비스 이용 통계, 안심통화 관련 특정번호 조회횟수 등) 또는 지역∙시장 조사 자료(연령별∙성별∙지역별 통계분석, 시장 조사 등) 등 작성, 이용 및 제공
+
+ 2. 수집하는 개인정보의 항목
+
+ 1)필수수집 항목
+ -이용자 이동전화번호, 이동통신사 정보, 이용자의 단말기 주소록에 저장된 제3자의 이름 및 전화번호, 이용자의 이동전화 단말기 모델 및 단말기 OS 버전, 이용자가 서비스 내에서 생성한 Data(안심통화, 이미지링, 프로필 사진 등), 이용자의 프로필 정보(이용자가 서비스에 업로드한 사진 등 포함), 이용자 상태정보, 서비스 내 이용자의 이름, 서비스 이용기록(IP주소, log기록,T114 등 서비스내 검색기록∙횟수, 서비스 이용시간 등 서비스 이용과 관련된 생성정보), 요금과금 정보, 기기고유번호(디바이스 아이디 또는 IMEI), USIM 고유번호 (유심 아이디 또는 IMSI), 이용자가 수신한 발신번호 등
+ 2)선택수집항목(이용자의 입력 시 수집)
+
+ -이용자의 E-mail 주소 및 생일, 싸이월드 계정, 페이스북 계정, 트위터 계정
+
+ 3. 개인정보의 보유 이용기간
+ 개인정보 및 개인위치정보는 본 서비스를 제공하는 기간 동안에 보유 및 이용되고, 이용자의 서비스 이용 종료시 해당인의 개인정보 및 개인위치정보가 열람 또는 이용될 수 없도록 파기 처리함. 단, 아래의 경우는 예외로 함
+
+ 1)법령에 따로 정하는 경우에는 해당기간까지 보유
+
+ 2)소송이나 분쟁 등 기타 필요한 경우를 대비하여 일정기간 보유하여야 할 필요가 있을 경우 및 고객 응대 및 불법적 사용자에 대한 관련 수사기관 협조를 위하여 회원 탈퇴 후 1년간 보관하고 그 이후에는 무조건 삭제
+
+ 4. 개인위치정보의 수집 및 이용
+
+ 1)본인은 서비스에서 제공되는 위치기반서비스를 이용하기 위하여 아래 2)의 내용 및 회사의 위치기반서비스 이용약관 내용에 동의합니다.(www.tworld.co.kr에서 약관 내용을 확인하실 수 있습니다.
+
+ 2)서비스에서 제공하는 위치기반서비스의 내용
+ -T114 등 서비스 내에서 이용자가 상호 또는 전화번호 등을 검색할 경우, 이용자의 실시간 위치(실내측위 정보, 기지국 정보를 통해 확인)를 확인하여, 이용자 위치 주변 점포 정보 등 제공
+
+ 3)위치기반서비스사업자의 상호, 주소, 전화번호 그 밖의 연락처 / 개인위치정보주체 및 법정대리인의 권리와 그 행사방법 / 위치정보 이용∙제공사실 확인자료의 보유근거 및 보유기간은 회사의 위치기반서비스이용약관에 기재된 바에 따릅니다.
+
+ 5. 고객은 개인정보 및 개인위치정보의 수집∙이용에 대한 동의를 거부할 권리가 있으며, 고객이 동의를 거부할 경우 받는 별도의 불이익은 없습니다. 단, 서비스 이용이 불가능 하거나, 서비스 이용 목적에 따른 서비스 제공에 제한이 따르게 됩니다.
+
+ 6. 상기에 기재되지 않은 일반사항은 본 서비스의 이용약관 및 개인정보 취급방침에 따르며, 본인은 본 개인정보 및 개인위치정보의 수집/활용동의 내용을 자세히 숙지 및 이해하고, 이에 동의합니다.
+
+
+"</string>
+    <string name="skt_personal_title">Personal Information Collection And Usage Agreement</string>
+    <string name="skt_term_of_use_agree">All agree</string>
+    <string name="skt_term_of_use_text">"제 1장 총칙
+
+제1조 (목적)
+본 약관은 SK텔레콤 주식회사(이하 “회사”라 합니다)가 제공하는 T전화 서비스(이하 서비스라 합니다)를 회원이 이용함에 있어 회원과 회사간의 권리, 의무 및 책임사항, 서비스 이용조건 및 절차 등 기본적인 사항을 규정함을 목적으로 합니다.
+
+제2조 (약관의 효력 및 변경)
+①본 약관은 서비스를 이용하고자 하는 모든 회원에 대하여 그 효력을 발생합니다. 단, 이동전화 서비스와 관련된 내용에 대하여는 회사의 이동전화에 관련된 이용약관과 함께 그 효력을 발생합니다.
+②본 약관의 내용은 서비스 내에 게시하거나 기타의 방법으로 회원에게 공지하고, 이에 동의한 회원이 서비스에 가입함으로써 효력이 발생합니다.
+③회사는 필요하다고 인정되는 경우 본 약관을 변경할 수 있으며, 회사가 약관을 변경할 경우에는 적용일자 및 변경사유를 명시하여 제2항과 같은 방법으로 그 적용일자 15일 전부터 공지합니다. 다만, 회원에게 불리한 약관의 변경인 경우에는 그 적용일자 30일 전부터 공지하며, E-mail, SMS 등으로 회원에게 개별 통지합니다. 단, 회원의 연락처 미기재, 변경 후 미수정 등으로 인하여 개별 통지가 어려운 경우에 한하여 본 항의 공지를 함으로써 개별 통지 한 것으로 간주합니다.
+④회사가 회원에게 제3항에 따라 변경 약관을 공지 또는 통지하면서, 약관 변경 적용 일까지 거부의사를 표시하지 아니할 경우 약관의 변경에 동의한 것으로 간주한다는 내용을 공지 또는 통지하였음에도, 회원이 명시적으로 약관 변경에 대한 거부의사를 표시하지 아니하면, 회원이 변경 약관에 동의한 것으로 간주합니다. 회원은 변경된 약관 사항에 동의하지 않으면 서비스 이용을 중단하고 이용 계약을 해지할 수 있습니다.
+
+제3조 (약관 외 준칙)
+본 약관에 명시되지 않은 사항에 대해서는 전기통신기본법, 전기통신사업법 등 관계법령 및 회사가 정한 서비스의 세부이용지침 등의 규정에 의합니다.
+
+제4조 (용어의 정의)
+①본 약관에서 사용하는 용어의 정의는 다음과 같습니다.
+1.서비스: 회원이 이동전화, 휴대용 단말기 등 각종 유무선 기기 또는 프로그램을 통하여 이용할 수 있도록 회사가 제공하는 서비스를 말하며 서비스의 상세 내용은 다음 각 목과 같으며, 회사는 제공하는 서비스의 구체적인 내용(개별 서비스 등)을 서비스 내에 공지할 수 있습니다.
+가.회사가 회원에게 음성통화 및 영상통화 기능을 사용하기 위해 제공하는 서비스
+나.회원이 통화와 관련된 설정, 연락처 등을 확인, 저장 및 변경하는 서비스
+다.회원의 통화 수/발신 화면에 다른 회원, 회사 또는 제 3자가 제공하는 이미지를 표시하는 서비스
+라.기타 회사가 직접 또는 제3자와 제휴하여 서비스 Application 등을 통해 제공하는 서비스(T114등 검색 서비스, 안심통화, 광고 등)
+2.회원: 서비스에 접속하여 본 약관에 동의함으로써 회사와 이용계약을 체결하고, 서비스를 이용하는 이용자
+3.안심통화: 회원이 제공한 발신인의 연락처와 관련된 정보를, 회사가 본 약관에 따라 통화 연결화면에 게시하여, 회원이 스팸 전화 여부를 판단 할 수 있도록 안내하는 기능
+4.그룹통화: 전화걸기 또는 초대하기 방식에 따라 다자간 통화가 가능하도록 하는 기능 및 관련 부가 기능으로, 요금부과 기준 및 유의사항은 첨부에 따릅니다.
+②본 약관에서 사용하는 용어의 정의는 제1항에서 정하는 것을 제외하고는 관계 법령 및 서비스 안내에서 정하는 바에 의합니다.
+
+
+제2장 서비스 이용 계약
+
+제5조 (이용 계약의 성립)
+
+①이용자가 서비스 내에 게시되는 본 약관의 내용에 “동의” 버튼을 누르면 약관에 동의하고 서비스 이용을 신청한 것으로 간주됩니다.
+②이용 계약은 제1항에 따른 이용자의 이용 신청에 대하여 회사가 승낙함으로써 성립합니다.
+③회사는 서비스를 구성하는 개별 서비스에 대해 별도의 이용계약 성립 절차를 둘 수 있습니다.
+
+제6조 (이용신청에 대한 승낙 및 서비스 이용의 제한)
+
+①회사는 다음 각 호에 해당하는 신청에 대하여는 승낙을 하지 않을 수 있습니다.
+1.기술상 서비스 제공이 불가능한 경우
+2.다른 사람의 명의사용, 이동전화 명의자의 허락 없이 신청하는 경우
+3.이용자 등록 사항을 누락하거나 오기, 허위로 기재하여 신청하는 경우
+4.사회의 안녕질서 또는 미풍양속을 저해하거나, 저해할 목적으로 신청한 경우
+5.제19조 제2항에 의하여 이전에 회원 자격을 상실한 적이 있는 경우. 다만, 동 자격 상실 이후 1년 이상 경과한 자로 회사의 회원 재가입 승낙을 받은 경우는 예외로 합니다.
+6.기타 회사가 정한 이용신청 요건이 만족되지 않았을 경우
+②회사는 회원이 가입한 이동전화 서비스 요금제 등에 따라 서비스 요금, 서비스의 일부 제한 등 서비스 이용에 차등을 둘 수 있으며, 회원이 가입한 이동전화 서비스의 변동(명의변경, 해지, 요금제 변경, 이용정지 등) 여부에 따라 회원 자격 및 서비스 요금 등 서비스 이용조건이 변동될 수 있습니다.
+
+제7조 (기재 사항의 수정)
+회원은 이용 신청 시 기재한 사항이 변경되었을 경우 회사가 정한 별도의 이용 방법으로 정해진 양식 및 방법에 의하여 수정하여야 합니다. 회사는 회원이 변경 사항을 적시에 수정하지 않음으로 인하여 발생하는 문제에 대해서는 어떠한 책임도 지지 않습니다.
+
+제3장 서비스 이용
+
+제8조 (서비스의 이용개시)
+①회사는 회원의 이용 신청을 승낙한 때부터 서비스 제공을 시작합니다. 단, 일부 서비스의 경우에는 지정된 일자부터 서비스를 개시할 수 있습니다.
+②회사의 업무상 또는 기술상의 장애로 인하여 서비스를 개시하지 못하는 경우에는 서비스 내에 공지하거나 회원에게 이를 통지합니다.
+
+제9조 (서비스의 이용시간)
+①서비스의 이용은 연중무휴 1일 24시간을 원칙으로 합니다. 다만, 회사의 업무 상이나 기술상의 이유로 서비스가 일시 중지될 수 있고, 또한 운영상의 목적으로 회사가 정한 기간에는 서비스가 일시 중지될 수 있습니다. 이러한 경우 회사는 사전 또는 사후에 이를 공지합니다.
+②회사는 서비스를 일정 범위로 분할하여 각 범위 별로 이용 가능한 시간을 별도로 정할 수 있으며 이 경우 그 내용을 공지합니다.
+
+제10조 (서비스의 변경 및 중지)
+①회사는 추가 또는 변경될 서비스의 내용 및 제공일자를 제16조에서 정한 방법으로 회원에게 통지하고 서비스를 추가 또는 변경하여 제공할 수 있습니다.
+②회사는 다음 각 호에 해당하는 경우 서비스의 전부 또는 일부를 중단∙제한하거나 폐지할 수 있습니다.
+1.서비스용 설비의 보수 등 공사로 인한 부득이한 경우
+2.회원이 회사의 영업활동을 방해하는 경우
+3.정전, 제반 설비의 장애 또는 이용량의 폭주 등으로 정상적인 서비스 이용에 지장이 있는 경우
+4.개별 서비스 제공업자와의 계약 종료 등의 사정으로 서비스의 전부 또는 일부를 유지할 수 없는 경우
+5.회사의 서비스 정책 변경, 수익성 악화 및 이동전화 서비스 폐지 등 회사의 경영상의 판단에 따라 서비스의 전부 또는 일부를 제공하지 않기로 결정한 경우
+6.기타 천재지변, 국가비상사태 등 불가항력적 사유가 있는 경우
+③제2항에 의한 서비스 중단∙제한 및 폐지의 경우에는 회사가 제16조에서 정한 방법으로 이용자에게 통지합니다. 다만, 회사가 통제할 수 없는 사유로 인한 서비스의 중단∙제한(이용량 폭주, 디스크 장애, 시스템 다운 등)으로 인하여 사전 통지가 불가능한 경우에는 그러하지 아니합니다.
+④회사는 제1항 내지 제2항에 따른 서비스의 변경, 중단∙제한 또는 폐지로 발생하는 문제에 대해서는 어떠한 책임도 지지 않습니다.
+
+제11조 (정보의 제공 및 광고의 게재)
+①회사는 서비스를 운영함에 있어 서비스 관련 각종 정보 및 광고를 서비스 화면에 게재하거나 E-mail 및 서신우편, SMS(MMS), TM(Telemarketing), 채팅 등의 방법으로 회원에게 제공할 수 있습니다.
+②회원이 서비스상에 게재되어 있는 광고를 이용하거나 서비스를 통한 광고주의 판촉활동에 참여하는 등의 방법으로 교신 또는 거래를 하는 것은 전적으로 회원과 광고주 간의 문제입니다. 회원과 광고주간에 분쟁, 기타 문제가 발생하는 경우, 회원과 광고주가 직접 해결하여야 하며, 이와 관련하여 회사는 어떠한 책임도 지지 않습니다.
+
+제12조 (게시물의 삭제 및 송수신 차단 등)
+①회사는 회원이 서비스 내에서 게시(안심통화 서비스에서 회원이 제공한 발신 연락처와 관련된 정보 포함)하거나 송수신하는 모든 내용물(회원간 전달 포함, 이하 “게시물”이라 합니다)이 다음 각 호의 경우에 해당한다고 판단되는 경우 사전통지 없이 삭제 또는 송수신을 차단할 수 있으며, 이에 대해 회사는 어떠한 책임도 지지 않습니다.
+1.회사, 다른 회원 또는 제3자를 비방하거나 명예를 손상시키는 내용인 경우
+2.공공질서 및 미풍양속에 위반되는 내용의 정보, 문장, 도형에 해당하는 경우
+3.범죄 행위에 결부된다고 추정되는 내용인 경우
+4.회사 또는 제3자의 저작권 등 기타 권리를 침해하는 내용인 경우
+5.제3항 소정의 세부이용지침을 통하여 회사에서 규정한 게시기간을 초과한 경우
+6.회사에서 제공하는 서비스와 관련 없는 내용인 경우
+7.불필요하거나 승인되지 않은 광고, 판촉물을 게재하는 경우
+8.회사의 이동통신망 등에 장애를 발생시킬 우려가 있는 경우
+9.회사가 제공하는 이동전화 서비스 등에 장애를 발생시킬 우려가 있는 경우
+10.다른 회원의 서비스 이용에 장애를 발생시킬 우려가 있는 경우
+11.이동전화 서비스 관련 이용약관 및 본 약관에 따른 서비스 이용조건과 다른 경우
+12.제2항에 따른 해당 정보 주제 등의 삭제 또는 제공중단 요청이 있는 경우
+13.기타 관계 법령 및 회사의 지침 등에 위반된다고 판단되는 경우
+②회사는 회원이 제공하여 서비스 내에(통화 연결화면 등 포함) 게시한 정보에 대해, 해당 정보의 주체 등이 정보통신망 이용촉진 및 정보이용 등에 관한 법률 제44조의 2에 의거한 절차에 따라 삭제 또는 제공중단을 요청한 경우, 해당 정보를 삭제 또는 제공중단 할 수 있습니다.
+③회사는 게시물에 관련된 세부 이용지침을 별도로 정하여 시행할 수 있으며, 회원은 그 지침에 따라 각종 게시물을 등록하거나 삭제하여야 합니다.
+
+제13조 (게시물의 저작권)
+①회원의 게시물의 저작권은 해당 회원이 소유합니다.
+②회사는 게시한 회원의 동의 없이 게시물을 서비스 제공 목적 이외의 다른 목적으로 사용할 수 없습니다. 단, 제12조에 해당하는 경우 회사는 해당 저작물을 삭제하거나 제공중단 할 수 있습니다.
+③회사는 회원이 서비스 내에 게시한 게시물이 타인의 저작권, 기타 권리를 침해하더라도 이에 대한 민∙형사상의 책임을 부담하지 않습니다. 만일 회원이 타인의 저작권 기타 권리를 침해하였음을 이유로 회사가 타인으로부터 손해배상청구 등 이의 제기를 받은 경우, 회원은 회사의 면책을 위하여 노력하여야 하며, 회원은 그로 인해 회사에 발생한 모든 손해를 부담하여야 합니다.
+④회사는 회원이 이용계약을 해지하고 서비스를 탈퇴하거나 본 약관에 따라 서비스가 해지된 경우 해당 회원이 게시하였던 게시물을 삭제할 수 있습니다.
+⑤회사가 작성한 저작물에 대한 저작권은 회사에 귀속됩니다.
+⑥회원은 서비스를 이용하여 얻은 정보를 가공, 판매하는 행위 등 서비스에 게시된 자료를 영리목적으로 이용하거나 제3자에게 이용하게 할 수 없으며, 게시물에 대한 저작권 침해는 관계 법령의 적용을 받습니다.
+
+제4장 계약당사자의 의무
+
+제14조 (회사의 의무)
+①회사는 서비스 제공과 관련하여 취득한 회원의 개인정보를 본인의 승낙 없이 제3자에게 누설, 배포하지 않습니다. 단, 관계법령에 의한 수사상의 목적으로 관계기관으로부터 요구 받은 경우나 방송통신심의위원회의 요청이 있는 경우 등 법률의 규정에 따른 적법한 절차에 의한 경우에는 그러하지 않습니다.
+②정보통신망 이용촉진 및 정보보호 등에 관한 법률, 개인정보 보호법 등 관련 법령에 따라, 회사는 통계작성 및 학술연구 등의 목적을 위하여 필요한 경우로서 특정 개인을 알아볼 수 없는 형태로 회원의 개인정보를 사용할 수 있습니다.
+③회사는 서비스와 관련한 회원의 불만사항이 접수되는 경우 이를 신속하게 처리하여야 하며, 신속한 처리가 곤란한 경우 그 사유와 처리 일정을 서비스 화면에 게재하거나 E-mail 등을 통하여 동 회원에게 통지합니다.
+④회사가 제공하는 서비스로 인하여 회원에게 손해가 발생한 경우, 그러한 손해가 회사의 고의나 과실에 기해 발생한 경우에 한하여 회사에서 책임을 부담하며, 그 책임의 범위는 통상손해에 한합니다.
+⑤회사는 정보통신망 이용촉진 및 정보보호에 관한 법률, 개인정보 보호법, 통신비밀보호법, 전기통신사업법 등 서비스의 운영, 유지와 관련 있는 법규를 준수합니다.
+
+제15조 (회원의 의무)
+①회원은 서비스를 이용할 때, 다음 각 호의 행위를 하여서는 아니 됩니다.
+1.이용 신청 또는 변경 시 허위 사실을 기재하거나, 다른 회원의 개인정보를 도용, 부정하게 사용하는 행위
+2.서비스에서 획득한 정보를 이용하여 회사의 사전 승낙 없이 복제 또는 유통시키거나 상업적으로 이용하는 행위
+3.타인의 명예를 손상시키거나 불이익을 주는 행위
+4.서비스 내에서 음란물을 게재하거나 음란사이트를 연결(링크)하는 행위
+5.회사 또는 제3자의 저작권 등 기타 권리를 침해하는 행위
+6.공공질서 및 미풍양속에 위반되는 내용의 정보, 문장, 도형, 음성 등을 게시하는 행위(타인에게 유포하는 행위를 포함한다)
+7.서비스와 관련된 설비의 오동작이나 정보 등의 파괴 및 혼란을 유발시키는 컴퓨터 바이러스 감염 자료를 등록 또는 유포하는 행위
+8.서비스 운영을 고의로 방해하거나 서비스의 안정적 운영을 방해할 수 있는 정보 및 수신자의 명시적인 수신거부의사에 반하여 광고성 정보 또는 스팸메일(Spam Mail)을 전송하는 행위
+9.타인으로 가장하거나 타인을 사칭하는 행위 및 타인과의 관계를 허위로 명시하는 행위
+10.다른 회원의 개인정보를 수집, 저장, 공개하는 행위
+11.자기 또는 타인에게 재산상의 이익을 주거나 타인에게 손해를 가할 목적으로 허위의 정보를 유통시키는 행위
+12.재물을 걸고 도박하거나 사행행위를 하는 행위
+13.윤락행위를 알선하거나 음행을 매개하는 내용의 정보를 유통시키는 행위
+14.수치심이나 혐오감 또는 공포심을 일으키는 말이나 음향, 글이나 화상 또는 영상을 계속하여 상대방에게 도달하게 하여 상대방의 일상적 생활을 방해하는 행위
+15.회사 또는 다른 회원이 서비스에 게시한 정보를 권한 없이 변경하는 행위
+16.관련 법령에 의하여 그 전송 또는 게시가 금지되는 정보(컴퓨터 프로그램 포함)의 전송 또는 게시 행위
+17.회사의 직원이나 운영자를 가장하거나 사칭하여 또는 타인의 명의를 도용하여 글을 게시하거나 E-mail을 발송하는 행위
+18.컴퓨터 소프트웨어, 하드웨어, 전기통신 장비의 정상적인 가동을 방해, 파괴할 목적으로 고안된 소프트웨어 바이러스, 기타 다른 컴퓨터 코드, 파일, 프로그램을 포함하고 있는 자료를 게시하거나 E-mail로 발송하는 행위
+19.스토킹(stalking) 등 다른 회원을 괴롭히는 행위
+20.기타 불법적이거나 부당한 행위
+②회원은 관계 법령, 본 약관의 규정, 이용안내 및 서비스상에 공지한 주의사항, 회사가 통지하는 사항 등을 준수하여야 하며, 기타 회사의 업무에 방해되는 행위를 하여서는 아니 됩니다.
+③회원은 회사가 공식적으로 인정한 경우를 제외하고는 서비스를 이용하여 상품을 판매하는 영업 활동을 할 수 없으며 특히 해킹, 광고를 통한 수익, 음란사이트를 통한 상업행위, 상용소프트웨어 불법배포 등을 할 수 없습니다. 이를 위반하여 발생한 영업 활동의 결과 및 손실, 관계기관에 의한 수사∙구속 등 법적 조치 등에 관해서는 회사가 책임을 지지 않으며, 회원은 이와 같은 행위와 관련하여 회사에 대하여 손해배상 의무를 집니다.
+④회원은 서비스 이용을 위해 개인정보를 등록할 경우 현재의 사실과 일치하는 완전한 정보(이하 “등록정보”라 한다)를 제공하여야 합니다.
+⑤회원은 등록정보에 변경사항이 발생할 경우 즉시 갱신하여야 합니다. 회원이 제공한 등록정보 및 갱신한 등록정보가 부정확할 경우, 기타 회원이 본 조 제1항에 명시된 행위를 한 경우에 회사는 본 약관 제19조에 의해 회원의 서비스 이용을 제한 또는 중지 할 수 있습니다.
+⑥회원이, 다른 회원이 제공하여 회사가 서비스내(통화 연결화면 등 포함)에서 게시한 정보 등에 대해, 권리 침해 등을 이유로 삭제 또는 제공중단을 요청하기 위해서는, 정보통신망 이용촉진 및 정보보호 등에 관한 법류 제44조의 2에 의거하여, 회사가 서비스 내에서 공지하는 절차에 따라 권리 침해 여부를 회사에 소명하여야 합니다.
+
+
+제16조 (회원에 대한 통지)
+①회원에 대한 개별적인 통지를 하는 경우 회사는 회원이 등록한 E-mail 주소 또는 SMS 등으로 할 수 있습니다.
+②회사는 불특정 다수 회원에 대한 통지의 경우 서비스 등에 공지함으로써 제1항의 개별 통지에 갈음할 수 있습니다.
+
+제17조 (이용자의 개인정보보호)
+회사는 관련법령이 정하는 바에 따라서 회원 등록정보를 포함한 회원의 개인정보를 보호하기 위하여 노력합니다. 회원의 개인정보보호에 관한 사항은 관련법령 및 회사가 정하는 서비스의 “개인정보취급방침”에 정한 바에 따릅니다.
+
+제18조 (개인정보의 위탁)
+회사는 수집된 개인정보의 취급 및 관리 등의 업무(이하 본 조에서 “업무”라 한다)를 스스로 수행함을 원칙으로 하나, 필요한 경우 업무의 일부 또는 전부를 회사가 선정한 회사에 위탁할 수 있습니다. 개인정보의 위탁에 관한 사항은 관련법령 및 회사가 정하는 “개인정보취급방침”에 정한 바에 따릅니다.
+
+제5장 계약해지 및 이용제한
+
+제19조 (계약해지 및 이용제한)
+①회원이 서비스 이용계약을 해지하고자 할 경우에는 본인이 서비스 상에서 또는 회사가 정한 별도의 방법으로 회사에 해지신청을 하여야 합니다. 회원이 서비스 Application을 삭제하더라도 본 항에 따른 이용계약 해지절차를 거치지 않을 경우에는 서비스 해지처리가 되지 않습니다.
+②회사는 회원이 제15조에 규정한 회원의 의무를 이행하지 않을 경우, 사전 통지 없이 즉시 이용계약을 해지하거나 또는 서비스 이용을 중지할 수 있으며, 회원이 가입한 이동전화 서비스 요금제 등 개별 회원의 자격에 따라 서비스 이용을 제한할 수 있습니다.
+③본 조 제2항의 회사 조치에 대하여 회원은 회사가 정한 절차에 따라 이의신청을 할 수 있습니다.
+④본 조 제3항의 이의가 정당하다고 회사가 인정하는 경우, 회사는 즉시 서비스의 이용을 재개합니다.
+
+제20조 (양도 금지)
+회원은 서비스의 이용권한, 기타 이용 계약상 지위를 타인에게 양도, 증여할 수 없으며 게시물에 대한 저작권을 포함한 모든 권리 및 책임은 이를 게시한 회원에게 있습니다.
+
+
+제6장 손해배상 등
+
+제21조 (손해배상)
+
+
+①회사 또는 회원이 본 약관의 규정을 위반함으로 인하여 손해(다른 회원에게 발생한 손해를 포함한다)가 발생하게 되는 경우, 본 약관을 위반한 당사자는 발생한 손해를 배상합니다.
+②회원이 서비스를 이용함에 있어 행한 불법행위나 본 약관 위반행위로 인하여 회사가 당해 회원 이외의 제3자로부터 손해배상 청구 또는 소송을 비롯한 각종 이의제기를 받는 경우 당해 회원은 자신의 책임과 비용으로 회사를 면책시켜야 하며, 당해 회원은 그로 인하여 회사에 발생한 모든 손해를 배상하여야 합니다.
+
+제22조 (면책사항)
+①회사는 제10조 제2항 및 천재지변 또는 이에 준하는 불가항력으로 인하여 서비스를 제공할 수 없는 경우에는 서비스 제공에 관한 책임이 면제됩니다.
+②회사는 회원의 귀책사유로 인한 서비스의 이용장애에 대하여 책임을 지지 않습니다.
+③회사는 회원이 서비스를 이용하여 기대하는 수익을 상실한 것에 대하여 책임을 지지 않으며 서비스를 통하여 얻은 자료로 인한 손해 등에 대하여도 책임을 지지 않습니다.
+④회사는 서비스 사이트에 게재된 또는 서비스로부터 접근되는 정보, 자료, 사실의 신뢰도 및 정확성 등 내용에 대하여는 책임을 지지 않습니다. 이에 대한 신뢰 여부는 전적으로 회원이 판단합니다.
+⑤회사는 회원 상호간 또는 회원과 제3자 상호간에 서비스를 매개로 발생한 분쟁에 대해서는 개입할 의무가 없으며 이로 인한 손해를 배상할 책임도 없습니다.
+⑥어떠한 경우에도 회사는 서비스, 정보, 자료, 게시물 등과 관련하여 직접, 간접, 부수적, 파생적으로 발생한 손해에 대해서 책임을 지지 않습니다.
+
+제23조 (관할법원)
+①서비스 이용과 관련하여 회사와 회원 사이에 분쟁이 발생한 경우, 회사와 회원은 분쟁의 해결을 위해 성실히 협의합니다.
+②본 조 제1항의 협의에서도 분쟁이 해결되지 않을 경우 양 당사자는 민사소송법상의 관할법원에 소를 제기할 수 있습니다.
+첨부 : 그룹통화 요금부과 기준 및 유의사항
+부칙
+(시행일) 본 약관은 2014년 2월 1일부터 시행합니다.
+(시행일) 본 약관은 2014년 8월 18일부터 시행합니다.
+(시행일) 본 약관은 2014년 11월 18일부터 시행합니다.
+첨부 : 그룹통화 요금부과 기준 및 유의사항
+①전화걸기 방식
+  
+-\u0009그룹통화를 위한 그룹을 개설한 자(이하 ‘그룹장’이라 함)이 다수의 참여자 모두에게 전화를 걸고, 참여자가 전화를 받는 방식으로 그룹 통화
+요금부과 기준
+O 전화걸기 방식
+- 참여자 수 및 통화시간에 따른 모든 통화요금을 그룹장이 부담. 단, 참여자가 그룹통화 중 퇴장하였다가 재입장하는 경우 해당 참여자가 통화요금을 부담하며, 상세는 ③ 재입장 방식 참조
+- 요율은 그룹장의 요금제에 따름
+- 단, 지역할인은 적용되지 않음
+O 전화걸기 방식 이용 시 유의 사항
+- 단말 기종에 따라 이용이 제한될 수 있으며, Ting 및 선불 이용자는 그룹 개설 불가(참여는 가능)
+- 그룹통화를 광고/스팸 등 상업적 목적으로 이용 시, 서비스 이용을 제한할 수 있음
+- 본 요금 부과 기준은 국내 요금에 한함 
+- 국제전화 및 로밍의 경우 전화걸기 방식의 이용이 제한됨
+②
+초대하기 방식
+  
+-\u0009그룹장이 그룹통화를 위한 그룹을 개설한 후, SMS를 발송하여 참여자가 전화를 걸도록 초대하는 방식으로 그룹 통화 (본 약관 시행일 현재 T전화에서는 초대하기 방식으로 그룹을 개설할 수는 없고, 회사가 제공하는 별도 서비스인 ‘T그룹on 서비스’를 통해 초대를 받은 경우 참여할 수는 있습니다)
+요금부과 기준
+O 초대하기 방식
+- 그룹장 및 참여자는 각자 본인의 통화요금만 부담
+- 요율은 각자의 요금제에 따름
+O 초대하기 방식 이용 시 유의 사항
+- 단말 기종에 따라 이용이 제한될 수 있음
+- 그룹통화를 광고/스팸 등 상업적 목적으로 이용 시, 서비스 이용을 제한할 수 있음
+- 본 요금 부과 기준은 국내 요금에 한함
+- 국제전화 및 로밍의 경우 그룹통화 이용이 일부 제한될 수 있음
+③재입장 방식
+  
+-\u0009① 전화걸기 방식에 따라 그룹장이 그룹통화를 위해 참여자들에게 발신하여 그룹통화를 진행하고 있는 상태에서, 그룹방장이 발신하였을 때 그룹통화 참여를 하지 못했거나, 그룹통화 중 방에서 퇴장한 참여자가 직접 해당 방으로 발신을 하여 진행중인 그룹통화에 참여하는 방식
+요금부과 기준
+O 재입장 방식
+- 재입장 참여자를 제외한 전체 참여자 수 및 통화시간에 따른 모든 통화요금을 그룹장이 부담. 요율은 그룹장의 요금제에 따름
+- 재입장 참여자는 본인의 통화요금만 부담. 요율은 본인의 요금제에 따름
+O 재입장 방식 이용 시 유의 사항
+- 단말 기종 및 T전화 버전에 따라 이용이 제한될 수 있음.
+- 그룹통화를 광고/스팸 등 상업적 목적으로 이용 시, 서비스 이용을 제한할 수 있음
+- 본 요금 부과 기준은 국내 요금에 한함 
+- 국제전화 및 로밍의 경우 전화걸기 방식의 이용이 제한됨
+
+"</string>
+    <string name="skt_term_of_use_title">Term of Service</string>
+    <string name="skt_title">Setting the phone mode</string>
+    <string name="speed_label_fast">Fast</string>
+    <string name="speed_label_medium">Medium</string>
+    <string name="speed_label_okay">OK</string>
+    <string name="speed_label_slow">Slow</string>
+    <string name="speed_label_very_fast">Very Fast</string>
+    <string name="speed_label_very_slow">Very Slow</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_my_verizon_label">My Verizon</string>
+    <string name="summary_verizon_cloud_label">Verizon Cloud</string>
+    <string name="term_agree_text">Agree</string>
+    <string name="term_disagree_text">Disagree</string>
+    <string name="terms_and_cnoditions">"End User License Agreement
+IMPORTANT. READ CAREFULLY: This End User License Agreement(\"EULA\") is a legal agreement between you (either an individual or a single entity) and TG&amp;Co. Inc. (\"TG&amp;Co.\") for software, owned by TG&amp;Co. and its affiliated companies and its third party suppliers and licensors, that accompanies this EULA, which includes computer software and may include associated media, printed materials, \"online\" or electronic documentation in connection with your use of this device (\"Software\").
+This device requires the use of preloaded software in its normal operation. BY USING THE DEVICE OR ITS PRELOADED SOFTWARE, YOU ACCEPT THE TERMS OF THIS EULA. IF YOU DO NOT ACCEPT THESE TERMS, DO NOT USE THE DEVICE OR THE SOFTWARE.
+1. GRANT OF LICENSE. TG&amp;Co. grants you the following rights provided that you comply with all terms and conditions of this EULA: You may install, use, access, display and run one copy of the Software on the local hard disk(s) or other permanent storage media of one computer and use the Software on a single computer or a mobile device at a time, and you may not make the Software available over a network where it could be used by multiple computers at the same time. You may make one copy of the Software in machine readable form for backup purposes only; provided that the backup copy must include all copyright or other proprietary notices contained on the original.
+Certain items of the Software may be subject to open source licenses. The open source license provisions may override some of the terms of this EULA. We make the applicable open source licenses available to you on the Legal Notices section of the Settings menu of you device.
+2. RESERVATION OF RIGHTS AND OWNERSHIP. TG&amp;Co. reserves all rights not expressly granted to you in this EULA. The Software is protected by copyright and other intellectual property laws and treaties. TG&amp;Co. or its suppliers own the title, copyright and other intellectual property rights in the Software. The Software is licensed, not sold.
+3. LIMITATIONS ON END USER RIGHTS. You may not reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code or algorithms of, the Software (except and only to the extent that such activity is expressly permitted by applicable law not withstanding this limitation), or modify, or disable any features of, the Software, or create derivative works based on the Software. You may not rent, lease, lend, sublicense or provide commercial hosting services with the Software.
+4. CONSENT TO USE OF DATA. You agree that TG&amp;Co. and its affiliates may collect and use technical information gathered as part of the product support services related to the Software provided to you, if any, such as device number, model name, customer code, access recording, you device's current SW version, MCC(Mobile country code), MNC(Mobile Network Code). TG&amp;Co. and its affiliates may use this information solely to improve their products or to provide customized services or technologies to you and will not disclose this information in a form that personally identifies you.
+5. SOFTWARE UPDATES. TG&amp;Co. may provide to you or make available to you updates, upgrades, supplements and add-on components (if any) of the Software, including bug fixes, service upgrades (parts or whole). Products or devices, and updates and enhancements to any software previously installed (including entirely new versions), (collectively \"Update\") after the date you obtain your initial copy of the Software to improve the Software and ultimately enhance your user experience with your device. This EULA applies to all and any component of the Update that TG&amp;Co. may provide to you or make available to you after the date you obtain your initial copy of the Software, unless we provide other terms along with such Update. To use Software provided through Update, you must first be licensed for the Software identified by TG&amp;Co. as eligible for the Update. After the Update, you may no longer use the Software that formed the basis for your Update eligibility. The updated Software version may add new functions and, in some limited cases, may delete existing functions.
+While the Update will be generally available, in some limited circumstances, the Software updates will only be offered by your network carrier, and such Software updates will be governed by your contractual relationship with your network carrier.
+With the \"Automatic Update\" function enabled (as in the default setting in the System Update menu or Security menu in the Setting), your device downloads some Updates automatically from time to time. Your device will, however, ask for your consent before installing any Update. However, given the importance of receiving Updates for security software in a timely manner to defend against new threats, such Update may be automatically downloaded and installed. If you choose to disable the \"Automatic Update\" function, then you can check the availability of new Updates by clicking on the \"Check Update\" menu in the Setting. We recommend that you check availability of any new Updates periodically for optimal use of your device. If you want to avoid any use of network data for the Update downloads, then you should choose the \"Wi-Fi only\" option in the Setting. (Regardless of the option you choose, the \"Automatic Update\" function downloads Updates only through Wi-Fi connection.\".
+6. Some features of the Software may require your device to have access to the internet and may be subject to restrictions imposed by your network or internet provider. Unless your device is connected to the internet through Wi-Fi connection, the Software will access through your mobile network, which may result in additional charges depending on your payment plan. In addition, your enjoyment of some features of the Software may be affected by the suitability and performance of your device hardware or data access.
+7. SOFTWARE TRANSFER. You may not transfer this EULA or the rights to the Software granted herein to any third party unless it is in connection with the sale of the mobile device which the Software accompanied. In such event, the transfer must include all of the Software (including all component parts, the media and printed materials, any upgrades, this EULA) and you may not retain any copies of the Software. The transfer may not be an indirect transfer, such as a consignment. Prior to the transfer, the end user receiving the Software must agree to all the EULA terms.
+8. EXPORT RESTRICTIONS. You acknowledge that the Software is subject to export restrictions of various countries. You agree to comply with all applicable international and national laws that apply to the Software, including all the applicable export restriction laws and regulations.
+9. TERMINATION. This EULA is effective until terminated. Your rights under this License will terminate automatically without notice from TG&amp;Co. if you fail to comply with any of the terms and conditions of this EULA. Upon termination of this EULA, you must cease all use of the Software and destroy all copies, full or partial, of the Software.
+10. Disclaimer of Warranty. UNLESS SEPARATELY STATED IN A WRITTEN EXPRESS LIMITED WARRANTY ACCOMPANYING YOUR DEVICE, ALL SOFTWARE PROVIDE BY TG&amp;CO. WITH THIS MOBILE DEVICE(WHETHER INCLUDED WITH THE DEVICE, DOWNLOADED, OR OTHERWISE OBTAINED) IS PROVIDED \"AS IS\" AND ON AN \"AS AVAILABLE\" BASIS, WITHOUT WARRANTIES OF ANY KIND FROM TG&amp;CO., EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT POSSIBLE PURSUANT TO APPLICABLE LAW, TG&amp;CO. DISLAIMS ALL WARRANTIES EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY OR WORKMANLIKE EFFORT, FITNESS FOR A PARTICULAR PURPOSE, RELIABILITY OR AVAILABILITY, ACCURACY, LACK OF VIRUSES, QUIET ENJOYMENT, NON INFRINGEMENT OF THIRD PARTY RIGHTS OR OTHER VIOLATION OF RIGHTS. SOME JURISDICTIONS DO NOT ALLOW EXCLUSIONS OR LIMITATIONS OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM TG&amp;CO. OR ITS AFFILIATES SHALL BE DEEMED TO ALTER THIS DISCLAIMER BY TG&amp;CO. OF WARRANTY REGARDING THE SOFTWARE, OR TO CREATE ANY WARRANTY OF ANY SORT FROM TG&amp;CO..
+11. THIRD-PARTY APPLICATIONS. Certain third party applications may be include with, or download to this mobile device. TG&amp;Co. makes no representation whatsoever about any of these applications. Since TG&amp;Co. has no control over such applications, you acknowledge and agree that TG&amp;Co. is not responsible for the availability of such applications and is not responsible or liable for any content, advertising, products, services, or other materials on or available from such applications. You expressly acknowledge and agree that use of third party applications is at your sole risk and that the entire risk of unsatisfactory quality, performance, accuracy and effort is with you. It is up to you to take precautions to ensure that whatever you select to use is free of such items as viruses, worms, Trojan horses, and other items of a destructive nature. References on this mobile device to any names, marks, products, or services of any third-parties are provided solely as a convenience to you, and do not constitute or imply and endorsement, sponsorship, or recommendation of, or affiliation with the third party or its products and services. You agree that TG&amp;Co. shall not be responsible or liable, directly or indirectly, for any damage or loss, including but not limited to any damage to the mobile device or loss of data, caused or alleged to be caused by, or in connection with, use of or reliance on any such third party content, products, or services available on or through any such application. You acknowledge and agree that the use of any third-party application is governed by such third party application provider's Terms of Use, License Agreement, Privacy Policy, or other such agreement and that any information or personal data you provide, whether knowingly or unknowingly, to such third-party application provider, will be subject to such third party application provider's privacy policy, if such a policy exists. TG&amp;CO. DISCLAIMS ANY RESPONSIBILITY OR ANY DISCLOSURE OF INFORMATION OR ANY OTHER PRACTICES OF ANY THIRD PARTY APPLICATION PROVIDER. TG&amp;CO. EXPRESSLY DISCLAIMS ANY WARRANTY REGARDING WHETHER YOUR PERSONAL INORMATION IS CAPTURED BY ANY THIRD PARTY APPLICATION PROVIDER OR THE USE TO WHICH SUCH PERSONAL INFORMATION MAY BE PUT BY SUCH THIRD PARTY APPLICATION PROVIDER.
+12. TG&amp;CO. APPLICATIONS. Certain TG&amp;Co. applications and services may be included with, or downloaded to, this mobile device. In this case, your rights and obligations will be set forth in separate TG&amp;Co. Account terms and conditions and privacy policies. There are non-TG&amp;Co. Account applications and services that require your consent to their separate terms and conditions and collection of personal information. You expressly acknowledge and agree that your use of such applications and services will be subject to the applicable terms and conditions and privacy policies.
+13. Limitation of Liability. TG&amp;CO. WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING OUT OF OR RELATING TO THE USE OR THE INABILITY TO USE THE SOFTWARE OR ANY THIRD PARTY APPLICATION, ITS CONTENT OR FUNCTIONALITY, INCLUDING BUT NOT LIMITED TO DAMAGES CAUSED BY OR RELATED TO ERRORS, OMISSIONS, INTERRUPTIONS, DEFECTS, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS, FAILURE TO CONNECT, NETWORK CHARGES, IN-APP PURCHASES, AND ALL OTHER DIRECT, INDIRECT SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES EVEN IF TG&amp;CO. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU. NOTWITHSTANDING THE FOREGOING, TG&amp;CO. INC.'S TOTAL LIABILITY TO YOU FOR ALL LOSSES, DAMAGES, CAUSES OF ACTION, INCLUDING BUT NOT LIMITED TO THOSE BASED ON CONTRACT, TORT, OR OTHERWISE, ARISING OUT OF YOUR USE OF THE SOFTWARE OR THIRD PARTY APPLICATIONS ON THIS MOBILE DEVICE, OR ANY OTHER PROVISION OF THIS EULA, SHALL NOT EXCEED THE AMOUNT PURCHASER PAID SPECIFICALLY FOR THIS MOBILE DEVICE OR ANY SUCH THIRD PARTY APPLICATION THAT WAS INCLUDED WITH THIS MOBILE DEVICE. THE FOREGOING LIMITATIONS, EXCLUSIONS, AND DISCLAIMERS (INCLUDING SECTIONS 10, 11, 12 AND 13) SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EVEN IF ANY REMEDY FAILS ITS ESSENTIAL PURPOSE.
+14. APPLICABLE LAW. This EULA is governed by the laws of the jurisdiction where you are a resident, without regard to its conflict of law provisions. This EULA shall not be governed by the UN Convention on Contracts for the International Sale of Goods, the application of which is expressly exclude.
+15. DISPUTE RESOLUTION. If a dispute, controversy or difference arising in any way from this EULA or your use of the Software is not amicably settled, it shall be subject to the non-exclusive jurisdiction of the courts of the jurisdiction where you are a resident. Notwithstanding the foregoing, TG&amp;Co. may apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+16. ENTIRE AGREEMENT; SEVERABILITY. This EULA is the entire agreement between you and TG&amp;Co. relating to the Software and supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to the Software or any other subject matter covered by this EULA. If any provision of this EULA is held to be void, invalid, unenforceable or illegal, the other provisions shall continue in full force and effect.
+"</string>
+    <string name="terms_of_service_description">"
+It might cost extra charge of mobile data usage when you use the services that required network connection, such as weather services, Internet services , E-mail, browser.. etc. To manage your mobile data usage fee more efficiently, we suggest that you apply for appropriate mobile service package from your carrier.
+
+By selecting agree, you allow these services to connect network when required.
+
+In addition, auto software update is default enabled. To bring you the latest software experience, it may use few mobile data. You can always change the option later in Settings.
+
+"</string>
+    <string name="terms_title">Data Usage</string>
+    <string name="theme_type">glif_v3_light</string>
+    <string name="third_party">"Privacy Policy towards the 3rd Party Suppliers
+TG&amp;Co. Inc. (“TG&amp;Co.”) provides user’s personal information as below:
+• The 3rd party that gets personal information
+Foxconn International Holdings Ltd. (“FIH”)
+• Personal information usage purpose by the 3rd party
+Device or software product support and improvement in service quality and performance.
+• Personal information (by item) to be provided to the 3rd party by items
+Device IMEI, customer code, access log, HW information, software version and upgrade information, TP &amp; camera ISP version, battery ID, network MCC/MNC information, the title and version of the application user have used, the time period and the number of times application have been run, CPU usage information, battery usage information, Wi-Fi usage information, mobile data usage information, total call duration, error occurred time, error log, personal information which may include phone number &amp; email addresses.
+• The 3rd party’s storage and usage period
+3 months from the collected date.
+• How to gather the personal information 
+Device’s certain application or software program
+• Refusal to personal information gathering and usage
+Users have rights to refuse to personal information gathering and usage by TG&amp;Co. Refusal to personal information gathering and usage can limit using certain services offered by TG&amp;Co.
+(Contact to refuse to this personal information gathering and usage agreement: privacy@tgnco.kr)
+*If TG&amp;Co. happens to be sharing the personal information with 3rd parties or suppliers that does not mentioned in this agreement, complying the government regulation and changing its privacy policy, TG&amp;Co. will notify users via company website, email, telephone and etc. For more information, please visit www.tgnco.kr/company/policy/policy2.jspa and refer to TG&amp;Co. Privacy Policy.
+"</string>
+    <string name="time_picker_title">Time</string>
+    <string name="traffic_prompt_content">If you choose to disagree, you will have to acquire software update, weather forecast, or other information manually.</string>
+    <string name="upload_agent_configuration">User Experience Program</string>
+    <string name="upload_agent_des">Help us to improve our products and services by allowing us to collect diagnostic data when your device is experiencing with a software error or crash. You can always change the option later in upload agent configuration.</string>
+    <string name="upload_agent_des_text">"Join user experience program. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Learn more&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Join the Nokia User Experience programme. &lt;a href='launch.UserExperienceActivity://Kode'>Learn more.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"By tapping “LET’S GO”, you agree to join the User Experience Program. &lt;a href='launch.UserExperienceActivity://Kode'>Learn more&lt;/a>. Remember, you can always join later via Settings."</string>
+    <string name="upload_agent_title">User Experience Program</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="version_type">releasetype</string>
+    <string name="wapi_auto_sel_cert">Select automatically</string>
+    <string name="wapi_psk_security_type">Password type</string>
+    <string name="welcome_hmd_term_of_use_2">"By tapping the arrow, you agree to &lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&lt;/a> and &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>. The device activation information with one-time device location will be sent to HMD Global. Data charges may apply."</string>
+    <string name="welcome_hmd_term_of_use_4">"By tapping the button, you agree to &lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&lt;/a> and &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>. The device activation information and location will be sent to HMD Global. Data charges may apply. Data will be used according to Privacy Policy.&lt;br/>&lt;br/> Auto Software Update notification will be enabled which installs the latest updates for you. This may use up a small portion of your data budget. The services will access the Internet whenever they need.&lt;br/>&lt;br/> These services will cost you overage charges when they access cellular networks.&lt;br/>&lt;br/> The device may send device activation information to local operators.&lt;br/>&lt;br/> To provide complete service, Google Play Services need to connect to network, access your contact, location, phone, SMS, Microphone, Camera, Sensor, Calendar and storage."</string>
+    <string name="welcome_hmd_term_of_use_5">"By tapping the button, you agree to &lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&lt;/a>. The device activation information with one-time device location will be sent to HMD Global. Data charges may apply. Data will be used according to &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"By tapping arrow, you agree to&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Service term&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Let’s go</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="welcome_start_button_label">START</string>
+    <string name="welcome_vision_settings_button_label">Accessibility</string>
+    <string name="wifi_add_network">Add network</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Drop down list Advanced Options. Double-tap to expand.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Drop down list Advanced Options. Double-tap to collapse.</string>
+    <string name="wifi_and_mobile_skipped_message">"Connecting to a network helps you quickly set up your phone.
+
+Without a connection, you can’t:
+
+"<li>Sign in to your Cloud account</li>"
+
+"<li>Get software updates</li>"
+
+"<li>Automatically set up time and date</li></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">Access point temporarily full</string>
+    <string name="wifi_auth_password_wrong">Password may be incorrect</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Cancel</string>
+    <string name="wifi_carrier_connect">Carrier Wi‑Fi network</string>
+    <string name="wifi_carrier_content">Connect via %1%s</string>
+    <string name="wifi_certificate">Certificate</string>
+    <string name="wifi_check_password_try_again">Check password and try again</string>
+    <string name="wifi_connect">Connect</string>
+    <string name="wifi_connected_no_internet">Connected, no Internet</string>
+    <string name="wifi_disabled_by_recommendation_provider">Not connected due to low quality network</string>
+    <string name="wifi_disabled_generic">Disabled</string>
+    <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
+    <string name="wifi_disabled_password_failure">Authentication problem</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns1_hint">8.8.8.8</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_dns2_hint">8.8.4.4</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Do not provide</string>
+    <string name="wifi_do_not_validate_eap_server">Do not validate</string>
+    <string name="wifi_do_not_validate_eap_server_warning">No certificate specified. Your connection will not be private.</string>
+    <string name="wifi_dont_skip">GO BACK</string>
+    <string name="wifi_eap_anonymous">Anonymous identity</string>
+    <string name="wifi_eap_ca_cert">CA certificate</string>
+    <string name="wifi_eap_domain">Domain</string>
+    <string name="wifi_eap_identity">Identity</string>
+    <string name="wifi_eap_method">EAP method</string>
+    <string name="wifi_eap_user_cert">User certificate</string>
+    <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
+    <string name="wifi_failed_connect_message">Failed to connect to network</string>
+    <string name="wifi_failed_forget_message">Failed to forget network</string>
+    <string name="wifi_failed_save_message">Failed to save network</string>
+    <string name="wifi_forget">Forget</string>
+    <string name="wifi_frequency">Frequency</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_gateway_hint">192.168.1.1</string>
+    <string name="wifi_ip_address">IP address</string>
+    <string name="wifi_ip_address_hint">192.168.1.128</string>
+    <string name="wifi_ip_settings">IP settings</string>
+    <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Type a valid IP address.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
+    <string name="wifi_metered_label">Metered</string>
+    <string name="wifi_multiple_cert_added">(Multiple certificates added)</string>
+    <string name="wifi_network_prefix_length">Network prefix length</string>
+    <string name="wifi_network_prefix_length_hint">24</string>
+    <string name="wifi_no_domain_warning">Must specify a domain.</string>
+    <string name="wifi_no_internet">No Internet access</string>
+    <string name="wifi_no_internet_no_reconnect">"Won't automatically connect"</string>
+    <string name="wifi_not_in_range">Not in range</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_picker_connection_des_text">Disable WLAN connection may cause charge when verifying your software via mobile network.</string>
+    <string name="wifi_picker_connection_negative">Connect</string>
+    <string name="wifi_picker_connection_negative_prc">Connect WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">Connect Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Network connection</string>
+    <string name="wifi_picker_warning_des_text">Until you have an internet connection, the phone will not be able to verify that your software is up to date.</string>
+    <string name="wifi_picker_warning_negative">Skip anyway</string>
+    <string name="wifi_picker_warning_positive">Do not skip</string>
+    <string name="wifi_picker_warning_title">Warning</string>
+    <string name="wifi_remembered">Saved</string>
+    <string name="wifi_save">Save</string>
+    <string name="wifi_security">Security</string>
+    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
+    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
+    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_see_all_network">See all WLAN networks</string>
+    <string name="wifi_setting_sub_title">To get apps or copy data, connect to a network</string>
+    <string name="wifi_setting_title">Get connected</string>
+    <string name="wifi_shared">Share with other device users</string>
+    <string name="wifi_show_advanced">Advanced options</string>
+    <string name="wifi_show_password">Show password</string>
+    <string name="wifi_signal">Signal strength</string>
+    <string name="wifi_skip_anyway">SKIP ANYWAY</string>
+    <string name="wifi_speed">Link speed</string>
+    <string name="wifi_ssid">Network name</string>
+    <string name="wifi_ssid_hint">Enter the SSID</string>
+    <string name="wifi_ssid_too_long">Network name is too long.</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_unchanged">(unchanged)</string>
+    <string name="wifi_unmetered_label">Unmetered</string>
+    <string name="wifi_unspecified">Please select</string>
+    <string name="wifi_use_system_certs">Use system certificates</string>
+    <string name="wizard_script_deferred_uri">android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_deferred</string>
+    <string name="wizard_script_uri">android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script</string>
+    <string name="wizard_script_user_uri">android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_user</string>
+    <string name="zh_cn">简体中文 (中国)</string>
+    <string name="zh_tw">繁體中文 (台灣)</string>
+    <string name="zone_auto">Automatic time zone</string>
+    <string name="zone_auto_summaryOff">Use network-provided time zone</string>
+    <string name="zone_auto_summaryOn">Use network-provided time zone</string>
+</resources>

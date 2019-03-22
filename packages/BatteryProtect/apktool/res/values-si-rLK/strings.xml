@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">බැටරි ආරක්ෂණය</string>
+    <string name="fih_battery_protect_aging_nm_text">අපේ පාරිභෝගික සේවා මධ්‍යස්ථාන දුරකථනය %1$s අමතන්න, ස්තුතියි.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">අපේ පාරිභෝගික සේවා මධ්‍යස්ථාන අමතන්න, ස්තුතියි.</string>
+    <string name="fih_battery_protect_aging_text">හිතවත් InFocus පාරිභෝගිකය, සෙල් දුරකථන බැටරිය පාරිභෝජන කොටසක් ලෙස සැලකෙන නිසා, ඔබේ දුරකථනයේ බැටරි ආයුබලය සැලකිය යුතු ලෙස ක්ෂය වන බව දකින්නේ නම්, එය හොඳම තත්ත්වයෙන් පවත්වා ගැනීම තහවුරු කර ගැනීමට දෝෂ සෙවුම සහ අලුත් වැඩියාව පිණිස වෙළෙන්දා වෙත ගෙන යන්න. ඔබට ප්‍රශ්නයක් ඇත්නම්, අපේ පාරිභෝගික සේවා මධ්‍යස්ථාන දුරකථනය %1$s අමතන්න. ස්තුතියි.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">හිතවත් InFocus පාරිභෝගිකය, සෙල් දුරකථන බැටරිය පාරිභෝජන කොටසක් ලෙස සැලකෙන නිසා, ඔබේ දුරකථනයේ බැටරි ආයුබලය සැලකිය යුතු ලෙස ක්ෂය වන බව දකින්නේ නම්, එය හොඳම තත්ත්වයෙන් පවත්වා ගැනීම තහවුරු කර ගැනීමට දෝෂ සෙවුම සහ අලුත් වැඩියාව පිණිස වෙළෙන්දා වෙත ගෙන යන්න. ඔබට ප්‍රශ්නයක් ඇත්නම්, අපේ පාරිභෝගික මධ්‍යස්ථානය අමතන්න. ස්තුතියි.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">හිතවත් InFocus පාරිභෝගිකය, සෙල් උපාංග බැටරිය පාරිභෝජන කොටසක් ලෙස සැලකෙන නිසා, ඔබේ උපාංගයේ බැටරි ආයුබලය සැලකිය යුතු ලෙස ක්ෂය වන බව දකින්නේ නම්, එය හොඳම තත්ත්වයෙන් පවත්වා ගැනීම තහවුරු කර ගැනීමට දෝෂ සෙවුම සහ අලුත් වැඩියාව පිණිස වෙළෙන්දා වෙත ගෙන යන්න. ඔබට ප්‍රශ්නයක් ඇත්නම්, අපේ පාරිභෝගික මධ්‍යස්ථානය අමතන්න. ස්තුතියි.</string>
+    <string name="fih_battery_protect_aging_text_wear">හිතවත් InFocus පාරිභෝගිකය, සෙල් උපාංග බැටරිය පාරිභෝජන කොටසක් ලෙස සැලකෙන නිසා, ඔබේ උපාංගයේ බැටරි ආයුබලය සැලකිය යුතු ලෙස ක්ෂය වන බව දකින්නේ නම්, එය හොඳම තත්ත්වයෙන් පවත්වා ගැනීම තහවුරු කර ගැනීමට දෝෂ සෙවුම සහ අලුත් වැඩියාව පිණිස වෙළෙන්දා වෙත ගෙන යන්න. ඔබට ප්‍රශ්නයක් ඇත්නම්, අපේ පාරිභෝගික සේවා මධ්‍යස්ථාන දුරකථනය %1$s අමතන්න. ස්තුතියි.</string>
+    <string name="fih_battery_protect_aging_title">බැටරි මගපෙන්වුම</string>
+    <string name="fih_battery_protect_aging_title_wear">බැටරි මගපෙන්වුම</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">අවලංගු කරන්න</string>
+    <string name="fih_battery_protect_alert_dialog_ok">හරි</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">බැටරිය නියමාකාරයෙන් ස්ථාපිත දැයි නිසැක වන්න, නොඑසේ නම් එය ආරෝපණය නොවනු ඇත.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">බැටරිය නියමාකාරයෙන් ස්ථාපිත දැයි නිසැක වන්න.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">බැටරි උෂ්ණත්වය සෙවිය නොහැකිය, බැටරිය නියමාකාරයෙන් ස්ථාපිත දැයි නිසැක වන්න, නොඑසේ නම් එය ආරෝපණය නොවනු ඇත.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">බැටරි උෂ්ණත්වය සොයනු නොහැකිය.</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">ආරෝපණය නවතන්න!</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">උෂ්ණත්වය පරාසයෙන් පිටගොසිනි.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">ආරෝපණය නැවතුම</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">බැටරි මගපෙන්වුම</string>
+    <string name="fih_battery_protect_bl_warning_text">දුරකථනයේ උෂ්ණත්වය සාමාන්‍ය පමණට වඩා ඉහළයි, දුරකථනය සිසිල් කිරීමට දීප්තිය අඩු කරන්න</string>
+    <string name="fih_battery_protect_bl_warning_title">දීප්තිය අඩු කිරීමට ඉඟිය</string>
+    <string name="fih_battery_protect_cancel_wear">අවලංගු කරන්න</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">හදිසි ඇමතුම්</string>
+    <string name="fih_battery_protect_cooldown_text">දැන් දුරකථනය සිසිලන ප්‍රකාරයේය, හදිසි ඇමතුම් පමණි.</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">දැන් දුරකථනය සිසිලන ප්‍රකාරයේය. එය පසුව භාවිත කරන්න.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"ඔබගේ දුරකතනය රත්වෙමින් ඇත, එනිසා එය එමගින්ම සිසිල් වීමට පියවර ගනිමින් සිටී. ඔබට තවමත් එය භාවිතා කළ හැකි නමුත් ඔබ දැනගත යුතු වන්නේ:
+·ආරෝපණය නැවතිය හැකිය.
+·Wi-Fi අක්‍රීය විය හැකිය.
+·යෙදුම් වැසී යාමට ඉඩ ඇත.
+·අහස්යානා ආකාරය අක්‍රීය වනු ඇත.
+ඔබගේ දුරකථනය සිසිල් වූ පසු එය සාමාන්‍ය තත්වයට ආපසු පත්වනු ඇත."</string>
+    <string name="fih_battery_protect_cooldown_text_wear">දැන් උපාංගය සිසිලන ප්‍රකාරයේය, හදිසි ඇමතුම් පමණි.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">දැන් බැටරි උෂ්ණත්වය සොයනු නොහැකිය, තවද දුරකථනය සිසිලන ප්‍රකාරයේය, හදිසි ඇමතුමක් පමණක් ගන්න, බැටරිය නිවැරදිව ස්ථාපිත දැයි නිසැක වන්න.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">දැන් බැටරි උෂ්ණත්වය සොයනු නොහැකිය, තවද උපාංගය සිසිලන ප්‍රකාරයේය, හදිසි ඇමතුමක් පමණක් ගන්න, බැටරිය නිවැරදිව ස්ථාපිත දැයි නිසැක වන්න.</string>
+    <string name="fih_battery_protect_cooldown_title">සිසිලනය වෙයි</string>
+    <string name="fih_battery_protect_cooldown_title_wear">සිසිලනය වෙයි</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">සාමාන්‍ය දැනුම්දීම්</string>
+    <string name="fih_battery_protect_full_charging">ආරෝපණය සම්පූර්ණයි</string>
+    <string name="fih_battery_protect_full_charging_wear">ආරෝපණය සම්පූර්ණයි</string>
+    <string name="fih_battery_protect_high_full_charging">ඉහළ උෂ්ණත්වයන්හිදී උපරිම ආරෝපණය කිරීමේ සීමාවට ළඟාවී ඇත! දුරකථනයේ උෂ්ණත්වය සාමාන්‍යයට නැවත පැමිණි විට, පද්ධතිය සාමාන්‍ය වේගයෙන් අඛණ්ඩව ආරෝපණය කරනු ඇත.</string>
+    <string name="fih_battery_protect_high_full_charging_title">ඉහළ උෂ්ණත්වයේ ආරෝපණ සීමාවට ළඟාවිය</string>
+    <string name="fih_battery_protect_high_temp_text_wear">බැටරි උෂ්ණත්වය ඉතා ඉහළය, ආරෝපණය නවතන්න.</string>
+    <string name="fih_battery_protect_install_error_title_wear">බැටරි මගපෙන්වුම</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">කරුණාකර ආරෝපණය කිරීමට මුල් බැටරිය භාවිතා කරන්න, නැතහොත් ඔබ ඔබගේ උපාංගයට ස්ථිර/භෞතික හානියක් කළ හැකිය.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">කරුණාකර මුල් බැටරිය භාවිතා කරන්න</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">ආරෝපණය නැවතුණි</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">බැටරිය අවලංගුය</string>
+    <string name="fih_battery_protect_low_full_charging">පහළ උෂ්ණත්වයන්හිදී උපරිම ආරෝපණය කිරීමේ සීමාවට ළඟාවී ඇත! දුරකථනයේ උෂ්ණත්වය සාමාන්‍යයට නැවත පැමිණි විට, පද්ධතිය සාමාන්‍ය වේගයෙන් අඛණ්ඩව ආරෝපණය කරනු ඇත.</string>
+    <string name="fih_battery_protect_low_full_charging_title">පහළ උෂ්ණත්වයේ ආරෝපණ සීමාවට ළඟාවිය</string>
+    <string name="fih_battery_protect_low_temp_text">උෂ්ණත්වය ඉතා පහළය, ආරෝපණය නවතන්න.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">බැටරි උෂ්ණත්වය ඉතා පහළය, ආරෝපණය නවතන්න.</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">බැටරි උෂ්ණත්වය බෙහෙවින්ම පහළය, ආරෝපණය නවතිනු ඇත.</string>
+    <string name="fih_battery_protect_low_temp_title">ඇඟවීම</string>
+    <string name="fih_battery_protect_low_temp_title_wear">පහළ උෂ්ණත්වය</string>
+    <string name="fih_battery_protect_maxtemp_text">දුරකථන උෂ්ණත්වය ඉතා ඉහළය, දැන් වැසෙනු ඇත.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">උපාංග උෂ්ණත්වය ඉතා ඉහළය, දැන් වැසෙනු ඇත.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">ඔරලෝසු උෂ්ණත්වය එහි සීමාවට ලංවී ඇති නිසා ඉක්මනින් වැසී යනු ඇත.</string>
+    <string name="fih_battery_protect_maxtemp_title">උපරිම උෂ්ණත්වය</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">උපරිම උෂ්ණත්වය</string>
+    <string name="fih_battery_protect_normalmode_cooldone_dec">දුරකථනය සිසිලන ප්‍රකාරයෙන් පිටවිය. සාමාන්‍ය මෙහෙයුම යළි ඇරඹිණි.</string>
+    <string name="fih_battery_protect_normalmode_max_dec">දුරකථනය උපරිම උෂ්ණත්ව ප්‍රකාරයෙන් පිටවිය. සාමාන්‍ය මෙහෙයුම යළි ඇරඹිණි.</string>
+    <string name="fih_battery_protect_normalmode_text">සාමාන්‍ය මෙහෙයුම යළි ඇරඹිණි.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">සාමාන්‍ය මෙහෙයුම යළි ඇරඹිණි.</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">ඔරලෝසුව සාමාන්‍ය මෙහෙයුමට යළි පැමිණිනි.</string>
+    <string name="fih_battery_protect_normalmode_title">සාමාන්‍ය උෂ්ණත්වය</string>
+    <string name="fih_battery_protect_normalmode_title_wear">සාමාන්‍ය උෂ්ණත්වය</string>
+    <string name="fih_battery_protect_normalmode_warning_dec">දුරකථනය අවවාද ප්‍රකාරයෙන් පිටවිය. සාමාන්‍ය මෙහෙයුම යළි ඇරඹිණි.</string>
+    <string name="fih_battery_protect_notification_cooling_down">සිසිල් වෙමින් ඇත</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">ඉහළ උෂ්ණත්වය</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">බැටරි ස්ථාපන දෝෂය</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">ආරෝපණය නවතන්න</string>
+    <string name="fih_battery_protect_ok_wear">හරි</string>
+    <string name="fih_battery_protect_power_off">බලය අක්‍රිය කරන්න</string>
+    <string name="fih_battery_protect_tap_learn_more">තවත් දැනගැනීමට තට්ටු කරන්න.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">උෂ්ණත්වය පරාසයෙන් පිටගොසිනි.</string>
+    <string name="fih_battery_protect_warning_text">දුරකථනය සිසිල් කිරීමට ඇමතුම සහ යෙදුම් වසා දමන්න.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">අපි බොත්තම එබූ කළ දීප්තිය අඩු කිරීම සහ යෙදුම් වසා දැමීම උපාංගය සිසිලන මගක් ලෙස සපයන්නෙමු.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">ඔරලෝසුවේ උෂ්ණත්වය ඉතා ඉහළය. අපි තිරය අඩ අඳුරු කොට යෙදුම් නවතන ලෙස යෝජනා කරමු. මෙම ක්‍රියාමාර්ග තහවුරු කිරීමට පිරික්සන්න.</string>
+    <string name="fih_battery_protect_warning_text_wear">උපාංගය සිසිල් කිරීමට ඇමතුම සහ යෙදුම් වසා දමන්න.</string>
+    <string name="fih_battery_protect_warning_title">ඉහළ උෂ්ණත්ව අවවාදය</string>
+    <string name="fih_battery_protect_warning_title_wear">ඉහළ උෂ්ණත්වය</string>
+</resources>

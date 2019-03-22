@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Nenda mwanzo</string>
+    <string name="abc_action_bar_up_description">Nenda juu</string>
+    <string name="abc_action_menu_overflow_description">Chaguo zaidi</string>
+    <string name="abc_action_mode_done">Nimemaliza</string>
+    <string name="abc_activity_chooser_view_see_all">Angalia zote</string>
+    <string name="abc_activitychooserview_choose_application">Chagua programu</string>
+    <string name="abc_capital_off">IMEZIMWA</string>
+    <string name="abc_capital_on">IMEWASHWA</string>
+    <string name="abc_search_hint">Tafuta…</string>
+    <string name="abc_searchview_description_clear">Futa hoja</string>
+    <string name="abc_searchview_description_query">Hoja ya utafutaji</string>
+    <string name="abc_searchview_description_search">Tafuta</string>
+    <string name="abc_searchview_description_submit">Wasilisha hoja</string>
+    <string name="abc_searchview_description_voice">Tafuta kwa kutamka</string>
+    <string name="abc_shareactionprovider_share_with">Shiriki na:</string>
+    <string name="abc_shareactionprovider_share_with_application">Shiriki ukitumia %s</string>
+    <string name="abc_toolbar_collapse_description">Kunja</string>
+    <string name="accessibility_text">Zana za walio na matatizo ya kuona au kusikia</string>
+    <string name="account_intro_description">Tafadhali[BRAND_NAME]jiunge na huduma ili utumie kifaa chako kwa njia mahiri na nzuri zaidi.</string>
+    <string name="account_intro_title">[BRAND_NAME]Akaunti ya huduma</string>
+    <string name="add_baidu_button_label">Ingia kwenye Wingu la Baidu</string>
+    <string name="add_infocus_service_account">Akaunti [BRAND_NAME] mpya ya huduma</string>
+    <string name="available_via_passpoint">Inapatikana kupitia %1$s</string>
+    <string name="back_btn_lebel">Hatua ya awali</string>
+    <string name="backup_and_restore_description">"Iwapo ilihifadhi nakala ya akaunti yako hapo awali, unaweza sasa kurejesha data kwenye simu yako ya mkononi. 
+
+Unaweza kubadilisha mpangilio wa kuhifadhi nakala katika \"Mipangilio\" wakati wowote."</string>
+    <string name="backup_and_restore_title">Kuhifadhi nakala na kurejesha</string>
+    <string name="baidu_intro_description">Kwa kukamilisha hatua kadhaa rahisi, unaweza kufurahia nafasi ya hifadhi ya Wingu la Baidu.</string>
+    <string name="baidu_intro_title">Nafasi ya hifadhi ya Wingu la Baidu</string>
+    <string name="baidu_progress_dialog_des">Tafadhali subiri kidogo</string>
+    <string name="choose_timezone">Chagua saa za eneo</string>
+    <string name="connected_via_passpoint">Imeunganishwa kupitia %1$s</string>
+    <string name="connected_via_wfa">Imeunganishwa kupitia kisaidizi cha Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Kata simu</string>
+    <string name="datausage_dialog_positive_btn">Tayari</string>
+    <string name="date_and_time">Mipangilio ya tarehe na saa</string>
+    <string name="date_and_time_settings_summary">Weka tarehe, saa, saa za eneo na fomati</string>
+    <string name="date_and_time_settings_title">Tarehe na saa</string>
+    <string name="date_and_time_settings_title_setup_wizard">Weka tarehe na saa</string>
+    <string name="date_picker_title">Tarehe:</string>
+    <string name="date_time_24hour">Tumia mpangilio wa saa 24</string>
+    <string name="date_time_auto">Tarehe na saa za kiotomatiki</string>
+    <string name="date_time_auto_summaryOff">Tumia saa iliyopeanwa kwenye mtandao</string>
+    <string name="date_time_auto_summaryOn">Tumia saa iliyopeanwa kwenye mtandao</string>
+    <string name="date_time_date_format">Chagua mpangilio wa tarehe</string>
+    <string name="date_time_set_date">Weka tarehe</string>
+    <string name="date_time_set_time">Weka saa</string>
+    <string name="date_time_set_timezone">Chagua saa za eneo</string>
+    <string name="device_checking_message">Karibu</string>
+    <string name="dropbox_fih_description">Pata 2GB ya nafasi ya Dropbox bila malipo ili upakie picha na video zako kiotomatiki.</string>
+    <string name="dropbox_fih_signin">Ingia kwenye Dropbox</string>
+    <string name="dropbox_fih_signup">Jiandikishe na Dropbox</string>
+    <string name="emergency_dial_hmd_message">Dharura</string>
+    <string name="emergency_dial_message">Simu ya dharura</string>
+    <string name="expand_button_title">Mipangilio ya Kina</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY]Umiliki wa Programu na Masharti ya Makubaliano ya Matumizi
+
+ Tarehe ya kuanza kutumika: Mei 20, 2016
+
+ Yaliyomo katika Masharti ya Matumizi (yanayorejelewa hapa kama Masharti ya Matumizi) yanatumika kwa huduma zinazotolewa kama zile za kupakua [BRAND_NAME_PROXY]programu, huduma ya kusasisha kiotomatiki n.k. (zinazorejelewa hapa kama huduma za programu). Upakuaji, usakinishaji au matumizi yako ya programu [BRAND_NAME_PROXY]inaashiria kuwa unakubali kufuata Masharti ya Matumizi.. Ikiwa hukubaliani na Masharti ya Matumizi, tafadhali usipakue, kunakili au kutumia [BRAND_NAME_PROXY]programu. 
+
+ 1. Kanuni za Matumizi
+ Utapewa[BRAND_NAME_PROXY]mamlaka yasiyoweza kuhamishwa, yasio ya umiliki, ya kibinafsi ya kutumia huduma za programu baada ya kukubali Masharti ya Matumizi. [BRAND_NAME_PROXY]Programu itasakinishwa kwenye kifaa chako [BRAND_NAME_PROXY]kwa njia ya msimbo lengwa, na unaweza kutumia programu [BRAND_NAME_PROXY]baada ya kuianzisha. Unafahamu vizuri kuwa haistahili kutumiwa kwa madhumuni ya kibiashara na unapaswa kutumia programu[BRAND_NAME_PROXY]katika kifaa chako binafsi[BRAND_NAME_PROXY]. 
+ Kuhusu programu[BRAND_NAME_PROXY], unastahili kufuata mahitaji ya Masharti ya Matumizi na unaahidi kuwa hutahusika katika mambo yafuatayo:: 
+ (a) Hutajaribu kuingilia kati vizuizi vya kiteknolojia vya programu [BRAND_NAME_PROXY]au vinavyohusiana na mradi au huduma yoyote [BRAND_NAME_PROXY]ili kujaribu kukwepa njia za kiufundi za kudhibiti hifadhi au mkusanyiko au haki nyingine za data;
+ (b)[BRAND_NAME_PROXY]Hutachukua hatua za kubatilisha utengenezaji, kutoanisha, kufichua msimbo, kutoanisha au kujaribu kupata msimbo chanzo wa programu [BRAND_NAME_PROXY]au kutumia njia nyingine zinazolenga programu [BRAND_NAME_PROXY]ambayo imelindwa na sheria, hutaongeza au kufuta vikamilifu au nusu, kurekebisha au kutoa chochote kwenye programu;
+ (c) Hutamwezesha mtu mwingine kuwasiliana, kutumia au kuwa na programu [BRAND_NAME_PROXY]kupitia kutangaza, kuhamisha, kukodisha, kutoa leseni, au kufichua n.k. 
+ (d) Wewe au mhudumu yeyote asiyeidhinishwa hamtaondoa taarifa yoyote ya hakimiliki au lebo iliyoangaziwa kwenye programu [BRAND_NAME_PROXY]au faili zozote muhimu [BRAND_NAME_PROXY]zinazopatikana katika njia nyingi;
+ (e) Hutatumia programu [BRAND_NAME_PROXY]kwa njia ambayo inaingilia haki za watu wengine au kwa tabia yoyote ambayo inaiuka sheria na kanuni; au
+ (f) Hutatumia programu [BRAND_NAME_PROXY]ambayo inaweza kusababisha au kuongeza hatari ya majeraha au hasara ya kifedha katika mazingira yoyote ambapo matumizi ya programu yamezuiwa au kukatazwa, pamoja na, lakini haikomei kwa vituo vya nyuklia, ndege na sheria za anga, vituo vya mafuta na hali au mazingira mengine; au
+ (g) Hutatumia programu [BRAND_NAME_PROXY]kwa njia nyingine yoyote ambayo hairuhusiwi na Masharti ya Matumizi. 
+ Ili kuhakikisha kuwa programu [BRAND_NAME_PROXY]na kifaa chako [BRAND_NAME_PROXY]kinafanya kazi kwa kawaida, unaahidi kutoharibu au kubadilisha lebo ya uwezo wa kifaa [BRAND_NAME_PROXY]bila usaidizi wa mhudumu [BRAND_NAME_PROXY]. Tabia hii na tabia zilizoelezwa katika (a) ya makala haya zitashawishi uwezo wa uhakika na waranti ya [BRAND_NAME_PROXY]ya kifaa chako [BRAND_NAME_PROXY]. 
+
+ 2. Sera ya Haki za Faragha
+ Umefahamishwa na unakubali kuwa ili kukuza ubora wa huduma, [BRAND_NAME_PROXY]tunakusanya na kuhifadhi uwasilisho wowote wa programu au mawasiliano ya ujumbe unayotekeleza kupitia huduma tofauti zinazotolewa na tovuti [BRAND_NAME_PROXY]. Hii ni pamoja na, lakini bila kuweka kikomo kwa nambari/nambari tambulishi ya modeli ya kifaa [BRAND_NAME_PROXY]msimbo wa IMEI/MEID, Toleo la HW, Toleo la SW, muda uliokusanywa wa huduma, muda uliokusanywa wa hali tuli, Kitambulisho cha SKU, data ya makosa ya takwimu, jina la programu/utaratibu ulio na makosa, marudio ya makosa, maelezo ya toleo nk. 
+ Iwapo ombi litawasilishwa na idara ya usimamizi/mahakama au na sheria na masharti, [BRAND_NAME_PROXY]unapaswa kushirikiana katika kufichua maelezo yanayofaa. 
+ Iwapo kifaa chako [BRAND_NAME_PROXY]kitabakia katika hali ya kutokuwa na muunganisho wa Intaneti kwa siku 14 mtawalia baada ya ununuzi, kifaa [BRAND_NAME_PROXY]kitatuma ujumbe mfupi ili kukufahamisha[BRAND_NAME_PROXY] kuwa kifaa [BRAND_NAME_PROXY]kiko katika hali ya kutopatikana. 
+ Tafadhali rejelea [BRAND_NAME_PROXY]Sera ya Faragha] kwa maelezo ya kina. 
+
+ 3. Huduma ya Msaada
+ Inatoa sasisho, vipakuliwa na hutumia huduma kulingana na hali ya sasa ya wakati ambapo programu ilipakuliwa au kusasishwa, [BRAND_NAME_PROXY]inaweza kuamua kama itaendelea kutoa huduma [BRAND_NAME_PROXY]muhimu za kusaidia na za kusasisha kulingana na hali ya[BRAND_NAME_PROXY]. 
+ Baada ya kupata faili za kwanza [BRAND_NAME_PROXY], itasasisha, kuongezea, kuongeza vijenzi au vijenzi vyovyote vya huduma [BRAND_NAME_PROXY]vinavyotolewa kupitia Intaneti, aina zote za tabia katika michakato ya kupakua, kusasisha, kutumia programu hutumika katika kanuni za Masharti ya Matumizi. 
+ [BRAND_NAME_PROXY]Ina haki ya kusitisha huduma zozote za programu [BRAND_NAME_PROXY]ulizopata kupitia kuvinjari mtandaoni au kutumia huduma yoyote iliyotolewa na programu ili kuhakikisha kuwa aina zote za programu zinafanya kazi kwa urahisi. 
+ [BRAND_NAME_PROXY]Inaweza kutangaza kiotomati ufuatiliaji na toleo lililosasishwa la programu [BRAND_NAME_PROXY], inaweza kukufahamisha na kukuomba utumie toleo jipya kupitia upakuaji wa mtandaoni. 
+
+ 4. Sasisho Otomatiki
+ [BRAND_NAME_PROXY]Unaweza kusasisha, kuboresha, kulinda, au kuboresha zaidi matumizi ya kifaa [BRAND_NAME_PROXY]na programu yako [BRAND_NAME_PROXY]kwa kupakua kiotomatiki programu ya maunzi na programu [BRAND_NAME_PROXY]kwenye kifaa chako. 
+ Programu ya maunzi na programu [BRAND_NAME_PROXY]kwenye kifaa chako [BRAND_NAME_PROXY]zitakuwa katika hali ya Kuanza kimsingi, kwa maneno mengine, zimeunganishwa kwenye seva [BRAND_NAME_PROXY]kupitia Intaneti na huunganishwa kwenye kifaa chako [BRAND_NAME_PROXY]kiotomatiki bila shughuli yoyote ya ziada kutoka kwako. Ili kuhakikisha usalama na uthabiti wa kifaa chako [BRAND_NAME_PROXY], unafamishwa vizuri na unakubali kushirikiana na mahitaji [BRAND_NAME_PROXY]ya utaratibu wa kusasisha na kufuata maagizo ya kusasisha. 
+ Ili kuepuka kupoteza data katika mchakato wa kusasisha, tafadhali hifadhi nakala ya wasifu wako wa kibinafsi (kama vile picha, anwani, kalenda, muziki, vialamisho, nyaraka na vitu vingine vyako) kwenye kifaa chako [BRAND_NAME_PROXY]na uzihifadhi kwenye kifaa [BRAND_NAME_PROXY]kilichounganishwa kwenye kompyuta yako. 
+ [BRAND_NAME_PROXY]Baada ya kifaa chako kusasisha kiotomatiki au kukubali kuanza kusasisha baada ya kupokea ujumbe wa [BRAND_NAME_PROXY]kusasisha umewasilishwa, inachukuliwa kuwa umekubali ufafanuzi wa vitendaji vifuatavyo vya kusasisha: 
+ (a) Sasisho la Programu
+ Umefahamishwa vizuri na unakubali kuwa programu [BRAND_NAME_PROXY]imeunganishwa kwenye kifaa chako [BRAND_NAME_PROXY]kupitia Intaneti ili kuthibitisha toleo la programu [BRAND_NAME_PROXY]na kusasisha arifa kwenye seva. Iwapo ujumbe wowote [BRAND_NAME_PROXY]wa kusasisha utatolewa, utaruhusiwa kuunganisha [BRAND_NAME_PROXY]kwenye seva ili usasishe toleo na arifa ya programu ya maunzi. 
+ Unakubali tukufahamishe kuhusu ujumbe wowote[BRAND_NAME_PROXY] wa kusasisha papo hapo wakati sasisho la programu linapopatikana. Iwapo utathibitisha kupokea ilani ya kusasisha, itachukuliwa kuwa unakubali kusasisha [BRAND_NAME_PROXY]na kusakinisha programu [BRAND_NAME_PROXY]kwenye kifaa chako [BRAND_NAME_PROXY]kupitia kupakua faili ya kusasisha. 
+ (b) Sasisho la Kusawazisha Maudhui
+ Sasa unatumia maudhui yaliyosasishwa ya kifaa [BRAND_NAME_PROXY], utasasishwa kiotomatiki kwa kifaa au kompyuta inayofaa [BRAND_NAME_PROXY]yenye maudhui na maelezo mengine (kama vile maelezo ya mawasiliano, kalenda, vialamisho, nyaraka na aina nyingine za vibali). 
+ 
+ 5.[BRAND_NAME_PROXY] Umiliki wa programu na Kuhifadhi Haki Zote
+ [BRAND_NAME_PROXY]Makampuni na watoa huduma wake wanamiliki na wana haki za umiliki, hakimiliki na haki nyingine za mali ya akili ya programu zote [BRAND_NAME_PROXY]ambazo hazijasemwa waziwazi kuwa umepewa katika Masharti ya Matumizi. 
+ [BRAND_NAME_PROXY]Programu zote zilizotolewa zimedhaminiwa na sheria na kanuni za kimataifa zinazohusiana na hakimiliki na haki nyingine za mali ya akili. 
+
+ 6. Kanusho
+ Kwa kadri inavyoruhusiwa na sheria, programu na huduma [BRAND_NAME_PROXY]zimetolewa kulingana na hali ya sasa ya[BRAND_NAME_PROXY], hatutawajibika kwa dosari yoyote. [BRAND_NAME_PROXY]Makampuni na watoa huduma wake hawatoi ahadi yoyote dhahiri, ya kudokeza au thibitisho lolote la kisheria, hawatoi ahadi yoyote kuhusu thibitisho lolote msingi, uwajibikaji au hali, pamoja na bila kuweka kipimo kwa, uwezo wa kuuzwa na kutumiwa kwa matumizi maalum ya programu na huduma za[BRAND_NAME_PROXY](kama vile huduma ya kusasisha). 
+ [BRAND_NAME_PROXY]Hatutoi thibitisho la kutumiwa au la kudokezwa kuhusu vipengee vilivyoorodheshwa kama ifuatavyo: 
+ (a) [BRAND_NAME_PROXY]Umiliki, arifa ya kutokiuka, kutii aina zote za ufafanuzi, taarifa isiyokuwa na virusi, programu isiyokuwa na kasoro, usahihi na ukamilishaji wa shughuli; au
+ (b)[BRAND_NAME_PROXY]Utendakazi laini, utendakazi bila usumbufu wa makosa ya programu; au
+ (c)[BRAND_NAME_PROXY] Ukarabati wa haraka wa aina zote za hitilafu zinazoweza kutokea kwenye programu. 
+ Kwa kupakua na kutumia programu [BRAND_NAME_PROXY], unafahamu vizuri kuhusu hatari zote (pamoja na lakini bila kuweka kikomo kwa kuharibika kwa kifaa [BRAND_NAME_PROXY]kinachotumika, kupoteza maudhui, kuondoa au kubatilisha programu ya watu wengine n.k.) inayotokana na matumizi au utendakazi wa programu [BRAND_NAME_PROXY]na huduma zake (kama zipo), na hii inachukuliwa kuwa unakubali kushughulikia hatari na majukumu hayo, [BRAND_NAME_PROXY]hatutoi thibitisho lolote au kuwajibika kivyovyote vile kwa hii. Unakubali kuwa[BRAND_NAME_PROXY]utakuwa na haki ya kuamua na kuondoa programu ambazo zinashawishi utendakazi, na utahifadhi mapema nakala ya data na programu. 
+ Iwapo programu au faili unayopokea itasababisha ufichuzi wa maelezo yako au uharibifu wa mfumo wa kifaa chako [BRAND_NAME_PROXY], hii haituhusu sisi[BRAND_NAME_PROXY], na unakubali kushughulikia hasari hizo wewe mwenyewe. 
+
+ 7. Uwezo wa Uwajibikaji na Vikwazo na Msamaha wa Fidia ya Hasara 
+ Hatuwajibiki kwa aina zote za fidia za hasara ziwe kwa njia isio ya moja kwa moja, zinazotokana na, kurithi, nidhamu, bahati mbaya au faini ya kuadhibiwa, au kupoteza hamu chini ya hali yoyote ile, [BRAND_NAME_PROXY]isipokuwa iwe imekatazwa na sheria katika maandishi wazi. Hata kama[BRAND_NAME_PROXY]tumefahamishwa kuwa hasara inaweza kutokea, haijalishi sababu na msingi wa madai hayo, sisi au kampuni yoyote [BRAND_NAME_PROXY]inayohusiana na sisi hatatuwajibika. 
+ Iwapo tutachukua jukumu la kufidia kwa kutumia tovuti au maudhui ya [BRAND_NAME_PROXY]kulingana na Masharti ya Matumizi, itazuiwa kwa hasara halisi na za moja kwa moja zinazosababishwa na kuamini programu na kiasi cha juu zaidi cha fidia ni USD 10. Haijalishi ni ya aina gani, hatua zinazofaa zinazotokana na Masharti ya Matumizi lazima zitekelezwe ndani ya mwaka mmoja baada ya kutufahamisha sababu ya tukio au kutokea kwa msingi wa ombi lako. Lakini iwapo mahakama inayosimamia haitaruhusu kuwekea vikwazo uwezo wa majukumu, kanuni za vikwazo hivyo vya majukumu yaliyoelezewa awali hayatatumika. 
+
+ 8. Taarifa ya Fidia bima
+ Unapovinjari, kupakua, kunakili, kupitisha, kusimba fiche, kufinyaza data yoyote ([BRAND_NAME_PROXY]bila kujumuisha data iliyotolewa na ) kupitia programu[BRAND_NAME_PROXY]kisha ukiuke haki za watu wengine au ukiuke matoleo ya kisheria; ukikiuka sheria yoyote ya Masharti ya Matumizi na usababishe watu wengine kupendekeza ombi lolote au kutoa[BRAND_NAME_PROXY]pendekezo kuhusiana na hasara, majukumu au ada (pamoja na ada ya wakili) kuwadia au kwa mshikadau, mkurugenzi na msimamizi, mhudumu msimamizi, mfanyakazi au mtu mwingine husika, uko tayari kuchukua jukumu linalolingana la kufidia bima na kutukinga[BRAND_NAME_PROXY]dhidi ya kesi yoyote, unapaswa kumwondolea lawama mshikadau, mkurugenzi na msimamizi, mhudumu msimamizi, mfanyakazi au mtu mwingine husika dhidi ya kutekeleza jukumu la kufidia bima. Iwapo [BRAND_NAME_PROXY]mshikadau, mkurugenzi na msimamizi, mhudumu msimamizi, mfanyakazi au mtu mwingine husika atapata hasara, uko tayari kufidia bima kwa hasara iliyotokea. 
+
+ 9. Kusitishwa kwa Huduma
+ Ukikiuka kanuni zozote za Masharti ya Matumizi, inaonyesha kuwa umepoteza haki ya kutumia programu [BRAND_NAME_PROXY]kisheria na unastahili kuharibu au kufuta nakala zote za programu hiyo mara moja Katika hali maalum, hushawishi pia kiwango cha muda wa uhakikisho na uwezo wa kifaa chako[BRAND_NAME_PROXY]. 
+ Chini ya hali zilizotajwa hapa, unakubali kutii hali hizi [BRAND_NAME_PROXY], kwa sasa, wewe au mtu mwingine hamtachukua wajibu wa kufidia bima: 
+ (1) Sitisha haki yako [BRAND_NAME_PROXY]ya kuingia kwenye akaunti ya huduma,
+ (2) na/au kukuzuia dhidi ya kuingia kwenye akaunti ya huduma [BRAND_NAME_PROXY]baadaye. 
+ Unapokiuka Masharti ya Matumizi, unafahamu vizuri na kukubali kuwa [BRAND_NAME_PROXY]inaweza kusababisha hasara ambayo haiwezi kufidiwa na pesa. Iwapo itachukuliwa[BRAND_NAME_PROXY]ni muhimu na inafaa, unakubali [BRAND_NAME_PROXY]kutafuta kutiwa nguvuni kwa njia ya uongo, kuadhibiwa kwa njia ya uongo, adhabu ya kawaida au ya muda ya serikali na njia nyingine za kupunguza hasara kuendelea. 
+ Iwapo utakiuka Masharti ya Matumizi, na mwishowe[BRAND_NAME_PROXY] ichukue hatua ya kisheria dhidi yako, tutakuwa na haki ya kukuomba, na utakubali kulipa ada zote za wakili na gharama za kisheria za [BRAND_NAME_PROXY], na hata pia fidia nyingine zote za hasara itakazopendekeza na kuombwa na sheria. 
+
+ 10. Kutumika kwa Sheria na Mamlaka ya Mahakama
+ Unakubaliana na vipengee vyote muhimu vinavyohusiana na Masharti ya Matumizi, tutaunda ainisho kulingana na sheria za Watu wa Jamhuri ya China, na Mahakama ya Watu wa Wilaya ya Chaoyang katika Mji wa Beijing itakuwa mahakama itakayosimamia na eneo la mashtaka la kesi inayotokana na Masharti ya Matumizi, na utakubali kuondoa pingamizi lolote au utetezi dhidi ya mamlaka na eneo la mashtaka. 
+ Wahusika wote watajaribu wawezavyo na kujaribu yote wawezayo kujadiliana na kutatua mzozo wowote uliotokana na Masharti ya Matumizi. Iwapo mzozo hauwezi kutatuliwa kupitia majadiliano katika kipindi kinachofaa (katika siku 30 za kalenda), mhusika yeyote anaweza kuwasilisha mzozo huo ili uweze kusuluhishwa. Iwapo maridhiano yatashindikana, wahusika wote watatatua mzozo huo kupitia mahakama. 
+
+ 11. Kanuni za Jumla. 
+ Neno vichwa katika Makubaliano haya linatumika ili kurahisisha kurejelea tu bila athari au umuhimu wowote wa kisheria. 
+ [BRAND_NAME_PROXY]Iwapo hakuna hatua yoyote iliyochukuliwa dhidi ya hatua yako ya kuwa ulikiuka Masharti ya Matumizi, haistahili kuchukuliwa kuwa ni kuondolewa kwa haki ya kuchukua hatua za utetezi kwa hatua kama hizo baadaye. 
+ Iwapo mahakama inayosimamia itafikiria kuwa maudhui yoyote ya Masharti ya Matumizi ni kinyume na sheria, hayafai, au hayawezi kutekelezwa, Masharti au vikwazo vingine ambavyo havijatangazwa hivyo havitashawishiwa au kuwa si halali kwa sababu ya hii na athari yake kamili itaendelea kutumika. 
+ Huwezi kupangia au kuondoa haki zako za matumizi zilizopatikana chini ya Masharti haya ya Matumizi. 
+ Warithi na walioteuliwa wa haki za [BRAND_NAME_PROXY] watatumia pia maudhui ya Masharti haya ya Matumizi baada ya kurithi haki hizo kirasmi. 
+
+ 12. Ukamilifu wa Masharti ya Matumizi. 
+ Masharti haya ya Matumizi na masharti ya ziada yaliyotolewa katika visasisho ni sehemu muhimu ya Masharti haya ya Matumizi. 
+
+ 13. Haki ya Kubadilisha Masharti
+ [BRAND_NAME_PROXY] ina haki ya kubadilisha, kurekebisha, kuongeza, au kufuta maudhui ya Masharti ya Matumizi kwa uamuzi wake. Unahitaji kuendelea kupata mipasho ya mabadiliko ya Masharti ya Matumizi na machapisho ya maelezo yote ya mabadiliko kwenye tovuti hii ya [BRAND_NAME_PROXY], na kuendelea kwako kutumia kifaa au programu ya [BRAND_NAME_PROXY] humaanisha kuwa unakubaliana na mabadiliko haya. 
+ [BRAND_NAME_PROXY] Umiliki wa Programu na Masharti ya Makubaliano ya Matumizi
+
+ Tarehe ya kuanza Kutumika: Mei 20, 2016
+
+ Masharti haya Matumizi (yanayorejelewa hapa kama \"Masharti ya Matumizi\") yanatumika kwa matoleo ya vipakuliwa vya programu, visasisho otomatiki na huduma nyingine kutoka kwa [BRAND_NAME_PROXY] (zinazorejelewa hapa kama \"Huduma za Programu\"). Ukipakua, kusakinisha au kutumia programu ya [BRAND_NAME_PROXY] , unakubali kufuata Masharti haya ya Matumizi. Usipakue, kunakili, au kutumia programu ya [BRAND_NAME_PROXY] ikiwa hukubaliani na Masharti haya ya Matumizi. 
+
+ 1. Kanuni za Matumizi
+ Baada ya kukubaliana na Masharti ya Matumizi, [BRAND_NAME_PROXY] itakupa ufikiaji kiasi usioweza kuhamishwa, usio wa umiliki, wa kibinafsi wa Huduma za Programu. [BRAND_NAME_PROXY] itasakinishwa kwa njia ya msimbo kwenye kifaa chako cha [BRAND_NAME_PROXY] , na programu ya [BRAND_NAME_PROXY] software hutumika kwa kuwasha kifaa. Unafahamu vizuri kuwa huwezi kutumia programu ya [BRAND_NAME_PROXY] kwa madhumuni ya kibiashara na kuwa utatumia programu kwenye kifaa chako binafsi cha [BRAND_NAME_PROXY] . 
+ Kuhusiana na programu ya [BRAND_NAME_PROXY] , unahitajika kutii Masharti haya ya Matumizi na unakubali kutofanya yafuatayo: 
+ (a) hutaingilia kati vizuizi vyovyote vya kiufundi katika programu ya [BRAND_NAME_PROXY] au kutumia programu ya [BRAND_NAME_PROXY] katika kujaribu, au kwa pamoja na kifaa, programu au huduma iliyobuniwa kukwepa hatua za kiufundi zilizotumiwa kudhibiti faili au mkusanyiko au haki nyingine za data;
+ (b) hutabatilisha uhandisi, kufichua, kusimbua fiche, au kutawanya programu ya [BRAND_NAME_PROXY] au kujaribu kufikia msimbo chanzo wa programu ya [BRAND_NAME_PROXY] , au kuhusika katika tabia nyingine ambayo imezuiwa moja kwa moja au inayochukuliwa kuwa imekatazwa na sheria, au kurekebisha au kutumia kazi yoyote ya programu ya [BRAND_NAME_PROXY], ikiwa yote au ikiwa nusu
+ (c) hutamwezesha mhusika mwingine yoyote kufikia, kutumia au kupata programu ya [BRAND_NAME_PROXY] kwa kuchapisha, kuhamisha, kukodisha, kutoa leseni au kufikia programu;
+ (d) hutaondoa ilani au lebo zozote za haki kwenye programu ya [BRAND_NAME_PROXY] au faili zozote husika katika njia yoyote ile, iwe uondoaji huo ulitekelezwa na wewe au watu wengine wasioidhinishwa na [BRAND_NAME_PROXY]; 
+ (e) hutatumia programu ya [BRAND_NAME_PROXY] kukiuka haki za watu wengine au kwa njia yoyote ambayo inakiuka sheria zote husika; au
+ (f) hutumia programu ya [BRAND_NAME_PROXY] katika mazingira yoyote ambapo matumizi yake yamezuiwa au kukatazwa na yanaweza kusababisha au kuongeza hatari ya majeraha ya kibinafsi au hata kifo, ikiwa ni pamoja na, lakini haijazuiliwa kwa vituo vya nyuklia, vituo vya kudhibiti safari za ndege, vituo vya mafuta na hali au mazingira mengine; au
+ (g) hutatumia programu ya [BRAND_NAME_PROXY] kwa njia nyingine yoyote ambayo hairuhusiwi na Masharti haya ya Matumizi. 
+ Ili programu ya [BRAND_NAME_PROXY] iweze kufanya kazi vizuri na kifaa chako cha [BRAND_NAME_PROXY] , unakubali kutoharibu au kurekebisha lebo ya kifaa cha [BRAND_NAME_PROXY] wewe mwenyewe bila usaidizi kutoka kwa mhudumu wa [BRAND_NAME_PROXY] . Tabia hii na tabia zilizoelewa chini ya (a) ya kifungu hiki zitaathiri uwezo na muda wa thibitisho uliokubaliwa na [BRAND_NAME_PROXY] kwa ajili ya kifaa chako cha [BRAND_NAME_PROXY]. 
+
+ 2. Sera ya Faragha
+ Unakiri na kukubali waziwazi kuwa, ili kuboresha ubora wa huduma, [BRAND_NAME_PROXY] inaweza kukusanya na kuweka uhamisho wowote wa programu au mawasiliano ya ujumbe unayotekeleza kupitia huduma mbalimbali zinazotolewa na tovuti ya [BRAND_NAME_PROXY] , ikiwa ni pamoja na, lakini haijazuiliwa kwa modeli ya kifaa/nambari tambulishi ya [BRAND_NAME_PROXY] , msimbo wa IMEI/MEID, toleo la HW, toleo la SW, muda uliokusanywa wa matumizi, muda uliokusanywa wa hali tuli, kitambulisho cha SKU, takwimu za makosa, jina la programu ambayo matatizo yalitokea, idadi ya makosa, maelezo ya toleo, na kuendelea. 
+ Iwapo utahitaji kufanya hivyo na idara ya usimamizi/mahakama au na sheria, [BRAND_NAME_PROXY] itashirikiana katika kufichua maelezo husika. 
+ Iwapo kifaa chako cha [BRAND_NAME_PROXY] kimekuwa nje ya mtandao kwa siku 14 mtawalia baada ya kununua, kifaa chako cha [BRAND_NAME_PROXY] kitatuma SMS kikifahamisha [BRAND_NAME_PROXY] kuwa kifaa cha [BRAND_NAME_PROXY] kimefunguliwa na kinaweza kutumika. 
+ Angalia Sera ya Faragha ya [BRAND_NAME_PROXY] kwa maelezo ya kina. 
+
+ 3. Huduma za Msaada
+ Kulingana na hali ya \"KAMA ILIVYO” ya programu ya [BRAND_NAME_PROXY] wakati inapopakuliwa au kusasishwa na toleo la visasisho, vipakuliwa, na huduma za matumizi ya [BRAND_NAME_PROXY] , [BRAND_NAME_PROXY] inaweza kuamua kama itaendelea kutoa huduma husika za msaada na visasisho. 
+ Baada ya kupata faili za kwanza za programu ya [BRAND_NAME_PROXY] , [BRAND_NAME_PROXY] itatekeleza matoleo ya Masharti Haya ya Matumizi kwa visasisho mbalimbali, vipengele vya ziada, na programu jalizi au vijenzi vyovyote vya huduma vinavyotolewa kupitia mtandao wakati wa kupakua, kusasisha, na kutumia programu. 
+ [BRAND_NAME_PROXY] ina haki ya kusitisha Huduma zozote za Programu ambazo unafikia kupitia kuvinjari mtandao, au huduma zinazotolewa kupitia kutumia programu ya [BRAND_NAME_PROXY] , ili kufanya Huduma mbalimbali za Programu kuendeshwa kwa urahisi. 
+ [BRAND_NAME_PROXY] inaweza, kwa uamuzi wake, kutoa matoleo yanayofuatilia yaliyosasishwa ya programu ya [BRAND_NAME_PROXY] , kukuarifu kuhusu sasisho hilo na kukuhitaji upakue kwenye mtandao na utumie toleo jipya lililosasishwa. 
+
+ 4. Visasisho Otomatiki
+ [BRAND_NAME_PROXY] inaweza kusasisha, kuboresha, kulinda, au kuboresha zaidi matumizi yako ya kifaa cha[BRAND_NAME_PROXY] na programu ya [BRAND_NAME_PROXY] kwa kupakua kiotomatiki programu ya maunzi na programu kwenye kifaa chako cha [BRAND_NAME_PROXY] . 
+ Programu ya maunzi na programu ya [BRAND_NAME_PROXY] kwenye kifaa chako cha [BRAND_NAME_PROXY] zitakuwa katika hali msingi ya \"Imewezesha\", hiyo ni kumaanisha kuwa seva ya [BRAND_NAME_PROXY] imeunganishwa kwenye mtandao na kifaa chako cha [BRAND_NAME_PROXY] kimeunganishwa kiotomatiki bila mwingiliano zaidi kutoka kwako. Ili kuhakikisha usalama na uthabiti wa kifaa chako cha [BRAND_NAME_PROXY] , unakiri na kukubali waziwazi kusasisha programu kulingana na mahitaji ya kusasisha programu ya [BRAND_NAME_PROXY] na kufuata maagizo. 
+ Ili kuepuka kupoteza data yako wakati wa mchakato wa kusasisha, tafadhali hifadhi nakala ya data ya kibinafsi (kama vile picha, anwani, kalenda, muziki, vialamisho, nyaraka zako n.k.) kwenye kifaa chako cha [BRAND_NAME_PROXY] na uzihifadhi kwenye kompyuta au kifaa kingine kilichounganishwa kwenye kifaa chako cha [BRAND_NAME_PROXY]. 
+ Baada ya kifaa cha [BRAND_NAME_PROXY] kusasishwa kiotomatiki au kupata ujumbe wa sasisho kutoka kwa [BRAND_NAME_PROXY] na ukubali kuanzisha sasisho, hii huashiria kuwa unakubaliana na maelezo yafuatayo ya kipengele cha kusasisha: 
+ (a) Visasisho vya programu
+ Unakiri na kukubali waziwazi kuwa programu ya [BRAND_NAME_PROXY] itaunganishwa kwenye kifaa chako cha [BRAND_NAME_PROXY] kwenye mtandao ili kuthibitisha toleo la programu na arifa ya kusasisha katika seva ya [BRAND_NAME_PROXY] . Iwapo [BRAND_NAME_PROXY] imechapisha ujumbe wowote wa kusasisha, itakuruhusu kuunganisha kwenye seva kupitia programu ya [BRAND_NAME_PROXY] ili kusasisha toleo na arifa ya programu ya maunzi. 
+ Wakati wowote kutakuwa na sasisho linalopatikana la programu, unakubali [BRAND_NAME_PROXY] ikuarifu na ujumbe wa kusasisha wakati huo huo. Ukipokea arifa ya sasisho kupitia uthibitisho wako, utachukuliwa kuwa umekubali [BRAND_NAME_PROXY] kusasisha na kusakinisha programu ya [BRAND_NAME_PROXY] kwenye kifaa chako [BRAND_NAME_PROXY] kwa kupakua sasisho. 
+ (b) Sasisho la Kusawazisha Maudhui
+ Maudhui yaliyosasishwa ya kifaa cha [BRAND_NAME_PROXY] ambayo unatumia kwa sasa yatasasishwa kiotomatiki na maelezo mengine kwenye vifaa vyako vilivyounganishwa vya [BRAND_NAME_PROXY] au kompyuta (kama vile maelezo ya mawasiliano, kalenda, vialamisho na faili za nyaraka na aina nyingine za maudhui). 
+ 
+ 5. Kuhifadhi Umiliki na Haki za [BRAND_NAME_PROXY] Programu
+ [BRAND_NAME_PROXY], makampuni yake tanzu na watoa huduma wanamiliki na wana haki za umiliki, hakimiliki na haki nyingine za mali ya akili katika programu mbalimbali za [BRAND_NAME_PROXY] ulizopewa katika Masharti haya ya Matumizi. 
+ Programu tofauti zilizotolewa na [BRAND_NAME_PROXY] zimelindwa na sheria za hakimiliki na sheria nyingine za mali ya akili na mapatano ya kimataifa. 
+
+ 6. Kanusho
+ Kwa kadri inavyoruhusiwa na sheria, [BRAND_NAME_PROXY] haitawajibika kwa dosari zozote zinazohusishwa na programu ya [BRAND_NAME_PROXY] na huduma zake (pamoja na huduma za kusasisha) zilizotolewa kwa msingi wa \"KAMA ILIVYO\". [BRAND_NAME_PROXY], makampuni yake tanzu na watoa huduma hawatoi hakikisho zozote, za moja kwa moja, za kudokeza au za kisheria ikiwa ni pamoja na, lakini haijazuiliwa kwa, miradi au hali za uwezo wa kuuzwa na kufaa lengo maalum au hali nyingine za programu ya [BRAND_NAME_PROXY] na huduma zake (kama vile huduma za kusasisha). 
+ [BRAND_NAME_PROXY] haitoi hakikisho zozote, ziwe za moja kwa moja au za kudokeza, kuhusu masuala yaliyoorodheshwa hapa chini: 
+ (a) Umiliki, arifa ya kutokiuka, kutii maelezo mbalimbali, taarifa isiyokuwa na virusi, programu isiyokuwa na kasoro, usahihi na ukamilishaji wa utendakazi wa programu ya [BRAND_NAME_PROXY] au huduma za msaada; au
+ (b) utendakazi laini, usiotatizwa au usiokuwa na makosa wa programu ya [BRAND_NAME_PROXY] ; au
+ (c) ukarabati wa haraka wa kasoro zote zinazoweza kutokea wa programu ya [BRAND_NAME_PROXY] . 
+ Kwa kupakua na kutumia programu ya [BRAND_NAME_PROXY] , unakubali waziwazi hatari zote zinazotokana na matumizi au utendakazi wa programu ya [BRAND_NAME_PROXY] na huduma husika (kama zipo) (ikiwa ni pamoja na, lakini haijazuiliwa kwa, kuharibika kwa kifaa cha [BRAND_NAME_PROXY] wakati wa matumizi, upotezaji wa maudhui, kuondolewa au kushindwa kufanya kazi kwa programu ya mtu mwingine n.k.) ambayo inaashiria kuwa unakubali kushughulikia hatari na majukumu husika, na [BRAND_NAME_PROXY] haitatoa hakikisho lolote au kuwajibika kivyovyote vile kuhusu hii. Unakubali kuwa [BRAND_NAME_PROXY] ina haki ya kuamua na kuondoa programu ambazo zinaathiri shughuli za kusasisha, na itahifadhi kwanza nakala zako za data na programu. 
+ ukipakua programu au faili ambazo zitasababisha maelezo yako kuonekana au ambazo zinasababisha uharibifu wa mfumo wa kifaa cha [BRAND_NAME_PROXY], [BRAND_NAME_PROXY] haitawajibika na unakubali kusimamia hatari zote husika. 
+
+ 7. Uwezo wa Dhima na Vikwazo na Msamaha wa Hasara. 
+ Isipokuwa kama ilivyokatazwa na sheria, [BRAND_NAME_PROXY]haitawajibika kwa njia yoyote kwa hasara yoyote isio ya moja kwa moja, inayotokana na, ya mfano, bahati mbaya au faini ya kuadhibiwa na fidia yoyote ya hasara, ikiwa ni pamoja na kupoteza faida. [BRAND_NAME_PROXY] au makampuni yake tanzu haitawajibika, hata kama [BRAND_NAME_PROXY] imeshauriwa kuwa hasara hiyo inaweza kutokea, na haijalishi sababu ya hatua hiyo au msingi wa madai hayo. 
+ Kulingana na Masharti haya ya Matumizi, wajibu wa [BRAND_NAME_PROXY] kwa hasara zinazohusiana na matumizi yako ya tovuti hii au maudhui yamewekewa kiwango kisichozidi U.S. $10 kwa hasara halisi za moja kwa moja zinazoibuka kutokana na kuamini programu hii. Haijalishi aina ya hatua, hakuna hatua itakayoibuka kutokana na au kuhusiana na Masharti haya ya Matumizi itaweza kuletwa zaidi ya mwaka mmoja baada ya kufahamu sababu ya hatua hiyo au msingi wa madai kutokea. Hata hivyo, iwapo mahakama ya mamlaka inayofaa hairuhusu vikwazo kwa uwezo wa dhima, kikwazo kilichotajwa hapa cha dhima hakitatumika. 
+
+ 8. Taarifa ya Fidia
+ Uko tayari kutetea na kutolea lawama [BRAND_NAME_PROXY], washikadau wake, wakurugenzi, mameneja, wafanyakazi na watu wengine husika na hutahusisha [BRAND_NAME_PROXY], washikadau wake, wakurugenzi, mameneja, wafanyakazi na watu wengine husika katika hasara zote, dhima au gharama (pamoja na ada za wakili) zilizotokea kama matokeo ya madai ya mhusika mwingine yeyote kutokana na ukiukaji wako wa haki zozote za mhusika mwingine au sheria husika kupitia kutumia programu ya [BRAND_NAME_PROXY] kutekeleza shughuli zifuatazo, ikiwa ni pamoja na, lakini haijazuiliwa kwa, kuvinjari, kupakua, kunakili, kuhamisha, kusimba fiche au kufinyaza data (isipokuwa data iliyotolewa na [BRAND_NAME_PROXY]); au ukiukaji wako wa matoleo yoyote ya Masharti haya ya Matumizi. Iwapo kutakuwa na hasara kwa [BRAND_NAME_PROXY] au washikadau wake, wakurugenzi, mameneja, wafanyakazi au watu wengine husika inayotokana na ukiukaji wako, uko tayari kufidia hasara hiyo. 
+
+ 9. Kusitishwa kwa Huduma
+ Baada ya kukiuka toleo lolote ma Masharti haya ya Matumizi, utapoteza haki zako ya kutumia programu ya [BRAND_NAME_PROXY] kihalali na ni lazima uharibu/ufute nakala zote za programu hii mara moja. Katika hali nyingine, ukiukaji kama huo utaathiri pia muda wa uwezo wa waranti wa kifaa chako cha [BRAND_NAME_PROXY]. 
+ Katika hali hizo, unakubali kuwa [BRAND_NAME_PROXY] inaweza kujibu kwa njia ifuatayo, bila kukuwekea dhima yoyote inayoendelea kwako au kwa mhusika mwingine: 
+ (1) kusitisha haki yako ya kufikia akaunti ya [BRAND_NAME_PROXY] ya huduma
+ (2) na/au kukuzuia dhidi ya kuingia kwenye akaunti ya huduma ya [BRAND_NAME_PROXY] baadaye. 
+ Unakiri na kukubali waziwazi pia kuwa ukiukaji wako wa Masharti haya ya Matumizi yatasababisha hasara kwa [BRAND_NAME_PROXY] ambayo haiwezi kulipiwa kupitia fidia ya kifedha. Katika hali ambazo [BRAND_NAME_PROXY] inaonelea kuwa ni muhimu au inafaa, unakubali kuwa [BRAND_NAME_PROXY] inaweza, kulingana na sheria, kutafuta njia ya kupunguza kadri ya hasara kwa kutafuta kukamatwa kwa muda, amri ya muda ya mahakama, amri ya awali ya mahakama na mbinu nyingine. 
+ Iwapo mwishowe [BRAND_NAME_PROXY] itachukua hatua za kisheria dhidi yako kwa sababu ya ukiukaji wako wa Masharti haya ya Matumizi, unakubali kulipia ada za wakili na gharama za kisheria, na hasara nyingine zote ambazo [BRAND_NAME_PROXY] inaweza kudai kwa mujibu wa sheria. 
+
+ 10. Sheria Husika na Mamlaka ya Mahakama
+ Unakubali kuwa masuala yote yanayohusiana na Masharti haya ya Matumizi yatasimamiwa na sheria za Watu wa Jamhuri ya China, na unakubali kuondoa pingamizi lolote au utetezi dhidi ya mamlaka ya eneo la mashtaka na mahali pa Mahakama ya Watu wa Wilaya ya Chaoyang, Beijing kama mamlaka inayofaa na mahali pa kesi zinazotokana na Masharti haya ya Matumizi. 
+ Iwapo kutakuwa na mizozo kuhusu Masharti haya ya Matumizi, wahusika wote watajaribu kujadiliana kwa nia njema ili kutatua mzozo huo. Iwapo majadiliano yatashindwa kutatua mzozo huo katika kipindi kinachofaa (katika siku 30 za kalenda), mhusika yeyote anaweza kuwasilisha mzozo huo ili uweze kusuluhishwa. Iwapo maridhiano yatashindikana, wahusika wote watatatua mzozo huo kupitia mahakama. 
+
+ 11. Matoleo ya Jumla. 
+ Sehemu ya vichwa katika Makubaliano haya inatumika tu kurahisisha na haina athari au umuhimu wowote wa kisheria. 
+ Kushindwa kwa [BRAND_NAME_PROXY] kuchukua hatua yoyote kuhusiana na ukiukaji wako wa Masharti haya ya Matumizi hakumaanishi uondoaji wa haki ya kuchukua hatua kuhusiana na tabia kama hiyo baadaye. 
+ Iwapo mahakama inayofaa inashikilia kuwa masharti ya vizuizi vyovyote vya Masharti haya ya Matumizi kuwa ni kinyume cha sheria, si halali au hayawezi kutekelezwa, masharti na vizuizi vilivyosalia vitaendelea kutumika kabisa na havitaathiriwa au kubatilishwa kwa njia yoyote ile. 
+ Huwezi kupangia au kuondoa haki zako za matumizi zilizopatikana chini ya Masharti haya ya Matumizi. 
+ Warithi na walioteuliwa wa haki za [BRAND_NAME_PROXY] watatumia pia maudhui ya Masharti haya ya Matumizi baada ya kurithi haki hizo kirasmi. 
+
+ 12. Ukamilifu wa Masharti ya Matumizi. 
+ Masharti haya ya Matumizi na masharti ya ziada yaliyotolewa katika visasisho ni sehemu muhimu ya Masharti haya ya Matumizi. 
+
+ 13. Haki ya Kubadilisha Masharti
+ [BRAND_NAME_PROXY] ina haki ya kubadilisha, kurekebisha, kuongeza, au kufuta maudhui ya Masharti ya Matumizi kwa uamuzi wake. Unahitaji kuendelea kupata mipasho ya mabadiliko ya Masharti ya Matumizi na machapisho ya mae"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] Maelezo ya Kisheria</string>
+    <string name="finish_button_label">Maliza</string>
+    <string name="google_account_add_account">Ingia ukitumia Google</string>
+    <string name="google_account_intro_description">Ingia kwenye Akaunti yako ya Google ili utumie Huduma za Google.</string>
+    <string name="google_account_intro_title">Akaunti ya Google</string>
+    <string name="hmd_legal_message">"Masharti ya Matumizi 
+ 
+Tarehe ya kuanza kutumika 14 Oktoba 2016 
+ 
+1. Ukubalifu 
+Masharti haya ya Huduma ya HMD Global pamoja na Sera hii ya Faragha na masharti na maelezo mengine yote ya ziada ambayo yanaweza kutolewa katika Huduma (kwa pamoja “Masharti”) yanasimamia matumizi yako ya huduma, tovuti, maudhui na programu (kwa pamoja \"Huduma\"). Kwa kujisajili au kutumia Huduma au sehemu yake yoyote unakubaliana na Masharti haya. 
+ 
+Masharti haya ni sehemu ya makubaliano kati yako na HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Ufini pamoja na makampuni yake tanzu na watoa huduma (kwa pamoja “HMD Global”), yanayofafanua haki na majukumu yako na ya HMD Global kuhusu Huduma. 
+ 
+2. Kustahiki 
+Ili utumie Huduma, lazima uwe na angalau umri wa miaka kumi na tatu (13). Kama uko chini ya umri wa miaka kumi na tatu (13), au angalau umri wa miaka kumi na tatu (13) lakini wewe ni mdogo mahali unaishi, lazima mzazi au mlezi wako wa kisheria akubali usajili wako kwa niaba yako na aidhinishe matumizi yako ya Huduma. Mtu yeyote anayejisajili lazima awe na uwezo huo kisheria. 
+ 
+3. Usajili na Usitishaji 
+Ili utumie Huduma unaweza kuhitajika kusajili na kufungua akaunti ya HMD na jina la mtumiaji na nenosiri ambazo huenda zikawa na masharti tofauti. Unaweza kuhitajika kutupatia maelezo mengine fulani ya kibinafsi. HMD Global inaweza kuthibitisha anwani yako ya barua pepe kabla Akaunti yako ya HMD iweze kutumika. Baada ya kutumia kifaa chako kwa mara ya kwanza na kila wakati unaposasisha programu ya kifaa cha Nokia, ujumbe wa maandishi utatumwa kwa HMD Global. Ufunguaji wa Akaunti ya HMD utahitaji upitishaji wa data. Gharama ya upitishaji wa data inaweza kutumika. 
+ 
+Unakubali kutoa maelezo ya kweli na kamili wakati unapojisajili kwa Huduma na kusasisha maelezo hayo. Lazima uwe mwangalifu kulinda jina lako la mtumiaji na nenosiri dhidi ya watu wengine kuyatumia vibaya na uarifu HMD Global mara moja kuhusu matumizi yoyote mabaya. Wewe, na mzazi au mlezi wako wa kisheria kama wewe ni mdogo, mnawajibika kibinafsi kwa matumizi yoyote ya Huduma. 
+ 
+Unaweza kusitisha usajili wako kama hutaki tena kutumia Huduma. Baada ya kusitisha, hutaweza tena kufikia Huduma. HMD Global inaweza kusitisha au kuzuia ufikiaji wako wa sehemu nyingine za Huduma kama HMD Global inaamini kuwa umekiuka Masharti au kwa ilani ya mapema kama hujaingia kwenye Huduma na jina lako la mtumiaji katika miezi sita (6) iliyopita. 
+ 
+Isipokuwa kama ilivyoandikwa katika Sera ya Faragha, HMD Global haitawajibika kwa uondoaji au hasara yoyote ya maelezo au ridhaa uliyowasilisha kwa Huduma. Wakati maelezo au ridhaa imeondolewa kwenye Huduma na wewe au HMD Global, mabaki au nakala zinaweza bado kusalia mahali pengine. 
+ 
+4. Leseni 
+HMD Global inakupa leseni isio ya kipekee, isioweza kuhamishwa, inayoweza kusitishwa wakati wowote na HMD Global kwa uamuzi wake, ya kufikia na kutumia Huduma kulingana na Masharti haya. Matumizi ya Huduma hayakupi haki za rasilimali za akili au maelezo yoyote au ridhaa katika Huduma. 
+ 
+Kama sehemu ya Huduma, huenda HMD Global ikakupa ridhaa iliyoundwa na HMD Global au watoa leseni wake (“Ridhaa”). HMD Global inakupa leseni isio ya kipekee na ya daima ya kutumia Maudhui kwa malengo yaliyokusudiwa, isipokuwa iwe imeelezewa kivingine katika Masharti husika au agizo la ununuzi. Baadhi ya Maudhui yanaweza kupatikana tu kwa wakazi wa maeneo mengine ya kijiografia. Umefungwa na vizuizi vyovyote husika vya Maudhui maalum uliyoyapata kupitia Huduma. Leseni yoyote iliyopatikana ya Maudhui ya mhusika mwingine ni makubaliano yanayofunga kati yako na mtoa huduma wa Maudhui hayo. Una haki tu za Maudhui ambayo yametolewa waziwazi hapa. 
+ 
+HMD Global inaweza kukupa programu nyingine zilizoundwa na HMD Global, au watoa leseni wake (Programu) kama sehemu ya Huduma. Matumizi yako ya Programu yanaweza kutegemea sheria na masharti tofauti ambayo ni lazima uyakubali kabla ya kutumia Programu. Kama hakuna sheria na masharti tofauti yanayotumika kwa Programu hiyo, masharti yafuatayo yanatumika: HMD Global inakupa haki yenye kikomo, isio ya kipekee, isioweza kuhamishwa ya kusakinisha na kutumia Programu kwenye kompyuta na/au kifaa chako cha mkononi. Huwezi kunakili Programu, isipokuwa kutengeneza nakala moja ya chelezo ya kuhifadhi. Huwezi kusambaza, kuhamisha haki ya kutumia, kurekebisha, kutafsiri, kuzalisha upya, kuuza tena, kutoa leseni ndogo, kukodisha, kubadilisha uhandisi, au kujaribu kugundua msimbo chanzo au kutumia kazi za wengine za Programu hii. Kwa programu yenye leseni ya vyanzo huria, masharti husika ya leseni ya vyanzo huria yanatumika. Matumizi yako ya Programu yanaashiria kuwa unakubali sheria na masharti yoyote husika. 
+ 
+Huenda programu hii ikategemea vidhibiti vya uuzaji nje chini ya Masharti ya Usimamizi wa Uuzaji Nje ya Marekani na masharti mengine ya udhibiti wa uagizaji au uuzaji nje. Unakubali kutii kabisa sheria zote husika za uagizaji na uuzaji nje na unakubali kuwa una wajibu wa kupata leseni za kuuza nje, kuuza nje tena, kuhamisha, au kuagiza Programu kama hiyo. 
+ 
+Unaweza kuwasilisha maelezo au ridhaa (Nyenzo) kwa Huduma. HMD Global haidai umiliki katika Nyenzo zako. Uwasilishi wako wa Nyenzo hauhamishi umiliki wa haki za Nyenzo kwa HMD Global. HMD Global inapitisha nyenzo tu na haiwajibiki kwa udhibiti wa wahariri wake. Kwa kuwasilisha Nyenzo kwenye Huduma, unaipa HMD Global leseni ya duniani kote, isio ya kipekee, inayoweza kutolewa tena leseni, inayoweza kuhamishwa, iliyolipiwa kabisa, isiyo na mrahaba, ya daima, na isioweza kubatilishwa ya kutumia, kunakili, kuitumia hadharani, kuonyesha, kusambaza kwenye midia yoyote na kurekebisha Nyenzo ili kuzijumlisha katika kazi nyingine, na kutoa leseni nyingine kama hizo kwa kiwango kinachostahili ili HMD Global kutoa Huduma. Unaweza kurekebisha toleo hili katika faragha na mipangilio mingine ya Huduma. 
+ 
+Unawajibika kivyako kuchukua nakala za chelezo za data ambazo umehifadhi kwenye Huduma, ikiwa ni pamoja na Maudhui unayoyapakia. Kama Huduma hii itakomeshwa au kukatishwa, huenda HMD Global ikafuta kabisa data yako. HMD Global haina wajibu wowote wa kukurejeshea data baada ya Huduma kukomeshwa au kukatishwa. 
+ 
+5. Kutumia Huduma 
+Unakubali: 
+• Kutii sheria husika, Masharti na tabia njema; 
+• Kutumia tu Huduma kwa malengo yako ya kibinafsi na yasiyo ya kibiashara; 
+• Kutowasilisha Nyenzo kinyume cha sheria, zinazokera, zisizo sahihi, zinazopotosha, za matusi, ponografia, za kunyanyasa, za kukashifu au zisizofaa; 
+• Kupata ridhaa, kibali au leseni zozote ambazo zinaweza kuhitajika kisheria ili uweze kuwasilisha Nyenzo zozote; 
+• Kutii faragha ya wengine; 
+• Kutosambaza au kuchapisha barua taka, faili kubwa kupita kiasi, barua za safu, miradi ya piramidi, virusi; 
+• Kutotumia teknolojia nyingine zozote au kuanzisha shughuli nyingine ambazo zinaweza kuathiri Huduma, au maslahi au rasilimali za watumiaji wa huduma; 
+• Kutotumia mifumo yoyote otomati au njia za kufikia, kupata, kunakili au kufuatilia sehemu yoyote ya Huduma, na 
+• Kukubali kuwajibika kwa matokeo yanayohusika na Nyenzo ambazo unazichapisha. 
+ 
+HMD Global inaweza lakini haina jukumu la: 
+• Kufuatilia au kusimamia Maudhui au Nyenzo zozote; 
+• Kuondoa Nyenzo zozote kwenye Huduma; na 
+• Kuzuia ufikiaji wa sehemu yoyote ya Huduma wakati wowote ule kwa uamuzi wake. 
+ 
+6. Maudhui 
+Kabla upakue au kufikia Maudhui yoyote, tafadhali angalia kama Maudhui unayotaka kuyafikia yamezuiwa na umri au yamewekwa ishara ya kuwa yanaweza ‘kukera’ au ‘dhahiri’. 
+ 
+HMD Global haitawajibika kwa madai au makosa yoyote yaliyosababishwa au uliyoyapitia kwa kufikia Maudhui kama hayo. 
+ 
+Unakubali: 
+• Kutumia tu Maudhui kwa malengo yako ya kibinafsi na yasiyo ya kibiashara; 
+• Kutumia Maudhui kulingana na vizuizi vilivyowekwa katika sheria husika, masharti ya ziada, maelekezo na sera kwenye ukurasa wa bidhaa ambazo zinatumika kwa sehemu hiyo maalum ya Maudhui; 
+• Kutotengeneza nakala, kupeana, kuuza, kuuza tena, kukopesha, kukodisha, kutoa, kutuma, kusambaza, kuhamisha, kuwasiliana na umma, kuzalisha upya, kurekebisha, kuonyesha, kutumia, kutumia vibaya kibiashara au kufanya Maudhui yapatikane isipokuwa iwe imekubaliwa na Masharti husika na kushauri HMD Global mara moja kuhusu matumizi yoyote kama hayo yasiyoidhinishwa; 
+• Kutoondoa, kukwepa, kubadilisha uhandisi, kusimbua fiche, au kubadilisha au kuingiliana na kanuni zozote husika za matumizi au kujaribu kubadilisha usimamizi wa haki za kidijitali au kunakili vipengele vya ulinzi vinavyohusishwa na Maudhui au teknolojia nyingine zozote zinazotumika kudhibiti ufikiaji au matumizi ya Maudhui au maelezo yake ya utambulisho; 
+• Kutotumia mifumo yoyote otomati au njia, isipokuwa zile zilizotolewa na sisi, kwa uteuzi au upakuaji wa Maudhui, na 
+• Kutopeana nenosiri lako au kuruhusu watu wengine kufikia Maudhui. Viziuzi vya kunakili ambavyo vinatumika kwa midia husika hutumika pia kwa Maudhui yaliyofikiwa kama sehemu ya Huduma hii. 
+ 
+Maudhui yanamilikiwa na/au kudhibitiwa na HMD Global na/au watoa leseni wake na yamelindwa na sheria za rasilimali ya akili. Mtoa huduma wa Maudhui ya wengine anawajibika kivyake kwa Maudhui yoyote anayetoa, waranti zozote kwa kiasi kwamba waranti hizo hazijakanushwa na kwa madai yoyote unayoweza kuwa nayo yanayohusiana na Maudhui hayo au matumizi yako ya Maudhui hayo. Hata hivyo, huenda HMD Global itatekeleza masharti ya Maudhui ya wahusika wengine dhidi yako kama mnufaishwa mwingine wa masharti hayo. Watoa Maudhui wengine ni wanufaishwa wengine chini ya Masharti haya na wanaweza kutekeleza matoleo ambayo yanahusu Maudhui hayo moja kwa moja ambayo wana haki. HMD Global inaweza kuwa inatumika kama wakala wa mtoa Maudhui mwingine katika kutoa Maudhui kwako. HMD Global haihusiki katika biashara kati yako na mtoa Maudhui mwingine kwa Maudhui hayo. 
+ 
+7. Madai ya Ukiukaji wa hakimiliki 
+HMD Global inaheshimu haki za rasilimali ya akili za wahusika wengine. Kama unataka kutuma ilani ya ukiukaji wa rasilimali ya akili, ikiwa ni pamoja na madai ya ukiukaji wa hakimiliki, tafadhali tumia utaratibu wetu wa kuwasilisha Ilani za Ukiukaji. MASWALI YOTE AMBAYO HAYALINGANI NA UTARATIBU HUU HAYATAPOKEA MAJIBU. 
+ 
+HMD Global hutumia michakato iliyowekwa katika Kichwa cha 17 cha Sheria za Marekani, Sehemu ya 512 kujibu ilani za ukiukaji wa hakimiliki. Katika hali zinazofaa, huenda HMD Global ikalemaza pia au kusitisha akaunti za watumiaji wa huduma za HMD Global ambao ni wakiukaji wa kurudia. 
+ 
+8. Ilani 
+HMD Global inaweza kuchapisha ilani katika Huduma. HMD Global inaweza pia kukutumia ilani kuhusu bidhaa na huduma kwa anwani ya barua pepe au nambari ya simu uliyotupatia. Unachukuliwa kuwa umepokea ilani kama hizo kwa muda usiopungua siku saba (7) kuanzia wakati HMD Global inazozituma au kuzichapisha. Kuendelea kwako kutumia Huduma humaanisha umepokea ilani zote haijalishi mbinu ya uwasilishaji. 
+ 
+9. Ada 
+Matumizi yako ya Huduma yanaweza kulipishwa. 
+ 
+Ada zozote zilizolipishwa na HMD Global zitatangazwa kando kuhusiana na Huduma. 
+ 
+Matumizi ya Huduma yanaweza kuhusisha upitishaji wa data kupitia mtandao wa mtoa huduma wako. Bei zilizoorodheshwa kwenye Huduma hazijumuishi upitishaji unaowezekana wa data, ujumbe wa maandishi, sauti au gharama nyingine za matoleo ya huduma kutoka kwa mtoa huduma wako wa mtandao. 
+ 
+HMD Global haitawajibika kwa malipo ya gharama zozote za mtoa huduma wako. 
+ 
+10. Masharti ya Maagizo na Malipo 
+\"Agizo\" litamaanisha uteuzi wa Maudhui yanayoweza kulipwa na/au usajili kwa Maudhui yanayotolewa na HMD Global na yanayopatikana katika Huduma na uwasilishaji wa mbinu ya malipo, na hata pia uwasilishaji wa agizo kwa kuchagua \"nunua\", \"sawa\", \"Ninakubali\" au uthibitisho mwingine kama huo wa ukubalifu katika mpangilio au kutoa ishara nyingine ya ukubalifu wa masharti yaliyowasilishwa kwako katika mpangilio. 
+ 
+Ili Kuagiza kwenye Huduma, lazima uwe umefikia umri unaoruhusiwa kisheria kulingana na sheria husika. Kama hujafikia umri unaoruhusiwa kisheria, unaweza Kuagiza ikiwa tu una kibali cha mapema cha wazazi au mlezi wako wa kisheria. 
+ 
+Unakubali kuwa Maagizo yote yatakuwa halali na yatafunga kisheria. Maagizo Yote yatategemea ukubalifu wa HMD Global. 
+ 
+Unaweza kulipa kwa kutumia kadi ya mkopo au ya matumizi, malipo ya mtoa huduma wako wa mtandao, au mbinu nyingine za malipo zinazopatikana. 
+ 
+Lazima kadi yako ya mkopo au matumizi iwe na anwani ya bili katika nchi ambayo Maudhui hayo yanatolewa na Huduma. HMD Global italipisha kadi yako ya mkopo au kulipisha akaunti yako ya benki kwa kipindi kinachofaa baada ya Agizo lako. Malipo yote ya kadi ya mkopo yanategemea ukaguzi wa uhalalishaji na idhini kutoka kwa mtoa kadi. 
+ 
+Ukichagua bili ya mtoa huduma ya mtandao, gharama zitatokea kwenye bili ya simu yako ya mkononi au kutolewa kwenye akaunti yako iliyolipiwa mapema kama ni akaunti iliyolipiwa mapema. Baadhi ya watoa huduma ya mtandao wanaweza kufanya matumizi yako ya Huduma yawe na sheria na masharti ya ziada ikiwa ni pamoja na kuweka vikwazo kwa kiasi cha malipo kinachowezekana na bili ya mtoa huduma ya mtandao. Gharama zinazozidi vikomo vya mtoa huduma ya mtandao au salio la akaunti zitakataliwa. 
+ 
+Unakubali kulipia gharama zinazohusiana na Agizo lako, ili kuhakikisha kuwa njia ya malipo ni halali wakati wa Agizo hilo, kuwa wewe ni mmiliki sahihi wa njia hiyo na kuwa njia hiyo imetumika kulingana na vikwazo vyake vya mkopo. 
+ 
+Utapewa leseni ya Maudhui yanayowasilishwa. Unakubali kutumia Maudhui kama hayo kama inavyoruhusiwa katika Masharti haya na kwa masharti yoyote ya ziada ambayo unaweza kupewa kulingana na agizo. 
+ 
+Huenda Huduma ikatoa usajili. Unaidhinisha Huduma kukulipisha mara kwa mara wakati wa kipindi hicho cha usajili. Huenda Huduma pia ikatoa kipindi cha majaribio. Kama Agizo lako linahusisha kipindi cha majaribio (kinachojulikana pia kama jaribu na ununue), unaweza kulipishwa wakati kipindi cha majaribio kinapokamilika, isipokuwa uwe umekatisha kulingana na masharti ya usajili/majaribio. 
+ 
+Bei katika Huduma zinaweza kubadilika mara kwa mara. Bei zinajumlisha ushuru husika zinazotumika wakati wa shughuli yako, isipokuwa iwe imesemekana kivingine. Huenda kukawa na wakati ambapo unapata gharama za ziada kutoka kwa benki yako au mtoa kadi ya mkopo kulingana na viwango vya ubadilishaji fedha vinavyotumika na/au ada za ziada zilizotathminiwa. HMD Global haitawajibika kwa malipo ya benki au ada au gharama ya huduma ya mtoa huduma mwingine. 
+ 
+11. Ukatishaji na Urejeshewaji fedha 
+Unakubaliana na uwasilishaji wa kielektroniki wa Maudhui yanayoanzishwa kwa wakati mmoja na Agizo lako. Hutaweza kukatisha Agizo lako wakati imechakatwa. Hali ya Maudhui ni kuwa hayawezi kurejeshwa. 
+ 
+Katika hali ambayo baada ya Agizo lako ugundue na ufahamishe HMD Global mara moja ndani ya saa 48 kuwa (a) Maudhui uliyoagiza yana dosari; (b) Maudhui ambayo HMD Global iliwasilisha kwako hayalingani na ufafanuzi wa Maudhui uliyoagiza kupitia Huduma; au (c) matatizo ya kiufundi yalichelewesha au kuzuia uwasilishaji wa Maudhui yako au maagizo kadhaa ya bahati mbaya yaliyosababishwa na matatizo kama hayo ya kiufundi, suluhisho lako mwenyewe na la kipekee kuhusiana na Maudhui hayo yatakuwa aidha kubadilisha Maudhui kama hayo, au kurejeshewa pesa ulizolipa kwa Maudhui hayo, kama itakavyobainishwa kwa uamuzi wa HMD Global. 
+ 
+Kama sivyo, hakuna urejeweshaji wa fedha utakaopatikana. Kama utakumbana na matatizo yaliyo hapa juu, tafadhali wasiliana na Huduma kwa Wateja wa HMD Global. 
+ 
+Tafadhali kumbuka kuwa Huduma kwa Wateja wa HMD Global inaweza kosa kuchakata ombi lako la usaidizi wa mteja kama huwezi kutoa kitambulisho chako cha shughuli, ambacho ulipewa na HMD Global kufuatia Agizo lako kutoka kwa Huduma. HMD Global inaweza tu kuchakata urejeshewaji wa fedha kwa Maudhui ambapo bei ya jumla ni zaidi ya kipimo kilichowekwa katika sheria husika ya eneo lako. 
+ 
+12. Maoni kwa HMD Global 
+Kwa kuwasilisha mawazo, maoni na/au mapendekezo yako (\"Maoni\") kwa HMD Global kupitia Huduma au njia nyingine, unakiri na kukubali kuwa: (1) HMD Global inaweza kuwa na mawazo kama hayo ya uendelezaji kama ya Maoni yako; (2) Maoni yako hayana maelezo ya siri au ya wamiliki ambayo ni yako au ya mtu mwingine; (3) HMD Global haina wajibu wowote wa usiri kuhusiana na maoni; (4) HMD Global inaweza kutumia, kusambaza, kutumia kabisa na kuendeleza zaidi na kurekebisha Maoni kwa malengo yoyote; na (5) huna haki ya fidia yoyote ya aina yoyote kutoka kwa HMD Global. 
+ 
+13. Shughuli za Kijamii na Kushiriki Maeneo 
+Unaweza kutumia vipengele katika Huduma ili kushiriki eneo, hali, maudhui, Nyenzo au maelezo yako ya kibinafsi au kuingiliana na watumiaji, tovuti na huduma nyingine. Kwa kutumia vipengele hivi unakubali kuwa HMD Global inaweza kutumia na kutoa maelezo hayo kwa huduma na watu wengine ambao unachagua kuingiliana nao au kushiriki maelezo haya. Watumiaji wa huduma hizi na watu, kama vile waasiliani wako, wanaweza kuona eneo, hali na/au maelezo yako ya kibinafsi. Kwa kutumia vipengele hivi unakubali kushiriki maelezo, Maudhui au Nyenzo au kiungo cha huduma yoyote au tovuti ambayo: (a) ina maudhui au nyenzo nyingine ambazo si halali au hazifai; au (b) kutumia vibaya haki za akili bila kibali au kuwahimiza watumiaji wengine kutumia kinyume na sheria. Maingiliano yoyote ambayo hayahusishi HMD Global na ambayo ni kati yako na watumiaji wengine. 
+ 
+14. Upatikanaji na Mahitaji ya Kiufundi 
+Upatikanaji wa Maudhui na Huduma unaweza kutofautiana na hutegemea uamuzi wa kipekee wa HMD Global. HMD Global inakanusha waziwazi uwakilishi au hakikisho lolote la kuwa Maudhui au Huduma yoyote maalum itapatikana. Huenda Huduma isipatikane katika nchi zote na inaweza kutolewa kwa lugha zilizochaguliwa tu. Huduma hii, uendeshaji na baadhi ya vipengele huenda pia vinategemea mtandao, utangamanifu wa vifaa vilivyotumiwa na maumbizo yanayokubaliwa ya maudhui 
+ 
+Ili ufikie Huduma, utahitaji kupakua kipande fulani cha programu kilichotengenezwa na HMD Global au mhusika mwingine. 
+ 
+HMD Global kwa uamuzi wake, inaweza kubadilisha, kusahihisha au kusitisha Huduma yote au sehemu yake. Huenda Huduma isipatikane wakati wa vipindi vya matengenezo na nyakati nyingine. Ili kuhakikisha una programu mpya ya kifaa, huenda kifaa chako kikaangalia kiotomatiki upatikanaji wa visasisho vya programu kutoka kwa HMD Global. Kama kuna yoyote itakayogunduliwa utaombwa uidhinishe usakinishaji. Unaweza kulemaza uangaliaji otomatiki wa visasisho kupitia mipangilio kwenye kifaa chako. Unaweza pia kusakinisha programu kupitia vituo vinavyopatikana vya kusasisha programu. Kama HMD Global itaonelea kuwa kusisha Programu ni muhimu huenda usiweze kuendelea kutumia toleo la awali la Programu. HMD Global inaweza kuzuia matumizi yako ya matoleo ya awali ya Programu au Huduma hadi usakinishe sasisho hilo. 
+ 
+HMD Global inaweza kulemaza Maudhui au Programu yoyote iliyo kwenye akaunti yako ya Huduma kwa sababu yoyote na kuondoa Maudhui au Programu yoyote na/au kulemaza nakala ya programu yoyote kwenye kifa chako ili kulinda Huduma, watoa huduma, wabeba mtandao pasiwaya ambao unatumia mtandao wao kufikia huduma au wahusika wengine walioathirika au wanaoweza kuathiriwa. 
+ 
+Huduma fulani inaweza kuwa toleo la mapema, kwa mfano toleo la beta, na linaweza kutofanya kazi kwa njia ambayo toleo la mwisho hufanya kazi. HMD Global inaweza kubadilisha pakubwa toleo lolote la Huduma au Programu au kuamua kutotoa toleo la mwisho. 
+ 
+15. Viungo vya Tovuti na Maudhui ya Wahusika Wengine 
+HMD Global inaweza kujumlisha ufikiaji wa tovuti na huduma kwenye Intaneti au huduma zilizopakiwa mapema ambazo hukuwezesha kuingiliana na tovuti na huduma ambazo zinamilikiwa au kuendeshwa na wahusika wengine na ambazo si sehemu ya Huduma. Lazima upitie na ukubaliane na sheria na masharti ya tovuti au huduma hizi kabla utumie tovuti au huduma hizi. 
+ 
+HMD Global haina udhibiti wowote wa maudhui, tovuti au huduma za wahusika wengine na haitawajibika kwa huduma zinazotolewa au nyenzo zilizoundwa au kuchapishwa kwenye tovuti au huduma za wahusika wengine. Kiungo cha tovuti ya mhusika mwingine haimaanishi kuwa HMD Global inaidhinisha tovuti au bidhaa au huduma zilizorejelewa katika tovuti hiyo. 
+ 
+Kwa kuongezea, wewe na watumiaji wengine mnaweza kuunda maudhui na viungo vya maudhui katika Huduma ambavyo havijawasilishwa kwenye Huduma. HMD Global haitawajibika kwa aina hii ya maudhui au viungo. 
+ 
+16. Matangazo 
+Huduma inaweza kujumlisha matangazo. Huenda matangazo yakalenga maudhui au maelezo yaliyohifadhiwa kwenye Huduma, maswali yaliyoulizwa kupitia Huduma, au maelezo mengine. 
+ 
+17. Data ya Kibinafsi 
+Sera ya Faragha na maelezo mengine ya faragha ya ziada yanayopatikana kwako husimamia matumizi yako ya data ya kibinafsi. 
+ 
+18. Vizuizi vya Dhima 
+Huduma hii inatolewa kwa msingi wa “KAMA ILIVYO” na “KAMA INAVYOPATIKANA”. HMD Global haihakikishi kuwa Huduma haitatatizwa au kuwa na kasoro au kutokuwa na virusi. Hakuna hakikisho ya aina yoyote, iwe ya moja kwa moja au ya kukisiwa, ikiwa ni pamoja na lakini haujazuiliwa kwa hakikisho za kichwa, kutokiuka, uuzaji, au kufaa lengo fulani, iliyotolewa kuhusiana na upatikanaji, usahihi, udhabiti, maelezo au maudhui ya Huduma. Unakiri na kukubali waziwazi kuwa matumizi ya Huduma ni jukumu lako na kuwa unaweza kupata maudhui kutoka kwa vyanzo mbalimbali. 
+ 
+Isipokuwa kwa dhima ya kifo au majeraha ya kibinafsi yanayosababishwa na uzembe mkubwa au matumizi mabaya ya kimakusudi, hakuna wakati wowote HMD Global itawajibika kwa uharibifu wowote usio wa moja kwa moja, wa bahati mbaya, wa kinidhamu au wa kimatokeo unaotokana na matumizi yako au kutoweza kutumia Huduma. 
+ 
+19. Fidia 
+Unakubali kutetea na kulinda HMD Global dhidi ya madai yote ya wahusika wengine na madeni, tathmini, hasara, gharama au uharibifu wote unaotokana na (i) ukiukaji wako wa Masharti, (ii) ukiukaji wako wa haki za rasilimali za akili, haki au faragha ya wahusika wengine, au (iii) matumizi mabaya ya Huduma na mhusika mwingine ambapo matumizi hayo mabaya yaliwezeshwa na kushindwa kwako kuchukua hatua mwafaka kulinda jina lako la mtumiaji na nenosiri dhidi ya matumizi mabaya. 
+ 
+20. Mambo mengine 
+ 
+20.1 Chaguo la Sheria 
+Masharti yanasimamiwa na sheria za Ufini bila kuzingatia mizozano yake na matoleo ya sheria. 
+ 
+20.2 Uhalali 
+Masharti haya hayatengi au kuzuia haki zako zozote za lazima katika nchi yako ya makazi ambayo hayawezi kuondolewa kisheria. Kama toleo la Masharti litapatikana kuwa si halali, matokeo yaliyosalia hayataathiriwa na toleo ambalo si halali litabadilishwa na toleo halali ambalo linakaribia matokeo na lengo la Masharti haya. Katika tukio ambalo toleo moja au matoleo zaidi ya Masharti haya si muhimu kwa matumizi yako ya Huduma, haitaathiri uhalali au utekelezaji wa matoleo yoyote mengine ya Masharti au Masharti yote. Kama kuna mzozo wowote kati ya Masharti haya ya Huduma ya HMD Global na Sera ya Faragha, matoleo ya Masharti Haya ya Huduma ya HMD Global ndio yatakayotumika. Matoleo ya Masharti ambayo yanakusudiwa kubakia baada ya kukomeshwa kwa usajili wako yataendelea kuwa halali baada ya usitishaji. 
+ 
+20.3 Mabadiliko katika Masharti 
+HMD Global inaweza kurekebisha Masharti wakati wowote bila ilani ya mapema. Kama masharti yamebadilishwa kwa njia mbaya, HMD Global itatoa ilani ya kando itakayokushauri kuhusu mabadiliko hayo. 
+ 
+Una wajibu wa kudurusu Masharti haya mara kwa mara. Kuendelea kwako kutumia Huduma humaanisha umekubali mabadiiko na marekebisho yoyote. 
+ 
+21. Mali ya Akili 
+Huduma, Maudhui na Programu zimelindwa chini ya sheria za hakimiliki za kimataifa. HMD Global inadai hakimiliki katika Huduma, Maudhui, na Programu zake kwa mujibu wa sheria. Kulingana na Masharti, HMD Global hubakiza haki, vichwa na maslahi yote katika Huduma, Maudhui yake, Programu na bidhaa, programu na rasilimali nyingine zote za HMD Global zilizotolewa kwako au kutumiwa na wewe kupitia Huduma hii. 
+ 
+22. Upangiaji 
+HMD Global inaweza kupangia haki na majukumu yake chini ya Masharti haya kwa kampuni yake mama, makampuni yake tanzu, au kwa kampuni yoyote chini ya vidhibiti vya kawaida vya HMD Global. Kwa kuongezea, HMD Global inaweza kupangia haki na majukumu yake chini ya Masharti haya kwa mhusika mwingine kuhusiana na kuunganisha, kununua, mauzo ya mali, kwa utekelezaji wa sheria."</string>
+    <string name="hmd_user_experience_program_message">Kushiriki kwako katika mpango huu wa uzoefu wa watumiaji husaidia HMD Global kuelewa vyema unachokipenda kuhusu kifaa chako cha Nokia, na unachofikiria kinastahili kuboreshwa. Mara kwa mara, tunaweza kupokea data za siri zenye mambo ya kiufundi kuhusu kifaa chako, kwa mfano kama faili yenye data kuhusu kuharibika kwa programu kuliofanyika. Tafadhali kumbuka kuwa data kama hiyo haitasambazwa kwenye muunganisho wa simu. Tungependa kusikia kutoka kwako unachofikiria kuhusu kifaa chako cha Nokia!</string>
+    <string name="hmd_user_experience_program_title">Mpango wa uzoefu wa watumiaji</string>
+    <string name="idle_too_long_toast">Ikiwa simu hii haijakuwa na shughuli kwa muda, lazima uizime ili uokoe nishati.</string>
+    <string name="language_selection_cancel_btn">KATISHA</string>
+    <string name="language_selection_title">Chagua lugha yako</string>
+    <string name="link_speed">Mbps %1$d</string>
+    <string name="location_for_service">Tumia eneo langu kwa utafutaji wa Google na huduma nyingine za Google.</string>
+    <string name="location_info_1">Programu zinazotolewa na huduma ya eneo ya Google zinaweza bado kupata eneo lako sahihi bila kuhitaji kutumia GPS.</string>
+    <string name="location_info_2">Unaweza kulemaza vitendaji hivi katika mipangilio ya Huduma za Eneo.</string>
+    <string name="location_network">Ruhusu huduma za eneo za Google kukusanya data isiyojulikana ya eneo. Ukusanyaji huendelea hata wakati hakuna programu zinazoendeshwa.</string>
+    <string name="location_title">Tumia mkao wa Google</string>
+    <string name="nevigation_selection_back">Nyuma</string>
+    <string name="nevigation_selection_home">Nyumbani</string>
+    <string name="nevigation_selection_recent">Za hivi karibuni</string>
+    <string name="nevigation_selection_text">Unaweza kubadilisha mkao na rangi ya chinichini ya vitufe vya \"Nyuma\"/\"Ilitumiwa Mwisho</string>
+    <string name="nevigation_selection_title">Mipangilio ya Sehemu ya Kusogeza</string>
+    <string name="next_btn_lebel">INAYOFUATA</string>
+    <string name="normal_date_format">Wa ulipo (%s)</string>
+    <string name="not_now">SI SASA…</string>
+    <string name="passpoint_content">Hati tambulishi za %1$s</string>
+    <string name="passpoint_label">Imehifadhiwa kupitia</string>
+    <string name="please_select_phase2">Uhalalishaji wa awamu ya 2</string>
+    <string name="proxy_error_empty_host_set_port">Sehemu ya kituo sharti iwe wazi iwapo sehemu ya mpangishaji haina chochote</string>
+    <string name="proxy_error_empty_port">Unahitaji kujaza sehemu ya kituo.</string>
+    <string name="proxy_error_invalid_exclusion_list">Orodha ya kutojumuisha uliyoandika haijaumbizwa vizuri. Andika orodha iliyotenganishwa kwa koma ya vikoa vya kutojumuisha.</string>
+    <string name="proxy_error_invalid_port">Lango uliloandika si halali.</string>
+    <string name="proxy_exclusionlist_label">Proksi mbadala ya</string>
+    <string name="proxy_hostname_label">Jina la mwenyeji wa proksi</string>
+    <string name="proxy_port_label">Kituo cha proksi</string>
+    <string name="proxy_settings_title">Seva mbadala</string>
+    <string name="proxy_url_title">"URL ya PAC: "</string>
+    <string name="proxy_warning_limited_support">Proksi ya HTTP inayotumiwa na kivinjari lakini haiwezi kutumika na programu zingine.</string>
+    <string name="saved_network">Imehifadhiwa na %1$s</string>
+    <string name="search_menu_title">Tafuta</string>
+    <string name="select_sim_card">Chagua SIM kadi</string>
+    <string name="setup_complete_hmd">Uko tayari kuanza...</string>
+    <string name="setup_complete_hmd_1">Uko karibu kuwa tayari...!</string>
+    <string name="setup_complete_main">Simu yako</string>
+    <string name="setup_complete_sub">iko tayari kutumika</string>
+    <string name="setup_completed_congratulations">Hongera!</string>
+    <string name="setup_finish">TUANZE</string>
+    <string name="sim_editor_title">Kipenyo cha SIM %1$d</string>
+    <string name="sim_not_exist_toast">Tafadhali kagua kuwa umeingiza SIM kadi.</string>
+    <string name="skip_add_account_button_label">Siyo sasa</string>
+    <string name="skip_button_label">Ruka</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Kubali</string>
+    <string name="term_disagree_text">Kataa</string>
+    <string name="terms_of_service_description">"
+Gharama ya trafiki ya data itatumika wakati unapotumia huduma kama vile: hali ya hewa, vipakiaji/vipakuliwa vya hifadhi ya mtandaoni, barua pepe au vivinjari vya Intaneti. Tunapendekeza umwombe mtoa huduma wako akupe mpango wa data ili uokoe gharama. 
+
+Kuweka tiki Ninakubali huashiria kuwa unaelewa vizuri arifa hii na unakubali kuwa simu yako inaweza kuunganisha kiotomatiki kwenye Intaneti ili kutumia huduma muhimu. 
+
+Licha ya hayo, arifa ya kusasisha programu otomatiki imewekwa kwa chaguo-msingi, ambayo hutumia kiasi kidogo cha data ili kukupa uzoefu mpya wa programu. Unaweza kuzima chaguo hili baadaye katika Mipangilio. 
+
+"</string>
+    <string name="terms_title">Arifa ya matumizi ya data</string>
+    <string name="time_picker_title">Wakati</string>
+    <string name="traffic_prompt_content">Ukiweka tiki kwa Ninakataa, lazima wewe mwenyewe upate maelezo kuhusu: visasisho vya programu, utabiri wa hali ya hewa na kwendelea.</string>
+    <string name="upload_agent_des_text">"Jiunge na Mpango wa Uzoefu wa Watumiaji &lt;a href='launch.AddUploadAgentHandler://Kode'>Sheria&amp;Masharti ya Faragha&lt;/a> 。"</string>
+    <string name="upload_agent_hmd_des_text_2">"Jiunge na mpango wa Uzoefu wa Watumiaji wa Nokia &lt;a href='launch.UserExperienceActivity://Kode'>Jifunze zaidi.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"Kwa kugusa \"TUANZE\", unakubali kujiunga na Mpango wa Uzoefu wa Watumiaji. &lt;a href='launch.UserExperienceActivity://Kode'>Jifunze zaidi&lt;/a>. Kumbuka, unaweza kujiunga baadaye wakati wowote kupitia Mipangilio."</string>
+    <string name="upload_agent_title">Mpango wa Uzoefu wa Watumiaji</string>
+    <string name="v7_preference_off">IMEZIMWA</string>
+    <string name="v7_preference_on">IMEWASHWA</string>
+    <string name="welcome_hmd_term_of_use_2">"Kwa kugonga kishale, unakubaliana na &lt;a href='launch.TermOfServiceActivity://Kode'>Masharti ya Huduma&lt;/a> na &lt;a href='launch.AddUploadAgentHandler://Kode'>Sera ya Faragha&lt;/a>. Maelezo ya kuamilisha kifaa yenye eneo la wakati mmoja la kifaa yatatumwa kwa HMD Global. Huenda ada ya data ikatumika."</string>
+    <string name="welcome_hmd_term_of_use_4">"Kwa kugonga kitufe, unakubaliana na &lt;a href='launch.TermOfServiceActivity://Kode'>Masharti ya Huduma&lt;/a> na &lt;a href='launch.AddUploadAgentHandler://Kode'>Sera ya Faragha&lt;/a>. Maelezo ya uamilisho ya kifaa yenye eneo la wakati mmoja la kifaa yatatumwa kwa HMD Global.&lt;br/>&lt;br/>Taarifa ya Kusasisha Programu Otomati itawezeshwa ambayo husakinisha visasisho vipya kwa ajili yako. Hii inaweza kutumia sehemu ndogo ya bajeti yako ya data. Huduma zitafikia Intaneti wakati zitahitaji.&lt;br/>&lt;br/>Huduma hizi zitakugharimu gharama ya jumla wakati zinapofikia mitandao ya simu za mkononi."</string>
+    <string name="welcome_hmd_term_of_use_5">"Kwa kugonga kitufe, unakubaliana na &lt;a href='launch.TermOfServiceActivity://Kode'>Masharti ya Huduma&lt;/a>. Maelezo ya kuamilisha kifaa yenye eneo la wakati mmoja la kifaa yatatumwa kwa HMD Global. Huenda ada ya data ikatumika. Data itatumika kulingana na &lt;a href='launch.AddUploadAgentHandler://Kode'>Sera ya Faragha&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"Tafadhali Anza kwa kuashiria kuwa unakubaliana na&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Sheria&amp;Masharti ya Huduma&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Tuanze</string>
+    <string name="welcome_message">Karibu</string>
+    <string name="welcome_start_button_label">ANZA</string>
+    <string name="welcome_vision_settings_button_label">Mipangilio ya Mwonekano</string>
+    <string name="wifi_add_network">Ongeza mtandao</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Chaguo Mahiri za orodha kunjuzi. Gonga mara mbili ili upanue.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Chaguo Mahiri za orodha kunjuzi. Gonga mara mbili ili ukunje.</string>
+    <string name="wifi_and_mobile_skipped_message">"Kuunganisha kwenye mtandao hukusaidia kusanidi kwa haraka simu yako.
+
+Bila muunganisho, huwezi:
+
+"<li>Ingia kwenye akaunti yako ya Wingu</li>"
+
+"<li>Pata visasisho vya programu</li>"
+
+"<li>Sanidi saa na tarehe kiotomatiki</li></string>
+    <string name="wifi_auth_password_wrong">Huenda nenosiri si sahihi</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Ghairi</string>
+    <string name="wifi_certificate">Cheti</string>
+    <string name="wifi_connect">Unganisha</string>
+    <string name="wifi_connected_no_internet">Imeunganishwa, hakuna intaneti</string>
+    <string name="wifi_disabled_generic">Imelemazwa</string>
+    <string name="wifi_disabled_network_failure">Imeshindwa Kusanidi IP</string>
+    <string name="wifi_disabled_password_failure">Tatizo la uhalalishaji</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Usitoe</string>
+    <string name="wifi_do_not_validate_eap_server">Usithibitishe</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Hakuna cheti kilichobainishwa. Muunganisho wako hautakuwa wa faragha.</string>
+    <string name="wifi_dont_skip">RUDI NYUMA</string>
+    <string name="wifi_eap_anonymous">Kitambulisho kisichojulikana</string>
+    <string name="wifi_eap_ca_cert">Cheti cha CA</string>
+    <string name="wifi_eap_domain">Kikoa</string>
+    <string name="wifi_eap_identity">Kitambulisho</string>
+    <string name="wifi_eap_method">Mbinu ya EAP</string>
+    <string name="wifi_eap_user_cert">Cheti cha mtumiaji</string>
+    <string name="wifi_fail_to_scan">Haiwezi kuchanganua mitandao</string>
+    <string name="wifi_failed_connect_message">Imeshindwa kuunganisha kwenye mtandao</string>
+    <string name="wifi_failed_forget_message">Imeshindwa kusahau mtandao</string>
+    <string name="wifi_failed_save_message">Imeshindwa kuhifadhi mtandao</string>
+    <string name="wifi_forget">Sahau</string>
+    <string name="wifi_frequency">Masafa</string>
+    <string name="wifi_gateway">Lango</string>
+    <string name="wifi_ip_address">Anwani ya IP</string>
+    <string name="wifi_ip_settings">Mipangilio ya IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Tafadhali charaza anwani halali ya DNS.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Tafadhali charaza anwani halali ya lango.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Andika anwani halali ya IP.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Andika urefu wa kiambishi awali cha mtandao kati ya 0 na 32.</string>
+    <string name="wifi_multiple_cert_added">(Imeongeza vyeti vingi)</string>
+    <string name="wifi_network_prefix_length">Urefu wa kiambishi awali cha mtandao</string>
+    <string name="wifi_no_domain_warning">Lazima ubainishe kikoa.</string>
+    <string name="wifi_no_internet">Hakuna ufikiaji wa Intaneti</string>
+    <string name="wifi_no_internet_no_reconnect">Haitaunganisha kiotomatiki</string>
+    <string name="wifi_not_in_range">Haiko kwenye masafa</string>
+    <string name="wifi_password">Nenosiri</string>
+    <string name="wifi_picker_connection_des_text">Iwapo umeunganishwa kwenye WLAN, programu hii itahalalishwa kwa kutumia mtandao wa simu ya mkononi, ambayo inaweza kukugharimu ada ya matumizi ya data.</string>
+    <string name="wifi_picker_connection_negative">Unganisha</string>
+    <string name="wifi_picker_connection_negative_prc">Unganisha kwenye WLAN</string>
+    <string name="wifi_picker_connection_positive">Tayari</string>
+    <string name="wifi_picker_connection_title">Muunganisho wa mtandao</string>
+    <string name="wifi_picker_warning_des_text">Haitawezekana kuthibitisha kuwa programu yako imesasishwa isipokuwa uwe una muunganisho wa Intaneti.</string>
+    <string name="wifi_picker_warning_negative">Ruka</string>
+    <string name="wifi_picker_warning_positive">Usiruke</string>
+    <string name="wifi_picker_warning_title">Onyo:</string>
+    <string name="wifi_remembered">Imehifadhiwa</string>
+    <string name="wifi_save">Hifadhi</string>
+    <string name="wifi_security">Usalama</string>
+    <string name="wifi_security_none">Hamna</string>
+    <string name="wifi_setting_title">Hujaunganishwa</string>
+    <string name="wifi_shared">Shiriki na watumiaji wengine wa kifaa</string>
+    <string name="wifi_show_advanced">Chaguo za kina</string>
+    <string name="wifi_show_password">Onyesha nenosiri</string>
+    <string name="wifi_signal">Nguvu za mawimbi</string>
+    <string name="wifi_skip_anyway">RUKA HATA HIVYO</string>
+    <string name="wifi_speed">Unganisha kasi</string>
+    <string name="wifi_ssid">Jina la mtandao</string>
+    <string name="wifi_ssid_hint">Weka Kitambulisho cha Mtandao (SSID)</string>
+    <string name="wifi_status">Hali</string>
+    <string name="wifi_unchanged">(haijabadilishwa)</string>
+    <string name="wifi_unspecified">Tafadhali chagua</string>
+    <string name="wifi_use_system_certs">Tumia vyeti vya mfumo</string>
+    <string name="zone_auto">Saa za eneo, kiotomatiki</string>
+    <string name="zone_auto_summaryOff">Tumia saa za eneo zilizotolewa na mtandao</string>
+    <string name="zone_auto_summaryOn">Tumia saa za eneo zilizotolewa na mtandao</string>
+    <string name="sugarsync_intro_description">Kwa hatua chache rahisi, unaweza kutumia nafasi ya hifadhi ya wingu la SugarSync.</string>
+</resources>

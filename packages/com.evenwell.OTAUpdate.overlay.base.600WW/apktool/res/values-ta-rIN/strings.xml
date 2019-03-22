@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">மென்பொருள் புதுப்பிப்பு</string>
+    <string name="file_not_found">கோப்பு காணப்படவில்லை</string>
+    <string name="remote_file_fail">ரிமோட் கோப்பை அணுக முடியாது. பிறகு முயலவும்.</string>
+    <string name="no_description">(விளக்கம் இல்லை)</string>
+    <string name="login_fail">சேவையகத்தில் உள்நுழைய முடியவில்லை. பிறகு முயலவும்.</string>
+    <string name="get_service_url_fail">நெட்வொர்க் இணைப்பு நிலையாக இல்லை (சேவை URL-ஐப் பெற முடியவில்லை). பிறகு முயலவும்.</string>
+    <string name="query_sw_fail">மென்பொருள் தகவலைக் கேட்க முடியவில்லை.</string>
+    <string name="download_sw_fail">மென்பொருளைப் பதிவிறக்க முடியவில்லை.</string>
+    <string name="query_sw_incorrect">முடிவு சரியானது அல்ல.</string>
+    <string name="no_update_available">புதிய புதுப்பிப்பு இல்லை.</string>
+    <string name="update_not_ready">சேவையகத்தில் புதிய புதுப்பிப்பு தயாராக இல்லை. பிறகு முயலவும்.</string>
+    <string name="check_now_label">இப்போது பார்</string>
+    <string name="checking">சரிபார்க்கிறது...</string>
+    <string name="verifying">சரிபார்க்கிறது...</string>
+    <string name="header_verifying_update_file">புதுப்பிக்கப்பட்ட கோப்பைச் சரிபார்க்கிறது...</string>
+    <string name="unzipping">பிரிக்கிறது...</string>
+    <string name="please_wait">தயவு செய்து காத்திருக்கவும்...</string>
+    <string name="header_starting_to_download_file">கோப்பைப் பதிவிறக்கத் தொடங்குகிறது...</string>
+    <string name="header_system_update_available">முறைமை புதுப்பிப்பு உள்ளது</string>
+    <string name="new_version_desc_prompt">புதிய பதிப்பில் உள்ளவை:</string>
+    <string name="header_attention">கவனம் தேவை</string>
+    <string name="data_fee_warning">உங்கள் மொபைல் நெட்வொர்க் இணைப்பு மூலம் இந்தச் சேவையைப் பயன்படுத்துவதற்கு கட்டணம் விதிக்கப்படலாம்!</string>
+    <string name="header_downloading_update">புதுப்பிப்பைப் பதிவிறக்குகிறது</string>
+    <string name="header_install_system_software_update">முறைமை மென்பொருள் புதுப்பிப்பை நிறுவு</string>
+    <string name="msg_install_system_software_update_1">"பின்வரும் முறைமை மென்பொருளை நிறுவ விரும்புகிறீர்களா?
+முறைமை மேம்பாடு:"</string>
+    <string name="msg_install_system_software_update_2">"
+
+மேம்படுத்தும் போது உங்கள் சாதனத்தைப் பயன்படுத்தவோ அல்லது அவசர அழைப்புகளை மேற்கொள்ளவோ முடியாது.
+
+மென்பொருளைப் புதுப்பிக்கும் போது பேட்டரி அல்லது SD கார்டை அகற்றுதல் ஆகியவற்றால் எதிர்பாராத விளைவுகள் ஏற்படலாம்."</string>
+    <string name="msg_install_system_software_update_3">"
+
+மேம்படுத்தும் போது உங்கள் சாதனத்தைப் பயன்படுத்த முடியாது.
+
+புதுப்பிக்கும் போது பவரை அணைத்தல் அல்லது பதிவிறக்கிய கோப்பை நீக்குதல் ஆகியவற்றால் எதிர்பாராத விளைவுகள் ஏற்படலாம்."</string>
+    <string name="msg_install_system_software_update_4">"
+
+மேம்படுத்தும் போது உங்கள் சாதனத்தைப் பயன்படுத்தவோ அல்லது அவசர அழைப்புகளை மேற்கொள்ளவோ முடியாது.
+
+மென்பொருளைப் புதுப்பிக்கும் போது பவரை அணைத்தல் அல்லது பதிவிறக்கிய கோப்பை நீக்குதல் ஆகியவற்றால் எதிர்பாராத விளைவுகள் ஏற்படலாம்."</string>
+    <string name="button_install_now">இப்போதே நிறுவு</string>
+    <string name="button_install_later">பின்னர் நிறுவுக</string>
+    <string name="header_unable_to_connect">இணைக்க முடியவில்லை</string>
+    <string name="msg_unable_to_connect">இந்தச் செயலியைப் பயன்படுத்த, நெட்வொர்க் இணைப்பு வேண்டும். அமைப்புகளில் மொபைல் நெட்வொர்க் அல்லது Wi-Fi-ஐ இயக்கவும்.</string>
+    <string name="msg_unable_to_connect_2">இந்தச் செயலியைப் பயன்படுத்த, நெட்வொர்க் இணைப்பு வேண்டும். அமைப்புகளில் மொபைல் நெட்வொர்க்கை இயக்கவும்.</string>
+    <string name="msg_unable_to_connect_wlan">இந்தச் செயலியைப் பயன்படுத்த, நெட்வொர்க் இணைப்பு வேண்டும். அமைப்புகளில் மொபைல் நெட்வொர்க் அல்லது WLAN-ஐ இயக்கவும்.</string>
+    <string name="msg_unable_to_connect_short">நெட்வொர்க் இணைப்பு இல்லை</string>
+    <string name="button_reset">ரீசெட்</string>
+    <string name="button_settings">அமைப்புக்கள்</string>
+    <string name="header_system_is_update">முறைமை புதுப்பிப்புடன் உள்ளது.</string>
+    <string name="msg_system_is_update">புதிய புதுப்பிப்பு இல்லை.</string>
+    <string name="msg_system_is_update_short">புதிய புதுப்பிப்புகள் இல்லை</string>
+    <string name="msg_no_sd_card">முறைமை புதுப்பிப்புக்கு SD கார்டு தேவை. கிடைக்கும் SD கார்டைச் செருகவும்.</string>
+    <string name="msg_no_sd_card_short">SD கார்டு இல்லை</string>
+    <string name="msg_no_available_size_card">இந்தப் புதுப்பிப்புக் கோப்புக்கு %s MB காலி இடம் தேவை. SD கார்டில் இருந்து சில கோப்புகளை நீக்கவும்.</string>
+    <string name="msg_no_available_size_card_2">இந்தப் புதுப்பிப்புக் கோப்புக்கு %s MB காலி இடம் தேவை. தரவுச் சேமிப்பகத்தில் இருந்து சில கோப்புகளை நீக்கவும்.</string>
+    <string name="msg_no_available_size_card_short">போதுமான காலி இடம் இல்லை.</string>
+    <string name="msg_do_not_remove_sd_card">SD கார்டை அகற்ற வேண்டாம்.</string>
+    <string name="title_system_update_ready">முறைமை புதுப்பிப்பு தயார்</string>
+    <string name="msg_system_update_ready">முறைமை புதுப்பிப்பை நிறுவ, தட்டவும்.</string>
+    <string name="msg_system_battery_too_low">"முறைமை புதுப்பிப்பு தயார், ஆனால் அதனை நிறுவும் அளவிற்கு உங்கள் சாதனத்தில் பேட்டரி இல்லை. பேட்டரியை சார்ஜ் செய்து, பிறகு மீண்டும் நிறுவத் தொடங்கவும்.
+
+பேட்டரி அளவானது 35%%-க்கும் மேல் இருக்க வேண்டும்.
+நடப்பு பேட்டரி அளவு: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">மிகக் குறைவான பேட்டரி</string>
+    <string name="msg_remove_sd_card">பதிவிறக்கப்பட்ட கோப்பினை SD கார்டில் சேமிக்க முடியாது. SD கார்டைச் சரிபார்க்கவும்.</string>
+    <string name="msg_remove_sd_card_2">பதிவிறக்கப்பட்ட கோப்பினை தரவுச் சேமிப்பகத்தில் சேமிக்க முடியாது. சேமிப்பகத்தைச் சரிபார்க்கவும்.</string>
+    <string name="msg_remove_sd_card_short">SD கார்டை அணுக முடியவில்லை.</string>
+    <string name="msg_remove_sd_card_short_2">தரவுச் சேமிப்பகத்தை அணுக முடியவில்லை.</string>
+    <string name="msg_verify_fail">பதிவிறக்கிய கோப்பைச் சரிபார்க்க முடியவில்லை.</string>
+    <string name="msg_verify_fail_short">சரிபார்க்க முடியவில்லை</string>
+    <string name="msg_unzip_fail">பதிவிறக்கிய கோப்பைப் பிரிக்க முடியவில்லை.</string>
+    <string name="msg_unzip_fail_short">பிரிக்க முடியவில்லை</string>
+    <string name="hide">மறை</string>
+    <string name="data_size">தரவு அளவு</string>
+    <string name="required_size">தேவையான இடம்</string>
+    <string name="network_not_match">தற்போது WLAN இணைப்பில் மட்டும் பதிவிறக்குமாறு அமைத்துள்ளீர்கள். WLAN நெட்வொர்க்கைத் தேர்வுசெய்யவும் அல்லது அமைப்புகளை மாற்றவும்.</string>
+    <string name="network_not_match_short">நெட்வொர்க் பொருந்தவில்லை.</string>
+    <string name="without_reboot_api">API விடுபட்டுள்ளதால் ரீபூட் செய்ய முடியாது. செயல் புதுப்பிப்பை மீட்டெடுக்க, கைமுறையாக ரீபூட் செய்யவும்.</string>
+    <string name="update_complete">முறைமை புதுப்பிப்பு முடிந்தது.</string>
+    <string name="update_complete_short">புதுப்பிப்பு நிறைவு</string>
+    <string name="file_removed">பதிவிறக்கிய கோப்பு அகற்றப்பட்டது. மீண்டும் பதிவிறக்கவும்.</string>
+    <string name="file_removed_short">பதிவிறக்கிய கோப்பு அகற்றப்பட்டது.</string>
+    <string name="file_not_match">பதிவிறக்கப்பட்ட கோப்பு எதிர்பார்த்த அளவுடன் பொருந்தவில்லை. மீண்டும் பதிவிறக்கவும்.</string>
+    <string name="file_not_match_short">கோப்பு பொருந்தவில்லை.</string>
+    <string name="menu_url">சேவையக URL-ஐ மாற்று</string>
+    <string name="menu_enabled">இயக்கிய மென்பொருள் மட்டும்</string>
+    <string name="using_internal_storage">அகச் சேமிப்பகத்தைப் பயன்படுத்துதல்</string>
+    <string name="using_external_storage">புறச் சேமிப்பகத்தைப் பயன்படுத்துதல்</string>
+    <string name="msg_agree_message">"
+
+மேம்படுத்தல் செயல்முறை காரணமாக பயனர் தரவு அழிக்கப்பட ஒரு சிறிய வாய்ப்பு உள்ளது. தேவைப்பட்டால், முறைமை மேம்படுத்தலை நிறுவும் முன் உங்கள் தரவை காப்புப்பிரதி எடுத்துக்கொள்ளவும்."</string>
+    <string name="msg_root_message">"
+
+சாதனம் ரூட் செய்யப்பட்ட பிறகு வழக்கமான புதுப்பிப்புக்கு உத்தரவாதம் அளிக்க முடியாது."</string>
+    <string name="msg_responsibility_message">சாதனம் ரூட் செய்யப்பட்டிருந்தால், புதுப்பிப்புக்குப் பிறகு ஏற்படும் எந்தவொரு அசாதாரண முறைமை நடத்தைக்கும் பயனரே பொறுப்பாவார்.</string>
+    <string name="msg_upgrade_agree">படித்து, ஏற்கவும்</string>
+    <string name="later">பின்னர்</string>
+    <string name="update">புதுப்பி</string>
+    <string name="update_summary">புதுப்பிப்புகள் உள்ளதா என்று பார்</string>
+    <string name="wifi_only">வைஃபை மட்டும்</string>
+    <string name="wlan_only">WLAN மட்டும்</string>
+    <string name="wifi_only_summary">Wi-Fi கிடைக்கும் போது புதுப்பிப்புகளைப் பதிவிறக்கு</string>
+    <string name="wlan_only_summary">WLAN கிடைக்கும் போது புதுப்பிப்புகளைப் பதிவிறக்கு</string>
+    <string name="auto_update">தானியங்கு புதுப்பிப்பு</string>
+    <string name="auto_update_summary">புதுப்பிப்புகள் உள்ளதா என்று பார்</string>
+    <string name="new_data_fee_warning">புதுப்பிப்புகளைச் சரிபார்ப்பதற்கும், பதிவிறக்குவதற்கும் கூடுதல் கட்டணங்கள் விதிக்கப்படலாம். முடிந்தால் Wi-Fi வழியாகப் புதுப்பிப்புகளைப் பதிவிறக்கவும்.</string>
+    <string name="wlan_data_fee_warning">புதுப்பிப்புகளைச் சரிபார்ப்பதற்கும், பதிவிறக்குவதற்கும் கூடுதல் கட்டணங்கள் விதிக்கப்படலாம். முடிந்தால் WLAN வழியாகப் புதுப்பிப்புகளைப் பதிவிறக்கவும்.</string>
+    <string name="installing">நிறுவுகிறது</string>
+    <string name="install_complete">நிறுவப்பட்டது</string>
+    <string name="install_fail">நிறுவல் தோல்வி</string>
+    <string name="install_all">எல்லாம் நிறுவு</string>
+    <string name="install">நிறுவு</string>
+    <string name="installed_version">நிறுவிய பயன்பாடு</string>
+    <string name="update_available">புதுப்பிப்பு உள்ளது.</string>
+    <string name="apk_update_available">செயலி புதுப்பிப்பு உள்ளது.</string>
+    <string name="recommend">பரிந்துரை</string>
+    <string name="roaming_restriction">தரவு ரோமிங் கட்டுப்பாடு</string>
+    <string name="roaming_restriction_summary">தரவு ரோமிங் கட்டுப்பாடு காரணமாகப் புதுப்பிக்க முடியாது.</string>
+    <string name="changelog">மாற்ற விவரம்</string>
+    <string name="description">விளக்கம்:</string>
+    <string name="apk_update_available_summary">%s-க்கு புதுப்பிப்பு உள்ளது. இப்போதே நிறுவ சரி என்பதைக் கிளிக் செய்க அல்லது நாளை புதுப்பிப்பு உள்ளதா என்று பார்க்க ரத்து என்பதைக் கிளிக் செய்க.</string>
+    <string name="apk_removed">இந்தச் செயலி அகற்றப்பட்டது.</string>
+    <string name="apk_available_items">மொத்தம் %s உருப்படிகள் உள்ளன</string>
+    <string name="apk_available_item">மொத்தம் %s உருப்படி உள்ளது</string>
+    <string name="new_forpreference">புதியது:</string>
+    <string name="invalid_update_summary">புதுப்பிப்பு தவறானது, மீண்டும் சரிபார்க்கவும்.</string>
+    <string name="recheck">மீண்டும் பார்</string>
+    <string name="image_download_exception_summary">சேவையகத்தை அணுக முடியவில்லை, பிறகு முயலவும்.</string>
+    <string name="apk_download_exception">சேவையகத்தை அணுக முடியாது</string>
+    <string name="installation_confirmation">நிறுவலை உறுதிசெய்தல்</string>
+    <string name="apk_need_reboot_summary">இந்த மென்பொருள் புதுப்பிப்பு, நிறுவல் முடிந்தவுடன் தானாக முறைமையை ரீபூட் செய்யும். இப்போது நிறுவ விரும்புகிறீர்களா?</string>
+    <string name="downloaded">பதிவிறக்கப்பட்டது</string>
+    <string name="prepare_to_reboot">ரீபூட் செய்ய தயாராகிறது</string>
+    <string name="prepare_to_reboot_summary">அமைப்புகளை உள்ளமைக்க, சாதனத்தை ரீபூட் செய்ய வேண்டியது நிறுவிய மென்பொருளின் தேவை ஆகும். இப்போதே ரீபூட் செய்யுமாறு பரிந்துரைக்கின்றோம் அல்லது பின்னரும் ரீபூட் செய்யலாம்.</string>
+    <string name="prepare_to_reboot_force_summary">அமைப்புகளை உள்ளமைக்க, சாதனத்தை ரீபூட் செய்ய வேண்டியது நிறுவிய மென்பொருளின் தேவை ஆகும். இப்போதே ரீபூட் செய்யுமாறு பரிந்துரைக்கின்றோம்.</string>
+    <string name="reboot">மறுதுவக்கு</string>
+    <string name="reboot_fail">ரீபூட் தோல்வி</string>
+    <string name="reboot_fail_summary">API விடுபட்டுள்ளதால் ரீபூட் செய்ய முடியாது. கைமுறையில் ரீபூட் செய்யவும்.</string>
+    <string name="apk_no_avaliable_size">போதுமான அகச் சேமிப்பகம் இல்லை என்பதால், பதிவிறக்க முடியவில்லை.</string>
+    <string name="update_finished">புதுப்பிப்பு முடிந்தது</string>
+    <string name="header_warning">எச்சரிக்கை:</string>
+    <string name="msg_root_warning">உங்கள் சாதனம் ரூட் செய்யப்பட்டுள்ளது அல்லது அதிகாரப்பூர்வ மென்பொருளின் பாதுகாப்பு உடைக்கப்பட்டுள்ளது. முறைமையைப் புதுப்பிப்பது, முறைமையின் நிலைத்தன்மையைப் பாதிக்கலாம் அல்லது முறைமை செயலிழப்புக்குக் காரணமாக இருக்கலாம் மற்றும் சாதனத்தின் வாரண்டியைக் காலி செய்யலாம். தொடர விரும்புகிறீர்களா?</string>
+    <string name="multi_image_update">சில இமெஜ் புதுப்பிப்புகள் உள்ளன</string>
+    <string name="available_update_list">கிடைக்கும் புதுப்பிப்புகள் பட்டியல்</string>
+    <string name="downloading_summary">இமேஜ் பதிவிறக்கத்தை ரத்துசெய்யவும்</string>
+    <string name="msg_erase_userdata_warning">இந்தப் புதுப்பிப்பு, பயனர் தரவை அழிக்கும். தொடர விரும்புகிறீர்களா?</string>
+    <string name="msg_autoupdate_date_fee_warning">தானியங்கு புதுப்பிப்பை இயக்குவதால் கூடுதல் கட்டணங்கள் விதிக்கப்படலாம்.</string>
+    <string name="invalid_update">புதுப்பிப்பு தவறானது.</string>
+    <string name="file_corrupted">கோப்பு சிதைந்துள்ளதால் முறைமையை மேம்படுத்த முடியாது.</string>
+    <string name="ask_for_apk_check">செயலி புதுப்பிப்புகள் உள்ளதா என்று பார்க்க விரும்புகிறீர்களா?</string>
+    <string name="update_ota_self">மென்பொருள் புதுப்பிப்பு செயலில் உள்ளது.</string>
+    <string name="ab_update_fail">நிறுவல் சிக்கல்.</string>
+    <string name="ab_update_wrong_status">புதுப்பிப்பு என்ஜின் பிஸியாக உள்ளது. பிறகு முயலவும் அல்லது ரீபூட் செய்யவும்.</string>
+    <string name="ab_update_installing">முறைமையைப் புதுப்பிக்கிறது</string>
+    <string name="tag_engineer_mode">பொறியாளர் முறை</string>
+    <string name="engineer_version_incorrect">உங்கள் சாதனப் பதிப்பு தவறானது</string>
+    <string name="msg_engineer_ota_restore">அதிகாரப்பூர்வ பதிப்புக்கு மாற்ற, தட்டவும்</string>
+    <string name="msg_engineer_ota_restore_warning">இது அதிகாரப்பூர்வ பதிப்புக்கு மாற்றியமைக்கும். தொடர விரும்புகிறீர்களா?</string>
+    <string name="silent_mode_data_fee_warning">புதுப்பிப்பு உள்ளது. புதுப்பிப்புகளைப் பதிவிறக்குவதற்கு கூடுதல் கட்டணங்கள் விதிக்கப்படலாம். முடிந்தால் Wi-Fi வழியாகப் புதுப்பிப்புகளைப் பதிவிறக்கவும்.</string>
+    <string name="msg_updating_system">முறைமையைப் புதுப்பிக்கிறது...</string>
+    <string name="msg_tap_to_reboot">ரீபூட் செய்ய, தட்டவும்</string>
+    <string name="msg_pause_download">பதிவிறக்கத்தை இடைநிறுத்து</string>
+    <string name="notification_channel_name">முறைமை புதுப்பிப்பு</string>
+    <string name="notification_channel_alert_name">பொது அறிவிப்புகள்</string>
+</resources>

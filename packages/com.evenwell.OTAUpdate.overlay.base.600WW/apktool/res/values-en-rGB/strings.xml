@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Software update</string>
+    <string name="file_not_found">File not found</string>
+    <string name="remote_file_fail">Can not access remote file. Please try again later.</string>
+    <string name="no_description">(No description)</string>
+    <string name="login_fail">Fail to login server. Please try again later.</string>
+    <string name="get_service_url_fail">Network connection is not stable(Fail to get service URL). Please try again later.</string>
+    <string name="query_sw_fail">Fail to query software information</string>
+    <string name="query_sw_incorrect">Result is not correct</string>
+    <string name="no_update_available">No newer update is available</string>
+    <string name="update_not_ready">Newer update is not ready on server. Please try again later.</string>
+    <string name="check_now_label">Check now</string>
+    <string name="checking">Checking...</string>
+    <string name="verifying">Verifying...</string>
+    <string name="header_verifying_update_file">Verifying update file...</string>
+    <string name="unzipping">Unzipping...</string>
+    <string name="please_wait">Please wait</string>
+    <string name="header_starting_to_download_file">Starting to download file...</string>
+    <string name="header_system_update_available">System update is available</string>
+    <string name="new_version_desc_prompt">New version includes:</string>
+    <string name="header_attention">Attention</string>
+    <string name="data_fee_warning">Using this service over your mobile network connection may incur charging!</string>
+    <string name="header_downloading_update">Downloading update</string>
+    <string name="header_install_system_software_update">Install system software update</string>
+    <string name="msg_install_system_software_update_1">"Would you like to install the following system software?
+System upgrade to"</string>
+    <string name="msg_install_system_software_update_2">"
+
+You will be unable to use your device or make emergency calls during the upgrade.
+
+It will lead to unexpected result if you remove battery or SD card while updating software."</string>
+    <string name="button_install_now">Install now</string>
+    <string name="button_install_later">Install later</string>
+    <string name="header_unable_to_connect">Unable to connect</string>
+    <string name="msg_unable_to_connect">You need a network connection to use this application. Please turn on mobile network or Wi-Fi in Settings.</string>
+    <string name="msg_unable_to_connect_short">No network connection</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_settings">Settings</string>
+    <string name="header_system_is_update">System is up to date</string>
+    <string name="msg_system_is_update">No newer update is available.</string>
+    <string name="msg_system_is_update_short">No newer update</string>
+    <string name="msg_no_sd_card">SD card is required for system update. Please insert SD card.</string>
+    <string name="msg_no_sd_card_short">No SD card</string>
+    <string name="msg_no_available_size_card">This update file needs %s MB available size. Please delete some files in SD card.</string>
+    <string name="msg_no_available_size_card_short">Free space is not enough</string>
+    <string name="msg_do_not_remove_sd_card">Please DO NOT remove SD card</string>
+    <string name="title_system_update_ready">System update is ready</string>
+    <string name="msg_system_update_ready">Tap to install the system update</string>
+    <string name="msg_system_battery_too_low">"The system update is ready, but your device battery is too low to install it. Please charge the battery and start installation later.
+
+The battery level should be more than 35%%.
+Current battery level: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Battery too low</string>
+    <string name="msg_remove_sd_card">The downloaded file can not be written into SD card. Please check the SD card.</string>
+    <string name="msg_remove_sd_card_short">Fail to access SD card</string>
+    <string name="msg_verify_fail">The downloaded file is fail to be verified.</string>
+    <string name="msg_verify_fail_short">Verify fail</string>
+    <string name="msg_unzip_fail">The downloaded file is fail to be unzipped.</string>
+    <string name="msg_unzip_fail_short">Unzip fail</string>
+    <string name="hide">Hide</string>
+    <string name="data_size">Data size</string>
+    <string name="required_size">Required space</string>
+    <string name="network_not_match">Your current setting is download when WLAN only. Please select an WLAN networks or change your settings.</string>
+    <string name="network_not_match_short">Network is not match</string>
+    <string name="without_reboot_api">Can not reboot because without API. Please reboot to recovery to active update manually.</string>
+    <string name="update_complete">System update is complete.</string>
+    <string name="update_complete_short">Update complete</string>
+    <string name="file_removed">The downloaded file is removed. Please re-download again.</string>
+    <string name="file_removed_short">The downloaded file is removed</string>
+    <string name="file_not_match">The downloaded file does not match as expected. Please re-download again.</string>
+    <string name="file_not_match_short">File does not match</string>
+    <string name="menu_url">Change Server URL</string>
+    <string name="menu_enabled">Only Enabled Software</string>
+    <string name="msg_agree_message">"
+
+
+There is a small possibility of erasing user data caused by upgrade purpose. If need, please backup your data before installing system upgrade."</string>
+    <string name="msg_upgrade_agree">Read and agree</string>
+    <string name="later">Later</string>
+    <string name="update">Update</string>
+    <string name="update_summary">Check for updates</string>
+    <string name="wifi_only">Wi-Fi only</string>
+    <string name="wlan_only">WLAN only</string>
+    <string name="wifi_only_summary">Download updates when Wi-Fi available</string>
+    <string name="wlan_only_summary">Download updates when WLAN available</string>
+    <string name="auto_update">Auto update</string>
+    <string name="auto_update_summary">Check for updates automatically</string>
+    <string name="new_data_fee_warning">Check and download updates may incur additional charges. Download updates via Wi-Fi if possible.</string>
+    <string name="wlan_data_fee_warning">Check and download updates may incur additional charges. Download updates via WLAN if possible.</string>
+</resources>

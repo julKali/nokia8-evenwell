@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Услуга временске прогнозе</string>
+    <string name="fih_weather_permission_hint_1">За правилан рад ове апликације неопходна је додатна дозвола. Доделите дозволе које се траже.</string>
+    <string name="fih_weather_permission_hint_2">\"За правилан рад ове апликације неопходне су додатне дозволе. Управљајте у подешавањима дозволама услуге временске прогнозе.\"</string>
+    <string name="fih_weather_button_ok">У РЕДУ</string>
+    <string name="fih_weather_button_close">\"Затвори\"</string>
+    <string name="fih_weather_button_setting">\"Подешавања\"</string>
+    <string name="fih_weather_permission_success">\"Локација је дозвољена\"</string>
+    <string name="fih_weather_permission_failed">\"Дозвола је одбијена, локација је недоступна.\"</string>
+    <string name="fih_weather_notification_title">\"Услуга временске прогнозе захтева дозволе\"</string>
+    <string name="fih_weather_notification_text">Додирните да бисте дозволили</string>
+    <string name="fih_weather_notification_channel_title">Општа обавештења</string>
+</resources>

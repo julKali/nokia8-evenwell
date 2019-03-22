@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 secondes</item>
+        <item>30 secondes</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>Utiliser la valeur définie par le système</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>Luminosité automatique</item>
+        <item>Utiliser la valeur définie par le système</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>Performance</item>
+        <item>Stabilité</item>
+        <item>Interface utilisateur</item>
+        <item>"Effet d'économie d'énergie"</item>
+        <item>Autres problèmes</item>
+        <item>Suggestions</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_schedule_entries">
+        <item>10% de puissance batterie</item>
+        <item>15% de puissance batterie</item>
+        <item>20% de puissance batterie</item>
+        <item>30% de puissance batterie</item>
+        <item>40% de puissance batterie</item>
+    </string-array>
+</resources>

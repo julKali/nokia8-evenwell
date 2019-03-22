@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_capital_off">DESATIVAR</string>
+    <string name="abc_capital_on">ATIVAR</string>
+    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="accessibility_text">Acessibilidade</string>
+    <string name="app_name">Assistente de configuração</string>
+    <string name="available_via_passpoint">Disponível via %1$s</string>
+    <string name="connected_via_passpoint">Conectado via %1$s</string>
+    <string name="connected_via_wfa">Conectado via assistente de wi‑fi</string>
+    <string name="datausage_dialog_negitive_btn">Cancelar</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="expand_button_title">Avançado</string>
+    <string name="hmd_legal_message">"Termos de serviço 
+ 
+Data de vigência: 14 de outubro de 2016 
+ 
+1. Aceitação 
+Estes Termos de Serviço e Política de Privacidade da HMD Global, além de todos os termos e informações adicionais que podem ser fornecidos com o Serviço (conjuntamente “Termos”), regem seu uso do serviço, do site, do conteúdo e do software (conjuntamente, o Serviço). O registo ou a utilização do Serviço ou de qualquer parte do mesmo constitui a aceitação dos presentes Termos por parte do Utilizador. 
+ 
+Os presentes Termos constituem um contrato entre você e a HMD Global Oy, com endereço em Bertel Jungin aukio 9, 02610 Espoo, Finlândia, incluindo as respetivas subsidiárias e fornecedores (conjuntamente, HMD Global), os quais definem seus direitos e responsabilidades, bem como os direitos e responsabilidades da HMD Global com relação ao Serviço. 
+ 
+2. Qualificação 
+Para usar o Serviço, você deve ter, no mínimo, 13 (treze) anos de idade. Se tiver 13 (treze) anos de idade ou menos, mas for considerado menor de idade no local onde reside, o seu pai ou tutor legal deverá aceitar o seu registro em seu nome e aprovar a sua utilização do Serviço. O responsável pelo registro deve ter capacidade jurídica para o efeito. 
+ 
+3. Registro e rescisão 
+Para usar o Serviço, é necessário que você se registre e crie uma conta HMD com nome de usuário e senha, a qual pode estar sujeita a termos distintos. Pode ser necessário que você nos forneça algumas informações pessoais, entre outras. A HMD Global pode verificar seu endereço de e-mail antes que sua conta HMD possa ser usada. No primeiro uso de seu dispositivo e sempre que você atualizar o software do dispositivo Nokia, uma mensagem de texto será enviada para a HMD Global. A criação da conta HMD precisará de transmissão de dados. Sujeito à cobrança de custos de transmissão de dados. 
+ 
+Você concorda em fornecer informações verdadeiras e completas ao se registrar no Serviço, além de manter as informações atualizadas. Você deve tomar o cuidado devido para proteger seu nome de usuário e senha do uso incorreto por terceiros, além de notificar imediatamente a HMD Global sobre qualquer uso indevido. Você, seus pais ou o tutor legal, caso você seja menor de idade, são pessoalmente responsáveis por qualquer uso do Serviço. 
+ 
+Você pode rescindir seu registro se não desejar usar mais o Serviço. Após a rescisão, você não terá mais acesso ao Serviço. A HMD Global pode rescindir seu registro ou restringir seu acesso a determinadas partes do Serviço se acreditar razoavelmente que você infringiu os Termos ou, com aviso prévio, se você não tiver se conectado ao Serviço com seu nome de usuário pelos últimos seis (6) meses. 
+ 
+Salvo quando declarado na Política de Privacidade, a HMD Global não será responsabilizada pela remoção nem pela perda de informações ou de conteúdo enviados ao Serviço. Quando as informações ou o conteúdo são removidos do Serviço por você ou pela HMD Global, traços ou cópias ainda podem permanecer em outros locais. 
+ 
+4. Licenças 
+A HMD Global concede a você uma licença não exclusiva e intransferível, revogável a qualquer momento a critério exclusivo da HMD Global, de acesso e uso do Serviço estritamente de acordo com os Termos. O uso do Serviço não concede a você direitos de propriedade intelectual sobre qualquer informação ou conteúdo no Serviço. 
+ 
+Como parte do Serviço, a HMD Global pode fornecer a você conteúdo desenvolvido pela HMD Global ou suas licenciadoras (“Conteúdo”). A HMD Global concede a você uma licença não exclusiva e sem prazo determinado para utilizar o Conteúdo para os fins aos quais se destina, salvo se de outro modo definido nos Termos aplicáveis ou no pedido de compra. Algumas partes do Conteúdo podem estar disponíveis apenas para os residentes de determinadas áreas geográficas. Você está vinculado a quaisquer restrições aplicáveis a um Conteúdo específico obtido pelo Serviço. Qualquer licença adquirida para o Conteúdo terceirizado é um acordo vinculativo entre você e o fornecedor de Conteúdo terceirizado. Você tem direito somente ao Conteúdo expressamente concedido neste instrumento. 
+ 
+Como parte do Serviço, a HMD Global pode fornecer a você um software específico desenvolvido pela HMD Global ou suas licenciadoras (“Software”). Seu uso do Software pode estar sujeito a termos e condições diferentes, que você deve aceitar antes de usar o Software. Caso não haja termos e condições diferentes aplicáveis a esse Software, os seguintes termos se aplicam: A HMD Global concede a você um direito limitado, não exclusivo e intransferível de instalar e usar o Software em seu computador e/ou dispositivo móvel. Você não pode copiar o Software, salvo para fazer uma única cópia de backup de arquivo. Você não pode distribuir nem transferir o direito de uso, além de não poder modificar, traduzir, reproduzir, revender, sublicenciar, alugar, locar, realizar engenharia reversa ou tentar descobrir o código-fonte do Software nem criar produtos derivados dele. Para software livre licenciado, os termos de licença de software livre podem se aplicar. Seu uso do Software indica sua aceitação dos termos e condições aplicáveis. 
+ 
+O Software pode estar sujeito ao controle de exportações de acordo com as Regulamentações da Administração para a Exportação dos Estados Unidos e outras regulamentações de controle de importação e exportação. Você concorda em cumprir rigorosamente todas as regulamentações de importação e exportação aplicáveis, além de reconhecer que é responsável pela obtenção de licenças para exportar, reexportar, transferir ou importar o Software. 
+ 
+Você deve ser capaz de enviar informações ou conteúdo (“Material”) para o Serviço. A HMD Global não reivindica propriedade de seu Material. Seu envio de Material não transfere a propriedade de direitos do Material para a HMD Global. A HMD Global apenas transmite o Material e não é responsável pelo controle editorial dele. Ao enviar Material para o Serviço, você concede à HMD Global um licença mundial não exclusiva, sub-licenciável, atribuível, totalmente paga, sem direito a royalties, perpétua e irrevogável de uso, cópia, reprodução pública, exibição, distribuição em qualquer meio, além de modificação do Material para a incorporação dele em outros produtos, além de conceder sublicenças similares conforme o necessário para que a HMD Global forneça o Serviço. Você poderá ajustar essa concessão na configuração de privacidade e em outras configurações do Serviço. 
+ 
+Você é o único responsável pela realização de cópias de backup dos dados armazenados no Serviço, incluindo o Conteúdo enviado. Se o Serviço for descontinuado ou cancelado, a HMD Global pode excluir permanentemente seus dados. A HMD Global não tem obrigação de devolver os dados após a suspensão ou a descontinuação do Serviço. 
+ 
+5. Uso do serviço 
+Você concorda em: 
+• Cumprir as leis aplicáveis, os Termos e as práticas recomendadas; 
+• Usar o Serviço apenas para fins pessoais e não comerciais; 
+• Não enviar Material ilegal, ofensivo, impreciso, enganoso, abusivo, pornográfico, importuno, difamatório ou de outro modo inadequado; 
+• Obter as autorizações, permissões ou licenças que podem ser legalmente exigidas a você ao enviar qualquer Material; 
+• Respeitar a privacidade dos demais; 
+• Não distribuir nem publicar spam, arquivos exageradamente grandes, correntes de cartas, esquemas de pirâmide, vírus; 
+• Não usar outras tecnologias nem iniciar outras atividades que possam danificar o Serviço, o interesse ou a propriedade dos usuários do Serviço. 
+• Não usar meios ou sistemas automatizados para acessar, adquirir, copiar ou monitorar qualquer parte do Serviço; e 
+• Aceitar a responsabilidade pelas consequências relacionadas ao Material publicado. 
+ 
+A HMD Global pode, mas não tem obrigação de: 
+• Monitorar ou moderar qualquer Conteúdo ou Material; 
+• Remover qualquer Material do Serviço; e 
+• Restringir o acesso a qualquer parte do Serviço a qualquer momento, a seu critério exclusivo. 
+ 
+6. Conteúdo 
+Antes de baixar ou acessar o Conteúdo, verifique se o Conteúdo que você deseja acessar tem restrições de idade ou está identificado como potencialmente ofensivo ou explícito. 
+ 
+A HMD Global não será responsável por quaisquer reivindicações ou ofensas causadas ou sofridas por você durante o acesso ao Conteúdo. 
+ 
+Você concorda em: 
+• Usar o Conteúdo apenas para fins pessoais e não comerciais; 
+• Usar o Conteúdo de acordo com as restrições definidas pelas leis aplicáveis, termos adicionais, diretrizes e nas políticas ou páginas do produto que se aplicam a uma parte específica do Conteúdo; 
+• Não copiar, dar, vender, revender, alugar, locar, oferecer, transmitir, enviar, distribuir, transferir, comunicar para o público, reproduzir, modificar, exibir, apresentar, explorar comercialmente nem disponibilizar o Conteúdo salvo se de outro modo expressamente autorizado nos Termos aplicáveis, além de comunicar prontamente a HMD Global a respeito de qualquer uso não autorizado; 
+• Não remover, driblar, realizar engenharia reversa, decifrar ou de outro modo alterar ou interferir em quaisquer normas de uso aplicáveis, ou tentar driblar recursos de gerenciamento de direitos digitais ou de proteção contra cópia associados ao Conteúdo ou a quaisquer outras tecnologias usadas para controlar o acesso ou uso do Conteúdo ou de suas informações de identificação; 
+• Não usar meios ou sistemas automatizados, salvo os fornecidos por nós, para selecionar ou baixar o Conteúdo; e 
+• Não informar sua senha ou de outro modo permitir que outras pessoas acessem o Conteúdo. As restrições de cópia que se aplicam às mídias aplicáveis também se aplicam ao Conteúdo acessado como parte desse Serviço. 
+ 
+O Conteúdo é de propriedade/controlado pela HMD Global e/ou suas respectivas licenciadoras, além de ser protegido por leis de propriedade intelectual. O provedor de Conteúdo terceirizado é o único responsável por qualquer Conteúdo fornecido, por quaisquer garantias, na medida em que elas não tenham sido renunciadas, ou por quaisquer reivindicações relacionadas ao Conteúdo ou a seu uso do Conteúdo. No entanto, a HMD Global pode fazer cumprir os termos da licença do Conteúdo terceirizado por você, na qualidade de beneficiário terceirizado desses termos. Os provedores de Conteúdo terceirizado são beneficiários terceirizados sob esses Termos e podem fazer cumprir as disposições que dizem respeito diretamente ao Conteúdo aos quais eles têm direito. A HMD Global pode atuar como um agente para o provedor de Conteúdo terceirizado ao fornecer o Conteúdo a você. A HMD Global não é parte da transação entre você e o provedor de Conteúdo terceirizado relativa ao referido Conteúdo. 
+ 
+7. Alegações de violação de direitos autorais 
+A HMD Global respeita os direitos de propriedade intelectual de terceiros. Caso você deseje enviar um aviso de violação de propriedade intelectual, incluindo reclamações sobre violação de direitos autorais, utilize os nossos procedimentos para enviar Notificações de Violação. TODAS AS DÚVIDAS IRRELEVANTES PARA ESTE PROCEDIMENTO NÃO RECEBERÃO RESPOSTA. 
+ 
+A HMD Global utiliza os processos estabelecidos no Título 17 do Código dos Estados Unidos, Seção 512 para responder a notificações de violação de direitos autorais. Em circunstâncias adequadas, a HMD Global também pode desabilitar ou cancelar contas de usuários de serviços da HMD Global que sejam infratores reincidentes. 
+ 
+8. Avisos 
+A HMD Global pode publicar avisos no Serviço. A HMD Global também pode enviar avisos sobre os produtos e serviços para o endereço de e-mail ou número de telefone fornecido. Será considerado que você recebeu esses avisos nos últimos 7 (sete) dias do envio ou publicação pela HMD Global. Seu uso continuado do Serviço constitui seu recebimento de todos os avisos, independentemente do método de entrega. 
+ 
+9. Taxas 
+Seu uso do Serviço pode estar ou se tornar sujeito a cobranças. 
+ 
+Quaisquer taxas cobradas pela HMD Global relacionadas ao Serviço serão anunciadas separadamente. 
+ 
+O uso do Serviço pode envolver a transmissão de dados através de sua operadora. Os preços relacionados no Serviço não incluem as possíveis transmissões de dados, mensagens de texto, voz ou outras taxas de fornecimento de serviço por sua operadora. 
+ 
+A HMD Global não assume responsabilidades pelo pagamento de qualquer cobrança de sua operadora. 
+ 
+10. Pedido e termos de pagamento 
+Pedido significará a seleção de Conteúdo sujeito a pagamento e/ou assinatura do Conteúdo oferecida pela HMD Global e disponibilizado no Serviço, além de envio de forma de pagamento e envio do pedido por meio da seleção de comprar, ok, aceito ou outras confirmações semelhantes de aceitação no fluxo de pedido ou no fornecimento de outras indicações de termos de aceitação que forem apresentados a você no fluxo do pedido. 
+ 
+Para fazer um Pedido no Serviço, você deve ter alcançado a idade de capacidade legal ou maioridade de acordo com a legislação aplicável. Caso não tenha atingido a idade de capacidade legal ou maioridade, você pode fazer Pedidos somente com o consentimento prévio de um pai ou tutor legal. 
+ 
+Você concorda que todos os Pedidos devem ser legalmente válidos e vinculativos. Todos os Pedidos estão sujeitos à aceitação da HMD Global. 
+ 
+Você pode pagar com cartão de crédito ou débito, faturamento pelo provedor de serviços de internet ou outras formas de pagamento, se disponíveis. 
+ 
+Seu cartão de crédito ou débito deve ter um endereço de faturamento no país onde o Conteúdo é oferecido pelo Serviço. A HMD Global fará uma cobrança em seu cartão de crédito ou debitará de sua conta bancária em um prazo razoável após a realização do Pedido. Todos os pagamentos de cartão de crédito estão sujeitos a verificações de validação e autorização pela bandeira do cartão. 
+ 
+Caso você escolha o faturamento pelo provedor de serviço de rede, elas serão exibidas em sua conta de telefone celular ou serão deduzidas de sua conta pré-paga, caso se trate de uma conta pré-paga. Alguns provedores de serviço de rede podem sujeitar o uso do Serviço a termos e condições adicionais, incluindo a imposição de limite na quantidade de cobranças possíveis no faturamento do provedor de serviço de rede. Cobranças que excedam os limites do provedor de serviços de rede ou o saldo da conta podem ser rejeitadas. 
+ 
+Você concorda em pagar as cobranças relativas ao seu Pedido, assegurar que o instrumento de pagamento seja válido no momento do Pedido, que você é o titular de direito do instrumento e que o instrumento está sendo usado dentro dos limites de crédito. 
+ 
+O Conteúdo fornecido e licenciado a você. Você concorda em usar o referido Conteúdo exclusivamente conforme permitido nestes Termos e em quaisquer termos adicionais que possam ser apresentados no fluxo do pedido. 
+ 
+O Serviço pode oferecer assinaturas. Você autoriza o Serviço a fazer uma cobrança periódica durante o período da assinatura. O Serviço também pode oferecer um período experimental. Caso seu Pedido envolva um período experimental (também conhecido como experimente e compre), pode ser realizada uma cobrança ao fim do período, salvo se você o cancelar de acordo com os termos de assinatura/período experimental. 
+ 
+Os preços no Serviço podem ser alterados periodicamente. Os preços incluem as tarifas aplicáveis em vigor no momento de sua transação, salvo se de outra forma declarado. Podem haver situações em que cobranças adicionais sejam feitas por seu banco ou sua bandeira de cartão de crédito, com base nas taxas de câmbio utilizadas e/ou tarifas adicionais avaliadas. A HMD Global não assume responsabilidade pelo pagamento de qualquer cobrança ou tarifa bancária ou de serviços terceirizados. 
+ 
+11. Cancelamentos e Reembolsos 
+Você concorda com o início da entrega eletrônica do Conteúdo concomitantemente à realização do Pedido. Você não poderá cancelar seu Pedido após o processamento. Devido à natureza do Conteúdo, ele não pode ser devolvido. 
+ 
+Após a realização do Pedido, caso você descubra e informe imediatamente a HMD Global dentro de 48 horas que (a) o Conteúdo do pedido está defeituoso; (b) o Conteúdo fornecido pela HMD Global não corresponde à descrição do Conteúdo solicitado por meio do Serviço; ou (c) problemas técnicos atrasaram ou impediram a entrega de seu Conteúdo ou foram feitos múltiplos pedidos acidentais devido a esses problemas técnicos, seu único e exclusivo recurso com relação ao Conteúdo será a substituição dele ou o reembolso do preço pago pelo Conteúdo, conforme determinado a critério exclusivo da HMD Global. 
+ 
+Caso contrário, reembolsos não são disponibilizados. Caso você se depare com um dos problemas acima, entre em contato com Atendimento ao Cliente HMD Global. 
+ 
+Observe que o Atendimento ao Cliente HMD Global pode não ser capaz de processar sua solicitação de suporte se você não fornecer a ID de sua transação, fornecida a você pela HMD Global após seu Pedido do Serviço. A HMD Global pode processar somente reembolsos do Conteúdo nos quais o preço total está acima do limite monetário estipulado na legislação local aplicável. 
+ 
+12. Feedback à HMD Global 
+Ao enviar quaisquer ideias, comentários e/ou propostas (\"Feedback \") à HMD Global através do Serviço ou outros meios, você reconhece e concorda que: (1) a HMD Global pode ter ideias de desenvolvimento semelhantes ao Feedback; (2) seu Feedback não contém informações confidenciais ou exclusivas referente a você ou a terceiros; (3) A HMD Global não está sujeita a nenhuma obrigação de confidencialidade com relação ao Feedback; (4) A HMD Global pode utilizar, distribuir, explorar e ainda desenvolver e modificar livremente o Feedback para qualquer finalidade; E (5) você não tem direito a compensações de qualquer espécie por parte da HMD Global. 
+ 
+13. Atividades Sociais e Compartilhamento de Localização 
+Você pode usar os recursos no Serviço para compartilhar sua localização, status, conteúdo, Materiais ou informações pessoais, ou usá-los para interagir com outros usuários, sites e serviços. Ao utilizar esses recursos, você concorda que a HMD Global pode usar e fornecer informações para outros serviços e pessoas com as quais você escolheu interagir ou compartilhar essas informações. Os usuários desses serviços e pessoas, como seus contatos, podem ver sua localização, seu status e/ou suas informações pessoais. Ao utilizar esses recursos, você concorda em não compartilhar informações, Conteúdo ou Material, além de não vinculá-los a nenhum serviço ou site que: (a) contenha conteúdo ou outros materiais ilegais ou inadequados; ou (b) explore direitos de propriedade intelectual sem autorização ou encoraje os usuários a praticar pirataria. Qualquer interação não envolve a HMD Global e refere-se exclusivamente a você e o(s) outro(s) usuário(s). 
+ 
+14. Disponibilidade e Exigências Técnicos 
+A disponibilidade do Conteúdo e do Serviço pode variar e está sujeita ao critério exclusivo da HMD Global. A HMD Global se isenta expressamente de qualquer declaração ou garantia de que um Conteúdo ou Serviço específico estará disponível. O Serviço pode não estar disponível em todos os países e pode ser fornecido somente nos idiomas selecionados. O Serviço, as operações e alguns recursos também podem depender da rede, da compatibilidade dos dispositivos utilizados e dos formatos de conteúdo suportados. 
+ 
+Para acessar o Serviço, pode ser necessário baixar uma parte específica do software desenvolvida pela HMD Global ou por terceiros. 
+ 
+A HMD Global poderá, a seu exclusivo critério, alterar, corrigir ou descontinuar o Serviço parcial ou totalmente. O Serviço pode não estar disponível durante interrupções para manutenção e outros momentos. Para assegurar que você tenha o software e os aplicativos mais recentes do dispositivo, seu dispositivo pode verificar automaticamente a disponibilidade das atualizações de software da HMD Global. Se alguma instalação for detectada, será solicitado que você a aprove. Você pode desativar a verificação automática de atualizações nas configurações de seu dispositivo. Você também pode instalar o software por meio de canais disponíveis de atualização de software. Se a HMD Global considerar importante ou crítica uma atualização de Software você não poderá continuar a utilizar a versão anterior do Software. A HMD Global pode impedir que você use uma versão anterior do Software ou Serviço até que você instale a atualização. 
+ 
+A HMD Global pode desativar qualquer Conteúdo ou Software contido em sua conta de Serviço por qualquer motivo, bem como remover qualquer Conteúdo ou Software e/ou desativar cópias de qualquer aplicativo em seu dispositivo para proteger o Serviço, provedores de aplicativo, operadoras de rede sem fio das redes pelas quais você acessa o serviço ou qualquer outra parte afetada ou possivelmente afetada. 
+ 
+Um serviço específico pode ser uma versão pré-lançamento como, por exemplo, uma versão beta, e pode não funcionar da mesma maneira que a versão final. A HMD Global pode alterar significativamente qualquer versão do Serviço ou Software, ou decidir não lançar a versão final. 
+ 
+15. Links para sites e conteúdo de terceiros 
+A HMD Global pode incluir o acesso a sites e serviços na Internet ou disponibilizar serviços pré-carregados que permitem que você interaja com sites e serviços de propriedade ou operados por terceiros que não sejam parte do Serviço. Você deve analisar e concordar com os termos e condições desses sites ou serviços antes de usá-los. 
+ 
+A HMD Global não controla o conteúdo, os sites ou os serviços de terceiros, além de não assumir responsabilidade pelos serviços fornecidos ou material criado ou publicado nesses sites ou serviços de terceiros. Um link para um site de terceiros não significa que a HMD Global endossa os sites, produtos ou serviços referenciados no site. 
+ 
+Além disso, você e outros usuários podem criar conteúdo e links para o conteúdo dentro do Serviço que ainda não tenha sido enviados a ele. A HMD Global não é responsável por esse tipo de conteúdo ou links. 
+ 
+16. Propagandas 
+O Serviço pode incluir propagandas. As propagandas podem ser direcionadas ao conteúdo ou às informações armazenadas no Serviço, às consultas feitas pelo Serviço ou a outras informações. 
+ 
+17. Dados pessoais 
+A Política de Privacidade e outras informações de privacidade disponibilizadas para você regem a utilização de seus dados pessoais. 
+ 
+18. Limitação da responsabilidade 
+O Serviço é fornecido “NO ESTADO EM QUE SE ENCONTRA” e “CONFORME A DISPONIBILIDADE”. A HMD Global não garante que o Serviço será ininterrupto ou sem erros ou vírus. Nenhuma garantia de qualquer espécie, expressa ou tácita, incluindo, entre outras, as garantias de título, não violação, comercialização ou adequação para uma finalidade específica é oferecida com relação à disponibilidade, à precisão, à confiabilidade, às informações ou ao conteúdo do Serviço. Você concorda e reconhece expressamente que o uso do Serviço será feito a seu risco exclusivo e que você pode ser exposto a conteúdos de diferentes fontes. 
+ 
+Salvo pela responsabilidade por morte ou lesão corporal causada por negligência ou dolo, em hipótese alguma a HMD Global será responsável por qualquer dano indireto, emergente, punitivo ou imprevisto da utilização ou incapacidade de utilização do Serviço. 
+ 
+19. Indenização 
+Você concorda em defender e indenizar a HMD Global contra quaisquer alegações de terceiros, bem como contra todas as responsabilidades, apurações, perdas, custos ou danos decorrentes (i) de seu descumprimento dos Termos, (ii) de sua infração ou violação de qualquer direito de propriedade intelectual, outros direitos ou privacidade de terceiros, ou (iii) do uso incorreto do Serviço por terceiros, sendo que esse uso incorreto tenha sido possibilitado por sua falha em tomar providências razoáveis para proteger seu nome de usuário e senha contra esse uso incorreto. 
+ 
+20. Disposições Diversas 
+ 
+20.1 Escolha de Leis 
+Os Termos são regidos pelas leis da Finlândia, sem consideração a seus conflitos de disposições legais. 
+ 
+20.2 Validade 
+Os Termos não excluem nem limitam nenhum dos direitos obrigatórios em seu país de residência, aos quais, por lei, não puderem ser renunciados. Se uma disposição dos Termos for considerada inválida, as outras não serão afetadas por ela e a disposição inválida será substituída por uma disposição válida mais próxima do resultado e propósito dos Termos. Caso uma ou mais disposições desses Termos não sejam relevantes a seu uso do Serviço, ela não deverá afetar a validade ou aplicabilidade de qualquer outra disposição dos Termos ou dos Termos por completo. Caso haja conflito entre esses Termos de Serviço da HMD Global e a Política de Privacidade, as disposições dos Termos de Serviço da HMD Global prevalecerão. As disposições dos Termos destinadas a subsistir a rescisão permanecerão válidas após a rescisão. 
+ 
+20.3 Alterações dos Termos 
+A HMD Global pode modificar os Termos a qualquer momento, sem aviso prévio. Caso os Termos sejam alterados de forma substancial e adversa, a HMD Global fornecerá um aviso distinto notificando a alteração. 
+ 
+Você é responsável por analisar regularmente os Termos. Seu uso continuado do Serviço constitui seu consentimento com qualquer alteração e modificação. 
+ 
+21. Propriedade Intelectual 
+O Serviço, o Conteúdo e o Software são protegidos segundo as leis de direitos autorais internacionais. A HMD Global reivindica direitos autorais de seu Serviço, Conteúdo e Software no limite máximo da lei. Sujeita aos Termos, a HMD Global detém todo o direito, titularidade e participação no Serviço, Conteúdo, Software e em todos os outros produtos da HMD Global, software e outras propriedades fornecidos a você ou utilizados por você por meio do Serviço. 
+ 
+22. Cessão 
+A HMD Global pode ceder a sua matriz, qualquer uma de suas subsidiárias ou a qualquer empresa sob controle comum da HMD Global seus direitos e obrigações em conformidade com os presentes Termos. Além disso, a HMD Global pode ceder seus direitos e obrigações a terceiros em conformidade com os presentes Termos com relação a uma fusão, aquisição, venda de ativos, por força da lei ou de outro modo."</string>
+    <string name="hmd_user_experience_program_message">Sua participação no programa de experiência do usuário ajuda a HMD Global a entender melhor o que você gostaria com relação ao dispositivo Nokia e o que você pensa que é preciso melhorar. Periodicamente, nós podemos receber dados anônimos com características técnicas sobre seu dispositivo, como, por exemplo, um arquivo com dados sobre um travamento de software que possa ter ocorrido. Note que tais dados não serão transmitidos por uma conexão celular. Nós adoramos ouvir sua opinião sobre seu dispositivo Nokia!</string>
+    <string name="hmd_user_experience_program_title">Programa de experiência do usuário</string>
+    <string name="insert_sim_cards">Insira cartões SIM</string>
+    <string name="insert_sim_cards_prompt_content">"Ainda não sabe como? Consulte as instruções que acompanham seu telefone.
+
+Assim que você inserir seus cartões SIM, eles não levarão mais do que alguns segundos para serem ativados."</string>
+    <string name="language_selection_cancel_btn">CANCELAR</string>
+    <string name="language_selection_title">Escolha seu idioma</string>
+    <string name="light_room_description">%1$s oferece suporte à captura de imagens RAW (DNG). Você pode editar as imagens diretamente no seu novo smartphone graças à nossa parceria com a Adobe.&lt;br/>&lt;br/>Baixe o Adobe Photoshop Lightroom CC da loja do Google Play agora.</string>
+    <string name="light_room_title">Apaixonado por fotografia?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="nevigation_selection_back">Voltar</string>
+    <string name="next_btn_lebel">PRÓXIMO</string>
+    <string name="not_now">AGORA NÃO...</string>
+    <string name="passpoint_content">Credenciais de %1$s</string>
+    <string name="passpoint_label">Salvo via</string>
+    <string name="please_select_phase2">Autenticação da Fase 2</string>
+    <string name="proxy_error_empty_host_set_port">O campo da porta deverá estar vazio se o campo do host estiver vazio.</string>
+    <string name="proxy_error_empty_port">É necessário preencher o campo da porta.</string>
+    <string name="proxy_error_invalid_exclusion_list">A lista de exclusão que você digitou não está devidamente formatada. Digite uma lista separada por vírgulas de domínios excluídos.</string>
+    <string name="proxy_error_invalid_port">A porta digitada não é válida.</string>
+    <string name="proxy_exclusionlist_label">Evitar proxy para</string>
+    <string name="proxy_hostname_label">Nome do host do proxy</string>
+    <string name="proxy_port_label">Porta do proxy</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"URL do PAC: "</string>
+    <string name="proxy_warning_limited_support">O proxy HTTP é usado pelo navegador, mas não pode ser usado por outros apps.</string>
+    <string name="saved_network">Salvo por %1$s</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="select_sim_card">Selecionar chip</string>
+    <string name="setup_complete_hmd">Você está pronto para prosseguir...</string>
+    <string name="setup_complete_hmd_1">Você está quase pronto para ir...!</string>
+    <string name="setup_finish">VAMOS</string>
+    <string name="sim_editor_title">Slot para chip %1$d</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Concordo</string>
+    <string name="upload_agent_hmd_des_text_2">"Inscreva-se no programa de Experiência do Usuário Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Saiba mais.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"Ao tocar em \"VAMOS\", você concorda em participar do Programa de Experiência do Usuário. &lt;a href='launch.UserExperienceActivity://Kode'>Saiba mais&lt;/a>. Lembre-se: você sempre poderá entrar depois via Configurações."</string>
+    <string name="v7_preference_off">DESATIVADO</string>
+    <string name="v7_preference_on">ATIVADO</string>
+    <string name="welcome_hmd_term_of_use_2">"Tocar na seta representa sua aceitação dos &lt;a href='launch.TermOfServiceActivity://Kode'>Termos de Serviço&lt;/a> e da &lt;a href='launch.AddUploadAgentHandler://Kode'>Política de Privacidade&lt;/a>. As informações de ativação do dispositivo com a única localização do dispositivo serão enviadas para a HMD Global. Podem ser aplicadas taxas de dados."</string>
+    <string name="welcome_hmd_term_of_use_4">"Tocar no botão representa sua aceitação dos &lt;a href='launch.TermOfServiceActivity://Kode'>Termos de Serviço&lt;/a> e da &lt;a href='launch.AddUploadAgentHandler://Kode'>Política de Privacidade&lt;/a>. As informações de ativação do dispositivo com a única localização do dispositivo serão enviadas para a HMD Global.&lt;br/>&lt;br/>A notificação de atualização automática do software será habilitada e instalará as atualizações mais recentes para você. Isso pode usar um pequeno pedaço do seu orçamento de dados. Os serviços acessarão a Internet sempre que precisarem.&lt;br/>&lt;br/>Por esses serviços serão cobrados excedentes quando acessarem as redes de celulares."</string>
+    <string name="welcome_hmd_term_of_use_5">"Ao tocar no botão, você concorda com os &lt;a href='launch.TermOfServiceActivity://Kode'>Termos de Serviço&lt;/a>. As informações de ativação do dispositivo com a única localização do dispositivo serão enviadas para a HMD Global. Podem ser aplicadas taxas de dados. Os dados serão usados de acordo com a &lt;a href='launch.AddUploadAgentHandler://Kode'>Política de Privacidade&lt;/a>."</string>
+    <string name="welcome_lets_go_button_label">Vamos</string>
+    <string name="welcome_vision_settings_button_label">Configurações da visão</string>
+    <string name="wifi_add_network">Adicionar rede</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Lista suspensa Opções avançadas. Toque duas vezes para expandir.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Lista suspensa Opções avançadas. Toque duas vezes para recolher.</string>
+    <string name="wifi_and_mobile_skipped_message">"Conectar-se a uma rede ajuda a configurar rapidamente seu telefone.
+
+Sem conexão você não poderá:
+
+"<li>Entrar na sua conta na nuvem</li>"
+
+"<li>Obter atualizações de software</li>"
+
+"<li>Configurar automaticamente data e hora</li></string>
+    <string name="wifi_auth_password_wrong">A senha pode estar incorreta</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Cancelar</string>
+    <string name="wifi_certificate">Certificado</string>
+    <string name="wifi_connect">Conectar</string>
+    <string name="wifi_connected_no_internet">Conectado, sem Internet</string>
+    <string name="wifi_disabled_generic">Desativado</string>
+    <string name="wifi_disabled_network_failure">Falha de configuração do IP</string>
+    <string name="wifi_disabled_password_failure">Problema de autenticação</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Não fornecer</string>
+    <string name="wifi_do_not_validate_eap_server">Não validar</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nenhum certificado especificado. Sua conexão não será particular.</string>
+    <string name="wifi_dont_skip">VOLTAR</string>
+    <string name="wifi_eap_anonymous">Identidade anônima</string>
+    <string name="wifi_eap_ca_cert">Certificado CA</string>
+    <string name="wifi_eap_domain">Domínio</string>
+    <string name="wifi_eap_identity">Identidade</string>
+    <string name="wifi_eap_method">Método EAP</string>
+    <string name="wifi_eap_user_cert">Certificado do usuário</string>
+    <string name="wifi_fail_to_scan">Não é possível procurar redes</string>
+    <string name="wifi_failed_connect_message">Falha ao conectar-se com a rede</string>
+    <string name="wifi_failed_forget_message">Falha ao esquecer a rede</string>
+    <string name="wifi_failed_save_message">Falha ao salvar a rede</string>
+    <string name="wifi_forget">Esquecer</string>
+    <string name="wifi_frequency">Frequência</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_ip_address">Endereço IP</string>
+    <string name="wifi_ip_settings">Configurações de IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Digite um endereço de DNS válido.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Digite um endereço de gateway válido.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Digite um endereço IP válido.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Digite um tamanho do prefixo de rede entre 0 e 32.</string>
+    <string name="wifi_multiple_cert_added">(Vários certificados adicionados)</string>
+    <string name="wifi_network_prefix_length">Tamanho do prefixo de rede</string>
+    <string name="wifi_no_domain_warning">É necessário especificar um domínio.</string>
+    <string name="wifi_no_internet">Sem acesso à Internet</string>
+    <string name="wifi_no_internet_no_reconnect">Não vai se conectar automaticamente</string>
+    <string name="wifi_not_in_range">Fora do intervalo</string>
+    <string name="wifi_password">Senha</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_remembered">Salvo</string>
+    <string name="wifi_save">Salvar</string>
+    <string name="wifi_security">Segurança</string>
+    <string name="wifi_security_none">Nenhum</string>
+    <string name="wifi_setting_title">Conecte-se</string>
+    <string name="wifi_shared">Compartilhar com outros usuários do dispositivo</string>
+    <string name="wifi_show_advanced">Opções avançadas</string>
+    <string name="wifi_show_password">Mostrar senha</string>
+    <string name="wifi_signal">Intensidade do sinal</string>
+    <string name="wifi_skip_anyway">IGNORAR MESMO ASSIM</string>
+    <string name="wifi_speed">Velocidade do link</string>
+    <string name="wifi_ssid">Nome da rede</string>
+    <string name="wifi_ssid_hint">Digite o SSID</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_unchanged">(inalterado)</string>
+    <string name="wifi_unspecified">Selecione</string>
+    <string name="wifi_use_system_certs">Usar certificados do sistema</string>
+</resources>

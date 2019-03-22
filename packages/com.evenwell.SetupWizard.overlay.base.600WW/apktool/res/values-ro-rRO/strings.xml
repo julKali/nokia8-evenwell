@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"Dacă atingeți butonul, sunteți de acord cu &lt;a href='launch.TermOfServiceActivity://Kode'>Termenii serviciului&lt;/a> și cu &lt;a href='launch.AddUploadAgentHandler://Kode'>Politica de confidențialitate&lt;/a>. Informațiile privind activarea dispozitivului împreună cu locația dispozitivului vor fi trimise o singură dată la HMD Global.&lt;br/>&lt;br/>Notificările privind actualizarea automată a software-ului vor fi activate, acestea instalând cele mai recente actualizări pentru dvs. Acest lucru poate genera costuri pentru date. Serviciile vor accesa internetul atunci când este necesar.&lt;br/>&lt;br/>Aceste servicii vor aduce costuri suplimentare la accesarea rețelelor de date mobile."</string>
+    <string name="welcome_hmd_term_of_use_5">"Dacă atingeți butonul, sunteți de acord cu &lt;a href='launch.TermOfServiceActivity://Kode'>Termenii serviciului&lt;/a>. Datele dvs. vor fi prelucrate în conformitate cu &lt;a href='launch.AddUploadAgentHandler://Kode'>Politica de confidențialitate HMD&lt;/a>. Informațiile de activare a dispozitivului cu locația dispozitivului vor fi trimise o singură dată la HMD Global. Se pot aplica costuri pentru date mobile."</string>
+    <string name="welcome_vision_settings_button_label">Setări viziune</string>
+    <string name="next_btn_lebel">ÎNAINTE</string>
+    <string name="back_btn_lebel">ÎNAPOI</string>
+    <string name="finish_button_label">ÎNCHEIERE</string>
+    <string name="idle_too_long_toast">Acest telefon este inactiv de ceva vreme. Închideți-l pentru a economisi energia.</string>
+    <string name="welcome_message">Bine ați venit</string>
+    <string name="welcome_start_button_label">ÎNCEPERE</string>
+    <string name="emergency_dial_hmd_message">Urgență</string>
+    <string name="accessibility_text">Accesibilitate</string>
+    <string name="language_selection_cancel_btn">ANULAȚI</string>
+    <string name="term_agree_text">Acceptați</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="datausage_dialog_negitive_btn">Anulați</string>
+    <string name="date_and_time">Data &amp; setări oră</string>
+    <string name="date_time_auto">Dată automată &amp; oră</string>
+    <string name="date_time_auto_summaryOn">Utilizați ora furnizată de rețea</string>
+    <string name="date_time_auto_summaryOff">Utilizați ora furnizată de rețea</string>
+    <string name="zone_auto">Fus orar automat</string>
+    <string name="zone_auto_summaryOn">Utilizare fus orar furnizat de rețea</string>
+    <string name="zone_auto_summaryOff">Utilizare fus orar furnizat de rețea</string>
+    <string name="date_time_set_date">Setare date</string>
+    <string name="date_time_set_time">Setare oră</string>
+    <string name="date_time_set_timezone">Selectare fus orar</string>
+    <string name="date_time_24hour">Utilizați formatul de 24 de ore</string>
+    <string name="date_and_time_settings_title">Data &amp; ora</string>
+    <string name="nevigation_selection_back">Înapoi</string>
+    <string name="upload_agent_title">Program de experiență a utilizatorului</string>
+    <string name="setup_completed_congratulations">Felicitări!</string>
+    <string name="setup_complete_hmd">Sunteți gata...</string>
+    <string name="setup_complete_main">Sunteți</string>
+    <string name="setup_complete_sub">PREGĂTIT DE FUNCȚIONARE.</string>
+    <string name="hmd_user_experience_program_title">Program de experiență a utilizatorului</string>
+    <string name="hmd_user_experience_program_message">Participarea dvs. la programul de experiență a utilizatorului, ajută HMD Global să înțeleagă mai bine ce vă place la dispozitivul Nokia și ce credeți că ar trebui îmbunătățit. Există posibilitatea să primim periodic date anonime cu caracteristicile tehnice ale dispozitivului dvs., cum ar fi de exemplu un fișier cu date despre eroarea de software care s-ar fi produs. Vă rugăm să rețineți că datele respective nu vor fi transmise prin conexiune celulară. Ne-am bucura să ne împărtășiți părerea dvs. despre dispozitivul Nokia!</string>
+    <string name="skip_button_label">Omitere</string>
+    <string name="skip_add_account_button_label">Nu acum</string>
+    <string name="device_checking_message">Bine ați venit</string>
+    <string name="backup_and_restore_title">Backup și restabilire</string>
+    <string name="backup_and_restore_description">"Dacă ați făcut anterior backup la cont, îl puteți restabili pe acest telefon acum.
+
+Vă puteți schimba în orice moment setările de backup, din Setări."</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wapi_psk_security_type">Tipul parolei</string>
+    <string name="upload_agent_hmd_des_text_3">"Prin atingerea butonului \"SĂ ÎNCEPEM\", sunteți de acord să participați la Programul pentru utilizatori. &lt;a href='launch.UserExperienceActivity://Kode'>Aflați mai multe&lt;/a>. Rețineți: puteți să participați ulterior accesând Setări."</string>
+    <string name="setup_complete_hmd_1">Sunteți aproape gata să începeți!</string>
+    <string name="not_now">NU ACUM...</string>
+    <string name="setup_finish">SĂ ÎNCEPEM</string>
+    <string name="wifi_fail_to_scan">Scanarea de rețele nu este posibilă</string>
+    <string name="wifi_security_none">Niciuna</string>
+    <string name="wifi_remembered">Salvat</string>
+    <string name="wifi_disabled_generic">Dezactivat</string>
+    <string name="wifi_disabled_network_failure">Configurare IP eșuată</string>
+    <string name="wifi_disabled_password_failure">Problemă de autentificare</string>
+    <string name="wifi_not_in_range">Nu este în limite</string>
+    <string name="wifi_no_internet_no_reconnect">Conectarea automată nu se va realiza</string>
+    <string name="wifi_no_internet">Fără conexiune la internet</string>
+    <string name="saved_network">Salvat în funcție de %1$s</string>
+    <string name="connected_via_passpoint">Conectat prin %1$s</string>
+    <string name="available_via_passpoint">Disponibil prin %1$s</string>
+    <string name="wifi_connected_no_internet">Conectat, fără conexiune la internet</string>
+    <string name="wifi_auth_password_wrong">Parola este incorectă</string>
+    <string name="connected_via_wfa">Conectat prin asistentul Wi‑Fi</string>
+    <string name="wifi_ssid">Numele rețelei</string>
+    <string name="wifi_ssid_hint">Introduceți identificatorul SSID</string>
+    <string name="wifi_security">Securitate</string>
+    <string name="wifi_eap_method">Metodă EAP</string>
+    <string name="please_select_phase2">Autentificare faza 2</string>
+    <string name="wifi_eap_ca_cert">Certificat CA</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Niciun certificat specificat. Conexiunea nu va fi privată.</string>
+    <string name="wifi_eap_domain">Domeniu</string>
+    <string name="wifi_no_domain_warning">Trebuie să specificați un domeniu.</string>
+    <string name="wifi_eap_user_cert">Certificat utilizator</string>
+    <string name="wifi_eap_identity">Identitate</string>
+    <string name="wifi_eap_anonymous">Identitate anonimă</string>
+    <string name="wifi_password">Parolă</string>
+    <string name="wifi_show_password">Afișați parola</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Listă derulantă cu Opțiuni avansate. Atingeți de două ori pentru a extinde.</string>
+    <string name="wifi_show_advanced">Opțiuni avansate</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_warning_limited_support">Proxy-ul HTTP este utilizat de browser, dar nu poate fi utilizat de alte aplicații.</string>
+    <string name="proxy_url_title">"Adresă URL fișier PAC: "</string>
+    <string name="proxy_hostname_label">Nume de gazdă proxy</string>
+    <string name="proxy_exclusionlist_label">Evitați utilizarea unui proxy pentru</string>
+    <string name="wifi_ip_settings">Setări IP</string>
+    <string name="wifi_ip_address">Adresă IP</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_network_prefix_length">Lungime prefix rețea</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">Permiteți accesul și altor utilizatori ai dispozitivului</string>
+    <string name="proxy_port_label">Port proxy</string>
+    <string name="wifi_unspecified">Selectați</string>
+    <string name="wifi_multiple_cert_added">(Au fost adăugate mai multe certificate)</string>
+    <string name="wifi_use_system_certs">Folosiți certificate de sistem</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Nu se furnizează</string>
+    <string name="wifi_do_not_validate_eap_server">Nu se validează</string>
+    <string name="wifi_add_network">Adăugați rețea</string>
+    <string name="wifi_save">Salvați</string>
+    <string name="passpoint_label">Salvat prin</string>
+    <string name="wifi_connect">Conectare</string>
+    <string name="wifi_status">Stare</string>
+    <string name="wifi_signal">Putere semnal</string>
+    <string name="wifi_speed">Viteză</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Frecvență</string>
+    <string name="wifi_forget">Omiteți</string>
+    <string name="wifi_cancel">Anulați</string>
+    <string name="proxy_error_invalid_port">Portul introdus nu este valid.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Introduceți o adresă IP validă.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Introduceți prefix rețea format din 0 și 32 caractere.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Introduceți o adresă gateway validă.</string>
+    <string name="wifi_ip_settings_invalid_dns">Introduceți o adresă DNS validă.</string>
+    <string name="wifi_unchanged">(neschimbate)</string>
+    <string name="wifi_failed_connect_message">Nu s-a putut stabili conexiunea la rețea</string>
+    <string name="wifi_failed_save_message">Nu s-a putut salva rețeaua</string>
+    <string name="wifi_failed_forget_message">Nu s-a putut elimina rețeaua</string>
+    <string name="proxy_error_empty_host_set_port">Câmpul pentru port trebuie să fie necompletat în situația în care câmpul pentru gazdă este necompletat.</string>
+    <string name="proxy_error_empty_port">Trebuie să completați câmpul pentru port.</string>
+    <string name="proxy_error_invalid_exclusion_list">Lista de excludere introdusă nu este formatată corespunzător. Introduceți o listă de domenii excluse separate de virgulă.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Listă derulantă cu Opțiuni avansate. Atingeți de două ori pentru a restrânge.</string>
+    <string name="passpoint_content">Date de conectare la %1$s</string>
+    <string name="select_sim_card">Selectați cartela SIM</string>
+    <string name="sim_editor_title">Slot SIM %1$d</string>
+    <string name="wifi_certificate">Certificat</string>
+    <string name="wifi_setting_title">Conectați-vă</string>
+    <string name="wifi_skip_anyway">IGNORAȚI ORICUM</string>
+    <string name="wifi_dont_skip">ÎNAPOI</string>
+    <string name="wifi_and_mobile_skipped_message">"Conectarea la o rețea vă ajută să configurați rapid telefonul.
+
+Acest lucru este imposibil fără o conexiune:
+
+"<li>Conectați-vă la contul cloud</li>"
+
+"<li>Obțineți actualizări de software</li>"
+
+"<li>Configurați automat data și ora</li></string>
+</resources>

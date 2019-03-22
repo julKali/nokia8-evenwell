@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brand_name_en">Commtiva</string>
+    <string name="brand_name_local">康法</string>
+    <string name="app_name">系統診斷</string>
+    <string name="setting_page_name">使用者體驗計畫</string>
+    <string name="send_diag_dialog_any_network">有可用的數據連線時</string>
+    <string name="send_diag_dialog_wifi">有可用的Wi-Fi連線時</string>
+    <string name="send_diag_dialog_wlan">有可用的WLAN連線時</string>
+    <string name="send_diag_dialog_title">傳送診斷報告</string>
+    <string name="diagnostics_setting">診斷報告</string>
+    <string name="diagnostics_report">診斷報告</string>
+    <string name="diagnostics_report_summary">當設備出現軟體錯誤，發送診斷報告，可能會產生上網費用，建議可向電信業者申請上網資費方案。</string>
+    <string name="network_options">網路選項</string>
+    <string name="send_diagnostics">傳送診斷報告</string>
+    <string name="privacy_statement">隱私權聲明</string>
+    <string name="diagnostics_description">請協助我們改善產品與服務並准許我們在您遇到軟體錯誤或當機時收集診斷資料。您稍後可以在設定中修改這個選項。</string>
+    <string name="privacy_activity">隱私權聲明</string>
+    <string name="go_label">確認</string>
+    <string name="diagnostics_confirmation">是的，我同意自動發送診斷資料。</string>
+    <string name="setcomplete">設定完成</string>
+    <string name="agree_dialog">我們已經設計了新的使用者體驗計畫並修改相關的隱私權聲明。現在就加入使用者體驗計畫以協助我們改善產品與服務。 您可以隨時在設定中修改這個選項。加入使用者體驗計畫可能會產生上網費用，建議可向電信業者申請上網資費方案。</string>
+    <string name="agree">同意</string>
+    <string name="see_detail">查看詳情</string>
+    <string name="next_btn_lebel">下一頁</string>
+    <string name="privacy_context"><u>隱私權聲明</u>"
+ 我們注重對您個人隱私的保護。為了持續改善裝置上的軟硬體效能及穩定性，有時候我們需要搜集您裝置上的資訊，以利用這些資訊來進行改善，本隱私權聲明解釋了我們將如何收集及使用透過診斷機制所收集到的資訊。本隱私權聲明僅適用於透過診斷機制所收集到的資訊，不適用於透過其他方式收集到的資訊。 
+
+ 1.診斷機制的資訊收集
+ 當您裝置的程式、應用程式或硬體發生錯誤時，診斷機制會自動建立錯誤報告，將裝置的資訊包含在錯誤報告中，並透過數據連線或%1$s的方式將報告傳送給我們。如果您選擇透過數據連線方式傳送報告，您可能需要支付數據連線費用。此外我們也會利用上述方式收集並傳送給我們您使用手機的用量或狀態。這些收集來的資訊我們會加以彙總並分析，以做為未來改善軟硬體功能、效能及穩定性的準則。報告的內容將因性質而有所不同，且可能包含的資訊如下: 
+
+ •裝置 IMEI及序號
+ •軟體更新紀錄
+ •觸控螢幕及相機ISP 韌體版本
+ •電池ID號碼
+ •網路MCC/MNC資訊
+ •使用過的應用程式版本、序號
+ •應用程式操作時間、次數
+ •CPU使用資訊
+ •電池使用資訊
+ •%2$s使用資訊
+ •數據連線使用資訊
+ •通話時間
+ •錯誤發生時間
+ •錯誤記錄檔
+ •使用者個人資訊並可能包含電話號碼或E-mail帳號 
+
+ 2.資訊安全
+ 我們嚴格保護您的個人資訊的安全。我們使用各種安全技術和程序來保護您的個人資訊不被未經授權的檢視、使用或洩漏。例如您的資訊是儲存在安全可靠的網路上，伺服器是架設在進出入受管制的設施內，資訊限制為只有需要使用且經授權的員工才能存取。我們不會將您的資訊在任何目的下販賣給第三方團體。 
+
+ 3.關於免責
+ 就下列相關事宜的發生，我們不承擔任何法律責任：
+ a.根據法律規定或相關政府的要求提供您的個人資訊； 
+ b.任何由於黑客攻擊、病毒侵入或政府管制而造成的伺服器問題；
+
+ *我們會不時更新本隱私權聲明。更新時，我們會修改隱私權聲明的最近更新日期。 最後更新日期：2016年 5 月 20 日 "</string>
+</resources>

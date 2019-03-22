@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Máy khách CP</string>
+    <string name="fih_cp_apn_not_set">&lt;Chưa được đặt></string>
+    <string name="fih_cp_apply_dialog_body_msg">Bạn có muốn áp dụng cấu hình mới không?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Lần cấp phép mới</string>
+    <string name="fih_cp_btn_back">Quay lại</string>
+    <string name="fih_cp_btn_cancel">Hủy</string>
+    <string name="fih_cp_btn_next">Tiếp theo</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Loại xác thực</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Không</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP hoặc CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Cổng</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">Cổng MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Proxy của MMS</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Tên</string>
+    <string name="fih_cp_editor_apn_password">Mật khẩu</string>
+    <string name="fih_cp_editor_apn_server">Máy chủ</string>
+    <string name="fih_cp_editor_apn_type">Loại APN</string>
+    <string name="fih_cp_editor_apn_user">Tên người dùng</string>
+    <string name="fih_cp_error_apn_empty">Không để trống trường APN.</string>
+    <string name="fih_cp_error_name_empty">Không để trống trường Tên.</string>
+    <string name="fih_cp_error_other">Lỗi cú pháp dữ liệu.</string>
+    <string name="fih_cp_error_title">Chú ý</string>
+    <string name="fih_cp_input_pin_code">Nhập mã PIN:</string>
+    <string name="fih_cp_input_pin_code_cancel">Hủy</string>
+    <string name="fih_cp_input_pin_code_empty">Vui lòng nhập mã PIN.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Mã PIN không chính xác.</string>
+    <string name="fih_cp_input_pin_code_ok">Ok</string>
+    <string name="fih_cp_notification_channel_name">Thông báo chung</string>
+    <string name="fih_cp_notify_statusbar_content">Thông báo cấp phép mới</string>
+    <string name="fih_cp_sim_not_available">Thẻ SIM không khả dụng.</string>
+    <string name="fih_cp_toast_info_create">Tạo thành công cấu hình</string>
+    <string name="fih_cp_toast_info_update">Cập nhật thành công cấu hình</string>
+    <string name="fih_cp_ui_mode_delete">Xóa</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Hoãn</string>
+</resources>

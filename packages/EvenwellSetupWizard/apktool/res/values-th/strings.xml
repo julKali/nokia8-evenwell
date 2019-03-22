@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="accessibility_text">การเข้าถึง</string>
+    <string name="account_intro_description">การเข้าร่วมมีขั้นตอนง่ายๆ สองสามขั้น และสนุกสนานกับบริการคลาวด์ได้เต็มที่</string>
+    <string name="account_intro_title">ยินดีต้อนรับสู่บริการคลาวด์ของ [BRAND_NAME]</string>
+    <string name="add_account_button_label">ตั้งค่าบัญชี</string>
+    <string name="add_baidu_button_label">ล็อกอิน 百度云</string>
+    <string name="add_infocus_service_account">เพิ่มบัญชีบริการ [BRAND_NAME]</string>
+    <string name="back_btn_lebel">กลับ</string>
+    <string name="backup_and_restore_description">"ถ้าคุณสำรองบัญชีของคุณไว้ก่อนหน้านี้ คุณสามารถกู้คืนข้อมูลกลับมายังโทรศัพท์ได้ทันที
+
+คุณสามารถเปลี่ยนแปลงการตั้งค่าการสำรองได้ตลอดเวลาใน การตั้งค่า"</string>
+    <string name="backup_and_restore_title">การสำรองและกู้คืน</string>
+    <string name="baidu_intro_description">คุณสามารถสนุกสนานกับการรวมที่เก็บข้อมูลบนคลาวด์ด้วย 百度云 อย่างราบรื่นโดยการทำตามขั้นตอนง่าย ๆ สองสามขั้นตอน</string>
+    <string name="baidu_intro_title">ที่เก็บข้อมูลบนคลาวด์สำหรับ Baidu</string>
+    <string name="baidu_progress_dialog_des">โปรดรอ...</string>
+    <string name="choose_timezone">เลือกเขตเวลา</string>
+    <string name="datausage_dialog_negitive_btn">ยกเลิก</string>
+    <string name="datausage_dialog_positive_btn">ตกลง</string>
+    <string name="date_and_time">การตั้งเวลาและวันที่</string>
+    <string name="date_and_time_settings_summary">ตั้งวันที่ เวลา เขตเวลาและรูปแบบ</string>
+    <string name="date_and_time_settings_title">เวลาและวันที่</string>
+    <string name="date_and_time_settings_title_setup_wizard">ตั้งวันที่และเวลา</string>
+    <string name="date_picker_title">วันที่</string>
+    <string name="date_time_24hour">ใช้รูปแบบ 24 ชั่วโมง</string>
+    <string name="date_time_auto">วันที่และเวลาอัตโนมัติ</string>
+    <string name="date_time_auto_summaryOff">ใช้เวลาที่ระบุโดยเครือข่าย</string>
+    <string name="date_time_auto_summaryOn">ใช้เวลาที่ระบุโดยเครือข่าย</string>
+    <string name="date_time_date_format">เลือกรูปแบบวันที่</string>
+    <string name="date_time_set_date">ตั้งวันที่</string>
+    <string name="date_time_set_time">ตั้งเวลา</string>
+    <string name="date_time_set_timezone">เลือกเขตเวลา</string>
+    <string name="device_checking_message">ยินดีต้อนรับ</string>
+    <string name="dropbox_fih_description">รับพื้นที่ Dropbox ฟรี 2 GB เพื่อเก็บภาพและวิดีโอของคุณโดยอัตโนมัติ</string>
+    <string name="dropbox_fih_signin">ลงชื่อเข้าใช้ด้วย Dropbox</string>
+    <string name="dropbox_fih_signup">ลงทะเบียนด้วย Dropbox</string>
+    <string name="dropbox_fih_title">Dropbox</string>
+    <string name="emergency_dial_hmd_message">โทรฉุกเฉิน</string>
+    <string name="emergency_dial_message">โทรฉุกเฉิน</string>
+    <string name="expand_button_title">ขั้นสูง</string>
+    <string name="fih_legal_message">"ข้อกำหนดการใช้งานซอฟต์แวร์ [BRAND_NAME_PROXY]
+ 
+ มีผลบังคับใช้: 20 พฤษภาคม 2016
+ 
+ ข้อตกลงและเงื่อนไขการใช้งานต่อไปนี้ (แทนว่า ข้อตกลง  \") ประกอบด้วยข้อตกลงทางกฎหมายซึ่งครอบคลุมการใช้งานซอฟต์แวร์ใดๆ ของ [BRAND_NAME_PROXY] คุณ ระหว่างคุณและ [BRAND_NAME_PROXY] Inc., และ Commtiva Technology Ltd. ตัวแทนของบริษัท (เรียกรวมว่า \"[BRAND_NAME_PROXY]\") ข้อตกลงนี้ครอบคลุมการใช้งานซอฟต์แวร์ [BRAND_NAME_PROXY] ของคุณ ซึ่งรวมถึงแต่ไม่จำกัดเฉพาะการดาวน์โหลด ติดตั้ง และการต่ออายุโดยอัตโนมัติ (แทนว่า \" บริการซอฟต์แวร์ \") ในการใช้งานซอฟต์แวร์ [BRAND_NAME_PROXY]คุณได้ยินยอมที่จะผูกมัดกับข้อตกลงเหล่านี้ หากคุณไม่ยินยอมตามข้อตกลง ห้ามดาวน์โหลด ทำซ้ำ ใช้งาน หรือจัดเก็บซอฟต์แวร์ [BRAND_NAME_PROXY] 
+
+
+
+1. ข้อกำหนดบริการ
+
+ตราบเท่าที่คุณปฏิบัติตามข้อตกลงเหล่านี้ [BRAND_NAME_PROXY] อนุญาตให้คุณใช้งานบริการซอฟต์แวร์ [BRAND_NAME_PROXY] เพื่อการใช้งานส่วนตัวโดยไม่สามารถโอนได้ ภายในขอบเขตแบบจำกัด [BRAND_NAME_PROXY] จะติดตั้งรหัสออบเจ็กต์ลงในอุปกรณ์อัจฉริยะเคลื่อนที่ [BRAND_NAME_PROXY] ของคุณ (แทนว่า \"[BRAND_NAME_PROXY] Handset \") ผ่านอินเทอร์เน็ต คุณรับทราบและยินยอมว่าซอฟต์แวร์ [BRAND_NAME_PROXY] บน [BRAND_NAME_PROXY] Handset ของคุณไม่สามารถนำไปใช้งานเพื่อวัตถุประสงค์เชิงพาณิชย์หรือโอนให้กับบุคคลภายนอกได้
+
+นอกจากนี้ คุณได้ยินยอมว่าจะไม่ใช้งานซอฟต์แวร์ [BRAND_NAME_PROXY] ในแบบใดแบบหนึ่งด้านล่างดังนี้:
+
+(a)\u0009ทำการเจาะระบบซอฟต์แวร์ [BRAND_NAME_PROXY] (รวมถึงเทคโนโลยีภายใน) หรือใช้ซอฟต์แวร์ [BRAND_NAME_PROXY] บนอุปกรณ์ใดๆ ที่ไม่ใช่ของแบรนด์ [BRAND_NAME_PROXY];
+
+(b)\u0009ทำการวิเคราะห์ แยกส่วนประกอบ ทำวิศวกรรมย้อนรอย ถอดรหัส คัดลอก แก้ไขซอฟต์แวร์ [BRAND_NAME_PROXY] หรือสร้างซอฟต์แวร์ลอกเลียนแบบดังกล่าวเพื่อวัตถุประสงค์ใด;
+
+(c)\u0009กระทำการใดๆ ซึ่งรวมถึงแต่ไม่จำกัดเฉพาะการโอน ให้เช่า ยืม หรือสร้างสิทธิ์ย่อยซึ่งขัดแย้งกับข้อตกลง และเปิดเผยซอฟต์แวร์ [BRAND_NAME_PROXY] ต่อสาธารณะ หรือให้บุคคลภายนอกใช้งาน เข้าถึง หรือครอบครองซอฟต์แวร์ [BRAND_NAME_PROXY];
+
+(d)\u0009นำประกาศสิทธิ์ความเป็นเจ้าของ โลโก้ เครื่องหมายการค้าภายในซอฟต์แวร์หรือเอกสารของ [BRAND_NAME_PROXY] ออกโดยมิได้รับความยินยอมเป็นลายลักษณ์อักษรจาก [BRAND_NAME_PROXY] ล่วงหน้า;
+
+(e)\u0009ใช้ซอฟต์แวร์ [BRAND_NAME_PROXY] ในรูปแบบที่ขัดต่อกฎหมาย ณ เวลานั้นๆ หรือละเมิดสิทธิ์ของผู้อื่น;
+
+(f)\u0009ใช้ซอฟต์แวร์ [BRAND_NAME_PROXY] ในสภาพแวดล้อมที่ห้ามหรือจำกัดการใช้ซอฟต์แวร์นั้น รวมถึงแต่ไม่จำกัดเฉพาะพื้นที่ควบคุมจราจรทางอากาศ สถานีเชื้อเพลิง อุปกรณ์นิวเคลียร์ หรือ
+
+(g)\u0009ใช้ซอฟต์แวร์ [BRAND_NAME_PROXY] ในรูปแบบที่มีการห้ามโดยข้อตกลง
+
+
+
+เพื่อรับรองว่า [BRAND_NAME_PROXY] Handset และซอฟต์แวร์ [BRAND_NAME_PROXY] ทำงานได้เป็นปกติ คุณยินยอมและสัญญาว่าจะไม่ทำลายหรือย้ายป้ายใดๆ บน [BRAND_NAME_PROXY] Handset หากไม่มีการช่วยเหลือโดยบุคลากรของ [BRAND_NAME_PROXY] การกระทำอันมิได้รับอนุญาตดังกล่าวจะส่งผลต่อขอบเขตและระยะเวลาการรับประกันที่ [BRAND_NAME_PROXY] มอบให้คุณ
+
+
+
+2. นโยบายความเป็นส่วนตัว
+
+คุณรับทราบและยินยอมให้ [BRAND_NAME_PROXY] รวบรวมและเก็บรักษาข้อมูลใดๆ ซึ่งรวมถึงแต่ไม่จำกัดเฉพาะประเภทโหมด, หมายเลขซีเรียล, รหัส IMEI/MEID, เวอร์ชั่น HW, เวอร์ชั่น SW, เวลาสะสม, SKU ID, สถิติมาตรฐาน และรุ่นของระบบปฏิบัติการใน [BRAND_NAME_PROXY]Handset ของคุณ (แทนว่า \" ข้อมูล \") 
+
+ในกรณีที่ [BRAND_NAME_PROXY] จำเป็นต้องเปิดเผยข้อมูลใดๆ ให้กับหน่วยงานของรัฐหรือระบบศาลยุติธรรม [BRAND_NAME_PROXY] จะดำเนินการตามความจำเป็น
+
+
+
+[BRAND_NAME_PROXY] Handset จะแจ้งให้ [BRAND_NAME_PROXY] ทราบถึงสถานะว่า [BRAND_NAME_PROXY] Handset ไม่ได้เชื่อมต่อกับเครือข่ายโทรศัพท์เป็นเวลาอย่างน้อย 14 วัน นับจากวันที่มีการซื้อ
+
+
+
+โปรดดูรายละเอียดจากนโยบายความเป็นส่วนตัวของ [BRAND_NAME_PROXY]
+
+
+
+3. บริการสนับสนุน
+
+[BRAND_NAME_PROXY] จะมอบบริการซอฟต์แวร์ ซึ่งรวมถึงแต่ไม่จำกัดเฉพาะอัพเดทและการอัพเกรดสำหรับซอฟต์แวร์ [BRAND_NAME_PROXY] ของคุณ ตามสถานะที่ [BRAND_NAME_PROXY] ได้รับจาก [BRAND_NAME_PROXY] Handset ณ เวลานั้นๆ
+  
+[BRAND_NAME_PROXY] จะมอบอัพเดท แพทช์ หรือองค์ประกอบเสริมสำหรับซอฟต์แวร์ [BRAND_NAME_PROXY] ของคุณหลังการใช้งานซอฟต์แวร์ [BRAND_NAME_PROXY] ของคุณผ่านอินเทอร์เน็ต ซึ่งจะเป็นไปตามข้อตกลง
+
+
+
+[BRAND_NAME_PROXY] สงวนสิทธิ์ในการยุติสิทธิ์ของคุณในการรับบริการ [BRAND_NAME_PROXY] ใดผ่านอินเทอร์เน็ต เพื่อการเข้าใช้งานซอฟต์แวร์ [BRAND_NAME_PROXY] และบริการอย่างราบรื่น
+
+[BRAND_NAME_PROXY] จะเผยแพร่เวอร์ชันซอฟต์แวร์ [BRAND_NAME_PROXY] เป็นลำดับ และกำหนดให้คุณใช้เวอร์ชันระบบปฏิบัติการรุ่นล่าสุด
+
+
+
+4. การอัพเดตอัตโนมัติ
+
+เพื่อเพิ่มประสิทธิภาพและความสามารถของ [BRAND_NAME_PROXY] Handset ของคุณ Handset มีการตั้งค่าให้ดาวน์โหลดเฟิร์มแวร์และซอฟต์แวร์ล่าสุดจาก [BRAND_NAME_PROXY] โดยอัตโนมัติ
+
+
+
+เพื่อรับรองความปลอดภัยและเสถียรภาพของ [BRAND_NAME_PROXY] Handset ของคุณ และเพื่อให้คุณยินยอมปฏิบัติตามคำแนะนำที่จำเป็นสำหรับการตั้งค่าดังกล่าว และปฏิบัติตามคำแนะนำที่ระบุโดย [BRAND_NAME_PROXY] เมื่อคุณยินยอมดาวน์โหลดเฟิร์มแวร์หรือซอฟต์แวร์ล่าสุด ให้ถือว่าคุณยอมรับการต่ออายุและการติดตั้งนี้
+
+
+
+เพื่อหลีกเลี่ยงการสูญหายของเอกสาร ภาพถ่าย ข้อความ ไฟล์เสียง วิดีโอ หรือบันทึกอิเลกทรอนิกส์รูปแบบอื่นๆ ของคุณ ซึ่งอาจสูญหายหรือถูกทำลายได้ระหว่างการอัพเกรด [BRAND_NAME_PROXY] Handset คุณมีหน้าที่รับผิดชอบการสำรองข้อมูลอิเลกทรอนิกส์ที่ระบุไว้ข้างต้นทั้งหมด ซึ่งได้มีการจัดเก็บไว้ภายใน [BRAND_NAME_PROXY] Handset ก่อนทำการดาวน์โหลดเฟิร์มแวร์หรือซอฟต์แวร์ล่าสุด
+
+
+
+เมื่อ [BRAND_NAME_PROXY] Handset ของคุณอัพเดทโดยอัตโนมัติ หรืออัพเดทโดยความยินยอมของคุณผ่านรูปแบบข้อความแล้ว ให้หมายความว่าคุณได้ยินยอมตามเนื้อหาด้านล่างต่อไปนี้:
+
+(a)\u0009อัพเดตซอฟต์แวร์:
+
+คุณยินยอมและรับทราบว่า [BRAND_NAME_PROXY] สามารถเชื่อมต่อผ่านอินเทอร์เน็ตเพื่อตรวจสอบเวอร์ชันของซอฟต์แวร์ รวมถึงอัพเดทสถานะของ [BRAND_NAME_PROXY] Handset ของคุณ หาก [BRAND_NAME_PROXY] เปิดเผยการแจ้งอัพเกรดใดๆ [BRAND_NAME_PROXY] อนุญาตให้คุณอัพเดทเวอร์ชันซอฟต์แวร์รวมถึงสถานะ [BRAND_NAME_PROXY] ได้ผ่านบริการของ [BRAND_NAME_PROXY]
+
+เมื่อซอฟต์แวร์ใหม่ของ [BRAND_NAME_PROXY] พร้อมให้บริการ คุณยินยอมให้ [BRAND_NAME_PROXY] ส่งการแจ้งเตือนอัพเดทดังกล่าวให้คุณ หากคุณยอมรับอัพเดทใหม่ที่ให้บริการ หมายความว่าคุณยอมให้ [BRAND_NAME_PROXY] อัพเดท [BRAND_NAME_PROXY] Handset ของคุณโดยอัตโนมัติ
+
+(b)\u0009การซิงค์และอัพเดทเนื้อหา:
+
+หลังจากที่คุณเชื่อมต่อ [BRAND_NAME_PROXY] Handset เข้ากับเครื่องคอมพิวเตอร์หรืออุปกรณ์อื่น [BRAND_NAME_PROXY] Handset ของคุณจะอัพเดทเนื้อหาที่เกี่ยวข้องและข้อมูลอื่นๆ โดยอัตโนมัติ (เช่น ข้อมูลรายชื่อ ปฏิทิน บุ๊กมาร์ก และไฟล์)
+
+
+
+5. การสงวนสิทธิ์ความเป็นเจ้าของและสิทธิ์อื่นทั้งหมดในซอฟต์แวร์ [BRAND_NAME_PROXY]
+
+แม้คุณจะได้รับสิทธิ์ใช้งานซอฟต์แวร์และบริการของ [BRAND_NAME_PROXY] แต่ [BRAND_NAME_PROXY] บริษัทในเครือและตัวแทนจำหน่ายถือสิทธิ์ทั้งหมดในซอฟต์แวร์ [BRAND_NAME_PROXY] รวมถึงแต่ไม่จำเป็นเฉพาะสิทธิ์ความเป็นเจ้าของ ลิขสิทธิ์ และสิทธิ์ด้านทรัพย์สินทางปัญญาอื่นๆ
+
+
+
+สิทธิ์ด้านซอฟต์แวร์ทั้งหมดของ [BRAND_NAME_PROXY] ได้รับความคุ้มครองโดยกฎหมายของประเทศนั้นๆ และข้อตกลงระหว่างประเทศ
+
+
+
+6. ข้อความสงวนสิทธิ์
+
+[BRAND_NAME_PROXY] ไม่รับรอง หรือให้การรับประกันประเภทใดๆ ไม่ว่าโดยชัดแจ้งหรือโดยปริยาย ซึ่งรวมถึงแต่ไม่จำกัดเฉพาะการรับประกันในเชิงพาณิชย์ คุณภาพความพึงพอใจ ความเหมาะสมเพื่อวัตถุประสงค์เฉพาะอย่างหนึ่งอย่างใด หรือการไม่ละเมิดสิทธิ์ 
+
+[BRAND_NAME_PROXY]ไม่มีการรับประกันว่า:
+
+(a)\u0009บริการใดของ [BRAND_NAME_PROXY] ที่ได้รับจะมีความถูกต้องหรือมีประสิทธิภาพ หรือ
+
+(b)\u0009บริการ [BRAND_NAME_PROXY] จะมีการมอบให้ใช้งานโดยไม่มีการรบกวน ตรงเวลา หรือปลอดภัย หรือ
+
+(c)\u0009ข้อผิดพลาดและข้อบกพร่องใดๆ ภายในซอฟต์แวร์จะได้รับการแก้ไขในทันที
+
+
+
+[BRAND_NAME_PROXY] จะไม่รับผิดชอบต่อความสูญเสียหรือความเสียหายใดๆ อันเกิดจากไวรัส หรือวัตถุอันตรายใดๆ ในทางเทคนิคซึ่งอาจส่งผลต่อ [BRAND_NAME_PROXY] Handset โปรแกรม ข้อมูล หรือสินทรัพย์การเป็นเจ้าของอันสืบเนื่องจากการใช้งานบริการ [BRAND_NAME_PROXY] ของคุณ การเข้าถึงเนื้อหาและข้อมูลอื่นๆ ที่คุณดาวน์โหลดหรือได้รับผ่าน [BRAND_NAME_PROXY] เป็นความเสี่ยงของคุณเอง และคุณจะต้องรับผิดชอบเพียงผู้เดียวต่อความเสียหายใดๆ ที่เกิดกับ [BRAND_NAME_PROXY] Handset หรือการสูญหายของข้อมูลอันเกิดจากการดาวน์โหลดซอฟต์แวร์ใดๆ
+
+
+
+7. ข้อจำกัดความรับผิดและการแก้ไขเฉพาะ
+
+[BRAND_NAME_PROXY] ไม่มีความรับผิดต่อความเสียหายทางตรง ความเสียหายทางอ้อม ความเสียหายที่เกี่ยวเนื่อง ค่าเสียหายในเชิงลงโทษหรือความเสียหายในด้านการสูญเสียกำไร การสูญเสียข้อมูลลับและข้อมูลอื่นๆ การรบกวนธุรกิจ การบาดเจ็บส่วนบุคคล ความเสียหายในทรัพย์สิน การสูญเสียความเป็นส่วนตัว อันเกิดจากความล้มเหลวในการไม่ปฏิบัติตามหน้าที่โดยสุจริตหรือการไม่ใส่ใจ
+
+ตามขอบเขตสูงสุดที่อนุญาตโดยกฎหมาย และขอบเขตสูงสุดของ [BRAND_NAME_PROXY] ขอจำกัดความรับผิดชอบให้คุณ และการแก้ไขเฉพาะประการเดียวภายใต้เงื่อนไขข้อตกลงสำหรับความเสียหาย การบาดเจ็บ ความเสียหายและการสูญเสียทรัพย์สินใดๆ อันเกิดจากการอ้างสิทธิ์ หรือการฟ้องร้องใดๆ ที่เกี่ยวข้องกับข้อตกลง คือการชดเชยค่าเสียหายจริงให้กับคุณเป็นจำนวนจำกัดไม่เกินสิบเหรียญสหรัฐฯ (USD 10) 
+
+
+
+ข้อเรียกร้องหรือการฟ้องร้องหลายกรณีอันเกี่ยวเนื่องกับข้อตกลงนี้ จะไม่ขยายข้อกำหนดขอบเขตการรับผิดชอบ และให้เป็นการแก้ไขเฉพาะโดยคุณเพียงประการเดียวตามขอบเขตสูงสุดที่อนุญาตตามกฎหมาย
+
+
+
+หากศาลที่มีอำนาจตามขอบเขตเห็นว่าขอบเขตความรับผิดชอบตามที่ระบุด้านบนไม่สามารถบังคับใช้ได้ ให้ถือว่ามีผลตามถึงขอบเขตนั้น แต่ให้แทนข้อความ จำกัดที่สิบดอลลาร์ ด้วยข้อความว่า \"จำกัดเพียงมูลค่าการทำธุรกรรมตามขอบเขตของความรับผิดชอบ\"
+
+
+
+ข้อเรียกร้องหรือการฟ้องร้องใดๆ ที่เกี่ยวข้องกับข้อตกลงจะต้องทำการยื่นเรื่องภายในระยะเวลาหนึ่งปีหลังจากเกิดเหตุการณ์
+
+
+8. การชดเชย
+
+คุณยินยอมที่จะป้องกัน จ่ายค่าทดแทน และชดใช้ [BRAND_NAME_PROXY] รวมถึงผู้ถือผลประโยชน์ ผู้บริหาร พนักงาน ผู้ได้รับผลประโยชน์ พนักงาน สำนักงานสาขาและบริษัทในเครือสำหรับข้อเรียกร้อง การสูญเสีย หนี้สิน ข้อเรียกร้อง หรือค่าใช้จ่ายอื่นใด (รวมถึงค่าการว่าจ้างทนาย) ที่กระทำต่อ [BRAND_NAME_PROXY] โดยบุคคลภายนอกอันเนื่องจาก หรืออันเป็นผลจากการใช้งานบริการ [BRAND_NAME_PROXY] อย่างไม่ถูกต้องของคุณและส่งผลให้มีการละเมิดสิทธิ์ของผู้อื่น
+
+
+
+9. การยุติการบริการ 
+
+คุณจะไม่ได้รับอนุญาตให้ใช้บริการ [BRAND_NAME_PROXY] ตามกฎหมายหากคุณละเมิดข้อตกลง ภายใต้สถานการณ์เช่นนี้ คุณจะต้องทำลายและกำจัดสำเนาซอฟต์แวร์ [BRAND_NAME_PROXY] ทั้งหมด ในระหว่างนั้น การรับประกันสำหรับ [BRAND_NAME_PROXY] Handset ของคุณจะได้รับผลกระทบ
+
+ในสถานการณ์การละเมิดข้อตกลงตามที่ระบุด้านบน คุณยินยอมมอบสิทธิ์ให้ [BRAND_NAME_PROXY] ปฏิบัติดังต่อไปนี้
+
+(a)\u0009ยกเลิกสิทธิ์ในการเข้าถึงบัญชี [BRAND_NAME_PROXY] ของคุณในทันที และ/หรือ
+
+(b)\u0009บล็อคการเข้าถึงบัญชีบริการ [BRAND_NAME_PROXY] ของคุณในอนาคต
+
+
+
+คุณยังยินยอมด้วยว่าการละเมิดต่อข้อตกลงใดๆ จะส่งผลให้เกิดอันตรายที่แก้ไขไม่ได้ต่อ [BRAND_NAME_PROXY] ซึ่งไม่สามารถชดเชยได้ทางการเงิน และคุณยินยอมให้ [BRAND_NAME_PROXY] สรรหาการบรรเทาใดๆ อันยุติธรรมที่ [BRAND_NAME_PROXY] เห็นว่าจำเป็นหรือเหมาะสมสำหรับสถานการณ์เช่นนั้น การเยียวยาเหล่านี้เป็นผลเพิ่มเติมจากการเยียวยาอื่นๆ ของ [BRAND_NAME_PROXY] ตามกฎหมายหรือตามความเหมาะสม
+
+
+
+10. กฎหมายคุ้มครองและขอบเขตอำนาจ
+
+คุณยินยอมว่ากรณีใดซึ่งเกี่ยวข้องกับข้อโต้แย้งใดทั้งหมดตามข้อตกลง อยู่ในบังคับของกฎหมายสาธารณรัฐประชาชนจีน (R.O.C.) โดยไม่คำนึงถึงบทบัญญัติว่าด้วยกฎหมายขัดกัน 
+
+
+
+คุณตกลงตามเขตอำนาจตามหลักบุคคลโดยศาลแขวงของไทเป ประเทศไต้หวัน และขอยกเลิกสิทธิ์ในการโต้แย้งต่อขอบเขตอำนาจดังกล่าว
+
+
+
+ข้อพิพาทใดๆ ที่ไม่สามารถแก้ไขได้ด้วยการประนีประนอมกันเองระหว่างคุณและ [BRAND_NAME_PROXY] จะต้องได้รับการไกล่เกลี่ยโดยคนกลางระหว่างคุณหรือ [BRAND_NAME_PROXY] หากไม่สามารถแก้ไขข้อพิพาทได้โดยการไกล่เกลี่ยภายในระยะเวลา 30 วันปฏิทิน ข้อพิพาทดังกล่าวจะถูกยื่นเรื่องต่อศาลแขวงตามที่ระบุไว้ด้านบน
+
+
+
+11. ข้อกำหนดทั่วไป
+
+หัวเรื่องต่างๆ ในข้อตกลงมีไว้เพื่อความสะดวกสบายเท่านั้น
+ 
+การล้มเหลวในการดำเนินการโดย [BRAND_NAME_PROXY] ต่อการละเมิดข้อตกลงของคุณ มิได้หมายความว่าทางบริษัทสละสิทธิ์ในการจัดการกับการละเมิดสำหรับการละเมิดกรณีอื่นหรือกรณีคล้ายกัน
+
+
+
+หากศาลที่มีอำนาจตามขอบเขตตัดสินว่าส่วนใดส่วนหนึ่งของข้อตกลงเหล่านี้ไม่ถูกต้องหรือไม่สามารถบังคับใช้ได้ ทางบริษัทจะทำการเปลี่ยนแก้ไขรายละเอียดในส่วนที่ไม่ถูกต้องหรือไม่สามารถบังคับใช้ได้ด้วยเนื้อความใหม่ที่มีความใกล้เคียงกับเนื้อความเดิมมากที่สุด และให้เนื้อความส่วนอื่นของข้อตกลงมีผลบังคับใช้ต่อไป 
+
+
+
+คุณไม่สามารถมอบข้อตกลง หรือมอบ โอน หรืออนุญาตให้ใช้สิทธิในข้อตกลงต่อได้
+
+
+
+[BRAND_NAME_PROXY] อาจโอนข้อตกลงนี้ ทั้งเพียงบางส่วนหรือทั้งหมดได้ตลอดเวลาโดยไม่จำเป็นต้องแจ้งให้คุณทราบ 
+
+
+
+ข้อตกลงนี้มีผลแทนที่การสื่อสารใดๆ ทั้งที่เกิดขึ้นก่อนหน้าและที่เกิดขึ้นพร้อมกันระหว่างคุณและ [BRAND_NAME_PROXY] ในส่วนที่เกี่ยวข้องกับไซต์
+
+
+
+12. ข้อตกลงทั้งหมด
+
+ข้อตกลงและเอกสารแนบการต่ออายุประกอบด้วยข้อตกลงทั้งหมดระหว่างคุณและ [BRAND_NAME_PROXY] ในหัวข้อเกี่ยวกับบริการ [BRAND_NAME_PROXY]
+
+
+
+13. การเปลี่ยนแปลงข้อตกลง
+
+[BRAND_NAME_PROXY] อาจทำการปรับปรุง เปลี่ยนแปลง หรือลบเนื้อหาของข้อตกลงได้ตามที่เห็นสมควร
+
+
+
+คุณจำเป็นต้องตรวจสอบข้อตกลงที่เผยแพร่บนเว็บไซต์ [BRAND_NAME_PROXY] ซึ่งอาจมีเนื้อหาแตกต่างจากข้อตกลงเดิมที่คุณเคยได้อ่าน
+
+
+
+ให้ถือว่าคุณยอมรับการเปลี่ยนแปลงต่างๆ เหล่านั้น เมื่อคุณทำการต่ออายุซอฟต์แวร์และ [BRAND_NAME_PROXY] Handset
+
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] กฎหมาย</string>
+    <string name="finish_button_label">เสร็จ</string>
+    <string name="google_account_add_account">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="google_account_intro_description">ตั้งค่าบัญชี Google ของคุณให้สามารถใช้บริการ Google ได้ทั้งหมด</string>
+    <string name="google_account_intro_title">บัญชี Google</string>
+    <string name="hmd_legal_message" />
+    <string name="hmd_user_experience_program_message">การเข้าร่วมในโปรแกรมประสบการณ์ผู้ใช้ของคุณจะช่วยให้ HMD Global เข้าใจถึงสิ่งที่คุณชอบเกี่ยวกับอุปกรณ์ Nokia ของคุณและสิ่งที่คุณคิดว่าต้องปรับปรุงได้ดียิ่งขึ้น ในบางครั้งเราอาจได้รับข้อมูลที่ไม่เปิดเผยตัวตนที่มีลักษณะทางเทคนิคเกี่ยวกับอุปกรณ์ของคุณ ยกตัวอย่างเช่น ไฟล์ที่มีข้อมูลเกี่ยวกับการขัดข้องของซอฟต์แวร์ที่อาจเกิดขึ้น โปรดทราบว่าข้อมูลดังกล่าวจะไม่ถูกส่งไปยังการเชื่อมต่อเครือข่ายมือถือ เรายินดีรับฟังว่าคุณคิดอย่างไรเกี่ยวกับอุปกรณ์ Nokia ของคุณ</string>
+    <string name="hmd_user_experience_program_title">โปรแกรมประสบการณ์ผู้ใช้</string>
+    <string name="idle_too_long_toast">โทรศัพท์นี้ไม่มีกิจกรรมมาระยะเวลาหนึ่งแล้ว ปิดเครื่องเดี๋ยวนี้เพื่อประหยัดพลังงาน</string>
+    <string name="label_text">ใช่ ข้าพเจ้ายอมรับ</string>
+    <string name="label_text_negitive">ขออภัย ฉันไม่ตกลง</string>
+    <string name="language_selection_cancel_btn">ยกเลิก</string>
+    <string name="language_selection_title">เลือกภาษาของคุณ</string>
+    <string name="location_for_service">"ใช้ ตำแหน่งของฉัน สำหรับผลลัพธ์การค้นหา Google และบริการ Google อื่นๆ
+
+"</string>
+    <string name="location_info_1">บริการระบุตำแหน่งของ Google ให้ตำแหน่งโดยประมาณของคุณแก่แอปพลิเคชั่น โดยไม่ต้องใช้ GPS</string>
+    <string name="location_info_2">คุณสามารถปิดทำงานคุณสมบัติเหล่านี้ใน การตั้งค่า, ภายใต้ บริการระบุตำแหน่ง</string>
+    <string name="location_network">อนุญาตบริการระบุตำแหน่งของ Google เพื่อเก็บรวบรวมข้อมูลตำแหน่งโดยไม่ระบุชื่อ การเก็บรวบรวมจะเกิดขึ้น แม้ในขณะที่ไม่มีแอปพลิเคชั่นรันอยู่</string>
+    <string name="location_title">ใช้ตำแหน่ง Google</string>
+    <string name="nevigation_selection_back">กลับ</string>
+    <string name="nevigation_selection_home">โฮม</string>
+    <string name="nevigation_selection_recent">เร็ว ๆ นี้</string>
+    <string name="nevigation_selection_text">คุณสามารถเปลี่ยนสีพื้นหลัง และตำแหน่งของปุ่ม กลับ / เร็ว ๆ นี้</string>
+    <string name="nevigation_selection_title">โครงร่างระบบเมนู</string>
+    <string name="next_btn_lebel">ถัดไป</string>
+    <string name="normal_date_format">ท้องถิ่น (%s)</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="setup_complete_hmd">คุณพร้อมแล้ว...</string>
+    <string name="setup_complete_main">คุณ</string>
+    <string name="setup_complete_message">โทรศัพท์ของคุณตั้งค่าเรียบร้อย และพร้อมใช้งาน</string>
+    <string name="setup_complete_sub">พร้อมที่จะไป</string>
+    <string name="setup_completed_congratulations">ยินดีด้วย</string>
+    <string name="sim_not_exist_toast">โปรดตรวจสอบว่าคุณใส่ SIM การ์ดหรือไม่</string>
+    <string name="skip_add_account_button_label">ไม่ใช่เดี๋ยวนี้</string>
+    <string name="skip_button_label">ข้าม</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s %2$s</string>
+    <string name="term_agree_text">ยอมรับ</string>
+    <string name="term_disagree_text">ไม่ตกลง</string>
+    <string name="terms_of_service_description">"
+อาจมีค่าใช้จ่ายการใช้ข้อมูลมือถือเพิ่มเติมเมื่อคุณใช้บริการต่าง ๆ ที่จำเป็นต้องมีการเชื่อมต่อเครือข่าย เช่น บริการสภาพอากาศ บริการอินเทอร์เน็ต อีเมล เบราเซอร์.. ฯลฯ เพื่อจัดการค่าใช้จ่ายการใช้ข้อมูลมือถือของคุณให้มีประสิทธิภาพมากขึ้น เราแนะนำให้คุณสมัครแพคเกจบริการข้อมูลมือถือที่เหมาะสมจากผู้ให้บริการของคุณ
+
+โดยการเลือก ยอมรับ คุณอนุญาตให้บริการเหล่านี้เชื่อมต่อกับเครือข่ายเมื่อจำเป็น
+
+นอกจากนี้ ตามค่าเริ่มต้น การอัปเดตซอฟต์แวร์อัตโนมัติก็เปิดทำงานด้วย เพื่อให้ประสบการณ์ซอฟต์แวร์ล่าสุดแก่คุณ อาจใช้ข้อมูลมือถือเล็กน้อย คุณสามารถเปลี่ยนตัวเลือกในภายหลังได้ตลอดเวลาใน การตั้งค่า
+
+"</string>
+    <string name="terms_title">การใช้ข้อมูล</string>
+    <string name="time_picker_title">เวลา</string>
+    <string name="traffic_prompt_content">ถ้าคุณไม่ตกลง คุณจะต้องทำการรับซอฟต์แวร์อัปเดต พยากรณ์อากาศ หรือข้อมูลอื่น ๆ ด้วยตัวเอง</string>
+    <string name="upload_agent_configuration">โปรแกรมประสบการณ์ผู้ใช้</string>
+    <string name="upload_agent_des">โปรดช่วยเราปรับปรุงผลิตภัณฑ์และบริการของเราให้ดีขึ้น โดยอนุญาตให้เราเก็บรวบรวมข้อมูลการวินิจฉัยเมื่ออุปกรณ์ของคุณเกิดข้อผิดพลาดเกี่ยวกับซอฟต์แวร์ หรือระบบเสีย คุณสามารถเปลี่ยนตัวเลือกในภายหลังได้ตลอดเวลาใน การกำหนดค่าเอเจนต์อัปโหลด</string>
+    <string name="upload_agent_des_text">"ร่วมโปรแกรมประสบการณ์ผู้ใช้&lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>ดูเพิ่ม&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"ร่วมโปรแกรมประสบการณ์ผู้ใช้ Nokia &lt;a href='launch.UserExperienceActivity://Kode'>เรียนรู้เพิ่มเติม&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">โปรแกรมประสบการณ์ผู้ใช้</string>
+    <string name="v7_preference_off">ปิด</string>
+    <string name="v7_preference_on">เปิด</string>
+    <string name="welcome_hmd_term_of_use_2">"การแตะลูกศรจะถือว่าคุณยอมรับ &lt;a href='launch.TermOfServiceActivity://Kode'>ข้อกำหนดการบริการ&lt;/a> และ &lt;a href='launch.AddUploadAgentHandler://Kode'>นโยบายความเป็นส่วนตัว&lt;/a> ข้อมูลการเปิดใช้งานอุปกรณ์ที่มีตำแหน่งอุปกรณ์ครั้งเดียวจะถูกส่งไปยัง HMD Global อาจมีค่าธรรมเนียมการใช้ข้อมูล"</string>
+    <string name="welcome_infocus_term_of_use">"การแตะลูกศรจะถือว่าคุณยอมรับ&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Service term&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">ไปกันเลย</string>
+    <string name="welcome_message">ยินดีต้อนรับ</string>
+    <string name="welcome_start_button_label">เริ่ม</string>
+    <string name="welcome_vision_settings_button_label">การตั้งค่าทัศนวิสัย</string>
+    <string name="wifi_picker_connection_des_text">การเชื่อมต่อเครือข่ายมือถือที่ใช้ในปัจจุบันอาจทำให้เสียค่าใช้จ่ายในขณะที่ยืนยันซอฟต์แวร์ของคุณ</string>
+    <string name="wifi_picker_connection_negative">เชื่อมต่อ</string>
+    <string name="wifi_picker_connection_negative_prc">เชื่อมต่อ WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">เชื่อมต่อ Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">ตกลง</string>
+    <string name="wifi_picker_connection_title">การเชื่อมต่อเครือข่าย</string>
+    <string name="wifi_picker_warning_des_text">โทรศัพท์จะไม่สามารถตรวจสอบว่าซอฟต์แวร์ของคุณทันสมัยหรือไม่ จนกระทั่งคุณมีการเชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="wifi_picker_warning_negative">อย่างไรก็ข้าม</string>
+    <string name="wifi_picker_warning_positive">ไม่ข้าม</string>
+    <string name="wifi_picker_warning_title">คำเตือน</string>
+    <string name="zone_auto">เขตเวลาอัตโนมัติ</string>
+    <string name="zone_auto_summaryOff">ใช้เขตเวลาที่ระบุโดยเครือข่าย</string>
+    <string name="zone_auto_summaryOn">ใช้เขตเวลาที่ระบุโดยเครือข่าย</string>
+    <string name="sugarsync_intro_description">คุณสามารถเพลิดเพลินกับการรวมที่เก็บข้อมูลบนคลาวด์ได้อย่างราบรื่น ด้วย SugarSync โดยการทำตามขั้นตอนง่าย ๆ สองสามขั้นตอน</string>
+</resources>

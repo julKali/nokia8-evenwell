@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Бокех уређивач</string>
+    <string name="image_not_null">Путања слике не може да буде празна</string>
+    <string name="no_bokeh_type">Нема типа бокеа</string>
+    <string name="no_mpo_file">Нема MPO датотеке</string>
+    <string name="save">Сачувај</string>
+    <string name="save_success">Сачувано је</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Servei meteorològic</string>
+    <string name="fih_weather_permission_hint_1">Per funcionar correctament, aquesta aplicació necessita un permís addicional. Quan se us pregunti, autoritzeu el permís.</string>
+    <string name="fih_weather_permission_hint_2">\"Per funcionar correctament, aquesta aplicació necessita permisos addicionals. Administreu els permisos de WeatherService a Configuració.\"</string>
+    <string name="fih_weather_button_ok">"D'ACORD"</string>
+    <string name="fih_weather_permission_success">\"Ubicació permesa\"</string>
+    <string name="fih_weather_permission_failed">\"Permís denegat. La ubicació no està disponible.\"</string>
+    <string name="fih_weather_notification_title">\"WeatherService necessita permisos\"</string>
+    <string name="fih_weather_notification_text">Tocar per permetre</string>
+</resources>

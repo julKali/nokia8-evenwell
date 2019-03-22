@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="backlight_darkness">20</integer>
+    <integer name="backlight_indoor_office">62</integer>
+    <integer name="backlight_outdoors_max">255</integer>
+    <integer name="backlight_outdoors_overcast">94</integer>
+    <integer name="backlight_outdoors_sunny">126</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="default_glance_enabled">1</integer>
+    <integer name="doze_screen_brightness">39</integer>
+    <integer name="lux_darkness">150</integer>
+    <integer name="lux_indoor_office">1000</integer>
+    <integer name="lux_outdoors_overcast">5000</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

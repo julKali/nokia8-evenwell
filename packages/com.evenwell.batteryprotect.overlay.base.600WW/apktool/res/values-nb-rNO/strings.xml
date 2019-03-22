@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Avbryt</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Generelle varsler</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Avbryt</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Bruk originalbatteri</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Lading stoppet</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Bruk originalbatteriet for å lade, ellers kan du forårsake permanen/fysisk skade på enheten din.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Batteriet er ugyldig</string>
+    <string name="fih_battery_protect_notification_cooling_down">Kjøles</string>
+    <string name="fih_battery_protect_tap_learn_more">Trykk for å finne ut mer</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefonen din er i ferd med å bli varm, så den gjør grep på egen hånd for å kjøle seg ned. Du kan fremdeles bruke den, men være oppmerksom på at:
+·Lading kan bli satt på pause.
+·Wi-Fi kan slås av.
+Applikasjoner kan lukkes.
+Flymodus kan slås på.
+Telefonen din vil gå tilbake til normal tilstand når den har kjølt seg ned."</string>
+</resources>

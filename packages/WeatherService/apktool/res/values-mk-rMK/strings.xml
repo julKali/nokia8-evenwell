@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">Затвори</string>
+    <string name="fih_weather_button_ok">Во ред</string>
+    <string name="fih_weather_button_setting">\"Поставки\"</string>
+    <string name="fih_weather_notification_text">Допрете да дозволите</string>
+    <string name="fih_weather_notification_title">\"За WeatherService е потребна дозвола\"</string>
+    <string name="fih_weather_permission_failed">\"Дозволата не е дадена, локацијата не е достапна.\"</string>
+    <string name="fih_weather_permission_hint_1">За да работи правилно, за оваа апликација е потребна дополнителна дозвола. Дајте дозвола кога ќе се побара тоа.</string>
+    <string name="fih_weather_permission_hint_2">\"За да работи правилно, за оваа апликација се потребни дополнителни дозволи. Уредете ги дозволите за WeatherService во Поставки.\"</string>
+    <string name="fih_weather_permission_success">\"Локацијата е дозволена\"</string>
+    <string name="fih_weather_service_title_txt">Временска прогноза</string>
+</resources>

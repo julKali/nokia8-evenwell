@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" android:sharedUserId="android.uid.system" package="com.evenwell.PowerMonitor" platformBuildVersionCode="28" platformBuildVersionName="9">
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.COLLECTORNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.ALARMCOLLECTORNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.PWLFINALUPLOADNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.C2DM_ACCOUNT_MISSING"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.PWLFINALCHECKNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.ENG_VIEW_COUNT"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.ENG_VIEW_QXDM"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.LOGGINGITEMCHANGED"/>
+    <protected-broadcast android:name="fihtdc.intent.action.stopPwl"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.CPUTEMPNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.CURRENTNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.BIGCURRENTNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.SIGNALSTRENGTHNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.BRIGHTNESSNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.BRIGHTNESSNPNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.CPUFREQUSAGENOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.SYSTEMLOGGINGNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.POWERCALCULATORNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.PWRCHARGINGRECNOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.NETDATANOTIFY"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.BOOT_CORRECTION"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.DAILY_PARSER_FOR_APR"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.BBSWAKEUPCOUNT8"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.BBSWAKEUPCOUNT16"/>
+    <protected-broadcast android:name="fihtdc.intent.action.powerlog.PWLFINALALARMNOTIFY"/>
+    <protected-broadcast android:name="com.fihtdc.action.AP.intent.DMC.ReportValue"/>
+    <protected-broadcast android:name="com.fihtdc.C2DMProxy.intent.REGISTER"/>
+    <protected-broadcast android:name="com.fihtdc.C2DMProxy.intent.UNREGISTER"/>
+    <protected-broadcast android:name="com.fihtdc.C2DMProxy.intent.POWER_LOG.LOGCONTROL"/>
+    <protected-broadcast android:name="com.fihtdc.Powerlog.CPULOADING"/>
+    <protected-broadcast android:name="com.evenwell.core.update"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.REAL_GET_TASKS"/>
+    <uses-permission android:name="android.permission.REORDER_TASKS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.NFC"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BATTERY_STATS"/>
+    <uses-permission android:name="android.permission.SET_ACTIVITY_WATCHER"/>
+    <uses-permission android:name="android.permission.READ_NETWORK_USAGE_HISTORY"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.CONNECTIVITY_INTERNAL"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="com.evenwell.deviceml.fileprovider.permission"/>
+    <permission android:name="com.evenwell.PowerMonitor.fileprovider.permission" android:protectionLevel="normal"/>
+    <application android:icon="@mipmap/fih_default" android:label="@string/app_name" android:name=".PMApplication" android:persistent="true">
+        <uses-library android:name="com.fihtdc.UploadAgentService"/>
+        <service android:exported="true" android:name="com.evenwell.PowerMonitor.service.aidl.PowerLogSavingService" android:process=":remote">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="com.fihtdc.PowerMonitor.SaveLog"/>
+            </intent-filter>
+        </service>
+        <service android:name=".LogService"/>
+        <service android:name=".DailyCollectorService"/>
+        <service android:name=".BootReceiverService"/>
+        <service android:name=".UploadCheckService"/>
+        <service android:name=".FloatViewService"/>
+        <activity android:excludeFromRecents="true" android:label="@string/app_name" android:name=".PwlEngTabActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".PwlEngTabSettings"/>
+        <activity android:name=".PwlEngTabInfo"/>
+        <receiver android:name=".BootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.evenwell.Utils.ItemControlReceiver">
+            <intent-filter>
+                <action android:name="com.fihtdc.C2DMProxy.intent.RETRY"/>
+                <action android:name="com.fihtdc.C2DMProxy.intent.REGISTRATION"/>
+                <action android:name="com.fihtdc.C2DMProxy.intent.POWER_LOG.LOGCONTROL"/>
+                <action android:name="com.fihtdc.action.DMC.NewValueSet"/>
+                <action android:name="com.fihtdc.action.DMC.Request.ReportValue"/>
+                <action android:name="com.fihtdc.PowerMonitor.UPLOAD_TEST"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".SecretCodeReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="795" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".DailyCollector">
+            <intent-filter>
+                <action android:name="fihtdc.intent.action.powerlog.PWLFINALUPLOADNOTIFY"/>
+                <action android:name="fihtdc.intent.action.powerlog.COLLECTORNOTIFY"/>
+                <action android:name="fihtdc.intent.action.powerlog.ALARMCOLLECTORNOTIFY"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="fihtdc.intent.action.powerlog.BOOT_CORRECTION"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".DailyParseReceiver">
+            <intent-filter>
+                <action android:name="fihtdc.intent.action.powerlog.DAILY_PARSER"/>
+                <action android:name="fihtdc.intent.action.powerlog.DAILY_PARSER_FOR_APR"/>
+                <action android:name="com.evenwell.action.powersaving.ACTION_BAM_NEVER_SHOW"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="PermissionDialogActivity" android:taskAffinity="com.evenwell.PowerMonitor" android:theme="@style/Transparent"/>
+        <service android:name=".service.UploadAgentService">
+            <intent-filter>
+                <action android:name="com.fihtdc.AprUploadAgent.UPLOAD_FILE"/>
+            </intent-filter>
+        </service>
+        <provider android:authorities="com.evenwell.PowerMonitor.fileprovider" android:exported="true" android:name="com.evenwell.PowerMonitor.provider.PowerMonitorFileProvider" android:permission="com.evenwell.PowerMonitor.fileprovider.permission"/>
+        <service android:name=".device.ml.DownloadDeviceMLFileService"/>
+    </application>
+</manifest>

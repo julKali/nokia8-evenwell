@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_wifi_only">true</bool>
+    <bool name="config_settings_icon_filltintcolor">true</bool>
+    <bool name="config_settings_menu_hidden">true</bool>
+    <bool name="config_apk_detail_activity_enabled">false</bool>
+</resources>

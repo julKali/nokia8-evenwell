@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/debugmodem_label" android:key="parent">
+        <PreferenceScreen android:title="@string/debugmodem_modemgeneralcfg_title" android:key="debugmodem_modemgeneralcfg">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.ModemGeneralConfig" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/debugmodem_modemlinkcfg_title">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.ModemLinkConfig" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/debugmodem_modemramdumpcfg_title" android:key="debugmodem_modemramdumpcfg">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.ModemRamdumpConfig" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/debugssrmodem_modemramdumpcfg_title" android:key="debugssrmodem_modemramdumpcfg">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.ModemSSRRamdumpConfig" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/debugmodem_qxdm_title" android:key="debugmodem_qxdm">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.LogcatSettingsActivity" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/debugmodem_diag_title" android:key="debugmodem_diag">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.QDiagLogging" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

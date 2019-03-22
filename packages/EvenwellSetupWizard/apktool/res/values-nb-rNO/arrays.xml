@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statisk</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Oppdag automatisk</item>
+        <item>Behandle som målt</item>
+        <item>Behandle som ikke målt</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Ingen</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Ingen</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Ingen</item>
+        <item>Manuelt</item>
+        <item>Auto-konfig. av proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Dårlig</item>
+        <item>Akseptabel</item>
+        <item>Bra</item>
+        <item>Utmerket</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skanner…</item>
+        <item>Kobler til…</item>
+        <item>Autentiserer…</item>
+        <item>Henter IP-adresse…</item>
+        <item>Tilkoblet</item>
+        <item>Satt på vent</item>
+        <item>Kobler fra…</item>
+        <item>Frakoblet</item>
+        <item>Ikke fullført</item>
+        <item>Blokkert</item>
+        <item>Unngår dårlig tilkobling midlertidig</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skanner…</item>
+        <item>Kobler til %1$s…</item>
+        <item>Autentiserer med %1$s…</item>
+        <item>Henter IP-adresse fra %1$s…</item>
+        <item>Koblet ti %1$s</item>
+        <item>Satt på vent</item>
+        <item>Kobler fra %1$s…</item>
+        <item>Frakoblet</item>
+        <item>Ikke fullført</item>
+        <item>Blokkert</item>
+        <item>Unngår dårlig tilkobling midlertidig</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI-heksadesimal</item>
+    </string-array>
+</resources>

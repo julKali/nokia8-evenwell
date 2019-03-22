@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Serviciu meteo</string>
+    <string name="fih_weather_permission_hint_1">Pentru a funcționa bine, aplicația necesită permisiuni. Permiteți când vi se solicită.</string>
+    <string name="fih_weather_permission_hint_2">Pt. a funcționa bine, aplicația necesită alte permisiuni. Gestionați permisiunea Serviciu meteo în Setări.</string>
+    <string name="fih_weather_button_ok">„Ok</string>
+    <string name="fih_weather_button_close">Închidere canal</string>
+    <string name="fih_weather_button_setting">Setare...</string>
+    <string name="fih_weather_permission_success">Acordare permisiune locație reușită</string>
+    <string name="fih_weather_permission_failed">Acordare permisiune locație refuzată. Nu se poate obține locația.</string>
+    <string name="fih_weather_notification_title">Serviciul meteo necesită permisiuni</string>
+    <string name="fih_weather_notification_text">Atingeți pt. permitere</string>
+    <string name="fih_weather_notification_channel_title">Notificări generale</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">बॅटरी संरक्षण</string>
+    <string name="fih_battery_protect_aging_nm_text">कृपया आमच्या ग्राहक सेवा केंद्राशी टेलिफोनने संपर्क साधा %1$s धन्यवाद.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">कृपया आमच्या ग्राहक सेवा केंद्राशी संपर्क साधा, धन्यवाद.</string>
+    <string name="fih_battery_protect_aging_text">प्रिय InFocus ग्राहक, सेल फोन बॅटरीचा वापरकरण्यायोग्य म्हणून विचार करत असताना, आपल्या फोनच्या बॅटरीची शक्ती लक्षणीयरित्या कमी करण्यात आली आहेअसे आपल्याला आढळल्यास, कृपया निदान करण्यासाठी आपला फोन डीलरकडे न्या आणि फोन उत्तम पद्धतीने कार्यरत राहील हे सुनिश्चित करण्यासाठी दुरूस्त करा. आपल्याला कोणतेही प्रश्न असल्यास, कृपया आमच्या ग्राहक सेवा केंद्राशी संपर्क साधा, टेलिफोन %1$s. धन्यवाद.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">प्रिय InFocus ग्राहक, सेल फोन बॅटरीचा वापरकरण्यायोग्य म्हणून विचार करत असताना, आपल्या फोनच्या बॅटरीची शक्ती लक्षणीयरित्या कमी करण्यात आली आहेअसे आपल्याला आढळल्यास, कृपया निदान करण्यासाठी आपला फोन डीलरकडे न्या आणि फोन उत्तम पद्धतीने कार्यरत राहील हे सुनिश्चित करण्यासाठी दुरूस्त करा. आपल्याला कोणतेही प्रश्न असल्यास, कृपया आमच्या ग्राहक सेवा केंद्राशी संपर्क साधा, धन्यवाद.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">प्रिय InFocus ग्राहक, सेल डिव्हाइस बॅटरीचा वापरकरण्यायोग्य म्हणून विचार करत असताना, आपल्या डिव्हाइसच्या बॅटरीची शक्ती लक्षणीयरित्या कमी करण्यात आली आहे से आपल्याला आढळल्यास, कृपया निदान करण्यासाठी आपला डिव्हाइस डीलरकडे न्या आणि डिव्हाइस उत्तम पद्धतीने कार्यरत राहील हे सुनिश्चित करण्यासाठी दुरूस्त करा. आपल्याला कोणतेही प्रश्न असल्यास, कृपया आमच्या ग्राहक सेवा केंद्राशी संपर्क साधा, धन्यवाद.</string>
+    <string name="fih_battery_protect_aging_text_wear">प्रिय InFocus ग्राहक, सेल डिव्हाइस बॅटरीचा वापरकरण्यायोग्य म्हणून विचार करत असताना, आपल्या डिव्हाइसच्या बॅटरीची शक्ती लक्षणीयरित्या कमी करण्यात आली आहे से आपल्याला आढळल्यास, कृपया निदान करण्यासाठी आपला डिव्हाइस डीलरकडे न्या आणि डिव्हाइस उत्तम पद्धतीने कार्यरत राहील हे सुनिश्चित करण्यासाठी दुरूस्त करा. आपल्याला कोणतेही प्रश्न असल्यास, कृपया आमच्या ग्राहक सेवा केंद्राशी संपर्क साधा, टेलिफोन %1$s. धन्यवाद.</string>
+    <string name="fih_battery_protect_aging_title">बॅटरी विझार्ड</string>
+    <string name="fih_battery_protect_aging_title_wear">बॅटरी विझार्ड</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">रद्द करा</string>
+    <string name="fih_battery_protect_alert_dialog_ok">ओके</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">बॅटरी योग्यरित्या स्थापित केल्याची खात्री करा, अन्यथा ती चार्ज होणार नाही.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">बॅटरी योग्यरित्या स्थापित केल्याची खात्री करा.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">बॅटरी तापमान ओळखू शकत नाही, योग्यरित्या स्थापित केल्याची खात्री करा, अन्यथा ती चार्ज होणार नाही.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">बॅटरी तापमान ओळखणे शक्य नाही.</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">चार्जिंग थांबवा!</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">तापमान श्रेणीबाहेर आहे.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">चार्जिंग थांबले</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">बॅटरी विझार्ड</string>
+    <string name="fih_battery_protect_bl_warning_text">फोनचे तापमान सामान्यपेक्षा उच्च आहे, फोन थंड करण्यासाठी चमक कमी करा</string>
+    <string name="fih_battery_protect_bl_warning_title">चमक कमी करा सतर्कता</string>
+    <string name="fih_battery_protect_cancel_wear">रद्द करा</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">आणीबाणीचा कॉल</string>
+    <string name="fih_battery_protect_cooldown_text">सध्या फोन थंड करा, केवळ आपात्कालीन कॉल मोडमध्ये आहे.</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">डिव्हाइस आता थंड करा मोडमध्ये आहे. कृपया ते नंतर वापरा.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"आपला फोन गरम होत आहे, त्यामुळे तो स्वतःला थंड करण्यासाठी पावले उचलत आहे. तुम्ही तरीही तो वापरू शकता, परंतु तुम्हाला आढळू शकेल:
+·चार्जिंग थांबू शकते.
+·वाय-फाय बंद होऊ शकते.
+·अनुप्रयोग बंद होऊ शकतात.
+·विमान मोड बंद होऊ शकतो.
+थंड झाल्यावर तुमचा फोन परत सामान्य स्थितीत येईल."</string>
+    <string name="fih_battery_protect_cooldown_text_wear">सध्या डिव्हाइस थंड करा, केवळ आपात्कालीन कॉल मोडमध्ये आहे.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">सध्या बॅटरी तापमान ओळखण्यात अक्षम आहे आणि फोन थंड करा, केवळ आपात्कालीन कॉल मोडमध्ये आहे. बॅटरी योग्यरित्या स्थापित केली असल्याची खात्री करा.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">सध्या बॅटरी तापमान ओळखण्यात अक्षम आहे आणि डिव्हाइस थंड करा, केवळ आपात्कालीन कॉल मोडमध्ये आहे. बॅटरी योग्यरित्या स्थापित केली असल्याची खात्री करा.</string>
+    <string name="fih_battery_protect_cooldown_title">थंड करत आहे</string>
+    <string name="fih_battery_protect_cooldown_title_wear">थंड करत आहे</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">सर्वसाधारण सूचना</string>
+    <string name="fih_battery_protect_full_charging">चार्जिंग पूर्ण झाले</string>
+    <string name="fih_battery_protect_full_charging_wear">चार्जिंग पूर्ण झाले</string>
+    <string name="fih_battery_protect_high_full_charging">चार्जिंगची अत्युच्च मर्यादा उच्च तापमानावर पोचली आहे! जेव्हा फोनचे तापमान सामान्यस्तरावर येईल, तेव्हा सिस्टीम सामान्य वेगाने चार्ज करू लागेल.</string>
+    <string name="fih_battery_protect_high_full_charging_title">उच्च तापमान चार्जिंग मर्यादा पोचली आहे.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">बॅटरी तापमान खूपच जास्त आहे, म्हणून चार्जिंग थांबवा.</string>
+    <string name="fih_battery_protect_install_error_title_wear">बॅटरी विझार्ड</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">चार्ज करण्यासाठी कृपया अस्सल बॅटरी वापरा, अन्यथा तुम्ही तुमच्या डिव्हाइसला कायमची/भौतिक हानी पोहोचवू शकाल.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">कृपया अस्सल बॅटरी वापरा</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">चार्जिंग थांबले</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">बॅटरी अवैध आहे</string>
+    <string name="fih_battery_protect_low_full_charging">चार्जिंगची अत्युच्च मर्यादा कमी तापमानावर पोचली आहे. जेव्हा फोनचे तापमान सामान्यस्तरावर येईल, तेव्हा सिस्टीम सामान्य वेगाने चार्ज करू लागेल.</string>
+    <string name="fih_battery_protect_low_full_charging_title">कमी तापमान चार्जिंग मर्यादा पोचली आहे.</string>
+    <string name="fih_battery_protect_low_temp_text">तापमान खूपच कमी आहे, चार्जिंग थांबवा.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">बॅटरी तापमान खूपच कमी आहे, म्हणून चार्जिंग थांबवा.</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">बॅटरी तापमान अतिशय कमी आहे आणि त्‍याने चार्जिंग थांबेल.</string>
+    <string name="fih_battery_protect_low_temp_title">चेतावणी</string>
+    <string name="fih_battery_protect_low_temp_title_wear">कमी तापमान</string>
+    <string name="fih_battery_protect_maxtemp_text">फोन तापमान खूपच जास्त आहे, आता बंद केले जाईल.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">डिव्हाइस तापमान खूपच जास्त आहे, आता बंद केले जाईल.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">घड्याळाच्या तापमानाचे त्याची मर्यादा गाठली आणि तो त्वरित बंद केला जाईल.</string>
+    <string name="fih_battery_protect_maxtemp_title">कमाल तापमान</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">कमाल तापमान</string>
+    <string name="fih_battery_protect_normalmode_cooldone_dec">फोन थंड करा मोडमधून बाहेर पडला आहे. सामान्य ऑपरेशन पुन्हा सुरू झाले आहे.</string>
+    <string name="fih_battery_protect_normalmode_max_dec">फोन कमाल तापमान मोडमधून बाहेर पडला आहे. सामान्य ऑपरेशन पुन्हा सुरू झाले आहे.</string>
+    <string name="fih_battery_protect_normalmode_text">सामान्य ऑपरेशन पुन्हा सुरू झाले आहे.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">सामान्य ऑपरेशन पुन्हा सुरू झाले आहे.</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">घड्याळ त्याच्या सामान्य ऑपरेशनवर परत आहे.</string>
+    <string name="fih_battery_protect_normalmode_title">सामान्य तापमान</string>
+    <string name="fih_battery_protect_normalmode_title_wear">सामान्य तापमान</string>
+    <string name="fih_battery_protect_normalmode_warning_dec">फोन चेतावणी मोडमधून बाहेर पडला आहे. सामान्य ऑपरेशन पुन्हा सुरू झाले आहे.</string>
+    <string name="fih_battery_protect_notification_cooling_down">थंड होत आहे</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">उच्च तापमान</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">बॅटरी स्थापना त्रुटी</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">चार्जिंग थांबवा</string>
+    <string name="fih_battery_protect_ok_wear">ओके</string>
+    <string name="fih_battery_protect_power_off">बंद</string>
+    <string name="fih_battery_protect_tap_learn_more">अधिक जाणून घेण्यासाठी टॅप करा.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">तापमान श्रेणीबाहेर आहे.</string>
+    <string name="fih_battery_protect_warning_text">फोन थंड करण्यासाठी कॉल आणि अनुप्रयोग बंद करा.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">आम्ही चमक कमी करतो आणि बटण दाबून डिव्हाइस थंड करण्यासाठी अनुप्रयोग बंद करतो.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">घड्याळाचे तापमान खूपच जास्त आहे. आम्ही स्क्रीन मंद करण्यास आणि अनुप्रयोग थांबवण्यास सुचवतो. कृपया या क्रियांचे पुष्टीकरण करणे तपासा.</string>
+    <string name="fih_battery_protect_warning_text_wear">डिव्हाइस थंड करण्यासाठी कॉल आणि अनुप्रयोग बंद करा.</string>
+    <string name="fih_battery_protect_warning_title">चेतावणी उच्च तापमान</string>
+    <string name="fih_battery_protect_warning_title_wear">उच्च तापमान</string>
+</resources>

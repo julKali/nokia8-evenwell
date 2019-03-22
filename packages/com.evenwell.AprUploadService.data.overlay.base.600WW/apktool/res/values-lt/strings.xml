@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD privatumo strategija</string>
+    <string name="privacy_activity">HMD privatumo strategija</string>
+    <string name="go_label">Baigta</string>
+    <string name="agree">Sutinku</string>
+    <string name="see_detail">Išsamiau</string>
+    <string name="next_btn_lebel">Toliau</string>
+    <string name="app_name">Sistemos diagnozė</string>
+    <string name="setting_page_name">Naudotojų patirties programa</string>
+    <string name="send_diag_dialog_any_network">Jeigu yra duomenų ryšys</string>
+    <string name="send_diag_dialog_wifi">Jeigu yra „Wi-Fi“ ryšys</string>
+    <string name="send_diag_dialog_wlan">Jeigu yra WLAN ryšys</string>
+    <string name="send_diag_dialog_title">Perduoti diagnostikos ataskaitą</string>
+    <string name="diagnostics_setting">Diagnostikos ataskaita</string>
+    <string name="diagnostics_report">Diagnostikos ataskaita</string>
+    <string name="diagnostics_report_summary">Įrenginyje įvykus programinės įrangos klaidoms, diagnostikos ataskaitos siuntimui gali būti taikomas duomenų naudojimo mokestis, todėl rekomenduojame užsisakyti duomenų paketą iš tiekėjo.</string>
+    <string name="network_options">Tinklo parinktys</string>
+    <string name="send_diagnostics">Perduoti diagnostikos ataskaitą</string>
+    <string name="diagnostics_description">Padėkite mums tobulinti produktą ir paslaugą ir leiskite kaupti diagnostikos duomenis įvykus programinės įrangos klaidoms ar gedimams. Vėliau parametrų srityje galima modifikuoti šią parinktį.</string>
+    <string name="cancel_upload_confirm_msg">Ruošiatės palikti mūsų naudotojų patirties programą. Mobiliajame telefone įvyksiančios programinės įrangos klaidos nebus išsaugomos ar siunčiamos, todėl gali nepagerėti jūsų patirtis naudojant mobilųjį telefoną!</string>
+</resources>

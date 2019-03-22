@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Posodobitev programske opreme</string>
+    <string name="remote_file_fail">Ni dostopa do oddaljene datoteke. Poskusite znova pozneje.</string>
+    <string name="no_description">(Ni opisa)</string>
+    <string name="login_fail">Prijava v strežnik ni uspela. Poskusite znova pozneje.</string>
+    <string name="get_service_url_fail">Omrežna povezava ni stabilna (URL-ja storitve ni bilo mogoče dobiti). Poskusite znova pozneje.</string>
+    <string name="query_sw_fail">Podatkov o programski opremi ni bilo mogoče dobiti.</string>
+    <string name="download_sw_fail">Programske opreme ni bilo mogoče prenesti.</string>
+    <string name="query_sw_incorrect">Rezultat ni pravilen.</string>
+    <string name="no_update_available">Novejša posodobitev ni na voljo.</string>
+    <string name="update_not_ready">Nova posodobitev ni pripravljena v strežniku. Poskusite znova pozneje.</string>
+    <string name="check_now_label">Preveri</string>
+    <string name="verifying">Preverjanje ...</string>
+    <string name="header_verifying_update_file">Preverjanje posodobljene datoteke ...</string>
+    <string name="unzipping">Razširjanje ...</string>
+    <string name="header_starting_to_download_file">Začenja se prenos datoteke ...</string>
+    <string name="new_version_desc_prompt">Nova različica vključuje:</string>
+    <string name="data_fee_warning">Za uporabo te storitve prek mobilnega omrežja boste morda morali plačati.</string>
+    <string name="header_downloading_update">Prenos posodobitve</string>
+    <string name="header_install_system_software_update">Namestitev posodobitve sistemske programske opreme</string>
+    <string name="msg_install_system_software_update_1">"Ali želite namestiti naslednjo sistemsko programsko opremo?
+Nadgradnja sistema na"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Med nadgradnjo ne boste mogli uporabljati naprave ali klicati v sili.
+
+Odstranitev baterije ali kartice SD med posodobitvijo programske opreme lahko ima nepričakovane posledice."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Naprave med nadgradnjo ne boste mogli uporabljati.
+
+Izklop napajanja ali odstranitev prenesene datoteke med posodobitvijo programske opreme lahko ima nepričakovane posledice."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Med nadgradnjo ne boste mogli uporabljati naprave ali klicati v sili.
+
+Izklop napajanja ali odstranitev prenesene datoteke med posodobitvijo programske opreme lahko ima nepričakovane posledice."</string>
+    <string name="button_install_later">Namesti pozneje</string>
+    <string name="msg_unable_to_connect">Za uporabo te aplikacije potrebujete omrežno povezavo. V nastavitvah vklopite mobilno omrežje ali Wi-Fi.</string>
+    <string name="msg_unable_to_connect_2">Za uporabo te aplikacije potrebujete omrežno povezavo. V nastavitvah vklopite mobilno omrežje.</string>
+    <string name="msg_unable_to_connect_wlan">Za uporabo te aplikacije potrebujete omrežno povezavo. V nastavitvah vklopite mobilno omrežje ali Wi-Fi.</string>
+    <string name="msg_unable_to_connect_short">Ni omrežne povezave</string>
+    <string name="header_system_is_update">Sistem je posodobljen.</string>
+    <string name="msg_system_is_update">Novejša posodobitev ni na voljo.</string>
+    <string name="msg_system_is_update_short">Ni novejših posodobitev</string>
+    <string name="msg_no_sd_card">Za posodobitev sistema je potrebna kartica SD. Vstavite razpoložljivo kartico SD.</string>
+    <string name="msg_no_available_size_card">Za to posodobitev potrebujete %s MB prostora. Izbrišite nekaj datotek na kartici SD.</string>
+    <string name="msg_no_available_size_card_2">Za to posodobitev potrebujete %s MB prostora. Izbrišite nekaj datotek v podatkovni shrambi.</string>
+    <string name="msg_no_available_size_card_short">Ni dovolj prostora.</string>
+    <string name="msg_do_not_remove_sd_card">NE odstranjujte kartice SD.</string>
+    <string name="msg_system_battery_too_low">"Sistemska posodobitev je pripravljena, vendar baterija naprave ni dovolj polna za namestitev. Napolnite baterijo in začnite namestitev pozneje.
+
+Baterija mora biti vsaj 35 %% napolnjena.
+Trenutna napolnjenost baterije: %s %%."</string>
+    <string name="msg_system_battery_too_low_short">Baterija ni dovolj polna</string>
+    <string name="msg_remove_sd_card">Prenesene datoteke ni mogoče zapisati na kartico SD. Preverite kartico SD.</string>
+    <string name="msg_remove_sd_card_2">Prenesene datoteke ni mogoče shraniti v podatkovno shrambo. Preverite prostor za shranjevanje.</string>
+    <string name="msg_remove_sd_card_short">Dostop do kartice SD ni mogoč</string>
+    <string name="msg_remove_sd_card_short_2">Dostop do podatkovne shrambe ni mogoč.</string>
+    <string name="msg_verify_fail">Prenesene datoteke ni bilo mogoče preveriti.</string>
+    <string name="msg_verify_fail_short">Preverjanje ni bilo mogoče</string>
+    <string name="msg_unzip_fail">Prenesene datoteke ni bilo mogoče razširiti.</string>
+    <string name="msg_unzip_fail_short">Razširiti ni bilo mogoče.</string>
+    <string name="data_size">Velikost podatkov</string>
+    <string name="required_size">Potreben prostor</string>
+    <string name="network_not_match">Trenutna nastavitev omogoča samo prenos prek Wi-Fi-ja. Izberite omrežje Wi-Fi ali spremenite nastavitve.</string>
+    <string name="network_not_match_short">Omrežje se ne ujema.</string>
+    <string name="without_reboot_api">Zaradi manjkajočega API-ja ni mogoče znova zagnati. Znova zaženite, da boste ročno obnovili aktivno posodobitev.</string>
+    <string name="update_complete">Sistemska posodobitev končana.</string>
+    <string name="update_complete_short">Posodobitev končana</string>
+    <string name="file_removed">Prenesena datoteka je odstranjena. Znova jo prenesite.</string>
+    <string name="file_removed_short">Prenesena datoteka je odstranjena.</string>
+    <string name="file_not_match">Velikost prenesene datoteke se ne ujema s pričakovano. Znova jo prenesite.</string>
+    <string name="file_not_match_short">Datoteka se ne ujema.</string>
+    <string name="menu_url">Spremeni URL strežnika</string>
+    <string name="menu_enabled">Samo omogočena programska oprema</string>
+    <string name="using_internal_storage">Uporaba notranjega pomnilnika</string>
+    <string name="using_external_storage">Uporaba zunanjega pomnilnika</string>
+    <string name="msg_agree_message">"
+
+Pri nadgradnji je majhna možnost, da bo prišlo do izbrisa uporabniških podatkov. Po potrebi pred nadgradnjo sistema varnostno kopirajte podatke."</string>
+    <string name="msg_root_message">"
+
+Če je v napravi omogočen skrbniški dostop, ni mogoče jamčiti za običajno posodobitev."</string>
+    <string name="msg_responsibility_message">Če je bil v napravi omogočen skrbniški dostop, je za morebitno neobičajno delovanje po posodobitvi odgovoren uporabnik.</string>
+    <string name="msg_upgrade_agree">Preberite in sprejmite</string>
+    <string name="update_summary">Preverjanje posodobitev</string>
+    <string name="wlan_only">Samo Wi-Fi</string>
+    <string name="wifi_only_summary">Prenos posodobitev, ko je na voljo Wi-Fi</string>
+    <string name="wlan_only_summary">Prenos posodobitev, ko je na voljo Wi-Fi</string>
+    <string name="auto_update">Samodejna posodobitev</string>
+    <string name="auto_update_summary">Samodejno preverjanje posodobitev</string>
+    <string name="new_data_fee_warning">Za iskanje in prenos posodobitev boste morda morali doplačati. Če je mogoče, posodobitve prenesite prek Wi-Fi-ja.</string>
+    <string name="wlan_data_fee_warning">Za iskanje in prenos posodobitev boste morda morali doplačati. Če je mogoče, posodobitve prenesite prek Wi-Fi-ja.</string>
+    <string name="install_fail">Namestitev neuspešna</string>
+    <string name="install_all">Namesti vse</string>
+    <string name="installed_version">Nameščena različica</string>
+    <string name="update_available">Na voljo je posodobitev.</string>
+    <string name="apk_update_available">Na voljo je posodobitev aplikacije.</string>
+    <string name="recommend">Priporoči</string>
+    <string name="roaming_restriction">Omejitev podatkovnega gostovanja</string>
+    <string name="roaming_restriction_summary">Posodobitev ni mogoča zaradi omejitve podatkovnega gostovanja.</string>
+    <string name="changelog">Dnevnik sprememb</string>
+    <string name="apk_update_available_summary">Na voljo je posodobitev za %s. Kliknite V redu, če jo želite namestiti zdaj, ali Prekliči, če želite preveriti čez en dan.</string>
+    <string name="apk_removed">Aplikacija je bila odstranjena.</string>
+    <string name="apk_available_items">Skupno št. razpoložljivih elementov: %s</string>
+    <string name="apk_available_item">Skupaj %s razpoložljiv element</string>
+    <string name="invalid_update_summary">Posodobitev ni veljavna, preverite znova.</string>
+    <string name="recheck">Znova preveri</string>
+    <string name="image_download_exception_summary">Strežnik ni dosegljiv, poskusite znova pozneje.</string>
+    <string name="apk_download_exception">Ni dostopa do strežnika</string>
+    <string name="installation_confirmation">Potrditev namestitve</string>
+    <string name="apk_need_reboot_summary">Ta posodobitev programske opreme bo po koncu namestitve samodejno znova zagnala sistem. Ali želite namestiti zdaj?</string>
+    <string name="prepare_to_reboot">Priprava za vnovični zagon</string>
+    <string name="prepare_to_reboot_summary">Nameščena programska oprema mora zaradi konfiguriranja nastavitev znova zagnati napravo. Predlagamo, da znova zaženete zdaj ali pozneje.</string>
+    <string name="prepare_to_reboot_force_summary">Nameščena programska oprema mora zaradi konfiguriranja nastavitev znova zagnati napravo. Predlagamo, da znova zaženete zdaj.</string>
+    <string name="reboot_fail">Vnovični zagon ni uspel</string>
+    <string name="reboot_fail_summary">Zaradi manjkajočega API-ja ni mogoče znova zagnati. Ročno znova zaženite.</string>
+    <string name="apk_no_avaliable_size">Prenos ni mogoč, ker ni dovolj notranjega pomnilnika.</string>
+    <string name="update_finished">Posodobitev končana</string>
+    <string name="msg_root_warning">Omogočen je bil skrbniški dostop do naprave ali pa je uradna programska oprema spremenjena. Če nadaljujete posodobitev sistema, lahko pride do nestabilnosti ali zrušitve in garancija naprave morda ne bo več veljavna. Ali želite vseeno nadaljevati?</string>
+    <string name="multi_image_update">Na voljo je nekaj posodobitev posnetka</string>
+    <string name="available_update_list">Seznam razpoložljivih posodobitev</string>
+    <string name="downloading_summary">Prekličite prenos posnetka</string>
+    <string name="msg_erase_userdata_warning">Ta posodobitev bo izbrisala uporabniške podatke. Ali res želite nadaljevati?</string>
+    <string name="msg_autoupdate_date_fee_warning">Če omogočite samodejno posodobitev, boste morda morali doplačati.</string>
+    <string name="invalid_update">Posodobitev ni veljavna.</string>
+    <string name="file_corrupted">Sistema ni mogoče nadgraditi, ker je datoteka poškodovana.</string>
+    <string name="ask_for_apk_check">Ali želite preveriti, ali so na voljo posodobitve aplikacije?</string>
+    <string name="update_ota_self">Poteka posodobitev programske opreme.</string>
+    <string name="ab_update_fail">Težava pri namestitvi</string>
+    <string name="ab_update_wrong_status">Posodobitveni mehanizem je zaseden. Poskusite znova ali znova zaženite.</string>
+    <string name="ab_update_installing">Posodabljanje sistema</string>
+    <string name="tag_engineer_mode">Inženirski način</string>
+    <string name="engineer_version_incorrect">Različica naprave ni pravilna</string>
+    <string name="msg_engineer_ota_restore">Dotaknite se za obnovitev uradne različice</string>
+    <string name="msg_engineer_ota_restore_warning">S tem bo obnovljena uradna različica. Ali res želite nadaljevati?</string>
+    <string name="silent_mode_data_fee_warning">Na voljo je posodobitev. Za prenos posodobitev boste morda morali doplačati. Če je mogoče, posodobitve prenesite prek Wi-Fi-ja.</string>
+    <string name="msg_updating_system">Posodabljanje sistema ...</string>
+    <string name="msg_tap_to_reboot">Dotaknite se za vnovični zagon</string>
+    <string name="msg_pause_download">Začasno ustavi prenos</string>
+    <string name="notification_channel_name">Sistemska posodobitev</string>
+    <string name="notification_channel_alert_name">Splošna obvestila</string>
+</resources>

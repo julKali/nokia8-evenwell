@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/gps_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gps_text" style="@style/FQCText" />
+    <TextView android:id="@id/gps_info_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gps_info_text" style="@style/FQCText" />
+    <TextView android:gravity="center_vertical" android:id="@id/gps_satellite_text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FQCText" />
+    <TextView android:gravity="center_vertical" android:id="@id/gps_position_text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FQCText" />
+    <TextView android:gravity="center_vertical" android:id="@id/gps_result_text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FQCText" />
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="BBSYS_PATHS">
+        <item>/BBSYS/</item>
+        <item>/vendor/BBSYS/</item>
+    </string-array>
+    <string-array name="RESEND_MODEL_VERSION">
+        <item>0_41A</item>
+        <item>0_55B</item>
+        <item>0_37C</item>
+        <item>0_37A</item>
+    </string-array>
+    <string-array name="RESEND_PSN_VERSION">
+        <item>4_35</item>
+    </string-array>
+</resources>

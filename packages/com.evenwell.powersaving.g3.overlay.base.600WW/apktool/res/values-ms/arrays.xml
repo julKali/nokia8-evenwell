@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 saat</item>
+        <item>30 saat</item>
+        <item>1 minit</item>
+        <item>2 minit</item>
+        <item>Gunakan sistem yang ditakrifkan</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>Kecerahan automatik</item>
+        <item>Gunakan sistem yang ditakrifkan</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 minit</item>
+        <item>5 minit</item>
+        <item>10 minit</item>
+        <item>15 minit</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>Prestasi</item>
+        <item>Kestabilan</item>
+        <item>Antara Muka Pengguna</item>
+        <item>Kesan Penjimatan Kuasa</item>
+        <item>Masalah-masalah Lain</item>
+        <item>Cadangan</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_schedule_entries">
+        <item>10% kuasa bateri</item>
+        <item>15% kuasa bateri</item>
+        <item>20% kuasa bateri</item>
+        <item>30% kuasa bateri</item>
+        <item>40% kuasa bateri</item>
+    </string-array>
+</resources>

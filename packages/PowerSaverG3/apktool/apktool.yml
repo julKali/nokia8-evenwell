@@ -1,0 +1,27 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: PowerSaverG3.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '28'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  publicsuffixes.gz: '0'
+  com/fihtdc/push_system/lib/IFihPushService.aidl: '8'
+  com/fihtdc/push_system/lib/app/IFihPushReceiveService.aidl: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '9001022'
+  versionName: 9.0010.22

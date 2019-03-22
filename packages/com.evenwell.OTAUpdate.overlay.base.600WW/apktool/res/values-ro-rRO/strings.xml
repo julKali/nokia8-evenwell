@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Nu s-a putut descărca software-ul.</string>
+    <string name="msg_install_system_software_update_3">"
+
+Nu veți putea utiliza dispozitivul în timpul actualizării.
+
+Întreruperea alimentării sau eliminarea fișierelor descărcate în timpul actualizării software-ului va conduce la efecte nedorite."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Nu veți putea utiliza dispozitivul sau nu veți putea efectua apeluri de urgență în timpul actualizării.
+
+Întreruperea alimentării sau eliminarea fișierelor descărcate în timpul actualizării software-ului va conduce la efecte nedorite"</string>
+    <string name="msg_unable_to_connect_2">Pentru a utiliza această aplicație este necesară conexiunea la rețea. Porniți rețeaua mobilă din Setări.</string>
+    <string name="msg_unable_to_connect_wlan">Pentru aplicație, este necesară o conexiune la rețea. Porniți rețeaua mobilă sau WLAN din Setări.</string>
+    <string name="msg_no_available_size_card_2">Acest fișier de actualizare necesită %s MB de spațiu disponibil. Ștergeți câteva fișiere din stocarea de date.</string>
+    <string name="msg_remove_sd_card_2">Fișierul descărcat nu poate fi scris în stocarea de date. Verificați stocarea.</string>
+    <string name="msg_remove_sd_card_short_2">Nu s-a putut accesa stocarea de date.</string>
+    <string name="menu_enabled">Numai software activat</string>
+    <string name="using_internal_storage">Utilizarea memoriei interne</string>
+    <string name="using_external_storage">Utilizarea memoriei externe</string>
+    <string name="msg_root_message">"
+
+Actualizarea normală nu poate fi garantată după decodarea acestui dispozitiv."</string>
+    <string name="msg_responsibility_message">Dacă dispozitivul a fost decodat, utilizatorul este responsabil de orice comportament anormal al sistemului, după o actualizare.</string>
+    <string name="install_fail">Eroare instalare</string>
+    <string name="install_all">Instalare toate</string>
+    <string name="installed_version">Versiune instalată</string>
+    <string name="update_available">Este disponibilă o actualizare.</string>
+    <string name="apk_update_available">Este disponibilă o actualizare pentru aplicație.</string>
+    <string name="recommend">Recomandare</string>
+    <string name="roaming_restriction">Restricționare roaming de date</string>
+    <string name="roaming_restriction_summary">Nu se poate actualiza. Restricționare roaming de date.</string>
+    <string name="changelog">Jurnal de modificări</string>
+    <string name="apk_update_available_summary">%s are disponibilă o actualizare. Faceți clic pe OK pentru a instala acum sau pe Cancel pentru a căuta actualizarea după o zi.</string>
+    <string name="apk_removed">Această aplicație a fost eliminată.</string>
+    <string name="apk_available_items">Total elemente disponibile %s</string>
+    <string name="apk_available_item">Total elemente disponibile %s</string>
+    <string name="invalid_update_summary">Actualizarea este nevalidă, încercați din nou.</string>
+    <string name="recheck">Verificați din nou</string>
+    <string name="image_download_exception_summary">Nu se poate accesa serverul, încercați din nou mai târziu.</string>
+    <string name="apk_download_exception">Nu se poate accesa serverul</string>
+    <string name="installation_confirmation">Confirmare instalare</string>
+    <string name="apk_need_reboot_summary">Actualizarea software va reporni automat sistemul după finalizarea instalării. Instalați acum?</string>
+    <string name="prepare_to_reboot">Pregătire pentru repornire</string>
+    <string name="prepare_to_reboot_summary">Software-ul instalat necesită repornirea dispozitivului pentru configurarea setărilor. Vă sugerăm să reporniți acum sau, de asemenea, puteți reporni mai târziu.</string>
+    <string name="prepare_to_reboot_force_summary">Software-ul instalat necesită repornirea dispozitivului pentru configurarea setărilor. Vă sugerăm să reporniți acum.</string>
+    <string name="reboot_fail">Repornire eșuată</string>
+    <string name="reboot_fail_summary">Nu se poate reporni. Interfață API lipsă. Reporniți manual.</string>
+    <string name="apk_no_avaliable_size">Nu se poate descărca. Dimensiune memorie internă insuficientă.</string>
+    <string name="update_finished">Actualizare finalizată</string>
+    <string name="msg_root_warning">Dispozitivul dvs. a fost decodat sau software-ul oficial a fost alterat. Continuarea actualizării de sistem poate duce la instabilitatea sau la căderea sistemului și la pierderea garanției dispozitivului. Sunteți sigur că doriți să continuați?</string>
+    <string name="multi_image_update">Sunt disponibile unele actualizări de imagine</string>
+    <string name="available_update_list">Listă actualizări disponibile</string>
+    <string name="downloading_summary">Anulați descărcarea imaginii</string>
+    <string name="msg_erase_userdata_warning">Această actualizare necesită ștergerea datelor de utilizator. Continuați?</string>
+    <string name="msg_autoupdate_date_fee_warning">Activarea actualizării automate poate genera costuri suplimentare.</string>
+    <string name="invalid_update">Actualizarea este nevalidă.</string>
+    <string name="file_corrupted">Sistemul nu poate fi actualizat. Fișier deteriorat.</string>
+    <string name="ask_for_apk_check">Căutați actualizări pentru aplicație?</string>
+    <string name="update_ota_self">Actualizare software în desfășurare.</string>
+    <string name="ab_update_fail">Problemă la instalare.</string>
+    <string name="ab_update_wrong_status">Motorul de actualizare este momentan ocupat. Încercați din nou mai târziu sau reporniți.</string>
+    <string name="ab_update_installing">Se actualizează sistemul</string>
+    <string name="tag_engineer_mode">Modul Inginer</string>
+    <string name="engineer_version_incorrect">Versiunea dispozitivului dvs. este incorectă</string>
+    <string name="msg_engineer_ota_restore">Atingeți pentru a restabili versiunea oficială</string>
+    <string name="msg_engineer_ota_restore_warning">Se va restabili versiunea oficială. Continuați?</string>
+    <string name="silent_mode_data_fee_warning">Este disponibilă o actualizare. Descărcarea actualizărilor poate genera costuri suplimentare. Descărcați actualizări prin Wi-Fi, dacă este posibil.</string>
+    <string name="msg_updating_system">Se actualizează sistemul...</string>
+    <string name="msg_tap_to_reboot">Atingeți pentru repornire</string>
+    <string name="msg_pause_download">Pauză descărcare</string>
+    <string name="notification_channel_name">Actualizare sistem</string>
+    <string name="notification_channel_alert_name">Notificări generale</string>
+</resources>

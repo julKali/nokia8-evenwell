@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">సాఫ్ట్‌వేర్ నవీకరణ</string>
+    <string name="file_not_found">ఫైల్ దొరకలేదు.</string>
+    <string name="remote_file_fail">రిమోట్ ఫైల్‌ని యాక్సెస్ చేయడం సాధ్యం కాదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="no_description">(వివరణ లేదు)</string>
+    <string name="login_fail">సర్వర్‌కు లాగిన్ చేయడం విఫలమైంది. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="get_service_url_fail">నెట్‌వర్క్ అనుసంధానం స్థిరంగా లేదు (సేవా URLను పొందడం విఫలమైంది). దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="query_sw_fail">సాఫ్ట్‌వేర్ సమాచారాన్ని పొందడం విఫలమైంది.</string>
+    <string name="download_sw_fail">సాఫ్ట్‌వేర్‌ని డౌన్‌లోడ్ చేయడం విఫలమైంది.</string>
+    <string name="query_sw_incorrect">ఫలితం తప్పుగా ఉంది.</string>
+    <string name="no_update_available">కొత్త నవీకరణ అందుబాటులో లేదు.</string>
+    <string name="update_not_ready">సర్వర్‌లో సరికొత్త నవీకరణ సిద్ధంగా లేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="check_now_label">ఇప్పుడే తనిఖీ చేయండి</string>
+    <string name="checking">తనిఖీ చేస్తోంది...</string>
+    <string name="verifying">ధృవీకరిస్తోంది...</string>
+    <string name="header_verifying_update_file">నవీకరించిన ఫైల్‌ని ధృవీకరిస్తోంది...</string>
+    <string name="unzipping">అన్‌జిప్ చేస్తోంది...</string>
+    <string name="please_wait">దయచేసి వేచి ఉండండి...</string>
+    <string name="header_starting_to_download_file">ఫైల్ డౌన్‌లోడ్‌ని ప్రారంభిస్తోంది...</string>
+    <string name="header_system_update_available">సిస్టమ్ నవీకరణ అందుబాటులో ఉంది</string>
+    <string name="new_version_desc_prompt">కొత్త సంస్కరణలో ఇవి ఉంటాయి:</string>
+    <string name="header_attention">సావధానత</string>
+    <string name="data_fee_warning">ఈ సేవని మీ మొబైల్ నెట్‌వర్క్ అనుసంధానం ద్వారా ఉపయోగించినట్లయితే ఛార్జీలు చెల్లించాల్సి రావచ్చు!</string>
+    <string name="header_downloading_update">నవీకరణను డౌన్‌లోడ్ చేస్తోంది</string>
+    <string name="header_install_system_software_update">సిస్టమ్ సాఫ్ట్‌వేర్ నవీకరణని ఇన్‌స్టాల్ చేయండి</string>
+    <string name="msg_install_system_software_update_1">"మీరు కింది సాఫ్ట్‌వేర్‌ని ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా?
+సిస్టమ్‌ని దీనికి అప్‌గ్రేడ్ చేయి"</string>
+    <string name="msg_install_system_software_update_2">"
+
+అప్‌గ్రేడ్ చేసే సమయంలో మీరు మీ పరికరాన్ని ఉపయోగించలేరు లేదా అత్యవసర కాల్‌లు చేయలేరు.
+
+సాఫ్ట్‌వేర్‌ని నవీకరించే సమయంలో బ్యాటరీని తీసివేయడం లేదా SD కార్డ్‌ని తీసివేయడం వల్ల ఊహించని ఫలితాలు ఏర్పడవచ్చు."</string>
+    <string name="msg_install_system_software_update_3">"
+
+అప్‌గ్రేడ్ చేసే సమయంలో మీరు మీ పరికరాన్ని ఉపయోగించలేరు.
+
+సాఫ్ట్‌వేర్‌ని నవీకరించే సమయంలో పవర్ పోవడం లేదా డౌన్‌లోడ్ చేసిన ఫైల్‌ని తీసివేయడం వల్ల ఊహించని ఫలితాలు ఏర్పడవచ్చు."</string>
+    <string name="msg_install_system_software_update_4">"
+
+అప్‌గ్రేడ్ చేసే సమయంలో మీరు మీ పరికరాన్ని ఉపయోగించలేరు లేదా అత్యవసర కాల్‌లు చేయలేరు.
+
+సాఫ్ట్‌వేర్‌ని నవీకరించే సమయంలో పవర్ పోవడం లేదా డౌన్‌లోడ్ చేసిన ఫైల్‌ని తీసివేయడం వల్ల ఊహించని ఫలితాలు ఏర్పడవచ్చు."</string>
+    <string name="button_install_now">ఇప్పుడే ఇన్‌స్టాల్ చేయండి</string>
+    <string name="button_install_later">తర్వాత ఇన్‌స్టాల్ చేయి</string>
+    <string name="header_unable_to_connect">అనుసంధానించడం సాధ్యం కాదు</string>
+    <string name="msg_unable_to_connect">ఈ అనువర్తనాన్ని ఉపయోగించాలంటే మీ వద్ద నెట్‌వర్క్ అనుసంధానం ఉండాలి. దయచేసి సెట్టింగ్‌లలో మొబైల్ నెట్‌వర్క్ లేదా Wi-Fiని ఆన్ చేయండి.</string>
+    <string name="msg_unable_to_connect_2">ఈ అనువర్తనాన్ని ఉపయోగించాలంటే మీ వద్ద నెట్‌వర్క్ అనుసంధానం ఉండాలి. దయచేసి సెట్టింగ్‌లలో మొబైల్ నెట్‌వర్క్‌ని ఆన్ చేయండి.</string>
+    <string name="msg_unable_to_connect_wlan">ఈ అనువర్తనాన్ని ఉపయోగించాలంటే మీ వద్ద నెట్‌వర్క్ అనుసంధానం ఉండాలి. దయచేసి సెట్టింగ్‌లలో మొబైల్ నెట్‌వర్క్ లేదా WLANని ఆన్ చేయండి.</string>
+    <string name="msg_unable_to_connect_short">నెట్‌వర్క్ అనుసంధానం లేదు</string>
+    <string name="button_reset">రీసెట్ చేయి</string>
+    <string name="button_settings">సెట్టింగ్‌లు</string>
+    <string name="header_system_is_update">సిస్టమ్ తాజాగా ఉంది.</string>
+    <string name="msg_system_is_update">కొత్త నవీకరణ అందుబాటులో లేదు.</string>
+    <string name="msg_system_is_update_short">కొత్త నవీకరణలు అందుబాటులో లేవు</string>
+    <string name="msg_no_sd_card">సిస్టమ్ నవీకరణ కోసం SD కార్డ్ అవసరం. దయచేసి అందుబాటులో ఉన్న SD కార్డ్‌ని చొప్పించండి.</string>
+    <string name="msg_no_sd_card_short">ఏ SD కార్డు లేదు</string>
+    <string name="msg_no_available_size_card">ఈ నవీకరణ ఫైల్ కోసం %s MB స్థలం అవసరం. దయచేసి SD కార్డ్ నుండి కొన్ని ఫైల్‌లను తొలగించండి.</string>
+    <string name="msg_no_available_size_card_2">ఈ నవీకరణ ఫైల్ కోసం %s MB స్థలం అవసరం. దయచేసి డేటా నిల్వ నుండి కొన్ని ఫైల్‌లను తొలగించండి.</string>
+    <string name="msg_no_available_size_card_short">తగినంత స్థలం ఖాళీగా లేదు.</string>
+    <string name="msg_do_not_remove_sd_card">దయచేసి SD కార్డ్‌ని తీసివేయవద్దు.</string>
+    <string name="title_system_update_ready">సిస్టమ్ నవీకరణ సిద్ధంగా ఉంది</string>
+    <string name="msg_system_update_ready">సిస్టమ్ నవీకరణని ఇన్‌స్టాల్ చేయడం కోసం నొక్కండి.</string>
+    <string name="msg_system_battery_too_low">"సిస్టమ్ నవీకరణ సిద్ధంగా ఉంది, కానీ మీ పరికర బ్యాటరీ చాలా తక్కువగా ఉంది కనుక ఇన్‌స్టాల్ చేయడం సాధ్యం కాదు. దయచేసి బ్యాటరీ ఛార్జ్ చేసిన తర్వాత ఇన్‌స్టాలేషన్ ప్రక్రియను ప్రారంభించండి.
+
+బ్యాటరీ స్థాయి 35%% కంటే ఎక్కువగా ఉండాలి.
+ప్రస్తుత బ్యాటరీ స్థాయి: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">బ్యాటరీ చాలా తక్కువగా ఉంది</string>
+    <string name="msg_remove_sd_card">డౌన్‌లోడ్ చేసిన ఫైల్‌ని SD కార్డ్‌లో సేవ్ చేయడం సాధ్యం కాదు. దయచేసి SD కార్డ్‌ని తనిఖీ చేయండి.</string>
+    <string name="msg_remove_sd_card_2">డౌన్‌లోడ్ చేసిన ఫైల్‌ని డేటా నిల్వలో సేవ్ చేయడం సాధ్యం కాదు. దయచేసి నిల్వని తనిఖీ చేయండి.</string>
+    <string name="msg_remove_sd_card_short">SD కార్డ్‌ను ప్రాప్యత చేయడం విఫలమైంది.</string>
+    <string name="msg_remove_sd_card_short_2">డేటా నిల్వని యాక్సెస్ చేయడం విఫలమైంది.</string>
+    <string name="msg_verify_fail">డౌన్‌లోడ్ చేసిన ఫైల్‌ని ధృవీకరించడం విఫలమైంది.</string>
+    <string name="msg_verify_fail_short">ధృవీకరించడం విఫలమైంది</string>
+    <string name="msg_unzip_fail">డౌన్‌లోడ్ చేసిన ఫైల్‌ని అన్‌జిప్ చేయడం విఫలమైంది.</string>
+    <string name="msg_unzip_fail_short">అన్‌జిప్ చేయడం విఫలమైంది</string>
+    <string name="hide">దాచు</string>
+    <string name="data_size">డేటా పరిమాణం</string>
+    <string name="required_size">అవసరమైన స్థలం</string>
+    <string name="network_not_match">ప్రస్తుతం WLAN ద్వారా మాత్రమే డౌన్‌లోడ్ చేసే విధంగా మీరు సెట్ చేసారు. దయచేసి WLAN నెట్‌వర్క్‌ని ఎంచుకోండి లేదా మీ సెట్టింగ్‌లను మార్చండి.</string>
+    <string name="network_not_match_short">నెట్‌వర్క్ సరిపోలలేదు.</string>
+    <string name="without_reboot_api">API లేని కారణంగా రీబూట్ చేయడం సాధ్యం కాదు. దయచేసి సక్రియ నవీకరణను పునరుద్ధరించడం కోసం మాన్యువల్‌గా రీబూట్ చేయండి.</string>
+    <string name="update_complete">సిస్టమ్ నవీకరణ పూర్తయింది.</string>
+    <string name="update_complete_short">నవీకరించడం పూర్తయింది</string>
+    <string name="file_removed">డౌన్‌లోడ్ చేసిన ఫైల్ తీసివేయబడింది. దయచేసి మళ్లీ డౌన్‌లోడ్ చేయండి.</string>
+    <string name="file_removed_short">డౌన్‌లోడ్ చేసిన ఫైల్ తీసివేయబడింది.</string>
+    <string name="file_not_match">డౌన్‌లోడ్ చేసిన ఫైల్ మరియు ఆశించిన పరిమాణం సరిపోలలేదు. దయచేసి మళ్లీ డౌన్‌లోడ్ చేయండి.</string>
+    <string name="file_not_match_short">ఫైల్ సరిపోలలేదు.</string>
+    <string name="menu_url">సర్వర్ URLని మార్చు</string>
+    <string name="menu_enabled">ప్రారంభించిన సాఫ్ట్‌వేర్ మాత్రమే</string>
+    <string name="using_internal_storage">అంతర్గత నిల్వ ఉపయోగం</string>
+    <string name="using_external_storage">బాహ్య నిల్వ ఉపయోగం</string>
+    <string name="msg_agree_message">"
+
+అప్‌గ్రేడ్ ప్రక్రియలో భాగంగా వినియోగదారు డేటా తుడిచివేయబడే అవకాశం కూడా కొంత ఉంది. అవసరమైతే, సిస్టమ్ అప్‌గ్రేడ్ చేసే సమయంలో దయచేసి మీ డేటాని బ్యాకప్ చేయండి."</string>
+    <string name="msg_root_message">"
+
+పరికరాన్ని రూట్ చేసిన తర్వాత నవీకరణ సాధారణంగానే ఉంటుందని మేము హామీ ఇవ్వలేము."</string>
+    <string name="msg_responsibility_message">పరికరం రూట్ చేయబడినట్లయితే, నవీకరణ తర్వాత సిస్టమ్‌లో ఏర్పడే ఏదైనా అసాధారణ ప్రవర్తనకు వినియోగదారు బాధ్యత వహించాలి.</string>
+    <string name="msg_upgrade_agree">చదవండి మరియు అంగీకరించండి</string>
+    <string name="later">తర్వాత</string>
+    <string name="update">నవీకరించు</string>
+    <string name="update_summary">నవీకరణల కోసం తనిఖీ చేయండి</string>
+    <string name="wifi_only">Wi-Fi మాత్రమే</string>
+    <string name="wlan_only">WLAN మాత్రమే</string>
+    <string name="wifi_only_summary">Wi-Fi అందుబాటులో ఉన్నప్పుడు నవీకరణలను డౌన్‌లోడ్ చేయి</string>
+    <string name="wlan_only_summary">WLAN అందుబాటులో ఉన్నప్పుడు నవీకరణలను డౌన్‌లోడ్ చేయి</string>
+    <string name="auto_update">స్వీయ నవీకరణ</string>
+    <string name="auto_update_summary">నవీకరణల కోసం స్వయంచాలకంగా తనిఖీ చేయండి</string>
+    <string name="new_data_fee_warning">నవీకరణలను తనిఖీ చేయడం మరియు డౌన్‌లోడ్ చేయడం వల్ల అదనపు ఛార్జీలు చెల్లించాల్సి రావచ్చు. సాధ్యమైతే Wi-Fi ద్వారా నవీకరణలను డౌన్‌లోడ్ చేయండి</string>
+    <string name="wlan_data_fee_warning">నవీకరణలను తనిఖీ చేయడం మరియు డౌన్‌లోడ్ చేయడం వల్ల అదనపు ఛార్జీలు చెల్లించాల్సి రావచ్చు. సాధ్యమైతే WLAN ద్వారా నవీకరణలను డౌన్‌లోడ్ చేయండి</string>
+    <string name="installing">ఇన్‌స్టాల్ చేస్తోంది</string>
+    <string name="install_complete">వ్యవస్థాపించబడింది</string>
+    <string name="install_fail">ఇన్‌స్టాల్ చేయడం విఫలమైంది</string>
+    <string name="install_all">అన్నింటినీ ఇన్‌స్టాల్ చేయి</string>
+    <string name="install">ఇన్‌స్టాల్ చేయి</string>
+    <string name="installed_version">ఇన్‌స్టాల్ చేసిన సంస్కరణ</string>
+    <string name="update_available">నవీకరణ అందుబాటులో ఉంది.</string>
+    <string name="apk_update_available">అనువర్తన నవీకరణ అందుబాటులో లేదు.</string>
+    <string name="recommend">సిఫార్సు చేయబడింది</string>
+    <string name="roaming_restriction">డేటా రోమింగ్ పరిమితి</string>
+    <string name="roaming_restriction_summary">డేటా రోమింగ్ పరిమితి కారణంగా నవీకరించడం సాధ్యం కాదు.</string>
+    <string name="changelog">మార్పు లాగ్</string>
+    <string name="description">వివరణ:</string>
+    <string name="apk_update_available_summary">%s యొక్క నవీకరణ అందుబాటులో ఉంది. ఇప్పుడే ఇన్‌స్టాల్ చేయడం కోసం సరే క్లిక్ చేయండి లేదా ఒక రోజు తర్వాత నవీకరణ కోసం తనిఖీ చేయడం కోసం రద్దు చేయిని క్లిక్ చేయండి.</string>
+    <string name="apk_removed">ఈ అనువర్తనం తీసివేయబడింది.</string>
+    <string name="apk_available_items">మొత్తం %s అంశాలు అందుబాటులో ఉన్నాయి</string>
+    <string name="apk_available_item">మొత్తం %s అంశం అందుబాటులో ఉంది</string>
+    <string name="new_forpreference">క్రొత్తది</string>
+    <string name="invalid_update_summary">నవీకరణ చెల్లదు, దయచేసి మళ్లీ తనిఖీ చేయండి.</string>
+    <string name="recheck">మళ్లీ తనిఖీ చేయండి</string>
+    <string name="image_download_exception_summary">సర్వర్‌ని యాక్సెస్ చేయడం సాధ్యం కాదు, దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="apk_download_exception">సర్వర్‌ని యాక్సెస్ చేయడం సాధ్యం కాదు</string>
+    <string name="installation_confirmation">ఇన్‌స్టాలేషన్ నిర్ధారణ</string>
+    <string name="apk_need_reboot_summary">ఇన్‌స్టాలేషన్ పూర్తయిన తర్వాత ఈ సాఫ్ట్‌వేర్ నవీకరణ స్వయంచాలకంగా సిస్టమ్‌ని రీబూట్ చేస్తుంది. మీరు ఇప్పుడే ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా?</string>
+    <string name="downloaded">డౌన్‌లోడ్ చేయబడినవి</string>
+    <string name="prepare_to_reboot">రీబూట్ చేయడానికి సిద్ధం చేయండి</string>
+    <string name="prepare_to_reboot_summary">ఇన్‌స్టాల్ చేసిన సాఫ్ట్‌వేర్ ద్వారా సెట్టింగ్‌లను కాన్ఫిగర్ చేయాలంటే పరికరాన్ని రీబూట్ చేయాలి. ఇప్పుడే రీబూట్ చేయమని మేము సూచిస్తున్నాము లేదా మీరు తర్వాత రీబూట్ చేయవచ్చు.</string>
+    <string name="prepare_to_reboot_force_summary">ఇన్‌స్టాల్ చేసిన సాఫ్ట్‌వేర్ ద్వారా సెట్టింగ్‌లను కాన్ఫిగర్ చేయాలంటే పరికరాన్ని రీబూట్ చేయాలి. ఇప్పుడే రీబూట్ చేయమని మేము సూచిస్తున్నాము.</string>
+    <string name="reboot">రీబూట్ చేయి</string>
+    <string name="reboot_fail">రీబూట్ విఫలమైంది</string>
+    <string name="reboot_fail_summary">API లేని కారణంగా రీబూట్ చేయడం సాధ్యం కాదు. దయచేసి మాన్యువల్‌గా రీబూట్ చేయండి.</string>
+    <string name="apk_no_avaliable_size">అంతర్గత నిల్వ పరిమాణం తక్కువగా ఉన్న కారణంగా డౌన్‌లోడ్ చేయడం సాధ్యం కాదు.</string>
+    <string name="update_finished">నవీకరించడం పూర్తయింది</string>
+    <string name="header_warning">హెచ్చరిక</string>
+    <string name="msg_root_warning">మీ పరికరం రూట్ చేయబడింది లేదా అధికారిక సాఫ్ట్‌వేర్‌లో మార్పులు జరిగాయి. సిస్టమ్ నవీకరణను కొనసాగించడం వల్ల సిస్టమ్ అస్థిరంగా మారవచ్చు లేదా సిస్టమ్ క్రాష్ కావచ్చు మరియు మీ పరికరం యొక్క వారెంటీ పోవచ్చు. మీరు ఖచ్చితంగా కొనసాగించాలనుకుంటున్నారా?</string>
+    <string name="multi_image_update">కొన్ని చిత్రం నవీకరణలు అందుబాటులో ఉన్నాయి</string>
+    <string name="available_update_list">అందుబాటులో ఉన్న నవీకరణల జాబితా</string>
+    <string name="downloading_summary">దయచేసి చిత్రం డౌన్‌లోడ్‌ని రద్దు చేయండి</string>
+    <string name="msg_erase_userdata_warning">ఈ నవీకరణ తర్వాత వినియోగదారు డేటా తుడిచివేయబడుతుంది. మీరు కొనసాగించాలనుకుంటున్నారా?</string>
+    <string name="msg_autoupdate_date_fee_warning">స్వీయ నవీకరణను ప్రారంభించడం వల్ల అదనపు ఛార్జీలు చెల్లించాల్సి రావచ్చు.</string>
+    <string name="invalid_update">నవీకరణ చెల్లదు.</string>
+    <string name="file_corrupted">ఫైల్ పాడైంది కనుక సిస్టమ్‌ని అప్‌గ్రేడ్ చేయడం సాధ్యం కాదు.</string>
+    <string name="ask_for_apk_check">మీరు అనువర్తన నవీకరణల కోసం తనిఖీ చేయాలనుకుంటున్నారా?</string>
+    <string name="update_ota_self">సాఫ్ట్‌వేర్ నవీకరణ జరుగుతోంది.</string>
+    <string name="ab_update_fail">ఇన్‌స్టాల్ చేయడంలో సమస్య ఉంది.</string>
+    <string name="ab_update_wrong_status">ప్రస్తుతం నవీకరణ ఇంజిన్ బిజీగా ఉంది. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి లేదా రీబూట్ చేయండి.</string>
+    <string name="ab_update_installing">సిస్టమ్‌ని నవీకరిస్తోంది...</string>
+    <string name="tag_engineer_mode">ఇంజినీర్ మోడ్</string>
+    <string name="engineer_version_incorrect">మీ పరికర సంస్కరణ తప్పు</string>
+    <string name="msg_engineer_ota_restore">అధికారిక సంస్కరణకు పునరుద్ధరించడం కోసం నొక్కండి</string>
+    <string name="msg_engineer_ota_restore_warning">ఇది అధికారిక సంస్కరణకు పునరుద్ధరించబడుతుంది. మీరు కొనసాగించాలనుకుంటున్నారా?</string>
+    <string name="silent_mode_data_fee_warning">నవీకరణ అందుబాటులో ఉంది. నవీకరణలను డౌన్‌లోడ్ చేయడం వల్ల అదనపు ఛార్జీలు చెల్లించాల్సి రావచ్చు. సాధ్యమైతే Wi-Fi ద్వారా నవీకరణలను డౌన్‌లోడ్ చేయండి</string>
+    <string name="msg_updating_system">సిస్టమ్‌ని నవీకరిస్తోంది...</string>
+    <string name="msg_tap_to_reboot">రీబూట్ చేయడం కోసం నొక్కండి</string>
+    <string name="msg_pause_download">డౌన్‌లోడ్‌ని పాజ్ చేయి</string>
+    <string name="notification_channel_name">సిస్టమ్ నవీకరణ</string>
+    <string name="notification_channel_alert_name">సాధారణ నోటిఫికేషన్‌లు</string>
+</resources>

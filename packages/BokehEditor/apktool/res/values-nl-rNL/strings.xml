@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeheditor</string>
+    <string name="image_not_null">Afbeeldingspad mag niet leeg zijn</string>
+    <string name="no_bokeh_type">Geen bokeh-type</string>
+    <string name="no_mpo_file">Geen MPO-bestand</string>
+    <string name="save">Opslaan</string>
+    <string name="save_success">Opgeslagen</string>
+</resources>

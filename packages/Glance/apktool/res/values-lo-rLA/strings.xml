@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">ຮູບຮ່າງ</string>
+    <string name="pref_dialog_title_time_out">ໝົດເວລາ</string>
+    <string name="pref_title_alarm_information">ຂໍ້ມູນໂມງປຸກ</string>
+    <string name="pref_title_calendar_reminder">ການເຕືອນປະຕິທິນ</string>
+    <string name="pref_title_missed_calls">ຕົວຊີ້ບອກສາຍບໍ່ໄດ້ຮັບ</string>
+    <string name="pref_title_time_out">ໝົດເວລາເມື່ອໂທລະສັບບໍ່ເຄື່ອນເໜັງ</string>
+    <string name="pref_title_unread_mails">ຕົວຊີ້ບອກອີເມວບໍ່ໄດ້ອ່ານ</string>
+    <string name="pref_title_unread_messages">ຕົວຊີ້ບອກຂໍ້ຄວາມບໍ່ໄດ້ອ່ານ</string>
+    <string name="switch_off_text">ປິດ</string>
+    <string name="switch_on_text">ເປີດ</string>
+    <string name="abc_action_bar_home_description">ກັບໄປໜ້າຫຼັກ</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">ຂຶ້ນເທິງ</string>
+    <string name="abc_action_menu_overflow_description">ໂຕເລືອກອື່ນ</string>
+    <string name="abc_action_mode_done">ແລ້ວໆ</string>
+    <string name="abc_activity_chooser_view_see_all">ເບິ່ງທັງຫມົດ</string>
+    <string name="abc_activitychooserview_choose_application">ເລືອກແອັບຯ</string>
+    <string name="abc_capital_off">ປິດ</string>
+    <string name="abc_capital_on">ເປີດ</string>
+    <string name="abc_search_hint">ຊອກຫາ</string>
+    <string name="abc_searchview_description_clear">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="abc_searchview_description_query">ຊອກຫາ</string>
+    <string name="abc_searchview_description_search">ຊອກຫາ</string>
+    <string name="abc_searchview_description_submit">ສົ່ງການຊອກຫາ</string>
+    <string name="abc_searchview_description_voice">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="abc_shareactionprovider_share_with">ແບ່ງປັນກັບ</string>
+    <string name="abc_shareactionprovider_share_with_application">ແບ່ງ​ປັນ​ກັບ​ %s</string>
+    <string name="abc_toolbar_collapse_description">ຫຍໍ້</string>
+    <string name="search_menu_title">ຊອກຫາ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

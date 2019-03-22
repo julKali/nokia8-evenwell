@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Aktifkan</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_install_button">Instal</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda.</string>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan layanan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s mengalami masalah dengan layanan Google Play. Coba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="common_google_play_services_wear_update_text">Perlu versi baru layanan Google Play. Akan segera memperbarui sendiri.</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="common_signin_button_text">Masuk</string>
+    <string name="common_signin_button_text_long">Masuk dengan Google</string>
+    <string name="fih_weather_button_close">Tutup saluran</string>
+    <string name="fih_weather_button_ok">OKe</string>
+    <string name="fih_weather_button_setting">Pengaturan</string>
+    <string name="fih_weather_notification_channel_title">Notifikasi umum</string>
+    <string name="fih_weather_notification_text">Ketuk untuk membolehkan</string>
+    <string name="fih_weather_notification_title">WeatherService memerlukan izin</string>
+    <string name="fih_weather_permission_failed">Pemberian izin lokasi ditolak, tidak dapat memperoleh lokasi.</string>
+    <string name="fih_weather_permission_hint_1">Agar berfungsi dengan baik, aplikasi ini memerlukan izin tambahan. Berikan izin saat diminta.</string>
+    <string name="fih_weather_permission_hint_2">Agar berfungsi dengan baik, aplikasi ini memerlukan izin tambahan. Kelola izin WeatherService dalam Pengaturan.</string>
+    <string name="fih_weather_permission_success">Izin lokasi berhasil diberikan.</string>
+    <string name="fih_weather_service_title_txt">Layanan Cuaca</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

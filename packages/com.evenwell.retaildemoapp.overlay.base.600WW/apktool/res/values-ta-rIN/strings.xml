@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">சரி</string>
+    <string name="cancel">ரத்து</string>
+    <string name="system_busy_msg">சிஸ்டம் பிஸி. பிறகு முயலவும்.</string>
+    <string name="no_new_demo_found_msg">"புதிய டெமோ ஆவணம் இல்லை.
+
+டெமோ முறையைத் தொடங்க சரி என்பதைத் தட்ட முடியுமா?"</string>
+    <string name="copying">நகலெடுக்கிறது...</string>
+    <string name="downloading">பதிவிறக்குகிறது…</string>
+    <string name="download_complete_msg">"பதிவிறக்கப்பட்டது.
+
+டெமோ முறையைத் தொடங்க சரி என்பதைத் தட்டவும்."</string>
+    <string name="download_fail_msg">"இணையத்தில் இருந்து டெமோ ஆவணத்தைப் பதிவிறக்க முடியவில்லை.
+
+டெமோ முறையைத் தொடங்க சரி என்பதைத் தட்ட முடியுமா?"</string>
+    <string name="enable_demo_mode">டெமோ முறையை இயக்கவா?</string>
+    <string name="disable_demo_mode">டெமோ முறையை முடக்கு</string>
+    <string name="update_demo_video">டெமோ வீடியோவைப் புதுப்பி</string>
+    <string name="reset_device">சாதனத்தை மீட்டமைக்கவா?</string>
+    <string name="demo_mode_notifications">டெமோ முறை அறிவிப்புகள்</string>
+</resources>

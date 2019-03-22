@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">रद्द करें</string>
+    <string name="fih_battery_protect_alert_dialog_ok">ठीक</string>
+    <string name="fih_battery_protect_cancel_wear">रद्द करें</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"आपका फ़ोन गर्म हो रहा है, इसलिए इसे ख़ुद ही ठंडा करने के लिए यह कुछ काम कर रहा है. आप अभी भी इसका उपयोग कर सकते हैं, लेकिन आपका इनसे सामना हो सकता है:
+·चार्जिंग रुक सकती है.
+·वाई-फ़ाई बंद हो सकती है.
+·एप्लिकेशन बंद हो सकते हैं.
+·हवाई जहाज मोड चालू हो सकता है.
+आपका फ़ोन ठंडा हो जाने पर वापस सामान्य मोड में चला जाएगा."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">सामान्य नोटिफिकेशन</string>
+    <string name="fih_battery_protect_high_full_charging">अधिकतम चार्जिंग सीमा अधिकतम तापमान तक पहुँच गई है! जब फ़ोन का तापमान वापस सामान्य पर पहुँचेगा, सिस्टम सामान्य गति से चार्ज होने लगेगा.</string>
+    <string name="fih_battery_protect_high_full_charging_title">उच्च तापमान चार्जिंग सीमा तक पहुँच गया</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">कृपया चार्ज करने के लिए असली बैटरी का उपयोग करें, अन्यथा आपके डिवाइस को स्थायी/भौतिक क्षति पहुंच सकती है.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">कृपया असली बैटरी का उपयोग करें</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">चार्जिंग रोक दी गई</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">यह बैटरी अमान्य है</string>
+    <string name="fih_battery_protect_low_full_charging">अधिकतम चार्जिंग सीमा न्यूनतम तापमान तक पहुँच गई है! जब फ़ोन का तापमान वापस सामान्य पर पहुँचेगा, सिस्टम सामान्य गति से चार्ज होने लगेगा.</string>
+    <string name="fih_battery_protect_low_full_charging_title">निम्न तापमान चार्जिंग सीमा तक पहुँच गया</string>
+    <string name="fih_battery_protect_notification_cooling_down">ठंडा किया जा रहा है</string>
+    <string name="fih_battery_protect_ok_wear">ठीक</string>
+    <string name="fih_battery_protect_tap_learn_more">अधिक जानने के लिए टैप करें.</string>
+</resources>

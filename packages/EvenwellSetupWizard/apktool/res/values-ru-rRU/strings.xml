@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Спец. возможности</string>
+    <string name="app_name">Мастер настройки</string>
+    <string name="available_via_passpoint">Доступно через %1$s</string>
+    <string name="back_btn_lebel">НАЗАД</string>
+    <string name="backup_and_restore_description">"Если ранее вы сохранили резервную копию учетной записи, теперь вы можете восстановить ее на этом телефоне.
+
+Вы можете в любое время изменить настройки резервного сохранения в меню «Настройки»."</string>
+    <string name="backup_and_restore_title">Резервирование и восстановление</string>
+    <string name="connected_via_passpoint">Подключено через %1$s</string>
+    <string name="connected_via_wfa">Подключено через ассистента Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Отмена</string>
+    <string name="datausage_dialog_positive_btn">ОК</string>
+    <string name="date_and_time">Настройки даты и времени</string>
+    <string name="date_and_time_settings_title">Дата и время</string>
+    <string name="device_checking_message">Добро пожаловать</string>
+    <string name="emergency_dial_hmd_message">Экстренный</string>
+    <string name="finish_button_label">ЗАВЕРШИТЬ</string>
+    <string name="hmd_user_experience_program_message">Ваше участие в программе оценки пользовательского опыта помогает HMD Global лучше понять, что вам нравится в вашем устройстве Nokia и что, на ваш взгляд, нужно улучшить. Время от времени мы можем анонимно получать информацию о технических характеристиках вашего устройства, например файл с данными о возможном сбое ПО. Обратите внимание, что эти данные не передаются по сети сотовой связи. Мы хотим услышать от вас, что вы думаете о своем устройстве Nokia!</string>
+    <string name="hmd_user_experience_program_title">Программа оценки пользовательского опыта</string>
+    <string name="idle_too_long_toast">Этот телефон не используется в течение некоторого времени. Выключите его, чтобы сохранить заряд.</string>
+    <string name="insert_sim_cards">Установка SIM-карт</string>
+    <string name="insert_sim_cards_prompt_content">"Не знаете, как? Ознакомьтесь с инструкциями, входящими в комплект поставки вашего телефона.
+
+Активация SIM-карт произойдет через несколько секунд после их установки."</string>
+    <string name="language_selection_cancel_btn">ОТМЕНА</string>
+    <string name="light_room_description">%1$s поддерживает запись изображений RAW (DNG). Вы можете изменять прямо на своем новом смартфоне благодаря нашему партнерству с Adobe.&lt;br/>&lt;br/>Скачайте Adobe Photoshop Lightroom CC из магазина Google Play сейчас.</string>
+    <string name="light_room_title">Нравится фотография?</string>
+    <string name="link_speed">%1$d Мбит/с</string>
+    <string name="nevigation_selection_back">Назад</string>
+    <string name="next_btn_lebel">ДАЛЕЕ</string>
+    <string name="not_now">НЕ СЕЙЧАС…</string>
+    <string name="passpoint_content">Учетные данные (%1$s)</string>
+    <string name="passpoint_label">Сохранено через</string>
+    <string name="please_select_phase2">2-й этап аутентификации</string>
+    <string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым.</string>
+    <string name="proxy_error_empty_port">Укажите порт.</string>
+    <string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
+    <string name="proxy_error_invalid_port">Указанный порт недействителен.</string>
+    <string name="proxy_exclusionlist_label">Не использовать прокси-сервер для</string>
+    <string name="proxy_hostname_label">Имя хоста прокси-сервера</string>
+    <string name="proxy_port_label">Порт прокси-сервера</string>
+    <string name="proxy_settings_title">Прокси-сервер</string>
+    <string name="proxy_url_title">"URL автоконфигур. прокси: "</string>
+    <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется только браузером.</string>
+    <string name="saved_network">Сохранено %1$s</string>
+    <string name="select_sim_card">Выбрать SIM-карту</string>
+    <string name="setup_complete_hmd">Вы готовы...</string>
+    <string name="setup_complete_hmd_1">Вы почти готовы начать...!</string>
+    <string name="setup_complete_main">Вы</string>
+    <string name="setup_complete_sub">ГОТОВО</string>
+    <string name="setup_completed_congratulations">Поздравляем!</string>
+    <string name="setup_finish">НАЧНЕМ!</string>
+    <string name="sim_editor_title">Гнездо SIM-карты %1$d</string>
+    <string name="term_agree_text">Принять</string>
+    <string name="upload_agent_hmd_des_text_3">"Коснувшись кнопки \"НАЧНЕМ!\", вы соглашаетесь присоединиться к программе повышения качества. &lt;a href='launch.UserExperienceActivity://Kode'>Подробнее&lt;/a>. Помните, вы всегда сможете присоединиться позже через \"Настройки\"."</string>
+    <string name="upload_agent_title">Программа оценки пользовательского опыта</string>
+    <string name="welcome_hmd_term_of_use_4">"Коснувшись кнопки, вы соглашаетесь с &lt;a href='launch.TermOfServiceActivity://Kode'>условиями обслуживания&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>политикой конфиденциальности&lt;/a>. Информация об активации устройства и его одномоментном расположении будет отправлена в HMD Global.&lt;br/>&lt;br/>Будет включено уведомление об обновлении ПО, и последние обновления будут устанавливаться автоматически. При этом может использоваться небольшая часть ваших средств на передачу данных. Службы будут получать доступ к Интернету по мере необходимости.&lt;br/>&lt;br/>Эти службы приведут к дополнительным расходам при получении доступа через мобильные сети."</string>
+    <string name="welcome_hmd_term_of_use_5">"Коснувшись кнопки, вы соглашаетесь с &lt;a href='launch.TermOfServiceActivity://Kode'>условиями обслуживания&lt;/a>. Информация об активации устройства и его одномоментном расположении будет отправлена в HMD Global. Может взиматься плата за передачу данных. Данные будут использоваться в соответствии с &lt;a href='launch.AddUploadAgentHandler://Kode'>политикой конфиденциальности&lt;/a>."</string>
+    <string name="welcome_message">Добро пожаловать</string>
+    <string name="welcome_start_button_label">ПУСК</string>
+    <string name="wifi_add_network">Добавить сеть</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Раскрывающийся список \"Расширенные настройки\". Коснитесь дважды, чтобы развернуть.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Раскрывающийся список \"Расширенные настройки\". Коснитесь дважды, чтобы свернуть.</string>
+    <string name="wifi_and_mobile_skipped_message">"Подключение к сети помогает быстро настроить телефон.
+
+Без подключения вы не можете:
+
+"<li>Войти в учетную запись облака</li>"
+
+"<li>Получать обновления программного обеспечения</li>"
+
+"<li>Автоматически настраивать время и дату</li></string>
+    <string name="wifi_auth_password_wrong">Возможно, пароль неверный</string>
+    <string name="wifi_band_24ghz">2,4 ГГц</string>
+    <string name="wifi_band_5ghz">5 ГГц</string>
+    <string name="wifi_cancel">Отмена</string>
+    <string name="wifi_certificate">Сертификат</string>
+    <string name="wifi_connect">Подключить</string>
+    <string name="wifi_connected_no_internet">Подключено, нет доступа к Интернету</string>
+    <string name="wifi_disabled_generic">Отключено</string>
+    <string name="wifi_disabled_network_failure">Сбой конфигурации IP</string>
+    <string name="wifi_disabled_password_failure">Проблема аутентификации</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Не указывать</string>
+    <string name="wifi_do_not_validate_eap_server">Не проверять</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Сертификат не указан. Будет установлено незащищенное соединение.</string>
+    <string name="wifi_dont_skip">НАЗАД</string>
+    <string name="wifi_eap_anonymous">Неизвестный</string>
+    <string name="wifi_eap_ca_cert">Сертификат центра сертификации</string>
+    <string name="wifi_eap_domain">Домен</string>
+    <string name="wifi_eap_identity">Пользователь</string>
+    <string name="wifi_eap_method">Способ EAP</string>
+    <string name="wifi_eap_user_cert">Сертификат пользователя</string>
+    <string name="wifi_fail_to_scan">Не удается выполнить поиск сетей</string>
+    <string name="wifi_failed_connect_message">Не удалось подключиться к сети.</string>
+    <string name="wifi_failed_forget_message">Не удалось удалить сеть.</string>
+    <string name="wifi_failed_save_message">Не удалось сохранить сеть.</string>
+    <string name="wifi_forget">Удалить</string>
+    <string name="wifi_frequency">Частота</string>
+    <string name="wifi_gateway">Шлюз</string>
+    <string name="wifi_ip_address">IP-адрес</string>
+    <string name="wifi_ip_settings">Настройки IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Введите действительный DNS-адрес.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Введите действительный адрес шлюза.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Введите действительный IP-адрес.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Укажите длину префикса сети (от 0 до 32).</string>
+    <string name="wifi_multiple_cert_added">(Добавлено несколько сертификатов)</string>
+    <string name="wifi_network_prefix_length">Длина префикса сети</string>
+    <string name="wifi_no_domain_warning">Укажите домен.</string>
+    <string name="wifi_no_internet">Нет доступа к Интернету</string>
+    <string name="wifi_no_internet_no_reconnect">Автоматическое подключение выключено</string>
+    <string name="wifi_not_in_range">Вне диапазона</string>
+    <string name="wifi_password">Пароль</string>
+    <string name="wifi_picker_connection_positive">ОК</string>
+    <string name="wifi_remembered">Сохранено</string>
+    <string name="wifi_save">Сохранить</string>
+    <string name="wifi_security">Безопасность</string>
+    <string name="wifi_security_none">Нет</string>
+    <string name="wifi_setting_title">Подключиться</string>
+    <string name="wifi_shared">Поделиться с другими пользователями устройства</string>
+    <string name="wifi_show_advanced">Расширенные настройки</string>
+    <string name="wifi_show_password">Показать пароль</string>
+    <string name="wifi_signal">Уровень сигнала</string>
+    <string name="wifi_skip_anyway">ОК</string>
+    <string name="wifi_speed">Скорость связи</string>
+    <string name="wifi_ssid">Имя сети</string>
+    <string name="wifi_ssid_hint">Введите имя сети (SSID)</string>
+    <string name="wifi_status">Статус</string>
+    <string name="wifi_unchanged">(без изменений)</string>
+    <string name="wifi_unspecified">Выберите</string>
+    <string name="wifi_use_system_certs">Использовать системные сертификаты</string>
+</resources>

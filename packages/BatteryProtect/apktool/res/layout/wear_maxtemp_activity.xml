@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/WearLayout_DialogStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/WearLayout_TitleStyle">
+        <ImageView android:src="@drawable/fih_wear_batteryprotect_max" style="@style/WearLayout_TitleImage" />
+        <TextView android:id="@id/title_text" android:text="@string/fih_battery_protect_maxtemp_title_wear" style="@style/WearLayout_DialogTitle" />
+    </LinearLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/WearLayout_DialogContent_New">
+        <TextView android:id="@id/normal_dec_text" android:text="@string/fih_battery_protect_maxtemp_text_wear" style="@style/WearLayout_DialogContent_with_scrollview" />
+    </ScrollView>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="11.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageButton android:id="@id/maxtemp_activity_button" android:background="@drawable/fih_wear_batteryprotect_poweroff_button" style="@style/WearLayout_OneImageButtonRightStyle" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

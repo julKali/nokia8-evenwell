@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD රහස්‍යතා ප්‍රතිපත්තිය</string>
+    <string name="privacy_activity">HMD රහස්‍යතා ප්‍රතිපත්තිය</string>
+    <string name="go_label">හරි</string>
+    <string name="agree">එකඟ වේ</string>
+    <string name="see_detail">විස්තරය</string>
+    <string name="next_btn_lebel">මීළඟ</string>
+    <string name="app_name">පද්ධති දෝෂ සෙවුම</string>
+    <string name="setting_page_name">පරිශීලක අත්දැකීම් වැඩසටහන</string>
+    <string name="send_diag_dialog_any_network">දත්ත සම්බන්ධතාව ලද හැකි විට</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi සම්බන්ධතාව ලද හැකි විට</string>
+    <string name="send_diag_dialog_wlan">WLAN සම්බන්ධතාව ලද හැකි විට</string>
+    <string name="send_diag_dialog_title">දෝෂ සෙවුම් යවන්න</string>
+    <string name="diagnostics_setting">දෝෂ සෙවුම</string>
+    <string name="diagnostics_report">දෝෂ සෙවුම් වාර්තාව</string>
+    <string name="diagnostics_report_summary">උපාංගය මෘදුකාංග දෝෂයක් අත්දකින විට දෝෂ සෙවුම් වාර්තාව යවන්න. එය ජාලය භාවිතයේ පිරිවැය ජනනය කරනු හැකිය. වාහකයා වෙතින් දත්ත ජාල ඇසුරුම අත්කර ගැනීමට නිර්දේශ කෙරේ.</string>
+    <string name="network_options">ජාල අභිරුචි</string>
+    <string name="send_diagnostics">දෝෂ සෙවුම් යවන්න</string>
+    <string name="diagnostics_description">ඔබේ උපාංගය මෘදුකාංග දෝෂයක් හෝ බිඳීමක් අත්දකින විට අපට දෝෂ වාර්තා රැස් කිරීමට ඉඩ හරිමින් අපට අපේ නිෂ්පාදන සහ සේවා වැඩිදියුණු කිරීමට උපකාර කරන්න. ඔබට පසුතල තුළ පසු හැමවිටම අභිරුචිය වෙනස් කළ හැකිය.</string>
+    <string name="cancel_upload_confirm_msg">ඔබ අපගේ පරිශිලක අත්දැකීම් වැඩසටහනින් ඉවත් වීමට නියමිතය. ඔබේ ජංගම දුරකථනයේ සිදු වන මෘදුකාංග දෝෂ රඳා නොපවතින අතර යවනු නොලැබේ. එබැවින් ජංගම දුරකථනය භාවිතා කිරීම පිළිබඳ ඔබේ අත්දැකීම වර්ධනය විය නොහැකිය.</string>
+</resources>

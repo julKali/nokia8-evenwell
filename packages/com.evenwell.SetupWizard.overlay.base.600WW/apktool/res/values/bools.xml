@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isCDAValid">false</bool>
+    <bool name="isEvenwellStyleUI">true</bool>
+    <bool name="isAutoTimeCheckSim">false</bool>
+    <bool name="isHmdLegalTerm">true</bool>
+    <bool name="isLaunchLogoPage">true</bool>
+</resources>

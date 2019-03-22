@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites>
+    <favorite packageName="com.google.android.dialer" className="com.google.android.dialer.extensions.GoogleDialtactsActivity" container="-101" screen="0" x="0" y="0" />
+    <favorite packageName="com.google.android.apps.messaging" className="com.google.android.apps.messaging.ui.ConversationListActivity" container="-101" screen="1" x="0" y="0" />
+    <favorite packageName="com.android.vending" className="com.android.vending.AssetBrowserActivity" container="-101" screen="2" x="0" y="0" />
+    <favorite packageName="com.android.chrome" className="com.google.android.apps.chrome.Main" container="-101" screen="3" x="0" y="0" />
+    <favorite packageName="com.evenwell.camera2" className="com.android.camera.CameraLauncher" container="-101" screen="4" x="0" y="0" />
+    <favorite packageName="com.hmdglobal.camera2" className="com.android.camera.CameraLauncher" container="-101" screen="4" x="0" y="0" />
+    <appwidget packageName="com.google.android.googlequicksearchbox" className="com.google.android.googlequicksearchbox.SearchWidgetProvider" container="-100" screen="0" x="0" y="0" spanX="5" spanY="1" />
+    <appwidget packageName="com.google.android.deskclock" className="com.android.alarmclock.DigitalAppWidgetProvider" container="-100" screen="0" x="1" y="1" spanX="3" spanY="2" />
+    <folder folderItems="@xml/folder_google" container="-100" screen="0" x="0" y="4" />
+    <favorite packageName="com.google.android.apps.tachyon" className="com.google.android.apps.tachyon.MainActivity" container="-100" screen="0" x="1" y="4" />
+    <favorite packageName="com.google.android.apps.magazines" className="com.google.apps.dots.android.app.activity.CurrentsStartActivity" container="-100" screen="0" x="3" y="4" />
+    <favorite packageName="com.google.android.apps.photos" className="com.google.android.apps.photos.home.HomeActivity" container="-100" screen="0" x="4" y="4" />
+</favorites>

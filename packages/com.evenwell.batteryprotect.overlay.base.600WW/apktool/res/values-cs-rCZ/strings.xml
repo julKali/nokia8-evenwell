@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Storno</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Obecná oznámení</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Storno</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Použijte originální baterii</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Nabíjení bylo ukončeno</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Při nabíjení použijte originální baterii, jinak může dojít k trvalému nebo fyzickému poškození vašeho zařízení.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Baterie je neplatná</string>
+    <string name="fih_battery_protect_notification_cooling_down">Chlazení</string>
+    <string name="fih_battery_protect_tap_learn_more">Klepnutím zobrazíte další informace.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefon se začíná přehřívat, proto podniká kroky k ochlazení. Můžete ho dál používat, mohou však být provedeny tyto akce:
+ pozastavení nabíjení,
+ vypnutí Wi‑Fi,
+·ukončení aplikací,
+·zapnutí režimu Letadlo.
+Po ochlazení se telefon vrátí do normálního stavu."</string>
+</resources>

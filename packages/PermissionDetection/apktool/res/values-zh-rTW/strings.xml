@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">系統保護</string>
+    <string name="warning_title">警告</string>
+    <string name="warning_message">您的手機曾經被Root過. 這可能會導致系統不穩, 易遭受惡意軟體或病毒攻擊或個人資訊外洩</string>
+    <string name="ok_btn">確定</string>
+    <string name="ignore_btn">永不提醒</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 ಸೆಕೆಂಡುಗಳು</item>
+        <item>30 ಸೆಕೆಂಡುಗಳು</item>
+        <item>%s ನಿಮಿಷಗಳು</item>
+        <item>2 ನಿಮಿಷಗಳು</item>
+        <item>ಸಿಸ್ಟಮ್ ಬಳಕೆಯನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿದೆ</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>ಸ್ವಯಂಚಾಲಿತ ಪ್ರಖರತೆ</item>
+        <item>Use system defined</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 ನಿಮಿಷಗಳು</item>
+        <item>5 ನಿಮಿಷಗಳು</item>
+        <item>10 ನಿಮಿಷಗಳು</item>
+        <item>15 ನಿಮಿಷಗಳು</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>ಕಾರ್ಯಕ್ಷಮತೆ</item>
+        <item>Stability</item>
+        <item>User Interface</item>
+        <item>Power Saving Effect</item>
+        <item>Other Problems</item>
+        <item>Suggestions</item>
+    </string-array>
+</resources>

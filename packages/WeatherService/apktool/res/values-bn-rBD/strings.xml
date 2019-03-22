@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">বন্ধ করুন</string>
+    <string name="fih_weather_button_ok">ঠিক আছে</string>
+    <string name="fih_weather_button_setting">সেটিং...</string>
+    <string name="fih_weather_notification_channel_title">সাধারণ বিজ্ঞপ্তি</string>
+    <string name="fih_weather_notification_text">অনুমতি দিতে টোকা দিন</string>
+    <string name="fih_weather_notification_title">আবহাওয়া পরিষেবার অনুমতির প্রয়োজন হয়</string>
+    <string name="fih_weather_permission_failed">অবস্থান অনুমতি মঞ্জুরি অস্বীকার করা হয়েছে, অবস্থান পাওয়া যাবে না।</string>
+    <string name="fih_weather_permission_hint_1">সঠিকভাবে কাজ করার জন্য, এই অ্যাপটির অতিরিক্ত অনুমতির প্রয়োজন। জিজ্ঞাসা করা হলে দয়া করে অনুমতি মঞ্জুর করুন।</string>
+    <string name="fih_weather_permission_hint_2">সঠিকভাবে কাজ করার জন্য, এই অ্যাপটির অতিরিক্ত অনুমতিগুলোর প্রয়োজন। দয়া করে সেটিংয়ে WeatherService-এর অনুমতি পরিচালনা করুন।</string>
+    <string name="fih_weather_permission_success">অবস্থান অনুমতি মঞ্জুর সফল</string>
+    <string name="fih_weather_service_title_txt">আবহাওয়া পরিষেবা</string>
+</resources>

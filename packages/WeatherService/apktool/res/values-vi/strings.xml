@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Bật</string>
+    <string name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_install_button">Cài đặt</string>
+    <string name="common_google_play_services_install_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này.</string>
+    <string name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Phạm vi cung cấp các dịch vụ của Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sẽ không chạy nếu không có các dịch vụ của Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này.</string>
+    <string name="common_google_play_services_update_button">Cập nhật</string>
+    <string name="common_google_play_services_update_text">%1$s sẽ không chạy trừ khi bạn cập nhật Dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật.</string>
+    <string name="common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
+    <string name="common_open_on_phone">Mở trên điện thoại</string>
+    <string name="common_signin_button_text">Đăng nhập</string>
+    <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+    <string name="fih_weather_button_close">Đóng</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">Cài đặt</string>
+    <string name="fih_weather_notification_channel_title">Thông báo chung</string>
+    <string name="fih_weather_notification_text">Chạm để cho phép</string>
+    <string name="fih_weather_notification_title">Dịch Vụ Thời Tiết cần các giấy phép</string>
+    <string name="fih_weather_permission_failed">Cấp g.phép địa điểm bị từ chối, ko thể có được địa điểm.</string>
+    <string name="fih_weather_permission_hint_1">Để h.động thích hợp, ứng dụng này cần g.phép bổ sung. Hãy cấp phép khi được yêu cầu.</string>
+    <string name="fih_weather_permission_hint_2">Để h.động thích hợp, ứng dụng này cần các g.phép bổ sung. Hãy quản lý giấy phép của Dịch Vụ Thời Tiết trong Cài đặt.</string>
+    <string name="fih_weather_permission_success">Cấp g.phép địa điểm thành công</string>
+    <string name="fih_weather_service_title_txt">Dịch vụ thời tiết</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

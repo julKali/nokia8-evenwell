@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_window_focused="false" android:state_checked="true" android:drawable="@mipmap/check_box_action" />
+    <item android:state_window_focused="false" android:state_checked="false" android:drawable="@mipmap/check_box" />
+    <item android:state_checked="true" android:state_pressed="true" android:drawable="@mipmap/check_box_action" />
+    <item android:state_focused="true" android:state_checked="false" android:drawable="@mipmap/check_box" />
+    <item android:state_checked="false" android:drawable="@mipmap/check_box" />
+    <item android:state_checked="true" android:drawable="@mipmap/check_box_action" />
+</selector>

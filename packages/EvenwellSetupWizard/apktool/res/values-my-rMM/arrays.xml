@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ပုံမှန်ဖြစ်သော</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>အလိုအလျောက် သိရှိသည်</item>
+        <item>တိုင်းတာထားသလို လုပ်ဆောင်ပါ</item>
+        <item>မတိုင်းတာထားသလို လုပ်ဆောင်ပါ</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>None</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>None</item>
+        <item>Manual</item>
+        <item>Proxy Auto-Configuration</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ညံ့သည်</item>
+        <item>သင့်တင့်သည်</item>
+        <item>ကောင်းသည်</item>
+        <item>အလွန်ကောင်းသည်</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>စကင်ပြုလုပ်နေပြီ</item>
+        <item>ချိတ်ဆက်နေသည်</item>
+        <item>စစ်မှန်ကြောင်းအတည်ပြုနေသည်</item>
+        <item>အိုင်ပီလိပ်စာရယူနေသည်</item>
+        <item>ဆက်သွယ်ထားပြီး</item>
+        <item>ဆိုင်းငံ့ထားသည်</item>
+        <item>အဆက်အသွယ်ဖြတ်တောက်နေသည်</item>
+        <item>ချိတ်ဆက်မှုပြတ်တောက်သည်</item>
+        <item>မအောင်မြင်ပါ</item>
+        <item>ပိတ်ထားသည်</item>
+        <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
+        <item>Connected to %1$s</item>
+        <item>Suspended</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:drawable="@drawable/seekbar_thumb_disable" />
+    <item android:state_enabled="true" android:state_pressed="true" android:id="@id/unpressed" android:drawable="@drawable/seekbar_thumb_pressed" />
+    <item android:state_enabled="true" android:id="@id/pressed" android:drawable="@drawable/seekbar_thumb_unpressed" />
+</animated-selector>

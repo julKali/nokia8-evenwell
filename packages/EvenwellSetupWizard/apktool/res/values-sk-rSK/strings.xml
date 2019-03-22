@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Dostupnosť</string>
+    <string name="back_btn_lebel">SPÄŤ</string>
+    <string name="backup_and_restore_description">"Ak ste predtým zálohovali svoj účet, môžete ho teraz obnoviť na tomto telefóne.
+
+Nastavenia zálohy môžete kedykoľvek zmeniť v ponuke Nastavenia."</string>
+    <string name="backup_and_restore_title">Zálohovanie a obnovenie</string>
+    <string name="datausage_dialog_negitive_btn">Zrušiť</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Nastavenia dátumu a času</string>
+    <string name="date_and_time_settings_title">Dátum a čas</string>
+    <string name="device_checking_message">Vitajte</string>
+    <string name="emergency_dial_hmd_message">Stav núdze</string>
+    <string name="finish_button_label">DOKONČIŤ</string>
+    <string name="hmd_user_experience_program_message">Vaša účasť na programe skúseností používateľov pomáha spoločnosti HMD Global lepšie porozumieť tomu, čo sa vám páči vo vašom zariadení Nokia, a čo si myslíte, že je potrebné zlepšiť. Z času na čas môžeme dostať anonymné údaje s technickými charakteristikami o vašom zariadení, ako napríklad súbor s údajmi o havárii softvéru, ku ktorej mohlo dôjsť. Upozorňujeme, že tieto údaje nebudú prenášané cez mobilné pripojenie. Radi vás vypočujeme, čo si myslíte o svojom prístroji Nokia!</string>
+    <string name="hmd_user_experience_program_title">Program skúseností používateľov</string>
+    <string name="idle_too_long_toast">Tento telefón je niekedy v režime nečinnosti. Teraz ho vypnite, aby ste šetrili energiu.</string>
+    <string name="insert_sim_cards">Vložte SIM karty</string>
+    <string name="insert_sim_cards_prompt_content">"Neviete, ako na to? Pozrite sa do návodu k svojmu telefónu.
+
+Po vložení môže aktivácia SIM kariet chvíľu trvať."</string>
+    <string name="language_selection_cancel_btn">ZRUŠIŤ</string>
+    <string name="light_room_description">%1$s podporuje zachytávanie záberov vo formáte RAW (DNG). Vďaka partnerskej spolupráci so spoločnosťou Adobe, môžete vykonávať úpravy priamo vo svojom novom telefóne. Hneď teraz si&lt;br/>&lt;br/>stiahnite aplikáciu Adobe Photoshop Lightroom CC z obchodu Google Play.</string>
+    <string name="light_room_title">Radi fotografujete?</string>
+    <string name="nevigation_selection_text">Farbu pozadia a umiestnenie tlačidiel Späť/Nedávne si môžete nastaviť podľa želania.</string>
+    <string name="next_btn_lebel">ĎALŠIE</string>
+    <string name="not_now">TERAZ NIE…</string>
+    <string name="setup_complete_hmd">Ste pripravení ísť na to...</string>
+    <string name="setup_complete_hmd_1">Už je takmer všetko pripravené...!</string>
+    <string name="setup_complete_main">Ste</string>
+    <string name="setup_complete_sub">PRIPRAVENÝ ÍSŤ NA TO.</string>
+    <string name="setup_completed_congratulations">Blahoželáme!</string>
+    <string name="setup_finish">SPUSTIŤ</string>
+    <string name="term_agree_text">Súhlasím</string>
+    <string name="upload_agent_hmd_des_text_3">"Ťuknutím na tlačidlo SPUSTIŤ vyjadrujete svoj súhlas s pridaním sa do programu pre používateľov. &lt;a href='launch.UserExperienceActivity://Kode'>Získajte viac informácií.&lt;/a> Do programu sa môžete pridať aj neskôr cez Nastavenia."</string>
+    <string name="upload_agent_title">Program skúseností používateľov</string>
+    <string name="welcome_hmd_term_of_use_5">"Ťuknutím na toto tlačidlo vyjadrujete svoj súhlas s &lt;a href='launch.TermOfServiceActivity://Kode'>podmienkami poskytovania služieb&lt;/a>. Informácie o aktivácii zariadenia s jednorazovou informáciou o polohe zariadenia budú odoslané spoločnosti HMD Global. Môžu vám byť účtované poplatky za prenos dát. Dáta sa budú používať v súlade so &lt;a href='launch.AddUploadAgentHandler://Kode'>zásadami ochrany osobných údajov&lt;/a>."</string>
+    <string name="welcome_message">Vitajte</string>
+    <string name="welcome_start_button_label">ŠTART</string>
+    <string name="wifi_cancel">Zrušiť</string>
+    <string name="wifi_connect">Pripojiť</string>
+    <string name="wifi_disabled_generic">Zakázané</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+</resources>

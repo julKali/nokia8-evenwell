@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PicEdit</string>
+    <string name="cancel">취소</string>
+    <string name="data_process_fail">데이터 처리 실패</string>
+    <string name="delete">삭제</string>
+    <string name="image_not_null">이미지 경로는 Null일 수 없습니다.</string>
+    <string name="no_bokeh_type">보케 유형 없음</string>
+    <string name="no_mpo_file">MPO 파일 없음</string>
+    <string name="save_success">저장 성공</string>
+    <string name="share">공유</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_watermarks">워터마크</string>
+    <string name="watermark_empty">워터마크 없음</string>
+</resources>

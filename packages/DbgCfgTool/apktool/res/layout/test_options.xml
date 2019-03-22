@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/LLDelLogs" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_del_logs" />
+            <CheckBox android:id="@id/checkDelLogs" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/llBugreport" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_copy_bugreport" />
+            <CheckBox android:id="@id/checkCopyBugreport" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/llWlanlog" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_copy_wlanlog" />
+            <CheckBox android:id="@id/checkCopyWlanlog" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/LLCopyTcpdump" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:background="#ff104e8b" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_copy_tcpdump" />
+            <CheckBox android:id="@id/checkCopyTcpdump" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/LLPlatformSelection" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/strPlatformSelection" />
+            <Spinner android:id="@id/platformSelectionSpinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/LLLogSource" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/strFileSource" />
+            <Spinner android:id="@id/sdCardSpinnerSource" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/LLLogDestination" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/strFileDestination" />
+            <Spinner android:id="@id/sdCardSpinnerDestination" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/LLCopyLogsToSD" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/strbuttonCopyToSdNote" />
+            <Button android:id="@id/buttonCopyToSD" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/copytoSD" />
+            <TextView android:id="@id/txtMsg" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

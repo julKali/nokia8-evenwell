@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Қол жетімділік</string>
+    <string name="account_intro_description">[BRAND_NAME] қызметтеріне қосылу арқылы құрылғыңызды пайдаланудың тиімді жолы.</string>
+    <string name="account_intro_title">[BRAND_NAME] қызметтер тіркелгісі</string>
+    <string name="backup_and_restore_title">Сақтық көшірме және қалпына келтіру</string>
+    <string name="baidu_progress_dialog_des">Күте тұрыңыз...</string>
+    <string name="choose_timezone">Уақыт аймағын таңдау</string>
+    <string name="connected_via_passpoint">%1$s арқылы қосылды</string>
+    <string name="connected_via_wfa">Wi‑Fi көмекшісі арқылы қосылды</string>
+    <string name="datausage_dialog_negitive_btn">Болдырмау</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time_settings_summary">Күнін, уақытын, уақыт аймағын, форматтарды реттеу</string>
+    <string name="date_and_time_settings_title_setup_wizard">Күні мен уақытын реттеу</string>
+    <string name="date_picker_title">Күні :</string>
+    <string name="date_time_24hour">24 сағаттық форматты қолдану</string>
+    <string name="date_time_auto">Автоматты күн мен уақыт</string>
+    <string name="date_time_auto_summaryOff">Желідегі уақытты қолдану</string>
+    <string name="date_time_auto_summaryOn">Желідегі уақытты қолдану</string>
+    <string name="date_time_date_format">Дерекқор форматын таңдау</string>
+    <string name="date_time_set_date">Мезгілін реттеу</string>
+    <string name="date_time_set_time">Уақытты реттеу</string>
+    <string name="date_time_set_timezone">Уақыт аймағын таңдау</string>
+    <string name="device_checking_message">Қош келдіңіз</string>
+    <string name="emergency_dial_hmd_message">Төтенше қызмет</string>
+    <string name="emergency_dial_message">Төтенше жағдай қызметіне қоңырау шалу</string>
+    <string name="google_account_add_account">Google арқылы кіру</string>
+    <string name="google_account_intro_description">Google тіркелгісін реттеп, барлық Google қызметтерін қолданыңыз.</string>
+    <string name="google_account_intro_title">Google тіркелгісі</string>
+    <string name="hmd_user_experience_program_message">Пайдаланушы тәжірибесі бағдарламасына қатысуыңыз HMD Global компаниясының Nokia құрылғысынан не қалайтыныңызды және ойыңызша нені жетілдіру керектігін түсінуіне көмектеседі. Уақыт өте құрылғыңыз туралы техникалық сипаттамалары бар анонимді деректер, мысалы, орын алған бағдарламалық құрал апаты туралы деректері бар файл алуымыз мүмкін. Мұндай деректердің ұялы байланыс арқылы жіберілмейтінін ескеріңіз. Nokia құрылғысы туралы ойыңызды естігіміз келеді!</string>
+    <string name="hmd_user_experience_program_title">Пайдаланушы тәжірибесі бағдарламасы</string>
+    <string name="idle_too_long_toast">Бұл телефон біраз уақытқа күту режиміне қойылды. Қуат үнемдеу үшін қазір өшіріңіз.</string>
+    <string name="insert_sim_cards">SD карталарын салу</string>
+    <string name="insert_sim_cards_prompt_content">"Қалай орындау керектігіне сеніміңіз жоқ па? Телефонның нұсқауларын қараңыз.
+
+SIM карталарыңызды салған соң, олардың іске қосылуына біраз секунд кетуі мүмкін."</string>
+    <string name="language_selection_cancel_btn">БАС ТАРТУ</string>
+    <string name="language_selection_title">Тіліңізді таңдау</string>
+    <string name="light_room_description">%1$s RAW (DNG) кескіндерін түсіруге қолдау көрсетеді. Adobe компаниясымен орнатылған серіктестігіміздің арқасында жаңа смартфонда тікелей өзгертуге болады.&lt;br/>&lt;br/>Қазір Google Play дүкенінен Adobe Photoshop Lightroom CC қолданбасын жүктеп алыңыз.</string>
+    <string name="light_room_title">Фотосуретке құмарсыз ба?</string>
+    <string name="link_speed">%1$d мбит/сек</string>
+    <string name="location_for_service">Google іздеу нәтижелері және басқа Google қызметтері үшін “Менің орным” опциясын пайдаланыңыз.</string>
+    <string name="location_info_1">Google орын анықтау қызметі GPS қызметін пайдаланбай, қолданбаларды шамалас орынмен қамтамасыз етеді.</string>
+    <string name="location_info_2">Параметрлер ішіндегі “Орын анықтау” қызметтерінде бұл мүмкіндіктерді өшіруге болады.</string>
+    <string name="location_network">Google орын анықтау қызметіне анонимді орын деректерін жинауға мүмкіндік беріңіз. Қолданбалар іске қосылмағанның өзінде жиналады.</string>
+    <string name="location_title">Google орын анықтау қызметін пайдалану</string>
+    <string name="nevigation_selection_back">Артқа</string>
+    <string name="nevigation_selection_home">Үй</string>
+    <string name="nevigation_selection_recent">Жуықта қолданылған</string>
+    <string name="nevigation_selection_text">Артқа / Соңғы пернелерінің фондық түсі мен орнын өзгертуге болады.</string>
+    <string name="nevigation_selection_title">Функциялық пернелерді көрсету</string>
+    <string name="next_btn_lebel">КЕЛЕСІ</string>
+    <string name="normal_date_format">Жергілікті (%s)</string>
+    <string name="not_now">ҚАЗІР ЕМЕС…</string>
+    <string name="passpoint_content">%1$s тіркелгі деректері</string>
+    <string name="passpoint_label">Сақталған әдіс</string>
+    <string name="please_select_phase2">2-ші фазалық аутентификация</string>
+    <string name="saved_network">Сақтаған: %1$s</string>
+    <string name="setup_complete_hmd">Сіз дайынсыз...</string>
+    <string name="setup_complete_hmd_1">Сіз дайын болуға жақын қалдыңыз...!</string>
+    <string name="setup_completed_congratulations">Құттықтаймыз!</string>
+    <string name="setup_finish">БАСТАЙЫҚ</string>
+    <string name="sim_editor_title">SIM %1$d-ұясы</string>
+    <string name="sim_not_exist_toast">SIM картасын салғаныңызды тексеріңіз.</string>
+    <string name="skip_add_account_button_label">Қазір емес</string>
+    <string name="skip_button_label">Өткізіп жіберу</string>
+    <string name="term_agree_text">Келісу</string>
+    <string name="term_disagree_text">Келіспеу</string>
+    <string name="terms_of_service_description">"
+Желі байланысын қажет ететін ауа райы қызметтері, интернет қызметтері, электрондық пошта, браузер, т.б. сияқты қызметтерді пайдаланған кезде, мобильдік деректерді пайдалануға қосымша ақылар алынуы мүмкін. Мобильдік деректер ақысын тиімдірек пайдалану үшін провайдеріңізден тиісті мобильдік қызмет бумасын алуға кеңес береміз.
+
+“Келісемін” опциясын таңдау арқылы бұл қызметтердің қажет кезінде желіге қосылуына мүмкіндік бересіз.
+
+Бұдан басқа, автоматты бағдарламалық құрал жаңартуы әдепкісінше қосылады. Ең соңғы бағдарламалық құрал тәжірибесіне мобильдік деректер аз пайдаланылуы мүмкін. Параметрлер арқылы әрдайым бұл опцияны кейінірек өзгертуге болады.
+
+"</string>
+    <string name="terms_title">Деректер пайдалану</string>
+    <string name="time_picker_title">Уақыт</string>
+    <string name="traffic_prompt_content">Егер келіспейтін болсаңыз, бағдарламалық құрал жаңартуын, ауа райы болжамын немесе басқа ақпаратты қолмен алуыңыз керек болады.</string>
+    <string name="upload_agent_des_text">"Пайдаланушы тәжірибесі бағдарламасына қосылыңыз. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Қосымша ақпарат&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia пайдаланушы тәжірибесі бағдарламасына қосылыңыз. &lt;a href='launch.UserExperienceActivity://Kode'>Қосымша ақпарат.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"“БАСТАЙЫҚ” опциясын түртіп, пайдаланушы тәжірибесі бағдарламасына қосылуға келісесіз. &lt;a href='launch.UserExperienceActivity://Kode'>Қосымша ақпарат&lt;/a>. Параметрлер арқылы әрдайым кейінірек қосылуға болатынын ұмытпаңыз."</string>
+    <string name="upload_agent_title">Пайдаланушы тәжірибесі бағдарламасы</string>
+    <string name="welcome_hmd_term_of_use_2">"Көрсеткіні түртіп, &lt;a href='launch.TermOfServiceActivity://Kode'>Қызмет шарттары&lt;/a> мен &lt;a href='launch.AddUploadAgentHandler://Kode'>Құпиялық саясатына&lt;/a> келісесіз. Бір уақыттық құрылғы орны арқылы құрылғыны іске қосу туралы ақпарат HMD Global компаниясына жіберіледі. Ақпараттық ақылар алынуы мүмкін."</string>
+    <string name="welcome_hmd_term_of_use_4">"Түймені түртіп, &lt;a href='launch.TermOfServiceActivity://Kode'>Қызмет шарттары&lt;/a> мен &lt;a href='launch.AddUploadAgentHandler://Kode'>Құпиялық саясатына&lt;/a> келісесіз. Бір реттік құрылғы орны арқылы құрылғыны іске қосу туралы ақпарат HMD Global компаниясына жіберіледі.&lt;br/>&lt;br/>Автоматты бағдарламалық құралы жаңартуы туралы хабарландыру қосылып, сіз үшін ең соңғы жаңартуларды орнатады. Бұл деректер бюджетінің кіші бөлігін пайдалануы мүмкін. Қызметтер қажетті кезінде интернетке кіреді.&lt;br/>&lt;br/>Бұл қызметтер ұялы байланыс желілеріне өткенде, оларға тым жоғары ақы алынады."</string>
+    <string name="welcome_hmd_term_of_use_5">"Түймені түртіп, &lt;a href='launch.TermOfServiceActivity://Kode'>Қызмет шарттарына&lt;/a> келісесіз. Бір уақыттық құрылғы орны арқылы құрылғыны іске қосу туралы ақпарат HMD Global компаниясына жіберіледі. Ақпараттық ақылар алынуы мүмкін. Деректер &lt;a href='launch.AddUploadAgentHandler://Kode'>Құпиялық саясатына&lt;/a> сәйкес пайдаланылады."</string>
+    <string name="welcome_infocus_term_of_use">"Көрсеткіні түртіп,&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Қызмет шарттарына&lt;/a> келісесіз"</string>
+    <string name="welcome_lets_go_button_label">Бастайық</string>
+    <string name="welcome_message">Қош келдіңіз</string>
+    <string name="welcome_start_button_label">БАСТАУ</string>
+    <string name="welcome_vision_settings_button_label">Көрініс параметрлері</string>
+    <string name="wifi_certificate">Сертификат</string>
+    <string name="wifi_picker_connection_negative">Қосылу</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_warning_negative">Бәрібір өткізіп жіберу</string>
+    <string name="wifi_picker_warning_title">Ескерту</string>
+    <string name="wifi_save">Сақтау</string>
+    <string name="zone_auto">Aвтоматты уақыт белдеуі</string>
+    <string name="zone_auto_summaryOff">Желідегі уақыт белдеуін қолдану</string>
+    <string name="zone_auto_summaryOn">Желідегі уақыт белдеуін қолдану</string>
+    <string name="sugarsync_intro_description">Бірнеше оңай қадамды орындау арқылы SugarSync қызметімен білінбес бұлтқа сақтау тұтастығын байқауға болады.</string>
+</resources>

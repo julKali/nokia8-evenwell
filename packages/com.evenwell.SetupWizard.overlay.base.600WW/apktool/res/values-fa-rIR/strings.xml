@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"با ضربه زدن روی دکمه، موافقت خود را با &lt;a href='launch.TermOfServiceActivity://Kode'>شرایط سرویس&lt;/a> و &lt;a href='launch.AddUploadAgentHandler://Kode'>سیاست حفظ حریم خصوصی&lt;/a> اعلام می‌کنید. اطلاعات فعال‌سازی دستگاه با مکان یک بار مصرف دستگاه به HMD Global ارسال خواهد شد.&lt;br/>&lt;br/>اعلان به‌روزرسانی خودکار نرم‌افزار که جدیدترین به‌روزرسانی‌ها را برای شما فعال می‌کند، فعال خواهد شد. ممکن است از بخش کوچکی از بودجه داده‌های شما استفاده کند. هر زمانی که خدمات به اینترنت نیاز داشته باشند، به آن دسترسی خواهند داشت.&lt;br/>&lt;br/>زمانی که این خدمات به شبکه‌های تلفن همراه دسترسی دارند، هزینه‌های زیادی دربرخواهند داشت."</string>
+    <string name="welcome_hmd_term_of_use_5">"با ضربه زدن بر روی این دکمه، شما موافقت خود را با &lt;a href='launch.TermOfServiceActivity://Kode'>شرایط سرویس&lt;/a> اعلام می‌کنید‎. داده‌های شما طبق &lt;a href='launch.AddUploadAgentHandler://Kode'>سیاست حریم خصوصی&lt;/a> ‏HMD پردازش خواهند شد. اطلاعات فعال‌سازی دستگاه با موقعیت مکانی یک‌باره‌ دستگاه به HMD Global ارسال خواهد شد. هزینه‌های داده‌های تلفن همراه ممکن است اعمال شود."</string>
+    <string name="next_btn_lebel">بعدی</string>
+    <string name="accessibility_text">قابلیت دسترسی</string>
+    <string name="language_selection_cancel_btn">لغو</string>
+    <string name="datausage_dialog_positive_btn">تأیید</string>
+    <string name="datausage_dialog_negitive_btn">لغو</string>
+    <string name="wapi_psk_security_type">نوع رمز عبور</string>
+    <string name="upload_agent_hmd_des_text_3">"با ضربه زدن روی \"شروع کنیم\"، شما قبول می‌کنید که به \"برنامه تجربه کاربر\" بپیوندید. &lt;a href='launch.UserExperienceActivity://Kode'>بیشتر بدانید&lt;/a>. به یاد داشته باشید، شما می‌توانید همیشه بعداً از طریق تنظیمات بپیوندید."</string>
+    <string name="setup_complete_hmd_1">شما تقریباً آماده هستید...!</string>
+    <string name="not_now">الان نه...</string>
+    <string name="setup_finish">شروع کنیم</string>
+    <string name="wifi_fail_to_scan">نمی‌توان شبکه‌ها را اسکن کرد</string>
+    <string name="wifi_disabled_network_failure">پیکربندی IP انجام نشد</string>
+    <string name="wifi_disabled_password_failure">مشکل تأیید اعتبار</string>
+    <string name="wifi_not_in_range">در محدوده نیست</string>
+    <string name="wifi_no_internet_no_reconnect">به طور خودکار متصل نخواهد شد</string>
+    <string name="wifi_no_internet">اتصال اینترنتی وجود ندارد</string>
+    <string name="saved_network">ذخیره توسط %1$s</string>
+    <string name="connected_via_passpoint">متصل از طریق %1$s</string>
+    <string name="available_via_passpoint">در دسترس از طریق %1$s</string>
+    <string name="wifi_connected_no_internet">متصل شد، اینترنت وجود ندارد</string>
+    <string name="wifi_auth_password_wrong">ممکن است رمز عبور اشتباه باشد</string>
+    <string name="connected_via_wfa">متصل از طریق دستیار Wi‑Fi</string>
+    <string name="wifi_ssid">نام شبکه</string>
+    <string name="wifi_ssid_hint">‏SSID را وارد کنید</string>
+    <string name="wifi_eap_method">روش EAP</string>
+    <string name="please_select_phase2">تأیید اعتبار مرحله 2</string>
+    <string name="wifi_eap_ca_cert">‏گواهی CA</string>
+    <string name="wifi_do_not_validate_eap_server_warning">هیچگونه گواهی مشخص نشده است. اتصال شما خصوصی خواهد بود.</string>
+    <string name="wifi_eap_domain">دامنه</string>
+    <string name="wifi_no_domain_warning">باید دامنه‌ای مشخص کنید.</string>
+    <string name="wifi_eap_user_cert">گواهینامه کاربر</string>
+    <string name="wifi_eap_identity">هویت</string>
+    <string name="wifi_eap_anonymous">هویت ناشناس</string>
+    <string name="wifi_show_password">نمایش رمز عبور</string>
+    <string name="wifi_advanced_toggle_description_collapsed">فهرست بازشوی گزینه‌های پیشرفته. برای گسترش، دو بار ضربه بزنید.</string>
+    <string name="wifi_show_advanced">گزینه‌های پیشرفته</string>
+    <string name="proxy_warning_limited_support">‏این مرورگر از پروکسی HTTP استفاده می‌کند اما ممکن است برنامه‌های دیگر از آن استفاده نکنند.</string>
+    <string name="proxy_hostname_label">نام میزبان پراکسی</string>
+    <string name="proxy_exclusionlist_label">‏پراکسی Bypass برای</string>
+    <string name="wifi_ip_settings">‏تنظیمات IP</string>
+    <string name="wifi_ip_address">‏آدرس IP</string>
+    <string name="wifi_gateway">دروازه</string>
+    <string name="wifi_network_prefix_length">طول پیشوند شبکه</string>
+    <string name="wifi_shared">اشتراک‌گذاری با دیگر استفاده‌کنندگان از دستگاه</string>
+    <string name="proxy_port_label">درگاه پراکسی</string>
+    <string name="wifi_unspecified">لطفاً انتخاب کنید</string>
+    <string name="wifi_multiple_cert_added">(چندین گواهینامه اضافه شد)</string>
+    <string name="wifi_use_system_certs">استفاده از گواهی‌های سیستم</string>
+    <string name="wifi_do_not_provide_eap_user_cert">ارائه نشود</string>
+    <string name="wifi_do_not_validate_eap_server">راستی‌آزمایی نشود</string>
+    <string name="wifi_add_network">افزودن شبکه</string>
+    <string name="passpoint_label">ذخیره از طریق</string>
+    <string name="wifi_status">وضعیت</string>
+    <string name="wifi_signal">قدرت سیگنال</string>
+    <string name="wifi_speed">سرعت پیوند</string>
+    <string name="link_speed">‏%1$d مگابیت</string>
+    <string name="wifi_forget">فراموش کردن</string>
+    <string name="proxy_error_invalid_port">درگاهی که وارد کردید معتبر نیست.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">‏یک آدرس IP معتبر تایپ کنید.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">یک پیشوند شبکه با طول بین 0 تا 32 نویسه تایپ کنید.</string>
+    <string name="wifi_ip_settings_invalid_gateway">یک آدرس دروازه معتبر را تایپ کنید.</string>
+    <string name="wifi_ip_settings_invalid_dns">‏یک آدرس DNS معتبر را تایپ کنید.</string>
+    <string name="wifi_unchanged">(بدون تغییر)</string>
+    <string name="wifi_failed_connect_message">اتصال به شبکه برقرار نشد</string>
+    <string name="wifi_failed_save_message">شبکه ذخیره نشد</string>
+    <string name="wifi_failed_forget_message">شبکه فراموش نشد</string>
+    <string name="proxy_error_empty_host_set_port">اگر قسمت میزبان خالی است، قسمت درگاه باید خالی باشد.</string>
+    <string name="proxy_error_empty_port">باید قسمت درگاه را پر کنید.</string>
+    <string name="proxy_error_invalid_exclusion_list">فهرست استثنایی که تایپ کردید، به درستی قالب‌بندی نشده است. یک فهرست از دامنه‌های مستثنی شده تایپ کنید که با ویرگول جدا شده باشند.</string>
+    <string name="wifi_advanced_toggle_description_expanded">فهرست بازشوی گزینه‌های پیشرفته. برای کوچک کردن، دو بار ضربه بزنید.</string>
+    <string name="passpoint_content">اطلاعات کاربری %1$s</string>
+    <string name="sim_editor_title">‏شیار سیم‌کارت %1$d</string>
+    <string name="wifi_certificate">گواهینامه</string>
+    <string name="wifi_setting_title">متصل شد</string>
+    <string name="wifi_skip_anyway">با این وجود، رد می‌شوید</string>
+    <string name="wifi_dont_skip">بازگشت</string>
+    <string name="wifi_and_mobile_skipped_message">"اتصال به یک شبکه، به شما کمک می‌کند تا به سرعت تلفنتان را تنظیم کنید.
+
+بدون اتصال، نمی‌توانید
+
+"<li>وارد حساب فضای ابری خود شوید</li>"
+
+"<li>به‌روزرسانی‌های نرم‌افزار را دریافت کنید</li>"
+
+"<li>ساعت و تاریخ را به طور خودکار تنظیم کنید</li></string>
+</resources>

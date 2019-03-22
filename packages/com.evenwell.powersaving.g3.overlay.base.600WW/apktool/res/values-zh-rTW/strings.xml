@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blacklist">黑名單</string>
+    <string name="fih_power_saving_power_saver_title">省電管理</string>
+    <string name="fih_power_saving_power_saver_status_on">開啟</string>
+    <string name="fih_power_saving_power_saver_status_off">關閉</string>
+    <string name="fih_power_saving_time_schedule_title">定時啟動</string>
+    <string name="fih_power_saving_time_schedule_set_time_equal">開始時間不能等於結束時間。</string>
+    <string name="fih_power_saving_request_dialog_title">開啟省電管理</string>
+    <string name="fih_power_saving_request_dialog_cancel">取消</string>
+    <string name="fih_power_saving_request_dialog_enable">啟用</string>
+    <string name="fih_power_saving_battery_Approx">約剩餘 %1$s</string>
+    <string name="fih_power_saving_normal_mode_title">省電</string>
+    <string name="fih_power_saving_normal_mode_summary">套用省電設定</string>
+    <string name="fih_power_saving_extreme_mode_title">超省電</string>
+    <string name="fih_power_saving_extreme_mode_summary">禁止背景應用及網路連線，這可能導致部分應用無法正常運作</string>
+    <string name="fih_power_saving_normal_mode_is_running">省電模式正在執行</string>
+    <string name="fih_power_saving_extreme_mode_is_running">超省電模式正在執行</string>
+    <string name="fih_power_saving_time_schedule_mode_selection_title">模式選擇</string>
+    <string name="fih_power_saving_time_schedule_mode_selection_normal">省電</string>
+    <string name="fih_power_saving_time_schedule_mode_selection_extreme">超省電</string>
+    <string name="fih_power_saving_time_schedule_set_time_title">設定省電排程時間</string>
+    <string name="fih_power_saving_time_schedule_start_label">開始 - </string>
+    <string name="fih_power_saving_time_schedule_end_label">結束 - </string>
+    <string name="fih_power_saving_request_dialog_msg_normal_mode">"電量低於20％，您要啟用省電管理來節省電力嗎？
+
+這將啟用省電模式。"</string>
+    <string name="fih_power_saving_request_dialog_msg_extreme_mode">"電量低於10％，您要啟用省電管理來節省電力嗎？
+
+這將啟用超省電模式。"</string>
+    <string name="power_saving_mode_warning_info_normal_mode_title">"啟用省電模式將執行以下操作：
+
+"</string>
+    <string name="power_saving_mode_warning_info_extreme_mode_title">"啟用超省電模式將執行以下操作：
+
+"</string>
+    <string name="power_saving_mode_warning_info_item_cpu">"• 限制CPU效能
+"</string>
+    <string name="power_saving_mode_warning_info_item_brightness">"• 降低螢幕亮度
+"</string>
+    <string name="power_saving_mode_warning_info_item_bt">"• 關閉藍牙
+"</string>
+    <string name="power_saving_mode_warning_info_item_ic">"• 沒有任何下載活動時，自動中斷網路連線
+"</string>
+    <string name="power_saving_mode_warning_info_item_bg_service">"• 開啟背景服務管理
+"</string>
+    <string name="power_saving_mode_warning_info_item_gps">"• 關閉GPS
+"</string>
+    <string name="power_saving_mode_warning_info_item_resolution">"• 降低螢幕解析度
+"</string>
+    <string name="power_saving_mode_warning_info_item_glance">"• 關閉Glance mode
+"</string>
+    <string name="power_saving_mode_warning_info_item_vibration">"• 關閉振動和背景資料傳輸
+"</string>
+    <string name="power_saving_mode_warning_info_item_hotspot">"• 關閉WiFi熱點服務
+"</string>
+    <string name="power_saving_mode_warning_info_item_timeout">"• 螢幕逾時更改為15秒
+"</string>
+    <string name="fih_power_saving_dialog_ok_FIH">確定</string>
+    <string name="fih_power_saving_battery_status">電池狀態</string>
+</resources>

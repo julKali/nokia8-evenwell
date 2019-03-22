@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diagnóstico del sistema</string>
+    <string name="setting_page_name">Programa de experiencia del usuario</string>
+    <string name="send_diag_dialog_any_network">Cuando la conexión de datos está disponible</string>
+    <string name="send_diag_dialog_wifi">Cuando la conexión Wi-Fi está disponible</string>
+    <string name="send_diag_dialog_wlan">Cuando la conexión WLAN está disponible</string>
+    <string name="send_diag_dialog_title">Enviar diagnóstico</string>
+    <string name="diagnostics_setting">Diagnóstico</string>
+    <string name="diagnostics_report">Informe de diagnóstico</string>
+    <string name="diagnostics_report_summary">Enviar informe de diagnóstico cuando el dispositivo muestre un error de software. Puede generar costes al usar la red. Se recomienda adquirir un paquete de datos del proveedor móvil.</string>
+    <string name="network_options">Opciones de red</string>
+    <string name="send_diagnostics">Enviar diagnóstico</string>
+    <string name="privacy_statement">Declaración de privacidad</string>
+    <string name="diagnostics_description">Ayúdenos a mejorar nuestros productos y servicios permitiéndonos recoger datos de diagnóstico cuando su dispositivo muestro un error de software o se congele. Siempre puede cambiar la opción más adelante en Ajustes.</string>
+    <string name="privacy_activity">Declaración de privacidad</string>
+    <string name="go_label">Hecho</string>
+    <string name="diagnostics_confirmation">Sí, acepto enviar los datos de diagnóstico automáticamente.</string>
+    <string name="setcomplete">Configuración completada.</string>
+    <string name="agree_dialog">Ya hemos cambiado nuestro Programa de experiencia de usuario y la Declaración de privacidad relacionada. Ayúdenos a mejorar nuestros productos y servicios registrándose en el Programa de experiencia de usuario ahora. Siempre puede cambiar la opción en Ajustes. Puede generar costes al usar la red tras unirse al Plan de experiencia de usuario. Se recomienda adquirir un paquete de datos del proveedor móvil.</string>
+    <string name="agree">Acepto</string>
+    <string name="see_detail">Detalle</string>
+    <string name="next_btn_lebel">Siguiente</string>
+</resources>

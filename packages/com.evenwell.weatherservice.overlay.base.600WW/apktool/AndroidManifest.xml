@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.evenwell.weatherservice.overlay" platformBuildVersionCode="26" platformBuildVersionName="8.0.0">
+    <overlay android:isStatic="true" android:priority="5" android:requiredSystemPropertyName="ro.cda.skuid.id_final" android:requiredSystemPropertyValue="600WW" android:targetPackage="com.evenwell.weatherservice"/>
+</manifest>

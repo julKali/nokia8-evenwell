@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" android:sharedUserId="android.uid.system" package="com.evenwell.stbmonitor" platformBuildVersionCode="9001005" platformBuildVersionName="9.0010.05">
+    <protected-broadcast android:name="com.fihtdc.action.AP.intent.DMC.ReportValue"/>
+    <protected-broadcast android:name="fih.dbgcfgtool.change_qxdm_prefernce_setting"/>
+    <protected-broadcast android:name="fih.dbgcfgtool.UPDATE_LOG_CONFIG"/>
+    <protected-broadcast android:name="fih.stbmonitor.service_action"/>
+    <protected-broadcast android:name="fih.stbmonitor.regular_queue_time_expired"/>
+    <protected-broadcast android:name="com.evenwell.stbmonitor.APK_INSTALL_CPMPLETE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.DISABLE_STATUS_BAR"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application android:allowBackup="true" android:allowClearUserData="false" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.fihtdc.stbmonitor.StabilityMonitorApp" android:supportsRtl="true">
+        <activity android:label="@string/app_name" android:name="com.fihtdc.stbmonitor.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.fihtdc.stbmonitor.apruploadagent.UploadService">
+            <intent-filter>
+                <action android:name="com.fihtdc.AprUploadAgent.UPLOAD_FILE"/>
+            </intent-filter>
+        </service>
+        <receiver android:name="com.fihtdc.stbmonitor.StabilityMonitorReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.fihtdc.action.DMC.NewValueSet"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.fihtdc.action.DMC.Request.ReportValue"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="277" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="3277" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.fihtdc.AprUploadService.BootComplete"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="fih.dbgcfgtool.DMC"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.evenwell.stbmonitor.action.fb"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.fihtdc.stbmonitor.queue.STBMonitorReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DROPBOX_ENTRY_ADDED"/>
+                <action android:name="fih.stbmonitor.service_action"/>
+                <action android:name="com.fihtdc.AprUploadService.BootComplete"/>
+                <action android:name="com.fihtdc.action.DMC.NewValueSet"/>
+                <action android:name="com.fihtdc.action.DMC.Request.ReportValue"/>
+                <action android:name="fih.stbmonitor.regular_queue_time_expired"/>
+                <action android:name="fih.stbmonitor.regular_queue_file_upload_check"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.fihtdc.stbmonitor.queue.STBMonitorService" android:stopWithTask="true"/>
+        <service android:name="com.fihtdc.stbmonitor.queue.STBScanIntentService" android:stopWithTask="true"/>
+        <service android:name="com.fihtdc.stbmonitor.queue.STBIntentService" android:stopWithTask="true"/>
+        <service android:name="com.fihtdc.stbmonitor.queue.STBUploadIntentService" android:stopWithTask="true"/>
+        <service android:name="com.fihtdc.stbmonitor.queue.STBUploadRetryService" android:stopWithTask="true"/>
+        <uses-library android:name="com.fihtdc.UploadAgentService"/>
+        <meta-data android:name="android.support.VERSION" android:value="26.1.0"/>
+        <meta-data android:name="android.arch.lifecycle.VERSION" android:value="27.0.0-SNAPSHOT"/>
+    </application>
+</manifest>

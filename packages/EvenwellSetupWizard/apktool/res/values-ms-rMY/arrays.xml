@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statik</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Kesan secara automatik</item>
+        <item>Kendalikan sebagai bermeter</item>
+        <item>Kendalikan sebagai tidak bermeter</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Tiada</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Tiada</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Tiada</item>
+        <item>Manual</item>
+        <item>Auto Konfig Proksi</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Lemah</item>
+        <item>Sederhana</item>
+        <item>Baik</item>
+        <item>Hebat</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Mengimbas…</item>
+        <item>Bersambung…</item>
+        <item>Mengesahkan…</item>
+        <item>Mendapatkan alamat IP…</item>
+        <item>Disambungkan</item>
+        <item>Digantung</item>
+        <item>Memutuskan sambungan…</item>
+        <item>Diputuskan sambungan</item>
+        <item>Tidak berjaya</item>
+        <item>Disekat</item>
+        <item>Mengelakkan sambungan lemah buat sementara</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Mengimbas…</item>
+        <item>Bersambung ke %1$s…</item>
+        <item>Mengesahkan dengan %1$s…</item>
+        <item>Mendapatkan alamat IP daripada %1$s…</item>
+        <item>Disambungkan ke %1$s</item>
+        <item>Digantung</item>
+        <item>Memutuskan sambungan daripada %1$s…</item>
+        <item>Diputuskan sambungan</item>
+        <item>Tidak berjaya</item>
+        <item>Disekat</item>
+        <item>Mengelakkan sambungan lemah buat sementara</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>Perenambelasan WAPI</item>
+    </string-array>
+</resources>

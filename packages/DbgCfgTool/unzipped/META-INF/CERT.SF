@@ -1,0 +1,164 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: C0ZB2b0YyTi4hKhY/yCvIum4C4F0Ux+4sgwjk7VAmS0=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: O0MCxdjKql/5uaZOBqFIxwe449ri6Ixt7Pqo/mNav0Q=
+
+Name: assets/DCTTable_MTK.xml
+SHA-256-Digest: QmfsCKpvHKLk1x695VHtF1c0RICOfWVZ3pnwNvb4Gtg=
+
+Name: assets/DCTTable_QC.xml
+SHA-256-Digest: rf05e2s/y0Uj7AlD5OKrYUByKLcfmze51MlmY7W+pTE=
+
+Name: assets/DbgCfgTool_DefaultSetting.xml
+SHA-256-Digest: /ev53lzJn8LbwJLTnxsYDvffFBUkeALMPtD0AylT3Dc=
+
+Name: assets/DefaultDbgConfig.xml
+SHA-256-Digest: UtdjIBFJImDhc9hxqJEOkHKieeJvpF5bzRnHCb5IzIM=
+
+Name: assets/cpfile
+SHA-256-Digest: 74lb/e1h/+teOV+OEDkac8v7TmpGCXjFpe9woAg2eNY=
+
+Name: assets/dynamic_log_ctrl_default.xml
+SHA-256-Digest: D/LsAVCu+MRGnQ4bpYecHZPd8Vjhf5PZVAvmN3s1yHs=
+
+Name: assets/fihop.sh
+SHA-256-Digest: TlPjzUoHTbIwSp5Ccw5XmFFNtZr1XiY45vNnDJhQfOs=
+
+Name: classes.dex
+SHA-256-Digest: SFpq6wf9e5waM9D8Nja1sGo6w55g8uic1khtXsWHKqM=
+
+Name: com/evenwell/PowerMonitor/service/aidl/IPowerLogService.aidl
+SHA-256-Digest: KFhKODeMsR4EVwr8ogthBRRXiRF9qSumaqAIssrzr/Q=
+
+Name: com/evenwell/PowerMonitor/service/aidl/IPwlCallback.aidl
+SHA-256-Digest: 6OlCmFPiMokqVtOJbk+UvsIwrV06O9PNmOtxeokFPQ0=
+
+Name: com/fihtdc/bboxsbox/IBBSCallback.aidl
+SHA-256-Digest: FGscLdZ07p8MZsxS+jOA9GXapq70BRzQOztfpCiwbfQ=
+
+Name: com/fihtdc/bboxsbox/IBBoxsBoxService.aidl
+SHA-256-Digest: 6IScDSjirIPbdhFsby7JwXeZKfAMShg8gLeYIdoixeg=
+
+Name: res/drawable/alert_dialog_icon.png
+SHA-256-Digest: 2HmQdZHUGc4M91ZZuJScCsg/7ycXcaXLPe225iqPTVY=
+
+Name: res/drawable/icon.png
+SHA-256-Digest: MgPrIYa/9uuQ42m2ZoHbt7+J7mkTsPR9fHmE22xIioA=
+
+Name: res/layout/about_activity.xml
+SHA-256-Digest: Fa9lKnsjTnMNQ3zdqqCxGI04xUmjnkZUrwr7W2JkyIk=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: /2k7RPFHxLwuVzMSHIjZp5RZCtRF1tHKeOgsPfvJUNw=
+
+Name: res/layout/activity_ssr_option.xml
+SHA-256-Digest: fM8dLZYj6R+jXe9Ufmah9hoYqyCXIpyQR5hSx0em7/I=
+
+Name: res/layout/adb_log_config.xml
+SHA-256-Digest: qB5uavmd41XKpw2h/ddlVdkwJxW5h/do5Lg/mrWaMEs=
+
+Name: res/layout/apk_fragment.xml
+SHA-256-Digest: d0WW5GA+DdNbxdGNQKcn4dZPNn5gKjslWvN7eDxLGPA=
+
+Name: res/layout/arrow_down.xml
+SHA-256-Digest: 0tVBi906B0lKlH0NHo4EiyuNkMZ507baZti3f6H4vIA=
+
+Name: res/layout/dalvik_heap_dump.xml
+SHA-256-Digest: x4W1IZ0la7qheA+9sEewpXCrHypSv2GoQjofph0r5tQ=
+
+Name: res/layout/debug_command.xml
+SHA-256-Digest: 6c2+3lSxA0gG/RLDZDenp5JTUYxtjHEnXC7ugHnHqSM=
+
+Name: res/layout/dele_log_config.xml
+SHA-256-Digest: vfqnaPAP+K37EiJOeSkzeY1jxZIwbYzi+wcbDrQVK08=
+
+Name: res/layout/directory_list.xml
+SHA-256-Digest: 1y7XF/saKP3+cX1dFqtuAT2ew/J4lGvHaJB2oyFnT+U=
+
+Name: res/layout/framework_fragment.xml
+SHA-256-Digest: hBCNuEKy4LqORJy0c0De9y+FXnPpAT4ETacmzOiLgxg=
+
+Name: res/layout/linux_fragment.xml
+SHA-256-Digest: OkTSp4hL/LYE7IEUeTDJh20An0NbwrXOqpU/PRZjS2E=
+
+Name: res/layout/logger_config.xml
+SHA-256-Digest: E97hpTG+i1CvsXEFlUnxQLl+blwuYOI+grC9hDDzMV0=
+
+Name: res/layout/main.xml
+SHA-256-Digest: icFI4QIGcJt7Fho+xtryAAzXbumcb8Bw3ofd6eYMa3c=
+
+Name: res/layout/main_fragment.xml
+SHA-256-Digest: kNWRq6+3+sPmaybdE4N3o4oewwBEtcTP52hlqSGb3oo=
+
+Name: res/layout/misc_config.xml
+SHA-256-Digest: uwAMC1WsuakNqZChZmhIgjIwnzUiJWlca8xBBvZl5xA=
+
+Name: res/layout/modem_general_config.xml
+SHA-256-Digest: f3+qXT08rfyaarZJB9V4NbiTVyIu0HPeJ15KGd46wAk=
+
+Name: res/layout/modem_modemlink_config.xml
+SHA-256-Digest: 8GTf9dKHu/0YtncAPjC2WV7T/q+4l8FvZ+WALpnhJTk=
+
+Name: res/layout/modem_ramdump_config.xml
+SHA-256-Digest: X/7E61t0Pa+tnoHgwsUZ7bQHjHxPe83P+TfxsZfUj5U=
+
+Name: res/layout/profile_manager.xml
+SHA-256-Digest: IBPYZ0LbRbTK2FSswUzwTmH/CnjMd9bddJ6cMz4Tdng=
+
+Name: res/layout/qxdm_config.xml
+SHA-256-Digest: dwAbdi/+qFkgbdSGKVbnLDiSPdnzpKcovE/9yvh49/c=
+
+Name: res/layout/settings.xml
+SHA-256-Digest: 4VxeSNh23D1dYS0DqtsP869yrQx50Y8MtwLJTV1MT1A=
+
+Name: res/layout/smd_rpcrouter_config.xml
+SHA-256-Digest: O0PQyz7Gd7TpKrFy268DxCvdicMk1YqX8ThaDd1lf7c=
+
+Name: res/layout/tcpdump_tool.xml
+SHA-256-Digest: dKBSjFYX4NK1f1F0+qFnGMjDbtMG27M7H1i2rat44qo=
+
+Name: res/layout/test_options.xml
+SHA-256-Digest: 5kuTU54CuqFIX2fFa3NukSPs/8POqhENmgtlKOq4A/E=
+
+Name: res/layout/uart_debug_config.xml
+SHA-256-Digest: fBTu6ybfmqbQlI+fY+/AihsElqEAwvG6Dzd049WeI+U=
+
+Name: res/menu/main.xml
+SHA-256-Digest: 9N3ZZPt1FofzgwZfpi9YNOgy845LQAVeB5djX/gjtHI=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: eEdD2ysSzTM7BQoEgCMXys4llBhstRksN6bbROVEcp0=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: T7J2zTzAvA4qc9mpKb1Fb2OPdXX4/emAxfYEieoqyxk=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: igPfZ8lP/AlduHvMPtsox7r+bn7kzptpNDqR5fljfnY=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: RVBbl5CM410eckEeTOSn0CzvFeCYwkxZu4GYcKx6MIU=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: JDRxwMzq8L4jYpN1aESgS+jwzyoJQzSgm+bSNSQuCEE=
+
+Name: res/xml/debug_driver_settings.xml
+SHA-256-Digest: rckPAcGEHoWHTH1+OOgk1Fp4FEWTXydvIZdFPiHgufc=
+
+Name: res/xml/debug_modem_settings.xml
+SHA-256-Digest: LRyeAOpOOgINXL2x2tqQ5jgG3SRpVVU1UtsSyJ9/qZw=
+
+Name: res/xml/linux_android_debug.xml
+SHA-256-Digest: /4hOD3FMmmNavzZCLjBKY8QfNsI0zfyay0wlx4rftIY=
+
+Name: res/xml/modem_conf.xml
+SHA-256-Digest: EO0kpQaD/koBU2rFQLzEFLJphWzdtZwVPRaMiXtoJ08=
+
+Name: res/xml/qdiaglogcat_preferences.xml
+SHA-256-Digest: 7OeKM+PI+InbrZSkkuwFwzR1BinWmxagIA3oG83sXpU=
+
+Name: resources.arsc
+SHA-256-Digest: pRim338681+eUJ083b/33BhboQdq/5mSIxJjlzLn8Ck=
+

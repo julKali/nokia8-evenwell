@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD-privaatheidsbeleid</string>
+    <string name="privacy_activity">HMD-privaatheidsbeleid</string>
+    <string name="go_label">Klaar</string>
+    <string name="agree">Stem in</string>
+    <string name="see_detail">Besonderhede</string>
+    <string name="next_btn_lebel">Volgende</string>
+    <string name="app_name">Stelseldiagnostiek</string>
+    <string name="setting_page_name">Gebruikerservaringsprogram</string>
+    <string name="send_diag_dialog_any_network">Wanneer dataverbinding beskikbaar is</string>
+    <string name="send_diag_dialog_wifi">Wanneer Wi-Fi-verbinding beskikbaar is</string>
+    <string name="send_diag_dialog_wlan">Wanneer WLAN-verbinding beskikbaar is</string>
+    <string name="send_diag_dialog_title">Stuur diagnostiek</string>
+    <string name="diagnostics_setting">Diagnostiek</string>
+    <string name="diagnostics_report">Diagnostiekverslag</string>
+    <string name="diagnostics_report_summary">Stuur diagnostiekverslag wanneer toestel ’n sagtewarefout ervaar. Dit kan moontlik koste v netwerkgebruik genereer. Verkryging van datanetwerk-pakket van draer word aanbeveel.</string>
+    <string name="network_options">Netwerkopsies</string>
+    <string name="send_diagnostics">Stuur diagnostiek</string>
+    <string name="diagnostics_description">Help ons om ons produkte en dienste te verbeter deur ons toe te laat om diagnostiekdata in te samel as jou toestel ’n sagtewarefout ervaar of ineenstort. Jy kan altyd later die opsie in Instellings verander.</string>
+    <string name="cancel_upload_confirm_msg">Jy is op die punt om ons gebruikerervaring-program te verlaat. Sagtewarefoute wat op jou selfoon voorkom, sal nie behou en gestuur word nie. Daarom sal dit dalk nie jou ervaring van die selfoon verbeter nie!</string>
+</resources>

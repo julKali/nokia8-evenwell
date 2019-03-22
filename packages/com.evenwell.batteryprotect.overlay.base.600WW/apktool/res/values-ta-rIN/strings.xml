@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">பேட்டரி பாதுகாப்பு</string>
+    <string name="fih_battery_protect_alert_dialog_ok">செய்தாயிற்று</string>
+    <string name="fih_battery_protect_warning_title">அதிக வெப்பநிலை குறித்த எச்சரிக்கை</string>
+    <string name="fih_battery_protect_cooldown_title">வெப்பநிலையைக் குறைக்கிறது</string>
+    <string name="fih_battery_protect_normalmode_title">இயல்பான வெப்பநிலை</string>
+    <string name="fih_battery_protect_warning_text">மொபைலின் வெப்பநிலையைக் குறைக்க, அழைப்பையும் செயலிகளையும் உடனே நிறுத்தவும்.</string>
+    <string name="fih_battery_protect_cooldown_text">ஃபோன் தற்போது வெப்பநிலை குறைப்பு பயன்முறையில் உள்ளது, அவசர அழைப்பு மட்டுமே செய்ய முடியும்.</string>
+    <string name="fih_battery_protect_normalmode_text">வழக்கமான செயல்பாடு மீண்டும் தொடங்கப்பட்டது.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">அவசரகால அழைப்பு</string>
+    <string name="fih_battery_protect_maxtemp_title">அதிகபட்ச வெப்பநிலை</string>
+    <string name="fih_battery_protect_maxtemp_text">ஃபோன் வெப்பநிலை மிகவும் அதிகமாக இருப்பதால், அதன் இயக்கம் இப்போது நிறுத்தப்படும்.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">சார்ஜ் செய்வது நிறுத்தப்பட்டது</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">சார்ஜ் செய்வதை நிறுத்து!</string>
+    <string name="fih_battery_protect_normalmode_warning_dec">எச்சரிக்கைப் பயன்முறையிலிருந்து ஃபோன் வெளியேறியது. வழக்கமான செயல்பாடு மீண்டும் தொடங்கப்பட்டது.</string>
+    <string name="fih_battery_protect_normalmode_cooldone_dec">வெப்பநிலை குறைப்பு பயன்முறையிலிருந்து ஃபோன் வெளியேறியது. வழக்கமான செயல்பாடு மீண்டும் தொடங்கப்பட்டது.</string>
+    <string name="fih_battery_protect_normalmode_max_dec">அதிகபட்ச வெப்பநிலைப் பயன்முறையிலிருந்து ஃபோன் வெளியேறியது. வழக்கமான செயல்பாடு மீண்டும் தொடங்கப்பட்டது.</string>
+    <string name="fih_battery_protect_low_temp_title">விழிப்பூட்டல்</string>
+    <string name="fih_battery_protect_low_temp_text">வெப்பநிலை மிகவும் குறைவாக உள்ளதால், சார்ஜ் செய்வதை நிறுத்தவும்.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">வெப்பநிலை வரம்பில் இல்லை.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">பேட்டரி வெப்பநிலையைக் கண்டறிய முடியாது, பேட்டரி சரியாக நிறுவப்பட்டுள்ளது என்பதை உறுதிப்படுத்திக்கொள்ளவும், இல்லையெனில் அது சார்ஜ் ஆகாது.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">பேட்டரி வெப்பநிலையைக் கண்டறிய முடியாது.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">பேட்டரி சரியாக நிறுவப்பட்டுள்ளது என்பதை உறுதிப்படுத்திக்கொள்ளவும், இல்லையெனில் அது சார்ஜ் ஆகாது.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">தற்போது பேட்டரி வெப்பநிலையைக் கண்டறிய முடியவில்லை. மேலும் ஃபோன் தற்போது வெப்பநிலை குறைப்பு பயன்முறையில் உள்ளதால், அவசர அழைப்பை மட்டுமே செய்ய முடியும். அத்துடன் பேட்டரி சரியாக நிறுவப்பட்டுள்ளதையும் உறுதிப்படுத்திக்கொள்ளவும்.</string>
+    <string name="fih_battery_protect_aging_title">பேட்டரி வழிகாட்டி</string>
+    <string name="fih_battery_protect_aging_text">அன்பார்ந்த InFocus வாடிக்கையாளருக்கு, செல் ஃபோன் பேட்டரி என்பது பயன்படுத்தி விட்டு மாற்றக்கூடிய பொருள் என்பதால், உங்கள் ஃபோனின் பேட்டரித் திறன் அதிக அளவில் குறைந்துள்ளது எனில், ஃபோனை உங்கள் டீலரிடம் எடுத்துச்சென்று, சிக்கலைக் கண்டறிந்து பின்னர் உங்கள் ஃபோன் அதற்குரிய சிறந்த திறனில் இயங்குகிறது என்பதை உறுதிப்படுத்தும் வகையில் சிக்கலைச் சரிசெய்யயவும். உங்களுக்கு ஏதேனும் கேள்விகள் இருந்தால், எங்கள் வாடிக்கையாளர் சேவை மையத்தைத் தொடர்புகொள்ளவும், தொலைபேசி %1$s. நன்றி.</string>
+    <string name="fih_battery_protect_aging_nm_text">எங்கள் வாடிக்கையாளர் சேவை மையத்தைத் தொடர்புகொள்ளவும், தொலைபேசி %1$s நன்றி.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">அன்பார்ந்த InFocus வாடிக்கையாளருக்கு, செல் ஃபோன் பேட்டரி என்பது பயன்படுத்தி விட்டு மாற்றக்கூடிய பொருள் என்பதால், உங்கள் ஃபோனின் பேட்டரித் திறன் அதிக அளவில் குறைந்துள்ளது எனில், ஃபோனை உங்கள் டீலரிடம் எடுத்துச்சென்று, சிக்கலைக் கண்டறிந்து பின்னர் உங்கள் ஃபோன் அதற்குரிய சிறந்த திறனில் இயங்குகிறது என்பதை உறுதிப்படுத்தும் வகையில் சிக்கலைச் சரிசெய்யயவும். உங்களுக்கு ஏதேனும் கேள்விகள் இருந்தால், எங்கள் வாடிக்கையாளர் சேவை மையத்தைத் தொடர்புகொள்ளவும்.நன்றி.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">எங்கள் வாடிக்கையாளர் சேவை மையத்தைத் தொடர்புகொள்ளவும், நன்றி.</string>
+    <string name="fih_battery_protect_bl_warning_title">பிரகாசத்தைக் குறைப்பதற்கான எச்சரிக்கை</string>
+    <string name="fih_battery_protect_bl_warning_text">ஃபோனின் வெப்பநிலையானது வழக்கத்தை விட அதிகமாக உள்ளது. ஃபோனின் வெப்பநிலையைக் குறைக்க பிரகாசத்தைக் குறைக்கவும்</string>
+    <string name="fih_battery_protect_full_charging">சார்ஜ் செய்வது முடிந்தது</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">ரத்துசெய்க</string>
+    <string name="fih_battery_protect_power_off">“மின் சக்தி அணைப்பில்”</string>
+    <string name="fih_battery_protect_high_full_charging">உயர் வெப்பநிலையில் அதிகபட்ச சார்ஜிங் வரம்பு அடையப்பட்டு விட்டது! தொலைபேசியின் வெப்பநிலை இயல்புக்கு திரும்பியதும் அமைப்பானது இயல்பு வேகத்தில் சார்ஜ் செய்வதைத் தொடரும்.</string>
+    <string name="fih_battery_protect_low_full_charging">குறைந்த வெப்பநிலையில் அதிகபட்ச சார்ஜிங் வரம்பு அடையப்பட்டு விட்டது! தொலைபேசியின் வெப்பநிலை இயல்புக்கு திரும்பியதும் அமைப்பானது இயல்பு வேகத்தில் சார்ஜ் செய்வதைத் தொடரும்.</string>
+    <string name="fih_battery_protect_high_full_charging_title">உயர்வெப்ப சார்ஜிங் வரம்பு அடையப்பட்டுவிட்டது</string>
+    <string name="fih_battery_protect_low_full_charging_title">குறைந்தவெப்ப சார்ஜிங் வரம்பு அடையப்பட்டுவிட்டது</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">பொது அறிவிப்புகள்</string>
+    <string name="fih_battery_protect_warning_title_wear">அதிக வெப்பநிலை</string>
+    <string name="fih_battery_protect_cooldown_title_wear">வெப்பநிலையைக் குறைக்கிறது</string>
+    <string name="fih_battery_protect_normalmode_title_wear">இயல்பான வெப்பநிலை</string>
+    <string name="fih_battery_protect_warning_text_wear">சாதனத்தின் வெப்பநிலையைக் குறைக்க, அழைப்பையும் செயலிகளையும் நிறுத்தவும்.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">பொத்தானை அழுத்துவதன் மூலம், சாதனத்தின் வெப்பநிலையைக் குறைப்பதற்கு, பிரகாசத்தைக் குறைக்க மற்றும் செயலிகளை நிறுத்துவதற்கான விருப்பத்தை வழங்கியுள்ளோம்.</string>
+    <string name="fih_battery_protect_cooldown_text_wear">சாதனம் தற்போது வெப்பநிலை குறைப்பு பயன்முறையில் உள்ளது, அவசர அழைப்பு மட்டுமே செய்ய முடியும்.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">வழக்கமான செயல்பாடு மீண்டும் தொடங்கப்பட்டது.</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">அதிகபட்ச வெப்பநிலை</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">சாதன வெப்பநிலை மிகவும் அதிகமாக இருப்பதால், அதன் இயக்கம் இப்போது நிறுத்தப்படும்.</string>
+    <string name="fih_battery_protect_low_temp_title_wear">குறைவான வெப்பநிலை</string>
+    <string name="fih_battery_protect_low_temp_text_wear">பேட்டரி வெப்பநிலை மிகவும் குறைவாக உள்ளதால், சார்ஜ் செய்வதை நிறுத்தவும்.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">தற்போது பேட்டரி வெப்பநிலையைக் கண்டறிய முடியவில்லை. மேலும் சாதனம் தற்போது வெப்பநிலை குறைப்பு பயன்முறையில் உள்ளதால், அவசர அழைப்பை மட்டுமே செய்ய முடியும். அத்துடன் பேட்டரி சரியாக நிறுவப்பட்டுள்ளதையும் உறுதிப்படுத்திக்கொள்ளவும்.</string>
+    <string name="fih_battery_protect_install_error_title_wear">பேட்டரி வழிகாட்டி</string>
+    <string name="fih_battery_protect_aging_title_wear">பேட்டரி வழிகாட்டி</string>
+    <string name="fih_battery_protect_aging_text_wear">அன்பார்ந்த InFocus வாடிக்கையாளருக்கு, செல் சாதனத்தின் பேட்டரி என்பது பயன்படுத்தி விட்டு மாற்றக்கூடிய பொருள் என்பதால், உங்கள் சாதனத்தின் பேட்டரித் திறன் அதிக அளவில் குறைந்துள்ளது எனில், சாதனத்தை உங்கள் டீலரிடம் எடுத்துச்சென்று, சிக்கலைக் கண்டறிந்து பின்னர் உங்கள் சாதனம் அதற்குரிய சிறந்த திறனில் இயங்குகிறது என்பதை உறுதிப்படுத்தும் வகையில், சிக்கலைச் சரிசெய்யவும். உங்களுக்கு ஏதேனும் கேள்விகள் இருந்தால், எங்கள் வாடிக்கையாளர் சேவை மையத்தைத் தொடர்புகொள்ளவும், தொலைபேசி %1$s. நன்றி.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">அன்பார்ந்த InFocus வாடிக்கையாளருக்கு, செல் சாதனத்தின் பேட்டரி என்பது பயன்படுத்தி விட்டு மாற்றக்கூடிய பொருள் என்பதால், உங்கள் சாதனத்தின் பேட்டரித் திறன் அதிக அளவில் குறைந்துள்ளது எனில், சாதனத்தை உங்கள் டீலரிடம் எடுத்துச்சென்று, சிக்கலைக் கண்டறிந்து பின்னர் உங்கள் சாதனம் அதற்குரிய சிறந்த திறனில் இயங்குகிறது என்பதை உறுதிப்படுத்தும் வகையில், சிக்கலைச் சரிசெய்யவும். உங்களுக்கு ஏதேனும் கேள்விகள் இருந்தால், எங்கள் வாடிக்கையாளர் சேவை மையத்தைத் தொடர்புகொள்ளவும்.நன்றி.</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">அதிக வெப்பநிலை</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">சார்ஜ் செய்வதை நிறுத்தவும்</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">பேட்டரி நிறுவலில் பிழை</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">வெப்பநிலை வரம்பில் இல்லை.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">பேட்டரி சரியாக நிறுவப்பட்டுள்ளது என்பதை உறுதிப்படுத்திக்கொள்ளவும்.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">பேட்டரி வெப்பநிலை மிகவும் அதிகமாக உள்ளதால், சார்ஜ் செய்வதை நிறுத்தவும்.</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">பேட்டரி வழிகாட்டி</string>
+    <string name="fih_battery_protect_full_charging_wear">சார்ஜ் செய்வது முடிந்தது</string>
+    <string name="fih_battery_protect_ok_wear">செய்தாயிற்று</string>
+    <string name="fih_battery_protect_cancel_wear">ரத்துசெய்க</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">சாதனம் தற்போது வெப்பநிலை குறைப்பு பயன்முறையில் உள்ளது. அதைப் பிறகு பயன்படுத்தவும்.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">கடிகார வெப்பநிலை மிகவும் அதிகமாக உள்ளது. திரையை மங்காலக்கும்படியும் செயலிகளை நிறுத்தும்படியும் பரிந்துரைக்கிறோம். இந்தச் செயல்களை உறுதிப்படுத்த, சரிபார்க்கவும்.</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">கடிகாரம், வழக்கமான செயல்பாட்டுக்கு திரும்பியது.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">கடிகார வெப்பநிலை அதன் வரம்பை அடைந்துவிட்டதால், அதன் இயக்கம் உடனடியாக நிறுத்தப்படும்.</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">பேட்டரி வெப்பநிலை மிகமிகக் குறைவாக உள்ளதால், சார்ஜ் செய்வது நிறுத்தப்படும்.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">அசல் பேட்டரியை பயன்படுத்துக</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">சார்ஜிங் நிறுத்தப்பட்டது</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">சார்ஜ் செய்ய அசல் பேட்டரியை பயன்படுத்துக அல்லது உங்கள் சாதனத்தில் நிரந்தர/வெளிச் சேதம் ஏற்படலாம்.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">தவறான பேட்டரி</string>
+    <string name="fih_battery_protect_notification_cooling_down">குளிர்வடைகிறது</string>
+    <string name="fih_battery_protect_tap_learn_more">மேலும் அறிய, தட்டவும்.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"மொபைல் சூடாகிறது, அதனால் அதைக் குளிர்விக்கும் முறைகளில் அது ஈடுபட்டுள்ளது. தொடர்ந்து பயன்படுத்தலாம் எனினும் இவை ஏற்படலாம்:
+·சார்ஜிங் இடைநிறுத்தப்படலாம்.
+·Wi-Fi அணைக்கப்படலாம்.
+·செயலிகள் மூடப்படலாம்.
+·விமான முறை இயக்கப்படலாம்.
+மொபைல் குளிர்வடைந்ததும், வழக்கம் போல செயல்படும்."</string>
+</resources>

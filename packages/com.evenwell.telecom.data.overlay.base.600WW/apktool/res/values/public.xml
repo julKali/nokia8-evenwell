@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="string" name="ui_default_package" id="0x7f020000" />
+    <public type="string" name="incall_default_class" id="0x7f020001" />
+    <public type="string" name="dialer_default_package" id="0x7f020002" />
+    <public type="string" name="dialer_default_class" id="0x7f020003" />
+</resources>

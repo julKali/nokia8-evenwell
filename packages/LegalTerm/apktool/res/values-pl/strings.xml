@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+    <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+    <string name="abc_action_mode_done">Gotowe</string>
+    <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+    <string name="abc_capital_off">WYŁ.</string>
+    <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+    <string name="abc_shareactionprovider_share_with_application">Udostępnij dla %s</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
+    <string name="hmd_service_terms_message">REGULAMIN USŁUGI HMD GLOBAL &lt;br/> &lt;br/>Data wejścia w życie: 1 września 2017 &lt;br/> &lt;br/>&lt;b>1. Akceptacja&lt;/b> &lt;br/> &lt;br/>Niniejszy Regulamin Usługi HMD Global wraz z Zasadami Ochrony Prywatności oraz wszelkimi innymi dodatkowymi warunkami i informacjami, które mogą zostać przekazane w ramach Usługi (dalej łącznie jako „Regulamin”) regulują warunki korzystania z usługi, strony, materiałów oraz oprogramowania (dalej łącznie jako „Usługa”). Rejestrując się lub korzystając z Usługi lub jakiejkolwiek jej części Użytkownik akceptuje niniejszy Regulamin. &lt;br/> &lt;br/>Niniejszy Regulamin stanowi umowę zawieraną pomiędzy Użytkownikiem a HMD Global Oy, z siedzibą przy Bertel Jungin aukio 9, 02600 Espoo, Finlandia, w tym jej oddziałów i dostawców (dalej łącznie jako „HMD Glo</string>
+    <string name="nokia_legal_title">HMD — Informacje prawne</string>
+    <string name="positive">OK</string>
+    <string name="privacy_activity">Zasady ochrony prywatności w HMD</string>
+    <string name="privacy_context">"Globalna Polityka prywatności HMD dotycząca produktów i usług
+
+Data wejścia w życie: 1 listopada 2018 r.
+
+W HMD szanujemy Twoją prywatność
+
+HMD Global Oy dokłada wszelkich starań, by chronić prywatność użytkowników i zachować zgodność ze wszystkimi przepisami w odniesieniu do ochrony danych i prywatności. Polityka prywatności („Polityka”) określa sposób gromadzenia i wykorzystywania danych osobowych wszędzie tam, gdzie HMD jest administratorem danych lub, gdzie obowiązuje ta Polityka. „Dane osobowe” to informacje odnoszące się do możliwej do zidentyfikowania osoby fizycznej.
+
+Jeżeli w przypadku jakiegoś produktu lub usługi będą obowiązywać specyficzne zasady ochrony prywatności, HMD poda te dodatkowe informacje w formie Dodatków do niniejszej Polityki i innych oświadczeń, na jakie można napotkać, korzystając z produktów lub usług HMD. W przypadku rozbieżności między takimi oświadczeniami a Polityką, oświadczenia będą miały charakter nadrzędny.
+
+Zachęcamy do dokładnego zapoznania się z Polityką i skontaktowania się z nami w razie wątpliwości.
+
+Jakie informacje gromadzimy?
+
+Gromadzimy dane osobowe użytkownika oraz inne informacje, gdy użytkownik robi zakupy, korzysta z produktów lub usług HMD, zakłada w nich konta, bierze udział w naszych kampaniach, badaniach rynku lub kontaktuje się z nami w inny sposób. Obejmuje to kilka kategorii:
+
+•　Aktywacje produktów i usług. Produkty i usługi HMD mogą wymagać aktywacji elektronicznej, w ramach której do HMD przesyłane są informacje, takie jak typ urządzenia i aplikacji, jak również niepowtarzalne identyfikatory urządzenia, aplikacji, sieci i subskrypcji.
+
+•　Korzystanie z produktów i usług. 
+
+　o　Gdy użytkownik korzysta z naszych usług online, serwery sieciowe automatycznie rejestrują informacje dotyczące odwiedzin. Do informacji tych należą z reguły adres IP, sygnatura czasowa odwiedzin, adres strony, z której użytkownik przeszedł do serwisu HMD, wyświetlane strony HMD, używane łącza i funkcje, wyświetlana lub wyszukiwana zawartość, typ aplikacji i przeglądarki, język i inne dane. Nasze aplikacje mogą od czasu do czasu łączyć się z naszymi serwerami, np. w celu sprawdzenia dostępności aktualizacji lub wysłania informacji dotyczących korzystania z usługi. 
+
+　o　Programy usprawniania i wdrażania produktów lub usług. Możemy zapraszać użytkowników do testowania udoskonaleń produktów i usług lub brania udziału w programach badawczych, w ramach których gromadzimy szczegółowe dane. Więcej informacji na ten temat znajduje się w Dodatku Program udoskonaleń.
+
+　o　Dane pozycjonowania i lokalizacji. Usługi oparte na lokalizacji ustalają dokładną lub przybliżoną lokalizację użytkownika za pomocą łączności satelitarnej, komórkowej, Wi-Fi lub przy użyciu innych metod. Technologie te mogą przekazywać HMD dane o lokalizacji użytkownika wraz z identyfikatorami urządzenia i sieci komórkowej, Wi-Fi lub innej. Nie wykorzystujemy tych informacji do identyfikowania użytkowników bez ich zgody.
+
+•　Informacje podawane HMD przez użytkowników. Gdy użytkownik zakłada konto, robi zakupy, korzysta z usług, bierze udział w badaniu lub kampanii, albo w jakikolwiek inny sposób kontaktuje się z HMD, możemy prosić o podanie informacji, takich jak imię i nazwisko, adres e-mail, numer telefonu, adres zamieszkania, nazwy użytkownika i hasła, opinie, informacje dotyczące urządzeń, płeć, wiek, język, numer rachunku bankowego, numer karty kredytowej oraz inne informacje finansowe. Ponadto przechowujemy zgody, preferencje i ustawienia użytkowników odnoszące się np. do danych lokalizacyjnych, komunikacji marketingowej i udostępniania danych osobowych.
+
+•　Informacje, które otrzymujemy od osób trzecich. Otrzymujemy informacje od niektórych zewnętrznych sieci społecznościowych, np. gdy użytkownik loguje się na konto w usługach HMD, używając danych logowania do konta w sieci społecznościowej. Więcej informacji na ten temat znajduje się w Dodatku Konta w telefonach Nokia.
+
+•　Transakcje zawierane przez użytkownika z HMD. HMD rejestruje i przechowuje dane o zakupach, materiałach pobieranych przez użytkownika z naszych usług i przesyłanych przez użytkownika do naszych usług, a także wnioski, prośby, informacje o produktach i usługach udostępnianych użytkownikowi przez HMD, formy płatności i szczegółach dostawy, dane o kontaktach i komunikację użytkownika z nami. Możemy, zgodnie z prawem właściwym, nagrywać rozmowy użytkowników z działem obsługi klienta lub podobnymi punktami kontaktowymi.
+
+Dlaczego przetwarzamy dane osobowe?
+
+HMD może przetwarzać dane osobowe użytkownika w celach opisanych poniżej. Jednocześnie może współwystępować kilka z nich.
+
+•　Dostarczanie produktów i usług. HMD wykorzystuje dane osobowe użytkownika, aby dostarczać produkty, świadczyć usługi, przetwarzać wnioski i wykonywać inne zobowiązania wynikające z umów zawartych między użytkownikiem a HMD, jak również w celu zapewnienia funkcjonalności i bezpieczeństwa produktów, identyfikowania użytkownika, zapobiegania oszustwom i innym nielegalnym działaniom oraz badania takich przypadków. Na przykład: dane aktywacyjne dotyczące urządzenia wykorzystujemy do włączenia gwarancji na urządzenie oraz świadczenia związanych z tym usług obsługi klienta. 
+
+•　Personalizowanie produktów i usług. Wykorzystujemy dane osobowe użytkowników do personalizowania używanych przez niego produktów i usług; do świadczenia usług dostosowanych do potrzeb i zainteresowań użytkownika, np. do rekomendowania rozwiązań i wyświetlania dostosowanych treści w naszych usługach.
+
+•　Konta. Do korzystania z niektórych usług konieczne jest założenie konta w celu łatwiejszego zarządzania materiałami i preferencjami. Więcej informacji na ten temat znajduje się w Dodatku Konta w telefonach Nokia.
+
+•　Opracowywanie produktów i usług. HMD wykorzystuje dane osobowe użytkowników do opracowywania produktów, usług, rozwiązań obsługi klienta, sprzedaży i kampanii marketingowych. Na przykład: użytkownik może wziąć udział w naszym Programie poprawy satysfakcji użytkowników i podać nam dane osobowe, aby pomóc w udoskonalaniu jakości i wydajności produktów i usług. Więcej informacji na temat sposobów wykorzystywania danych osobowych przez HMD w celu opracowywania produktów i usług można znaleźć w dodatku Program poprawy satysfakcji użytkowników. Dane osobowe gromadzone w związku z korzystaniem z produktów lub usług HMD możemy łączyć z innymi danymi osobowymi użytkownika, które posiadamy, chyba że takie dane osobowe zostały pozyskane do innego celu.
+
+•　Komunikacja z użytkownikiem. Wykorzystujemy dane osobowe użytkowników do komunikowania się z nimi, np. w celu informowania o zmianach w usługach lub wysyłania ważnych powiadomień i podobnych informacji odnoszących się do naszych produktów/usług oraz w sprawach związanych z obsługą klienta i pomocą techniczną . Aby uzyskać więcej informacji o wykorzystywaniu przez HMD danych osobowych użytkownika w celu zapewnienia obsługi klienta, należy zapoznać się z dodatkiem Obsługa klienta Nokia Mobile.
+
+•　Marketing. Możemy kontaktować się z użytkownikami, aby informować o nowych produktach, usługach lub promocjach; w celu prowadzenia badań rynku lub do innych celów na podstawie i w zakresie zgody udzielonej przez użytkownika. Możemy wykorzystywać dane osobowe użytkowników do personalizowania oferty; do świadczenia usług dostosowanych do potrzeb i zainteresowań użytkownika, do celów marketingowych, np. do wyświetlania dostosowanych treści w naszych usługach i polecania akcesoriów. Może to obejmować prezentowanie treści HMD i osób trzecich.
+
+Na jakiej podstawie HMD przetwarza dane?
+
+HMD przetwarza dane osobowe wyłącznie w zakresie dozwolonym przez prawo. Przetwarzanie danych osobowych odbywa się w oparciu o następujące podstawy prawne:
+
+•　Umowa. Przetwarzanie danych osobowych użytkownika jest niezbędne do realizacji postanowień umowy zawartej między użytkownikiem a HMD. Wykorzystujemy dane osobowe użytkowników do dostarczania produktów i świadczenia usług oraz w celu zapewnienia ich funkcjonalności i bezpieczeństwa. Niepodanie wymaganych informacji jest równoznaczne z brakiem możliwości korzystania z naszych produktów lub usług. Umowa stanowi podstawę prawną przetwarzania danych w następujących sytuacjach:
+
+　o　kiedy gromadzimy dane osobowe niezbędne do przetworzenia płatności lub dostarczenia produktu.
+
+　o　kiedy kontaktujemy się z użytkownikami, np. w celu informowania o aktualizacjach oprogramowania lub wysyłania ważnych powiadomień i podobnych informacji odnoszących się do naszych produktów/usług oraz w sprawach związanych z obsługą klienta i pomocą techniczną;
+
+•　Uzasadniony interes.  HMD przetwarza dane osobowe, gdy jest to konieczne do realizacji swoich uzasadnionych interesów. Uzasadnione interesy oznaczają interesy zgodne z prawem i ważne z punktu widzenia HMD. W przypadku przetwarzania danych osobowych w związku z uzasadnionym interesem będziemy przestrzegać wszystkich praw użytkownika i będziemy traktować interesy użytkownika na równi z interesami HMD. Więcej informacji o równoważeniu interesów użytkownika i HMD można uzyskać, kontaktując się z nami. Użytkownik ma prawo niewyrażenia zgody na przetwarzanie danych w związku z uzasadnionym interesem. Więcej informacji o prawach użytkownika i sposobach kontaktowania się z nami można znaleźć w części „Prawa użytkownika”. Uzasadniony interes jest podstawą przetwarzania danych m.in. w następujących sytuacjach:
+
+　o　kiedy użytkownik aktywuje produkty i usługi HMD elektronicznie, a typ urządzenia i aplikacji, jak również unikatowe identyfikatory urządzenia, aplikacji, sieci i subskrypcji są wysyłane do HMD;
+
+　o　kiedy kontaktujemy się z użytkownikiem w celu przedstawienia informacji o produktach lub usługach podobnych do tych, z których użytkownik korzystał w przeszłości.
+
+　o　Możemy wykorzystywać dane osobowe użytkowników do personalizowania oferty i świadczenia usług lepiej dopasowanych do ich profili i zainteresowań, np. w celu polecania rozwiązań i wyświetlania treści oraz komunikacji marketingowej dostosowanej do potrzeb użytkownika. Może to obejmować wyświetlanie treści osób trzecich.
+
+　o　Analizujemy informacje o zainteresowaniach, zachowaniach zakupowych i opiniach użytkowników w celu planowania operacji biznesowych, produktów i usług HMD.
+
+　o　Ponadto przetwarzamy dane osobowe w celu wykrywania oszustw, innych nielegalnych działań i zapobiegania im, a także w celu ochrony uzasadnionych interesów HMD, np. w ramach postępowania cywilnego lub karnego.
+
+•　Zgoda. Przetwarzanie danych osobowych użytkownika może zależeć od jego zgody. W takim przypadku prosimy o zgodę zanim rozpoczniemy przetwarzanie danych osobowych. Wyrażenie zgody jest zawsze dobrowolne i można ją w dowolnym momencie wycofać. Wycofanie zgody na przetwarzanie danych osobowych nie wpływa na podstawę prawną przetwarzania takich informacji przed wycofaniem zgody. HMD zachowuje informacje na temat zgód, preferencji i ustawień użytkownika odnoszących się do komunikacji marketingowej, danych geolokalizacyjnych i udostępniania danych osobowych. Zgoda stanowi podstawę przetwarzania danych w następujących sytuacjach:
+
+　o　kiedy użytkownik uczestniczy w Programie poprawy satysfakcji użytkowników, a HMD gromadzi informacje na temat korzystania przez niego z określonych produktów lub usług. HMD wykorzystuje te dane do udoskonalania produktów i usług. Użytkownik może wycofać zgodę na przetwarzanie danych do tego celu, zmieniając ustawienia w urządzeniu. Więcej informacji na ten temat znajduje się w Dodatku Program poprawy satysfakcji użytkowników.
+
+　o　Kiedy użytkownik zapisze subskrybuje wiadomości dotyczące nowych produktów, usług i promocji. Użytkownik może wycofać zgodę na otrzymywanie komunikacji marketingowej, korzystając z łącza do anulowania subskrypcji zamieszczonego na dole biuletynu.
+
+　o　Do korzystania z usługi konieczne jest założenie konta w celu łatwiejszego zarządzania materiałami i preferencjami. Użytkownik może zarządzać zgodą na przetwarzanie danych w ustawieniach konta.
+
+　o　Korzystanie z produktów i usług HMD może się wiązać z wykorzystywaniem przez HMD danych o lokalizacji użytkownika na podstawie jego zgody. Użytkownik może wycofać zgodę na przetwarzanie danych o lokalizacji, zmieniając ustawienia w urządzeniu lub aplikacji.
+
+•　Zobowiązania prawne. Przetwarzanie danych osobowych może być konieczne w świetle przepisów obowiązujących HMD. HMD może mieć na przykład obowiązek ujawnienia danych osobowych użytkownika na żądanie organów administracji państwowej lub organów ścigania.
+
+Czy HMD udostępnia dane osobowe osobom trzecim?
+
+HMD nie sprzedaje, nie wypożycza ani nie wynajmuje danych osobowych użytkowników osobom trzecim. HMD ujawnia dane osobowe użytkowników osobom trzecim wyłącznie w następujących sytuacjach:
+
+•　Spółkom należącym do HMD i upoważnionym osobom trzecim. Możemy udostępniać dane osobowe użytkowników innym spółkom HMD lub upoważnionym osobom trzecim, które przetwarzają te dane w imieniu HMD w celach opisanych w niniejszej Polityce. Może to obejmować wystawianie rachunków poprzez system operatora, dostarczanie zakupów, świadczenie usług, w tym obsługi klienta, zarządzanie danymi konsumenta i analizowanie ich, sprawdzanie zdolności kredytowej i prowadzenie badań. Gdy użytkownik kupuje produkt HMD może być konieczna wymiana informacji między HMD a operatorem sieci. Takie osoby trzecie nie mogą wykorzystywać danych osobowych użytkownika do żadnych innych celów. Wymagamy od partnerów ścisłego przestrzegania Polityki i stosowania odpowiednich środków bezpieczeństwa w celu ochrony danych osobowych.
+
+•　Marketing. Możemy udostępniać dane osobowe użytkowników partnerom marketingowym, np. w celu zarządzania kampaniami marketingowymi. Możemy współpracować z partnerami w zakresie łączonej komunikacji marketingowej i innej. Aby unikać duplikowaniu wiadomości, wysyłania niechcianej komunikacji lub dostosowywania przekazu do preferencji użytkownika, może być konieczne skojarzenie informacji posiadanych przez HMD z informacjami zebranymi przez partnera, o ile jest to dozwolone prawnie. Nasi partnerzy marketingowi nie mogą wykorzystywać danych osobowych użytkownika do żadnych innych celów. Wymagamy od partnerów ścisłego przestrzegania Polityki i stosowania odpowiednich środków bezpieczeństwa w celu ochrony danych osobowych.
+
+•　Przekazywanie danych osobowych za granicę. Nasze produkty i usługi są dostarczane przy użyciu zasobów i serwerów znajdujących się w różnych krajach i regionach, w tym w UE, Stanach Zjednoczonych, Singapurze i Chinach. W związku z tym dane osobowe mogą być przesyłane za granicę poza kraj, w którym użytkownik korzysta z naszych produktów i usług, w tym do krajów leżących poza EOG, które nie stosują określonych przepisów o ochronie danych osobowych lub posiadają inne prawo w zakresie ochrony danych. W takich przypadkach upewniamy się, że jest podstawa prawna przekazania danych, są stosowane zabezpieczenia danych osobowych wymagane przez prawo właściwe, np. w postaci standardowych umów zatwierdzonych przez stosowne władze (jeśli jest to konieczne), a także wymogu stosowania adekwatnych technicznych i organizacyjnych środków ochrony informacji.
+
+•　Obowiązkowe ujawnienie HMD może mieć obowiązek ujawnienia danych osobowych użytkownika określonym organom władzy lub innym osobom trzecim, np. organom ścigania w krajach, w których prowadzą działalność HMD lub osoby trzecie w naszym imieniu. HMD może także ujawniać lub w inny sposób przetwarzać dane osobowe użytkownika zgodnie z obowiązującym prawem w celu chronienia uzasadnionych interesów HMD, np. w ramach postępowań cywilnych lub karnych.
+
+•　Fuzje i przejęcia. Jeśli HMD zdecyduje się sprzedać, kupić, połączyć lub w inny sposób zreorganizować swoją działalność w określonych krajach, może to się wiązać z ujawnieniem danych osobowych potencjalnym lub rzeczywistym kupcom, albo ich doradcom lub otrzymaniem danych osobowych od sprzedawców i ich doradców.
+
+Prywatność dzieci
+
+Produkty i usługi HMD są w większości przeznaczone dla ogólnego odbiorcy. HMD nie gromadzi świadomie danych dzieci bez uzyskania zgody rodziców lub opiekunów prawnych.
+
+Stosowane zabezpieczenia danych osobowych
+
+Prywatność i bezpieczeństwo traktujemy priorytetowo w kontekście tworzenia i dostawy produktów oraz usług. Wyznaczyliśmy odpowiednie osoby i przypisaliśmy zakres odpowiedzialności za zachowanie bezpieczeństwa i prywatności danych. HMD egzekwuje wewnętrzne zasady i wytyczne poprzez szereg odpowiednich działań, w tym proaktywne i reaktywne zarządzanie ryzykiem, bezpieczeństwem i prywatnością, szkolenia i przypisywanie odpowiedzialności. Podejmujemy odpowiednie działania w celu zapewnienia bezpieczeństwa online, bezpieczeństwa fizycznego oraz minimalizowania ryzyka utraty danych osobowych na etapie ich gromadzenia i przetwarzania. Ponadto udzielmy dostępu do baz zawierających dane osobowe wyłącznie upoważnionym osobom posiadającym uzasadnioną potrzebę uzyskania wglądu w te informacje.
+
+Pliki cookie 
+
+HMD wykorzystuje pliki cookie i podobne technologie, aby usprawniać usługi i zapewnić ich dostępność. Ponadto wykorzystujemy pliki cookie do personalizacji i wyświetlania reklam. Niektóre witryny HMD wykorzystują zewnętrzne technologie reklamowe w celu prezentowania reklam, takie jak DoubleClick.
+
+Domeny HMD mogą zawierać elementy zewnętrzne instalujące pliki cookie w imieniu firmy zewnętrznej, np. powiązane z zewnętrznymi sieciami społecznościowymi. Aby dowiedzieć się więcej na temat używania plików cookie przez HMD, należy zapoznać się z naszymi Zasadami dotyczącymi plików cookie.
+
+Okres przechowywania danych
+
+Podejmujemy rozsądne działania, aby zapewnić aktualność i rzetelność danych przetwarzanych przez HMD oraz usuwać niepotrzebne i nieprawidłowe informacje.
+
+Okres przechowywania zależy od typu danych i usługi lub produktu. Okres przechowywania danych osobowych jest określany na podstawie następujących kryteriów:
+
+•　Informacje związane z aktywacją produktów i usług (np. identyfikatory urządzenia, aplikacji, sieci i subskrypcji): Te informacje są przechowywane przez okres gwarancji i 24 miesiące po jego zakończeniu.
+
+•　Informacje zebrane w ramach Programu poprawy satysfakcji użytkowników (np. IMEI, stabilność, status baterii): Informacje są przechowywane przez 6 miesięcy od ich zebrania, jeżeli użytkownik wycofa zgode na ich przetwarzanie.
+
+•　Informacje o koncie (np. imię i nazwisko, adres e-mail, nazwy użytkownika, hasła): Dane są przechowane tak długo, jak konto jest aktywne. Po 24 miesiącach braku działań na koncie dane zostaną usunięte.
+
+•　Informacje o zakupach (np. rekordy zakupów i pobrań, numer rachunku bankowego, dane kart kredytowych): W celu zachowania zgodności z przepisami księgowymi dane są przechowywane przez 10 lat od ich zgromadzenia.
+
+•　Informacje związane z komunikacją i interakcjami (np. imię i nazwisko, nazwa, adres e-mail, prośby): Informacje są przechowywane przez 24 miesiące od ich zebrania.
+
+Oprócz tego HMD ma obowiązek prawny przechowywania danych.
+
+Prawa użytkownika
+
+Użytkownik ma prawo wiedzieć, jakie dane osobowe na jego temat są przez nas przetrzymywane, zgodnie z opisem poniżej. Użytkownik ma prawo uzupełnić lub zaktualizować niekompletne, nieprawidłowe lub przestarzałe dane osobowe. W niektórych przypadkach użytkownik ma prawo do wymazania, ograniczenia dostępu lub przeniesienia swoich danych osobowych lub zabronienia ich przetwarzania. Użytkownik może skorzystać ze swoich praw za pomocą funkcji zarządzania kontem i opcji wyboru dostępnych w narzędziach do zarządzania profilem na urządzeniu i w naszych usługach, albo kontaktują się z nami. W niektórych przypadkach, zwłaszcza gdy użytkownik chce usunąć swoje dane osobowe lub zabronić ich przetwarzania, może to również oznaczać, że nie będziemy mogli dalej świadczyć użytkownikowi naszych usług.
+
+•　Prawo dostępu do danych. Użytkownik ma prawo wiedzieć, jakie dane osobowe na jego temat są przez nas przetrzymywane, i może też zażądać od nas potwierdzenia, że nie przetwarzamy jego danych osobowych. Użytkownik ma dostęp do swoich danych za pośrednictwem ustawień swojego konta. Użytkownik może również poprosić o dostęp do swoich danych, korzystając z danych kontaktowych poniżej.
+
+•　Prawo do korekty danych.  Użytkownik ma prawo do skorygowania niekompletnych lub nieprawidłowych danych. Użytkownik może skorygować i uaktualnić swoje dane za pośrednictwem ustawień konta i zachęcamy, by robić to od czasu do czasu, tak aby dane osobowe były aktualne. Użytkownik może również poprosić o skorygowanie lub uzupełnienie swoich danych, korzystając z danych kontaktowych poniżej.
+
+•　Prawo do usunięcia danych.  Użytkownik ma prawo do wymazania swoich danych osobowych w określonych sytuacjach, np. gdy przetwarzanie danych nie jest już konieczne do celów, do których zostały one zebrane, lub jeśli przetwarzanie opiera się na zgodzie użytkownika, którą ten postanowi wycofać, i nie ma żadnych innych podstaw do przetwarzania danych. Należy pamiętać, że dane mogą być konieczne do wykonywania czynności wynikających z umowy między użytkownikiem a HMD lub HMD może mieć przekonujące podstawy prawne do zachowania niektórych danych. Jeżeli użytkownik zdecyduje się usunąć takie dane, może oznaczać brak możliwości świadczenia przez nas usług użytkownikowi. Użytkownik może wymazać swoje dane za pośrednictwem ustawień konta lub używając danych kontaktowych poniżej.
+
+•　Prawo do sprzeciwu. Jeżeli przetwarzanie danych osobowych użytkownika opiera się na uzasadnionym interesie, użytkownik ma prawo do sprzeciwienia się takiemu przetwarzaniu. Użytkownik może poprosić o zaprzestanie przetwarzania przez nas jego danych osobowych do celów marketingu bezpośredniego lub profilowania.. Użytkownik może zrezygnować z subskrypcji naszego biuletynu, klikając łącze do anulowania subskrypcji na dole biuletynu. Możemy jednak nadal wysyłać do użytkownika alerty krytyczne i inne ważne powiadomienia. Użytkownik może skorzystać ze swojego prawa sprzeciwu za pośrednictwem ustawień konta lub używając danych kontaktowych poniżej.
+
+•　Prawo do niewyrażenia zgody na przetwarzanie danych.  W niektórych sytuacjach użytkownik może mieć prawo do niewyrażenia zgody na przetwarzanie jego danych. W takim przypadku dane użytkownika pozostaną zapisane w bazach HMD, ale nie będą już przetwarzane. Na przykład, jeżeli użytkownik zakwestionuje poprawność danych na jego temat, będzie miał prawo do zablokowania przetwarzania takich informacji aż do ich skorygowania. Użytkownik ma prawo do zablokowania przetwarzania danych, kontaktując się z HMD w sposób opisany poniżej.
+
+•　Prawo do przenoszenia danych.  W przypadku przetwarzania danych przy użyciu środków automatycznych na podstawie umowy lub zgody użytkownik ma prawo do uzyskania informacji podanych HMD w formacie możliwym do odczytu maszynowego w celu przekazania ich innemu administratorowi. Informacje te można uzyskać z poziomu ustawień konta lub kontaktując się z nami w sposób opisany poniżej.
+
+W przypadku braku możliwości skorzystania ze swoich praw bezpośrednio z poziomu produktu lub usługi HMD, należy skontaktować się z nami za pomocą
+
+•　Portal klienta Nokia: www.nokia.com/phones/sso/login
+
+•　Obsługa klienta: www.nokia.com/en_int/phones/support#contact-us
+
+•　Aplikacja pomocy technicznej na telefonie Nokia
+
+•　E-mail: HMD Global Oy, c/o Privacy, Bertel Jungin aukio 9, 02600 Espoo, Finlandia
+
+Użytkownik może zażądać udzielenia informacji o przesyłaniu danych osobom trzecim, do innych krajów, a także o stosowanych środkach bezpieczeństwa, kontaktując się z nami. Jeżeli użytkownik uważa, że HMD, niezależnie od zapisów Polityki prywatności i jej odpowiednich dodatków, naruszyła jego prawa zgodnie z obowiązującymi przepisami o ochronie danych, użytkownik ma prawo do złożenia skargi w urzędzie ochrony danych.
+
+Kontroler danych
+
+HMD Global Oy jest administratorem danych osobowych przetwarzanych w związku z korzystaniem z telefonu Nokia, konta Nokia i pokrewnych usług. Naszym inspektorem ochrony danych jest Jari Koljonen.
+
+W sprawach dotyczących praktyk HMD dotyczących prywatności można skontaktować się z nami również pod adresem:
+
+HMD Global Oy, c/o Privacy, Bertel Jungin aukio 9, 02600 Espoo, Finlandia
+
+Produkty lub usługi HMD mogą zawierać łącza do zewnętrznych firm i usług, które posiadają odrębne polityki prywatności. Łącza do takich witryn lub usług są podawane wyłącznie dla wygody użytkownika. HMD zaleca, aby przed podaniem danych osobowych osobie trzeciej zapoznać się z jej polityką prywatności.
+
+Zmiany w tej Polityce prywatności
+
+HMD może od czasu do czasu wprowadzać zmiany w tej Polityce, tak aby jej postanowienia odzwierciedlały modyfikacje sposobów przetwarzania danych w odniesieniu do naszych produktów i usług lub pod kątem zgodności z przepisami prawa. Zmiany w Polityce prywatności będą dostępne w sekcji „Co się zmieniło?” na Portalu prywatności HMD (www.nokia.com/phones/privacyportal). U góry będzie zawsze widoczna data ostatniej aktualizacji Polityki.
+
+"</string>
+    <string name="search_menu_title">Szukaj</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

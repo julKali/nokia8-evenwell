@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Redaktori i efektit \"bokeh\"</string>
+    <string name="image_not_null">Shtegu i imazhit nuk mund të jetë nul</string>
+    <string name="no_bokeh_type">Nuk ka asnjë lloj të efektit \"bokeh\"</string>
+    <string name="no_mpo_file">Nuk ka skedar mpo</string>
+    <string name="save">Ruaj</string>
+    <string name="save_success">U ruajt me sukses.</string>
+</resources>

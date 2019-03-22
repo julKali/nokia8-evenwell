@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">අවලංගු කිරීම</string>
+    <string name="DONE">හරි</string>
+    <string name="NEXT">මීළඟ</string>
+    <string name="OK">හරි</string>
+    <string name="PREVIOUS">පෙර</string>
+    <string name="alert_empty_desc">කරුණාකර ඔබගේ විස්තරය එක් කරන්න!</string>
+    <string name="alert_warning_title">ඉඟි</string>
+    <string name="enter_comments">සටහන ඇතුල් කරන්න (අනුලකුණු 1000)</string>
+    <string name="extremely_likely">(අතීශයින් කැමතිය)</string>
+    <string name="feedback">ප්‍රතිපෝෂණය</string>
+    <string name="helps_us_improve_our_products">ඔබේ ප්‍රතිපෝෂණය අපට අපේ නිෂ්පාදන වැඩිදියුණු කිරීමට උපකාරී වෙයි!</string>
+    <string name="intro_title">ඔබ මෙම දුරකථනය මිතුරෙකුට හෝ සහෘදයෙකුට නිර්දේශ කිරීමට කොතරම් කැමතිද?</string>
+    <string name="msg_send_after">උපාංගය මාර්ගගතව සිටින විට පණිවිඩ ස්වයංක්‍රීයව උඩුගත වේ. ඔබගේ පිළිතුරට ස්තූතියි.</string>
+    <string name="msg_send_fail">යවන්න අසාර්ථකයි. උපාංගය මාර්ගගතව සිටින විට පණිවිඩ ස්වයංක්‍රීයව උඩුගත වේ. ඔබගේ පිළිතුරට ස්තූතියි.</string>
+    <string name="no_ask_feedback_again_text">නැවත ප්‍රතිපෝෂණය නොඉල්ලන්න</string>
+    <string name="no_showagain_text">නැවත නොපෙන්වන්න</string>
+    <string name="not_at_all_likely">(සම්පූර්ණයෙන් අකැමැතිය)</string>
+    <string name="privacy_context_wifi">"හිතවත් පරිශීලකය, 
+
+ප්‍රතිපෝෂණ සේවාලාභි මෘදුකාංගය භාවිතා කිරීමට පිළිගනිමු. මෙම නිෂ්පාදනය භාවිතා කිරීමට පෙර කරුණාකර සේවා නියමයන් පරිස්සමින් කියවා හොඳින් අවබෝධ කර ගන්න. 「එකඟයි」යන්න ක්ලික් කිරීමෙන් මෙම මෘදුකාංගයේ වරප්‍රසාද ඔබ හොඳින් කියවා ඇති බවත් එය භාවිතා කිරීමට එකඟ බවත් අදහස් වේ. ඔබ මෙම නියමයන්ට 「එකඟ වන්නේ」. නම්, යෙදුම භාවිත කිරීමට එකඟ වෙමි. ඔබට සම්පූර්ණ සේවා සපයනු පිණිස, යෙදුමට පහත සඳහන් අවසර අවශ්‍යයි: 
+1. ප්‍රතිපෝෂණ තොරතුරු යැවීම සඳහා අන්තර්ජාලයට, WLAN ජාලයට පිවිසෙන්න 
+2. දුරකථනයේ මූලික තෝරතුරු ස්වයංක්‍රීයව ලබා ගැනීමට IMEI, PSN සහ MNC\\MCC තොරතුරු ආයාත කරන්න"</string>
+    <string name="select_a_value">අගයක් තෝරන්න</string>
+    <string name="str_agree">එකඟ වන්නේ:</string>
+    <string name="str_leave">පිටවන්න</string>
+    <string name="submit_fail">ඉදිරිපත් කිරීම අසමත්ය</string>
+    <string name="submit_success">ඔබගේ පිළිතුරට ස්තූතියි</string>
+    <string name="thank_your_feedback">ඔබේ ප්‍රතිපෝෂණය වෙනුවෙන් ස්තුතියි!</string>
+    <string name="we_appreciate_your_help">අපි Nokia නිෂ්පාදන ලෝකයේ හොන්දම ඒවා බවට පත් කිරීමට ඔබේ උපකාරය අගය කරමු.</string>
+    <string name="we_hope_enjoying_nokia_device">ඔබ ඔබේ Nokia උපාංගය විඳිනු ඇතැයි අපි අපේක්ෂා කරමු. ඔබේ ප්‍රතිපෝෂණය අපට බෙහෙවින් වැදගත් වේ.</string>
+    <string name="we_will_contact_you_again">අපි අනාගතයේ දී නැවත ඔබ හා සම්බන්ධ වන්නෙමු.</string>
+    <string name="we_will_contact_you_again_enjoy">අපි අනාගතයේ දී නැවත ඔබ හා සම්බන්ධ වන්නෙමු. ඔබ නව Nokia උපාංගය විඳින්න!</string>
+    <string name="why_you_gave_this_score">ඔබ මෙම ලකුණ දුන්නේ මන්දැයි අපට පවසන්න:</string>
+</resources>

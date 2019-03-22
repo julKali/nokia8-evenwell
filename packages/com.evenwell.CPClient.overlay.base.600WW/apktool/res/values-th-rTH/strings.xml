@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ไคลเอนต์ CP</string>
+    <string name="fih_cp_notify_statusbar_content">ข้อความการกำหนดใหม่</string>
+    <string name="fih_cp_notification_channel_name">การแจ้งเตือนทั่วไป</string>
+    <string name="fih_cp_ui_mode_ok">ตกลง</string>
+    <string name="fih_cp_ui_mode_postpone">ยังก่อน</string>
+    <string name="fih_cp_ui_mode_delete">ลบ</string>
+    <string name="fih_cp_apply_dialog_head_msg">การกำหนดใหม่</string>
+    <string name="fih_cp_apply_dialog_body_msg">คุณต้องการใช้การกำหนดค่าใหม่หรือไม่</string>
+    <string name="fih_cp_toast_info_update">อัปเดตโปรไฟล์สำเร็จ</string>
+    <string name="fih_cp_toast_info_create">สร้างโปรไฟล์สำเร็จ</string>
+    <string name="fih_cp_editor_apn_name">ชื่อ</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">พร็อกซี</string>
+    <string name="fih_cp_editor_apn_http_port">พอร์ต</string>
+    <string name="fih_cp_editor_apn_user">ชื่อผู้ใช้</string>
+    <string name="fih_cp_editor_apn_password">รหัสผ่าน</string>
+    <string name="fih_cp_editor_apn_server">เซิร์ฟเวอร์</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">พร็อกซี MMS</string>
+    <string name="fih_cp_editor_apn_mms_port">พอร์ต MMS</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">ประเภทการรับรองความถูกต้อง</string>
+    <string name="fih_cp_editor_apn_auth_type_none">ไม่มี</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP หรือ CHAP</string>
+    <string name="fih_cp_editor_apn_type">ประเภท APN</string>
+    <string name="fih_cp_btn_ok">ตกลง</string>
+    <string name="fih_cp_btn_cancel">ยกเลิก</string>
+    <string name="fih_cp_btn_next">ถัดไป</string>
+    <string name="fih_cp_btn_back">ย้อนกลับ</string>
+    <string name="fih_cp_apn_not_set">&lt;ไม่ได้ตั้งค่า></string>
+    <string name="fih_cp_error_title">โปรดทราบ</string>
+    <string name="fih_cp_error_name_empty">ช่อง ชื่อ ไม่สามารถเว้นว่างได้</string>
+    <string name="fih_cp_error_apn_empty">ช่อง APN ไม่สามารถเว้นว่างได้</string>
+    <string name="fih_cp_error_other">ข้อผิดพลาดทางไวยากรณ์ของข้อมูล</string>
+    <string name="fih_cp_input_pin_code">ป้อนรหัส PIN:</string>
+    <string name="fih_cp_input_pin_code_ok">ตกลง</string>
+    <string name="fih_cp_input_pin_code_cancel">ยกเลิก</string>
+    <string name="fih_cp_input_pin_code_incorrect">รหัส PIN ไม่ถูกต้อง</string>
+    <string name="fih_cp_input_pin_code_empty">โปรดป้อนรหัส PIN</string>
+    <string name="fih_cp_sim_not_available">ซิมการ์ดไม่พร้อมใช้งาน</string>
+</resources>

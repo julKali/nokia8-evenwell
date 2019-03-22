@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WelcomeTheme2" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:dropDownListViewStyle">@style/CusSpinner</item>
+        <item name="android:colorPrimaryDark">@color/black</item>
+    </style>
+</resources>

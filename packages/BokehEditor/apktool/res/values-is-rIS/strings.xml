@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Breyta Bokeh</string>
+    <string name="image_not_null">Slóð myndar má ekki vera núll</string>
+    <string name="no_bokeh_type">Engin gerð af Bokeh</string>
+    <string name="no_mpo_file">Engin MPO-skrá</string>
+    <string name="save">Vista</string>
+    <string name="save_success">Vistað</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cfg_file_path_candidates">
+        <item>/system/product/etc/BatteryProtectConfig.xml</item>
+        <item>/system/etc/BatteryProtectConfig.xml</item>
+    </string-array>
+    <string-array name="product_cfg_file_path_candidates">
+        <item>/system/product/etc/BatteryProtectProductConfig.xml</item>
+        <item>/system/etc/BatteryProtectProductConfig.xml</item>
+    </string-array>
+</resources>

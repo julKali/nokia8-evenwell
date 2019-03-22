@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Povoliť</string>
+    <string name="common_google_play_services_enable_text">Aplikácia %1$s bude fungovať až po povolení služieb Google Play.</string>
+    <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
+    <string name="common_google_play_services_install_button">Inštalovať</string>
+    <string name="common_google_play_services_install_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na zariadení nemáte.</string>
+    <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnosť služieb Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikácia %1$s má problémy so službami Google Play. Skúste to znova.</string>
+    <string name="common_google_play_services_unsupported_text">Aplikáciu %1$s nebude možné spustiť bez služieb Google Play, ktoré vaše zariadenie nepodporuje.</string>
+    <string name="common_google_play_services_update_button">Aktualizovať</string>
+    <string name="common_google_play_services_update_text">Aplikáciu %1$s bude možné spustiť až po aktualizácii služieb Google Play.</string>
+    <string name="common_google_play_services_update_title">Aktualizácia služieb Google Play</string>
+    <string name="common_google_play_services_updating_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú.</string>
+    <string name="common_google_play_services_wear_update_text">Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase.</string>
+    <string name="common_open_on_phone">Otvoriť v telefóne</string>
+    <string name="common_signin_button_text">Prihlásiť sa</string>
+    <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
+    <string name="fih_weather_button_close">Zatvoriť</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">Nastavuje sa...</string>
+    <string name="fih_weather_notification_channel_title">Všeobecné upozornenia</string>
+    <string name="fih_weather_notification_text">Povoľte kliknutím</string>
+    <string name="fih_weather_notification_title">Služba predpovede počasia vyžaduje oprávnenia</string>
+    <string name="fih_weather_permission_failed">Oprávnenie na zisťovanie polohy zamietnuté. Nepodarilo sa získať polohu.</string>
+    <string name="fih_weather_permission_hint_1">Táto aplikácia vyžaduje na správnu prevádzku príslušné povolenia. Na požiadanie udeľte oprávnenia.</string>
+    <string name="fih_weather_permission_hint_2">Táto aplikácia vyžaduje na správnu prevádzku ďalšie povolenia. Spravujte povolenie pre položku「Služba predpovede počasia」v položke「Nastavenia」.</string>
+    <string name="fih_weather_permission_success">Udeliť povolenia na zisťovanie polohy</string>
+    <string name="fih_weather_service_title_txt">Služba predpovede počasia</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

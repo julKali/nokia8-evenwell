@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Edytor Bokeh</string>
+    <string name="image_not_null">Ścieżka obrazu nie może być pusta</string>
+    <string name="no_bokeh_type">Brak typu bokeh</string>
+    <string name="no_mpo_file">Brak pliku MPO</string>
+    <string name="save">Zapisz</string>
+    <string name="save_success">Zapisano</string>
+</resources>

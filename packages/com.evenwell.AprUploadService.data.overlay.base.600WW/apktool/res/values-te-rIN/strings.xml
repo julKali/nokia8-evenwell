@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD గోప్యతా విధానం</string>
+    <string name="privacy_activity">HMD గోప్యతా విధానం</string>
+    <string name="go_label">పూర్తయింది</string>
+    <string name="agree">అంగీకరిస్తున్నాను</string>
+    <string name="see_detail">వివరములు</string>
+    <string name="next_btn_lebel">తదుపరి</string>
+    <string name="app_name">సిస్టమ్‌లో సమస్యల నిర్ధారణలు</string>
+    <string name="setting_page_name">వినియోగదారు అనుభవ కార్యక్రమం</string>
+    <string name="send_diag_dialog_any_network">డేటా అనుసంధానం అందుబాటులో ఉన్నప్పుడు</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi అనుసంధానం అందుబాటులో ఉన్నప్పుడు</string>
+    <string name="send_diag_dialog_wlan">WLAN అనుసంధానం అందుబాటులో ఉన్నప్పుడు</string>
+    <string name="send_diag_dialog_title">సమస్యల నిర్ధారణలను పంపు</string>
+    <string name="diagnostics_setting">సమస్యల నిర్ధారణలు</string>
+    <string name="diagnostics_report">సమస్యల నిర్ధారణ నివేదిక</string>
+    <string name="diagnostics_report_summary">పరికరంలో సాఫ్ట్‌వేర్ లోపం ఏర్పడినప్పుడు సమస్యల నిర్ధారణల నివేదికను పంపండి. ఇందుకోసం నెట్‌వర్క్ ఉపయోగించబడుతుంది మరియు ఛార్జీలు చెల్లించాల్సి ఉండవచ్చు. క్యారియర్ నుండి డేటా నెట్‌వర్క్ ప్యాకేజీని పొందాల్సిందిగా సిఫార్సు చేస్తున్నాము.</string>
+    <string name="network_options">నెట్‌వర్క్ ఎంపికలు</string>
+    <string name="send_diagnostics">సమస్యల నిర్ధారణలను పంపు</string>
+    <string name="diagnostics_description">దయచేసి మీ పరికరంలో సాఫ్ట్‌వేర్ లోపం ఏర్పడినప్పుడు లేదా పరికరం క్రాష్ అయినప్పుడు సమస్యల నిర్ధారణల డేటాని మాకు పంపడం ద్వారా మా ఉత్పత్తులు మరియు సేవలను మెరుగుపరచడంలో మాకు సహాయపడండి. మీరు ఏ సమయంలో అయినా సెట్టింగ్‌లలో ఎంపికను మార్చవచ్చు.</string>
+    <string name="cancel_upload_confirm_msg">మీరు మా వినియోగదారు అనుభవ ప్రోగ్రామ్ నుండి నిష్క్రమించబోతున్నారు. మీ మొబైల్ ఫోన్‌లో ఏర్పడే సాఫ్ట్‌వేర్ లోపాల సమాచారం సేకరించబడదు మరియు పంపబడదు, కనుక మొబైల్ ఫోన్‌ని ఉపయోగించడం కోసం మీ అనుభవాన్ని మెరుగుపరచలేకపోవచ్చు!</string>
+</resources>

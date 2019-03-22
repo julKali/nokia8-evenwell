@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gesture_url_tag">
+        <item>"Lectura móvil
+"</item>
+        <item>"Búsqueda Easou
+"</item>
+        <item>"Baidu
+"</item>
+        <item>"Netease
+"</item>
+        <item>"Noticias Sina
+"</item>
+        <item>"Sohu
+"</item>
+        <item>"3G
+"</item>
+        <item>"Taobao
+"</item>
+        <item>"Lotería
+"</item>
+        <item>"Renren
+"</item>
+        <item>"Tencent
+"</item>
+        <item>"Youku
+"</item>
+    </string-array>
+    <string-array name="gesture_url_info">
+        <item>http://wap.cmread.com</item>
+        <item>http://wap.easou.com</item>
+        <item>http://m.baidu.com</item>
+        <item>http://3g.163.com</item>
+        <item>http://3g.sina.com.cn</item>
+        <item>http://m.sohu.com</item>
+        <item>http://xuan.3g.cn</item>
+        <item>http://r.m.taobao.com</item>
+        <item>http://wap.zch168.com</item>
+        <item>http://m.renren.com</item>
+        <item>http://3g.qq.com</item>
+        <item>http://3g.youku.com/smartphone/</item>
+    </string-array>
+</resources>

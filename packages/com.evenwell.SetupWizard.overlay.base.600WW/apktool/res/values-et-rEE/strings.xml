@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"Nupu puudutamisega nõustute &lt;a href='launch.TermOfServiceActivity://Kode'>teenusetingimuste&lt;/a> ja &lt;a href='launch.AddUploadAgentHandler://Kode'>privaatsuseeskirjaga&lt;/a>. HMD Globali saadetakse seadme aktiveerimisteave ja ühekordselt seadme asukohateave.&lt;br/>&lt;br/>Lubatakse tarkvara automaatse värskendamise teade, mis installib teie jaoks uusimad värskendused. See võib kasutada väikest osa teie andmete eelarvest. Teenused loovad vajaduse korral Interneti-ühenduse.&lt;br/>&lt;br/>Need teenused põhjustavad teile lisatasusid, kui need loovad ühenduse mobiilandmeside võrkudega."</string>
+    <string name="welcome_hmd_term_of_use_5">"Nupu puudutamisega nõustute &lt;a href='launch.TermOfServiceActivity://Kode'>teenusetingimustega&lt;/a>. Teie andmeid töödeldakse HMD &lt;a href='launch.AddUploadAgentHandler://Kode'>privaatsuspoliitika&lt;/a> kohaselt. HMD Globalile saadetakse seadme aktiveerimisteave ja ühekordne seadme asukohateave. Võivad rakenduda mobiilse andmeside tasud."</string>
+    <string name="next_btn_lebel">JÄRGMINE</string>
+    <string name="back_btn_lebel">TAGASI</string>
+    <string name="finish_button_label">LÕPP</string>
+    <string name="idle_too_long_toast">Telefon on olnud mõnda aega jõude. Lülitage seade voolu säästmiseks välja.</string>
+    <string name="welcome_message">Tere tulemast</string>
+    <string name="welcome_start_button_label">KÄIVITA</string>
+    <string name="emergency_dial_message">Hädaabikõne</string>
+    <string name="emergency_dial_hmd_message">Eriolukord</string>
+    <string name="accessibility_text">Juurdepääsu seaded</string>
+    <string name="language_selection_cancel_btn">TÜHISTA</string>
+    <string name="term_agree_text">Nõustun</string>
+    <string name="term_disagree_text">Ei nõustu</string>
+    <string name="datausage_dialog_positive_btn">SMS-i teenuskeskuse seadmine OK</string>
+    <string name="datausage_dialog_negitive_btn">Tühista</string>
+    <string name="google_account_add_account">"Sisselogimine Google'i kontoga"</string>
+    <string name="date_and_time">Kuupäeva ja kellaaja seaded</string>
+    <string name="date_time_auto">Automaatne kuupäev ja kellaaeg</string>
+    <string name="date_time_auto_summaryOn">Võrgu pakutud kellaaja kasutamine</string>
+    <string name="date_time_auto_summaryOff">Võrgu pakutud kellaaja kasutamine</string>
+    <string name="zone_auto">Automaatne ajavöönd</string>
+    <string name="zone_auto_summaryOn">Kasuta võrgu pakutud ajavööndit</string>
+    <string name="zone_auto_summaryOff">Kasuta võrgu pakutud ajavööndit</string>
+    <string name="date_time_set_date">Kuupäeva määramine</string>
+    <string name="date_time_set_time">Kellaaja määramine</string>
+    <string name="date_time_set_timezone">Valige ajavöönd</string>
+    <string name="date_time_24hour">24-tunnise vormingu kasutamine</string>
+    <string name="date_time_date_format">Valige kuupäevavorming</string>
+    <string name="choose_timezone">Ajavööndi valimine</string>
+    <string name="normal_date_format">Piirkondlik (%s)</string>
+    <string name="date_and_time_settings_title">Kuupäev &amp; aeg</string>
+    <string name="date_and_time_settings_title_setup_wizard">Kuupäeva ja kellaaja määramine</string>
+    <string name="date_and_time_settings_summary">Määra kuupäev, kellaaeg, ajavöönd ja vormingud</string>
+    <string name="date_picker_title">Kuupäev:</string>
+    <string name="time_picker_title">Kellaaeg</string>
+    <string name="nevigation_selection_text">Saate muuta tausta värvi ja klahvide Tagasi/Hiljutised asukohta.</string>
+    <string name="nevigation_selection_back">Tagasi..</string>
+    <string name="nevigation_selection_home">Kodune telefon</string>
+    <string name="nevigation_selection_recent">Hiljutised</string>
+    <string name="upload_agent_title">Kasutajakogemuse programm</string>
+    <string name="setup_completed_congratulations">Palju õnne!</string>
+    <string name="setup_complete_hmd">Olete valmis minema...</string>
+    <string name="setup_complete_main">Olete</string>
+    <string name="setup_complete_sub">VALMIS MINEMA.</string>
+    <string name="hmd_user_experience_program_title">Kasutajakogemuse programm</string>
+    <string name="hmd_user_experience_program_message">Teie osalemine kasutajakogemuse programmis aitab HMD Globalil paremini mõista, mis teile Nokia seadme puhul meeldib ja mida peaks teie arvates paremaks muutma. Aegajalt võime saada teie seadet puudutavate tehniliste andmetega anonüümsed andmed, näiteks faili andmetega aset leidnud tarkvarakrahhi kohta. Pange tähele, et selliseid andmeid ei edastata üle mobiilsidevõrgu. Tahaksime hea meelega saada teada, mida te arvate meie Nokia seadmest!</string>
+    <string name="skip_button_label">Vahelejätmine</string>
+    <string name="skip_add_account_button_label">Mitte praegu</string>
+    <string name="device_checking_message">Tere tulemast</string>
+    <string name="backup_and_restore_title">Varuda ja taasta</string>
+    <string name="backup_and_restore_description">"Kui te eelnevalt varundasite oma konto, saate selle nüüd antud telefonis taastada.
+
+Võite igal ajal Seadetes oma varundusseadeid muuta."</string>
+    <string name="wifi_picker_connection_positive">SMS-i teenuskeskuse seadmine OK</string>
+    <string name="wifi_picker_connection_negative">Ühenda</string>
+    <string name="wifi_picker_warning_title">Hoiatus</string>
+    <string name="wifi_picker_warning_negative">Jäta siiski vahele</string>
+    <string name="wapi_psk_security_type">Parooli tüüp</string>
+    <string name="upload_agent_hmd_des_text_3">"Puudutades nuppu ALUSTAME, nõustute liituma kasutuskogemuse programmiga. &lt;a href='launch.UserExperienceActivity://Kode'>Lisateave&lt;/a>. Pidage meeles, saate alati hiljem ühineda jaotisest Seaded."</string>
+    <string name="setup_complete_hmd_1">Olete minekuks peaaegu valmis …;!</string>
+    <string name="not_now">MITTE PRAEGU ...</string>
+    <string name="setup_finish">ALUSTAME</string>
+    <string name="wifi_fail_to_scan">Võrke ei saa otsida</string>
+    <string name="wifi_security_none">Puudub</string>
+    <string name="wifi_remembered">Salvestatud</string>
+    <string name="wifi_disabled_generic">Keelatud</string>
+    <string name="wifi_disabled_network_failure">IP-konfiguratsiooni tõrge</string>
+    <string name="wifi_disabled_password_failure">Probleem autentimisega</string>
+    <string name="wifi_not_in_range">Vahemikust väljas</string>
+    <string name="wifi_no_internet_no_reconnect">Ei ühenda automaatselt</string>
+    <string name="wifi_no_internet">Interneti-ühendus puudub</string>
+    <string name="saved_network">Salvestanud %1$s</string>
+    <string name="connected_via_passpoint">Ühendatud %1$s kaudu</string>
+    <string name="available_via_passpoint">Saadaval %1$s kaudu</string>
+    <string name="wifi_connected_no_internet">Ühendatud, Interneti-ühendus puudub</string>
+    <string name="wifi_auth_password_wrong">Parool võib olla vale</string>
+    <string name="connected_via_wfa">Ühendatud Wi‑Fi abi kaudu</string>
+    <string name="wifi_ssid">Võrgu nimi</string>
+    <string name="wifi_ssid_hint">Sisestage SSID</string>
+    <string name="wifi_security">Turvalisus</string>
+    <string name="wifi_eap_method">EAP meetod</string>
+    <string name="please_select_phase2">2. etapi autentimine</string>
+    <string name="wifi_eap_ca_cert">CA sertifikaat</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Sertifikaati pole määratud. Teie ühendus ei ole privaatne.</string>
+    <string name="wifi_eap_domain">Domeen</string>
+    <string name="wifi_no_domain_warning">Domeen tuleb määrata.</string>
+    <string name="wifi_eap_user_cert">Kasutaja sertifikaat</string>
+    <string name="wifi_eap_identity">Identiteet</string>
+    <string name="wifi_eap_anonymous">Anonüümne identiteet</string>
+    <string name="wifi_password">Parool</string>
+    <string name="wifi_show_password">Kuva parool</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Ripploend Täpsemad suvandid. Topeltpuudutage valiku laiendamiseks.</string>
+    <string name="wifi_show_advanced">Täpsemad suvandid</string>
+    <string name="proxy_settings_title">Puhverserveri seaded</string>
+    <string name="proxy_warning_limited_support">Brauser kasutab HTTP-puhverserverit, kuid muud rakendused ei tohi seda kasutada.</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">Puhverserveri hosti nimi</string>
+    <string name="proxy_exclusionlist_label">Puhverserverist mööduvad</string>
+    <string name="wifi_ip_settings">IP-seaded</string>
+    <string name="wifi_ip_address">IP-aadress</string>
+    <string name="wifi_gateway">Lüüs</string>
+    <string name="wifi_network_prefix_length">Võrgu prefiksi pikkus</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">Jaga teiste seadmekasutajatega</string>
+    <string name="proxy_port_label">Puhverserveri port</string>
+    <string name="wifi_unspecified">Palun vali</string>
+    <string name="wifi_multiple_cert_added">(Lisatud on mitu sertifikaati)</string>
+    <string name="wifi_use_system_certs">Kasuta süsteemisertifikaate</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Ei paku</string>
+    <string name="wifi_do_not_validate_eap_server">Ei kinnita</string>
+    <string name="wifi_add_network">Lisa võrk</string>
+    <string name="wifi_save">Salvesta</string>
+    <string name="passpoint_label">Salvestatud järgmise asukoha kaudu:</string>
+    <string name="wifi_connect">Ühenda</string>
+    <string name="wifi_status">Olek</string>
+    <string name="wifi_signal">Signaali tugevus</string>
+    <string name="wifi_speed">Lingi kiirus</string>
+    <string name="link_speed">%1$d Mbit/s</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Sagedus</string>
+    <string name="wifi_forget">Unusta</string>
+    <string name="wifi_cancel">Tühista</string>
+    <string name="proxy_error_invalid_port">Sisestatud port ei sobi.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Sisestage kehtiv IP-aadress.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Sisestage võrgu eesliide pikkusega 0 kuni 32.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Sisestage kehtiv lüüsi aadress.</string>
+    <string name="wifi_ip_settings_invalid_dns">Sisestage kehtiv DNS-aadress.</string>
+    <string name="wifi_unchanged">(muutmata)</string>
+    <string name="wifi_failed_connect_message">Võrguga ühenduse loomine ebaõnnestus</string>
+    <string name="wifi_failed_save_message">Võrgu salvestamine ebaõnnestus</string>
+    <string name="wifi_failed_forget_message">Võrgu unustamine ebaõnnestus</string>
+    <string name="proxy_error_empty_host_set_port">Pordi väli peab olema tühi, kui hosti väli on tühi.</string>
+    <string name="proxy_error_empty_port">Peate täitma pordi välja.</string>
+    <string name="proxy_error_invalid_exclusion_list">Sisestatud välistamisloend ei ole õigesti vormindatud. Tippige välistatud domeenide komaga eraldatud loend.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Ripploend Täpsemad suvandid. Topeltpuudutage valiku sulgemiseks.</string>
+    <string name="passpoint_content">%1$s identimisteave</string>
+    <string name="select_sim_card">Vali SIM-kaart</string>
+    <string name="sim_editor_title">SIM-kaardi pesa %1$d</string>
+    <string name="wifi_certificate">Sertifikaat</string>
+    <string name="wifi_setting_title">Loo ühendus</string>
+    <string name="wifi_skip_anyway">JÄTA SIISKI VAHELE</string>
+    <string name="wifi_dont_skip">MINE TAGASI</string>
+    <string name="wifi_and_mobile_skipped_message">"Võrguühenduse loomine aitab teil kiiremini oma telefoni seadistada.
+
+Ilma ühenduseta ei saa te:
+
+"<li>Logida sisse oma pilvekontole</li>"
+
+"<li>Hankida tarkvaravärskendusi</li>"
+
+"<li>Määrata automaatselt kellaaega ja kuupäeva</li></string>
+</resources>

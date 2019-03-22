@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="default_wallpapper_hidden">true</bool>
+    <bool name="qsb_on_first_screen">false</bool>
+    <bool name="minus_one_search">true</bool>
+    <bool name="badge_notification">true</bool>
+    <bool name="cycle_scroll_enable">true</bool>
+    <bool name="wallpaper_gms_disable">false</bool>
+</resources>

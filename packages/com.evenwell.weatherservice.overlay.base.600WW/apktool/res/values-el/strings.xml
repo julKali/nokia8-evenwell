@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Υπηρεσία καιρού</string>
+    <string name="fih_weather_permission_hint_1">Για να λειτουργεί σωστά, αυτή η εφαρμογή απαιτεί ένα πρόσθετο δικαίωμα. Παραχωρήστε το δικαίωμα όταν σας ζητηθεί.</string>
+    <string name="fih_weather_permission_hint_2">Για να λειτουργεί σωστά, αυτή η εφαρμογή απαιτεί πρόσθετα δικαιώματα. Διαχειριστείτε τα δικαιώματα της Υπηρεσίας καιρού στις Ρυθμίσεις.</string>
+    <string name="fih_weather_button_ok">ΟΚ</string>
+    <string name="fih_weather_button_close">Κλείσιμο καναλιού</string>
+    <string name="fih_weather_button_setting">Ρύθμιση…</string>
+    <string name="fih_weather_permission_success">Επιτυχής παραχώρηση δικαιωμάτων τοποθεσίας</string>
+    <string name="fih_weather_permission_failed">Απορρίφθηκε η παραχώρηση δικαιωμάτων τοποθεσίας, λήψη τοποθεσίας αδύνατη.</string>
+    <string name="fih_weather_notification_title">Η υπηρεσία καιρού απαιτεί δικαιώματα</string>
+    <string name="fih_weather_notification_text">Πατήστε για αποδοχή</string>
+    <string name="fih_weather_notification_channel_title">Γενικές ειδοποιήσεις</string>
+</resources>

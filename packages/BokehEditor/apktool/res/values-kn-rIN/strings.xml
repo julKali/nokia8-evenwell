@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಬೋಕೆ ಎಡಿಟರ್</string>
+    <string name="image_not_null">ಚಿತ್ರದ ಮಾರ್ಗವು ಶ್ಯೂನ್ಯವಿರುವಂತಿಲ್ಲ</string>
+    <string name="no_bokeh_type">ಯಾವುದೇ ಬೋಕೆ ಪ್ರಕಾರವಿಲ್ಲ</string>
+    <string name="no_mpo_file">ಯಾವುದೇ MPO ಫೈಲ್ ಇಲ್ಲ</string>
+    <string name="refocus_type_description">ರೀಫೋಕಸ್ ಮಾಡಲು ಡೆಪ್ತ್ ಮ್ಯಾಪ್ ಇರುವುದರ ಜೊತೆಗೆ ಈ ಫೋಟೋವನ್ನು ಪೊಟ್ರೇಟ್ ಮೋಡ್‌ನಲ್ಲಿ ಸೆರೆಹಿಡಿಯಲಾಗಿದೆ.</string>
+    <string name="refocus_type_name">ಪೊಟ್ರೇಟ್ ಮೋಡ್</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="save_success">ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="saving_photos">ಫೋಟೋಗಳನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ...</string>
+</resources>

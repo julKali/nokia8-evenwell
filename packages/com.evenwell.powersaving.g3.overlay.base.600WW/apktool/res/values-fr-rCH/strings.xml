@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">"Économiseur d'énergie"</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="switch_on_text">Activé</string>
+    <string name="switch_off_text">Désactivé</string>
+    <string name="blacklist">Liste noire</string>
+    <string name="lock_screen_ap_protect_title">Gestionnaire des activités en arrière-plan</string>
+    <string name="all_aps">Ajouter toutes les applications à la liste blanche</string>
+    <string name="fih_power_saving_doze_high_consumption">"Consommation d'énergie importante"</string>
+    <string name="fih_power_saving_background_activity_text">"Autorisez le gestionnaire des activités en arrière-plan de prolonger l'autonomie de la batterie. Les notifications de certaines applications ou certains e-mails peuvent ne pas être récupérées instantanément. Vous pouvez gérer l'autonomie de la batterie en ajoutant les applications à la liste blanche ou en les retirant de celle-ci."</string>
+    <string name="fih_power_saving_background_cleaner">Suppression des activités en arrière-plan</string>
+    <string name="fih_power_saving_background_cleaner_summary">Les notifications peuvent ne pas être récupérées instantanément</string>
+    <string name="app_block_list">Liste des applications limitées</string>
+    <string name="bam_notification_content_title">Des applications consomment de la batterie en arrière-plan.</string>
+    <string name="bam_notification_content_text">"Activez ceci pour améliorer l'autonomie de la batterie !"</string>
+    <string name="bam_notification_btn_turnon">ACTIVER</string>
+    <string name="bam_notification_btn_nevershowthis">NE JAMAIS AFFICHER CECI</string>
+    <string name="fih_power_saving_background_activity_text_blacklist">"Autorisez le gestionnaire des activités en arrière-plan de prolonger l'autonomie de la batterie. Les notifications de certaines applications ou certains e-mails peuvent ne pas être récupérées instantanément. Vous pouvez gérer l'autonomie de la batterie en ajoutant les applications à la liste noire ou en les retirant de celle-ci."</string>
+    <string name="enable_blacklist">Activer la liste noire</string>
+</resources>

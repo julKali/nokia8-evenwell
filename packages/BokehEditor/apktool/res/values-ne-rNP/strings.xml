@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बोकेह सम्पादक</string>
+    <string name="image_not_null">छविको पथ खाली हुन सक्दैन</string>
+    <string name="no_bokeh_type">बोकेहको कुनै पनि प्रकार छैन</string>
+    <string name="no_mpo_file">कुनै पनि MPO फाइल छैन</string>
+    <string name="save">सुरक्षित गर्नुहोस्</string>
+    <string name="save_success">सफलतापूर्वक सुरक्षित गरियो</string>
+</resources>

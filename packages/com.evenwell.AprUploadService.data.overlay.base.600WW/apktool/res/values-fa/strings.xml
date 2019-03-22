@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">سیاست حریم خصوصی HMD</string>
+    <string name="privacy_activity">سیاست حریم خصوصی HMD</string>
+    <string name="go_label">انجام شد</string>
+    <string name="agree">موافقت</string>
+    <string name="see_detail">جزئیات</string>
+    <string name="next_btn_lebel">بعدی</string>
+    <string name="app_name">عیب یابی سیستم</string>
+    <string name="setting_page_name">برنامه تجربه کاربر</string>
+    <string name="send_diag_dialog_any_network">وقتی اتصال داده در دسترس است</string>
+    <string name="send_diag_dialog_wifi">وقتی اتصال Wi-Fi در دسترس است</string>
+    <string name="send_diag_dialog_wlan">وقتی اتصال WLAN در دسترس است</string>
+    <string name="send_diag_dialog_title">ارسال عیب یابی</string>
+    <string name="diagnostics_setting">عیب یابی</string>
+    <string name="diagnostics_report">گزارش عیب یابی</string>
+    <string name="diagnostics_report_summary">هنگام وجود خطای نرم افزاری در دستگاه، گزارش عیب یابی را ارسال کنید. مشمول هزینه استفاده از شبکه می شود. دریافت بسته شبکه داده از جانب ارائه دهنده توصیه می شود.</string>
+    <string name="network_options">گزینه های شبکه</string>
+    <string name="send_diagnostics">ارسال عیب یابی</string>
+    <string name="diagnostics_description">زمانی که دستگاه شما دچار خطای نرم افزاری یا خرابی می شود، لطفاً برای بهبود محصولات و خدمات مان به ما اجازه دهید داده های عیب یابی را جمع آوری کنیم. همیشه این گزینه را در تنظیمات می توانید تغییر دهید.</string>
+    <string name="cancel_upload_confirm_msg">شما در آستانه خروج از برنامه تجربه کاربر ما هستید. خطاهای نرم‌افزاری که در تلفن همراه شما رخ می‌‌دهند حفظ و ارسال نمی‌شوند پس باعث بهبود تجربه استفاده از تلفن همراه نمی‌شوند!</string>
+</resources>

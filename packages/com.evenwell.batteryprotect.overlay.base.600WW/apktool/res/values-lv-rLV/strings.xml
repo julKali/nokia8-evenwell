@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">Labi</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Atcelt</string>
+    <string name="fih_battery_protect_power_off">Izslēgt</string>
+    <string name="fih_battery_protect_high_full_charging">Ir sasniegts maksimālais uzlādes ierobežojums augstā temperatūrā. Kad tālruņa temperatūra normalizēsies, sistēma turpinās uzlādi normālā ātrumā.</string>
+    <string name="fih_battery_protect_low_full_charging">Ir sasniegts maksimālais uzlādes ierobežojums zemā temperatūrā. Kad tālruņa temperatūra normalizēsies, sistēma turpinās uzlādi normālā ātrumā.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Sasniegts augstas temperatūras uzlādes ierobežojums</string>
+    <string name="fih_battery_protect_low_full_charging_title">Sasniegts zemas temperatūras uzlādes ierobežojums</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Vispārīgie paziņojumi</string>
+    <string name="fih_battery_protect_ok_wear">Labi</string>
+    <string name="fih_battery_protect_cancel_wear">Atcelt</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Lūdzu izmantojiet oriģinālo akumulatoru</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Uzlāde pārtraukta!</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Lūdzu izmantojiet uzlādei oriģinālo akumulatoru. Izmantojot neoriģinālo akumulatoru varat ierīci neatgriezeniski sabojāt/radīt fiziskus bojājumus.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Akumulators nav derīgs</string>
+    <string name="fih_battery_protect_notification_cooling_down">Dzesēšana</string>
+    <string name="fih_battery_protect_tap_learn_more">Pieskarieties, lai uzzinātu vairāk.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Jūsu tālrunis sāk uzkarst, tādēļ tiek veiktas nepieciešamās darbības, lai atdzesētu ierīci. Jūs joprojām varat izmantot tālruni, bet jāņem vērā tālāk norādītais.
+·Uzlādēšana var tikt apturēta.
+·Wi-Fi var tikt izslēgts.
+·Lietotnes var tikt aizvērtas.
+·Lidojuma režīms var tikt ieslēgts.
+Jūsu tālruņa darbība atgriezīsies normālā stāvoklī, tiklīdz tālrunis būs pietiekami atdzisis."</string>
+</resources>

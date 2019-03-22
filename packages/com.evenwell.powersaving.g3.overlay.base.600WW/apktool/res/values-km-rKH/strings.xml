@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">រក្សាថាមពល</string>
+    <string name="fih_power_saving_notice_dialog_title">ចំណាំ</string>
+    <string name="fih_power_saving_remember_choice">កុំ​បង្ហាញ​ម្ដង​ទៀត</string>
+    <string name="fih_power_saving_dialog_ok">យល់ព្រម</string>
+    <string name="fih_power_saving_dialog_cancel">លើកលែង</string>
+    <string name="fih_power_saving_screen_title">អេក្រង់</string>
+    <string name="fih_power_saving_data_title">តំណភ្ជាប់នៃទិន្នន័យ</string>
+    <string name="fih_power_saving_data_time_always">ពេញ​មួយ​ថ្ងៃ</string>
+    <string name="fih_power_saving_data_time_from">ពី</string>
+    <string name="fih_power_saving_data_time_to">ទៅកាន់:</string>
+    <string name="fih_power_saving_data_cate_set_time">កំណត់​ម៉ោង​</string>
+    <string name="fih_power_saving_lpm_title">ម៉ូដបង្ហាញ​កម្រិត​ថាមពល​ទាប</string>
+    <string name="fih_power_saving_lpm_wifi">បិទ Wi-Fi</string>
+    <string name="fih_power_saving_lpm_restrict_background_data">ដាក់​កម្រិត​ទិន្នន័យ​ផ្ទៃ​ខាង​ក្រោយ</string>
+    <string name="fih_power_saving_lpm_timeout_dialog_title">អស់ម៉ោងអេក្រង់</string>
+    <string name="fih_power_saving_lpm_brightness_dialog_title">ភ្លឺចាំង</string>
+    <string name="fih_power_saving_lpm_brightness_auto">ស្វ័យប្រវត្តិ</string>
+    <string name="fih_power_saving_lpm_timeout_bright_sysdefined">បន្ត</string>
+    <string name="fih_power_saving_lpm_power_saving_minute">នាទី</string>
+    <string name="fih_power_saving_lpm_power_saving_second">ទីពីរ</string>
+    <string name="fih_power_saving_lpm_power_saving_minutes">នាទី</string>
+    <string name="fih_power_saving_lpm_power_saving_seconds">វិនាទី​</string>
+    <string name="fih_power_saving_ss_wifi">បិទ Wi-Fi</string>
+    <string name="fih_power_saving_ss_summary_wifi_mtk">ស្វ័យ​បិទ Wi-Fi បន្ទាប់​ពី​អំឡុងពេល​សកម្មភាព</string>
+    <string name="switch_on_text">បើក</string>
+    <string name="switch_off_text">បិទ</string>
+    <string name="app_about">អំពី</string>
+    <string name="version">កំណែ</string>
+    <string name="feedback">ផ្ដល់​មតិ​ស្ថាបនា</string>
+    <string name="fih_power_saving_permission_msg">ដើម្បី​ដំណើរការ​ប្រក្រតី កម្មវិធី​នេះ​ត្រូវការ​នូវ​ការអនុញ្ញាត​បន្ថែម។ សូម​គ្រប់គ្រង​ការអនុញ្ញាត %s ក្នុង ការកំណត់។</string>
+    <string name="fih_power_saving_permission_settings">ការសិត</string>
+    <string name="fih_power_saving_permission_cancel">លើកលែង</string>
+    <string name="fih_power_saving_permission_lpm_notification_title">%s ត្រូវការ​នូវ​ការអនុញ្ញាត</string>
+    <string name="fih_power_saving_permission_lpm_notification_summary">ប៉ះ​ដើម្បី​អនុញ្ញាត</string>
+    <string name="fih_power_saving_permission_first_time_or_always_deny">ដើម្បី​ដំណើរការ​ប្រក្រតី កម្មវិធី​នេះ​ត្រូវការ​នូវ​ការអនុញ្ញាត​បន្ថែម។ សូម​ផ្ដល់​ការអនុញ្ញាត នៅពេល​សួរ។</string>
+    <string name="blacklist">បញ្ជីខ្មៅ</string>
+    <string name="lock_screen_ap_protect_title">អភិបាល​សកម្មភាព​នៅ​ផ្ទៃខាងក្រោយ</string>
+    <string name="all_aps">ថែម​កម្មវិធី​ទាំងអស់​ទៅ​បញ្ជី​ស</string>
+    <string name="fih_power_saving_doze_high_consumption">ការប្រើប្រាស់​ថាមពល​ខ្ពស់</string>
+    <string name="fih_power_saving_background_activity_text">បើកប្រើ​អភិបាល​សកម្មភាព​នៅ​ផ្ទៃខាងក្រោយ ដើម្បី​ពន្យារ​ជីវិត​ថ្ម ប៉ុន្តែ​ការជូនដំណឹង​ពី​កម្មវិធី​ឬ​អ៊ីមែល​ខ្លះ​ប្រហែល​ជា​មិន​អាច​ទៅយក​ភ្លាមៗ​ឡើយ។ អ្នក​អាច​គ្រប់គ្រង​ជីវិត​ថ្ម ដោយ​ថែម​ឬ​លុប​កម្មវិធី​ទៅ​ឬ​ពី​បញ្ជី​ស។</string>
+    <string name="fih_power_saving_background_cleaner">ឧបករណ៍​សម្អាត​សកម្មភាព​នៅ​ផ្ទៃខាងក្រោយ</string>
+    <string name="fih_power_saving_background_cleaner_summary">ការជូនដំណឹង​ទាំងនេះ​អាច​មិន​ត្រូវ​បាន​ទៅយក​ភ្លាមៗ</string>
+    <string name="app_block_list">បញ្ជី​កម្មវិធី​ដែល​បាន​កំហិត</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP klijent</string>
+    <string name="fih_cp_apn_not_set">&lt;Nije postavljeno></string>
+    <string name="fih_cp_apply_dialog_body_msg">Želite li primijeniti novu konfiguraciju?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Novo omogućivanje</string>
+    <string name="fih_cp_btn_back">Natrag</string>
+    <string name="fih_cp_btn_cancel">Odustani</string>
+    <string name="fih_cp_btn_next">Dalje</string>
+    <string name="fih_cp_btn_ok">U redu</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Vrsta provjere autentičnosti</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Ništa</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP ili CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Priključak</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS priključak</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS proxy</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Ime</string>
+    <string name="fih_cp_editor_apn_password">Zaporka</string>
+    <string name="fih_cp_editor_apn_server">Poslužitelj</string>
+    <string name="fih_cp_editor_apn_type">Vrsta APN-a</string>
+    <string name="fih_cp_editor_apn_user">Korisničko ime</string>
+    <string name="fih_cp_error_apn_empty">Polje APN ne može biti prazno.</string>
+    <string name="fih_cp_error_name_empty">Polje Ime ne može biti prazno.</string>
+    <string name="fih_cp_error_other">Pogreška sintakse podataka.</string>
+    <string name="fih_cp_error_title">Pažnja</string>
+    <string name="fih_cp_input_pin_code">Unesite PIN kôd:</string>
+    <string name="fih_cp_input_pin_code_cancel">Odustani</string>
+    <string name="fih_cp_input_pin_code_empty">Unesite PIN kôd.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Netočan PIN kôd.</string>
+    <string name="fih_cp_input_pin_code_ok">U redu</string>
+    <string name="fih_cp_notification_channel_name">Opće obavijesti</string>
+    <string name="fih_cp_notify_statusbar_content">Poruka o novom omogućivanju</string>
+    <string name="fih_cp_sim_not_available">SIM kartica nije dostupna.</string>
+    <string name="fih_cp_toast_info_create">Profil uspješno izrađen</string>
+    <string name="fih_cp_toast_info_update">Profil uspješno ažuriran</string>
+    <string name="fih_cp_ui_mode_delete">Izbriši</string>
+    <string name="fih_cp_ui_mode_ok">U redu</string>
+    <string name="fih_cp_ui_mode_postpone">Odgodi</string>
+</resources>

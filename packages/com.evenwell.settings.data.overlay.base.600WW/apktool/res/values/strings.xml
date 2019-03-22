@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_custom_legal_default">nokia</string>
+    <string name="legal_item">com.evenwell.intent.action.serviceterm</string>
+    <string name="legal_apr_item">com.evenwell.intent.action.privacypolicy</string>
+    <string name="nokia_legal_title">HMD legal information</string>
+    <string name="nokia_legal_message" />
+</resources>

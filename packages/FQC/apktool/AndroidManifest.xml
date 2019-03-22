@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" android:sharedUserId="android.uid.system" package="com.evenwell.fqc" platformBuildVersionCode="9011001" platformBuildVersionName="9.0110.01">
+    <protected-broadcast android:name="com.evenwell.fqc.USB_AUDIO_HOOKKEY"/>
+    <protected-broadcast android:name="com.evenwell.fqc.USB_AUDIO_PLUG"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.HARDWARE_TEST"/>
+    <uses-permission android:name="android.permission.BATTERY_STATS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_INPUT_STATE"/>
+    <uses-permission android:name="android.permission.FLASHLIGHT"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.NFC"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.MASTER_CLEAR"/>
+    <uses-permission android:name="android.permission.FACTORY_TEST"/>
+    <uses-permission android:name="android.permission.WRITE_PROFILE"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.DELETE_PACKAGES"/>
+    <uses-permission android:name="android.permission.FMRADIO"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.DIAGNOSTIC"/>
+    <uses-permission android:name="com.fihtdc.fingerprint.permission.READ_FINGER"/>
+    <uses-permission android:name="com.fihtdc.fingerprint.permission.WRITE_FINGER"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.TRANSMIT_IR"/>
+    <uses-permission android:name="android.permission.DUMP"/>
+    <uses-permission android:name="android.permission.ACCESS_FM_RADIO"/>
+    <uses-permission android:name="android.permission.ACCESS_BROADCAST_RADIO"/>
+    <uses-feature android:name="android.hardware.nfc" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+    <uses-feature android:name="android.hardware.ConsumerIrManager"/>
+    <application android:allowBackup="false" android:icon="@drawable/icon" android:label="@string/app_name" android:name="com.evenwell.fqc.FQCApplication" android:resizeableActivity="false" android:theme="@android:style/Theme.Holo">
+        <activity android:clearTaskOnLaunch="true" android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:excludeFromRecents="true" android:label="@string/app_name" android:name="com.evenwell.fqc.FQCTestItemListActivity" android:screenOrientation="nosensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="evenwell.intent.action.TEST_TOOL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.evenwell.fqc.FQCBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="372" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="372733" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="672" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="6721" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="664" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.evenwell.action.FQC.request"/>
+            </intent-filter>
+        </receiver>
+        <activity android:exported="true" android:label="@string/nfc_title" android:name="com.evenwell.fqc.activity.ShowNFC" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/nfc_card_title" android:name="com.evenwell.fqc.activity.ShowNFCCard" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/speaker_title" android:name="com.evenwell.fqc.activity.ShowSpeaker" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/RecNPlay_title" android:name="com.evenwell.fqc.activity.RecNPlay" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/speakerstereo_title" android:name="com.evenwell.fqc.activity.ShowSpeakerStereo" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/speakerl_title" android:name="com.evenwell.fqc.activity.ShowSpeakerL" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/speakerr_title" android:name="com.evenwell.fqc.activity.ShowSpeakerR" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/speaker1_title" android:name="com.evenwell.fqc.activity.ShowSpeaker1" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/speaker2_title" android:name="com.evenwell.fqc.activity.ShowSpeaker2" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/speaker3_title" android:name="com.evenwell.fqc.activity.ShowSpeaker3" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/screen_title" android:name="com.evenwell.fqc.activity.ShowScreenCalibration" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="layoutDirection|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:hardwareAccelerated="true" android:label="@string/touchr_title" android:name="com.evenwell.fqc.activity.ShowTouchPanel" android:screenOrientation="nosensor" android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen"/>
+        <activity android:configChanges="layoutDirection|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:hardwareAccelerated="true" android:label="@string/drawLine_title" android:name="com.evenwell.fqc.activity.DrawLineTest" android:screenOrientation="nosensor" android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen"/>
+        <activity android:configChanges="layoutDirection|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:hardwareAccelerated="true" android:label="@string/drawDot_title" android:name="com.evenwell.fqc.activity.DrawDotTest" android:screenOrientation="nosensor" android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen"/>
+        <activity android:exported="false" android:label="@string/fmtest_title" android:name="com.evenwell.fqc.activity.ShowFMTest2" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/Show3dDisplayTest_title" android:name="com.evenwell.fqc.activity.Show3dDisplayTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/tvtest_title" android:name="com.evenwell.fqc.activity.ShowTVTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/ShowLEDStr_title" android:name="com.evenwell.fqc.activity.ShowLED" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/brightness_title" android:name="com.evenwell.fqc.activity.ShowBrightness" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/flight_title" android:name="com.evenwell.fqc.activity.ShowFlashLight" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/irflight_title" android:name="com.evenwell.fqc.activity.ShowIRFlashLight" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/flight_title" android:name="com.evenwell.fqc.activity.ShowFlashLightFast" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/flight_front_title" android:name="com.evenwell.fqc.activity.ShowFrontFlashLight" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/flight_title" android:name="com.evenwell.fqc.activity.SmartFlashLight" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/bluetooth_title" android:name="com.evenwell.fqc.activity.ShowBluetoothTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/showringswitch_title" android:name="com.evenwell.fqc.activity.ShowRingSwitch" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/earphone_title" android:name="com.evenwell.fqc.activity.ShowEarphone" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/microphone_title" android:name="com.evenwell.fqc.activity.ShowMicrophone" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/microphone2_title" android:name="com.evenwell.fqc.activity.ShowMicrophone2" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/microphone3_title" android:name="com.evenwell.fqc.activity.ShowMicrophone3" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/microphone4_title" android:name="com.evenwell.fqc.activity.ShowMicrophone4" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/gpstest_title" android:name="com.evenwell.fqc.activity.ShowGPSTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/gself_title" android:name="com.evenwell.fqc.activity.ShowGSensorAccelerometer" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/gdisable_title" android:name="com.evenwell.fqc.activity.ShowGSensorOrientationDisable" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/genable_title" android:name="com.evenwell.fqc.activity.ShowGSensorOrientationEnable" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/gyrosensor_title" android:name="com.evenwell.fqc.activity.ShowGyroSensor" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/gyrosensor_title" android:name="com.evenwell.fqc.activity.SmartGyroSensor" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/als_title" android:name="com.evenwell.fqc.activity.ShowALS" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ecompass_title" android:name="com.evenwell.fqc.activity.ShowECompass" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/touchr_title" android:name="com.evenwell.fqc.activity.NineTouch" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/wifi_title" android:name="com.evenwell.fqc.activity.ShowWifiTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/proximity_title" android:name="com.evenwell.fqc.activity.ShowProximity" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/touchr_title" android:name="com.evenwell.fqc.activity.ShowTouchLens" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/gsensor_title" android:name="com.evenwell.fqc.activity.ShowGSensorCalibration" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/magsensor_title" android:name="com.evenwell.fqc.activity.ShowMagSensorCalibration" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:label="@string/cameraiqc_title" android:name="com.evenwell.fqc.activity.ShowCameraTest" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:label="@string/main_camera_name" android:name="com.evenwell.fqc.activity.ShowMainCameraTest" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:label="@string/front_camera_name" android:name="com.evenwell.fqc.activity.ShowFrontCameraTest" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:label="@string/ir_camera_name" android:name="com.evenwell.fqc.activity.ShowIRCameraTest" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:label="@string/mono_camera_name" android:name="com.evenwell.fqc.activity.ShowMonoCameraTest" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:label="@string/ext1_camera_name" android:name="com.evenwell.fqc.activity.ShowExt1CameraTest" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:label="@string/ext2_camera_name" android:name="com.evenwell.fqc.activity.ShowExt2CameraTest" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:label="@string/main_camera_single_name" android:name="com.evenwell.fqc.activity.MainCameraSingleTest" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:exported="false" android:label="@string/cameraiqc_title" android:name="com.evenwell.fqc.activity.ShowCamera2Test" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/jogball_title" android:name="com.evenwell.fqc.activity.JogballActivity" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/simcard_title" android:name="com.evenwell.fqc.activity.SIMTestActivity" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/version_title" android:name="com.evenwell.fqc.activity.DeviceInfoActivity" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/realtime_title" android:name="com.evenwell.fqc.activity.RTCActivity" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/vibrator_title" android:name="com.evenwell.fqc.activity.VibratorActivity2" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/vibrator_title" android:name="com.evenwell.fqc.activity.SmartVibrator" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/vibrator_title" android:name="com.evenwell.fqc.activity.VibratorActivity" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/battery_title" android:name="com.evenwell.fqc.activity.BatteryInfoActivity" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="layoutDirection|screenLayout|screenSize|smallestScreenSize" android:exported="true" android:label="@string/pixelcolor_title" android:name="com.evenwell.fqc.activity.PixelTestActivity" android:screenOrientation="nosensor" android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen"/>
+        <activity android:exported="true" android:label="@string/usb_title" android:name="com.evenwell.fqc.activity.USBTestActivity" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/keyboard_name_title" android:name="com.evenwell.fqc.activity.KeyBoardTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/hdmi_title" android:name="com.evenwell.fqc.activity.HDMIActivity" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/OTG_title" android:name="com.evenwell.fqc.activity.OTGActivity" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="uiMode" android:exported="true" android:label="@string/wireless_charging_title" android:name="com.evenwell.fqc.activity.ShowWirelessCharging" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="uiMode" android:exported="true" android:label="@string/buzzer_title" android:name="com.evenwell.fqc.activity.ShowBuzzer" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="uiMode" android:exported="true" android:label="@string/mic1tobluetoothloop_title" android:name="com.evenwell.fqc.activity.Mic1ToBluetoothLoop" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="uiMode" android:exported="false" android:label="@string/mic1topcloop_title" android:name="com.evenwell.fqc.activity.Mic1ToPcLoop" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/FingerPrint_title" android:name="com.evenwell.fqc.activity.ShowFingerPrint" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/showwimax_title" android:name="com.evenwell.fqc.activity.ShowWiMAX" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/showexthead_title" android:name="com.evenwell.fqc.activity.HeadsetLoopbackTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/digitalloopback_title" android:name="com.evenwell.fqc.activity.DigitalLoopbackTest" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="navigation" android:exported="true" android:label="@string/showinthead_title" android:name="com.evenwell.fqc.activity.HandsetLoopbackTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/showcalstatus_title" android:name="com.evenwell.fqc.activity.ShowCalStatus" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/qwertykeyboard_title" android:name="com.evenwell.fqc.activity.QwertyKeyBoardTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/showmultitouch_title" android:name="com.evenwell.fqc.activity.ShowMultitouch" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/showextendedsd_title" android:multiprocess="true" android:name="com.evenwell.fqc.activity.ShowExtendedSD" android:process="com.evenwell.fqc.extend" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/showextendedhdd_title" android:multiprocess="true" android:name="com.evenwell.fqc.activity.ShowExtendedHDD" android:process="com.evenwell.fqc.extendhdd" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/showpressuresensor_title" android:name="com.evenwell.fqc.activity.ShowPressureSensor" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/hall_title" android:name="com.evenwell.fqc.activity.ShowHallSensor" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="fontScale|locale|navigation|screenLayout" android:exported="true" android:label="@string/fci_title" android:name="com.evenwell.fqc.activity.FCI" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/uppertouch_title" android:name="com.evenwell.fqc.activity.UpperTouchBoardTest" android:screenOrientation="nosensor"/>
+        <activity android:label="@string/runalltest_title" android:name="com.evenwell.fqc.activity.RunAllTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/touchpanelfirmware_title" android:name="com.evenwell.fqc.activity.TouchPanelFirmware" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ecopass_calibration_name" android:name="com.evenwell.fqc.activity.Ecompasscalibration" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/gsensor_calibration_name" android:name="com.evenwell.fqc.activity.Gsensorcalibration" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/capsensor_title" android:name="com.evenwell.fqc.activity.CapSensor" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/dcjacktest_title" android:name="com.evenwell.fqc.activity.DCjack" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/handsetmictest_title" android:name="com.evenwell.fqc.activity.HandsetMicrophone" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/touchpanelselftest_title" android:name="com.evenwell.fqc.activity.TouchPanelST" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/touchpanelselftestmanual_title" android:name="com.evenwell.fqc.activity.TouchPanelST2" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="@string/mic1heaset_title" android:name="com.evenwell.fqc.activity.Mic1ToHeadsetLoop" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="@string/mic2heaset_title" android:name="com.evenwell.fqc.activity.Mic2ToHeadsetLoop" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="@string/mic3heaset_title" android:name="com.evenwell.fqc.activity.Mic3ToHeadsetLoop" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="@string/mic4heaset_title" android:name="com.evenwell.fqc.activity.Mic4ToHeadsetLoop" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="@string/mic1digital_title" android:name="com.evenwell.fqc.activity.Mic1ToDigitalLoop" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="@string/mic2digital_title" android:name="com.evenwell.fqc.activity.Mic2ToDigitalLoop" android:screenOrientation="nosensor"/>
+        <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="@string/mic3digital_title" android:name="com.evenwell.fqc.activity.Mic3ToDigitalLoop" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/mhl_title" android:name="com.evenwell.fqc.activity.MHL" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/detected_cap_title" android:name="com.evenwell.fqc.activity.DetectCap" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/detected_sim_title" android:name="com.evenwell.fqc.activity.DetectSIM" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/SmartBezel_title" android:name="com.evenwell.fqc.activity.SmartBezel" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/Ethernet_title" android:name="com.evenwell.fqc.activity.ShowEthernet" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ShowBothSideLED_title" android:name="com.evenwell.fqc.activity.ShowBothSideLED" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ShowTouchKeyLED_title" android:name="com.evenwell.fqc.activity.ShowTouchKeyLED" android:screenOrientation="nosensor"/>
+        <provider android:authorities="com.evenwell.fqc.provider" android:name="com.evenwell.fqc.provider.FQCProvider"/>
+        <service android:name="com.android.fmradio.FmService"/>
+        <activity android:label="@string/DTVTest_title" android:name="com.evenwell.fqc.activity.ShowDTVTest" android:screenOrientation="nosensor"/>
+        <activity android:label="@string/DTVExt_title" android:name="com.evenwell.fqc.activity.ShowDTVExt" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ShowGestureZw1_title" android:name="com.evenwell.fqc.activity.ShowGestureZw1" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ShowBackgroundTests_title" android:name="com.evenwell.fqc.activity.ShowBackgroundTests" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/FQCTestForRobot_title" android:name="com.evenwell.fqc.FQCTestForRobotActivity" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ShowBarometer_title" android:name="com.evenwell.fqc.activity.ShowBarometer" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ShowTouchpadTest_title" android:name="com.evenwell.fqc.activity.ShowTouchpadTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ShowHeartRate_title" android:name="com.evenwell.fqc.activity.ShowHeartRate" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ShowAntPlus_title" android:name="com.evenwell.fqc.activity.ShowAntPlus" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/ShowBatteryHotSwap_title" android:name="com.evenwell.fqc.activity.ShowBatteryHotSwap" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/Sim2CardTest_title" android:name="com.evenwell.fqc.activity.SIM2CardTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/irtest_title" android:name="com.evenwell.fqc.activity.ShowIRTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/usb30test_title" android:name="com.evenwell.fqc.activity.ShowUSB30Test" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/touchstrip_title" android:name="com.evenwell.fqc.activity.ShowTouchStrip" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/rangefinder_title" android:name="com.evenwell.fqc.activity.ShowRangeFinder" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/humidity_title" android:name="com.evenwell.fqc.activity.ShowHumidity" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/dpoutput_title" android:name="com.evenwell.fqc.activity.DpOutputTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/robot_title" android:name="com.evenwell.fqc.activity.ShowRobot" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/mouth_led_title" android:name="com.evenwell.fqc.activity.ShowMouthLED" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/ir_access_title" android:name="com.evenwell.fqc.activity.ShowIrAccess" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/ir_echo_title" android:name="com.evenwell.fqc.activity.ShowIrDaEcho" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/fanspeed_title" android:name="com.evenwell.fqc.activity.ShowFanSpeed" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/thread_title" android:name="com.evenwell.fqc.activity.ShowThread" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/voc_title" android:name="com.evenwell.fqc.activity.ShowVoc" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/edge_title" android:name="com.evenwell.fqc.activity.ShowEdgeSensor" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/flicker_title" android:name="com.evenwell.fqc.activity.ShowFlickerSensor" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/easel_title" android:name="com.evenwell.fqc.activity.ShowEaselSensor" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/citadel_title" android:name="com.evenwell.fqc.activity.ShowCitadelSensor" android:screenOrientation="nosensor"/>
+        <activity android:exported="false" android:label="@string/shutdown_title" android:name="com.evenwell.fqc.activity.DoShutdown" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/esim_title" android:name="com.evenwell.fqc.activity.eSIMTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/touchkey_title" android:name="com.evenwell.fqc.activity.TouchKeySelfTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/chargingTerminal_title" android:name="com.evenwell.fqc.activity.ChargingTerminal" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/chroma_led_title" android:name="com.evenwell.fqc.activity.ChromaLedTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/backlight3d_title" android:name="com.evenwell.fqc.activity.Backlight3D" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/water_resist_title" android:name="com.evenwell.fqc.activity.WaterResist" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/wallet_test_title" android:name="com.evenwell.fqc.activity.WalletTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/wallet_touch_test" android:name="com.evenwell.fqc.activity.WalletTouchTest" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/FingerPrintDetect_title" android:name="com.evenwell.fqc.activity.FingerPrintDetect" android:screenOrientation="nosensor"/>
+        <activity android:exported="true" android:label="@string/click_test_title" android:name="com.evenwell.fqc.activity.ClickTest" android:screenOrientation="nosensor"/>
+        <receiver android:name="com.evenwell.fqc.activity.MediaButtonIntentReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

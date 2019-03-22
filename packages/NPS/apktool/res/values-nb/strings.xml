@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">AVBRYT</string>
+    <string name="DONE">Fullført</string>
+    <string name="NEXT">NESTE</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">FORRIGE</string>
+    <string name="abc_action_bar_home_description">Gå til startsiden</string>
+    <string name="abc_action_bar_up_description">Gå opp</string>
+    <string name="abc_action_menu_overflow_description">Flere alternativer</string>
+    <string name="abc_action_mode_done">Ferdig</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Velg en app</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksjon+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellomrom</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meny+</string>
+    <string name="abc_search_hint">Søk …</string>
+    <string name="abc_searchview_description_clear">Slett søket</string>
+    <string name="abc_searchview_description_query">Søkeord</string>
+    <string name="abc_searchview_description_search">Søk</string>
+    <string name="abc_searchview_description_submit">Utfør søket</string>
+    <string name="abc_searchview_description_voice">Talesøk</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="alert_empty_desc">Legg til beskrivelse!</string>
+    <string name="alert_warning_title">Tips</string>
+    <string name="enter_comments">Skriv kommentarer (1 000 tegn)</string>
+    <string name="extremely_likely">(Svært sannsynlig)</string>
+    <string name="feedback">Tilb.mld</string>
+    <string name="helps_us_improve_our_products">Tilb.meld. hjelper med å forbedre produktene</string>
+    <string name="intro_title">Hvor sanns. er det at du vil anb. denne tlf. til en venn/kollega?</string>
+    <string name="msg_send_after">Meldingen lastes automatisk når enheten en tilkoblet. Takk for svaret.</string>
+    <string name="msg_send_fail">Sending mislyktes. Meldingen lastes automatisk når enheten en tilkoblet. Takk for svaret.</string>
+    <string name="no_ask_feedback_again_text">Ikke vis dette igjen</string>
+    <string name="no_showagain_text">Ikke vis dette igjen</string>
+    <string name="not_at_all_likely">(Ikke sannsynlig)</string>
+    <string name="privacy_context_wifi">"Hei! 
+
+Velkommen til klientprogramvaren for tilbakemelding. Du må lese nøye og forstå følgende tjenestevilkår før du bruker dette produktet. Ved å klikke på 「Godta」bekrefter du at du har forstått vilkårene for denne programvaren og at du godtar dem. Hvis du IKKE godtar vilkårene, trykker du på「Avslutt」. For at appen skal kunne gi deg omfattende tjenester, trenger den følgende tillatelser: 
+1. Tilgang til Internett, WLAN-nettverk for å sende tilbakemeldingsinformasjon 
+2. Importer IMEI-, PSN- og MNC\\MCC-informasjon for å hente grunnleggende telefoninformasjon automatisk"</string>
+    <string name="search_menu_title">Søk</string>
+    <string name="select_a_value">Velg en verdi</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Godta</string>
+    <string name="str_leave">Avslutt</string>
+    <string name="submit_fail">Sending mislyktes</string>
+    <string name="submit_success">Takk for svaret</string>
+    <string name="thank_your_feedback">Takk for tilbakemeldingen.</string>
+    <string name="we_appreciate_your_help">Takk for at du bidrar til å gjøre Nokia-produkter til verdens beste.</string>
+    <string name="we_hope_enjoying_nokia_device">Vi håper du er fornøyd med Nokia-enheten. Tilbakemeld. er veldig viktig for oss.</string>
+    <string name="we_will_contact_you_again">Vi kontakter deg senere.</string>
+    <string name="we_will_contact_you_again_enjoy">Vi kontakter deg sener. Nyt din nye Nokia-enhet.</string>
+    <string name="why_you_gave_this_score">Si oss hvorfor du ga denne poengsummen:</string>
+</resources>

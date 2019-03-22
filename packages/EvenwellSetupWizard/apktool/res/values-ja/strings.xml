@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="accessibility_text">ユーザー補助機能</string>
+    <string name="choose_timezone">タイムゾーンの選択</string>
+    <string name="datausage_dialog_negitive_btn">戻る</string>
+    <string name="datausage_dialog_positive_btn">ＯＫ</string>
+    <string name="date_and_time">日付と時刻</string>
+    <string name="date_and_time_settings_summary">日付、時刻、タイムゾーン、フォーマットを設定する</string>
+    <string name="date_and_time_settings_title_setup_wizard">日時の設定</string>
+    <string name="date_picker_title">日付:</string>
+    <string name="date_time_24hour">24時間表示の使用</string>
+    <string name="date_time_auto">日付と時刻の自動設定</string>
+    <string name="date_time_auto_summaryOff">ネットワークから提供された時刻を使用する</string>
+    <string name="date_time_auto_summaryOn">ネットワークから提供された時刻を使用する</string>
+    <string name="date_time_date_format">日付形式の選択</string>
+    <string name="date_time_set_date">日付を設定</string>
+    <string name="date_time_set_time">期間の設定</string>
+    <string name="date_time_set_timezone">タイムゾーンの選択</string>
+    <string name="device_checking_message">ようこそ</string>
+    <string name="emergency_dial_message">緊急通報</string>
+    <string name="expand_button_title">詳細設定</string>
+    <string name="google_account_add_account">Googleにログイン</string>
+    <string name="hmd_legal_message">"サービス本約款 
+ 
+発効日　2016年10月14日 
+ 
+1. 承諾 
+お客様による本サービス、サイト、コンテンツとソフトウェア(以下「本サービス」と総称)の使用には、HMD Globalサービス本約款、プライバシーに関する方針並びに本サービスにおいて規定されるその他全ての追加本約款と情報(以下「本約款」と総称)が適用されます。本サービスに登録、又は本サービスもしくはその一部を利用することにより、お客様は本約款に同意したものとみなされます。 
+ 
+本約款は、お客様と、Bertel Jungin aukio 9, 02610 Espoo, Finlandを本社として事業を行うHMD Global Oy及びその子会社並びに請負業者を含めたグループ (以下「HMD Global」と総称)との契約であり、本サービスに関してお客様とHMD Globalの権利と義務を定義づけるものです。 
+ 
+2. 資格 
+本サービスの利用は、お客様が13歳以上であることを条件とします。お客様が13歳未満又は13歳以上であっても居住国において未成年とされる場合は、親権者又は後見人がお客様に代わりに登録を行い、本サービスのお客様による使用に同意する必要があります。登録者は、法的能力を有する者とします。 
+ 
+3. 登録と解約 
+本サービスを使用する際、お客様は、個別本約款の適用対象となりうるHMDアカウントを、ユーザーネームとパスワードと共に作成する必要がある場合があります。又、特定の個人情報その他をご提供いただく必要のある場合があります。HMD Globalは、HMDアカウントを使用可能な状態にする前に、お客様の電子メールアドレスの認証を行うことができるものとします。お客様のデバイスの初回使用時以降、ノキア端末のソフトウェアを更新する度に、HMD Global宛にテキストメッセージが送信されます。HMDアカウントの作成には、データ送信が必要となり、その際送信料金が発生する場合があります。 
+ 
+お客様は、サービス登録時、真実且つ完全な情報を提供し、これを随時更新することに同意するものとします。お客様は、ユーザーネーム及びパスワードが悪用されないように適切な注意を払う義務を負い、悪用された場合には、速やかにHMD Globalに対して通知するものとします。お客様及びお客様が未成年の場合の親権者又は後見人は、本サービスの使用すべてにおいて個人的責任を負うものとします。 
+ 
+お客様は、本サービスの使用を希望しなくなった時点で、その登録を取り消すことができます。解約後、お客様は本サービスへのアクセスをすることができなくなります。HMD Globalは、当社がお客様による契約違反があったと思われる合理的理由がある場合、もしくはお客様が過去六ヶ月間にわたりユーザーネームを利用して本サービスにサインインを行わなかった場合、本サービスの特定の部分につきお客様のアクセスを取り消す又は制限することができるものとします。 
+ 
+プライバシーに関する方針に規定されている場合を除き、HMD Globalは、お客様が本サ"</string>
+    <string name="nevigation_selection_back">戻る</string>
+    <string name="nevigation_selection_home">ホーム</string>
+    <string name="nevigation_selection_recent">最近</string>
+    <string name="next_btn_lebel">次へ</string>
+    <string name="normal_date_format">地域（%s）</string>
+    <string name="search_menu_title">検索</string>
+    <string name="skip_add_account_button_label">後で行う</string>
+    <string name="skip_button_label">スキップ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
+    <string name="term_agree_text">同意する</string>
+    <string name="term_disagree_text">同意しない</string>
+    <string name="time_picker_title">時間:</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="welcome_message">ようこそ</string>
+    <string name="welcome_start_button_label">開始する</string>
+    <string name="wifi_picker_connection_negative">接続</string>
+    <string name="wifi_picker_connection_positive">ＯＫ</string>
+    <string name="wifi_picker_warning_negative">無視してスキップ</string>
+    <string name="wifi_picker_warning_title">警告…ケイコク</string>
+    <string name="zone_auto">タイムゾーンの自動設定</string>
+    <string name="zone_auto_summaryOff">ネットワークから提供されたタイムゾーンを使用する</string>
+    <string name="zone_auto_summaryOn">ネットワークから提供されたタイムゾーンを使用する</string>
+</resources>

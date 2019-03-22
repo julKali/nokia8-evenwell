@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Huduma ya hali ya hewa</string>
+    <string name="fih_weather_permission_hint_1">Ili ifanye kazi vizuri, programu hii inahitaji vibali vinavyofaa. Tafadhali ruhusu kibali ukiulizwa.</string>
+    <string name="fih_weather_permission_hint_2">Ili ifanye kazi vizuri, programu hii inahitaji vibali vya ziada. Tafadhali dhibiti kibali cha「Huduma ya hali ya hewa」katika「Mipangilio」</string>
+    <string name="fih_weather_button_ok">Tayari</string>
+    <string name="fih_weather_button_close">Funga</string>
+    <string name="fih_weather_button_setting">Inapanga...</string>
+    <string name="fih_weather_permission_success">Ruhusu kibali cha eneo</string>
+    <string name="fih_weather_permission_failed">Ruhusu kibali cha eneo imekataliwa, na haiwezi kupata eneo</string>
+    <string name="fih_weather_notification_title">Huduma ya hali ya hewa inahitaji vibali</string>
+    <string name="fih_weather_notification_text">gonga ili uruhusu</string>
+    <string name="fih_weather_notification_channel_title">Arifa za kawaida</string>
+</resources>

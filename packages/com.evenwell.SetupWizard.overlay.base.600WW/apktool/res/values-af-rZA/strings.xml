@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"Deur die knoppie te tik, stem jy in met &lt;a href='launch.TermOfServiceActivity://Kode'>diensbepalings&lt;/a> en &lt;a href='launch.AddUploadAgentHandler://Kode'>privaatheidsbeleid&lt;/a>.Die toestelaktivering-inligting met eenmalige toestelligging sal na HMD Global gestuur word.&lt;br/>&lt;br/>Outosagtewarebywerking-kennisgewing sal geaktiveer word, wat die jongste bywerkings vir jou installeer.Dit kan dalk 'n bietjie van jou datalugtyd verbruik.Die dienste sal die internet gebruik wanneer dit ook al vir hulle nodig is.&lt;br/>&lt;br/>Hierdie dienste sal vir jou koste meebring as hulle sellulêre netwerke moet gebruik."</string>
+    <string name="welcome_hmd_term_of_use_5">"Deur op die knoppie te tik, stem jy in tot &lt;a href='launch.TermOfServiceActivity://Kode'>diensbepalings&lt;/a>. Jou data sal volgens HMD se &lt;a href='launch.AddUploadAgentHandler://Kode'>privaatheidsbeleid&lt;/a> verwerk word. Die toestel-aktiveringsinligting met eenmalige toestelligging sal na HMD Global gestuur word. Mobieledata-koste kan dalk gehef word."</string>
+    <string name="welcome_vision_settings_button_label">Visie-instellings</string>
+    <string name="next_btn_lebel">VOLGENDE</string>
+    <string name="welcome_hmd_term_of_use_2">"Deur die pyltjie te tik, stem jy in tot &lt;a href='launch.TermOfServiceActivity://Kode'>Diensbeplaings&lt;/a> en &lt;a href='launch.AddUploadAgentHandler://Kode'>Privaatheidsbeleid&lt;/a>. Die toestelaktiveringsinligting met eenmalige toestelligging sal na HMD Global gestuur word. Datakostes kan van toepassing wees."</string>
+    <string name="emergency_dial_hmd_message">Noodgeval</string>
+    <string name="accessibility_text">Toeganklikheid</string>
+    <string name="language_selection_title">Kies jou taal</string>
+    <string name="language_selection_cancel_btn">KANSELLEER</string>
+    <string name="welcome_lets_go_button_label">Kom ons begin</string>
+    <string name="term_agree_text">Stem in</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="datausage_dialog_negitive_btn">Kanselleer</string>
+    <string name="nevigation_selection_back">Terug</string>
+    <string name="upload_agent_hmd_des_text_2">"Sluit by die Nokia-gebruikerservaringsprogram aan. &lt;a href='launch.UserExperienceActivity://Kode'>Kom meer te wete.&lt;/a>
+
+"</string>
+    <string name="hmd_user_experience_program_title">Gebruikerervaringsprogram</string>
+    <string name="hmd_user_experience_program_message">"Jou deelname aan die gebruikerervaringsprogram help HMD Global om beter te verstaan waarvan jy hou van jou Nokia-toestel, en wat jy dink verbeter moet word. Van tyd tot tyd sal ons anonieme data ontvang met tegniese karaktertrekke oor jou toestel, byvoorbeeld /'n lêer met data oor /'n sagteware-ineenstorting wat dalk gebeur het. Let asseblief daarop dat sulke data nie oor /'n sellulêre verbinding oorgedra sal word nie. Ons wil graag hoor wat jy van jou Nokia-toestel dink!"</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wapi_psk_security_type">Wagwoordtipe</string>
+    <string name="upload_agent_hmd_des_text_3">"Deur op \"SPRING WEG\" te tik, stem jy in om by die gebruikerservaringsprogram aan te sluit. &lt;a href='launch.UserExperienceActivity://Kode'>Kom meer te wete&lt;/a>. Onthou, jy kan altyd later deur Instellings aansluit."</string>
+    <string name="setup_complete_hmd_1">Jy is amper gereed om weg te spring ...!</string>
+    <string name="not_now">NIE NOU NIE …;</string>
+    <string name="setup_finish">SPRING WEG</string>
+    <string name="wifi_fail_to_scan">Kan nie vir netwerke soek nie</string>
+    <string name="wifi_security_none">Geen</string>
+    <string name="wifi_remembered">Gestoor</string>
+    <string name="wifi_disabled_generic">Gedeaktiveer</string>
+    <string name="wifi_disabled_network_failure">Kon nie IP opstel nie</string>
+    <string name="wifi_disabled_password_failure">Kon nie staaf nie</string>
+    <string name="wifi_not_in_range">Nie binne omvang nie</string>
+    <string name="wifi_no_internet_no_reconnect">Sal nie outomaties koppel nie</string>
+    <string name="wifi_no_internet">Geen internettoegang nie</string>
+    <string name="saved_network">Gestoor deur %1$s</string>
+    <string name="connected_via_passpoint">Gekoppel via %1$s</string>
+    <string name="available_via_passpoint">Beskikbaar via %1$s</string>
+    <string name="wifi_connected_no_internet">Gekoppel, maar geen internet nie</string>
+    <string name="wifi_auth_password_wrong">Wagwoord kan dalk verkeerd wees</string>
+    <string name="connected_via_wfa">Gekoppel via Wi‑Fi-assistent</string>
+    <string name="wifi_ssid">Netwerknaam</string>
+    <string name="wifi_ssid_hint">Voer die SSID in</string>
+    <string name="wifi_security">Sekuriteit</string>
+    <string name="wifi_eap_method">EAP-metode</string>
+    <string name="please_select_phase2">Fase 2-stawing</string>
+    <string name="wifi_eap_ca_cert">CA-sertifikaat</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Geen sertifikaat gespesifiseer nie.Jou verbinding sal nie privaat wees nie.</string>
+    <string name="wifi_eap_domain">Domein</string>
+    <string name="wifi_no_domain_warning">"Moet 'n domein spesifiseer."</string>
+    <string name="wifi_eap_user_cert">Gebruikersertifikaat</string>
+    <string name="wifi_eap_identity">Identiteit</string>
+    <string name="wifi_eap_anonymous">Anonieme identiteit</string>
+    <string name="wifi_password">Wagwoord</string>
+    <string name="wifi_show_password">Wys wagwoord</string>
+    <string name="wifi_advanced_toggle_description_collapsed">\"Gevorderde opsies\"-aftreklys.Dubbelklik om uit te vou.</string>
+    <string name="wifi_show_advanced">Gevorderde opsies</string>
+    <string name="proxy_settings_title">Instaanbediener</string>
+    <string name="proxy_warning_limited_support">Die HTTP-instaanbediener word deur die blaaier gebruik, maar kan nie deur die ander programme gebruik word nie.</string>
+    <string name="proxy_url_title">PAC-URL:</string>
+    <string name="proxy_hostname_label">Instaanbediener-gasheernaam</string>
+    <string name="proxy_exclusionlist_label">Omseil instaanbediener vir</string>
+    <string name="wifi_ip_settings">IP-instellings</string>
+    <string name="wifi_ip_address">IP-adres</string>
+    <string name="wifi_gateway">Deurgang</string>
+    <string name="wifi_network_prefix_length">Lengte van netwerkvoorvoegsel</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">Deel met ander toestelgebruikers</string>
+    <string name="proxy_port_label">Instaanbediener-poort</string>
+    <string name="wifi_unspecified">Kies asseblief</string>
+    <string name="wifi_multiple_cert_added">(Meerdere sertifikate is bygevoeg)</string>
+    <string name="wifi_use_system_certs">Gebruik stelselsertifikate</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Moenie verskaf nie</string>
+    <string name="wifi_do_not_validate_eap_server">Moenie staaf nie</string>
+    <string name="wifi_add_network">Voeg netwerk by</string>
+    <string name="wifi_save">Stoor</string>
+    <string name="passpoint_label">Gestoor via</string>
+    <string name="wifi_connect">Koppel</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_signal">Seinsterkte</string>
+    <string name="wifi_speed">Koppelspoed</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Frekwensie</string>
+    <string name="wifi_forget">Vergeet</string>
+    <string name="wifi_cancel">Kanselleer</string>
+    <string name="proxy_error_invalid_port">Die poort wat jy ingevoer het, is nie geldig nie.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">"Voer 'n geldige IP-adres in."</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">"Voer 'n netwerkvoorvoegsel in met lengte tussen 0 en 32."</string>
+    <string name="wifi_ip_settings_invalid_gateway">"Voer 'n geldige deurgangadres in."</string>
+    <string name="wifi_ip_settings_invalid_dns">"Voer 'n geldige DNS-adres in."</string>
+    <string name="wifi_unchanged">(onveranderd)</string>
+    <string name="wifi_failed_connect_message">Kon nie aan netwerk koppel nie</string>
+    <string name="wifi_failed_save_message">Kon nie netwerk stoor nie</string>
+    <string name="wifi_failed_forget_message">Kon netwerk nie vergeet nie</string>
+    <string name="proxy_error_empty_host_set_port">Die poort-veld moet leeg wees as die gasheer-veld leeg is.</string>
+    <string name="proxy_error_empty_port">Jy moet die poort-veld voltooi.</string>
+    <string name="proxy_error_invalid_exclusion_list">"Die uitsluitlys wat jy ingetik het, is nie behoorlik geformateer nie.Tik 'n kommageskeide lys van uitgeslote domeine in."</string>
+    <string name="wifi_advanced_toggle_description_expanded">\"Gevorderde opsies\"-aftreklys.Dubbelklik om in te vou.</string>
+    <string name="passpoint_content">%1$s aanmeldinligting</string>
+    <string name="select_sim_card">Kies SIM-kaart</string>
+    <string name="sim_editor_title">SIM-gleuf %1$d</string>
+    <string name="wifi_certificate">Sertifikaat</string>
+    <string name="wifi_setting_title">Raak gekoppel</string>
+    <string name="wifi_skip_anyway">SLAAN IN ELK GEVAL OOR</string>
+    <string name="wifi_dont_skip">GAAN TERUG</string>
+    <string name="wifi_and_mobile_skipped_message">"Jy kan jou foon vinniger opstel as jy aan 'n netwerk koppel.
+
+Sonder 'n verbinding kan jy nie die volgende doen nie:
+
+"<li>Meld aan by jou Wolk-rekening</li>"
+
+"<li>Kry sagtewarebywerkings</li>"
+
+"<li>Stel datum en tyd outomaties</li></string>
+</resources>

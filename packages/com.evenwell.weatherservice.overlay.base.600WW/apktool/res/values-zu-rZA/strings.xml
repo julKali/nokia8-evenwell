@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Isevisi Yesimo sezulu</string>
+    <string name="fih_weather_permission_hint_1">Ukuze lusebenze kahle, lolu hlelo ludinga imvume engeziwe. Sicela uvumele imvume uma ucelwa.</string>
+    <string name="fih_weather_permission_hint_2">\"Ukuze lusebenze kahle, lolu hlelo ludinga izimvume ezingeziwe. Sicela uphathe izimvume ze-WeatherService kumasethingi.\"</string>
+    <string name="fih_weather_button_ok">Kulungile</string>
+    <string name="fih_weather_button_setting">\"Amasethingi\"</string>
+    <string name="fih_weather_permission_success">\"Indawo ivunyelwe\"</string>
+    <string name="fih_weather_permission_failed">\"Imvume inqatshiwe, indawo ayitholakali.\"</string>
+    <string name="fih_weather_notification_title">\"I-WeatherService idinga izimvume\"</string>
+    <string name="fih_weather_notification_text">Thepha ukuze uvumele</string>
+</resources>

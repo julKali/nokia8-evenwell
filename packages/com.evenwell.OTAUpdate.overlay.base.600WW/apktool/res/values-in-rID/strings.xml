@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Gagal mengunduh perangkat lunak.</string>
+    <string name="prepare_to_reboot_force_summary">Perangkat lunak yang diinstal harus mem-boot ulang perangkat untuk mengkonfigurasi pengaturan. Sebaiknya boot ulang sekarang.</string>
+    <string name="update_ota_self">Pembaruan Perangkat Lunak sedang berlangsung.</string>
+    <string name="ab_update_fail">Masalah Penginstalan.</string>
+    <string name="ab_update_wrong_status">Mesin pembaruan sedang sibuk. Silakan coba lagi nanti atau boot ulang.</string>
+    <string name="ab_update_installing">Memperbarui sistem</string>
+    <string name="tag_engineer_mode">Mode Engineer</string>
+    <string name="engineer_version_incorrect">Versi perangkat Anda salah</string>
+    <string name="msg_engineer_ota_restore">Sentuh untuk memulihkan versi resmi</string>
+    <string name="msg_engineer_ota_restore_warning">Versi resmi akan dipulihkan. Ingin melanjutkan?</string>
+    <string name="silent_mode_data_fee_warning">Pembaruan tersedia. Mengunduh pembaruan dapat menimbulkan biaya tambahan. Unduh pembaruan melalui Wi-Fi jika mungkin.</string>
+    <string name="msg_updating_system">Memperbarui sistem...</string>
+    <string name="msg_tap_to_reboot">Sentuh boot ulang</string>
+    <string name="msg_pause_download">Jeda pengunduhan</string>
+    <string name="notification_channel_name">Pembaruan sistem</string>
+    <string name="notification_channel_alert_name">Notifikasi umum</string>
+</resources>

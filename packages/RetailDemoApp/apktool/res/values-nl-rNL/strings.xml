@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ANNULEREN</string>
+    <string name="copying">Kopiëren…</string>
+    <string name="demo_mode_notifications">Demomodus meldingen</string>
+    <string name="disable_demo_mode">Demomodus uitschakelen</string>
+    <string name="download_complete_msg">"Downloaden voltooid.
+
+Tik op OK om demomodus te starten."</string>
+    <string name="download_fail_msg">"Demomateriaal kon niet worden gedownload.
+
+Tik op OK om demomodus te starten?"</string>
+    <string name="downloading">Download bezig…</string>
+    <string name="enable_demo_mode">Demomodus inschakelen?</string>
+    <string name="enable_demo_mode_setup">Demomodus inschakelen</string>
+    <string name="no_new_demo_found_msg">"Geen nieuw demomateriaal gevonden.
+
+Tik op OK om demomodus te starten?"</string>
+    <string name="ok">OK</string>
+    <string name="reset_device">Apparaat resetten?</string>
+    <string name="system_busy_msg">Systeem is bezig. Probeer het later opnieuw.</string>
+    <string name="update_demo_video">Demovideo updaten</string>
+</resources>

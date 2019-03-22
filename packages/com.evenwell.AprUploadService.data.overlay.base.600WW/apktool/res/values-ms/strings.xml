@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Dasar privasi HMD</string>
+    <string name="privacy_activity">Dasar privasi HMD</string>
+    <string name="go_label">Selesai</string>
+    <string name="agree">Setuju</string>
+    <string name="see_detail">Butiran</string>
+    <string name="next_btn_lebel">Seterusnya</string>
+    <string name="app_name">Diagnostik Sistem</string>
+    <string name="setting_page_name">Program Pengalaman Pengguna</string>
+    <string name="send_diag_dialog_any_network">Apabila sambungan data tersedia</string>
+    <string name="send_diag_dialog_wifi">Apabila sambungan Wi-Fi tersedia</string>
+    <string name="send_diag_dialog_wlan">Apabila sambungan WLAN tersedia</string>
+    <string name="send_diag_dialog_title">Hantar diagnostik</string>
+    <string name="diagnostics_setting">Diagnostik</string>
+    <string name="diagnostics_report">Laporan diagnostik</string>
+    <string name="diagnostics_report_summary">Hantar laporan diagnostik apabila peranti mengalami ralat perisian. Ia mungkin menjana kos menggunakan rangkaian. Mendapatkan pakej rangkaian data daripada pembawa adalah disyorkan.</string>
+    <string name="network_options">Pilihan Rangkaian</string>
+    <string name="send_diagnostics">Hantar diagnostik</string>
+    <string name="diagnostics_description">Sila bantu kami meningkatkan produk dan perkhidmatan kami dengan membenarkan kami mengumpul data diagnostik apabila peranti anda mengalami ralat perisian atau ranap. Anda sentiasa boleh mengubah pilihan tersebut kemudian dalam Tetapan.</string>
+    <string name="cancel_upload_confirm_msg">Anda bersedia untuk keluar daripada Program Pengalaman Pengguna. Ralat perisian berlaku dalam telefon tidak akan disimpan dan dihantar, mungkin tidak dapat membaiki pengalaman anda menggunakan telefon!</string>
+    <string name="diagnostics_confirmation">Ya, saya bersetuju untuk menghantar data diagnostik secara automatik.</string>
+    <string name="setcomplete">Persediaan Lengkap</string>
+    <string name="agree_dialog">Kami sudah mengubah Program Pengalaman Pengguna kami dan Pernyataan Privasi yang berkaitan. Sila bantu kami meningkatkan produk dan perkhidmatan kami dengan menyertai Program Pengalaman Pengguna sekarang. Anda sentiasa boleh mengubah pilihan dalam Tetapan. Ia mungkin menjana kos penggunaan rangkaian selepas menyertai Rancangan Pengalaman Pengguna. Mendapatkan pakej rangkaian data daripada pembawa adalah disyorkan.</string>
+</resources>

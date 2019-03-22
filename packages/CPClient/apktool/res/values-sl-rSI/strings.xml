@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Odjemalec CP</string>
+    <string name="fih_cp_apn_not_set">&lt;Ni nastavljeno></string>
+    <string name="fih_cp_apply_dialog_body_msg">Želite uporabiti novo konfiguracijo?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Novo omogočanje uporabe</string>
+    <string name="fih_cp_btn_back">Nazaj</string>
+    <string name="fih_cp_btn_cancel">Prekliči</string>
+    <string name="fih_cp_btn_next">Naprej</string>
+    <string name="fih_cp_btn_ok">V redu</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Vrsta preverjanja pristnosti</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Brez</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP ali CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Vrata</string>
+    <string name="fih_cp_editor_apn_http_proxy">Strežnik proxy</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">Vrata MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Strežnik proxy za sporočila MMS</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Ime</string>
+    <string name="fih_cp_editor_apn_password">Geslo</string>
+    <string name="fih_cp_editor_apn_server">Strežnik</string>
+    <string name="fih_cp_editor_apn_type">Vrsta APN-ja</string>
+    <string name="fih_cp_editor_apn_user">Uporabniško ime</string>
+    <string name="fih_cp_error_apn_empty">Polje za APN ne sme biti prazno.</string>
+    <string name="fih_cp_error_name_empty">Polje z imenom ne sme biti prazno.</string>
+    <string name="fih_cp_error_other">Napaka podatkovne sintakse.</string>
+    <string name="fih_cp_error_title">Pozor</string>
+    <string name="fih_cp_input_pin_code">Vnesite kodo PIN:</string>
+    <string name="fih_cp_input_pin_code_cancel">Prekliči</string>
+    <string name="fih_cp_input_pin_code_empty">Vnesite kodo PIN.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Napačna koda PIN.</string>
+    <string name="fih_cp_input_pin_code_ok">V redu</string>
+    <string name="fih_cp_notification_channel_name">Splošna obvestila</string>
+    <string name="fih_cp_notify_statusbar_content">Sporočilo o novem omogočanju uporabe</string>
+    <string name="fih_cp_sim_not_available">Kartica SIM ni na voljo.</string>
+    <string name="fih_cp_toast_info_create">Profil je ustvarjen</string>
+    <string name="fih_cp_toast_info_update">Profil je posodobljen</string>
+    <string name="fih_cp_ui_mode_delete">Izbriši</string>
+    <string name="fih_cp_ui_mode_ok">V redu</string>
+    <string name="fih_cp_ui_mode_postpone">Odloži</string>
+</resources>

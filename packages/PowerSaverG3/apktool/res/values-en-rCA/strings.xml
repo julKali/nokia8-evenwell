@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Power saver</string>
+    <string name="bam_notification_btn_nevershowthis">NEVER SHOW THIS</string>
+    <string name="bam_notification_content_text">Turn this on to enhance the battery life.</string>
+    <string name="bam_notification_content_title">There are Apps consuming battery in the background.</string>
+    <string name="fih_power_saving_background_activity_text">Enable the Background activity manager to extend the battery life. While this is enabled, some app/email notifications may not be retrieved instantly. You can manage the battery life by adding Apps to or removing them from the whitelist.</string>
+    <string name="fih_power_saving_background_activity_text_blacklist">Enable the Background activity manager to extend the battery life. While this is enabled, some app/email notifications may not be retrieved instantly. You can manage the battery life by adding Apps to or removing them from the blacklist.</string>
+    <string name="fih_power_saving_doze_high_consumption">High power consumption</string>
+    <string name="lock_screen_ap_protect_title">Background activity manager</string>
+    <string name="all_aps">Add all Apps to the whitelist</string>
+    <string name="enable_blacklist">Enable blacklist</string>
+    <string name="fih_power_saving_background_cleaner">Background activity cleaner</string>
+    <string name="fih_power_saving_background_cleaner_summary">The notifications may not be retrieved instantly</string>
+</resources>

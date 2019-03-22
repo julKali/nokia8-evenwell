@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Приступачност</string>
+    <string name="account_intro_description">Користите уређај паметније тако што ћете се придружити [BRAND_NAME] услугама.</string>
+    <string name="account_intro_title">Налог [BRAND_NAME] услуга</string>
+    <string name="add_baidu_button_label">Пријавите се у Baidu Yun</string>
+    <string name="add_infocus_service_account">Додај налог [BRAND_NAME] услуга</string>
+    <string name="available_via_passpoint">Доступно путем %1$s</string>
+    <string name="back_btn_lebel">НАЗАД</string>
+    <string name="backup_and_restore_description">"Ако сте претходно направили резервну копију налога, можете одмах да је вратите на телефон.
+
+Можете да промените поставке резервне копије у било ком тренутку у менију Подешавања."</string>
+    <string name="backup_and_restore_title">Резервна копија и враћање</string>
+    <string name="baidu_intro_description">Почните да користите беспрекорну интеграцију складишта у облаку са услугом Baidu Yun у свега пар корака.</string>
+    <string name="baidu_intro_title">Складиште у облаку за Baidu</string>
+    <string name="baidu_progress_dialog_des">Сачекајте...</string>
+    <string name="connected_via_passpoint">Повезано путем %1$s</string>
+    <string name="connected_via_wfa">Повезано путем помоћника за Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Откажи</string>
+    <string name="datausage_dialog_positive_btn">У РЕДУ</string>
+    <string name="date_and_time">Поставке датума и времена</string>
+    <string name="date_and_time_settings_title">Поставке датума и времена</string>
+    <string name="date_time_24hour">Користи 24-часовни формат</string>
+    <string name="date_time_auto">Аутоматски датум и време</string>
+    <string name="date_time_auto_summaryOff">Користи време мреже</string>
+    <string name="date_time_auto_summaryOn">Користи време мреже</string>
+    <string name="date_time_set_date">Подеси датум</string>
+    <string name="date_time_set_time">Подеси време</string>
+    <string name="date_time_set_timezone">Изабери временску зону</string>
+    <string name="device_checking_message">Добро дошли</string>
+    <string name="dropbox_fih_description">Бесплатно преузмите 2 GB простора у услузи Dropbox за аутоматско чување фотографија и видео записа.</string>
+    <string name="dropbox_fih_signin">Пријавите се у Dropbox</string>
+    <string name="dropbox_fih_signup">Упишите се за Dropbox</string>
+    <string name="emergency_dial_hmd_message">Хитан позив</string>
+    <string name="emergency_dial_message">Хитан позив</string>
+    <string name="finish_button_label">ЗАВРШИ</string>
+    <string name="google_account_add_account">Пријавите се у Google</string>
+    <string name="google_account_intro_description">Подесите Google налог да бисте користили све Google услуге.</string>
+    <string name="google_account_intro_title">Google налог</string>
+    <string name="hmd_legal_message">"Услови услуге 
+ 
+Датум ступања на снагу 14. октобар 2016. 
+ 
+1. Прихватање 
+Ови Услови слуге компаније HMD Global заједно са Политиком приватности и свим другим додатним условима и информације које можда нису дате у Услузи (заједнички \"Услови\") регулишу вашу употребу услуге, локације, садржаја и софтвера (заједнички \"Услуга\"). Регистровањем за или коришћењем Услуге или било ког њеног дела ви прихватате ове Услове. 
+ 
+Ови Услови сачињавају уговор између Вас и компаније HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Финска укључујући њене филијале и добављаче (заједнички \"HMD Global\"), који дефинишу ваша права и обавезе као и права и обавезе компаније HMD Global у погледу Услуге. 
+ 
+2. Подобност 
+Да бисте користили Услугу, морате имати најмање тринаест (13) година. Ако сте млађи од тринаест (13) година, или имате тринаест (13) година али сте малолетни тамо где живите, морате имати пристанак свог родитеља или правног старатеља који ће прихватити регистрацију у ваше име и одобрити употребу Услуге. Свако ко попуњава регистрацију мора бити правно способан. 
+ 
+3. Регистрација и раскид уговора 
+Да бисте користили Услугу потребно је да се региструјете и креирате HMD налог са корисничким именом и лозинком који могу да подлежу посебним условима. Можда ћете морати да нам доставите одређене личне и друге информације. Компанија HMD Global може да провери вашу адресу е-поште пре него што можете да користите ваш HMD налог. Приликом прве употребе уређаја и сваки пут када ажурирате софтвер за Nokia уређај, компанији HMD Global биће послата текстуална порука. Креирање HMD налога захтева пренос података. Могу бити примењени трошкови за пренос података. 
+ 
+Слажете се да дате истините и потпуне информације када се региструјете за Услугу и да непрестано ажурирате те информације. Морате предузети одговарајуће мере да заштитите своје корисничко име и лозинку од злоупотребе других и да на време обавестите компанију HMD Global о било каквој злоупотреби. Ви, као и ваш родитељ или правни старатељ ако сте малолетни, лично сте одговорни за сваку употребу Услуге. 
+ 
+Можете да окончате своју регистрацију ако више не желите да користите Услугу. После раскида, више нећете имати приступ Услузи. Компанија HMD Global може да раскине или ограничи ваш приступ одређеним деловима Услуге ако компанија HMD Global с разлогом верује да сте прекршили Услове или уз претходно обавештење ако се нисте пријавили на Услугу својим корисничким именом у протеклих шест (6) месеци. 
+ 
+Осим онако како је наведено у Политици приватности, компанија HMD Global није одговорна за било какво уклањање или губитак информација или садржаја које сте проследили Услузи. Када Ви или компанија HMD Global уклоните информације или садржај из Услуге, трагови или копије и даље могу да остану на неком другом месту. 
+ 
+4. Дозволе 
+Компанија HMD Global вам даје неексклузивну, непреносиву лиценцу, коју HMD Global може да поништи у било које време по свом личном нахођењу, за приступ и употребу Услуге искључиво у складу са Условима. Употреба Услуге вам не даје гаранцију на било каква права интелектуалног власништава за или на било које информације или садржај у Услузи. 
+ 
+Као део Услуге, HMD Global вам може дати садржај који је развила HMD Global или њени лиценцирани добављачи (\"Садржај\"). HMD Global вам даје неексклузивну и доживотну лиценцу за употребу Садржаја у сврху за коју је намењен, осим ако другачије није дефинисано у важећим Условима или поруџбеници. Неки Садржај може бити доступан само становницима одређених географских области. Имате обавезу према свим ограничењима која важе за одређени Садржај који добијате путем Услуге. Свака лиценца која је добијена за Садржај независне стране је обавезујући уговор између Вас и пружаоца Садржаја треће стране. Имате права само на Садржај који је изричито овде дат. 
+ 
+Компанија HMD Global вам може дати одређени софтвер који је развила HMD Global или њени лиценцирани добављачи (\"Софтвер\") као део Услуге. Ваше коришћење Софтвера може да подлеже посебним условима и одредбама које морате прихватити пре употребе Софтвера. Ако не постоје посебни услови и одредбе који се односе на тај Софтвер, примењују се следећи услови: HMD Global вам даје ограничено, неексклузивно и непреносиво право да инсталирате и користите Софтвер на свом рачунару и/или мобилном уређају. Не смете да копирате Софтвер, осим да направите једну резервну копију за архиву. Не смете да дистибуирате, преносите права на употребу, модификујете, преводите, репродукујете, препродајете, подлиценцирате, изнајмљујете, дајете у закуп, обављате реверзибилни инжењеринг или на неки други начин покушавате да откријете изворни код или да правите изведене радове на Софтверу. За лиценцирани софтвер отвореног кода, могу важити важећи услови лиценце за отворени код. Ваше коришћење Софтвера значи да прихватате све важеће услове и одредбе. 
+ 
+Софтвер може да подлеже контролама за извоз према Административним уредбама за извоз САД као и другим прописима за контролу увоза и извоза. Слажете се да стриктно поштујете све важеће прописе за увоз и извоз и потврђујете да сносите одговорност за добијање лиценци за извоз, поновни извоз, пренос или увоз таквог Софтвера. 
+ 
+Можда ћете моћи да проследите информације или садржај (\"Материјал\") Услузи. Компанија HMD Global не полаже право власништва над вашим Материјалом. Ваше прослеђивање Материјала не преноси право власништва тог Материјала на компанију HMD Global. HMD Global преноси само Материјал и није одговорна за контролу уређивања тог Материјала. Прослеђивањем Материјала Услузи, ви додељујете компанији HMD Global светску, неексклузивну, додељиву, у потпуности исплаћену, без тантијеме, доживотну и неповратну лиценцу која се може подлиценцирати да користи, копира, јавно спроводи, приказује, дистрибуира у било ком медију и модификује Материјал како би укључио тај материјал у друге радове, и одобрио сличне подлиценце онолико дуго колико је то потребно компанији HMD Global да пружи Услугу. Можете да прилагодите ово одобрење у приватности и другим поставкама Услуге. 
+ 
+Само сте ви одговорни за прављење резервних копија података које складиштите на Услузи, укључујући Садржај који отпремате. Ако се Услуга прекине или откаже, HMD Global може трајно да обрише ваше податке. Компанија HMD Global нема обавезу да врати податке када се Услуга прекине или откаже. 
+ 
+5. Коришћење Услуге 
+Прихватате да: 
+• Поштујете све важеће законе, Услове и добре обичаје; 
+• Користите Услугу само за личне, некомерцијалне сврхе; 
+• Не прослеђујете незаконит, увредљив, нетачан, који наводи на погрешно мишљење, погрдан, порнографски, узнемирујући, клеветнички или на неки други начин неприкладан Материјал; 
+• Добијете било какав пристанак, дозволу или лиценце који од вас законски захтевају да проследите било какав Материјал; 
+• Поштујете приватност других; 
+• Не дистрибуирате или постављате нежељене поруке, претерано велике датотеке, "</string>
+    <string name="hmd_user_experience_program_message">Ваше учешће у програму прикупљања утисака корисника помаже компанији HMD Global да боље разуме шта вам се у вези са уређајем Nokia допада, као и шта сматрате да треба побољшати. Могуће је повремено слање анонимних техничких података који се тичу вашег уређаја, као на пример докумената са подацима о паду софтвера који се евентуално догодио. Имајте на уму да се такви подаци не шаљу путем мобилне мреже. Било би нам драго да чујемо шта мислите о свом уређају Nokia!</string>
+    <string name="hmd_user_experience_program_title">Програм корисничких утисака</string>
+    <string name="idle_too_long_toast">Овај телефон је неактиван већ неко време. Искључите га да бисте уштедели батерију.</string>
+    <string name="language_selection_cancel_btn">ОТКАЖИ</string>
+    <string name="language_selection_title">Изаберите свој језик</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="location_for_service">Користи моју локацију за побољшање резултата Google претраге и друге Google услуге.</string>
+    <string name="location_info_1">Google услуге локације показују апликацијама вашу приближну локацију без коришћења GPS-а.</string>
+    <string name="location_info_2">Можете да онемогућите ове функције у услугама локације у оквиру менија Подешавања.</string>
+    <string name="location_network">Дозволите Google услузи локације да прикупља анонимне податке о локацији. Подаци се прикупљају чак и када ниједна апликација није покренута.</string>
+    <string name="location_title">Коришћење Google локације</string>
+    <string name="nevigation_selection_back">Назад</string>
+    <string name="nevigation_selection_home">Почетак</string>
+    <string name="nevigation_selection_recent">Недавно</string>
+    <string name="nevigation_selection_text">Можете да промените боју позадине и положај тастера Назад / Недавно.</string>
+    <string name="nevigation_selection_title">Поставке навигационе траке</string>
+    <string name="next_btn_lebel">СЛЕДЕЋЕ</string>
+    <string name="not_now">НЕ САД...</string>
+    <string name="passpoint_content">Акредитиви за %1$s</string>
+    <string name="passpoint_label">Сачувано путем</string>
+    <string name="please_select_phase2">Потврда идентитета друге фазе</string>
+    <string name="proxy_error_empty_host_set_port">Поље за порт мора да буде празно ако је поље за назив хоста празно.</string>
+    <string name="proxy_error_empty_port">Треба да попуните поље порта.</string>
+    <string name="proxy_error_invalid_exclusion_list">Листа изузетака коју сте навели није у правилном формату. Унесите листу изузетих домена раздвојених зарезима.</string>
+    <string name="proxy_error_invalid_port">Навели сте неважећи порт.</string>
+    <string name="proxy_exclusionlist_label">Прокси се заобилази за</string>
+    <string name="proxy_hostname_label">Име хоста за прокси</string>
+    <string name="proxy_port_label">Порт за прокси</string>
+    <string name="proxy_settings_title">Прокси</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_warning_limited_support">Прегледач користи HTTP прокси, али друге апликације не могу да га користе.</string>
+    <string name="saved_network">Сачувано у %1$s</string>
+    <string name="select_sim_card">Изаберите SIM картицу</string>
+    <string name="setup_complete_hmd">Све је спремно да почнете...</string>
+    <string name="setup_complete_hmd_1">Скоро сте спремни за почетак...!</string>
+    <string name="setup_complete_main">Ви сте</string>
+    <string name="setup_complete_sub">СПРЕМНИ.</string>
+    <string name="setup_completed_congratulations">Честитамо!</string>
+    <string name="setup_finish">КРЕНИМО</string>
+    <string name="sim_editor_title">Слот за SIM картицу %1$d</string>
+    <string name="sim_not_exist_toast">Проверите да ли сте уметнули SIM картицу.</string>
+    <string name="skip_add_account_button_label">Не сада</string>
+    <string name="skip_button_label">Прескочи</string>
+    <string name="term_agree_text">Прихватам</string>
+    <string name="term_disagree_text">Не прихватам</string>
+    <string name="terms_of_service_description">"
+Коришћење података мобилне мреже ће можда бити додатно наплаћено када користите услуге које захтевају мрежну везу, као што су услуге временске прогнозе, интернет услуге, е-пошта, прегледач итд. Да бисте ефикасније управљали коришћењем података мобилне мреже, предлажемо да се пријавите за одговарајући пакет услуга мобилне мреже код оператера.
+
+Ако изаберете \"Прихватам\", дозволићете овим услугама да се повежу на мрежу када је то потребно.
+
+Поред тога, аутоматско ажурирање софтвера је подразумевано омогућено. Да бисмо вам омогућили најажурније корисничко искуство софтвера, можда ћемо утрошити извесну количину мобилних података. Можете у било ком тренутку да промените ову опцију у менију Подешавања.
+
+"</string>
+    <string name="terms_title">Коришћење података</string>
+    <string name="traffic_prompt_content">Ако одаберете \"Не прихватам\", мораћете ручно да преузмете софтверско ажурирање, временску прогнозу или друге информације.</string>
+    <string name="upload_agent_des_text">"Придружите се програму корисничких утисака. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Сазнајте више&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Придружите се програму Nokia User Experience. &lt;a href='launch.UserExperienceActivity://Kode'>Сазнајте више.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"Додиривањем дугмета \"КРЕНИМО\" прихватате учешће у програму User Experience. &lt;a href='launch.UserExperienceActivity://Kode'>Сазнајте више&lt;/a>. Запамтите, можете се накнадно придружити путем Подешавања."</string>
+    <string name="upload_agent_title">Програм корисничких утисака</string>
+    <string name="welcome_hmd_term_of_use_2">"Додиром стрелице, прихватате &lt;a href='launch.TermOfServiceActivity://Kode'>Услове коришћења услуге&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>Политику приватности&lt;/a>. HMD Global ће примити информацију о активацији уређаја и једнократну информацију о локацији уређаја. Могућа је наплата преноса података."</string>
+    <string name="welcome_hmd_term_of_use_4">"Када додирнете дугме, прихватићете &lt;a href='launch.TermOfServiceActivity://Kode'>Услове коришћења услуге&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>Политику приватности&lt;/a>. HMD Global ће примити информацију о активацији уређаја и једнократну информацију о локацији уређаја.&lt;br/>&lt;br/>Омогућићемо обавештење о аутоматском ажурирању софтвера како би се инсталирала најновија ажурирања. Можда ће се искористити мања количина података. Услуге ће приступати интернету увек када је то потребно.&lt;br/>&lt;br/>Ове услуге ће изазвати додатне трошкове када се повежу на мобилне мреже."</string>
+    <string name="welcome_hmd_term_of_use_5">"Додиривањем дугмета прихватате &lt;a href='launch.TermOfServiceActivity://Kode'>Услове коришћења услуге&lt;/a>. HMD Global ће примити информацију о активацији уређаја и једнократну информацију о локацији уређаја. Могућа је наплата преноса података. Подаци ће се користити у складу са &lt;a href='launch.AddUploadAgentHandler://Kode'>Политиком приватности&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"Када додирнете стрелицу, пристаћете на&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Услове коришћења услуге&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">ХАЈДЕМО</string>
+    <string name="welcome_message">Добро дошли</string>
+    <string name="welcome_start_button_label">ПОЧЕТАК</string>
+    <string name="welcome_vision_settings_button_label">Поставке гледања</string>
+    <string name="wifi_add_network">Додај мрежу</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Падајућа листа напредних опција. Додирните је двапут да бисте је проширили.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Падајућа листа напредних опција. Додирните је двапут да бисте је скупили.</string>
+    <string name="wifi_and_mobile_skipped_message">"Када се повежете на мрежу, моћи ћете брзо да подесите телефон.
+
+Када нисте повезани на мрежу, нећете моћи да обавите следеће радње:
+
+"<li>Пријава на налог у облаку</li>"
+
+"<li>Преузимање ажурирања софтвера</li>"
+
+"<li>Аутоматско подешавање времена и датума</li></string>
+    <string name="wifi_auth_password_wrong">Лозинка можда није тачна</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Откажи</string>
+    <string name="wifi_certificate">Сертификат</string>
+    <string name="wifi_connect">Повезивање</string>
+    <string name="wifi_connected_no_internet">Повезано, нема интернет везе</string>
+    <string name="wifi_disabled_generic">Онемогућено</string>
+    <string name="wifi_disabled_network_failure">Грешка IP конфигурације</string>
+    <string name="wifi_disabled_password_failure">Проблем са потврдом идентитета</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Не пружај</string>
+    <string name="wifi_do_not_validate_eap_server">Не проверавај</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Није наведен ниједан сертификат. Ваша веза можда није приватна.</string>
+    <string name="wifi_dont_skip">ИДИ НАЗАД</string>
+    <string name="wifi_eap_anonymous">Анонимни идентитет</string>
+    <string name="wifi_eap_ca_cert">CA сертификат</string>
+    <string name="wifi_eap_domain">Домен</string>
+    <string name="wifi_eap_identity">Идентитет</string>
+    <string name="wifi_eap_method">EAP метод</string>
+    <string name="wifi_eap_user_cert">Кориснички сертификат</string>
+    <string name="wifi_fail_to_scan">Није могуће обавите скенирање мрежа</string>
+    <string name="wifi_failed_connect_message">Повезивање са мрежом није успело</string>
+    <string name="wifi_failed_forget_message">Брисање мреже није успело</string>
+    <string name="wifi_failed_save_message">Чување мреже није успело</string>
+    <string name="wifi_forget">Заборави</string>
+    <string name="wifi_frequency">Учесталост</string>
+    <string name="wifi_gateway">Мрежни пролаз</string>
+    <string name="wifi_ip_address">IP адреса</string>
+    <string name="wifi_ip_settings">IP подешавања</string>
+    <string name="wifi_ip_settings_invalid_dns">Унесите важећу DNS адресу.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Унесите важећу адресу мрежног пролаза.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Унесите важећу IP адресу.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Унесите префикс мреже дужине између 0 и 32 знака.</string>
+    <string name="wifi_multiple_cert_added">(Додато је више сертификата)</string>
+    <string name="wifi_network_prefix_length">Дужина префикса мреже</string>
+    <string name="wifi_no_domain_warning">Морате да наведете домен.</string>
+    <string name="wifi_no_internet">Нема приступа интернету</string>
+    <string name="wifi_no_internet_no_reconnect">Аутоматско повезивање није омогућено</string>
+    <string name="wifi_not_in_range">Није у домету</string>
+    <string name="wifi_password">Лозинка</string>
+    <string name="wifi_picker_connection_des_text">Онемогућавање WLAN везе може да изазове додатне трошкове приликом провере софтвера путем мобилне мреже.</string>
+    <string name="wifi_picker_connection_negative_prc">Повезивање путем WLAN мреже</string>
+    <string name="wifi_picker_connection_positive">У РЕДУ</string>
+    <string name="wifi_picker_connection_title">Мрежна веза</string>
+    <string name="wifi_picker_warning_des_text">Док се не повежете на интернет, телефон неће моћи да провери да ли је софтвер ажуриран.</string>
+    <string name="wifi_picker_warning_negative">Ипак прескочи</string>
+    <string name="wifi_picker_warning_positive">Не прескачи</string>
+    <string name="wifi_picker_warning_title">Упозорење</string>
+    <string name="wifi_remembered">Сачувано</string>
+    <string name="wifi_save">Сачувај</string>
+    <string name="wifi_security">Безбедност</string>
+    <string name="wifi_security_none">Ниједан</string>
+    <string name="wifi_setting_title">Није повезано</string>
+    <string name="wifi_shared">Дели са другим корисницима уређаја</string>
+    <string name="wifi_show_advanced">Напредне опције</string>
+    <string name="wifi_show_password">Прикажи лозинку</string>
+    <string name="wifi_signal">Јачина сигнала</string>
+    <string name="wifi_skip_anyway">ИПАК ПРЕСКОЧИ</string>
+    <string name="wifi_speed">Брзина везе</string>
+    <string name="wifi_ssid">Име мреже</string>
+    <string name="wifi_ssid_hint">Унесите SSID</string>
+    <string name="wifi_status">Статус</string>
+    <string name="wifi_unchanged">(непромењено)</string>
+    <string name="wifi_unspecified">Изаберите</string>
+    <string name="wifi_use_system_certs">Користи сертификате система</string>
+    <string name="zone_auto">Аутоматска временска зона</string>
+    <string name="zone_auto_summaryOff">Користи временску зону мреже</string>
+    <string name="zone_auto_summaryOn">Користи временску зону мреже</string>
+    <string name="sugarsync_intro_description">Почните да користите беспрекорну интеграцију складишта у облаку са услугом SugarSync у свега пар корака.</string>
+</resources>

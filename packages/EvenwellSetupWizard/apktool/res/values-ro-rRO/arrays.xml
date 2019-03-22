@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Static</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Detectare automată</item>
+        <item>Tratare ca contorizat</item>
+        <item>Tratare ca necontorizat</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Niciuna</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Niciuna</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Niciuna</item>
+        <item>Manual</item>
+        <item>Configurare automată proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Slab</item>
+        <item>Acceptabil</item>
+        <item>Bun</item>
+        <item>Excelent</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>În curs de scanare…</item>
+        <item>Se conectează…</item>
+        <item>În curs de autentificare…</item>
+        <item>Se obține adresa IP…</item>
+        <item>Conectat</item>
+        <item>Suspendat</item>
+        <item>Se deconectează…</item>
+        <item>Deconectat</item>
+        <item>Nereușit</item>
+        <item>Blocate</item>
+        <item>Evitarea temporară a conexiunii slabe</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>În curs de scanare…</item>
+        <item>Se conectează la %1$s…</item>
+        <item>Se autentifică cu %1$s…</item>
+        <item>Se obține adresa IP de la %1$s…</item>
+        <item>Conectat la %1$s</item>
+        <item>Suspendat</item>
+        <item>În curs de deconectare de la %1$s…</item>
+        <item>Deconectat</item>
+        <item>Nereușit</item>
+        <item>Blocate</item>
+        <item>Evitarea temporară a conexiunii slabe</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexazecimal</item>
+    </string-array>
+</resources>

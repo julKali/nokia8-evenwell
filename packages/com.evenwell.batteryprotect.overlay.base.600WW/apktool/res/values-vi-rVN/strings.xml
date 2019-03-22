@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Hủy</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Thông báo chung</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Hủy</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Hãy sử dụng pin chính hãng</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Đã dừng sạc</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Hãy sạc bằng pin chính hãng, nếu không bạn có thể gây hư hỏng vật lý/vĩnh viễn cho thiết bị của mình.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Pin không hợp lệ</string>
+    <string name="fih_battery_protect_notification_cooling_down">Đang hạ nhiệt</string>
+    <string name="fih_battery_protect_tap_learn_more">Nhấn để tìm hiểu thêm.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Do điện thoại của bạn đang bị nóng nên cần phải thực hiện các bước để hạ nhiệt. Bạn vẫn có thể sử dụng điện thoại nhưng bạn có thể nhận thấy những điều sau:
+·Việc sạc pin có thể tạm dừng.
+·Wi-Fi có thể bị tắt.
+·Ứng dụng có thể bị đóng.
+·Chế độ trên máy bay có thể được bật.
+Điện thoại của bạn sẽ trở lại bình thường sau khi đã hạ nhiệt."</string>
+</resources>

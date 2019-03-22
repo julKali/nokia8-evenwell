@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"ഉപയോക്തൃ അനുഭവ പ്രോഗ്രാമിൽ ചേരൂ. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>കൂടുതലറിയുക&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"ബട്ടണിൽ ടാപ്പുചെയ്യുക വഴി, &lt;a href='launch.TermOfServiceActivity://Kode'>സേവന വ്യവസ്ഥകളും&lt;/a> &lt;a href='launch.AddUploadAgentHandler://Kode'>സ്വകാര്യതാ നയവും&lt;/a> നിങ്ങൾ അംഗീകരിക്കുകയാണ്. ഒറ്റത്തവണ ഉപകരണ ലൊക്കേഷനുമൊത്ത് ഉപകരണ ആക്‌ടിവേഷൻ വിവരം, HMD Global-ലേക്ക് അയയ്ക്കപ്പെടും.&lt;br/>&lt;br/>ഓട്ടോ സോഫ്റ്റ്‌വെയർ അപ്‌ഡേറ്റ് അറിയിപ്പ് പ്രവർത്തനക്ഷമമാക്കപ്പെടും, ഇത് നിങ്ങൾക്ക് വേണ്ടി പുതിയ അപ്‌ഡേറ്റുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്നു. നിങ്ങളുടെ ഡാറ്റ ബജറ്റിന്റെ ചെറിയൊരു ഭാഗം ഇത് ഉപയോഗിച്ചേക്കാം. ആവശ്യമുള്ളപ്പോഴൊക്കെ സേവനങ്ങൾ ഇന്റർനെറ്റ് ഉപയോഗിക്കും.&lt;br/>&lt;br/>ഈ സേവനങ്ങൾ, സെല്ലുമാർ നെറ്റ്‌വർക്കുകൾ ആക്‌സസ് ചെയ്യുമ്പോൾ, കൂടുതൽ നിരക്കിന് കാരണമാകാം."</string>
+    <string name="welcome_hmd_term_of_use_5">"ബട്ടൺ ടാപ്പുചെയ്യുക വഴി നിങ്ങൾ &lt;a href='launch.TermOfServiceActivity://Kode'>സേവന വ്യവസ്ഥകൾ&lt;/a> അംഗീകരിക്കുകയാണ്. HMD &lt;a href='launch.AddUploadAgentHandler://Kode'>സ്വകാര്യതാ നയം&lt;/a> അനുസരിച്ച് നിങ്ങളുടെ ഡാറ്റ പ്രോസസ്സ് ചെയ്യപ്പെടും. ഒറ്റത്തവണ ഉപയോഗിക്കാവുന്ന ഉപകരണ സ്ഥാനം അടങ്ങിയ ഉപകരണം സജീവമാക്കൽ വിവരം HMD Global-ലേക്ക് അയയ്‌ക്കും. മൊബൈൽ ഡാറ്റാ നിരക്കുകൾ ബാധകമാകാം."</string>
+    <string name="welcome_vision_settings_button_label">ദൃശ്യ ക്രമീകരണം</string>
+    <string name="next_btn_lebel">അടുത്തത്</string>
+    <string name="back_btn_lebel">മടങ്ങുക</string>
+    <string name="finish_button_label">പൂർത്തിയാക്കുക</string>
+    <string name="sim_not_exist_toast">നിങ്ങൾ ഒരു SIM കാർഡ് ചേർത്തിട്ടുണ്ടോയെന്ന് പരിശോധിക്കുക.</string>
+    <string name="idle_too_long_toast">ഈ ഫോൺ കുറച്ചുനേരത്തേക്ക് നിഷ്‌ക്രിയമാക്കി. പവർ നിലനിർത്താൻ ഇപ്പോൾ ഷട്ട് ഡൗൺ ചെയ്യുക.</string>
+    <string name="welcome_message">സ്വാഗതം</string>
+    <string name="welcome_infocus_term_of_use">"അമ്പടയാളം സ്പർശിക്കുന്നതിലൂടെ, നിങ്ങൾ&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>ഉപയോഗ വ്യവസ്ഥകൾ&lt;/a> അംഗീകരിക്കുന്നു"</string>
+    <string name="welcome_hmd_term_of_use_2">"അമ്പടയാളം സ്‌പർശിക്കുന്നതിലൂടെ, നിങ്ങൾ &lt;a href='launch.TermOfServiceActivity://Kode'>സേവന നിബന്ധനകളും&lt;/a> &lt;a href='launch.AddUploadAgentHandler://Kode'>സ്വകാര്യതാ നയവും&lt;/a> അംഗീകരിക്കുന്നു. ഒറ്റത്തവണ ഉപയോഗിക്കാവുന്ന ഉപകരണ സ്ഥാനം അടങ്ങിയ ഉപകരണം സജീവമാക്കൽ വിവരം HMD Global-ലേക്ക് അയയ്‌ക്കും. ഡാറ്റാ നിരക്കുകൾ ബാധകമാകാം."</string>
+    <string name="welcome_start_button_label">ആരംഭിക്കുക</string>
+    <string name="emergency_dial_message">അടിയന്തര കോൾ</string>
+    <string name="emergency_dial_hmd_message">അടിയന്തിര ഘട്ടം</string>
+    <string name="accessibility_text">പ്രവേശനക്ഷമത</string>
+    <string name="language_selection_title">നിങ്ങളുടെ ഭാഷ നോക്കിയെടുക്കുക</string>
+    <string name="language_selection_cancel_btn">റദ്ദാക്കുക</string>
+    <string name="welcome_lets_go_button_label">നമുക്ക് പോകാം</string>
+    <string name="terms_title">ഡാറ്റ ഉപയോഗം</string>
+    <string name="terms_of_service_description">"
+കാലാവസ്ഥാ സേവനങ്ങൾ, ഇന്റർനെറ്റ് ആക്സസ്, ഇമെയിൽ, ബ്രൗസർ തുടങ്ങിയവ പോലുള്ള, നെറ്റ്‌വർക്ക് കണക്ഷൻ ആവശ്യമായ സേവനങ്ങൾ ഉപയോഗിക്കുമ്പോൾ മൊബൈൽ ഡാറ്റാ ഉപയോഗത്തിന് അധിക നിരക്ക് ഈടാക്കാനിടയുണ്ട്. നിങ്ങളുടെ മൊബൈൽ ഡാറ്റാ ഉപയോഗ നിരക്ക് കൂടുതൽ കാര്യക്ഷമമായി ഉപയോഗിക്കാൻ, കാരിയറിൽ നിന്നും ഉചിതമായ മൊബൈൽ സേവന പാക്കേജിനായി അപേക്ഷിക്കാൻ ഞങ്ങൾ നിർദ്ദേശിക്കുന്നു.
+
+നിങ്ങൾ 'അംഗീകരിക്കുന്നു' തിരഞ്ഞെടുക്കുന്നതിലൂടെ, ആവശ്യമുള്ളപ്പോൾ നെറ്റ്‌വർക്കിൽ കണക്റ്റുചെയ്യാൻ നിങ്ങൾ ഈ സേവനങ്ങളെ അനുവദിക്കുകയാണ്.
+
+അതിനുപുറമെ, സ്വയമേയുള്ള സോഫ്റ്റ്‌വെയർ അപ്‌ഡേറ്റും ഡിഫോൾട്ടായി പ്രവർത്തനക്ഷമമാക്കും. ഏറ്റവും പുതിയ സോഫ്റ്റ്‌വെയർ ഉപയോഗം ലഭ്യമാക്കാൻ, ഇത് കുറച്ച് മൊബൈൽ ഡാറ്റ ഉപയോഗിച്ചേക്കാം. നിങ്ങൾക്ക് എല്ലായ്‌പ്പോഴും ക്രമീകരണത്തിൽ പിന്നീട് ഈ ഓപ്‌ഷൻ മാറ്റാനാകും.
+
+"</string>
+    <string name="term_agree_text">അംഗീകരിക്കുക</string>
+    <string name="term_disagree_text">വിയോജിക്കുന്നു</string>
+    <string name="datausage_dialog_positive_btn">ശരി</string>
+    <string name="datausage_dialog_negitive_btn">റദ്ദാക്കുക</string>
+    <string name="traffic_prompt_content">"നിങ്ങൾ 'വിയോജിക്കുന്നു' തിരഞ്ഞെടുത്താൽ, നിങ്ങൾക്ക് സോഫ്റ്റ്‌വെയർ അപ്‌ഡേറ്റോ കാലാവസ്ഥാ വിവരമോ മറ്റ് വിവരമോ നേരിട്ട് ലഭ്യമാക്കേണ്ടതായി വരും."</string>
+    <string name="google_account_intro_description">എല്ലാ Google സേവനങ്ങളും ആസ്വദിക്കാൻ Google അക്കൗണ്ട് സജ്ജീകരിക്കുക.</string>
+    <string name="google_account_intro_title">Google അക്കൗണ്ട്</string>
+    <string name="google_account_add_account">Google ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക</string>
+    <string name="location_title">Google ലൊക്കേഷൻ ഉപയോഗിക്കുക</string>
+    <string name="location_info_1">Google-ന്റെ ലൊക്കേഷൻ സേവനങ്ങൾ, GPS ഉപയോഗിക്കാതെ തന്നെ ആപ്ലിക്കേഷനുകൾക്ക് നിങ്ങളുടെ ഏകദേശ ലൊക്കേഷൻ നൽകുന്നു.</string>
+    <string name="location_info_2">നിങ്ങൾക്ക് ഈ സവിശേഷതകൾ ക്രമീകരണത്തിൽ, ലൊക്കേഷൻ സേവനങ്ങൾക്ക് താഴെ പ്രവർത്തനരഹിതമാക്കാനാകും.</string>
+    <string name="location_network">അജ്ഞാത ലൊക്കേഷൻ ഡാറ്റ ശേഖരിക്കാൻ Google-ന്റെ ലൊക്കേഷൻ സേവനത്തെ അനുവദിക്കുക. ആപ്ലിക്കേഷനുകളൊന്നും പ്രവർത്തിക്കുന്നില്ലെങ്കിൽ പോലും ശേഖരണം നടക്കുന്നതാണ്.</string>
+    <string name="location_for_service">Google തിരയൽ ഫലങ്ങൾക്കായും മറ്റ് Google സേവനങ്ങൾക്കായും എന്റെ ലൊക്കേഷൻ ഉപയോഗിക്കുക.</string>
+    <string name="date_and_time">തീയതിയും &amp; സമയവും ക്രമീകരണം</string>
+    <string name="date_time_auto">യാന്ത്രിക തീയതിയും സമയവും</string>
+    <string name="date_time_auto_summaryOn">നെറ്റ്‌വർക്ക് നൽകുന്ന സമയം ഉപയോഗിക്കുക</string>
+    <string name="date_time_auto_summaryOff">നെറ്റ്‌വർക്ക് നൽകുന്ന സമയം ഉപയോഗിക്കുക</string>
+    <string name="zone_auto">യാന്ത്രിക സമയ മേഖല</string>
+    <string name="zone_auto_summaryOn">നെറ്റ്‌വർക്ക് നൽകുന്ന സമയ മേഖല ഉപയോഗിക്കുക</string>
+    <string name="zone_auto_summaryOff">നെറ്റ്‌വർക്ക് നൽകുന്ന സമയ മേഖല ഉപയോഗിക്കുക</string>
+    <string name="date_time_set_date">ദിവസം സജ്ജീകരിക്കുക</string>
+    <string name="date_time_set_time">സമയം ക്രമീകരിക്കുക</string>
+    <string name="date_time_set_timezone">സമയമേഖല തിരഞ്ഞെടുക്കൂ</string>
+    <string name="date_time_24hour">24-മണിക്കൂർ ഫോർമാറ്റ് ഉപയോഗിക്കുക</string>
+    <string name="date_time_date_format">തീയതി ഫോർമാറ്റ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="choose_timezone">സമയ മേഖല തിരഞ്ഞെടുക്കുക</string>
+    <string name="normal_date_format">പ്രാദേശികം (%s)</string>
+    <string name="date_and_time_settings_title">തീയതിയും &amp; സമയവും</string>
+    <string name="date_and_time_settings_title_setup_wizard">തീയതിയും സമയവും സജ്ജീകരിക്കുക</string>
+    <string name="date_and_time_settings_summary">തീയതി, സമയം, സമയ മേഖല, ഫോർമാറ്റുകൾ എന്നിവ സജ്ജീകരിക്കുക</string>
+    <string name="date_picker_title">തീയതി:</string>
+    <string name="time_picker_title">സമയം:</string>
+    <string name="account_intro_title">[BRAND_NAME] സേവന അക്കൗണ്ട്</string>
+    <string name="account_intro_description">[BRAND_NAME] സേവനങ്ങളിൽ ചേരുന്നതിലൂടെ നിങ്ങളുടെ ഉപകരണം ഉപയോഗിക്കാനുള്ള സ്മാർട്ടായ മാർഗം.</string>
+    <string name="add_infocus_service_account">[BRAND_NAME] സേവന അക്കൗണ്ട് ചേർക്കുക</string>
+    <string name="dropbox_fih_signup">Dropbox ഉപയോഗിച്ച് സൈനപ്പ് ചെയ്യൂ</string>
+    <string name="dropbox_fih_signin">Dropbox ഉപയോഗിച്ച് സൈനിൻ ചെയ്യൂ</string>
+    <string name="dropbox_fih_description">ഫോട്ടോകളും വീഡിയോകളും സ്വയമേവ സംരക്ഷിക്കാൻ 2 GB Dropbox ഇടം സ്വന്തമാക്കുക.</string>
+    <string name="nevigation_selection_title">നാവിഗേഷൻ ബാർ ക്രമീകരണം</string>
+    <string name="nevigation_selection_text">മടങ്ങുക / ഈയിടെയുള്ളവ കീകളുടെ പശ്ചാത്തല വർണ്ണവും സ്ഥാനവും മാറ്റാനാകും.</string>
+    <string name="nevigation_selection_back">പിന്നോട്ട്</string>
+    <string name="nevigation_selection_home">ഹോം</string>
+    <string name="nevigation_selection_recent">പുതിയത്</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia ഉപയോക്തൃ അനുഭവ പ്രോഗ്രാമിൽ ചേരുക. &lt;a href='launch.UserExperienceActivity://Kode'>കൂടുതലറിവ് നേടുക.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">ഉപയോക്തൃ അനുഭവ പ്രോഗ്രാം</string>
+    <string name="setup_completed_congratulations">അഭിനന്ദനങ്ങൾ!</string>
+    <string name="setup_complete_hmd">നിങ്ങൾ തയ്യാറായിക്കഴിഞ്ഞു.</string>
+    <string name="setup_complete_main">നിങ്ങൾ</string>
+    <string name="setup_complete_sub">മുന്നോട്ടുപോകാൻ തയ്യാറാണ്.</string>
+    <string name="hmd_user_experience_program_title">ഉപയോക്തൃ അനുഭവ പ്രോഗ്രാം</string>
+    <string name="hmd_user_experience_program_message">Nokia ഉപകരണത്തിൽ നിങ്ങൾ ഇഷ്‌ടപ്പെടുന്നത് എന്തെന്നും അതിൽ മെച്ചപ്പെടുത്തണമെന്ന് നിങ്ങൾ കരുതുന്നവ എന്തെന്നും സംബന്ധിച്ച് നന്നായി മനസിലാക്കാൻ ഉപയോക്തൃ അനുഭവ പ്രോഗ്രാമിലെ നിങ്ങളുടെ പങ്കാളിത്തം HMD Global-നെ സഹായിക്കുന്നു. സമയാസമയങ്ങളിൽ, നിങ്ങളുടെ ഉപകരണത്തെക്കുറിച്ചുള്ള സാങ്കേതിക പ്രവർത്തനരീതികൾ അടങ്ങിയ അജ്ഞാത ഡാറ്റ ഞങ്ങൾക്ക് ലഭിക്കാനിടയുണ്ട്, ഉദാഹരണത്തിന്, സംഭവിച്ചിരിക്കാൻ ഇടയുള്ള ഒരു സോഫ്റ്റ്‌വെയർ ക്രാഷ് സംബന്ധിച്ച ഡാറ്റയടങ്ങിയ ഒരു ഫയൽ പോലുള്ളവ. അത്തരം ഡാറ്റ ഒരു സെല്ലുലാർ കണക്ഷൻ മുഖേന അയയ്‌ക്കില്ലെന്ന കാര്യം ഓർക്കുക. നിങ്ങളുടെ Nokia ഉപകരണത്തെക്കുറിച്ചുള്ള അഭിപ്രായം അറിയാൻ ഞങ്ങൾ ഇഷ്‌ടപ്പെടുന്നു!</string>
+    <string name="skip_button_label">ഒഴിവാക്കുക</string>
+    <string name="skip_add_account_button_label">ഇപ്പോൾ വേണ്ട</string>
+    <string name="device_checking_message">സ്വാഗതം</string>
+    <string name="backup_and_restore_title">ബാക്കപ്പ് ചെയ്യലും പുനഃസ്ഥാപിക്കലും</string>
+    <string name="backup_and_restore_description">"നിങ്ങളുടെ അക്കൗണ്ട് മുമ്പ് ബാക്കപ്പ് ചെയ്തിട്ടുണ്ടെങ്കിൽ, അത് ഇപ്പോൾ ഈ ഫോണിലേക്ക് പുനഃസ്ഥാപിക്കാനാകും.
+
+നിങ്ങൾക്ക് ഏതുസമയത്തും ക്രമീകരണത്തിൽ ബാക്കപ്പ് ക്രമീകരണം മാറ്റാം."</string>
+    <string name="baidu_intro_title">Baidu-വിനുള്ള ക്ലൗഡ് സംഭരണം</string>
+    <string name="baidu_intro_description">ലളിതമായ ഏതാനും ഘട്ടങ്ങൾ പൂർത്തിയാക്കി, നിങ്ങൾക്ക് പരിധിയില്ലാത്ത ക്ലൗഡ് സംഭരണ സംയോജനം 百度云 എന്നതിനൊപ്പം ആസ്വദിക്കാം.</string>
+    <string name="add_baidu_button_label">百度云 എന്നതിൽ ലോഗിൻ ചെയ്യുക</string>
+    <string name="baidu_progress_dialog_des">കാത്തിരിക്കൂ...</string>
+    <string name="wifi_picker_connection_title">നെറ്റ്‌വർക്ക് കണക്ഷൻ</string>
+    <string name="wifi_picker_connection_des_text">WLAN കണക്ഷൻ പ്രവർത്തനരഹിതമാക്കുന്നത്, മൊബൈൽ നെറ്റ്‌വർക്ക് വഴി സോഫ്റ്റ്‌വെയർ പരിശോധിച്ചുറപ്പിക്കുമ്പോൾ നിരക്കുകൾക്ക് ഇടയാക്കാം.</string>
+    <string name="wifi_picker_connection_positive">ശരി</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN കണക്റ്റുചെയ്യുക</string>
+    <string name="wifi_picker_connection_negative">ബന്ധിപ്പിക്കുക</string>
+    <string name="wifi_picker_warning_title">മുന്നറിയിപ്പ്</string>
+    <string name="wifi_picker_warning_des_text">നിങ്ങൾക്ക് ഒരു ഇന്റർനെറ്റ് കണക്ഷൻ ലഭ്യമാകുന്നതുവരെ, ഫോണിന് സോഫ്റ്റ്‌വെയർ അപ്റ്റുഡേറ്റാണോയെന്ന് പരിശോധിച്ചുറപ്പിക്കാനാകില്ല.</string>
+    <string name="wifi_picker_warning_positive">ഒഴിവാക്കരുത്</string>
+    <string name="wifi_picker_warning_negative">ഏതുവിധേയനയും ഒഴിവാക്കുക</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] നിയമം</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ ഉപയോഗ നിബന്ധനകൾ
+ 
+ പ്രാബല്യത്തിലായ തീയതി: മെയ് 20, 2016
+ 
+ നിങ്ങൾക്കും [BRAND_NAME_PROXY] Inc.-നും അതിന്റെ ഏജന്റായ Commtiva Technology Ltd.-നും ഇടയിൽ (ഒരുമിച്ച് \"[BRAND_NAME_PROXY]\" എന്നായി പരാമർശിക്കപ്പെടുന്നു) എല്ലാ [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയറിന്റെയും ഉപയോഗം നിയന്ത്രിക്കുന്ന ഒരു നിയമ ഉടമ്പടി ഇനിപ്പറയുന്ന നിബന്ധനകളും വ്യവസ്ഥകളും (\" നിബന്ധനകൾ \" എന്നായി പരാമർശിക്കപ്പെടുന്നു) സൃഷ്‌ടിക്കുകയും, ഒപ്പം ഡൗൺലോഡ് ചെയ്യലും ഇൻസ്റ്റാളുചെയ്യലും സ്വയമേയുള്ള പുതുക്കലും (\" സോഫ്റ്റ്‌വെയർ സേവനം \" എന്നായി പരാമർശിക്കപ്പെടുന്നു) ഉൾപ്പെടെയുള്ള, എന്നാൽ അതിൽ മാത്രം പരിമിതപ്പെടുത്താത്ത, നിങ്ങളുടെ [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ ഉപയോഗത്തിന് ബാധകമാക്കുകയും ചെയ്യുന്നു. [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ ഉപയോഗിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ നിബന്ധനകൾ പാലിക്കുമെന്ന് അംഗീകരിക്കുന്നു; നിങ്ങൾ നിബന്ധനകൾ അംഗീകരിക്കുന്നില്ലെങ്കിൽ [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ ഡൗൺലോഡുചെയ്യുകയോ തനിപ്പകർപ്പ് എടുക്കയോ ഉപയോഗിക്കുകയോ കൈവശം സൂക്ഷിക്കുകയോ ചെയ്യരുത്.
+ 
+ 1. ഉപയോഗ നിബന്ധനകൾ
+ നിങ്ങൾ ഈ നിബന്ധനകൾ പാലിക്കുന്നിടത്തോളം കാലം, [BRAND_NAME_PROXY] നിങ്ങൾക്ക് വ്യക്തിഗതവും നോൺ-എക്‌സ്‌ക്ലൂസീവ് ആയതും കൈമാറാനാകാത്തതും പിൻവലിക്കാനാകാത്തതും നിശ്ചിത പരിധിയിലുമുള്ള [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ സേവന ഉപയോഗം അനുവദിക്കുന്നു. നിങ്ങളുടെ [BRAND_NAME_PROXY] മൊബൈൽ സ്മാർട്ട് ഉപകരണത്തിൽ (\" [BRAND_NAME_PROXY] ഹാൻഡ്‌സെറ്റ് \" എന്നായി പരാമർശിക്കപ്പെടുന്നു) [BRAND_NAME_PROXY] ഇന്റർനെറ്റ് വഴി ഒബ്‌ജക്റ്റ് കോഡ് ഇൻസ്റ്റാൾ ചെയ്യും. നിങ്ങളുടെ [BRAND_NAME_PROXY] ഹാൻഡ്‌സെറ്റിലെ [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ വാണിജ്യപരമായ ആവശ്യത്തിന് ഉപയോഗിക്കുകയോ ഏതൊരു മൂന്നാം കക്ഷിക്കും കൈമാറുകയോ ചെയ്യില്ലെന്ന് നിങ്ങൾ അംഗീകരിച്ച് സമ്മതിക്കുന്നു.
+ [BRAND_NAME_PROXY] ഇനിപ്പറയുന്ന രീതികളിലൊന്നും തന്നെ ഉപയോഗിക്കുകയില്ലെന്നും നിങ്ങൾ അംഗീകരിക്കുന്നു:
+ (a) [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ (ആസ്പദമായ സാങ്കേതികവിദ്യകൾ ഉൾപ്പെടെ) ക്രാക്കുചെയ്യ്ന്നത്, അല്ലെങ്കിൽ [BRAND_NAME_PROXY]-ൽ ബ്രാൻഡ് ചെയ്തിട്ടില്ലാത്ത ഏതെങ്കിലും ഉപകരണത്തിൽ [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ ഉപയോഗിക്കുന്നത്;
+ (b) [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ വിശകലനം ചെയ്യുന്നത്, ഡീകമ്പൈൽ ചെയ്യുന്നത്, റിവേഴ്സ് എഞ്ചിനീയറിംഗ്, ഡീകോഡ് ചെയ്യുന്നത്, പകർത്തുന്നത്, പരിഷ്‌ക്കരിക്കുന്നത്, അല്ലെങ്കിൽ എന്തെങ്കിലും ആവശ്യത്തിനായി അത്തരം വ്യുൽപ്പന്ന പ്രവർത്തനം സൃഷ്‌ടിക്കുന്നത്;
+ (c) കൈമാറുന്നത്, പാട്ടത്തിനോ വാടകയ്‌ക്കോ നൽകുന്നത്, സബ്‌ലൈസൻസ് ചെയ്യുന്നത്, നിബന്ധനകൾക്ക് വിരുദ്ധമാകുന്നത്, [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ പൊതുവാക്കി മാറ്റുന്നത് അല്ലെങ്കിൽ ഏതെങ്കിലും മൂന്നാം കക്ഷിയെ [BRAND_NAME_PROXY] സോഫ്‌റ്റ്‌വെയർ ഉപയോഗിക്കാനോ ആക്സസ് ചെയ്യാനോ ഒരുമിച്ച് ഉപയോഗിക്കാനോ അനുവദിക്കുന്നത് എന്നിവയുൾപ്പെടെ, എന്നാൽ ഇതിൽ മാത്രം ഉൾപ്പെടുത്താത്ത എല്ലാ പ്രവർത്തനങ്ങളും നടത്തുന്നത്;
+ (d) [BRAND_NAME_PROXY] രേഖാമൂലമുള്ള മുൻകൂർ സമ്മതമില്ലാതെ [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയറിലെയോ ഡോക്യുമെന്റുകളിലെയോ ഏതെങ്കിലും ഉടമസ്ഥാവകാശ അറിയിപ്പോ ലോഗോയോ വാണിജ്യമുദ്രകളോ നീക്കംചെയ്യുന്നത്;
+ (e) പ്രാബല്യത്തിലുള്ള നിയമത്തിന് എതിരായോ മറ്റൊരു കക്ഷിയുടെ അവകാശങ്ങൾ ലംഘിക്കുന്ന വിധത്തിലോ [BRAND_NAME_PROXY] സോഫ്റ്റ്‌വെയർ ഉപയോഗിക്കുന്നത്;
+ (f) വിമാന നിയന്ത്രിത മേഖല, പെട്"</string>
+    <string name="hmd_legal_message" />
+    <string name="wapi_psk_security_type">പാസ്‌വേഡ് തരം</string>
+    <string name="upload_agent_hmd_des_text_3">"നമുക്ക് ആരംഭിക്കാം\" ടാപ്പുചെയ്യുക വഴി, നിങ്ങൾ ഉപയോക്തൃ അനുഭവ പ്രോഗ്രാമിൽ ചേരാൻ സമ്മതിക്കുകയാണ്. &lt;a href='launch.UserExperienceActivity://Kode'>കൂടുതലറിയുക&lt;/a>. സജ്ജീകരണം വഴി നിങ്ങൾക്ക് എല്ലായ്പ്പോഴും പിന്നീട് ചേരാവുന്നതാണെന്ന കാര്യം ശ്രദ്ധിക്കുക."</string>
+    <string name="setup_complete_hmd_1">തുടങ്ങാൻ നിങ്ങൾ ഏതാണ്ട് തയ്യാറായിയിരിക്കുന്നു...!</string>
+    <string name="not_now">ഇപ്പോൾ വേണ്ട…;</string>
+    <string name="setup_finish">നമുക്ക് ആരംഭിക്കാം</string>
+    <string name="wifi_fail_to_scan">നെറ്റ്‌വർക്കുകൾക്കായി തിരയാനാവുന്നില്ല</string>
+    <string name="wifi_security_none">ഒന്നുമില്ല</string>
+    <string name="wifi_remembered">സംരക്ഷിച്ചു</string>
+    <string name="wifi_disabled_generic">പ്രവർത്തനരഹിതമാക്കി</string>
+    <string name="wifi_disabled_network_failure">IP കോൺഫിഗറേഷൻ പരാജയം</string>
+    <string name="wifi_disabled_password_failure">പ്രാമാണീകരണ പ്രശ്നം</string>
+    <string name="wifi_not_in_range">പരിധിയിൽ ഇല്ല</string>
+    <string name="wifi_no_internet_no_reconnect">സ്വയമേവ ബന്ധിപ്പിക്കില്ല</string>
+    <string name="wifi_no_internet">ഇന്റർനെറ്റ് ആക്‌സസ് ഇല്ല</string>
+    <string name="saved_network">%1$s മുഖേന സംരക്ഷിച്ചു</string>
+    <string name="connected_via_passpoint">%1$s വഴി കണ‌ക്‌റ്റ് ചെയ്‌തിരിക്കുന്നു</string>
+    <string name="available_via_passpoint">%1$s വഴി ലഭ്യം</string>
+    <string name="wifi_connected_no_internet">ബന്ധിപ്പിച്ചു, ഇന്റർനെറ്റ് കണക്ഷൻ ഇല്ല</string>
+    <string name="wifi_auth_password_wrong">പാസ്‌വേഡ് തെറ്റായേക്കാം</string>
+    <string name="connected_via_wfa">Wi‑Fi അസിസ്റ്റന്റ് വഴി കണ‌ക്‌റ്റ് ചെയ്‌തിരിക്കുന്നു</string>
+    <string name="wifi_ssid">നെറ്റ്‌വർക്ക് പേര്</string>
+    <string name="wifi_ssid_hint">SSID നൽകുക</string>
+    <string name="wifi_security">സുരക്ഷ</string>
+    <string name="wifi_eap_method">EAP രീതി</string>
+    <string name="please_select_phase2">ഘട്ടം 2 പ്രമാണീകരണം</string>
+    <string name="wifi_eap_ca_cert">CA സർട്ടിഫിക്കറ്റ്</string>
+    <string name="wifi_do_not_validate_eap_server_warning">സർട്ടിഫിക്കറ്റൊന്നും വ്യക്തമാക്കിയിട്ടില്ല. നിങ്ങളുടെ കണക്ഷൻ സ്വകാര്യമായിരിക്കുകയില്ല.</string>
+    <string name="wifi_eap_domain">ഡൊമെയ്ൻ</string>
+    <string name="wifi_no_domain_warning">ഒരു ഡൊമെയ്ൻ വ്യക്തമാക്കിയിരിക്കണം.</string>
+    <string name="wifi_eap_user_cert">ഉപയോക്തൃ സർട്ടിഫിക്കറ്റ്</string>
+    <string name="wifi_eap_identity">ഐഡന്റിറ്റി</string>
+    <string name="wifi_eap_anonymous">അജ്ഞാത ഐഡന്റിറ്റി</string>
+    <string name="wifi_password">പാസ്‌വേഡ്</string>
+    <string name="wifi_show_password">പാസ്‌വേഡ് കാണിക്കുക</string>
+    <string name="wifi_advanced_toggle_description_collapsed">വിപുലമായ ഓപ്ഷനുകൾ ഡ്രോപ്പ് ഡൗൺ ലിസ്റ്റ്. വികസിപ്പിക്കാൻ രണ്ടുതവണ ടാപ്പുചെയ്യുക.</string>
+    <string name="wifi_show_advanced">വിപുലമായ ഓപ്ഷനുകൾ</string>
+    <string name="proxy_settings_title">പ്രോക്‌സി</string>
+    <string name="proxy_warning_limited_support">ബ്രൗസർ HTTP പ്രോക്‌സി ഉപയോഗിക്കുന്നുവെങ്കിലും മറ്റ് ആപ്‌സ് ഉപയോഗിക്കാനിടയില്ല.</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">പ്രോക്‌സി ഹോസ്റ്റിന്റെ പേര്</string>
+    <string name="proxy_exclusionlist_label">ഇതിനുള്ള ബൈപ്പാസ് പ്രോക്‌സി</string>
+    <string name="wifi_ip_settings">IP ക്രമീകരണം</string>
+    <string name="wifi_ip_address">IP വിലാസം</string>
+    <string name="wifi_gateway">ഗേറ്റ്‌വേ</string>
+    <string name="wifi_network_prefix_length">നെറ്റ്‌വർക്ക് പ്രിഫിക്‌സ് ദൈർഘ്യം</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">മറ്റ് ഉപകരണ ഉപയോക്താക്കളുമായി പങ്കിടുക</string>
+    <string name="proxy_port_label">പ്രോക്‌സി പോർട്ട്</string>
+    <string name="wifi_unspecified">തിരഞ്ഞെടുക്കുക</string>
+    <string name="wifi_multiple_cert_added">(ഒന്നിലധികം സർട്ടിഫിക്കറ്റുകൾ ചേർത്തു)</string>
+    <string name="wifi_use_system_certs">സിസ്റ്റം സർട്ടിഫിക്കറ്റുകൾ ഉപയോഗിക്കുക</string>
+    <string name="wifi_do_not_provide_eap_user_cert">നൽകരുത്</string>
+    <string name="wifi_do_not_validate_eap_server">മൂല്യനിർണ്ണയം ചെയ്യരുത്</string>
+    <string name="wifi_add_network">നെറ്റ്‌വർക്ക് ചേർക്കുക</string>
+    <string name="wifi_save">സംരക്ഷിക്കുക</string>
+    <string name="passpoint_label">ഇതുവഴി സംരക്ഷിച്ചു</string>
+    <string name="wifi_connect">കണക്റ്റുചെയ്യുക</string>
+    <string name="wifi_status">സ്റ്റാറ്റസ്</string>
+    <string name="wifi_signal">സിഗ്‌നൽ ശക്തി</string>
+    <string name="wifi_speed">ലിങ്ക് വേഗത</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">ആവൃത്തി</string>
+    <string name="wifi_forget">മറക്കുക</string>
+    <string name="wifi_cancel">റദ്ദാക്കുക</string>
+    <string name="proxy_error_invalid_port">നിങ്ങൾ ടൈപ്പുചെയ്‌ത പോർട്ട് സാധുവായതല്ല.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">സാധുവായ IP വിലാസം ടൈപ്പുചെയ്യുക.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">0, 32 എന്നിവയ്‌ക്കിടയിലുള്ള ഒരു നെറ്റ്‌വർക്ക് പ്രിഫി‌ക്സ് ദൈർഘ്യം ടൈപ്പുചെയ്യുക.</string>
+    <string name="wifi_ip_settings_invalid_gateway">സാധുവായ ഗേറ്റ്‌വേ വിലാസം ടൈപ്പുചെയ്യുക.</string>
+    <string name="wifi_ip_settings_invalid_dns">സാധുവായ DNS വിലാസം ടൈപ്പുചെയ്യുക.</string>
+    <string name="wifi_unchanged">(മാറ്റം വരുത്തിയിട്ടില്ല)</string>
+    <string name="wifi_failed_connect_message">നെറ്റ്‌വർക്കിൽ കണക്റ്റുചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു</string>
+    <string name="wifi_failed_save_message">നെറ്റ്‌വർക്ക് സംരക്ഷിക്കുന്നതിൽ പരാജയപ്പെട്ടു</string>
+    <string name="wifi_failed_forget_message">നെറ്റ്‌വർക്ക് നിരസിക്കുന്നതിൽ പരാജയപ്പെട്ടു</string>
+    <string name="proxy_error_empty_host_set_port">ഹോസ്‌റ്റ് ഫീൽഡ് ശൂന്യമാണെങ്കിൽ പോർട്ട് ഫീൽഡും ശൂന്യമായിരിക്കണം.</string>
+    <string name="proxy_error_empty_port">നിങ്ങൾ പോർട്ട് ഫീൽഡ് പൂരിപ്പിക്കേണ്ടതുണ്ട്.</string>
+    <string name="proxy_error_invalid_exclusion_list">നിങ്ങൾ ടൈപ്പുചെയ്ത ഒഴിവാക്കൽ ലിസ്റ്റ് ശരിയായി ഫോർമാറ്റ് ചെയ്തിട്ടില്ല. ഒഴിവാക്കിയ ഡൊമെയ്‌നുകളുടെ കോമ കൊണ്ട് വിഭജിച്ചിട്ടുള്ള ഒരു ലിസ്റ്റ് ടൈപ്പുചെയ്യുക.</string>
+    <string name="wifi_advanced_toggle_description_expanded">വിപുലമായ ഓപ്ഷനുകൾ ഡ്രോപ്പ് ഡൗൺ ലിസ്റ്റ്. ചുരുക്കാൻ രണ്ടുതവണ ടാപ്പുചെയ്യുക.</string>
+    <string name="passpoint_content">%1$s ക്രെഡൻഷ്യലുകൾ</string>
+    <string name="select_sim_card">SIM കാർഡ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="sim_editor_title">SIM സ്ലോട്ട് %1$d</string>
+    <string name="wifi_certificate">സർട്ടിഫിക്കറ്റ്</string>
+    <string name="wifi_setting_title">ബന്ധിപ്പിച്ചു</string>
+    <string name="wifi_skip_anyway">എങ്ങനെയും ഒഴിവാക്കൂ</string>
+    <string name="wifi_dont_skip">പിന്നിലേക്ക് പോവുക</string>
+    <string name="wifi_and_mobile_skipped_message">"ഒരു നെറ്റ്‌വർക്കിലേക്ക് ബന്ധിപ്പിക്കുന്നത് നിങ്ങളുടെ ഫോൺ വേഗത്തിൽ സജ്ജമാക്കാൻ സഹായിക്കുന്നു.
+
+ഒരു കണക്ഷനില്ലെങ്കിൽ നിങ്ങൾക്ക് ഇനിപ്പറയുന്നവ കഴിയില്ല:
+
+"<li>നിങ്ങളുടെ ക്ലൗഡ് അക്കൗണ്ടിലേക്ക് സൈൻ ഇൻ ചെയ്യുക</li>"
+
+"<li>സോഫ്റ്റ്‌വെയർ അപ്‌ഡേറ്റുകൾ സ്വീകരിക്കുക</li>"
+
+"<li>തീയതിയും സമയവും സ്വയമേവ സജ്ജമാക്കുക</li></string>
+</resources>

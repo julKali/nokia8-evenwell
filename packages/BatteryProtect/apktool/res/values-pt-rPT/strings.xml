@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Partilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Partilhar com a aplicação %s</string>
+    <string name="abc_toolbar_collapse_description">Reduzir</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Cancelar</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Cancelar</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"O seu telefone está a ficar quente, pelo que está a executar procedimentos para arrefecer. Poderá continuar a utilizá-lo, mas poderá constatar que:
+·O carregamento pode ser colocado em pausa.
+·O Wi-Fi poderá ser desativado.
+·As aplicações poderão ser fechadas.
+·O modo de avião poderá ser ativado.
+O seu telemóvel voltará ao normal quando arrefecer."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Notificações gerais</string>
+    <string name="fih_battery_protect_high_full_charging">Foi atingido o limite de carregamento máximo a altas temperaturas! Quando a temperatura do telemóvel regressar ao normal, o sistema continuará a ser carregado à velocidade normal.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Foi atingido o limite de carregamento a alta temperatura</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Utilize a bateria original para carregar para evitar danos permanentes/físicos ao seu dispositivo.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Utilize a bateria original</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Carregamento parado</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">A bateria é inválida</string>
+    <string name="fih_battery_protect_low_full_charging">Foi atingido o limite de carregamento máximo a baixas temperaturas! Quando a temperatura do telemóvel regressar ao normal, o sistema continuará a ser carregado à velocidade normal.</string>
+    <string name="fih_battery_protect_low_full_charging_title">Foi atingido o limite de carregamento a baixa temperatura</string>
+    <string name="fih_battery_protect_notification_cooling_down">A arrefecer</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_power_off">Desligar</string>
+    <string name="fih_battery_protect_tap_learn_more">Toque para saber mais.</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

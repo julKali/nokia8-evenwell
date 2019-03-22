@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">Aus</string>
+    <string name="abc_capital_on">An</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Freigeben für</string>
+    <string name="abc_shareactionprovider_share_with_application">Mit %s teilen</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="accessibility_text">Bedienungshilfen</string>
+    <string name="account_intro_description">[BRAND_NAME]-Dienste verbessern die Möglichkeiten des Geräts.</string>
+    <string name="account_intro_title">[BRAND_NAME]-Dienstekonto</string>
+    <string name="add_baidu_button_label">Anmelden 百度云</string>
+    <string name="add_infocus_service_account">[BRAND_NAME]-Dienstekonto hinzufügen</string>
+    <string name="back_btn_lebel">ZURÜCK</string>
+    <string name="backup_and_restore_description">"Ein zuvor gesichertes Konto lässt sich auf diesem Telefon wiederherstellen.
+
+Sie können die Sicherungseinstellungen jederzeit ändern"</string>
+    <string name="backup_and_restore_title">Sichern/Wiederherstellen</string>
+    <string name="baidu_intro_description">Nutzen Sie mit einigen einfachen Schritten die nahtlose Cloud-Speicher-Integration mit 百度云.</string>
+    <string name="baidu_intro_title">Cloud-Speicher für Baidu</string>
+    <string name="baidu_progress_dialog_des">Bitte warten...</string>
+    <string name="choose_timezone">Zeitzone wählen</string>
+    <string name="datausage_dialog_negitive_btn">Cancel</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Einstellungen für Datum &amp; Uhrzeit</string>
+    <string name="date_and_time_settings_summary">Datum, Uhrzeit, Zeitzone und Formate festlegen</string>
+    <string name="date_and_time_settings_title">Datum &amp; Zeit</string>
+    <string name="date_and_time_settings_title_setup_wizard">Datum und Uhrzeit einstellen</string>
+    <string name="date_picker_title">Datuma :</string>
+    <string name="date_time_24hour">24-Stunden-Format</string>
+    <string name="date_time_auto">Automatisches Datum &amp; Uhrzeit</string>
+    <string name="date_time_auto_summaryOff">Per Netzwerk bereitgestellte Zeit nutzen</string>
+    <string name="date_time_auto_summaryOn">Per Netzwerk bereitgestellte Zeit nutzen</string>
+    <string name="date_time_date_format">Datumsformat auswählen</string>
+    <string name="date_time_set_date">Datum festlegen</string>
+    <string name="date_time_set_time">Uhrzeit festlegen</string>
+    <string name="date_time_set_timezone">Zeitzone auswählen</string>
+    <string name="device_checking_message">Willkommen</string>
+    <string name="dropbox_fih_description">Kostenlos 2 GB Dropbox-Speicher zum automatischen Speichern von Fotos und Videos.</string>
+    <string name="dropbox_fih_signin">Bei Dropbox anmelden</string>
+    <string name="dropbox_fih_signup">Dropbox registrieren</string>
+    <string name="emergency_dial_hmd_message">Notruf</string>
+    <string name="emergency_dial_message">Notruf</string>
+    <string name="expand_button_title">Erweitert</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] Software Nutzungsbedingungen
+ 
+ Gültig ab: 20. Mai 2016
+ 
+ Die nachfolgenden Nutzungsbedingungen (\"Bedingungen\") bilden eine rechtliche Vereinbarung in hinsichtlich der Nutzung der [BRAND_NAME_PROXY] Software zwischen Ihnen und der [BRAND_NAME_PROXY] Inc. sowie deren Beauftragten Commtiva Technology Ltd. (gemeinsam \"[BRAND_NAME_PROXY]\"). Die Bedingungen beziehen sich auf Ihre Nutzung der [BRAND_NAME_PROXY] Software, einschließlich Download, Installation, automatische Verlängerung (\"Software Service\"). Mit Ihrer Nutzung der [BRAND_NAME_PROXY] Software verpflichten Sie sich zur Einhaltung der Bedingungen; wenn Sie den Bedingungen nicht zustimmen, dürfen Sie die [BRAND_NAME_PROXY] Software nicht herunterladen, duplizieren, nutzen oder behalten.
+ 
+ 1. Nutzungsbedingungen
+ Solange Sie diese Bedingungen einhalten gewährt [BRAND_NAME_PROXY] Ihnen eine persönliche, nichtausschließliche, nichtübertragbare, widerrufbare und begrenzte Nutzung der [BRAND_NAME_PROXY] Software Services. [BRAND_NAME_PROXY] installiert Objektcode auf Ihrem [BRAND_NAME_PROXY] Smart-Mobilgerät ( \" [BRAND_NAME_PROXY]Handset\") über das Internet. Sie erkennen an und stimmen zu, dass die [BRAND_NAME_PROXY] Software auf Ihrem [BRAND_NAME_PROXY] Handset nicht für gewerbliche Zwecke genutzt oder an Dritte übertragen werden darf.
+ Sie verpflichten sich ferner, die [BRAND_NAME_PROXY] Software nicht in folgender Weise zu nutzen:
+ (a) Cracking der [BRAND_NAME_PROXY] Software (einschließlich der zugrunde liegenden Technologien) oder Verwenden der [BRAND_NAME_PROXY] Software auf Geräten ohne Marke [BRAND_NAME_PROXY];
+ (b) Analyse, Dekompilation, Zurückentwickeln, Decodieren, Kopieren, Modifizieren der [BRAND_NAME_PROXY] Software oder Erstellen abgeleiteter Werke für die genannten Zwecke;
+ (c) Handlungen einschließlich aber nicht beschränkt auf Übertragung, Leasing, Verleihen oder Sublizenzierung im Widerspruch mit den Bedingungen und Veröffentlichung der [BRAND_NAME_PROXY] Software oder Zulassung von Nutzung, Zugriff oder Besitz der [BRAND_NAME_PROXY] Software durch Dritte;
+ (d) Entfernen von Eigentumshinweisen, Logos oder Marken aus der [BRAND_NAME_PROXY] Software oder Dokumenten ohne vorherige schriftliche Zustimmung durch [BRAND_NAME_PROXY];
+ (e) Verwenden der [BRAND_NAME_PROXY] Software in Widerspruch zu geltendem Recht oder unter Verletzung der Rechte Dritter;
+ (f) Verwenden der [BRAND_NAME_PROXY] Software in Umgebungen, in denen dies untersagt oder eingeschränkt ist. Dazu zählen auch Flugkontrollbereiche, Tankstellen, Kernkraftanlagen; oder
+ (g) Verwenden der [BRAND_NAME_PROXY] Software auf eine durch die Bedingungen untersagte Art und Weise.
+ 
+ Zur Gewährleistung der ordnungsgemäßen Funktion von [BRAND_NAME_PROXY] Handset und [BRAND_NAME_PROXY] Software versichern Sie, etwaige Aufkleber auf Ihrem [BRAND_NAME_PROXY] nicht ohne Unterstützung von [BRAND_NAME_PROXY] Personal zu zerstören. Die genannten unberechtigten Handlungen beeinträchtigen den Umfang und Zeitraum der Ihnen von [BRAND_NAME_PROXY] eingeräumten Garantie.
+ 
+ 2. Datenschutzrichtlinie
+ Sie akzeptieren und stimmen zu, dass [BRAND_NAME_PROXY] Daten wie unter anderem IMEI/MEID, HW-Version, SW-Version, Gesamtzeit, SKU-ID, Ausfallstatistiken und BS Version Ihres [BRAND_NAME_PROXY] Handset (\"Daten\") erfassen und speichern kann. 
+ Falls [BRAND_NAME_PROXY] zur Weitergabe von Daten an behördliche oder gerichtliche Institutionen verpflichtet ist, wird [BRAND_NAME_PROXY] dies im erforderlichen Umfang tun.
+ 
+ [BRAND_NAME_PROXY] Handset informiert [BRAND_NAME_PROXY] über den Status, wenn das [BRAND_NAME_PROXY] Handset für mindestens 14 Tage dem Kaufdatum nicht mit dem Mobilfunknetz verbunden war.
+ 
+ Nähere Einzelheiten siehe [BRAND_NAME_PROXY] Datenschutzbestimmungen.
+ 
+ 3. Unterstützungsleistung
+ [BRAND_NAME_PROXY] erbringt Softwaredienste einschließlich und ohne Beschränkung auf Aktualisierungen und Upgrades Ihrer [BRAND_NAME_PROXY] Software gemäß dem jeweils aktuellen Status, den [BRAND_NAME_PROXY] vom [BRAND_NAME_PROXY] Handset abruft.
+ [BRAND_NAME_PROXY] stellt bei Ihrer Nutzung Ihrer [BRAND_NAME_PROXY] Software über das Internet Aktualisierungen, Patches oder zusätzliche Elemente für Ihre [BRAND_NAME_PROXY] Software bereit, die den Bedingungen unterliegen.
+ 
+ [BRAND_NAME_PROXY] behält sich vor, Ihren Anspruch auf [BRAND_NAME_PROXY] Services über das Internet zu beenden, um die reibungslose Nutzung von [BRAND_NAME_PROXY] Software und Service sicherzustellen.
+ [BRAND_NAME_PROXY] wird Folgeversionen der [BRAND_NAME_PROXY] Software veröffentlichen und Sie zur Verwendung der aktuellsten BS-Version auffordern.
+ 
+ 4. Automatisches Update
+ Zur Stärkung und Verbesserung Ihres [BRAND_NAME_PROXY] Handsets, ist dieses zum automatischen Herunterladen der neuesten Firmware und Software von [BRAND_NAME_PROXY] konfiguriert.
+ 
+ Zur Gewährleistung der Sicherheit und Stabilität Ihres [BRAND_NAME_PROXY] Handsets verpflichten Sie sich zur Befolgung der erforderlichen Anweisungen für solche Einstellungen sowie der Anweisungen von [BRAND_NAME_PROXY]. Ihr Einverständnis zum Herunterladen der neuesten Firmware und Software erstreckt sich auch auf diese Verlängerung und Installation.
+ 
+ Zur Vermeidung des Verlustes Ihrer eigenen Dokumente, Fotos, Texte, Tondateien, Videodateien und anderer elektronischer Aufzeichnungen, die bei der Durchführung von Updates am [BRAND_NAME_PROXY] Handset zerstört werden können, sind Sie verantwortlich für die Sicherung der dieser auf Ihrem [BRAND_NAME_PROXY] Handset gespeicherten elektronischen Aufzeichnungen, bevor Sie die neueste Version von Firmware oder Software herunterladen.
+ 
+ Die automatischen oder mit Ihrer nachrichtlichen Zustimmung durchgeführten Aktualisierungen des [BRAND_NAME_PROXY] Handsets bedeuten Ihre Zustimmung zu den folgenden Inhalten:
+ (a) Software-Update:
+ Sie stimmen zu und erkennen an, dass [BRAND_NAME_PROXY] die Softwareversion und den Aktualisierungsstatus auf Ihrem [BRAND_NAME_PROXY] Handset im Wege der Internetverbindung prüfen kann. Wenn [BRAND_NAME_PROXY] eine Aktualisierungsnachricht ausgibt, erlaubt Ihnen [BRAND_NAME_PROXY] die Aktualisierung von [BRAND_NAME_PROXY] Softwareversionen und Status durch den [BRAND_NAME_PROXY] Service.
+ Wenn neue [BRAND_NAME_PROXY] Software verfügbar ist, stimmen Sie der entsprechenden Benachrichtigung durch [BRAND_NAME_PROXY] an Sie zu. Wenn Sie die neuen verfügbaren Aktualisierungen bestätigen, stimmen Sie zu, dass [BRAND_NAME_PROXY] Ihr [BRAND_NAME_PROXY] Handset automatisch aktualisiert.
+ (b) Synchronisierung und Aktualisierung von Inhalten:
+ Nach der Verbindung Ihres [BRAND_NAME_PROXY] Handsets mit Ihrem Computer oder anderem Gerät aktualisiert das [BRAND_NAME_PROXY] Handset automatisch zugehörige Inhalte und andere Informationen (z. B. Kontaktdaten, Kalender, Lesezeichen und Dateien).
+ 
+ 5. Vorbehalt aller Eigentums- und anderen Rechte an der [BRAND_NAME_PROXY] Software
+ Sie sind lediglich zur Nutzung der [BRAND_NAME_PROXY] Software und Services lizenziert. [BRAND_NAME_PROXY] [BRAND_NAME_PROXY], ihre Tochtergesellschaften und Lieferanten behalten alle Rechte an der Software einschließlich aber nicht beschränkt auf Eigentums-, Copyright- oder Urheberrecht.
+ 
+ Alle genannten Rechte an der [BRAND_NAME_PROXY] Software sind durch örtliche Gesetze und internationale Verträge geschützt.
+ 
+ 6. Haftungsausschluss
+ [BRAND_NAME_PROXY] gewährt keinerlei ausdrücklichen oder konkludenten Zusagen oder Garantien. Dies bezieht sich insbesondere auch auf stillschweigende Garantien der Handelsüblichkeit in Bezug auf zufriedenstellende Qualität und Eignung für einen bestimmten Zweck oder Nichtverletzung von Rechten. 
+ [BRAND_NAME_PROXY] garantiert nicht, dass:
+ (a) [BRAND_NAME_PROXY] Services, die Sie erhalten, genau oder zuverlässig sind; oder
+ (b) [BRAND_NAME_PROXY] Service unterbrechungsfrei, pünktlich und sicher bereitgestellt wird; oder
+ (c) Mängel oder Fehler in der Ihnen bereitgestellten Software sofort behoben werden.
+ 
+ [BRAND_NAME_PROXY] haftet nicht für Verlust oder Schaden infolge von Viren und anderen technisch schädlichen Materialien, die Ihr [BRAND_NAME_PROXY] Handset, Programme, Daten oder andere proprietäre Materialien aufgrund Ihrer Nutzung der [BRAND_NAME_PROXY] Services infizieren können. Ihr Zugriff auf alle Inhalte und anderen Materialien, die Sie durch [BRAND_NAME_PROXY] herunterladen oder erlangen erfolgt auf eigene Gefahr, und Sie sind ausschließlich verantwortlich für etwaige Schäden an Ihrem [BRAND_NAME_PROXY] Handset oder Verlust von Daten oder Inhalten, die aus dem Herunterladen von Software resultieren.
+ 
+ 7. Haftungsbeschränkung und ausschließliches Rechtsmittel
+ [BRAND_NAME_PROXY] haftet nicht für resultierende, zufällige, indirekte oder Strafschadenersatz oder Schäden aus entgangenen Gewinnen oder Vertraulichkeit anderer Informationen, für Geschäftsunterbrechung, Körperverletzung, Sachschaden, Verlust der Privatsphäre, Verletzungen von Treuepflichten, angemessener Sorge oder aus Fahrlässigkeit.
+ Soweit rechtlich zulässig, ist die höchstmögliche Gesamthaftung von [BRAND_NAME_PROXY] Ihnen gegenüber und Ihre ausschließlichen Rechtsmittel aus den Bedingungen für sämtliche Schäden, Verletzungen, Sachschäden und Verluste aus sämtlichen Ansprüchen oder Rechtsverfahren im Zusammenhang oder in Bezug auf die Bedingungen zur Deckung Ihrer tatsächlich entstandenen Schäden auf zehn US-Dollar (10 USD) begrenzt. 
+ 
+ Mehrere Ansprüche oder Verfahren im Zusammenhang oder in Bezug auf die Bedingungen bedeuten keine Erweiterung der Haftungsbegrenzung und stellen in dem weitestgehend gesetzlich zulässigen Umfang Ihr alleiniges und einziges Rechtsmittel dar.
+ 
+ Falls ein zuständiges Gericht die obige Haftungsbegrenzung für undurchsetzbar erachtet, wird diese insoweit nicht anwendbar. Stattdessen ist die Aussage begrenzt auf zehn Dollar durch \"begrenzt auf den Wert der Transaktion, hinsichtlich derer Haftung entstanden ist\" zu ersetzen.
+ 
+ Ansprüche oder Rechtsverfahren im Zusammenhang oder in Bezug auf die Bedingungen müssen binnen eines Jahres nach Entstehen der Ursache geltend gemacht werden. 
+ 8. Entschädigung
+ Sie verpflichten sich, [BRAND_NAME_PROXY], seine Aktionäre, Geschäftsführer, Manager, Interessenparteien, Mitarbeiter, Tochtergesellschaften und assoziierte Gesellschaften von allen Forderungen, Verlusten, Haftungen, Ansprüchen oder Kosten (einschließlich Anwaltsgebühren) freizustellen, die gegen [BRAND_NAME_PROXY] von Dritten aufgrund von, infolge oder in Verbindung mit Ihrer missbräuchlichen, die Rechte Dritter verletzenden Nutzung von [BRAND_NAME_PROXY] erhoben werden.
+ 
+ 9. Beendigung des Dienstes
+ Sie dürfen die [BRAND_NAME_PROXY] Services nicht rechtmäßig nutzen, wenn Sie gegen die Bedingungen verstoßen. In diesem Fall müssen Sie alle Kopien der [BRAND_NAME_PROXY] Software vernichten und entfernen. In der Zwischenzeit wird die Garantie Ihres eigenen [BRAND_NAME_PROXY] Handsets beeinträchtigt.
+ Im Falle eines oben genannten Verstoßes hat [BRAND_NAME_PROXY] das Recht zu folgenden Maßnahmen:
+ (a) Sofortige Beendigung Ihres Rechts zum Zugriff auf das [BRAND_NAME_PROXY]-Konto und/oder
+ (b) Sperrung Ihres zukünftigen Zugriffs auf das [BRAND_NAME_PROXY] Service-Konto
+ 
+ Sie erkennen ferner an, dass Verstöße gegen die Bedingungen irreparablen Schaden für [BRAND_NAME_PROXY] darstellt, der über einen rein finanziellen Schaden hinausgehen kann. Deshalb stimmen Sie zu, dass [BRAND_NAME_PROXY] rechtliche und billige Ansprüche erwirken kann, die [BRAND_NAME_PROXY] unter solchen Umständen für erforderlich oder angemessen hält. Diese Rechtsmittel sind zusätzlich zu anderen Rechtsmitteln, die [BRAND_NAME_PROXY] nach Recht oder Billigkeitsrecht möglicherweise hat.
+ 
+ 10. Geltendes Recht und Gerichtsstand
+ Sie stimmen zu, dass alle Angelegenheiten in Bezug auf Meinungsverschiedenheiten hinsichtlich der Bedingungen dem Recht der Volksrepublik China (VRC) unbeachtlich seiner kollisionsrechtlichen Bestimmungen unterliegen. 
+ 
+ Sie akzeptieren die persönliche Gerichtsbarkeit und den Gerichtsstand des Bezirksgerichts von Taiwan Taipei und verzichten diesbezüglich auf Einwände.
+ 
+ Bei Streitfragen, die sich nicht im gegenseitigen Einvernehmen zwischen Ihnen und [BRAND_NAME_PROXY] lösen lassen, haben Sie oder [BRAND_NAME_PROXY] Anspruch auf Schlichtung. Führt die Schlichtung nicht innerhalb von 30 Kalendertagen zu einer Lösung, wird die Streitfrage an das oben genannte Bezirksgericht verwiesen.
+ 
+ 11. Generalklausel
+ Die Überschriften der Bedingungen dienen nur zur Information.
+ Der Verzicht von [BRAND_NAME_PROXY] auf Maßnahmen im Falle Ihres Verstoßes bedeutet keinen Verzicht auf sein Recht in Bezug auf weitere oder ähnliche Verstöße.
+ 
+ Falls Teile dieser Bedingungen durch ein zuständiges Gericht für ungültig oder nicht durchsetzbar befunden werden, dann werden diese durch eine gültige, durchsetzbare Bestimmung ersetzt, die der Absicht der ursprünglichen Bestimmung am nächsten kommt, und die übrigen Bedingungen bleiben weiter in Kraft. 
+ 
+ Sie dürfen die Bedingungen nicht abtreten oder Ihre Rechte an den Bedingungen abtreten, übertragen oder sublizenzieren.
+ 
+ [BRAND_NAME_PROXY] kann diese Bedingungen ganz oder teilweise jederzeit abtreten, auch ohne Sie zu benachrichtigen. 
+ 
+ Diese Bedingungen ersetzen alle frühere oder jetzige Kommunikation jeder Art zwischen Ihnen und [BRAND_NAME_PROXY] in Bezug auf die Site.
+ 
+ 12. Gesamte Vereinbarung
+ Die Bedingungen und Anhänge zu ihrer Verlängerung bilden die gesamte Vereinbarung zwischen Ihnen und [BRAND_NAME_PROXY] in Bezug auf die [BRAND_NAME_PROXY] Services.
+ 
+ 13. Änderungen der Bindungen
+ [BRAND_NAME_PROXY] kann einzelne Inhalte der Bedingungen im alleinigen Ermessen aktualisieren, ändern oder löschen.
+ 
+ Die jeweils aktuelle Fassung der Bedingungen finden Sie auf der Website von [BRAND_NAME_PROXY]. Diese können sich von den ursprünglichen Bedingungen unterscheiden.
+ 
+ Indem Sie erneuerte Software und das [BRAND_NAME_PROXY] Handset nutzen, stimmen Sie einer solchen Änderung zu.
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] Rechtlich</string>
+    <string name="finish_button_label">ENDE</string>
+    <string name="google_account_add_account">Über Google anmelden</string>
+    <string name="google_account_intro_description">Richten Sie ein Google-Konto für Google-Dienste ein.</string>
+    <string name="google_account_intro_title">Google-Konto</string>
+    <string name="hmd_legal_message">"Nutzungsbedingungen 
+ 
+Gültig ab: 14. Oktober 2016 
+ 
+1. Akzeptieren 
+Die vorliegenden Nutzungsbedingungen von HMD Global regeln zusammen mit der relevanten Datenschutzrichtlinie und allen anderen Bedingungen und Informationen (gemeinsam \"diese Bedingungen\" im Rahmen des Dienstes Ihre Nutzung unserer Dienste, Websites, Inhalte und Software (gemeinsam die \"Dienste\"). Durch Registrierung oder Nutzung unserer Dienste oder Teilen davon müssen Sie Ihre Zustimmung zu diesen Bedingungen erklären. 
+ 
+Diese Bedingungen stellen einen Vertrag zwischen Ihnen und HMD Global Oy (Adresse: Bertel Jungin aukio 9, 02610 Espoo, Finnland) dar (einschließlich ihrer Tochtergesellschaften und Lieferanten, gemeinsam \"HMD Global\") und legt die Rechte und Pflichten von Ihnen und von HMD Global in Bezug auf die Dienste fest. 
+ 
+2. Qualifikationen 
+Das Mindestalter für die Nutzung unserer Dienste beträgt 13 Jahre. Für Personen unter 13 Jahren oder Personen über 13 Jahren, die im jeweiligen Land als minderjährig gelten, muss die Registrierung und Zustimmung zur Nutzung unserer Dienste durch einen Elternteil oder Erziehungsberechtigten erklärt werden. Das Ausfüllen des Registrierungsformulars darf nur durch Personen erfolgen, die rechtsfähig sind. 
+ 
+3. Registrierung und Kündigung. 
+Die Teilnahme an einem bestimmten Dienst setzt die Registrierung und Erstellung eines HMD-Kontos mit Benutzernamen und Kennwort voraus (die den relevanten separaten Bedingungen entsprechen müssen). Sie müssen uns ferner auch bestimmte personenbezogene Angaben und andere Informationen angeben. HMD Global prüft vor der Benutzung Ihres HMD-Kontos Ihre E-Mail-Adresse. Bei der erstmaligen Nutzung Ihres Geräts und bei jedem Update der Software Ihres Nokia Geräts wird eine SMS an HMD Global übermittelt. Die Erstellung eines HMD-Kontos erfordert die Übermittlung relevanter Daten und die Erfassung relevanter Datenübertragungskosten. 
+ 
+Sie verpflichten sich hiermit, beim Registrieren für Dienste zutreffende und vollständige Informationen anzugeben und diese auf dem neusten Stand zu halten. Sie müssen alles in Ihrer Macht Stehende tun, um Ihren Benutzernamen und Ihr Kennwort zu schützen und deren missbräuchliche Verwendung durch andere Personen zu verhindern. Wenn Ihnen ein solcher Missbrauch bekannt wird, müssen Sie HMD Global unverzüglich darüber in Kenntnis setzen. Benutzer und bzw. (bei Minderjährigen) deren Eltern oder Erziehungsberechtigten sind verantwortlich für ihre Handlungen bei der Nutzung der Dienste. 
+ 
+Wenn Sie unsere Dienste nicht nutzen möchten, können Sie Ihre Registrierung kündigen. Nach Ihrer Kündung der Registrierung können Sie nicht mehr auf unsere Dienste zugreifen. Falls HMD Global hinreichende Anhaltspunkte vorliegen, dass Sie gegen diese Bedingungen verstoßen oder Ihren Benutzernamen seit mehr als sechs Monaten nicht mehr zur Anmeldung für einen bestimmten Dienst verwendet haben, ist HMD Global berechtigt, Ihren Zugriff auf bestimmte Dienste nach vorheriger Zusendung einer Ankündigung an Sie zu kündigen oder einzuschränken. 
+ 
+HMD Global haftet für das Löschen oder den Verlust von Informationen oder Inhalten, die Sie auf den Diensten bereitstellen, nur in dem in der Datenschutzrichtlinie festgelegten Umfang. Spuren oder Kopien der relevanten Informationen oder Inhalte können auch nach dem Löschen durch Sie oder HMD Global von den Diensten noch an anderen Speicherorten bestehen bleiben. 
+ 
+4. Lizenzen 
+HMD Global gewährt Ihnen hiermit eine nicht exklusive und nicht übertragbare Lizenz (die HMD Global im alleinigen Ermessen widerrufen kann) für den Zugriff und die Nutzung der Dienste unter der Bedingung ein, dass Sie die Bestimmungen in allen Abschnitten dieser Bestimmungen strikt einhalten. Mit der Nutzung der Dienste erwerben Sie keine geistigen Eigentumsrechte an Informationen oder Inhalten innerhalb unserer Dienste. 
+ 
+Im Rahmen der Dienste stellt Ihnen HMD Global möglicherweise bestimmte von HMD Global oder seinen Lizenznehmern entwickelte Inhalte (\"Inhalte\") bereit. HMD Global gewährt Ihnen eine nicht exklusive unbefristete Lizenz zur Nutzung der genannten Inhalte für den erwarteten Zweck, soweit in den relevanten Bedingungen oder Bestellungen nichts anderes festgelegt ist. Die Bereitstellung bestimmter Inhalte kann auf Bürger in bestimmten geografischen Regionen begrenzt werden. Sie müssen etwaige Beschränkungen, die für Ihre Nutzung bestimmter durch die Dienste erlangter Inhalte gelten, einhalten. Eine etwaige Lizenz Dritter stellt einen bindenden Vertrag zwischen Ihnen und dem externen Inhaltsbetreiber dar. Sie sind berechtigt, die Inhalte gemäß der besonderen Genehmigung in diesen Bedingungen zu nutzen. 
+ 
+Im Rahmen der Dienste stellt Ihnen HMD Global möglicherweise bestimmte von HMD Global oder seinen Lizenznehmern entwickelte Software (\"Software\") bereit. Ihre Nutzung der Software muss den gesonderten Bedingungen entsprechen, denen Sie vor der Nutzung der Software zugestimmt haben. Falls für die betreffende Software keine gesonderten Bedingungen existieren, gelten die nachfolgenden Bedingungen: HMD Global gewährt Ihnen das exklusive, nicht übertragbare Recht zur Installation und Nutzung der Software auf Ihrem Computer und/oder Mobilgerät. Mit Ausnahme einer einzigen Sicherungskopie dürfen Sie die Software nicht kopieren. Sie dürfen die nachfolgenden Rechte nicht gewähren oder übertragen: Nutzung, Modifizierung, Übersetzung, Kopieren, Wiederverkauf, Verbreitung, Verleih, Vermietung, Zurückentwicklung oder anderweitige Versuche zur Ermittlung des Quellcodes der Software oder zur Entwicklung von aus der Software abgeleiteten Produkten. Software mit Open-Source-Lizenzen unterliegt den Lizenzbedingungen der relevanten Open-Source-Lizenzen. Mit Ihrer Nutzung der Software erklären Sie sich mit der Einhaltung etwaiger geltender Bedingungen einverstanden. 
+ 
+Die Software unterliegt gegebenenfalls Exportkontrollbestimmungen im Rahmen der US-amerikanischen Exportvorschriften oder anderen Vorschriften zur Import- oder Exportkontrolle. Sie verpflichten sich zur strikten Einhaltung aller geltenden Import-/Exportvorschriften und bestätigen hiermit Ihre Verantwortung für die Erlangung aller relevanten Lizenzen, die für den Export, den Re-Export, die Übertragung oder den Import der Software erforderlich sind. 
+ 
+Sie können in die Dienste bestimmte Informationen oder Inhalte einstellen (\"Materialien\"). HMD Global beansprucht kein Eigentum an Ihren Materialien. Ihre Aktionen bei der Bereitstellung der Materialien bedeuten in keiner Weise, dass Sie das Eigentum an den Materialien an HMD Global übertragen. HMD Global ist allein für die Übertragung der Materialien verantwortlich und übernimmt keine Haftung für die redaktionelle Kontrolle solcher Inhalte. Durch die Bereitstellung der Materialien in den Diensten gewähren Sie HMD Global eine globale Lizenz, die nicht exklusiv, wiederverteilbar, übertragbar, vollständig bezahlt und frei von Lizenzgebühren, dauerhaft und unwiderruflich ist (und damit, die betreffenden Materialien auf jedem Medium zu nutzen, zu kopieren, öffentlich durchzusetzen anzuzeigen oder zu verbreiten, die Materialien zur einfacheren Eingliederung in andere Werke zu modifizieren sowie vergleichbare Unterlizenzen im Rahmen der Bereitstellungen von Diensten durch HMD Global zu gewähren). Sie können diese Lizenzen und andere Diensteinstellung in vertraulicher Weise anpassen. 
+ 
+Sie sind lediglich verantwortlich für den Zugriff auf Sicherungskopien von Daten, die Sie in die Dienste eingestellt haben (einschließlich Inhalten, die Sie hochladen). HMD Global kann Ihre Daten dauerhaft löschen, wenn die Dienste ausgesetzt oder eingestellt werden. HMD Global hat keine Verpflichtung zur Rückgabe der relevanten Daten an Sie, nachdem die Dienste ausgesetzt oder eingestellt werden. 
+ 
+5. Nutzung der Dienste 
+Sie stimmen hiermit den folgenden Nutzungsbedingungen zu: 
+• Sie halten die gültigen gesetzlichen Bestimmungen, diese Bedingungen und bewährte Verfahren sein. 
+• Sie nutzen die Dienste ausschließlich für ihre persönlichen, nicht gewerblichen Zwecke. 
+• Sie stellen keine Materialien ein, die unrechtmäßig, aggressiv, unzutreffend, irreführend, missbräuchlich, pornografisch, verleumderisch, eine Belästigung darstellen oder in anderer Weise unangemessen sind. 
+• Sie verpflichten Sie zur Erlangung aller Zustimmungen, Genehmigungen oder Lizenzen, die rechtmäßig für Ihre Bereitstellung von Materialien erforderlich sind. 
+• Sie respektieren die Privatsphäre anderer Personen. 
+• Sie verbreiten keine unerwünschten E-Mails (Junk-Mails), sehr großen Dateien, Ketten-E-Mails, Schneeballsysteme oder Viren. 
+• Sie dürfen keine Technologien verwenden oder Ereignisse/Aktivitäten initiieren, die zur Beschädigung der Dienste oder Rechte, der Interessen oder des Eigentums von Dienstnutzern führen könnten. 
+• Sie verwenden keine automatischen Systeme oder Methoden für Zugriff, Erlangung, Kopie oder Überwachung der Dienste oder Teilen davon. 
+• Sie haften für alle relevanten Folgen der Dienste, die Sie per E-Mail senden. 
+ 
+HMD Global ist für folgende Maßnahmen berechtigt (aber nicht verpflichtet): 
+• Überwachung oder Anpassung der Inhalte oder der Materialien. 
+• Löschen von Materialien aus den Diensten. 
+• Beschränkung des Zugriffs auf die Dienste oder Teile davon jederzeit im alleinigen Ermessen. 
+ 
+6. Inhalt 
+Vor dem Herunterladen oder Zugriff auf Inhalte prüfen Sie bitte, ob die gewünschten Inhalte mit Altersbeschränkungen versehen oder potenziell \"beleidigend\" oder \"suggestiv\" sind. 
+ 
+HMD Global übernimmt keine Haftung für etwaige Schadenersatzansprüche oder strafbare Handlungen in Folge oder im Zusammenhang mit Ihrem Zugriff auf die Inhalte. 
+ 
+Sie stimmen hiermit den folgenden Nutzungsbedingungen zu: 
+• Sie nutzen die Inhalte ausschließlich für Ihre persönlichen, nicht gewerblichen Zwecke. 
+• Sie beachten bei der Nutzung der Inhalte die relevanten Gesetze, ergänzenden Bestimmungen, Leitlinien und Grundsätze bzw. die für einen bestimmten Teil der Inhalte geltenden Produktseiten. 
+• Sie dürfen Inhalte nicht fotokopieren, verschenken, verkaufen, wiederverkaufen, beleihen, mieten, bereitstellen, verbreiten, senden, verteilen, übertragen, veröffentlichen, nachbilden, modifizieren, anzeigen, ausführen oder Entwickeln oder auf gewerblicher Basis bereitstellen, sofern Ihnen dies nicht separat in den geltenden Artikeln gestattet ist. Wenn Sie eine missbräuchliche Nutzung feststellen, müssen Sie HMD Global unverzüglich darüber in Kenntnis setzen. 
+• Sie dürfen etwaige geltende Nutzungsregulierungen nicht außer Kraft setzen, zurückentwickeln, entschlüsseln oder auf sonstige Weise ändern oder beeinflussen. Ebenso dürfen Sie nicht versuchen, die digitale Rechteverwaltung zu umgehen oder andere technische Schutzmechanismen kopieren, mit denen die Inhalte versehen sind oder die zur Kontrolle des Zugriffs oder der Nutzung von Inhalten oder darin enthaltener Informationen verwendet werden. 
+• Sie dürfen zur Auswahl oder zum Herunterladen von Inhalten keine anderen als die vom Unternehmen bereitgestellten automatisierten Systeme oder Methoden verwenden. 
+• Sie dürfen Ihr Kennwort nicht offenlegen oder auf sonstige Weise anderen Personen den Zugriff auf die Inhalte gestatten. 
+ 
+Etwaige geltende Beschränkungen in Bezug auf das Kopieren der relevanten Medien gelten auch für Inhalte, die Bestandteil dieser Dienste sind. 
+ 
+Die Inhalte befinden sich im Eigentum und/oder unter der Kontrolle von HMD Global und/oder seiner verschiedenen Lizenznehmer und sind durch geistige Eigentumsgesetze geschützt. Externe Inhaltsbetreiber sind nur verantwortlich für Inhalte, die sie bereitstellen, Zusicherungen, die noch nicht verfallen sind, sowie etwaige Einsprüche von Ihnen in Bezug auf die Inhalte oder Ihre Handlungen bei der Nutzung der Inhalte. HMD Global kann jedoch als Drittbegünstigter dieser Bedingungen in Bezug auf Ihre Erfüllung dieser Lizenzierungsbedingungen für Inhalte Dritter handeln. Als Drittbegünstigte dieser Bedingungen können Drittanbieter von Inhalten diese Rechte in Bezug auf die Inhalte ausüben, an denen sie Rechte besitzen. Bei der Bereitstellung von Inhalten an Sie kann HMD Global als Erfüllungsgehilfe für solche Drittbetreiber von Inhalten handeln. HMD Global ist keine Partei in Transaktionen zwischen Ihnen und Drittbetreiber von Inhalten in Bezug auf derartige Inhalte. 
+ 
+7. Erklärung zu Urheberrechtsverletzungen 
+HMD Global respektiert die Rechte am geistigen Eigentum (Intellectual Property, IP) Dritter. Wenn Sie eine Verletzung von IP-Rechten (einschließlich Ansprüche wegen der Verletzung von Rechten) geltend machen möchten, verwenden Sie hierzu bitte unser Verfahren zur Anzeige von Rechteverletzungen. Anfragen, die für dieses Verfahren nicht relevant sind, werden nicht beantwortet. 
+ 
+HMD Global beantwortet alle Anzeigen in Bezug auf Copyright-Verletzungen mit dem Verfahren, das in Chapter 17, Article 512 des United States Code (USC) vorgeschrieben ist. Unter den relevanten Umständen kann HMD Global die Nutzung Ihres Benutzerkontos für HMD Global-Dienste untersagen oder kündigen (solche Benutzer könnten wiederholte Rechteverletzer sein). 
+ 
+8. Benachrichtigung 
+HMD Global kann Benachrichtigungen senden, die im Rahmen der Dienste relevant sind. HMD Global kann auch Benachrichtigungen in Bezug auf Produkte und Dienste an uns von Ihnen angegebene E-Mail-Adresse oder Telefonnummer senden. Solche Benachrichtigungen gelten von Ihnen innerhalb von 7 Tagen ab dem Datum als empfangen, an dem sie von HMD Global gesendet oder per E-Mail verschickt wurden. Durch die weitere Nutzung unserer Dienste wird angenommen, dass Sie alle von uns gesendeten Benachrichtigen erhalten haben (gilt nicht für Benachrichtigungen in Bezug auf Zahlungsmethoden). 
+ 
+9. Entgelte 
+Für die Nutzung der Dienste sind von Ihnen gegebenenfalls bestimmte Entgelte zu entrichten. 
+ 
+Alle von HMD Global erhobenen Entgelte werden einzeln in Bezug auf den Dienst aufgeführt. 
+ 
+Die Nutzung der Dienste kann die Übertragung bestimmter Daten durch das Netzwerk des Dienstbetreibers beinhalten. Dienstpreise verstehen sich ohne Entgelte für Datenübertragung, SMS-Mitteilungen, Sprachdienste oder andere von Ihrem Netzdienstanbieter festgelegte Dienstbereitstellungsentgelte. 
+ 
+HMD Global ist nicht verantwortlich für die Entrichtung von Entgelten, die von Ihrem Dienstanbieter erhoben werden. 
+ 
+10. Bestellung und Zahlungsbedingungen 
+In der \"Bestellung\" muss Folgendes angegeben sein: 
+ 
+Wenn Sie eine Dienstbestellung senden möchten, müssen Sie gemäß den Bestimmungen der geltenden Gesetze das Alter der Geschäftsfähigkeit oder Volljährigkeit erreicht haben. Wenn Sie noch nicht geschäftsfähig oder volljährig sind, dürfen Sie eine Bestellung nur nach Erlangung der Zustimmung Ihres Elternteils oder Erziehungsberechtigten senden. 
+ 
+Sie erkennen hiermit an, dass alle Bestellungen rechtskräftig und rechtlich bindend sind. Alle Bestellungen müssen durch HMD Global angenommen werden. 
+ 
+Sie können mit Kredit- oder Debit-Karte, über die Zahlungsmethode Ihres Internetanbieters oder durch andere Zahlungsmethoden bezahlen. 
+ 
+Ihre Kredit- oder Debitkarte muss eine Zahlungsadresse in dem Land besitzen, in dem die Dienste bereitgestellt werden. HMD Global wird innerhalb einer angemessenen Frist nach Ihrer Einsendung einer Bestellung den Betrag Ihrer Kreditkarte belasten oder von Ihrer Bankkarte einziehen. 
+ 
+Alle Kreditkartenzahlungen müssen Gültigkeitsprüfungen unterzogen und durch den Kartenaussteller autorisiert werden. 
+ 
+Wenn Sie die Bezahlungsmethode über den Netzdienstanbieter wählen, werden die relevanten Entgelte an Ihre Mobilfunkrechnung gesendet oder von Ihrem Prepaid-Guthaben abgebucht. Manche Netzdienstanbieter legen Zusatzbedingungen für Ihre Nutzung der Dienste fest. Dazu zählt unter anderem auch die Festlegung von Obergrenzen für Ihre Netzdienstentgelte. Entgelte, welche die Obergrenzen des Netzdienstbetreibers oder Ihr Guthaben überschreiten, können abgelehnt werden. 
+ 
+Sie verpflichten sich zur Entrichtung der relevanten Entgelte für Ihre Bestellung und sorgen dafür, dass das Zahlungsmittel für den Bestellzeitraum gültig ist, dass Sie der rechtmäßige Inhaber des Zahlungsmittels sind und dass Sie das Zahlungsmittel innerhalb des Kreditrahmens nutzen werden. 
+ 
+Sie erhalten die Lizenz zur Nutzung aller Inhalte, die Ihnen bereitgestellt wurden. Sie verpflichten sich, die Inhalte nur gemäß diesen Bedingungen und etwaigen Zusatzbestimmungen im Bestellprozess zu nutzen. 
+ 
+Die Dienste stellen Abonnementinhalte bereit. Während des Abonnementzeitraums autorisieren Sie uns zur Leistung eines regelmäßigen Entgelts innerhalb des Dienstes. Die Dienste können einen Probezeitraum beinhalten. Wenn Ihre Bestellung einen bestimmten Probezeitraum beinhaltet (auch als Kauf nach Probenutzung bezeichnet), werden Ihnen die relevanten Entgelte nach Ablauf des Probezeitraums belastet, falls Sie keine Kündigung gemäß den Abonnement-/Probebedingungen aussprechen. 
+ 
+Die Dienstpreise können jederzeit geändert werden. Sofern nicht anderweitig festgelegt enthalten die Dienstpreise die relevanten Steuern, die zum Zeitpunkt der Transaktion gelten. Etwaige Zusatzentgelte können bei Ihrem Bank- oder Kreditkartenanbieter auf der Basis der Wechselkurse für die verwendete Währung und/oder die festgesetzten Zusatzentgelte erhoben werden. 
+ 
+11. Stornierung und Rückerstattungen 
+Sie stimmen zu, dass wir die relevanten Inhalte in elektronischer Form erbringen, nachdem Sie eine Bestellung senden. Nach der Bearbeitung Ihrer Bestellung kann diese nicht mehr storniert werden und die relevanten Inhalte können nicht mehr zurückgegeben werden. 
+ 
+Wenn Sie feststellen, dass einer der nachfolgenden Umstände nach dem Versenden Ihrer Bestellung zutrifft, verständigen Sie unverzüglich HMD Global innerhalb von 48 Stunden: (a) Die bestellten Inhalte sind fehlerhaft; (b) Es bestehen Diskrepanzen zwischen den von Ihnen über den Dienst bestellten Inhalten und den von HMD Global bereitgestellten Inhalten; (c) Die Bereitstellung der Inhalte an Sie wurde durch erhebliche technische Probleme verzögert, oder derartige technische Probleme haben zu Mehrfachbestellungen geführt. Unter solchen Bedingungen besteht Ihr einziger und ausschließlicher Rechtsbehelf in Bezug auf die Inhalte im Umtausch der Inhalte oder in der Rückerstattung des für die betreffenden Inhalte entrichteten Entgelts; HMD Global trifft spezifische Entscheidungen auf der Basis der jeweiligen Umstände. 
+ 
+Außer den genannten Erstattungen werden keine Rückerstattungen geleistet. Bitte wenden Sie sich an die Kundendienstabteilung von HMD Global, wenn Sie die oben genannten technischen Probleme feststellen. 
+ 
+Bitte beachten: Ohne Angabe Ihrer Transaktions-ID (die Ihnen von HMD Global nach Einsendung der Dienstbestellung bereitgestellte Transaktions-ID) kann die Kundendienstabteilung von HMD Global Ihre Kundensupport-Anfrage nicht bearbeiten. Falls der Gesamtpreis den von den relevanten örtlichen Gesetzen festgelegten Höchstbetrag überschreitet, wird HMD Global die Rückerstattung der Inhaltsentgelte veranlassen. 
+ 
+12. Feedback an HMD Global. 
+Wenn Sie Meinungen, Feedback und/oder Vorschläge an HMD Global über den Dienst oder andere Methoden übermitteln (\"Feedback\") bestätigen Sie damit Ihre Anerkennung der folgenden Bedingungen: (1) HMD Global besitzt Entwicklungsideen ähnlich dem Feedback; (2) Ihr Feedback enthält keine vertraulichen oder exklusiven Informationen in Bezug auf Sie oder einen Dritten; (3) HMD Global hat keine Vertraulichkeitspflichten in Bezug auf Ihr Feedback; (4) HMD Global kann solches Feedback frei für jeden Zweck nutzen, verbreiten, entwickeln, weiterentwickeln und modifizieren; (5) Es bestehen Ihrerseits keine Ansprüche auf Vergütung jeglicher Art von HMD Global. 
+ 
+13. Soziale Aktivitäten und Standortfreigabe 
+Sie können die Funktionen in den Diensten dazu verwenden, um Ihren Standort, Ihren Status, Materialien oder personenbezogene Daten für andere Benutzer, Websites und Dienste freizugeben oder mit ihnen zu interagieren. Durch die Nutzung dieser Funktionen erklären Sie sich einverstanden, dass HMD Global die betreffenden Informationen nutzen sowie an andere Serviceorganisationen und Mitarbeiter weitergeben darf, die Sie zur Interaktion oder Freigabe ausgewählt haben. Diese Dienstbenutzer und Mitarbeiter, beispielsweise Ihre Kontakte, können Ihre Daten in Bezug auf Standort Status und/oder personenbezogenen Daten sehen. Während der Nutzung dieser Funktionen erklären Sie sich einverstanden, keine Daten, Inhalte oder Materialien freizugeben oder Links zu Diensten oder Websites einzurichten, wenn diese: (a) unrechtmäßige oder unangemessene Inhalte oder andere Materialien enthalten; oder (b) eine nicht autorisierte Entwicklung von IP-Rechten darstellen oder Benutzer zur Beteiligung an der Herstellung von Plagiaten ermutigen. Alle Interaktionen finden zwischen Ihnen und anderen Benutzern statt und erfolgen als solches ohne Beteiligung von HMD Global. 
+ 
+14. Verfügbarkeit und technische Anforderungen 
+Die Verfügbarkeit von Inhalten und Diensten kann sich ändern und unterliegt dem alleinigen Ermessen von HMD Global. HMD Global lehnt ausdrücklich alle etwaigen Garantieerklärungen in Bezug auf die Verfügbarkeit bestimmter Inhalte oder Dienste ab. HMD Global erbringt seine Dienste nicht in allen Ländern und stellt die Dienste nur in einigen ausgewählten Sprachen bereit. Die Dienste sowie deren Betrieb und bestimmte Funktionen werden auch anhand der Kompatibilität und der unterstützten Inhaltsformate der verwendeten relevanten Netzwerke und Geräte bestimmt. 
+ 
+Zum Zugriff auf die Dienste müssen Sie bestimmte Software oder Teile davon von HMD Global oder einem anderen Entwickler herunterladen. 
+ 
+HMD Global kann den Dienst oder Teile davon aufgrund der jeweiligen Umstände modifizieren, berichtigen oder aussetzen. Dabei erfolgt in der Regel keine Bereitstellung von Diensten während der Wartung und anderen Zeiten. Zur Sicherstellung, dass Sie über die neuesten Versionen der Gerätesoftware und Anwendungen verfügen, kann Ihr Gerät automatisch die Möglichkeit der Aktualisierung der Software von HMD Global prüfen. Wenn das Vorliegen von Updates erkannt wird, werden Sie benachrichtigt, um deren Installation zu bestätigen. Sie können das Gerät so konfigurieren, dass die Funktion zur automatischen Prüfung auf Updates deaktiviert wird. Sie können Software über die bereitgestellten Software-Update-Kanäle installieren. Wenn HMD Global der Auffassung ist, dass ein Software-Update äußerst wichtig ist, sollten Sie die frühere Version der betreffenden Software nicht mehr nutzen. HMD Global kann nach der Installation der Updates Ihre Nutzung früherer Versionen der Software oder Dienste verhindern. 
+ 
+HMD Global kann zum Schutz der Dienste, Anwendungsanbieter sowie der Mobilfunkanbieter, über deren Netze Sie auf die Dienste zugreifen, oder anderer tatsächlich oder potenziell betroffener Parteien die Nutzung beliebiger Inhalte oder Software in Ihrem Dienstkonto deaktivieren, Inhalte oder Software entfernen, und/oder Kopien von Anwendungen auf Ihrem Bestellgerät deaktivieren. 
+ 
+Spezifische Dienste können in Form von Vorabversionen (z. B. Testversionen) angeboten werden und funktionieren nicht unbedingt auf dieselbe Weise wie die endgültige Version. HMD Global kann wesentliche Änderungen an den Dienst- oder Softwareversionen vornehmen oder beschließen, keine Endversion herauszugeben. 
+ 
+15. Links auf Websites und Inhalte Dritter 
+HMD Global kann Zugriffspfade auf andere Sites und Dienste auf seinem Internet oder dem vorab heruntergeladenen Client bereitstellen und Ihnen dadurch die Möglichkeit zur Interaktion mit Sites oder Diensten ermöglichen, die sich im Eigentum oder im Betrieb von Dritten befinden (solche Sites und Dienste zählen nicht zu den Diensten gemäß diesen Bedingungen). Vor der Nutzung derartiger Sites und Dienste müssen Sie deren Nutzungsbedingungen lesen und ihnen zustimmen. 
+ 
+HMD Global hat kein Recht zur Kontrolle der Inhalte, Websites oder Dienste von Drittanbietern. Aus diesem Grund übernimmt HMD Global keine Haftung für die auf diesen Sites oder Diensten von Drittanbietern bereitgestellten Dienste oder darauf erstellten oder veröffentlichten Materialien. Ein Link zu einer bestimmten Drittanbieter-Website bedeutet in keiner Weise, dass HMD Global der Site oder den darauf erwähnten Produkten oder Diensten zustimmt. 
+ 
+Ferner können Sie und andere Benutzer relevante Inhalte und Links auf in den Diensten enthaltene Inhalte erstellen (ohne derartige Inhalte auf den in diesen Bedingungen beschriebenen Diensten bereitzustellen). HMD Global übernimmt keine Haftung für derartige Inhalte oder Links. 
+ 
+16. Werbung 
+Der Dienst kann Werbung beinhalten. Diese Werbeanzeigen verweisen auf Inhalte oder Informationen, die in den Diensten gespeichert sind, Anfragen, die durch die Dienste bereitgestellt werden, oder andere Informationen. 
+ 
+17. Personenbezogene Informationen 
+Die bereitgestellte Datenschutzrichtlinie und etwaige weitere Informationen zum Datenschutz regeln Ihre Nutzung Ihrer personenbezogenen Informationen. 
+ 
+18. Haftungsbeschränkung 
+Der Dienst wird auf der Basis der \"derzeitigen Situation\" und \"Verfügbarkeit\" bereitgestellt. HMD Global garantiert nicht, dass der Dienst unterbrechungsfrei funktioniert oder frei von Fehlern oder Viren ist. HMD Global gibt keine expliziten oder impliziten Garantien für die Verfügbarkeit, Richtigkeit, Zuverlässigkeit, Informationen oder Inhalte der Dienste. Dazu zählen insbesondere auch Eigentumsrechte, Garantien der Nichtverletzung von Rechten, Garantien der Verkaufsfähigkeit oder Garantien der Eignung für einen bestimmten Zweck. Sie stimmen ausdrücklich zu und sind sich darüber im Klaren, dass die Risiken bei der Nutzung der Dienste bei Ihnen liegen und dass Sie auf Inhalte von unterschiedlichen Quellen stoßen können. 
+ 
+Unter Ausschluss der Haftung für Tod oder Körperverletzung infolge grober Fahrlässigkeit oder rechtswidriger Handlungen übernimmt HMD Global keine Haftung für indirekte, zufällige oder strafrechtliche Schäden, die durch Ihre Nutzung oder verhinderte Nutzung der Dienste verursacht werden. 
+ 
+19. Schadenersatz 
+Sie verpflichten sich zum Ausgleich und zur Entschädigung von HMD Global in Bezug auf alle von Dritten erhobenen Schadenersatzansprüche und Haftung, Steuerverpflichtungen, Verluste, Kosten oder Schäden, die aus den folgenden Inhalten entstehen: (i) Sie verstoßen gegen diese Bedingungen; (ii) Sie beeinträchtigen oder verletzen IP-Rechte, andere Rechte oder die Privatsphäre von Dritten; (iii) Missbrauch der Dienste durch Dritte, wenn dieser Missbrauch auf Ihre Nichtergreifung angemessener Maßnahmen zur Verhinderung des Missbrauchs Ihres Benutzernamens und Ihres Kennworts zurückzuführen ist. 
+ 
+20. Sonstiges 
+ 
+20.1 Anzuwendendes Recht 
+Diese Bedingungen unterliegen der Gerichtsbarkeit der Gesetze von Finnland (ohne Berücksichtigung der darin festgelegten Bestimmungen in Bezug auf Rechtskonflikte). 
+ 
+20.2 Gültigkeit 
+Diese Bedingungen bedeuten keinerlei Ausschluss oder Beschränkung Ihrer gesetzlichen Rechte, auf die Sie in Ihrem Wohnsitzland nicht verzichtet haben. Sollten einzelne Bestimmungen dieser Bedingungen für ungültig erachtet werden, wird dadurch die Gültigkeit der übrigen Bestimmungen nicht beeinflusst. Die ungültigen Bestimmungen sind durch gültige Bestimmungen zu ersetzen, die der Absicht und den Zielen dieser Bestimmungen am nächsten kommen. Falls eine oder mehrere Bestimmungen in diesen Bedingungen für Ihre Nutzung der Dienste unerheblich sind, hat dies keinen Einfluss auf die Gültigkeit oder Durchsetzbarkeit der übrigen Bestimmungen der Bedingungen oder dieses Absatzes. 
+ 
+Bei Widersprüchen zwischen den Nutzungsbedingungen von HMD Global und seinen Datenschutzrichtlinien sind diese Nutzungsbedingungen von HMD Global vorrangig anzuwenden. Nach Beendigung dieser Bedingungen behalten etwaige Bedingungen, welche die Beendigung Ihrer Registrierung überdauern sollen, weiterhin Gültigkeit. 
+ 
+20.3 Änderungen der Bedingungen 
+HMD Global kann diese Bedingungen jederzeit ohne separate Benachrichtigung überarbeiten. Bei wesentlichen, nachteiligen Änderungen der Bedingungen sendet HMD Global Ihnen eine separate Benachrichtigung zur Information über die Änderungen zu. 
+ 
+Sie sollten diese Bedingungen regelmäßig lesen. Durch Ihre weitere Nutzung der Dienste bestätigen Sie Ihre Zustimmung zu etwaigen daran vorgenommenen Änderungen oder Zusätzen. 
+ 
+21. Geistige Eigentumsrechte 
+Die Dienste, Inhalte und Software sind durch internationales Urheberrecht geschützt. HMD Global ist Eigentümer des Urheberrechts an seinen Diensten, Inhalten und an seiner Software in dem größtmöglich gesetzlich zulässigen Umfang. Gemäß den Bestimmungen dieser Bedingungen behält sich HMD Global alle Rechte, Eigentumsrechte und rechtlichen Interessen für die Dienste und Inhalte deren Software sowie aller anderen Produkte, Software und Vermögensgegenstände von HMD Global vor, die Ihnen über die Dienste bereitgestellt bzw. von Ihnen über die Dienste genutzt werden. 
+ 
+22. Übertragung 
+HMD Global kann seine Rechte und Pflichten aus diesen Bedingungen auf seine Muttergesellschaft oder beliebige Tochtergesellschaften oder andere Unternehmen übertragen, die gemeinsam von HMD Global kontrolliert werden. HMD Global kann seine Rechte und Pflichten aus diesen Bedingungen an beliebige Dritte übertragen, die mit HMD Global durch Fusionen, Vermögensveräußerungen, rechtliche Bestimmungen oder andere Gründe verbunden sind."</string>
+    <string name="hmd_user_experience_program_message">Ihre Teilnahme am Nutzererfahrungsprogramm hilft HMD Global, besser zu verstehen, was Ihnen an Ihrem Nokia Gerät gefällt und was Sie gerne verbessert haben möchten. Wir erhalten gelegentlich anonyme Daten mit technischen Merkmalen über Ihr Gerät, z. B. eine Datei mit Daten über etwaige Software-Abstürze. Bitte beachten Sie, dass derartige Daten nicht über eine Mobilfunkverbindung übertragen werden. Wir freuen uns, Ihre Meinung über Ihr Nokia Gerät zu erfahren!</string>
+    <string name="hmd_user_experience_program_title">Nutzererfahrungsprogramm</string>
+    <string name="idle_too_long_toast">Telefon war einige Zeit im Leerlauf. Wechsel in den Energiesparmodus.</string>
+    <string name="language_selection_cancel_btn">ABBRECHEN</string>
+    <string name="language_selection_title">Sprache auswählen</string>
+    <string name="light_room_description">%1$s unterstützt Aufnahme von RAW-Bildern (DNG). Dank unserer Partnerschaft mit Adobe ist das Bearbeiten direkt auf Ihrem neuen Smartphone möglich.&lt;br/>&lt;br/>Laden Sie jetzt Adobe Photoshop Lightroom CC aus dem Google Play Store.</string>
+    <string name="light_room_title">Leidenschaftlicher Fotograf?</string>
+    <string name="location_for_service">Verwenden Sie Mein Standort für Google-Suchergebnisse und andere Google-Dienste.</string>
+    <string name="location_info_1">Der Standortdienst von Google beinhaltet Anwendungen mit Ihrem ungefähren Standort ohne GPS-Verwendung.</string>
+    <string name="location_info_2">Sie können die Funktion unter Einstellungen, Standortdienste deaktivieren.</string>
+    <string name="location_network">Google-Standortdienst das Erfassen anonymer Standortdaten erlauben. Die Erfassung erfolgt auch, wenn keine Anwendungen laufen.</string>
+    <string name="location_title">Google-Standort verwenden</string>
+    <string name="nevigation_selection_back">Zurück</string>
+    <string name="nevigation_selection_home">Startseite</string>
+    <string name="nevigation_selection_recent">Neueste Nachrichten</string>
+    <string name="nevigation_selection_text">Sie können Hintergrundfarbe und Position der Tasten Zurück/Letzte ändern.</string>
+    <string name="nevigation_selection_title">Einstellungen für die Navigationsleiste</string>
+    <string name="next_btn_lebel">Weiter</string>
+    <string name="normal_date_format">Regional (%s)</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="setup_complete_hmd">Sie sind startklar...</string>
+    <string name="setup_complete_main">Sie sind</string>
+    <string name="setup_complete_sub">STARTKLAR.</string>
+    <string name="setup_completed_congratulations">Glückwunsch!</string>
+    <string name="sim_not_exist_toast">Prüfen, ob SIM-Karte eingelegt ist.</string>
+    <string name="skip_add_account_button_label">Später</string>
+    <string name="skip_button_label">Überspringen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Zust.</string>
+    <string name="term_disagree_text">Nicht zustimmen</string>
+    <string name="terms_of_service_description">"
+Für Dienste, die eine Netzwerkverbindung benötigen, wie Wetterdienste, Internetdienste, E-Mail, Browser usw., können zusätzliche Gebühren für mobile Daten entstehen. Zur effizienteren Nutzung Ihrer Mobildaten-Nutzungsgebühr empfehlen wir Ihnen den Erwerb des geeigneten Dienstpakets von Ihrem Betreiber.
+
+Mit Auswahl von Einverstanden erlauben Sie den Diensten die Netzverbindung, wenn erforderlich.
+
+Außerdem ist die automatische Softwareaktualisierung aktiviert. Zur Bereitstellung der neuesten Software können auch mobile Daten verwendet werden. Sie können dies jederzeit in den Einstellungen ändern.
+
+"</string>
+    <string name="terms_title">Datennutzung</string>
+    <string name="time_picker_title">Zeit:</string>
+    <string name="traffic_prompt_content">Bei Ablehnung müssen Sie Software-Aktualisierungen, Wettervorhersagen und andere Informationen manuell herunterladen.</string>
+    <string name="upload_agent_des_text">"Zum Nutzererfahrungsprogramm. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Infos&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Am Nokia Nutzererfahrungsprogramm teilnehmen. &lt;a href='launch.UserExperienceActivity://Kode'>Mehr erfahren.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Nutzererfahrungsprogramm</string>
+    <string name="v7_preference_off">AUS</string>
+    <string name="v7_preference_on">AN</string>
+    <string name="welcome_hmd_term_of_use_2">"Durch Tippen auf den Pfeil akzeptieren Sie die &lt;a href='launch.TermOfServiceActivity://Kode'>Nutzungsbedingungen&lt;/a> und die &lt;a href='launch.AddUploadAgentHandler://Kode'>Datenschutzrichtlinie&lt;/a>. Die Geräte-Aktivierungsdaten mit einmaliger Geräteortung werden an HMD Global gesendet. Datengebühren können entstehen."</string>
+    <string name="welcome_infocus_term_of_use">"Tippen auf Pfeil akzeptiert die&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Bedingungen&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">"Los geht's"</string>
+    <string name="welcome_message">Willkommen</string>
+    <string name="welcome_start_button_label">Starten</string>
+    <string name="welcome_vision_settings_button_label">Anzeigeeinstellungen</string>
+    <string name="wifi_picker_connection_des_text">Ohne WLAN-Verbindung können Kosten zur Überprüfung Ihrer Software im Mobilfunknetz anfallen.</string>
+    <string name="wifi_picker_connection_negative">Verbinden</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN-Verbindung</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Netzverbindung</string>
+    <string name="wifi_picker_warning_des_text">Das Telefon kann nur mit Internetverbindung die Aktualität Ihrer Software überprüfen.</string>
+    <string name="wifi_picker_warning_negative">Überspringen</string>
+    <string name="wifi_picker_warning_positive">Nicht überspringen</string>
+    <string name="wifi_picker_warning_title">Warnung...</string>
+    <string name="zone_auto">Automatische Zeitzone</string>
+    <string name="zone_auto_summaryOff">Vom Netzwerk angegebene Zeitzone beibehalten</string>
+    <string name="zone_auto_summaryOn">Vom Netzwerk angegebene Zeitzone beibehalten</string>
+    <string name="sugarsync_intro_description">Nutzen Sie mit einigen einfachen Schritten die nahtlose Cloud-Speicher-Integration mit SugarSync.</string>
+</resources>

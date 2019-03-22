@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button">
+        <item name="android:colorControlActivated">@color/fih_lollipop_Group6_default_accent</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:colorForeground">@color/fih_lollipop_control_foreground_gray</item>
+        <item name="android:buttonStyle">@android:style/Widget.Holo.Light.Button</item>
+        <item name="android:alertDialogTheme">@style/CustomAlertDialogTheme</item>
+        <item name="android:colorControlNormal">@color/fih_lollipop_control_normal</item>
+        <item name="android:colorControlActivated">@color/fih_lollipop_Group6_default_accent</item>
+        <item name="android:colorPrimary">@color/fih_lollipop_Group6_default_primary</item>
+        <item name="android:colorPrimaryDark">@color/fih_lollipop_Group6_default_primary_dark</item>
+        <item name="android:colorAccent">@color/fih_lollipop_Group6_default_accent</item>
+        <item name="android:statusBarColor">@color/fih_lollipop_Group6_default_primary_dark</item>
+    </style>
+    <style name="AppNoActionTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:colorForeground">@color/fih_lollipop_control_foreground_gray</item>
+        <item name="android:buttonStyle">@android:style/Widget.Holo.Light.Button</item>
+        <item name="android:alertDialogTheme">@style/CustomAlertDialogTheme</item>
+        <item name="android:colorControlNormal">@color/fih_lollipop_control_normal</item>
+        <item name="android:colorControlActivated">@color/fih_lollipop_Group6_default_accent</item>
+        <item name="android:colorControlHighlight">@color/fih_lollipop_Group6_default_accent</item>
+        <item name="android:colorPrimary">@color/fih_lollipop_Group6_default_primary</item>
+        <item name="android:colorPrimaryDark">@color/fih_lollipop_Group6_default_primary_dark</item>
+        <item name="android:colorAccent">@color/fih_lollipop_Group6_default_accent</item>
+        <item name="android:statusBarColor">@color/fih_lollipop_Group6_default_primary_dark</item>
+    </style>
+    <style name="AppDialogTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:colorForeground">@color/fih_lollipop_control_foreground_gray</item>
+        <item name="android:buttonStyle">@android:style/Widget.Holo.Light.Button</item>
+        <item name="android:alertDialogTheme">@style/CustomAlertDialogTheme</item>
+        <item name="android:colorControlNormal">@color/fih_lollipop_control_normal</item>
+        <item name="android:colorControlActivated">@color/fih_lollipop_Group6_default_accent</item>
+        <item name="android:colorControlHighlight">@color/fih_lollipop_Group6_default_accent</item>
+        <item name="android:colorPrimary">@color/fih_lollipop_Group6_default_primary</item>
+        <item name="android:colorPrimaryDark">@color/fih_lollipop_Group6_default_primary_dark</item>
+        <item name="android:colorAccent">@color/fih_lollipop_Group6_default_accent</item>
+        <item name="android:statusBarColor">@color/fih_lollipop_Group6_default_primary_dark</item>
+    </style>
+    <style name="TgAppTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:homeAsUpIndicator">@drawable/zzz_actionbar_icon_back</item>
+        <item name="android:colorPrimary">#fff0f0f0</item>
+        <item name="android:colorPrimaryDark">#fff0f0f0</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="TgAppNoActionTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:homeAsUpIndicator">@drawable/zzz_actionbar_icon_back</item>
+        <item name="android:colorPrimary">#fff0f0f0</item>
+        <item name="android:colorPrimaryDark">#fff0f0f0</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="TgAppDialogTheme" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:homeAsUpIndicator">@drawable/zzz_actionbar_icon_back</item>
+        <item name="android:colorPrimary">#fff0f0f0</item>
+        <item name="android:colorPrimaryDark">#fff0f0f0</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="CustomAlertDialogTheme" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorControlActivated">@color/fih_lollipop_Group6_default_accent</item>
+        <item name="android:colorAccent">@color/fih_lollipop_Group6_default_accent</item>
+    </style>
+    <style name="SIUICustomAlertDialogTheme" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorControlActivated">#ff0accca</item>
+        <item name="android:colorAccent">#ff0accca</item>
+    </style>
+    <style name="statusBarStyle" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:statusBarColor">@color/red</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="SIUIAppTheme" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:textColorSecondary">#ffb4b4b4</item>
+        <item name="android:preferenceCategoryStyle">@style/preferenceCategory</item>
+        <item name="android:listDivider">@drawable/preference_divider</item>
+        <item name="android:actionBarStyle">@style/Theme.siui.ActionBar</item>
+        <item name="android:alertDialogTheme">@style/SIUICustomAlertDialogTheme</item>
+        <item name="android:homeAsUpIndicator">@drawable/siui_back</item>
+        <item name="android:textAppearanceListItem">@style/PrimaryTextStyle</item>
+        <item name="android:listPreferredItemPaddingStart">16.0dip</item>
+        <item name="android:listPreferredItemPaddingEnd">16.0dip</item>
+        <item name="android:textAppearanceListItemSecondary">@style/SecondaryTextStyle</item>
+        <item name="android:colorPrimary">#ffffffff</item>
+        <item name="android:colorPrimaryDark">@color/siui_dialog_panel</item>
+        <item name="android:colorAccent">#ff0accca</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:preferenceFragmentStyle">@style/PreferenceFragmentStyle</item>
+    </style>
+    <style name="PreferenceFragmentStyle" parent="@android:style/PreferenceFragment.Material">
+        <item name="android:layout">@layout/preference_list_fragment</item>
+        <item name="android:divider">@drawable/preference_divider</item>
+    </style>
+    <style name="PreferenceFragmentListSinglePane" parent="@android:style/PreferenceFragmentList">
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+        <item name="android:paddingStart">@dimen/settings_side_margin</item>
+        <item name="android:paddingEnd">@dimen/settings_side_margin</item>
+        <item name="android:layout_marginStart">0.0dip</item>
+        <item name="android:layout_marginEnd">0.0dip</item>
+    </style>
+    <style name="PreferenceCategoryTitleTextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffb4b4b4</item>
+    </style>
+    <style name="preferenceCategory" parent="@android:style/Preference.Category">
+        <item name="android:layout">@layout/siui_preference_category</item>
+    </style>
+    <style name="PrimaryTextStyle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/siui_item_primarycolor</item>
+    </style>
+    <style name="SecondaryTextStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffb4b4b4</item>
+    </style>
+    <style name="PrivacyButton" parent="@android:style/Widget.Holo.Button.Borderless">
+        <item name="android:background">@drawable/privacy_dialog_button</item>
+    </style>
+</resources>

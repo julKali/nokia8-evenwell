@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate patungo sa home</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang mga opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng isang app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi gamit ang %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="cmcc_body">Mga payo ng China Mobile: Upang mabigyan ka ng Enhanced-Permanent-Free (Ang Enhanced-Permanent-Free na serbisyo ay itinatag ng Chinese Mobile upang maabot ang pamamahala ng mobile terminal. Kaagad na magagamit mo ang mga serbisyong Terminal-Remote-Parameter setting at ang Software-Bersyon-Upgrade. kailangan mong irehistro ang iyong aparato sa Terminal Management Platform ng China Mobile. Ang rehistrasyon ay ipapadala gamit ang SMS kabilang ang impormasyon ng aparato; Ang SMS ay walang bayad at ipapadala lamang ng minsan(Hindi kasama ang Hong Kong, Macau, Taiwan at internasyonal na dako ng roaming). Kung pipiliin mo ang “Oo”, ikaw ay pumapayag na magrehistro at gamitin ang pinahusay na serbisyo; Kung pipiliin mo ang “Hindi”, ikaw ay hindi pumapayag na magrehistro at hindi ibibigay ng China Mobile sa iyo ang serbisyo.</string>
+    <string name="cmcc_cancel_body">Mga payo ng China Mobile: Pagkatapos mong ikansel, hindi na ibibigay sa iyo ng China Mobile ang Enhanced-Permanent-Free na serbisyo, sigurado ka na nais mong ikansela ang serbisyo?</string>
+    <string name="cmcc_notification_text">Ang pinahusay na serbisyo ay humihingi ng pahintulot na ipadala ang message</string>
+    <string name="cmcc_notify_title">Pinahusay na serbisyo</string>
+    <string name="cmcc_title">Pinahusay na serbisyo</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="send_sms_accept">Oo</string>
+    <string name="send_sms_body">Upang mabigyan ka ng mainam na karanasan sa paggamit at kaugnay na mga serbisyo, irerehistro namin ang pangunahing impormasyon ng iyong telepono, katulad ng IMEi/MEID, gamit ang SMS at ang iyong pribadong impormasyon katulad ng numero ng telepono at personal na impormasyon ay hindi kasama. Masisingil ka ng isang beses na SMS fee para sa rehistrasyon na ito.</string>
+    <string name="send_sms_decline">Hindi</string>
+    <string name="send_sms_title">Mga serbisyong pangrehistrasyon</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

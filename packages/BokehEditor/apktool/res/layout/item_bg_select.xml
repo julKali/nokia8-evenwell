@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/bgView" android:background="@color/itme_bg_color" android:layout_width="@dimen/select_bg_thumnail_size" android:layout_height="@dimen/select_bg_thumnail_size" android:scaleType="center" android:layout_marginStart="@dimen/select_bg_margin_lr" android:layout_marginEnd="@dimen/select_bg_margin_lr" />
+</FrameLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Sääpalvelu</string>
+    <string name="fih_weather_permission_hint_1">Toimiakseen oikein tämä sovellus edellyttää lisävaltuutta. Myönnä lisävaltuus pyydettäessä.</string>
+    <string name="fih_weather_permission_hint_2">Toimiakseen oikein tämä sovellus edellyttää lisävaltuuksia. Muuta sääpalvelun valtuuksia asetuksissa.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Sulje</string>
+    <string name="fih_weather_button_setting">Asetus...</string>
+    <string name="fih_weather_permission_success">Sijaintitietojen käyttö sallittu</string>
+    <string name="fih_weather_permission_failed">Sijaintitietojen käyttö ei sallittu, sijaintia ei voi näyttää.</string>
+    <string name="fih_weather_notification_title">Sääpalvelu edellyttää valtuuksia</string>
+    <string name="fih_weather_notification_text">Salli napauttamalla</string>
+    <string name="fih_weather_notification_channel_title">Yleiset ilmoitukset</string>
+</resources>

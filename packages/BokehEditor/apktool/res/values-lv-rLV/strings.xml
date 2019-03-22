@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokē redaktors</string>
+    <string name="image_not_null">Attēla ceļa lauks nevar būt Null</string>
+    <string name="no_bokeh_type">Nav bokē tipa</string>
+    <string name="no_mpo_file">Nav MPO faila</string>
+    <string name="save">Saglabāt</string>
+    <string name="save_success">Konfigurācija ir veiksmīgi saglabāta</string>
+</resources>

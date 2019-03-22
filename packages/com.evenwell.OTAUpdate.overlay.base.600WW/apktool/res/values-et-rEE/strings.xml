@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarkvaravärskendus</string>
+    <string name="file_not_found">Faili ei leitud</string>
+    <string name="remote_file_fail">Kaugfailile ei pääse juurde. Proovige hiljem uuesti.</string>
+    <string name="no_description">(Kirjeldus puudub)</string>
+    <string name="login_fail">Serverisse sisselogimine nurjus. Proovige hiljem uuesti.</string>
+    <string name="get_service_url_fail">Võrguühendus on ebastabiilne (teenuse URL-i toomine nurjus). Proovige hiljem uuesti.</string>
+    <string name="query_sw_fail">Teabepäring tarkvara kohta nurjus.</string>
+    <string name="download_sw_fail">Tarkvara allalaadimine nurjus.</string>
+    <string name="query_sw_incorrect">Tulemus pole õige.</string>
+    <string name="no_update_available">Ühtegi uuemat värskendust ei ole saadaval.</string>
+    <string name="update_not_ready">Uuem värskendus pole serveris valmis. Proovige hiljem uuesti.</string>
+    <string name="check_now_label">Otsi kohe</string>
+    <string name="checking">Laadimine ...</string>
+    <string name="verifying">Kinnitamine …</string>
+    <string name="header_verifying_update_file">Värskendatud faili kinnitamine …</string>
+    <string name="unzipping">Lahtipakkimine …</string>
+    <string name="please_wait">Palun oota...</string>
+    <string name="header_starting_to_download_file">Faili allalaadimise alustamine …</string>
+    <string name="header_system_update_available">Süsteemiuuendus on saadaval</string>
+    <string name="new_version_desc_prompt">Uus versioon sisaldab järgmist.</string>
+    <string name="header_attention">Tähelepanu</string>
+    <string name="data_fee_warning">Kui kasutate teenust mobiilivõrgu kaudu, võivad sellega kaasneda tasud!</string>
+    <string name="header_downloading_update">Värskenduse allalaadimine</string>
+    <string name="header_install_system_software_update">Installi süsteemi tarkvaravärskendus</string>
+    <string name="msg_install_system_software_update_1">"Kas soovite installida järgmise süsteemitarkvara?
+Süsteem täiendatakse versioonile"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Te ei saa seadet täiendamise ajal kasutada ega sellega hädaabikõnesid teha.
+
+Aku või SD-kaardi eemaldamine tarkvara värskendamise ajal võib põhjustada ootamatuid tulemusi."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Te ei saa seadet täiendamise ajal kasutada.
+
+Seadme elektrivarustuse katkestamine või allalaaditud faili eemaldamine tarkvara värskendamise ajal põhjustab ootamatuid tulemusi."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Te ei saa seadet täiendamise ajal kasutada ega sellega hädaabikõnesid teha.
+
+Seadme elektrivarustuse katkestamine või allalaaditud faili eemaldamine tarkvara värskendamise ajal põhjustab ootamatuid tulemusi."</string>
+    <string name="button_install_now">Installi kohe</string>
+    <string name="button_install_later">Installi hiljem</string>
+    <string name="header_unable_to_connect">Ei saa ühendust luua</string>
+    <string name="msg_unable_to_connect">Selle rakenduse kasutamiseks on teil vaja võrguühendust. Lülitage mobiilivõrk või WiFi seadetes sisse.</string>
+    <string name="msg_unable_to_connect_2">Selle rakenduse kasutamiseks on teil vaja võrguühendust. Lülitage mobiilivõrk seadetes sisse.</string>
+    <string name="msg_unable_to_connect_wlan">Selle rakenduse kasutamiseks on teil vaja võrguühendust. Lülitage mobiilivõrk või WLAN seadetes sisse.</string>
+    <string name="msg_unable_to_connect_short">Võrguühendus puudub</string>
+    <string name="button_reset">Lähtestamine</string>
+    <string name="button_settings">Sätted</string>
+    <string name="header_system_is_update">Süsteem on ajakohane.</string>
+    <string name="msg_system_is_update">Ühtegi uuemat värskendust ei ole saadaval.</string>
+    <string name="msg_system_is_update_short">Uuemaid värskendusi pole</string>
+    <string name="msg_no_sd_card">Süsteemivärskenduse jaoks on vajalik SD-kaart. Sisestage saadaolev SD-kaart.</string>
+    <string name="msg_no_sd_card_short">SD-kaarti pole</string>
+    <string name="msg_no_available_size_card">See värskendusfail vajab %s MB vaba ruumi. Kustutage SD-kaardilt mõned failid.</string>
+    <string name="msg_no_available_size_card_2">See värskendusfail vajab %s MB vaba ruumi. Kustutage mäluruumist mõned failid.</string>
+    <string name="msg_no_available_size_card_short">Ei ole piisavalt vaba ruumi.</string>
+    <string name="msg_do_not_remove_sd_card">ÄRGE eemaldage SD-kaarti.</string>
+    <string name="title_system_update_ready">Süsteemiuuendus on valmis</string>
+    <string name="msg_system_update_ready">Toksake, et installida süsteemiuuendus</string>
+    <string name="msg_system_battery_too_low">"Süsteemivärskendus on valmis, kuid teie seadme aku vajab värskenduse installimiseks laadimist. Laadige akut ja alustage installimist hiljem.
+
+Aku laetuse tase peab olema suurem kui 35%%.
+Aku praegune laetuse tase: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Aku tase on liiga madal</string>
+    <string name="msg_remove_sd_card">Allalaaditud faili ei saa SD-kaardile kirjutada. Kontrollige SD-kaarti.</string>
+    <string name="msg_remove_sd_card_2">Allalaaditud faili ei saa andmete mäluruumi kirjutada. Kontrollige mäluruumi.</string>
+    <string name="msg_remove_sd_card_short">SD-kaardile ei pääsenud juurde.</string>
+    <string name="msg_remove_sd_card_short_2">Andmete mäluruumile ei pääsenud juurde.</string>
+    <string name="msg_verify_fail">Allalaaditud faili kinnitamine nurjus.</string>
+    <string name="msg_verify_fail_short">Kinnitamine nurjus</string>
+    <string name="msg_unzip_fail">Allalaaditud faili lahtipakkimine nurjus.</string>
+    <string name="msg_unzip_fail_short">Lahtipakkimine nurjus</string>
+    <string name="hide">Peida kohalik video</string>
+    <string name="data_size">Andmete suurus</string>
+    <string name="required_size">Vajalik ruum</string>
+    <string name="network_not_match">Teie praegu seade on allalaadimine ainult WLAN-i kaudu. Valige WLAN-võrk või muutke oma seadeid.</string>
+    <string name="network_not_match_short">Võrk ei ole vastavuses.</string>
+    <string name="without_reboot_api">Ei saa taaskäivitada, sest API puudub. Aktiivse värskenduse käsitsi taastamiseks taaskäivitage.</string>
+    <string name="update_complete">Süsteemi värskendamine on lõpetatud.</string>
+    <string name="update_complete_short">Värskendamine on lõpule viidud</string>
+    <string name="file_removed">Allalaaditud fail on eemaldatud. Laadige fail uuesti alla.</string>
+    <string name="file_removed_short">Allalaaditud fail on eemaldatud.</string>
+    <string name="file_not_match">Allalaaditud fail ei vasta oodatud suurusele. Laadige fail uuesti alla.</string>
+    <string name="file_not_match_short">Fail ei ole vastavuses.</string>
+    <string name="menu_url">Muuda serveri URL-i</string>
+    <string name="menu_enabled">Ainult lubatud tarkvara</string>
+    <string name="using_internal_storage">Sisemise mäluruumi kasutamine</string>
+    <string name="using_external_storage">Välise mäluruumi kasutamine</string>
+    <string name="msg_agree_message">"
+
+Võib juhtuda, et täiendusprotsessi ajal kasutajaandmed kustutatakse. Vajaduse korral varundage enne süsteemiuuenduse installimist oma andmed."</string>
+    <string name="msg_root_message">"
+
+Pärast seadme juurutamist ei saa tagada, et värskendamine läheb tavapäraselt."</string>
+    <string name="msg_responsibility_message">Kui seade on juurutatud, vastutab kasutaja pärast värskendamist süsteemi võimaliku ebaloomuliku käitumise eest.</string>
+    <string name="msg_upgrade_agree">Lugege ja nõustuge</string>
+    <string name="later">Hiljem</string>
+    <string name="update">Värskenda</string>
+    <string name="update_summary">Otsi värskendusi</string>
+    <string name="wifi_only">Ainult WiFi</string>
+    <string name="wlan_only">Ainult WLAN</string>
+    <string name="wifi_only_summary">Laadi värskendused alla, kui WiFi on saadaval</string>
+    <string name="wlan_only_summary">Laadi värskendused alla, kui WLAN on saadaval</string>
+    <string name="auto_update">Automaatne värskendus</string>
+    <string name="auto_update_summary">Otsi värskendusi automaatselt</string>
+    <string name="new_data_fee_warning">Värskenduste kontrollimise ja allalaadimisega võivad kaasneda lisatasud. Võimaluse korral laadige värskendused alla WiFi kaudu.</string>
+    <string name="wlan_data_fee_warning">Värskenduste kontrollimise ja allalaadimisega võivad kaasneda lisatasud. Võimaluse korral laadige värskendused alla WLAN-i kaudu.</string>
+    <string name="installing">Installimine……</string>
+    <string name="install_complete">Installitud</string>
+    <string name="install_fail">Installimine nurjus</string>
+    <string name="install_all">Installi kõik</string>
+    <string name="install">Installi</string>
+    <string name="installed_version">Installitud versioon</string>
+    <string name="update_available">Värskendus on saadaval.</string>
+    <string name="apk_update_available">Rakenduse värskendus on saadaval.</string>
+    <string name="recommend">Soovita</string>
+    <string name="roaming_restriction">Andmerändluse piirang</string>
+    <string name="roaming_restriction_summary">Andmerändluse piirangute tõttu ei saa värskendada.</string>
+    <string name="changelog">Muudatuste logi</string>
+    <string name="description">Kirjeldus:</string>
+    <string name="apk_update_available_summary">%s jaoks on saadaval värskendus. Klõpsake OK, et installida kohe, või klõpsake Tühista, et kontrollida värskendust ühe päeva pärast.</string>
+    <string name="apk_removed">Rakendus on eemaldatud.</string>
+    <string name="apk_available_items">Kokku %s üksust saadaval</string>
+    <string name="apk_available_item">Kokku %s üksus saadaval</string>
+    <string name="new_forpreference">Uus:</string>
+    <string name="invalid_update_summary">Värskendus on kehtetu, kontrollige uuesti.</string>
+    <string name="recheck">Kontrolli uuesti</string>
+    <string name="image_download_exception_summary">Serverile ei pääse juurde, proovige hiljem uuesti.</string>
+    <string name="apk_download_exception">Serverile ei pääse juurde</string>
+    <string name="installation_confirmation">Installimise kinnitamine</string>
+    <string name="apk_need_reboot_summary">See tarkvaravärskendus taaskäivitab süsteemi pärast installimise lõpetamist automaatselt. Kas soovite installida kohe?</string>
+    <string name="downloaded">Allalaaditud</string>
+    <string name="prepare_to_reboot">Taaskäivitamise ettevalmistamine</string>
+    <string name="prepare_to_reboot_summary">Installitud tarkvara peab seadete konfigureerimiseks seadme taaskäivitama. Soovitame seadme taaskäivitada kohe, aga saate seda teha ka hiljem.</string>
+    <string name="prepare_to_reboot_force_summary">Installitud tarkvara peab seadete konfigureerimiseks seadme taaskäivitama. Soovitame taaskäivitada kohe.</string>
+    <string name="reboot">Taaskäivita</string>
+    <string name="reboot_fail">Taaskäivitamine nurjus</string>
+    <string name="reboot_fail_summary">Ei saa taaskäivitada, sest API puudub. Taaskäivitage käsitsi.</string>
+    <string name="apk_no_avaliable_size">Ei saa alla laadida, sest sisemist salvestusruumi pole piisavalt.</string>
+    <string name="update_finished">Värskendamine on lõpetatud</string>
+    <string name="header_warning">Hoiatus</string>
+    <string name="msg_root_warning">Teie seade on juurutatud või ametlikku tarkvara on muudetud. Süsteemi värskendamisega jätkamine võib põhjustada süsteemi ebastabiilsust või süsteem võib joosta kokku. Samuti võib seadme garantii kehtetuks muutuda. Kas soovite kindlasti jätkata?</string>
+    <string name="multi_image_update">Saadaval on pildivärskendusi</string>
+    <string name="available_update_list">Saadaolevate värskenduste loend</string>
+    <string name="downloading_summary">Tühistage pildi allalaadimine</string>
+    <string name="msg_erase_userdata_warning">See värskendus peab kustutama kasutaja andmed. Kas soovite jätkata?</string>
+    <string name="msg_autoupdate_date_fee_warning">Automaatvärskendamise lubamisega võivad kaasneda lisatasud.</string>
+    <string name="invalid_update">Värskendus on kehtetu.</string>
+    <string name="file_corrupted">Süsteemi ei saa täiendada, sest fail on rikutud.</string>
+    <string name="ask_for_apk_check">Kas soovite otsida rakenduse värskendusi?</string>
+    <string name="update_ota_self">Tarkvara värskendamine on pooleli.</string>
+    <string name="ab_update_fail">Probleem installimisel.</string>
+    <string name="ab_update_wrong_status">Värskendamismootor on praegu hõivatud. Proovige hiljem uuesti või taaskäivitage.</string>
+    <string name="ab_update_installing">Süsteemi värskendamine</string>
+    <string name="tag_engineer_mode">Projekteerimisrežiim</string>
+    <string name="engineer_version_incorrect">Teie seadme versioon on vale</string>
+    <string name="msg_engineer_ota_restore">Puudutage ametliku versiooni taastamiseks</string>
+    <string name="msg_engineer_ota_restore_warning">See taastab ametliku versiooni. Kas soovite jätkata?</string>
+    <string name="silent_mode_data_fee_warning">Värskendus on saadaval. Värskenduste allalaadimisega võivad kaasneda lisatasud. Võimaluse korral laadige värskendused alla WiFi kaudu.</string>
+    <string name="msg_updating_system">Süsteemi värskendamine …</string>
+    <string name="msg_tap_to_reboot">Puuduta taaskäivitamiseks</string>
+    <string name="msg_pause_download">Peata allalaadimine</string>
+    <string name="notification_channel_name">Süsteemivärskendus</string>
+    <string name="notification_channel_alert_name">Üldised teatised</string>
+</resources>

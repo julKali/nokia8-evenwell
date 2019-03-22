@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="config_adjust_backlight_enable">false</bool>
+    <bool name="config_alarm_mode_enable">true</bool>
+    <bool name="config_cooldown_mode_enable">true</bool>
+    <bool name="config_low_mode_enable">true</bool>
+    <bool name="config_maxtemp_mode_enable">true</bool>
+    <bool name="config_only_support_maxtemp_mode">false</bool>
+    <bool name="config_support_battery_level_detect">false</bool>
+</resources>

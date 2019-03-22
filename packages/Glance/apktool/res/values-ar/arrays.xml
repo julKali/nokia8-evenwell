@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_time_out_titles">
+        <item>دقيقة واحدة</item>
+        <item>دقيقتان</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>20 دقيقة</item>
+    </string-array>
+</resources>

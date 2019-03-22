@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">បោះបង់</string>
+    <string name="copying">កំពុង​ចម្លង…</string>
+    <string name="demo_mode_notifications">ការជូនដំណឹង​នៃ​ទម្រង់​បង្ហាញ</string>
+    <string name="disable_demo_mode">បិទ​ទម្រង់​បង្ហាញ</string>
+    <string name="download_complete_msg">"ការទាញយក​បាន​បញ្ចប់។
+
+ប៉ះ ព្រម ដើម្បី​ចាប់ផ្ដើម​ទម្រង់​បង្ហាញ។"</string>
+    <string name="download_fail_msg">"បាន​បរាជ័យ​ក្នុង​ការ​ទាញយក​ឯកសារ​បង្ហាញ​ពី​អ៊ីនធើណិត។
+
+ប៉ះ ព្រម ដើម្បី​ចាប់ផ្ដើម​ទម្រង់​បង្ហាញ?"</string>
+    <string name="downloading">កំពុង​ទាញយក…</string>
+    <string name="enable_demo_mode">បើកប្រើ​ទម្រង់​បង្ហាញ?</string>
+    <string name="enable_demo_mode_setup">បើកប្រើ​ទម្រង់​បង្ហាញ</string>
+    <string name="no_new_demo_found_msg">"មិន​បាន​រកឃើញ​ឯកសារ​បង្ហាញ​ថ្មី​ណា​មួយ។
+
+ប៉ះ ព្រម ដើម្បី​ចាប់ផ្ដើម​ទម្រង់​បង្ហាញ?"</string>
+    <string name="ok">ព្រម</string>
+    <string name="reset_device">កំណត់ឧបករណ៍ឡើងវិញ?</string>
+    <string name="system_busy_msg">ប្រព័ន្ធ​កំពុង​រវល់។ សូម​សាកល្បង​ម្ដងទៀត​ពេលក្រោយ។</string>
+    <string name="update_demo_video">ធ្វើ​បច្ចុប្បន្នភាព​វីដេអូ​បង្ហាញ</string>
+</resources>

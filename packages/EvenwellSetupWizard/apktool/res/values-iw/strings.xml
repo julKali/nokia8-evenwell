@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">נווט לדף הבית</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">בוצע</string>
+    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
+    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">פועל</string>
+    <string name="abc_search_hint">חיפוש…</string>
+    <string name="abc_searchview_description_clear">מחק שאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
+    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">שתף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כווץ</string>
+    <string name="accessibility_text">נגישות</string>
+    <string name="account_intro_description">דרך חכמה יותר להשתמש בהתקן היא להצטרף לשירותי [BRAND_NAME].</string>
+    <string name="account_intro_title">חשבון שירותי [BRAND_NAME]</string>
+    <string name="add_baidu_button_label">Log in 百度云</string>
+    <string name="add_infocus_service_account">הוסף חשבון של שירותי [BRAND_NAME]</string>
+    <string name="back_btn_lebel">חזור</string>
+    <string name="backup_and_restore_description">"אם גיבית בעבר את החשבון שלך, תוכל לשחזר אותו לטלפון זה כעת.
+
+תוכל לשנות את הגדרות הגיבוי שלך בכל עת תחת 'הגדרות'."</string>
+    <string name="backup_and_restore_title">גיבוי ושחזור</string>
+    <string name="baidu_intro_description">You can enjoy seamless cloud storages integration with 百度云 by completing a few easy steps.</string>
+    <string name="baidu_intro_title">אחסון בענן של Baidu</string>
+    <string name="baidu_progress_dialog_des">נא המתן...</string>
+    <string name="choose_timezone">בחר אזור זמן</string>
+    <string name="datausage_dialog_negitive_btn">ביטול</string>
+    <string name="datausage_dialog_positive_btn">אשר</string>
+    <string name="date_and_time">הגדרות תאריך ושעה</string>
+    <string name="date_and_time_settings_summary">הגדרת תאריך, שעה, אזור זמן ופורמטים</string>
+    <string name="date_and_time_settings_title">תאריך ושעה</string>
+    <string name="date_and_time_settings_title_setup_wizard">הגדרת תאריך ושעה</string>
+    <string name="date_picker_title">תאריך:</string>
+    <string name="date_time_24hour">שימוש בפורמט של 24 שעות</string>
+    <string name="date_time_auto">תאריך ושעה אוטומטיים</string>
+    <string name="date_time_auto_summaryOff">השתמש בזמן הרשת</string>
+    <string name="date_time_auto_summaryOn">השתמש בזמן הרשת</string>
+    <string name="date_time_date_format">בחירת פורמט תאריך</string>
+    <string name="date_time_set_date">הגדר תאריך</string>
+    <string name="date_time_set_time">הגדרת שעה</string>
+    <string name="date_time_set_timezone">בחר אזור זמן</string>
+    <string name="device_checking_message">ברוכים הבאים</string>
+    <string name="dropbox_fih_description">קבל אחסון בחינם של ‎2 GB ב-Dropbox לשמירת תמונות וסרטונים באופן אוטומטי.</string>
+    <string name="dropbox_fih_signin">היכנס ל-Dropbox</string>
+    <string name="dropbox_fih_signup">הצטרף ל-Dropbox</string>
+    <string name="emergency_dial_hmd_message">שיחת חירום</string>
+    <string name="emergency_dial_message">שיחת חירום</string>
+    <string name="expand_button_title">מתקדם</string>
+    <string name="fih_legal_message">"תנאי שימוש בתוכנת [BRAND_NAME_PROXY]
+ 
+ תאריך תוקף: 20 במאי, 2016
+ 
+ התנאים וההתניות הבאים (להלן, \"התנאים\") מהווים הסכם משפטי אשר חל על השימוש שלך בכל תוכנה של [BRAND_NAME_PROXY] בינך לבין [BRAND_NAME_PROXY] Inc.‎, והסוכנת שלה, Commtiva Technology Ltd.‎ (יחד, להלן, \"[BRAND_NAME_PROXY]\") וכן על השימוש שלך בתוכנה של [BRAND_NAME_PROXY], כולל, בין השאר, הורדה, התקנה וחידוש אוטומטי (להלן, \"שירות התוכנה\"). בעצם השימוש בתוכנה של [BRAND_NAME_PROXY], אתה מסכים להיות כפוף לתנאים אלה; אם אינך מסכים לתנאים, אל תוריד, תשכפל או תשחזר את התוכנה של [BRAND_NAME_PROXY] ואל תשתמש בה.
+ 
+ 1. תנאי שימוש
+ כל עוד אתה מציית לתנאים אלה, [BRAND_NAME_PROXY] מעניקה לך היתר אישי, לא בלעדי, בלתי ניתן להעברה, ניתן לשלילה ומוגבל לשימוש בשירותי התוכנה של [BRAND_NAME_PROXY]. [BRAND_NAME_PROXY] תתקין קוד אובייקט בהתקן הנייד החכם של [BRAND_NAME_PROXY] שברשותך (להלן, \"מכשיר [BRAND_NAME_PROXY]\") דרך האינטרנט. אתה מכיר ומסכים שהתוכנה של [BRAND_NAME_PROXY] במכשיר [BRAND_NAME_PROXY] שברשותך לא תשמש למטרות מסחריות ולא תועבר לשום צד שלישי.
+ כמו כן, אתה מסכים שלא תשתמש בתוכנה של [BRAND_NAME_PROXY] באף אחת מהצורות הבאות:
+ (א) פיצוח התוכנה של [BRAND_NAME_PROXY] (כולל הטכנולוגיות הבסיסיות), או שימוש בתוכנה של [BRAND_NAME_PROXY] בהתקן שאינו שייך למותג [BRAND_NAME_PROXY];
+ (ב) ניתוח, הידור לאחור, הנדסה לאחור, פענוח קוד, העתקה, שינוי התוכנה של [BRAND_NAME_PROXY] או יצירת עבודה נגזרת מסוג זה לכל מטרה שהיא;
+ (ג) ביצוע פעילויות, כולל, בין השאר, העברה, חכירה, הלוואה או רישוי משנה, בניגוד לתנאים והפיכת התוכנה של [BRAND_NAME_PROXY] לציבורית או מתן אפשרות לגורם צד שלישי להשתמש בתוכנה של [BRAND_NAME_PROXY], לגשת אליה או להחזיק בה;
+ (ד) הסרת הודעה, סמל או סימנים מסחריים קנייניים מכל סוג שהוא בתוכנה או במסמכים של [BRAND_NAME_PROXY] ללא רשות מראש ובכתב של [BRAND_NAME_PROXY];
+ (ה) שימוש בתוכנה של [BRAND_NAME_PROXY] באופן המנוגד לחוק הקיים באותו הזמן או מתוך הפרת הזכויות של גורם אחר;
+ (ו) שימוש בתוכנה של [BRAND_NAME_PROXY] בסביבות האוסרות על שימוש זה או המגבילות אותו, כולל, בין השאר, אזורי טיסה תחת פיקוח, תחנות דלק, סביבות עם ציוד גרעיני; או
+ (ז) שימוש בתוכנה של [BRAND_NAME_PROXY] באופן אסור לפי התנאים.
+ 
+ כדי להבטיח שמכשיר [BRAND_NAME_PROXY] והתוכנה של [BRAND_NAME_PROXY] יעבדו כראוי, אתה מבטיח ומתחייב שלא תשמיד או תזיז את התוויות על מכשיר [BRAND_NAME_PROXY] ללא הסיוע של צוות [BRAND_NAME_PROXY]. פעילויות לא מאושרות שכאלה ישפיעו על ההיקף והתקופה של האחריות ש-[BRAND_NAME_PROXY] מספקת לך.
+ 
+ 2. מדיניות פרטיות
+ אתה מכיר ומסכים ש-[BRAND_NAME_PROXY] יכולה לאסוף ולשמור כל מידע, כולל, בין השאר, סוג מצב, מספר סידורי, קוד IMEI/‏MEID, גרסת חומרה, גרסת תוכנה, זמן מצטבר, מזהה SKU, סטטיסטיקת ברירת מחדל וגרסת מערכת הפעלה במכשיר [BRAND_NAME_PROXY] (להלן, \"מידע\"). 
+ במקרה ש-[BRAND_NAME_PROXY] תידרש לחשוף מידע כלשהו בפני סוכנות ממשלתית או מערכת בתי המשפט, [BRAND_NAME_PROXY]תעשה זאת כנדרש.
+ 
+ מכשיר [BRAND_NAME_PROXY] יודיע ל-[BRAND_NAME_PROXY] על מצבים שבהם מכשיר [BRAND_NAME_PROXY] לא התחבר לרשת הסלולרית לפחות 14 יום מאז תאריך הרכישה.
+ 
+ עיין במדיניות הפרטיות של [BRAND_NAME_PROXY] לקבלת פרטים.
+ 
+ 3. שירות תמיכה
+ [BRAND_NAME_PROXY] תספק שירותי תוכנה, כולל, בין השאר, עדכונים ושדרוגים, לתוכנה של [BRAND_NAME_PROXY] בהתאם למצב הנוכחי ש-[BRAND_NAME_PROXY] מקבלת ממכשיר [BRAND_NAME_PROXY].
+ [BRAND_NAME_PROXY] תספק עדכונים, תיקונים או רכיבים נוספים לתוכנה של [BRAND_NAME_PROXY] לאחר השימוש בתוכנה של [BRAND_NAME_PROXY] דרך האינטרנט, בכפוף לתנאים.
+ 
+ [BRAND_NAME_PROXY] שומרת לעצמה את הזכות לבטל את זכותך להשיג כל שירות של [BRAND_NAME_PROXY] דרך האינטרנט לצורך שימוש חלק בתוכנה ובשירות של [BRAND_NAME_PROXY].
+ [BRAND_NAME_PROXY] תפרסם גרסאות עוקבות של התוכנה של [BRAND_NAME_PROXY] ותדרוש ממך להשתמש בגרסה המעודכנת ביותר של מערכת ההפעלה.
+ 
+ 4. עדכון אוטומטי
+ כדי לחזק ולשפר את מכשיר [BRAND_NAME_PROXY] שברשותך, הוא מוגדר להוריד באופן אוטומטי את הקושחה והתוכנה העדכניות ביותר מ-[BRAND_NAME_PROXY] 
+ 
+ כדי להבטיח את הבטיחות והיציבות של מכשיר [BRAND_NAME_PROXY], אתה מסכים לפעול לפי ההנחיות הנחוצות לגבי הגדרה שכזו ולפי ההוראות של [BRAND_NAME_PROXY]. בעצם ההסכמה להוריד את הקושחה או התוכנה העדכנית ביותר, אתה מסכים לחידוש ולהתקנה.
+ 
+ כדי למנוע אובדן של מסמכים, תמונות, קובצי טקסט, קובצי קול, קובצי וידאו ורשומות אלקטרוניות מסוגים שונים שעלולים להיעלם או להיפגע כתוצאה מביצוע עדכונים במכשיר [BRAND_NAME_PROXY], אתה אחראי לגבות את כל הרשומות האלקטרוניות שלעיל המאוחסנות במכשיר [BRAND_NAME_PROXY] לפני ההורדה של הגרסה האחרונה של הקושחה או התוכנה.
+ 
+ לאחר שמכשיר [BRAND_NAME_PROXY] יתעדכן באופן אוטומטי או לאחר קבלת רשות ממך באמצעות הודעה, פירוש הדבר שאתה מסכים לתוכן הבא:
+ (א) עדכון תוכנה:
+ אתה מסכים ומאשר ש-[BRAND_NAME_PROXY] יכולה להתחבר דרך האינטרנט כדי לבדוק את גרסת התוכנה ומצב העדכונים של מכשיר [BRAND_NAME_PROXY] שברשותך. אם [BRAND_NAME_PROXY] תפיץ הודעות על שדרוג, [BRAND_NAME_PROXY] תאפשר לך לשדרג את גרסאות התוכנה של [BRAND_NAME_PROXY] והמצב שלו דרך שירות [BRAND_NAME_PROXY].
+ כאשר תוכנה חדשה של [BRAND_NAME_PROXY] תהיה זמינה, אתה מסכים לאפשר ל-[BRAND_NAME_PROXY] לשלוח לך הודעה על עדכונים שכאלה. אם תאשר את העדכונים הזמינים החדשים, פירוש הדבר שאתה מסכים לאפשר ל-[BRAND_NAME_PROXY] לעדכן את מכשיר [BRAND_NAME_PROXY] שברשותך באופן אוטומטי.
+ (ב) סנכרון ועדכון של תוכן:
+ לאחר חיבור מכשיר [BRAND_NAME_PROXY] שברשותך למחשב שלך או להתקן אחר, מכשיר [BRAND_NAME_PROXY] יעדכן באופן אוטומטי תוכן קשור ומידע אחר (לדוגמה, פרטי קשר, לוח שנה, סימניות וקבצים).
+ 
+ 5. שמירת כל זכויות הקניין והזכויות האחרות בתוכנה של [BRAND_NAME_PROXY]
+ למרות הרישיון שקיבלת לשימוש בתוכנה ובשירותים של [BRAND_NAME_PROXY], ‏[BRAND_NAME_PROXY], חברות הבת שלה והספקים שלה שומרים את כל הזכויות בתוכנה של [BRAND_NAME_PROXY], לרבות, בין השאר, זכויות קנייניות, זכויות יוצרים וזכויות קניין רוחני אחרות.
+ 
+ כל הזכויות הללו בתוכנה של [BRAND_NAME_PROXY] מוגנות על-ידי חוקים מקומיים ואמנות בינלאומיות.
+ 
+ 6. כתב ויתור
+ [BRAND_NAME_PROXY] אינה מספקת שום ייצוג או אחריות, במפורש או במשתמע, כולל, בין השאר, אחריות משתמעת של סחירות, איכות משביעת רצון והתאמה למטרה מסוימת או אי הפרה. 
+ [BRAND_NAME_PROXY] אינה מתחייבת כי:
+ (א) כל שירות [BRAND_NAME_PROXY] שאתה משיג יהיה מדויק או מהימן; או
+ (ב) שירות [BRAND_NAME_PROXY] יינתן באופן מאובטח, בזמן וללא הפרעות; או
+ (ג) פגמים או שגיאות בתוכנה המסופקת יתוקנו מיד.
+ 
+ [BRAND_NAME_PROXY] לא תישא בחבות עבור אובדן או נזק שייגרמו כתוצאה מווירוסים או חומרים טכניים מזיקים אחרים העלולים להדביק את מכשיר [BRAND_NAME_PROXY], תוכניות, נתונים או חומרים קנייניים אחרים כתוצאה מהשימוש בשירותי [BRAND_NAME_PROXY]. אתה ניגש לכל התוכן והחומרים האחרים שאתה מוריד או משיג דרך [BRAND_NAME_PROXY] על אחריותך, ואתה האחראי היחידי לכל נזק למכשיר [BRAND_NAME_PROXY] או לאובדן נתונים או תוכן כתוצאה מהורדת תוכנה כלשהי.
+ 
+ 7. הגבלת חבות והסעד היחיד
+ [BRAND_NAME_PROXY] לא תישא בחבות כתוצאה משום נזק תוצאתי, מקרי, עקיף או עונשי, או נזקים כתוצאה מהפסד רווחים או אובדן מידע סודי או אחר, הפרעה לעסקים, פציעה, נזק לרכוש, אובדן פרטיות, אי עמידה בחובה של תום לב או דאגה סבירה או רשלנות.
+ עד למידה המרבית המותרת בחוק החל, החבות המרבית והמצטברת של [BRAND_NAME_PROXY] כלפיך, והסעד הבלעדי שלך במסגרת התנאים לכל נזק, פציעה, נזק לרכוש ואובדן כתוצאה מכל טענה או תביעה הקשורה או המשויכת לתנאים במטרה לזכות בפיצויים על הנזק שנעשה בפועל, יוגבלו לעשרה דולרים ארהב (‎10 USD). 
+
+
+
+טענות או תביעות מרובות הקשורות או המשויכות לתנאים לא ירחיבו את מגבלת החבות, ובמידה המרבית המותרת לפי החוק החל, זה יהיה הסעד היחיד והבלעדי שלך.
+
+
+
+אם בית משפט בעל סמכות שיפוט יקבע כי מגבלת החבות שלעיל אינה ניתנת לאכיפה, ביחס לחלק שאינו ישים, המילים יוגבלו לעשרה דולרים יוחלפו על-ידי המילים \"יוגבלו לערך העסקה שעליה חלה החבות.\"
+
+
+
+יש להגיש טענה או תביעה שכזו הקשורה או המשויכת לתנאים תוך שנה אחת ממועד הופעת הגורם לתביעה.
+
+
+8. שיפוי 
+
+אתה מסכים להגן על [BRAND_NAME_PROXY], לשפות אותה ולקבוע כי החברה, בעלי המניות, הדירקטורים, המנהלים, בעלי העניין, העובדים, החברות הבנות והחברות המסונפות שלה אינם נושאים בשום אחריות לשום דרישות, אובדן, חבות, תביעות או הוצאות (כולל שכר טרחה של עורכי דין) שיידרשו מ-[BRAND_NAME_PROXY] על-ידי גורם צד שלישי כלשהו עקב השימוש שלך לרעה בשירותי [BRAND_NAME_PROXY] תוך הפרת זכויות של צד שלישי.
+
+
+
+9. סיום השירות
+
+לא תורשה להשתמש בשירותי [BRAND_NAME_PROXY] באופן חוקי אם לא תציית לתנאים. בנסיבות שכאלה, תשמיד ותסיר את כל העותקים של התוכנה של [BRAND_NAME_PROXY]. בינתיים, האחריות של מכשיר [BRAND_NAME_PROXY] שברשותך תושפע מכך.
+
+במקרה של הפרה כפי שצוין לעיל, אתה מסכים ש-[BRAND_NAME_PROXY] זכאית לבצע את הפעולות הבאות:
+
+(א)\u0009לשלול מיד את הזכות שלך לגשת לחשבון [BRAND_NAME_PROXY]; ו/או
+
+(ב)\u0009לחסום כל גישה עתידית שלך לחשבון שירות [BRAND_NAME_PROXY]
+
+
+
+אתה גם מסכים שכל הפרה של התנאים תגרום לנזק בלתי הפיך ל-[BRAND_NAME_PROXY], שלא ניתן לתקנו באמצעות פיצויים כספיים, ואתה מסכים לכך ש-[BRAND_NAME_PROXY] תשיג כל סעד משפטי או מן הצדק ש-[BRAND_NAME_PROXY] תקבע שהוא נחוץ או הולם בנסיבות שכאלה. סעד שכזה יינתן בנוסף לכל סעד אחר ש-[BRAND_NAME_PROXY] זכאית לו לפי חוק או מן הצדק.
+
+
+
+10. החוק החל ותחום השיפוט
+
+אתה מסכים לכך שכל העניינים הקשורים לכל המחלוקות בנוגע לתנאים יהיו כפופים לחוקי סין, ללא קשר לסעיפי ברירת דין. 
+
+
+
+אתה מסכים לסמכות השיפוט ולשטח השיפוט של בית המשפט במחוז טאיפה שבטאיוון, ומוותר על כל התנגדות לסמכות שיפוט זו או לשטח שיפוט זה.
+
+
+
+כתוצאה מכל מחלוקת שלא ניתן לפתור באמצעות הסדר חברי הדדי בינך לבין [BRAND_NAME_PROXY], אתה או [BRAND_NAME_PROXY] תהיו זכאים לבקש בוררות. אם לא ניתן לפתור את המחלוקת באמצעות תיווך תוך 30 ימים קלנדריים, מחלוקת זו תוגש לבית המשפט המחוזי כמתואר לעיל.
+
+
+
+11. פסקה כללית
+
+הכותרות בתנאים מיועדות לנוחותך בלבד.
+ 
+אם [BRAND_NAME_PROXY] לא תנקוט נגדך צעדים בגין הפרה כלשהי מצדך, אין זה מהווה ויתור על זכויותיה במסגרת הפרה זו או במסגרת הפרות נוספות או דומות.
+
+
+
+אם בית משפט בעל סמכות שיפוט יקבע כי חלק כלשהו מתנאים אלה אינו חוקי או בלתי ניתן לאכיפה, התנאי הבלתי חוקי או הבלתי ניתן לאכיפה יוחלף בתנאי חוקי וניתן לאכיפה שקרוב במידת האפשר לכוונה של התנאי המקורי, ושאר התנאים יישארו בתוקף. 
+
+
+
+אינך רשאי להקצות את התנאים או להקצות, להעביר או לתת רישיון משנה של הזכויות שלך בתנאים.
+
+
+
+[BRAND_NAME_PROXY] עשויה להקצות תנאים אלה, במלואם או בחלקם, בכל עת, גם מבלי ליידע אותך. 
+
+
+
+תנאים אלה מקבלים קדימות על פני כל תכתובת קודמת או עכשווית מכל סוג שהוא בינך לבין [BRAND_NAME_PROXY] ביחס לאתר.
+
+
+
+12. ההסכם כולו
+
+התנאים והקבצים המצורפים של החידוש מהווים את ההסכם המלא בינך לבין [BRAND_NAME_PROXY] ביחס לשירותי [BRAND_NAME_PROXY].
+
+
+
+13. שינוי התנאים
+
+[BRAND_NAME_PROXY] עשויה מעת לעת לעדכן, לשנות או למחוק תוכן בתנאים לפי שיקול דעתה.
+
+
+
+עליך לבדוק את התנאים המתפרסמים באתר [BRAND_NAME_PROXY], העשויים להיות שונים מהתנאים שקראת במקור.
+
+
+
+בעצם השימוש בתוכנה המחודשת ובמכשיר [BRAND_NAME_PROXY], נקבע כי אתה מסכים לשינויים שכאלה.
+
+"</string>
+    <string name="fih_legal_title">מידע משפטי של [BRAND_NAME_PROXY]</string>
+    <string name="finish_button_label">סיום</string>
+    <string name="google_account_add_account">‏היכנס באמצעות Google</string>
+    <string name="google_account_intro_description">הגדר חשבון Google כדי ליהנות מכל שירותי Google.</string>
+    <string name="google_account_intro_title">חשבון Google</string>
+    <string name="hmd_legal_message">"תנאי שירות 
+ 
+תאריך תוקף: 14 באוקטובר, 2016 
+ 
+‎1.‎ הסכמה 
+תנאי השירות של HMD Global, יחד עם מדיניות הפרטיות וכל שאר התנאים והמידע הנוספים שעשויים להימסר במסגרת השירות (ביחד: התנאים) חלים על השימוש שלך בשירות, באתר, בתוכן ובתוכנה (ביחד: \"השירות\"). ההרשמה לשירות או השימוש בשירות, או בכל חלק ממנו, מהווים הסכמה מצדך לתנאים. 
+ 
+התנאים מהווים הסכם בינך לבין HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finland, כולל החברות הבנות והספקים שלה (ביחד: HMD Global), שמגדיר את הזכויות ותחומי האחריות שלך ושל HMD Global בנוגע לשירות. 
+ 
+‎‎2.‎ כשירות 
+כדי להשתמש בשירות, עליך להיות בן שלוש עשרה (13) שנים לפחות. אם גילך נמוך משלוש עשרה (13) שנים, ואם גילך שלוש עשרה (13) שנים לפחות, אך אתה נחשב לקטין מבחינת החוק החל במקום מגוריך, על ההורה או האפוטרופוס שלך להסכים בשמך להרשמה ולאשר את השימוש שלך בשירות. כל מ"</string>
+    <string name="hmd_user_experience_program_message">ההשתתפות שלך בתוכנית חווית המשתמש עוזרת ל-HMD Global להבין טוב יותר מה מוצא חן בעיניך במכשיר Nokia ומה לדעתך דורש שיפור. מדי פעם ייתכן שנקבל נתונים אנונימיים בעלי מאפיינים טכניים על המכשיר שלך, למשל קובץ עם נתונים על קריסת תוכנה שאירעה. נתונים מסוג זה לא יועברו דרך חיבור לרשת סלולרית. נשמח לשמוע ממך מה דעתך על מכשיר Nokia!</string>
+    <string name="hmd_user_experience_program_title">תוכנית חוויית המשתמש</string>
+    <string name="idle_too_long_toast">הטלפון אינו פעיל כבר זמן מה. כבה כעת כדי לשמור על הסוללה.</string>
+    <string name="language_selection_cancel_btn">ביטול</string>
+    <string name="language_selection_title">בחר שפה</string>
+    <string name="location_for_service">"השתמש ב'מיקום שלי' לקבלת תוצאות חיפוש ושירותים אחרים של Google."</string>
+    <string name="location_info_1">שירות המיקום של Google מספק ליישומים את המיקום המשוער שלך מבלי להשתמש ב-GPS.</string>
+    <string name="location_info_2">"ניתן להשבית תכונות אלה ב'הגדרות', תחת 'שירות מיקום'."</string>
+    <string name="location_network">אפשר לשירות המיקום של Google לאסוף נתוני מיקום אנונימיים. האיסוף יתבצע אפילו כששום יישום אינו פועל.</string>
+    <string name="location_title">השתמש במיקום Google</string>
+    <string name="nevigation_selection_back">חזרה</string>
+    <string name="nevigation_selection_home">דף ראשי</string>
+    <string name="nevigation_selection_recent">פריטים אחרונים</string>
+    <string name="nevigation_selection_text">"ניתן לשנות את צבע הרקע והמיקום של המקשים 'חזור'/'אחרונים'."</string>
+    <string name="nevigation_selection_title">הגדרות סרגל הניווט</string>
+    <string name="next_btn_lebel">הבא</string>
+    <string name="normal_date_format">אזורי (%s)</string>
+    <string name="search_menu_title">חיפוש</string>
+    <string name="setup_complete_hmd">אתה מוכן...</string>
+    <string name="setup_complete_main">אתה</string>
+    <string name="setup_complete_sub">מוכן להתחיל.</string>
+    <string name="setup_completed_congratulations">כל הכבוד!</string>
+    <string name="sim_not_exist_toast">בדוק אם הכנסת כרטיס SIM.</string>
+    <string name="skip_add_account_button_label">לא עכשיו</string>
+    <string name="skip_button_label">דלג</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">קבל</string>
+    <string name="term_disagree_text">לא מסכים</string>
+    <string name="terms_of_service_description">"
+ייתכן שתחויב בסכום נוסף על שימוש בנתונים סלולריים בעת השימוש בשירותים הדורשים חיבור לרשת, כגון שירותי מזג אוויר, שירותי אינטרנט, דואל, דפדפן וכולי. כדי לנהל את התשלום על השימוש בנתונים הסלולריים בצורה יעילה יותר, מומלץ להשתמש בחבילת שירותים סלולריים מתאימה מהספק שלך.
+
+כשאתה בוחר להסכים, אתה מאפשר לשירותים אלה להתחבר לרשת בעת הצורך.
+
+בנוסף, עדכון תוכנה אוטומטי מופעל כברירת מחדל. לצורך חוויית התוכנה העדכנית ביותר, ייתכן שייעשה שימוש בנתונים סלולריים. תוכל תמיד לשנות אפשרות זו בהמשך תחת 'הגדרות'.
+
+"</string>
+    <string name="terms_title">שימוש בנתונים</string>
+    <string name="time_picker_title">שעה</string>
+    <string name="traffic_prompt_content">אם תבחר שלא להסכים, תצטרך להשיג את עדכון התוכנה, תחזית מזג האוויר או המידע האחר בצורה ידנית.</string>
+    <string name="upload_agent_des_text">"הצטרף לתוכנית חוויית המשתמש. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>למידע נוסף&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"הצטרף לתוכנית חוויית המשתמש של Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>למידע נוסף.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">תוכנית חוויית המשתמש</string>
+    <string name="v7_preference_off">כבוי</string>
+    <string name="v7_preference_on">מופעל</string>
+    <string name="welcome_hmd_term_of_use_2">"על ידי לחיצה על החץ אתה מסכים ל&lt;a href='launch.TermOfServiceActivity://Kode'>תנאי השירות&lt;/a> ול&lt;a href='launch.AddUploadAgentHandler://Kode'>מדיניות הפרטיות&lt;/a>. נתוני הפעלת המכשיר, כולל באופן חד פעמי מיקום המכשיר, יישלחו אל HMD Global. ייתכן שיחולו עלויות העברת נתונים."</string>
+    <string name="welcome_infocus_term_of_use">"בעצם ההקשה על החץ, אתה מסכים ל&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>תנאי השימוש&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">נתחיל</string>
+    <string name="welcome_message">ברוכים הבאים</string>
+    <string name="welcome_start_button_label">הפעל</string>
+    <string name="welcome_vision_settings_button_label">הגדרות חיפוש חזותי</string>
+    <string name="wifi_picker_connection_des_text">השבתת חיבור WLAN עשויה לגרור חיובים בכת אימות התוכנה דרך רשת סלולרית.</string>
+    <string name="wifi_picker_connection_negative">התחבר</string>
+    <string name="wifi_picker_connection_negative_prc">חבר WLAN</string>
+    <string name="wifi_picker_connection_positive">אשר</string>
+    <string name="wifi_picker_connection_title">חיבור רשת</string>
+    <string name="wifi_picker_warning_des_text">עד שיהיה לך חיבור לאינטרנט, הטלפון לא יוכל לאמת שהתוכנה שלך מעודכנת.</string>
+    <string name="wifi_picker_warning_negative">דלג בכל מקרה</string>
+    <string name="wifi_picker_warning_positive">אל תדלג</string>
+    <string name="wifi_picker_warning_title">אזהרה</string>
+    <string name="zone_auto">אזור זמן אוטומטי</string>
+    <string name="zone_auto_summaryOff">לפי אזור הזמן שמספקת הרשת</string>
+    <string name="zone_auto_summaryOn">לפי אזור הזמן שמספקת הרשת</string>
+    <string name="sugarsync_intro_description">באפשרותך ליהנות משילוב חלק של אחסון בענן באמצעות SugarSync על-ידי ביצוע כמה שלבים פשוטים.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Servizio meteo</string>
+    <string name="fih_weather_permission_hint_1">"E' necessario un permesso aggiuntivo affinché l'app funzioni correttamente. Concedi il permesso al momento della richiesta."</string>
+    <string name="fih_weather_permission_hint_2">Per funzionare, questa app necessita di altre autorizzazioni. Gestire autorizzazione Servizio meteo in Impostazioni.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Chiudi canale</string>
+    <string name="fih_weather_button_setting">Impostazione in corso...</string>
+    <string name="fih_weather_permission_success">Autorizzazione posizione concessa</string>
+    <string name="fih_weather_permission_failed">Autorizzazione posizione negata. Posizione non ricevuta.</string>
+    <string name="fih_weather_notification_title">Il Servizio meteo richiede autorizzazioni</string>
+    <string name="fih_weather_notification_text">Tocca e consenti</string>
+    <string name="fih_weather_notification_channel_title">Notifiche generali</string>
+</resources>

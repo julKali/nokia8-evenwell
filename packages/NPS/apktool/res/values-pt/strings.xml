@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">CANCELAR</string>
+    <string name="DONE">CONCLUÍDO</string>
+    <string name="NEXT">Seguinte</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">ANTERIOR</string>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_capital_off">DESATIVAR</string>
+    <string name="abc_capital_on">ATIVAR</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="alert_empty_desc">Adicione a sua descrição!</string>
+    <string name="alert_warning_title">Tips</string>
+    <string name="app_name">NPS</string>
+    <string name="enter_comments">Introduzir comentários (1000 caracteres)</string>
+    <string name="extremely_likely">(Muito provável)</string>
+    <string name="feedback">Comentários</string>
+    <string name="helps_us_improve_our_products">Os seus comentários ajudam-nos a melhorar os nossos produtos!</string>
+    <string name="intro_title">Qual a probabilidade de recomendar este telemóvel a um amigo ou colega?</string>
+    <string name="msg_send_after">A mensagem será carregada automaticamente, quando o dispositivo se encontrar online. Obrigado pela sua resposta.</string>
+    <string name="msg_send_fail">Falha ao enviar. A mensagem será carregada automaticamente quando o dispositivo estiver online. Obrigado pela sua resposta.</string>
+    <string name="no_ask_feedback_again_text">Não mostrar novamente</string>
+    <string name="no_showagain_text">Não mostrar novamente</string>
+    <string name="not_at_all_likely">(Muito pouco provável)</string>
+    <string name="privacy_context_wifi">"Caros utilizadores, 
+
+Bem-vindo à utilização do software de cliente de comentários. Leia atentamente para conhecer os termos de serviço antes de utilizar este produto. Ao clicar em「Concordo」significa que compreendeu o privilégio deste software e concorda com a sua utilização. Se NÃO aceitar os presentes termos, prima o botão「Sair」. Para lhe prestar serviços mais abrangentes, a Aplicação precisa das seguintes permissões: 
+1. Aceda à Internet através da rede WLAN para enviar informações de comentários. 
+2. Importe as informações do IMEI, PSN e MNC\\MCC para adquirir automaticamente as informações básicas do telemóvel"</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="select_a_value">Selecionar um valor</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Aceitar</string>
+    <string name="str_leave">Sair</string>
+    <string name="submit_fail">Falha ao submeter</string>
+    <string name="submit_success">Obrigado pela sua resposta.</string>
+    <string name="thank_your_feedback">Obrigado pelos seus comentários!</string>
+    <string name="we_appreciate_your_help">Agradecemos a sua ajuda para fazer dos produtos Nokia os melhores no mundo.</string>
+    <string name="we_hope_enjoying_nokia_device">Esperamos que esteja a desfrutar do seu dispositivo Nokia. Os seus comentários são muito importantes para nós.</string>
+    <string name="we_will_contact_you_again">Voltaremos a contactá-lo no futuro.</string>
+    <string name="we_will_contact_you_again_enjoy">Voltaremos a contactá-lo no futuro. Desfrute do seu novo dispositivo Nokia!</string>
+    <string name="why_you_gave_this_score">Diga-nos o motivo para atribuir esta pontuação:</string>
+</resources>

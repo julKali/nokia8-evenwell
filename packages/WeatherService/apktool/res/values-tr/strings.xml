@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+    <string name="fih_weather_button_close">Kapat</string>
+    <string name="fih_weather_button_ok">USB belleği</string>
+    <string name="fih_weather_button_setting">Ayarlanıyor...</string>
+    <string name="fih_weather_notification_channel_title">Genel bildirimler</string>
+    <string name="fih_weather_notification_text">İzin vermek için dokunun</string>
+    <string name="fih_weather_notification_title">Hava Durumu Hizmeti izin gerektiriyor</string>
+    <string name="fih_weather_permission_failed">Konum bilgisi izni reddedildi, konum alınamıyor.</string>
+    <string name="fih_weather_permission_hint_1">Bu uygulamanın düzgün çalışabilmesi için ek izinler verilmesi lazım. Lütfen sorulduğunda izin verin.</string>
+    <string name="fih_weather_permission_hint_2">"Bu uygulamanın düzgün çalışması için ek izinler gerekiyor. Ayarlar'da Hava Durumu Hizmeti'nin iznini düzenleyin."</string>
+    <string name="fih_weather_permission_success">Konum bilgisi izni verildi</string>
+    <string name="fih_weather_service_title_txt">Hava Durumu Hizmeti</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

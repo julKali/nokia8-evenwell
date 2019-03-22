@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Protection</string>
+    <string name="warning_title">Warning</string>
+    <string name="warning_message">Your phone has ever been rooted. This may result in system instability, malware or virus attacks or privacy information leakage.</string>
+    <string name="ok_btn">OK</string>
+    <string name="ignore_btn">Never Remind</string>
+</resources>

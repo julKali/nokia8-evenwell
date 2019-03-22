@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Declaració de privadesa</string>
+    <string name="privacy_activity">Declaració de privadesa</string>
+    <string name="app_name">Diagnòstics del sistema</string>
+    <string name="setting_page_name">"Programa per a l'experiència dels usuaris"</string>
+    <string name="send_diag_dialog_any_network">Quan una connexió de dades està disponible</string>
+    <string name="send_diag_dialog_wifi">Quan una connexió Wi-Fi està disponible</string>
+    <string name="send_diag_dialog_wlan">Quan una connexió WLAN està disponible</string>
+    <string name="send_diag_dialog_title">Enviar els diagnòstics</string>
+    <string name="diagnostics_setting">Diagnòstics</string>
+    <string name="diagnostics_report">Informe de diagnòstics</string>
+    <string name="diagnostics_report_summary">"Envia un informe de diagnòstics quan el dispositiu experimenta un error de programari. És possible que s'apliquin els costos de connexió a la xarxa. Es recomana adquirir el paquet de xarxa de dades del proveïdor del servei."</string>
+    <string name="network_options">Opcions de xarxa</string>
+    <string name="send_diagnostics">Enviar els diagnòstics</string>
+    <string name="cancel_upload_confirm_msg">"Esteu a punt de sortir del Programa per a l'experiència dels usuaris. Els errors de programari que s'han produït al telèfon no s'emmagatzemaran ni s'enviaran i, per tant, no podrem millorar la vostra experiència amb aquest telèfon."</string>
+</resources>

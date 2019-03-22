@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">خدمة الطقس</string>
+    <string name="fih_weather_permission_hint_1">للعمل بشكل صحيح، يحتاج هذا التطبيق إلى أذون إضافية. يرجى السماح بالإذن عند طلب ذلك.</string>
+    <string name="fih_weather_permission_hint_2">يتطلب هذا التطبيق أذونات إضافية ليعمل بصورة صحيحة. يرجى إدارة أذونات خدمة الطقس في الإعداد.</string>
+    <string name="fih_weather_button_ok">ठीक</string>
+    <string name="fih_weather_button_close">اختر القناة</string>
+    <string name="fih_weather_button_setting">جاري الضبط...</string>
+    <string name="fih_weather_permission_success">نجح منح إذن الموقع</string>
+    <string name="fih_weather_permission_failed">تم رفض منح إذن الموقع، يتعذر الحصول على الموقع.</string>
+    <string name="fih_weather_notification_title">تتطلب خدمة الطقس أذونات</string>
+    <string name="fih_weather_notification_text">النقر للسماح</string>
+    <string name="fih_weather_notification_channel_title">الإشعارات العامة</string>
+</resources>

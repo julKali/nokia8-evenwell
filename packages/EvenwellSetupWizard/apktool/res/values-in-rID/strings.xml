@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Aksesibilitas</string>
+    <string name="app_name">PanduanPengaturan</string>
+    <string name="available_via_passpoint">Tersedia lewat %1$s</string>
+    <string name="connected_via_passpoint">Tersambung lewat %1$s</string>
+    <string name="connected_via_wfa">Tersambung lewat bantuan Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Batal</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="insert_sim_cards">Memasukkan kartu SIM</string>
+    <string name="insert_sim_cards_prompt_content">"Tidak tahu caranya? Lihat petunjuk yang diberikan bersama telepon.
+
+Setelah kartu SIM dimasukkan, mungkin diperlukan beberapa saat hingga kartu diaktifkan."</string>
+    <string name="language_selection_cancel_btn">BATAL</string>
+    <string name="light_room_description">%1$s mendukung pengambilan gambar RAW (DNG). Anda dapat mengedit secara langsung dari smartphone baru Anda berkat kerja sama kami dengan Adobe.&lt;br/>&lt;br/>Unduh Adobe Photoshop Lightroom CC dari Google Play sekarang juga.</string>
+    <string name="light_room_title">Sangat berminat dengan fotografi?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="nevigation_selection_back">Kembali</string>
+    <string name="next_btn_lebel">BERIKUTNYA</string>
+    <string name="not_now">TIDAK SEKARANG…</string>
+    <string name="passpoint_content">%1$s kredensial</string>
+    <string name="passpoint_label">Disimpan lewat</string>
+    <string name="please_select_phase2">Autentikasi fase 2</string>
+    <string name="proxy_error_empty_host_set_port">Bidang port harus kosong jika bidang host kosong.</string>
+    <string name="proxy_error_empty_port">Anda harus menyelesaikan bidang port.</string>
+    <string name="proxy_error_invalid_exclusion_list">Daftar pengecualian yang Anda ketik tidak diformat dengan benar. Ketik daftar yang dipisahkan koma dari domain yang dikecualikan.</string>
+    <string name="proxy_error_invalid_port">Port yang Anda ketik tidak valid.</string>
+    <string name="proxy_exclusionlist_label">Pintas proxy untuk</string>
+    <string name="proxy_hostname_label">Nama host proxy</string>
+    <string name="proxy_port_label">Port proxy</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"URL PAC: "</string>
+    <string name="proxy_warning_limited_support">Proxy HTTP digunakan oleh browser namun tidak boleh digunakan oleh aplikasi lain.</string>
+    <string name="saved_network">Disimpan oleh %1$s</string>
+    <string name="select_sim_card">Pilih kartu SIM</string>
+    <string name="setup_complete_hmd_1">Anda hampir siap...!</string>
+    <string name="setup_finish">MULAI</string>
+    <string name="sim_editor_title">Slot SIM %1$d</string>
+    <string name="term_agree_text">Setuju</string>
+    <string name="upload_agent_hmd_des_text_3">"Dengan mengetuk \"MULAI\", Anda setuju bergabung dengan Program Pengalaman Pengguna. &lt;a href='launch.UserExperienceActivity://Kode'>Pelajari selengkapnya&lt;/a>. Ingat, Anda dapat bergabung kapan saja melalui Pengaturan."</string>
+    <string name="welcome_hmd_term_of_use_4">"Dengan mengetuk tombol, Anda menyetujui &lt;a href='launch.TermOfServiceActivity://Kode'>Persyaratan Layanan&lt;/a> dan &lt;a href='launch.AddUploadAgentHandler://Kode'>Kebijakan Privasi&lt;/a>. Informasi aktivasi perangkat dengan lokasi perangkat satu kali akan dikirim ke HMD Global.&lt;br/>&lt;br/>Pemberitahuan Pembaruan Perangkat Lunak Otomatis akan diaktifkan untuk menginstal pembaruan terkini Anda. Proses ini dapat memerlukan sebagian kecil anggaran data Anda. Layanan tersebut akan mengakses Internet kapan pun dibutuhkan.&lt;br/>&lt;br/>Layanan ini akan menimbulkan beban biaya berlebih bila mengakses jaringan seluler."</string>
+    <string name="welcome_hmd_term_of_use_5">"Dengan mengetuk tombol, menyetujui &lt;a href='launch.TermOfServiceActivity://Kode'>Persyaratan Layanan&lt;/a>. Informasi aktivasi perangkat dengan lokasi perangkat satu kali akan dikirim ke HMD Global. Anda mungkin akan dikenakan biaya data Data akan dikenakan sesuai dengan &lt;a href='launch.AddUploadAgentHandler://Kode'>Kebijakan Privasi&lt;/a>."</string>
+    <string name="wifi_add_network">Tambahkan jaringan</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Buka menurun daftar Pilihan Lanjutan. Ketuk dua kali untuk membuka.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Buka menurun daftar Pilihan Lanjutan. Ketuk dua kali untuk menciutkan.</string>
+    <string name="wifi_and_mobile_skipped_message">"Menyambung ke jaringan akan membantu Anda mengatur telepon dengan cepat.
+
+Tanpa koneksi, Anda tidak dapat:
+
+"<li>Masuk ke akun Cloud Anda</li>"
+
+"<li>Dapatkan pembaruan perangkat lunak</li>"
+
+"<li>Otomatis mengatur waktu dan tanggal</li></string>
+    <string name="wifi_auth_password_wrong">Sandi mungkin salah</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Batal</string>
+    <string name="wifi_certificate">Sertifikat</string>
+    <string name="wifi_connect">Sambung</string>
+    <string name="wifi_connected_no_internet">Tersambung, tidak ada Internet</string>
+    <string name="wifi_disabled_generic">Dinonaktifkan</string>
+    <string name="wifi_disabled_network_failure">Kegagalan Konfigurasi IP</string>
+    <string name="wifi_disabled_password_failure">Masalah autentikasi</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Jangan berikan</string>
+    <string name="wifi_do_not_validate_eap_server">Jangan validasi</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Tidak ada sertifikat yang ditentukan. Koneksi Anda tidak akan menjadi pribadi.</string>
+    <string name="wifi_dont_skip">KEMBALI</string>
+    <string name="wifi_eap_anonymous">Identitas anonim</string>
+    <string name="wifi_eap_ca_cert">Sertifikat CA</string>
+    <string name="wifi_eap_domain">Domain</string>
+    <string name="wifi_eap_identity">Identitas</string>
+    <string name="wifi_eap_method">Metode EAP</string>
+    <string name="wifi_eap_user_cert">Sertifikat pengguna</string>
+    <string name="wifi_fail_to_scan">Tidak dapat memindai jaringan</string>
+    <string name="wifi_failed_connect_message">Gagal tersambung ke jaringan</string>
+    <string name="wifi_failed_forget_message">Gagal melupakan jaringan</string>
+    <string name="wifi_failed_save_message">Gagal menyimpan jaringan</string>
+    <string name="wifi_forget">Lupakan</string>
+    <string name="wifi_frequency">Frekuensi</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_ip_address">Alamat IP</string>
+    <string name="wifi_ip_settings">Pengaturan IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Ketik alamat DNS yang valid.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Ketik alamat gateway yang valid.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Ketik alamat IP yang valid.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Ketik panjang prefiks jaringan antara 0 dan 32.</string>
+    <string name="wifi_multiple_cert_added">(Beberapa sertifikat ditambahkan)</string>
+    <string name="wifi_network_prefix_length">Panjang prefiks jaringan</string>
+    <string name="wifi_no_domain_warning">Harus menentukan domain.</string>
+    <string name="wifi_no_internet">Tidak ada akses Internet</string>
+    <string name="wifi_no_internet_no_reconnect">Tidak akan otomatis tersambung</string>
+    <string name="wifi_not_in_range">Tidak dalam jangkauan</string>
+    <string name="wifi_password">Sandi</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_remembered">Disimpan</string>
+    <string name="wifi_save">Simpan</string>
+    <string name="wifi_security">Keamanan</string>
+    <string name="wifi_security_none">Tidak ada</string>
+    <string name="wifi_setting_title">Tersambung</string>
+    <string name="wifi_shared">Berbagi dengan pengguna perangkat lain</string>
+    <string name="wifi_show_advanced">Pilihan lanjutan</string>
+    <string name="wifi_show_password">Tampilkan sandi</string>
+    <string name="wifi_signal">Kekuatan sinyal</string>
+    <string name="wifi_skip_anyway">LEWATI SAJA</string>
+    <string name="wifi_speed">Kecepatan link</string>
+    <string name="wifi_ssid">Nama jaringan</string>
+    <string name="wifi_ssid_hint">Masukkan SSID</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_unchanged">(tidak diubah)</string>
+    <string name="wifi_unspecified">Pilih</string>
+    <string name="wifi_use_system_certs">Gunakan sertifikat sistem</string>
+</resources>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="accessibility_text">Khả năng truy cập</string>
+    <string name="account_intro_description">Bạn có thể t.hưởng D.vụ [BRAND_NAME] bằng cách h.tất vài bước đ.giản.</string>
+    <string name="account_intro_title">Dịch vụ [BRAND_NAME]</string>
+    <string name="add_account_button_label">Cài đặt tài khoản</string>
+    <string name="add_baidu_button_label">Đăng nhập 百度云</string>
+    <string name="add_infocus_service_account">Thêm tài khoản dịch vụ [BRAND_NAME]</string>
+    <string name="back_btn_lebel">TRỞ VỀ</string>
+    <string name="backup_and_restore_description">"Nếu đã sao lưu tài khoản của bạn trước đó, bạn có thể phục hồi nó ngay sang ĐT này.
+
+Bạn có thể đổi cài đặt sao lưu bất cứ lúc nào trong Cài đặt."</string>
+    <string name="backup_and_restore_title">Sao lưu và phục hồi</string>
+    <string name="baidu_intro_description">Bạn có thể tận hưởng dịch vụ tích hợp lưu trữ đám mây hoàn hảo với 百度云 bằng cách hoàn tất vài bước đơn giản.</string>
+    <string name="baidu_intro_title">Lưu trữ đám mây cho Baidu</string>
+    <string name="baidu_progress_dialog_des">Hãy đợi...</string>
+    <string name="choose_timezone">Chọn múi giờ</string>
+    <string name="datausage_dialog_negitive_btn">Hủy</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Cài đặt ngày &amp; giờ</string>
+    <string name="date_and_time_settings_summary">Đặt ngày, giờ, múi giờ &amp; định dạng</string>
+    <string name="date_and_time_settings_title">Ngày &amp; giờ</string>
+    <string name="date_and_time_settings_title_setup_wizard">Đặt ngày giờ</string>
+    <string name="date_picker_title">Ngày</string>
+    <string name="date_time_24hour">Sử dụng định dạng 24 giờ</string>
+    <string name="date_time_auto">Ngày &amp; giờ tự động</string>
+    <string name="date_time_auto_summaryOff">Sử dụng thời gian do mạng cung cấp</string>
+    <string name="date_time_auto_summaryOn">Sử dụng thời gian do mạng cung cấp</string>
+    <string name="date_time_date_format">Chọn định dạng ngày</string>
+    <string name="date_time_set_date">Đặt ngày</string>
+    <string name="date_time_set_time">Đặt giờ</string>
+    <string name="date_time_set_timezone">Chọn múi giờ</string>
+    <string name="device_checking_message">Chào mừng</string>
+    <string name="dropbox_fih_description">Nhận 2GB dung lượng Dropbox miễn phí để tự động lưu ảnh chụp và video clip.</string>
+    <string name="dropbox_fih_signin">Đăng nhập Dropbox</string>
+    <string name="dropbox_fih_signup">Đăng ký Dropbox</string>
+    <string name="dropbox_fih_title">Dropbox</string>
+    <string name="emergency_dial_hmd_message">Khẩn cấp</string>
+    <string name="emergency_dial_message">Gọi khẩn cấp</string>
+    <string name="expand_button_title">Nâng cao</string>
+    <string name="fih_legal_message">"Điều khoản Sử dụng Phần mềm[BRAND_NAME_PROXY] 
+ Ngày hiệu lực: 20/5/2016
+ 
+ Các Điều khoản và Điều kiện sau đây (được gọi là \" Điều khoản\") tạo thành một thỏa thuận pháp lý điều chỉnh việc sử dụng bất kỳ Phần mềm [BRAND_NAME_PROXY] nào giữa bạn và [BRAND_NAME_PROXY] Inc., và đại lý của họ, Commtiva Technology Ltd. (được gọi chung là \"[BRAND_NAME_PROXY]\") và áp dụng cho việc sử dụng Phần mềm [BRAND_NAME_PROXY], bao gồm nhưng không giới hạn ở việc tải về, cài đặt, tự động gia hạn (được gọi là \" Dịch vụ Phần mềm \"). Bằng việc sử dụng Phần mềm [BRAND_NAME_PROXY] bạn đồng ý bị ràng buộc bởi các Điều khoản này; nếu bạn không đồng ý với các Điều khoản này, không tải về, không sao chép, không sử dụng hoặc giữ lại Phần mềm [BRAND_NAME_PROXY].
+ 
+ 1. Điều khoản Sử dụng
+ Miễn là bạn tuân thủ các Điều khoản này, [BRAND_NAME_PROXY] cấp cho bạn phạm vi cá nhân, không độc quyền, không thể chuyển nhượng, có thể hủy bỏ bất cứ lúc nào và bị giới hạn đối với việc sử dụng Dịch vụ Phần mềm [BRAND_NAME_PROXY]. [BRAND_NAME_PROXY] sẽ cài đặt mã đối tượng vào thiết bị di động thông minh [BRAND_NAME_PROXY] của bạn (được gọi là \" Điện thoại [BRAND_NAME_PROXY] \") qua internet. Bạn thừa nhận và đồng ý rằng Phần mềm [BRAND_NAME_PROXY] trên Điện thoại [BRAND_NAME_PROXY] của bạn không được sử dụng cho mục đích thương mại hoặc chuyển nhượng cho bên thứ ba bất kỳ.
+ Bạn cũng đồng ý rằng bạn sẽ không sử dụng Phần mềm [BRAND_NAME_PROXY] theo bất cứ cách nào dưới đây:
+ (a) Bẻ khóa Phần mềm [BRAND_NAME_PROXY] (bao gồm cả các công nghệ cơ bản), hoặc sử dụng Phần mềm [BRAND_NAME_PROXY] trên bất kỳ thiết bị nào không có thương hiệu trong [BRAND_NAME_PROXY];
+ (b) Phân tích, dịch ngược, thiết kế kỹ thuật ngược, giải mã, sao chép, sửa đổi Phần mềm [BRAND_NAME_PROXY] hoặc tạo ra sản phẩm bắt nguồn từ những hành động này với bất kỳ mục đích nào;
+ (c) Thực hiện bất cứ hoạt động nào bao gồm nhưng không giới hạn ở việc chuyển nhượng, cho thuê, cho mượn, hoặc cấp giấy phép thứ cấp, xung đột với các Điều khoản và công khai Phần mềm [BRAND_NAME_PROXY] hoặc để bên thứ ba bất kỳ sử dụng, truy cập hoặc posse Phần mềm [BRAND_NAME_PROXY];
+ (d) Loại bỏ bất kỳ thông báo về quyền sở hữu, logo hay nhãn hiệu trong các loại Phần mềm [BRAND_NAME_PROXY] hoặc tài liệu mà không được sự đồng ý trước bằng văn bản của [BRAND_NAME_PROXY];
+ (e) Sử dụng Phần mềm [BRAND_NAME_PROXY] theo cách trái pháp luật hiện hành tại thời điểm hoặc vi phạm quyền của bên khác;
+ (f) Sử dụng Phần mềm [BRAND_NAME_PROXY] trong các môi trường cấm hoặc hạn chế việc sử dụng như vậy, bao gồm nhưng không giới hạn ở khu vực kiểm soát máy bay, trạm xăng, thiết bị hạt nhân; hoặc
+ (g) Sử dụng Phần mềm [BRAND_NAME_PROXY] theo cách bị cấm bởi Điều khoản.
+ 
+ Để đảm bảo Điện thoại [BRAND_NAME_PROXY] và Phần mềm [BRAND_NAME_PROXY] hoạt động đúng cách, bạn cam đoan và xác nhận rằng bạn sẽ không gỡ hoặc di chuyển (các) nhãn trên Điện thoại [BRAND_NAME_PROXY] mà không có sự hỗ trợ của nhân viên [BRAND_NAME_PROXY]. Các hoạt động trái phép như vậy sẽ ảnh hưởng đến phạm vi và thời gian bảo hành [BRAND_NAME_PROXY] cung cấp cho bạn.
+ 
+ 2. Chính sách Riêng tư
+ Bạn thừa nhận và đồng ý rằng [BRAND_NAME_PROXY] có thể thu thập và giữ lại bất kỳ thông tin nào, bao gồm nhưng không giới hạn ở kiểu chế độ, số sê-ri, mã IMEI/MEID、phiên bản phần cứng, phiên bản phần mềm, thời gian tích lũy, ID SKU, liên kết tĩnh mặc định và phiên bản hệ điều hành trong Điện thoại [BRAND_NAME_PROXY] của bạn (được gọi là \" Thông tin \"). 
+ Trong trường hợp [BRAND_NAME_PROXY] được yêu cầu tiết lộ bất kỳ thông tin nào cho cơ quan chính phủ hoặc hệ thống tòa án, [BRAND_NAME_PROXY] sẽ làm như được yêu cầu.
+ 
+ [BRAND_NAME_PROXY]Điện thoại sẽ thông báo cho [BRAND_NAME_PROXY] về trạng thái Điện thoại [BRAND_NAME_PROXY] không được kết nối với mạng di động trong ít nhất là 14 ngày kể từ ngày mua.
+ 
+ Vui lòng tham khảo Chính sách Riêng tư của [BRAND_NAME_PROXY] để biết thông tin chi tiết.
+ 
+ 3. Dịch vụ hỗ trợ
+ [BRAND_NAME_PROXY] sẽ cung cấp Dịch vụ Phần mềm, bao gồm nhưng không giới hạn ở cập nhật và nâng cấp cho Phần mềm [BRAND_NAME_PROXY] của bạn theo trạng thái hiện hành tại thời điểm [BRAND_NAME_PROXY] có được từ Điện thoại [BRAND_NAME_PROXY].
+ [BRAND_NAME_PROXY] sẽ cung cấp các bản cập nhật, bản sửa lỗi hoặc yếu tố bổ sung cho Phần mềm [BRAND_NAME_PROXY] sau khi bạn sử dụng Phần mềm [BRAND_NAME_PROXY] thông qua mạng internet và những điều này sẽ tùy thuộc vào Điều khoản.
+ 
+ [BRAND_NAME_PROXY] bảo lưu quyền chấm dứt, không cho bạn quyền có được bất kỳ Dịch vụ nào của [BRAND_NAME_PROXY] thông qua mạng internet để sử dụng Phần mềm và Dịch vụ của [BRAND_NAME_PROXY] một cách suôn sẻ.
+ [BRAND_NAME_PROXY] sẽ công bố các phiên bản Phần mềm [BRAND_NAME_PROXY] liên tiếp và yêu cầu bạn sử dụng phiên bản hệ điều hành cập nhật nhất.
+ 
+ 4. Tự động cập nhật
+ Để tăng cường và cải thiện Điện thoại [BRAND_NAME_PROXY] của chính bạn, Điện thoại được cài sẵn để tự động tải về chương trình cơ sở và phần mềm mới nhất từ [BRAND_NAME_PROXY] 
+ 
+ Để đảm bảo sự an toàn và ổn định của Điện thoại [BRAND_NAME_PROXY] và bạn đồng ý làm theo các hướng dẫn cần thiết cho việc cài đặt này và thực hiện theo hướng dẫn như được hướng dẫn bởi [BRAND_NAME_PROXY]. Vì bạn đồng ý tải về chương trình cơ sở hoặc phần mềm mới nhất, điều này được cho rằng bạn chấp nhận việc gia hạn và cài đặt này.
+ 
+ Để tránh mất tài liệu, ảnh, văn bản, tệp âm thanh, tệp video và các loại bản ghi điện bất kỳ có thể bị mất hoặc bị hỏng khi Điện thoại [BRAND_NAME_PROXY] tiến hành cập nhật, bạn có trách nhiệm sao lưu tất cả các bản ghi điện đã nêu ở trên mà bạn đã lưu vào Điện thoại [BRAND_NAME_PROXY] trước khi tải về phiên bản chương trình cơ sở hoặc phần mềm mới nhất.
+ 
+ Sau khi Điện thoại [BRAND_NAME_PROXY] tự động cập nhật hoặc được cập nhật với sự đồng ý của bạn qua hình thức tin nhắn, điều này có nghĩa bạn đồng ý với những nội dung sau đây:
+ (a) Cập nhật Phần mềm:
+ Bạn đồng ý và thừa nhận rằng [BRAND_NAME_PROXY] có thể kết nối qua mạng internet để kiểm tra phiên bản phần mềm và cập nhật trạng thái trên Điện thoại [BRAND_NAME_PROXY]. Nếu [BRAND_NAME_PROXY] ra bất kỳ thông báo nâng cấp nào, [BRAND_NAME_PROXY] cho phép bạn cập nhật phiên bản và trạng thái Phần mềm [BRAND_NAME_PROXY] thông qua Dịch vụ của [BRAND_NAME_PROXY].
+ Khi Phần mềm [BRAND_NAME_PROXY] mới có sẵn, bạn đồng ý để [BRAND_NAME_PROXY] gửi cho bạn thông báo về các bản cập nhật này. Nếu bạn xác nhận các bản cập nhật mới khả dụng, điều này có nghĩa bạn đồng ý để [BRAND_NAME_PROXY] tự động cập nhật Điện thoại [BRAND_NAME_PROXY].
+ (b) Đồng bộ và cập nhật nội dung:
+ Sau khi bạn kết nối Điện thoại [BRAND_NAME_PROXY] với máy tính hoặc với thiết bị khác, Điện thoại tay [BRAND_NAME_PROXY] sẽ tự động cập nhật các nội dung liên quan và các thông tin khác (ví dụ: thông tin liên lạc, lịch, dấu trang và các tệp.)
+ 
+ 5. Bảo lưu tất cả quyền sở hữu và các quyền khác trong Phần mềm [BRAND_NAME_PROXY]
+ Mặc dù bạn được phép sử dụng Phần mềm và Dịch vụ của [BRAND_NAME_PROXY], [BRAND_NAME_PROXY], công ty trực thuộc và nhà cung cấp giữ tất cả quyền Phần mềm [BRAND_NAME_PROXY] bao gồm nhưng không giới hạn ở quyền sở hữu, bản quyền và quyền sở hữu trí tuệ khác.
+ 
+ Tất cả các quyền của Phần mềm [BRAND_NAME_PROXY] được bảo hộ bởi pháp luật tại nước sở tại và các điều ước quốc tế.
+ 
+ 6. Miễn trừ trách nhiệm
+ [BRAND_NAME_PROXY] không đại diện hoặc thực hiện bất kỳ sự bảo đảm nào, rõ ràng hay ngụ ý, bao gồm nhưng không giới hạn ở bảo đảm ngụ ý về khả năng bán hàng, đạt yêu cầu chất lượng và phù hợp cho một mục đích cụ thể, hoặc không vi phạm. 
+ [BRAND_NAME_PROXY] không đảm bảo rằng:
+ (a) Bất cứ Dịch vụ nào của [BRAND_NAME_PROXY] mà bạn có được đều đúng và đáng tin cậy; hoặc
+ (b) [BRAND_NAME_PROXY] Dịch vụ sẽ được cung cấp trên cơ sở liên tục, đúng lúc, an toàn; hoặc
+ (c) Bất cứ sai sót hoặc lỗi nào trong Phần mềm đã cung cấp sẽ được sửa ngay lập tức.
+ 
+ [BRAND_NAME_PROXY] sẽ không chịu trách nhiệm về bất kỳ tổn thất hoặc hư hỏng gây ra bởi vi rút hoặc các nội dung khác có hại cho kỹ thuật có thể ảnh hưởng đến Điện thoại [BRAND_NAME_PROXY], chương trình, dữ liệu hoặc nội dung thuộc quyền sở hữu khác do việc bạn sử dụng Dịch vụ [BRAND_NAME_PROXY]. Bạn tự chịu sự rủi ro khi truy cập vào tất cả nội dung bạn tải về hoặc có được thông qua [BRAND_NAME_PROXY] và bạn sẽ hoàn toàn chịu trách nhiệm cho về bất kỳ thiệt hại nào đối với Điện thoại [BRAND_NAME_PROXY] hoặc việc mất dữ liệu hoặc nội dung do tải về bất kỳ phần mềm nào.
+ 
+ 7. Giới hạn Trách nhiệm và Biện pháp khắc phục Dành riêng
+ [BRAND_NAME_PROXY] sẽ không chịu trách nhiệm đối với bất kỳ thiệt hại nào mang tính hậu quả, ngẫu nhiên, gián tiếp hoặc do trừng phạt, hoặc thiệt hại do mất lợi nhuận hoặc lộ bí mật hoặc các thông tin khác, do gián đoạn kinh doanh, do tổn hại cá nhân, thiệt hại tài sản, mất mát bảo mật, do không đáp ứng bất kỳ công việc thiện chí hoặc chăm sóc hợp lý nào hoặc do sơ suất.
+ Trong phạm vi tối đa được pháp luật hiện hành cho phép, trách nhiệm tối đa, toàn bộ của [BRAND_NAME_PROXY] đối với bạn và biện pháp khắc phục dành riêng cho bạn theo Điều khoản đối với bất kỳ và tất cả các thiệt hại, tổn hại, thiệt hại tài sản và các khoản lỗ phát sinh từ bất kỳ và tất cả các khiếu nại hoặc kiện tụng liên quan đến hoặc gắn với các Điều khoản để khắc phục những thiệt hại thực tế mà bạn phải chịu sẽ được giới hạn đến mười đô la Mỹ (10 USD). 
+ 
+ Nhiều khiếu nại hoặc kiện tụng liên quan đến hoặc gắn với các Điều khoản sẽ không mở rộng giới hạn trách nhiệm và, trong phạm vi tối đa được pháp luật được áp dụng cho phép, là biện pháp khắc phục duy nhất dành riêng cho bạn.
+ 
+ Nếu tòa án có thẩm quyền xét thấy giới hạn trách nhiệm ở trên không thể thực thi được, tòa án, trong phạm vi không được áp dụng, mà cụm từ được giới hạn trong đô la sẽ được coi là được thay thế bằng cụm từ \"được giới hạn trong giá trị của giao dịch mà theo đó trách nhiệm đã phát sinh.\"
+ 
+ Khiếu nại hoặc kiện tụng như vậy liên quan đến hoặc gắn với các Điều khoản phải được nộp trong vòng một năm sau khi nguyên nhân hành động xảy ra. 
+ 8. Bồi thường 
+ Bạn đồng ý bảo vệ, bồi thường và giữ [BRAND_NAME_PROXY], cổ đông, giám đốc, cán bộ, bên có quyền lợi, nhân viên, các công ty con và công ty trực thuộc, vô hại từ bất cứ đòi hỏi, mất mát, trách nhiệm, khiếu nại hoặc chi phí nào (bao gồm cả phí luật sư), được thực hiện chống lại [BRAND_NAME_PROXY] bởi bất kỳ bên thứ ba nào do hoặc phát sinh từ hoặc liên quan đến việc bạn lạm dụng Dịch vụ [BRAND_NAME_PROXY], điều này xâm phạm quyền của bên thứ ba.
+ 
+ 9. Chấm dứt Dịch vụ
+ Bạn sẽ không được phép sử dụng hợp pháp Dịch vụ [BRAND_NAME_PROXY] nếu không tuân theo các Điều khoản. Trong trường hợp đó, bạn phải hủy và xóa tất cả các bản sao của Phần mềm [BRAND_NAME_PROXY]. Trong khi đó, chế độ bảo hành Điện thoại [BRAND_NAME_PROXY] của bạn sẽ bị ảnh hưởng.
+ Trong trường hợp vi phạm như đã đề cập ở trên, bạn đồng ý rằng [BRAND_NAME_PROXY] có quyền áp dụng các biện pháp sau,
+ (a) Chấm dứt ngay lập tức quyền truy cập vào tài khoản [BRAND_NAME_PROXY] của bạn; và/hoặc
+ (b) Chặn không cho bạn truy cập vào tài khoản Dịch vụ [BRAND_NAME_PROXY] trong tương lai
+ 
+ Bạn cũng đồng ý rằng mọi vi phạm Điều khoản sẽ gây ra thiệt hại không thể khắc phục cho [BRAND_NAME_PROXY], thiệt hại về tiền không đủ cho những vi phạm đó, và bạn đồng ý để [BRAND_NAME_PROXY] có được sự bồi thường theo lệnh hoặc theo luật công bằng mà [BRAND_NAME_PROXY] xét thấy cần thiết hoặc thích hợp trong hoàn cảnh đó. Những biện pháp này được bổ sung vào bất kỳ biện pháp nào khác [BRAND_NAME_PROXY] có thể có theo luật hoặc theo luật công bằng.
+ 
+ 10. Luật Điều chỉnh và Thẩm quyền
+ Bạn đồng ý rằng tất cả các vấn đề liên quan đến tất cả các tranh chấp về Điều khoản sẽ được điều chỉnh bởi luật của Trung Hoa Dân Quốc (R.O.C) mà không quan tâm đến xung đột về các quy định pháp luật của nước này. 
+ 
+ Bạn đồng ý với quyền xét xử cá nhân do và địa điểm tổ chức xét xử tại tòa án Quận của Đài Bắc, Đài Loan và từ bỏ mọi sự phản đối nào đối với việc xét xử và địa điểm tổ chức xét xử đó.
+ 
+ Bất kỳ tranh chấp nào không thể giải quyết được bằng thỏa thuận hòa giải lẫn nhau giữa bạn và [BRAND_NAME_PROXY], bạn hoặc [BRAND_NAME_PROXY] sẽ có quyền tìm kiếm trung gian hòa giải. Nếu tranh chấp không thể giải quyết được bằng hòa giải trong vòng 30 ngày lịch, tranh chấp đó được nộp cho tòa án vùng được đề cập ở trên.
+ 
+ 11. Điều khoản chung
+ Các đề mục trong Điều khoản được sử dụng chỉ để thuận tiện.
+ Việc [BRAND_NAME_PROXY] không hành động chống lại sự vi phạm của bạn không có nghĩa là từ bỏ quyền của mình đối với vi phạm đó hoặc đối với các vi phạm tương tự hoặc sau đó.
+ 
+ Nếu tòa án có thẩm quyền xác định rằng bất kỳ phần nào trong Điều khoản này không hợp lệ hoặc không thể thực thi, tòa án sẽ thay thế điều khoản không hợp lệ hoặc không thể thực thi bằng một điều khoản hợp lệ, có thể thực thi, phù hợp nhất với mục đích của điều khoản ban đầu và phần còn lại của Điều khoản sẽ tiếp tục có hiệu lực. 
+ 
+ Bạn không thể chuyển giao Điều khoản hoặc chuyển giao, chuyển nhượng hay tái cấp phép các quyền của bạn trong Điều khoản.
+ 
+ [BRAND_NAME_PROXY] có thể chuyển giao các Điều khoản này, toàn bộ hoặc một phần, bất cứ lúc nào có hoặc không có thông báo trước cho bạn. 
+ 
+ Những Điều khoản này thay thế cho tất cả thông tin liên lạc trước đó hoặc cùng thời dưới bất kỳ hình thức nào giữa bạn và [BRAND_NAME_PROXY] liên quan đến Trang web.
+ 
+ 12. Toàn bộ thỏa thuận
+ Các Điều khoản và phần đính kèm việc gia hạn cấu thành toàn bộ thỏa thuận giữa bạn và [BRAND_NAME_PROXY] liên quan đến Dịch vụ [BRAND_NAME_PROXY].
+ 
+ 13. Sửa đổi Điều khoản
+ [BRAND_NAME_PROXY] theo thời gian có thể cập nhật, thay đổi hoặc xóa nội dung của Điều khoản theo ý mình.
+ 
+ Bạn cần kiểm tra các điều khoản được đăng trên trang web của [BRAND_NAME_PROXY], chúng có thể khác với các điều khoản bạn đã đọc ban đầu.
+ 
+ Bạn được xem là đã chấp nhận sự thay đổi này bằng việc bạn sử dụng phần mềm làm mới và Điện thoại [BRAND_NAME_PROXY].
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] pháp lý</string>
+    <string name="finish_button_label">Kết thúc</string>
+    <string name="google_account_add_account">Đăng nhập Google</string>
+    <string name="google_account_intro_description">Tạo tài khoản Google để tận hưởng mọi dịch vụ của Google.</string>
+    <string name="google_account_intro_title">Tài khoản Google</string>
+    <string name="hmd_legal_message">"Điều khoản dịch vụ 
+ 
+Ngày có hiệu lực: ngày 14 tháng 10 năm 2016 
+ 
+1. Chấp nhận 
+Những điều khoản dịch vụ của HMD Global này cùng với Chính sách quyền riêng tư của chúng tôi và tất cả các thông tin và điều khoản bổ sung khác được cung cấp trong Dịch vụ (gọi chung là Điều khoản) sẽ chi phối việc sử dụng dịch vụ, trang web và phần mềm (gọi chung là “Dịch vụ”). Khi đăng ký hoặc sử dụng Dịch vụ hoặc bất kỳ phần nào của Dịch vụ, nghĩa là bạn chấp nhận các Điều khoản. 
+ 
+Các Điều khoản hình thành một thỏa thuận giữa bạn và HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Phần Lan kể cả các công ty con và nhà cung cấp của Công ty (gọi chung là “HMD Global”), xác định các quyền và nghĩa vụ của bạn và HMD Global đối với Dịch vụ. 
+ 
+2. Điều kiện 
+Để sử dụng Dịch vụ, bạn phải từ mười ba (13) tuổi trở lên. Nếu bạn chưa đến mười ba (13) tuổi hoặc ít nhất đã mười ba (13) tuổi nhưng vẫn là thiếu niên tại nơi bạn ở, bạn phải được cha mẹ hoặc người giám hộ hợp pháp đại diện chấp nhận đăng ký của bạn và cho phép bạn sử dụng Dịch vụ. Bất kỳ ai hoàn thành việc đăng ký đều phải có đầy đủ năng lực pháp lý. 
+ 
+3. Đăng ký và chấm dứt 
+Để sử dụng Dịch vụ, bạn có thể phải đăng ký và tạo một Tài khoản HMD bằng tên người dùng và mật khẩu có thể tuân theo các điều khoản riêng. Bạn có thể phải cung cấp cho chúng tôi những thông tin cá nhân và thông tin khác nhất định. HMD Global có thể xác minh địa chỉ email của bạn trước khi có thể sử dụng Tài khoản HMD của bạn"</string>
+    <string name="hmd_user_experience_program_message">Sự tham gia của bạn vào chương trình trải nghiệm người dùng sẽ giúp HMD Global hiểu rõ hơn về những điều bạn hài lòng với thiết bị Nokia của mình cũng như những điều bạn cho là cần được cải tiến. Đôi khi, chúng tôi có thể nhận được dữ liệu ẩn danh có chứa các đặc điểm kỹ thuật về thiết bị của bạn, chẳng hạn như tệp có dữ liệu về lỗi phần mềm có thể gặp phải. Hãy lưu ý không truyền những dữ liệu này qua kết nối di động. Chúng tôi rất muốn biết suy nghĩ của bạn về thiết bị Nokia!</string>
+    <string name="hmd_user_experience_program_title">Chương trình trải nghiệm người dùng</string>
+    <string name="idle_too_long_toast">ĐT này ở c.độ chờ trong một ít thời gian. Tắt máy ngay để duy trì nguồn pin.</string>
+    <string name="label_text">Có, tôi đồng ý.</string>
+    <string name="label_text_negitive">Rất tiếc, tôi ko đồng ý.</string>
+    <string name="language_selection_cancel_btn">HUỶ</string>
+    <string name="language_selection_title">Chọn ngôn ngữ của bạn</string>
+    <string name="location_for_service">"Dùng đ.điểm của tôi cho các k.quả t.kiếm Google và d.vụ Google khác.
+
+"</string>
+    <string name="location_info_1">D.vụ định vị của Google cung cấp các ứ.dụng với địa điểm lân cận của bạn mà không dùng GPS.</string>
+    <string name="location_info_2">Bạn có thể tắt các tính năng này trong Cài đặt, trong Dịch vụ định vị.</string>
+    <string name="location_network">Cho phép dịch vụ định vị Google thu thập dữ liệu địa điểm ẩn danh. Việc thu thập sẽ xảy ra ngay cả khi ko chạy các ứ.dụng.</string>
+    <string name="location_title">Dùng Định vị Google</string>
+    <string name="nevigation_selection_back">Trở về</string>
+    <string name="nevigation_selection_home">M.hình chính</string>
+    <string name="nevigation_selection_recent">Gần đây</string>
+    <string name="nevigation_selection_text">Bạn có thể đổi màu nền và vị trí các phím Trở về/Gần đây.</string>
+    <string name="nevigation_selection_title">Bố cục điều hướng</string>
+    <string name="next_btn_lebel">Kế tiếp</string>
+    <string name="normal_date_format">Khu vực (%s)</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="setup_complete_hmd">Bạn đã sẵn sàng bắt đầu...</string>
+    <string name="setup_complete_main">Bạn đã</string>
+    <string name="setup_complete_message">Đã c.đặt ĐT của bạn và s.sàng s.dụng.</string>
+    <string name="setup_complete_sub">SẴN SÀNG T.CẬP.</string>
+    <string name="setup_completed_congratulations">Xin chúc mừng!</string>
+    <string name="sim_not_exist_toast">Kiểm tra xem bạn đã lắp SIM chưa.</string>
+    <string name="skip_add_account_button_label">Ko lúc này</string>
+    <string name="skip_button_label">Bỏ qua</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Đồng ý</string>
+    <string name="term_disagree_text">Ko đồng ý</string>
+    <string name="terms_of_service_description">"
+Có thể phát sinh thêm cước phí sử dụng dữ liệu di động khi bạn sử dụng các dịch vụ cần kết nối mạng chẳng hạn như dịch vụ thời tiết, dịch vụ internet, email, trình duyệt, v.v... Để quản lý hiệu quả hơn cước phí sử dụng dữ liệu di động, chúng tôi khuyên bạn đăng ký gói dịch vụ di động thích hợp từ nhà khai thác mạng.
+
+Bằng cách chọn đồng ý, bạn cho phép các dịch vụ này kết nối mạng khi cần thiết.
+
+Ngoài ra, chức năng cập nhật phần mềm tự động sẽ được kích hoạt mặc định. Nhằm mang lại cho bạn trải nghiệm phần mềm mới nhất, nó có thể sử dụng một số dữ liệu di động. Sau đó bạn luôn có thể đổi tùy chọn này trong phần Cài đặt.
+
+"</string>
+    <string name="terms_title">Sử dụng dữ liệu</string>
+    <string name="time_picker_title">Thời gian</string>
+    <string name="traffic_prompt_content">Nếu chọn ko đồng ý, bạn sẽ phải nhận cập nhật p.mềm, tin dự báo thời tiết hoặc thông tin khác bằng cách thủ công.</string>
+    <string name="upload_agent_configuration">C.trình trải nghiệm người dùng</string>
+    <string name="upload_agent_des">Vui lòng giúp chúng tôi cải thiện các sản phẩm và dịch vụ bằng cách cho phép chúng tôi thu thập các dữ liệu chẩn đoán khi ĐT của bạn gặp phải lỗi hay hỏng hóc phần mềm. Sau này bạn luôn có thể đổi t.chọn này trong cấu hình p.tiện tải lên.</string>
+    <string name="upload_agent_des_text">"T.gia c.trình t.nghiệm n.dùng.&lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>T.hiểu thêm&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Tham gia chương trình Trải nghiệm dành cho người dùng Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Tìm hiểu thêm.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">C.trình trải nghiệm người dùng</string>
+    <string name="v7_preference_off">TẮT</string>
+    <string name="v7_preference_on">BẬT</string>
+    <string name="welcome_hmd_term_of_use_2">"Bằng cách nhấn vào mũi tên, bạn đồng ý với &lt;a href='launch.TermOfServiceActivity://Kode'>Điều khoản dịch vụ&lt;/a> và &lt;a href='launch.AddUploadAgentHandler://Kode'>Chính sách bảo mật&lt;/a>. Thông tin kích hoạt thiết bị cùng với vị trí thiết bị một lần sẽ được gửi đến HMD Global. Có thể mất phí dữ liệu."</string>
+    <string name="welcome_infocus_term_of_use">"Bằng cách nhấn vào mũi tên, bạn đồng ý&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Service term&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Hãy bắt đầu</string>
+    <string name="welcome_message">Chào mừng</string>
+    <string name="welcome_start_button_label">BẮT ĐẦU</string>
+    <string name="welcome_vision_settings_button_label">Cài đặt Tầm nhìn</string>
+    <string name="wifi_picker_connection_des_text">Kết nối mạng di động hiện hành có thể phát sinh cước khi xác nhận phần mềm.</string>
+    <string name="wifi_picker_connection_negative">Kết nối</string>
+    <string name="wifi_picker_connection_negative_prc">Kết nối WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">Kết nối Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Kết nối mạng</string>
+    <string name="wifi_picker_warning_des_text">Cho đến khi bạn kết nối internet, điện thoại sẽ không thể xác nhận là phần mềm của bạn đã được cập nhật.</string>
+    <string name="wifi_picker_warning_negative">Dù gì vẫn bỏ qua</string>
+    <string name="wifi_picker_warning_positive">Đừng qua</string>
+    <string name="wifi_picker_warning_title">Chú ý</string>
+    <string name="zone_auto">Múi giờ tự động</string>
+    <string name="zone_auto_summaryOff">Sử dụng múi giờ do mạng cung cấp</string>
+    <string name="zone_auto_summaryOn">Sử dụng múi giờ do mạng cung cấp</string>
+    <string name="sugarsync_intro_description">Bạn có thể tận hưởng dịch vụ tích hợp lưu trữ đám mây hoàn hảo với SugarSync bằng cách hoàn tất vài bước đơn giản.</string>
+</resources>

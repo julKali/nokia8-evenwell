@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP\" klientas</string>
+    <string name="fih_cp_notify_statusbar_content">Naujas aprūpinimo pranešimas</string>
+    <string name="fih_cp_notification_channel_name">Bendrieji pranešimai</string>
+    <string name="fih_cp_ui_mode_ok">Gerai</string>
+    <string name="fih_cp_ui_mode_postpone">Atidėti</string>
+    <string name="fih_cp_ui_mode_delete">Ištrinti</string>
+    <string name="fih_cp_apply_dialog_head_msg">Naujas aprūpinimas</string>
+    <string name="fih_cp_apply_dialog_body_msg">Ar norite taikyti naują konfigūraciją?</string>
+    <string name="fih_cp_toast_info_update">Profilis sėkmingai atnaujintas</string>
+    <string name="fih_cp_toast_info_create">Profilis sėkmingai sukurtas</string>
+    <string name="fih_cp_editor_apn_name">Pavadinimas</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Tarpinis serveris</string>
+    <string name="fih_cp_editor_apn_http_port">Prievadas</string>
+    <string name="fih_cp_editor_apn_user">Naudotojo vardas</string>
+    <string name="fih_cp_editor_apn_password">Slaptažodis</string>
+    <string name="fih_cp_editor_apn_server">Serveris</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS\" tarpinis serveris</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS\" prievadas</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Tapatybės nustatymo tipas</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Nėra</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP\" arba \"CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN tipas</string>
+    <string name="fih_cp_btn_ok">Gerai</string>
+    <string name="fih_cp_btn_cancel">Atšaukti</string>
+    <string name="fih_cp_btn_next">Kitas</string>
+    <string name="fih_cp_btn_back">Atgal</string>
+    <string name="fih_cp_apn_not_set">&lt;Nenustatyta></string>
+    <string name="fih_cp_error_title">Dėmesio</string>
+    <string name="fih_cp_error_name_empty">Pavadinimo laukas negali būti tuščias.</string>
+    <string name="fih_cp_error_apn_empty">APN laukas negali būti tuščias.</string>
+    <string name="fih_cp_error_other">Datos sintaksės klaida.</string>
+    <string name="fih_cp_input_pin_code">Įveskite PIN kodą</string>
+    <string name="fih_cp_input_pin_code_ok">Gerai</string>
+    <string name="fih_cp_input_pin_code_cancel">Atšaukti</string>
+    <string name="fih_cp_input_pin_code_incorrect">Neteisingas PIN kodas.</string>
+    <string name="fih_cp_input_pin_code_empty">Įveskite PIN kodą.</string>
+    <string name="fih_cp_sim_not_available">SIM kortelė nepasiekiama.</string>
+</resources>

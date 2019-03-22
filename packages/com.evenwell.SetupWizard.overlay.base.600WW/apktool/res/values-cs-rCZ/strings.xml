@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"Klepnutím na tlačítko vyjadřujete souhlas s &lt;a href='launch.TermOfServiceActivity://Kode'>podmínkami používání služeb&lt;/a> a &lt;a href='launch.AddUploadAgentHandler://Kode'>zásadami ochrany osobních údajů&lt;/a>. Společnosti HMD Global budou odeslány informace o aktivaci zařízení a jednorázový údaj o poloze zařízení.&lt;br/>&lt;br/>Bude povolena funkce automatických aktualizací softwaru, která vám nainstaluje nejnovější aktualizace. Může dojít k vyčerpání malé části vašeho datového limitu. Služby budou přistupovat k internetu, kdykoli bude třeba.&lt;br/>&lt;br/>Když budou tyto služby přistupovat k mobilním sítím, mohou vám být účtovány další poplatky."</string>
+    <string name="welcome_hmd_term_of_use_5">"Klepnutím na tlačítko vyjadřujete souhlas s &lt;a href='launch.TermOfServiceActivity://Kode'>podmínkami používání služeb&lt;/a>. Vaše data budou zpracována v souladu se &lt;a href='launch.AddUploadAgentHandler://Kode'>zásadami ochrany osobních údajů&lt;/a> společnosti HMD. Společnosti HMD Global budou odeslány informace o aktivaci zařízení a jednorázový údaj o poloze zařízení. Mohou být účtovány poplatky za přenos mobilních dat."</string>
+    <string name="next_btn_lebel">DALŠÍ</string>
+    <string name="accessibility_text">Usnadnění</string>
+    <string name="language_selection_cancel_btn">ZRUŠIT</string>
+    <string name="term_agree_text">Souhlas</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="datausage_dialog_negitive_btn">Storno</string>
+    <string name="nevigation_selection_back">Zpět</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wapi_psk_security_type">Typ hesla</string>
+    <string name="upload_agent_hmd_des_text_3">"Klepnutím na text \"Jdeme na to\" potvrdíte účast v programu pro uživatele. &lt;a href='launch.UserExperienceActivity://Kode'>Další informace&lt;/a>. Nezapomeňte, že se můžete přidat kdykoli později v aplikaci Nastavení."</string>
+    <string name="setup_complete_hmd_1">Jste téměř připraveni začít!</string>
+    <string name="not_now">Nyní ne...</string>
+    <string name="setup_finish">Jdeme na to</string>
+    <string name="wifi_fail_to_scan">Nelze vyhledat sítě</string>
+    <string name="wifi_security_none">Žádný</string>
+    <string name="wifi_remembered">Uloženo</string>
+    <string name="wifi_disabled_generic">Deaktivováno</string>
+    <string name="wifi_disabled_network_failure">Chyba konfigurace IP adresy</string>
+    <string name="wifi_disabled_password_failure">Problém ověřování</string>
+    <string name="wifi_not_in_range">Mimo dosah</string>
+    <string name="wifi_no_internet_no_reconnect">Automatické připojení není možné</string>
+    <string name="wifi_no_internet">Žádný přístup k internetu</string>
+    <string name="saved_network">Uložil/a %1$s</string>
+    <string name="connected_via_passpoint">Připojeno přes %1$s</string>
+    <string name="available_via_passpoint">K dispozici přes %1$s</string>
+    <string name="wifi_connected_no_internet">Připojeno, internet není k dispozici</string>
+    <string name="wifi_auth_password_wrong">Heslo je pravděpodobně nesprávné</string>
+    <string name="connected_via_wfa">Připojeno přes Wi‑Fi Assistant</string>
+    <string name="wifi_ssid">Název sítě</string>
+    <string name="wifi_ssid_hint">Zadejte SSID</string>
+    <string name="wifi_security">Zabezpečení</string>
+    <string name="wifi_eap_method">Metoda EAP</string>
+    <string name="please_select_phase2">Ověřování Phase 2</string>
+    <string name="wifi_eap_ca_cert">Certifikát CA</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Není určen žádný certifikát. Nelze zajistit soukromí připojení.</string>
+    <string name="wifi_eap_domain">Doména</string>
+    <string name="wifi_no_domain_warning">Je třeba zadat doménu.</string>
+    <string name="wifi_eap_user_cert">Certifikát uživatele</string>
+    <string name="wifi_eap_identity">Identita</string>
+    <string name="wifi_eap_anonymous">Anonymní identita</string>
+    <string name="wifi_password">Heslo</string>
+    <string name="wifi_show_password">Zobrazovat heslo</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Rozšířené možnosti rozevíracího seznamu. Dvojitým klepnutím položku rozbalíte.</string>
+    <string name="wifi_show_advanced">Rozšířené možnosti</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_warning_limited_support">Proxy server protokolu HTTP může používat prohlížeč, ale nesmí jej používat další aplikace.</string>
+    <string name="proxy_url_title">"Adresa URL PAC: "</string>
+    <string name="proxy_hostname_label">Název hostitele proxy serveru</string>
+    <string name="proxy_exclusionlist_label">Nepoužívat proxy server pro</string>
+    <string name="wifi_ip_settings">Nastavení IP adresy</string>
+    <string name="wifi_ip_address">IP adresa</string>
+    <string name="wifi_gateway">Brána</string>
+    <string name="wifi_network_prefix_length">Délka síťové předpony</string>
+    <string name="wifi_dns1">Server DNS 1</string>
+    <string name="wifi_dns2">Server DNS 2</string>
+    <string name="wifi_shared">Sdílet s ostatními uživateli zařízení</string>
+    <string name="proxy_port_label">Port proxy</string>
+    <string name="wifi_unspecified">Vyberte</string>
+    <string name="wifi_multiple_cert_added">(Bylo přidáno několik certifikátů)</string>
+    <string name="wifi_use_system_certs">Použít certifikáty systému</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Neposkytovat</string>
+    <string name="wifi_do_not_validate_eap_server">Neověřovat</string>
+    <string name="wifi_add_network">Přidat síť</string>
+    <string name="wifi_save">Uložit</string>
+    <string name="passpoint_label">Uloženo pomocí</string>
+    <string name="wifi_connect">Připojit</string>
+    <string name="wifi_status">Stav</string>
+    <string name="wifi_signal">Síla signálu</string>
+    <string name="wifi_speed">Rychlost připojení</string>
+    <string name="link_speed">%1$d Mb/s</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Frekvence</string>
+    <string name="wifi_forget">Odstranit</string>
+    <string name="wifi_cancel">Storno</string>
+    <string name="proxy_error_invalid_port">Zadaný port není platný.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Zadejte platnou IP adresu.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Zadejte délku síťové předpony v rozsahu 0 až 32.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Zadejte platnou adresu brány.</string>
+    <string name="wifi_ip_settings_invalid_dns">Zadejte platnou adresu DNS.</string>
+    <string name="wifi_unchanged">(nezměněno)</string>
+    <string name="wifi_failed_connect_message">Připojení k síti se nezdařilo.</string>
+    <string name="wifi_failed_save_message">Uložení sítě se nezdařilo.</string>
+    <string name="wifi_failed_forget_message">Odstranění záznamu sítě se nezdařilo.</string>
+    <string name="proxy_error_empty_host_set_port">Pokud je pole hostitele prázdné, musí být prázdné i pole portu.</string>
+    <string name="proxy_error_empty_port">Je třeba vyplnit pole portu.</string>
+    <string name="proxy_error_invalid_exclusion_list">Seznam výjimek, který jste vytvořili, má nesprávný formát. Zadejte seznam názvů domén k vyloučení a názvy oddělujte čárkami.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Rozšířené možnosti rozevíracího seznamu. Dvojitým klepnutím položku sbalíte.</string>
+    <string name="passpoint_content">%1$s identifikační údaje</string>
+    <string name="select_sim_card">Vybrat SIM kartu</string>
+    <string name="sim_editor_title">Slot pro SIM kartu %1$d</string>
+    <string name="wifi_certificate">Certifikát</string>
+    <string name="wifi_setting_title">Připojit</string>
+    <string name="wifi_skip_anyway">PŘESTO PŘESKOČIT</string>
+    <string name="wifi_dont_skip">ZPĚT</string>
+    <string name="wifi_and_mobile_skipped_message">"Připojení k síti vám pomůže rychle nastavit telefon.
+
+Bez připojení není možné:
+
+"<li>přihlásit se ke cloudovému účtu,</li>"
+
+"<li>získat aktualizace softwaru,</li>"
+
+"<li>automaticky nastavit datum a čas.</li></string>
+</resources>

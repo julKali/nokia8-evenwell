@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: BBoxsBoxService.apk
+compressionType: false
+doNotCompress:
+- dex
+- arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: com.evenwell.bboxsbox
+sdkInfo:
+  minSdkVersion: '17'
+  targetSdkVersion: '21'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '9'
+  versionName: 9.0010.01

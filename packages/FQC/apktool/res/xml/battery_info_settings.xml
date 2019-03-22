@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/battery_title" android:key="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="@string/battery_status" android:key="BatteryStatus" />
+    <Preference android:title="@string/power_plug" android:key="PowerPlug" />
+    <Preference android:title="@string/battery_level" android:key="BatteryLevel" />
+    <Preference android:title="@string/battery_scale" android:key="BatteryScale" />
+    <Preference android:title="@string/battery_health" android:key="BatteryHealth" />
+    <Preference android:title="@string/battery_current" android:key="BatteryCurrent" />
+    <Preference android:title="@string/battery_voltage" android:key="BatteryVoltage" />
+    <Preference android:title="@string/battery_temperature" android:key="BatteryTemperature" />
+    <Preference android:title="@string/battery_technology" android:key="BatteryTechnology" />
+    <Preference android:title="@string/battery_uptime" android:key="TimeSinceBoot" />
+</PreferenceScreen>

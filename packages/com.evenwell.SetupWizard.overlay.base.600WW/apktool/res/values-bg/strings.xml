@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"Включете се в програмата за потребители. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Научете повече&lt;/a>
+
+"</string>
+    <string name="welcome_vision_settings_button_label">Настройки за зрение</string>
+    <string name="next_btn_lebel">НАПРЕД</string>
+    <string name="back_btn_lebel">НАЗАД</string>
+    <string name="finish_button_label">ЗАВЪРШИ</string>
+    <string name="sim_not_exist_toast">Проверете дали сте поставили SIM карта.</string>
+    <string name="idle_too_long_toast">Телефонът не е използван известно време. Изключете го, за да пестите батерия.</string>
+    <string name="welcome_message">Добре дошли</string>
+    <string name="welcome_infocus_term_of_use">"Докосвайки стрелката, приемате&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Условията за ползване&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use">"Докосвайки Напред, приемате нашите &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Условия за ползване&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_2">"С докосването на стрелката приемате &lt;a href='launch.TermOfServiceActivity://Kode'>Условията за ползване на услугата&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>Декларацията за поверителност&lt;/a>. Информацията за активиране на устройството с еднократно определяне на местоположението му ще бъде изпратена до HMD Global. Възможно е да се прилагат такси за данни."</string>
+    <string name="welcome_hmd_term_of_use_3">"С докосването на бутона приемате &lt;a href='launch.TermOfServiceActivity://Kode'>Условията за ползване на услугата&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>Декларацията за поверителност&lt;/a>. Информацията за активиране на устройството с еднократно определяне на местоположението му ще бъде изпратена до HMD Global. Възможно е да се прилагат такси за данни."</string>
+    <string name="welcome_start_button_label">СТАРТИРАНЕ</string>
+    <string name="emergency_dial_message">Спешно обаждане</string>
+    <string name="emergency_dial_hmd_message">СПЕШНО ПОВИКВАНЕ</string>
+    <string name="accessibility_text">Достъпност</string>
+    <string name="language_selection_title">Избор на език</string>
+    <string name="language_selection_cancel_btn">ОТКАЗ</string>
+    <string name="welcome_lets_go_button_label">Да започваме</string>
+    <string name="terms_title">Използване на данни</string>
+    <string name="terms_of_service_description">"
+Може да ви таксуват за мобилни данни, когато използвате услуги, които се свързват с мрежата, като прогноза за времето, интернет услуги, имейл, браузър и др. Управлявайте по-ефективно разходите за данни, като изберете подходящ план от мобилния си оператор.
+
+Избирайки Приемам, разрешавате тези услуги да се свързват с мрежата, когато е необходимо.
+
+Автоматичната актуализация на софтуера също е включена по подразбиране. За да имате най-новия софтуер, тя може да използва малко мобилни данни. Тази опция може да се променя в Настройки.
+
+"</string>
+    <string name="term_agree_text">Приемам</string>
+    <string name="term_disagree_text">Не приемам</string>
+    <string name="datausage_dialog_positive_btn">ОК</string>
+    <string name="datausage_dialog_negitive_btn">Отказ</string>
+    <string name="traffic_prompt_content">Ако откажете, ще трябва да получавате ръчно софтуерните актуализации, прогнозата за времето и друга информация.</string>
+    <string name="google_account_intro_description">Настройте акаунт в Google, за да използвате всички налични услуги.</string>
+    <string name="google_account_intro_title">Акаунт в Google</string>
+    <string name="google_account_add_account">Вход с Google</string>
+    <string name="location_title">използване на услугата за местоположение на Google</string>
+    <string name="location_info_1">Услугата за местоположение на Google предоставя на приложенията приблизителното ви текущо местоположение, без да използва GPS.</string>
+    <string name="location_info_2">Можете да изключите тези функции в Настройки, под Услуги за местоположение.</string>
+    <string name="location_network">Разрешете услугата за местоположение на Google да събира анонимни данни за мястото ви. Те ще се събират, дори когато приложенията не се изпълняват.</string>
+    <string name="location_for_service">Използвай Моето местоположение в резултатите от търсенето и другите услуги от Google.</string>
+    <string name="date_and_time">Настройки за дата и час</string>
+    <string name="date_time_auto">Автоматични дата и час</string>
+    <string name="date_time_auto_summaryOn">Използване на часа, предоставен от мрежата</string>
+    <string name="date_time_auto_summaryOff">Използване на часа, предоставен от мрежата</string>
+    <string name="zone_auto">Автоматична часова зона</string>
+    <string name="zone_auto_summaryOn">Използване на часовата зона, предоставена от мрежата</string>
+    <string name="zone_auto_summaryOff">Използване на часовата зона, предоставена от мрежата</string>
+    <string name="date_time_set_date">Задаване на датата</string>
+    <string name="date_time_set_time">Задаване на часа</string>
+    <string name="date_time_set_timezone">Часова зона</string>
+    <string name="date_time_24hour">Да се използва 24-часов формат</string>
+    <string name="date_time_date_format">Избор на формат на датата</string>
+    <string name="choose_timezone">Избор на часова зона</string>
+    <string name="normal_date_format">Регионално (%s)</string>
+    <string name="date_and_time_settings_title">Дата и час</string>
+    <string name="date_and_time_settings_title_setup_wizard">Задаване на дата и час</string>
+    <string name="date_and_time_settings_summary">Задаване на дата, час, часова зона и формати</string>
+    <string name="date_picker_title">Дата :</string>
+    <string name="time_picker_title">Час:</string>
+    <string name="account_intro_title">Акаунт за Услуги на [BRAND_NAME]</string>
+    <string name="account_intro_description">С Услугите на [BRAND_NAME] ще използвате по-интелигентно устройството си.</string>
+    <string name="add_infocus_service_account">Добави акаунт за Услугите на [BRAND_NAME]</string>
+    <string name="dropbox_fih_signup">Регистриране в Dropbox</string>
+    <string name="dropbox_fih_signin">Влизане в Dropbox</string>
+    <string name="dropbox_fih_description">Вземете безплатно 2 GB пространство в Dropbox за автоматично записване на вашите снимки и видео.</string>
+    <string name="nevigation_selection_title">Настройки на навигационната лента</string>
+    <string name="nevigation_selection_text">Можете да смените цвета на фона и местата на бутоните Назад и Последни.</string>
+    <string name="nevigation_selection_back">Назад</string>
+    <string name="nevigation_selection_home">Изходна</string>
+    <string name="nevigation_selection_recent">Скорошни</string>
+    <string name="upload_agent_hmd_des_text">"Включете се в програмата за потребители на Nokia. &lt;a href='launch.AddUploadAgentHandler://Kode'>Научете повече.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Включете се в програмата за потребители на Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Научете повече.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Програма за потребители</string>
+    <string name="setup_completed_congratulations">Поздравления!</string>
+    <string name="setup_complete_hmd">Готови сте да започнете...</string>
+    <string name="setup_complete_main">Вие сте</string>
+    <string name="setup_complete_sub">ГОТОВИ ДА ЗАПОЧНЕТЕ.</string>
+    <string name="hmd_user_experience_program_title">Програма за подобряване на практическата работа на потребителите</string>
+    <string name="hmd_user_experience_program_message">С участието си в програмата за подобряване на практическата работа на потребителите помагате на HMD Global да разбере по-добре какво харесвате в устройството си Nokia и какво мислите, че трябва да се подобри. Понякога може да получаваме анонимни данни с технически характеристики за устройството ви, като например файл с данни за вероятен срив в софтуера. Моля, имайте предвид, че данни от този род няма да бъдат предавани по мобилна връзка. Радваме се, когато получаваме отзиви от вас с мнения за устройството ви Nokia!</string>
+    <string name="skip_button_label">Пропускане</string>
+    <string name="skip_add_account_button_label">Не сега</string>
+    <string name="dropbox_intro_description_1"><b>Създайте безплатен 2 GB акаунт в Dropbox!</b></string>
+    <string name="dropbox_intro_description_2">Dropbox записва автоматично снимките и видеото във вашите компютри и в уеб.</string>
+    <string name="add_dropbox_btn_label">Създайте нов акаунт за Dropbox</string>
+    <string name="sign_in_dropbox_btn_label">Вече имам акаунт</string>
+    <string name="skip_dropbox_setup_label">Няма нужда</string>
+    <string name="device_checking_message">Добре дошли</string>
+    <string name="backup_and_restore_title">Архивиране и възстановяване</string>
+    <string name="backup_and_restore_description">"Ако вече сте архивирали акаунта си, можете да го възстановите в телефона.
+
+Можете да променяте настройките за архивиране в Настройки."</string>
+    <string name="restore_consent_yes_agree">Възстанови от моя акаунт в Google – в този телефон</string>
+    <string name="use_another_account_button_label">Регистриране на акаунт за InFocus</string>
+    <string name="login_sugarsync_label">Влизане в SugarSync</string>
+    <string name="sugarsync_intro_title">SugarSync – съхранение в облака</string>
+    <string name="sugarsync_intro_description">С няколко лесни стъпки ще се радвате на безпроблемно синхронизиране със SugarSync.</string>
+    <string name="baidu_intro_title">Място за съхранение в облака за Baidu</string>
+    <string name="baidu_intro_description">С няколко лесни стъпки ще се радвате на безпроблемно синхронизиране с 百度云.</string>
+    <string name="add_baidu_button_label">Влизане в 百度云</string>
+    <string name="baidu_progress_dialog_des">Моля, изчакайте...</string>
+    <string name="wifi_picker_connection_title">Връзка с мрежата</string>
+    <string name="wifi_picker_connection_des_text">Ако деактивирате WLAN връзката, може да ви таксуват, когато проверявате за софтуер чрез мобилната мрежа.</string>
+    <string name="wifi_picker_connection_positive">ОК</string>
+    <string name="wifi_picker_connection_negative_prc">Свързване с WLAN</string>
+    <string name="wifi_picker_connection_negative">Свързване</string>
+    <string name="wifi_picker_warning_title">Предупреждение</string>
+    <string name="wifi_picker_warning_des_text">Докато не се свържете с интернет, телефонът не може да провери дали софтуерът ви е актуален.</string>
+    <string name="wifi_picker_warning_positive">Не прескачай</string>
+    <string name="wifi_picker_warning_negative">Пропускане въпреки това</string>
+    <string name="diagnostics_confirmation">Приемам диагностичните отчети да се изпращат автоматично. При това ще ме таксуват за данни.</string>
+    <string name="diagnostics_description">Помогнете ни да подобрим нашите продукти и услуги, като разрешите да събираме диагностични данни в случай на проблеми със софтуера или срив на устройството. Тази опция може да се променя в Настройки.</string>
+    <string name="diagnostics_title">Диагностика</string>
+    <string name="wait_msg">Моля, изчакайте...</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">إلغاء</string>
+    <string name="fih_battery_protect_alert_dialog_ok">موافق</string>
+    <string name="fih_battery_protect_cancel_wear">إلغاء</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"الهاتف يتعرض للسخونة، ولذلك فإنه يتخذ بعض الخطوات للتبريد ذاتيًا. لا يزال بإمكانك استخدامه، ولكن قد تلاحظ ما يلي:
+إمكانية توقف الشحن مؤقتًا.
+قد يتوقف تشغيل Wi-Fi.
+قد تُغلق التطبيقات.
+قد يتم تشغيل وضع الطيران.
+وسيعود الهاتف إلى الوضع الطبيعي بمجرد أن يبرد."</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">يُرجى استخدام البطارية الأصلية للشحن أو قد تتسبب في تلف دائم/مادي لجهازك.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">يُرجى استخدام البطارية الأصلية</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">توقف الشحن</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">البطارية غير صالحة</string>
+    <string name="fih_battery_protect_notification_cooling_down">جارٍ التبريد</string>
+    <string name="fih_battery_protect_ok_wear">موافق</string>
+    <string name="fih_battery_protect_tap_learn_more">انقر لتتعرف على المزيد.</string>
+</resources>

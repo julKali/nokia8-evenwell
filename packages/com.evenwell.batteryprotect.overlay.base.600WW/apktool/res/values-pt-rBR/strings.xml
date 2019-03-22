@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_warning_title">Atenção - Alta temperatura</string>
+    <string name="fih_battery_protect_cooldown_title">Resfriando</string>
+    <string name="fih_battery_protect_normalmode_title">Temperatura normal</string>
+    <string name="fih_battery_protect_warning_text">Desligue a chamada e aplicativos para resfriar o telefone.</string>
+    <string name="fih_battery_protect_cooldown_text">O telefone está atualmente em modo de resfriamento. Permitidas apenas chamadas de emergência.</string>
+    <string name="fih_battery_protect_maxtemp_text">A temperatura do telefone está muito alta. Iniciando desligamento.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Carga interrompida</string>
+    <string name="fih_battery_protect_normalmode_warning_dec">O modo de atenção do telefone foi desativado. O funcionamento normal foi retomado.</string>
+    <string name="fih_battery_protect_normalmode_cooldone_dec">O modo de resfriamento do telefone foi desativado. O funcionamento normal foi retomado.</string>
+    <string name="fih_battery_protect_low_temp_text">A temperatura está muito baixa. Interrompa a carga</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">A temperatura não está dentro dos limites</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Não é possível detectar a temperatura da bateria. Certifique-se que a bateria está instalada corretamente.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">Certifique-se de que a bateria está corretamente instalada, caso contrário, não carregará.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Neste momento, não é possível detectar a temperatura da bateria e o telefone encontra-se no modo de resfriamento. É possível apenas efetuar chamadas de emergência. Certifique-se de que a bateria está corretamente instalada.</string>
+    <string name="fih_battery_protect_aging_text">Estimado cliente InFocus, como a bateria do dispositivo celular é considerada um componente consumível, se achar que a duração da bateria tem diminuído de forma significativa, contacte a assistência técnica para diagnóstico e reparação, e para assegurar que continue funcionando nas melhores condições. Caso tenha quaisquer questões, contacte o nosso Serviço de Apoio ao Cliente através do telefone %1$s. Obrigado.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">Estimado cliente InFocus, como a bateria do dispositivo celular é considerada um componente consumível, se achar que a duração da bateria tem diminuído de forma significativa, contacte a assistência técnica para diagnóstico e reparação, e para assegurar que continue funcionando nas melhores condições. Caso tenha quaisquer questões, contacte o nosso Serviço de Apoio ao Cliente. Obrigado.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Favor contatar o nosso Serviço de Apoio ao Cliente. Obrigado.</string>
+    <string name="fih_battery_protect_bl_warning_text">A temperatura do telefone é superior à normal. Reduza o brilho para resfriar o telefone</string>
+    <string name="fih_battery_protect_full_charging">Carga concluída</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Cancelar</string>
+    <string name="fih_battery_protect_high_full_charging">O limite máximo de carregamento foi atingido a altas temperaturas! Quando a temperatura do telefone voltar ao normal, o sistema continuará a carregar na velocidade normal.</string>
+    <string name="fih_battery_protect_low_full_charging">O limite máximo de carregamento foi atingido a baixas temperaturas! Quando a temperatura do telefone voltar ao normal, o sistema continuará a carregar na velocidade normal.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Limite de carregamento de alta temperatura atingido</string>
+    <string name="fih_battery_protect_low_full_charging_title">Limite de carregamento de baixa temperatura atingido</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Notificações gerais</string>
+    <string name="fih_battery_protect_cooldown_title_wear">Resfriando</string>
+    <string name="fih_battery_protect_warning_text_wear">Desligue a chamada e os aplicativos para resfriar o dispositivo.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">Reduza o brilho e encerre aplicaticos para resfriar o dispositivo pressionando um único botão.</string>
+    <string name="fih_battery_protect_cooldown_text_wear">O telefone está atualmente em modo de resfriamento. Permitidas apenas chamadas de emergência.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">A temperatura do telefone está muito alta. Iniciando desligamento.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">A temperatura está muito baixa. Interrompa o carregamento.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Neste momento, não é possível detectar a temperatura da bateria e o telefone encontra-se no modo de resfriamento. É possível apenas efetuar chamadas de emergência. Certifique-se de que a bateria está corretamente instalada.</string>
+    <string name="fih_battery_protect_aging_text_wear">Estimado cliente InFocus, como a bateria do dispositivo celular é considerada um componente consumível, se achar que a duração da bateria tem diminuído de forma significativa, contacte a assistência técnica para diagnóstico e reparação, e para assegurar que continue funcionando nas melhores condições. Caso tenha quaisquer questões, contacte o nosso Serviço de Apoio ao Cliente através do telefone %1$s. Obrigado.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">Estimado cliente InFocus, como a bateria do dispositivo celular é considerada um componente consumível, se achar que a duração da bateria tem diminuído de forma significativa, contacte a assistência técnica para diagnóstico e reparação, e para assegurar que continue funcionando nas melhores condições. Caso tenha quaisquer questões, contacte o nosso Serviço de Apoio ao Cliente. Obrigado.</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">Parar a carga</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">A temperatura não está dentro dos limites.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">A temperatura está muito alta. Interrompa o carregamento.</string>
+    <string name="fih_battery_protect_full_charging_wear">Carga concluída</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Cancelar</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Use a bateria original</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Carga interrompida</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Use a bateria original para carregar ou você poderá causar danos físicos permanentes ao seu dispositivo.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">A bateria não é válida</string>
+    <string name="fih_battery_protect_notification_cooling_down">Resfriando</string>
+    <string name="fih_battery_protect_tap_learn_more">Toque para saber mais.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Seu telefone está ficando quente e está tomando medidas para se resfriar. Ainda será possível usá-lo, mas você poderá notar que:
+·O carregamento talvez seja pausado.
+·O Wi-Fi talvez seja desativado.
+·Os aplicativos talvez sejam encerrados.
+·O modo avião talvez seja ativado.
+O telefone voltará ao normal assim que estiver resfriado."</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ALLOW_LOG_LEVEL">3</integer>
+    <integer name="INCOMING_POOLING_INTERVAL">10000</integer>
+    <integer name="MAX_RETRY_COUNT">0</integer>
+    <integer name="MAX_TIME_OUT">90000</integer>
+    <integer name="NPS_DEFAULT_FAIL_RETRY_INTERVAL">4</integer>
+    <integer name="NPS_DEFAULT_MAX_RETRY">48</integer>
+    <integer name="NPS_DEFAULT_RATTING_INDEX">0</integer>
+    <integer name="NPS_DEFAULT_SEEKBAR_MAX">10</integer>
+    <integer name="NPS_DEFAULT_SEEKBAR_RATTING_INDEX">0</integer>
+    <integer name="REFRESH_INTERVAL">1</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

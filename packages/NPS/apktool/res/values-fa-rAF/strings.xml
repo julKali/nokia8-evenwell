@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">لغو</string>
+    <string name="NEXT">گرفتن عکس بوکه زنده انجام نشد.</string>
+    <string name="OK">تأیید</string>
+    <string name="alert_empty_desc">لطفاً تشریح خود را اضافه نمایید!</string>
+    <string name="alert_warning_title">نکات</string>
+    <string name="enter_comments">نظرات را وارد نمایید (1000 نویسه)</string>
+    <string name="extremely_likely">(بسیار محتمل)</string>
+    <string name="feedback">بازخورد</string>
+    <string name="helps_us_improve_our_products">اظهارنظر شما به ما در بهبود محصولات کمک می کند!</string>
+    <string name="intro_title">چقدر احتمال دارد شما این تلیفون را به یک دوست یا همکار سفارش کنید؟</string>
+    <string name="msg_send_after">زمانیکه دستگاه روی خط باشد پیام به طور خودکار آپلود خواهد شد. از پاسخ شما سپاسگذاریم...</string>
+    <string name="msg_send_fail">ارسال ناکام ماند. زمانیکه دستگاه روی خط باشد پیام به طور خودکار آپلود خواهد شد. از پاسخ شما سپاسگذاریم.</string>
+    <string name="no_ask_feedback_again_text">دوباره در مورد اظهارنظر پرسیده نشود</string>
+    <string name="no_showagain_text">دوباره نشان داده نشود.</string>
+    <string name="not_at_all_likely">(هرگز محتمل نیست)</string>
+    <string name="select_a_value">یک مقدار انتخاب کنید</string>
+    <string name="submit_fail">تسلیم کردن ناکام ماند</string>
+    <string name="submit_success">از پاسخ شما سپاسگذاریم.</string>
+    <string name="thank_your_feedback">از اظهارنظر شما سپاسگزاریم!</string>
+    <string name="we_appreciate_your_help">ما از کمک شما برای تبدیل کردن محصولات Nokia به بهترین محصولات در جهان تشکری می کنیم.</string>
+    <string name="we_hope_enjoying_nokia_device">امید داریم از دستگاه Nokia خود لذت ببرید. اظهارنظر شما برای ما بسیار اهمیت دارد.</string>
+    <string name="we_will_contact_you_again">ما در آینده با شما در تماس خواهیم شد.</string>
+    <string name="we_will_contact_you_again_enjoy">ما در آینده با شما در تماس خواهیم شد. از دستگاه Nokia جدید خود لذت ببرید!</string>
+    <string name="why_you_gave_this_score">لطفاً به ما بگویید چرا این امتیاز را به ما دادید:</string>
+</resources>

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi ke beranda</string>
+    <string name="abc_action_bar_up_description">Navigasi naik</string>
+    <string name="abc_action_menu_overflow_description">Opsi lain</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+    <string name="abc_capital_off">NONAKTIF</string>
+    <string name="abc_capital_on">AKTIF</string>
+    <string name="abc_search_hint">Telusuri...</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_query">Kueri penelusuran</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Bagikan ke %s</string>
+    <string name="abc_toolbar_collapse_description">Ciutkan</string>
+    <string name="accessibility_text">Aksesibilitas</string>
+    <string name="account_intro_description">Langkah mudah bergabung dan menikmati Layanan Cloud komprehensif.</string>
+    <string name="account_intro_title">Ini adalah Layanan Cloud [BRAND_NAME]</string>
+    <string name="add_account_button_label">Buat account</string>
+    <string name="add_baidu_button_label">Log in ke 百度云</string>
+    <string name="add_infocus_service_account">Tambah Akun Layanan [BRAND_NAME]</string>
+    <string name="back_btn_lebel">KEMBALI</string>
+    <string name="backup_and_restore_description">"Jika sebelumnya Anda mencadangkan akun, Anda dapat mengembalikannya ke ponsel ini sekarang.
+
+Anda dapat mengubah pengaturan pencadangan kapanpun dalam Pengaturan."</string>
+    <string name="backup_and_restore_title">Pembuatan cadangan dan pengembalian</string>
+    <string name="baidu_intro_description">Anda dapat menikmati integrasi penyimpanan cloud melalui 百度云 dengan melakukan beberapa langkah mudah.</string>
+    <string name="baidu_intro_title">Penyimpanan cloud untuk Baidu</string>
+    <string name="baidu_progress_dialog_des">Tunggu...</string>
+    <string name="choose_timezone">Pilih zona waktu</string>
+    <string name="datausage_dialog_negitive_btn">Batal</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Cài đặt ngày &amp; giờ</string>
+    <string name="date_and_time_settings_summary">Menyetel tanggal, waktu, zona waktu &amp; format</string>
+    <string name="date_and_time_settings_title">Tanggal &amp; waktu</string>
+    <string name="date_and_time_settings_title_setup_wizard">Setel tanggal dan waktu</string>
+    <string name="date_picker_title">Tanggal</string>
+    <string name="date_time_24hour">Gunakan format 24-jam</string>
+    <string name="date_time_auto">Tanggal &amp; waktu otomatis</string>
+    <string name="date_time_auto_summaryOff">Gunakan waktu yang disediakan jaringan</string>
+    <string name="date_time_auto_summaryOn">Gunakan waktu yang disediakan jaringan</string>
+    <string name="date_time_date_format">Pilih format tanggal</string>
+    <string name="date_time_set_date">Setel tanggal</string>
+    <string name="date_time_set_time">Setel waktu</string>
+    <string name="date_time_set_timezone">Pilih zona waktu</string>
+    <string name="device_checking_message">Selamat Datang</string>
+    <string name="dropbox_fih_description">Dapatkan ruang kosong Dropbox 2 GB untuk menyimpan foto dan video secara otomatis.</string>
+    <string name="dropbox_fih_signin">Sign in dengan Dropbox</string>
+    <string name="dropbox_fih_signup">Daftar dengan Dropbox</string>
+    <string name="dropbox_fih_title">Dropbox</string>
+    <string name="emergency_dial_hmd_message">Panggilandarurat</string>
+    <string name="emergency_dial_message">Nomor Darurat</string>
+    <string name="expand_button_title">Lanjutan</string>
+    <string name="fih_legal_message">"Syarat [BRAND_NAME_PROXY] P'gunaan PL
+
+
+
+Tgl Berlaku: 20 Mei 2016
+
+
+
+Persyaratan dan ketentuan berikut (\" Persyaratan \") berisi perjanjian hukum yang mengatur penggunaan [BRAND_NAME_PROXY] Perangkat Lunak antara Anda dan [BRAND_NAME_PROXY] Inc., dan agennya, Commtiva Technology Ltd. (secara kolektif disebut \"[BRAND_NAME_PROXY]\") dan berlaku untuk penggunaan Anda atas Perangkat Lunak [BRAND_NAME_PROXY], termasuk namun tidak terbatas pada mengunduh, menginstal, perpanjang otomatis (\" Layanan Perangkat Lunak \"). Dengan menggunakan Perangkat Lunak [BRAND_NAME_PROXY], Anda setuju terikat Persyaratan ini; jika tidak, jangan unduh, duplikat, gunakan, simpan Perangkat Lunak [BRAND_NAME_PROXY].
+
+
+
+1. Syrt Pgunaan
+
+Selama mematuhi Persyaratan, [BRAND_NAME_PROXY] memberi Anda cakupan pribadi, noneksklusif, tak dapat dialihkan, dibatalkan, dan terbatas untuk Layanan Perangkat Lunak [BRAND_NAME_PROXY]. [BRAND_NAME_PROXY] akan menginstal kode objek ke ponsel [BRAND_NAME_PROXY] Anda (mengacu pada \" [BRAND_NAME_PROXY] Handset \") via Internet. Anda paham dan setuju bahwa Perangkat Lunak [BRAND_NAME_PROXY] di Handset [BRAND_NAME_PROXY] tak dapat digunakan untuk tujuan komersial atau dialihkan ke pihak ketiga.
+
+Anda juga setuju untuk tidak menggunakan Perangkat Lunak [BRAND_NAME_PROXY] dengan cara berikut:
+
+(a)\u0009Menerobos Perangkat Lunak [BRAND_NAME_PROXY] (termasuk teknologi dasar) atau menggunakan Perangkat Lunak [BRAND_NAME_PROXY] di perangkat non-[BRAND_NAME_PROXY];
+
+(b)\u0009Menganalisis, mendekompilasi, merekayasa balik, mendekode, menyalin, memodifikasi PL [BRAND_NAME_PROXY], membuat karya turunan serupa untuk tujuan apa pun;
+
+(c)\u0009Melakukan termasuk namun tak terbatas pada mentransfer, menyewakan, meminjamkan, mensublisensikan, melanggar Persyaratan, mempublikasikan PL [BRAND_NAME_PROXY], membolehkan pihak ketiga menggunakan, mengakses, memiliki PL [BRAND_NAME_PROXY];
+
+(d)\u0009Menghilangkan info kepemilikan, logo, merek dagang Perangkat Lunak [BRAND_NAME_PROXY], atau dokumen tanpa izin tertulis sebelumnya dari [BRAND_NAME_PROXY];
+
+(e)\u0009Menggunakan Perangkat Lunak [BRAND_NAME_PROXY] dengan cara yang melanggar undang-undang atau hak pihak lain;
+
+(f)\u0009Menggunakan Perangkat Lunak [BRAND_NAME_PROXY] di lingkungan yang melarang/membatasinya termasuk tapi tak terbatas pada area kontrol penerbangan, pom bensin, alat nuklir
+
+(g)\u0009Menggunakan Perangkat Lunak [BRAND_NAME_PROXY] melanggar Persyaratan.
+
+
+
+Untuk memastikan Handset [BRAND_NAME_PROXY] dan Perangkat Lunak [BRAND_NAME_PROXY] berfungsi baik, Anda berjanji tidak akan merusak atau melepas label di Handset [BRAND_NAME_PROXY] tanpa bantuan staf [BRAND_NAME_PROXY]. Aktivitas tidak sah ini akan mempengaruhi cakupan dan periode jaminan dari [BRAND_NAME_PROXY] untuk Anda.
+
+
+
+2. Kebij. Privasi
+
+Anda memahami dan menyetujui bahwa [BRAND_NAME_PROXY] dapat mengumpulkan dan menyimpan informasi, termasuk namun tak terbatas pada jenis model, nomor seri, kode IMEI/MEID, versi PK, Versi PL, waktu penggunaan, ID SKU, pengaturan default, dan versi OS di Handset [BRAND_NAME_PROXY] (\" Informasi \"). 
+
+Jika [BRAND_NAME_PROXY] diharuskan untuk mengungkapkan Informasi kepada lembaga pemerintah atau sistem pengadilan, [BRAND_NAME_PROXY] akan melakukannya.
+
+
+
+Handset [BRAND_NAME_PROXY] akan menginformasikan [BRAND_NAME_PROXY] tentang status bahwa Handset [BRAND_NAME_PROXY] belum tersambung ke jaringan seluler setidaknya 14 hari sejak tanggal beli.
+
+
+
+Lihat Kebijakan Privasi [BRAND_NAME_PROXY] untuk info rinci.
+
+
+
+3. Layanan Pendukung
+
+[BRAND_NAME_PROXY] akan menyediakan Layanan Perangkat Lunak, termasuk namun tidak terbatas pada pembaruan dan peningkatan Perangkat Lunak [BRAND_NAME_PROXY] berdasakan status [BRAND_NAME_PROXY] dari Handset [BRAND_NAME_PROXY].
+  
+[BRAND_NAME_PROXY] menyediakan pembaruan, patch, elemen tambahan ke Perangkat Lunak [BRAND_NAME_PROXY] setelah menggunakan Perangkat Lunak [BRAND_NAME_PROXY] via Internet dan akan diatur Persyaratan.
+
+
+
+[BRAND_NAME_PROXY] berhak menghentikan penggunaan Anda atas Perangkat Lunak [BRAND_NAME_PROXY] dan Layanan [BRAND_NAME_PROXY] secara langsung.
+
+[BRAND_NAME_PROXY] akan mempublikasikan versi Perangkat Lunak [BRAND_NAME_PROXY] berikutnya dan harus menggunakan versi OS terbaru.
+
+
+
+4. Pembaruan otomatis
+
+Untuk memperkuat dan meningkatkan Handset [BRAND_NAME_PROXY], Handset diatur untuk otomatis mengunduh firmware dan perangkat lunak terbaru dari [BRAND_NAME_PROXY] 
+
+
+
+Untuk memastikan keamanan dan stabilitas Handset [BRAND_NAME_PROXY], Anda setuju mematuhi petunjuk yang diharuskan dalam pengaturan dan sebagaimana diperintahkan [BRAND_NAME_PROXY] Karena Anda setuju mengunduh firmware atau perangkat lunak terbaru, Anda dianggap menerima perpanjangan dan penginstalan ini.
+
+
+
+Agar dokumen, foto, teks, file suara, video, dan rekaman elektrik lainnya tidak hilang atau rusak karena pembaruan Handset [BRAND_NAME_PROXY], Anda bertanggung jawab mencadangkan semua rekaman elektrik tersebut yang tersimpan di Handset [BRAND_NAME_PROXY] sebelum mengunduh versi firmware atau perangkat lunak terbaru.
+
+
+
+Begitu Handset [BRAND_NAME_PROXY] diperbarui otomatis atau sesuai izin Anda melalui bentuk pesan, berarti Anda setuju untuk mengizinkan yang berikut:
+
+(a)\u0009Pembaruan PL:
+
+Anda setuju dan memahami [BRAND_NAME_PROXY] dapat tersambung ke Internet untuk memeriksa versi perangkat lunak dan status pembaruan di Handset [BRAND_NAME_PROXY]. Jika [BRAND_NAME_PROXY] menotifikasi peningkatan, [BRAND_NAME_PROXY] akan memperbarui versi dan status Perangkat Lunak [BRAND_NAME_PROXY] melalui Layanan [BRAND_NAME_PROXY].
+
+Bila perangkat lunak [BRAND_NAME_PROXY] baru tersedia, Anda setuju [BRAND_NAME_PROXY] mengirim notifikasi pembaruan tersebut. Jika pembaruan terkini dikonfirmasi, berarti Anda setuju [BRAND_NAME_PROXY] memperbarui otomatis Handset [BRAND_NAME_PROXY]
+
+(b)\u0009Sinkr. &amp; p'baruan konten:
+
+Setelah Handset [BRAND_NAME_PROXY] tersambung ke komputer atau perangkat lain, Handset [BRAND_NAME_PROXY] akan otomatis memperbarui konten terkait dan informasi lainnya (misalnya, informasi kontak, kalender, penanda, dan file.)
+
+
+
+5. Kepemilikan semua hak milik dan hak lain di Perangkat Lunak [BRAND_NAME_PROXY]
+
+Meski Anda dilisensi menggunakan Perangkat Lunak &amp; Layanan [BRAND_NAME_PROXY], [BRAND_NAME_PROXY], afiliasi, pemasoknya punya semua hak Perangkat Lunak [BRAND_NAME_PROXY] termasuk tapi tak terbatas pada kepentingan, hak cipta, hak kekayaan intelektual lain.
+
+
+
+Semua hak Perangkat Lunak [BRAND_NAME_PROXY] tersebut dilindungi UU lokal dan pakta internasional.
+
+
+
+6. Penafian
+
+[BRAND_NAME_PROXY] tidak memberi jaminan apa pun, baik tersurat maupun tersirat, termasuk namun tidak terbatas pada jaminan tersirat kelayakan dagang, memenuhi kualitas memuaskan, dan kesesuaian untuk tujuan tertentu, atau non-pelanggaran. 
+
+[BRAND_NAME_PROXY] tidak menjamin bahwa:
+
+(a)\u0009Layanan [BRAND_NAME_PROXY] yang Anda peroleh akan akurat atau andal; atau
+
+(b)\u0009Layanan [BRAND_NAME_PROXY] yang disediakan tidak akan terganggu, tepat waktu, aman; atau
+
+(c)\u0009Cacat atau kesalahan pada Perangkat Lunak tersedia langsung diperbaiki.
+
+
+
+[BRAND_NAME_PROXY] tak bertanggung jawab atas kehilangan/kerugian akibat virus/materi berbahaya teknis lain yang dapat mempengaruhi Handset, program, data, atau materi kepemilikan [BRAND_NAME_PROXY] lain karena penggunaan Layanan [BRAND_NAME_PROXY] oleh Anda. Semua konten dan materi lain yang Anda unduh atau peroleh melalui [BRAND_NAME_PROXY] diakses atas risiko sendiri, dan Anda bertanggung jawab penuh atas kerusakan pada Handset [BRAND_NAME_PROXY] atau hilangnya data maupun konten akibat pengunduhan perangkat lunak.
+
+
+
+7. Batasan Tanggung Jawab dan Solusi Eksklusif
+
+[BRAND_NAME_PROXY] tidak bertanggung jawab atas kerugian konsekuensial, insidental, langsung, atau sebagai hukuman, atau kerugian karena hilangnya laba atau informasi rahasia maupun lainnya, gangguan bisnis, cedera fisik, kerusakan properti, hilangnya privasi, kegagalan memenuhi niat baik atau penanganan wajar atas kelalaian.
+
+Hingga sebatas maksimum yang diizinkan undang-undang berlaku, kewajiban maksimum [BRAND_NAME_PROXY] kepada Anda dan solusi eksklusif Anda berdasarkan Persyaratan untuk semua kerugian, cedera, kerusakan properti, dan kehilangan akibat semua klaim, atau gugatan terkait Persyaratan untuk mengganti kerugian aktual yang Anda alami akan terbatas sebesar USD10 (sepuluh dollar AS). 
+
+
+
+Beberapa klaim atau gugatan terkait Persyaratan tidak akan melebihi batas kewajiban ini dan hingga sebatas maksimum yang diizinkan undang-undang berlaku, menjadi solusi tunggal dan eksklusif Anda.
+
+
+
+Jika pengadilan di wilayah hukum kompeten mengganggap batas kewajiban tersebut tidak dapat diberlakukan, maka batasan tersebut tidak berlaku, namun kata terbatas sebesar sepuluh dollar dianggap diganti dengan \"terbatas nilai transaksi terkait kewajiban yang timbul.\"
+
+
+
+Klaim atau gugatan terkait Persyaratan tersebut harus diajukan dalam waktu satu tahun setelah penyebab tindakan terjadi.
+
+
+8. Ganti Rugi
+
+Anda setuju membela, mengganti kerugian, dan melindungi [BRAND_NAME_PROXY], pemegang saham, direksi, pejabat, pihak berkepentingan, karyawan, anak perusahaan, dan afiliasinya dari tuntutan, kerugian, kewajiban, klaim, atau pengeluaran (termasuk biaya pengacara), yang diajukan kepada [BRAND_NAME_PROXY] oleh pihak ketiga karena atau akibat kesalahan penggunaan Anda atas Layanan [BRAND_NAME_PROXY] yang melanggar hak pihak ketiga.
+
+
+
+9. Penghentian Layanan.
+
+Anda dilarang secara hukum memakai Layanan [BRAND_NAME_PROXY] jika tak mematuhi Perysaratan. Bila demikian, Anda harus musnahkan &amp; hapus semua salinan Perangkat Lunak [BRAND_NAME_PROXY]. Dan jaminan Anda atas Handset [BRAND_NAME_PROXY] tidak akan berlaku.
+
+Jika Anda melanggarnya, Anda setuju bahwa [BRAND_NAME_PROXY] berhak melakukan tindakan berikut,
+
+(a)\u0009Segera menghentikan hak Anda untuk mengakses akun [BRAND_NAME_PROXY], dan/atau
+
+(b)\u0009Memblokir akses Anda berikutnya ke Layanan [BRAND_NAME_PROXY]
+
+
+
+Anda juga setuju bahwa pelanggaran terhadap Persyaratan akan mengakibatkan risiko fatal bagi [BRAND_NAME_PROXY], yang tak tergantikan secara finansial, dan Anda setuju bahwa [BRAND_NAME_PROXY] akan mendapatkan perintah sela ganti rugi bila [BRAND_NAME_PROXY] mengganggap kondisi tersebut perlu dan patut. Solusi ini tambahan untuk solusi lain yang dapat diperoleh [BRAND_NAME_PROXY] di mata hukum/keadilan.
+
+
+
+10. Hukum &amp; Yurisdiksi Pengatur
+
+Anda setuju bahwa semua urusan terkait sengketa atas Persyaratan diatur berdasarkan hukum ROC (Republik Tiongkok) tanpa mempermasalahkan pertentangan ketentuan hukumnya. 
+
+
+
+Anda menyetujui yurisdiksi pribadi oleh dan bertempat di pengadilan Distrik Taipei Taiwan, dan mengabaikan segala keberatan atasnya.
+
+
+
+Sengketa apa pun yang tidak dapat ditangani secara kekeluargaan antara Anda dan [BRAND_NAME_PROXY] akan dicari mediasi oleh Anda atau [BRAND_NAME_PROXY]. Jika sengketa gagal diatasi melalui mediasi dalam waktu 30 hari kalender, sengketa akan diajukan ke pengadilan distrik di atas.
+
+
+
+11. Klausul Umum
+
+Judul dalam Persyaratan digunakan hanya demi kenyamanan.
+ 
+Kegagalan [BRAND_NAME_PROXY] melakukan tindakan terhadap pelanggaran Anda bukan berarti pengabaian atas haknya atas pelanggaran tersebut, yang berikutnya, atau serupa.
+
+
+
+Jika pengadilan di yurisdiksi berkompetensi menentukan bahwa bagian apa pun di Persyaratan ini tidak valid atau tidak dapat diberlakukan, maka ketentuan tersebut akan diganti dengan ketentuan valid dan dapat diberlakukan yang paling sesuai dengan maksud ketentuan asli dan bagian lain dalam Persyaratan tetap berlaku. 
+
+
+
+Anda tak dapat alihkan Persyaratan; alihkan, transfer, sublisensi hak dalam Persyaratan.
+
+
+
+[BRAND_NAME_PROXY] dapat alihkan Persyaratan, baik seluruh/sebagian, kapan pun dengan/tanpa Anda ketahui. 
+
+
+
+Persyaratan ini akan menggantikan semua bentuk komunikasi sebelumnya atau saat ini antara Anda dan [BRAND_NAME_PROXY] terkait Situs.
+
+
+
+12. Semua perjanjian
+
+Persyaratan dan lampiran perpanjangan berisi seluruh perjanjian antara Anda dan [BRAND_NAME_PROXY] terkait Layanan [BRAND_NAME_PROXY].
+
+
+
+13. Perubahan Persyaratan
+
+[BRAND_NAME_PROXY] dari waktu ke waktu dapat perbarui, ubah, hapus isi Persyaratan atas kebijaksanaannya.
+
+
+
+Anda harus meninjau persyaratan yang dipublikasikan di situs web [BRAND_NAME_PROXY] yang mungkin berbeda dari yang Anda baca.
+
+
+
+Terus menggunakan perangkat lunak perpanjangan &amp; Handset [BRAND_NAME_PROXY], Anda dianggap menerima perubahan.
+
+"</string>
+    <string name="fih_legal_title">Hukum [BRAND_NAME_PROXY]</string>
+    <string name="finish_button_label">Selesai</string>
+    <string name="google_account_add_account">Sign in dengan Google</string>
+    <string name="google_account_intro_description">Buat akun Google untuk menikmati semua layanan Google.</string>
+    <string name="google_account_intro_title">Google Account</string>
+    <string name="hmd_legal_message">"Persyaratan Layanan 
+ 
+Berlaku mulai 14 Oktober 2016 
+ 
+1. Persetujuan 
+Persyaratan Layanan HMD Global ini beserta Kebijakan Privasi dan semua persyaratan maupun informasi tambahan lainnya yang mungkin diberikan dalam Layanan (secara kolektif disebut Persyaratan) akan mengatur penggunaan layanan, situs, konten, dan perangkat lunak Anda (secara kolektif disebut Layanan). Dengan mendaftarkan atau menggunakan Layanan atau bagian dari Layanan berarti Anda menyetujui Persyaratan ini. 
+ 
+Persyaratan merupakan perjanjian antara Anda dan HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finland, termasuk anak perusahaan maupun pemasoknya (secara kolektif disebut HMD Global), yang menentukan hak dan tanggung jawab Anda maupun HMD Global terkait dengan Layanan. 
+ 
+2. Kelayakan 
+Untuk menggunakan Layanan, Anda harus berusia minimal tiga belas (13) tahun. Jika Anda berusia di bawah tiga belas (13) tahun, atau berusia minimal tiga belas (13) tahun namun dianggap belum dewasa di tempat di mana Anda tinggal, maka orang tua atau wali sah Anda harus menerima pendaftaran Anda atas nama Anda dan menyetujui penggunaan Anda atas Layanan. Orang yang melakukan pendaftaran harus cakap secara hukum. 
+ 
+3. Pendaftaran dan Pengakhiran 
+Untuk menggunakan Layanan, Anda mungkin harus mendaftar dan membuat Akun HMD dengan nama pengguna dan kata sandi yang mungkin memiliki persyaratan tersendiri. Anda mungkin harus memberitahukan informasi pribadi dan informasi lainnya kepada kami. HMD Global dapat memverifikasi alamat email Anda sebelum Akun HMD Anda dapat digunakan. Pada saat penggunaan pertama perangkat Anda dan setiap Anda memperbarui perangkat lunak di perangkat Nokia, maka sebuah pesan teks akan dikirimkan ke HMD Global. Pembuatan Akun HMD akan memerlukan transmisi data. Anda mungkin akan dikenakan biaya transmisi data. 
+ 
+Anda setuju untuk memberikan informasi yang benar dan lengkap saat mendaftar Layanan dan terus memperbarui informasi tersebut. Anda harus menjaga nama pengguna dan kata sandi dari penyalahgunaan oleh pihak lain dan segera memberitahu HMD Global mengenai setiap penyalahgunaan. Anda dan orang tua atau wali apabila Anda di bawah umur, bertanggung jawab secara pribadi atas setiap penggunaan Layanan. 
+ 
+Anda dapat mengakhiri pendaftaran Anda jika Anda tidak lagi ingin menggunakan Layanan. Setelah penghentian, Anda tidak akan lagi memiliki akses ke Layanan. HMD Global dapat menghentikan atau membatasi akses Anda ke bagian Layanan tertentu jika HMD Global secara wajar percaya bahwa Anda telah melanggar Persyaratan atau dengan pemberitahuan sebelumnya jika Anda belum masuk ke Layanan dengan nama pengguna dalam 6 (enam) bulan terakhir. 
+ 
+Kecuali sebagaimana dijelaskan dalam Kebijakan Privasi, HMD Global tidak bertanggung jawab atas terhapus atau hilangnya informasi atau konten yang telah Anda kirimkan ke Layanan. Jika informasi atau konten dihapus dari Layanan baik oleh Anda maupun oleh HMD Global, bekas atau salinan dapat masih tertinggal di bagian lain. 
+ 
+4. Lisensi 
+HMD Global memberikan kepada Anda lisensi non-eksklusif, tidak dapat dialihkan, dapat dicabut kapan saja atas diskresi mutlak HMD Global, untuk mengakses dan menggunakan Layanan secara terbatas sesuai dengan Persyaratan. Penggunaan Layanan tidak memberi Anda hak kekayaan intelektual pada atau atas informasi atau konten dalam Layanan. 
+ 
+Sebagai bagian dari Layanan, HMD Global dapat menyediakan Anda konten yang dikembangkan oleh HMD Global atau pemilik lisensinya (“Konten”). HMD Global memberikan Anda lisensi non-eksklusif dan terus-menerus untuk menggunakan Konten tersebut sesuai dengan tujuannya, kecuali jika secara lain dijelaskan dalam Persyaratan yang berlaku atau pesanan pembelian. Sebagian Konten mungkin hanya tersedia bagi warga yang tinggal di area geografis tertentu. Anda terikat oleh batasan-batasan yang berlaku untuk Konten tertentu yang Anda peroleh melalui Layanan. Lisensi yang diperoleh untuk Konten pihak ketiga merupakan perjanjian mengikat antara Anda dan penyedia Konten pihak ketiga. Anda hanya memiliki hak atas Konten yang secara tersurat diberikan di sini. 
+ 
+HMD Global dapat menyediakan Anda perangkat lunak tertentu yang dikembangkan oleh HMD Global atau pemilik lisensinya (Perangkat Lunak) sebagai bagian dari Layanan. Penggunaan Anda atas Perangkat Lunak tunduk pada persyaratan dan ketentuan terpisah yang harus Anda setujui sebelum menggunakan Perangkat Lunak. Jika tidak ada persyaratan dan ketentuan terpisah yang berlaku untuk Perangkat Lunak, maka persyaratan berikut ini akan berlaku: HMD Global memberi Anda hak terbatas, non-eksklusif, tidak dapat dialihkan untuk menginstal dan menggunakan Perangkat Lunak tersebut di komputer dan/atau perangkat seluler Anda. Anda tidak boleh menyalin Perangkat Lunak, kecuali untuk membuat salinan pendukung arsip tunggal. Anda tidak boleh mendistribusikan, mengalihkan hak untuk menggunakan, memodifikasi, menerjemahkan, membuat ulang, menjual kembali, mensublisensikan, menyewakan, menyewagunakan, mengutak-atik, atau berupaya menemukan kode sumber dari atau melakukan pekerjaan turunan dari Perangkat Lunak. Untuk perangkat lunak open source berlisensi, berlaku persyaratan lisensi open source. Penggunaan Anda atas Perangkat Lunak menunjukkan persetujuan dari setiap persyaratan dan ketentuan yang berlaku. 
+ 
+Perangkat Lunak tersebut tunduk pada kontrol ekspor berdasarkan U.S. Export Administration Regulations dan peraturan yang mengontrol ekspor dan impor lainnya. Anda setuju untuk mematuhi dengan seksama semua peraturan impor dan ekspor yang berlaku dan menyatakan bahwa Anda wajib mendapatkan lisensi untuk mengekspor, mengekspor ulang, mentransfer, atau mengimpor Perangkat Lunak tersebut. 
+ 
+Anda dapat mengirimkan informasi atau konten (Materi) ke Layanan. HMD Global tidak mengklaim kepemilikan pada Materi Anda. Pemberian Anda atas Materi ke Layanan tidak mengalihkan hak kepemilikan atas Materi kepada HMD Global. HMD Global hanya menyampaikan Materi dan tidak bertanggung jawab untuk editorial atas Materi. Dengan mengirimkan Materi ke Layanan, berarti Anda memberikan HMD Global lisensi non-eksklusif, dapat disublisensikan, dapat diserahkan, lunas, bebas royalti, terus-menerus, dan tidak dapat dibatalkan untuk menggunakan, menyalin, menjalankan secara publik, menampilkan, mendistribusikannya dalam media apa pun dan memodifikasi Materi agar dapat digabungkan ke dalam karya lainnya, serta untuk memberikan sublisensi yang sama sejauh yang diperlukan HMD Global untuk menyediakan Layanan. Anda dapat menyesuaikan pemberian ini dalam pengaturan privasi maupun yang lainnya di Layanan. 
+ 
+Anda bertanggung jawab penuh untuk membuat salinan data sebagai cadangan yang disimpan di Layanan, termasuk Konten yang Anda unggah. Apabila Layanan tidak dihentikan atau dibatalkan, HMD Global mungkin secara permanen menghapus data Anda. HMD Global tidak berkewajiban untuk mengembalikan data kepada Anda setelah Layanan dihentikan atau dibatalkan. 
+ 
+5. Penggunaan Layanan 
+Anda setuju untuk: 
+• Mematuhi hukum maupun Persyaratan yang berlaku, dan beretika baik; 
+• Menggunakan Layanan hanya untuk tujuan pribadi dan non-komersial; 
+• Tidak mengirimkan Materi yang melanggar hukum, menyerang, tidak akurat, menyesatkan, menghina, pornografi, mengganggu, memfitnah atau tidak layak; 
+• Mendapatkan izin, persetujuan atau lisensi yang secara hukum dapat diwajibkan bagi Anda untuk mengirimkan suatu Materi; 
+• Menghargai privasi pihak lain; 
+• Tidak mendistribusikan atau mengirimkan spam, file besar tidak wajar, surat berantai, skema piramida, virus; 
+• Tidak menggunakan teknologi lain atau melakukan kegiatan lain yang dapat mengganggu Layanan, atau kepentingan atau properti para pengguna Layanan; 
+• Tidak menggunakan sistem atau sarana otomatis apa pun untuk mengakses, mengambil alih, menyalin, atau memantau setiap bagian dari Layanan; dan 
+• Bertanggung jawab atas konsekuensi yang terkait dengan Materi yang Anda posting. 
+ 
+Namun HMD Global tidak berkewajiban untuk: 
+• Memonitor atau mengontrol setiap Konten atau Materi; 
+• Menghapus Materi dari Layanan; dan 
+• Membatasi akses ke suatu bagian dari Layanan kapan saja dengan diskresi mutlaknya. 
+ 
+6. Konten 
+Sebelum mengunduh atau mengakses Konten, periksa apakah Konten yang ingin Anda akses dibatasi oleh usia atau ditandai berpotensi ‘menyerang’ atau ‘eksplisit’. 
+ 
+HMD Global tidak bertanggung jawab atas tuntutan atau serangan yang disebabkan atau diderita oleh Anda dengan mengakses Konten tersebut. 
+ 
+Anda setuju: 
+• Untuk menggunakan Konten hanya untuk kepentingan Anda pribadi, non-komersial; 
+• Untuk menggunakan Konten sesuai dengan batasan-batasan yang ditetapkan dalam hukum yang berlaku, persyaratan tambahan, pedoman dan kebijakan atau pada halaman produk yang berlaku untuk bagian tertentu dari Konten; 
+• Tidak membuat salinan, memberikan, menjual, menjual kembali, meminjamkan, menyewakan, menawarkan, menyiarkan, mengirim, mendistribusikan, mengalihkan, mengkomunikasikan kepada publik, memproduksi ulang, memodifikasi, menampilkan, menjalankan, mengeksploitasi secara komersial, atau menyediakan Konten kecuali diizinkan dalam Persyaratan yang berlaku dan segera memberi tahu HMD Global atas setiap penggunaan yang tidak sah; 
+• Tidak menghilangkan, menghindari, mengutak-atik, membaca sandi, atau mengubah atau mengganggu aturan penggunaan yang berlaku atau berupaya menghindari pengawasan hak-hak digital atau menyalin fitur-fitur perlindungan yang terkait dengan Konten atau teknologi lainnya yang digunakan untuk mengontrol akses ke atau penggunaan Konten atau informasi pengidentifikasinya; 
+• Tidak menggunakan sistem atau sarana otomatis, kecuali yang kami sediakan untuk pemilihan atau pengunduhan Konten; dan 
+• Tidak memberikan sandi Anda atau memungkinkan orang lain untuk mengakses Konten. Pembatasan penyalinan yang berlaku untuk media juga berlaku untuk Konten yang diakses sebagai bagian dari Layanan ini. 
+ 
+Konten dimiliki dan/atau dikendalikan oleh HMD Global dan/atau pemilik lisensi masing-masing, dan dilindungi oleh hukum kekayaan intelektual. Para Penyedia Konten pihak ketiga bertanggung jawab atas Konten yang disediakan, setiap jaminan sejauh jaminan tersebut tidak ditolak dan atas setiap klaim yang berkaitan dengan Konten atau penggunaan Anda atas Konten tersebut. Akan tetapi, HMD Global dapat memberlakukan ketentuan lisensi Konten atas Anda sebagai penerima manfaat atas ketentuan tersebut. Penyedia Konten pihak ketiga merupakan penerima manfaat pihak ketiga berdasarkan Persyaratan dan dapat menerapkan persyaratan-persyaratan yang secara langsung terkait dengan Konten di mana mereka memiliki hak. HMD Global dapat bertindak sebagai agen untuk penyedia Konten pihak ketiga untuk menyediakan Konten kepada Anda. HMD Global bukan merupakan pihak atas transaksi antara Anda dan penyedia Konten pihak ketiga atas Konten tersebut. 
+ 
+7. Dugaan Pelanggaran Hak Cipta 
+HMD Global menghormati hak kekayaan intelektual pihak ketiga. Jika Anda ingin mengirimkan pemberitahuan mengenai pelanggaran kekayaan intelektual, termasuk klaim pelanggaran hak cipta, silakan gunakan prosedur kami untuk mengirimkan Pemberitahuan Pelanggaran. SEMUA PERTANYAAN YANG TIDAK RELEVAN DENGAN PROSEDUR INI TIDAK AKAN DITANGGAPI. 
+ 
+HMD Global menggunakan proses-proses yang diatur dalam Pasal 17, Kitab Undang-undang Amerika Serikat, Ayat 512 untuk menanggapi pemberitahuan pelanggaran hak cipta. Dalam situasi yang sesuai, HMD Global juga dapat menonaktifkan atau menghentikan akun pengguna layanan HMD Global yang diduga melakukan pelanggaran berulang. 
+ 
+8. Pemberitahuan 
+HMD Global dapat menyampaikan pemberitahuan dalam Layanan. HMD Global juga dapat mengirimi Anda pemberitahuan mengenai produk dan layanan ke alamat email atau nomor telepon yang telah Anda berikan kepada kami. Anda dianggap telah menerima pemberitahuan tersebut paling lambat dalam jangka waktu tujuh (7) hari sejak HMD Global mengirimkan atau memasang pemberitahuan tersebut. Jika Anda terus menggunakan Layanan, berarti Anda menerima semua pemberitahuan terlepas dari cara pengirimannya. 
+ 
+9. Biaya 
+Penggunaan Anda atas Layanan dapat atau akan dikenai biaya. 
+ 
+Biaya yang dikenakan oleh HMD Global akan diumumkan secara terpisah dalam kaitannya dengan Layanan. 
+ 
+Penggunaan Layanan dapat melibatkan transmisi data melalui jaringan penyedia layanan Anda. Harga yang tercantum pada Layanan tidak mencakup biaya transmisi data, pesan teks, suara atau ketentuan layanan biaya lainnya dan dengan penyedia layanan jaringan Anda. 
+ 
+HMD Global tidak bertanggung jawab untuk pembayaran biaya yang dikenakan oleh penyedia layanan Anda. 
+ 
+10. Ketentuan Pesanan dan Pembayaran 
+Pesanan adalah pemilihan Konten yang dapat dibayar dan/atau berlangganan Konten yang ditawarkan HMD Global dan tersedia dalam Layanan, serta pengiriman metode pembayaran, pengiriman pesanan dengan memilih beli, oke, saya terima, atau pernyataan konfirmasi persetujuan serupa lainnya dalam alur pesanan atau indikasi lainnya dari persyaratan persetujuan yang diberikan kepada Anda dalam alur pesanan. 
+ 
+Untuk mengajukan Pesanan dalam Layanan, Anda harus sudah mencapai usia yang dianggap cakap atau dewasa berdasarkan hukum sesuai perundang-undangan yang berlaku. Jika Anda belum mencapai usia yang cakap atau dewasa berdasarkan hukum, maka Anda dapat mengajukan Pesanan hanya jika telah mendapatkan persetujuan dari orang tua atau wali hukum Anda. 
+ 
+Anda setuju bahwa semua Pesanan yang diajukan adalah sah secara hukum dan mengikat. Semua Pesanan tunduk pada persetujuan HMD Global. 
+ 
+Anda dapat membayar dengan kartu kredit atau debit, tagihan penyedia layanan jaringan, atau metode pembayaran lainnya jika tersedia. 
+ 
+Kartu kredit atau debit Anda harus memiliki alamat penagihan di negara di mana Konten ditawarkan oleh Layanan. HMD Global akan menagihkan ke kartu kredit Anda atau mendebit rekening bank Anda dalam jangka waktu yang wajar setelah Anda melakukan Pesanan. Semua pembayaran melalui kartu kredit akan melewati pemeriksaan validasi dan pengesahan oleh penerbit kartu. 
+ 
+Jika Anda memilih tagihan penyedia layanan jaringan, maka tagihan akan muncul pada tagihan ponsel untuk akun pascabayar atau dikurangi dari pulsa ponsel untuk akun prabayar. Penyedia layanan jaringan tertentu mungkin akan memberlakukan persyaratan dan ketentuan tambahan atas penggunaan Layanan Anda, termasuk penetapan batasan jumlah biaya tagihan oleh penyedia layanan jaringan. Tagihan yang melebihi batas penyedia layanan jaringan atau saldo rekening dapat ditolak. 
+ 
+Anda setuju untuk membayar tagihan sehubungan dengan Pesanan Anda, memastikan bahwa alat pembayaran pada saat Pesanan adalah sah, bahwa Anda adalah pemegang sah alat tersebut dan bahwa alat tersebut digunakan dalam batas-batas kreditnya. 
+ 
+Konten yang dikirimkan berarti dilisensikan untuk Anda. Anda setuju untuk menggunakan Konten tersebut hanya sesuai dengan yang diizinkan dalam Persyaratan dan ketentuan tambahan apa pun yang mungkin diberikan kepada Anda dalam alur pesanan. 
+ 
+Layanan dapat menawarkan berlangganan. Anda mengesahkan Layanan untuk menagih biaya secara berkala selama masa langganan. Layanan juga dapat menawarkan periode percobaan. Apabila Pesanan Anda memasukkan periode percobaan (yang juga dikenal dengan coba dan beli), Anda akan dikenakan biaya pada saat periode percobaan telah habis, kecuali Anda membatalkan sesuai dengan persyaratan berlangganan/percobaan. 
+ 
+Harga dalam Layanan dapat berubah dari waktu ke waktu. Harga termasuk pajak-pajak yang berlaku pada saat transaksi, kecuali jika dinyatakan secara lain. Bisa jadi terdapat selisih di mana Anda mengeluarkan biaya tambahan dari bank atau penerbit kartu kredit Anda berdasarkan nilai tukar mata uang yang digunakan dan/atau pengeluaran tambahan yang dikenakan. HMD Global tidak bertanggung jawab atas pembayaran biaya atau pengeluaran tersebut atau pengeluaran atau biaya layanan yang dikenakan oleh pihak ketiga. 
+ 
+11. Pembatalan dan Pengembalian Biaya 
+Anda setuju untuk pengiriman elektronik Konten yang dilakukan bersamaan dengan pengajuan Pesanan Anda. Anda tidak bisa membatalkan Pesanan Anda setelah pesanan diproses. Konten ini tidak dapat dikembalikan. 
+ 
+Jika setelah melakukan Pesanan Anda menemukan dan segera memberitahu HMD Global dalam waktu 48 jam bahwa (a) Konten yang dipesan salah; (b) Konten yang dikirim HMD Global kepada Anda tidak sesuai dengan keterangan Konten yang dipesan melalui Layanan; atau (c) keterlambatan karena masalah teknis, terhambatnya pengiriman Konten, atau terdapat pesanan yang secara tidak disengaja dilakukan berulang karena masalah teknis tersebut, maka satu-satunya solusi Anda terkait Konten adalah penggantian Konten atau pengembalian dana senilai harga yang telah dibayarkan untuk Konten, sebagaimana ditetapkan sepenuhnya oleh HMD Global. 
+ 
+Atau, pengembalian biaya tidak tersedia. Jika Anda mengalami masalah di atas, hubungi HMD Global Customer Care. 
+ 
+Perlu diketahui bahwa HMD Global Customer Care mungkin tidak dapat memproses permintaan dukungan pelanggan jika Anda tidak dapat memberikan ID transaksi, yang diberikan kepada Anda oleh HMD Global setelah Pesanan dilakukan dalam Layanan. HMD Global hanya dapat memproses pengembalian biaya untuk Konten yang total harganya di atas batas moneter yang ditetapkan dalam peraturan perundang-undangan lokal yang berlaku. 
+ 
+12. Masukan kepada HMD Global 
+Dengan mengajukan ide, masukan dan/atau usulan (Masukan) kepada HMD Global melalui Layanan atau cara-cara lainnya, Anda mengakui dan menyetujui bahwa: (1) HMD Global mungkin memiliki ide pengembangan yang sama seperti Masukan; (2) Masukan Anda tidak berisi informasi rahasia atau kepemilikan Anda maupun pihak ketiga mana pun; (3) HMD Global tidak berkewajiban atas kerahasiaan yang terkait dengan Masukan; (4) HMD Global dapat secara bebas menggunakan, mendistribusikan, mengeksploitasi, mengembangkan, dan memodifikasi Masukan lebih lanjut untuk tujuan apa pun; dan (5) Anda tidak berhak atas kompensasi dalam bentuk apa pun dari HMD Global. 
+ 
+13. Kegiatan Sosial dan Berbagi Lokasi 
+Anda dapat menggunakan fitur-fitur dalam Layanan untuk berbagi lokasi, status, konten, material atau informasi pribadi Anda atau untuk berinteraksi dengan pengguna, situs dan layanan lainnya. Dengan menggunakan fitur-fitur tersebut Anda setuju bahwa HMD Global dapat menggunakan dan memberikan informasi tersebut kepada layanan dan orang lain dengan siapa Anda memilih untuk berinteraksi atau berbagi informasi ini. Para pengguna layanan dan orang ini, seperti kontak Anda, dapat mengetahui lokasi, status dan/atau informasi pribadi Anda. Dengan menggunakan fitur-fitur, Anda setuju untuk tidak membagikan informasi, Konten atau Materi atau untuk melakukan tautan dengan layanan atau situs yang: (a) memuat konten atau materi lainnya yang melanggar hukum atau tidak layak; atau (b) mengeksploitasi hak kekayaan intelektual tanpa izin atau mendorong para pengguna untuk melakukan pembajakan. Setiap interaksi tidak melibatkan HMD Global dan semata-mata hanya antara Anda dan pengguna lainnya. 
+ 
+14. Ketersediaan dan Ketentuan Teknis 
+Ketersediaan Konten dan Layanan dapat berbeda dan tunduk pada diskresi mutlak HMD Global. HMD Global secara tegas menolak pernyataan atau jaminan bahwa Konten atau Layanan tertentu akan tersedia. Layanan bisa jadi tidak tersedia di semua negara dan dapat disediakan hanya dalam bahasa tertentu. Layanan, operasi, dan fitur tertentu mungkin juga akan tergantung pada jaringan, kompabilitas perangkat yang digunakan, dan format konten yang didukung. 
+ 
+Untuk mengakses Layanan, Anda mungkin harus mengunduh perangkat lunak tertentu yang dikembangkan oleh HMD Global atau oleh pihak lainnya. 
+ 
+HMD Global, dengan diskresi mutlaknya, dapat mengubah, memperbaiki atau memutuskan Layanan baik seluruhnya atau sebagian. Layanan mungkin tidak tersedia selama proses pemeliharaan dan waktu-waktu lainnya. Untuk memastikan Anda memiliki perangkat lunak dan aplikasi terbaru, perangkat Anda dapat secara otomatis mengecek ketersediaan perangkat lunak terbaru dari HMD Global. Jika ada yang terdeteksi, Anda akan diminta untuk menyetujui penginstalan. Anda dapat menonaktifkan pemeriksaan pembaruan otomatis melalui pengaturan di perangkat. Anda juga dapat menginstal perangkat lunak melalui saluran pembaruan perangkat lunak yang tersedia. Apabila HMD Global mempertimbangkan sebuah pembaruan perangkat lunak dianggap penting atau sangat penting Anda tidak dapat terus menggunakan versi lama perangkat lunak dan penggunaan versi lama Perangkat lunak. HMD Global dapat mencegah penggunaan Anda atas versi lama dari Perangkat Lunak atau Layanan sampai Anda mengunduh versi yang telah diperbarui. 
+ 
+HMD Global dapat menonaktifkan setiap Konten atau Perangkat Lunak yang terdapat dalam akun Layanan Anda karena alasan apa pun dan menghapus setiap Konten atau Perangkat Lunak dan/atau menonaktifkan salinan dari setiap aplikasi di perangkat Anda agar dapat melindungi Layanan, penyedia aplikasi, operator nirkabel yang jaringannya Anda gunakan untuk mengakses layanan, atau semua pihak yang terpengaruh maupun berpotensi terpengaruh. 
+ 
+Layanan tertentu mungkin berupa versi prarilis, misalnya rilis beta, dan mungkin tidak dapat berfungsi sesuai versi akhirnya. HMD Global dapat secara signifikan mengganti versi dari Layanan atau Perangkat Lunak atau memutuskan untuk tidak merilis versi final. 
+ 
+15. Tautan ke Situs dan Konten Pihak Ketiga 
+HMD Global dapat menyertakan akses ke situs dan layanan di Internet atau klien standar yang memungkinkan Anda berinteraksi dengan situs dan layanan yang dimiliki atau dioperasikan oleh pihak ketiga dan bukan merupakan bagian dari Layanan. Anda harus membaca dan menyetujui persyaratan dan persyaratan situs atau layanan tersebut sebelum menggunakan situs atau layanan tersebut. 
+ 
+HMD Global tidak memiliki kendali atas konten, situs, atau layanan pihak ketiga dan tidak bertanggung jawab atas layanan yang diberikan atau materi yang dibuat maupun dipublikasikan di situs atau layanan pihak ketiga ini. Tautan ke situs pihak ketiga tidak berarti bahwa HMD Global mendukung situs atau produk atau layanan yang disebutkan dalam situs tersebut. 
+ 
+Selain itu, Anda dan pengguna lainnya dapat membuat konten dan tautan ke konten dalam Layanan yang belum dikirimkan ke Layanan. HMD Global tidak bertanggung jawab atas konten atau situs semacam ini. 
+ 
+16. Iklan 
+Layanan dapat mencakup iklan. Iklan dapat dibuat untuk konten atau informasi yang tersimpan dalam Layanan, permintaan yang diajukan melalui Layanan, atau informasi lainnya. 
+ 
+17. Data Pribadi 
+Kebijakan Privasi dan informasi privasi lainnya yang tersedia bagi Anda mengatur penggunaan data pribadi Anda. 
+ 
+18. Batasan Kewajiban 
+Layanan diberikan secara APA ADANYA dan SEADANYA. HMD Global tidak menjamin bahwa Layanan tidak akan terganggu atau bebas kesalahan atau bebas virus. Tidak ada jaminan apa pun jenisnya, baik tersurat ataupun tersirat, termasuk namun tidak terbatas pada jaminan hak, tidak adanya pelanggaran, kelayakdagangan, atau kesesuaian untuk tujuan tertentu, dibuat dalam kaitannya dengan ketersediaan, akurasi, keandalan, informasi atau konten Layanan. Anda secara tegas menyetujui dan mengakui bahwa penggunaan Layanan adalah risiko Anda mutlak dan bahwa Anda dapat terpapar ke konten dari beragam sumber. 
+ 
+Kecuali untuk tanggung jawab kematian atau cedera diri yang disebabkan kelalaian nyata atau kealpaan yang disengaja, dalam kondisi apa pun HMD Global tidak bertangung jawab atas kerugian tidak langsung, insidental, hukuman, atau konsekuensial sebagai akibat dari penggunaan atau ketidakmampuan Anda menggunakan Layanan. 
+ 
+19. Ganti Rugi 
+Anda setuju untuk membela dan mengganti kerugian yang diderita HMD Global dari maupun terhadap semua klaim pihak ketiga dan semua kewajiban, penilaian, kerugian, biaya, atau kerusakan yang disebabkan atau ditimbulkan oleh (i) pelanggaran Anda terhadap Persyaratan, (ii) pelanggaran hak kekayaan intelektual, hak maupun privasi pihak ketiga lainnya, atau (iii) penyalahgunaan Layanan oleh pihak ketiga yang mungkin terjadi karena kelalaian Anda dalam melakukan tindakan yang wajar untuk melindungi nama pengguna dan sandi terhadap penyalahgunaan. 
+ 
+20. Lain-lain 
+ 
+20.1 Pilihan Hukum 
+Persyaratan ini diatur oleh hukum Finlandia tanpa mempedulikan pertentangan persyaratan hukum. 
+ 
+20.2 Keabsahan 
+Persyaratan ini tidak mengecualikan ataupun membatasi hak-hak wajib Anda di negara Anda tinggal yang tidak dapat dilepaskan berdasarkan hukum. Jika suatu persyaratan dalam Persyaratan ini ternyata tidak sah, maka persyaratan-persyaratan lainnya tidak akan terpengaruh dan persyaratan yang tidak sah tersebut akan diganti dengan persyaratan yang sah yang paling dekat dengan hasil dan maksud Persyaratan ini. Apabila satu atau lebih ketentuan dalam Persyaratan ini tidak relevan dengan penggunaan Anda atas Layanan, hal tersebut tidak akan mempengaruhi keabsahan dan keberlakuan dari persyaratan lain dari Persyaratan ini atau Persyaratan sebagai satu kesatuan. Jika ada pertentangan antara Persyaratan Layanan HMD Global ini dengan Kebijakan Privasi, maka ketentuan-ketentuan dalam Persyaratan Layanan HMD Global yang berlaku. Ketentuan-ketentuan dalam Persyaratan ini yang dimaksudkan untuk tetap berlaku meskipun terjadi pengakhiran atas pendaftaran Anda tetap sah setelah pengakhiran tersebut. 
+ 
+20.3 Perubahan dalam Persyaratan 
+HMD Global dapat mengubah Ketentuan kapan saja tanpa pemberitahuan sebelumnya. Jika Persyaratan diubah dengan cara yang merugikan secara material, maka HMD Global akan menyampaikan pemberitahuan terpisah mengenai perubahan tersebut. 
+ 
+Anda bertanggung jawab untuk meninjau Persyaratan secara berkala. Jika Anda terus menggunakan Layanan berarti Anda setuju terhadap perubahan dan modifikasi. 
+ 
+21. Kekayaan Intelektual 
+Layanan, Konten, dan Perangkat Lunak ini dilindungi undang-undang hak cipta internasional. HMD Global menyatakan hak cipta atas Layanan, Konten dan Perangkat Lunak sampai batas maksimum yang ditetapkan oleh hukum. Berdasarkan Persyaratan, HMD Global memiliki semua hak, kepemilikan, dan kepentingan atas Layanan, Konten, Perangkat Lunak miliknya, dan dalam semua produk, perangkat lunak, dan properti HMD Global lainnya yang diberikan kepada Anda atau digunakan oleh Anda melalui Layanan. 
+ 
+22. Pengalihan 
+HMD Global dapat mengalihkan hak dan kewajibannya berdasarkan Ketentuan ini kepada induk perusahaan, anak perusahaan atau perusahaan yang berada di bawah kendali umum HMD Global. Selain itu, secara hukum HMD Global dapat mengalihkan hak dan kewajibannya berdasarkan Persyaratan ini kepada pihak ketiga dalam kaitannya dengan penggabungan, pengambilalihan, penjualan aset."</string>
+    <string name="hmd_user_experience_program_message">Partisipasi Anda dalam program pengalaman pengguna membantu HMD Global untuk lebih memahami apa yang Anda sukai tentang perangkat Nokia, dan apa yang Anda rasa harus ditingkatkan. Dari waktu ke waktu, kami mungkin menerima data anonim berisi karakteristik teknis tentang perangkat Anda, misalnya, file dengan data tentang kerusakan perangkat lunak yang mungkin telah terjadi. Perhatikan bahwa data tersebut tidak akan dikirim melalui sambungan seluler. Kami ingin mendengar pendapat Anda tentang perangkat Nokia!</string>
+    <string name="hmd_user_experience_program_title">Program pengalaman pengguna</string>
+    <string name="idle_too_long_toast">Ponsel ini siaga selama beberapa waktu. Nonaktifkan sekarang untuk menghemat daya.</string>
+    <string name="label_text">Ya, saya setuju.</string>
+    <string name="label_text_negitive">Maaf, saya tidak setuju.</string>
+    <string name="language_selection_cancel_btn">BATAL</string>
+    <string name="language_selection_title">Pilih bahasa</string>
+    <string name="location_for_service">"Gunakan Lokasi Saya untuk hasil pencarian Google dan layanan Google lainnya.
+
+"</string>
+    <string name="location_info_1">Layanan lokasi Google menyediakan aplikasi dengan lokasi perkiraan Anda tanpa GPS.</string>
+    <string name="location_info_2">Anda dapat menonaktifkan fitur ini di Pengaturan, dalam layanan Lokasi.</string>
+    <string name="location_network">Bolehkan layanan lokasi Google mengambil data lokasi anonim. Pengambilan akan dilakukan meskipun tidak ada aplikasi yang berjalan.</string>
+    <string name="location_title">Gunakan lokasi Google</string>
+    <string name="nevigation_selection_back">Kembali</string>
+    <string name="nevigation_selection_home">Layar Awal</string>
+    <string name="nevigation_selection_recent">Terbaru</string>
+    <string name="nevigation_selection_text">Anda dapat mengubah warna latar belakang dan posisi tombol Kembali/Terakhir.</string>
+    <string name="nevigation_selection_title">Tata Letak Navigasi</string>
+    <string name="next_btn_lebel">BERIKUTNYA</string>
+    <string name="normal_date_format">Daerah (%s)</string>
+    <string name="search_menu_title">Telusuri</string>
+    <string name="setup_complete_hmd">Anda sudah siap...</string>
+    <string name="setup_complete_main">Anda</string>
+    <string name="setup_complete_message">Ponsel telah dikonfigurasi dan siap digunakan.</string>
+    <string name="setup_complete_sub">SIAP MENJALANKAN.</string>
+    <string name="setup_completed_congratulations">Selamat!</string>
+    <string name="sim_not_exist_toast">Pastikan kartu SIM telah dimasukkan.</string>
+    <string name="skip_add_account_button_label">Tidak</string>
+    <string name="skip_button_label">Lewati</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Setuju</string>
+    <string name="term_disagree_text">Tidak setuju</string>
+    <string name="terms_of_service_description">"
+Biaya tambahan penggunaan data seluler mungkin dikenakan bila Anda menggunakan layanan yang memerlukan sambungan jaringan, misalnya layanan cuaca, layanan Internet, email, browser, dsb. Untuk lebih menghemat biaya penggunaan data seluler, sebaiknya ajukan permintaan paket layanan seluler yang sesuai dari operator Anda.
+
+Dengan memilih setuju, Anda membolehkan layanan ini untuk tersambung ke jaringan bila diperlukan.
+
+Pembaruan perangkat lunak otomatis juga diaktifkan secara default. Untuk menghadirkan pengalaman perangkat lunak terbaru, sebagian data seluler mungkin digunakan. Anda selalu dapat mengubah pilihan di lain waktu dalam Pengaturan.
+
+"</string>
+    <string name="terms_title">Penggunaan Data</string>
+    <string name="time_picker_title">Waktu</string>
+    <string name="traffic_prompt_content">Jika Anda memilih tidak setuju, Anda harus mendapatkan update software, ramalan cuaca, atau informasi lainnya secara manual.</string>
+    <string name="upload_agent_configuration">Program Pengalaman Pengguna</string>
+    <string name="upload_agent_des">Bantu kami meningkatkan produk dan layanan dengan membolehkan pengumpulan data diagnostik bila perangkat mengalami kesalahan atau kerusakan perangkat lunak. Anda dapat mengubah pilihan di lain waktu dalam konfigurasi agen upload.</string>
+    <string name="upload_agent_des_text">"Kirim laporan diagnosis bila perangkat mengalami masalah. &lt;a href='launch.AddUploadAgentHandler://Kode'>Pernyataan Privasi&lt;/a>. Anda dapat mengubah pilihan ini di lain waktu dalam Pengaturan."</string>
+    <string name="upload_agent_hmd_des_text_2">"Bergabunglah dalam program Pengalaman Pengguna Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Pelajari selengkapnya.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Program Pengalaman Pengguna</string>
+    <string name="v7_preference_off">NONAKTIF</string>
+    <string name="v7_preference_on">AKTIF</string>
+    <string name="welcome_hmd_term_of_use_2">"Dengan mengetuk tanda panah, Anda menyetujui &lt;a href='launch.TermOfServiceActivity://Kode'>Persyaratan Layanan&lt;/a> dan &lt;a href='launch.AddUploadAgentHandler://Kode'>Kebijakan Privasi&lt;/a>. Informasi aktivasi perangkat dengan lokasi perangkat satu kali akan dikirim ke HMD Global. Anda mungkin akan dikenakan biaya data"</string>
+    <string name="welcome_infocus_term_of_use">"Dgn snth pnh, Anda setuju&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Syarat Penggunaan&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Mulai</string>
+    <string name="welcome_message">Selamat Datang</string>
+    <string name="welcome_start_button_label">MULAI</string>
+    <string name="welcome_vision_settings_button_label">Pengaturan Visi</string>
+    <string name="wifi_picker_connection_des_text">Sambungan jaringan seluler yang digunakan saat ini dapat menimbulkan biaya bila memverifikasi perangkat lunak Anda.</string>
+    <string name="wifi_picker_connection_negative">Sambungkan</string>
+    <string name="wifi_picker_connection_negative_prc">Sambung ke WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">Sambung ke Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Sambungan jaringan</string>
+    <string name="wifi_picker_warning_des_text">Hingga Anda tersambung ke Internet, ponsel tidak dapat memverifikasi apakah perangkat lunak Anda adalah versi terbaru.</string>
+    <string name="wifi_picker_warning_negative">Lewati</string>
+    <string name="wifi_picker_warning_positive">Jangan lewati</string>
+    <string name="wifi_picker_warning_title">Peringatan</string>
+    <string name="zone_auto">Zona waktu otomatis</string>
+    <string name="zone_auto_summaryOff">Gunakan zona waktu yang disediakan jaringan</string>
+    <string name="zone_auto_summaryOn">Gunakan zona waktu yang disediakan jaringan</string>
+    <string name="sugarsync_intro_description">Anda dapat menikmati integrasi penyimpanan cloud melalui SugarSync dengan melakukan beberapa langkah mudah.</string>
+</resources>

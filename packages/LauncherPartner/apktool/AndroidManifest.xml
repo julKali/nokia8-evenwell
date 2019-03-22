@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.evenwell.foxlauncher.partner" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+    <application android:label="@string/app_label">
+        <receiver android:name=".FakeReceiver">
+            <intent-filter>
+                <action android:name="com.android.launcher3.action.PARTNER_CUSTOMIZATION"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.evenwell.foxlauncher.action.PARTNER_CUSTOMIZATION"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

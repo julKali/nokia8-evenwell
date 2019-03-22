@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">ಸರಿ</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="system_busy_msg">ಸಿಸ್ಟಂ ಕಾರ್ಯನಿರತವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="no_new_demo_found_msg">"ಯಾವುದೇ ಹೊಸ ಡೆಮೋ ವಸ್ತು ಪತ್ತೆಯಾಗಿಲ್ಲ.
+
+ಡೆಮೋ ಮೋಡ್ ಪ್ರಾರಂಭಿಸಲು ಸರಿ ಟ್ಯಾಪ್ ಮಾಡಿ?"</string>
+    <string name="copying">ನಕಲಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="downloading">ಡೌನ್‌‌‌ಲೋಡ್‌ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+    <string name="download_complete_msg">"ಡೌನ್‌ಲೋಡ್ ಪೂರ್ಣಗೊಂಡಿದೆ.
+
+ಡೆಮೋ ಮೋಡ್ ಪ್ರಾರಂಭಿಸಲು ಸರಿ ಟ್ಯಾಪ್ ಮಾಡಿ."</string>
+    <string name="download_fail_msg">"ಇಂಟರ್ನೆಟ್‌ನಿಂದ ಡೆಮೋ ವಸ್ತುವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.
+
+ಡೆಮೋ ಮೋಡ್ ಪ್ರಾರಂಭಿಸಲು ಸರಿ ಟ್ಯಾಪ್ ಮಾಡಿ?"</string>
+    <string name="enable_demo_mode">ಡೆಮೊ ಮೋಡ್ ಸಕ್ರಿಯಗೊಳಿಸುವುದೇ?</string>
+    <string name="disable_demo_mode">ಡೆಮೊ ಮೋಡ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="update_demo_video">ಡೆಮೊ ಮೋಡ್ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ</string>
+    <string name="reset_device">ಸಾಧನವನ್ನು ಮರುಹೊಂದಿಸುವುದೇ?</string>
+    <string name="demo_mode_notifications">ಡೆಮೋ ಮೋಡ್ ಅಧಿಸೂಚನೆಗಳು</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/zzz_fih_confirm_dialog_bk" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="25.0sp" android:textStyle="bold" android:layout_gravity="center" android:id="@id/info" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" />
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="25.0dip" android:layout_marginBottom="25.0dip" android:layout_weight="3.0">
+        <Button android:textSize="25.0sp" android:textStyle="bold" android:textColor="@drawable/white" android:layout_gravity="center" android:id="@id/button1" android:visibility="gone" android:layout_width="85.0dip" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_weight="1.0" />
+        <Button android:textSize="25.0sp" android:textStyle="bold" android:textColor="@drawable/white" android:layout_gravity="center" android:id="@id/button2" android:visibility="gone" android:layout_width="85.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_weight="1.0" />
+        <Button android:textSize="25.0sp" android:textStyle="bold" android:textColor="@drawable/white" android:layout_gravity="center" android:id="@id/button3" android:visibility="gone" android:layout_width="85.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

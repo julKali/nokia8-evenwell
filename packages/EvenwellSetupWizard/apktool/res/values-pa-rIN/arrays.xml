@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ਸਥਿਰ</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>"ਸਵੈਚਲ ਤੌਰ 'ਤੇ ਪਤਾ ਲਗਾਓ"</item>
+        <item>ਮੀਟਰ ਕੀਤੇ ਵਜੋਂ ਵਿਹਾਰ ਕਰੋ</item>
+        <item>ਮੀਟਰ ਨਾ ਕੀਤੇ ਵਜੋਂ ਵਿਹਾਰ ਕਰੋ</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>ਕੋਈ ਨਹੀਂ</item>
+        <item>ਹੱਥੀਂ</item>
+        <item>ਪ੍ਰੌਕਸੀ ਆਟੋ-ਕੰਫਿਗਰ</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ਮਾੜਾ</item>
+        <item>ਠੀਕ</item>
+        <item>ਵਧੀਆ</item>
+        <item>ਸ਼ਾਨਦਾਰ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>ਸਕੈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…</item>
+        <item>ਕਨੈਕਟ ਕਰ ਰਿਹਾ ਹੈ…;</item>
+        <item>ਪ੍ਰਮਾਣਿਤ ਕਰ ਰਿਹਾ ਹੈ…</item>
+        <item>IP ਪਤਾ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹੈ…</item>
+        <item>ਕਨੈਕਟ ਕੀਤਾ</item>
+        <item>ਮੁਅੱਤਲ ਕੀਤਾ</item>
+        <item>ਡਿਸਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ…</item>
+        <item>ਡਿਸਕਨੈਕਟ ਹੋਇਆ</item>
+        <item>ਅਸਫਲ</item>
+        <item>ਬਲਾਕ ਕੀਤਾ ਗਿਆ</item>
+        <item>ਅਸਥਾਈ ਤੌਰ ਤੇ ਖ਼ਰਾਬ ਕਨੈਕਸ਼ਨ ਤੋਂ ਬਚਣਾ</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>ਸਕੈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…</item>
+        <item>%1$s… ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+        <item>%1$s… ਨਾਲ ਪ੍ਰਮਾਣਿਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+        <item>%1$s… ਤੋਂ IP ਪਤਾ ਹਾਸਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+        <item>%1$s ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ</item>
+        <item>ਮੁਅੱਤਲ ਕੀਤਾ</item>
+        <item>%1$s… ਤੋਂ ਡਿਸਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</item>
+        <item>ਡਿਸਕਨੈਕਟ ਹੋਇਆ</item>
+        <item>ਅਸਫਲ</item>
+        <item>ਬਲਾਕ ਕੀਤਾ ਗਿਆ</item>
+        <item>ਅਸਥਾਈ ਤੌਰ ਤੇ ਖ਼ਰਾਬ ਕਨੈਕਸ਼ਨ ਤੋਂ ਬਚਣਾ</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI ਹੈਕਸਾਡੈਸੀਮਲ</item>
+    </string-array>
+</resources>

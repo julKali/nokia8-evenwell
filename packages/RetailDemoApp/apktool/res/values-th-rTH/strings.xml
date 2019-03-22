@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ยกเลิก</string>
+    <string name="copying">กำลังคัดลอก…</string>
+    <string name="demo_mode_notifications">การแจ้งเตือนโหมดการสาธิต</string>
+    <string name="disable_demo_mode">ปิดใช้งานโหมดการสาธิต</string>
+    <string name="download_complete_msg">"ดาวน์โหลดเสร็จสมบูรณ์
+
+แตะ ตกลง เพื่อเปิดโหมดการสาธิต"</string>
+    <string name="download_fail_msg">"ไม่สามารถดาวน์โหลดการสาธิตจากอินเทอร์เน็ต
+
+แตะ ตกลง เพื่อเปิดโหมดการสาธิตหรือไม่"</string>
+    <string name="downloading">กำลังดาวน์โหลด…</string>
+    <string name="enable_demo_mode">เปิดใช้งานโหมดการสาธิตหรือไม่</string>
+    <string name="enable_demo_mode_setup">เปิดใช้งานโหมดการสาธิตหรือไม่</string>
+    <string name="no_new_demo_found_msg">"ไม่พบการสาธิตตัวใหม่
+
+แตะ ตกลง เพื่อเปิดโหมดการสาธิตหรือไม่"</string>
+    <string name="ok">ตกลง</string>
+    <string name="reset_device">รีเซ็ตอุปกรณ์หรือไม่</string>
+    <string name="system_busy_msg">ระบบกำลังยุ่งอยู่ในขณะนี้ โปรดลองใหม่ในภายหลัง</string>
+    <string name="update_demo_video">อัปเดตวิดีโอสาธิต</string>
+</resources>

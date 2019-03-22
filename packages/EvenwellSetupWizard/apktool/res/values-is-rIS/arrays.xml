@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Fastar</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Greina sjálfkrafa</item>
+        <item>Meðhöndla sem mælt</item>
+        <item>Meðhöndla sem ómælt</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Engin</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Engin</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Engin</item>
+        <item>Handvirkt</item>
+        <item>Sjálfstilling proxy-þjóns</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Lélegur</item>
+        <item>Ágætur</item>
+        <item>Góður</item>
+        <item>Frábær</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Leitar að…</item>
+        <item>Tengist…</item>
+        <item>Sannvottar…</item>
+        <item>Sækir IP-tölu…</item>
+        <item>Tengt</item>
+        <item>Í bið</item>
+        <item>Aftengist frá…</item>
+        <item>Aftengt</item>
+        <item>Mistókst</item>
+        <item>Lokað fyrir</item>
+        <item>Forðast tímabundið lélega tengingu</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Leitar að…</item>
+        <item>Tengist við %1$s…</item>
+        <item>Sannvottar með %1$s…</item>
+        <item>Sækir IP-tölu frá %1$s…</item>
+        <item>Tengt við %1$s</item>
+        <item>Í bið</item>
+        <item>Aftengist frá %1$s…</item>
+        <item>Aftengt</item>
+        <item>Mistókst</item>
+        <item>Lokað fyrir</item>
+        <item>Forðast tímabundið lélega tengingu</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI-sextándakerfi</item>
+    </string-array>
+</resources>

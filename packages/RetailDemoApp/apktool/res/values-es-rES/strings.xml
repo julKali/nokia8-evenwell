@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">CANCELAR</string>
+    <string name="copying">Copiando…</string>
+    <string name="demo_mode_notifications">Motificaciones al modo de demostración</string>
+    <string name="disable_demo_mode">Deshabilitar modo de demostración</string>
+    <string name="download_complete_msg">"Descarga finalizada.
+
+Toque Aceptar para iniciar el modo de demostración."</string>
+    <string name="download_fail_msg">"No se ha podido descargar material de demostración de Internet.
+
+Toque Aceptar para iniciar el modo de demostración."</string>
+    <string name="downloading">Descargando…</string>
+    <string name="enable_demo_mode">¿Habilitar modo de demostración?</string>
+    <string name="enable_demo_mode_setup">¿Habilitar modo de demostración</string>
+    <string name="no_new_demo_found_msg">"No se ha encontrado material de demostración nuevo.
+
+Toque Aceptar para iniciar el modo de demostración."</string>
+    <string name="ok">Aceptar</string>
+    <string name="reset_device">¿Restablecer dispositivo?</string>
+    <string name="system_busy_msg">El sistema está ocupado. Vuelva a intentarlo más tarde.</string>
+    <string name="update_demo_video">Actualizar vídeo de demostración</string>
+</resources>

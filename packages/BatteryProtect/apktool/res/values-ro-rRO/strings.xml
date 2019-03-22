@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Anulați</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Anulați</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefonul dvs. începe să se încălzească, de aceea efectuează o procedură de răcire. Acesta poate fi utilizat în continuare, dar este posibil să observați următoarele:
+·Se poate opri încărcarea.
+·Se poate dezactiva funcția Wi-Fi.
+·Se pot închide aplicații.
+·Se poate dezactiva modul avion.
+Telefonul dvs. va reveni la starea normală după răcire."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Notificări generale</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Utilizați bateria originală pentru încărcare, altfel s-ar putea produce daune permanente/fizice la dispozitiv.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Utilizați bateria originală</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Încărcare oprită</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Bateria nu este corectă</string>
+    <string name="fih_battery_protect_low_temp_title">Alertă</string>
+    <string name="fih_battery_protect_notification_cooling_down">Răcire</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_power_off">Oprit</string>
+    <string name="fih_battery_protect_tap_learn_more">Atingeți pentru a afla mai multe.</string>
+</resources>

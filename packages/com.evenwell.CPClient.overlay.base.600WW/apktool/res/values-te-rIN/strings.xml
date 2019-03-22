@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP క్లయింట్</string>
+    <string name="fih_cp_notify_statusbar_content">కొత్త కేటాయింపు సందేశం</string>
+    <string name="fih_cp_notification_channel_name">సాధారణ నోటిఫికేషన్‌లు</string>
+    <string name="fih_cp_ui_mode_ok">సరే</string>
+    <string name="fih_cp_ui_mode_postpone">వాయిదా వేయి</string>
+    <string name="fih_cp_ui_mode_delete">తొలగించు</string>
+    <string name="fih_cp_apply_dialog_head_msg">కొత్త కేటాయింపు</string>
+    <string name="fih_cp_apply_dialog_body_msg">మీరు కొత్త కాన్ఫిగరేషన్‌ని వర్తింపజేయాలనుకుంటున్నారా?</string>
+    <string name="fih_cp_toast_info_update">ప్రొఫైల్ విజయవంతంగా నవీకరించబడింది</string>
+    <string name="fih_cp_toast_info_create">ప్రొఫైల్ విజయవంతంగా సృష్టించబడింది</string>
+    <string name="fih_cp_editor_apn_name">పేరు</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">ప్రాక్సీ</string>
+    <string name="fih_cp_editor_apn_http_port">పోర్ట్</string>
+    <string name="fih_cp_editor_apn_user">వినియోగదారు పేరు</string>
+    <string name="fih_cp_editor_apn_password">పాస్‌వర్డ్</string>
+    <string name="fih_cp_editor_apn_server">సర్వర్</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS ప్రాక్సీ</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS పోర్ట్</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">ప్రమాణీకరణ రకం</string>
+    <string name="fih_cp_editor_apn_auth_type_none">ఏదీ వద్దు</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP లేదా CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN రకం</string>
+    <string name="fih_cp_btn_ok">సరే</string>
+    <string name="fih_cp_btn_cancel">రద్దు చేయి</string>
+    <string name="fih_cp_btn_next">తదుపరి</string>
+    <string name="fih_cp_btn_back">వెనుకకు</string>
+    <string name="fih_cp_apn_not_set">&lt;సెట్ చేయలేదు></string>
+    <string name="fih_cp_error_title">సావధానత</string>
+    <string name="fih_cp_error_name_empty">పేరు ఫీల్డ్ ఖాళీగా ఉండకూడదు.</string>
+    <string name="fih_cp_error_apn_empty">APN ఫీల్డ్ ఖాళీగా ఉండకూడదు.</string>
+    <string name="fih_cp_error_other">డేటా నిర్మాణం లోపం.</string>
+    <string name="fih_cp_input_pin_code">PIN కోడ్‌ని నమోదు చేయండి:</string>
+    <string name="fih_cp_input_pin_code_ok">సరే</string>
+    <string name="fih_cp_input_pin_code_cancel">రద్దు చేయి</string>
+    <string name="fih_cp_input_pin_code_incorrect">PIN కోడ్ తప్పు.</string>
+    <string name="fih_cp_input_pin_code_empty">దయచేసి PIN కోడ్‌ని నమోదు చేయండి:</string>
+    <string name="fih_cp_sim_not_available">SIM కార్డ్ అందుబాటులో లేదు.</string>
+</resources>

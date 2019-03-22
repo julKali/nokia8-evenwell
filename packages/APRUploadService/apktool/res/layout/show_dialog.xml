@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="?android:dividerHorizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/fih_lollipop_control_foreground_gray" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/TextView" android:paddingLeft="10.0dip" android:paddingTop="10.0dip" android:paddingRight="10.0dip" android:paddingBottom="10.0dip" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/agree_dialog" android:maxLines="15" android:singleLine="false" />
+    <View android:background="@color/fih_lollipop_control_foreground_gray" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/buttonArea" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/buttonBarStyle">
+        <Button android:id="@id/detail" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/see_detail" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+        <Button android:id="@id/confirm" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/agree" android:layout_weight="1.0" style="?android:attr/buttonBarButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

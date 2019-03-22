@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Одлазак на Почетну</string>
+    <string name="abc_action_bar_up_description">Кретање нагоре</string>
+    <string name="abc_action_menu_overflow_description">Још опција</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Прикажи све</string>
+    <string name="abc_activitychooserview_choose_application">Избор апликације</string>
+    <string name="abc_capital_off">ИСКЉУЧИ</string>
+    <string name="abc_capital_on">УКЉУЧИ</string>
+    <string name="abc_search_hint">Претражите...</string>
+    <string name="abc_searchview_description_clear">Брисање упита</string>
+    <string name="abc_searchview_description_query">Упит за претрагу</string>
+    <string name="abc_searchview_description_search">Претрага</string>
+    <string name="abc_searchview_description_submit">Слање упита</string>
+    <string name="abc_searchview_description_voice">Гласовна претрага</string>
+    <string name="abc_shareactionprovider_share_with">Дели са</string>
+    <string name="abc_shareactionprovider_share_with_application">Дељење са апликацијом %s</string>
+    <string name="abc_toolbar_collapse_description">Скупи</string>
+    <string name="accessibility_text">Приступачност</string>
+    <string name="account_intro_description">Pametnije koristite uređaj prijavom na [BRAND_NAME] usluge.</string>
+    <string name="account_intro_title">Nalog [BRAND_NAME] usluga</string>
+    <string name="add_baidu_button_label">Prijava百度云</string>
+    <string name="add_infocus_service_account">Dodaj nalog [BRAND_NAME] usluga</string>
+    <string name="back_btn_lebel">NAZ.</string>
+    <string name="backup_and_restore_description">"Kreiranu rezervnu kopiju naloga sada možete da vratite na telefon.
+
+Promenite postavke kopiranja u Postavkama u bilo kom trenutku."</string>
+    <string name="backup_and_restore_title">Rez. kop. i vrać.</string>
+    <string name="baidu_intro_description">Možete da uživate u savršenoj integraciji skladišta u oblaku sa 百度云 u par lakih koraka.</string>
+    <string name="baidu_intro_title">Baidu sklad. u oblaku</string>
+    <string name="baidu_progress_dialog_des">Sačekajte...</string>
+    <string name="choose_timezone">Избор временске зоне</string>
+    <string name="datausage_dialog_negitive_btn">Откажи</string>
+    <string name="datausage_dialog_positive_btn">У реду</string>
+    <string name="date_and_time">Подешавања датума и времена</string>
+    <string name="date_and_time_settings_summary">Подешавање датума, времена, временске зоне и формата</string>
+    <string name="date_and_time_settings_title">Datum i vreme</string>
+    <string name="date_and_time_settings_title_setup_wizard">Подешавање датума и времена</string>
+    <string name="date_picker_title">Датум :</string>
+    <string name="date_time_24hour">Користи 24-часовни формат</string>
+    <string name="date_time_auto">Аутоматски датум и време</string>
+    <string name="date_time_auto_summaryOff">Користи време мреже</string>
+    <string name="date_time_auto_summaryOn">Користи време мреже</string>
+    <string name="date_time_date_format">Избор формата датума</string>
+    <string name="date_time_set_date">Подешавање датума</string>
+    <string name="date_time_set_time">Подешавање времена</string>
+    <string name="date_time_set_timezone">Избор временске зоне</string>
+    <string name="device_checking_message">Добродошли</string>
+    <string name="dropbox_fih_description">Nabavite 2 GB u usl. Dropbox za automatsko čuvanje slika i video zapisa.</string>
+    <string name="dropbox_fih_signin">Prijava u Dropbox</string>
+    <string name="dropbox_fih_signup">Upis za Dropbox</string>
+    <string name="emergency_dial_hmd_message">Хитан позив</string>
+    <string name="emergency_dial_message">Хитни позив</string>
+    <string name="expand_button_title">Напредно</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] uslovi korišćenja
+ 
+ Stup. na snagu: 20.05.2016.
+ 
+ Sledeće Odredbe i uslovi (u daljem tekstu: \" Uslovi \") sačinjavaju pravni sporazum koji propisuje upotrebu bilo kog [BRAND_NAME_PROXY] softvera između vas i [BRAND_NAME_PROXY] Inc., i njihovog agenta Commtiva Technology Ltd. (zajednički naziv: \"[BRAND_NAME_PROXY]\") i odnosi se na upotrebu [BRAND_NAME_PROXY] softvera, uključujući, ali bez ograničenja, preuzimanje, instalaciju, automatsko obnavljanje (u daljem tekstu: \" Softverske usluge). Upotrebom [BRAND_NAME_PROXY] softvera prihvatate obavezanost Uslovima; ako ne prihvatate Uslove, ne preuzimajte, umnožavajte, koristite i zadržavajte [BRAND_NAME_PROXY] softver.
+
+
+
+1. Usl. koriš.
+
+Ukoliko prihvatate ove Uslove, [BRAND_NAME_PROXY] vam dodeljuje lično, neisključivo, neprenosivo, neopozivo i ograničeno pravo da koristite [BRAND_NAME_PROXY] softverske usluge. [BRAND_NAME_PROXY] će preko mreže instalirati ciljni kod u [BRAND_NAME_PROXY] pametni uređaj (u daljem tekstu: \" [BRAND_NAME_PROXY] telefon \"). Potvrđujete i pristajete da [BRAND_NAME_PROXY] softver na [BRAND_NAME_PROXY] telefonu neće biti korišćen u komercijalne svrhe ili prenet trećoj strani.
+
+Takođe pristajete da [BRAND_NAME_PROXY] softver nećete koristiti ni na jedan od sledećih načina:
+
+(a)\u0009Hakovanje [BRAND_NAME_PROXY] softvera (i osnovnih tehnologija) ili upotrebu [BRAND_NAME_PROXY] softvera na uređaju koji nije deo brenda [BRAND_NAME_PROXY];
+
+(b)\u0009Analiziranje, dekompilacija, obrnuto inženjerstvo, dekodiranje, kopiranje, izmena [BRAND_NAME_PROXY] softvera ili pravljenje izv. dela u bilo koje svrhe;
+
+(c)\u0009Sve aktivnosti, uključujući, ali bez ograničenja, prenos, zakup, pozajmicu, podzakup, kršenje Uslova i objavljivanje [BRAND_NAME_PROXY] softvera ili omogućavanje trećoj strani da koristi, pristupi ili prisvoji [BRAND_NAME_PROXY].
+
+(d)\u0009Uklanjanje obaveštenja o vlasništvu, logotipa ili žiga sa [BRAND_NAME_PROXY] softvera ili dokumenata bez pret. pismenog odobrenja kom. [BRAND_NAME_PROXY];
+
+(e)\u0009Upotreba [BRAND_NAME_PROXY] softvera protivno aktuelnim zakonima ili kršenje prava drugih strana;
+
+(f)\u0009Upotreba [BRAND_NAME_PROXY] kad je ona zabranjena ili ograničena, uključujući, ali bez ograničenja, prostor kontrole leta, benzinske pumpe, nuklearnu opremu; ili
+
+(g)\u0009Upotreba [BRAND_NAME_PROXY] softvera na način zabranjen Uslovima.
+
+
+
+Kako bi [BRAND_NAME_PROXY] telefon i [BRAND_NAME_PROXY] softver radili pravilno, obavezujete se da nećete uništavati ili pomerati oznake na  [BRAND_NAME_PROXY] telefonu bez pomoći [BRAND_NAME_PROXY] osoblja. Takve neovlašćene aktivnosti uticaće na obim i period garancije koju vam [BRAND_NAME_PROXY] daje.
+
+
+
+2. Smernice priv.
+
+Potvrđujete i pristajete da [BRAND_NAME_PROXY] prikuplja i čuva podatke, uključujući, ali bez ograničenja, model, serijski broj, IMEI/MEID kôd, verziju hardvera, verziju softvera, vreme upotrebe, SKU ID, podrazumevane postavke i verziju OS na [BRAND_NAME_PROXY] telefonu (u daljem tekstu: \" Podaci \"). 
+
+U slučaju da je [BRAND_NAME_PROXY] u obavezi da podatke otkrije vladinoj agenciji ili sudu, [BRAND_NAME_PROXY] će to uraditi ako za tim ima potrebe.
+
+
+
+[BRAND_NAME_PROXY] telefon će obavestiti [BRAND_NAME_PROXY] o tome da [BRAND_NAME_PROXY] telefon nije bio povezan na mobilnu mrežu najmanje 14 dana od dana kupovine.
+
+
+
+Pogledajte [BRAND_NAME_PROXY] smernice privatnosti za detalje.
+
+
+
+3. Korisnička služba
+
+[BRAND_NAME_PROXY] pružaće softverske usluge, uključujući, ali bez ograničenja, ažuriranje i nadogradnje [BRAND_NAME_PROXY] softvera u skladu s tadašnjim statusom koji [BRAND_NAME_PROXY] bude dobio od [BRAND_NAME_PROXY] telefona.
+  
+[BRAND_NAME_PROXY] će obezbediti ažuriranja, zakrpe ili dodatne elemente [BRAND_NAME_PROXY] softvera posle upotrebe [BRAND_NAME_PROXY] softvera preko interneta, što podleže Uslovima.
+
+
+
+[BRAND_NAME_PROXY] zadržava pravo da vam direktno uskrati sve [BRAND_NAME_PROXY] usluge preko interneta za korišćenje [BRAND_NAME_PROXY] softvera i usluga.
+
+[BRAND_NAME_PROXY] će objavljivati naknadne verzije [BRAND_NAME_PROXY] softvera, a vi ste u obavezi da koristite najn. verziju OS.
+
+
+
+4. Autom. ažuriranje
+
+[BRAND_NAME_PROXY] telefon je podešen da automatski preuzima najnoviji firmver i softver od [BRAND_NAME_PROXY] radi poboljšanja performansi 
+
+
+
+Pristajete da sledite potrebna uputstva za takve situacije i uputstva od strane kompanije [BRAND_NAME_PROXY] kako bi rad sa [BRAND_NAME_PROXY] telefonom bio siguran i stabilan. Kako pristajate da preuzmete najnoviji firmver ili softver, smatra se da prihvatate ovo obnavljanje i instalaciju.
+
+
+
+Bićete odgovorni za kreiranje rezervnih kopija svih elektronskih zapisa smeštenih u [BRAND_NAME_PROXY] telefonu pre preuzimanja najnovije verzije firmvera i softvera da ne biste izgubili dokumenta, fotografije, tekstove, zvučne datoteke, video datoteke ili bilo koju vrstu elektronskog zapisa koji se može izgubiti ili uništiti dok se [BRAND_NAME_PROXY] telefon ažurira.
+
+
+
+Kad se [BRAND_NAME_PROXY] telefon jednom automatski ažurira ili se ažurira pristankom u vidu poruke, to znači da pristajete na sledeće sadržaje:
+
+(a)\u0009Ažur. softvera:
+
+Prihvatate i potvrđujete da [BRAND_NAME_PROXY] može preko interneta da proverava verziju softvera i ažurira status [BRAND_NAME_PROXY] telefona. Ako [BRAND_NAME_PROXY] objavi nadogradnju, [BRAND_NAME_PROXY] vam dozvoljava da ažurirate verzije [BRAND_NAME_PROXY] softvera i status preko [BRAND_NAME_PROXY] usluge.
+
+Kad novi [BRAND_NAME_PROXY] softver postane dostupan, pristajete da vam [BRAND_NAME_PROXY] šalje obaveštenja o ažuriranjima. Kad potvrdite nova i dostupna ažuriranja, pristajete da [BRAND_NAME_PROXY] automatski ažurira [BRAND_NAME_PROXY] telefon.
+
+(b)\u0009Sinh. i ažur. sadržaja:
+
+Kada povežete [BRAND_NAME_PROXY] telefon na računar ili drugi uređaj, [BRAND_NAME_PROXY] telefon će automatski ažurirati povezan sadržaj i druge podatke (npr. kontakt podatke, kalendar, obeleživače i datoteke).
+
+
+
+5. Zadržavanje svih vlasničkih i drugih prava za [BRAND_NAME_PROXY] softver
+
+Iako imate licencu za [BRAND_NAME_PROXY] softver i usluge, [BRAND_NAME_PROXY] s partnerima i snabdevačima zadržava sva prava na [BRAND_NAME_PROXY] softver, uključujući, ali bez ograničenja, vlasništvo, autorska prava i druga prava intelektualne svojine.
+
+
+
+Sva prava na [BRAND_NAME_PROXY] softver zaštićena su lokalnim zakonima i međunarodnim ugovorom.
+
+
+
+6. Odr. odg.
+
+[BRAND_NAME_PROXY] ne daje nikakve eksplicitne ili implicitne opise ili garancije, uključujući, ali bez ograničenja, garancije podesnosti za prodaju, zadovoljavajućeg kvaliteta i podesnosti za određenu namenu ili nepovređivanja prava. 
+
+[BRAND_NAME_PROXY] ne garantuje:
+
+(a)\u0009Da će ijedna [BRAND_NAME_PROXY] usluga koju dobijete biti tačna i pouzdana; ili
+
+(b)\u0009Da ćete [BRAND_NAME_PROXY] usluge dobijati kontinuirano, na vreme ili bezbedno; ili
+
+(c)\u0009Da će svi kvarovi i greške u datom softveru biti odmah odstranjeni.
+
+
+
+[BRAND_NAME_PROXY] neće biti odgovoran za gubitak ili kvar zbog virusa ili drugih materijala štetnih za tehnologiju koji mogu zaraziti [BRAND_NAME_PROXY] telefon, programe, podatke i drugi vlasnički materijal upotrebom [BRAND_NAME_PROXY] usluga. Svom sadržaju i drugim materijalima koje preuzmete ili dobijete preko [BRAND_NAME_PROXY] pristupate na svoj rizik i odgovorni ste za bilo koji kvar na [BRAND_NAME_PROXY] telefonu ili gubitak podataka ili sadržaja kao rezultat preuzimanja softvera.
+
+
+
+7. Ogran. odgovornosti i isključivi pravni lek
+
+[BRAND_NAME_PROXY] neće biti odgovoran za posledičnu, slučajnu, indirektnu ili kaznenu štetu ili štetu zbog gubitka profita ili poverljivih i drugih podataka, za prekid rada, ličnu povredu, oštećenje imovine, gubitak privatnosti, nemogućnost da se ispuni dužnost dobre vere ili razumnog održavanja ili za nebrigu.
+
+U najvećem stepenu koji primenljivi zakon dozvoljava, najveći ukupni iznos naknade štete i isključivi pravni lek [BRAND_NAME_PROXY] na osnovu Uslova za bilo koje i sve štete, povrede, oštećenja imovine i gubitke uzrokovane bilo kojim i svim žalbama ili parnicama u vezi sa ili povezanim s Uslovima kojima se stvarna šteta sanira biće ograničeni na 10 am. dolara (10 USD). 
+
+
+
+Veći broj žalbi ili parnica u vezi sa ili povezanih s Uslovima ne povećava ograničenje naknade štete i one će biti vaš isključivi pravni lek u najvećem stepenu koji primenljivi zakon dozvoljava.
+
+
+
+Ako sud odgovarajuće nadležnosti smatra da je dati ograničeni iznos naknade šete neizvršiv, on neće biti u toj vrednosti primenljiv, već će tekst ograničen na deset dolara biti zamenjen tekstom \"ograničen na vrednost transakcije u skladu s povećanjem iznosa naknade štete.\"
+
+
+
+Žalba ili parnica u vezi sa Uslovima ili povezana sa njima mora se podneti u roku od god. dana posle uzroka te radnje.
+
+
+8. Odšteta 
+
+Pristajete da branite, obeštetite i oslobodite [BRAND_NAME_PROXY], njegove akcionare, direktore, službenike, zainteresovane strane, zaposlene, podružnice i partnere od zahteva, gubitka, odgovornosti, žalbi ili troškova (uključujući troškove advokata) koje je bilo koja treća strana načinila [BRAND_NAME_PROXY] zbog, kao rezultat ili u vezi s vašom zloupotrebom [BRAND_NAME_PROXY] usluga, koja krši prava bilo koje treće strane.
+
+
+
+9. Prestanak usluge
+
+Biće vam zakonito zabranjeno da koristite [BRAND_NAME_PROXY] usluge ako ne poštujete Uslove. U takvim slučajevima, uništićete i ukloniti sve primerke [BRAND_NAME_PROXY] softvera. U međuvremenu će se garancija na [BRAND_NAME_PROXY] telefon izmeniti.
+
+U slučaju gorepomenutog prekida, pristajete da [BRAND_NAME_PROXY] ima pravo da uradi sledeće:
+
+(a)\u0009Odmah onemogući pravo na pristup [BRAND_NAME_PROXY] nalogu; i/ili
+
+(b)\u0009Blokira budući pristup nalogu za [BRAND_NAME_PROXY] usluge
+
+
+
+Takođe pristajete da će bilo kakvo kršenje Uslova uzrokovati nenadoknadivu štetu kompaniji [BRAND_NAME_PROXY] za koju će novčana odšteta biti neadekvantna i pristajete da [BRAND_NAME_PROXY] dobije pravnu zaštitu koju [BRAND_NAME_PROXY] smatra potrebnom ili prikladnom u takvim slučajevima. Ovi pravni lekovi su predviđeni uz ostale koje [BRAND_NAME_PROXY] može zakonito dobiti.
+
+
+
+10. Mer. zakon i sudska nadležnost
+
+Pristajete da za sva pitanja o svim neslaganjima u vezi s Uslovima budu nadležni zakoni Republike Kine (RK) bez obzira na sukobe u zakonskim propisima. 
+
+
+
+Pristajete na personalnu nadležnost okružnog suda u Tajpeju u Tajvanu i odričete se od prigovora u vezi sa ovom nadležnošću i lokacijom.
+
+
+
+Za neslaganja koja se ne mogu rešiti uzajamnim i prijateljskim dogovorom između vas i kom. [BRAND_NAME_PROXY] zatražiće se posr. između vas i kom. [BRAND_NAME_PROXY]. Ako se neslaganje ne reši posredovanjem kroz 30 kalendarskih dana, to neslaganje postaće nadležnost gorepomenutog okružnog suda.
+
+
+
+11. Opšta klauzula
+
+Naslovi Odredbi koriste se samo radi olakšice.
+ 
+Propust kompanije [BRAND_NAME_PROXY] da deluje protiv povrede ne tumači se kao kršenja prava za takvu povredu ili za mogućnost naknadne ili slične povrede.
+
+
+
+Ako sud odgovarajuće nadležnosti odluči da je bilo koji deo ovih Uslova nevažeći ili se ne može izvršiti, onda će zameniti nevažeće ili neizvršive odredbe važećim i izvršivim, koje najbliže odgovaraju svrsi prvobitnih Uslova, dok će ostatak Uslova ostati na snazi. 
+
+
+
+Ne možete dodeliti Uslove ili dodeliti, preneti ili podzakupiti svoja prava iz Uslova.
+
+
+
+[BRAND_NAME_PROXY] može bilo kad dodeliti ove Uslove u celosti ili delimično s obaveštenjem ili bez njega. 
+
+
+
+Ovi Uslovi zamenjuje sve prethodne ili trenutne komunikacije bilo koje vrste između vas i komp. [BRAND_NAME_PROXY], a u vezi sa lokacijom.
+
+
+
+12. Ceo ugovor
+
+Uslovi i obnovljeni prilozi sačinjavaju ceo ugovor između vas i kompanije [BRAND_NAME_PROXY] u vezi sa [BRAND_NAME_PROXY] uslugama.
+
+
+
+13. Promena Uslova
+
+[BRAND_NAME_PROXY] može povremeno ažurirati, promeniti ili izbrisati sadržaj Uslova po svom nahođenju.
+
+
+
+Morate da pročitate Uslove na [BRAND_NAME_PROXY] lokaciji jer se mogu razlikovati od onih koje ste prvobitno pročitali.
+
+
+
+Smatra se da ste promene prihvatili upotrebom obnovljenog softvera i [BRAND_NAME_PROXY] telefona.
+
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] info.</string>
+    <string name="finish_button_label">KRAJ</string>
+    <string name="google_account_add_account">Пријави ме преко Google-а</string>
+    <string name="google_account_intro_description">Pod. Google nalog da biste koristili Google usluge</string>
+    <string name="google_account_intro_title">Google nalog</string>
+    <string name="hmd_legal_message" />
+    <string name="hmd_user_experience_program_message">Ваше учешће у програму прикупљања утисака корисника помаже компанији HMD Global да боље разуме шта вам се у вези са уређајем Nokia допада, као и шта сматрате да треба побољшати. Могуће је повремено слање анонимних техничких података који се тичу вашег уређаја, као на пример докумената са подацима о паду софтвера који се евентуално догодио. Имајте на уму да се такви подаци не шаљу путем мобилне мреже. Било би нам драго да чујемо шта мислите о свом уређају Nokia!</string>
+    <string name="hmd_user_experience_program_title">Програм корисничких утисака</string>
+    <string name="idle_too_long_toast">Telefon je dugo neaktivan. Isključite ga radi ušt. bat.</string>
+    <string name="language_selection_cancel_btn">ОТКАЖИ</string>
+    <string name="language_selection_title">Изаберите свој језик</string>
+    <string name="light_room_description">%1$s подржава снимање RAW (DNG) слика. Можете да уређујете директно на свом новом телефону захваљујући нашем партнерству са компанијом Adobe.&lt;br/>&lt;br/>Одмах преузмите Adobe Photoshop Lightroom CC из продавнице Google Play.</string>
+    <string name="light_room_title">Имате страст за фотографијом?</string>
+    <string name="location_for_service">Koristi moju lokaciju za Google pretragu i druge Google usluge.</string>
+    <string name="location_info_1">Usluga Google lokacija prenosi aplikacijama vašu približnu lokaciju bez korišćenja GPS-a.</string>
+    <string name="location_info_2">Ove opcije možete isključiti u Postavkama u okviru usluga Lokacije.</string>
+    <string name="location_network">Dozvoli da Google lokacija prikuplja anonimne podatke o lokaciji. Prikupljanje će početi iako nijedna aplikacija ne radi.</string>
+    <string name="location_title">Koristi Google lok.</string>
+    <string name="nevigation_selection_back">Nazad</string>
+    <string name="nevigation_selection_home">Почетак</string>
+    <string name="nevigation_selection_recent">Недавно</string>
+    <string name="nevigation_selection_text">Možete promeniti boju pozadine i mesto dugmadi Nazad/Nedavno.</string>
+    <string name="nevigation_selection_title">Поставке навигационе траке</string>
+    <string name="next_btn_lebel">ДАЉЕ</string>
+    <string name="normal_date_format">Регионално (%s)</string>
+    <string name="search_menu_title">Претражи</string>
+    <string name="setup_complete_hmd">Све је спремно да почнете...</string>
+    <string name="setup_complete_main">Sve je</string>
+    <string name="setup_complete_sub">SPREMNO.</string>
+    <string name="setup_completed_congratulations">Čestitamo!</string>
+    <string name="sim_not_exist_toast">Proverite da li ste umetnuli SIM.</string>
+    <string name="skip_add_account_button_label">Не сада</string>
+    <string name="skip_button_label">Прескочи</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Saglasite se</string>
+    <string name="term_disagree_text">Не прихватам</string>
+    <string name="terms_of_service_description">"
+Prenos mobilnih podataka može biti dodatno naplaćen kad koristite usluge koje zahtevaju mrežnu vezu, kao što su vremenska prognoza, internet, e-pošta, pregledač itd. Da biste efikasnije koristili mobilne podatke, predlažemo da nabavite odgovarajući tarifni paket od operatera.
+
+Ako pristanete, dozvoljavate ovim uslugama da se povežu na mrežu kad je to potrebno.
+
+Pored toga, automatsko ažuriranje softvera je podrazumevano omogućeno. Moguća je potrošnja podataka tokom preuzimanja najnovijeg softvera. Uvek možete da promenite ovu opciju u Postavkama.
+
+"</string>
+    <string name="terms_title">Potr. pod.</string>
+    <string name="time_picker_title">Време:</string>
+    <string name="traffic_prompt_content">Ako ne pristanete, moraćete ručno da ažurirate softver, vremensku prognozu i druge podatke.</string>
+    <string name="upload_agent_des_text">"Prij. za prog. koris. iskus. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Više info!&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Придружите се програму Nokia User Experience. &lt;a href='launch.UserExperienceActivity://Kode'>Сазнајте више.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Program koris. iskustva</string>
+    <string name="v7_preference_off">ИСКЉУЧЕНО</string>
+    <string name="v7_preference_on">УКЉУЧЕНО</string>
+    <string name="welcome_hmd_term_of_use_2">"Додиром стрелице, прихватате &lt;a href='launch.TermOfServiceActivity://Kode'>Услове коришћења услуге&lt;/a> и &lt;a href='launch.AddUploadAgentHandler://Kode'>Политику приватности&lt;/a>. HMD Global ће примити информацију о активацији уређаја и једнократну информацију о локацији уређаја. Могућа је наплата преноса података."</string>
+    <string name="welcome_infocus_term_of_use">"Dodirom streli. usvajate&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Uslove korišćenja.&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">ХАЈДЕМО</string>
+    <string name="welcome_message">Добродошли</string>
+    <string name="welcome_start_button_label">ПОКРЕНИ</string>
+    <string name="welcome_vision_settings_button_label">Поставке гледања</string>
+    <string name="wifi_picker_connection_des_text">Ako isključite WLAN, provera softvera preko mobilne mreže može biti naplaćena.</string>
+    <string name="wifi_picker_connection_negative">Повежи</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN veza</string>
+    <string name="wifi_picker_connection_positive">У реду</string>
+    <string name="wifi_picker_connection_title">Mrežna veza</string>
+    <string name="wifi_picker_warning_des_text">Sve dok se ne povežete na internet, telefon neće moći da potvrdi da je softver ažuriran.</string>
+    <string name="wifi_picker_warning_negative">Ипак прескочи</string>
+    <string name="wifi_picker_warning_positive">Ne preskači</string>
+    <string name="wifi_picker_warning_title">Упозорење</string>
+    <string name="zone_auto">Аутоматска временска зона</string>
+    <string name="zone_auto_summaryOff">Користи временску зону мреже</string>
+    <string name="zone_auto_summaryOn">Користи временску зону мреже</string>
+    <string name="sugarsync_intro_description">Možete da uživate u savršenoj integraciji prostora u oblaku koju nudi SugarSync u par koraka.</string>
+</resources>

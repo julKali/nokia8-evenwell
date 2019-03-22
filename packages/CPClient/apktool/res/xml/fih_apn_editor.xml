@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen n1:title="@string/fih_cp_notify_statusbar_content"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_name" n1:key="key_apn_name" n1:dialogTitle="@string/fih_cp_editor_apn_name" n1:inputType="textEmailAddress" />
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_apn" n1:key="key_apn_apn" n1:dialogTitle="@string/fih_cp_editor_apn_apn" n1:inputType="textEmailAddress" />
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_http_proxy" n1:key="key_apn_http_proxy" n1:dialogTitle="@string/fih_cp_editor_apn_http_proxy" n1:inputType="textUri" />
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_http_port" n1:key="key_apn_http_port" n1:dialogTitle="@string/fih_cp_editor_apn_http_port" n1:inputType="number" />
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_user" n1:key="key_apn_user" n1:dialogTitle="@string/fih_cp_editor_apn_user" n1:inputType="textEmailAddress" />
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_password" n1:key="key_apn_password" n1:dialogTitle="@string/fih_cp_editor_apn_password" n1:inputType="textPassword" />
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_mmsc" n1:key="key_apn_mmsc" n1:dialogTitle="@string/fih_cp_editor_apn_mmsc" n1:inputType="textUri" />
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_mms_proxy" n1:key="key_apn_mms_proxy" n1:dialogTitle="@string/fih_cp_editor_apn_mms_proxy" n1:inputType="textUri" />
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_mms_port" n1:key="key_apn_mms_port" n1:dialogTitle="@string/fih_cp_editor_apn_mms_port" n1:inputType="number" />
+    <ListPreference n1:entries="@array/apn_auth_entries" n1:title="@string/fih_cp_editor_apn_auth_type" n1:key="key_auth_type" n1:entryValues="@array/apn_auth_values" />
+    <EditTextPreference n1:singleLine="true" n1:title="@string/fih_cp_editor_apn_type" n1:key="key_apn_type" n1:dialogTitle="@string/fih_cp_editor_apn_type" n1:inputType="textNoSuggestions" />
+</PreferenceScreen>

@@ -1,0 +1,64 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: BokehEditor.apk
+compressionType: false
+doNotCompress:
+- arsc
+- META-INF/android.arch.core_runtime.version
+- META-INF/android.arch.lifecycle_livedata-core.version
+- META-INF/android.arch.lifecycle_runtime.version
+- META-INF/android.arch.lifecycle_viewmodel.version
+- META-INF/com.android.support_asynclayoutinflater.version
+- META-INF/com.android.support_coordinatorlayout.version
+- META-INF/com.android.support_cursoradapter.version
+- META-INF/com.android.support_customview.version
+- META-INF/com.android.support_documentfile.version
+- META-INF/com.android.support_drawerlayout.version
+- META-INF/com.android.support_interpolator.version
+- META-INF/com.android.support_loader.version
+- META-INF/com.android.support_localbroadcastmanager.version
+- META-INF/com.android.support_print.version
+- META-INF/com.android.support_slidingpanelayout.version
+- META-INF/com.android.support_support-compat.version
+- META-INF/com.android.support_support-core-ui.version
+- META-INF/com.android.support_support-core-utils.version
+- META-INF/com.android.support_support-fragment.version
+- META-INF/com.android.support_support-media-compat.version
+- META-INF/com.android.support_support-v4.version
+- META-INF/com.android.support_swiperefreshlayout.version
+- META-INF/com.android.support_viewpager.version
+- png
+- jpg
+- res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+- res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+- res/drawable-hdpi-v4/notification_bg_normal.9.png
+- res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+- res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+- res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+- res/drawable-mdpi-v4/notification_bg_normal.9.png
+- res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+- res/drawable-xhdpi-v4/gallery_ic_livebokeh_focus.9.png
+- res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+- res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+- res/drawable-xhdpi-v4/notification_bg_normal.9.png
+- res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+- res/drawable-xxhdpi-v4/gallery_ic_livebokeh_focus.9.png
+- res/drawable-xxhdpi-v4/image_control.9.png
+- res/drawable-xxxhdpi-v4/gallery_ic_livebokeh_focus.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '24'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '9002010'
+  versionName: 9.0020.10

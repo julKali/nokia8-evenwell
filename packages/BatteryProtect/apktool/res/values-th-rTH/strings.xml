@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">ยกเลิก</string>
+    <string name="fih_battery_protect_alert_dialog_ok">ตกลง</string>
+    <string name="fih_battery_protect_cancel_wear">ยกเลิก</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"โทรศัพท์ของคุณเริ่มร้อน และกำลังดำเนินการตามขั้นตอนเพื่อทำให้เครื่องเย็นลง คุณยังสามารถใช้โทรศัพท์ได้ แต่คุณอาจสังเกตเห็นว่า:
+·การชาร์จอาจหยุดลง
+·Wi-Fi อาจถูกปิด
+·แอพพลิเคชั่นต่างๆ อาจถูกปิด
+·โหมดเครื่องบินอาจถูกเปิดขึ้น
+โทรศัพท์ของคุณจะกลับมาใช้งานได้ตามปกติเมื่อเครื่องมีอุณหภูมิลดลง"</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">การแจ้งเตือนทั่วไป</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">โปรดใช้แบตเตอรี่ของแท้ในการชาร์จ มิฉะนั้นอาจทำให้เกิดความเสียหายอย่างถาวร/ทางกายภาพต่ออุปกรณ์ของคุณได้</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">โปรดใช้แบตเตอรี่ของแท้</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">หยุดการชาร์จแล้ว</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">แบตเตอรี่ไม่ถูกต้อง</string>
+    <string name="fih_battery_protect_notification_cooling_down">ทำให้เย็นลง</string>
+    <string name="fih_battery_protect_ok_wear">ตกลง</string>
+    <string name="fih_battery_protect_tap_learn_more">แตะเพื่อเรียนรู้เพิ่มเติม</string>
+</resources>

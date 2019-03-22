@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Datenschutz</string>
+    <string name="privacy_activity">Datenschutz</string>
+    <string name="go_label">Fertig</string>
+    <string name="agree">Zustimmen</string>
+    <string name="next_btn_lebel">Weiter</string>
+    <string name="app_name">Systemdiagnose</string>
+    <string name="setting_page_name">Nutzererfahrungsprogramm</string>
+    <string name="send_diag_dialog_any_network">Wenn Datenverbindung verfügbar</string>
+    <string name="send_diag_dialog_wifi">Wenn WLAN-Verbindung verfügbar</string>
+    <string name="send_diag_dialog_wlan">Wenn WLAN-Verbindung verfügbar</string>
+    <string name="send_diag_dialog_title">Diagnose senden</string>
+    <string name="diagnostics_setting">Diagnose</string>
+    <string name="diagnostics_report">Diagnosebericht</string>
+    <string name="diagnostics_report_summary">Diagnosebericht senden, wenn Softwarefehler im Gerät auftritt. Gebühren für die Netznutzung möglich. Ein Datentarif des Betreibers wird empfohlen.</string>
+    <string name="network_options">Netzoptionen</string>
+    <string name="send_diagnostics">Diagnose senden</string>
+    <string name="cancel_upload_confirm_msg">Sie verlassen jetzt unser Nutzererfahrungsprogramm. Softwarefehler, die auf Ihrem Telefon auftreten, werden nicht gespeichert und übertragen, sodass die Nutzererfahrung des Mobiltelefons nicht verbessert werden kann!</string>
+    <string name="hmd_privacy_policy">HMD-Datenschutzerklärung</string>
+</resources>

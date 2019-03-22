@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">Terminé</string>
+    <string name="abc_activity_chooser_view_see_all">Voir toutes les chaînes</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionnez une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Recherche en cours...</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Annuler</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Annuler</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"« Votre téléphone devient chaud, il prend donc les mesures nécessaires pour se refroidir. Vous pouvez continuer à l'utiliser, mais vous pourriez remarquer : ·Une pause possible de la charge. ·Le Wi-Fi pourrait être mis hors fonction. ·Des applications pourraient se fermer. ·Le mode Avion peut être activé. Votre téléphone redeviendra normal lorsqu'il sera refroidi. »"</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">"Veuillez utiliser la batterie d'origine pour charger l'appareil, sous peine d'occasionner des dommages physiques/permanents."</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">"Veuillez utiliser la batterie d'origine"</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Arrêt de la charge</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">"La batterie n'est pas valide"</string>
+    <string name="fih_battery_protect_notification_cooling_down">Refroidissement</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_tap_learn_more">Appuyez pour en savoir plus.</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">ຕົກລົງ</string>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="system_busy_msg">ລະບົບບໍ່ຫວ່າງ. ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ.</string>
+    <string name="no_new_demo_found_msg">"ບໍ່ພົບວັດສະດຸເດໂມໃໝ່.
+
+ແຕະຕົກລົງເພື່ອເລີ່ມໂໝດເດໂມ?"</string>
+    <string name="copying">ກຳລັງອັດສຳເນົາ...</string>
+    <string name="downloading">ກຳລັງດາວໂຫຼດ...</string>
+    <string name="download_complete_msg">"ດາວໂຫຼດສຳເລັດ.
+
+ແຕະຕົກລົງເພື່ອເລີ່ມໂໝດເດໂມ."</string>
+    <string name="download_fail_msg">"ບໍ່ສຳເລັດໃນການດາວໂຫຼດວັດສະດຸເດໂມຈາກອິນເຕີເນັດ.
+
+ແຕະຕົກລົງເພື່ອເລີ່ມໂໝດເດໂມ?"</string>
+    <string name="enable_demo_mode">ເປີດໃຊ້ງານໂໝດສາ​ທິດ​ບໍ?</string>
+    <string name="disable_demo_mode">ປິດໃຊ້ງານໂໝດສາ​ທິດ</string>
+    <string name="update_demo_video">ອັບ​ເດດ​ວິ​ດີ​ໂອ​ສາ​ທິດ</string>
+    <string name="reset_device">ຕັ້ງຄ່າຄືນໃໝ່ອຸປະກອນ?</string>
+    <string name="demo_mode_notifications">ການແຈ້ງເຕືືອນໂໝດເດໂມ</string>
+</resources>

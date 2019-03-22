@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/WearLayout_DialogStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:layout_width="100.0dip" android:layout_height="100.0dip" android:layout_marginTop="60.0dip" android:src="@drawable/fih_wear_batteryprotect_levelfull" />
+    <TextView android:textSize="27.0sp" android:textColor="#ffefefef" android:gravity="center_horizontal" android:layout_gravity="center" android:id="@id/normal_dec_text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="12.0dip" android:text="@string/fih_battery_protect_full_charging_wear" />
+</LinearLayout>

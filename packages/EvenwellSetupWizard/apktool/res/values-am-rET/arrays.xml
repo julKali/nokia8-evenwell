@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ቋሚ</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>በራስ ሰር አግኝ</item>
+        <item>እንደሚለካ አስተናግድ</item>
+        <item>እንዳልተለካ አስተናግድ</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>የለም</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>የለም</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>የለም</item>
+        <item>በእጅ</item>
+        <item>የተኪ ራስ-ውቅር</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ደካማ</item>
+        <item>ደህና</item>
+        <item>ጥሩ</item>
+        <item>እጅግ በጣም ጥሩ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>ን በመቃኘት ላይ…</item>
+        <item>በማገናኘት ላይ…</item>
+        <item>ን በማረጋገጥ ላይ…</item>
+        <item>IP አድራሻ… በማግኘት ላይ</item>
+        <item>ተገናኝቷል</item>
+        <item>ታግዷል</item>
+        <item>ን በማለያየት ላይ…</item>
+        <item>ግንኙነት ተቋርጧል</item>
+        <item>ያልተሳካ</item>
+        <item>የታገዱ</item>
+        <item>ለጊዜው ደካማ ግንኙነትን በማስወገድ ላይ</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>ን በመቃኘት ላይ…</item>
+        <item>ከ %1$s ጋር በመገናኘት ላይ…</item>
+        <item>ተገናኝቷል %1$s…</item>
+        <item>ከ%1$s IP አድራሻ በማግኘት ላይ…</item>
+        <item>ከ %1$s ጋር ተገናኝቷል</item>
+        <item>ታግዷል</item>
+        <item>ከ %1$s ጋር በመላቀቅ ላይ…</item>
+        <item>ግንኙነት ተቋርጧል</item>
+        <item>ያልተሳካ</item>
+        <item>የታገዱ</item>
+        <item>ለጊዜው ደካማ ግንኙነትን በማስወገድ ላይ</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI ሄክሳዴሲማል</item>
+    </string-array>
+</resources>

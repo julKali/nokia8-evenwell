@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">天气服务</string>
+    <string name="fih_weather_permission_hint_1">若要正常运行，此应用程序需要相关权限。请允许所需权限。</string>
+    <string name="fih_weather_permission_hint_2">如欲正常运行，此应用程序需要额外的权限。请在「设定」中，管理「天气服务」的权限。</string>
+    <string name="fih_weather_button_ok">确定</string>
+    <string name="fih_weather_button_close">关闭</string>
+    <string name="fih_weather_button_setting">设置</string>
+    <string name="fih_weather_permission_success">获取位置权限</string>
+    <string name="fih_weather_permission_failed">获取位置权限失败,无法取得位置信息</string>
+    <string name="fih_weather_notification_title">天气服务需要权限</string>
+    <string name="fih_weather_notification_text">点选以允许</string>
+    <string name="fih_weather_notification_channel_title">应用通知</string>
+</resources>

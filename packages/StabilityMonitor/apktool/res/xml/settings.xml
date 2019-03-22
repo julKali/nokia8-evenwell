@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/on_off_category_title">
+        <SwitchPreference android:icon="@drawable/on_off" android:title="@string/on_off_category_title" android:key="stability_monitor_on_off_key" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/upload_info_category_title">
+        <ListPreference android:icon="@drawable/upload_location" android:entries="@array/upload_location_options" android:title="@string/upload_location_title" android:key="upload_location_key" android:defaultValue="@string/upload_location_default_value" android:shouldDisableView="false" android:dialogTitle="@string/upload_location_dialog_title" android:entryValues="@array/upload_location_values" />
+        <ListPreference android:icon="@drawable/queue_upload_interval" android:entries="@array/queue_upload_interval_options" android:title="@string/queue_upload_interval_title" android:key="queue_upload_interval_key" android:defaultValue="@string/queue_upload_interval_default_value" android:shouldDisableView="false" android:dialogTitle="@string/queue_upload_interval_dialog_title" android:entryValues="@array/queue_upload_interval_values" />
+        <ListPreference android:icon="@drawable/regular_upload_interval" android:entries="@array/regular_upload_interval_options" android:title="@string/regular_upload_interval_title" android:key="regular_upload_interval_key" android:defaultValue="@string/regular_upload_interval_default_value" android:shouldDisableView="false" android:dialogTitle="@string/regular_upload_interval_title" android:entryValues="@array/regular_upload_interval_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/stability_log_size_category_title">
+        <ListPreference android:icon="@drawable/dropbox_log_lines" android:entries="@array/dropbox_log_size_options" android:title="@string/dropbox_log_lines_title" android:key="java_db_record_log_lines_key" android:defaultValue="@string/defaule_dp_size" android:shouldDisableView="false" android:dialogTitle="@string/dropbox_log_lines_title" android:entryValues="@array/dropbox_log_size_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/encrypted_category_title" android:key="encryption_key">
+        <EditTextPreference android:icon="@drawable/encrypted" android:title="@string/encrypted_title" android:key="encrypted_key" android:defaultValue="@string/default_encrypted_key" android:shouldDisableView="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

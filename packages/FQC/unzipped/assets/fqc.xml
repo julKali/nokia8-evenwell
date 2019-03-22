@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fqcsetting project="FAO" version="0.000.00" countup="true">
+    <!-- copy from D1C -->
+    <!--Manual Test-->
+    <TouchPanelFirmware name="TouchPanel Firmware Test" enable="false">
+        <!--Please set the file path which can get the  TouchPanelFirmware-->
+        <Path name="/proc/touchinfo" enable="true"> </Path>
+    </TouchPanelFirmware>
+
+    <DeviceInfoActivity name="SW &amp; HW Version Test" enable="true">
+        <HideWhenTestALL enable="true"></HideWhenTestALL>
+        <SKUID enable="true">
+            <Version name="3" enable="true"/>
+        </SKUID>
+        <TouchPanelFirmware enable="true" >
+        <!--Please set the file path which can get the  TouchPanelFirmware-->
+            <Path name="/proc/AllHWList/tp_fw_ver" enable="true"> </Path>
+        </TouchPanelFirmware>
+        <LinuxKernelVersion enable="true"> </LinuxKernelVersion>
+        <BuildVersion enable="true">
+            <Path name="ro.build.display.id" enable="true"> </Path>
+        </BuildVersion>
+        <DeviceSoftwareVersion enable="true"> </DeviceSoftwareVersion>
+        <DeviceModel enable="true"> </DeviceModel>
+        <BasebandVersion enable="false"></BasebandVersion>
+        <HWBasebandVersion enable="true">
+            <Baseband enable="true">
+                <Path name="/proc/baseband" enable="true"> </Path>
+            </Baseband>
+            <Orighwid enable="false">
+                <Path name="/proc/orighwid" enable="false"></Path>
+            </Orighwid>
+            <!--HWinfo for TNQ -->
+            <HWinfo enable="false">
+                <Path name="/proc/HWinfo" enable="false"> </Path>
+            </HWinfo>
+        </HWBasebandVersion>
+        <CellPhoneModel enable="false"> </CellPhoneModel>
+        <NandInformation enable="false"></NandInformation>
+        <IMEI enable="true">
+            <DSDSWG enable="true"> </DSDSWG>
+        </IMEI>
+        <PicassoInfo enable="false"></PicassoInfo>
+        <SJUGInfo enable="false"></SJUGInfo>
+        <MEID enable="false"></MEID>
+        <DramInformation enable="true">
+            <Path name="/proc/AllHWList/draminfo" enable="true"> </Path>
+        </DramInformation>
+        <EmmcInformation enable="true">
+            <Path name="/proc/AllHWList/emmcinfo" enable="true"> </Path>
+        </EmmcInformation>
+        <ProductID enable="false"> </ProductID>
+        <!-- Add for GOXI item-->
+        <WiFiFirmwareVersion enable="false">
+            <Path name="/proc/baseband" enable="false"></Path>
+        </WiFiFirmwareVersion>
+        <BTFirmwareVersion enable="false">
+            <Path name="/proc/baseband" enable="false"></Path>
+        </BTFirmwareVersion>
+        <CPU enable="false">
+            <Path name="/sys/board_properties/soc/family" enable="true"></Path>
+        </CPU >
+        <CPUSecureType enable="false">
+            <Path name="/sys/board_properties/soc/type" enable="false"></Path>
+        </CPUSecureType>
+        <CPUSecureRevision enable="false">
+            <Path name="/sys/board_properties/soc/revision" enable="false"></Path>
+        </CPUSecureRevision>
+        <BatteryFirmwareVersion enable="false">
+            <Path name="/sys/class/i2c-adapter/i2c-2/2-0055/dfi_version" enable="false"></Path>
+        </BatteryFirmwareVersion>
+    </DeviceInfoActivity>
+
+    <ShowCameraTest name="Camera Test" enable="true">
+    	<AutoFocusZone enable="true"></AutoFocusZone>
+        <MainCamera enable="true">
+            <PreviewRotate name="90" enable="true"> </PreviewRotate>
+            <ShowRotate name="90" enable="true"> </ShowRotate>
+            <PackageName name="com.android.camera" enable="true"> </PackageName>
+            <ClassName name="com.android.camera.Camera" enable="true"> </ClassName>
+            <Extra name="0" enable="true"> </Extra>
+        </MainCamera>
+        <FrontCamera enable="true">
+            <PreviewRotate name="90" enable="true"> </PreviewRotate>
+            <ShowRotate name="270" enable="true"> </ShowRotate>
+            <PackageName name="com.android.camera" enable="true"> </PackageName>
+            <ClassName name="com.android.camera.Camera" enable="true"> </ClassName>
+            <Extra name="1" enable="true"> </Extra>
+        </FrontCamera>
+        <AntiBandingHZ name="50" enable="true"></AntiBandingHZ>
+    </ShowCameraTest>
+
+    <ShowFlashLight name="Flash Light Test" enable="true">
+        <!--Please set FLASH_MODE_TORCH if you Parameters.FLASH_MODE_TORCH-->
+        <!--Please set FLASH_MODE_ON    if you Parameters.FLASH_MODE_ON (intel)-->
+        <FlashMode name="FLASH_MODE_TORCH" enable="true"> </FlashMode>
+    </ShowFlashLight>
+
+    <ShowKeyboardLight name="Keyboard Light Test" enable="false">
+    </ShowKeyboardLight>
+
+    <ShowBrightness name="Brightness Test" enable="true">
+        <BrightnessTimerScheduleInterval name="6000" enable="true"> </BrightnessTimerScheduleInterval>
+        <ElapsedTime name="24000" enable="true"> </ElapsedTime>
+    </ShowBrightness>
+
+    <ShowLED name="LED Test" enable="true">
+        <isViaFW enable="true"></isViaFW>
+        <ViaFWColorSwitchRounds name="5" enable="true"></ViaFWColorSwitchRounds>
+        <ViaFWColorSwitchInterval name="1000" enable="true"></ViaFWColorSwitchInterval>
+        <ViaFWColorSupported name="#ffff0000,#ff00ff00,#ff0000ff" enable="true"></ViaFWColorSupported>
+    </ShowLED>
+
+    <PixelTestActivity name="Pixel Color Test" enable="true">
+    </PixelTestActivity>
+
+    <VibratorActivity name="Vibrator Test" enable="true">
+    </VibratorActivity>
+
+    <ShowEarphone name="Receiver Test" enable="true">
+    </ShowEarphone>
+
+    <!--ShowSpeaker name="Speaker Test" enable="true"-->
+    <!--/ShowSpeaker-->
+    <ShowSpeakerL name="Speaker L Test" enable="true"> </ShowSpeakerL>
+    <ShowSpeakerR name="Speaker R Test" enable="true"> </ShowSpeakerR>
+
+    <!-- Just for BB2 devices @20120304-->
+    <HandsetMicrophone name="Handset Microphone Test" enable="false">
+    </HandsetMicrophone>
+
+    <HandsetLoopbackTest name="Handset Loopback Test" enable="false">
+        <CommandPath name="/system/bin/mm-audio-mvs-test-int" enable="false"> </CommandPath>
+        <ShellOnCommandPath name="/system/bin/sh /system/bin/handsetonloopback.sh" enable="true"> </ShellOnCommandPath>
+        <ShellOffCommandPath name="/system/bin/sh /system/bin/handsetoffloopback.sh" enable="true"> </ShellOffCommandPath>
+    </HandsetLoopbackTest>
+
+    <!-- Need indicator insert headset -->
+    <HeadsetLoopbackTest name="Headset Loopback Test" enable="true">
+        <CommandPath name="/system/bin/mm-audio-mvs-test-ext" enable="false"> </CommandPath>
+        <ShellOnCommandPath name="/system/bin/sh /system/bin/hmic1_to_headset_recv_on.sh" enable="true"> </ShellOnCommandPath>
+        <ShellOffCommandPath name="/system/bin/sh /system/bin/hmic1_to_headset_recv_off.sh" enable="true"> </ShellOffCommandPath>
+    </HeadsetLoopbackTest>
+
+    <Mic1ToHeadsetLoop name="Mic1 Headset Loopback Test" enable="true">
+        <CommandPath name="/system/bin/mm-audio-mvs-test-int" enable="false"> </CommandPath>
+        <ShellOnCommandPath name="/system/bin/sh /system/bin/dmic1_to_headset_recv_on.sh" enable="true"> </ShellOnCommandPath>
+        <ShellOffCommandPath name="/system/bin/sh /system/bin/dmic1_to_headset_recv_off.sh" enable="true"> </ShellOffCommandPath>
+    </Mic1ToHeadsetLoop>
+
+    <Mic2ToHeadsetLoop name="Mic2 Headset Loopback Test" enable="true">
+        <CommandPath name="/system/bin/mm-audio-mvs-test-int" enable="false"> </CommandPath>
+        <ShellOnCommandPath name="/system/bin/sh /system/bin/dmic2_to_headset_recv_on.sh" enable="true"> </ShellOnCommandPath>
+        <ShellOffCommandPath name="/system/bin/sh /system/bin/dmic2_to_headset_recv_off.sh" enable="true"> </ShellOffCommandPath>
+    </Mic2ToHeadsetLoop>
+
+    <ShowMicrophone name="Microphone Test" enable="false">
+        <!--Mric 1 type-->
+        <Mric1Type enable="false"> </Mric1Type>
+        <!--Mric 2 type-->
+        <Mric2Type enable="false"> </Mric2Type>
+        <!--HeadsetMicro type-->
+        <MricHType enable="true"> </MricHType>
+    </ShowMicrophone>
+<!--
+    <ShowFMTest name="FM Test" enable="true">
+        <InsideFM enable="true"> </InsideFM>
+        <PackageName name="com.caf.fmradio" enable="true"> </PackageName>
+        <ClassName name="com.caf.fmradio.FMRadio" enable="true"> </ClassName>
+-->
+        <!--set fm fre &amp;quot;fqc_fm_freq&amp;quot;-->
+<!--
+
+        <Extra1 name="10750" enable="true"> </Extra1>
+        <ExtraPlatform name="QC" enable="true"> </ExtraPlatform>
+    </ShowFMTest>
+
+-->
+
+
+    <ShowFMTest name="FM Test" enable="true">
+        <!--<InsideFM enable="true"> </InsideFM>-->
+        <!--set fm fre &amp;quot;fqc_fm_freq&amp;quot;-->
+        <Extra1 name="10750" enable="true"> </Extra1>
+        <!--<ExtraPlatform name="QC" enable="true"> </ExtraPlatform>-->
+    </ShowFMTest>
+
+
+
+    <ShowTVTest name="TV Test" enable="false">
+        <PackageName name="com.android.mobiletv.app" enable="true"> </PackageName>
+        <ClassName name="com.android.mobiletv.app.activity.FullScreen" enable="true"> </ClassName>
+        <Extra1 name="Extra" ShowTVTest="false"> </Extra1>
+        <SNRBERInfo enable="true">
+            <Path name="/data/data/com.android.mobiletv.app/snrdump/NMI_snrber.txt" enable="true"> </Path>
+        </SNRBERInfo>
+    </ShowTVTest>
+
+    <ShowWiMAX name="WiMAX Test" enable="false">
+        <PackageName name="com.fihtdc.wimaxdiag" enable="true"> </PackageName>
+        <ClassName name="com.fihtdc.wimaxdiag.WimaxDiagMain" enable="true"> </ClassName>
+    </ShowWiMAX>
+
+    <BatteryInfoActivity name="Battery Information" enable="true">
+        <BatteryStatus enable="true"> <HideWhenTestALL enable="true"></HideWhenTestALL></BatteryStatus>
+        <PowerPlug enable="true"> </PowerPlug>
+        <BatteryLevel enable="true"> <HideWhenTestALL enable="true"></HideWhenTestALL></BatteryLevel>
+        <BatteryScale enable="true"> <HideWhenTestALL enable="true"></HideWhenTestALL></BatteryScale>
+        <BatteryVoltage enable="true"> <HideWhenTestALL enable="true"></HideWhenTestALL></BatteryVoltage>
+        <BatteryCurrent enable="true">
+            <HideWhenTestALL enable="true"></HideWhenTestALL>
+            <!--For TI platform Battery current ways 20111205 ,Default is false-->
+            <CurrentPath name="/sys/class/power_supply/battery/current_now" enable="true"> </CurrentPath>
+            <CurrentUnit name="mA" enable="true"> </CurrentUnit>
+        </BatteryCurrent>
+        <BatteryTemperature enable="true"> <HideWhenTestALL enable="true"></HideWhenTestALL></BatteryTemperature>
+        <BatteryHealth enable="true">
+            <HideWhenTestALL enable="true"></HideWhenTestALL>
+            <!--Get the percent health type-->
+            <PercentType enable="false"> </PercentType>
+            <!--Get the status health type (QC)-->
+            <StatusType enable="true"> </StatusType>
+        </BatteryHealth>
+        <BatteryTechnology enable="true"> <HideWhenTestALL enable="true"></HideWhenTestALL></BatteryTechnology>
+        <TimeSinceBoot enable="true"> <HideWhenTestALL enable="true"></HideWhenTestALL></TimeSinceBoot>
+    </BatteryInfoActivity>
+
+    <!--SEMI-->
+    <KeyBoardTest name="Keyboard Test" enable="true">
+        <CameraKey enable="false"> </CameraKey>
+        <CameraFocusKey enable="false"> </CameraFocusKey>
+        <VolumeDownKey enable="true"> </VolumeDownKey>
+        <VolumeUpKey enable="true"> </VolumeUpKey>
+        <VolumeMuteKey enable="false"> </VolumeMuteKey>
+        <MenuKey enable="false"> </MenuKey>
+        <HomeKey enable="false"> </HomeKey>
+        <BackKey enable="false"> </BackKey>
+        <Searchkey enable="false"> </Searchkey>
+        <HeadsetKey enable="false"> </HeadsetKey>
+        <PowerKey enable="true"> </PowerKey>
+    </KeyBoardTest>
+
+		<ShowTouchKeyLED name="Touch Key LED Test" enable="true">
+			<LEDOn name="echo 1 > /sys/class/leds/button-backlight/brightness" enable="true"></LEDOn>
+			<LEDOff name="echo 0 > /sys/class/leds/button-backlight/brightness" enable="true"></LEDOff>
+		</ShowTouchKeyLED>
+
+    <ShowRingSwitch name="RingSwitch Test" enable="false">
+    </ShowRingSwitch>
+
+    <QwertyKeyBoardTest name="QwertyKeyboard Test" enable="false">
+    </QwertyKeyBoardTest>
+
+    <USBTestActivity name="USB Test" enable="true">
+    </USBTestActivity>
+
+    <DCjack name="DC jack Test" enable="false">
+    </DCjack>
+
+    <HDMIActivity name="HDMI Test" enable="false">
+        <Action1 name="android.intent.action.HDMI_AUDIO_PLUG" enable="true"> </Action1>
+        <Action2 name="android.intent.action.HDMI_PLUG" enable="true"> </Action2>
+    </HDMIActivity>
+
+    <MHL name="MHL Test" enable="false">
+        <Action1 name="android.intent.action.HDMI_PLUG" enable="true"> </Action1>
+        <Action2 name="android.intent.action.HDMI_AUDIO_PLUG" enable="true"> </Action2>
+    </MHL>
+
+    <ShowALS name="ALS-Sensor Test" enable="true">
+        <Threshold name="30" enable="true"> </Threshold>
+    </ShowALS>
+
+    <ShowProximity name="Proximity Test" enable="true">
+    </ShowProximity>
+
+    <CapSensor name = "Cap Sensor Test" enable="false">
+    </CapSensor>
+
+    <ShowTouchPanel name="Touch Lens Test" enable="true">
+    </ShowTouchPanel>
+
+    <ShowMultitouch name="Multitouch Test" enable="true">
+    </ShowMultitouch>
+
+    <ShowPressureSensor name="Pressure Sensor Test" enable="false">
+    </ShowPressureSensor>
+
+    <ShowECompass name="E-Compass Test" enable="true">
+        <Calibration enable="true">
+            <PackageName name="com.fihtdc.ecompasscalibration" enable="true"> </PackageName>
+            <ClassName name="com.fihtdc.ecompasscalibration.ecompasscalibration" enable="true"> </ClassName>
+        </Calibration>
+    </ShowECompass>
+
+    <ShowGSensorCalibration name="G Sensor Calibration" enable="false">
+        <CommandPath name="/system/bin/gsensorcalibration" enable="true"> </CommandPath>
+        <Calibration enable="true">
+            <PackageName name="com.fihtdc.gsensorcalibration" enable="true"> </PackageName>
+            <ClassName name="com.fihtdc.gsensorcalibration.gsensorcalibration" enable="true"> </ClassName>
+        </Calibration>
+    </ShowGSensorCalibration>
+
+    <ShowGSensorAccelerometer name="G Sensor Self-Test" enable="false">
+        <Calibration enable="true">
+            <PackageName name="com.fihtdc.gsensorcalibration" enable="true"> </PackageName>
+            <ClassName name="com.fihtdc.gsensorcalibration.gsensorcalibration" enable="true"> </ClassName>
+        </Calibration>
+    </ShowGSensorAccelerometer>
+
+    <ShowGSensorOrientationEnable name="G Sensor Rotation Enable Test" enable="true">
+        <Calibration enable="false">
+            <PackageName name="com.fihtdc.gsensorcalibration" enable="true"> </PackageName>
+            <ClassName name="com.fihtdc.gsensorcalibration.gsensorcalibration" enable="true"> </ClassName>
+        </Calibration>
+    </ShowGSensorOrientationEnable>
+
+    <ShowGSensorOrientationDisable name="G Sensor Rotation Disable Test" enable="false">
+        <Calibration enable="true">
+            <PackageName name="com.fihtdc.gsensorcalibration" enable="true"> </PackageName>
+            <ClassName name="com.fihtdc.gsensorcalibration.gsensorcalibration" enable="true"> </ClassName>
+        </Calibration>
+    </ShowGSensorOrientationDisable>
+
+    <ShowGyroSensor name="GyroSensor Test" enable="true">
+        <Calibration enable="true" />
+        <NeedPath name="/sys/class/sensors/l3gd20-gyro/device/need_sensitivity_calibration" enable="true" />
+    </ShowGyroSensor>
+
+    <ShowNFC name="NFC Test" enable="false">
+    </ShowNFC>
+
+    <ShowMagSensorCalibration name="Magnetic Sensor Calibration" enable="false">
+    </ShowMagSensorCalibration>
+
+    <ShowCalStatus name="Calibration Data Test" enable="false">
+    </ShowCalStatus>
+
+    <ShowScreenCalibration name="Screen Calibration" enable="false">
+    </ShowScreenCalibration>
+
+    <OTGActivity name="OTG Test" enable="true">
+    </OTGActivity>
+
+    <JogballActivity name="JogBall Test" enable="false">
+    </JogballActivity>
+
+    <UpperTouchBoardTest name="Upper Touch Board Test" enable="false">
+    </UpperTouchBoardTest>
+
+    <ShowHallSensor name="HallSensor Test" enable="false">
+        <FileLisenerPath name="/sys/devices/virtual/input/hallsensor/Hall_status" enable="true"> </FileLisenerPath>
+        <HallSensorOpenFlag name="1" enable="true"></HallSensorOpenFlag>
+        <HallSensorCloseFlag name="0" enable="true"></HallSensorCloseFlag>
+    </ShowHallSensor>
+
+    <ShowPressureSensor name="Pressure Sensor Test" enable="false">
+    </ShowPressureSensor>
+
+    <!--Auto Test-->
+    <RTCActivity name="Real Time Clock" enable="true">
+    </RTCActivity>
+
+    <TouchPanelST name="Touch Panel Self Test" enable="true">
+			<PathBinary name="ilitek_upgrade -stt 7 3000 2253 1843 /dev/ilitek_ctrl 41" enable="true"> </PathBinary>
+    </TouchPanelST>
+
+    <ShowExtendedSD name="Extended SD Card" enable="true">
+    </ShowExtendedSD>
+
+    <SDTestActivity name="SD Card Test" enable="false">
+        <!-- For Intel Android2.3 SD card test  just for BB2-->
+        <BB2SDCard enable="false"> </BB2SDCard>
+    </SDTestActivity>
+
+    <SIMTestActivity name="SIM Card Test" enable="true">
+    </SIMTestActivity>
+
+    <SIM2CardTest name="SIM2 Card Test" enable="true">
+        <COMBO enable="true"> </COMBO>
+    </SIM2CardTest>
+
+    <ShowBluetoothTest name="Bluetooth Test" enable="true">
+        <PreEnable enable="true"> </PreEnable>
+    </ShowBluetoothTest>
+
+    <ShowWifiTest name="WIFI Test" enable="true">
+        <PreEnable enable="true"> </PreEnable>
+    </ShowWifiTest>
+
+    <ShowGPSTest name="GPS Test" enable="true">
+        <PreEnable enable="true"> </PreEnable>
+    </ShowGPSTest>
+
+    <ShowWirelessCharging name="Wireless Charging Test"  enable="false">
+    </ShowWirelessCharging>
+
+    <ShowFingerPrint name="FingerPrint Test"  enable="false">
+				<TestWithAPI enable="true"></TestWithAPI>
+    </ShowFingerPrint >
+
+
+    <!--Fixed (Don not change item position)-->
+
+    <!--Same as test report in QC-->
+    <FCI name="Final Confirmation Information" enable="true">
+        <SaveLogFile enable="true"> </SaveLogFile>
+    </FCI>
+
+    <RunAllTest name="Run All Test" enable="true"> </RunAllTest>
+</fqcsetting>

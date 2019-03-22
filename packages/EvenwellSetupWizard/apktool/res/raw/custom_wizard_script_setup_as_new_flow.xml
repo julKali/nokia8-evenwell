@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.NETWORK_SETTINGS;end" id="network_settings">
+        <result wizard:resultCode="101" wizard:action="activate_mobile_data" wizard:name="use_mobile" />
+        <result wizard:resultCode="102" wizard:action="wifi_settings" wizard:name="see_all_wifi" />
+        <result wizard:resultCode="1" wizard:action="no_network_flow" wizard:name="skip" />
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.WIFI_SETTINGS;end" id="wifi_settings">
+        <result wizard:resultCode="101" wizard:action="activate_mobile_data" wizard:name="use_mobile" />
+        <result wizard:resultCode="1" wizard:action="no_network_flow" wizard:name="skip" />
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.ACTIVATE_MOBILE_DATA;end" id="activate_mobile_data">
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CAPTIVE_PORTAL;end" id="captive_portal" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMS_CHECKIN;end" id="gms_checkin" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.OTA_UPDATE;end" id="ota_update">
+        <result wizard:resultCode="1" wizard:action="early_update" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=android.settings.SYSTEM_UPDATE_SETTINGS;end" id="system_update" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.EARLY_UPDATE;end" id="early_update" />
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_zero_touch_flow" id="zero_touch">
+        <result wizard:resultCode="111" wizard:action="END_OF_SCRIPT" wizard:name="dpm_user_complete" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOAD_ADD_ACCOUNT_INTENT;B.showTapAndGo=false;end" id="load_account_intent" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_SETUP;end" id="account_setup">
+        <result wizard:resultCode="1" wizard:action="no_account_flow" wizard:name="skip" />
+        <result wizard:resultCode="111" wizard:action="END_OF_SCRIPT" wizard:name="dpm_user_complete" />
+        <result wizard:resultCode="112" wizard:action="END_OF_SCRIPT" wizard:name="dpm_profile_complete" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMS_ACCOUNT_CHECKIN;end" id="gms_account_checkin">
+        <result wizard:resultCode="1" wizard:action="mfm_check" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.START_VPA;end" id="start_vpa" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_CHECK;end" id="mfm_check">
+        <result wizard:resultCode="1" wizard:action="no_account_flow" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_new_device_account_flow" id="account_flow">
+        <result wizard:action="END_OF_SCRIPT" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_no_account_flow" id="no_account_flow">
+        <result wizard:action="END_OF_SCRIPT" />
+    </WizardAction>
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_no_network_flow" id="no_network_flow">
+        <result wizard:action="END_OF_SCRIPT" />
+    </WizardAction>
+    <WizardAction id="END_OF_SCRIPT" />
+</WizardScript>

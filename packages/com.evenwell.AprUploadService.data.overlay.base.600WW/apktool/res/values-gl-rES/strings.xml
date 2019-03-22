@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Declaración de privacidade</string>
+    <string name="privacy_activity">Declaración de privacidade</string>
+    <string name="go_label">Feita</string>
+    <string name="agree">Aceptar</string>
+    <string name="see_detail">Detalle</string>
+    <string name="next_btn_lebel">Seguinte</string>
+    <string name="app_name">Diagnóstico do sistema</string>
+    <string name="setting_page_name">Programa de experiencias dos usuarios</string>
+    <string name="send_diag_dialog_any_network">Cando hai conexión a datos dispoñible</string>
+    <string name="send_diag_dialog_wifi">Cando hai conexión a rede wifi dispoñible</string>
+    <string name="send_diag_dialog_wlan">Cando hai conexión WLAN dispoñible</string>
+    <string name="send_diag_dialog_title">Enviar diagnóstico</string>
+    <string name="diagnostics_setting">Diagnóstico</string>
+    <string name="diagnostics_report">Informe de diagnóstico</string>
+    <string name="diagnostics_report_summary">Enviar informe de diagnóstico cando o dispositivo presente un erro de software. É posible que se apliquen custos de conexión de rede. Recoméndase adquirir un paquete de rede de datos do provedor de servizos.</string>
+    <string name="network_options">Opcións de rede</string>
+    <string name="send_diagnostics">Enviar diagnóstico</string>
+    <string name="cancel_upload_confirm_msg">Está a piques de abandonar o noso Programa de experiencias dos usuarios. Os erros producidos no seu teléfono non se gardarán nin se enviarán, polo que non poderemos mellorar a súa experiencia neste teléfono.</string>
+</resources>

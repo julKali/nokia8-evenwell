@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ဆော့ဖ်ဝဲလ် အပ်ဒိတ်</string>
+    <string name="file_not_found">ဖုိင္မေတြ႔ပါ။</string>
+    <string name="remote_file_fail">တသီးတခြားဖြစ်နေသောဖိုင်ကို အသုံးမပြုနိုင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်မံကြိုးစားပါ။</string>
+    <string name="no_description">(အကြောင်းအရာ မပါရှိပါ)</string>
+    <string name="login_fail">ဆာဗာသို့ လော့အင်ဝင်ခြင်း မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်မံကြိုးစားပါ။</string>
+    <string name="get_service_url_fail">ကွန်ယက်ချိတ်ဆက်မှု မတည်ငြိမ်ပါ (URLဝန်ဆောင်မှု ရယူခြင်း မအောင်မြင်ပါ)။ ကျေးဇူးပြု၍ နောက်မှ ထပ်မံကြိုးစားပါ။</string>
+    <string name="query_sw_fail">ဆော့ဖ်ဝဲ သတင်းအချက်အလက်ကို စုံစမ်းခြင်း မအောင်မြင်ပါ။</string>
+    <string name="download_sw_fail">ဆော့ဖ်ဝဲကို ဒေါင်းလုတ်လုပ်ခြင်း မအောင်မြင်ပါ။</string>
+    <string name="query_sw_incorrect">ရလဒ် မမှန်ကန်ပါ။</string>
+    <string name="no_update_available">အပ်ဒိတ်အသစ် မရရှိသေးပါ။</string>
+    <string name="update_not_ready">အပ်ဒိတ်အသစ်သည် ဆာဗာတွင် အဆင်သင့် မရှိပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်မံကြိုးစားပါ။</string>
+    <string name="check_now_label">ယခုပင် စစ်ဆေးပါ</string>
+    <string name="checking">စစ်ဆေးနေသည် ...</string>
+    <string name="verifying">စီစစ္ေနသည္..</string>
+    <string name="header_verifying_update_file">အပ်ဒိတ်လုပ်ထားသောဖိုင်ကို အတည်ပြုစစ်ဆေးနေသည်...</string>
+    <string name="unzipping">ဇစ်ဖြည်နေပါသည်...</string>
+    <string name="please_wait">​ကျေးဇူးပြု၍ စောင့်ပါ</string>
+    <string name="header_starting_to_download_file">ဖိုင် ဒေါင်းလုတ်လုပ်ရန် စတင်နေသည်...</string>
+    <string name="header_system_update_available">စနစ်အသစ်‌ပြောင်းခြင်း ရရှိနိုင်</string>
+    <string name="new_version_desc_prompt">ဗားရှင်းအသစ်ပါဝင်သည်-</string>
+    <string name="header_attention">အထူးဂရုပြုရန်</string>
+    <string name="data_fee_warning">သင့်မိုဘိုင်းကွန်ယက်ဆက်သွယ်မှုမှတဆင့် ဤဝန်ဆောင်မှုကို အသုံးပြုခြင်းသည် ကုန်ကျစရိတ် ကျသင့်နိုင်သည်။</string>
+    <string name="header_downloading_update">ဒေါင်းလုဒ်လုပ်နေသော အပ်ဒိတ်</string>
+    <string name="header_install_system_software_update">စနစ်ဆော့ဖ်ဝဲအပ်ဒိတ်ကို ထည့်သွင်းပါ</string>
+    <string name="msg_install_system_software_update_1">"အောက်ပါစနစ်ဆော့ဖ်ဝဲကို သင်ထည့်သွင်းလိုပါသလား။
+စနစ်ကို အဆင့်မြှင့်တင်ပါ"</string>
+    <string name="msg_install_system_software_update_2">"
+
+အဆင့်မြှင့်နေစဉ် သင့်စက်ပစ္စည်းကို သင်အသုံးပြုနိုင်မည်မဟုတ်ပါ သို့မဟုတ် အရေးပေါ်ဖုန်းခေါ်ဆိုမှုများကို ပြုလုပ်နိုင်မည်မဟုတ်ပါ။
+
+ဆော့ဖ်ဝဲကို အပ်ဒိတ်ပြုလုပ်နေစဉ် ဘတ္ထရီ သို့မဟုတ် SD ကဒ်ကို ဖယ်ရှားခြင်းသည် မျှော်မှန်းမထားသော ရလဒ်များဆီသို့ ဦးတည်သွားစေနိုင်သည်။"</string>
+    <string name="msg_install_system_software_update_3">"
+
+အဆင့်မြှင့်နေစဉ် သင့်စက်ပစ္စည်းကို သင်အသုံးပြုနိုင်မည်မဟုတ်ပါ။
+
+ဆော့ဖ်ဝဲကို အပ်ဒိတ်ပြုလုပ်နေစဉ် ပါဝါဖြတ်တောက်ခြင်း သို့မဟုတ် ဒေါင်းလုတ်လုပ်ထားသောဖိုင်ကို ဖယ်ရှားခြင်းတို့ ပြုလုပ်ခြင်းသည် မျှော်မှန်းမထားသော ရလဒ်များဆီသို့ ဦးတည်သွားစေနိုင်သည်။"</string>
+    <string name="msg_install_system_software_update_4">"
+
+အဆင့်မြှင့်နေစဉ် သင့်စက်ပစ္စည်းကို သင်အသုံးပြုနိုင်မည်မဟုတ်ပါ သို့မဟုတ် အရေးပေါ်ဖုန်းခေါ်ဆိုမှုများကို ပြုလုပ်နိုင်မည်မဟုတ်ပါ။
+
+ဆော့ဖ်ဝဲကို အပ်ဒိတ်ပြုလုပ်နေစဉ် ပါဝါဖြတ်တောက်ခြင်း သို့မဟုတ် ဒေါင်းလုတ်လုပ်ထားသောဖိုင်ကို ဖယ်ရှားခြင်းတို့ ပြုလုပ်ပါက ၎င်းသည် မျှော်မှန်းမထားသော ရလဒ်များဆီသို့ ဦးတည်သွားစေနိုင်သည်။"</string>
+    <string name="button_install_now">ယခုတပ်ဆင်</string>
+    <string name="button_install_later">နောက်မှ ထည့်သွင်းပါ</string>
+    <string name="header_unable_to_connect">မချိတ်ဆက်နိုင်ပါ</string>
+    <string name="msg_unable_to_connect">ဤအက်ပလီကေးရှင်းကို အသုံးပြုရန် သင်သည် ကွန်ယက်ချိတ်ဆက်မှုတစ်ခု လိုအပ်သည်။ ကျေးဇူးပြု၍ သတ်မှတ်ချက်များထဲတွင် မိုဘိုင်းကွန်ယက် သို့မဟုတ် Wi-Fi ကို ဖွင့်ပါ။</string>
+    <string name="msg_unable_to_connect_2">ဤအက်ပလီကေးရှင်းကို အသုံးပြုရန် သင်သည် ကွန်ယက်ချိတ်ဆက်မှု လိုအပ်သည်။ ကျေးဇူးပြု၍ သတ်မှတ်ချက်များထဲတွင် မိုဘိုင်းကွန်ယက်ကို ဖွင့်ပါ။</string>
+    <string name="msg_unable_to_connect_wlan">ဤအက်ပလီကေးရှင်းကို အသုံးပြုရန် သင်သည် ကွန်ယက်ချိတ်ဆက်မှုတစ်ခု လိုအပ်သည်။ ကျေးဇူးပြု၍ သတ်မှတ်ချက်များထဲတွင် မိုဘိုင်းကွန်ယက် သို့မဟုတ် WLAN ကို ဖွင့်ပါ။</string>
+    <string name="msg_unable_to_connect_short">ကွန်ရက် ချိတ်ဆက်ခြင်း မရှိပါ</string>
+    <string name="button_reset">ျပန္သတ္မွတ္ပါ</string>
+    <string name="button_settings">အပြင်အဆင်များ</string>
+    <string name="header_system_is_update">စနစ်သည် နောက်ဆုံးပေါ်ဖြစ်သည်။</string>
+    <string name="msg_system_is_update">အပ်ဒိတ်အသစ် မရရှိသေးပါ။</string>
+    <string name="msg_system_is_update_short">အပ်ဒိတ်များအသစ် မရှိသေးပါ။</string>
+    <string name="msg_no_sd_card">စနစ် အပ်ဒိတ်လုပ်ခြင်းအတွက် SD ကဒ် လိုအပ်သည်။ အသုံးပြုနိုင်သော SD ကဒ်တစ်ခုကို ကျေးဇူးပြု၍ ထည့်သွင်းပါ။</string>
+    <string name="msg_no_sd_card_short">SD ကဒ်မရှိပါ</string>
+    <string name="msg_no_available_size_card">ဤအပ်ဒိတ်ဖိုင်သည် အသုံးပြုနိုင်မည့် နေရာလွတ် %s MB လိုအပ်သည်။ SD ကဒ်မှ ဖိုင်အချို့ကို ကျေးဇူးပြု၍ ဖျက်ပါ။</string>
+    <string name="msg_no_available_size_card_2">ဤအပ်ဒိတ်ဖိုင်သည် အသုံးပြုနိုင်မည့် နေရာလွတ် %s MB လိုအပ်သည်။ ဒေတာသိုလှောင်ရာနေရာမှ ဖိုင်အချို့ကို ကျေးဇူးပြု၍ ဖျက်ပါ။</string>
+    <string name="msg_no_available_size_card_short">နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
+    <string name="msg_do_not_remove_sd_card">SD ကဒ်ကို ကျေးဇူးပြု၍ မထုတ်ပါနှင့်။</string>
+    <string name="title_system_update_ready">စနစ်အသစ်‌ပြောင်းခြင်း အသင့်ရှိ</string>
+    <string name="msg_system_update_ready">စနစ်အသစ်‌ပြောင်းခြင်း တပ်ဆင်ရန် အသာပုတ်</string>
+    <string name="msg_system_battery_too_low">"စနစ်အပ်ဒိတ်သည် အဆင်သင့်ဖြစ်ပါပြီ၊ သို့သော် သင့်စက်ပစ္စည်းဘတ္ထရီသည် ၎င်းကိုထည့်သွင်းရန် အရမ်းနည်းလွန်းနေပါသည်။ ကျေးဇူးပြု၍ ဘတ္ထရီကို အားပြန်သွင်းပြီး နောက်မှ ထည့်သွင်းခြင်းကို စတင်ပါ။
+
+ဘတ္ထရီအဆင့်သည် 35%%ထက် များသင့်သည်။
+လက်ရှိဘတ္ထရီအဆင့်မှာ- %s%%။"</string>
+    <string name="msg_system_battery_too_low_short">ဘတ္ထရီအားနည်းလွန်းနေသည်</string>
+    <string name="msg_remove_sd_card">ဒေါင်းလုတ်လုပ်ထားသောဖိုင်ကို SD ကဒ်ထဲတွင် မရေးသားနိုင်ပါ။ ကျေးဇူးပြု၍ SD ကဒ်ကို စစ်ဆေးပါ။</string>
+    <string name="msg_remove_sd_card_2">ဒေါင်းလုတ်လုပ်ထားသောဖိုင်ကို ဒေတာသိုလှောင်မှုထဲတွင် မရေးသားနိုင်ပါ။ သိုလှောင်မှုကို ကျေးဇူးပြု၍ စစ်ဆေးပါ။</string>
+    <string name="msg_remove_sd_card_short">SD ကဒ် အသုံးပြုရန် မအောင်မြင်ပါ။</string>
+    <string name="msg_remove_sd_card_short_2">ဒေတာ သိုလှောင်မှုကို အသုံးပြု၍ မရပါ။</string>
+    <string name="msg_verify_fail">ဒေါင်းလုဒ်လုပ်ထားသောဖိုင်ကို အတည်ပြုစစ်ဆေးခြင်း မအောင်မြင်ပါ။</string>
+    <string name="msg_verify_fail_short">အတည်ပြုစစ်ဆေးခြင်း မအောင်မြင်ပါ</string>
+    <string name="msg_unzip_fail">ဒေါင်းလုဒ်လုပ်ထားသောဖိုင်ကို ဇစ်ဖြည်ခြင်း မအောင်မြင်ပါ။</string>
+    <string name="msg_unzip_fail_short">ဇစ်ဖြည်ခြင်း မအောင်မြင်ပါ</string>
+    <string name="hide">ဖျောက်ထားပါ</string>
+    <string name="data_size">ဒေတာ ပမာဏ</string>
+    <string name="required_size">လိုအပ်သော နေရာလွတ်</string>
+    <string name="network_not_match">သင့်လက်ရှိသတ်မှတ်ချက်သည် WLAN ဖြင့်သာ ဒေါင်းလုဒ်လုပ်နိုင်သည်။ ကျေးဇူးပြုပြီး WLAN ကွန်ယက်တစ်ခုကို ရွေးချယ်ပါ သို့မဟုတ် သင့်သတ်မှတ်ချက်များကို ပြောင်းလဲပါ။</string>
+    <string name="network_not_match_short">ကွန်ယက်မကိုက်ညီပါ။</string>
+    <string name="without_reboot_api">API ပျောက်ဆုံးနေခြင်းကြောင့် အစမှပြန်လည်နိုးထစေရန် မလုပ်ဆောင်နိုင်ပါ။ အသက်ဝင်နေသော အပ်ဒိတ်ကို ကိုယ်တိုင်လုပ်ဆောင်ခြင်းဖြင့် ပြန်လည်ကောင်းမွန်စေရန် ကျေးဇူးပြု၍ အစမှပြန်လည်နိုးထစေရန် ပြုလုပ်ပါ။</string>
+    <string name="update_complete">စနစ် အပ်ဒိတ်လုပ်ခြင်း ပြီးမြောက်ပြီ။</string>
+    <string name="update_complete_short">အပ်ဒိတ် ပြီးမြောက်ပြီ</string>
+    <string name="file_removed">ဒေါင်းလုတ်လုပ်ထားသော ဖိုင်ကို ဖယ်ရှားပြီးဖြစ်သည်။ ကျေးဇူးပြုပြီး ထပ်မံ ဒေါင်းလုတ်လုပ်ပါ။</string>
+    <string name="file_removed_short">ဒေါင်းလုတ်လုပ်ထားသော ဖိုင်ကို ဖယ်ရှားပြီးဖြစ်သည်။</string>
+    <string name="file_not_match">ဒေါင်းလုတ်လုပ်ထားသောဖိုင်သည် မျှော်လင့်ထားသည့် အရွယ်ပမာဏနှင့် မကိုက်ညီပါ။ ကျေးဇူးပြုပြီး ထပ်မံ ဒေါင်းလုတ်လုပ်ပါ။</string>
+    <string name="file_not_match_short">ဖိုင် မကိုက်ညီပါ။</string>
+    <string name="menu_url">ဆာဗာ URL ပြောင်းလဲပါ</string>
+    <string name="menu_enabled">အသုံးပြု၍ ရနိုင်သော ဆော့ဖ်ဝဲလ်သာ</string>
+    <string name="using_internal_storage">စက်အတွင်းသိမ်းဆည်းရန်နေရာကို အသုံးပြုနေသည်</string>
+    <string name="using_external_storage">ပြင်ပသိုလှောင်မှုကို အသုံးပြုနေသည်</string>
+    <string name="msg_agree_message">"
+
+အဆင့်မြှင့်တင်သည့်လုပ်ငန်းစဉ်ကြောင့် အသုံးပြုသူဒေတာကို ဖျက်ပစ်နိုင်ချေအနည်းငယ် ရှိသည်။ လိုအပ်ပါက စနစ်အဆင့်မြှင့်တင်မှု မထည့်သွင်းမီ သင့်ဒေတာကို မိတ္တူပွားထားပါ။"</string>
+    <string name="msg_root_message">"
+
+စက်ပစ္စည်းကို ရုဒ်ဖောက်ပြီးနောက်တွင် ပုံမှန်အပ်ဒိတ်ကို အာမ မခံနိုင်ပါ။"</string>
+    <string name="msg_responsibility_message">အကယ်၍ စက်ပစ္စည်းကို ရုဒ်လုပ်ထားပါက၊ အပ်ဒိတ်တစ်ခု ပြုလုပ်ပြီးနောက် မူမမှန်သည့်စနစ်အပြုအမူတိုင်းအတွက် အသုံးပြုသူမှာ တာဝန်ရှိသည်။</string>
+    <string name="msg_upgrade_agree">ဖတ်ကြည့်ပြီး သဘောတူချက်ပေးပါ</string>
+    <string name="later">နောက်မှ</string>
+    <string name="update">အဆင့်မြှင့်ပါ</string>
+    <string name="update_summary">အပ်ဒိတ်များရနိုင်မလား စစ်ဆေးပါ</string>
+    <string name="wifi_only">ဝိုင်-ဖိုင် သာ</string>
+    <string name="wlan_only">WLAN သာလျှင်</string>
+    <string name="wifi_only_summary">Wi-Fi ဆက်သွယ်မှု ရရှိသောအခါ အပ်ဒိတ်များကို ဒေါင်းလုတ်လုပ်ပါ</string>
+    <string name="wlan_only_summary">Wi-Fi ဆက်သွယ်မှု ရရှိသောအခါ အပ်ဒိတ်များကို ဒေါင်းလုတ်လုပ်ပါ</string>
+    <string name="auto_update">အလိုအလျှောက်အပ်ဒိတ်</string>
+    <string name="auto_update_summary">အပ်ဒိတ်များရနိုင်မလား အလိုအလျှောက် စစ်ဆေးပါ</string>
+    <string name="new_data_fee_warning">အပ်ဒိတ်များကို စစ်ဆေးခြင်းနှင့် ဒေါင်းလုတ်လုပ်ခြင်းသည် ထပ်တိုးကုန်ကျစရိတ် ကျသင့်နိုင်သည်။ ဖြစ်နိုင်လျှင် Wi-Fi ဆက်သွယ်မှု မှတဆင့် အပ်ဒိတ်များကို ဒေါင်းလုတ်လုပ်ပါ။</string>
+    <string name="wlan_data_fee_warning">အပ်ဒိတ်များကို စစ်ဆေးခြင်းနှင့် ဒေါင်းလုတ်လုပ်ခြင်းသည် ထပ်တိုးကုန်ကျစရိတ် ကျသင့်နိုင်သည်။ ဖြစ်နိုင်လျှင် WLAN ဆက်သွယ်မှု မှတဆင့် အပ်ဒိတ်များကို ဒေါင်းလုတ်လုပ်ပါ။</string>
+    <string name="installing">တပ်ဆင်နေသည်…..</string>
+    <string name="install_complete">သွင်းထားပြီးဖြစ်သည်</string>
+    <string name="install_fail">ထည့်သွင်းခြင်း မအောင်မြင်ပါ</string>
+    <string name="install_all">အားလုံးကို ထည့်သွင်းပါ</string>
+    <string name="install">ထည့္သြင္းပါ</string>
+    <string name="installed_version">ထည့်သွင်းထားသော ဗားရှင်း</string>
+    <string name="update_available">အပ်ဒိတ် ရရှိနိုင်သည်။</string>
+    <string name="apk_update_available">အက်ပလီကေးရှင်း အပ်ဒိတ်အသစ် ကို ရနိုင်ပါသည်။</string>
+    <string name="recommend">အကြံပြုထားသည်</string>
+    <string name="roaming_restriction">ကွန်ရက်ပြင်ပဒေတာ အသုံးပြုခြင်းကို ကန့်သတ်ခြင်း</string>
+    <string name="roaming_restriction_summary">ကွန်ရက်ပြင်ပဒေတာ အသုံးပြုခြင်း ကို ကန့်သတ်ထားခြင်းကြောင့် အပ်ဒိတ်မလုပ်နိုင်ပါ။</string>
+    <string name="changelog">လော့ ပြောင်းလဲပါ</string>
+    <string name="description">ေဖာ္ျပခ်က္-</string>
+    <string name="apk_update_available_summary">%s အတွက် အပ်ဒိတ်တစ်ခု တစ်ခုရှိသည်။ ယခုချက်ချင်း ထည့်သွင်းဖို့အတွက် ထည့်သွင်းရန် အိုကေကို နှိပ်ပါ သို့မဟုတ် တစ်ရက်ကြာပြီးနောက်မှ အပ်ဒိတ်ကို စစ်ဆေးဖို့အတွက် မထည့်ေသးရန် ပယ်ဖျက်ပါကို နှိပ်ပါ။</string>
+    <string name="apk_removed">ဤအက်ပလီကေးရှင်းကို ဖယ်ရှားပြီးဖြစ်သည်။</string>
+    <string name="apk_available_items">စုစုပေါင်း %s ရရှိနိုင်သည့် အမျိုးအစားများ</string>
+    <string name="apk_available_item">စုစုပေါင်း %s ရရှိနိုင်သည့် အမျိုးအစား</string>
+    <string name="new_forpreference">အသစ်</string>
+    <string name="invalid_update_summary">အပ်ဒိတ်ကို ခွင့်မပြုပါ၊ ကျေးဇူးပြု၍ ထပ်မံစစ်ဆေးပါ။</string>
+    <string name="recheck">ထပ်မံစစ်ဆေးပါ</string>
+    <string name="image_download_exception_summary">ဆာဗာကို အသုံးပြု၍ မရပါ၊ ကျေးဇူးပြုပြီး နောက်မှထပ်မံစစ်ဆေးကြည့်ပါ။</string>
+    <string name="apk_download_exception">ဆာဗာကို အသုံးမပြုနိုင်ပါ</string>
+    <string name="installation_confirmation">ထည့်သွင်းခြင်းဆိုင်ရာ အတည်ပြုချက်</string>
+    <string name="apk_need_reboot_summary">ဤဆော့ဖ်ဝဲအပ်ဒိတ်သည် ထည့်သွင်းခြင်းပြီးဆုံးပြီးနောက် စနစ်ကို အလိုအလျောက် အစမှပြန်လည်နိုးထစေရန် လုပ်ဆောင်လိမ့်မည်။ သင် ယခုပင် ထည့်သွင်းလိုပါသလား။</string>
+    <string name="downloaded">ဒေါင်းလုပ်ပြုလုပ်ပြီး</string>
+    <string name="prepare_to_reboot">စက်ပစ္စည်းကို အစမှပြန်လည်နိုးထစေရန် ပြင်ဆင်ပါ</string>
+    <string name="prepare_to_reboot_summary">ထည့်သွင်းထားသော ဆော့ဖ်ဝဲသည် သတ်မှတ်ချက်များကို အစီအစဉ်ချရန် စက်ပစ္စည်းကို အစမှပြန်လည်နိုးထမှု ပြုလုပ်ရန် လိုအပ်သည်။ ယခုပင် အစမှပြန်လည်နိုးထစေရန် ပြုလုပ်ဖို့ ကျွန်ုပ်တို့က အကြံပြုပါသည် သို့မဟုတ် သင်သည် နောက်မှလည်း အစမှပြန်လည်နိုးထစေရန် ပြုလုပ်နိုင်ပါသည်။</string>
+    <string name="prepare_to_reboot_force_summary">ထည့်သွင်းထားသော ဆော့ဖ်ဝဲသည် သတ်မှတ်ချက်များကို အစီအစဉ်ချရန် စက်ပစ္စည်းကို အစမှပြန်လည်နိုးထမှု ပြုလုပ်ရန် လိုအပ်သည်။ ယခုပင် အစမှပြန်လည်နိုးထစေရန် ပြုလုပ်ဖို့ ကျွန်ုပ်တို့က အကြံပြုပါသည်။</string>
+    <string name="reboot">ပြန်လည် စတင်လည်ပတ်ပါ</string>
+    <string name="reboot_fail">အစမှပြန်လည်နိုးထစေရန် လုပ်ဆောင်ချက် မအောင်မြင်ပါ</string>
+    <string name="reboot_fail_summary">API ပျောက်ဆုံးနေခြင်းကြောင့် အစမှပြန်လည်နိုးထစေရန် မလုပ်ဆောင်နိုင်ပါ။ ကျေးဇူးပြု၍ အစမှပြန်လည်နိုးထစေရန် ကိုယ်တိုင်လုပ်ဆောင်ပါ။</string>
+    <string name="apk_no_avaliable_size">စက်အတွင်းသိမ်းဆည်းရန်နေရာပမာဏ မလုံလောက်သောကြောင့် ဒေါင်းလုဒ်မလုပ်နိုင်ပါ။</string>
+    <string name="update_finished">အပ်ဒိတ်လုပ်ခြင်း ပြီးဆုံးပြီ</string>
+    <string name="header_warning">သတိေပးချက်</string>
+    <string name="msg_root_warning">သင့်စက်ပစ္စည်းသည် ရုဒ်ဖောက်ခံထားရသည် သို့မဟုတ် တရားဝင်ဆော့ဖ်ဝဲသည် ကလိခြင်း ခံထားရသည်။ စနစ်အက်ဒိတ်ကို လုပ်ဆောင်ခြင်းသည် စနစ်မတည်ငြိမ်မှု သို့မဟုတ် စနစ်ရပ်တန့်သွားမှု ဖြစ်နိုင်ပြီး သင့်စက်ပစ္စည်း၏ အာမခံအတွက် ဟာကွက်ဖြစ်စေနိုင်သည်။ သင်ဆက်လက်လုပ်ဆောင်လိုတာ သေချာပါရဲ့လား။</string>
+    <string name="multi_image_update">ပုံရိပ်အပ်ဒိတ်အချို့ ရရှိနိုင်ပါသည်။</string>
+    <string name="available_update_list">ရရှိနိုင်သော အပ်ဒိတ်များစာရင်း</string>
+    <string name="downloading_summary">ပုံရိပ်ဒေါင်းလုတ်လုပ်ခြင်းကို ကျေးဇူးပြု၍ ပယ်ဖျက်ပါ</string>
+    <string name="msg_erase_userdata_warning">ဤအပ်ဒိတ်သည် အသုံးပြုသူဒေတာကို ဖျက်ဖို့ လိုအပ်သည်။ သင် ဆက်လက်လုပ်ဆောင်လိုပါသလား။</string>
+    <string name="msg_autoupdate_date_fee_warning">အလိုအလျှောက်အပ်ဒိတ် လုပ်နိုင်စေခြင်းသည် ထပ်တိုးကုန်ကျစရိတ်များ ကျသင့်နိုင်သည်။</string>
+    <string name="invalid_update">အပ်ဒိတ်ကို ခွင့်မပြုပါ။</string>
+    <string name="file_corrupted">ဖိုင်မှာ ကျိုးပျက်နေသောကြောင့် စနစ်ကို အဆင့်မမြှင့်တင်နိုင်ပါ။</string>
+    <string name="ask_for_apk_check">အက်ပလီကေးရှင်းအပ်ဒိတ်များအတွက် သင် စစ်ဆေးလိုပါသလား။</string>
+    <string name="update_ota_self">ဆော့ဖ်ဝဲအပ်ဒိတ်လုပ်မှု အခြေအနေတိုးတက်လာသည်။</string>
+    <string name="ab_update_fail">ထည့်သွင်းခြင်းဆိုင်ရာ ပြဿနာ။</string>
+    <string name="ab_update_wrong_status">ယခုအခါတွင် အပ်ဒိတ်အင်ဂျင် မအားသေးပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်မံကြိုးစားပါ သို့မဟုတ် အစမှပြန်လည်နိုးထစေခြင်းကို ပြုလုပ်ပါ။</string>
+    <string name="ab_update_installing">စနစ်ကို အပ်ဒိတ်လုပ်နေသည်</string>
+    <string name="tag_engineer_mode">အင်ဂျင်နီယာမုဒ်</string>
+    <string name="engineer_version_incorrect">သင့်စက်ပစ္စည်းဗားရှင်း မမှန်ကန်ပါ</string>
+    <string name="msg_engineer_ota_restore">တရားဝင်ဗားရှင်းကို ပြန်တင်ပေးရန် တို့ပါ</string>
+    <string name="msg_engineer_ota_restore_warning">ဤသည်က တရားဝင်ဗားရှင်းကို ပြန်တင်ပေးလိမ့်မည်။ သင် ဆက်လက်လုပ်ဆောင်လိုပါသလား။</string>
+    <string name="silent_mode_data_fee_warning">အပ်ဒိတ် ရရှိနိုင်သည်။ အပ်ဒိတ်များကို ဒေါင်းလုတ်လုပ်ခြင်းသည် ထပ်တိုးကုန်ကျစရိတ် ကျသင့်နိုင်သည်။ ဖြစ်နိုင်လျှင် Wi-Fi ဆက်သွယ်မှု မှတဆင့် အပ်ဒိတ်များကို ဒေါင်းလုတ်လုပ်ပါ။</string>
+    <string name="msg_updating_system">စနစ်ကို အပ်ဒိတ်လုပ်နေသည်...</string>
+    <string name="msg_tap_to_reboot">အစမှပြန်လည်နိုးထစေရန် တို့ပါ</string>
+    <string name="msg_pause_download">ဒေါင်းလုဒ်လုပ်ခြင်းကို ခေတ္တရပ်ထားရန်</string>
+    <string name="notification_channel_name">စနစ် အပ်ဒိတ်</string>
+    <string name="notification_channel_alert_name">အထွေထွေ အကြောင်းကြားချက်များ</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ANULONI</string>
+    <string name="copying">Duke kopjuar…</string>
+    <string name="demo_mode_notifications">Njoftimet e modalitetit të demonstrimit</string>
+    <string name="disable_demo_mode">Çaktivizoni modalitetin e demonstrimit</string>
+    <string name="download_complete_msg">"Shkarkimi përfundoi.
+
+Trokitni tek OK për të hapur modalitetin e Demonstrimit."</string>
+    <string name="download_fail_msg">"Shkarkimi i materialit të demonstrimit nga interneti dështoi.
+
+Do të trokitni tek OK për të hapur modalitetin e Demonstrimit?"</string>
+    <string name="downloading">Duke shkarkuar…</string>
+    <string name="enable_demo_mode">Të aktivizohet regjimi i demonstrimit?</string>
+    <string name="enable_demo_mode_setup">Të aktivizohet regjimi i demonstrimit</string>
+    <string name="no_new_demo_found_msg">"Nuk u gjet asnjë material i ri demonstrimi.
+
+Do të trokitni tek OK për të hapur modalitetin e Demonstrimit?"</string>
+    <string name="ok">OK</string>
+    <string name="reset_device">Të rivendoset pajisja?</string>
+    <string name="system_busy_msg">Sistemi është i zënë. Provoni përsëri më vonë.</string>
+    <string name="update_demo_video">Përditësoni videon e demonstrimit</string>
+</resources>

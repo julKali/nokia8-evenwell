@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate patungo sa home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang mga opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng isang app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi sa/kay %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="nokia_legal_title">Legal na impormasyon hinggil sa HMD</string>
+    <string name="privacy_activity">Patakaran sa pagkapribado ng HMD</string>
+    <string name="privacy_context">"Patakaran sa Privacy ng HMD Global para sa mga produkto at serbisyo
+
+Petsa ng pagkabisa Nobyembre 1, 2018
+
+Mahalaga sa amin ang iyong privacy
+
+Nangangako ang HMD Global Oy na rerespetuhin nito ang iyong privacy at susunod ito sa mga naaangkop na batas sa proteksyon ng data at privacy. Inilalarawan ng patakaran sa privacy na ito (ang “Patakaran”) kung paano namin kinokolekta at ginagamit ang personal na data kung saan ang HMD ang data controller o kung tinutukoy namin ang pagiging angkop ng Patakarang ito. Ang ibig sabihin ng “personal na data” ay impormasyong nauugnay sa iyo sa isa pang makikilalang indibidwal.
+
+Magbibigay kami sa iyo ng karagdagang impormasyon sa privacy na partikular sa isang produkto o serbisyo sa Mga Supplement sa Patakaran sa Privacy na ito at sa iba pang mga paunawang maaari mong makita habang ginagamit ang aming mga produkto o serbisyo. Kung may pagkakaiba sa pagitan ng mga naturang paunawa at ng Patakarang ito, mangingibabaw ang mga paunawa.
+
+Maglaan ng isang sandali para gawing pamilyar ang iyong sarili sa aming Patakaran at ipaalam sa aming kung mayroon kang anumang tanong.
+
+Anong impormasyon ang kinokolekta namin?
+
+Kinokolekta namin ang iyong personal na data at iba pang impormasyon kapag ikaw ay bumibili, gumagamit ng o nagrerehistro sa aming mga produkto, nakikilahok sa mga campaign o pananaliksik, o kung hindi naman ay nakikipag-ugnayan sa amin. Kasama rito ang mga sumusunod na kategorya:
+
+•　Mga pag-activate ng produkto at serbisyo. Ang mga produkto at serbisyo ng HMD ay maaaring mangailangan ng electronic na pag-activate, kung saan ipinapadala sa HMD ang uri ng iyong device at application, pati na rin ang mga natatanging identifier ng device, application, network at subscription.
+
+•　Paggamit ng mga produkto at serbisyo.
+
+　o　Kapag ina-access mo ang aming mga serbisyo online, awtomatikong gumagawa ang aming mga web server ng mga record ng iyong pagbisita. Ang mga record na ito ay karaniwang kinabibilangan ng IP-address, mga oras ng pag-access, mga site na pinagmulan ng link, mga page na binisita, mga ginamit na link at feature, content na tiningnan o hiniling, uri ng browser o application, wika at iba pang naturang impormasyon. Maaaring regular na makipag-ugnayan ang aming mga application may sa mga server namin, halimbawa, para tingnan kung may mga update o magpadala sa amin ng impormasyon kaugnay ng paggamit ng serbisyo.
+
+　o　Mga Programa ng Pagpapahusay. Maaari ka naming imbitahang sumali sa mga boluntaryong programa ng pagpapahusay ng serbisyo o pananaliksik kung saan nangongolekta ng detalyadong impormasyon. Para sa higit pang impormasyon, tingnan ang aming Supplement sa User Experience Program.
+
+　o　Data ng Positioning at Lokasyon. Itinataguyod ng mga serbisyong nakabatay sa lokasyon ang iyong eksakto o tinatayang lokasyon sa pamamagitan ng mga paraan ng positioning na nakabatay sa satellite, mobile, Wi-Fi o iba pang network. Maaaring kasama sa mga teknolohiyang ito ang pagbibigay ng sa HMD iyong data ng lokasyon at mga natatanging identifier ng device at mobile, Wi-Fi o iba pang mga identifier na nauugnay sa network. Hindi namin ginagamit ang impormasyong ito para personal kang kilalanin nang wala kang pahintulot.
+
+•　Impormasyong ibinibigay mo sa amin. Kapag ikaw ay gumawa ng account, bumili, humiling ng mga serbisyo, nakilahok sa pananaliksik o mga campaign o kung hindi nakipag-ugnayan sa amin, maaari kaming humingi ng impormasyon gaya ng iyong pangalan, email address, numero ng telepono, address, mga user name at password, feedback, impormasyong nauugnay sa iyong mga device, edad, kasarian, at wika, numero ng bank account, mga detalye ng credit card at iba pang pinansyal na impormasyon. Nagpapanatili rin kami ng mga record ng iyong mga pagpapahintulot, kagustuhan at setting na nauugnay, halimbawa, sa data ng lokasyon, marketing at pagbabahagi ng personal na data.
+
+•　Impormasyong natatanggap namin sa mga third party na pinagmumulan. Nakakatanggap kami ng partikular na impormasyon mula sa mga third party na serbisyo ng social network, halimbawa, kapag naglo-log in ka sa iyong account sa pamamagitan ng mga detalye ng pag-log in sa iyong social network account. tingnan ang aming Supplement sa Nokia phones account para sa higit pang impormasyon.
+
+•　Ang iyong mga transaksyon sa amin. Nagpapanatili kami ng mga record ng iyong mga pagbili, mga pag-download, ng nilalamang ibinigay mo sa amin, iyong mga kahilingan, mga produkto at serbisyong ibinigay sa iyo, mga detalye ng pagbabayad at pagpapadala, iyong mga at komunikasyon at iba pang mga pakikipag-ugnayan sa amin. Alinsunod sa naaangkop na batas, maaari naming i-record ang iyong pakikipag-ugnayan sa aming customer care o iba pang mga naturang punto ng pakikipag-ugnayan.
+
+Bakit kami nagpoproseso ng personal na data?
+
+Maaaring iproseso ng HMD ang iyong personal na data para sa mga sumusunod na dahilan. Maaaring malapat ang isa o higit pang mga layunin.
+
+•　Pagbibigay ng mga produkto at serbisyo. Ginagamit namin ang iyong personal na data para maibigay sa iyo ang aming mga produkto at serbisyo, para maiproseso ang iyong mga kahilingan o kung hindi naman ay kung kinakailangan para maipatupad ang kontrata sa pagitan mo at ng HMD, para tiyakin ang functionality at seguridad ng aming mga produkto at serbisyo, para kilalanin ka at pati na rin para hadlangan at imbestigahan ang panloloko at iba pang maling paggamit. Halimbawa, ginagamit namin ang data ng pag-activate ng device para i-activate ang warranty ng iyong device at para magbigay sa iyo ng mga nauugnay na serbisyo sa customer care.
+
+•　Pag-personalize ng mga produkto at serbisyo. Ginagamit namin ang iyong personal na data para i-personalize ang aming mga produkto at serbisyo na ginagamit mo at para bigyan ka ng mas may kaugnayang mga serbisyo na tutugma sa iyong profile at mga interes, halimbawa, para magbigay ng mga rekomendasyon at para magpakita ng naka-customize na content sa aming mga serbisyo.
+
+•　Mga account. Ang ilang serbisyo ay nangangailangan ng account para matulungan kang pamahalaan ang iyong content at mga kagustuhan. para sa higit pang impormasyon. tingnan ang aming Supplement sa Nokia phones account.
+
+•　Pag-develop ng mga produkto at serbisyo. Ginagamit namin ng iyong personal na data para i-develop ang aming mga produkto, mga serbisyo, customer care, pagbebenta at marketing. Halimbawa, maaari kang sumali sa aming User Experience Program para ibigay sa amin ang iyong personal na data para pagandahin ang kalidad at performance ng aming mga produkto at serbisyo. Para sa higit pang impormasyon tungkol sa kung paano namin ginagamit ang iyong personal na data para i-develop ang aming mga produkto at serbisyo, tingnan ang aming Supplement sa User Experience. Maaari naming pagsamahin ang personal na data na nakolekta kaugnay ng iyong paggamit ng isang partikular na produkto at/o serbisyo ng HMD at iba pang personal na data na maaaring mayroon kami tungkol sa iyo, maliban kung nakolekta ang naturang personal na data para sa ibang layunin.
+
+•　Pakikipag-ugnayan sa iyo. Ginagamit namin ang iyong personal na data para makipag-ugnayan sa iyo, halimbawa, para ipaalam sa iyo na nagbago ang aming mga serbisyo o para magpadala sa iyo ng mahahalagang alerto at iba pang ganoong mga paunawa kaugnay ng aming mga produkto at/o serbisyo para makipag-ugnayan sa iyo para sa mga layuning nauugnay sa customer care. Para sa higit pang impormasyon tungkol sa kung paano namin ginagamit ang iyong personal na data para maibigay sa iyo ang aming mga serbisyo sa customer care, tingnan ang aming Supplement sa Nokia Mobile Care.
+
+•　Marketing. Maaari kaming makipag-ugnayan sa iyo para ipaalam sa iyo ang tungkol sa mga bagong produkto, serbisyo o promo na maaaring inaalok namin at para magsagawa ng market research (pananaliksik sa merkado) kapag mayroon kaming pahintulot mo o kung hindi naman ay kung pinapayagan ito. Maaari naming gamitin ang iyong personal na data para i-personalize ang aming inaalok at para bigyan ka ng mas may kaugnayang mga serbisyo na tutugma sa iyong profile at mga interes, para sa mga layunin ng marketing, halimbawa, para magpakita ng naka-customize na content sa aming mga serbisyo, at para magbigay ng mga rekomendasyon sa mga accessory. Maaaring kasama rito ang pagpapakita ng content ng HMD at ng third party.
+
+Ano ang mga batayan para sa pagpoproseso?
+
+Pinoproseso lang ng HMD ang iyong personal na data kapag naaayon sa batas na gawin ito. Ang pagpoproseso ay nakabatay sa mga sumusunod na legal na basehan:
+
+•　Kontrata. Ang pagpoproseso ng iyong personal na data ay kinakailangan para sa pagpapatupad ng isang kontrata sa pagitan mo at ng HMD. Ginagamit namin ng iyong personal na data para maibigay sa iyo ang aming mga produkto at serbisyo at para tiyakin ang functionality at seguridad ng mga ito. Kung hindi mo ibibigay sa amin ang kinakailangang impormasyon, ibig sabihin ay hindi namin maibibigay ang produkto o serbisyo sa iyo. Kontrata ang batayan ng pagpoproseso, halimbawa, kapag
+
+　o　Nangongolekta kami ng kinakailangang personal na data para iproseso ang pagbabayad at ipadala ang iyong mga binili.
+
+　o　Nakikipag-ugnayan kami sa iyo, halimbawa, para ipaalam sa iyo ang tungkol sa mga update sa software, para magpadala sa iyo ng mahahalagang alerto at iba pang mahahalagang paunawa kaugnay ng aming mga produkto at/o serbisyo para makipag-ugnayan sa iyo para sa mga layuning nauugnay sa customer care.
+
+•　Lehitimong interes.  Nagpoproseso ang HMD ng personal na data kapag kinakailangan ito para sa mga layunin ng mga lehitimong interes na hinahangad ng HMD. Ang ibig sabihin ng lehitimong interes ay isang interes na naaayon sa batas at mahalaga para sa HMD. Sa pagpoproseso ng mga aktibidad batay sa lehitimong interes, ang iyong mga karapatan ay isinasaalang-alang at binabalanse sa mga interes ng HMD. Maaari kang makakuha ng higit pang impormasyon sa mga test ng pagbabalanse sa pamamagitan ng pakikipag-ugnayan sa amin. Mayroon kang karapatang tumanggi sa pagpoproseso batay sa lehitimong interes. Magbasa pa tungkol sa iyong mga karapatan at kung paano makipag-ugnayan sa amin sa seksyong Ano ang iyong mga karapatan?. Lehitimong interes ang batayan ng pagpoproseso, halimbawa, kapag
+
+　o　Electronic mong ina-activate ang mga produkto at serbisyo ng HMD at ipinapadala sa HMD ang uri ng iyong device at application, pati na rin ang mga natatanging identifier ng device, application, network at subscription.
+
+　o　Nakikipag-ugnayan kami sa iyo para ipaalam sa iyo ang tungkol sa mga katulad na produkto o serbisyong na dating mong nakuha sa amin.
+
+　o　Maaari naming gamitin ang iyong personal na data para i-personalize ang aming inaalok at para bigyan ka ng mas may kaugnayang mga serbisyo na tutugma sa iyong profile at mga interes, halimbawa, para magbigay ng mga rekomendasyon at para magpakita ng naka-customize na content at marketing sa aming mga serbisyo. Maaaring kasama rito ang pagpapakita ng content ng third party.
+
+　o　Sinusuri namin ang impormasyon sa iyong mga interes, mga gawi pagbili at feedback para i-develop ang aming mga operasyon ng negosyo, produkto at serbisyo.
+
+　o　Nagpoproseso kami ng personal na data para hadlangan at imbestigahan ang panloloko at iba pang mga maling paggamit at ipagtanggol ang mga lehitimong interes ng HMD, halimbawa, sa mga legal na pagdinig na sibil o kriminal.
+
+•　Pagpapahintulot. Ang pagpoproseso ng iyong personal na data ay maaaring nakabatay sa iyong pahintulot. Sa mga sitwasyong ito, maaari naming hilingin ang iyong pahintulot bago iproseso ang iyong personal na data. Palaging boluntaryo ang pagbibigay ng pahintulot at mayroon kang posibilidad na bawiin ang iyong pahintulot anumang oras. Hindi naaapektuhan ng pagbawi ng pahintulot ang pagiging naaayon sa batas ng pagpoproseso batay sa pagpapahintulot bago ang pagbawi. Nagpapanatili kami ng mga record ng iyong mga pagpapahintulot, kagustuhan at setting na nauugnay, halimbawa, sa marketing, data ng lokasyon, at pagbabahagi ng personal na data. Pagpapahintulot ang batayan ng pagpoproseso sa mga sumusunod na sitwasyon:
+
+　o　Nakikilahok ka sa User Experience Program at kinokolekta namin ang mga detalye ng kung paano ka gumagamit ng partikular na produkto at/o serbisyo ng HMD. Ginagamit namin ang data para pagandahin ang aming mga produkto at serbisyo. Maaari mong bawiin ang iyong pahintulot sa mga setting ng iyong device. Para sa higit pang impormasyon, pakitingnan ang aming supplement sa User Experience Program.
+
+　o　Naka-subscribe ka sa aming mailing list para malaman ang tungkol sa mga bagong produkto, serbisyo at promo. Maaari mong bawiin ang iyong pahintulot para sa pamamagitan ng link na mag-unsubscribe sa ibaba ng newsletter.
+
+　o　Ang serbisyo ay nangangailangan ng account para matulungan kang pamahalaan ang iyong content at mga kagustuhan. Maaari mong pamahalaan ang iyong mga pahintulot para sa pagpoproseso sa mga setting ng iyong account.
+
+　o　Maaaring kasama sa paggamit ng mga produkto at serbisyo ng HMD ang paggamit ng data ng lokasyon batay sa iyong pahintulot. Maaari mong bawiin ang iyong pahintulot para sa pagpoproseso ng data ng lokasyon sa mga setting ng iyong device o application.
+
+•　Legal na obligasyon. Maaaring kailanganin ng HMD na iproseso ang iyong personal na data para sumunod sa mga pag-aatas ng batas kung saan sumasailalim ang HMD. Halimbawa, maaaring magkaroon ang HMD na legal na obligasyong ibunyag ang iyong personal na data sa mga awtoridad kapag hiniling ito.
+
+Nagbabahagi ba kami ng personal na data?
+
+Hindi namin ibinebenta, ipinapaarkila o ipinaparenta ang iyong personal na data sa mga third party. Ibinubunyag lang namin ang iyong personal na data sa mga third party sa mga sumusunod na sitwasyon:
+
+•　Mga kumpanya ng HMD at mga awtorisadong third party. Maaari naming ibahagi ang iyong personal na data sa iba pang mga kumpanya ng HMD o mga awtorisadong third party na nagpoproseso ng personal na data para sa HMD para sa mga layuning inilalarawan sa Patakarang ito. Halimbawa, maaaring kasama rito ang pagsingil sa pamamagitan ng iyong network service provider o iba pa, pagpapadala ng iyong mga binili, pagbibigay ng mga serbisyo kasama ang customer service, pamamahala at pagsusuri ng data ng consumer, mga credit check, at pagsasagawa ng pananaliksik. Kapag bumili ka ng produkto ng HMD, maaari naming kailanganing makipagpalitan ng impormasyon sa iyong network service provider. Ang mga third party na ito ay hindi pinahihintulutang gamitin ang iyong personal na data para sa anumang iba pang layunin. Inaatasan namin sila na kumilos alinsunod sa Patakarang ito at gumamit ng mga naaangkop na hakbang na panseguridad para protektahan ang iyong personal na data.
+
+•　Marketing. Maaari naming ibahagi ang iyong personal na data sa aming mga kasosyo sa marketing, halimbawa, para mamahala ng mga marketing campaign. Maaaari kaming sama-samang magsagawa ng marketing at iba pang komunikasyon kasama ang aming mga kasosyo. Para iwasan ang duplicate o hindi kinakailangang komunikasyon at para iakma ang mensahe sa iyo, maaaring kailanganin naming magtugma ng impormasyong nakolekta ng HMD sa impormasyong nakolekta ng kasosyo kung pinahihintulutan ito ng batas. Ang aming mga kasosyo sa marketing ay hindi pinahihintulutang gamitin ang iyong personal na data para sa anumang iba pang layunin. Inaatasan namin sila na kumilos alinsunod sa Patakarang ito at gumamit ng mga naaangkop na hakbang na panseguridad para protektahan ang iyong personal na data.
+
+•　Mga internasyunal na paglilipat ng personal na data. Ang aming mga produkto at serbisyo ay inihahatid gamit ang mga resource at server na matatagpuan sa iba't ibang bansa at rehiyon sa buong mundo, kasama ang European Union, United States of America, Singapore at China. Samakatuwid, maaaring maitawid ang iyong personal na data sa mga internasyunal na border sa labas ng bansa kung saan mo ginagamit ang aming mga produkto at serbisyo, kasama ang patungo sa mga bansang nasa labas ng European Economic Area (EEA) na walang mga batas na naglalaan ng partikular na proteksyon para sa personal na data o na may ibang mga legal na patakaran sa pagprotekta ng data. Sa ganoong mga pagkakataon, tinitiyak namin na may legal na batayan para sa naturang paglilipat at nakakapaglaan ng sapat na proteksyon para sa iyong personal na data ayon sa iniaatas ng naaangkop na batas, halimbawa, sa pamamagitan ng paggamit ng mga kinikilalang kasunduan na inaprubahan ng mga kinauukulang awtoridad (kapag kinakailangan) at sa pamamagitan ng pag-aatas sa paggamit ng iba pang mga naaangkop na teknikal at pang-organisasyong hakbang para sa seguridad ng impormasyon.
+
+•　Mga mandatoryong pagbubunyag. Maaari kaming magkaroon ng obligasyon dahil sa mandatoryong batas na ibunyag ang iyong personal na data sa mga partikular na awtoridad at iba pang third party, halimbawa, sa mga ahensya ng mga alagad ng batas sa mga bansa kung saan kami nagnenegosyo o kung saan nagnenegosyo ang mga third party na kumikilos sa ngalan namin. Maaari din naming ibunyag o kung hindi naman ay iproseso ang iyong personal na data alinsunod sa naaangkop na batas para ipagtanggol ang mga lehitimong interes ng HMD, halimbawa, sa mga legal na pagdinig na sibil o kriminal.
+
+•　Mga Merger at Acquisition. Kung magpapasya kaming ibenta, bilhin, i-merge o kung hindi naman ay i-reorganize ang aming mga negosyo sa mga partikular na bansa, maaaring maging sangkot dito ang pagbubunyag namin ng personal na data sa mga inaasahan o aktwal na bibili at sa kanilang mga tagapayo, o ang pagtanggap ng personal data mula sa mga nagbebenta at sa kanilang mga tagapayo.
+
+Paano namin tinutugunan ang privacy ng mga bata?
+
+Ang mga produkto at serbisyo ng HMD ay karaniwang inilalaan para sa pangkalahatang madla. Hindi sinasadya ng HMD na mangolekta ng impormasyon ng mga bata nang walang pahintulot ng kanilang mga magulang o tagapangalaga.
+
+Anong mga hakbang ang ginagawa para bantayan ang personal na data?
+
+Ang privacy at seguridad ay mahahalagang konsiderasyon sa paggawa at paghahatid ng aming mga produkto at serbisyo. Nagtalaga kami ng mga partikular na responsibilidad para tugunan ang mga isyung nauugnay sa privacy at seguridad. Ipinapatupad namin ang aming mga panloob na patakaran at alituntunin sa pamamagitan ng naaangkop na pagpili ng mga aktibidad, kasama ang proactive at reactive na risk management, engineering ng seguridad at privacy, pagsasanay at mga pagtatasa. Gumagawa kami ng mga naaangkop na hakbang para tugunan ang online na seguridad, pisikal na seguridad, panganib ng pagkawala ng data at iba pang mga panganib nang isinasaalang-alang ang panganib na kinakatawan ng pagproseso at ng uri ng data na pinoprotektahan. Gayundin, nililimitahan namin ang access sa aming mga database na naglalaman ng personal na data sa mga awtorisadong taong may makatwirang pangangailangan na mag-access ng naturang impormasyon.
+
+Paano kami gumagamit ng cookies?
+
+Gumagamit ang HMD ng cookies at iba pang mga katulad na teknolohiya para patakbuhin at pagandahin ang aming mga website at inaalok. Gumagamit din kami ng cookies para sa pag-personalize at para magpakita ng mga ad. Ang ilang website ng HMD ay gumagamit ng mga third party na teknolohiya ng advertising, gaya ng DoubleClick, para magpakita ng mga ad.
+
+Ang aming mga domain ay maaaring magsama ng mga elemento ng third party na nagtatakda ng cookies sa ngalan ng isang third party, halimbawa, kaugnay ng third party na social network. Para sa higit pang impormasyon sa kung paano kami gumagamit ng cookies, tingnan ang aming Patakaran sa Cookie.
+
+Gaano katagal pinananatili ang data?
+
+Gumagawa kami ng mga makatwirang hakbang para panatilihing tumpak ang personal na data na hawak namin at para mag-delete ng hindi tama o hindi kinakailangang personal na data.
+
+Maaaring iba-iba ang mga yugto ng pagpapanatili depende sa uri ng data at sa naturang serbisyo o produkto. Tinutukoy ang tagal ng pagpapanatili ng iyong personal na data alinsunod sa mga sumusunod na pamantayan:
+
+•　Impormasyon ng pag-activate sa produkto at serbisyo (hal. mga natatanging identifier ng device, application, network at subscription): Ang data ay pinananatili habang nasa yugto ng warranty at sa 24 na buwan makalipas ang pagtatapos ng yugto ng warranty.
+
+•　Data ng user experience program (hal. IMEI, stability, status ng battery): Ang data ay pinananatili nang 6 na buwan matapos makolekta ang data o kung binawi mo ang iyong pahintulot para sa pagpoproseso.
+
+•　Information ng account (hal. pangalan, email address, mga user name, mga password): Pinananatili ang data basta't aktibo ang account. Kung hindi naging aktibo ang account nang 24 na buwan, ide-delete ang data.
+
+•　Impormasyon sa pagbili (hal. mga record ng pagbili at pag-download, numero ng bank account, mga detalye ng credit card): Upang sumunod sa mga regulasyon sa accounting, pinananatili ang data nang 10 taon matapos makolekta ang data.
+
+•　Impormasyon sa komunikasyon at pakikipag-ugnayan (hal. pangalan, email, mga kahilingan): Ang data ay pinananatili nang 24 na buwan matapos makolekta ang data.
+
+Bilang karagdagan, sumasailalim ang HMD sa mga legal na obligasyon na panatilihin ang data para makasunod sa mga mandatoryong batas.
+
+Ano ang iyong mga karapatan?
+
+Mayroon kang karapatang malaman kung anong personal na data ang mayroon kami tungkol sa iyo ayon sa tinutukoy sa ibaba. Mayroon kang karapatang makumpleto o mapa-update ang personal na data na hindi kumpleto, hindi tama, o hindi na napapanahon. Sa ilang partikular na pagkakataon, mayroon kang karapatan sa pagpapabura, paghihigpit o portability ng data, o tumanggi sa pagpoproseso ng iyong personal na data. Maaari mong gamitin ang iyong mga karapatan sa pamamagitan ng pamamahala sa iyong account at mga napili sa pamamagitan ng mga available na tool sa pamamahala ng profile sa iyong device at sa aming mga serbisyo, o sa pamamagitan ng pakikipag-ugnayan sa amin. Sa ilang pagkakataon, lalo na kung gusto mong i-delete namin o ihinto ang pagproseso sa iyong personal na data, maaari din itong mangahulugang hindi na namin mapapagpatuloy ang pagbibigay ng mga serbisyo sa iyo.
+
+•　Karapatan sa pag-access. Mayroon kang karapatang malaman kung anong personal na data ang hawak namin tungkol sa iyo o makatanggap ng pagkumpirma na hindi kami nagpoproseso ng data na nauugnay sa iyo. Maaari mong i-access ang iyong data sa pamamagitan ng mga setting ng iyong account. Maaari ka ring humiling ng access sa iyong data sa pamamagitan ng paggamit ng mga detalye ng contact sa ibaba.
+
+•　Karapatan sa pagwawasto.  Mayroon kang karapatang maipawasto ang personal na data na hindi kumpleto o hindi tama. Maaari mong iwasto at i-update ang iyong data sa pamamagitan ng mga setting ng iyong account at hinihikayat ka naming gawin ito paminsan-minsan para tiyaking napapanahon ang iyong personal na data. Maaari ka ring humiling ng pagpapawasto o pagkumpleto sa iyong data sa pamamagitan ng paggamit ng mga detalye ng contact sa ibaba.
+
+•　Karapatang makalimutan (right to be forgotten).  Mayroon kang karapatang mapabura ang iyong personal na data sa ilang partikular na sitwasyon, halimbawa, kapag hindi na kinakailangan ang pagpoproseso ng iyong data para sa mga layunin ng pagkolekta rito, o kung nakabatay ang pagpoproseso sa iyong pahintulot at gusto mong bawiin ang iyong pahintulot at wala nang iba pang batayan para sa pagpoproseso. Pakitandaan na maaaring kinakailangan ang data para mapatupad ang kontrata sa pagitan mo at ng HMD, o maaaring magkaroon ang HMD ng mga kapani-paniwala at lehitimong dahilan para panatilihin ang ilang partikular na data. Kung gusto mong i-delete ang naturang impormasyon, nangangahulugan itong maaaring hindi namin mapagpatuloy ang pagbibigay ng mga serbisyo sa iyo. Maaari mong burahin ang iyong data sa pamamagitan ng mga setting ng iyong account o sa pamamagitan ng paggamit ng mga detalye ng contact sa ibaba.
+
+•　Karapatang tumanggi. Kapag nakabatay sa isang lehitimong interes ang pagpoproseso ng iyong personal na data, mayroon kang karapatang tumanggi sa naturang pagpoproseso. Maaari mong hilinging ihinto namin ang pagpoproseso sa iyong personal na data para sa mga layunin ng direktang marketing at profiling. Maaari kang mag-unsubscribe sa aming newsletter sa pamamagitan ng pag-click sa link na mag-unsubscribe sa ibaba ng aming mga newsletter. Maaari pa ring magpadala sa iyo ng mahahalagang alerto at iba pang mahahalagang paunawa. Maaari mong gamitin ang iyong karapatang tumanggi sa pamamagitan ng mga setting ng iyong account o sa pamamagitan ng paggamit ng mga detalye ng contact sa ibaba.
+
+•　Karapatan sa pagpapahigpit sa pagpoproseso.  Sa ilang partikular na sitwasyon, maaari kang magkaroon ng karapatang paghigpitan ang pagpoproseso ng iyong data. Kapag pinaghigpitan ang pagpoproseso, iiimbak lang ang iyong data at hindi na ito ipoproseso pa. Halimbawa, kung hindi ka sang-ayon sa katumpakan ng iyong data, mayroon kang karapatang paghigpitan ang pagpoproseso ng salungat na data habang tinitiyak na tumpak ang iyong data. Maaari mong gamitin ang iyong karapatang paghigpitan ang pagpoproseso gamit ang mga detalye ng contact sa ibaba.
+
+•　Karapatan sa data portability.  Kapag isinasagawa ang pagpoproseso sa pamamagitan mga awtomatikong paraan at batay sa isang kontrata o pahintulot, mayroon kang karapatang kunin ang data na ibinigay mo sa HMD sa isang machine readable format nang sa gayon ay malilipat mo ito sa ibang controller. Maaari itong isagawa sa pamamagitan ng mga setting ng iyong account o sa pamamagitan ng paggamit ng mga detalye ng contact sa ibaba.
+
+Kung hindi mo direktang magamit ang iyong mga karapatan sa pamamagitan ng mga produkto at serbisyo ng HMD na ginagamit mo, maaari kang makipag-ugnayan sa amin nang direkta sa pamamagitan ng
+
+•　Nokia phones account portal: www.nokia.com/phones/sso/login
+
+•　Customer support: www.nokia.com/en_int/phones/support#contact-us
+
+•　Ang application na Suporta sa iyong Nokia phone
+
+•　Mail: HMD Global Oy, c/o Privacy, Bertel Jungin aukio 9, 02600 Espoo, Finland
+
+Maaari kang humiling ng impormasyon sa mga detalye ng mga paglilipat sa mga third party, mga third country at mga safeguard na binabanggit sa itaas sa pamamagitan ng pakikipag-ugnayan sa amin. Kung naniniwala kang nilabag ng HMD ang iyong mga karapatan alinsunod sa batas sa proteksyon ng data, bukod pa sa mga prinsipyong inilahad sa Patakaran sa Privacy at mga nauugnay na Supplement, mayroon kang karapatang maghain ng reklamo sa awtoridad sa proteksyon ng data.
+
+Sino ang controller ng iyong personal na data?
+
+Ang HMD Global Oy ay ang controller ng iyong personal na data kapag pinoproseso ang personal na data kaugnay ng iyong Nokia phone, Nokia phones account at iba pang mga nauugnay na serbisyo. Ang aming Data Protection Officer ay si Jari Koljonen.
+
+Sa mga isyung nauugnay sa mga kasanayan sa privacy ng HMD, maaari ka ring makipag-ugnayan sa amin sa:
+
+HMD Global Oy, c/o Privacy, Bertel Jungin aukio 9, 02600 Espoo, Finland
+
+Ang mga produkto o serbisyo namin ay maaaring maglaman ng mga link sa mga website at serbisyo ng iba pang mga kumpanya na may sari-sariling mga patakaran sa privacy. Ang lahat ng link sa naturang mga website at serbisyo ay ibinibigay lang para sa iyong kaginhawaan. Bago isumite ang iyong personal na data sa mga third party, inirerekomenda ng HMD na maglaan ng isang sandali para gawing pamilyar ang iyong sarili sa mga patakaran sa privacy ng third party na ito.
+
+Mga Pagbabago sa Patakaran sa Privacy na ito
+
+Paminsan-minsan, maaaring i-update ng HMD ang Patakarang ito para sumalamin sa mga pagbabago sa aming mga kasanayan sa pagpoproseso ng personal na data kaugnay ng aming mga produkto at serbisyo, o naaangkop na batas. Ang mga pagbabago sa Patakaran sa Privacy na ito ay available sa ilalim ng seksyong “Anong nagbago? sa Patakaran sa Privacy ng HMD (www.nokia.com/phones/privacyportal). Isasaad din namin sa itaas ng Patakarang ito kung kailan huling na-update ang Patakarang ito.
+ 
+    "</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="user_experience_activity">Supplement sa User Experience Program</string>
+    <string name="user_experience_content">Maaari mong tulungan ang HMD Global na pagandahin ang kalidad at performance ng mga Nokia phone. Kapag nakikilahok ka sa User Experience Program, kinokolekta namin ang mga teknikal na detalye ng iyong telepono at mga serbisyo, kung paano gumagana ang mga iyon at kung paano mo ginagamit ang mga iyon. &lt;br/> &lt;br/>Halimbawa, ginagamit ang data para &lt;br/> &lt;br/>•　 pahusayin ang telepono at mga application &lt;br/>•　 patagalin ang baterya &lt;br/>•　 magbigay ng mas maraming kapaki-pakinabang na feature at serbisyo &lt;br/>•　 i-personalize ang aming mga produkto at serbisyo na ginagamit mo at para bigyan ka ng mas may kaugnayang mga serbisyo na tutugma sa iyong profile at mga interes, halimbawa, para magbigay ng mga rekomendasyon at para magpakita ng naka-customize na content at advertising sa aming mga serbisyo. &lt;br/> &lt;br/>Halimbawa, kasama sa kinokolektang impormasyon ang: &lt;br/> &lt;br/>•　Numero ng pagkakakilanlan ng telepono (IMEI) &lt;br/>•　Modelo ng telepono &lt;br/>•　Bersyon ng system at application ng telepono &lt;br/>•　Mobile Country Code (MCC) &lt;br/>•　Pangheyograpikong lokasyon (kalapit na Wi-fi access point o cell tower) &lt;br/>•　Mobile Network Code (MNC) &lt;br/>•　IP address &lt;br/>•　Level ng baterya &lt;br/>•　Mga naka-install na application at software &lt;br/>•　Mga ginamit na link at feature &lt;br/>•　Gaano kadalas ginagamit ang mga application &lt;br/>•　Impormasyon tungkol sa mga pag-crash at error ng software &lt;br/> &lt;br/>Hindi namin ginagamit ang nakolektang data para personal kang kilalanin. Gayunpaman, posibleng pagsamahin ang data ng paggamit at iyong telepono batay sa mga nakolektang device identifier, gaya ng IMEI. Iniuugnay lang ang data ng paggamit sa iyong telepono para lang pagandahin ang functionality at performance ng telepono at ng mga serbisyo at para i-personalize ang aming inaalok. Halimbawa, kung mapapansin namin na malakas gumamit ng baterya ang mobile phone, maaari kang magrekomenda ng mga setting para magtipid ng baterya. Maaari naming ibahagi ang nakolektang data sa mga third party na app developer para matulungan silang pagandahin ang kanilang mga application at serbisyo. Anonymous ang ibinabahaging data, at hindi ito maiuugnay sa iyo o sa iyong device. &lt;br/> &lt;br/>Kinokolekta ang lokasyon ng pag-activate (GPS) nang isang beses sa pag-activate ng telepono kung sumali ang user sa User Experience Program. Kung hindi sasali ang user sa User Experience Program, hindi kokolektahin ang lokasyon ng pag-activate (GPS). &lt;br/> &lt;br/>Maaari kang mag-opt out sa User Experience Program sa mga setting ng iyong device.</string>
+</resources>

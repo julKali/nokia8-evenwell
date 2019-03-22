@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">కనిపించే తీరు</string>
+    <string name="pref_dialog_title_time_out">గడువు-ముగింపు</string>
+    <string name="pref_title_alarm_information">అలారం సమాచారం</string>
+    <string name="pref_title_calendar_reminder">క్యాలెండర్ రిమైండర్</string>
+    <string name="pref_title_missed_calls">మిస్డ్ కాల్‌ల సూచిక</string>
+    <string name="pref_title_time_out">ఫోన్ కదలని సమయంలో గడువు-ముగింపు</string>
+    <string name="pref_title_unread_mails">చదవని మెయిల్‌ల సూచిక</string>
+    <string name="pref_title_unread_messages">చదవని సందేశాల సూచిక</string>
+    <string name="switch_off_text">ఆఫ్ చేయి</string>
+    <string name="switch_on_text">ఆన్ చేయి</string>
+    <string name="abc_action_bar_home_description">హోమ్‌కు నావిగేట్ చేయండి</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">పైకి నావిగేట్ చేయండి</string>
+    <string name="abc_action_menu_overflow_description">మరిన్ని ఎంపికలు</string>
+    <string name="abc_action_mode_done">పూర్తయింది</string>
+    <string name="abc_activity_chooser_view_see_all">అన్నీ చూడండి</string>
+    <string name="abc_activitychooserview_choose_application">అనువర్తనాన్ని ఎంచుకోండి</string>
+    <string name="abc_capital_off">ఆఫ్ చేయి</string>
+    <string name="abc_capital_on">ఆన్ చేయి</string>
+    <string name="abc_search_hint">శోధించు...</string>
+    <string name="abc_searchview_description_clear">ప్రశ్నను క్లియర్ చేయి</string>
+    <string name="abc_searchview_description_query">ప్రశ్న శోధించండి</string>
+    <string name="abc_searchview_description_search">శోధించు</string>
+    <string name="abc_searchview_description_submit">ప్రశ్నని సమర్పించు</string>
+    <string name="abc_searchview_description_voice">వాయిస్ శోధన</string>
+    <string name="abc_shareactionprovider_share_with">వీరితో భాగస్వామ్యం చేయి</string>
+    <string name="abc_shareactionprovider_share_with_application">%sతో భాగస్వామ్యం చేయి</string>
+    <string name="abc_toolbar_collapse_description">కుదించండి</string>
+    <string name="search_menu_title">శోధించు</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

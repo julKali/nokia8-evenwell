@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_title_missed_calls">Покажувач на пропуштени повици</string>
+    <string name="pref_title_unread_mails">Показател на непрочитани е-пораки</string>
+    <string name="pref_title_unread_messages">Показател за непрочитани пораки</string>
+    <string name="pref_title_alarm_information">Информации за тревога</string>
+    <string name="pref_title_calendar_reminder">Потсетник за календар</string>
+    <string name="pref_title_time_out">Временско ограничување кога телефонот не се поместува</string>
+    <string name="pref_dialog_title_time_out">Временско ограничување</string>
+    <string name="pref_category_items_display">Изглед</string>
+    <string name="switch_on_text">Вклучено</string>
+    <string name="switch_off_text">Исклучено</string>
+</resources>

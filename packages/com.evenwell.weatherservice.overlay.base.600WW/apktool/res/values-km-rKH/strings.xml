@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_permission_hint_1">ដើម្បី​ដំណើរការ​ប្រក្រតី កម្មវិធី​នេះ​ត្រូវការ​នូវ​ការអនុញ្ញាត​បន្ថែម។ សូម​ផ្ដល់​ការអនុញ្ញាត នៅពេល​សួរ។</string>
+    <string name="fih_weather_permission_hint_2">ដើម្បី​ដំណើរការ​ប្រក្រតី កម្មវិធី​នេះ​ត្រូវការ​នូវ​ការអនុញ្ញាត​បន្ថែម។ សូម​គ្រប់គ្រង​ការអនុញ្ញាត​នៃ​សេវា​អាកាសធាតុ​ក្នុង ការកំណត់។</string>
+    <string name="fih_weather_button_ok">យល់ព្រម</string>
+    <string name="fih_weather_button_close">បិទប៉ុស្តិ៍</string>
+    <string name="fih_weather_button_setting">កំពុងកំណត់...</string>
+    <string name="fih_weather_permission_success">ជោគជ័យ​ក្នុង​ការ​ផ្ដល់​ការអនុញ្ញាត​ទីកន្លែង</string>
+    <string name="fih_weather_permission_failed">បាន​បដិសេធ​ការផ្ដល់​ការអនុញ្ញាត​ទីកន្លែង, មិន​អាច​ទទួល​ទីកន្លែង។</string>
+    <string name="fih_weather_notification_title">WeatherService ត្រូវការ​នូវ​ការអនុញ្ញាត</string>
+    <string name="fih_weather_notification_text">ប៉ះ​ដើម្បី​អនុញ្ញាត</string>
+    <string name="fih_weather_notification_channel_title">ការជូនដំណឹង​ទូទៅ</string>
+</resources>

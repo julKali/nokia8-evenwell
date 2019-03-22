@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="12.0dip" android:paddingTop="1.0dip" android:paddingBottom="1.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/item_name" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:text="@string/start_label" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+    <TextView android:ellipsize="marquee" android:gravity="center|right" android:id="@id/count" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+</LinearLayout>

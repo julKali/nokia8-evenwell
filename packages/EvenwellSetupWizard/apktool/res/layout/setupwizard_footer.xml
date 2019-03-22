@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="6.1999817dip" android:layout_marginStart="4.0dip" android:layout_marginEnd="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/back_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:minWidth="88.0dip" android:text="@string/back_btn_lebel" style="@style/SuwGlifButton.Secondary" />
+    <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <Button android:id="@id/next_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:minWidth="88.0dip" android:text="@string/next_btn_lebel" style="@style/SuwGlifButton.Primary" />
+</LinearLayout>

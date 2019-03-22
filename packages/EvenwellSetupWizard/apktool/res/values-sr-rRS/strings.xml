@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Приступачност</string>
+    <string name="app_name">SetupWizard</string>
+    <string name="datausage_dialog_negitive_btn">Откажи</string>
+    <string name="datausage_dialog_positive_btn">Потврди</string>
+    <string name="insert_sim_cards">Убаците SIM картице</string>
+    <string name="insert_sim_cards_prompt_content">"Не знате како? Погледајте упутства добијена уз телефон.
+
+Кад ставите SIM картице, може проћи неколико секунди док се активирају."</string>
+    <string name="language_selection_cancel_btn">ОТКАЖИ</string>
+    <string name="light_room_title">Имате страст за фотографијом?</string>
+    <string name="nevigation_selection_text">Можете да промените боју позадине и положај тастера Назад / Недавно.</string>
+    <string name="next_btn_lebel">СЛЕДЕЋА</string>
+    <string name="not_now">НЕ САД...</string>
+    <string name="setup_complete_hmd_1">Ускоро ћете бити спремни за почетак...!</string>
+    <string name="setup_finish">КРЕНИМО</string>
+    <string name="upload_agent_hmd_des_text_3">"Додиривањем дугмета \"КРЕНИМО\" прихватате учешће у програму корисничких утисака. &lt;a href='launch.UserExperienceActivity://Kode'>Сазнајте више&lt;/a>. Запамтите, можете се накнадно придружити путем Подешавања."</string>
+    <string name="wapi_psk_security_type">Тип лозинке</string>
+    <string name="welcome_hmd_term_of_use_5">"Додиривањем дугмета прихватате &lt;a href='launch.TermOfServiceActivity://Kode'>Услове коришћења услуге&lt;/a>. HMD Global ће примити информације о активацији уређаја и једнократне информације о локацији уређаја. Могућа је наплата преноса података. Подаци ће се користити у складу са &lt;a href='launch.AddUploadAgentHandler://Kode'>Политиком приватности&lt;/a>."</string>
+    <string name="welcome_start_button_label">ПОЧЕТАК</string>
+    <string name="wifi_cancel">Откажи</string>
+    <string name="wifi_certificate">Сертификат</string>
+    <string name="wifi_picker_connection_positive">Потврди</string>
+    <string name="wifi_picker_warning_title">Упозорење</string>
+    <string name="wifi_security_none">Нема</string>
+</resources>

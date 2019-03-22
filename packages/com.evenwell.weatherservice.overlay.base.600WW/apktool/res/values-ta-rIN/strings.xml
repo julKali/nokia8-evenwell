@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">வானிலைச் சேவை</string>
+    <string name="fih_weather_permission_hint_1">சரியாகச் செயல்பட, இந்தச் செயலிக்கு கூடுதல் அனுமதி தேவை. கேட்கப்படும் போது, அணுகலை அனுமதிக்கவும்.</string>
+    <string name="fih_weather_permission_hint_2">சரியாகச் செயல்பட, இந்த செயலிக்கு கூடுதல் அனுமதிகள் தேவை. அமைப்பில் வானிலை சேவையின் அனுமதியை நிர்வகிக்கவும்.</string>
+    <string name="fih_weather_button_ok">செய்தாயிற்று</string>
+    <string name="fih_weather_button_close">மூடு</string>
+    <string name="fih_weather_button_setting">அமைக்கின்றது...</string>
+    <string name="fih_weather_permission_success">இருப்பிட அனுமதி வெற்றிகரமாக வழங்கப்பட்டது</string>
+    <string name="fih_weather_permission_failed">இருப்பிட அனுமதி நிராகரிக்கப்பட்டது, இருப்பிடத்தைப் பெற முடியாது.</string>
+    <string name="fih_weather_notification_title">வானிலை சேவைக்கு அனுமதிகள் தேவை</string>
+    <string name="fih_weather_notification_text">அனுமதிக்க, தட்டு</string>
+    <string name="fih_weather_notification_channel_title">பொது அறிவிப்புகள்</string>
+</resources>

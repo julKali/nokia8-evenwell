@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">Mégse</string>
+    <string name="DONE">KÉSZ</string>
+    <string name="NEXT">TOVÁBB</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">ELŐZŐ</string>
+    <string name="alert_empty_desc">Adjon hozzá leírást!</string>
+    <string name="alert_warning_title">Tippek</string>
+    <string name="enter_comments">Megjegyzések (1 000 karakter)</string>
+    <string name="extremely_likely">(Nagyon valószínű)</string>
+    <string name="feedback">Visszajelzés</string>
+    <string name="helps_us_improve_our_products">Visszajelzésével segíti a termék fejlesztését!</string>
+    <string name="intro_title">Milyen valószínűséggel ajánlaná ezt a telefont egy barátnak vagy kollégának?</string>
+    <string name="msg_send_after">Az üzenet feltöltése automatikusan megtörténik majd, amikor az eszköz online állapotú. Köszönjük válaszát.</string>
+    <string name="msg_send_fail">A küldés sikertelen volt. Az üzenet feltöltése automatikusan megtörténik majd, amikor az eszköz online állapotú. Köszönjük válaszát.</string>
+    <string name="no_ask_feedback_again_text">Többé ne kérjen visszajelzést</string>
+    <string name="no_showagain_text">Ne mutassa többször</string>
+    <string name="not_at_all_likely">(Egyáltalán nem valószínű)</string>
+    <string name="privacy_context_wifi">"Tisztelt Felhasználók! 
+
+Ez a visszajelzési ügyfélszoftver. A termék használata előtt figyelmesen olvassa el és értelmezze a szolgáltatási feltételeket. Az \"Elfogadom\" gombra kattintással azt jelzi, hogy megértette a szoftverre vonatkozó jogosultságot, és a szoftver használatához elfogadja azt. Ha NEM fogadja el a feltételeket, nyomja meg a \"Kilépés\" gombot. Átfogó szolgáltatások nyújtásához az alkalmazásnak a következő engedélyekre van szüksége: 
+1. Internetkapcsolat, WLAN-hálózat elérése a visszajelzési információ elküldéséhez 
+2. IMEI-, PSN- és MNC\\MCC-kódok importálása a telefon alapvető adatainak automatikus megállapításához"</string>
+    <string name="select_a_value">Válasszon értéket</string>
+    <string name="str_agree">EGYETÉRT</string>
+    <string name="str_leave">KILÉPÉS</string>
+    <string name="submit_fail">Beküldés sikertelen</string>
+    <string name="submit_success">Köszönjük válaszát.</string>
+    <string name="thank_your_feedback">Köszönjük a visszajelzést!</string>
+    <string name="we_appreciate_your_help">Köszönjük, hogy segít a világ legjobbjaivá fejleszteni a Nokia termékeit!</string>
+    <string name="we_hope_enjoying_nokia_device">Reméljük, örömmel használja a Nokia készülékét. Az Ön visszajelzése nagyon fontos számunkra.</string>
+    <string name="we_will_contact_you_again">A jövőben ismét felvesszük a kapcsolatot Önnel.</string>
+    <string name="we_will_contact_you_again_enjoy">A jövőben ismét felvesszük a kapcsolatot Önnel. Használja örömmel a Nokia készülékét!</string>
+    <string name="why_you_gave_this_score">Kérjük, mondja el, miért ezt az osztályzatot adta:</string>
+</resources>

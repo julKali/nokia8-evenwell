@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/setupwizard_background_ww" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/viewStatusBar" android:background="@color/status_bar_ww" android:layout_width="fill_parent" android:layout_height="@dimen/status_bar_height" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="85.0dip" android:fillViewport="true" android:layout_below="@id/viewStatusBar">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="48.0sp" android:textColor="#ff212121" android:gravity="center" android:id="@id/description_text_main" android:layout_width="fill_parent" android:layout_height="406.0dip" android:maxHeight="406.0dip" android:text="@string/setup_complete_hmd_1" android:layout_centerHorizontal="true" android:layout_marginStart="46.0dip" android:layout_marginEnd="46.0dip" />
+            <TextView android:textSize="14.0sp" android:textColor="@color/term_of_use_color" android:textColorLink="@color/term_of_use_color" android:gravity="center|top" android:id="@id/upload_agent_des_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="34.0dip" android:maxHeight="157.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:layout_marginStart="46.0dip" android:layout_marginEnd="46.0dip" />
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="67.0dip" android:layout_alignParentBottom="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="24.0dip"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <Button android:id="@id/not_now" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="88.0dip" android:text="@string/not_now" style="@style/SuwGlifButton.Secondary" />
+        <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <Button android:id="@id/next_btn" android:background="@drawable/setupwizard_blue_button_ww" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="88.0dip" android:text="@string/setup_finish" style="@style/SuwGlifButton.Primary" />
+    </LinearLayout>
+</RelativeLayout>

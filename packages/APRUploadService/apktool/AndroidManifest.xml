@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.evenwell.AprUploadService" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.STATUS_BAR"/>
+    <uses-permission android:name="android.permission.DISABLE_STATUS_BAR"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    <application android:allowBackup="false" android:allowClearUserData="false" android:debuggable="false" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:supportsRtl="true">
+        <activity android:name="com.fihtdc.AprUploadService.activity.ActivityMessenger">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/setting_page_name" android:name="com.fihtdc.AprUploadService.activity.SettingPage" android:theme="@android:style/Theme.Translucent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.fihtdc.AprUploadService.action.startSetting"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.fihtdc.AprUploadService.activity.SetupWizardSettingPage" android:screenOrientation="portrait" android:theme="@android:style/Theme.Translucent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:name="com.fihtdc.AprUploadService.activity.ActivityDialog" android:theme="@android:style/Theme.Translucent"/>
+        <activity android:label="@string/privacy_activity" android:name="com.fihtdc.AprUploadService.activity.PrivacyActivity">
+            <intent-filter>
+                <action android:name="com.fihtdc.AprUploadService.action.startPrivacyPolicy"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/diagnostic_info_collect" android:name="com.fihtdc.AprUploadService.activity.DiagnosticInfoCollect">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/privacy_policy" android:name="com.fihtdc.AprUploadService.activity.PrivacyPolicy">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/third_party_info_agreement" android:name="com.fihtdc.AprUploadService.activity.ThirdPartyInfoCollectAgree">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.AprUploadService.activity.PrivacyDialogActivity" android:screenOrientation="portrait" android:theme="@style/Theme.Transparent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:excludeFromRecents="true" android:immersive="true" android:label="@string/privacy_activity" android:launchMode="singleTop" android:name="com.fihtdc.AprUploadService.activity.SIUIPrivacyDialogActivity" android:screenOrientation="portrait" android:theme="@style/Theme.Transparent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:clearTaskOnLaunch="true" android:excludeFromRecents="true" android:label="@string/privacy_statement" android:name="com.fihtdc.AprUploadService.activity.PrivacyCheckActivity"/>
+        <service android:name="com.fihtdc.AprUploadService.service.UploadService">
+            <intent-filter>
+                <action android:name="com.fihtdc.AprUploadService.service.UploadService"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.fihtdc.AprUploadService.service.UploadSubService">
+            <intent-filter>
+                <action android:name="com.fihtdc.AprUploadService.service.UploadSubService"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.fihtdc.AprUploadService.service.UploadIntentService"/>
+        <service android:name="com.fihtdc.AprUploadService.receiver.MessageSender">
+            <intent-filter>
+                <action android:name="com.fihtdc.AprUploadService.receiver.MessageSender"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.fihtdc.AprUploadService.service.job.UploadJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="true" android:name="com.fihtdc.AprUploadService.service.job.PiggybackUploadJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="true" android:name="com.fihtdc.AprUploadService.service.job.PiggybackCheckJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="true" android:name="com.fihtdc.AprUploadService.service.job.CommonUploadJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="true" android:name="com.fihtdc.AprUploadService.service.job.FeedbackJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:name="com.fihtdc.AprUploadService.receiver.StatusReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN"/>
+                <action android:name="com.fihtdc.action.DMC.NewValueSet"/>
+                <action android:name="com.fihtdc.action.DMC.Request.ReportValue"/>
+                <action android:name="com.fihtdc.action.OUT.move.log"/>
+                <action android:name="com.fihtdc.action.OUT.delete.log"/>
+                <action android:name="com.fihtdc.AprUploadService.action.UPLOAD_ALARM"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="873" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="877" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.fihtdc.AprUploadService.provider.settingprovider" android:exported="true" android:name="com.fihtdc.AprUploadService.provider.SettingProvider"/>
+    </application>
+</manifest>

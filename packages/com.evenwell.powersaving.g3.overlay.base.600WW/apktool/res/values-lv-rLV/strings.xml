@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Vairs nerādīt.</string>
+    <string name="fih_power_saving_dialog_ok">Labi</string>
+    <string name="fih_power_saving_dialog_cancel">Atcelt</string>
+    <string name="fih_power_saving_lpm_wifi">Izslēgt Wi-Fi</string>
+    <string name="fih_power_saving_ss_wifi">Izslēgt Wi-Fi</string>
+    <string name="switch_on_text">Ieslēgts</string>
+    <string name="switch_off_text">Izslēgts</string>
+    <string name="fih_power_saving_permission_cancel">Atcelt</string>
+    <string name="lock_screen_ap_protect_title">Fona darbību pārvaldnieks</string>
+    <string name="all_aps">Pievienot visas lietotnes baltajam sarakstam</string>
+    <string name="fih_power_saving_doze_high_consumption">Liels enerģijas patēriņš</string>
+    <string name="fih_power_saving_background_activity_text">Ja iespējosit fona darbību pārvaldnieku, akumulatora darbības laiks būs ilgāks, taču, iespējams, paziņojumus par e-pasta ziņojumiem un dažu lietotņu paziņojumus nevarēs izgūt nekavējoties. Varat pārvaldīt akumulatora darbības laiku, pievienojot lietotnes baltajam sarakstam vai noņemot no tā.</string>
+    <string name="fih_power_saving_background_cleaner">Fona darbību tīrītājs</string>
+    <string name="fih_power_saving_background_cleaner_summary">Paziņojumi, iespējams, netiks izgūti uzreiz</string>
+    <string name="app_block_list">Ierobežoto LIETOTŅU saraksts</string>
+</resources>

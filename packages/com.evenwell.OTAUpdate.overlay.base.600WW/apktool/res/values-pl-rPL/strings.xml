@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Nie można pobrać oprogramowania.</string>
+    <string name="msg_install_system_software_update_3">"
+
+Podczas uaktualniania nie będzie można korzystać z urządzenia.
+
+Wyłączenie zasilania lub usunięcie pobranego pliku podczas aktualizacji oprogramowania będzie prowadzić do nieoczekiwanych wyników."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Podczas uaktualniania nie będzie można korzystać z urządzenia ani wykonywać połączeń alarmowych.
+
+Wyłączenie zasilania lub usunięcie pobranego pliku podczas aktualizacji oprogramowania będzie prowadzić do nieoczekiwanych wyników."</string>
+    <string name="msg_unable_to_connect_2">Do używania tej aplikacji potrzebne jest połączenie sieciowe. Włącz sieć komórkową w Ustawieniach.</string>
+    <string name="msg_unable_to_connect_wlan">Do używania tej aplikacji potrzebne jest połączenie sieciowe. Włącz sieć komórkową lub WLAN w Ustawieniach.</string>
+    <string name="msg_no_available_size_card_2">Ten plik aktualizacji wymaga %s MB dostępnego miejsca. Usuń niektóre pliki z magazynu danych.</string>
+    <string name="msg_remove_sd_card_2">Nie można zapisać pobranego pliku w magazynie danych. Sprawdź pamięć.</string>
+    <string name="msg_remove_sd_card_short_2">Nie można uzyskać dostępu do magazynu danych.</string>
+    <string name="menu_enabled">Tylko włączone oprogramowanie</string>
+    <string name="using_internal_storage">Przy użyciu pamięci wewnętrznej</string>
+    <string name="using_external_storage">Przy użyciu pamięci zewnętrznej</string>
+    <string name="msg_root_message">"
+
+Po odblokowaniu dostępu do urządzenia nie można gwarantować zwykłej aktualizacji."</string>
+    <string name="msg_responsibility_message">Jeśli odblokowano dostęp do urządzenia, użytkownik jest odpowiedzialny za każde nietypowe zachowanie systemu po aktualizacji.</string>
+    <string name="install_fail">Błąd instalacji</string>
+    <string name="install_all">Zainstaluj wszystko</string>
+    <string name="installed_version">Zainstalowana wersja</string>
+    <string name="update_available">Aktualizacja jest dostępna.</string>
+    <string name="apk_update_available">Aktualizacja aplikacji jest dostępna.</string>
+    <string name="recommend">Poleć</string>
+    <string name="roaming_restriction">Ograniczenie roamingu danych</string>
+    <string name="roaming_restriction_summary">Nie można zaktualizować z powodu ograniczenia roamingu danych.</string>
+    <string name="changelog">Dziennik zmian</string>
+    <string name="description">Opis</string>
+    <string name="apk_update_available_summary">%s ma dostępną aktualizację. Kliknij przycisk OK, aby zainstalować, lub kliknij przycisk Anuluj, aby sprawdzić aktualizację po jednym dniu.</string>
+    <string name="apk_removed">Ta aplikacja została usunięta.</string>
+    <string name="apk_available_items">Łącznie dostępnych elementów: %s</string>
+    <string name="apk_available_item">Łącznie dostępny %s element</string>
+    <string name="new_forpreference">Nowe</string>
+    <string name="invalid_update_summary">Aktualizacja jest nieprawidłowa, sprawdź ponownie.</string>
+    <string name="recheck">Sprawdź ponownie</string>
+    <string name="image_download_exception_summary">Nie można uzyskać dostępu do serwera, sprawdź ponownie później.</string>
+    <string name="apk_download_exception">Nie można uzyskać dostępu do serwera</string>
+    <string name="installation_confirmation">Potwierdzenie instalacji</string>
+    <string name="apk_need_reboot_summary">Ta aktualizacja oprogramowania spowoduje ponowne automatyczne uruchomienie systemu po zakończeniu instalacji. Chcesz teraz zainstalować?</string>
+    <string name="prepare_to_reboot">Przygotuj się do ponownego uruchomienia</string>
+    <string name="prepare_to_reboot_summary">Zainstalowane oprogramowanie musi ponownie uruchomić urządzenie, aby skonfigurować ustawienia. Zalecamy ponowne uruchomienie teraz, ale możesz również wykonać je później.</string>
+    <string name="prepare_to_reboot_force_summary">Zainstalowane oprogramowanie musi ponownie uruchomić urządzenie, aby skonfigurować ustawienia. Zalecamy ponowne uruchomienie teraz.</string>
+    <string name="reboot_fail">Błąd ponownego uruchamiania</string>
+    <string name="reboot_fail_summary">Nie można ponownie uruchomić z powodu braku interfejsu API. Uruchom ponownie ręcznie.</string>
+    <string name="apk_no_avaliable_size">Nie można pobrać z powodu niewystarczającego rozmiaru pamięci wewnętrznej.</string>
+    <string name="update_finished">Aktualizacja zakończona</string>
+    <string name="header_warning">Ostrzeżenie</string>
+    <string name="msg_root_warning">Odblokowano dostęp do urządzenia lub oficjalne oprogramowanie zostało naruszone. Kontynuowanie aktualizacji systemowej może spowodować niestabilność lub awarię systemu i unieważnienie gwarancji urządzenia. Czy na pewno chcesz kontynuować?</string>
+    <string name="multi_image_update">Istnieją dostępne aktualizacje obrazów</string>
+    <string name="available_update_list">Lista dostępnych aktualizacji</string>
+    <string name="downloading_summary">Anuluj pobieranie obrazu</string>
+    <string name="msg_erase_userdata_warning">Ta aktualizacja wymaga usunięcia danych użytkownika. Chcesz kontynuować?</string>
+    <string name="msg_autoupdate_date_fee_warning">Włączenie automatycznych aktualizacji może spowodować naliczenie dodatkowych opłat.</string>
+    <string name="invalid_update">Aktualizacja jest nieprawidłowa.</string>
+    <string name="file_corrupted">Nie można uaktualnić systemu, ponieważ plik jest uszkodzony.</string>
+    <string name="ask_for_apk_check">Chcesz wyszukać aktualizacje aplikacji?</string>
+    <string name="update_ota_self">Aktualizacja oprogramowania w toku.</string>
+    <string name="ab_update_fail">Problem z instalacją.</string>
+    <string name="ab_update_wrong_status">Aparat aktualizacji jest teraz zajęty. Spróbuj ponownie później lub uruchom ponownie.</string>
+    <string name="ab_update_installing">Aktualizowanie systemu</string>
+    <string name="tag_engineer_mode">Tryb inżyniera</string>
+    <string name="engineer_version_incorrect">Wersja urządzenia jest nieprawidłowa</string>
+    <string name="msg_engineer_ota_restore">Dotknij, aby przywrócić oficjalną wersję</string>
+    <string name="msg_engineer_ota_restore_warning">Spowoduje to przywrócenie oficjalnej wersji. Chcesz kontynuować?</string>
+    <string name="silent_mode_data_fee_warning">Aktualizacja jest dostępna. Pobranie aktualizacji może spowodować naliczenie dodatkowych opłat. Jeśli możesz, pobierz aktualizacje przez sieć Wi-Fi.</string>
+    <string name="msg_updating_system">Aktualizowanie systemu...</string>
+    <string name="msg_tap_to_reboot">Dotknij, aby ponownie uruchomić</string>
+    <string name="msg_pause_download">Wstrzymaj pobieranie</string>
+    <string name="notification_channel_name">Aktualizacja systemowa</string>
+    <string name="notification_channel_alert_name">Powiadomienia ogólne</string>
+</resources>

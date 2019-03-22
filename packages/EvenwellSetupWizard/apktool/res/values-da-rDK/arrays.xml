@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statisk</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Registrer automatisk</item>
+        <item>Behandl som forbrugsbaseret</item>
+        <item>Behandl som ikke-forbrugsbaseret</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Ingen</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Ingen</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Ingen</item>
+        <item>Manuel</item>
+        <item>Automatisk konfiguration af proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Dårlig</item>
+        <item>Rimelig</item>
+        <item>God</item>
+        <item>Fremragende</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scanner…</item>
+        <item>Opretter forbindelse…</item>
+        <item>Godkender…</item>
+        <item>Henter IP-adresse…</item>
+        <item>Tilsluttet</item>
+        <item>Sat på pause</item>
+        <item>Afbryder…</item>
+        <item>Afbrudt</item>
+        <item>Mislykkedes</item>
+        <item>Blokeret</item>
+        <item>Undgår midlertidigt dårlig forbindelse</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanner…</item>
+        <item>Opretter forbindelse til %1$s…</item>
+        <item>Godkender med %1$s…</item>
+        <item>Henter IP-adresse fra %1$s…</item>
+        <item>Tilsluttet til %1$s</item>
+        <item>Sat på pause</item>
+        <item>Afbryder forbindelsen fra %1$s…</item>
+        <item>Afbrudt</item>
+        <item>Mislykkedes</item>
+        <item>Blokeret</item>
+        <item>Undgår midlertidigt dårlig forbindelse</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI-hexadecimal</item>
+    </string-array>
+</resources>

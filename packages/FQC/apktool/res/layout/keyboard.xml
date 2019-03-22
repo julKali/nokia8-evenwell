@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow>
+        <ImageView android:id="@id/x1y1" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y1" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y1" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y1" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y1" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y1" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y2" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y2" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y2" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y2" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y2" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y2" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y3" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y3" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y3" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y3" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y3" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y3" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y4" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y4" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y4" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y4" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y4" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y4" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y5" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y5" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y5" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y5" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y5" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y5" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y6" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y6" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y6" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y6" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y6" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y6" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y7" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y7" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y7" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y7" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y7" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y7" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y8" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y8" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y8" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y8" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y8" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y8" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y9" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y9" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y9" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y9" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y9" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y9" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y10" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y10" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y10" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y10" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y10" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y10" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+    <TableRow>
+        <ImageView android:id="@id/x1y11" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x2y11" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x3y11" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x4y11" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x5y11" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+        <ImageView android:id="@id/x6y11" android:visibility="invisible" android:layout_width="55.0dip" android:layout_height="55.0dip" />
+    </TableRow>
+</TableLayout>

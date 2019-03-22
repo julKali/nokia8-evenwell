@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Privacy statement</string>
+    <string name="privacy_activity">Privacy statement</string>
+    <string name="go_label">Finished</string>
+    <string name="agree">Agree</string>
+    <string name="next_btn_lebel">Next</string>
+    <string name="app_name">System Diagnostics</string>
+    <string name="setting_page_name">User Experience Program</string>
+    <string name="send_diag_dialog_any_network">When a data connection is available</string>
+    <string name="send_diag_dialog_wifi">When a Wi-Fi connection is available</string>
+    <string name="send_diag_dialog_wlan">When WLAN connection is available</string>
+    <string name="send_diag_dialog_title">Send diagnostics</string>
+    <string name="diagnostics_setting">Diagnostics</string>
+    <string name="diagnostics_report">Diagnostics report</string>
+    <string name="diagnostics_report_summary">Send a diagnostics report when the device experiences a software error. This might incur additional charges depending on your network and data plan. It is recommended that you check your data allowance before proceeding.</string>
+    <string name="network_options">Network Options</string>
+    <string name="send_diagnostics">Send diagnostics</string>
+    <string name="cancel_upload_confirm_msg">You are about to stop participating in our User Experience Program. Software errors that occur on your phone won’t be kept and sent, and so we won’t be able to study them to improve your experience while using the phone.</string>
+</resources>

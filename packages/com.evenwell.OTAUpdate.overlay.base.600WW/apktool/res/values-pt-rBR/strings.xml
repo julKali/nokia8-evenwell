@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">atualização de software</string>
+    <string name="file_not_found">arquivo não encontrado</string>
+    <string name="remote_file_fail">Não é possível acessar ao arquivo remoto. Tente novamente mais tarde.</string>
+    <string name="no_description">(Sem descrição)</string>
+    <string name="login_fail">Falha iniciando sessão no servidor. Tente novamente mais tarde.</string>
+    <string name="get_service_url_fail">Conexão à rede não está estável (Falha em obter serviços URL). Favor tentar novamente mais tarde.</string>
+    <string name="query_sw_fail">Falha ao consultar informações do software</string>
+    <string name="download_sw_fail">Falha ao baixar o software.</string>
+    <string name="query_sw_incorrect">Resultado não está correto</string>
+    <string name="no_update_available">Não está disponível nenhuma nova atualização</string>
+    <string name="update_not_ready">A nova atualização não está pronta no servidor. Tente novamente mais tarde.</string>
+    <string name="check_now_label">Verificar agora</string>
+    <string name="checking">Verificando...</string>
+    <string name="verifying">Verificando...</string>
+    <string name="header_verifying_update_file">A verificar o arquivo de atualização...</string>
+    <string name="unzipping">Descompactando...</string>
+    <string name="please_wait">Por favor aguarde.</string>
+    <string name="header_starting_to_download_file">iniciando a transferência do arquivo...</string>
+    <string name="header_system_update_available">A atualização do sistema está disponível</string>
+    <string name="new_version_desc_prompt">Nova versão inclui:</string>
+    <string name="header_attention">Atenção</string>
+    <string name="data_fee_warning">A utilização deste serviço através da ligação da rede do seu telemóvel acarretar em custos!</string>
+    <string name="header_downloading_update">Transferindo a atualização</string>
+    <string name="header_install_system_software_update">Instalar atualização do software do sistema</string>
+    <string name="msg_install_system_software_update_1">"Pretende instalar o seguinte software do sistema?
+atualização do sistema para"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Não poderá utilizar o seu dispositivo nem efectuar chamadas de emergência durante a atualização.
+
+Se remover a bateria ou o cartão SD durante a atualização do software pode causar resultados inesperados."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Poderá utilizar o seu dispositivo durante a atualização.
+
+Desligar a energia ou remover o arquivo transferido durante a atualização de software poderá produzir resultados inesperados."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Não poderá utilizar o seu dispositivo nem efetuar chamadas de emergência durante a atualização.
+
+Desligar a energia ou remover o arquivo transferido durante a atualização de software poderá produzir resultados inesperados."</string>
+    <string name="button_install_now">Instalar agora</string>
+    <string name="button_install_later">Instalar mais tarde</string>
+    <string name="header_unable_to_connect">Não foi possível conectar</string>
+    <string name="msg_unable_to_connect">É necessária uma ligação à rede para utilizar este aplicativo. Ligue a rede móvel ou Wi-Fi ns configurações.</string>
+    <string name="msg_unable_to_connect_2">É necessária uma conexão de rede para utilizar este aplicativo. Ative a rede nas configurações.</string>
+    <string name="msg_unable_to_connect_wlan">É necessária uma ligação de rede para utilizar este aplicativo. Ative a sua ligação de rede móvel ou WLAN nas configurações.</string>
+    <string name="msg_unable_to_connect_short">Sem conexão de rede</string>
+    <string name="button_reset">Redefinir</string>
+    <string name="button_settings">Configurações</string>
+    <string name="header_system_is_update">O sistema está atualizado</string>
+    <string name="msg_system_is_update">Não está disponível nenhuma nova atualização.</string>
+    <string name="msg_system_is_update_short">Nenhuma atualização nova</string>
+    <string name="msg_no_sd_card">É necessário um cartão SD para a atualização do sistema. Introduza um cartão SD.</string>
+    <string name="msg_no_sd_card_short">Sem cartão SD</string>
+    <string name="msg_no_available_size_card">Este arquivo de atualização necessita de %s MB disponíveis. Elimine alguns arquivos do cartão SD.</string>
+    <string name="msg_no_available_size_card_2">É necessário um espaço disponível de %s MB para este arquivo de atualização. Elimine alguns arquivos no armazenamento de dados.</string>
+    <string name="msg_no_available_size_card_short">Espaço livre não é suficiente</string>
+    <string name="msg_do_not_remove_sd_card">Por favor, NÃO remova o cartão SD</string>
+    <string name="title_system_update_ready">A atualização do sistema está pronta</string>
+    <string name="msg_system_update_ready">Toque para instalar a atualização do sistema</string>
+    <string name="msg_system_battery_too_low">"A atualização do sistema está pronta, mas a bateria do seu dispositivo não é suficiente para a instalação. Carregue a bateria e inicie a instalação mais tarde.
+
+O nível de bateria deve ser superior a 35%%.
+Nível atual de bateria: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Bateria muito fraca</string>
+    <string name="msg_remove_sd_card">Não é possível guardar o arquivo transferido no cartão SD. Verifique o cartão SD.</string>
+    <string name="msg_remove_sd_card_2">O arquivo transferido não pode ser escrito para armazenamento interno. Verifique o armazenamento.</string>
+    <string name="msg_remove_sd_card_short">Falha ao acessar ao cartão SD</string>
+    <string name="msg_remove_sd_card_short_2">Falha ao acessar ao armazenamento de dados.</string>
+    <string name="msg_verify_fail">Falha ao verificar o arquivo transferido.</string>
+    <string name="msg_verify_fail_short">Verificar falha</string>
+    <string name="msg_unzip_fail">Falha ao descompactar o arquivo transferido.</string>
+    <string name="msg_unzip_fail_short">Falha ao descompactar</string>
+    <string name="hide">Ocultar</string>
+    <string name="data_size">Tamanho dos dados</string>
+    <string name="required_size">Espaço necessário</string>
+    <string name="network_not_match">Tipo de rede não corresponde. Por favor, tente novamente depois de alterar a rede.</string>
+    <string name="network_not_match_short">Rede não corresponde.</string>
+    <string name="without_reboot_api">Não é possível reiniciar sem API. Reinicie para recuperar e efectuar uma atualização manual.</string>
+    <string name="update_complete">A atualização do sistema está concluída.</string>
+    <string name="update_complete_short">atualização concluída</string>
+    <string name="file_removed">O arquivo transferido foi removido. Transfira novamente.</string>
+    <string name="file_removed_short">O arquivo transferido foi removido</string>
+    <string name="file_not_match">O arquivo transferido não corresponde como esperado. Transfira novamente.</string>
+    <string name="file_not_match_short">O arquivo não corresponde</string>
+    <string name="menu_url">Alterar URL do servidor</string>
+    <string name="menu_enabled">Somente software ativado</string>
+    <string name="msg_agree_message">"
+
+
+Há uma pequena possibilidade de apagar os dados do usuário causados ​​por objetivo a atualização. Se precisar, faça backup de seus dados antes de instalar a atualização do sistema."</string>
+    <string name="msg_responsibility_message">Se o acesso root originar um funcionamento anormal do dispositivo no processo de atualização, o usuário é responsável pela situação.</string>
+    <string name="msg_upgrade_agree">Ler e concordar</string>
+    <string name="later">mais tarde</string>
+    <string name="update">atualizar</string>
+    <string name="update_summary">Verificar atualizações</string>
+    <string name="wifi_only">Wi-Fi apenas</string>
+    <string name="wlan_only">WLAN apenas</string>
+    <string name="wifi_only_summary">Baixar atualizações quando o Wi-Fi disponível</string>
+    <string name="wlan_only_summary">Baixar atualizações quando WLAN disponível</string>
+    <string name="auto_update">atualização automática</string>
+    <string name="auto_update_summary">Verificar atualizações automaticamente</string>
+    <string name="new_data_fee_warning">Verificar e baixar atualizações podem ter custos adicionais. Baixe atualizações via Wi-Fi, se possível.</string>
+    <string name="wlan_data_fee_warning">Verificar e baixar atualizações podem ter custos adicionais. Baixar atualizações via WLAN, se possível.</string>
+    <string name="installing">Instalando...</string>
+    <string name="apk_update_available">A atualização do aplicativo está disponível.</string>
+    <string name="changelog">registro de alterações</string>
+    <string name="apk_removed">o aplicativo foi removido.</string>
+    <string name="image_download_exception_summary">Não é possível acessar ao servidor. Verifique novamente.</string>
+    <string name="apk_download_exception">Não é possível acessar ao servidor</string>
+    <string name="apk_need_reboot_summary">A atualização deste software irá reiniciar automaticamente quando a instalação for concluída. Deseja instalar agora?</string>
+    <string name="prepare_to_reboot_force_summary">O software instalado precisa reiniciar o dispositivo para fazer as configurações. Sugerimos reiniciar agora.</string>
+    <string name="apk_no_avaliable_size">Não é possível transferir, espaço de armazenamento interno insuficiente.</string>
+    <string name="msg_erase_userdata_warning">É necessário apagar os dados do usuário para efetuar esta atualização. Deseja continuar?</string>
+    <string name="file_corrupted">O sistema não pode ser atualizado porque o arquivo está corrompido.</string>
+    <string name="ask_for_apk_check">Deseja verificar as atualizações do aplicativo?</string>
+    <string name="update_ota_self">A atualização do software está em andamento.</string>
+    <string name="ab_update_fail">Problema de instalação.</string>
+    <string name="ab_update_wrong_status">O mecanismo de atualização está ocupado agora. Tente novamente mais tarde ou reinicie.</string>
+    <string name="ab_update_installing">Atualizando sistema</string>
+    <string name="tag_engineer_mode">Modo de Engenheiro</string>
+    <string name="engineer_version_incorrect">A versão do seu dispositivo está incorreta</string>
+    <string name="msg_engineer_ota_restore">Toque para restaurar a versão oficial</string>
+    <string name="msg_engineer_ota_restore_warning">Isto vai restaurar a versão oficial. Deseja continuar?</string>
+    <string name="silent_mode_data_fee_warning">Há uma atualização disponível. Baixar atualizações pode causar cobranças adicionais. Baixe as atualizações por wi-fi, se possível.</string>
+    <string name="msg_updating_system">Atualizando sistema...</string>
+    <string name="msg_tap_to_reboot">Toque para reiniciar</string>
+    <string name="msg_pause_download">Pausar download</string>
+    <string name="notification_channel_name">Atualização do sistema</string>
+    <string name="notification_channel_alert_name">Notificações gerais</string>
+</resources>

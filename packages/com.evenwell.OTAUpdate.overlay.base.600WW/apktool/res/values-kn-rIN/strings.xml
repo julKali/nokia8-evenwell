@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಸಾಫ್ಟ್‌ವೇರ್ ಅಪ್‌ಡೇಟ್‌</string>
+    <string name="file_not_found">ಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="remote_file_fail">ದೂರಸ್ಥಳದ ಫೈಲ್ ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="no_description">(ವಿವರಣೆಯಿಲ್ಲ)</string>
+    <string name="login_fail">ಸರ್ವರ್‌ಗೆ ಲಾಗಿನ್ ಆಗಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="get_service_url_fail">ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕ ಸ್ಥಿರವಾಗಿಲ್ಲ (ಸೇವಾ URL ಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ). ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="query_sw_fail">ಸಾಫ್ಟ್‌ವೇರ್‍ ಮಾಹಿತಿಯ ಕ್ವೆರಿ ವಿಫಲವಾಗಿದೆ.</string>
+    <string name="download_sw_fail">ಸಾಫ್ಟ್‌ವೇರ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.</string>
+    <string name="query_sw_incorrect">ಫಲಿತಾಂಶ ಸರಿಯಾಗಿಲ್ಲ.</string>
+    <string name="no_update_available">ಹೊಸ ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="update_not_ready">ಹೊಸ ಅಪ್‌ಡೇಟ್ ಸರ್ವರ್‌ನಲ್ಲಿ ಸಿದ್ಧವಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="check_now_label">ಈಗ ಪರೀಕ್ಷಿಸಿ</string>
+    <string name="checking">ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="verifying">ಪರಿಶೀಲಿಸುತ್ತಿದೆ...</string>
+    <string name="header_verifying_update_file">ಅಪ್‌ಡೇಟ್ ಮಾಡಿರುವ ಫೈಲ್ ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="unzipping">ಅನ್‌ಝಿಪ್ ಮಾಡಲಾಗುತ್ತಿದೆ...</string>
+    <string name="please_wait">ಸ್ವಲ್ಪ ನಿರೀಕ್ಷಿಸಿ</string>
+    <string name="header_starting_to_download_file">ಫೈಲ್ ಡೌನ್‍ಲೋಡ್ ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="header_system_update_available">ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿದೆ</string>
+    <string name="new_version_desc_prompt">ಹೊಸ ಆವೃತ್ತಿ ಇವುಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:</string>
+    <string name="header_attention">ಗಮನಿಸಿ</string>
+    <string name="data_fee_warning">ಈ ಸೇವೆಯನ್ನು ನಿಮ್ಮ ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕದಲ್ಲಿ ಬಳಸುವುದರಿಂದ ನಿಮಗೆ ಶುಲ್ಕ ವಿಧಿಸಬಹುದು!</string>
+    <string name="header_downloading_update">ಅಪ್‌ಡೇಟ್ ಡೌನ್‌ಲೋಡ್‌ ಆಗುತ್ತಿದೆ</string>
+    <string name="header_install_system_software_update">ಸಿಸ್ಟಂ ಸಾಫ್ಟ್‌ವೇರ್‍ ಅಪ್‌ಡೇಟ್ ಇನ್‍ಸ್ಟಾಲ್ ಮಾಡಿ</string>
+    <string name="msg_install_system_software_update_1">"ಕೆಳಗಿನ ಸಿಸ್ಟಂ ಸಾಫ್ಟ್‌ವೇರ್‍ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಬಯಸುವಿರಾ?
+ಸಿಸ್ಟಂ ಅಪ್‌ಗ್ರೇಡ್"</string>
+    <string name="msg_install_system_software_update_2">"
+
+ಅಪ್‌ಗ್ರೇಡ್ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಸಾಧನವನ್ನು ಬಳಸಲು ಅಥವಾ ತುರ್ತು ಕರೆಗಳನ್ನು ಮಾಡಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.
+
+ಸಾಫ್ಟ್‌ವೇರ್ ಅಪ್‌ಡೇಟ್ ಮಾಡುವಾಗ ಬ್ಯಾಟರಿ ಅಥವಾ SD ಕಾರ್ಡ್ ತೆಗೆದುಹಾಕಿದರೆ ಅನಿರೀಕ್ಷಿತ ಫಲಿತಾಂಶಗಳು ಉಂಟಾಗಬಹುದು."</string>
+    <string name="msg_install_system_software_update_3">"
+
+ಅಪ್‌ಗ್ರೇಡ್ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಸಾಧನವನ್ನು ಬಳಸಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.
+
+ಸಾಫ್ಟ್‌ವೇರ್ ಅಪ್‌ಡೇಟ್ ಮಾಡುವಾಗ ಪವರ್ ಆಫ್ ಮಾಡಿದರೆ ಅಥವಾ ಡೌನ್‍ಲೋಡ್ ಮಾಡಿರುವ ಫೈಲ್ ತೆಗೆದುಹಾಕಿದರೆ ಅನಿರೀಕ್ಷಿತ ಫಲಿತಾಂಶಗಳು ಸಂಭವಿಸಬಹುದು."</string>
+    <string name="msg_install_system_software_update_4">"
+
+ಅಪ್‌ಗ್ರೇಡ್ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಸಾಧನವನ್ನು ಬಳಸಲು ಅಥವಾ ತುರ್ತು ಕರೆ ಮಾಡಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.
+
+ಸಾಫ್ಟ್‌ವೇರ್‍ ಅಪ್‌ಡೇಟ್ ಮಾಡಿದಾಗ ನೀವು ಪವರ್ ಆಫ್ ಮಾಡಿದರೆ ಅಥವಾ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿರುವ ಫೈಲ್ ತೆಗೆದುಹಾಕಿದರೆ ಅನಿರೀಕ್ಷಿತ ಫಲಿತಾಂಶ ಉಂಟಾಗುತ್ತದೆ."</string>
+    <string name="button_install_now">ಈಗ ಇನ್‍ಸ್ಟಾಲ್ ಮಾಡಿ</string>
+    <string name="button_install_later">ನಂತರ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ</string>
+    <string name="header_unable_to_connect">ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="msg_unable_to_connect">ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್ ಬಳಸಲು ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕದ ಅಗತ್ಯವಿದೆ. ದಯವಿಟ್ಟು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್ ಅಥವಾ Wi-Fi ಆನ್ ಮಾಡಿ.</string>
+    <string name="msg_unable_to_connect_2">ಈ ಅಪ್ಲಿಕೇಶನ್ ಬಳಸಲು ನಿಮಗೆ ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕದ ಅಗತ್ಯವಿದೆ. ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್ ಆನ್ ಮಾಡಿ.</string>
+    <string name="msg_unable_to_connect_wlan">ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್ ಬಳಸಲು ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕದ ಅಗತ್ಯವಿದೆ. ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್ ಅಥವಾ WLAN ಆನ್ ಮಾಡಿ.</string>
+    <string name="msg_unable_to_connect_short">ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವಿಲ್ಲ</string>
+    <string name="button_reset">ಮರುಹೊಂದಿಸಿ</string>
+    <string name="button_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="header_system_is_update">ಸಿಸ್ಟಂ ಅಪ್‌-ಟು-ಡೇಟ್ ಆಗಿದೆ.</string>
+    <string name="msg_system_is_update">ಹೊಸ ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="msg_system_is_update_short">ಯಾವುದೇ ಹೊಸ ಅಪ್‌ಡೇಟ್‌ಗಳಿಲ್ಲ</string>
+    <string name="msg_no_sd_card">ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್‌ಗೆ SD ಕಾರ್ಡ್ ಬೇಕು. ದಯವಿಟ್ಟು ಲಭ್ಯವಿರುವ SD ಕಾರ್ಡ್ ಸೇರಿಸಿ.</string>
+    <string name="msg_no_sd_card_short">ಯಾವುದೇ SD ಕಾರ್ಡ್ ಇಲ್ಲ</string>
+    <string name="msg_no_available_size_card">ಈ ಅಪ್‌ಡೇಟ್ ಫೈಲ್‌ಗೆ %s MB ಲಭ್ಯ ಸ್ಥಳಾವಕಾಶದ ಅಗತ್ಯವಿದೆ. ದಯವಿಟ್ಟು SD ಕಾರ್ಡ್‌ನಿಂದ ಕೆಲವು ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಿ.</string>
+    <string name="msg_no_available_size_card_2">ಈ ಅಪ್‌ಡೇಟ್ ಫೈಲ್‌ಗೆ %s MB ಲಭ್ಯ ಸ್ಥಳಾವಕಾಶದ ಅಗತ್ಯವಿದೆ. ದಯವಿಟ್ಟು ಡೇಟಾ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಕೆಲವು ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಿ.</string>
+    <string name="msg_no_available_size_card_short">ಸಾಕಷ್ಟು ಖಾಲಿ ಸ್ಥಳ ಇಲ್ಲ</string>
+    <string name="msg_do_not_remove_sd_card">ದಯವಿಟ್ಟು SD ಕಾರ್ಡ್ ತೆಗೆಯಬೇಡಿ.</string>
+    <string name="title_system_update_ready">ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್ ತಯಾರಾಗಿದೆ</string>
+    <string name="msg_system_update_ready">ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="msg_system_battery_too_low">"ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್ ಸಿದ್ಧಗೊಂಡಿದೆ, ಆದರೆ ಅದನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ನಿಮ್ಮ ಸಾಧನದ ಬ್ಯಾಟರಿ ತುಂಬಾ ಕಡಿಮೆಯಿದೆ. ದಯವಿಟ್ಟು ಬ್ಯಾಟರಿ ಚಾರ್ಜ್ ಮಾಡಿ ಹಾಗೂ ನಂತರ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ.
+
+ಬ್ಯಾಟರಿ ಮಟ್ಟವು 35%% ಗಿಂತ ಹೆಚ್ಚಿರಬೇಕು.
+ಪ್ರಸ್ತುತ ಬ್ಯಾಟರಿ ಮಟ್ಟ: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">ಬ್ಯಾಟರಿ ತುಂಬಾ ಕಡಿಮೆಯಿದೆ</string>
+    <string name="msg_remove_sd_card">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿರುವ ಫೈಲ್ ಅನ್ನು SD ಕಾರ್ಡ್‌ಗೆ ಬರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು SD ಕಾರ್ಡ್ ಪರೀಕ್ಷಿಸಿ.</string>
+    <string name="msg_remove_sd_card_2">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿರುವ ಫೈಲ್ ಅನ್ನು ಡೇಟಾ ಸಂಗ್ರಹಣೆಗೆ ಬರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ಸಂಗ್ರಹಣೆ ಪರೀಕ್ಷಿಸಿ.</string>
+    <string name="msg_remove_sd_card_short">SD ಕಾರ್ಡ್ ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
+    <string name="msg_remove_sd_card_short_2">ಡೇಟಾ ಸಂಗ್ರಹಣೆ ಪ್ರವೇಶಿಸಲು ವಿಫಲವಾಗಿದೆ.</string>
+    <string name="msg_verify_fail">ಡೌನ್‌ಲೋಡ್ ಫೈಲ್‌ ಪರಿಶೀಲಿಸಲು ವಿಫಲವಾಗಿದೆ.</string>
+    <string name="msg_verify_fail_short">ಪರಿಶೀಲಿಸಲು ವಿಫಲಗೊಂಡಿದೆ</string>
+    <string name="msg_unzip_fail">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿರುವ ಫೈಲ್ ಅನ್‌ಝಿಪ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.</string>
+    <string name="msg_unzip_fail_short">ಅನ್‌ಝಿಪ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.</string>
+    <string name="hide">ಮರೆಮಾಡು</string>
+    <string name="data_size">ಡೇಟಾ ಗಾತ್ರ</string>
+    <string name="required_size">ಅಗತ್ಯವಿರುವ ಸ್ಪೇಸ್</string>
+    <string name="network_not_match">ಕೇವಲ WLAN ಮೂಲಕ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದು ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಸೆಟ್ಟಿಂಗ್‌ ಆಗಿದೆ. ದಯವಿಟ್ಟು WLAN ನೆಟ್‌ವರ್ಕ್ ಆಯ್ಕೆಮಾಡಿ ಅಥವಾ ನಿಮ್ಮ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬದಲಾಯಿಸಿ.</string>
+    <string name="network_not_match_short">ನೆಟ್‌ವರ್ಕ್ ಹೋಲಿಕೆಯಾಗುತ್ತಿಲ್ಲ.</string>
+    <string name="without_reboot_api">ಕಾಣೆಯಾಗಿರುವ API ಕಾರಣ ರೀಬೂಟ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಸಕ್ರಿಯ ಅಪ್‌ಡೇಟ್ ಅನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಮರುಪಡೆಯಲು ದಯವಿಟ್ಟು ರೀಬೂಟ್ ಮಾಡಿ.</string>
+    <string name="update_complete">ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್ ಪೂರ್ಣಗೊಂಡಿದೆ.</string>
+    <string name="update_complete_short">ಅಪ್‌ಡೇಟ್ ಪೂರ್ತಿಯಾಗಿದೆ</string>
+    <string name="file_removed">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿರುವ ಫೈಲ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ. ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಡೌನ್‍ಲೋಡ್ ಮಾಡಿ.</string>
+    <string name="file_removed_short">ಡೌನ್‌ಲೋಡ್ ಮಾಡಿರುವ ಫೈಲ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ.</string>
+    <string name="file_not_match">ಡೌನ್‍ಲೋಡ್ ಮಾಡಿರುವ ಫೈಲ್ ನಿರೀಕ್ಷಿತ ಗಾತ್ರವನ್ನು ಹೋಲುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಡೌನ್‍ಲೋಡ್ ಮಾಡಿ.</string>
+    <string name="file_not_match_short">ಫೈಲ್ ಹೋಲಿಕೆಯಾಗುವುದಿಲ್ಲ.</string>
+    <string name="menu_url">ಸರ್ವರ್ URL ಬದಲಿಸಿ</string>
+    <string name="menu_enabled">ಕೇವಲ ಸಕ್ರಿಯಗೊಳಿಸಿದ ಸಾಫ್ಟ್‌ವೇರ್‍</string>
+    <string name="using_internal_storage">ಆಂತರಿಕ ಸಂಗ್ರಹಣೆ ಬಳಸಿಕೊಂಡು</string>
+    <string name="using_external_storage">ಬಾಹ್ಯ ಸಂಗ್ರಹಣೆ ಬಳಸುವುದು</string>
+    <string name="msg_agree_message">"
+
+ಅಪ್‌ಗ್ರೇಡ್ ಪ್ರಕ್ರಿಯೆಯಿಂದ ಬಳಕೆದಾರನ ಡೇಟಾವನ್ನು ಅಳಿಸುವ ಸಣ್ಣ ಮಟ್ಟಿನ ಸಾಧ್ಯತೆ ಇರುತ್ತದೆ. ಅಗತ್ಯವಿದ್ದರೆ, ಸಿಸ್ಟಂ ಅಪ್‌ಗ್ರೇಡ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವ ಮುನ್ನ ದಯವಿಟ್ಟು ನಿಮ್ಮ ಡೇಟಾ ಬ್ಯಾಕ್ ಅಪ್ ಮಾಡಿ."</string>
+    <string name="msg_root_message">"
+
+ಸಾಧನವನ್ನು ರೂಟ್ ಮಾಡಿದ ನಂತರ ಸಾಮಾನ್ಯ ಅಪ್‌ಡೇಟ್‌ನ ಖಾತರಿಯನ್ನು ನೀಡಲು ಸಾಧ್ಯವಿಲ್ಲ."</string>
+    <string name="msg_responsibility_message">ಸಾಧನವನ್ನು ರೂಟ್ ಮಾಡಿದರೆ, ಅಪ್‌ಡೇಟ್ ನಂತರ ಉಂಟಾಗುವ ಯಾವುದೇ ಅಸಹಜ ಸಿಸ್ಟಂ ವರ್ತನೆಗೆ ಬಳಕೆದಾರನು ಜವಾಬ್ದಾರನಾಗಿರುತ್ತಾನೆ.</string>
+    <string name="msg_upgrade_agree">ಓದಿ ಮತ್ತು ಒಪ್ಪಿ</string>
+    <string name="later">ನಂತರ</string>
+    <string name="update">ನವೀಕರಿಸು</string>
+    <string name="update_summary">ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪರೀಕ್ಷಿಸಿ</string>
+    <string name="wifi_only">ವೈ-ಫೈ ಮಾತ್ರ</string>
+    <string name="wlan_only">WLAN ಮಾತ್ರ</string>
+    <string name="wifi_only_summary">Wi-Fi ಲಭ್ಯವಿರುವಾಗ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="wlan_only_summary">Wi-Fi ಲಭ್ಯವಿರುವಾಗ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="auto_update">ಸ್ವಯಂ ಅಪ್‌ಡೇಟ್</string>
+    <string name="auto_update_summary">ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪರೀಕ್ಷಿಸಿ</string>
+    <string name="new_data_fee_warning">ಅಪ್‍ಡೇಟ್‍ಗಳನ್ನು ಪರೀಕ್ಷಿಸಿದರೆ ಮತ್ತು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದರೆ ನಿಮಗೆ ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳನ್ನು ವಿಧಿಸಬಹುದು. ಸಾಧ್ಯವಿದ್ದರೆ Wi-Fi ಮೂಲಕ ಅಪ್‌ಡೇಟ್‍ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.</string>
+    <string name="wlan_data_fee_warning">ಅಪ್‍ಡೇಟ್‍ಗಳನ್ನು ಪರೀಕ್ಷಿಸಿದರೆ ಮತ್ತು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದರೆ ನಿಮಗೆ ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳನ್ನು ವಿಧಿಸಬಹುದು. ಸಾಧ್ಯವಿದ್ದರೆ WLAN ಮೂಲಕ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.</string>
+    <string name="installing">ಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="install_complete">ಸ್ಥಾಪಿಸಲಾಗಿದೆ</string>
+    <string name="install_fail">ಸ್ಥಾಪಿಸುವಿಕೆ ವಿಫಲಗೊಂಡಿದೆ</string>
+    <string name="install_all">ಎಲ್ಲ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ</string>
+    <string name="install">ಸ್ಥಾಪಿಸಿ</string>
+    <string name="installed_version">ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿರುವ ಆವೃತ್ತಿ</string>
+    <string name="update_available">ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿದೆ.</string>
+    <string name="apk_update_available">ಅಪ್ಲಿಕೇಶನ್ ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿದೆ.</string>
+    <string name="recommend">ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ</string>
+    <string name="roaming_restriction">ಡೇಟಾ ರೋಮಿಂಗ್ ನಿರ್ಬಂಧ</string>
+    <string name="roaming_restriction_summary">ಡೇಟಾ ರೋಮಿಂಗ್ ನಿರ್ಬಂಧದ ಕಾರಣ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="changelog">ಲಾಗ್ ಬದಲಾಯಿಸಿ</string>
+    <string name="description">ವಿವರಣೆ:</string>
+    <string name="apk_update_available_summary">%s ಲಭ್ಯ ಅಪ್‌ಡೇಟ್ ಹೊಂದಿದೆ. ಇದೀಗ ಇನ್‍ಸ್ಟಾಲ್ ಮಾಡಲು ಸರಿ ಕ್ಲಿಕ್ ಮಾಡಿ ಅಥವಾ ಒಂದು ದಿನದ ನಂತರ ಅಪ್‌ಡೇಟ್ ಪರೀಕ್ಷಿಸಲು ರದ್ದುಗೊಳಿಸಿ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</string>
+    <string name="apk_removed">ಈ ಅಪ್ಲಿಕೇಶನ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ.</string>
+    <string name="apk_available_items">ಒಟ್ಟು %s ಲಭ್ಯ ಐಟಂಗಳು</string>
+    <string name="apk_available_item">ಒಟ್ಟು %s ಲಭ್ಯ ಐಟಂ</string>
+    <string name="new_forpreference">ಹೊಸ:</string>
+    <string name="invalid_update_summary">ಅಪ್‍ಡೇಟ್ ಅಮಾನ್ಯವಾಗಿದೆ, ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪರೀಕ್ಷಿಸಿ.</string>
+    <string name="recheck">ಇನ್ನೊಮ್ಮೆ ಪರೀಕ್ಷಿಸಿ</string>
+    <string name="image_download_exception_summary">ಸರ್ವರ್ ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ದಯವಿಟ್ಟು ನಂತರ ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="apk_download_exception">ಸರ್ವರ್ ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="installation_confirmation">ಇನ್‍ಸ್ಟಾಲ್ ಮಾಡುವ ದೃಢೀಕರಣ</string>
+    <string name="apk_need_reboot_summary">ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ನಂತರ ಈ ಸಾಫ್ಟ್‌ವೇರ್‍ ಅಪ್‌ಡೇಟ್ ಸಿಸ್ಟಂ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ರೀಬೂಟ್ ಮಾಡುತ್ತದೆ. ಅದನ್ನು ಈಗ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಬಯಸುವಿರಾ?</string>
+    <string name="downloaded">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="prepare_to_reboot">ರೀಬೂಟ್ ಮಾಡಲು ಸಜ್ಜುಗೊಳಿಸಿ</string>
+    <string name="prepare_to_reboot_summary">ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಕಾನ್‌ಫಿಗರ್ ಮಾಡಲು ಇನ್‍ಸ್ಟಾಲ್ ಮಾಡಿರುವ ಸಾಫ್ಟ್‌ವೇರ್‍ ಸಾಧನವನ್ನು ರೀಬೂಟ್ ಮಾಡಬೇಕು. ನೀವು ಈಗ ರೀಬೂಟ್ ಮಾಡಬೇಕೆಂದು ನಾವು ಸಲಹೆ ನೀಡುತ್ತೇವೆ ಅಥವಾ ನೀವು ನಂತರವೂ ರೀಬೂಟ್ ಮಾಡಬಹುದು.</string>
+    <string name="prepare_to_reboot_force_summary">ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಕಾನ್‌ಫಿಗರ್ ಮಾಡಲು ಇನ್‍ಸ್ಟಾಲ್ ಮಾಡಿರುವ ಸಾಫ್ಟ್‌ವೇರ್‍ ಸಾಧನವನ್ನು ರೀಬೂಟ್ ಮಾಡಬೇಕು. ನೀವು ಈಗ ರೀಬೂಟ್ ಮಾಡಬೇಕೆಂದು ನಾವು ಸಲಹೆ ನೀಡುತ್ತೇವೆ.</string>
+    <string name="reboot">ರೀಬೂಟ್ ಮಾಡು</string>
+    <string name="reboot_fail">ರೀಬೂಟ್ ವಿಫಲಗೊಂಡಿದೆ</string>
+    <string name="reboot_fail_summary">ಕಾಣೆಯಾಗಿರುವ API ಕಾರಣ ರೀಬೂಟ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ಅದನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ರೀಬೂಟ್ ಮಾಡಿ.</string>
+    <string name="apk_no_avaliable_size">ಬೇಕಾದಷ್ಟು ಆಂತರಿಕ ಸಂಗ್ರಹಣೆ ಗಾತ್ರ ಇಲ್ಲದಿರುವ ಕಾರಣ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="update_finished">ಅಪ್‌ಡೇಟ್ ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="header_warning">ಎಚ್ಚರಿಕೆ</string>
+    <string name="msg_root_warning">ನಿಮ್ಮ ಸಾಧನವನ್ನು ರೂಟ್ ಮಾಡಲಾಗಿದೆ ಅಥವಾ ಅಧಿಕೃತ ಸಾಫ್ಟ್‌ವೇರ್‍ ಅನ್ನು ಅಕ್ರಮವಾಗಿ ಬದಲಾಯಿಸಲಾಗಿದೆ. ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್ ಮಾಡುವುದರಿಂದ ಸಿಸ್ಟಂ ಅಸ್ಥಿರತೆ ಅಥವಾ ಸಿಸ್ಟಂ ಕ್ರ್ಯಾಶ್ ಉಂಟಾಗಬಹುದು, ಮತ್ತು ನಿಮ್ಮ ಸಾಧನದ ವಾರಂಟಿಯನ್ನು ನಿರರ್ಥಕವಾಗಿಸಬಹುದು. ಮುಂದುವರಿಯಬೇಕೆಂದು ಖಚಿತವಾಗಿರುವಿರಾ?</string>
+    <string name="multi_image_update">ಕೆಲವೊಂದು ಇಮೇಜ್ ಅಪ್‌ಡೇಟ್‌ಗಳು ಲಭ್ಯವಿವೆ.</string>
+    <string name="available_update_list">ಲಭ್ಯ ಅಪ್‌ಡೇಟ್‌ಗಳ ಪಟ್ಟಿ</string>
+    <string name="downloading_summary">ದಯವಿಟ್ಟು ಚಿತ್ರದ ಡೌನ್‌ಲೋಡ್ ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="msg_erase_userdata_warning">ಈ ಅಪ್‌ಡೇಟ್ ಬಳಕೆದಾರನ ಡೇಟಾವನ್ನು ಅಳಿಸುವ ಅಗತ್ಯವನ್ನು ಹೊಂದಿದೆ. ನೀವು ಮುಂದುವರಿಯಲು ಬಯಸುವಿರಾ?</string>
+    <string name="msg_autoupdate_date_fee_warning">ಸ್ವಯಂ ಅಪ್‌ಡೇಟ್ ಸಕ್ರಿಯಗೊಳಿಸಿದರೆ ನಿಮಗೆ ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳನ್ನು ವಿಧಿಸಬಹುದು.</string>
+    <string name="invalid_update">ಅಪ್‌ಡೇಟ್ ಅಮಾನ್ಯವಾಗಿದೆ.</string>
+    <string name="file_corrupted">ಫೈಲ್‍ ದೋಷಪೂರಿತಗೊಂಡ ಕಾರಣ ಸಿಸ್ಟಂ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="ask_for_apk_check">ಅಪ್ಲಿಕೇಶನ್ ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪರೀಕ್ಷಿಸಲು ಬಯಸುವಿರಾ?</string>
+    <string name="update_ota_self">ಸಾಫ್ಟ್‌ವೇರ್ ಅಪ್‌ಡೇಟ್‌ ಪ್ರಗತಿಯಲ್ಲಿದೆ.</string>
+    <string name="ab_update_fail">ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವಲ್ಲಿ ಸಮಸ್ಯೆ.</string>
+    <string name="ab_update_wrong_status">ಅಪ್‌ಡೇಟ್ ಎಂಜಿನ್ ಈಗ ಕಾರ್ಯನಿರತವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ ಅಥವಾ ರೀಬೂಟ್ ಮಾಡಿ.</string>
+    <string name="ab_update_installing">ಸಿಸ್ಟಂ ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="tag_engineer_mode">ಎಂಜಿನಿಯರ್ ಮೋಡ್</string>
+    <string name="engineer_version_incorrect">ನಿಮ್ಮ ಸಾಧನದ ಆವೃತ್ತಿ ತಪ್ಪಾಗಿದೆ</string>
+    <string name="msg_engineer_ota_restore">ಅಧಿಕೃತ ಆವೃತ್ತಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="msg_engineer_ota_restore_warning">ಇದು ಅಧಿಕೃತ ಆವೃತ್ತಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸುತ್ತದೆ. ನೀವು ಮುಂದುವರಿಯಲು ಬಯಸುವಿರಾ?</string>
+    <string name="silent_mode_data_fee_warning">ಅಪ್‌ಡೇಟ್ ಲಭ್ಯವಿದೆ. ಅಪ್‍ಡೇಟ್‍ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದರೆ ನಿಮಗೆ ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳನ್ನು ವಿಧಿಸಬಹುದು. ಸಾಧ್ಯವಿದ್ದರೆ Wi-Fi ಮೂಲಕ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.</string>
+    <string name="msg_updating_system">ಸಿಸ್ಟಂ ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ...</string>
+    <string name="msg_tap_to_reboot">ರೀಬೂಟ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="msg_pause_download">ಡೌನ್‌ಲೋಡ್ ವಿರಾಮಗೊಳಿಸಿ</string>
+    <string name="notification_channel_name">ಸಿಸ್ಟಂ ಅಪ್‌ಡೇಟ್‌</string>
+    <string name="notification_channel_alert_name">ಸಾಮಾನ್ಯ ಅಧಿಸೂಚನೆಗಳು</string>
+</resources>

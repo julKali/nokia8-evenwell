@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ignore_configure_wifi_settings_key">
+        <item>enable_wifi_wakeup</item>
+        <item>use_open_wifi_automatically</item>
+        <item>sleep_policy</item>
+    </string-array>
+</resources>

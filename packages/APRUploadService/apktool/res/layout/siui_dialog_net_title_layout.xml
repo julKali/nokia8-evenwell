@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@color/siui_list_bg_color" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/patient_top" android:background="@color/siui_dialog_panel" android:layout_width="fill_parent" android:layout_height="60.0dip">
+        <TextView android:textSize="21.0sp" android:textColor="@color/siui_text_color" android:gravity="center" android:id="@id/txtPatient" android:background="@color/siui_dialog_panel" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/siui_net_dialog_title_margin" android:text="@string/send_diag_dialog_title" />
+    </LinearLayout>
+    <View android:id="@id/line_2" android:background="@color/siui_list_divider_color" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="@dimen/siui_net_dialog_title_margin" android:layout_marginRight="@dimen/siui_net_dialog_title_margin" />
+</LinearLayout>

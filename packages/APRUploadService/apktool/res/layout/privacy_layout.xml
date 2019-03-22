@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:id="@id/privacy_context_text" android:paddingLeft="16.0dip" android:paddingRight="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </ScrollView>
+    <LinearLayout android:orientation="horizontal" android:id="@id/buttonArea" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/buttonBarStyle">
+        <Button android:textColor="@color/privacy_button_color" android:id="@id/go_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@android:string/ok" style="@style/fih_inlife_btn_style" />
+    </LinearLayout>
+</LinearLayout>

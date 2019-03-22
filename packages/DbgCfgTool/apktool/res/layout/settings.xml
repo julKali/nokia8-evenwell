@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:id="@id/qxdm" android:layout_width="fill_parent" android:layout_height="fill_parent" android:title="@string/debugmodem_qxdm_title" android:key="qxdm" />
+    <PreferenceScreen android:id="@id/selefilter" android:layout_width="fill_parent" android:layout_height="fill_parent" android:title="@string/debugmodem_selefilter_title" android:key="selefilter" android:summary="selefilter_sum" />
+</PreferenceScreen>

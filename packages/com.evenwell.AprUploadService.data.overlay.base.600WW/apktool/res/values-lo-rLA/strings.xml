@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ HMD</string>
+    <string name="privacy_activity">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ HMD</string>
+    <string name="go_label">ດຳເນີນການສຳເລັດ</string>
+    <string name="agree">ເຫັນດີ</string>
+    <string name="see_detail">ລາຍ​ລະ​ອຽດ</string>
+    <string name="next_btn_lebel">ການເຂົ້າໃຈ</string>
+    <string name="app_name">ການກວດວິເຄາະລະບົບ</string>
+    <string name="setting_page_name">ໂຄງການປະສົບການຜູ້ໃຊ້</string>
+    <string name="send_diag_dialog_any_network">ເມື່ອການເຊື່ອມຕໍ່ຂໍ້ມູນມີໃຫ້ນຳໃຊ້</string>
+    <string name="send_diag_dialog_wifi">ເມື່ອການເຊື່ອມຕໍ່ Wi-Fi ມີໃຫ້ນຳໃຊ້</string>
+    <string name="send_diag_dialog_wlan">ເມື່ອການເຊື່ອມຕໍ່ WLAN ມີໃຫ້ນຳໃຊ້</string>
+    <string name="send_diag_dialog_title">ສົ່ງການກວດວິເຄາະ</string>
+    <string name="diagnostics_setting">ການກວດວິເຄາະ</string>
+    <string name="diagnostics_report">ລາຍງານການກວດວິເຄາະ</string>
+    <string name="diagnostics_report_summary">ສົ່ງລາຍງາການກວດວິເຄາະ ເມື່ອອຸປະກອນກຳລັງປະສົບກັບຄວາມຜິດພາດຂອງຊອບແວ. ມັນອາດຈະເຮັດໃຫ້ເກີດຄ່າໃຊ້ຈ່າຍໃນການໃຊ້ເຄືອຂ່າຍ. ຂໍແນະນຳໃຫ້ຂໍເອົາແພັກເກດເຄືອຂ່າຍຂໍ້ມູນຈາກຜູ້ໃຫ້ບໍລິການ.</string>
+    <string name="network_options">ຕົວເລືອກເຄືອຂ່າຍ</string>
+    <string name="send_diagnostics">ສົ່ງການກວດວິເຄາະ</string>
+    <string name="diagnostics_description">ກະລຸນາຊ່ວຍພວກເຮົາປັບປຸງຜະລິດຕະພັນ ແລະ ການບໍລິການຂອງພວກເຮົາ ໂດຍການອະນຸຍາດໃຫ້ພວກເຮົາເກັບເອົາຂໍ້ມູນການວິເຄາະ ເມື່ອອຸປະກອນຂອງທ່ານປະສົບກັບຄວາມຜິດພາດ ຫຼື ການຂັດຂ້ອງຂອງຊອບແວ. ທ່ານສາມາດປ່ຽນຕົວເລືອກດັ່ງກ່າວໄດ້ສະເໝີໃນພາຍຫຼັງໃນການຕັ້ງຄ່າ.</string>
+    <string name="cancel_upload_confirm_msg">ທ່ານກຳລັງຈະອອກຈາກໂຄງການປະສົບການຜູ້ໃຊ້ຂອງພວກເຮົາ ຈະບໍ່ມີການເກັບຮັກສາ ແລະ ສົ່ງຄວາມຜິດພາດຂອງຊອບແວທີ່ເກີດຂຶ້ນໃນໂທລະສັບຂອງທ່ານ, ສະນັ້ນ ອາດຈະບໍ່ສາມາດປັບປຸງປະສົບການຂອງທ່ານໄດ້ ໃນຂະນະທີ່ໃຊ້ໂທລະສັບ!</string>
+</resources>

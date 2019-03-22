@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/btRec" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/mic1bt_start" />
+    <Button android:id="@id/btPlay" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/mic1bt_stop" />
+    <TextView android:id="@id/test_info" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FQCText" />
+    <LinearLayout android:orientation="vertical" android:id="@id/support_bt_btns_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/userinfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitEnd" />
+</LinearLayout>

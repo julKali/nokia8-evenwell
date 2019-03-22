@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ОТКАЖИ</string>
+    <string name="DONE">ЗАВРШЕНО</string>
+    <string name="NEXT">СЛЕДНО</string>
+    <string name="OK">Во ред</string>
+    <string name="PREVIOUS">ПРЕТХОДНО</string>
+    <string name="alert_empty_desc">Ве молиме додадете опис</string>
+    <string name="alert_warning_title">Совети</string>
+    <string name="enter_comments">Внесете коментари (1000 карактери)</string>
+    <string name="extremely_likely">(Екстремно веројатно)</string>
+    <string name="feedback">Повратни информации</string>
+    <string name="helps_us_improve_our_products">Вашите повратни информации ни помагаат да го подобриме нашиот производ!</string>
+    <string name="intro_title">Колку е веројатно да го препорачате овој телефон на пријател или колега?</string>
+    <string name="msg_send_after">Пораката автоматски ќе се испрати кога уредот ќе биде онлајн. Ви благодариме за одговорот.</string>
+    <string name="msg_send_fail">Неуспешно испраќање. Пораката автоматски ќе се пренесе кога уредот ќе биде онлајн. Ви благодариме за вашиот одговор.</string>
+    <string name="no_ask_feedback_again_text">Не прашувај повторно за повратни информации</string>
+    <string name="no_showagain_text">Не покажувај повторно</string>
+    <string name="not_at_all_likely">(Воопшто не е веројатно)</string>
+    <string name="select_a_value">Изберете вредност</string>
+    <string name="str_agree">СЕ СЛОЖУВАМ</string>
+    <string name="str_leave">ИЗЛЕЗ</string>
+    <string name="submit_fail">Податоците не се поднесени</string>
+    <string name="submit_success">Ви благодариме за одговорот.</string>
+    <string name="thank_your_feedback">Ви благодариме за повратните информации!</string>
+    <string name="we_appreciate_your_help">Ви благодариме за вашата помош да ги направиме производите на Nokia најдобри во светот.</string>
+    <string name="we_hope_enjoying_nokia_device">Се надеваме дека уживате во користењето на вашиот уред од Nokia. Вашите повратни информации се многу важни за нас.</string>
+    <string name="we_will_contact_you_again">Повторно ќе ве побараме во иднина.</string>
+    <string name="we_will_contact_you_again_enjoy">Повторно ќе ве побараме во иднина. Уживате со вашиот производ од Nokia!</string>
+    <string name="why_you_gave_this_score">Ве молиме да ни кажете зошто ја дадовте оваа оценка:</string>
+</resources>

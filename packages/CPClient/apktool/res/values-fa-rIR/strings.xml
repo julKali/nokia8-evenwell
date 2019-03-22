@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">کلاینت CP</string>
+    <string name="fih_cp_apn_not_set">&lt;تنظیم نشده است></string>
+    <string name="fih_cp_apply_dialog_body_msg">آیا می‌خواهید پیکربندی جدید را اعمال کنید؟</string>
+    <string name="fih_cp_apply_dialog_head_msg">آماده‌سازی جدید</string>
+    <string name="fih_cp_btn_back">برگشت</string>
+    <string name="fih_cp_btn_cancel">لغو</string>
+    <string name="fih_cp_btn_next">بعدی</string>
+    <string name="fih_cp_btn_ok">تأیید</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">نوع تأیید اعتبار</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">هیچکدام</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">‏PAP یا CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">درگاه</string>
+    <string name="fih_cp_editor_apn_http_proxy">پروکسی</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">‏درگاه MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">‏پروکسی MMS</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">نام</string>
+    <string name="fih_cp_editor_apn_password">رمز ورود</string>
+    <string name="fih_cp_editor_apn_server">سرور</string>
+    <string name="fih_cp_editor_apn_type">‏نوع APN</string>
+    <string name="fih_cp_editor_apn_user">نام کاربری</string>
+    <string name="fih_cp_error_apn_empty">قسمت APN نمی‌تواند خالی باشد.</string>
+    <string name="fih_cp_error_name_empty">قسمت نام نمی‌تواند خالی باشد.</string>
+    <string name="fih_cp_error_other">خطای ساختاری داده‌ها.</string>
+    <string name="fih_cp_error_title">توجه</string>
+    <string name="fih_cp_input_pin_code">‏کد پین را وارد کنید:</string>
+    <string name="fih_cp_input_pin_code_cancel">لغو</string>
+    <string name="fih_cp_input_pin_code_empty">لطفاً کد پین را وارد کنید.</string>
+    <string name="fih_cp_input_pin_code_incorrect">پین کد اشتباه است.</string>
+    <string name="fih_cp_input_pin_code_ok">تأیید</string>
+    <string name="fih_cp_notification_channel_name">اعلان‌های عمومی</string>
+    <string name="fih_cp_notify_statusbar_content">پیام آماده‌سازی جدید</string>
+    <string name="fih_cp_sim_not_available">سیم کارت موجود نیست.</string>
+    <string name="fih_cp_toast_info_create">ایجاد موفقیت‌آمیز نمایه</string>
+    <string name="fih_cp_toast_info_update">به‌روزرسانی موفقیت‌آمیز نمایه</string>
+    <string name="fih_cp_ui_mode_delete">حذف</string>
+    <string name="fih_cp_ui_mode_ok">تأیید</string>
+    <string name="fih_cp_ui_mode_postpone">تعویق</string>
+</resources>

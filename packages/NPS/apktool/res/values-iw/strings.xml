@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ביטול</string>
+    <string name="DONE">סיום</string>
+    <string name="NEXT">הבא</string>
+    <string name="OK">אשר</string>
+    <string name="PREVIOUS">הקודם</string>
+    <string name="abc_action_bar_home_description">נווט לדף הבית</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">בוצע</string>
+    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
+    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">פועל</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">מקש רווח</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">תפריט+</string>
+    <string name="abc_search_hint">חיפוש…</string>
+    <string name="abc_searchview_description_clear">מחק שאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
+    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">שתף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כווץ</string>
+    <string name="alert_empty_desc">הוסף תיאור שלך!</string>
+    <string name="alert_warning_title">עצות</string>
+    <string name="enter_comments">הזן תגובות (1000 תווים)</string>
+    <string name="extremely_likely">(סביר מאוד)</string>
+    <string name="feedback">משוב</string>
+    <string name="helps_us_improve_our_products">המשוב שלך עוזר לנו לשפר את המוצרים שלנו!</string>
+    <string name="intro_title">מה הסבירות שתמליץ על טלפון זה לחבר או לעמית?</string>
+    <string name="msg_send_after">תתבצע העלאה אוטומטית של ההודעה כאשר המכשיר נמצא במצב מקוון. תודה על תשובתך.</string>
+    <string name="msg_send_fail">השליחה נכשלה. תתבצע העלאה אוטומטית של ההודעה כאשר המכשיר נמצא במצב מקוון. תודה על תשובתך.</string>
+    <string name="no_ask_feedback_again_text">אל תציג שוב</string>
+    <string name="no_showagain_text">אל תציג שוב</string>
+    <string name="not_at_all_likely">(כלל לא סביר)</string>
+    <string name="privacy_context_wifi">"משתמשים יקרים, 
+
+ברוך הבא לשימוש בתוכנת הלקוח למשובים. קרא בקפידה והבן היטב את תנאי השירות לפני השימוש במוצר זה. לחיצה על 「מסכים」פירושה שהבנת היטב את ההרשאה לתוכנה זו ואתה מסכים להשתמש בה. אם אינך מסכים לתנאים אלה, לחץ על「יציאה」. כדי לספק לך שירותים מקיפים, היישום זקוק להרשאות הבאות: 
+1.‎ גישה לאינטרנט ורשת WLAN לשליחת פרטי משוב 
+2.‎ ייבוא מידע IMEI,‏ PSN ו- MNC\\MCC כדי להשיג באופן אוטומטי מידע בסיסי על הטלפון"</string>
+    <string name="search_menu_title">חיפוש</string>
+    <string name="select_a_value">בחר ערך</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">מסכים</string>
+    <string name="str_leave">יציאה</string>
+    <string name="submit_fail">השליחה נכשלה</string>
+    <string name="submit_success">תודה על תשובתך</string>
+    <string name="thank_your_feedback">תודה על המשוב!</string>
+    <string name="we_appreciate_your_help">תודה שאתה עוזר לנו להפוך את המוצרים של Nokia לטובים ביותר בעולם.</string>
+    <string name="we_hope_enjoying_nokia_device">אנחנו מקווים שאתה נהנה מההתקן של Nokia. המשוב שלך חשוב לנו מאוד.</string>
+    <string name="we_will_contact_you_again">נפנה אליך שוב בעתיד.</string>
+    <string name="we_will_contact_you_again_enjoy">נפנה אליך שוב בעתיד. שימוש מהנה בהתקן Nokia החדש!</string>
+    <string name="why_you_gave_this_score">ספר לנו מדוע בחרת בציון זה:</string>
+</resources>

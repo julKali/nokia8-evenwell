@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Älä näytä uudelleen.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Peruuta</string>
+    <string name="switch_on_text">Käytössä</string>
+    <string name="switch_off_text">Ei käytössä</string>
+    <string name="fih_power_saving_permission_cancel">Peruuta</string>
+    <string name="lock_screen_ap_protect_title">Taustatoimintojen hallinta</string>
+    <string name="all_aps">Lisää kaikki sovellukset sallittujen luetteloon</string>
+    <string name="fih_power_saving_doze_high_consumption">Suuri virrankulutus</string>
+    <string name="fih_power_saving_background_activity_text">Voit pidentää akun käyttöaikaa ottamalla Taustatoimintojen hallinta -toiminnon käyttöön, mutta tällöin joidenkin sovellusten ilmoituksia tai sähköpostiviestejä ei ehkä haeta välittömästi. Voit hallita akun käyttöaikaa lisäämällä sovelluksia sallittujen luetteloon tai poistamalla sovelluksia sallittujen luettelosta.</string>
+    <string name="fih_power_saving_background_cleaner">Taustatoimintojen puhdistus</string>
+    <string name="fih_power_saving_background_cleaner_summary">Ilmoituksia ei ehkä haeta heti.</string>
+    <string name="app_block_list">Rajoitettujen sovellusten luettelo</string>
+</resources>

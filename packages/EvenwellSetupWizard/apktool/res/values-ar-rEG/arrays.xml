@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <array name="fih_navigation_setting_icons">
+        <item>@drawable/oobe_navigation2</item>
+        <item>@drawable/oobe_navigation1</item>
+        <item>@drawable/oobe_navigation4</item>
+        <item>@drawable/oobe_navigation3</item>
+    </array>
+    <array name="fih_navigation_setting_tg_icons">
+        <item>@drawable/zzz_oobe_tg_navigation1</item>
+        <item>@drawable/zzz_oobe_tg_navigation2</item>
+        <item>@drawable/zzz_oobe_tg_navigation3</item>
+        <item>@drawable/zzz_oobe_tg_navigation4</item>
+    </array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ثابت</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>الاكتشاف تلقائيًا</item>
+        <item>المعاملة على أنها مقيدة بمقدار البيانات</item>
+        <item>معاملتها على أنها غير مقيدة بمقدار البيانات</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>بدون</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>بدون</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>بدون</item>
+        <item>يدوي</item>
+        <item>التكوين التلقائي للوكيل</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+    </string-array>
+    <string-array name="wifi_security_china">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ضعيف</item>
+        <item>مقبول</item>
+        <item>جيد</item>
+        <item>ممتاز</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>مسح…</item>
+        <item>اتصال…</item>
+        <item>مصادقة…</item>
+        <item>الحصول على عنوان IP…</item>
+        <item>متصل</item>
+        <item>معلق</item>
+        <item>فصل الاتصال…</item>
+        <item>غير متصل</item>
+        <item>غير ناجح</item>
+        <item>محظور</item>
+        <item>تجنب الاتصال الضعيف مؤقتًا</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>مسح…</item>
+        <item>الاتصال مع %1$s…</item>
+        <item>المصادقة مع %1$s…</item>
+        <item>الحصول على عنوان IP من %1$s…</item>
+        <item>الاتصال مع %1$s</item>
+        <item>معلق</item>
+        <item>قطع الاتصال عن %1$s…</item>
+        <item>غير متصل</item>
+        <item>غير ناجح</item>
+        <item>محظور</item>
+        <item>تجنب الاتصال الضعيف مؤقتًا</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI سداسي عشري</item>
+    </string-array>
+</resources>

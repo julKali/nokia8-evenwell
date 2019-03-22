@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Aðgengi</string>
+    <string name="account_intro_description">[BRAND_NAME]-þjónustan færir þér snjallari leiðir til að nota tækið þitt.</string>
+    <string name="account_intro_title">[BRAND_NAME]-þjónustureikningur</string>
+    <string name="add_baidu_button_label">Innskráning 百度云</string>
+    <string name="add_infocus_service_account">Bæta [BRAND_NAME]-þjónustureikningi við</string>
+    <string name="available_via_passpoint">Í boði í gegnum %1$s</string>
+    <string name="back_btn_lebel">TIL BAKA</string>
+    <string name="backup_and_restore_description">"Ef þú hefur áður tekið afrit af reikningnum geturðu endurheimt hann í þennan síma.
+
+Þú getur breytt afritunarstillingunum þínum með því að fara í Stillingar."</string>
+    <string name="backup_and_restore_title">Afritun og endurheimt</string>
+    <string name="baidu_intro_description">Ef þú ferð í gegnum nokkur einföld skref geturðu nýtt þér þægilega skýjageymslu með 百度云.</string>
+    <string name="baidu_intro_title">Skýjageymsla fyrir Baidu</string>
+    <string name="baidu_progress_dialog_des">Augnablik...</string>
+    <string name="choose_timezone">Veldu tímabelti</string>
+    <string name="connected_via_passpoint">Tengt í gegnum %1$s</string>
+    <string name="connected_via_wfa">Tengt í gegnum Wi‑Fi-aðstoð</string>
+    <string name="datausage_dialog_negitive_btn">Hætta við</string>
+    <string name="datausage_dialog_positive_btn">Ókei</string>
+    <string name="date_and_time">Stillingar fyrir dagsetningu og tíma</string>
+    <string name="date_and_time_settings_summary">Velja dagsetningu, tíma, tímabelti og snið</string>
+    <string name="date_and_time_settings_title">Dagsetning og tími</string>
+    <string name="date_and_time_settings_title_setup_wizard">Stilla dagsetningu og tíma</string>
+    <string name="date_picker_title">Dagur hvers mánaðar:</string>
+    <string name="date_time_24hour">Nota 24 tíma snið</string>
+    <string name="date_time_auto">Sjálfvirk dagsetning og tími</string>
+    <string name="date_time_auto_summaryOff">Nota tíma frá símkerfi</string>
+    <string name="date_time_auto_summaryOn">Nota tíma frá símkerfi</string>
+    <string name="date_time_date_format">Veldu dagsetningarsnið</string>
+    <string name="date_time_set_date">Veldu dagsetningu</string>
+    <string name="date_time_set_time">Veldu tíma</string>
+    <string name="date_time_set_timezone">Velja tímabelti</string>
+    <string name="device_checking_message">Komdu fagnandi</string>
+    <string name="dropbox_fih_description">Fáðu 2 GB pláss á Dropbox ókeypis til að vista myndir og myndbönd sjálfkrafa.</string>
+    <string name="dropbox_fih_signin">Skrá inn með Dropbox</string>
+    <string name="dropbox_fih_signup">Stofna Dropbox-reikning</string>
+    <string name="emergency_dial_hmd_message">Neyðarsímtal</string>
+    <string name="emergency_dial_message">Neyðarsímtal</string>
+    <string name="fih_legal_message">"Notkunarskilmálar [BRAND_NAME_PROXY]-hugbúnaðar
+ 
+ Gildir frá: 20. maí 2016
+ 
+ Eftirfarandi skilmálar (hér eftir nefndir „skilmálarnir“) eru lagalegur samningur sem gildir um notkun þína á [BRAND_NAME_PROXY]-hugbúnaði, á milli þín og [BRAND_NAME_PROXY] Inc., og fulltrúa þess, Commtiva Technology Ltd. (saman nefnd [BRAND_NAME_PROXY]), og gildir samningurinn um notkun þína á [BRAND_NAME_PROXY]-hugbúnaði, þar á meðal, en takmarkast ekki við, niðurhal, uppsetningu og sjálfvirka endurnýjun (hér eftir nefnt „hugbúnaðarþjónusta“). Með því að nota [BRAND_NAME_PROXY]-hugbúnað samþykkirðu að fara að þessum skilmálum; ef þú samþykkir ekki skilmálana skaltu ekki sækja, afrita, nota eða geyma [BRAND_NAME_PROXY]-hugbúnað.
+ 
+ 1. Notkunarskilmálar
+ Að því gefnu að þú farir að þessum skilmálum veitir [BRAND_NAME_PROXY] þér persónulegt, almennt, óframseljanlegt, afturkræft og takmarkað leyfi til að nota hugbúnaðarþjónustu [BRAND_NAME_PROXY]. [BRAND_NAME_PROXY] setur forritskóða upp í [BRAND_NAME_PROXY]-snjalltækinu þínu (hér eftir nefnt [BRAND_NAME_PROXY]-sími) í gegnum internetið. Þú staðfestir og samþykkir að óheimilt er að nota [BRAND_NAME_PROXY]-hugbúnað í [BRAND_NAME_PROXY]-símanum þínum í viðskiptalegum tilgangi eða framselja hann þriðja aðila.
+ Aukinheldur samþykkir þú að nota ekki [BRAND_NAME_PROXY]-hugbúnað á nokkurn eftirfarandi hátt:
+ (a) Brjótast inn í [BRAND_NAME_PROXY]-hugbúnað (þar á meðal undirliggjandi tækni) eða nota [BRAND_NAME_PROXY]-hugbúnað í tæki sem ekki er frá [BRAND_NAME_PROXY];
+ (b) Greina, bakþýða, vendismíða, afkóða, afrita, breyta [BRAND_NAME_PROXY]-hugbúnaði eða búa til afleidd verk af slíku í nokkrum tilgangi;
+ (c) Gera nokkuð það sem stangast á við skilmálana og gerir [BRAND_NAME_PROXY]-hugbúnað opinberan eða veitir þriðja aðila aðgang að eða yfirráð yfir [BRAND_NAME_PROXY]-hugbúnaði, þar á meðal, en ekki takmarkað við, að leigja hann, lána eða framselja;
+ (d) Fjarlægja nokkra einkaleyfisvarða tilkynningu, merki eða vörumerki í [BRAND_NAME_PROXY]-hugbúnaði eða fylgiskjölum án skriflegrar heimildar frá [BRAND_NAME_PROXY];
+ (e) Nota [BRAND_NAME_PROXY]-hugbúnað á nokkurn þann hátt sem stangast á við gildandi lög eða gengur á rétt annarra;
+ (f) Nota [BRAND_NAME_PROXY]-hugbúnað við aðstæður þar sem slík notkun er bönnuð eða takmörkuð, þar á meðal, en takmarkast ekki við, við flugumferðarstjórn, á eldsneytisstöðvum, í tengslum við kjarnorkubúnað; eða
+ (g) Nota [BRAND_NAME_PROXY]-hugbúnað á hvern þann hátt sem óheimill er samkvæmt skilmálunum.
+ 
+ Til þess að tryggja að [BRAND_NAME_PROXY]-síminn og [BRAND_NAME_PROXY]-hugbúnaðurinn virki eðlilega staðfestir þú og vottar að þú munir ekki eyðileggja eða færa merkimiða á [BRAND_NAME_PROXY]-símanum án aðstoðar starfsfólks [BRAND_NAME_PROXY]. Slíkar óheimilar aðgerðir munu hafa áhrif á gildi og gildistíma ábyrgðarinnar sem [BRAND_NAME_PROXY] lætur þér í té.
+ 
+ 2. Persónuverndarstefna
+ Þú staðfestir og samþykkir að [BRAND_NAME_PROXY] er heimilt að safna og geyma upplýsingar um [BRAND_NAME_PROXY]-símann þinn, meðal annars gerð, raðnúmer, IMEI-/MEID-númer, vélbúnaðarútgáfu, hugbúnaðarútgáfu, notkunartíma, SKU ID, sjálfgefnar stillingar og stýrikerfisútgáfu (hér eftir nefnt „upplýsingar“). 
+ Ef [BRAND_NAME_PROXY] ber krafa til að opinbera stjórnvöldum eða dómstólum upplýsingar mun [BRAND_NAME_PROXY] verða við slíkri kröfu.
+ 
+ [BRAND_NAME_PROXY]-síminn mun upplýsa [BRAND_NAME_PROXY] um það ef [BRAND_NAME_PROXY]-síminn hefur ekki tengst símkerfi í minnst 14 daga frá kaupdegi.
+ 
+ Nánari upplýsingar er að finna í persónuverndarstefnu [BRAND_NAME_PROXY].
+ 
+ 3. Stuðningsþjónusta
+ [BRAND_NAME_PROXY] mun veita hugbúnaðarþjónustu, þar með talið, án takmarkana, uppfærslur, fyrir [BRAND_NAME_PROXY]-hugbúnaðinn þinn í samræmi við stöðuupplýsingar sem [BRAND_NAME_PROXY] fær frá [BRAND_NAME_PROXY]-símanum.
+ [BRAND_NAME_PROXY] mun bjóða upp á uppfærslur, endurbætur eða viðbótareiginleika fyrir [BRAND_NAME_PROXY]-hugbúnaðinn þinn þegar þú notar [BRAND_NAME_PROXY]-hugbúnaðinn yfir internetið og í samræmi við skilmálana.
+ 
+ [BRAND_NAME_PROXY] áskilur sér rétt til að stöðva notkun þína á [BRAND_NAME_PROXY]-hugbúnaði og [BRAND_NAME_PROXY]-þjónustu með beinum hætti.
+ [BRAND_NAME_PROXY] mun gefa út nýjar útgáfur af [BRAND_NAME_PROXY]-hugbúnaðinum og krefjast þess að þú notir nýjustu útgáfu stýrikerfisins.
+ 
+ 4. Sjálfvirkar uppfærslur
+ Í því skyni að gera [BRAND_NAME_PROXY]-símann betri er hann forstilltur á að sækja sjálfkrafa nýjasta fastbúnað og hugbúnað frá [BRAND_NAME_PROXY] 
+ 
+ Til þess að tryggja öryggi og stöðugleika [BRAND_NAME_PROXY]-símans samþykkir þú að fylgja leiðbeiningum frá [BRAND_NAME_PROXY]. Þegar þú samþykkir að sækja nýjustu útgáfur fastbúnaðar eða hugbúnaðar er litið svo á að þú samþykkir þessa endurnýjun og uppsetningu.
+ 
+ Til að forðast að glata skjölum, myndum, texta, hljóðskrám, myndböndum og hvers kyns rafrænum skrám sem gætu tapast við uppfærslur á [BRAND_NAME_PROXY]-símanum berð þú ábyrgð á að taka öryggisafrit af slíkum rafrænum skrám sem vistaðar eru í [BRAND_NAME_PROXY]-símanum áður en nýjasta útgáfa fastbúnaðar eða hugbúnaðar er sótt.
+ 
+ Þegar [BRAND_NAME_PROXY]-síminn er uppfærður sjálfkrafa eða með þínu leyfi, sem fengið er með skilaboðum, þýðir það að þú samþykkir eftirfarandi:
+ (a) Hugbúnaðaruppfærsla:
+ Þú samþykkir og staðfestir að [BRAND_NAME_PROXY] er heimilt að tengjast internetinu til að kanna hugbúnaðarútgáfu og uppfærslustöðu [BRAND_NAME_PROXY]-símans. Ef [BRAND_NAME_PROXY] gefur út tilkynningu um uppfærslu mun [BRAND_NAME_PROXY] gera þér kleift að uppfæra útgáfu og stöðu [BRAND_NAME_PROXY]-hugbúnaðarins í gegnum [BRAND_NAME_PROXY]-þjónustuna.
+ Þegar nýr [BRAND_NAME_PROXY]-hugbúnaður býðst samþykkir þú að [BRAND_NAME_PROXY] sendi þér tilkynningu um slíka uppfærslu. Ef þú staðfestir uppfærslurnar sem í boði eru samþykkir þú að [BRAND_NAME_PROXY] uppfæri [BRAND_NAME_PROXY]-símann þinn sjálfkrafa.
+ (b) Samstilling og uppfærsla efnis:
+ Þegar þú tengir [BRAND_NAME_PROXY]-símann við tölvuna þína eða annað tæki mun [BRAND_NAME_PROXY]-síminn sjálfkrafa uppfæra tengt efni og aðrar upplýsingar (t.d. tengiliðaupplýsingar, dagatal, bókamerki og skrár).
+ 
+ 5. Fyrirvari vegna allra einkaleyfisvarinna réttinda og annarra réttinda í [BRAND_NAME_PROXY]-hugbúnaðinum
+ Þrátt fyrir að þér sé veitt leyfi til að nota [BRAND_NAME_PROXY]-hugbúnað og -þjónustu halda [BRAND_NAME_PROXY], samstarfsaðili þess og birgjar eftir öllum réttindum tengdum [BRAND_NAME_PROXY]-hugbúnaði, þar á meðal, en takmarkast ekki við, einkaleyfisrétti, höfundarrétti og öðrum hugverkarétti.
+ 
+ Öll réttindi tengd [BRAND_NAME_PROXY]-hugbúnaði eru vernduð samkvæmt lögum á hverjum stað og alþjóðlegum samningum.
+ 
+ 6. Fyrirvari
+ [BRAND_NAME_PROXY] veitir engar ábyrgðir eða tryggingar, hvorki beint né óbeint, þar á meðal, án takmarkana, undirskilda ábyrgð á seljanleika, hæfi fyrir tiltekinn tilgang eða brotum á höfundarrétti. 
+ [BRAND_NAME_PROXY] ábyrgist ekki að:
+ (a) Nokkur sú [BRAND_NAME_PROXY]-þjónusta sem þú færð sé rétt eða áreiðanleg; eða að
+ (b) [BRAND_NAME_PROXY]-þjónustan verði veitt án truflana, á réttum tíma eða á öruggan hátt; eða að
+ (c) Gallar eða villur í veittum hugbúnaði verði leiðréttar tafarlaust.
+ 
+ [BRAND_NAME_PROXY] er ekki bótaskylt vegna hvers kyns taps eða skaða sem hlýst af vírusum eða öðru skaðlegu efni sem smitað getur [BRAND_NAME_PROXY]-símann, forrit, gögn eða annað einkaefni vegna notkunar þinnar á [BRAND_NAME_PROXY]-þjónustunni. Allt efni sem þú sækir eða færð í gegnum [BRAND_NAME_PROXY] opnar þú á eigin ábyrgð og berð alla ábyrgð á skaða sem kann að verða á [BRAND_NAME_PROXY]-símanum og gagna- eða efnistapi sem hlýst af niðurhali hvers kyns hugbúnaðar.
+ 
+ 7. Takmörkun á bótaábyrgð og úrræði
+ [BRAND_NAME_PROXY] skal ekki vera bótaskylt vegna hvers kyns afleidds, tilfallandi, óbeins eða refsiverðs tjóns eða vegna tekjutaps eða glataðra upplýsinga, hvort sem er viðkvæmra eða ekki, vegna vinnustöðvunar, heilsutjóns, eignatjóns, skorts á gagnaleynd, gáleysis eða fyrir að uppfylla ekki skyldur í góðri trú eða af viðeigandi færni.
+ Að því marki sem gildandi lög leyfa er hámarksbótaskylda [BRAND_NAME_PROXY] gagnvart þér, og þitt eina úrræði samkvæmt skilmálunum, fyrir allt tjón, heilsutjón, eignatjón og skaða sem hlýst af kröfum eða málshöfðun í tengslum við skilmálana, 10 bandarískir dalir, og takmarkast bætur þínar við þá upphæð. 
+ 
+ Margar kröfur eða málshöfðanir í tengslum við skilmálana breyta engu um takmörkun bótaábyrgðar og telst hún, að því marki sem gildandi lög leyfa, vera þitt eina úrræði.
+ 
+ Ef dómstóll lögsagnarumdæmis kemst að þeirri niðurstöðu að ofangreint hámark bótaábyrgðar sé óframkvæmanlegt verður sú takmörkun að því marki ógild en í stað orðanna „10 bandarískir dalir“ mun þá koma setningin „upphæð þeirrar gjaldfærslu sem bótaábyrgð hefur hlotist af.“
+ 
+ Slík krafa eða málshöfðun í tengslum við skilmálana þarf að koma fram innan árs frá því að málið kom upp. 
+ 8. Skaðleysi 
+ Þú samþykkir að tryggja, verja og votta að [BRAND_NAME_PROXY], hluthafar þess, yfirmenn, stjórnendur, tengdir aðilar, starfsmenn, dótturfélög og hlutdeildarfélög beri engan skaða af kröfum, tjóni, skyldum, skaðabótaskyldu, kostnaði og útgjöldum (þar á meðal þóknun lögmanna) sem þriðji aðili kann að fara fram á frá [BRAND_NAME_PROXY] vegna eða í tengslum við misnotkun þína á [BRAND_NAME_PROXY]-þjónustu sem gengur á réttindi þriðja aðila.
+ 
+ 9. Riftun þjónustu
+ Þér er ekki heimilt að nota [BRAND_NAME_PROXY]-þjónustuna löglega ef þú ferð ekki að skilmálunum. Í því tilfelli er þér skylt að eyðileggja og fjarlægja öll eintök af [BRAND_NAME_PROXY]-hugbúnaðinum. Ábyrgð [BRAND_NAME_PROXY]-símans þíns verður fyrir áhrifum ef þessar aðstæður koma upp.
+ Ef ofangreind brot koma upp samþykkirðu að [BRAND_NAME_PROXY] hefur rétt á að grípa til eftirfarandi aðgerða:
+ (a) Loka tafarlaust fyrir aðgang þinn að [BRAND_NAME_PROXY]-reikningnum; og/eða
+ (b) Hindra frekari aðgang þinn að [BRAND_NAME_PROXY]-þjónustureikningnum
+ 
+ Þú samþykkir einnig að öll brot gegn skilmálunum valda [BRAND_NAME_PROXY] óbætanlegum skaða sem fjárupphæðir fá ekki bættan og samþykkir að [BRAND_NAME_PROXY] leiti hæfilegra réttarúrræða eins og [BRAND_NAME_PROXY] telur nauðsynlegt eða við hæfi við slíkar kringumstæður. Þessi úrræði bætast við hver þau úrræði sem [BRAND_NAME_PROXY] hefur lögum samkvæmt.
+ 
+ 10. Gildandi lög og lögsagnarumdæmi
+ Þú samþykkir að öll mál sem tengjast deilum vegna þessara skilmála falla undir lög í Kína, óháð ákvæðum um lagaskil. 
+ 
+ Þú samþykkir lögsagnarumdæmi og varnarþing héraðsdómstólsins í Taipei, Taívan, og afsalar þér rétti til að mótmæla því lögsagnarumdæmi og varnarþingi.
+ 
+ Hvern þann ágreining sem ekki tekst að leysa með samkomulagi milli þín og [BRAND_NAME_PROXY] er þér eða [BRAND_NAME_PROXY] heimilt að senda áfram til sáttamiðlunar. Ef ekki tekst að leysa úr ágreiningnum með sáttamiðlun innan 30 daga skal höfða mál fyrir ofangreindum héraðsdómstól.
+ 
+ 11. Almennt ákvæði
+ Fyrirsagnir skilmálanna eru aðeins til hægðarauka.
+ Grípi [BRAND_NAME_PROXY] ekki til aðgerða vegna brots þíns þýðir það ekki að það afsali sér réttindum sínum í tengslum við slíkt brot eða frekari eða sambærileg brot.
+ 
+ Ef dómbær dómstóll úrskurðar einhvern hluta þessara skilmála ógildan eða óframkvæmanlegan skal skipta ógilda eða óframkvæmanlega ákvæðinu út fyrir gilt og framkvæmanlegt ákvæði sem kemst næst markmiði upprunalega ákvæðisins og munu aðrir hlutar skilmálanna halda gildi sínu. 
+ 
+ Þér er óheimilt að úthluta skilmálunum til annarra eða úthluta, flytja eða áframselja réttindi þíns samkvæmt skilmálunum.
+ 
+ [BRAND_NAME_PROXY] er heimilt að úthluta þessum skilmálum, að hluta eða í heild, hvenær sem er með eða án fyrirvara til þín. 
+ 
+ Þessir skilmálar leysa af hólmi öll fyrri eða samhliða samskipti, af hvaða toga sem er, milli þín og [BRAND_NAME_PROXY] hvað varðar þjónustuna.
+ 
+ 12. Samningurinn í heild sinni
+ Skilmálarnir og viðaukar eru samningurinn í heild sinni milli þín og [BRAND_NAME_PROXY] hvað varðar [BRAND_NAME_PROXY]-þjónustuna.
+ 
+ 13. Breytingar á skilmálunum
+ [BRAND_NAME_PROXY] kann af og til að uppfæra, breyta eða eyða efni skilmálanna, að eigin geðþótta.
+ 
+ Þú þarft að lesa skilmálana sem birtir eru á vefsvæði [BRAND_NAME_PROXY], sem kunna að vera aðrir en þeir skilmálar sem þú last í upphafi.
+ 
+ Þú telst samþykkja slíkar breytingar með því að nota uppfærðan hugbúnað og [BRAND_NAME_PROXY]-símann.
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY]-lagatextar</string>
+    <string name="finish_button_label">LJÚKA</string>
+    <string name="google_account_add_account">Skrá inn með Google</string>
+    <string name="google_account_intro_description">Stofnaðu Google-reikning til að nýta þér alla þjónustu Google.</string>
+    <string name="google_account_intro_title">Google-reikningur</string>
+    <string name="hmd_legal_message">"Þjónustuskilmálar 
+ 
+Gildistökudagur 14. október 2016 
+ 
+1. Samþykki 
+Þessir þjónustuskilmálar HMD Global ásamt persónuverndarstefnunni og öllum öðrum viðbótarskilmálum og upplýsingum sem kunna að fylgja þjónustunni (saman nefnt „skilmálar“) gilda um notkun þína á þjónustunni, vefsvæðinu, efninu og hugbúnaðinum (saman nefnt „þjónustan“). Þú samþykkir þessa skilmála með því að skrá þig í eða nota þjónustuna. 
+ 
+Skilmálarnir mynda samning á milli þín og HMD Global Oy, Bertel Jungin aukio 9, 02610, Finnlandi, þ.m.t. dótturfyrirtækja þess og birgja (saman nefnt „HMD Global“), og skilgreina réttindi og skyldur þínar og HMD Global hvað þjónustuna varðar. 
+ 
+2. Hæfi 
+Þú verður að vera a.m.k. þrettán (13) ára til að nota þjónustuna. Ef þú ert yngri en þrettán (13) ára eða a.m.k. þrettán (13) ára en undir lögaldri þar sem þú býrð verður foreldri þitt eða forráðamaður að samþykkja skráningu þína fyrir þína hönd og samþykkja notkun þína á þjónustunni. Hver sá sem lýkur skráningu verður að vera lögráða. 
+ 
+3. Skráning og uppsögn 
+Til að nota þjónustu kanntu að þurfa að skrá þig og stofna HMD-áskrift með notandanafni og aðgangsorði sem kann að lúta sérstökum skilmálum. Þú þarft hugsanlega að veita okkur tilteknar persónulegar og aðrar upplýsingar. HMD Global kann að staðfesta netfangið þitt áður en hægt er að nota HMD-áskriftina þína. Þegar tækið er notað í fyrsta skipti og í hvert sinn sem þú uppfærir hugbúnað Nokia-tækisins verða textaskilaboð send til HMD Global. Gagnaflutnings er þörf þegar HMD-áskrift er stofnuð. Kostnaður vegna gagnaflutnings kann að eiga við. 
+ 
+Þú samþykkir að veita réttar og fullnægjandi upplýsingar þegar þú skráir þig fyrir þjónustunni og að halda þessum upplýsingum uppfærðum. Þú verður að gæta þess að verja notandanafnið þitt og aðgangsorðið gegn misnotkun af hálfu annarra og tilkynna HMD Global án tafar um hvers kyns misnotkun. Þú, og foreldri þitt eða forráðamaður ef þú ert undir lögaldri, berð persónulega ábyrgð á hvers kyns notkun á þjónustunni. 
+ 
+Þú getur sagt upp skráningu þinni ef þú vilt ekki nota þjónustuna lengur. Eftir uppsögn hefurðu ekki lengur aðgang að þjónustunni. HMD Global getur sagt upp eða takmarkað aðgang þinn að tilteknum þáttum þjónustunnar ef HMD Global telur þig hafa brotið gegn skilmálunum eða með undangenginni tilkynningu ef þú hefur ekki skráð þig inn í þjónustuna með notandanafni þínu á síðastliðnum sex (6) mánuðum. 
+ 
+HMD Global ber ekki ábyrgð á því ef upplýsingar eða efni sem þú hefur sent inn í þjónustuna er fjarlægt eða það glatast, nema að því marki sem kveðið er á um í yfirlýsingunni um persónuvernd. Þegar annaðhvort þú eða HMD Global fjarlægir upplýsingar eða efni úr þjónustunni geta leifar eða afrit verið til annars staðar. 
+ 
+4. Leyfi 
+HMD Global veitir þér almennt og óframseljanlegt leyfi, sem HMD Global getur afturkallað hvenær sem er að eigin vild, til aðgangs og notkunar á þjónustunni í samræmi við skilmálana. Notkun þjónustunnar veitir þér ekki neinn hugverkarétt á neinum upplýsingum eða efni í þjónustunni. 
+ 
+HMD Global getur, sem hluta af þjónustunni, útvegað þér efni sem HMD Global eða leyfisveitendur þess þróa („efni“). HMD Global veitir þér almennt og varanlegt leyfi til að nota efnið í þeim tilgangi sem til er ætlast, nema annað sé skilgreint í viðeigandi skilmálum eða í innkaupapöntuninni. Sumt efni er hugsanlega aðeins í boði fyrir íbúa á tilteknu landfræðilegu svæði. Þú ert bundin(n) af hvers kyns takmörkunum sem eiga við um tiltekið efni sem þú færð í gegnum þjónustuna. Hvers kyns leyfi sem fengið er fyrir efni frá þriðja aðila er bindandi samningur á milli þín og efnisveitu þriðja aðila. Þú hefur einungis þann rétt á efninu sem er veittur hér með yfirlýstum hætti. 
+ 
+HMD Global getur útvegað þér ákveðinn hugbúnað sem HMD Global eða leyfisveitendur þess hafa þróað („hugbúnaður“) sem hluta af þjónustunni. Notkun þín á hugbúnaðinum er hugsanlega háður aðskildum skilmálum sem þú þarft að samþykkja áður en hugbúnaðurinn er notaður. Ef engin aðskilin ákvæði eða skilmálar gilda um slíkan hugbúnað eiga eftirfarandi skilmálar við: HMD Global veitir þér takmarkaðan, almennan og óframseljanlegan rétt til að setja upp og nota hugbúnaðinn á tölvu þinni eða fartæki. Þú mátt ekki afrita hugbúnaðinn, nema til að gera stakt afrit til geymslu. Þú mátt ekki dreifa, flytja notkunarréttinn, breyta, þýða, endurgera, endurselja, framselja, leigja, vendismíða eða reyna á annan hátt að komast að frumkóða hugbúnaðarins eða búa til afleidd verk sem byggjast á hugbúnaðinum. Viðeigandi ákvæði leyfis opins kóða gilda fyrir frjálsan hugbúnað. Notkun þín á hugbúnaðinum gefur til kynna samþykki þitt á öllum viðeigandi ákvæðum og skilmálum. 
+ 
+Hugbúnaðurinn kann að vera háður útflutningstakmörkunum skv. reglugerðum útflutningsstofnunar Bandaríkjanna (U.S. Export Administration) og annarra innflutnings- og útflutningsreglugerða. Þú samþykkir að fara eftir öllum viðeigandi innflutnings- og útflutningsreglugerðum og viðurkennir að þú berir ábyrgð á því að útvega leyfi til útflutnings, endurútflutnings, flutnings eða innflutnings á slíkum hugbúnaði. 
+ 
+Þú getur hugsanlega sent upplýsingar og efni („gögn“) inn til þjónustunnar. HMD Global krefst ekki eignarhalds á gögnum þínum. Skil þín á gögnunum flytja ekki eignarhald réttinda á gögnunum til to HMD Global. HMD Global flytur aðeins gögnin og ber ekki ábyrgð á ritstjórn þeirra. Með því að senda gögnin inn til þjónustunnar veitir þú HMD Global leyfi sem gildir um heim allan og er almennt, framseljanlegt, úthlutanlegt, að fullu greitt, felur ekki í sér rétthafagreiðslu, varanlegt og óafturkræft til að nota, afrita, flytja opinberlega, birta, dreifa á hvers kyns miðlum og breyta gögnunum til að nýta gögnin í öðrum verkum, og til að veita áþekk undirleyfi að því marki sem nauðsynlegt er til að hægt sé að veita þjónustuna. Þú getur hugsanlega stillt þessa leyfisveitingu í persónuverndarstillingum og öðrum stillingum þjónustunnar. 
+ 
+Þú berð ein(n) ábyrgð á því að taka öryggisafrit af gögnunum sem þú geymir í þjónustunni, þ.m.t. efninu sem þú hleður upp. Ef þjónustunni er hætt eða hún afturkölluð getur HMD Global eytt gögnum þínum varanlega. HMD Global ber engin skylda til að skila þér gögnum aftur eftir að þjónustunni er hætt eða hún afturkölluð. 
+ 
+5. Notkun þjónustunnar 
+Þú samþykkir að: 
+• Uppfylla gildandi lög, skilmálana og góða siði; 
+• Nota þjónustuna einungis til einkanota og ekki í viðskiptalegum tilgangi; 
+• Senda ekki inn gögn sem eru ólögleg, móðgandi, röng, villandi, svívirðileg, klámfengin, meiðandi, áreitandi eða á annan hátt óviðeigandi; 
+• Útvega hvers kyns samþykki, heimildir eða leyfi sem kunna að vera áskilin skv. lögum til að þú geti sent inn gögn; 
+• Virða einkalíf annarra; 
+• Ekki dreifa eða senda ruslpóst, óeðlilega stórar skrár, keðjubréf, píramídasölu, vírusa; eða 
+• Nota ekki neina aðra tækni eða hefja aðrar aðgerðir sem gætu skaðað þjónustuna, eða hagsmuni eða eignir notenda þjónustunnar. 
+• Nota ekki sjálfvirk kerfi eða aðferðir til að fá aðgang að, ná, afrita eða vakta neinn hluta þjónustunnar; og 
+• Taka ábyrgð á hvers kyns afleiðingum sem hljótast kunna af þeim gögnum sem þú sendir inn. 
+ 
+HMD Global getur en ber engin skylda til að: 
+• Vakta eða breyta efni eða gögnum; 
+• Fjarlægja hvers kyns gögn úr þjónustunni; og 
+• Takmarka aðgang að einhverjum hluta þjónustunnar hvenær sem og að eigin vild. 
+ 
+6. Efni 
+Áður en efni er sótt eða það opnað skaltu gæta að því hvort aldurstakmarks sé á efninu sem þú vilt fá aðgang eða hvort það sé merkt sem hugsanlega „móðgandi“ eða „opinskátt“. 
+ 
+HMD Global skal ekki bera neina ábyrgð á hvers kyns kröfum eða brotum sem hlýst af aðgangi þínum að slíku efni. 
+ 
+Þú samþykkir: 
+• Að nota efnið eingöngu til persónulegra nota og ekki í viðskiptalegum tilgangi; 
+• Að nota efnið í samræmi við þær takmarkanir sem kveðið er á um í viðeigandi lögum, viðbótarskilmálum, leiðbeiningum og reglum eða á vörusíðunum sem eiga við um þann tiltekna hluta þjónustunnar. 
+• Að búa ekki til afrit, gefa ekki eða selja, endurselja, leigja, bjóða, senda út, senda, dreifa, færa, veita til almennings, endurgera, breyta, birta, flytja, nýta í viðskiptalegum tilgangi eða gera efnið aðgengilegt nema slíkt sé heimilt samkvæmt viðeigandi skilmálum og að tilkynna HMD Global án tafar um alla slíka notkun í leyfisleysi; 
+• Að fjarlægja ekki, fara á svig við, vendismíða, afkóða eða breyta á annan hátt eða trufla hvers kyns viðeigandi notkunarreglur eða reyna að fara á svig við stafræna réttindatækni eða höfundarréttarvarnir sem tengjast efninu eða aðra tækni sem notuð er til að stjórna aðgangi að eða notkun á efninu eða auðkennandi upplýsingum þess; 
+• Að nota ekki nein sjálfvirk kerfi eða aðferðir, nema þær sem við veitum, til að velja eða hlaða niður efninu; og 
+• Að gefa ekki upp aðgangsorð þitt eða leyfa öðru fólki að fá aðgang að efninu á annan hátt. Takmarkanir á afritun sem eiga við um viðeigandi miðla eiga einnig við um efnið sem fenginn er aðgangur að sem hluti af þjónustunni. 
+ 
+Efnið er í eigu og/eða er stýrt af HMD Global og/eða viðeigandi leyfisveitendum þess og er varið af lögum um hugverkarétt. Efnisveita þriðja aðila ber eingöngu ábyrgð á því efni sem hún veitir, hvers kyns ábyrgðum að því marki sem slíkum ábyrgðum hefur ekki verið hafnað og hvers kyns kröfum sem þú kannt að hafa sem tengjast því efni eða notkun þinni á efninu. Hins vegar getur HMD Global beitt ákvæðum efnisleyfis þriðja aðila gegn þér sem þriðji aðili og rétthafi þessara ákvæða. Efnisveitur þriðja aðila eru þriðju aðilar sem eru rétthafar skv. þessum skilmálum og geta beitt ákvæðunum sem lúta beint að efninu sem þær hafa rétt til. HMD Global getur gegnt hlutverki fulltrúa fyrir efnisveitu þriðja aðila og veitt efninu til þín. HMD Global á ekki aðild að viðskiptunum á milli þín og efnisveitu þriðja aðila fyrir slíkt efni. 
+ 
+7. Ásakanir um brot á höfundarrétti 
+HMD Global virðir hugverkarétt þriðju aðila. Ef þú vilt senda tilkynningu um brot á hugverkarétti, þar á meðal kröfur um brot á höfundarrétti, skaltu nota verklagsreglur okkar varðandi tilkynningar um brot. ÖLLUM BEIÐNUM SEM EKKI TENGJAST ÞESSU FERLI VERÐUR EKKI SVARAÐ. 
+ 
+HMD Global notar þau ferli sem sett eru fram í 17. grein bandarískra laga, kafla 512 til að bregðast við tilkynningum um brot á höfundarrétti. Við viðeigandi aðstæður getur HMD Global hugsanlega einnig slökkt á eða sagt upp reikningum notenda þjónustu HMD Global sem brjóta ítrekað af sér. 
+ 
+8. Tilkynningar 
+HMD Global getur birt tilkynningar inni í þjónustunni. HMD Global getur einnig sent þér tilkynningar um vörur og þjónustu á netfang þitt eða símanúmer sem þú hefur gefið okkur upp. Þú telst hafa móttekið slíkar tilkynningar að minnsta kosti innan sjö (7) daga frá því HMD Global sendi eða póstlagði þær. Áframhaldandi notkun þín á þjónustunni felur í sér móttöku þína á öllum tilkynningum burtséð frá afhendingarmáta. 
+ 
+9. Gjöld 
+Hugsanlega þarftu eða muntu þurfa að greiða gjald fyrir notkun þína á þjónustunni. 
+ 
+Tilkynnt verður sérstaklega í tengslum við þjónustuna um hvers kyns gjöld sem HMD Global innheimtir. 
+ 
+Notkun á þjónustunni kann að fela í sér sendingu gagna í gegnum netkerfi símafyrirtækisins þíns. Verð sem gefin eru upp innan þjónustunnar fela ekki í sér hugsanlegar gagnasendingar, textaskilaboð, raddsímtöl eða aðra þjónustu sem símafyrirtækið þitt innheimtir gjöld fyrir. 
+ 
+HMD Global tekur enga ábyrgð á greiðslum slíkra gjalda frá símafyrirtækinu þínu. 
+ 
+10. Pöntunar- og greiðsluskilmálar 
+„Pöntun“ merkir val á gjaldskyldu efni og/eða áskrift að efni sem HMD Global býður og er í boði í þjónustunni og innsendingu á greiðslumáta, auk innsendingar á pöntuninni með því að velja „kaupa“, „í lagi“, „ég samþykki“ eða aðra áþekka staðfestingu á samþykki í pöntunarferlinu eða með því að gefa aðra vísbendingu um samþykki skilmála sem þér eru birtir í pöntunarferlinu. 
+ 
+Til að senda inn pöntun í þjónustunni verður þú að hafa náð lögaldri í samræmi við viðeigandi löggjöf. Hafir þú ekki náð lögaldri geturðu aðeins sent inn pöntun með fyrirframgefnu samþykki foreldris eða forráðamanns. 
+ 
+Þú samþykkir að allar pantanir séu lagalega gildar og bindandi. Allar pantanir eru háðar samþykki HMD Global. 
+ 
+Þú getur greitt með kredit- eða debetkorti, greiðslu í gegnum símafyrirtæki eða öðrum greiðslumáta ef í boði er. 
+ 
+Kredit- eða debetkortið þitt verður að vera með heimilisfang greiðanda í landinu þar sem þjónustan býður efnið. HMD Global gjaldfærir kreditkortið þitt eða skuldfærir bankareikninginn þinn innan sanngjarns tíma frá því þú sendir inn pöntun. Allar kreditkortagreiðslur eru háðar staðfestingu og heimild útgefanda kortsins. 
+ 
+Ef þú velur greiðslu í gegnum símafyrirtæki birtast gjaldfærslurnar á farsímareikningi þínu eða eru dregnar frá fyrirframgreiddri áskrift þinni ef um slíka áskrift er að ræða. Sum símafyrirtæki gætu gert notkun þína á þjónustunni háða viðbótarákvæðum og skilmálum, þ.m.t. að takmarka hámarksupphæð gjaldfærslna með greiðslu í gegnum símafyrirtæki. Gjaldfærslum sem fara yfir takmörk símafyrirtækis eða innistæðu á reikningi verður hugsanlega hafnað. 
+ 
+Þú samþykkir að greiða gjöldin sem tengjast pöntuninni þinni, að tryggja að greiðslumátinn sé gildur þegar pöntunin er gerð, að þú sért réttur handhafi greiðslumátans og að greiðslumátinn sé notaður þannig að ekki sé farið yfir greiðslutakmörk. 
+ 
+Þú færð heimild fyrir efninu sem er afhent. Þú samþykkir að nota efnið eingöngu á þann hátt sem leyfilegt er skv. þessum skilmálum og hvers kyns viðbótarskilmálum sem kunna að vera birtir þér í pöntunarferlinu. 
+ 
+Þjónustan kann að bjóða upp á áskrift. Þú heimilar þjónustunni að gjaldfæra reglulega á meðan áskriftin er í gildi. Þjónusta kann einnig að fela í sér prufutíma. Ef pöntunin þín felur í sér prufutíma kann gjald að vera tekið af þér þegar prufutíminn rennur út, nema þú segir áskriftinni upp í samræmi við ákvæði áskriftarinnar/prufunnar. 
+ 
+Verðin í þjónustunni geta breyst af og til. Verðin fela í sér viðeigandi skatta sem gilda á þeim tíma sem viðskiptin eru gerð, nema annað sé tekið fram. Upp kunna að koma tilvik þar sem bankinn þinn eða kreditkortafyrirtækið taka viðbótargjöld vegna gjaldmiðlagengis sem er notað og/eða metinna viðbótarþóknana. HMD Global tekur enga ábyrgð á greiðslum á gjöldum eða þóknunum til banka eða annarrar þjónustu þriðja aðila. 
+ 
+11. Uppsagnir og endurgreiðslur 
+Þú samþykkir að rafræn afhending efnis fari fram á sama tíma og þú sendir inn pöntunina. Þú getur ekki hætt við pöntunina þegar búið er að afgreiða hana. Efnið er þannig úr garði gert að ekki er hægt að skila því. 
+ 
+Ef til þess kemur að þú uppgötvir eftir að pöntunin er gerð og tilkynnir það án tafar til HMD Global innan 48 klst. að (a) efnið sem þú pantaðir sé gallað; (b) að efnið sem HMD Global sendir þér samsvari ekki lýsingunni á efninu sem þú pantaðir í gegnum þjónustuna; eða (c) tæknileg vandamál hafi tafið eða hindrað afhendingu á efninu eða hafi valdið því að margar pantanir hafi verið gerðar fyrir slysni, er eina trygging þín að annaðhvort skipta út slíku efni eða fá fjárhæðina sem greidd var fyrir efnið endurgreidda, sem eingöngu er tilgreind af HMD Global. 
+ 
+Að öðrum kosti eru engar endurgreiðslur í boði. Ef einhver af framangreindum vandamálum koma upp skaltu hafa samband við þjónustudeild HMD Global. 
+ 
+Athugaðu að ekki er víst að þjónustudeild HMD Global geti afgreitt þjónustubeiðni þína ef þú getur ekki gefið okkur upp færsluauðkenni þitt, sem þú færð frá HMD Global eftir að þú hefur lagt inn pöntun úr þjónustunni. HMD Global getur eingöngu afgreitt endurgreiðslur fyrir efni þar sem heildarverðið er hærra en mörk fjárhæðar sem kveðið er á um í staðbundinni löggjöf sem við á. 
+ 
+12. Athugasemdir til HMD Global 
+Með því að senda hugmyndir, ábendingar og/eða tillögur („ábendingar“) til HMD Global í gegnum þjónustuna eða eftir öðrum leiðum, samþykkir þú og viðurkennir að: (1) HMD Global er hugsanlega með áþekkar þróunarhugmyndir og er að finna í ábendingunum; (2) ábendingarnar þínar innihalda ekki trúnaðarupplýsingar eða upplýsingar sem þú eða þriðji aðili hafa einkaleyfi á; (3) HMD Global ber engin skylda til að sýna trúnað gagnvart ábendingunum; (4) HMD Global hefur leyfi til að nota, dreifa, nýta og þróa frekar og breyta ábendingunum í hvaða tilgangi sem er og (5) þú hefur engan rétt á greiðslu af nokkru tagi frá HMD Global. 
+ 
+13. Virkni á samfélagsmiðlum og staðsetningu deilt 
+Þú getur notað eiginleika í þjónustunni til að deila staðsetningu þinni, stöðu, efni, gögnum eða persónuupplýsingum eða til að eiga samskipti við aðra notendur, vefsvæði og þjónustur. Með því að nota þessa eiginleika samþykkir þú að HMD Global geti notað og veitt þessar upplýsingar til annarra þjónusta og einstaklinga sem þú kýst að eiga í samskiptum við eða deila þessum upplýsingum með. Notendur þessara þjónusta og einstaklingar, svo sem tengiliðir þínir, geta séð staðsetningu þína, stöðu og/eða persónuupplýsingar. Með því að nota þessa eiginleika samþykkir þú að deila ekki upplýsingum, efni eða gögnum eða tengja í einhverja þjónustu eða vefsvæði sem: (a) inniheldur efni eða annað innihald sem er ólöglegt eða óviðeigandi; eða (b) misnotar hugverkaréttindi án leyfis eða hvetur notendur til ólöglegrar dreifingar. HMD Global á engan þátt í neinum samskiptum og eru þau eingöngu á milli þín og annars notanda/annarra notenda. 
+ 
+14. Framboð og tæknileg skilyrði 
+Framboð á efninu og þjónustunni getur verið breytilegt og er háð vilja HMD Global. HMD Global hafnar öllu umboði og ábyrgð á því að eitthvert tiltekið efni eða þjónusta sé í boði. Þjónustan er hugsanlega ekki í boði í öllum löndum og er hugsanlega aðeins í boði á völdum tungumálum. Þjónustan, aðgerðir og sumir eiginleikar kunna einnig að vera háðir samhæfi við netkerfi, samhæfi tækjanna sem notuð eru og efnissniði sem er í boði. 
+ 
+Til að fá aðgang að þjónustunni þarftu hugsanlega að hlaða niður sérstökum hugbúnaði sem HMD Global eða annar aðili hefur þróað. 
+ 
+HMD Global getur, að eigin vild, breytt, leiðrétt eða hætt þjónustunni að hluta eða í heild. Þjónustan verður hugsanlega ekki í boði á meðan viðhald fer fram og á öðrum tímum. Tækið þitt kann að leita sjálfvirkt eftir nýjum hugbúnaðaruppfærslum frá HMD Global, til að tryggja að þú sért með nýjasta hugbúnað og forrit fyrir tækið. Ef nýjar útgáfur finnast færðu kvaðningu um að samþykkja uppsetninguna. Þú getur gert sjálfvirka leit að uppfærslum óvirka í stillingum í tækinu þínu. Þú getur einnig sett upp hugbúnað í gegnum hugbúnaðarveitur sem í boði eru. Ef HMD Global telur hugbúnaðaruppfærslu mikilvæga eða nauðsynlega geturðu ekki haldið áfram að nota eldri útgáfu hugbúnaðarins. HMD Global getur komið í veg fyrir að þú notir eldri útgáfu af hugbúnaðinum eða þjónustunni þar til þú hefur sett uppfærsluna upp. 
+ 
+HMD Global getur gert efni eða hugbúnað á þjónustureikningi þínum óvirkan af hvaða ástæðu sem er og fjarlægt efni eða hugbúnað og/eða gert afrit af forriti á tækinu þín óvirkt í þeim tilgangi að verja þjónustuna, hugbúnaðarveitur, netþjónustur sem þú notar til að fá aðgang að þjónustunni eða allar aðra aðila sem verða fyrir eða kunna að verða fyrir áhrifum. 
+ 
+Tiltekin þjónusta getur verið forútgáfa, til dæmis beta-útgáfa, og virkar hugsanlega ekki á þann hátt sem endanleg útgáfa mun gera. HMD Global getur breytt verulega hvaða útgáfu af þjónustunni eða hugbúnaðinum sem er eða ákveðið að gefa ekki út endanlega útgáfu. 
+ 
+15. Tenglar á vefsvæði og efni þriðja aðila 
+HMD Global getur falið í sér aðgang að vefsvæðum og þjónustum á internetinu eða foruppsettum biðlurum sem gera þér kleift að vinna með vefsvæði og þjónustur sem eru í eigu eða undir stjórn þriðju aðila og sem eru ekki hluti af þjónustunni. Nauðsynlegt er að skoða og samþykkja ákvæði og skilmála þessara vefsvæða eða þjónusta áður en þær eru notaðar. 
+ 
+HMD Global hefur enga stjórn á efni, vefsvæðum eða þjónustu þriðju aðila og tekur ekki á sig neina ábyrgð fyrir þjónustu eða efni sem búin eru til eða birt í þessum vefsvæðum eða þjónustum þriðju aðila. Tengill á vefsvæði þriðja aðila felur ekki í sér að HMD Global styðji vefsvæðið eða vörurnar eða þjónustuna sem vísað er til á því vefsvæði. 
+ 
+Auk þess getur þú og aðrir notendur búið til efni og tengla í efni innan þjónustunnar sem hefur ekki verið sent inn í þjónustuna áður. HMD Global ber ekki ábyrgð á þess háttar efni eða tenglum. 
+ 
+16. Auglýsingar 
+Þjónustan getur falið í sér auglýsingar. Auglýsingar eru hugsanlega miðaðar á efni eða upplýsingar sem geymdar eru í þjónustunni, fyrirspurnir sem gerðar eru í gegnum þjónustuna eða aðrar upplýsingar. 
+ 
+17. Persónugögn 
+Persónuverndarstefna og hvers kyns viðbótarupplýsingar um persónuvernd sem þér eru veittar stjórna notkun á persónugögnum þínum. 
+ 
+18. Takmörkun á bótaábyrgð 
+Þjónustan er veitt „EINS OG HÚN ER“ og „Í SAMRÆMI VIÐ FRAMBOÐ“. HMD Global ábyrgist ekki að þjónustan verði truflana- og villulaus eða laus við vírusa. Engin ábyrgð af nokkru tagi, hvorki yfirlýst né undirskilin, þ.m.t. en án takmarkana ábyrgð á eignarrétti, brotum á höfundarrétti, seljanleika eða því að varan henti tiltekinni notkun, er veitt hvað varðar framboð, nákvæmni, áreiðanleika, upplýsingar eða efni þjónustunnar. Þú gefur yfirlýst samþykki þitt fyrir því og viðurkennir að notkun á þjónustunni er á þína eigin ábyrgð og að þú komist hugsanlega í snertingu við efni úr ýmsum áttum. 
+ 
+HMD Global ber ekki undir neinum kringumstæðum ábyrgð á hvers kyns óbeinum, afleiddum, tilfallandi, eða refsiverðum skaða sem notkun þín eða vangeta þín til notkunar á þjónustunni veldur, nema um sé að ræða ábyrgð vegna dauða eða heilsutjóns sem stafar af vítaverðri vanrækslu þess eða vísvitandi broti. 
+ 
+19. Skaðabætur 
+Þú samþykkir að verja og bæta HMD Global skaða frá og gegn öllum kröfum þriðju aðila og allri bótaábyrgð, úttektum, tapi, kostnaði eða skaða sem stafa af (i) broti þínu á skilmálunum, (ii) broti þínu á hugverkaréttindum, öðrum réttindum eða persónuvernd þriðja aðila, eða (iii) misnotkun á þjónustunni af hálfu þriðja aðila þar sem misnotkunin kom til vegna vangetu þinnar til að grípa til skynsamlegra aðgerða til að verja notandanafn þitt og aðgangsorð gegn misnotkun. 
+ 
+20. Ýmislegt 
+ 
+20.1 Val á löggjöf 
+Þessir skilmálar falla undir lög í Finnlandi án tillits til árekstra vegna lagaákvæða. 
+ 
+20.2 Gildi 
+Skilmálarnir undanskilja hvorki né takmarka lögboðin réttindi þín í búsetulandi þínu sem ekki er hægt að fella niður skv. lögum. Ef ákvæði í skilmálunum telst vera ógilt, halda önnur ákvæði gildi sínu og ógilda ákvæðinu verður skipt út fyrir gilt ákvæði sem kemst næst niðurstöðum og tilgangi skilmálanna. Ef til þess kemur að eitt eða fleiri ákvæði í þessum skilmálum eiga ekki við um notkun þína á þjónustunni, hefur það ekki áhrif á gildi eða framfylgni annarra ákvæða í skilmálunum eða skilmálanna í heild sinni. Ef upp koma árekstrar á milli þessara þjónustuskilmála HMD Global og persónuverndarstefnunnar, gilda ákvæði þessara þjónustuskilmála HMD Global. Ákvæði skilmálanna sem er ætlað að lifa af lúkningu skráningar þinna halda gildi sínu eftir lúkningu. 
+ 
+20.3 Breytingar á skilmálum 
+HMD Global áskilur sér rétt til að endurskoða skilmálana hvenær sem er án undangenginnar tilkynningar. Ef skilmálunum er breytt efnislega á merkjanlegan hátt, birtir HMD Global sérstaka tilkynningu um breytinguna. 
+ 
+Það er á þína ábyrgð að fara reglulega yfir skilmálana. Áframhaldandi notkun þín á þjónustunni felur í sér samþykki þitt á hvers kyns breytingum. 
+ 
+21. Hugverkaréttindi 
+Þjónustan, efnið og hugbúnaðurinn eru varin með alþjóðlegum lögum um höfundarrétt. HMD Global gerir tilkall til höfundarréttar á þjónustu sinni, efni og hugbúnaði að því marki sem lög leyfa. Samkvæmt þessum skilmálum heldur HMD Global öllum réttindum á, tilkalli til og hag af þjónustunni, efni hennar, hugbúnaðinum og öllum öðrum afurðum, hugbúnaði og öðrum eiginleikum HMD Global sem veitt er til þín eða þú notar í gegnum þjónustuna. 
+ 
+22. Úthlutun 
+HMD Global getur úthlutað réttindum sínum og skyldum skv. þessum skilmálum til yfirfyrirtækis síns, allra dótturfyrirtækja þess eða allra annarra fyrirtækja sem lúta sömu stjórn og HMD Global. Þessu til viðbótar getur HMD Global úthlutað réttindum sínum og skyldum skv. þessum skilmálum til þriðja aðila í tengslum við samruna, yfirtöku, sölu á eignum, með lagagjörningi eða á annan hátt."</string>
+    <string name="hmd_user_experience_program_message">Þátttaka þín í áætluninni um bætta upplifun notenda gerir HMD Global kleift að átta sig á hvað þér líkar við Nokia-tækið og hvað þér finnst að þurfi að bæta. Stöku sinnum fáum við óauðkennd gögn með tæknilegum upplýsingum um tækið þitt, til dæmis skrá með upplýsingum um hrun hugbúnaðar sem kann að hafa átt sér stað. Athugaðu að slík gögn eru ekki flutt í gegnum farsímakerfi. Okkur þætti vænt um að heyra hvað þér finnst um Nokia-tækið þitt!</string>
+    <string name="hmd_user_experience_program_title">Áætlun um bætta upplifun notenda</string>
+    <string name="idle_too_long_toast">Síminn hefur ekki verið notaður í einhvern tíma. Slökktu núna til að spara orku.</string>
+    <string name="insert_sim_cards">Settu SIM-kort í</string>
+    <string name="insert_sim_cards_prompt_content">"Ertu ekki viss hvernig? Skoðaðu leiðbeiningarnar sem fylgdu með símanum.
+
+Þegar þú setur SIM-kortin í getur tekið nokkrar sekúndur fyrir þau að virkjast."</string>
+    <string name="language_selection_cancel_btn">HÆTTA VIÐ</string>
+    <string name="language_selection_title">Veldu tungumál</string>
+    <string name="light_room_description">%1$s styður töku á RAW (DNG) myndum. Hægt er að breyta myndunum beint í nýja snjallsímanum þökk sé samstarfi okkar við Adobe.&lt;br/>&lt;br/>Sæktu Adobe Photoshop Lightroom CC í Google Play Store núna.</string>
+    <string name="light_room_title">Hefurðu mikinn áhuga á ljósmyndun?</string>
+    <string name="link_speed">%1$d Mb/sek.</string>
+    <string name="location_for_service">Nota staðsetninguna mína fyrir Google-leitarniðurstöður og aðra þjónustu Google.</string>
+    <string name="location_info_1">Staðsetningarþjónusta Google gefur forritum upp áætlaða staðsetningu þína án þess að nota GPS.</string>
+    <string name="location_info_2">Þú getur slökkt á þessum eiginleikum í stillingunum, undir „Staðsetningarþjónusta“.</string>
+    <string name="location_network">Leyfa staðsetningarþjónustu Google að safna nafnlausum staðsetningargögnum. Gögnum er safnað jafnvel þótt engin forrit séu í gangi.</string>
+    <string name="location_title">Nota staðsetningu frá Google</string>
+    <string name="nevigation_selection_back">Til baka</string>
+    <string name="nevigation_selection_home">Home</string>
+    <string name="nevigation_selection_recent">Nýlegt</string>
+    <string name="nevigation_selection_text">Þú getur breytt bakgrunnslitnum og stöðu takkanna „Til baka“ og „Nýlegt“.</string>
+    <string name="nevigation_selection_title">Stillingar yfirlitsstiku</string>
+    <string name="next_btn_lebel">ÁFRAM</string>
+    <string name="normal_date_format">Svæðisbundið (%s)</string>
+    <string name="not_now">EKKI NÚNA…</string>
+    <string name="passpoint_content">%1$s skilríki</string>
+    <string name="passpoint_label">Vistað í gegnum</string>
+    <string name="please_select_phase2">Annars stigs staðfesting</string>
+    <string name="proxy_error_empty_host_set_port">Reitur fyrir gátt verður að vera auður ef reitur hýsils er auður.</string>
+    <string name="proxy_error_empty_port">Þú þarft að fylla út reitinn fyrir gátt.</string>
+    <string name="proxy_error_invalid_exclusion_list">Útilokunarlistinn sem þú skrifaðir er ekki rétt sniðinn. Sláðu inn lista, aðskilinn er með kommum, yfir útilokuð lén.</string>
+    <string name="proxy_error_invalid_port">Gáttin sem þú gafst upp er ekki gild.</string>
+    <string name="proxy_exclusionlist_label">Sneiða hjá proxy-þjóni fyrir</string>
+    <string name="proxy_hostname_label">Heiti proxy-þjóns</string>
+    <string name="proxy_port_label">Proxy-gátt</string>
+    <string name="proxy_settings_title">Proxy-þjónn</string>
+    <string name="proxy_url_title">"PAC-vefslóð: "</string>
+    <string name="proxy_warning_limited_support">Proxy-þjónn fyrir HTTP er notaður af vafranum en ekki er víst að önnur forrit noti hann.</string>
+    <string name="saved_network">Vistað með %1$s</string>
+    <string name="select_sim_card">Velja SIM-kort</string>
+    <string name="setup_complete_hmd">Það er allt klárt fyrir þig ...</string>
+    <string name="setup_complete_hmd_1">Nú er þetta næstum því komið...!</string>
+    <string name="setup_complete_main">Þú ert</string>
+    <string name="setup_complete_sub">TIL Í TUSKIÐ.</string>
+    <string name="setup_completed_congratulations">Til hamingju!</string>
+    <string name="setup_finish">BYRJUM NÚ</string>
+    <string name="sim_editor_title">SIM-kortarauf %1$d</string>
+    <string name="sim_not_exist_toast">Athugaðu hvort SIM-kortið er í.</string>
+    <string name="skip_add_account_button_label">Ekki núna</string>
+    <string name="skip_button_label">Sleppa</string>
+    <string name="term_agree_text">Samþykkja</string>
+    <string name="term_disagree_text">Hafna</string>
+    <string name="terms_of_service_description">"
+Gjald kann að verða tekið fyrir gagnanotkun þegar þú notar þjónustu sem krefst nettengingar, t.d. veðurþjónustu, internet, tölvupóst, vafra o.s.frv. Við mælum með að þú skráir þig fyrir gagnaáskrift við hæfi hjá símafyrirtækinu þínu til að halda kostnaði í lágmarki.
+
+Með því að samþykkja leyfirðu þessari þjónustu að tengjast netinu þegar þörf krefur.
+
+Sjálfvirk hugbúnaðaruppfærsla er einnig sjálfgefið virk. Gagnanotkun er nauðsynleg til að færa þér nýjustu hugbúnaðarupplifunina hverju sinni. Þú getur alltaf breytt þessu síðar í stillingum.
+
+"</string>
+    <string name="terms_title">Gagnanotkun</string>
+    <string name="time_picker_title">Tími</string>
+    <string name="traffic_prompt_content">Ef þú samþykkir ekki þarftu að sækja hugbúnaðaruppfærslur, veðurspá og aðrar upplýsingar handvirkt.</string>
+    <string name="upload_agent_des_text">"Skráning í upplifun notenda. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Upplýs.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Taktu þátt í að bæta upplifun Nokia-notenda. &lt;a href='launch.UserExperienceActivity://Kode'>Frekari upplýsingar.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"Með því að pikka á \"BYRJUM NÚ\" samþykkir þú að taka þátt í áætlun um bætta upplifun notenda. &lt;a href='launch.UserExperienceActivity://Kode'>Frekari upplýsingar&lt;/a>. Mundu að þú getur alltaf tekið þátt síðar með því að fara í stillingarnar."</string>
+    <string name="upload_agent_title">Upplifun notanda</string>
+    <string name="welcome_hmd_term_of_use_2">"Með því að pikka á örina samþykkir þú &lt;a href='launch.TermOfServiceActivity://Kode'>þjónustuskilmála&lt;/a> og &lt;a href='launch.AddUploadAgentHandler://Kode'>persónuverndarstefnu&lt;/a>. Upplýsingar um virkjun tækisins og staðsetningu tækisins eru sendar einu sinni til HMD Global. Gagnaflutningsgjöld kunna að eiga við."</string>
+    <string name="welcome_hmd_term_of_use_4">"Með því að pikka á hnappinn samþykkir þú &lt;a href='launch.TermOfServiceActivity://Kode'>þjónustuskilmála&lt;/a> og &lt;a href='launch.AddUploadAgentHandler://Kode'>persónuverndarstefnu&lt;/a>. Upplýsingar um virkjun tækisins og staðsetningu tækisins eru sendar einu sinni til HMD Global.&lt;br/>&lt;br/>Kveikt verður á tilkynningu um sjálfvirka uppfærslu hugbúnaðar sem setur upp nýjustu uppfærslurnar fyrir þig. Þetta kann að nota lítinn hluta gagnamagnsins þíns. Þjónustan tengist internetinu þegar þess er þörf.&lt;br/>&lt;br/>Þessi þjónusta kann að valda viðbótarkostnaði þegar hún tengist farsímakerfi."</string>
+    <string name="welcome_hmd_term_of_use_5">"Með því að pikka á hnappinn samþykkir þú &lt;a href='launch.TermOfServiceActivity://Kode'>þjónustuskilmálana&lt;/a>. Upplýsingar um virkjun og staðsetningu tækisins eru sendar einu sinni til HMD Global. Gagnaflutningsgjöld kunna að eiga við. Gögn verða notuð í samræmi við &lt;a href='launch.AddUploadAgentHandler://Kode'>persónuverndarstefnuna&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"Samþykktu &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>notkunarskilmálana&lt;/a> með örinni"</string>
+    <string name="welcome_lets_go_button_label">Byrjum nú</string>
+    <string name="welcome_message">Komdu fagnandi</string>
+    <string name="welcome_start_button_label">BYRJA</string>
+    <string name="welcome_vision_settings_button_label">Sjónstillingar</string>
+    <string name="wifi_add_network">Bæta við neti</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Fellilisti yfir ítarlega valkosti. Pikka tvisvar til að stækka.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Fellilisti yfir ítarlega valkosti. Pikka tvisvar til að minnka.</string>
+    <string name="wifi_and_mobile_skipped_message">"Með nettengingu tekur enga stund að setja símann þinn upp.
+
+Án tengingar geturðu ekki:
+
+"<li>Skráð þig inn á skýjareikninginn þinn</li>"
+
+"<li>Sótt hugbúnaðaruppfærslur</li>"
+
+"<li>Stillt tíma og dagsetningu á sjálfvirkan máta</li></string>
+    <string name="wifi_auth_password_wrong">Aðgangsorðið kann að vera rangt</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Hætta við</string>
+    <string name="wifi_certificate">Vottorð</string>
+    <string name="wifi_connect">Tengjast</string>
+    <string name="wifi_connected_no_internet">Tengt, ekkert internet</string>
+    <string name="wifi_disabled_generic">Slökkt</string>
+    <string name="wifi_disabled_network_failure">Villa í grunnstillingu IP-tölu</string>
+    <string name="wifi_disabled_password_failure">Vandamál tengt sannvottun</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Ekki bjóða upp á</string>
+    <string name="wifi_do_not_validate_eap_server">Ekki staðfesta</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Ekkert skírteini tilgreint. Tengingin þín verður ekki lokuð.</string>
+    <string name="wifi_dont_skip">FARA TIL BAKA</string>
+    <string name="wifi_eap_anonymous">Nafnlaust auðkenni</string>
+    <string name="wifi_eap_ca_cert">CA-vottorð</string>
+    <string name="wifi_eap_domain">Lén</string>
+    <string name="wifi_eap_identity">Auðkenni</string>
+    <string name="wifi_eap_method">EAP-aðferð</string>
+    <string name="wifi_eap_user_cert">Notandavottorð</string>
+    <string name="wifi_fail_to_scan">Ekki er hægt að leita að kerfum</string>
+    <string name="wifi_failed_connect_message">Ekki tókst að tengjast neti</string>
+    <string name="wifi_failed_forget_message">Ekki tókst að gleyma neti</string>
+    <string name="wifi_failed_save_message">Ekki tókst að vista net</string>
+    <string name="wifi_forget">Gleyma</string>
+    <string name="wifi_frequency">Tíðni</string>
+    <string name="wifi_gateway">Gátt</string>
+    <string name="wifi_ip_address">IP-tala</string>
+    <string name="wifi_ip_settings">IP-stillingar</string>
+    <string name="wifi_ip_settings_invalid_dns">Sláðu inn gilt DNS-vistfang.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Sláðu inn gilt vistfang gáttar.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Sláðu inn gilda IP-tölu.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Sláðu inn lengd netforskeytis á bilinu 0 og 32.</string>
+    <string name="wifi_multiple_cert_added">(Mörgum vottorðum bætt við)</string>
+    <string name="wifi_network_prefix_length">Lengd netforskeytis</string>
+    <string name="wifi_no_domain_warning">Tilgreina þarf lén.</string>
+    <string name="wifi_no_internet">Enginn internetaðgangur</string>
+    <string name="wifi_no_internet_no_reconnect">Ekki er hægt að tengja sjálfvirkt</string>
+    <string name="wifi_not_in_range">Ekki innan sviðs</string>
+    <string name="wifi_password">Aðgangsorð</string>
+    <string name="wifi_picker_connection_des_text">Ef þú slekkur á þráðlausa netinu kann gjald að verða tekið fyrir að staðfesta hugbúnaðinn þinn yfir farsímanet.</string>
+    <string name="wifi_picker_connection_negative">Tengjast</string>
+    <string name="wifi_picker_connection_negative_prc">Tengjast Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">Ókei</string>
+    <string name="wifi_picker_connection_title">Nettenging</string>
+    <string name="wifi_picker_warning_des_text">Síminn getur ekki staðfest hvort hugbúnaðurinn er uppfærður fyrr en hann tengist netinu.</string>
+    <string name="wifi_picker_warning_negative">Sleppa samt</string>
+    <string name="wifi_picker_warning_positive">Ekki sleppa</string>
+    <string name="wifi_picker_warning_title">Viðvörun</string>
+    <string name="wifi_remembered">Vistað</string>
+    <string name="wifi_save">Vista</string>
+    <string name="wifi_security">Öryggi</string>
+    <string name="wifi_security_none">Engin</string>
+    <string name="wifi_setting_title">Komdu þér í samband</string>
+    <string name="wifi_shared">Deila með öðrum notendum tækisins</string>
+    <string name="wifi_show_advanced">Ítarlegir valkostir</string>
+    <string name="wifi_show_password">Sýna aðgangsorð</string>
+    <string name="wifi_signal">Sendistyrkur</string>
+    <string name="wifi_skip_anyway">SLEPPA SAMT</string>
+    <string name="wifi_speed">Hraði tengingar</string>
+    <string name="wifi_ssid">Heiti nets</string>
+    <string name="wifi_ssid_hint">Slá inn SSID-kennið</string>
+    <string name="wifi_status">Staða</string>
+    <string name="wifi_unchanged">(óbreytt)</string>
+    <string name="wifi_unspecified">Veldu</string>
+    <string name="wifi_use_system_certs">Nota kerfisvottorð</string>
+    <string name="zone_auto">Sjálfvirkt tímabelti</string>
+    <string name="zone_auto_summaryOff">Nota tímabelti frá símkerfi</string>
+    <string name="zone_auto_summaryOn">Nota tímabelti frá símkerfi</string>
+    <string name="sugarsync_intro_description">Ef þú ferð í gegnum nokkur einföld skref geturðu nýtt þér þægilega skýjageymslu með SugarSync.</string>
+</resources>

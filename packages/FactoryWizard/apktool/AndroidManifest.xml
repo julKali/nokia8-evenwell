@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" android:sharedUserId="android.uid.system" package="com.evenwell.factorywizard" platformBuildVersionCode="28" platformBuildVersionName="9">
+    <supports-screens android:anyDensity="true"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <protected-broadcast android:name="com.fihtdc.InfocusSetupWizard.UiccCard_STATE"/>
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name">
+        <uses-library android:name="com.fihtdc.telephony"/>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.factorybarcode.FirstPageHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter android:priority="7">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.HOME"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.factorybarcode.FactoryPage" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <service android:directBootAware="true" android:name="com.fihtdc.factorybarcode.FactoryService" android:process="com.android.phone"/>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:excludeFromRecents="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.factorybarcode.SecretCodeActivity" android:screenOrientation="portrait" android:theme="@style/NoTitleDialog">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.fihtdc.factorybarcode.SecretCodeReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="06" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.fihtdc.factorybarcode.AlarmReceiver">
+            <intent-filter>
+                <action android:name="com.fihtdc.factorybarcode.SHUTDOWN"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

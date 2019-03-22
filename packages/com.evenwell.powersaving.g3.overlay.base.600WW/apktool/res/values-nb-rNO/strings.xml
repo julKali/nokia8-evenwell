@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Ikke vis dette igjen.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Avbryt</string>
+    <string name="switch_on_text">På</string>
+    <string name="switch_off_text">Av</string>
+    <string name="fih_power_saving_permission_cancel">Avbryt</string>
+    <string name="lock_screen_ap_protect_title">Bakgrunnsaktivitetsadministrator</string>
+    <string name="all_aps">Legg til alle apper i hvitelisten</string>
+    <string name="fih_power_saving_doze_high_consumption">Høyt strømforbruk</string>
+    <string name="fih_power_saving_background_activity_text">Aktiver Bakgrunnsaktvitetsadministrator for å forlenge batterilevetiden, men det kan hende at varslinger av enkelte apper eller e-poster ikke kan hentes umiddelbart. Du kan administrere batterilevetiden ved å legge til eller fjerne apper i hvitelisten.</string>
+    <string name="fih_power_saving_background_cleaner">Rydding av bakgrunnsaktivitet</string>
+    <string name="fih_power_saving_background_cleaner_summary">Det kan hende at varslingene ikke kan hentes umiddelbart</string>
+    <string name="app_block_list">Begrenset APP-liste</string>
+</resources>

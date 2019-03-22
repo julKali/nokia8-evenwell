@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Статичен</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Автоматично откриване</item>
+        <item>Третиране като измерено</item>
+        <item>Третиране като неизмерено</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Няма</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Няма</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Няма</item>
+        <item>Ръчно</item>
+        <item>Автоматично конфигуриране на прокси</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слаб</item>
+        <item>Среден</item>
+        <item>Добър</item>
+        <item>Отличен</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканиране…</item>
+        <item>Свързване…</item>
+        <item>Удостоверяване…</item>
+        <item>Получаване на IP адрес…</item>
+        <item>Свързано</item>
+        <item>Временно прекъсване</item>
+        <item>Прекъсване на връзката…</item>
+        <item>Връзката е прекъсната</item>
+        <item>Неуспешно</item>
+        <item>Блокирано</item>
+        <item>Временно се избягва лоша връзка</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканиране…</item>
+        <item>Свързване с/ъс %1$s…</item>
+        <item>Удостоверяване в %1$s…</item>
+        <item>Получаване на IP адрес от %1$s…</item>
+        <item>Свързано с/ъс %1$s</item>
+        <item>Временно прекъсване</item>
+        <item>Прекъсване на връзката с %1$s…</item>
+        <item>Връзката е прекъсната</item>
+        <item>Неуспешно</item>
+        <item>Блокирано</item>
+        <item>Временно се избягва лоша връзка</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>Шестнадесетично WAPI</item>
+    </string-array>
+</resources>

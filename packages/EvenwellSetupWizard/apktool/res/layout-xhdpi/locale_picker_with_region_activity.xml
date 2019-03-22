@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:theme="@android:style/Theme.DeviceDefault.Light.Dialog" android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:textColor="@color/welcome_text_color" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/locale_picker_title" android:layout_width="fill_parent" android:layout_height="53.0dip" android:textDirection="locale" android:layoutDirection="locale" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" />
+    <View android:background="@color/navigation_layout_divider_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <ListView android:orientation="vertical" android:id="@id/locale_picker_content_view" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <View android:background="@color/navigation_layout_divider_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:gravity="end|center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="12.0sp" android:textColor="@color/language_picker_cancel_btn_color" android:gravity="center" android:id="@id/cancel_btn" android:background="#00ffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/language_selection_cancel_btn" />
+    </LinearLayout>
+</LinearLayout>

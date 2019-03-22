@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>സ്‌റ്റാറ്റിക്ക്</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>സ്വയമേവ കണ്ടെത്തുക</item>
+        <item>മീറ്റർ ചെയ്തതായി പരിഗണിക്കുക</item>
+        <item>മീറ്റർ ചെയ്യാത്തതായി പരിഗണിക്കുക</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>ഒന്നുമില്ല</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ഒന്നുമില്ല</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>ഒന്നുമില്ല</item>
+        <item>സ്വമേധയാലുള്ളത്</item>
+        <item>പ്രോക്‌സി ഓട്ടോകോൺഫിഗറേഷൻ</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>മോശം</item>
+        <item>തൃപ്തികരം</item>
+        <item>കൊള്ളാം</item>
+        <item>മികച്ചത്</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>സ്‌കാൻ ചെയ്യുന്നു…</item>
+        <item>ബന്ധിപ്പിക്കുന്നു…</item>
+        <item>പ്രാമാണീകരിക്കുന്നു…</item>
+        <item>IP വിലാസം നേടുന്നു…</item>
+        <item>ബന്ധിപ്പിച്ചു</item>
+        <item>താൽക്കാലികമായി നിർത്തി</item>
+        <item>വിച്‌ഛേദിക്കുന്നു…</item>
+        <item>വിച്ഛേദിച്ചു</item>
+        <item>പരാജയപ്പെട്ടു</item>
+        <item>ബ്ലോക്കുചെയ്തു</item>
+        <item>മോശം കണക്ഷൻ താൽക്കാലികമായി ഒഴിവാക്കുന്നു</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>സ്‌കാൻ ചെയ്യുന്നു…</item>
+        <item>%1$s… എന്നതിലേക്ക് ബന്ധിപ്പിക്കുന്നു</item>
+        <item>%1$s… ഉപയോഗിച്ച് പ്രമാണീകരിക്കുന്നു</item>
+        <item>%1$s… എന്നതിൽ നിന്ന് IP വിലാസം നേടുന്നു</item>
+        <item>%1$s എന്നതിലേക്ക് ബന്ധിപ്പിച്ചു</item>
+        <item>താൽക്കാലികമായി നിർത്തി</item>
+        <item>%1$s… എന്നതിൽ നിന്ന് വിച്‌ഛേദിക്കുന്നു</item>
+        <item>വിച്ഛേദിച്ചു</item>
+        <item>പരാജയപ്പെട്ടു</item>
+        <item>ബ്ലോക്കുചെയ്തു</item>
+        <item>മോശം കണക്ഷൻ താൽക്കാലികമായി ഒഴിവാക്കുന്നു</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI ഹെക്‌സാഡെസിമൽ</item>
+    </string-array>
+</resources>

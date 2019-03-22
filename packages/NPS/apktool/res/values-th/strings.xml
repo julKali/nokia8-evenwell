@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ยกเลิก</string>
+    <string name="DONE">เสร็จสิ้น</string>
+    <string name="NEXT">ถัดไป</string>
+    <string name="OK">ตกลง</string>
+    <string name="PREVIOUS">ก่อนหน้า</string>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="alert_empty_desc">โปรดเพิ่มคำอธิบายของคุณ</string>
+    <string name="alert_warning_title">คำเตือน</string>
+    <string name="app_name">NPS</string>
+    <string name="enter_comments">ป้อนความคิดเห็น (1,000 ตัวอักษร)</string>
+    <string name="extremely_likely">(เป็นไปได้สูง)</string>
+    <string name="feedback">ข้อคิดเห็น</string>
+    <string name="helps_us_improve_our_products">ความคิดเห็นของคุณช่วยเราพัฒนาผลิตภัณฑ์ให้ดีขึ้น!</string>
+    <string name="intro_title">คุณมีแนวโน้มจะแนะนำโทรศัพท์นี้กับเพื่อนหรือเพื่อนร่วมงานมากแค่ไหน</string>
+    <string name="msg_send_after">ข้อความจะอัปโหลดโดยอัตโนมัติเมื่ออุปกรณ์ที่ออนไลน์ขอบคุณสำหรับการตอบของคุณ</string>
+    <string name="msg_send_fail">การส่งล้มเหลว ข้อความจะอัพโหลดโดยอัตโนมัติเมื่ออุปกรณ์ออนไลน์อยู่ ขอขอบคุณที่ตอบคำถาม</string>
+    <string name="no_ask_feedback_again_text">อย่าแสดงอีก</string>
+    <string name="no_showagain_text">อย่าแสดงอีก</string>
+    <string name="not_at_all_likely">(เป็นไปได้ต่ำ)</string>
+    <string name="privacy_context_wifi">"เรียนผู้ใช้ 
+
+ขอต้อนรับสู่การใช้ความคิดเห็น ก่อนที่จะใช้แอพนี้ โปรดอ่านและทำความเข้าใจกับข้อตกลงต่อไปนี้อย่างละเอียด หากคุณยอมรับข้อตกลงดังกล่าว โปรดกดปุ่ม ยอมรับ เพื่อใช้งานแอพ หากคุณไม่ยอมรับข้อตกลงเหล่านั้น โปรดกดปุ่ม ออก เพื่อออกจากแอพ เพื่อให้คุณได้รับบริการที่ครอบคลุม แอพจำเป็นต้องได้รับอนุญาตต่อไปนี้: 
+1. การเข้าถึงอินเทอร์เน็ตและเครือข่าย WLAN เพื่อส่งข้อมูลความคิดเห็น 
+2. อ่านข้อมูล IMEI, PSN และ MNC\\MCC เพื่อรับทราบข้อมูลเบื้องต้นเกี่ยวกับโทรศัพท์โดยอัตโนมัติ"</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="select_a_value">โปรดเลือก</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">ตกลง</string>
+    <string name="str_leave">ออก</string>
+    <string name="submit_fail">ส่งล้มเหลว</string>
+    <string name="submit_success">ขอบคุณสำหรับการตอบของคุณ</string>
+    <string name="thank_your_feedback">ขอบคุณสำหรับความคิดเห็น!</string>
+    <string name="we_appreciate_your_help">ขอขอบคุณที่ให้ความช่วยเหลือเพื่อให้ Nokia เป็นผลิตภัณฑ์ที่ดีที่สุด</string>
+    <string name="we_hope_enjoying_nokia_device">เราหวังว่าคุณจะเพลิดเพลินกับอุปกรณ์ Nokia ความคิดเห็นของคุณมีค่ามากสำหรับเรา</string>
+    <string name="we_will_contact_you_again">เราจะติดต่อคุณอีกครั้งในโอกาสหน้า</string>
+    <string name="we_will_contact_you_again_enjoy">เราจะติดต่อหาคุณอีกในอนาคต ขอให้เพลิดเพลินกับอุปกรณ์ Nokia ชุดใหม่!</string>
+    <string name="why_you_gave_this_score">ช่วยบอกเราหน่อยว่าทำไมคุณจึงให้คะแนนเท่านี้:</string>
+</resources>

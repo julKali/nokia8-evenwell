@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statico</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Rileva automaticamente</item>
+        <item>Tratta come limitata</item>
+        <item>Tratta come illimitata</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Nessuno</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Nessuno</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Nessuno</item>
+        <item>Manuale</item>
+        <item>Config. automatica proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Debole</item>
+        <item>Discreta</item>
+        <item>Buona</item>
+        <item>Eccellente</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Ricerca…</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Acquisizione indirizzo IP…</item>
+        <item>Connessa</item>
+        <item>Sospesa</item>
+        <item>Disconnessione…</item>
+        <item>Disconnessa</item>
+        <item>Non riuscita</item>
+        <item>Bloccata</item>
+        <item>Al momento vengono evitate connessioni deboli</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Ricerca…</item>
+        <item>Connessione a %1$s…</item>
+        <item>Autenticazione con %1$s…</item>
+        <item>Acquisizione indirizzo IP da %1$s…</item>
+        <item>Connessa a %1$s</item>
+        <item>Sospesa</item>
+        <item>Disconnessione da %1$s…</item>
+        <item>Disconnessa</item>
+        <item>Non riuscita</item>
+        <item>Bloccata</item>
+        <item>Al momento vengono evitate connessioni deboli</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>ASCII WAPI</item>
+        <item>WAPI esadecimale</item>
+    </string-array>
+</resources>

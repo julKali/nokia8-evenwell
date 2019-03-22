@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">እሺ</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">ተወው</string>
+    <string name="fih_battery_protect_high_full_charging">በከፍተኛ ሙቀት ምክንያት ከከፍተኛው የባትሪ ሃይል መሙላት ገደብ ላይ ተደርሷል። የስልኩ ሙቀት ወደ መደበኛው ሲመለስ፣ ስርዓቱ በመደበኛው ፍጥነት ሃይል መሙላት ይጀምራል።</string>
+    <string name="fih_battery_protect_low_full_charging">በዝቅተኛ ሙቀት ምክንያት ከከፍተኛው የባትሪ ሃይል መሙላት ገደብ ላይ ተደርሷል። የስልኩ ሙቀት ወደ መደበኛው ሲመለስ፣ ስርዓቱ በመደበኛው ፍጥነት ሃይል መሙላት ይጀምራል።</string>
+    <string name="fih_battery_protect_high_full_charging_title">በከፍተኛ ሙቀት ምክንያት የባትሪ ሃይል መሙላት ገደብ ላይ ተደርሷል</string>
+    <string name="fih_battery_protect_low_full_charging_title">በዝቅተኛ ሙቀት ምክንያት የባትሪ ሃይል መሙላት ገደብ ላይ ተደርሷል</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">አጠቃላይ ማሳወቂያዎች</string>
+    <string name="fih_battery_protect_ok_wear">እሺ</string>
+    <string name="fih_battery_protect_cancel_wear">ተወው</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">እባክዎ ኦሪጅናል ባትሪ ይጠቀሙ</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">ኃይል መሙላት ቆሟል</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">እባክዎ ኃይል ለመሙላት ኦሪጅናሉን ባትሪ ይጠቀሙ፣ አለበለዚያ በመሳሪያዎ ላይ ቋሚ አካላዊ ጉዳት ሊያደርሱ ይችላሉ።</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">ባትሪው ልክ አይደለም</string>
+    <string name="fih_battery_protect_notification_cooling_down">በመቀዝቀዝ ላይ</string>
+    <string name="fih_battery_protect_tap_learn_more">የበለጠ ለመረዳት መታ ያድርጉ።</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"ስልክዎ እየሞቀ ነው፣ ስለዚህ እራሱን ለማቀዝቀዝ እርምጃ እየወሰደ ነው። ሊጠቀሙበት ይችላሉ፣ ነገር ግን የሚከተሉትን ሊያስተውሉ ይችላሉ፦
+·ኃይል መሙላት ሊያዎም ይችላል።
+·ዋይፋይ ሊጠፋ ይችላል።
+·መተግበሪያዎች ሊዘጉ ይችላሉ።
+·የአውሮፕላን ሁኔታ ሊበራ ይችላል።
+ከቀዘቀዘ በኋላ ስልክዎ ወደ መደበኛ ሁነታ ይመለሳል።"</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diagnostics du système</string>
+    <string name="setting_page_name">"Programme d'expérience utilisateur"</string>
+    <string name="send_diag_dialog_any_network">Lorsque la connexion de données est disponible</string>
+    <string name="send_diag_dialog_wifi">Lorsque la connexion Wi-Fi est disponible</string>
+    <string name="send_diag_dialog_wlan">Lorsque la connexion WLAN est disponible</string>
+    <string name="send_diag_dialog_title">Envoyer des diagnostics</string>
+    <string name="diagnostics_setting">Diagnostics</string>
+    <string name="diagnostics_report">Rapport de diagnostic</string>
+    <string name="diagnostics_report_summary">"Envoyer les rapports de diagnostic lorsque l'appareil rencontre une erreur logicielle. Cela peut générer des coûts d'utilisation du réseau. La souscription à un forfait de données auprès de l'opérateur est recommandée."</string>
+    <string name="network_options">Options réseau</string>
+    <string name="send_diagnostics">Envoyer des diagnostics</string>
+    <string name="privacy_statement">Protection des données personnelles</string>
+    <string name="diagnostics_description">"Veuillez nous aider à améliorer nos produits et services en nous permettant de collecter des données de diagnostic lorsque votre appareil rencontre une erreur logicielle ou un plantage. Vous pouvez toujours modifier l'option ultérieurement dans les Réglages."</string>
+    <string name="privacy_activity">Protection des données personnelles</string>
+    <string name="go_label">Fait</string>
+    <string name="diagnostics_confirmation">"Oui, j'accepte d'envoyer automatiquement les données de diagnostic."</string>
+    <string name="setcomplete">Configuration terminée</string>
+    <string name="agree_dialog">"Nous avons déjà modifié notre programme d'expérience utilisateur et de protection des données connexes. Veuillez nous aider à améliorer nos produits et services en rejoignant maintenant le Programme d'expérience utilisateur. Vous pouvez toujours changer l'option dans Réglages. Cela peut générer des coûts d'utilisation du réseau après avoir rejoint le plan Expérience utilisateur. La souscription à un forfait de données auprès de l'opérateur est recommandée."</string>
+    <string name="agree">"D'accord"</string>
+    <string name="see_detail">Détail</string>
+    <string name="next_btn_lebel">Suivant</string>
+</resources>

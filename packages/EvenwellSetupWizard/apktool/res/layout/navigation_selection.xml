@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/setupwizard_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:textDirection="ltr" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:id="@id/title_bg" android:layout_width="fill_parent" android:layout_height="180.0dip" />
+        <TextView android:id="@id/title_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/nevigation_selection_title" android:layout_below="@id/title_bg" style="@style/Title_2" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/outer_frame" android:background="@color/setupwizard_background" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/title_shadow" android:background="@drawable/header_shadow" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:textSize="16.0dip" android:textColor="@color/navi_text_color" android:id="@id/navigatino_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:layout_marginTop="21.0dip" android:layout_marginRight="40.0dip" android:text="@string/nevigation_selection_text" />
+        <LinearLayout android:id="@id/navigation_layout_demo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:layout_marginTop="16.0dip" android:layout_marginRight="40.0dip" android:layout_below="@id/navigatino_text" android:layout_alignLeft="@id/textView1">
+            <TextView android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="18.0dip" android:text="@string/nevigation_selection_back" android:drawablePadding="8.0dip" android:layout_weight="1.0" android:drawableStart="@drawable/navigation_back" style="@style/navigation_demo" />
+            <TextView android:id="@id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="18.0dip" android:text="@string/nevigation_selection_home" android:drawablePadding="8.0dip" android:layout_weight="1.0" android:drawableStart="@drawable/navigation_home" style="@style/navigation_demo" />
+            <TextView android:id="@id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="18.0dip" android:text="@string/nevigation_selection_recent" android:drawablePadding="8.0dip" android:layout_weight="1.0" android:drawableStart="@drawable/navigation_recent" style="@style/navigation_demo" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_weight="1.0" android:layout_below="@id/navigation_layout_demo">
+            <fragment android:name="com.fihtdc.setupwizard.FihNavigationSettings" android:id="@id/viewer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="40.0dip" android:layout_marginRight="40.0dip" />
+        </LinearLayout>
+        <include layout="@layout/foot_bar" />
+    </RelativeLayout>
+</LinearLayout>

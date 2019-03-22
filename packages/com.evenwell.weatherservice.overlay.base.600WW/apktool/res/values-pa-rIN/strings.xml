@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">ਮੌਸਮ ਸੇਵਾ</string>
+    <string name="fih_weather_permission_hint_1">ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨ ਲਈ, ਇਸ ਐਪ ਨੂੰ ਵਾਧੂ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਪੁੱਛਣ ਤੇ ਇਜਾਜ਼ਤ ਲਈ ਸਹਿਮਤੀ ਦਿਓ।</string>
+    <string name="fih_weather_permission_hint_2">ਸਹੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ ਲਈ, ਇਸ ਐਪ ਨੂੰ ਵਾਧੂ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਸੈਟਿੰਗ ਵਿੱਚ WeatherService ਦੀ ਇਜਾਜ਼ਤ ਨੂੰ ਪ੍ਰਬੰਧਿਤ ਕਰੋ।</string>
+    <string name="fih_weather_button_ok">ਓਕੇ</string>
+    <string name="fih_weather_button_close">ਬੰਦ ਕਰੋ</string>
+    <string name="fih_weather_button_setting">ਸੈਟ ਕਰ ਰਿਹਾ ਹੈ...</string>
+    <string name="fih_weather_permission_success">ਸਥਾਨ ਇਜਾਜ਼ਤ ਮਨਜ਼ੂਰ ਹੋਣ ਦੀ ਸਫਲਤਾ</string>
+    <string name="fih_weather_permission_failed">ਸਥਾਨ ਮਨਜ਼ੂਰ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਮਨਾ ਹੋਈ, ਸਥਾਨ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਦੇ।</string>
+    <string name="fih_weather_notification_title">ਮੌਸਮ ਸੇਵਾ ਲਈ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="fih_weather_notification_text">ਇਜਾਜ਼ਤ ਦੇਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="fih_weather_notification_channel_title">ਆਮ ਸੂਚਨਾਵਾਂ</string>
+</resources>

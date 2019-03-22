@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Atšaukti</string>
+    <string name="fih_battery_protect_alert_dialog_ok">Gerai</string>
+    <string name="fih_battery_protect_cancel_wear">Atšaukti</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Jūsų telefonas įkaito, todėl imamasi tam tikrų veiksmų, kad jis atauštų. Galite ir toliau juo naudotis, bet galite pastebėti šiuos dalykus:
+·Gali būti pristabdytas įkrovimas.
+·Gali būti išjungtas \"Wi-Fi\".
+·Gali būti uždarytos programos.
+·Gali būti įjungtas lėktuvo režimas.
+Jūsų telefonas vėl veiks įprastai, kai atauš."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Bendrieji pranešimai</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Norėdami įkrauti naudokite originalų akumuliatorių, nes galite visam laikui / fiziškai pažeiti įrenginį.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Naudokite originalų akumuliatorių</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Įkrovimas sustabdytas</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Akumuliatorius netinkamas</string>
+    <string name="fih_battery_protect_notification_cooling_down">Aušinimas</string>
+    <string name="fih_battery_protect_ok_wear">Gerai</string>
+    <string name="fih_battery_protect_power_off">Išjungti</string>
+    <string name="fih_battery_protect_tap_learn_more">Palieskite, kad sužinotumėte daugiau.</string>
+</resources>

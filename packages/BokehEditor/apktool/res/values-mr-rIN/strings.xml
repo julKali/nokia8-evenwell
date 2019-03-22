@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बुके संपादक</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="data_process_fail">डेटा प्रक्रिया अयशस्वी</string>
+    <string name="delete">काढून टाका</string>
+    <string name="image_not_null">प्रतिमा पथ शून्य असू शकत नाही</string>
+    <string name="no_bokeh_type">बोके प्रकार नाही</string>
+    <string name="no_mpo_file">एमपीओ फाइल नाही</string>
+    <string name="save">जतन करा</string>
+    <string name="save_success">यशस्वीरित्या जतन केले</string>
+    <string name="share">शेअर करा</string>
+    <string name="title_watermarks">वॉटरमार्कस्</string>
+    <string name="watermark_empty">वॉटरमार्क नाही</string>
+</resources>

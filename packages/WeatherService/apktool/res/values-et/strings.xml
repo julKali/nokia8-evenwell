@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Luba</string>
+    <string name="common_google_play_services_enable_text">Rakendus %1$s töötab ainult siis, kui lubate Google Play teenused.</string>
+    <string name="common_google_play_services_enable_title">Google Play teenuste lubamine</string>
+    <string name="common_google_play_services_install_button">Installi</string>
+    <string name="common_google_play_services_install_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes pole.</string>
+    <string name="common_google_play_services_install_title">Google Play teenuste hankimine</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play teenuste saadavalolek</string>
+    <string name="common_google_play_services_notification_ticker">Viga Google Play teenustes</string>
+    <string name="common_google_play_services_unknown_issue">Rakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti.</string>
+    <string name="common_google_play_services_unsupported_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie seadmes ei toetata.</string>
+    <string name="common_google_play_services_update_button">Värskenda</string>
+    <string name="common_google_play_services_update_text">Rakenduse %1$s töötamiseks peate värskendama Google Play teenuseid.</string>
+    <string name="common_google_play_services_update_title">Google Play teenuste värskendamine</string>
+    <string name="common_google_play_services_updating_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida praegu värskendatakse.</string>
+    <string name="common_google_play_services_wear_update_text">Vajalik on Google Play teenuste uus versioon. See värskendab end peagi.</string>
+    <string name="common_open_on_phone">Ava telefonis</string>
+    <string name="common_signin_button_text">Logi sisse</string>
+    <string name="common_signin_button_text_long">"Logi sisse Google'i kontoga"</string>
+    <string name="fih_weather_button_close">Sulge</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">Seade</string>
+    <string name="fih_weather_notification_channel_title">Üldised teatised</string>
+    <string name="fih_weather_notification_text">Puudutage lubamiseks</string>
+    <string name="fih_weather_notification_title">Ilmateenus nõuab õigusi</string>
+    <string name="fih_weather_permission_failed">Asukohale juurdepääsu andmine on keelatud ja asukohta ei saa tuua</string>
+    <string name="fih_weather_permission_hint_1">See rakendus nõuab korralikult töötamiseks asjakohaseid õigusi. Andke luba, kui seda küsitakse.</string>
+    <string name="fih_weather_permission_hint_2">Korralikult töötamiseks vajab rakendus lisaõigusi. Hallake ilmateenuse õigusi jaotises Sätted.</string>
+    <string name="fih_weather_permission_success">Anna asukohaõigused</string>
+    <string name="fih_weather_service_title_txt">Ilmateenus</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Informativa sulla privacy</string>
+    <string name="privacy_activity">Informativa sulla privacy</string>
+    <string name="go_label">Fine</string>
+    <string name="agree">Accetto</string>
+    <string name="next_btn_lebel">Avanti</string>
+    <string name="app_name">Diagnostica sistema</string>
+    <string name="setting_page_name">Programma utente</string>
+    <string name="send_diag_dialog_any_network">Con connessione dati disponibile</string>
+    <string name="send_diag_dialog_wifi">Con connessione Wi-Fi disponibile</string>
+    <string name="send_diag_dialog_wlan">Con connessione WLAN disponibile</string>
+    <string name="send_diag_dialog_title">Invia diagnostica</string>
+    <string name="diagnostics_setting">Diagnostica</string>
+    <string name="diagnostics_report">Report diagnostica</string>
+    <string name="diagnostics_report_summary">"Consente di inviare un report in presenza di un errore software. Possibile costi per l'uso della rete. Si consiglia acquisto di pacchetto rete dati da operatore."</string>
+    <string name="network_options">Opzioni di rete</string>
+    <string name="send_diagnostics">Invia diagnostica</string>
+    <string name="cancel_upload_confirm_msg">"Il Programma utente verrà chiuso. Gli errori software che si verificano nel telefono non saranno né conservati né inviati, pertanto l'esperienza di utilizzo non potrà essere migliorata."</string>
+    <string name="hmd_privacy_policy">Informativa sulla privacy di HMD</string>
+</resources>

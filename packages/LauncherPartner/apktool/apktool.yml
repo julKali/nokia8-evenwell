@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: LauncherPartner.apk
+compressionType: false
+doNotCompress:
+- arsc
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '27'
+  targetSdkVersion: '27'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '27'
+  versionName: 8.1.0

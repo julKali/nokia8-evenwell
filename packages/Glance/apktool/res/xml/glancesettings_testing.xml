@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_category_items_display" android:key="items_display">
+        <ListPreference android:entries="@array/pref_backlight_titles" android:title="@string/pref_title_backlight" android:key="backlight" android:defaultValue="@string/default_backlight" android:dialogTitle="@string/pref_dialog_title_backlight" android:entryValues="@array/pref_backlight_values" />
+    </PreferenceCategory>
+    <EditTextPreference android:hint="@string/pref_dialog_hint_adjust_backlight" android:title="@string/pref_title_adjust_backlight" android:key="adjust_backlight" android:defaultValue="@string/default_backlight" android:dialogTitle="@string/pref_dialog_title_adjust_backlight" android:inputType="numberDecimal" />
+    <EditTextPreference android:hint="@string/pref_dialog_hint_delay_enter_doze" android:title="@string/pref_title_delay_enter_doze" android:key="delay_enter_doze" android:defaultValue="@string/default_delay" android:dialogTitle="@string/pref_dialog_title_delay_enter_doze" android:inputType="numberDecimal" />
+</PreferenceScreen>

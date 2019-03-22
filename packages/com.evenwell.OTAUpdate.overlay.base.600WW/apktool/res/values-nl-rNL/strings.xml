@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Downloaden van software mislukt.</string>
+    <string name="msg_install_system_software_update_3">"
+
+Tijdens de upgrade kunt u uw apparaat niet gebruiken.
+
+Als u het apparaat uitschakelt of het gedownloade bestand verwijderd terwijl er software wordt bijgewerkt, kan dit tot onverwachte resultaten leiden."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Tijdens de upgrade kunt u uw apparaat niet gebruiken en geen noodoproepen plaatsen.
+
+Als u het apparaat uitschakelt of het gedownloade bestand verwijderd terwijl er software wordt bijgewerkt, kan dit tot onverwachte resultaten leiden."</string>
+    <string name="msg_unable_to_connect_2">Voor gebruik van deze app is netwerkverbinding vereist. Schakel onder Instellingen het mobiele netwerk in.</string>
+    <string name="msg_unable_to_connect_wlan">U hebt een netwerkverbinding nodig om deze toepassing te gebruiken. Schakel onder Instellingen het mobiele netwerk of WLAN in.</string>
+    <string name="msg_no_available_size_card_2">Voor dit updatebestand is %s MB opslagruimte vereist. Verwijder enkele bestanden uit de gegevensopslag.</string>
+    <string name="msg_remove_sd_card_2">Het gedownloade bestand kan niet naar de bestandsopslag worden geschreven. Controleer de opslag.</string>
+    <string name="msg_remove_sd_card_short_2">Kan geen toegang krijgen tot gegevensopslag.</string>
+    <string name="menu_enabled">Alleen ingeschakelde software</string>
+    <string name="using_internal_storage">Interne opslag gebruiken</string>
+    <string name="using_external_storage">Externe opslag gebruiken</string>
+    <string name="msg_root_message">"
+
+Een normale update kan niet worden gegarandeerd nadat er root-toegang is geweest op het apparaat."</string>
+    <string name="msg_responsibility_message">Als er root-toegang is geweest tot het apparaat, is de gebruiker verantwoordelijk voor eventueel abnormaal systeemgedrag na een update.</string>
+    <string name="install_fail">Installatie mislukt</string>
+    <string name="install_all">Alles installeren</string>
+    <string name="installed_version">Geïnstalleerde versie</string>
+    <string name="update_available">Update is beschikbaar.</string>
+    <string name="apk_update_available">Update van app is beschikbaar.</string>
+    <string name="recommend">Aanbevelen</string>
+    <string name="roaming_restriction">Gegevensroamingbeperking</string>
+    <string name="roaming_restriction_summary">Kan niet updaten vanwege gegevensroamingbeperking.</string>
+    <string name="changelog">Logboek wijzigen</string>
+    <string name="apk_update_available_summary">Voor %s is een update beschikbaar. Klik op OK om de update nu te installeren of klik op Annuleren om de update een dag later te controleren.</string>
+    <string name="apk_removed">Deze app is verwijderd.</string>
+    <string name="apk_available_items">In totaal %s beschikbare items</string>
+    <string name="apk_available_item">In totaal %s beschikbaar item</string>
+    <string name="invalid_update_summary">De update is ongeldig, probeer het opnieuw.</string>
+    <string name="recheck">Controleer opnieuw</string>
+    <string name="image_download_exception_summary">Kan geen toegang krijgen tot server, probeer het later opnieuw.</string>
+    <string name="apk_download_exception">Kan geen toegang krijgen tot server</string>
+    <string name="installation_confirmation">Installatiebevestiging</string>
+    <string name="apk_need_reboot_summary">Nadat deze software-update is voltooid en geïnstalleerd, wordt het systeem automatisch opnieuw opgestart. Wilt u nu installeren?</string>
+    <string name="prepare_to_reboot">Gereedmaken voor opnieuw opstarten</string>
+    <string name="prepare_to_reboot_summary">Voor configuratie van instellingen van geïnstalleerde software moet het apparaat opnieuw worden opgestart. We raden aan nu opnieuw op te starten, maar u kunt dit ook later doen.</string>
+    <string name="prepare_to_reboot_force_summary">Voor configuratie van instellingen van geïnstalleerde software moet het apparaat opnieuw worden opgestart We raden aan het apparaat nu opnieuw op te starten.</string>
+    <string name="reboot_fail">Opnieuw opstarten mislukt</string>
+    <string name="reboot_fail_summary">Kan niet opnieuw opstarten vanwege ontbrekende API. Start handmatig opnieuw op.</string>
+    <string name="apk_no_avaliable_size">Kan niet downloaden vanwege onvoldoende interne-opslagcapaciteit.</string>
+    <string name="update_finished">Update voltooid</string>
+    <string name="msg_root_warning">Er is root-toegang geweest tot uw apparaat of er is met de officiële software geknoeid. Als u doorgaat met de systeemupdate, kan dit resulteren in systeeminstabiliteit of een systeem-crash, waardoor de garantie op uw apparaat mogelijk komt te vervallen. Weet u zeker dat u door wilt gaan?</string>
+    <string name="multi_image_update">Er zijn updates van afbeeldingen beschikbaar</string>
+    <string name="available_update_list">Lijst met beschikbare updates</string>
+    <string name="downloading_summary">Annuleer het downloaden van de afbeelding</string>
+    <string name="msg_erase_userdata_warning">Voor deze update moeten gebruikersgegevens worden gewist. Wilt u doorgaan?</string>
+    <string name="msg_autoupdate_date_fee_warning">Door inschakelen van automatisch updaten kunnen extra kosten ontstaan.</string>
+    <string name="invalid_update">De update is ongeldig.</string>
+    <string name="file_corrupted">Er kan geen upgrade van het systeem worden uitgevoerd omdat het bestand beschadigd is.</string>
+    <string name="ask_for_apk_check">Wilt u controleren op app-updates?</string>
+    <string name="update_ota_self">Er wordt een software-update uitgevoerd.</string>
+    <string name="ab_update_fail">Installatieprobleem.</string>
+    <string name="ab_update_wrong_status">De update-engine is bezet. Probeer het later opnieuw of start opnieuw op.</string>
+    <string name="ab_update_installing">Systeem wordt bijgewerkt</string>
+    <string name="tag_engineer_mode">Technicusmodus</string>
+    <string name="engineer_version_incorrect">Uw apparaatversie is onjuist</string>
+    <string name="msg_engineer_ota_restore">Tikken om officiële versie te herstellen</string>
+    <string name="msg_engineer_ota_restore_warning">Hiermee wordt de officiële versie hersteld. Wilt u doorgaan?</string>
+    <string name="silent_mode_data_fee_warning">Update is beschikbaar. Door het downloaden van updates kunnen extra kosten ontstaan. Download updates via Wifi indien mogelijk.</string>
+    <string name="msg_updating_system">Systeem wordt bijgewerkt...</string>
+    <string name="msg_tap_to_reboot">Tikken om opnieuw op te starten</string>
+    <string name="msg_pause_download">Download onderbreken</string>
+    <string name="notification_channel_name">Systeemupdate</string>
+    <string name="notification_channel_alert_name">Algemene meldingen</string>
+</resources>

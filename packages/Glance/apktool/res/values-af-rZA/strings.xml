@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Voorkoms</string>
+    <string name="pref_dialog_title_time_out">Tel uit</string>
+    <string name="pref_title_alarm_information">Wekker-inligting</string>
+    <string name="pref_title_calendar_reminder">Kalenderherinnering</string>
+    <string name="pref_title_missed_calls">Gemisde oproepe-verklikker</string>
+    <string name="pref_title_time_out">Tel uit wanneer die foon nie beweeg nie</string>
+    <string name="pref_title_unread_mails">Ongelese e-posse-verklikker</string>
+    <string name="pref_title_unread_messages">Ongelese boodskappe-verklikker</string>
+    <string name="switch_off_text">Af</string>
+    <string name="switch_on_text">Aan</string>
+</resources>

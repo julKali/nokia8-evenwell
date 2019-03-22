@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Заяўленне аб канфідэнцыяльнасці</string>
+    <string name="privacy_activity">Заяўленне аб канфідэнцыяльнасці</string>
+    <string name="go_label">Гатова</string>
+    <string name="agree">Пагадзіцца</string>
+    <string name="next_btn_lebel">Наступны</string>
+    <string name="app_name">Дыягностыка сістэмы</string>
+    <string name="setting_page_name">Праграма атрымання вопыту карыстальніка</string>
+    <string name="send_diag_dialog_any_network">Калі маецца падлучэнне для перадачы даных</string>
+    <string name="send_diag_dialog_wifi">Калі маецца падлучэнне да сеткі Wi-Fi</string>
+    <string name="send_diag_dialog_wlan">Калі маецца падлучэнне да сеткі WLAN</string>
+    <string name="send_diag_dialog_title">Адправіць дыягностыку</string>
+    <string name="diagnostics_setting">Дыягностыка</string>
+    <string name="diagnostics_report">Справаздача аб дыягностыцы</string>
+    <string name="diagnostics_report_summary">Адпраўляць справаздачу аб дыягностыцы, калі з прыладай адбываецца памылка праграмнага забеспячэння. Могуць існаваць выдаткі, звязаныя з падлучэннем да сеткі. Рэкамендавана набыць пакет сеткі перадачы даных у Пастаўшчыка паслуг.</string>
+    <string name="network_options">Параметры сеткі</string>
+    <string name="send_diagnostics">Адправіць дыягностыку</string>
+    <string name="cancel_upload_confirm_msg">Зараз вы выйдзеце з Праграмы атрымання вопыту карыстальніка. Памылкі праграмнага забеспячэння, якія адбыліся на вашым тэлефоне, не будуць захоўвацца ці адпраўляцца, і таму мы можам не мець магчымасці палепшыць вашы ўражанні ад выкарыстання гэтага тэлефона.</string>
+</resources>

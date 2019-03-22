@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">ОК</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="system_busy_msg">Система занята. Повторите попытку позже.</string>
+    <string name="no_new_demo_found_msg">"Новый демопродукт не найден.
+
+Хотите коснуться ОК, чтобы запустить деморежим?"</string>
+    <string name="copying">Копирование...</string>
+    <string name="downloading">Скачивание...</string>
+    <string name="download_complete_msg">"Скачивание завершено.
+
+Коснитесь ОК, чтобы запустить деморежим."</string>
+    <string name="download_fail_msg">"Не удалось скачать демопродукт из Интернета.
+
+Хотите коснуться ОК, чтобы запустить деморежим?"</string>
+    <string name="enable_demo_mode">Включить деморежим?</string>
+    <string name="disable_demo_mode">Отключить деморежим</string>
+    <string name="update_demo_video">Обновить демовидео</string>
+    <string name="reset_device">Сбросить устр-во?</string>
+    <string name="demo_mode_notifications">Уведомления деморежима</string>
+</resources>

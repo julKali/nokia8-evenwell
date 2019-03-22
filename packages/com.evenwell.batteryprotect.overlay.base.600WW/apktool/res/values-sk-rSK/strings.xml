@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Zrušiť</string>
+    <string name="fih_battery_protect_power_off">Vypnúť</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Všeobecné upozornenia</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Zrušiť</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Používajte originálnu batériu</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Nabíjanie sa zastavilo</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Nabíjajte originálnu batériu. V opačnom prípade hrozí trvalé/fyzické poškodenie vášho zariadenia.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Batéria je neplatná</string>
+    <string name="fih_battery_protect_notification_cooling_down">Chladenie</string>
+    <string name="fih_battery_protect_tap_learn_more">Klepnutím získate ďalšie informácie.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Váš telefón sa zahrieva, preto prebiehajú kroky na jeho schladenie. Stále ho môžete používať, ale môžete si všimnúť tieto prejavy:
+·Nabíjanie sa môže pozastaviť.
+·Wi-Fi sa môže vypnúť.
+·Aplikácie sa môžu zatvárať.
+·Režim v lietadle sa môže zapnúť.
+Telefón sa po ochladení vráti do normálu."</string>
+</resources>

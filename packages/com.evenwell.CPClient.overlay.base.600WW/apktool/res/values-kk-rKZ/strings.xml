@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP клиенті</string>
+    <string name="fih_cp_notify_statusbar_content">Жаңа дайындық хабары</string>
+    <string name="fih_cp_notification_channel_name">Жалпы хабарландырулар</string>
+    <string name="fih_cp_ui_mode_ok">Жарайды</string>
+    <string name="fih_cp_ui_mode_postpone">Кейінге қалдыру</string>
+    <string name="fih_cp_ui_mode_delete">Жою</string>
+    <string name="fih_cp_apply_dialog_head_msg">Жаңа дайындық</string>
+    <string name="fih_cp_apply_dialog_body_msg">Жаңа конфигурация қолданғыңыз келе ме?</string>
+    <string name="fih_cp_toast_info_update">Профиль дұрыстығын жаңарту</string>
+    <string name="fih_cp_toast_info_create">Профиль дұрыстығын жасау</string>
+    <string name="fih_cp_editor_apn_name">Атауы</string>
+    <string name="fih_cp_editor_apn_apn">APN (Кіру нүктесінің атауы)</string>
+    <string name="fih_cp_editor_apn_http_proxy">Прокси</string>
+    <string name="fih_cp_editor_apn_http_port">Порт</string>
+    <string name="fih_cp_editor_apn_user">Пайдаланушы аты</string>
+    <string name="fih_cp_editor_apn_password">Кілтсөз</string>
+    <string name="fih_cp_editor_apn_server">Сервер</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC (мультимедиялық хабар қызметі)</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS прокси</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS порты</string>
+    <string name="fih_cp_editor_apn_mcc">MCC (елдің ұялы байланыс коды)</string>
+    <string name="fih_cp_editor_apn_mnc">MNC (ұялы желі коды)</string>
+    <string name="fih_cp_editor_apn_auth_type">Растау түрі</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Ешқандай</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP (кілтсөз арқылы растау)</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP (кілтсөз арқылы растау) немесе CHAP (сұрақ қою арқылы растау) протоколы</string>
+    <string name="fih_cp_editor_apn_type">APN (кіру нүктесі) түрі</string>
+    <string name="fih_cp_btn_ok">Жарайды</string>
+    <string name="fih_cp_btn_cancel">Бас тарту</string>
+    <string name="fih_cp_btn_next">Келесі</string>
+    <string name="fih_cp_btn_back">Артқа</string>
+    <string name="fih_cp_apn_not_set">&lt;Реттелмеген></string>
+    <string name="fih_cp_error_title">Назар аударыңыз</string>
+    <string name="fih_cp_error_name_empty">Атау жақтауы бос болмауы тиіс.</string>
+    <string name="fih_cp_error_apn_empty">APN өрісі бос болмауы керек.</string>
+    <string name="fih_cp_error_other">Деректердің синтаксистік қатесі.</string>
+    <string name="fih_cp_input_pin_code">PIN кодын енгізіңіз:</string>
+    <string name="fih_cp_input_pin_code_ok">Жарайды</string>
+    <string name="fih_cp_input_pin_code_cancel">Бас тарту</string>
+    <string name="fih_cp_input_pin_code_incorrect">Қате PIN код.</string>
+    <string name="fih_cp_input_pin_code_empty">PIN кодын енгізіңіз.</string>
+    <string name="fih_cp_sim_not_available">SIM картасы қолжетімді емес.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="ENABLE_OFF_PERIOD">true</bool>
+    <bool name="SUPPORT_SPLIT_SCREEN">false</bool>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="isCnVersion">false</bool>
+</resources>

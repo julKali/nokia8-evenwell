@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Utseende</string>
+    <string name="pref_dialog_title_time_out">Pause</string>
+    <string name="pref_title_alarm_information">Alarminformasjon</string>
+    <string name="pref_title_calendar_reminder">Kalenderpåminnelse</string>
+    <string name="pref_title_missed_calls">Indikator for tapte anrop</string>
+    <string name="pref_title_time_out">Pause når telefonen ikke beveger seg</string>
+    <string name="pref_title_unread_mails">Indikator for uleste e-poster</string>
+    <string name="pref_title_unread_messages">Indikator for uleste meldinger</string>
+    <string name="switch_off_text">Av</string>
+    <string name="switch_on_text">På</string>
+</resources>

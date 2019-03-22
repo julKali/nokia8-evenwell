@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ဘတ္ထရီကို ကာကွယ်ပါ</string>
+    <string name="fih_battery_protect_alert_dialog_ok">ေကာင္းၿပီ</string>
+    <string name="fih_battery_protect_warning_title">သတိပေးထားသော မြင့်မားသည့် အပူချိန်</string>
+    <string name="fih_battery_protect_cooldown_title">အအေးခံနေသည်</string>
+    <string name="fih_battery_protect_normalmode_title">ပုံမှန် အပူချိန်</string>
+    <string name="fih_battery_protect_warning_text">ဖုန်းအအေးခံရန် ကျေးဇူးပြု၍ ဖုန်းခေါ်ဆိုမှု နှင့် အက်ပလီကေးရှင်းများကို ပိတ်ပါ။</string>
+    <string name="fih_battery_protect_cooldown_text">လက်ရှိတွင် ဖုန်းသည် အအေးခံသည့် မုဒ်တွင် ဖြစ်သည်၊ အရေးပေါ်ဖုန်းခေါ်ဆိုမှုသာလျှင် လုပ်ဆောင်နိုင်သည်။</string>
+    <string name="fih_battery_protect_normalmode_text">ပုံမှန်လုပ်ဆောင်ချက်ကို ပြန်စပြီ။</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">အရေးပေါ်ဖုန်းခေါ်ဆိုမှု</string>
+    <string name="fih_battery_protect_maxtemp_title">အမြင့်မားဆုံးသော အပူချိန်</string>
+    <string name="fih_battery_protect_maxtemp_text">ဖုန်းအပူချိန်သည် မြင့်မားလွန်းနေသည်၊ ယခုပင် ဖုန်းပိတ်သွားလိမ့်မည်။</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">အားသွင်းခြင်း ရပ်သည်</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">အားသွင်းခြင်းရပ်ပါ။</string>
+    <string name="fih_battery_protect_low_temp_title">သတိပေးချက်</string>
+    <string name="fih_battery_protect_low_temp_text">အပူချိန် အလွန်နိမ့်ကျနေသည်၊ အားသွင်းခြင်းကို ရပ်ပါ။</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">အပူချိန်သည် သတ်မှတ်ထားချက်ထက် ကျော်လွန်နေသည်။</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">ဘတ္ထရီအပူချိန်ကို မတွေ့ရှိနိုင်ပါ၊ ဘတ္ထရီကို မှန်ကန်စွာ တပ်ဆင်ထားတာ သေချာပါစေ၊ ထိုသို့မဟုတ်လျှင် အားဝင်မည်မဟုတ်။</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">ဘတ္ထရီအပူချိန်ကို မတွေ့ရှိနိုင်ပါ။</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">ဘတ္ထရီကို မှန်ကန်စွာ တပ်ဆင်ထားကြောင်း သေချာပါစေ၊ ထိုသို့မဟုတ်လျှင် အားဝင်မည်မဟုတ်ပါ။</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">လက်ရှိတွင် ဘတ္ထရီအပူချိန်ကို တွေ့ရှိရန် မလုပ်ဆောင်နိုင်ပါ၊ ပြီးနောက် ဖုန်းသည် အအေးခံသည့် မုဒ်တွင် ဖြစ်သည်၊ အရေးပေါ်ဖုန်းခေါ်ဆိုမှုသာလျှင် လုပ်ဆောင်သည်၊ ဘတ္ထရီကို မှန်ကန်စွာ တပ်ဆင်ထားကြောင်း သေချာပါစေ။</string>
+    <string name="fih_battery_protect_aging_title">ဘတ္ထရီ ဝစ်ဇတ်</string>
+    <string name="fih_battery_protect_aging_text">ချစ်ခင်ရပါသော InFocus အသုံးပြုသူခင်ဗျာ၊ သင့်ဖုန်း၏ ဘတ္ထရီခံနိုင်ရည်သည် သိသာထင်ရှားစွာ ကျဆင်းသွားသည်ကို သင်တွေ့ရှိခဲ့လျှင်၊ ဆဲလ်ဖုန်း ဘတ္ထရီသည် ဖုန်းအားကုန်သည့် အစိတ်အပိုင်းတစ်ခုကဲ့သို့ ယူဆရသဖြင့်၊ ကျေးဇူးပြု၍ သင်၏ဖုန်းကို ချွတ်ယွင်းမှု ရှာဖွေရန်နှင့် သင်၏ဖုန်းသည် ၎င်း၏ အကောင်းဆုံး အခြေအနေတွင် လုပ်ဆောင်နေကြောင်း သေချာစေရန် အရောင်းကိုယ်စားလှယ်ထံသို့ ယူသွားပါ။ သင့်တွင် မေးခွန်းတစ်စုံတစ်ရာ ရှိခဲ့ပါက၊ ကျေးဇူးပြု၍ ကျွန်တော်တို့၏ သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာ၊ တယ်လီဖုန်း %1$sသို့ ဆက်သွယ်ပါ။ ကျေးဇူးတင်ပါသည်။</string>
+    <string name="fih_battery_protect_aging_nm_text">ကျေးဇူးပြု၍ သင်၏ အသုံးပြုသူဝန်ဆောင်မှုစင်တာ၊ တယ်လီဖုန်း %1$s သို့ ဆက်သွယ်ပါ၊ ကျေးဇူးတင်ပါသည်။</string>
+    <string name="fih_battery_protect_aging_text_no_phone">ချစ်ခင်ရပါသော InFocus အသုံးပြုသူခင်ဗျာ၊ သင့်ဖုန်း၏ ဘတ္ထရီခံနိုင်ရည်သည် သိသာထင်ရှားစွာ ကျဆင်းသွားသည်ကို သင်တွေ့ရှိခဲ့လျှင်၊ ဆဲလ်ဖုန်း ဘတ္ထရီသည် ဖုန်းအားကုန်သည့် အစိတ်အပိုင်းတစ်ခုကဲ့သို့ ယူဆရသဖြင့်၊ ကျေးဇူးပြု၍ သင်၏ဖုန်းကို ချွတ်ယွင်းမှု ရှာဖွေရန်နှင့် သင်၏ဖုန်းသည် ၎င်း၏ အကောင်းဆုံး အခြေအနေတွင် လုပ်ဆောင်နေကြောင်း သေချာစေရန် အရောင်းကိုယ်စားလှယ်ထံသို့ ယူသွားပါ။ သင့်တွင် မေးခွန်းတစ်စုံတစ်ရာ ရှိခဲ့ပါက၊ ကျေးဇူးပြု၍ ကျွန်တော်တို့၏ သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာသို့ ဆက်သွယ်ပါ။ ကျေးဇူးတင်ပါသည်။</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">ကျေးဇူးပြု၍ သင်၏ အသုံးပြုသူဝန်ဆောင်မှုစင်တာသို့ ဆက်သွယ်ပါ၊ ကျေးဇူးတင်ပါသည်။</string>
+    <string name="fih_battery_protect_bl_warning_title">တောက်ပမှု သတိပေးမှုကို လျှော့ချပါ</string>
+    <string name="fih_battery_protect_bl_warning_text">ဖုန်း၏ အပူချိန်သည် ပုံမှန်ထက် မြင့်မားနေသည်၊ ဖုန်းကို အေးလာစေရန် တောက်ပမှုကို လျှော့ချပါ</string>
+    <string name="fih_battery_protect_full_charging">အားသွင်းခြင်း ပြီးမြောက်ပြီ</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">ဤလုပ်ဆောင်ရန်အရာများကိုဖျက်သိမ်းပစ်မည်</string>
+    <string name="fih_battery_protect_power_off">ပါ၀ါပိတ္ပါ</string>
+    <string name="fih_battery_protect_high_full_charging">အမြင့်ဆုံးသော အားသွင်းသည့် ကန့်သတ်ချက်သည် မြင့်မားသော အပူချိန်များတွင် ရောက်ရှိနေသည်။ ဖုန်းအပူချိန် ပုံမှန်သို့ ပြန်လည်ရောက်ရှိသောအခါ၊ စနစ်သည် ပုံမှန်နှုန်းဖြင့် အားသွင်းမှုကို ဆက်လက်လုပ်ဆောင်လိမ့်မည်။</string>
+    <string name="fih_battery_protect_low_full_charging">အမြင့်ဆုံးသော အားသွင်းသည့် ကန့်သတ်ချက်သည် နိမ့်သော အပူချိန်များတွင် ရောက်ရှိနေသည်။ ဖုန်းအပူချိန် ပုံမှန်သို့ ပြန်လည်ရောက်ရှိသောအခါ၊ စနစ်သည် ပုံမှန်နှုန်းဖြင့် အားသွင်းမှုကို ဆက်လက်လုပ်ဆောင်လိမ့်မည်။</string>
+    <string name="fih_battery_protect_high_full_charging_title">မြင့်မားသော အပူချိန် အားသွင်းသည့် ကန့်သတ်ချက်သို့ ရောက်ရှိပြီ</string>
+    <string name="fih_battery_protect_low_full_charging_title">နိမ့်သော အပူချိန် အားသွင်းသည့် ကန့်သတ်ချက်သို့ ရောက်ရှိပြီ</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">အထွေထွေ အကြောင်းကြားချက်များ</string>
+    <string name="fih_battery_protect_warning_title_wear">မြင့်မားသော အပူချိန်</string>
+    <string name="fih_battery_protect_cooldown_title_wear">အအေးခံနေသည်</string>
+    <string name="fih_battery_protect_normalmode_title_wear">ပုံမှန် အပူချိန်</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">ခလုတ်ကို နှိပ်ခြင်းဖြင့် ကျွန်တော်တို့သည် စက်ပစ္စည်းကို အအေးခံရန် တောက်ပမှု လျှော့ချခြင်းနှင့် အက်ပလီကေးရှင်းများကို ပိတ်ရန် စီစဉ်ပေးသည်။</string>
+    <string name="fih_battery_protect_cooldown_text_wear">လက်ရှိတွင် စက်ပစ္စည်းသည် အအေးခံသည့် မုဒ်တွင် ဖြစ်သည်၊ အရေးပေါ်ဖုန်းခေါ်ဆိုမှုသာလျှင် လုပ်ဆောင်နိုင်သည်။</string>
+    <string name="fih_battery_protect_normalmode_text_wear">ပုံမှန်လုပ်ဆောင်ချက်ကို ပြန်စပြီ။</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">အမြင့်မားဆုံးသော အပူချိန်</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">စက်ပစ္စည်းအပူချိန်သည် မြင့်မားလွန်းနေသည်၊ ယခုပင် စက်ပိတ်သွားလိမ့်မည်။</string>
+    <string name="fih_battery_protect_low_temp_title_wear">နိမ့်သော အပူချိန်</string>
+    <string name="fih_battery_protect_low_temp_text_wear">ဘတ္ထရီအပူချိန်သည် နိမ့်ကျလွန်းနေသည်၊ ထို့ကြောင့် အားသွင်းခြင်းကို ရပ်ပါ။</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">လက်ရှိတွင် ဘတ္ထရီအပူချိန်ကို တွေ့ရှိရန် မလုပ်ဆောင်နိုင်ပါ၊ ပြီးနောက် စက်ပစ္စည်းသည် အအေးခံသည့် မုဒ်တွင် ဖြစ်သည်၊ အရေးပေါ်ဖုန်းခေါ်ဆိုမှုသာလျှင် လုပ်ဆောင်သည်၊ ဘတ္ထရီကို မှန်ကန်စွာ တပ်ဆင်ထားကြောင်း သေချာပါစေ။</string>
+    <string name="fih_battery_protect_install_error_title_wear">ဘတ္ထရီ ဝစ်ဇတ်</string>
+    <string name="fih_battery_protect_aging_title_wear">ဘတ္ထရီ ဝစ်ဇတ်</string>
+    <string name="fih_battery_protect_aging_text_wear">ချစ်ခင်ရပါသော InFocus အသုံးပြုသူခင်ဗျာ၊ သင့်စက်ပစ္စည်း၏ ဘတ္ထရီခံနိုင်ရည်သည် သိသာထင်ရှားစွာ ကျဆင်းသွားသည်ကို သင်တွေ့ရှိခဲ့လျှင်၊ ဆဲလ်စက်ပစ္စည်း၏ ဘတ္ထရီသည် ဖုန်းအားကုန်သည့် အစိတ်အပိုင်းတစ်ခုကဲ့သို့ ယူဆရသဖြင့်၊ ကျေးဇူးပြု၍ သင်၏စက်ပစ္စည်းကို ချွတ်ယွင်းမှု ရှာဖွေရန်နှင့် သင်၏စက်ပစ္စည်းသည် ၎င်း၏ အကောင်းဆုံး အခြေအနေတွင် လုပ်ဆောင်နေကြောင်း သေချာစေရန် အရောင်းကိုယ်စားလှယ်ထံသို့ ယူသွားပါ။ သင့်တွင် မေးခွန်းတစ်စုံတစ်ရာ ရှိခဲ့ပါက၊ ကျေးဇူးပြု၍ ကျွန်တော်တို့၏ သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာ၊ တယ်လီဖုန်း %1$sသို့ ဆက်သွယ်ပါ။ ကျေးဇူးတင်ပါသည်။</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">ချစ်ခင်ရပါသော InFocus အသုံးပြုသူခင်ဗျာ၊ သင့်စက်ပစ္စည်း၏ ဘတ္ထရီခံနိုင်ရည်သည် သိသာထင်ရှားစွာ ကျဆင်းသွားသည်ကို သင်တွေ့ရှိခဲ့လျှင်၊ ဆဲလ်စက်ပစ္စည်း၏ ဘတ္ထရီသည် ဖုန်းအားကုန်သည့် အစိတ်အပိုင်းတစ်ခုကဲ့သို့ ယူဆရသဖြင့်၊ ကျေးဇူးပြု၍ သင်၏စက်ပစ္စည်းကို ချွတ်ယွင်းမှု ရှာဖွေရန်နှင့် သင်၏စက်ပစ္စည်းသည် ၎င်း၏ အကောင်းဆုံး အခြေအနေတွင် လုပ်ဆောင်နေကြောင်း သေချာစေရန် အရောင်းကိုယ်စားလှယ်ထံသို့ ယူသွားပါ။ သင့်တွင် မေးခွန်းတစ်စုံတစ်ရာ ရှိခဲ့ပါက၊ ကျေးဇူးပြု၍ ကျွန်တော်တို့၏ သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာသို့ ဆက်သွယ်ပါ။ ကျေးဇူးတင်ပါသည်။</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">မြင့်မားသော အပူချိန်</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">အားသွင်းခြင်းကို ရပ်ပါ</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">ဘတ္ထရီတပ်ဆင်မှု မှားယွင်းချက်</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">အပူချိန်သည် သတ်မှတ်ထားချက်ထက် ကျော်လွန်နေသည်။</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">ဘတ္ထရီကို မှန်ကန်စွာ တပ်ဆင်ထားကြောင်း သေချာပါစေ။</string>
+    <string name="fih_battery_protect_high_temp_text_wear">ဘတ္ထရီအပူချိန်သည် မြင့်မားလွန်းနေသည်၊ ထို့ကြောင့် အားသွင်းခြင်းကို ရပ်ပါ။</string>
+    <string name="fih_battery_protect_full_charging_wear">အားသွင်းခြင်း ပြီးမြောက်ပြီ</string>
+    <string name="fih_battery_protect_ok_wear">ေကာင္းၿပီ</string>
+    <string name="fih_battery_protect_cancel_wear">ဤလုပ်ဆောင်ရန်အရာများကိုဖျက်သိမ်းပစ်မည်</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">စက်ပစ္စည်းသည် ယခုအခါတွင် အအေးခံသည့် မုဒ်တွင် ဖြစ်သည်။ ကျေးဇူးပြု၍ ၎င်းကို နောက်မှအသုံးပြုပါ။</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">နာရီ၏ အပူချိန်သည် အလွန် မြင့်မားနေသည်။ ကျွန်တော်တို့သည် မျက်နှာပြင်ကို မှိန်လိုက်ရန်နှင့် အက်ပလီကေးရှင်းများကို ရပ်တန့်ရန် အကြံပြုသည်။ ဤလုပ်ဆောင်မှုများကို အတည်ပြုရန် ကျေးဇူးပြု၍ စစ်ဆေးပါ။</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">နာရီသည် ပုံမှန်လုပ်ဆောင်ချက်သို့ ပြန်သွားပြီဖြစ်သည်။</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">နာရီအပူချိန်သည် ၎င်း၏ ကန့်သတ်ချက်သို့ ရောက်ရှိသွားပြီဖြစ်ပြီး ချက်ချင်း ပိတ်သွားလိမ့်မည်။</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">ဘတ္ထရီအပူချိန်သည် အလွန့်အလွန် နိမ့်ကျနေပြီး ၎င်းသည် အားသွင်းခြင်းကို ရပ်တန့်လိမ့်မည်။</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">မူလ ဘက်ထရီကိုသာ သုံးပါ</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">အားသွင်းမှု ရပ်သွားပြီ</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">အားသွင်းရန်မူလ ဘက်ထရီကိုသာ သုံးပါ သို့မဟုတ် ကိရိယာ လုံးဝ/အနည်းငယ် ပျက်ဆီးနိုင်သည်။</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">ဘက်ထရီ မမှန်ပါ</string>
+    <string name="fih_battery_protect_notification_cooling_down">အအေးခံနေသည်</string>
+    <string name="fih_battery_protect_tap_learn_more">နောက်ထပ်လေ့လာရန် တို့ပါ။</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"သင့်ဖုန်းပူလာပါသောကြောင့် ၎င်းဘာသာ အပူလျှော့ကျစေရန် အဆင့်များ လုပ်ဆောင်နေခြင်း ဖြစ်ပါသည်။ ဒါကို ဆက်သုံးနိုင်သော်လည်း အောက်ပါတို့ကို သတိထားရမည်−
+·အားသွင်းခြင်း ရပ်သွားနိုင်သည်။
+·Wi-Fi ပိတ်သွားနိုင်သည်။
+·အက်ပလီကေးရှင်းများ ပိတ်သွားနိုင်သည်။
+·လေယာဉ်မုဒ် ပွင့်သွားနိုင်သည်။
+အေးသွားချိန်တွင် သင့်ဖုန်း ပုံမှန်အတိုင်း ပြန်ဖြစ်သွားမည်။"</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/checkStartLogAfterBoot" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_start_after_boot" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/buttonStartTcpdump" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/StartTcpdump" />
+            <Button android:id="@id/buttonStopTcpdump" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/StopTcpdump" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

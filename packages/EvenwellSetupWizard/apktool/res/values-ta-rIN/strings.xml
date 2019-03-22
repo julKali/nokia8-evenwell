@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">அணுக இயலும் தன்மை</string>
+    <string name="account_intro_description">[BRAND_NAME] சேவைகளில் சேர்வதன் மூலம் உங்கள் சாதனத்தை பயன்படுத்துவதற்கான அற்புத வழி.</string>
+    <string name="account_intro_title">[BRAND_NAME] சேவைகள் கணக்கு</string>
+    <string name="add_baidu_button_label">百度云-இல் உள்நுழை</string>
+    <string name="add_infocus_service_account">[BRAND_NAME] சேவைகள் கணக்கைச் சேர்</string>
+    <string name="app_name">அமைப்பு வழிகாட்டி</string>
+    <string name="available_via_passpoint">%1$s வழியாகக் கிடைக்கும்</string>
+    <string name="back_btn_lebel">பின்செல்</string>
+    <string name="backup_and_restore_description">"நீங்கள் ஏற்கனவே உங்கள் கணக்கைக் காப்புப் பிரதி எடுத்திருக்கிறீர்கள் எனில், அதை இந்த ஃபோனுக்கு இப்போது மீட்டெடுக்கலாம்.
+
+நீங்கள் எப்போது வேண்டுமானாலும் அமைப்புகளுக்குச் சென்று, உங்கள் காப்புப்பிரதி அமைப்புகளை மாற்றலாம்."</string>
+    <string name="backup_and_restore_title">காப்புப்பிரதி மற்றும் மீட்டெடுப்பு</string>
+    <string name="baidu_intro_description">சில எளிய படிகளை நிறைவுசெய்வதன் மூலம், 百度云 உடனான தடையில்லாத கிளவுட் சேமிப்பகங்களின் ஒருங்கிணைப்பைப் பயன்படுத்தி மகிழுங்கள்.</string>
+    <string name="baidu_intro_title">Baidu-க்கான கிளவுட் சேமிப்பகம்</string>
+    <string name="baidu_progress_dialog_des">காத்திருக்கவும்...</string>
+    <string name="choose_timezone">நேரமண்டலத்தைத் தேர்வுசெய்க</string>
+    <string name="connected_via_passpoint">%1$s வழியாக இணைக்கப்பட்டது</string>
+    <string name="connected_via_wfa">வைஃபை அசிஸ்டண்ட் வழியாக இணைக்கப்பட்டது</string>
+    <string name="datausage_dialog_negitive_btn">ரத்துசெய்க</string>
+    <string name="datausage_dialog_positive_btn">செய்தாயிற்று</string>
+    <string name="date_and_time">தேதி &amp; நேர அமைப்புகள்</string>
+    <string name="date_and_time_settings_summary">தேதி, நேரம், நேரமண்டலம் &amp; வடிவமைப்புகளை அமை</string>
+    <string name="date_and_time_settings_title">தேதி &amp; நேரம்</string>
+    <string name="date_and_time_settings_title_setup_wizard">தேதி மற்றும் நேரத்தை அமை</string>
+    <string name="date_picker_title">தேதி</string>
+    <string name="date_time_24hour">24-மணிநேர வடிவமைப்பில்</string>
+    <string name="date_time_auto">தானியங்கு தேதி &amp; நேரம்</string>
+    <string name="date_time_auto_summaryOff">வலைஅமைப்பு-அளித்த மதிப்புக்களைப் பயன்படுத்தவும்</string>
+    <string name="date_time_auto_summaryOn">வலைஅமைப்பு-அளித்த மதிப்புக்களைப் பயன்படுத்தவும்</string>
+    <string name="date_time_date_format">தேதி வடிவமைப்பைத் தேர்வுசெய்யவும்</string>
+    <string name="date_time_set_date">தேதியை அமை</string>
+    <string name="date_time_set_time">நேரம் அமை</string>
+    <string name="date_time_set_timezone">நேரமண்டலத்தை அமை</string>
+    <string name="device_checking_message">வருக</string>
+    <string name="dropbox_fih_description">உங்கள் படங்களையும் வீடியோக்களையும் தானாகச் சேமிப்பதற்கு, 2 GB Dropbox-ஐ இலவசமாகப் பெறுங்கள்.</string>
+    <string name="dropbox_fih_signin">Dropbox மூலம் உள்நுழைக</string>
+    <string name="dropbox_fih_signup">Dropbox மூலம் புகுபதிவு செய்க</string>
+    <string name="emergency_dial_hmd_message">அவசரநிலை</string>
+    <string name="emergency_dial_message">அவசரகால அழைப்பு</string>
+    <string name="fih_legal_message" />
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] சட்டம்</string>
+    <string name="finish_button_label">முடி</string>
+    <string name="google_account_add_account">Google மூலம் உள்நுழைக</string>
+    <string name="google_account_intro_description">எல்லா Google சேவைகளையும் பயன்படுத்தி மகிழ, Google கணக்கை அமைக்கவும்.</string>
+    <string name="google_account_intro_title">Google கணக்கு</string>
+    <string name="hmd_legal_message" />
+    <string name="hmd_user_experience_program_message">பயனர் அனுபவ நிரலில் உங்கள் பங்கேற்பு நீங்கள் Nokia சாதனத்தைப் பற்றி என்ன விரும்புகிறீர்கள் என்பதையும் என்ன மேம்பாடு செய்யப்படவேண்டும் என்று நினைக்கிறீர்கள் என்பதையும் HMD Global நன்கு புரிந்து கொள்ள உதவுகிறது, உங்கள் சாதனத்தைப் பற்றி நாங்கள் தொழில்நுட்ப சிறப்புப்பண்புகள் கொண்ட பெயரில்லாத தரவை அவ்வப்போது பெறலாம், உதாரணத்துக்கு நடைபெற்றிருக்க சாத்தியமுள்ள மென்பொருள் சேதம் பற்றிய தரவு கொண்ட ஒரு கோப்பு போன்றவை. அதுபோன்ற தரவு ஒரு செல்லுலார் இணைப்பின் வாயிலாக பரிமாற்றம் செய்யப்படமாட்டாது என்பதை கவனத்தில் கொள்ளவும். உங்கள் Nokia சாதனத்தைப் பற்றி நீங்கள் என்ன நினைக்கிறீர்கள் என்று அறிய நாங்கள் ஆவல் கொண்டுள்ளோம்!</string>
+    <string name="hmd_user_experience_program_title">பயனர் அனுபவ நிரல்</string>
+    <string name="idle_too_long_toast">இந்த ஃபோன் சில நேரங்களாக செயல்படாமல் இருந்தது. ஆற்றலை வைத்திருக்க, இப்போது இயக்கத்தை நிறுத்தவும்.</string>
+    <string name="insert_sim_cards">SIM கார்டுகளைச் செருகு</string>
+    <string name="insert_sim_cards_prompt_content">"எப்படி என்று தெரியவில்லையா? உங்கள் மொபைல் உடன் கிடைத்த அறிவுறுத்தல்களைப் பார்க்கவும்.
+
+SIM கார்டுகளைச் செருகியதும், அவை செயல்படுத்தப்பட சில வினாடிகள் ஆகலாம்."</string>
+    <string name="language_selection_cancel_btn">ரத்து செய்</string>
+    <string name="language_selection_title">உங்கள் மொழியை தேர்வு செய்யவும்</string>
+    <string name="light_room_description">RAW (DNG) படங்களை எடுப்பதை %1$s ஆதரிக்கிறது. Adobe உடனான எங்கள் கூட்டு மூலம் நேரடியாக உங்கள் புதிய ஸ்மார்ட்ஃபோனில் திருத்தலாம்.&lt;br/>&lt;br/>இப்போதே Google Play ஸ்டோரிலிருந்து Adobe Photoshop Lightroom CC-ஐப் பதிவிறக்கவும்.</string>
+    <string name="light_room_title">புகைப்படக் கலையில் ஆர்வமா?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="location_for_service">Google தேடல் முடிவுகளுக்கும் பிற Google சேவைகளுக்கும் எனது இருப்பிடத்தைப் பயன்படுத்தவும்.</string>
+    <string name="location_info_1">Google -இன் இருப்பிடச் சேவையானது GPS-ஐப் பயன்படுத்தாமல், தோராயமான இருப்பிடத்துடன் செயலிகளை வழங்குகின்றது.</string>
+    <string name="location_info_2">இந்த அம்சங்களை, இருப்பிடச் சேவைகளின் கீழ் உள்ள அமைப்புகளில் முடக்கலாம்.</string>
+    <string name="location_network">அநாமதேய இருப்பிடத் தரவைச் சேகரிக்க, Google-இன் இருப்பிடச் சேவை அனுமதி. செயலிகள் எதுவும் இயங்காத போதும் சேகரிப்பது தொடரும்.</string>
+    <string name="location_title">Google இருப்பிடத்தைப் பயன்படுத்து</string>
+    <string name="nevigation_selection_back">பின்னே</string>
+    <string name="nevigation_selection_home">முகப்பு</string>
+    <string name="nevigation_selection_recent">சமீபத்தியவை</string>
+    <string name="nevigation_selection_text">நீங்கள் பின்னணி வண்ணத்தை மாற்றலாம் மற்றும் பின்செல் / சமீபத்திய விசைகளின் நிலையையும் மாற்றலாம்.</string>
+    <string name="nevigation_selection_title">உலாவுதல் பட்டி அமைப்புகள்</string>
+    <string name="next_btn_lebel">அடுத்து</string>
+    <string name="normal_date_format">மண்டலம் (%s)</string>
+    <string name="not_now">இப்போது வேண்டாம்...</string>
+    <string name="passpoint_content">%1$s நற்சான்றுகள்</string>
+    <string name="passpoint_label">இதன் வழியாகச் சேமிக்கப்பட்டது</string>
+    <string name="please_select_phase2">2 ஆம் நிலை அங்கீகரிப்பு</string>
+    <string name="proxy_error_empty_host_set_port">ஹோஸ்ட் புலம் வெறுமையாக இருந்தால் போர்ட்டின் புலம் வெறுமையாக இருக்க வேண்டும்.</string>
+    <string name="proxy_error_empty_port">போர்ட் புலத்தை நிரப்ப வேண்டும்.</string>
+    <string name="proxy_error_invalid_exclusion_list">நீங்கள் உள்ளிட்ட விலக்குப்பட்டியல் சரியாக வடிவமைக்கப்படவில்லை. காற்புள்ளியால் பிரிக்கப்பட்ட பட்டியலாக விலக்கு டொமைன்களை உள்ளிடவும்.</string>
+    <string name="proxy_error_invalid_port">நீங்கள் உள்ளிட்ட போர்ட் தவறானது.</string>
+    <string name="proxy_exclusionlist_label">இதற்கான ப்ராக்ஸியைத் தவிர்</string>
+    <string name="proxy_hostname_label">ப்ராக்ஸி ஹோஸ்ட்பெயர்</string>
+    <string name="proxy_port_label">ப்ராக்ஸி போர்ட்</string>
+    <string name="proxy_settings_title">ப்ராக்ஸி</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_warning_limited_support">HTTP ப்ராக்ஸியை உலாவி பயன்படுத்தும், ஆனால் பிற பயன்பாடுகள் பயன்படுத்தாமல் போகலாம்.</string>
+    <string name="saved_network">%1$s ஆல் சேமிக்கப்பட்டது</string>
+    <string name="select_sim_card">SIM ஐத் தேர்ந்தெடு</string>
+    <string name="setup_complete_hmd">பயன்படுத்துவதற்குத் தயார்...</string>
+    <string name="setup_complete_hmd_1">கிட்டத்தட்ட பயன்படுத்தத் தயாராகிவிட்டீர்கள்...!</string>
+    <string name="setup_complete_main">நீங்கள்</string>
+    <string name="setup_complete_sub">பயன்படுத்துவதற்குத் தயார்.</string>
+    <string name="setup_completed_congratulations">வாழ்த்துக்கள்!</string>
+    <string name="setup_finish">சரி, தொடங்கலாம்</string>
+    <string name="sim_editor_title">SIM ஸ்லாட் %1$d</string>
+    <string name="sim_not_exist_toast">SIM கார்டைச் செருகியுள்ளீர்களா என்பதைப் பார்க்கவும்.</string>
+    <string name="skip_add_account_button_label">இப்போது வேண்டாம்</string>
+    <string name="skip_button_label">தவிர்</string>
+    <string name="term_agree_text">ஏற்கிறேன்</string>
+    <string name="term_disagree_text">ஏற்கவில்லை</string>
+    <string name="terms_of_service_description">"
+வானிலைச் சேவைகள், இணையச் சேவைகள், மின்னஞ்சல், உலாவி, மேலும் பல போன்ற நெட்வொர்க் இணைப்பு தேவைப்படும் சேவைகளைப் பயன்படுத்தும் போது மொபைல் தரவுப் பயன்பாட்டிற்கு கூடுதல் கட்டணம் விதிக்கப்படலாம். மொபைல் தரவுப் பயன்பாட்டை திறம்பட நிர்வகிக்க, உங்கள் தொலைதொடர்பு நிறுவனத்திலிருந்து பொருந்தும் மொபைல் சேவை பேக்கேஜைப் பயன்படுத்தும்படி பரிந்துரைக்கிறோம்.
+
+ஏற்கிறேன் என்பதைத் தேர்வுசெய்வதன் மூலம், தேவைப்படும் போது நெட்வொர்க்குடன் இணைக்க இந்தச் சேவைகளை அனுமதிக்கவும்.
+
+கூடுதலாக, மென்பொருளைத் தானாகப் புதுப்பிப்பது இயல்பாகவே இயக்கப்பட்டிருக்கும். சமீபத்திய மென்பொருள் அனுபவத்தை வழங்குவதற்காக, இது சில மொபைல் தரவைப் பயன்படுத்தலாம். நீங்கள் எப்போது வேண்டுமானாலும் அமைப்புகளுக்குச் சென்று, இந்த விருப்பத்தை மாற்றலாம்.
+
+"</string>
+    <string name="terms_title">தரவுப் பயன்பாடு</string>
+    <string name="time_picker_title">நேரம்:</string>
+    <string name="traffic_prompt_content">ஏற்கமாட்டேன் என்பதைத் தேர்வுசெய்தீர்கள் எனில், மென்பொருள் புதுப்பிப்பு, வானிலை முன்கணிப்பு அல்லது பிற தகவலைத் தானாகப் பெறமாட்டீர்கள்.</string>
+    <string name="upload_agent_des_text">"பயனர் அனுபவத் திட்டத்தில் சேரவும். &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>மேலும் அறிக&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia பயனர் அனுபவத் திட்டத்தில் சேரவும். &lt;a href='launch.UserExperienceActivity://Kode'>மேலும் அறிய.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"சரி, தொடங்கலாம்\" என்பதைத் தட்டுவதன் மூலம், பயனர் அனுபவத் திட்டத்தில் சேர ஒப்புக்கொள்கிறீர்கள். &lt;a href='launch.UserExperienceActivity://Kode'>மேலும் அறிக&lt;/a>. பிறகு அமைப்புகள் வழியாக எப்போது வேண்டுமானாலும் இணைந்துகொள்ளலாம் என்பதை நினைவில் கொள்ளுங்கள்."</string>
+    <string name="upload_agent_title">பயனர் அனுபவத் திட்டம்</string>
+    <string name="welcome_hmd_term_of_use_2">"அம்புக்குறியைத் தட்டுவதன் மூலம் நீங்கள் &lt;a href='launch.TermOfServiceActivity://Kode'>சேவை விதிகள்&lt;/a> மற்றும் &lt;a href='launch.AddUploadAgentHandler://Kode'>தனியுரிமைக் கொள்கையை&lt;/a> ஏற்றுக்கொள்கிறீர்கள். சாதனத்தின் இருப்பிடம் பற்றிய ஒரு முறைத் தகவலுடன் சாதனத்தை செயல்படுத்திய தகவல் HMD Global-க்கு அனுப்பப்படும். தரவுக் கட்டணம் பொருந்தும்."</string>
+    <string name="welcome_hmd_term_of_use_4">"பொத்தானைத் தட்டுவதன் மூலம், &lt;a href='launch.TermOfServiceActivity://Kode'>சேவை விதிகள்&lt;/a> மற்றும் &lt;a href='launch.AddUploadAgentHandler://Kode'>தனியுரிமைக் கொள்கையை&lt;/a> ஏற்கிறீர்கள். சாதனத்தின் இருப்பிடம் குறித்து ஒருமுறை மட்டும் பயன்படுத்தக்கூடிய தகவலுடன் சாதனத்தைச் செயல்படுத்திய தகவல் HMD Global-க்கு அனுப்பப்படும்.&lt;br/>&lt;br/>சமீபத்திய புதுப்பிப்புகளை நிறுவும் தானியங்கு மென்பொருள் புதுப்பிப்பு இயக்கப்படும். இது டேட்டா பட்ஜெட்டில் குறைந்த அளவைப் பயன்படுத்தலாம். சேவைகள் தங்களுக்குத் தேவையான போதெல்லாம் இணையத்தை அணுகும்.&lt;br/>&lt;br/>செல்லுலார் நெட்வொர்க்குகளின் மூலம் அணுகும் போது இந்தச் சேவைகளால் கூடுதல் கட்டணங்கள் ஏற்படலாம்."</string>
+    <string name="welcome_hmd_term_of_use_5">"பொத்தானைத் தட்டுவதன் மூலம், &lt;a href='launch.TermOfServiceActivity://Kode'>சேவை விதிமுறைகளை&lt;/a> ஒப்புக்கொள்கிறீர்கள். சாதனத்தின் இருப்பிடம் குறித்து ஒரு முறை மட்டும் பயன்படுத்தக்கூடிய தகவலுடன் சாதனத்தைச் செயல்படுத்திய தகவல் HMD Global-க்கு அனுப்பப்படும். தரவுக் கட்டணங்கள் விதிக்கப்படலாம். தரவானது &lt;a href='launch.AddUploadAgentHandler://Kode'>தனியுரிமைக் கொள்கைக்கு&lt;/a> உட்பட்டுப் பயன்படுத்தப்படும்."</string>
+    <string name="welcome_infocus_term_of_use">"அம்புக்குறியைத் தட்டுவதன் மூலம், &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>பயன்பாட்டு விதிமுறைகளை&lt;/a>ஏற்கிறீர்கள்"</string>
+    <string name="welcome_lets_go_button_label">வாருங்கள்</string>
+    <string name="welcome_message">வருக</string>
+    <string name="welcome_start_button_label">தொடங்கு</string>
+    <string name="welcome_vision_settings_button_label">பார்வை அமைப்புகள்</string>
+    <string name="wifi_add_network">நெட்வொர்க்கைச் சேர்</string>
+    <string name="wifi_advanced_toggle_description_collapsed">கீழ்த்தோன்றுதல் பட்டியல் மேம்பட்ட விருப்பங்கள். விரிக்க, இருமுறை தட்டவும்.</string>
+    <string name="wifi_advanced_toggle_description_expanded">கீழ்த்தோன்றுதல் பட்டியல் மேம்பட்ட விருப்பங்கள். சுருக்க, இருமுறை தட்டவும்.</string>
+    <string name="wifi_and_mobile_skipped_message">"நெட்வொர்க்குடன் இணைப்பது உங்கள் ஃபோனை விரைவாக அமைக்க உதவும்.
+
+இணைப்பு இல்லாமல், இவற்றைச் செய்ய முடியாது:
+
+"<li>உங்கள் கிளவுட் கணக்கில் உள்நுழைதல்</li>"
+
+"<li>மென்பொருள் புதுப்பிப்புகளைப் பெறுதல்</li>"
+
+"<li>நேரம் மற்றும் தேதியைத் தானாகவே அமைத்தல்</li></string>
+    <string name="wifi_auth_password_wrong">கடவுச்சொல் தவறானதாக இருக்கலாம்</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">ரத்து</string>
+    <string name="wifi_certificate">சான்றிதழ்</string>
+    <string name="wifi_connect">இணை</string>
+    <string name="wifi_connected_no_internet">இணைக்கப்பட்டது, இணைய இணைப்பு இல்லை</string>
+    <string name="wifi_disabled_generic">முடக்கப்பட்டது</string>
+    <string name="wifi_disabled_network_failure">IP உள்ளமைவுத் தோல்வி</string>
+    <string name="wifi_disabled_password_failure">அங்கீகரிப்புச் சிக்கல்</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">வழங்காதே</string>
+    <string name="wifi_do_not_validate_eap_server">சரிபார்க்காதே</string>
+    <string name="wifi_do_not_validate_eap_server_warning">சான்றிதழ் குறிப்பிடப்படவில்லை. உங்கள் இணைப்பு தனிப்பட்டதாக இருக்காது.</string>
+    <string name="wifi_dont_skip">திரும்பு</string>
+    <string name="wifi_eap_anonymous">அநாமதேய அடையாளம்</string>
+    <string name="wifi_eap_ca_cert">CA சான்றிதழ்</string>
+    <string name="wifi_eap_domain">டொமைன்</string>
+    <string name="wifi_eap_identity">அடையாளம்</string>
+    <string name="wifi_eap_method">EAP முறை</string>
+    <string name="wifi_eap_user_cert">பயனர் சான்றிதழ்</string>
+    <string name="wifi_fail_to_scan">நெட்வொர்க்குகளைத் தேட முடியவில்லை</string>
+    <string name="wifi_failed_connect_message">நெட்வொர்க்குடன் இணைக்க முடியவில்லை</string>
+    <string name="wifi_failed_forget_message">நெட்வொர்க்கை நீக்க முடியவில்லை</string>
+    <string name="wifi_failed_save_message">நெட்வொர்க்கைச் சேமிக்க முடியவில்லை</string>
+    <string name="wifi_forget">நீக்கு</string>
+    <string name="wifi_frequency">காலஇடைவெளி</string>
+    <string name="wifi_gateway">கேட்வே</string>
+    <string name="wifi_ip_address">IP முகவரி</string>
+    <string name="wifi_ip_settings">IP அமைப்புகள்</string>
+    <string name="wifi_ip_settings_invalid_dns">சரியான DNS முகவரியை உள்ளிடவும்.</string>
+    <string name="wifi_ip_settings_invalid_gateway">சரியான கேட்வே முகவரியை உள்ளிடவும்.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">சரியான IP முகவரியை உள்ளிடவும்.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">0 மற்றும் 32 க்கு இடையில் நெட்வொர்க் முன்னொட்டு நீளத்தை உள்ளிடவும்.</string>
+    <string name="wifi_multiple_cert_added">(பல சான்றிதழ்கள் சேர்க்கப்பட்டன)</string>
+    <string name="wifi_network_prefix_length">நெட்வொர்க் முன்னொட்டு நீளம்</string>
+    <string name="wifi_no_domain_warning">டொமைனைக் குறிப்பிட வேண்டும்.</string>
+    <string name="wifi_no_internet">இணைய அணுகல் இல்லை</string>
+    <string name="wifi_no_internet_no_reconnect">தானாகவே இணைக்க வேண்டாம்</string>
+    <string name="wifi_not_in_range">வரம்பில் இல்லை</string>
+    <string name="wifi_password">கடவுச்சொல்</string>
+    <string name="wifi_picker_connection_des_text">WLAN இணைப்பை முடக்குவதால், மொபைல் நெட்வொர்க் மூலமாக உங்கள் மென்பொருளைச் சரிபார்க்கும் போது அதற்குக் கட்டணம் விதிக்கப்படலாம்.</string>
+    <string name="wifi_picker_connection_negative">இணைக்கவா</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN-ஐ இணை</string>
+    <string name="wifi_picker_connection_positive">செய்தாயிற்று</string>
+    <string name="wifi_picker_connection_title">நெட்வொர்க் இணைப்பு</string>
+    <string name="wifi_picker_warning_des_text">இணைய இணைப்பு கிடைக்கும் வரை, உங்கள் மென்பொருள் சமீபத்திய புதுப்பிப்பிற்கு மேம்படுத்தப்பட்டுள்ளதா என்பதை ஃபோனால் சரிபார்க்க முடியாது.</string>
+    <string name="wifi_picker_warning_negative">பரவாயில்லை, தவிர்</string>
+    <string name="wifi_picker_warning_positive">தவிர்க்காதே</string>
+    <string name="wifi_picker_warning_title">எச்சரிக்கை:</string>
+    <string name="wifi_remembered">சேமிக்கப்பட்டது</string>
+    <string name="wifi_save">சேமி</string>
+    <string name="wifi_security">பாதுகாப்பு</string>
+    <string name="wifi_security_none">ஏதுமில்லை</string>
+    <string name="wifi_setting_title">இணைக்கவும்</string>
+    <string name="wifi_shared">பிற சாதனப் பயனர்களுடன் பகிர்</string>
+    <string name="wifi_show_advanced">மேம்பட்ட விருப்பங்கள்</string>
+    <string name="wifi_show_password">கடவுச்சொல்லைக் காட்டு</string>
+    <string name="wifi_signal">சிக்னல் வலிமை</string>
+    <string name="wifi_skip_anyway">பரவாயில்லை தவிர்</string>
+    <string name="wifi_speed">இணைப்பு வேகம்</string>
+    <string name="wifi_ssid">நெட்வொர்க் பெயர்</string>
+    <string name="wifi_ssid_hint">SSID ஐ உள்ளிடவும்</string>
+    <string name="wifi_status">நிலை</string>
+    <string name="wifi_unchanged">(மாற்றப்படவில்லை)</string>
+    <string name="wifi_unspecified">தேர்ந்தெடுக்கவும்</string>
+    <string name="wifi_use_system_certs">முறைமைச் சான்றிதழ்களைப் பயன்படுத்து</string>
+    <string name="zone_auto">தானியங்கு நேர மண்டலம்</string>
+    <string name="zone_auto_summaryOff">நெட்வொர்க் வழங்கும் நேர மண்டலத்தைப் பயன்படுத்து</string>
+    <string name="zone_auto_summaryOn">நெட்வொர்க் வழங்கும் நேர மண்டலத்தைப் பயன்படுத்து</string>
+    <string name="sugarsync_intro_description">சில எளிய படிகளை முடிப்பதன் மூலம், SugarSync உடனான தடையில்லாத கிளவுட் சேமிப்பக ஒருங்கிணைப்பைப் பயன்படுத்தி மகிழுங்கள்.</string>
+</resources>

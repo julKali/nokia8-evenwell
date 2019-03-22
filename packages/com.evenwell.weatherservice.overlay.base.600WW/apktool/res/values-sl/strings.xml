@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Vremenska storitev</string>
+    <string name="fih_weather_permission_hint_1">Ta aplikacija potrebuje za pravilno delovanje ustrezna dovoljenja. Na zahtevo omogočite dovoljenje.</string>
+    <string name="fih_weather_permission_hint_2">Ta aplikacija potrebuje za pravilno delovanje dodatna dovoljenja. Dovoljenja za「vremensko storitev」upravljajte v možnosti「Nastavitve」.</string>
+    <string name="fih_weather_button_ok">V redu</string>
+    <string name="fih_weather_button_close">Zapri kanal</string>
+    <string name="fih_weather_button_setting">Nastavitve...</string>
+    <string name="fih_weather_permission_success">Podeli dovoljenje za lokacijo</string>
+    <string name="fih_weather_permission_failed">Dovoljenje za dostop do lokacije je zavrnjeno in lokacije ni mogoče pridobiti</string>
+    <string name="fih_weather_notification_title">Vremenska storitev zahteva dovoljenje</string>
+    <string name="fih_weather_notification_text">Dotaknite se za dovoljenje</string>
+    <string name="fih_weather_notification_channel_title">Splošna obvestila</string>
+</resources>

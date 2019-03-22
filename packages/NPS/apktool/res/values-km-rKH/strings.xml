@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">លើកលែង</string>
+    <string name="DONE">រួចរាល់</string>
+    <string name="NEXT">បន្ទាប់</string>
+    <string name="OK">យល់ព្រម</string>
+    <string name="PREVIOUS">មុន</string>
+    <string name="alert_empty_desc">សូមបន្ថែមការពិពណ៌នារបស់អ្នក!</string>
+    <string name="alert_warning_title">គន្លឺះ</string>
+    <string name="enter_comments">វាយបញ្ចូល​មតិ (1000 តួ)</string>
+    <string name="extremely_likely">(ចូលចិត្តខ្លាំង)</string>
+    <string name="feedback">មតិតប</string>
+    <string name="helps_us_improve_our_products">មតិតប​របស់​អ្នក​ជួយ​យើង​កែលម្អ​ផលិតផល​របស់​យើង!</string>
+    <string name="intro_title">តើ​អ្នក​ទំនង​ជា​ឲ្យ​យោបល់​ទូរសព្ទ​នេះ​ដល់​មិត្តភក្ដិ​ឬ​សហការី​ទេ?</string>
+    <string name="msg_send_after">សារនឹងបញ្ចូលដោយស្វ័យប្រវត្តិពេលឧបករណ៍អនឡាញ។ អគុណសម្រាប់ការឆ្លើយតប។</string>
+    <string name="msg_send_fail">ការបញ្ចូនបានបរាជ័យ។ សារនឹងបញ្ចូលដោយស្វ័យប្រវត្តិពេលឧបករណ៍អនឡាញ។ អគុណសម្រាប់ការឆ្លើយតប​។</string>
+    <string name="no_ask_feedback_again_text">កុំ​សួរ​រក​មតិតប​ម្ដងទៀត</string>
+    <string name="no_showagain_text">កុំ​បង្ហាញ​ម្ដង​ទៀត</string>
+    <string name="not_at_all_likely">(មិនចូលចិត្តទាំងអស់)</string>
+    <string name="privacy_context_wifi">"អ្នកប្រើប្រាស់ជាទីគោរព, 
+
+ស្វាគមន៍ការប្រើប្រាស់កម្មវិធីមតិយោបល់សម្រាប់អតិថិជន។ សូមអានឱ្យបានប្រុងប្រយ័ត្ន និងយល់ឱ្យបានច្បាស់លក្ខខណ្ឌសេវាកម្មមុនពេលប្រើប្រាស់ផលិតផលនេះ។ ចុច យល់ព្រម មានន័យថាអ្នកបានយល់ច្បាស់លក្ខខណ្ឌជាមុនប្រើប្រាស់កម្មវិធីនេះ និងយល់ព្រមប្រើប្រាស់វា។ ប្រសិនអ្នកមិនយល់ព្រមតាមលក្ខខណ្ឌ សូមចុច បិទ។ ដើម្បីផ្តល់អ្នកជាមួយនឹងសេវាកម្មដោយរលូត កម្មវិធីនេះត្រូវការការអនុញ្ញាតដូចតទៅ: 
+1. ចូលទៅកាន់អ៊ីនធើណែត, WLAN ណែតវើកដើម្បីផ្ញើព័ត៌មានមតិយល់ 
+2. ទាញបញ្ចូលព័ត៌មាន IMEI, PSN និង MNC\\MCC ដើម្បីទទួលព័ត៌មានទូរស័ព្ទទូរទៅ"</string>
+    <string name="select_a_value">ជ្រើស​តម្លៃ​មួយ</string>
+    <string name="str_agree">យល់ព្រម</string>
+    <string name="str_leave">បិទ</string>
+    <string name="submit_fail">ការបញ្ជូនបរាជ័យ</string>
+    <string name="submit_success">អគុណសម្រាប់ការឆ្លើយតប</string>
+    <string name="thank_your_feedback">សូម​អរគុណ​សម្រាប់​មតិតប​របស់​អ្នក!</string>
+    <string name="we_appreciate_your_help">យើង​សូម​សរសើរ​ចំពោះ​ការជួយ​របស់​អ្នក​ក្នុង​ការ​ធ្វើ​ឲ្យ​ផលិតផល Nokia ជា​ផលិតផល​ល្អបំផុត​លើ​ពិភពលោក។</string>
+    <string name="we_hope_enjoying_nokia_device">យើង​សង្ឃឹម​ថា អ្នក​កំពុង​រីករាយ​នឹង​ឧបករណ៍ Nokia របស់​អ្នក។ មតិតប​របស់​អ្នក​គឺ​សំខាន់​ណាស់​ចំពោះ​យើង។</string>
+    <string name="we_will_contact_you_again">យើងនឹងទាក់ទងអ្នកម្តងទៀតនៅពេលខាងមុខ។</string>
+    <string name="we_will_contact_you_again_enjoy">យើង​នឹង​ទាក់ទង​អ្នក​ម្ដងទៀត​នា​ពេល​អនាគត។ រីករាយ​នឹង​ឧបករណ៍ Nokia ថ្មី​របស់​អ្នក!</string>
+    <string name="why_you_gave_this_score">សូម​ប្រាប់​យើង​ហេតុអ្វី​បាន​ជា​អ្នក​បាន​ឲ្យ​ពិន្ទុ​នេះ៖</string>
+</resources>

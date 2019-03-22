@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP 用戶端</string>
+    <string name="fih_cp_apn_not_set">(未設定)</string>
+    <string name="fih_cp_apply_dialog_body_msg">是否要安裝新的配置</string>
+    <string name="fih_cp_apply_dialog_head_msg">新配置</string>
+    <string name="fih_cp_btn_back">返回</string>
+    <string name="fih_cp_btn_cancel">取消</string>
+    <string name="fih_cp_btn_next">下一頁</string>
+    <string name="fih_cp_btn_ok">確定</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">驗證類型</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">無</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP 或 CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">連接埠</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS 連接埠</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS proxy</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">名稱</string>
+    <string name="fih_cp_editor_apn_password">密碼</string>
+    <string name="fih_cp_editor_apn_server">伺服器</string>
+    <string name="fih_cp_editor_apn_type">APN 類型</string>
+    <string name="fih_cp_editor_apn_user">使用者名稱</string>
+    <string name="fih_cp_error_apn_empty">APN 不能空白。</string>
+    <string name="fih_cp_error_name_empty">名稱欄位不能空白。</string>
+    <string name="fih_cp_error_other">資料錯誤。</string>
+    <string name="fih_cp_error_title">注意</string>
+    <string name="fih_cp_input_pin_code">輸入PIN碼：</string>
+    <string name="fih_cp_input_pin_code_cancel">取消</string>
+    <string name="fih_cp_input_pin_code_empty">請輸入PIN碼。</string>
+    <string name="fih_cp_input_pin_code_incorrect">PIN碼不正確。</string>
+    <string name="fih_cp_input_pin_code_ok">確定</string>
+    <string name="fih_cp_notification_channel_name">應用通知</string>
+    <string name="fih_cp_notify_statusbar_content">新配置信息</string>
+    <string name="fih_cp_sim_not_available">SIM卡無效。</string>
+    <string name="fih_cp_toast_info_create">建立配置成功</string>
+    <string name="fih_cp_toast_info_update">更新配置成功</string>
+    <string name="fih_cp_ui_mode_delete">刪除</string>
+    <string name="fih_cp_ui_mode_ok">確定</string>
+    <string name="fih_cp_ui_mode_postpone">延後通知</string>
+</resources>

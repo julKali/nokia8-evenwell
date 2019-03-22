@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_notification_text">Trokit për ta lejuar</string>
+    <string name="fih_weather_notification_title">\"WeatherService kërkon leje\"</string>
+    <string name="fih_weather_permission_failed">\"Leja u refuzua, vendndodhja e padisponueshme.\"</string>
+    <string name="fih_weather_permission_hint_1">Për të funksionuar si duhet, ky aplikacion kërkon leje shtesë. Lejoni lejen kur të kërkohet.</string>
+    <string name="fih_weather_permission_hint_2">\"Për të funksionuar si duhet, ky aplikacion kërkon leje shtesë. Menaxhoni lejet e WeatherService te Cilësimet.\"</string>
+    <string name="fih_weather_permission_success">\"Vendndodhja u lejua\"</string>
+    <string name="fih_weather_service_title_txt">Shërbimi i motit</string>
+</resources>

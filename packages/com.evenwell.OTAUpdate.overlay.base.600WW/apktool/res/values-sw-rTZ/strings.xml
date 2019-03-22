@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sasisho la programu</string>
+    <string name="remote_file_fail">Haiwezi kufikia fali ya mbali. Tafadhali jaribu tena badaye.</string>
+    <string name="no_description">(Hakuna maelezo)</string>
+    <string name="login_fail">Imeshindwa kuingia kwenye seva. Tafadhali jaribu tena badaye.</string>
+    <string name="get_service_url_fail">Muunganisho wa mtandao si thabiti (Imeshindwa kupata URL ya huduma). Tafadhali jaribu tena badaye.</string>
+    <string name="query_sw_fail">Imeshindwa kuuliza maelezo ya programu.</string>
+    <string name="download_sw_fail">Imeshindwa kupakua programu.</string>
+    <string name="query_sw_incorrect">Matokeo si sahihi.</string>
+    <string name="no_update_available">Hakuna sasisho jipya linalopatikana.</string>
+    <string name="update_not_ready">Sasisho jipya haliko tayari kwenye seva. Tafadhali jaribu tena badaye.</string>
+    <string name="check_now_label">Kagua sasa</string>
+    <string name="verifying">Inathibitisha...</string>
+    <string name="header_verifying_update_file">Inathibitisha faili iliyosasishwa...</string>
+    <string name="unzipping">Inafungua...</string>
+    <string name="header_starting_to_download_file">Inaanza kupakua faili...</string>
+    <string name="header_system_update_available">Sasisho la mfumo linapatikana</string>
+    <string name="new_version_desc_prompt">Toleo jipya linajumuisha:</string>
+    <string name="data_fee_warning">Kutumia kifaa hiki kwenye muunganisho wako wa mtandao wa simu kunaweza kugharimu pesa!</string>
+    <string name="header_downloading_update">Inapakua sasisho</string>
+    <string name="header_install_system_software_update">Sakinisha sasisho la programu ya mfumo</string>
+    <string name="msg_install_system_software_update_1">"Je, ungependa kusakinisha programu ifuatayo ya mfumo?
+Mfumo umeboreshwa hadi"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Hutaweza kutumia kifaa chako au kupiga simu za dharura wakati wa kusombeza.
+
+Kuondoa betri au kadi ya SD wakati unasasisha programu kunaweza kusababisha matokeo yasiotarajiwa."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Hutaweza kutumia kifaa chako wakati wa kusombeza.
+
+Kukata nishati au kuondoa faili iliyopakuliwa ukisasisha programu kutasababisha matokeo yasiotarajiwa."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Hutaweza kutumia kifaa chako au kupiga simu za dharura wakati wa kusombeza.
+
+Itasababisha matokeo yasiotarajiwa ukikata nishati au kuondoa faili iliyopakuliwa wakati wa kusasisha programu."</string>
+    <string name="button_install_now">Sakinisha sasa</string>
+    <string name="button_install_later">Sakinisha baadaye</string>
+    <string name="header_unable_to_connect">Haiwezi kuunganisha</string>
+    <string name="msg_unable_to_connect">Unahitaji muunganisho wa mtandao ili utumie programu hii. Tafadhali washa mtandao wa simu au Wi-Fi katika Mipangilio.</string>
+    <string name="msg_unable_to_connect_2">Unahitaji muunganisho wa mtandao ili utumie programu hii. Tafadhali washa mtandao wa simu katika Mipangilio.</string>
+    <string name="msg_unable_to_connect_wlan">Unahitaji muunganisho wa mtandao ili utumie programu hii. Tafadhali washa mtandao wa simu au WLAN katika Mipangilio.</string>
+    <string name="msg_unable_to_connect_short">Hakuna muunganisho wa mtandao</string>
+    <string name="header_system_is_update">Mfumo umesasishwa.</string>
+    <string name="msg_system_is_update">Hakuna sasisho jipya linalopatikana.</string>
+    <string name="msg_system_is_update_short">Hakuna visasisho vipya</string>
+    <string name="msg_no_sd_card">Kadi ya SD inahitajika kwa usasishaji wa mfumo. Tafadhali ingiza kadi ya SD inayopatikana.</string>
+    <string name="msg_no_available_size_card">Faili hii ya sasisho inahitaji MB %s ya nafasi inayopatikana. Tafadhali futa baadhi ya faili kwenye kadi ya SD.</string>
+    <string name="msg_no_available_size_card_2">Faili hii ya sasisho inahitaji MB %s ya nafasi inayopatikana. Tafadhali futa baadhi ya faili katika hifadhi ya data.</string>
+    <string name="msg_no_available_size_card_short">Hakuna nafasi huru ya kutosha.</string>
+    <string name="msg_do_not_remove_sd_card">Tafadhali USIONDOE kadi ya SD.</string>
+    <string name="title_system_update_ready">Sasisho la mfumo liko tayari</string>
+    <string name="msg_system_update_ready">Gonga ili usakinishe sasisho la mfumo.</string>
+    <string name="msg_system_battery_too_low">"Sasisho la mfumo liko tayari, lakini betri ya kifaa chako iko chini sana kuisakinisha. Tafadhali chaji betri na uanze kusakinisha baadaye.
+
+Kiwango cha betri kinapaswa kuwa zaidi ya 35%%.
+Kiwango cha sasa cha betri: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Betri iko chini sana</string>
+    <string name="msg_remove_sd_card">Faili iliyopakuliwa haiwezi kuandikwa kwenye kadi ya SD. Tafadhali kagua kadi ya SD.</string>
+    <string name="msg_remove_sd_card_2">Faili iliyopakuliwa haiwezi kuandikwa kwenye hifadhi ya data. Tafadhali kagua hifadhi.</string>
+    <string name="msg_remove_sd_card_short">Imeshindwa kupata Kadi ya SD.</string>
+    <string name="msg_remove_sd_card_short_2">Imeshindwa kufikia hifadhi ya data.</string>
+    <string name="msg_verify_fail">Imeshindwa kuthibitisha faili iliyopakuliwa.</string>
+    <string name="msg_verify_fail_short">Imeshindwa kuthibitisha</string>
+    <string name="msg_unzip_fail">Imeshindwa kufungua faili iliyopakuliwa.</string>
+    <string name="msg_unzip_fail_short">Imeshindwa kufungua</string>
+    <string name="data_size">Ukubwa wa data</string>
+    <string name="required_size">Nafasi inayohitajika</string>
+    <string name="network_not_match">Mpangilio wako wa sasa ni wa kupakua kupitia WLAN pekee. Tafadhali chagua mtandao wa WLAN au badilisha mipangilio yako.</string>
+    <string name="network_not_match_short">Mtandao haulingani.</string>
+    <string name="without_reboot_api">Haiwezi kuwasha upya kwa sababu API inakosekana. Tafadhali washa upya ili urejeshe kwa mikono sasisho linalotumika.</string>
+    <string name="update_complete">Sasisho la mfumo limekamilika.</string>
+    <string name="update_complete_short">Sasisho limekamilika</string>
+    <string name="file_removed">Faili iliyopakuliwa imeondolewa. Tafadhali pakua tena.</string>
+    <string name="file_removed_short">Faili iliyopakuliwa imeondolewa.</string>
+    <string name="file_not_match">Faili iliyopakuliwa hailingani na ukubwa unaotarajiwa. Tafadhali pakua tena.</string>
+    <string name="file_not_match_short">Faili hailingani.</string>
+    <string name="menu_url">Badilisha URL ya Seva</string>
+    <string name="menu_enabled">Programu Iliyowezeshwa Pekee</string>
+    <string name="using_internal_storage">Kutumia hifadhi ya ndani</string>
+    <string name="using_external_storage">Kutumia hifadhi ya nje</string>
+    <string name="msg_agree_message">"
+
+Kuna uwezekano mdogo wa kufuta data ya mtumiaji iliosababishwa na mchakato wa kusombeza. Ikihitajika, tafadhali hifadhi nakala ya data yangu kabla ya kusakinisha sombezo la mfumo."</string>
+    <string name="msg_root_message">"
+
+Sasisho la kawaida haliwezi kuhakikishwa baada ya kifaa kubadilishwa."</string>
+    <string name="msg_responsibility_message">Ikiwa kifaa kimebadilishwa, mtumiaji anawajibika kwa tabia yoyote isiyo ya kawaida ya mfumo baada ya sasisho.</string>
+    <string name="msg_upgrade_agree">Soma na ukubali</string>
+    <string name="later">Baadaye</string>
+    <string name="update_summary">Kagua visasisho</string>
+    <string name="wlan_only">WLAN tu</string>
+    <string name="wifi_only_summary">Pakua visasisho wakati Wi-Fi inapatikana</string>
+    <string name="wlan_only_summary">Pakua visasisho wakati WLAN inapatikana</string>
+    <string name="auto_update">Sasisha otomatiki</string>
+    <string name="auto_update_summary">Kagua visasisho kiotomatiki</string>
+    <string name="new_data_fee_warning">Kukagua na kupakua visasisho kunaweza kugharimu ada ya ziada. Pakua visasisho kupitia Wi-Fi ikiwezekana.</string>
+    <string name="wlan_data_fee_warning">Kukagua na kupakua visasisho kunaweza kugharimu ada ya ziada. Pakua visasisho kupitia WLAN ikiwezekana.</string>
+    <string name="install_fail">Imeshindwa kusakinisha</string>
+    <string name="install_all">Sakinisha Zote</string>
+    <string name="installed_version">Toleo lililosakinishwa</string>
+    <string name="update_available">Sasisho linapatikana.</string>
+    <string name="apk_update_available">Sasisho la programu linapatikana.</string>
+    <string name="recommend">Pendekeza</string>
+    <string name="roaming_restriction">Vikwazo vya Utumiaji data nje ya mtandao wako wa kawaida</string>
+    <string name="roaming_restriction_summary">Haiwezi kusasisha kwa sababu ya kikwazo cha utumiaji data nje ya mtandao wako wa kawaida.</string>
+    <string name="changelog">Badilisha Batli</string>
+    <string name="apk_update_available_summary">%s ina sasisho linalopatikana. Bofya Sawa ili usakinishe sasa hivi au bofya Ghairi ili ukague sasisho baada ya siku moja</string>
+    <string name="apk_removed">Programu hii imeondolewa.</string>
+    <string name="apk_available_items">Jumla ya vipengele %s vinavyopatikana</string>
+    <string name="apk_available_item">Jumla ya kipengele %s kinachopatikana</string>
+    <string name="invalid_update_summary">Sasisho si halali, tafadhali kagua tena.</string>
+    <string name="recheck">Kagua tena</string>
+    <string name="image_download_exception_summary">Haiwezi kufikia seva, tafadhali kagua tena baadaye.</string>
+    <string name="apk_download_exception">Haiwezi kufikia seva</string>
+    <string name="installation_confirmation">Uthibitishaji wa Usakinishaji</string>
+    <string name="apk_need_reboot_summary">Sasisho hili la programu litawasha upya mfumo kiotomatiki baada ya usakinishaji kukamilika. Je, unataka kuisakinisha sasa?</string>
+    <string name="prepare_to_reboot">Jiandae kuwasha upya</string>
+    <string name="prepare_to_reboot_summary">Programu iliyosakinishwa inahitaji kifaa kiwashwe upya ili usanidi mipangilio. Tunapendekeza uwashe upya sasa au unaweza pia kuiwasha upya baadaye.</string>
+    <string name="prepare_to_reboot_force_summary">Programu iliyosakinishwa inahitaji kifaa kiwashwe upya ili usanidi mipangilio. Tunapendekeza uwashe upya sasa.</string>
+    <string name="reboot_fail">Imeshindwa kuwasha upya</string>
+    <string name="reboot_fail_summary">Haiwezi kuwasha upya kwa sababu API inakosekana. Tafadhali washa upya kwa mikono.</string>
+    <string name="apk_no_avaliable_size">Haiwezi kupakua kwa sababu ya ukubwa usiotosha wa hifadhi ya ndani.</string>
+    <string name="update_finished">Sasisho limeisha</string>
+    <string name="msg_root_warning">Kifaa chako kimebadilishwa au programu rasmi imevurugwa. Kuendelea na sasisho la mfumo kunaweza kusababisha mfumo kutokuwa thabiti au mfumo kuharibika, na kunaweza kubatilisha waranti ya kifaa chako. Una uhakika unataka kupakua?</string>
+    <string name="multi_image_update">Kuna baadhi ya visasisho vya picha vinavyopatikana</string>
+    <string name="available_update_list">Orodha ya Visasisho Vinavyopatikana</string>
+    <string name="downloading_summary">Tafadhali ghairi upakuaji wa picha</string>
+    <string name="msg_erase_userdata_warning">Sasisho hili linahitaji kufuta data ya mtumiaji. Je, unataka kuendelea?</string>
+    <string name="msg_autoupdate_date_fee_warning">Kuwezesha usasisho otomatiki kunaweza kugharimu ada ya ziada.</string>
+    <string name="invalid_update">Sasisho si halali.</string>
+    <string name="file_corrupted">Mfumo hauwezi kusombezwa kwa sababu faili imeharibika.</string>
+    <string name="ask_for_apk_check">Je, unataka kukagua visasisho vya programu?</string>
+    <string name="update_ota_self">Sasisho la programu linaendelea.</string>
+    <string name="ab_update_fail">Tatizo la Kusakinisha.</string>
+    <string name="ab_update_wrong_status">Injini ya sasisho inashughuli sasa. Tafadhali jaribu tena au washa upya.</string>
+    <string name="ab_update_installing">Inasasisha mfumo</string>
+    <string name="tag_engineer_mode">Hali ya Uhandisi</string>
+    <string name="engineer_version_incorrect">Toleo la kifaa chako si sahihi</string>
+    <string name="msg_engineer_ota_restore">Gonga ili kurejesha toleo rasmi</string>
+    <string name="msg_engineer_ota_restore_warning">Hii itarejesha toleo rasmi. Je, unataka kuendelea?</string>
+    <string name="silent_mode_data_fee_warning">Sasisho linapatikana. Kupakua visasisho kunaweza kugharimu ada ya ziada. Pakua visasisho kupitia Wi-Fi ikiwezekana.</string>
+    <string name="msg_updating_system">Inasasisha mfumo...</string>
+    <string name="msg_tap_to_reboot">Gonga ili kuwasha upya</string>
+    <string name="msg_pause_download">Sitisha upakuaji</string>
+    <string name="notification_channel_name">Sasisho la mfumo</string>
+    <string name="notification_channel_alert_name">Arifa za kawaida</string>
+</resources>

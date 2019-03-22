@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Редактор боке</string>
+    <string name="image_not_null">Шлях до зображення не може бути пустим</string>
+    <string name="no_bokeh_type">Немає типу боке</string>
+    <string name="no_mpo_file">Немає файлу MPO</string>
+    <string name="save">Зберегти</string>
+    <string name="save_success">Збережено</string>
+</resources>

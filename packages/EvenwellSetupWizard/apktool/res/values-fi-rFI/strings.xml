@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Esteettömyys</string>
+    <string name="available_via_passpoint">Saatavilla käyttämällä %1$s</string>
+    <string name="back_btn_lebel">TAKAISIN</string>
+    <string name="backup_and_restore_description">"Jos varmuuskopioit tilisi aiemmin, voit palauttaa sen tähän puhelimeen nyt.
+
+Voit muuttaa varmuuskopiointiasetuksia milloin tahansa asetuksissa."</string>
+    <string name="backup_and_restore_title">Varmuuskopioi ja palauta</string>
+    <string name="connected_via_passpoint">Yhteys muodostettu käyttämällä %1$s</string>
+    <string name="connected_via_wfa">Yhteys muodostettu käyttämällä Wi‑Fi-apuria</string>
+    <string name="datausage_dialog_negitive_btn">Peruuta</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Päivämäärä- ja aika-asetukset</string>
+    <string name="date_and_time_settings_title">Päivämäärä ja aika</string>
+    <string name="device_checking_message">Tervetuloa</string>
+    <string name="emergency_dial_hmd_message">Hätä</string>
+    <string name="finish_button_label">LOPETA</string>
+    <string name="hmd_user_experience_program_message">Osallistumisesi käyttäjäkokemusohjelmaan auttaa HMD Globalia ymmärtämään paremmin, mistä pidät Nokia-laitteessasi ja mitä mielestäsi on parannettava. Toisinaan saatamme saada laitteestasi anonyymiä teknisluonteista tietoa, kuten tiedosto, joka sisältää tietoja ohjelmiston kaatumisesta, joka on saattanut tapahtua. Huomaa, että tällaisia tietoja ei lähetetä matkapuhelinyhteydellä. Kuulemme mielellämme sinulta, mitä mieltä olet Nokia-laitteestasi!</string>
+    <string name="hmd_user_experience_program_title">Käyttäjäkokemusohjelma</string>
+    <string name="idle_too_long_toast">Tämä puhelin on passivoitu joksikin aikaa. Sammuta nyt säilyttääksesi akun varaustilan.</string>
+    <string name="insert_sim_cards">Lisää SIM-kortteja</string>
+    <string name="insert_sim_cards_prompt_content">"Etkö ole varma, miten toimia? Perehdy puhelimen mukana toimitettuihin ohjeisiin.
+
+SIM-korttien aktivointi voi kestää muutaman sekunnin paikalleen asettamisen jälkeen."</string>
+    <string name="language_selection_cancel_btn">PERUUTA</string>
+    <string name="light_room_description">%1$s tukee RAW (DNG) -kuvien tallennusta. Adoben kanssa tekemämme yhteistyön ansiosta voit suorittaa muokkaukset suoraan uudella matkapuhelimellasi.&lt;br/>&lt;br/>Lataa Adobe Photoshop Lightroom CC Google Play -kaupasta nyt.</string>
+    <string name="light_room_title">Suhtaudutko intohimoisesti valokuvaukseen?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="nevigation_selection_back">Takaisin</string>
+    <string name="next_btn_lebel">SEURAAVA</string>
+    <string name="not_now">EI NYT…</string>
+    <string name="passpoint_content">%1$s tunnistetiedot</string>
+    <string name="passpoint_label">Tallennettu käyttämällä</string>
+    <string name="please_select_phase2">Vaiheen 2 todennus</string>
+    <string name="proxy_error_empty_host_set_port">Porttikentän on oltava tyhjä, jos isäntäkenttäkin on tyhjä.</string>
+    <string name="proxy_error_empty_port">Täytä porttikenttä.</string>
+    <string name="proxy_error_invalid_exclusion_list">Antamasi ohitusluettelon muoto on virheellinen. Anna ohitettavien verkkoalueiden luettelo pilkulla erotettuna.</string>
+    <string name="proxy_error_invalid_port">Antamasi portti ei kelpaa.</string>
+    <string name="proxy_exclusionlist_label">Ohita välityspalvelin</string>
+    <string name="proxy_hostname_label">Välityspalvelin isäntänimi</string>
+    <string name="proxy_port_label">Välityspalvelimen portti</string>
+    <string name="proxy_settings_title">Välityspalvelin</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_warning_limited_support">HTTP-välityspalvelin on selaimen käytössä, eivätkä muut sovellukset voi käyttää sitä.</string>
+    <string name="saved_network">Tallentaja %1$s</string>
+    <string name="select_sim_card">Valitse SIM-kortti</string>
+    <string name="setup_complete_hmd">Olet valmis...</string>
+    <string name="setup_complete_hmd_1">Olet melkein valmis...!</string>
+    <string name="setup_complete_main">Olet</string>
+    <string name="setup_complete_sub">VALMIS.</string>
+    <string name="setup_completed_congratulations">Onnittelut!</string>
+    <string name="setup_finish">HYVÄKSY</string>
+    <string name="sim_editor_title">SIM-korttipaikka %1$d</string>
+    <string name="term_agree_text">Hyväksy</string>
+    <string name="upload_agent_hmd_des_text_3">"Napauttamalla HYVÄKSY suostut liittymään käyttäjäkokemusohjelmaan. &lt;a href='launch.UserExperienceActivity://Kode'>Lue lisää&lt;/a>. Muista, että voit aina liittyä myöhemmin Asetukset-kohdassa."</string>
+    <string name="upload_agent_title">Käyttäjäkokemusohjelma</string>
+    <string name="welcome_hmd_term_of_use_4">"Napauttamalla painiketta hyväksyt &lt;a href='launch.TermOfServiceActivity://Kode'>palveluehdot&lt;/a> ja &lt;a href='launch.AddUploadAgentHandler://Kode'>tietosuojakäytännön&lt;/a>. Laitteen aktivointitiedot ja laitteen senhetkinen sijainti lähetetään HMD Globalille.&lt;br/>&lt;br/>Automaattisen ohjelmistopäivityksen ilmoitus ilmaisee, että uusimmat päivitykset asentuvat automaattisesti. Tämä voi käyttää pienen osan datakiintiöstäsi. Palvelut muodostavat yhteyden internetiin tarvittaessa.&lt;br/>&lt;br/>Matkapuhelinverkon käytöstä voi aiheutua maksuja."</string>
+    <string name="welcome_hmd_term_of_use_5">"Napauttamalla painiketta hyväksyt &lt;a href='launch.TermOfServiceActivity://Kode'>palveluehdot&lt;/a>. Laitteen aktivointitiedot sekä kertaluonteisesti laitteen sijainti lähetetään HMD Globalille. Tietojen lähettämisestä saatetaan periä tiedonsiirtomaksu. Tietoja käytetään &lt;a href='launch.AddUploadAgentHandler://Kode'>tietosuojakäytännön&lt;/a> mukaisesti."</string>
+    <string name="welcome_message">Tervetuloa</string>
+    <string name="welcome_start_button_label">KÄYNNISTÄ</string>
+    <string name="wifi_add_network">Lisää verkko</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Pudotusvalikon Lisäasetukset. Laajenna kaksoisnapauttamalla.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Pudotusvalikon Lisäasetukset. Kutista kaksoisnapauttamalla.</string>
+    <string name="wifi_and_mobile_skipped_message">"Yhdistäminen verkkoon nopeuttaa puhelimen asettamista.
+
+Jos yhteyttä ei ole, voit ’t:
+
+"<li>Kirjaudu pilvipalvelutilillesi</li>"
+
+"<li>Hae ohjelmistopäivityksiä</li>"
+
+"<li>Määritä päivämäärä ja aika automaattisesti</li></string>
+    <string name="wifi_auth_password_wrong">Salasana voi olla virheellinen</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Peruuta</string>
+    <string name="wifi_certificate">Varmenne</string>
+    <string name="wifi_connect">Yhdistä</string>
+    <string name="wifi_connected_no_internet">Yhdistetty, ei internet-yhteyttä</string>
+    <string name="wifi_disabled_generic">Poistettu käytöstä</string>
+    <string name="wifi_disabled_network_failure">IP-määritysvirhe</string>
+    <string name="wifi_disabled_password_failure">Todennusongelma</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Älä ehdota</string>
+    <string name="wifi_do_not_validate_eap_server">Älä vahvista</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Varmennetta ei ole määritetty. Yhteys ei ole yksityinen.</string>
+    <string name="wifi_dont_skip">PALAA</string>
+    <string name="wifi_eap_anonymous">Nimetön identiteetti</string>
+    <string name="wifi_eap_ca_cert">CA-varmenne</string>
+    <string name="wifi_eap_domain">Verkkoalue</string>
+    <string name="wifi_eap_identity">Identiteetti</string>
+    <string name="wifi_eap_method">EAP-menetelmä</string>
+    <string name="wifi_eap_user_cert">Käyttäjävarmenne</string>
+    <string name="wifi_fail_to_scan">Verkkojen skannaus ei onnistu</string>
+    <string name="wifi_failed_connect_message">Yhteyden muodostaminen verkkoon epäonnistui</string>
+    <string name="wifi_failed_forget_message">Verkon unohtaminen epäonnistui</string>
+    <string name="wifi_failed_save_message">Verkon tallennus epäonnistui</string>
+    <string name="wifi_forget">Unohda</string>
+    <string name="wifi_frequency">Taajuus</string>
+    <string name="wifi_gateway">Yhdyskäytävä</string>
+    <string name="wifi_ip_address">IP-osoite</string>
+    <string name="wifi_ip_settings">IP-asetukset</string>
+    <string name="wifi_ip_settings_invalid_dns">Anna voimassa oleva DNS-osoite.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Anna voimassa oleva yhdyskäytävän osoite.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Anna voimassa oleva IP-osoite.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Anna verkon etuliitteen pituus 0 - 32.</string>
+    <string name="wifi_multiple_cert_added">(Useita varmenteita lisätty)</string>
+    <string name="wifi_network_prefix_length">Verkon etuliitteen pituus</string>
+    <string name="wifi_no_domain_warning">Verkkoalue on määritettävä.</string>
+    <string name="wifi_no_internet">Ei internet-yhteyttä</string>
+    <string name="wifi_no_internet_no_reconnect">Yhteys ei muodostu automaattisesti</string>
+    <string name="wifi_not_in_range">Arvo ei ole arvoalueella</string>
+    <string name="wifi_password">Salasana</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_remembered">Tallennettu</string>
+    <string name="wifi_save">Tallenna</string>
+    <string name="wifi_security">Suojaus</string>
+    <string name="wifi_security_none">Ei mitään</string>
+    <string name="wifi_setting_title">Muodosta yhteys</string>
+    <string name="wifi_shared">Jaa muiden laitteiden käyttäjien kanssa</string>
+    <string name="wifi_show_advanced">Lisäasetukset</string>
+    <string name="wifi_show_password">Näytä salasana</string>
+    <string name="wifi_signal">Signaalin voimakkuus</string>
+    <string name="wifi_skip_anyway">OHITA AINA</string>
+    <string name="wifi_speed">Yhteysnopeus</string>
+    <string name="wifi_ssid">Verkon nimi</string>
+    <string name="wifi_ssid_hint">Syötä SSID</string>
+    <string name="wifi_status">Tila</string>
+    <string name="wifi_unchanged">(muuttumaton)</string>
+    <string name="wifi_unspecified">Valitse</string>
+    <string name="wifi_use_system_certs">Käytä järjestelmävarmenteita</string>
+</resources>

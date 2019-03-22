@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">OTKAŽI</string>
+    <string name="copying">Kopiranje...</string>
+    <string name="download_complete_msg">"Preuzimanje je završeno.
+
+Dodirnite OK da ponovo pokrenete uređaj i pokrenete Demo način rada."</string>
+    <string name="download_fail_msg">"Neuspješno preuzimanje demo materijala s interneta.
+
+Dodirnuti OK da ponovo pokrenete uređaj i pokrenete Demo način rada?"</string>
+    <string name="downloading">Preuzimanje...</string>
+    <string name="no_new_demo_found_msg">"Nije pronađen novi demo materijal.
+
+Dodirnuti OK da ponovo pokrenete uređaj i pokrenete Demo način rada?"</string>
+    <string name="ok">OK</string>
+    <string name="system_busy_msg">Sistem je zauzet. Pokušajte ponovo kasnije.</string>
+</resources>

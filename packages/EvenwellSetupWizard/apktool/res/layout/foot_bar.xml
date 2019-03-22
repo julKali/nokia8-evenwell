@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:orientation="horizontal" android:background="@color/footer_background" android:layout_width="fill_parent" android:layout_height="56.0dip" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center|left" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="34.0dip" android:layout_weight="1.0">
+        <Button android:textSize="16.0sp" android:textColor="#ff333333" android:gravity="center|left" android:id="@id/back_btn" android:background="@drawable/zzz_status_bar_recent_button_bg" android:layout_width="wrap_content" android:layout_height="56.0dip" android:text="@string/back_btn_lebel" android:drawableStart="@drawable/setup_wizard_navbar_ic_back" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center|right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="34.0dip" android:layout_weight="1.0">
+        <Button android:textSize="16.0sp" android:textColor="#ff333333" android:gravity="center|right" android:id="@id/next_btn" android:background="@drawable/zzz_status_bar_recent_button_bg" android:layout_width="wrap_content" android:layout_height="56.0dip" android:text="@string/next_btn_lebel" android:drawableEnd="@drawable/setup_wizard_navbar_ic_next" />
+    </LinearLayout>
+</FrameLayout>

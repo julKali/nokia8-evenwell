@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/test_text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FQCText_WATCH_180_288" />
+    <TextView android:gravity="bottom" android:id="@id/test_note" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="5" style="@style/FQCText_WATCH_180_288" />
+    <TextView android:textSize="20.0px" android:id="@id/countdown_timer" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" style="@style/FQCText_WATCH_180_288" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/userinfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitEnd" />
+</LinearLayout>

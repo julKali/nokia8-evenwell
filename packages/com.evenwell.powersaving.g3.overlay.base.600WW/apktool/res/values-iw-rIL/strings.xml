@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">אל תציג שוב.</string>
+    <string name="fih_power_saving_dialog_ok">אישור</string>
+    <string name="fih_power_saving_dialog_cancel">בטל</string>
+    <string name="switch_on_text">פועל</string>
+    <string name="switch_off_text">כבוי</string>
+    <string name="fih_power_saving_permission_cancel">בטל</string>
+    <string name="lock_screen_ap_protect_title">מנהל פעילות ברקע</string>
+    <string name="all_aps">הוסף את כל האפליקציות לרשימת היתר</string>
+    <string name="fih_power_saving_doze_high_consumption">צריכת סוללה גבוהה</string>
+    <string name="fih_power_saving_background_activity_text">מאפשר למנהל הפעילות ברקע להאריך את חיי הסוללה, אך ייתכן שאי אפשר יהיה לשלוף מיידית את ההתראות לחלק מהאפליקציות או הודעות הדוא\"ל. ניתן לנהל את חיי הסוללה על ידי הוספה או הסרה של אפליקציות מרשימת ההיתר.</string>
+    <string name="fih_power_saving_background_cleaner">ניקוי הפעילות ברקע</string>
+    <string name="fih_power_saving_background_cleaner_summary">ייתכן שההודעות לא יישלפו באופן מיידי</string>
+    <string name="app_block_list">רשימת APP מוגבלת</string>
+</resources>

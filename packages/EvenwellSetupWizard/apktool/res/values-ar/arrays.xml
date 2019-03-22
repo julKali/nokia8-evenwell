@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ثابت</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>بدون</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>بدون</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>بدون</item>
+        <item>يدوي</item>
+        <item>التكوين التلقائي للوكيل</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ضعيف</item>
+        <item>مقبول</item>
+        <item>جيد</item>
+        <item>ممتاز</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>مسح…</item>
+        <item>اتصال…</item>
+        <item>مصادقة…</item>
+        <item>الحصول على عنوان IP…</item>
+        <item>متصل</item>
+        <item>معلق</item>
+        <item>فصل الاتصال…</item>
+        <item>غير متصل</item>
+        <item>غير ناجح</item>
+        <item>محظور</item>
+        <item>تجنب الاتصال الضعيف مؤقتًا</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>مسح…</item>
+        <item>الاتصال مع %1$s…</item>
+        <item>المصادقة مع %1$s…</item>
+        <item>الحصول على عنوان IP من %1$s…</item>
+        <item>الاتصال مع %1$s</item>
+        <item>معلق</item>
+        <item>قطع الاتصال عن %1$s…</item>
+        <item>غير متصل</item>
+        <item>غير ناجح</item>
+        <item>محظور</item>
+        <item>تجنب الاتصال الضعيف مؤقتًا</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI سداسي عشري</item>
+    </string-array>
+</resources>

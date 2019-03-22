@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ລູກຂ່າຍ CP</string>
+    <string name="fih_cp_apn_not_set">&lt;ບໍ່ໄດ້ຕັ້ງຄ່າ></string>
+    <string name="fih_cp_apply_dialog_body_msg">ທ່ານຕ້ອງການນຳໃຊ້ການກຳນົດຄ່າໃໝ່ບໍ?</string>
+    <string name="fih_cp_apply_dialog_head_msg">ການກະກຽມນຳໃຊ້ໃໝ່</string>
+    <string name="fih_cp_btn_back">ກັບຄືນ</string>
+    <string name="fih_cp_btn_cancel">ຍົກເລີກ</string>
+    <string name="fih_cp_btn_next">ຕໍ່ໄປ</string>
+    <string name="fih_cp_btn_ok">ຕົກລົງ</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">ປະເພດການຮັບຮອງຄວາມຖືກຕ້ອງ</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">ບໍ່ມີ</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP ຫຼື CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">ຜອດ</string>
+    <string name="fih_cp_editor_apn_http_proxy">ພຣັອກຊີ</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">ຜອດ MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">ພຣັອກຊີ MMS</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">ຊື່</string>
+    <string name="fih_cp_editor_apn_password">ລະຫັດຜ່ານ</string>
+    <string name="fih_cp_editor_apn_server">ເຊີບເວີ</string>
+    <string name="fih_cp_editor_apn_type">ປະເພດ APN</string>
+    <string name="fih_cp_editor_apn_user">ຊື່ຜູ້ໃຊ້</string>
+    <string name="fih_cp_error_apn_empty">ຊ່ອງໃສ່ຂໍ້ມູນ APN ບໍ່ສາມາດຫວ່າງເປົ່າໄດ້.</string>
+    <string name="fih_cp_error_name_empty">ຊ່ອງໃສ່ຂໍ້ມູນຊື່ບໍ່ສາມາດຫວ່າງເປົ່າໄດ້</string>
+    <string name="fih_cp_error_other">ຂໍ້ຜິດພາດໄວຍະກອນຂໍ້ມູນ.</string>
+    <string name="fih_cp_error_title">ເອົາໃຈໃສ່</string>
+    <string name="fih_cp_input_pin_code">ປ້ອນລະຫັດ PIN:</string>
+    <string name="fih_cp_input_pin_code_cancel">ຍົກເລີກ</string>
+    <string name="fih_cp_input_pin_code_empty">ກະລຸນາປ້ອນລະຫັດ PIN</string>
+    <string name="fih_cp_input_pin_code_incorrect">ລະຫັດ PIN ບໍ່ຖືກຕ້ອງ.</string>
+    <string name="fih_cp_input_pin_code_ok">ຕົກລົງ</string>
+    <string name="fih_cp_notification_channel_name">ການແຈ້ງເຕືອນທົ່ວໄປ</string>
+    <string name="fih_cp_notify_statusbar_content">ຂໍ້ຄວາມການກະກຽມນຳໃຊ້ໃໝ່</string>
+    <string name="fih_cp_sim_not_available">ແຜ່ນ SIM ບໍ່ສາມາດໃຊ້ໄດ້.</string>
+    <string name="fih_cp_toast_info_create">ສ້າງໂປຣໄຟລ໌ສຳເລັດແລ້ວ</string>
+    <string name="fih_cp_toast_info_update">ອັບເດດໂປຣໄຟລ໌ສຳເລັດແລ້ວ</string>
+    <string name="fih_cp_ui_mode_delete">ລຶບ</string>
+    <string name="fih_cp_ui_mode_ok">ຕົກລົງ</string>
+    <string name="fih_cp_ui_mode_postpone">ເລື່ອນອອກໄປ</string>
+</resources>

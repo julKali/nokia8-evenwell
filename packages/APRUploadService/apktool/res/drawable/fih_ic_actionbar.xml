@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="@dimen/tg_actionbar_line_width" android:color="@color/tg_actionbar_line_color" />
+            <size android:width="@dimen/tg_actionbar_line_width" />
+        </shape>
+    </item>
+    <item android:left="@dimen/tg_actionbar_line_width" android:bottom="@dimen/tg_actionbar_underline_height">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/tg_actionbar_color" />
+        </shape>
+    </item>
+    <item android:left="@dimen/tg_actionbar_line_width" android:top="@dimen/tg_actionbar_underline_padding_top">
+        <shape android:shape="rectangle">
+            <solid android:height="@dimen/tg_actionbar_underline_height" android:color="@color/tg_actionbar_underline_color" />
+            <size android:height="@dimen/tg_actionbar_underline_height" />
+        </shape>
+    </item>
+</layer-list>

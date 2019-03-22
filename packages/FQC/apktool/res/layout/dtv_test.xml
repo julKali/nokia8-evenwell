@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textSize="20.0sp" android:id="@id/MobileTV_Test_Button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/MobileTV_Test" android:layout_weight="0.15" />
+    <Button android:textSize="20.0sp" android:id="@id/SNR_BER_Test_Button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/SNR_BER_Test" android:layout_weight="0.14" />
+</LinearLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 giây</item>
+        <item>30 giây</item>
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>Đã chọn dùng hệ thống</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>Độ sáng tự động</item>
+        <item>Đã chọn dùng hệ thống</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>Hiệu suất</item>
+        <item>Ổn định</item>
+        <item>G.diện n.dùng</item>
+        <item>Hiệu quả tiết kiệm pin</item>
+        <item>Sự cố khác</item>
+        <item>Gợi ý</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_schedule_entries">
+        <item>Nguồn pin 10%</item>
+        <item>Nguồn pin 15%</item>
+        <item>Nguồn pin 20%</item>
+        <item>Nguồn pin 30%</item>
+        <item>Nguồn pin 40%</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ਰੱਦ ਕਰੋ</string>
+    <string name="DONE">ਹੋ ਗਿਆ</string>
+    <string name="NEXT">ਅਗਲਾ</string>
+    <string name="OK">ਓਕੇ</string>
+    <string name="PREVIOUS">ਪਿਛਲਾ</string>
+    <string name="alert_empty_desc">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਵਰਣਨ ਸ਼ਾਮਲ ਕਰੋ!</string>
+    <string name="alert_warning_title">ਨੁਕਤੇ</string>
+    <string name="enter_comments">ਟਿੱਪਣੀਆਂ ਦਰਜ਼ ਕਰੋ (1000 ਅੱਖਰ)</string>
+    <string name="extremely_likely">(ਬਹੁਤ ਜ਼ਿਆਦਾ ਸੰਭਾਵਨਾ)</string>
+    <string name="feedback">ਫੀਡਬੈਕ</string>
+    <string name="helps_us_improve_our_products">ਤੁਹਾਡਾ ਫੀਡਬੈਕ ਸਾਡੇ ਉਤਪਾਦਾਂ ਨੂੰ ਸੁਧਾਰਨ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰਦਾ ਹੈ!</string>
+    <string name="intro_title">ਤੁਹਾਡੇ ਦੁਆਰਾ ਆਪਣੇ ਦੋਸਤ ਜਾਂ ਸਹਿਕਰਮੀ ਕੋਲ ਇਸ ਫੋਨ ਦੀ ਸਿਫਾਰਿਸ਼ ਕਰਨ ਦੀ ਕਿੰਨੀ ਸੰਭਾਵਨਾ ਹੈ?</string>
+    <string name="msg_send_after">"ਡੀਵਾਈਸ ਦੀ ਔਨਲਾਈਨ ਹੋਣ 'ਤੇ ਸੁਨੇਹਾ ਆਪਣੇ-ਆਪ ਅੱਪਲੋਡ ਹੋਵੇਗਾ। ਤੁਹਾਡੇ ਜਵਾਬ ਲਈ ਧੰਨਵਾਦ।"</string>
+    <string name="msg_send_fail">"ਭੇਜਣਾ ਅਸਫਲ ਰਿਹਾ। ਡੀਵਾਈਸ ਦੀ ਔਨਲਾਈਨ ਹੋਣ 'ਤੇ ਸੁਨੇਹਾ ਆਪਣੇ-ਆਪ ਅੱਪਲੋਡ ਹੋਵੇਗਾ। ਤੁਹਾਡੇ ਜਵਾਬ ਲਈ ਧੰਨਵਾਦ।"</string>
+    <string name="no_ask_feedback_again_text">ਫੀਡਬੈਕ ਮੁੜ ਨਾ ਪੁੱਛੋ</string>
+    <string name="no_showagain_text">ਦੁਬਾਰਾ ਨਾ ਦਿਖਾਓ</string>
+    <string name="not_at_all_likely">(ਬਿਲਕੁਲ ਵੀ ਸੰਭਾਵਨਾ ਨਹੀਂ)</string>
+    <string name="privacy_context_wifi">"ਪਿਆਰੇ ਉਪਯੋਗਕਰਤਾ, 
+
+ਫੀਡਬੈਕ ਕਲਾਇੰਟ ਸਾਫਟਵੇਅਰ ਨੂੰ ਵਰਤਣ ਲਈ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ। ਇਸ ਉਤਪਾਦ ਨੂੰ ਵਰਤਣ ਤੋਂ ਪਹਿਲਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ ਨੂੰ ਧਿਆਨ ਨਾਲ ਪੜ੍ਹੋ ਅਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਮਝ ਲਵੋ। 「ਸਹਿਮਤ」'ਤੇ ਕਲਿੱਕ ਕਰਨ ਦਾ ਮਤਲਬ ਹੈ ਤੁਸੀਂ ਇਸ ਸਾਫਟਵੇਅਰ ਦੇ ਫਾਇਦਿਆਂ ਨੂੰ ਸਮਝ ਲਿਆ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਵਰਤਣ ਲਈ ਸਹਿਮਤੀ ਹੋ। ਜੇ ਤੁਸੀਂ ਇਨ੍ਹਾਂ ਸ਼ਰਤਾਂ ਨਾਲ ਸਹਿਮਤ ਨਹੀਂ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ 「ਬਾਹਰ ਨਿਕਲੋ」ਦਬਾਓ। ਤੁਹਾਨੂੰ ਵਿਆਪਕ ਸੇਵਾਵਾਂ ਪ੍ਰਦਾਨ ਕਰਨ ਦੇ ਲਈ, ਐਪ ਨੂੰ ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ: 
+1. ਫੀਡਬੈਕ ਜਾਣਕਾਰੀ ਭੇਜਣ ਲਈ ਇੰਟਰਨੈੱਟ, WLAN ਨੈੱਟਵਰਕ ਨੂੰ ਐਕਸੈਸ ਕਰੋ 
+2. ਆਪਣੇ-ਆਪ ਫੋਨ ਦੀ ਮੁਢਲੀ ਜਾਣਕਾਰੀ ਹਾਸਲ ਕਰਨ ਲਈ IMEI, PSN ਅਤੇ MNC\\MCC ਜਾਣਕਾਰੀ ਆਯਾਤ ਕਰੋ"</string>
+    <string name="select_a_value">ਇੱਕ ਮੁੱਲ ਚੁਣੋ</string>
+    <string name="str_agree">ਸਹਿਮਤ</string>
+    <string name="str_leave">ਬਾਹਰ ਨਿਕਲੋ</string>
+    <string name="submit_fail">ਜਮ੍ਹਾਂ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ</string>
+    <string name="submit_success">ਤੁਹਾਡੇ ਜਵਾਬ ਲਈ ਧੰਨਵਾਦ</string>
+    <string name="thank_your_feedback">ਤੁਹਾਡੇ ਫੀਡਬੈਕ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ!</string>
+    <string name="we_appreciate_your_help">ਅਸੀਂ Nokia ਦੇ ਉਤਪਾਦਾਂ ਨੂੰ ਸੰਸਾਰ ਵਿੱਚ ਸ੍ਰੇਸ਼ਠ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਮਦਦ ਦੀ ਪ੍ਰਸੰਸ਼ਾ ਕਰਦੇ ਹਾਂ।</string>
+    <string name="we_hope_enjoying_nokia_device">ਅਸੀਂ ਉਮੀਦ ਕਰਦੇ ਹਾਂ ਕਿ ਤੁਸੀਂ Nokia ਡਿਵਾਇਸ ਦਾ ਆਨੰਦ ਮਾਣ ਰਹੇ ਹੋ। ਤੁਹਾਡਾ ਫੀਡਬੈਕ ਸਾਡੇ ਲਈ ਬਹੁਤ ਮਹੱਤਵਪੂਰਨ ਹੈ।</string>
+    <string name="we_will_contact_you_again">ਅਸੀਂ ਭਵਿੱਖ ਵਿੱਚ ਦੁਬਾਰਾ ਤੁਹਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰਾਂਗੇ।</string>
+    <string name="we_will_contact_you_again_enjoy">ਅਸੀਂ ਭਵਿੱਖ ਵਿੱਚ ਦੁਬਾਰਾ ਤੁਹਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰਾਂਗੇ। ਆਪਣੀ ਨਵੀਂ Nokia ਡਿਵਾਇਸ ਦਾ ਆਨੰਦ ਮਾਣੋ!</string>
+    <string name="why_you_gave_this_score">ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਸਾਨੂੰ ਇਹ ਸਕੋਰ ਕਿਉਂ ਦਿੱਤਾ:</string>
+</resources>

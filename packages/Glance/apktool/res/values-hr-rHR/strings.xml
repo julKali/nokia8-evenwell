@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Izgled</string>
+    <string name="pref_dialog_title_time_out">Vremensko ograničenje</string>
+    <string name="pref_title_alarm_information">Informacije o alarmu</string>
+    <string name="pref_title_calendar_reminder">Podsjetnik kalendara</string>
+    <string name="pref_title_missed_calls">Pokazivač propuštenih poziva</string>
+    <string name="pref_title_time_out">Vremensko ograničenje kad se telefon ne pomiče</string>
+    <string name="pref_title_unread_mails">Pokazivač nepročitanih poruka e-pošte</string>
+    <string name="pref_title_unread_messages">Pokazivač nepročitanih poruka</string>
+    <string name="switch_off_text">Isključeno</string>
+    <string name="switch_on_text">Uključeno</string>
+</resources>

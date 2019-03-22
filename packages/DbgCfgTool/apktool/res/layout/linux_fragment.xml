@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/Linux"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <GridLayout android:id="@id/gridLayout1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="93.0dip" android:layout_centerHorizontal="true" />
+</RelativeLayout>

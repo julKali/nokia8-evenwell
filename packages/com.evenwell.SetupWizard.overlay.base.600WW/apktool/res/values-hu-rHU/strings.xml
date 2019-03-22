@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"Felhasználói élmény program. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Részletek&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"A gombra koppintva elfogadja a &lt;a href='launch.TermOfServiceActivity://Kode'>Szolgáltatási feltételeket&lt;/a> és az &lt;a href='launch.AddUploadAgentHandler://Kode'>Adatvédelmi irányelvet&lt;/a>. Az eszköz aktiválására és pillanatnyi helyére vonatkozó információt az elküldi a HMD Global részére.&lt;br/>&lt;br/>Engedélyezett lesz az automatikus szoftverfrissítési értesítés, amely telepíti a legújabb frissítéseket az Ön számára. Előfordulhat, hogy ez felhasználja az Ön adatkeretének egy kis részét. A szolgáltatások internetkapcsolatot hoznak létre, amikor szükségük van erre.&lt;br/>&lt;br/>Ha ezek a szolgáltatások mobilhálózaton keresztül hoznak létre kapcsolatot, az további költségekkel jár az Ön számára."</string>
+    <string name="welcome_hmd_term_of_use_5">"A gombra koppintva elfogadja a &lt;a href='launch.TermOfServiceActivity://Kode'>Szolgáltatási feltételeket&lt;/a>. Az adatok feldolgozása a HMD &lt;a href='launch.AddUploadAgentHandler://Kode'>Adatvédelmi irányelvek&lt;/a> szerint történik. Az eszköz aktiválására és pillanatnyi helyére vonatkozó információt az elküldi a HMD Global részére. Ez mobiladat-átviteli díjjal járhat."</string>
+    <string name="welcome_vision_settings_button_label">Látvány beállításai</string>
+    <string name="next_btn_lebel">TOVÁBB</string>
+    <string name="back_btn_lebel">VISSZA</string>
+    <string name="finish_button_label">BEFEJEZÉS</string>
+    <string name="sim_not_exist_toast">Ellenőrizzük, hogy behelyeztük-e a SIM-kártyát.</string>
+    <string name="idle_too_long_toast">A telefont egy ideje nem használták. Az energiatakarékosság érdekében kapcsoljuk ki most.</string>
+    <string name="welcome_message">Üdvözöljük!</string>
+    <string name="welcome_infocus_term_of_use">"A nyílra koppintva elfogadja a &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Használati Feltételeket&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_2">"A nyílra koppintva elfogadja a &lt;a href='launch.TermOfServiceActivity://Kode'>Szolgáltatási feltételeket&lt;/a> és az &lt;a href='launch.AddUploadAgentHandler://Kode'>Adatvédelmi irányelvet&lt;/a>. Az eszköz aktiválására és pillanatnyi helyére vonatkozó információt az elküldi a HMD Global részére. Ez adatátviteli díjjal járhat."</string>
+    <string name="welcome_start_button_label">INDÍTÁS</string>
+    <string name="emergency_dial_message">Vészhívás</string>
+    <string name="emergency_dial_hmd_message">Vészhelyzet</string>
+    <string name="accessibility_text">Kiegészítő funkció \"</string>
+    <string name="language_selection_title">Válasszon nyelvet</string>
+    <string name="language_selection_cancel_btn">MÉGSE</string>
+    <string name="welcome_lets_go_button_label">Kezdjük</string>
+    <string name="terms_title">Adathasználat</string>
+    <string name="terms_of_service_description">"
+A hálózati kapcsolatot igénylő szolgáltatások használata (pl. időjárási szolgáltatások, internetszolgáltatások, e-mail, böngészők stb.) külön adatforgalmi díjakkal járhat. A mobil adatforgalmi díjak hatékonyabb felhasználása érdekében javasoljuk, hogy a szolgáltatónál válasszon megfelelő adatforgalmat biztosító előfizetést.
+
+Az Elfogadom lehetőség választásával engedélyezi a szolgáltatások számára a hálózat elérését.
+
+Emellett alapértelmezés szerint az automatikus szoftverfrissítés is engedélyezve van. A naprakész szoftverhasználati élmény érdekében ez használhatja a mobiladat-forgalmat. A Beállításoknál később bármikor módosíthatjuk ezt a beállítást.
+
+"</string>
+    <string name="term_agree_text">Elfogadom</string>
+    <string name="term_disagree_text">Elutasítom</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="datausage_dialog_negitive_btn">Mégse</string>
+    <string name="traffic_prompt_content">Az Elutasítom lehetőség választásával a szoftverfrissítéseket, az időjárás-előrejelzést és egyéb adatokat manuálisan kell beszereznünk.</string>
+    <string name="google_account_intro_description">A Google szolgáltatások igénybe vételéhez állítsunk be egy Google Fiókot</string>
+    <string name="google_account_intro_title">Google Fiók</string>
+    <string name="google_account_add_account">Bejelentkezés a Google-lal</string>
+    <string name="location_title">Google Hely használata</string>
+    <string name="location_info_1">A Google helymeghatározási szolgáltatásával az alkalmazások a GPS használata nélkül kapják meg a közelítőleges tartózkodási helyünket.</string>
+    <string name="location_info_2">Ezek a funkciók a Beállítások Helyszolgáltatások részében tilthatók le.</string>
+    <string name="location_network">A Google helyszolgáltatásai névtelen adatokat gyűjthetnek. A gyűjtés akkor is megtörténik, ha éppen nem fut alkalmazás.</string>
+    <string name="location_for_service">A saját tartózkodási hely használata a Google keresési eredményekhez és más Google szolgáltatásokhoz.</string>
+    <string name="date_and_time">Dátum- és időbeállítások</string>
+    <string name="date_time_auto">Dátum és idő automatikus megállapítása</string>
+    <string name="date_time_auto_summaryOn">Internetes idő szerint</string>
+    <string name="date_time_auto_summaryOff">Internetes idő szerint</string>
+    <string name="zone_auto">Időzóna automatikus felismerése</string>
+    <string name="zone_auto_summaryOn">Hálózat időzónájának használata</string>
+    <string name="zone_auto_summaryOff">Hálózat időzónájának használata</string>
+    <string name="date_time_set_date">Dátum beállítása</string>
+    <string name="date_time_set_time">Idő beállítása</string>
+    <string name="date_time_set_timezone">Időzóna kiválasztása</string>
+    <string name="date_time_24hour">24 órás formátumban</string>
+    <string name="date_and_time_settings_title">Dátum és idő</string>
+    <string name="account_intro_title">[BRAND_NAME] szolgáltatási fiók</string>
+    <string name="account_intro_description">Használjuk okosabban eszközünket – használjuk a(z) [BRAND_NAME] szolgáltatásokat.</string>
+    <string name="add_infocus_service_account">[BRAND_NAME] szolgáltatási fiók hozzáadása</string>
+    <string name="dropbox_fih_signup">Dropbox regisztráció</string>
+    <string name="dropbox_fih_signin">Bejelentkezés a Dropbox rendszerbe.</string>
+    <string name="dropbox_fih_description">Szerezzünk 2 GB-nyi Dropbox tárhelyet a fényképeink és videóink automatikus mentéséhez.</string>
+    <string name="nevigation_selection_title">Navigációs sáv beállításai</string>
+    <string name="nevigation_selection_text">A Vissza / Utolsó gomb hátterét lecserélhetjük.</string>
+    <string name="nevigation_selection_back">Vissza</string>
+    <string name="nevigation_selection_home">Kezdőképernyő</string>
+    <string name="nevigation_selection_recent">Utoljára használt</string>
+    <string name="upload_agent_hmd_des_text_2">"Csatlakozzon a Nokia Felhasználói élmény programjához! &lt;a href='launch.UserExperienceActivity://Kode'>Részletek&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Felhasználói élmény program</string>
+    <string name="setup_completed_congratulations">Gratulálunk!</string>
+    <string name="setup_complete_hmd">Készen állunk...</string>
+    <string name="setup_complete_main">Most</string>
+    <string name="setup_complete_sub">KÉSZEN ÁLLUNK.</string>
+    <string name="hmd_user_experience_program_title">Felhasználói élmény program</string>
+    <string name="hmd_user_experience_program_message">Azzal, hogy részt vesz a felhasználói élmény programban, segít, hogy a HMD Global megértse, mi az, amit szeret Nokia készülékében, és hogy Ön szerint mit kell fejleszteni azon. Időnként készüléke technikai jellemzőit tartalmazó névtelen adatokat kapunk, például egy fájlt, mely egy lefagyásra vonatkozó adatokat tartalmaz. Kérjük, vegye figyelembe, hogy ezeket az adatokat nem mobil adatkapcsolaton küldi a készülék. Szívesen vesszük, ha elmondja nekünk, hogy mit gondol Nokia készülékéről!</string>
+    <string name="skip_button_label">Kihagyás</string>
+    <string name="skip_add_account_button_label">Nem most</string>
+    <string name="device_checking_message">Üdvözöljük!</string>
+    <string name="backup_and_restore_title">Biztonsági mentés és visszaállítás</string>
+    <string name="backup_and_restore_description">"Ha előzőleg mentettük fiókunkat, akkor most visszaállíthatjuk azt erre a telefonra.
+
+A mentési beállítások a Beállításoknál módosíthatók."</string>
+    <string name="baidu_intro_title">Baidu felhőalapú tárhelyszolgáltatás</string>
+    <string name="baidu_intro_description">A 百度云 szolgáltatással élvezhetjük a zökkenőmentes felhő-integráció előnyeit; mindehhez csupán néhány egyszerű lépés szükséges.</string>
+    <string name="add_baidu_button_label">Bejelentkezés – 百度云</string>
+    <string name="baidu_progress_dialog_des">Kis türelmet...</string>
+    <string name="wifi_picker_connection_title">Hálózati kapcsolat</string>
+    <string name="wifi_picker_connection_des_text">Ha letiltjuk a WLAN-kapcsolatot, a szoftver mobilhálózaton keresztül történő ellenőrzése adatforgalmi díjakkal járhat.</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN-kapcsolat</string>
+    <string name="wifi_picker_warning_title">Figyelmeztetés</string>
+    <string name="wifi_picker_warning_des_text">Amíg nincs internetkapcsolatunk, a telefon nem képes annak ellenőrzésére, hogy a szoftver naprakész-e.</string>
+    <string name="wifi_picker_warning_positive">Ne ugorja át</string>
+    <string name="wifi_picker_warning_negative">Mindenképpen kihagyás</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] jogi tudnivalók</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] Szoftverhasználati Feltételek
+ 
+ Érvényesség: 2016. május 20.
+ 
+ Az alábbi Használati feltételek (a továbbiakban: „Feltételek”) jogi megállapodásnak számítanak a(z) [BRAND_NAME_PROXY] Szoftver Ön általi felhasználása esetén Ön és a(z) [BRAND_NAME_PROXY] Inc., valamint annak képviselője, a Commtiva Technology Ltd. között (a továbbiakban összefoglaló megnevezéssel: „[BRAND_NAME_PROXY]”), amely a(z) [BRAND_NAME_PROXY] Szoftver Ön általi felhasználására vonatkozik, nem kizárólagosan ideértve a letöltést, telepítést, automatikus ellenőrzést (a továbbiakban: „Szoftveres Szolgáltatás”). A(z) [BRAND_NAME_PROXY] Szoftver használatával elfogadja, hogy Önre vonatkoznak az említett Feltételek; ha nem fogadja el a Feltételeket, ne töltse le, ne másolja, ne használja és ne tartsa meg a(z) [BRAND_NAME_PROXY] Szoftvert.
+ 
+ 1. Használati Feltételek
+ Ameddig Ön betartja az említett Feltételeket, a(z) [BRAND_NAME_PROXY] személyes, nem kizárólagos, nem átruházható, visszavonható és korlátozott engedélyt biztosít Önnek a(z) [BRAND_NAME_PROXY] Szoftverszolgáltatások használatára. A(z) [BRAND_NAME_PROXY] internetkapcsolaton keresztül objektumkódot telepít az Ön [BRAND_NAME_PROXY] mobil okoseszközére (a továbbiakban: „[BRAND_NAME_PROXY] Készülék”). Ön elfogadja és jóváhagyja azt, hogy a(z) Ön [BRAND_NAME_PROXY] Készülékén található [BRAND_NAME_PROXY] Szoftver nem használható kereskedelmi célra, valamint nem ruházható át harmadik félre.
+ Elfogadja továbbá, hogy nem használja a(z) [BRAND_NAME_PROXY] Szoftvert az alábbi módok egyikén sem:
+ (a) A(z) [BRAND_NAME_PROXY] Szoftver (ideértve a működtető technológiákat is) feltörése, illetve a(z) [BRAND_NAME_PROXY] Szoftver használata nem [BRAND_NAME_PROXY] márkájú készüléken;
+ (b) A(z) [BRAND_NAME_PROXY] Szoftver elemzése, visszafordítása, visszafejtése, dekódolása, másolása, módosítása, illetve az abból származó eredmények bármilyen célú létrehozása; (c) A Feltételekkel ütköző, a(z) [BRAND_NAME_PROXY] Szoftvert nyilvánosságra hozó vagy a(z) [BRAND_NAME_PROXY] Szoftver harmadik fél általi használatát, elérését vagy birtoklását lehetővé tévő tevékenységek végzése, nem kizárólagosan ideértve az átvitelt, bérbe adást, kölcsönzést vagy továbblicencelést;
+ (d) A(z) [BRAND_NAME_PROXY] Szoftverre vagy a dokumentumokra vonatkozó saját értesítések, logók és védjegyek eltávolítása a(z) [BRAND_NAME_PROXY] előzetes írásbeli engedélye nélkül;
+ (e) A(z) [BRAND_NAME_PROXY] Szoftver aktuális törvényekbe ütköző, illetve másik fél jogait sértő módon való használata;
+ (f) A(z) [BRAND_NAME_PROXY] Szoftver olyan környezetben való használata, amely tiltja vagy korlátozza az ilyen használatot, nem kizárólagosan ideértve a repülésirányítási területeket, benzinkutakat, nukleáris berendezéseket; vagy
+ (g) A(z) [BRAND_NAME_PROXY] Szoftver a Feltételek által tiltott módon történő használata.
+ 
+ A(z) [BRAND_NAME_PROXY] Készülék és a(z) [BRAND_NAME_PROXY] Szoftver megfelelő működése érdekében Ön vállalja, hogy nem semmisíti meg vagy helyezi át a(z) [BRAND_NAME_PROXY] Készüléken látható címké(ke)t a(z) [BRAND_NAME_PROXY] szakemberek segítsége nélkül. Az ilyen tiltott tevékenységek befolyásolják a(z) [BRAND_NAME_PROXY] által Önnek biztosított jótállás hatókörét és időtartamát.
+ 
+ 2. Adatvédelmi Irányelvek
+ Ön tudomásul veszi és elfogadja, hogy a(z) [BRAND_NAME_PROXY] bármilyen adatot gyűjthet és tárolhat (nem kizárólagosan ideértve a modell típusát, a sorozatszámot, az IMEI/MEID-kódot, a hardver verzióját, a szoftver verzióját, a felhalmozódott időt, az SKU-azonosítót, az alapértelmezett statisztikákat és az operációsrendszer-verziót) az Ön [BRAND_NAME_PROXY] Készülékével kapcsolatban (a továbbiakban: „Információ”). 
+ Abban az esetben, ha a(z) [BRAND_NAME_PROXY] vállalatot valamelyik kormányügynökség vagy bíróság az Információ kiadására kéri, a(z) [BRAND_NAME_PROXY] kiadja a kért adatokat.
+ 
+ A(z) [BRAND_NAME_PROXY] Készülék értesíti a(z) [BRAND_NAME_PROXY] vállalatot, hogy ha a(z) [BRAND_NAME_PROXY] Készülék a vásárlás időpontjából számított 14 napon belül nem csatlakozik mobilhálózathoz.
+ 
+ A további részletekért lásd a(z) [BRAND_NAME_PROXY] Adatvédelmi Irányelveket.
+ 
+ 3. Támogatási Szolgáltatás
+ A(z) [BRAND_NAME_PROXY] Szoftverszolgáltatásokat (nem kizárólagosan ideértve a frissítéseket) biztosít az Ön [BRAND_NAME_PROXY] Szoftveréhez az aktuális állapotnak megfelelően, amelyet a(z) [BRAND_NAME_PROXY] részére a(z) [BRAND_NAME_PROXY] Készülék küld el.
+ A(z) [BRAND_NAME_PROXY] frissítéseket, javításokat vagy új elemeket biztosít az Ön [BRAND_NAME_PROXY] Szoftveréhez és a(z) [BRAND_NAME_PROXY] Szoftver Ön általi internetes használatához, amelyekre vonatkoznak a Feltételek.
+ 
+ A(z) [BRAND_NAME_PROXY] fenntartja a jogot, hogy visszavonja az Ön [BRAND_NAME_PROXY] Szolgáltatásnak a(z) [BRAND_NAME_PROXY] Szoftveren és Szolgáltatáson keresztül történő használatára vonatkozó jogát.
+ A(z) [BRAND_NAME_PROXY] további verziókat jelentet meg a(z) [BRAND_NAME_PROXY] Szoftverből, és kéri, hogy Ön a legfrissebb verziójú operációs rendszert használja.
+ 
+ 4. Automatikus frissítés
+ A(z) [BRAND_NAME_PROXY] Készülék működésének hatékonyabbá és jobbá tétele érdekében az automatikusan letölti a legújabb [BRAND_NAME_PROXY] firmware- és szoftverfrissítéseket.
+ 
+ A(z) [BRAND_NAME_PROXY] Készülék biztonságának és stabilitásának biztosítása érdekében Ön vállalja, hogy követi a(z) [BRAND_NAME_PROXY] ilyen beállításokra vonatkozó utasításait. Azáltal, hogy Ön beleegyezik a legújabb firmware vagy szoftver letöltésébe, Ön elfogadja a feltételeket és a telepítést.
+ 
+ Annak érdekében, hogy ne vesszenek el a saját dokumentumok, fényképek, szövegek, hangfájlok, videofájlok, illetve minden olyan elektronikusan rögzített adat, amely a(z) [BRAND_NAME_PROXY] Készülék frissítése miatt elveszhet, Ön a felelős a(z) [BRAND_NAME_PROXY] Készüléken tárolt minden, előzőleg felsorolt, elektronikusan rögzített adatnak a legújabb firmware vagy szoftver letöltését megelőző mentéséért.
+ 
+ Azzal, hogy a(z) [BRAND_NAME_PROXY] Készülék automatikusan vagy az Ön által üzenetben kapott engedély alapján frissül, Ön elfogadja a következőket:
+ (a) Szoftverfrissítés:
+ Ön elfogadja és tudomásul veszi, hogy a(z) [BRAND_NAME_PROXY] internetes kapcsolaton keresztül ellenőrzi a(z) [BRAND_NAME_PROXY] Készülék szoftververzióját és frissítési állapotát. Ha a(z) [BRAND_NAME_PROXY] frissítési értesítést tesz közzé, a(z) [BRAND_NAME_PROXY] engedélyezi Önnek a(z) [BRAND_NAME_PROXY] Szoftververziók és az állapot frissítését a(z) [BRAND_NAME_PROXY] Szolgáltatáson keresztül.
+ Amikor új [BRAND_NAME_PROXY] Szoftver válik elérhetővé, Ön hozzájárul, hogy a(z) [BRAND_NAME_PROXY] értesítést küldjön az ilyen frissítésekről. Ha Ön jóváhagyja az újonnan elérhető frissítéseket, azzal hozzájárul, hogy a(z) [BRAND_NAME_PROXY] automatikusan frissítse a(z) [BRAND_NAME_PROXY] Készüléket.
+ (b) Tartalomszinkronizálás és frissítés:
+ Miután [BRAND_NAME_PROXY] Készülékét számítógépéhez vagy egy másik eszközhöz csatlakoztatta, [BRAND_NAME_PROXY] Készüléke automatikusan frissíti a kapcsolódó tartalmakat és egyéb információkat (például: névjegyadatok, naptár, könyvjelzők, fájlok.)
+ 
+ 5. A(z) [BRAND_NAME_PROXY] Szoftverrel kapcsolatos fennálló és egyéb jogok fenntartása
+ Bár Ön használhatja a(z) [BRAND_NAME_PROXY] Szoftvert és Szolgáltatásokat, a(z) [BRAND_NAME_PROXY], leányvállalatai és forgalmazói fenntartanak minden [BRAND_NAME_PROXY] Szoftverrel kapcsolatos jogot, nem kizárólagosan ideértve a fennálló, szerzői jogi és egyéb szellemi tulajdoni jogokat.
+ 
+ A(z) [BRAND_NAME_PROXY] Szoftverre vonatkozó minden ilyen jog a helyi törvények és nemzetközi megállapodás védelme alatt áll.
+ 
+ 6. Jogi nyilatkozat
+ A(z) [BRAND_NAME_PROXY] nem vállal semmiféle kifejezett vagy vélelmezett garanciát, beleértve, de nem kizárólagosan a következőkre: az értékesíthetőségre, a kielégítő minőségre, az adott célra való alkalmasságra, a jogbitorlás-mentességre. 
+ A(z) [BRAND_NAME_PROXY] nem vállal garanciát arra, hogy:
+ (a) Az Ön által igénybe vett bármely [BRAND_NAME_PROXY] Szolgáltatás pontos vagy megbízható lesz; vagy
+ (b) A(z) [BRAND_NAME_PROXY] Szolgáltatás megszakításmentes, pontos, biztonságos; vagy
+ (c) A kínált Szoftver bármely hiányosságát vagy hibáját azonnal pótoljuk.
+ 
+ A(z) [BRAND_NAME_PROXY] nem felelős semmi olyan veszteségért vagy kárért, amelyet a(z) [BRAND_NAME_PROXY] Készüléket, programokat, adatokat vagy más ide vonatkozó anyagokat a(z) [BRAND_NAME_PROXY] Szolgáltatás használatából adódóan megfertőző vírusok vagy más, technikailag káros anyagok okoznak. Minden olyan tartalom és egyéb anyag, amelyet a(z) [BRAND_NAME_PROXY] jóvoltából ér el, csak saját felelősségre használható, és kizárólag Önt terheli felelősség a(z) [BRAND_NAME_PROXY] Készüléket érő bármely olyan kárért, illetve adat- vagy tartalomveszteségért, amely bármilyen szoftverletöltésből adódik.
+ 
+ 7. A felelősség korlátozása és kizárólagos jogorvoslat
+ A(z) [BRAND_NAME_PROXY] nem felelős semmilyen következményi, véletlen, közvetett vagy bírság jellegű kárért, haszon vagy bizalmas, illetve egyéb információk elvesztéséért, üzletmenet megszakadásáért, személyes sérülésért, tulajdont ért kárért, személyes adatok elvesztéséért, a jóhiszeműség kötelességtudás vagy elvárható gondosság elmulasztásáért, illetve hanyagságért.
+ Az alkalmazandó törvények által, a(z) [BRAND_NAME_PROXY] Önnel szemben fennálló maximális, összesített felelőssége által, valamint a Feltételek szerint Önt megillető kizárólagos jogorvoslat által megengedett maximális mértékig mindennemű kár, sérülés, tulajdont ért kár és veszteség, amely bármely, a Feltételekhez kapcsolódó, a tényleges károk jóvátételeként fennálló követelésből vagy eljárásból ered, maximálisan 10 amerikai dollár lehet (10 USD). 
+ 
+ A Feltételekkel kapcsolatos több követelés vagy eljárás nem terjeszti ki a felelősségkorlátozást, és az alkalmazandó törvények által megengedett maximális mértékig ez az Ön kizárólagos jogorvoslata.
+ 
+ Ha egy hivatalos joghatóság a fenti felelősségvállalási korlátot érvényesíthetetlennek minősíti, akkor az alkalmazhatatlannak minősül, és a „maximálisan 10 amerikai dollár” szövegrész helyett „maximálisan annak a tranzakciónak az értéke, amellyel kapcsolatban a felelősségvállalás felmerült” alkalmazandó.
+ 
+ A Feltételekkel kapcsolatos ilyen követeléseket vagy eljárásokat a kiváltó eseménytől számított egy éven belül kell elindítani. 
+ 8. Jótállás 
+ Ön vállalja, hogy a(z) [BRAND_NAME_PROXY] vállalatot, annak részvényeseit, igazgatóit, tisztviselőit, érdekelt feleit, alkalmazottait, leányvállalatait és partnereit vétlennek tekinti minden olyan követelés, kár, felelősség vagy költség (ideértve az ügyvédi költségeket) ügyében, amelyet harmadik fél a(z) [BRAND_NAME_PROXY] vállalattal szemben a(z) [BRAND_NAME_PROXY] Szolgáltatások Ön általi, harmadik fél jogait sértő használatának okán próbál érvényesíteni.
+ 
+ 9. Szolgáltatási jogviszony megszűnése
+ Ön nem használhatja törvényesen a(z) [BRAND_NAME_PROXY] Szolgáltatásokat, ha nem tartja be a Feltételeket. Ebben az esetben meg kell semmisítenie és el kell távolítania a(z) [BRAND_NAME_PROXY] Szoftver minden példányát. Mindeközben a saját [BRAND_NAME_PROXY] Készülékére vonatkozó jótállás is módosul.
+ A fenti feltételszegés esetén Ön elfogadja, hogy a(z) [BRAND_NAME_PROXY] jogában állnak a következők:
+ (a) A(z) [BRAND_NAME_PROXY]-fiók Ön általi elérési jogának azonnali megszüntetése; és/vagy
+ (b) A(z) Ön [BRAND_NAME_PROXY] Szolgáltatási fiókhoz való jövőbeli hozzáférésének blokkolása
+ 
+ Elfogadja továbbá, hogy a Feltételek bármilyen módú megsértése olyan helyrehozhatatlan károkat okoz a(z) [BRAND_NAME_PROXY] vállalatnak, amelyek anyagilag kárpótolhatatlanok, és Ön hozzájárul, hogy a(z) [BRAND_NAME_PROXY] olyan, bármilyen jellegű elrendelő vagy méltányos kártérítéshez jusson, amelyet a(z) [BRAND_NAME_PROXY] ilyen körülmények között szükségesnek vagy megfelelőnek tart. Ezek a jogorvoslatok a(z) [BRAND_NAME_PROXY] esetlegesen meglévő egyéb törvényi jogorvoslatai mellett érvényesek.
+ 
+ 10. Alkalmazandó jog és joghatóság
+ Ön elfogadja, hogy a Feltételekkel kapcsolatos minden jogvitában a Kínai Köztársaság törvényei érvényesek, a kollíziós szabályokra való tekintet nélkül. 
+ 
+ Ön elfogadja a Tajvani Tajpeji Körzeti Bíróság joghatóságát, és lemond minden ilyen joghatósággal szembeni óvásról.
+ 
+ Minden olyan Ön és a(z) [BRAND_NAME_PROXY] között fennálló vita, amely nem oldható meg közös megegyezéssel, közvetítés igénybe vételére jogosítja fel Önt vagy a(z) [BRAND_NAME_PROXY] vállalatot. Ha a vita nem oldható meg közvetítéssel 30 naptári napon belül, az ilyen viták jogorvoslatát a fent említett körzeti intézi.
+ 
+ 11. Általános záradék
+ A Feltételek főcímei kizárólag kényelmi okokból szerepelnek.
+ Ha a(z) [BRAND_NAME_PROXY] nem él jogorvoslattal az Ön szerződésszegésével kapcsolatban, az nem jelenti a szerződésszegéssel vagy a későbbi hasonló szerződésszegéssel kapcsolatos jogokról való lemondást.
+ 
+ Ha egy illetékes bíróság úgy határoz, hogy ezen Feltételek bármely része érvénytelen vagy érvényesíthetetlen, akkor az érvénytelen vagy érvényesíthetetlen rendelkezést olyan érvényes, érvényesíthető rendelkezésre cseréli, amely a legközelebb áll az eredeti rendelkezés szándékához; a Feltételek többi része ez esetben is érvényes marad. 
+ 
+ Nem ruházhatja át a Feltételeket, és Feltételek által biztosított jogait nem ruházhatja át, adhatja át, illetve azok használati engedélyét nem adhatja tovább.
+ 
+ A(z) [BRAND_NAME_PROXY] részben vagy teljes egészében bármikor, az Ön értesítése nélkül átruházhatja a jelen Feltételeket. 
+ 
+ A jelen Feltételek elsőbbséget élveznek a(z) [BRAND_NAME_PROXY] és Ön közötti minden nemű előzetes és egyidejű kommunikációval szemben a Webhelyre vonatkozóan.
+ 
+ 12. Teljes megállapodás
+ A Feltételek és az újító mellékletek képzik a teljes megállapodást Ön és a(z) [BRAND_NAME_PROXY] között a(z) [BRAND_NAME_PROXY] Szolgáltatások tekintetében.
+ 
+ 13. A Feltételek módosítása
+ A(z) [BRAND_NAME_PROXY] időről időre belátása szerint frissítheti, módosíthatja vagy törölheti a Feltételek tartalmát.
+ 
+ Ellenőrizze a(z) [BRAND_NAME_PROXY] webhelyen közzétett feltételeket, ezek ugyanis eltérhetnek azoktól a feltételektől, amelyeket Ön eredetileg megismert.
+ 
+ A frissítési szoftverek és a(z) [BRAND_NAME_PROXY] Készülék használatával elfogadja ezeket a módosításokat.
+"</string>
+    <string name="hmd_legal_message">"Szolgáltatási Feltételek 
+ 
+Hatálybalépés dátuma: 2016. október 14. 
+ 
+1. Elfogadás 
+A HMD Global jelen Szolgáltatási Feltételei az Adatvédelmi Irányelvvel együtt, valamint minden e"</string>
+    <string name="wapi_psk_security_type">Jelszó típusa</string>
+    <string name="upload_agent_hmd_des_text_3">"A \"KEZDÉS\" gombra koppintással csatlakozhat a Felhasználói élmény programhoz. &lt;a href='launch.UserExperienceActivity://Kode'>További információ&lt;/a>. Ne feledje, később is bármikor csatlakozhat a Beállításoknál."</string>
+    <string name="setup_complete_hmd_1">Már majdnem készen áll...!</string>
+    <string name="not_now">MOST NEM...</string>
+    <string name="setup_finish">KEZDÉS</string>
+    <string name="wifi_fail_to_scan">Nem tud hálózatokat keresni</string>
+    <string name="wifi_security_none">Egyik sem</string>
+    <string name="wifi_remembered">Mentve</string>
+    <string name="wifi_disabled_generic">Letiltva</string>
+    <string name="wifi_disabled_network_failure">IP-konfigurációs hiba</string>
+    <string name="wifi_disabled_password_failure">Hitelesítési probléma</string>
+    <string name="wifi_not_in_range">Tartományon kívül</string>
+    <string name="wifi_no_internet_no_reconnect">Nem csatlakozik automatikusan</string>
+    <string name="wifi_no_internet">Nincs internetelérés</string>
+    <string name="saved_network">A mentést készítette: %1$s</string>
+    <string name="connected_via_passpoint">Csatlakozva ezen keresztül: %1$s</string>
+    <string name="available_via_passpoint">Elérhető ezen keresztül: %1$s</string>
+    <string name="wifi_connected_no_internet">Csatlakoztatva, nincs internet</string>
+    <string name="wifi_auth_password_wrong">Lehet, hogy a jelszó helytelen</string>
+    <string name="connected_via_wfa">Csatlakoztatva a Wi‑Fi-kezelőn keresztül</string>
+    <string name="wifi_ssid">Hálózat neve</string>
+    <string name="wifi_ssid_hint">SSID megadása</string>
+    <string name="wifi_security">Biztonság</string>
+    <string name="wifi_eap_method">EAP-módszer</string>
+    <string name="please_select_phase2">Hitelesítés 2. fázisa</string>
+    <string name="wifi_eap_ca_cert">CA tanúsítvány</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nincs megadott tanúsítvány. A kapcsolat nem privát jellegű lesz.</string>
+    <string name="wifi_eap_domain">Domain</string>
+    <string name="wifi_no_domain_warning">A domain megadása kötelező.</string>
+    <string name="wifi_eap_user_cert">Felhasználói tanúsítvány</string>
+    <string name="wifi_eap_identity">Azonosság</string>
+    <string name="wifi_eap_anonymous">Név nélküli identitás</string>
+    <string name="wifi_password">Jelszó</string>
+    <string name="wifi_show_password">Jelszó megjelenítése</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Speciális beállítások legördülő lista. Koppintson kétszer a kibontáshoz.</string>
+    <string name="wifi_show_advanced">Speciális beállítások</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_warning_limited_support">A HTTP proxyt a böngésző használja, ám más alkalmazások nem használhatják.</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">Proxy gazdagépnév:</string>
+    <string name="proxy_exclusionlist_label">Megkerülési proxy ehhez:</string>
+    <string name="wifi_ip_settings">IP-beállítások</string>
+    <string name="wifi_ip_address">IP-cím</string>
+    <string name="wifi_gateway">Átjáró</string>
+    <string name="wifi_network_prefix_length">Hálózati előtag hossza</string>
+    <string name="wifi_dns1">1. DNS</string>
+    <string name="wifi_dns2">2. DNS</string>
+    <string name="wifi_shared">Megosztás az eszköz más felhasználóival</string>
+    <string name="proxy_port_label">Proxy portja:</string>
+    <string name="wifi_unspecified">Kérjük, válasszon</string>
+    <string name="wifi_multiple_cert_added">(Több tanúsítvány hozzáadva)</string>
+    <string name="wifi_use_system_certs">Rendszertanúsítvány használata</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Ne adja meg</string>
+    <string name="wifi_do_not_validate_eap_server">Ne hitelesítse</string>
+    <string name="wifi_add_network">Hálózat hozzáadása</string>
+    <string name="wifi_save">Mentés</string>
+    <string name="passpoint_label">Mentve a következővel:</string>
+    <string name="wifi_connect">Kapcsolódás</string>
+    <string name="wifi_status">Állapot</string>
+    <string name="wifi_signal">Jelerősség</string>
+    <string name="wifi_speed">Vonalsebesség</string>
+    <string name="link_speed">%1$d Mb/s</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Frekvencia</string>
+    <string name="wifi_forget">Elfelejt</string>
+    <string name="wifi_cancel">Mégse</string>
+    <string name="proxy_error_invalid_port">A megadott port nem érvényes.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Adjon meg egy érvényes IP-címet.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">0 és 32 közti hosszt adjon meg a hálózati előtagnál.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Írjon be érvényes átjárócímet.</string>
+    <string name="wifi_ip_settings_invalid_dns">Írjon be érvényes DNS-címet.</string>
+    <string name="wifi_unchanged">(nem változott)</string>
+    <string name="wifi_failed_connect_message">Nem sikerült hálózathoz csatlakozni.</string>
+    <string name="wifi_failed_save_message">Nem sikerült menteni a hálózatot.</string>
+    <string name="wifi_failed_forget_message">Nem sikerült elfelejteni a hálózatot.</string>
+    <string name="proxy_error_empty_host_set_port">A port mezőnek is üresnek kell maradnia, ha a gazdagép mező üres.</string>
+    <string name="proxy_error_empty_port">Ki kell töltenie a port mezőt.</string>
+    <string name="proxy_error_invalid_exclusion_list">A beírt kivétellista nem jól formázott. Vesszővel elválasztott listát írjon be a kizárt domainekről.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Speciális beállítások legördülő lista. Koppintson kétszer az összecsukáshoz.</string>
+    <string name="passpoint_content">A(z) %1$s hitelesítési adatai</string>
+    <string name="select_sim_card">SIM-kártya kiválasztása</string>
+    <string name="sim_editor_title">%1$d. SIM-nyílás</string>
+    <string name="wifi_certificate">Tanúsítvány</string>
+    <string name="wifi_setting_title">Csatlakozás létrehozása</string>
+    <string name="wifi_skip_anyway">MÉGIS KIHAGYOM</string>
+    <string name="wifi_dont_skip">VISSZA</string>
+    <string name="wifi_and_mobile_skipped_message">"Hálózati kapcsolat segítségével a telefon gyorsan beállítható.
+
+Hálózati kapcsolat nélkül nem teheti meg a következőket:
+
+"<li>Bejelentkezés az Ön által használt felhőfiókba</li>"
+
+"<li>Szoftverfrissítések beszerzése</li>"
+
+"<li>A dátum és az idő automatikus beállítása</li></string>
+</resources>

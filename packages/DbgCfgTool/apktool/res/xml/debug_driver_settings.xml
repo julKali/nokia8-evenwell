@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/debugdriver_label" android:key="parent">
+        <PreferenceScreen android:title="@string/uart_debug_config_title" android:summary="@string/uart_debug_config_summary">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.UartDebugConfig" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/debugdriver_smd_rpcrouter_title" android:summary="@string/debugdriver_smd_rpcrouter_summary">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.SmdRpcRouterConfig" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/dalvik_heap_dump_title" android:summary="@string/dalvik_heap_dump_summary">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.DalvikHeapDump" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/adb_log_title" android:summary="@string/adb_log_summary">
+            <intent android:targetPackage="com.evenwell.DbgCfgTool" android:action="android.intent.action.MAIN" android:targetClass="com.evenwell.DbgCfgTool.AdbLogConfig" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Editor Bokeh</string>
+    <string name="image_not_null">Cesta k obrázku nemôže mať hodnotu null</string>
+    <string name="no_bokeh_type">Žiadny typ Bokeh</string>
+    <string name="no_mpo_file">Žiadny súbor MPO</string>
+    <string name="save">Uložiť</string>
+    <string name="save_success">Uloženie bolo úspešné</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uređivač Bokeh</string>
+    <string name="image_not_null">Put slike ne može biti prazna vrijednost</string>
+    <string name="no_bokeh_type">Nema vrstu bokeh</string>
+    <string name="no_mpo_file">Nema MPO datoteke</string>
+    <string name="save">Spremi</string>
+    <string name="save_success">Spremanje je uspjelo</string>
+</resources>

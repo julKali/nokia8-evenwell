@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Nu se mai afișează.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Anulare</string>
+    <string name="switch_on_text">Activat</string>
+    <string name="switch_off_text">Dezactivat</string>
+    <string name="fih_power_saving_permission_cancel">Anulare</string>
+    <string name="lock_screen_ap_protect_title">Manager de activități în fundal</string>
+    <string name="all_aps">Adăugați toate aplicațiile la lista albă</string>
+    <string name="fih_power_saving_doze_high_consumption">Consum ridicat de energie</string>
+    <string name="fih_power_saving_background_activity_text">Activați Managerul de activități în fundal pentru a prelungi autonomia bateriei, dar notificările pentru anumite aplicații sau e-mailuri pot să nu fie regăsite instantaneu. Puteți gestiona autonomia bateriei prin adăugarea sau eliminarea aplicațiilor din lista albă.</string>
+    <string name="fih_power_saving_background_cleaner">Instrument de curățare a activităților din fundal</string>
+    <string name="fih_power_saving_background_cleaner_summary">Este posibil ca notificările să nu fie primite imediat</string>
+    <string name="app_block_list">Listă de aplicații restricționate</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">إمكانية الوصول</string>
+    <string name="datausage_dialog_negitive_btn">إلغاء</string>
+    <string name="datausage_dialog_positive_btn">موافق</string>
+    <string name="hmd_user_experience_program_message">مشاركتك في برنامج تجربة المستخدم تساعد HMD Global على التوصل لفهم أفضل لما يروق لك في جهاز Nokia، والأشياء التي ترى أنها تحتاج إلى التحسين. قد نتلقى من حين لآخر بيانات لا تعكس هوية المرسل تتضمن خصائص فنية حول جهازك، وهذا يشمل على سبيل المثال، ملف به بيانات حول تعطل محتمل لأحد البرامج. رجاء ملاحظة أن تلك البيانات لن يتم بثها من خلال اتصال شبكة جوال. نود أن نستمع إلى رأيك حول جهاز Nokia الخاص بك!</string>
+    <string name="hmd_user_experience_program_title">برنامج تجربة المستخدم</string>
+    <string name="insert_sim_cards">إدخال بطاقات SIM</string>
+    <string name="insert_sim_cards_prompt_content">"هل أنت غير متأكد من الآلية المتبعة في هذا الأمر؟ تحقق من الإرشادات المرفقة بهاتفك.
+
+بمجرد إدخالك لبطاقات SIM خاصتك، قد يستغرق تنشيطها بضع ثوانٍ."</string>
+    <string name="language_selection_cancel_btn">إلغاء</string>
+    <string name="language_selection_title">اختر لغتك</string>
+    <string name="light_room_description">يدعم %1$s التقاط صورة RAW (DNG). يُمكنك التعديل مباشرةً على هاتفك الذكي الجديد بفضل شراكتنا مع Adobe.&lt;br/>&lt;br/>قم بتنزيل Adobe Photoshop Lightroom CC من متجر Google Play الآن.</string>
+    <string name="light_room_title">هل تشعر بالشغف تجاه التصوير الفوتوغرافي؟</string>
+    <string name="next_btn_lebel">التالي</string>
+    <string name="not_now">ليس الآن...</string>
+    <string name="setup_complete_hmd_1">أنت جاهز تقريبًا للبدء...!</string>
+    <string name="setup_finish">هيا نبدأ</string>
+    <string name="term_agree_text">أوافق</string>
+    <string name="upload_agent_hmd_des_text_2">"انضم إلى برنامج تجربة مستخدمي Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>تعرف على المزيد.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"بالنقر فوق \"هيا نبدأ\"، فإنك توافق على الانضمام إلى برنامج تجربة المستخدم. &lt;a href='launch.UserExperienceActivity://Kode'>تعرف على المزيد&lt;/a>. وتذكر أنه يمكنك دائمًا الانضمام لاحقًا عبر الإعدادات."</string>
+    <string name="welcome_hmd_term_of_use_2">"بالنقر على السهم، فإنك توافق على &lt;a href='launch.TermOfServiceActivity://Kode'>شروط الخدمة&lt;/a> و &lt;a href='launch.AddUploadAgentHandler://Kode'>سياسة الخصوصية&lt;/a>. سيتم إرسال معلومات تنشيط الجهاز مع موقع الجهاز لمرة واحدة إلى HMD Global. قد تطبق رسوم على البيانات."</string>
+    <string name="welcome_hmd_term_of_use_5">"بالنقر فوق هذا الزر، فإنك توافق على &lt;a href='launch.TermOfServiceActivity://Kode'>شروط الخدمة&lt;/a>. سيتم إرسال معلومات تنشيط الجهاز مع موقع الجهاز المستخدم لمرة واحدة إلى HMD Global. قد يتم فرض رسوم على البيانات. سيتم استخدام البيانات وفقًا لـ &lt;a href='launch.AddUploadAgentHandler://Kode'>سياسة الخصوصية&lt;/a>."</string>
+    <string name="welcome_lets_go_button_label">دعونا ننطلق</string>
+    <string name="welcome_vision_settings_button_label">إعدادات الرؤية</string>
+    <string name="wifi_cancel">إلغاء</string>
+    <string name="wifi_connect">الاتصال</string>
+    <string name="wifi_disabled_generic">معطّل</string>
+    <string name="wifi_picker_connection_positive">موافق</string>
+</resources>

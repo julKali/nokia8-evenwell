@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"အသုံးပြုသူ အတွေ့အကြုံ အစီအစဉ် နှင့် ချိတ်ဆက်ပါ။ &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>ပိုမိုသင်ယူပါ&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"ခလုတ်ကို နှိပ်ခြင်းဖြင့် သင်သည် &lt;a href='launch.TermOfServiceActivity://Kode'>ဝန်ဆောင်မှု စည်းကမ်းချက်များ&lt;/a> နှင့် &lt;a href='launch.AddUploadAgentHandler://Kode'>ကိုယ်ရေးလုံခြုံမှု မူဝါဒ&lt;/a> ကို သဘောတူသည်။ တစ်ကြိမ်သုံး ကိရိယာ တည်နေရာကို ကိရိယာ အသက်သွင်းသည့် အချက်အလက်နှင့် HMD Global သို့ ပို့ပေးပါမည်။ &lt;br/>&lt;br/> သင့်အတွက် နောက်ဆုံး အပ်ဒိတ်များ ထည့်သွင်းမည့် အလိုအလျောက် ဆော့ဖ်ဝဲလ် အပ်ဒိတ် အသိပေးချက်ကို ဖွင့်ပေးပါမည်။ ၎င်းကြောင့် သင်၏ ဒေတာ ဘတ်ဂျက် အနည်းငယ် အသုံးပြုပါလိမ့်မည်။ ဝန်ဆောင်မှုမှ ၎င်းတို့ လိုအပ်ချက်ရှိလျှင် အင်တာနက်ကို အသုံးပြုပါလိမ့်မည်။&lt;br/>&lt;br/>၎င်းဝန်ဆောင်မှုများကြောင့် ဆယ်လူလာ ကွန်ရက်အသုံးပြုသည့်အတွက် အပိုကုန်ကျစရိတ်များ ကျသင့်နိုင်ပါသည်။"</string>
+    <string name="welcome_hmd_term_of_use_5">"ခလုတ်ကို နှိပ်ခြင်းဖြင့်၊ &lt;a href='launch.TermOfServiceActivity://Kode'>ဝန်ဆောင်မှု စည်းကမ်းများ&lt;/a> ကိုသဘောတူပါသည်။ တစ်ကြိမ်တည်းသာ အသုံးပြုနိုင်သော စက်ပစ္စည်း တည်နေရာနှင့် စက်ပစ္စည်း အသက်သွင်းသည့် အချက်အလက်ကို HMD Global သို့ ပို့ပါမည်။ ဒေတာအသုံးပြုခ ကျသင့်နိုင်ပါသည်။ &lt;a href='launch.AddUploadAgentHandler://Kode'>မူပိုင်ခွင့်မူဝါဒ&lt;/a>အရ ဒေတာကို အသုံးပြုသွားမည် ဖြစ်ပါသည်။"</string>
+    <string name="welcome_vision_settings_button_label">အမြင် ဆက်တင်များ</string>
+    <string name="next_btn_lebel">ရှေ့ဆက်</string>
+    <string name="back_btn_lebel">နောက်ပြန်ဆုတ်ပါ</string>
+    <string name="finish_button_label">ပြီးဆုံးသည်</string>
+    <string name="sim_not_exist_toast">သင်သည် ဆင်းမ်ကဒ်ထည့်သွင်းလျှင် ကျေးဇူးပြု၍ စစ်ဆေးပါ။</string>
+    <string name="idle_too_long_toast">ဤဖုန်းသည် တချို့အချိန်များတွင် အသံတိတ်နေတတ်သည်။ ဖုန်းအားကို ထိန်းသိမ်းရန် ယခု ပိတ်လိုက်ပါ။</string>
+    <string name="welcome_message">ၾကိဳဆိုပါ၏</string>
+    <string name="welcome_infocus_term_of_use">"မြားကို ခေါက်ခြင်းဖြင့်၊ သင်သည်&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>ဝန်ဆောင်မှု စည်းကမ်းချက်&lt;/a> ကို သဘောတူသည်။"</string>
+    <string name="welcome_hmd_term_of_use_2">"မြားကို ခေါက်ခြင်းဖြင့်၊ သင်သည် &lt;a href='launch.TermOfServiceActivity://Kode'>ဝန်ဆောင်မှု စည်းကမ်းချက်များ&lt;/a> နှင့် &lt;a href='launch.AddUploadAgentHandler://Kode'>ကိုယ်ရေးကိုယ်တာ လုံခြုံရေး မူဝါဒ&lt;/a>ကို သဘောတူသည်။ တစ်ကြိမ်သုံး စက်ပစ္စည်းတည်နေရာနှင့်အတူ စက်ပစ္စည်း အသက်သွင်းခြင်းကို HMD Global သို့ ပေးပို့လိမ့်မည်။ ဒေတာကုန်ကျစရိတ် သက်ရောက်နိုင်သည်။"</string>
+    <string name="welcome_start_button_label">စတင်ရန်</string>
+    <string name="emergency_dial_message">အရေးပေါ်ဖုန်းခေါ်ဆိုမှု</string>
+    <string name="emergency_dial_hmd_message">အရေးပေါ်</string>
+    <string name="accessibility_text">ဝင်ရောက်ခွင့်</string>
+    <string name="language_selection_title">သင်၏ ဘာသာစကားကို ရွေးချယ်ပါ</string>
+    <string name="language_selection_cancel_btn">ပယ်ဖျက်သည်</string>
+    <string name="welcome_lets_go_button_label">သွားစို့</string>
+    <string name="terms_title">ဒေတာသုံးစွဲမှု</string>
+    <string name="terms_of_service_description">"
+သင်သည် ရာသီဥတုဝန်ဆောင်မှုများ၊ အင်တာနက် ဝန်ဆောင်မှုများ၊ အီးမေးလ်၊ ဘရောက်ဇာ အစရှိသည်ကဲ့သို့သော ကွန်ရက် ချိတ်ဆက်မှု လိုအပ်သည့် ဝန်ဆောင်မှုများကို အသုံးပြုသောအခါ ၎င်းသည် မိုဘိုင်းလ်ဒေတာသုံးစွဲမှုအတွက် အပိုကုန်ကျစရိတ် ကုန်ကျနိုင်သည်။ သင်၏ မိုဘိုင်းလ်ဒေတာသုံးစွဲမှုကို ပိုမို အကျိုးရှိစွာ စီမံနိုင်ရန်၊ သင်၏ ဝန်ဆောင်မှုပေးသူထံမှ သင့်တော်သော မိုဘိုင်းလ်ဝန်ဆောင်မှု အစီအစဉ်အတွက် သက်ရောက်ရန် ကျွန်တော်တို့သည် အကြံပြုသည်။
+
+သဘောတူသည်ကို ရွေးချယ်ခြင်းဖြင့်၊ သင်သည် လိုအပ်သောအခါ ကွန်ရက်ကို ချိတ်ဆက်ရန် ဤဝန်ဆောင်မှုများကို ခွင့်ပြုသည်။
+
+ထို့ပြင်၊ အလိုအလျောက် ဆော့ဖ်ဝဲ ပြုပြင်မွမ်းမံခြင်းကို အလိုအလျောက်ရွေးချယ်မှု စတင်လုပ်ဆောင်သည်။ သင့်ကို နောက်ဆုံးဆော့ဖ်ဝဲလ်၏ အတွေ့အကြုံဆီသို့ ခေါ်သွားရန်၊ မိုဘိုင်းဒေတာ အနည်းငယ်ကို အသုံးပြုရနိုင်သည်။ သင်သည် နောက်ပိုင်းတွင် သတ်မှတ်ချက်များထဲတွင် ရွေးချယ်ခွင့်ကို အမြဲတမ်း ပြောင်းလဲနိုင်သည်။
+
+"</string>
+    <string name="term_agree_text">သဘောတူ</string>
+    <string name="term_disagree_text">သဘောမတူပါ</string>
+    <string name="datausage_dialog_positive_btn">ေကာင္းၿပီ</string>
+    <string name="datausage_dialog_negitive_btn">ဤလုပ်ဆောင်ရန်အရာများကိုဖျက်သိမ်းပစ်မည်</string>
+    <string name="traffic_prompt_content">သင်သည် သဘောမတူဟု ရွေးချယ်လိုက်လျှင်၊ သင်သည် ဆော့ဖ်ဝဲလ် ပြုပြင်မွမ်းမံမှု၊ ရာသီဥတုခန့်မှန်းချက် သို့မဟုတ် အခြားသော သတင်းအချက်အလက်များကို မိမိဘာသာ ပြုလုပ်ရန် လိုအပ်လိမ့်မည်။</string>
+    <string name="google_account_intro_description">Google ဝန်ဆောင်မှုများ အားလုံးကို ခံစားနိုင်ရန် Google အကောင့်ကို တပ်ဆင်ပါ။</string>
+    <string name="google_account_intro_title">Google အကောင့်</string>
+    <string name="google_account_add_account">Google ဖြင့် လက်မှတ်ထိုးဝင်ရေ</string>
+    <string name="location_title">Google တည်နေရာကို အသုံးပြုပါ</string>
+    <string name="location_info_1">Google ၏ တည်နေရာဝန်ဆောင်မှုသည် အက်ပလီကေးရှင်းများကို သင်၏တိကျသည့် တည်နေရာနှင့်အတူ GPS မပါပဲ စီစဉ်ပေးသည်။</string>
+    <string name="location_info_2">သင်သည် ဤလုပ်ဆောင်ချက်များကို သတ်မှတ်ချက်များထဲတွင်၊ တည်နေရာဝန်ဆောင်မှုများအောက်တွင် ရပ်တန့်နိုင်သည်။</string>
+    <string name="location_network">အမည်မသိသေးသည့် တည်နေရာ ဒေတာကို စုဆောင်းရန် Google၏ တည်နေရာ ဝန်ဆောင်မှုကို ခွင့်ပြုပါ။ စုဆောင်းမှုသည် လုပ်ဆောင်နေဆဲ အက်ပလီကေးရှင်းများ မရှိသည့်တိုင်အောင် တွေ့ရလိမ့်မည်။</string>
+    <string name="location_for_service">Google ရှာဖွေမှု ရလဒ်များနှင့် အခြားသော Google ဝန်ဆောင်မှုများအတွက် ကျွန်ုပ်တည်နေရာကို အသုံးပြုပါ။</string>
+    <string name="date_and_time">နေ့စွဲနှင့်အချိန် ဆက်တင်များ</string>
+    <string name="date_time_auto">အလိုအလျောက် ရက်စွဲ &amp; အချိန်</string>
+    <string name="date_time_auto_summaryOn">ကွန်ယက်က ထောက်ပံ့ပေးသော အချိန်ကို အသုံးပြုပါ</string>
+    <string name="date_time_auto_summaryOff">ကွန်ယက်က ထောက်ပံ့ပေးသော အချိန်ကို အသုံးပြုပါ</string>
+    <string name="zone_auto">အလိုအလျောက်အချိန်ဇုန်နယ်</string>
+    <string name="zone_auto_summaryOn">ကွန်ယက်မှပေးပို့သောအချိန်ကို အသုံးပြုမည်</string>
+    <string name="zone_auto_summaryOff">ကွန်ယက်မှပေးပို့သောအချိန်ကို အသုံးပြုမည်</string>
+    <string name="date_time_set_date">ရက်စွဲ အတည်ပြုရန်</string>
+    <string name="date_time_set_time">အချိန်သတ်မှတ်ရန်</string>
+    <string name="date_time_set_timezone">အချိန်ဇုန်အားသတ်မှတ်ရန်</string>
+    <string name="date_time_24hour">၂၄နာရီပုံစံကို အသုံးပြုမည်</string>
+    <string name="date_time_date_format">ဒေတာပုံစံကိုရွေးရန်</string>
+    <string name="choose_timezone">အချိန်ဇုန်အား ရွေးချယ်ခြင်း</string>
+    <string name="normal_date_format">ဒေသဆိုင်ရာ ( %s)</string>
+    <string name="date_and_time_settings_title">ရက်စွဲ &amp; အချိန်</string>
+    <string name="date_and_time_settings_title_setup_wizard">ရက်စွဲနှင့် အချိန် သတ်မှတ်ရန်</string>
+    <string name="date_and_time_settings_summary">ရက်စွဲ အချိန် အချိန်ဇုန်နှင့် ပုံစံများအား သတ်မှတ်ရန်</string>
+    <string name="date_picker_title">ရက်စွဲ</string>
+    <string name="time_picker_title">အချိန်</string>
+    <string name="account_intro_title">[BRAND_NAME] ဝန်ဆောင်မှုများ အကောင့်</string>
+    <string name="account_intro_description">ဤ [BRAND_NAME] ဝန်ဆောင်မှုများကို ချိတ်ဆက်ခြင်းဖြင့် သင်၏ စက်ပစ္စည်းကို အသုံးပြုရန် နည်းလမ်းကို ပိုမိုကောင်းမွန်စေသည်။</string>
+    <string name="add_infocus_service_account">ဤ [BRAND_NAME] ဝန်ဆောင်မှု အကောင့်ကို ထည့်ပါ</string>
+    <string name="dropbox_fih_signup">Dropbox သို့ မှတ်ပုံတင်ပါ</string>
+    <string name="dropbox_fih_signin">Dropbox မှ ဝင်ရောက်ပါ</string>
+    <string name="dropbox_fih_description">သင်၏ ဓာတ်ပုံများနှင့် ဗွီဒီယိုများကို အလိုအလျောက် သိမ်းဆည်းရန် Dropbox နေရာလွတ် 2 GB ကို အခမဲ့ ရယူပါ။</string>
+    <string name="nevigation_selection_title">ချောမွတ်သော ခလုတ် ပြသမှု</string>
+    <string name="nevigation_selection_text">သင်သည် နောက်ခံအရောင်နှင့် နောက်သို့/မကြာသေးမီ ခလုတ်များ၏ တည်နေရာကို ပြောင်းလဲနိုင်သည်။</string>
+    <string name="nevigation_selection_back">​နောက်ဘက်</string>
+    <string name="nevigation_selection_home">အိမ်</string>
+    <string name="nevigation_selection_recent">မကြာသေးမီက</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia အသုံးပြုသူ အတွေ့အကြုံ အစီအစဉ်နှင့် ချိတ်ဆက်ပါ။ &lt;a href='launch.UserExperienceActivity://Kode'>ပိုမိုသင်ယူပါ။&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">အသုံးပြုသူ အတွေ့အကြုံ အစီအစဉ်</string>
+    <string name="setup_completed_congratulations">ဂုဏ်ယူပါသည်။</string>
+    <string name="setup_complete_hmd">သင်သည် သွားရောက်ရန် အဆင်သင့်ဖြစ်ပြီ ...</string>
+    <string name="setup_complete_main">သင်သည်</string>
+    <string name="setup_complete_sub">သွားရောက်ရန် အဆင်သင့် ဖြစ်ပြီ။</string>
+    <string name="hmd_user_experience_program_title">အသုံးပြုသူ အတွေ့အကြုံ အစီအစဉ်</string>
+    <string name="hmd_user_experience_program_message">အသုံးပြုသူ အတွေ့အကြုံ အစီအစဉ်တွင် သင်၏ ပူးပေါင်းပါဝင်မှုသည် သင်၏ Nokia စက်ပစ္စည်းအကြောင်း သင်ဘာကြိုက်သည်နှင့် တိုးတက်ဖို့ရန် သင် ဘာကို ထင်မြင်မိသည်ကို ပိုမိုကောင်းမွန်စွာ နားလည်ရန် HMD Global ကို ကူညီသည်။ အချိန်အလိုက်၊ ကျွန်တော်တို့သည် ဥပမာအားဖြင့် ဖြစ်ပေါ်လာနိုင်သည့် ဆော့ဖ်ဝဲလ်ပျက်ယွင်းမှု တစ်ခုအကြောင်း ဒေတာနှင့်အတူ ဖိုင်တစ်ခု ကဲ့သို့သော သင့် စက်ပစ္စည်းအကြောင်း နည်းပညာရပ်ဆိုင်ရာ ဝိသေသများနှင့်အတူ အမည်မသိ ဒေတာကို လက်ခံရရှိနိုင်သည်။ ထိုကဲ့သို့သော ဒေတာကို ဆဲလ်လူလာ ချိတ်ဆက်မှုဖြင့် လွှဲပြောင်းပေးမည်မဟုတ်ကြောင်းကို ကျေးဇူးပြု၍ မှတ်သားထားပါ။ ကျွန်တော်တို့သည် သင့်ဆီမှ သင်၏ Nokia စက်ပစ္စည်းအကြောင်း ထင်မြင်ချက်ကို ကြားသိလိုပါသည်။</string>
+    <string name="skip_button_label">ကျော်ပါ</string>
+    <string name="skip_add_account_button_label">ယခုမဟုတ်</string>
+    <string name="device_checking_message">ၾကိဳဆိုပါ၏</string>
+    <string name="backup_and_restore_title">အရန် သိမ်းဆည်းခြင်းနှင့် ပြန်လည်ရယူခြင်း</string>
+    <string name="backup_and_restore_description">"သင်သည် ယခင်က သင်၏အကောင့်ကို မိတ္တူပွားထားပါက၊ သင်သည် ၎င်းကို ဤဖုန်းသို့ ယခုအခါတွင် ပြန်လည်သိမ်းဆည်းနိုင်သည်။
+
+သင်သည် သင်၏ မိတ္တူပွားသည့် သတ်မှတ်ချက်များကို သတ်မှတ်ချက်များထဲတွင် မည်သည့်အချိန်တွင်မဆို ပြောင်းလဲနိုင်သည်။"</string>
+    <string name="baidu_intro_title">Baidu အတွက် ကလောက် သိမ်းဆည်းမှု</string>
+    <string name="baidu_intro_description">လွယ်ကူသော အဆင့်အချို့ကို ပြီးမြောက်အောင် လုပ်ဆောင်ခြင်းဖြင့် Baidu Yun နှင့်အတူ သင်သည် စပ်ကြောင်းမဲ့ ကလောက် သိမ်းဆည်းမှုများကို ခံစားနိုင်သည်။</string>
+    <string name="add_baidu_button_label">Baidu Yun သို့ ဝင်ရောက်ပါ</string>
+    <string name="baidu_progress_dialog_des">ကျေးဇူးပြု၍ စောင့်ပါ...</string>
+    <string name="wifi_picker_connection_title">ကွန်ရက် ချိတ်ဆက်ခြင်း</string>
+    <string name="wifi_picker_connection_des_text">မိုဘိုင်းလ်ကွန်ရက်မှတဆင့် သင်၏ဆော့ဖ်ဝဲလ်ကို မှန်မမှန် စစ်ဆေးသောအခါ WLAN ချိတ်ဆက်ခြင်းကို ရပ်တန့်ခြင်းသည် ကုန်ကျစရိတ် ဖြစ်စေနိုင်သည်။</string>
+    <string name="wifi_picker_connection_positive">ေကာင္းၿပီ</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN ချိတ်ဆက်ထားသည်</string>
+    <string name="wifi_picker_connection_negative">ချိတ်ဆက်ပါ</string>
+    <string name="wifi_picker_warning_title">သတိေပးချက်</string>
+    <string name="wifi_picker_warning_des_text">သင့်တွင် အင်တာနက် ချိတ်ဆက်မှုတစ်ခု ရှိသည့်တိုင်အောင်၊ သင့်ဆော့ဖ်ဝဲလ်ကို နောက်ဆုံးအနေအထားဖြစ်စေရန် ဖုန်းကို မှန်မမှန် စစ်မှု ပြုလုပ်နိုင်မည် မဟုတ်။</string>
+    <string name="wifi_picker_warning_positive">မကျော်ရ</string>
+    <string name="wifi_picker_warning_negative">မည်သို့ပင်ဖြစ်စေ ကျော်ပါ</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] တရားဝင်</string>
+    <string name="fih_legal_message" />
+    <string name="hmd_legal_message">"ဝန်ဆောင်မှု စည်းကမ်း သတ်မှတ်ချက်များ 
+ 
+သက်ရောက်သည့် ရက်စွဲမှာ ၂၀၁၆ ခုနှစ် အောက်တိုဘာ ၁၄ 
+၁။ လက်ခံခြင်း 
+ ကိုယ်ရေးမူဝါဒ နှင့် အခြားသော ဖြည့်စွက် စည်းကမ်းသတ်မှတ်ချက်များအားလုံးနှင့် ဝန်ဆောင်မှု (“စည်းကမ်းသတ်မှတ်ချက်များ” ဟု ပေါင်းစုထားသော) ထဲတွင် ပံ့ပိုးပေးထားနိုင်သော သတင်းအချက်အလက် တို့နှင့်အတူ ဤHMD Global ဝန်ဆောင်မှု စည်းကမ်းသတ်မှတ်ချက်များသည် သင် ဝန်ဆောင်မှု၊ ဆိုဒ်၊ အကြောင်းအရာ နှင့် ဆော့ဖ်ဝဲ (“ဝန်ဆောင်မှု”ဟု ပေါင်းစုထားသော) အသုံးပြုမှုကို ထိန်းချုပ်ထားသည်။ ဝန်ဆောင်မှု သို့မဟုတ် ၎င်း၏ အစိတ်အပိုင်းတစ်ခုကို မှတ်ပုံတင်ခြင်း သို့မဟုတ် အသုံးပြုခြင်းဖြင့် သင်သည် ဤစည်းကမ်းသတ်မှတ်ချက်များကို လက်ခံလိုက်သည်။ 
+ စည်းကမ်းသတ်မှတ်ချက်များသည် သင်နှင့် HMD Global Oy၊ Karaportti ၂၊ ၀၂၁၆၀ အက်စ်ပို၊ ဖင်လန်၊ ၎င်း၏လက်အောက်ခံကုမ္ပဏီများ နှင့် ပံ့ပိုးပေးသူများ(“HMD Global” ဟု စုပေါင်း၍) ကြားတွင်၊ သင်နှင့် HMD Global ၏ ရပိုင်ခွင့်များနှင့် ဝန်ဆောင်မှုနှင့် ပတ်သက်၍ တာဝန်ခံမှုများ ဟု ဆိုနိုင်မည့် သဘောတူညီချက်တစ်ခု ပါဝင်သည်။ 
+၂။ အရည်အချင်းပြည့်မှီမှု 
+ဝန်ဆောင်မှုကို အသုံးပြုရန်၊ သင်သည် အနိမ့်ဆုံး အသက် (၁၃)နှစ် ရှိရမည်။ အကယ်၍ သင်သည် အသက်(၁၃)နှစ်အောက်ဖြစ်လျှင်၊ သို့မဟုတ် အနိမ့်ဆုံးအသက် (၁၃)နှစ်ဖြစ်သော်လည်း သင်နေထိုင်ရာတွင် အရွယ်မရောက်သေးသူဖြစ်ပါက၊ သင်သည် သင်၏မိဘ သို့မဟုတ် တရားဝင် အုပ်ထိန်းသူက သင်၏ အကျိုးအတွက် သင်၏မှတ်ပုံတင်ခြင်းကို လက်ခံပြီး သင်၏ဝန်ဆောင်မှုအသုံးပြုခြင်းကို အတည်ပြုချက် ရှိရမည်ဖြစ်သည်။ မှတ်ပုံတင်သည့် လူတိုင်းသည် တရားဥပဒေအရ အခွင့်အာဏာ ရှိရမည်။ 
+၃။ မှတ်ပုံတင်ခြင်းနှင့် အသုံးပြုမှုအဆုံးသတ်ခြင်း 
+ဝန်ဆောင်မှုတစ်ခုကို အသုံးပြုရန် သင်သည် မှတ်ပုံတင်ရန်နှင့် သီးခြားစည်းကမ်းသတ်မှတ်ချက်များ အကြောင်းကိစ္စရပ်အဖြစ် အသုံးပြုသူအမည်နှင့် စကားဝှက်တစ်ခုနှင့်အတူ HMD အကောင့်တစ်ခု ဖန်တီးရန် လိုအပ်သည်။ သင်သည် ကျွန်ုပ်တို့ကို တိကျသော ကိုယ်ရေးကိုယ်တာနှင့် အခြားသတင်းအချက်အလက်ကို ပံ့ပိုးပေးရန် လိုအပ်သည်။ HMD Global သည် သင်၏ HMD အကောင့်ကို အသုံးမပြုနိုင်မီ သင့် အီးမေးလ်လိပ်စာကို မှန်၊ မမှန် စစ်ဆေးလိမ့်မည်။ သင့်စက်ပစ္စည်းကို ပထမအကြိမ် စတင်အသုံးပြုချိန်နှင့် Nokia စက်ပစ္စည်း ဆော့ဖ်ဝဲလ်ကို အပ်ဒိတ်ပြုလုပ်သည့် အကြိမ်တိုင်းတွင်၊ HMD Global သို့ စာသားသတင်းတိုတစ်စောင် ပေးပို့လိမ့်မည်။ HMD အကောင့်တစ်ခု ဖန်တီးရာတွင် ဒေတာလွှဲပြောင်းခြင်း လိုအပ်လိမ့်မည်။ ဒေတာလွှဲပြောင်းခြင်း ကုန်ကျစရိတ် ကျခံရနိုင်သည်။ 
+ဝန်ဆောင်မှုအတွက် သင်မှတ်ပုံတင်သောအခါတွင် သင်သည် မှန်ကန်ပြီး ပြည့်စုံသော သတင်းအချက်အလက်ကို ပံ့ပိုးပေးရန်နှင့် ထိုသတင်းအချက်အလက်ကို အပ်ဒိတ်ဖြစ်နေစေရန် ထိန်းသိမ်းထားဖို့ သဘောတူသည်။ သင်သည် သင်၏ အသုံးပြုသူအမည်နှင့် စကားဝှက်ကို အခြားသူများမှ အလွဲသုံးခြင်း မပြုအောင် ကာကွယ်ရန်နှင့် အလွဲသုံးမှု တစ်ခုခု ရှိပါက HMD Global ဆီသို့ ချက်ချင်းသတိပေးရန် ဂရုစိုက်ရမည်။ သင်၊ နှင့် သင့်မိဘ သို့မဟုတ် သင်သည် အရွယ်မရောက်သေးသူ်ဖြစ်ပါက တရားဝင်အုပ်ထိန်းသူ၊ တို့သည် ဝန်ဆောင်မှု၏ အသုံးပြုသမျှအတွက် ကိုယ်ရေးကိုယ်တာအတွက် တာဝန်ရှိသည်။ 
+အကယ်၍ သင်သည် ဝန်ဆောင်မှုကို ဆက်လက်အသုံးမပြုလိုတော့ပါက သင်သည် သင်၏ မှတ်ပုံတင်ခြင်းကို အဆုံးသတ်နိုင်သည်။ အဆုံးသတ်ပြီးနောက်တွင်၊ သင်သည် ဝန်ဆောင်မှုကို ဆက်လက်အသုံးပြုနိုင်မည် မဟုတ်တော့ချေ။ အကယ်၍ HMD Global က သင်သည် စည်းကမ်းသတ်မှတ်ချက်များကို ဖောက်ဖျက်ခဲ့သည် ဟု ကျိုးကြောင်းဆီလျှော်စွာ ယုံကြည်လျှင် သို့မဟုတ် သင်သည် ဝန်ဆောင်မှုသို့ သင်၏အသုံးပြုသူအမည်ဖြင့် လွန်ခဲ့သော ခြောက် (၆) လအတွင်း ဝင်ရောက်ခြင်း မရှိခဲ့လျှင် ကြိုတင်အသိပေးချက်နှင့်အတူ HMD Global သည် ဝန်ဆောင်မှု၏ သေချာသောအစိတ်အပိုင်းများသို့ သင်၏ဝင်ရောက်မှုကို အဆုံးသတ်နိုင်သည် သို့မဟုတ် ကန့်သတ်နိုင်သည်။ 
+ကိုယ်ရေးမူဝါဒထဲတွင် အတိအလင်း ဖော်ပြထားခြင်းမှ လွဲ၍၊ HMD Global သည် မည်သည့် ဖယ်ရှားမှု သို့မဟုတ် သတင်းပျောက်ဆုံးမှု သို့မဟုတ် ဝန်ဆောင်မှုသို့ သင်တင်ပြထားသည့် အကြောင်းအရာအတွက် တာဝန်မခံပါ။ သင် သို့မဟုတ် HMD Global မှ ဝန်ဆောင်မှုရှိ သတင်းအချက်အလက် သို့မဟုတ် အကြောင်းအရာကို ဖယ်ရှားလိုက်သောအခါ၊ အခြားတစ်နေရာတွင် သဲလွန်စများ သို့မဟုတ် မိတ္တူများ ကျန်ရှိနေနိုင်သည်။ 
+၄။ လိုင်စင်များ 
+ HMD Global သည် သင့်ကို HMD Global ၏တစ်ဖက်သတ် ဆုံးဖြတ်ချက်ဖြင့် မည်သည့်အချိန်တွင်မဆို ရုတ်သိမ်းဖျက်ဆီးနိုင်သော၊ စည်းမျဉ်းသတ်မှတ်ချက်များနှင့်အတိုင်း တိတိကျကျ ဝန်ဆောင်မှုကို ဝင်ရောက်နိုင်ရန်နှင့် အသုံးပြုရန် မူပိုင်မဟုတ်သော၊ မလွှဲပြောင်းနိုင်သော လိုင်စင်တစ်ခုဖြင့် အာမခံသည်။ ဝန်ဆောင်မှုကို အသုံးပြုရာတွင် သင့်ကို မည်သည့် အသိဉာဏ်ဆိုင်ရာ မူပိုင်ခွင့်များ သို့မဟုတ် မည်သည့်သတင်းအချက်အလက်ကိုမျှ သို့မဟုတ် ဝန်ဆောင်မှုရှိ အကြောင်းအရာကို အာမ မခံပါ။ 
+ဝန်ဆောင်မှု၏ အစိတ်အပိုင်းတစ်ခုအနေဖြင့်၊ HMD Global သည် သင့်ကို HMD Global မှ သို့မဟုတ် ၎င်း၏လိုင်စင်ကိုင်ဆောင်သူများ(“အကြောင်းအရာ”)မှ ဖွံ့ဖြိုးအောင် လုပ်ဆောင်ထားသည့် အကြောင်းအရာနှင့်အတူ သင့်ကို ပံ့ပိုးပေးနိုင်သည်။ HMD Global သည် အခြားတစ်ခုခုက သက်ဆိုင်သော စည်းမျဉ်းသတ်မှတ်ချက်များ သို့မဟုတ် ဝယ်ယူမှုအမှာစာတွင် သတ်မှတ်ထားမှု မရှိလျှင်၊ သင့်ကို ၎င်းရည်ရွယ်ထားသည့် ရည်ရွယ်ချက်အတွက် အကြောင်းအရာ ကို အသုံးပြုရန် မူပိုင်မဟုတ်သော ရာသက်ပန် လိုင်စင်တစ်ခုဖြင့် အာမခံသည်။ အချို့သော အကြောင်းအရာသည် သေချာသော ပထဝီဆိုင်ရာဧရိယာများတွင် အခြေချနေထိုင်သူများအတွက်သာ ရရှိနိုင်သည်။ သင်သည် ဝန်ဆောင်မှုမှတဆင့် ရရှိခြင်းဖြင့် တိကျသော အကြောင်းအရာနှင့် သက်ဆိုင်သည့် ကန့်သတ်ချက်များဖြင့် သင့်ကို ဝန်းရံထားသည်။ အခြားအဖွဲ့အစည်းမှ ရရှိသည့် လိုင်စင်တိုင်းသည် သင်နှင့် အခြားအဖွဲ့အစည်း အကြောင်းအရာ ပံ့ပိုးသူကြားတွင် ပေါင်းစပ်သဘောတူညီမှု တစ်ခုဖြစ်သည်။ သင့်တွင် ဤနေရာမှ ဖော်ပြအာမခံထားသည့် အကြောင်းအရာအတွက် ရပိုင်ခွင့်များသာလျှင် ရှိသည်။ 
+HMD Global သည် ဝန်ဆောင်မှု တစ်စိတ်တစ်ပိုင်းအဖြစ် HMD Global၊ သို့မဟုတ် ၎င်း၏ လိုင်စင်ကိုင်ဆောင်သူများ (“ဆော့ဖ်ဝဲလ်”)မှ ဖွံ့ဖြိုးအောင် လုပ်ဆောင်ထားသော တိကျသောဆော့ဖ်ဝဲလ်ဖြင့် သင့်ကို ပံ့ပိုးပေးနိုင်သည်။ ဆော့ဖ်ဝဲလ်ကို သင်၏အသုံးပြုမှုသည် ဆော့ဖ်ဝဲလ်ကို အသုံးမပြုမီ သင်လက်ခံရမည့် စည်းကမ်းသတ်မှတ်ချက်များကို သီးခြားသတ်မှတ်ရန် အကြောင်းကိစ္စရပ် ဖြစ်ကောင်းဖြစ်နိုင်သည်။ ထိုဆော့ဖ်ဝဲလ်နှင့် သက်ဆိုင်သည့် သီးခြားစည်းကမ်းသတ်မှတ်ချက်များ မရှိလျှင်၊ အောက်ဖော်ပြပါ စည်းမျဉ်းသတ်မှတ်ချက်များကို ကျင့်သုံးသည်၊ HMD Global သည် သင့်ကို သင်၏ကွန်ပျူတာနှင့်/သို့မဟုတ် မိုဘိုင်းလ်စက်ပစ္စည်းတွင် အင်စတောလ်လုပ်ရန် နှင့် ဆော့ဖ်ဝဲလ်ကို အသုံးပြုရန် ကန့်သတ်ထားသော၊ မူပိုင်မဟုတ်သော၊ မလွှဲပြောင်းနိုင်သော ရပိုင်ခွင့်တစ်ခု ကို အာမခံသည်။ မော်ကွန်းတင်သိမ်းဆည်းထားမည့် မိတ္တူတစ်ခု ပြုလုပ်ရန်မှတပါး၊ သင်သည် ဆော့ဖ်ဝဲလ်ကို မိတ္တူမပွားနိုင်ပါ။ သင်သည် အသုံးပြုရန်၊ မွမ်းမံရန်၊ ဘာသာပြန်ရန်၊ ပြန့်ပွားရန်၊ ပြန်လည်ရောင်းချရန်၊ လိုင်စင်ခွဲရန်၊ ငှားရန်၊ အငှားချရန်၊ အင်ဂျင်နီယာပြောင်းရန်၊ သို့မဟုတ် အခြားတစ်နည်းဖြင့် ရင်းမြစ်ကုဒ်ကို ရှာဖွေဖော်ထုတ်ရန် သို့မဟုတ် ဆော့ဖ်ဝဲလ်၏ ဆင့်ပွားလုပ်ဆောင်ချက်များကို ပြုလုပ်ရန် အခွင့်အရေးကို မဖြန့်ဝေ၊ မပြောင်းလဲနိုင်ပါ။ လွတ်လပ်သောရင်းမြစ်လိုင်စင် ဆော့ဖ်ဝဲလ်အတွက်၊ သက်ဆိုင်သော လွတ်လပ်သောရင်းမြစ်လိုင်စင် စည်းကမ်းသတ်မှတ်ချက်များကို ကျင့်သုံးသည်။ ဆော့ဖ်ဝဲလ်ကို သင်အသုံးပြုမှုသည် သက်ဆိုင်သည့် စည်းမျဉ်းသတ်မှတ်ချက်အားလုံးကို လက်ခံသည်ဟု ညွှန်းဆိုသည်။ 
+ဤဆော့ဖ်ဝဲလ်သည် US ပို့ကုန်စီမံဆောင်ရွက်ရေးစည်းမျဉ်းနှင့် အခြားသော သွင်းကုန် သို့မဟုတ် ပို့ကုန် စည်းမျဉ်းအောက်တွင် ပို့ကုန်ထိန်းချုပ်ခြင်းများအတွက် အကြောင်းကိစ္စရပ် ဖြစ်လာနိုင်သည်။ သင်သည် သက်ဆိုင်သော သွင်းကုန်နှင့် ပို့ကုန် စည်းမျဉ်းများ အားလုံးကို တိတိကျကျ လိုက်နာရန်နှင့် သင့်တွင် ထိုကဲ့သို့ ဆော့ဖ်ဝဲလ်ကို တင်ပို့ရန်၊ ပြန်လည်တင်ပို့ရန်၊ ရွှေ့ပြောင်းရန်၊ သို့မဟုတ် တင်သွင်းရန် လိုင်စင်များကို ရယူရန် တာဝန်ရှိကြောင်း လက်ခံရန် သဘောတူညီသည်။ 
+ သင်သည် ဝန်ဆောင်မှုသို့ သတင်းအချက်အလက် သို့မဟုတ် အကြောင်းအရာ(“ကိစ္စရပ်”)ကို တင်ပြနိုင်သည်။ HMD Global သည် သင်၏အကြောင်းကိစ္စတွင် ပိုင်ဆိုင်မှုအတွက် အဆိုမပြုပါ။ သင့် အကြောင်းကိစ္စရပ်တင်ပြခြင်းသည် HMD Globalသို့ အကြောင်းကိစ္စ၏ပိုင်ဆိုင်မှု လွှဲပြောင်းမဟုတ်ပါ။ HMD Global သည် အကြောင်းကိစ္စကိုသာ လွှဲပြောင်းပေးပြီး ၎င်းအပေါ် တည်းဖြတ်ထိန်းချုပ်ခြင်းအတွက် တာဝန်မခံပါ။ ဝန်ဆောင်မှုသို့ အကြောင်းကိစ္စကို တင်ပြခြင်းဖ"</string>
+    <string name="wapi_psk_security_type">စကားဝှက် အမျိုးအစား</string>
+    <string name="upload_agent_hmd_des_text_3">"သွားစို့\" ကိုတို့ခြင်းဖြင့် သုံးစွဲသူ အတွေ့အကြုံအစီအစဉ်သို့ သင်ပါဝင်ရန် သဘောတူပါသည်။ &lt;a href='launch.UserExperienceActivity://Kode'>နောက်ထပ်လေ့လာပါ&lt;/a>။ သတ်မှတ်ချက်များမှ တစ်ဆင့် နောက်မှ အမြဲတမ်း ပါဝင်နိုင်ကြောင်း မှတ်သားထားပါ။"</string>
+    <string name="setup_complete_hmd_1">သွားဖို့ နီးလာပါပြီ...။</string>
+    <string name="not_now">ယခု မဟုတ်ပါ…;</string>
+    <string name="setup_finish">သွားစို့</string>
+    <string name="wifi_fail_to_scan">ကွန်ယက်များကို စကင်မလုပ်နိုင်ပါ</string>
+    <string name="wifi_security_none">တစ်ခုမှမဟုတ်ပါ</string>
+    <string name="wifi_remembered">သိမ်းဆည်းပြီး</string>
+    <string name="wifi_disabled_generic">ပိတ်ခဲ့သည်</string>
+    <string name="wifi_disabled_network_failure">IP ပြုပြင်ခြင်း မအောင်မြင်ပါ</string>
+    <string name="wifi_disabled_password_failure">စစ်မှန်ကြောင်းအတည်ပြုရန်၌ ပြသနာရှိခြင်း</string>
+    <string name="wifi_not_in_range">စက်ကွင်းထဲတွင် မဟုတ်ပါ</string>
+    <string name="wifi_no_internet_no_reconnect">အင်တာနက်ချိတ်ဆက်မှု ရှာမတွေ့ပါ၊ အလိုအလျောက် ပြန်လည်ချိတ်ဆက်မည် မဟုတ်ပါ။</string>
+    <string name="wifi_no_internet">အင်တာနက် ချိတ်ဆက်မှု မရှိပါ။</string>
+    <string name="saved_network">%1$s မှသိမ်းဆည်းခဲ့သည်</string>
+    <string name="connected_via_passpoint">%1$s မှတစ်ဆင့် ချိတ်ဆက်ထားသည်</string>
+    <string name="available_via_passpoint">%1$s မှတစ်ဆင့်ရနိုင်သည်</string>
+    <string name="wifi_connected_no_internet">ချိတ်ဆက်ထားသည်၊ အင်တာနက်မရှိ</string>
+    <string name="connected_via_wfa">ကြိုးမဲ့ကူညီသူမှတဆင့် ချိတ်ဆက်၏</string>
+    <string name="wifi_ssid">ကွန်ရက် အမည်</string>
+    <string name="wifi_ssid_hint">SSID ထည့်သွင်းရန်</string>
+    <string name="wifi_security">လုံခြုံရေး</string>
+    <string name="wifi_eap_method">EAPနည်းလမ်း</string>
+    <string name="please_select_phase2">အဆင့်(၂) စစ်မှန်ကြောင်းအတည်ပြုခြင်း</string>
+    <string name="wifi_eap_ca_cert">CA လက်မှတ်</string>
+    <string name="wifi_do_not_validate_eap_server_warning">အသိမှတ်ပြုလက်မှတ် မသတ်မှတ်ထားပါ။ သင့်ချိတ်ဆက်မှု တသီးတသန့်ဖြစ်မည် မဟုတ်ပါ။</string>
+    <string name="wifi_eap_domain">ဒိုမိန်း</string>
+    <string name="wifi_no_domain_warning">ဒိုမိန်းတစ်ခု သတ်မှတ်ပေးရပါမည်။</string>
+    <string name="wifi_eap_user_cert">အသုံးပြုသူလက်မှတ်</string>
+    <string name="wifi_eap_identity">တစ်ဦးတစ်ယောက်</string>
+    <string name="wifi_eap_anonymous">အမည်မသိသူ</string>
+    <string name="wifi_password">စကားဝှက်</string>
+    <string name="wifi_show_password">စကားဝှက်ကို ပြသရန်</string>
+    <string name="wifi_advanced_toggle_description_collapsed">အထူးရွေးစရာများ ကျလာသောစာရင်း။ ချဲ့ရန် နှစ်ချက်တို့ပါ။</string>
+    <string name="wifi_show_advanced">အဆင့်မြင့် ရွေးစရာများ</string>
+    <string name="proxy_settings_title">ကြားခံ</string>
+    <string name="proxy_warning_limited_support">HTTP ပရောက်စီကို ဘရောင်ဇာက အသုံးပြုသော်လည်း တခြားအက်ပ်များက အသုံးပြု၍မရနိုင်ပါ။</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">ပရောက်စီကို လက်ခံဝန်ဆောင်ပေးသူ</string>
+    <string name="proxy_exclusionlist_label">အောက်ပါအတွက် ပရောက်စီကို ကျော်ပါ</string>
+    <string name="wifi_ip_settings">IP ဆက်တင်များ</string>
+    <string name="wifi_ip_address">အိုင်ပီလိပ်စာ</string>
+    <string name="wifi_gateway">ဝင်ပေါက် (gateway)</string>
+    <string name="wifi_network_prefix_length">ကွန်ရက် အစပြုဂဏန်း၏အရှည်</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">အခြားစက်ပစ္စည်းအသုံးပြုသူများဖြင့် မျှဝေ</string>
+    <string name="proxy_port_label">ပရောက်စီပို့နံပါတ်</string>
+    <string name="wifi_unspecified">ကျေးဇူးပြု၍ ရွေးချယ်ပါ</string>
+    <string name="wifi_multiple_cert_added">(အသိမှတ်ပြုလက်မှတ်များ ပေါင်းထည့်ပြီးပါပြီ)</string>
+    <string name="wifi_use_system_certs">စနစ်ပိုင်း အသိအမှတ်ပြုလက်မှတ်များကို သုံးပါ</string>
+    <string name="wifi_do_not_provide_eap_user_cert">မပေးထားပါ</string>
+    <string name="wifi_do_not_validate_eap_server">အတည်မပြုပါ</string>
+    <string name="wifi_add_network">ကွန်ယက်ထပ်ထည့်ရန်</string>
+    <string name="wifi_save">သိမ်းဆည်းပါ</string>
+    <string name="passpoint_label">မှတဆင့် သိမ်းဆည်းရန်</string>
+    <string name="wifi_connect">ချိတ်ဆက်ထားသည်</string>
+    <string name="wifi_status">အခြေအနေ</string>
+    <string name="wifi_signal">ထုတ်လွင့်မှုအား</string>
+    <string name="wifi_speed">လိုင်းအမြန်နှုန်း</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">လှိုင်းနှုန်း</string>
+    <string name="wifi_forget">မေ့ပစ်ရန်</string>
+    <string name="wifi_cancel">ပယ်ဖျက်ပါ</string>
+    <string name="proxy_error_invalid_port">သင်ရိုက်ထည့်သော ပို့ နံပါတ် မှာ မဆီလျော်ပါ</string>
+    <string name="wifi_ip_settings_invalid_ip_address">ခိုင်လုံသော အိုင်ပီလိပ်စာကို ရိုက်ထည့်ပါ</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">၀နှင့်၃၂အရှည်ရှိသော ကွန်ယက်အစပြုနံပတ်ကိုထည့်ပါ</string>
+    <string name="wifi_ip_settings_invalid_gateway">ခိုင်လုံသောဝင်ပေါက် (gateway)လိပ်စာကို ရိုက်ထည့်ပါ</string>
+    <string name="wifi_ip_settings_invalid_dns">ခိုင်လုံသော DNS လိပ်စာကို ရိုက်ထည့်ပါ</string>
+    <string name="wifi_unchanged">(ပြောင်းလဲခြင်းမရှိ)</string>
+    <string name="wifi_failed_connect_message">ကွန်ရက်ကို ချိတ်ဆက်ရန် မအောင်မြင်ခဲ့ပါ</string>
+    <string name="wifi_failed_save_message">ကွန်ရက်ကို မှတ်သားရန် မအောင်မြင်ခဲ့ပါ</string>
+    <string name="wifi_failed_forget_message">ကွန်ရက် မေ့ပစ်ရန် မအောင်မြင်ခဲ့ပါ</string>
+    <string name="proxy_error_empty_host_set_port">အကယ်၍ လက်ခံဝန်ဆောင်မှု(host)အကွက်မှာ ကွက်လပ်ဖြစ်နေလျှင် ပို့ နံပါတ် အကွက်မှာလည်းဘာမှမရှိရပါ</string>
+    <string name="proxy_error_empty_port">သင် port field ကို ပြီးအောင်လုပ်ရန်လိုသည်။</string>
+    <string name="proxy_error_invalid_exclusion_list">ထုတ်ဖယ်မည့်စာရင်းမှာ မှန်ကန်စွာဖွဲ့စည်းထား၍ ရိုက်ထည့်ထားခြင်းမဟုတ်ပါ။ ပုဒ်ရပ်သကေင်္တ(ကော်မာ)ဖြင့်ခြားထားသော ထုတ်ဖယ်မည့်ဒိုမိန်းစာရင်းကို ရိုက်ထည့်ပါ။</string>
+    <string name="wifi_advanced_toggle_description_expanded">အထူးရွေးစရာများ ကျလာသောစာရင်း။ ချုံ့ရန် နှစ်ချက်တို့ပါ။</string>
+    <string name="passpoint_content">%1$s အထောက်အထားများ</string>
+    <string name="sim_editor_title">ဆင်းမ် အထိုင် %1$d</string>
+    <string name="wifi_certificate">အသိအမှတ်ပြုလက်မှတ်</string>
+    <string name="wifi_skip_anyway">ကျော်ပါ</string>
+    <string name="wifi_dont_skip">ပြန်သွားရန်</string>
+    <string name="wifi_and_mobile_skipped_message">"အကယ်၍ ကြိုးမဲ့အင်တာနက်အား(မချိတ်ဆက်ဘဲ)ကျော်သွားလျှင်: 
+
+"<li> သင့်ဖုန်းမှာ အင်တာနက်ချိတ်ဆက်မှုရှိမည်မဟုတ်ပါ။ </li>"
+
+"<li> သင်အင်တာနက်သို့ မဆက်သွယ်မချင်း ဆော့ဖ်ဝဲအဆင့်မြှင့်မှုများ ရရှိလိမ့်မည်မဟုတ်ပါ။ </li>"
+
+"<li> ယခုအချိန်တွင် စက်ပစ္စည်းကာကွယ်ရေးအင်္ဂါရပ်များအား စတင်အလုပ်လုပ်ရန် သင်အသက်သွင်းနိုင်မည်မဟုတ်ပါ။ </li></string>
+</resources>

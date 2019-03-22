@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="action_list">
+        <item>android.intent.action.UPDATE_APN_DB</item>
+        <item>android.intent.action.UPDATE_PINS</item>
+        <item>android.intent.action.UPDATE_INTENT_FIREWALL</item>
+        <item>android.intent.action.UPDATE_SMS_SHORT_CODES</item>
+        <item>android.intent.action.UPDATE_CARRIER_PROVISIONING_URLS</item>
+        <item>android.intent.action.UPDATE_TZDATA</item>
+        <item>android.intent.action.UPDATE_SEPOLICY</item>
+    </string-array>
+    <string-array name="cust_action_list">
+        <item>Test Reset</item>
+    </string-array>
+    <string-array name="cust_action_list_debug">
+        <item>Test Reset</item>
+        <item>App Self Factory Reset</item>
+        <item>Toggle Reboot Cancelable</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Inschakelen</string>
+    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_install_button">Installeren</string>
+    <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
+    <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_notification_channel_name">Beschikbaarheid van Google Play-services</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.</string>
+    <string name="common_google_play_services_update_button">Updaten</string>
+    <string name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
+    <string name="fih_weather_button_close">Sluiten</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">Instelling…</string>
+    <string name="fih_weather_notification_channel_title">Algemene meldingen</string>
+    <string name="fih_weather_notification_text">Tikken om toe te staan</string>
+    <string name="fih_weather_notification_title">Weerbericht vereist machtigingen</string>
+    <string name="fih_weather_permission_failed">Locatiemachtiging verlenen geweigerd; kan geen locatie verkrijgen.</string>
+    <string name="fih_weather_permission_hint_1">Deze app vereist een extra machtiging om goed te werken. Verleen machtiging wanneer dat wordt gevraagd.</string>
+    <string name="fih_weather_permission_hint_2">Deze app vereist extra machtigingen om goed te werken. Beheer machtiging van Weerbericht in Instelling.</string>
+    <string name="fih_weather_permission_success">Verlenen van locatiemachtiging geslaagd</string>
+    <string name="fih_weather_service_title_txt">Weerbericht</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

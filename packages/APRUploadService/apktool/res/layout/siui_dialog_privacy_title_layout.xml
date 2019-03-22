@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/patient_top" android:background="@color/siui_dialog_panel" android:layout_width="fill_parent" android:layout_height="82.0dip">
+        <TextView android:textSize="21.0sp" android:textColor="@color/siui_text_color" android:id="@id/txtPatient" android:background="@color/siui_dialog_panel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/privacy_activity" />
+    </LinearLayout>
+</LinearLayout>

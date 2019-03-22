@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh Editor</string>
+    <string name="image_not_null">Il percorso delle immagini non può essere null</string>
+    <string name="no_bokeh_type">No tipo bokeh</string>
+    <string name="no_mpo_file">Nessun file MPO</string>
+    <string name="refocus_type_description">Questa foto è scattata in modalità verticale con una mappa di profondità da rimettere a fuoco.</string>
+    <string name="refocus_type_name">Modalità verticale</string>
+    <string name="save">Salva</string>
+    <string name="save_success">Salvataggio riuscito</string>
+    <string name="saving_photos">Salvataggio di foto...</string>
+</resources>

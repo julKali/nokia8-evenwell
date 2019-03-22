@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">ظاهر</string>
+    <string name="pref_dialog_title_time_out">مهلت زمانی</string>
+    <string name="pref_title_alarm_information">اطلاعات هشدار</string>
+    <string name="pref_title_calendar_reminder">یادآور تقویم</string>
+    <string name="pref_title_missed_calls">نشانگر تماس‌های بی‌پاسخ</string>
+    <string name="pref_title_time_out">زمانی که تلفن تکان نمی‌خورد، صفحه خاموش شود</string>
+    <string name="pref_title_unread_mails">نشانگر ایمیل‌های خوانده نشده</string>
+    <string name="pref_title_unread_messages">نشانگر پیام‌های خوانده نشده</string>
+    <string name="switch_off_text">خاموش</string>
+    <string name="switch_on_text">روشن</string>
+</resources>

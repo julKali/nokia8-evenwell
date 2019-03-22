@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Служба погоды</string>
+    <string name="fih_weather_permission_hint_1">Для нормальной работы приложения нужно дополнительное разрешение. Дайте разрешение, когда будет предложено это сделать.</string>
+    <string name="fih_weather_permission_hint_2">Для нормальной работы приложения нужны дополнительные разрешения. Задайте в «Настройках» разрешения для службы погоды.</string>
+    <string name="fih_weather_button_ok">хорошо</string>
+    <string name="fih_weather_button_close">Закрыть канал</string>
+    <string name="fih_weather_button_setting">Установка...</string>
+    <string name="fih_weather_permission_success">Успешно предоставлено разрешение определять местоположение</string>
+    <string name="fih_weather_permission_failed">Невозможно получить сведения о местоположении, так как нет разрешения на это.</string>
+    <string name="fih_weather_notification_title">Для службы погоды требуются разрешения</string>
+    <string name="fih_weather_notification_text">Нажмите, чтобы разрешить</string>
+    <string name="fih_weather_notification_channel_title">Общие уведомления</string>
+</resources>

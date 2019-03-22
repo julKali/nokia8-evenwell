@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Spinner android:id="@id/spinnerDebug" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+            <Button android:id="@id/btnDebug" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/strDebug" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

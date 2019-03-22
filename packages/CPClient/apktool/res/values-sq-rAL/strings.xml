@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Klienti CP</string>
+    <string name="fih_cp_apn_not_set">&lt;Nuk është caktuar></string>
+    <string name="fih_cp_apply_dialog_body_msg">Dëshironi të zbatoni konfigurimin e ri?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Parapërgatitje e re</string>
+    <string name="fih_cp_btn_back">Prapa</string>
+    <string name="fih_cp_btn_cancel">Anulo</string>
+    <string name="fih_cp_btn_next">Përpara</string>
+    <string name="fih_cp_btn_ok">Në rregull</string>
+    <string name="fih_cp_editor_apn_apn">APN-ja</string>
+    <string name="fih_cp_editor_apn_auth_type">Lloji i vërtetimit</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Asnjë</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP ose CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Porta</string>
+    <string name="fih_cp_editor_apn_http_proxy">Përfaqësuesi</string>
+    <string name="fih_cp_editor_apn_mcc">MCC-ja</string>
+    <string name="fih_cp_editor_apn_mms_port">Porta e MMS-ve</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Përfaqësuesi i MMS-ve</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC-ja</string>
+    <string name="fih_cp_editor_apn_mnc">MNC-ja</string>
+    <string name="fih_cp_editor_apn_name">Emri</string>
+    <string name="fih_cp_editor_apn_password">Fjalëkalimi</string>
+    <string name="fih_cp_editor_apn_server">Serveri</string>
+    <string name="fih_cp_editor_apn_type">Lloji i APN-së</string>
+    <string name="fih_cp_editor_apn_user">Emri i përdoruesit</string>
+    <string name="fih_cp_error_apn_empty">Fusha APN nuk mund të jetë bosh.</string>
+    <string name="fih_cp_error_name_empty">Fusha Emri nuk mund të jetë bosh.</string>
+    <string name="fih_cp_error_other">Gabim i sintaksës së të dhënave.</string>
+    <string name="fih_cp_error_title">Kujdes!</string>
+    <string name="fih_cp_input_pin_code">Futni kodin PIN:</string>
+    <string name="fih_cp_input_pin_code_cancel">Anulo</string>
+    <string name="fih_cp_input_pin_code_empty">Futni kodin PIN.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Kodi PIN është i pasaktë.</string>
+    <string name="fih_cp_input_pin_code_ok">Në rregull</string>
+    <string name="fih_cp_notification_channel_name">Njoftime të përgjithshme</string>
+    <string name="fih_cp_notify_statusbar_content">Mesazh i ri i parapërgatitjes</string>
+    <string name="fih_cp_sim_not_available">Karta SIM nuk është e disponueshme.</string>
+    <string name="fih_cp_toast_info_create">Krijimi i profilit me sukses</string>
+    <string name="fih_cp_toast_info_update">Përditësimi i profilit me sukses</string>
+    <string name="fih_cp_ui_mode_delete">Fshi</string>
+    <string name="fih_cp_ui_mode_ok">Në rregull</string>
+    <string name="fih_cp_ui_mode_postpone">Shtyni</string>
+</resources>

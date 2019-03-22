@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">取消</string>
+    <string name="DONE">结束</string>
+    <string name="NEXT">下一页</string>
+    <string name="OK">确认</string>
+    <string name="PREVIOUS">上一页</string>
+    <string name="abc_action_bar_home_description">转到主屏幕</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 键</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 键</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">空格键</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享方式</string>
+    <string name="abc_shareactionprovider_share_with_application">使用%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="alert_empty_desc">请输入您的描述！</string>
+    <string name="alert_warning_title">提示</string>
+    <string name="app_name">NPS</string>
+    <string name="enter_comments">输入评论 (1000 字)</string>
+    <string name="extremely_likely">(非常推荐)</string>
+    <string name="feedback">意见反馈</string>
+    <string name="helps_us_improve_our_products">您的意见协助我们改进产品!</string>
+    <string name="intro_title">您有多推荐这只手机给您的朋友或同事？</string>
+    <string name="msg_send_after">目前没有连线，系统将在下次连线时自动上传，感谢您的回复。</string>
+    <string name="msg_send_fail">无法上传，系统将在下次连线时自动上传，感谢您的回复。</string>
+    <string name="no_ask_feedback_again_text">下次不再提示</string>
+    <string name="no_showagain_text">下次不再提示</string>
+    <string name="not_at_all_likely">(不推荐)</string>
+    <string name="privacy_context_wifi">"尊敬的用户，您好： 
+
+欢迎使用意见反馈客户端软件，在使用本产品前，请您务必仔细阅读并透彻理解本服务条款，点击「同意」，即表示您已清楚了解本软件所使用到的权限并同意使用本软件。如不希望本软件使用以下权限，请点击「退出」。 为了向您提供全方位的服务，本软件需要使用到如下权限： 
+1、访问互联网、WLAN网络，以上传用户反馈信息。 
+2、读取手机上的IMEI、PSN、MNC\\MCC信息，以自动取得手机的基本数据。"</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="select_a_value">选择分数</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">同意</string>
+    <string name="str_leave">退出</string>
+    <string name="submit_fail">传送失败</string>
+    <string name="submit_success">感谢您的回复</string>
+    <string name="thank_your_feedback">感谢您的回复!</string>
+    <string name="we_appreciate_your_help">感谢您协助Nokia设计世界上最棒的产品。</string>
+    <string name="we_hope_enjoying_nokia_device">我们非常重视您的回复，衷心希望您喜欢Nokia的手机。</string>
+    <string name="we_will_contact_you_again">我们会在未来的日子里与您联系。</string>
+    <string name="we_will_contact_you_again_enjoy">我们会在未来的日子里与您联系，好好享受您的Nokia手机!</string>
+    <string name="why_you_gave_this_score">请告诉我们为何会给这分数:</string>
+</resources>

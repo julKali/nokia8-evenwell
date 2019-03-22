@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Orų informacijos paslauga</string>
+    <string name="fih_weather_permission_hint_1">Tinkamam šios programos veikimui būtinos atitinkamos teisės. Suteikite teises, kai bus rodomas raginimas.</string>
+    <string name="fih_weather_permission_hint_2">Tinkamam šios programos veikimui būtinos papildomos teisės. Nustatykite「Orų informacijos paslauga」teises srityje「Parametrai」</string>
+    <string name="fih_weather_button_ok">nustatyti SMS paslaugų centrą Gerai</string>
+    <string name="fih_weather_button_close">Uždaryti</string>
+    <string name="fih_weather_button_setting">Nustatoma...</string>
+    <string name="fih_weather_permission_success">Suteikti vietos nustatymo teises</string>
+    <string name="fih_weather_permission_failed">Atmestas vietos nustatymo teisių suteikimas, todėl negalima gauti vietos informacijos</string>
+    <string name="fih_weather_notification_title">Orų informacijos paslaugai būtinos teisės</string>
+    <string name="fih_weather_notification_text">Bakstelėkite, kad leistumėte</string>
+    <string name="fih_weather_notification_channel_title">Bendrieji pranešimai</string>
+</resources>

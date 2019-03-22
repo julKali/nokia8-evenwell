@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Utseende</string>
+    <string name="pref_dialog_title_time_out">Tidsgräns</string>
+    <string name="pref_title_alarm_information">Alarminformation</string>
+    <string name="pref_title_calendar_reminder">Kalenderpåminnelse</string>
+    <string name="pref_title_missed_calls">Indikator för missade samtal</string>
+    <string name="pref_title_time_out">Tidsgräns när telefonen inte flyttas</string>
+    <string name="pref_title_unread_mails">Indikator för oläst e-post</string>
+    <string name="pref_title_unread_messages">Indikator för olästa meddelanden</string>
+    <string name="switch_off_text">Av</string>
+    <string name="switch_on_text">På</string>
+</resources>

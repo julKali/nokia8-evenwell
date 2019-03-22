@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:gravity="center" android:id="@id/NFC_READ" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/nfc_b_write1" />
+    <Button android:gravity="center" android:id="@id/NFC_WRITE" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/nfc_b_write" />
+    <TextView android:id="@id/NFC_RESULT" android:layout_width="fill_parent" android:layout_height="200.0dip" android:text="@string/nfc_tv_result" style="@style/FQCText" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/userinfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitEnd" />
+    <Button android:layout_gravity="center" android:id="@id/NfcWResult" android:focusable="false" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/nfc_Result" />
+</LinearLayout>

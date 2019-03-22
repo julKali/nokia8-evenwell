@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Energiesparmodus</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="switch_on_text">An</string>
+    <string name="switch_off_text">Aus</string>
+    <string name="blacklist">Sperrliste</string>
+    <string name="lock_screen_ap_protect_title">Manager für Hintergrundaktivitäten</string>
+    <string name="all_aps">Alle Apps zur weißen Liste hinzufügen</string>
+    <string name="fih_power_saving_doze_high_consumption">Hoher Stromverbrauch</string>
+    <string name="fih_power_saving_background_activity_text">Aktivieren Sie den Manager für Hintergrundaktivitäten, um die Akkulaufzeit zu erhöhen. Benachrichtigungen einiger Apps oder E-Mails werden möglicherweise nicht sofort abgerufen. Sie können die Akkulaufzeit beeinflussen, indem Sie Apps zur weißen Liste hinzufügen oder von dieser Liste entfernen.</string>
+    <string name="fih_power_saving_background_cleaner">Bereiniger für Hintergrundaktivitäten</string>
+    <string name="fih_power_saving_background_cleaner_summary">Benachrichtigungen werden möglicherweise nicht sofort empfangen</string>
+    <string name="app_block_list">Liste der eingeschränkten Apps</string>
+    <string name="bam_notification_content_title">Im Hintergrund laufen Apps, die Akkuleistung verbrauchen.</string>
+    <string name="bam_notification_content_text">Aktivieren, um Akkulaufzeit zu verlängern!</string>
+    <string name="bam_notification_btn_turnon">AKTIVIEREN</string>
+    <string name="bam_notification_btn_nevershowthis">NIE ANZEIGEN</string>
+    <string name="fih_power_saving_background_activity_text_blacklist">Aktivieren Sie den Manager für Hintergrundaktivitäten, um die Akkulaufzeit zu erhöhen. Benachrichtigungen einiger Apps oder E-Mails werden möglicherweise nicht sofort abgerufen. Sie können die Akkulaufzeit beeinflussen, indem Sie Apps zur Sperrliste hinzufügen oder von dieser Liste entfernen.</string>
+    <string name="enable_blacklist">Sperrliste aktivieren</string>
+</resources>

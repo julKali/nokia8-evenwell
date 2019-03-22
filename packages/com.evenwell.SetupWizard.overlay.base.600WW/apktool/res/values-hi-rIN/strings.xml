@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_5">"यह बटन टैप करके, आप &lt;a href='launch.TermOfServiceActivity://Kode'>सेवा की शर्तों&lt;/a> से सहमत होते हैं. आपका डेटा HMD की &lt;a href='launch.AddUploadAgentHandler://Kode'>गोपनीयता नीति&lt;/a> के अनुसार संसाधित किया जाएगा. डिवाइस सक्रियण जानकारी एक-बारगी डिवाइस स्थान के साथ HMD Global को भेज दी जाएगी. मोबाइल डेटा शुल्क लागू हो सकते हैं."</string>
+    <string name="welcome_vision_settings_button_label">वीज़न सेटिंग</string>
+    <string name="next_btn_lebel">आगे</string>
+    <string name="welcome_hmd_term_of_use_2">"यह तीर टैप करके, आप &lt;a href='launch.TermOfServiceActivity://Kode'>सेवा की शर्तों&lt;/a> और &lt;a href='launch.AddUploadAgentHandler://Kode'>गोपनीयता नीति&lt;/a> के प्रति अपनी सहमति देते हैं. एक-बारगी डिवाइस स्थान के साथ डिवाइस सक्रियण जानकारी HMD Global को भेज दी जाएगी. डेटा शुल्क लागू हो सकते हैं."</string>
+    <string name="accessibility_text">सरल उपयोग</string>
+    <string name="language_selection_title">अपनी भाषा चुनें</string>
+    <string name="language_selection_cancel_btn">रद्द करना</string>
+    <string name="welcome_lets_go_button_label">आगे बढ़ते हैं</string>
+    <string name="term_agree_text">सहमत</string>
+    <string name="datausage_dialog_positive_btn">ठीक</string>
+    <string name="datausage_dialog_negitive_btn">रद्द करें</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia उपयोगकर्ता अनुभव प्रोग्राम से जुड़ें. &lt;a href='launch.UserExperienceActivity://Kode'>अधिक जानें.&lt;/a>
+
+"</string>
+    <string name="hmd_user_experience_program_title">उपयोगकर्ता अनुभव कार्यक्रम</string>
+    <string name="hmd_user_experience_program_message">उपयोगकर्ता कार्यक्रम में आपकी भागीदारी से HMD Global को यह बेहतर समझने में मदद मिलेगी कि आपको Nokia डिवाइस के बारे में क्या पसंद है और आपके अनुसार किन चीज़ों में सुधार आवश्यक है. समय-समय पर हम आपके डिवाइस के बारे में तकनीकी विशेषताओं वाला अनाम डेटा प्राप्त कर सकते हैं, जैसे कि उदाहरण के लिए संभवतः घटित हुए किसी सॉफ़्टवेयर क्रैश के बारे में डेटा वाली एक फ़ाइल. कृपया ध्यान दें कि ऐसा डेटा किसी मोबाइल इंटरनेट कनेक्शन पर संचारित नहीं होगा. हमें आपके Nokia डिवाइस के बारे में आपकी राय जानकर बेहद खुशी होगी!</string>
+    <string name="wifi_picker_connection_positive">ठीक</string>
+    <string name="wapi_psk_security_type">पासवर्ड प्रकार</string>
+    <string name="upload_agent_hmd_des_text_3">"आइए शुरू करें\" पर टैप करके, आप उपयोगकर्ता अनुभव कार्यक्रम में शामिल होने पर अपनी सहमति जताते हैं. &lt;a href='launch.UserExperienceActivity://Kode'>और जानें&lt;/a>. याद रखें, आप जब चाहें सेटिंग के ज़रिये बाद में शामिल हो सकते हैं."</string>
+    <string name="setup_complete_hmd_1">आप शुरू करने के लिए लगभग तैयार है...!</string>
+    <string name="not_now">अभी नहीं…;</string>
+    <string name="setup_finish">आइए शुरू करें</string>
+    <string name="wifi_disabled_generic">अक्षम</string>
+    <string name="wifi_connect">कनेक्ट करें</string>
+    <string name="wifi_cancel">रद्द करें</string>
+</resources>

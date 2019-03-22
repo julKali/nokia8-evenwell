@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.evenwell.weatherservice">
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application android:allowBackup="false" android:icon="@drawable/fih_widget_weather_ico" android:label="@string/fih_weather_service_title_txt">
+        <receiver android:exported="true" android:name="com.evenwell.weatherservice.service.WeatherIntentReceiver" android:permission="com.evenwell.weatherservice">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.fihtdc.action.AUTO_SEARCH_CURRENT_CITY"/>
+                <action android:name="com.fihtdc.action.UPDATE_FREQUENCY"/>
+                <action android:name="com.fihtdc.action.REFRESH_CURRENT_CITY"/>
+                <action android:name="com.fihtdc.action.REFRESH_ALL_CITY_WEATHER"/>
+                <action android:name="com.fihtdc.action.CITY_QUERY"/>
+                <action android:name="com.fihtdc.action.CITY_QUERY_RESULT"/>
+                <action android:name="com.fihtdc.action.UPDATE_STATUS"/>
+                <action android:name="com.fihtdc.action.REQUEST_PERMISSION"/>
+                <action android:name="com.fihtdc.action.PERMISSION_RESULT"/>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.evenwell.weatherservice.service.UpdateService">
+            <intent-filter android:priority="1000">
+                <action android:name="com.fihtdc.action.AUTO_SEARCH_CURRENT_CITY"/>
+                <action android:name="com.fihtdc.action.UPDATE_FREQUENCY"/>
+                <action android:name="com.fihtdc.action.REFRESH_CURRENT_CITY"/>
+                <action android:name="com.fihtdc.action.REFRESH_ALL_CITY_WEATHER"/>
+                <action android:name="com.fihtdc.action.REQUEST_PERMISSION"/>
+                <action android:name="com.fihtdc.action.CITY_QUERY"/>
+            </intent-filter>
+        </service>
+        <activity android:excludeFromRecents="true" android:name="com.evenwell.weatherservice.service.PermissionDialog" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="com.baidu.lbsapi.API_KEY" android:value="Tee2Cklqp9NRxHkCIV8GmqEDI2g2Emrg"/>
+        <service android:enabled="true" android:name="com.baidu.location.f" android:process=":remote"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="android.support.VERSION" android:value="26.1.0"/>
+        <meta-data android:name="android.arch.lifecycle.VERSION" android:value="27.0.0-SNAPSHOT"/>
+    </application>
+</manifest>

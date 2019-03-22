@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">বোকেহ এডিটর</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="data_process_fail">ডেটা প্রক্রিয়া ব্যর্থ হয়েছে</string>
+    <string name="delete">মুছে ফেলুন</string>
+    <string name="image_not_null">চিত্র পথ খালি থাকলে হবে না</string>
+    <string name="no_bokeh_type">কোনো বোকে ধরণ নয়</string>
+    <string name="no_mpo_file">কোনো MPO ফাইল নেই</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="save_success">সফলভাবে সংরক্ষিত</string>
+    <string name="share">শেয়ার করুন</string>
+    <string name="title_watermarks">জলছাপ</string>
+    <string name="watermark_empty">কোনো জলছাপ নেই</string>
+</resources>

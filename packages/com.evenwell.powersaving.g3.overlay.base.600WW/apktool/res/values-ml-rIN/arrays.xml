@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 സെക്കൻഡ്</item>
+        <item>30 സെക്കൻഡ്</item>
+        <item>ഒരു മിനിറ്റ്</item>
+        <item>2 മിനിറ്റ്</item>
+        <item>സിസ്റ്റം നിർവചിച്ചത് ഉപയോഗിക്കുക</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>യാന്ത്രിക തെളിച്ചം</item>
+        <item>Use system defined</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 മിനിറ്റ്</item>
+        <item>5 മിനിറ്റ്</item>
+        <item>10 മിനിറ്റ്</item>
+        <item>15 മിനിറ്റ്</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>പ്രകടനം</item>
+        <item>Stability</item>
+        <item>User Interface</item>
+        <item>Power Saving Effect</item>
+        <item>Other Problems</item>
+        <item>Suggestions</item>
+    </string-array>
+</resources>

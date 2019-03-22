@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_fakeincomingcall">Sissetulev kõne</string>
+    <string name="motion_help_Try">Proovi</string>
+    <string name="motion_help_Cancel">Tühista</string>
+    <string name="fih_fake_text_outgoingcall">Väljuv kõne</string>
+    <string name="gesture_ok">SMS-i teenuskeskuse seadmine OK</string>
+    <string name="gesture_cancel">Tühista</string>
+    <string name="gesture_system_category">Süsteem</string>
+    <string name="gesture_unlock">Luku avamine</string>
+    <string name="gesture_action_tag_call">Kõne</string>
+    <string name="gesture_record_video">Video salvestamise alustamine</string>
+    <string name="gesture_next_track">Järgmine lugu</string>
+    <string name="gesture_applications_category">Rakendused</string>
+    <string name="gesture_other_category">Muu</string>
+    <string name="gesture_launch_application">Käivita rakendus</string>
+    <string name="gesture_action_tag_open_app">Käivita rakendus</string>
+    <string name="gesture_select_app_activity_title">Rakenduse valimine</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بوکے ایڈیٹر</string>
+    <string name="image_not_null">امیج کا پاتھ غیر موجود نہیں ہوسکتا</string>
+    <string name="no_bokeh_type">کوئی بوکے ٹائپ نہیں</string>
+    <string name="no_mpo_file">کوئی MPO فائل نہیں ہے</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="save_success">کامیابی کے ساتھ محفوظ ہوگیا</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/upload_agent_title" style="@style/Title" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/outer_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/MainBackground">
+        <ImageView android:id="@id/account_intro_pic" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:layout_centerHorizontal="true" />
+        <ScrollView android:id="@id/text_scroll_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="40.0dip" android:layout_above="@id/btn_linear_layout" android:layout_below="@id/account_intro_pic">
+            <RelativeLayout android:id="@id/text_frame" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:id="@id/checkbox_linearlayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <CheckBox android:id="@id/upload_agent_des" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="2.0dip" android:checked="true" style="@style/CheckBox" />
+                    <TextView android:textSize="16.0dip" android:textColor="#ff212121" android:textColorLink="@color/hyper_link_color_2" android:id="@id/upload_agent_des_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="16.0dip" />
+                </LinearLayout>
+            </RelativeLayout>
+        </ScrollView>
+        <include layout="@layout/foot_bar" />
+    </RelativeLayout>
+</LinearLayout>

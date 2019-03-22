@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP Client</string>
+    <string name="fih_cp_apn_not_set">&lt;Не вказано></string>
+    <string name="fih_cp_apply_dialog_body_msg">Застосувати нову конфігурацію?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Нова ініціалізація</string>
+    <string name="fih_cp_btn_back">Назад</string>
+    <string name="fih_cp_btn_cancel">Скасувати</string>
+    <string name="fih_cp_btn_next">Далі</string>
+    <string name="fih_cp_btn_ok">ОК</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Тип автентифікації</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Немає</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP або CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Порт</string>
+    <string name="fih_cp_editor_apn_http_proxy">Проксі</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">Порт MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS-проксі</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">"Ім'я"</string>
+    <string name="fih_cp_editor_apn_password">Пароль</string>
+    <string name="fih_cp_editor_apn_server">Сервер</string>
+    <string name="fih_cp_editor_apn_type">Тип APN</string>
+    <string name="fih_cp_editor_apn_user">"Ім'я користувача"</string>
+    <string name="fih_cp_error_apn_empty">Поле \"APN\" не може бути порожнім.</string>
+    <string name="fih_cp_error_name_empty">"Поле \"Ім'я\" не може бути порожнім."</string>
+    <string name="fih_cp_error_other">Помилка синтаксису даних.</string>
+    <string name="fih_cp_error_title">Увага!</string>
+    <string name="fih_cp_input_pin_code">Введіть PIN-код:</string>
+    <string name="fih_cp_input_pin_code_cancel">Скасувати</string>
+    <string name="fih_cp_input_pin_code_empty">Введіть PIN-код.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Неправильний PIN-код.</string>
+    <string name="fih_cp_input_pin_code_ok">ОК</string>
+    <string name="fih_cp_notification_channel_name">Загальні сповіщення</string>
+    <string name="fih_cp_notify_statusbar_content">Повідомлення про нову ініціалізацію</string>
+    <string name="fih_cp_sim_not_available">SIM-карта недоступна.</string>
+    <string name="fih_cp_toast_info_create">Профіль успішно створено</string>
+    <string name="fih_cp_toast_info_update">Профіль успішно оновлено</string>
+    <string name="fih_cp_ui_mode_delete">Видалити</string>
+    <string name="fih_cp_ui_mode_ok">ОК</string>
+    <string name="fih_cp_ui_mode_postpone">Відкласти</string>
+</resources>

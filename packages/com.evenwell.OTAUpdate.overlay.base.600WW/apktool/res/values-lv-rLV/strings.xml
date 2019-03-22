@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Programmatūras atjauninājums</string>
+    <string name="remote_file_fail">Nevar piekļūt attālajam failam. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="no_description">(Nav apraksta)</string>
+    <string name="login_fail">Neizdevās pieteikties serverī. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="get_service_url_fail">Tīkla savienojums nav stabils (neizdevās iegūt pakalpojuma URL). Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="query_sw_fail">Programmatūras informācijas vaicājums neizdevās.</string>
+    <string name="download_sw_fail">Programmatūras lejupielāde neizdevās.</string>
+    <string name="query_sw_incorrect">Rezultāts ir nepareizs.</string>
+    <string name="no_update_available">Nav pieejami jaunāki atjauninājumi.</string>
+    <string name="update_not_ready">Jaunāks atjauninājums nav pieejams serverī. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="check_now_label">Pārbaudiet tagad</string>
+    <string name="verifying">Pārbauda...</string>
+    <string name="header_verifying_update_file">Pārbauda atjaunināto failu...</string>
+    <string name="unzipping">Izgūst no arhīva...</string>
+    <string name="header_starting_to_download_file">Sākta faila lejupielādēšana...</string>
+    <string name="new_version_desc_prompt">Jaunajā versijā ietilpst:</string>
+    <string name="data_fee_warning">Lietojot šo pakalpojumu, izmantojot mobilā tīkla savienojumu, var tikt piemērota maksa!</string>
+    <string name="header_downloading_update">Lejupielādē atjauninājumu</string>
+    <string name="header_install_system_software_update">Instalējiet sistēmas programmatūras atjauninājumus</string>
+    <string name="msg_install_system_software_update_1">"Vai vēlaties instalēt sekojošo sistēmas programmatūru?
+Sistēmas jaunināšana uz"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Jūs nevarēsiet izmantot ierīci vai veikt ārkārtas zvanus jaunināšanas laikā.
+
+Ja izņemsiet akumulatoru vai SD karti programmatūras atjaunināšanas laikā, var veidoties neparedzami rezultāti."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Jūs nevarēsiet izmantot ierīci jaunināšanas laikā.
+
+Izslēdzot ierīci vai noņemot lejupielādēto failu programmatūras atjaunināšanas laikā, var veidoties neparedzami rezultāti."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Jūs nevarēsiet izmantot ierīci vai veikt ārkārtas zvanus jaunināšanas laikā.
+
+Var veidoties neparedzami rezultāti, ja ierīci izslēgsiet vai noņemsiet lejupielādēto failu programmatūras atjaunināšanas laikā."</string>
+    <string name="button_install_later">Instalēt vēlāk</string>
+    <string name="msg_unable_to_connect">Lai lietotu šo lietotni, jums nepieciešams tīkla savienojums. Lūdzu, ieslēdziet mobilo tīklu vai Wi-Fi sadaļā Iestatījumi.</string>
+    <string name="msg_unable_to_connect_2">Lai lietotu šo lietotni, jums nepieciešams tīkla savienojums. Lūdzu, ieslēdziet mobilo tīklu sadaļā Iestatījumi.</string>
+    <string name="msg_unable_to_connect_wlan">Lai lietotu šo lietotni, jums nepieciešams tīkla savienojums. Lūdzu, ieslēdziet mobilo tīklu vai WLAN sadaļā Iestatījumi.</string>
+    <string name="msg_unable_to_connect_short">Nav tīkla savienojuma</string>
+    <string name="header_system_is_update">Sistēma ir atjaunināta.</string>
+    <string name="msg_system_is_update">Nav pieejami jaunāki atjauninājumi.</string>
+    <string name="msg_system_is_update_short">Nav jaunāku atjauninājumi</string>
+    <string name="msg_no_sd_card">Nepieciešama SD karte sistēmas atjaunināšanai. Lūdzu, ievietojiet pieejamo SD karti.</string>
+    <string name="msg_no_available_size_card">Atjauninājuma failam nepieciešams %s MB brīvas atmiņas. Lūdzu, izdzēsiet dažus failus no SD kartes.</string>
+    <string name="msg_no_available_size_card_2">Atjauninājuma failam nepieciešams %s MB brīvas atmiņas. Lūdzu, izdzēsiet dažus failus no datu krātuves.</string>
+    <string name="msg_no_available_size_card_short">Nepietiek vietas atmiņā.</string>
+    <string name="msg_do_not_remove_sd_card">Lūdzu, NEATVIENOJIET SD karti.</string>
+    <string name="msg_system_battery_too_low">"Sistēmas atjauninājums ir gatavs, bet jūsu ierīces akumulatora uzlādes līmenis ir pārāk zems, lai veiktu instalēšanu. Lūdzu, uzlādējiet akumulatoru un veiciet instalēšanu vēlāk.
+
+Akumulatora uzlādes līmenim jābūt lielākam par 35 %%.
+Pašreizējais akumulatora uzlādes līmenis: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Pārāk zems akumulatora uzlādes līmenis</string>
+    <string name="msg_remove_sd_card">Lejupielādēto failu nevar ierakstīt SD kartē. Lūdzu, pārbaudiet SD karti.</string>
+    <string name="msg_remove_sd_card_2">Lejupielādēto failu nevar ierakstīt datu krātuvē. Lūdzu, pārbaudiet krātuvi.</string>
+    <string name="msg_remove_sd_card_short">Neizdevās piekļūt SD kartei.</string>
+    <string name="msg_remove_sd_card_short_2">Neizdevās piekļūt datu krātuvei.</string>
+    <string name="msg_verify_fail">Neizdevās verificēt lejupielādēto failu.</string>
+    <string name="msg_verify_fail_short">Neizdevās verificēt</string>
+    <string name="msg_unzip_fail">Neizdevās izgūt lejupielādēto failu no arhīva.</string>
+    <string name="msg_unzip_fail_short">Neizdevās izgūt no arhīva</string>
+    <string name="data_size">Datu apjoms</string>
+    <string name="required_size">Nepieciešamā vieta</string>
+    <string name="network_not_match">Jūsu pašreizējie iestatījumi ir lejupielādējami, izmantojot tikai WLAN. Lūdzu, atlasiet WLAN tīklu vai mainiet savus iestatījumus.</string>
+    <string name="network_not_match_short">Tīkls nav atbilstošs.</string>
+    <string name="without_reboot_api">Nevar restartēt iztrūkstoša API dēļ. Lūdzu, restartējiet, lai manuāli atgūtu aktīvo atjauninājumu.</string>
+    <string name="update_complete">Sistēmas atjaunināšana pabeigta.</string>
+    <string name="update_complete_short">Atjaunināšana ir pabeigta</string>
+    <string name="file_removed">Lejupielādētais fails ir noņemts. Lūdzu, lejupielādējiet vēlreiz.</string>
+    <string name="file_removed_short">Lejupielādētais fails ir noņemts.</string>
+    <string name="file_not_match">Lejupielādētais fails neatbilst paredzētajam izmēram. Lūdzu, lejupielādējiet vēlreiz.</string>
+    <string name="file_not_match_short">Fails nav atbilstošs.</string>
+    <string name="menu_url">Mainīt servera URL</string>
+    <string name="menu_enabled">Tikai iespējota programmatūra</string>
+    <string name="using_internal_storage">Iekšējās krātuves lietošana</string>
+    <string name="using_external_storage">Lietojot ārējo krātuvi</string>
+    <string name="msg_agree_message">"
+
+Pastāv neliela iespēja, ka lietotāja dati var tikt izdzēsti jaunināšanas procesa rezultātā. Ja nepieciešams, lūdzu, dublējiet datus pirms sistēmas jauninājuma instalēšanas."</string>
+    <string name="msg_root_message">"
+
+Ierasto atjaunināšanu nevar garantēt pēc ierīces galvenās pilnvaras piešķiršanas."</string>
+    <string name="msg_responsibility_message">Ja ierīcei ir piešķirta privileģētā piekļuve, lietotājs ir atbildīgs par jebkādu anormālu sistēmas darbību pēc atjauninājuma.</string>
+    <string name="msg_upgrade_agree">Lasīt un piekrist</string>
+    <string name="update_summary">Meklēt atjauninājumus</string>
+    <string name="wlan_only">Tikai WLAN</string>
+    <string name="wifi_only_summary">Lejupielādēt atjauninājumus, kad Wi-Fi ir pieejams</string>
+    <string name="wlan_only_summary">Lejupielādēt atjauninājumus, kad ir pieejams WLAN</string>
+    <string name="auto_update">Automātiski atjaunināt</string>
+    <string name="auto_update_summary">Automātiski meklēt atjauninājumus</string>
+    <string name="new_data_fee_warning">Pārbaudot un lejupielādējot atjauninājumus, var rasties papildu maksa. Lejupielādējiet atjauninājumus, izmantojot Wi-Fi, ja iespējams.</string>
+    <string name="wlan_data_fee_warning">Pārbaudot un lejupielādējot atjauninājumus, var rasties papildu maksa. Lejupielādējot atjauninājumus, izmantojiet WLAN, ja iespējams.</string>
+    <string name="install_fail">Instalēšana neizdevās</string>
+    <string name="install_all">Instalēt visu</string>
+    <string name="installed_version">Instalētā versija</string>
+    <string name="update_available">Atjauninājums ir pieejams.</string>
+    <string name="apk_update_available">Ir pieejami lietotnes atjauninājumi.</string>
+    <string name="recommend">Ieteikt</string>
+    <string name="roaming_restriction">Datu viesabonēšanas ierobežojums</string>
+    <string name="roaming_restriction_summary">Nevar veikt atjauninājumu datu viesabonēšanas ierobežojuma dēļ.</string>
+    <string name="changelog">Izmaiņu žurnāls</string>
+    <string name="apk_update_available_summary">%s ir pieejams atjauninājums. Noklikšķiniet uz Labi, lai instalētu tagad, vai noklikšķiniet uz Atcelt, lai skatītu atjauninājumu pēc vienas dienas.</string>
+    <string name="apk_removed">Lietotne ir noņemta.</string>
+    <string name="apk_available_items">Kopā %s pieejami vienumi</string>
+    <string name="apk_available_item">Kopā %s pieejami vienumi</string>
+    <string name="invalid_update_summary">Atjauninājums ir nederīgs, lūdzu, pārbaudiet vēlreiz.</string>
+    <string name="recheck">Pārbaudiet vēlreiz</string>
+    <string name="image_download_exception_summary">Nevar piekļūt serverim, mēģiniet, lūdzu, vēlāk.</string>
+    <string name="apk_download_exception">Nevar piekļūt serverim</string>
+    <string name="installation_confirmation">Instalēšana ir apstiprināta</string>
+    <string name="apk_need_reboot_summary">Programmatūras atjauninājums automātiski restartēs sistēmu, kad instalācija būs pabeigta. Vai vēlaties instalēt tagad?</string>
+    <string name="prepare_to_reboot">Sagatavo restartēšanai</string>
+    <string name="prepare_to_reboot_summary">Instalētajai programmatūrai nepieciešams restartēt ierīci, lai konfigurētu iestatījumus. Iesakām restartēt tagad, vai arī dariet to vēlāk.</string>
+    <string name="prepare_to_reboot_force_summary">Instalētajai programmatūrai nepieciešams restartēt ierīci, lai konfigurētu iestatījumus. Iesakām veikt restartēšanu tagad.</string>
+    <string name="reboot_fail">Restartēšana neizdevās</string>
+    <string name="reboot_fail_summary">Nevar restartēt iztrūkstoša API dēļ. Lūdzu, restartējiet manuāli.</string>
+    <string name="apk_no_avaliable_size">Nevar lejupielādēt, jo ir nepietiekams iekšējās krātuves atmiņas apmērs.</string>
+    <string name="update_finished">Atjaunināšana ir pabeigta</string>
+    <string name="msg_root_warning">Jūsu ierīce ir ieguvusi galveno pilnvaru, vai oficiālā programmatūra ir pārveidota. Sistēmas atjaunināšanas turpināšana var izraisīt sistēmas nestabilitāti vai sistēmas avāriju, un jūsu ierīces garantija var tikt anulēta. Vai tiešām vēlaties turpināt?</string>
+    <string name="multi_image_update">Ir pieejami daži attēla atjauninājumi</string>
+    <string name="available_update_list">Pieejamo atjauninājumu saraksts</string>
+    <string name="downloading_summary">Lūdzu, atceliet attēla lejupielādi</string>
+    <string name="msg_erase_userdata_warning">Šim atjauninājumam nepieciešams izdzēst lietotāja datus. Vai vēlaties turpināt?</string>
+    <string name="msg_autoupdate_date_fee_warning">Iespējojot automātisko atjaunināšanu, var rasties papildu maksa.</string>
+    <string name="invalid_update">Atjauninājum ir nederīgs.</string>
+    <string name="file_corrupted">Sistēmu nevar jaunināt, jo fails ir bojāts.</string>
+    <string name="ask_for_apk_check">Vai vēlaties pārbaudīt lietotnes atjauninājumus?</string>
+    <string name="update_ota_self">Notiek programmatūras atjaunināšana.</string>
+    <string name="ab_update_fail">Instalēšanas problēma.</string>
+    <string name="ab_update_wrong_status">Atjauninājumu programma šobrīd ir aizņemta. Lūdzu, vēlāk mēģiniet vēlreiz vai restartējiet.</string>
+    <string name="ab_update_installing">Atjaunina sistēmu</string>
+    <string name="tag_engineer_mode">Izstrādātāja režīms</string>
+    <string name="engineer_version_incorrect">Jūsu ierīces versija ir nepareiza</string>
+    <string name="msg_engineer_ota_restore">Pieskarieties, lai atjaunotu oficiālo versija.</string>
+    <string name="msg_engineer_ota_restore_warning">Tiks atjaunota oficiālā versija. Vai vēlaties turpināt?</string>
+    <string name="silent_mode_data_fee_warning">Atjauninājums ir pieejams. Lejupielādējot atjauninājumus, var rasties papildu maksa. Lejupielādējiet atjauninājumus, izmantojot Wi-Fi, ja iespējams.</string>
+    <string name="msg_updating_system">Atjaunina sistēmu...</string>
+    <string name="msg_tap_to_reboot">Pieskarieties, lai restartētu</string>
+    <string name="msg_pause_download">Apturēt lejupielādi</string>
+    <string name="notification_channel_name">Sistēmas atjauninājums</string>
+    <string name="notification_channel_alert_name">Vispārīgie paziņojumi</string>
+</resources>

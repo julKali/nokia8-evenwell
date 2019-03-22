@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statická</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Detekovat automaticky</item>
+        <item>Považovat za měřené</item>
+        <item>Považovat za neměřené</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Žádný</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Žádný</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Žádný</item>
+        <item>Ručně</item>
+        <item>Autom. konfigurace proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Nízká</item>
+        <item>Dostačující</item>
+        <item>Dobrá</item>
+        <item>Vynikající</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Vyhledávání…</item>
+        <item>Připojování…</item>
+        <item>Ověřování…</item>
+        <item>Načítání IP adresy…</item>
+        <item>Připojeno</item>
+        <item>Pozastaveno</item>
+        <item>Odpojování…</item>
+        <item>Odpojeno</item>
+        <item>Neúspěšné</item>
+        <item>Blokováno</item>
+        <item>Dočasné předcházení slabému připojení</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Vyhledávání…</item>
+        <item>Připojování k: %1$s…</item>
+        <item>Ověřování v síti %1$s…</item>
+        <item>Získávání IP adresy ze sítě %1$s…</item>
+        <item>Připojeno k zařízení %1$s</item>
+        <item>Pozastaveno</item>
+        <item>Odpojování od sítě %1$s…</item>
+        <item>Odpojeno</item>
+        <item>Neúspěšné</item>
+        <item>Blokováno</item>
+        <item>Dočasné předcházení slabému připojení</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimální</item>
+    </string-array>
+</resources>

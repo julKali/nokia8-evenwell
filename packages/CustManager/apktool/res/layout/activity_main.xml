@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/cust_action_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cust_action" />
+        <Spinner android:id="@id/cust_action" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/trigger_cust_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/trigger_cust" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        <Button android:id="@id/trigger_mcfg_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="MCFG Debug" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/eng_mode" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:layout_width="fill_parent" android:layout_height="15.0dip" />
+        <Button android:id="@id/app_reset" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_reset" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        <LinearLayout android:orientation="horizontal" android:background="#ffeeeeee" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <CheckBox android:layout_gravity="center" android:id="@id/cb_sim" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sim_label" />
+                    <EditText android:id="@id/mccmnc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/mccmnc_hint" android:layout_weight="1.0" android:inputType="number" />
+                    <EditText android:id="@id/spn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/spn_hint" android:layout_weight="1.0" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <EditText android:id="@id/pnn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/pnn_hint" android:layout_weight="1.0" />
+                    <EditText android:id="@id/imsi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/imsi_hint" android:layout_weight="1.0" android:inputType="number" />
+                    <EditText android:id="@id/gid1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/gid1_hint" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <View android:background="#ffaaaaaa" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:orientation="horizontal" android:background="#ffeeeeee" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <CheckBox android:layout_gravity="center" android:id="@id/cb_sim2" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sim2_label" />
+                    <EditText android:id="@id/mccmnc2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/mccmnc2_hint" android:layout_weight="1.0" android:inputType="number" />
+                    <EditText android:id="@id/spn2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/spn_hint" android:layout_weight="1.0" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <EditText android:id="@id/pnn2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/pnn_hint" android:layout_weight="1.0" />
+                    <EditText android:id="@id/imsi2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/imsi_hint" android:layout_weight="1.0" android:inputType="number" />
+                    <EditText android:id="@id/gid12" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/gid1_hint" android:layout_weight="1.0" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:id="@id/systemlog" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxLines="25" />
+</LinearLayout>

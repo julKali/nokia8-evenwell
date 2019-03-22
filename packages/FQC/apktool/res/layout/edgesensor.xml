@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="30.0sp" android:id="@id/test_text0" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:textSize="17.0sp" android:gravity="center|left" android:id="@id/test_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <RelativeLayout android:id="@id/group1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/cht3" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableLeft="@drawable/zzz_fih_button_red_forground" />
+        <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/cht0" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableRight="@drawable/zzz_fih_button_red_forground" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/group2" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/cht4" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableLeft="@drawable/zzz_fih_button_red_forground" />
+        <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/cht1" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableRight="@drawable/zzz_fih_button_red_forground" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/group3" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/cht5" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableLeft="@drawable/zzz_fih_button_red_forground" />
+        <TextView android:textSize="15.0sp" android:gravity="center" android:id="@id/cht2" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableRight="@drawable/zzz_fih_button_red_forground" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</LinearLayout>

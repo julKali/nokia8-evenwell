@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD ಗೌಪ್ಯತೆ ನೀತಿ</string>
+    <string name="privacy_activity">HMD ಗೌಪ್ಯತೆ ನೀತಿ</string>
+    <string name="go_label">ಮುಗಿದಿದೆ</string>
+    <string name="agree">ಸಮ್ಮತಿಸುತ್ತೇನೆ</string>
+    <string name="see_detail">ವಿವರ</string>
+    <string name="next_btn_lebel">ಹಿಂತಿರುಗು</string>
+    <string name="app_name">ಸಿಸ್ಟಂ ಡಯಾಗ್ನಾಸ್ಟಿಕ್ಸ್</string>
+    <string name="setting_page_name">ಬಳಕೆದಾರ ಅನುಭವ ಪ್ರೋಗ್ರಾಂ</string>
+    <string name="send_diag_dialog_any_network">ಡೇಟಾ ಸಂಪರ್ಕ ಲಭ್ಯವಿರುವಾಗ</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi ಸಂಪರ್ಕ ಲಭ್ಯವಿರುವಾಗ</string>
+    <string name="send_diag_dialog_wlan">WLAN ಸಂಪರ್ಕ ಲಭ್ಯವಿರುವಾಗ</string>
+    <string name="send_diag_dialog_title">ಡಯಾಗ್ನಾಸ್ಟಿಕ್ಸ್ ಕಳುಹಿಸಿ</string>
+    <string name="diagnostics_setting">ಡಯಾಗ್ನಾಸ್ಟಿಕ್ಸ್</string>
+    <string name="diagnostics_report">ಡಯಾಗ್ನಾಸ್ಟಿಕ್ಸ್ ವರದಿ</string>
+    <string name="diagnostics_report_summary">ಸಾಧನದಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ದೋಷ ಎದುರಾದಾಗ ಡಯಾಗ್ನಾಸ್ಟಿಕ್ಸ್ ವರದಿ ಕಳುಹಿಸಿ. ಇದು ನೆಟ್‌ವರ್ಕ್ ಬಳಕೆಯ ವೆಚ್ಚಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು. ವಾಹಕದ ಡೇಟಾ ನೆಟ್‌ವರ್ಕ್ ಬಳಸುವಂತೆ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.</string>
+    <string name="network_options">ನೆಟ್‌ವರ್ಕ್ ಆಯ್ಕೆಗಳು</string>
+    <string name="send_diagnostics">ಡಯಾಗ್ನಾಸ್ಟಿಕ್ಸ್ ಕಳುಹಿಸಿ</string>
+    <string name="diagnostics_description">ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಅಥವಾ ಕ್ರ್ಯಾಶ್ ಸಮಸ್ಯೆಗಳು ಎದುರಾದಾಗ ಡಯಾಗ್ನಾಸ್ಟಿಕ್ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲು ನಮಗೆ ಅವಕಾಶ ನೀಡುವ ಮೂಲಕ ನಮ್ಮ ಉತ್ಪನ್ನಗಳು ಹಾಗೂ ಸೇವೆಗಳನ್ನು ಸುಧಾರಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡಿ. ನೀವು ನಂತರದಲ್ಲಿ ಯಾವಾಗ ಬೇಕಾದರೂ ಆಯ್ಕೆಯನ್ನು ಬದಲಿಸಬಹುದು.</string>
+    <string name="cancel_upload_confirm_msg">ನೀವು ನಮ್ಮ ಬಳಕೆದಾರನ ಅನುಭವ ಕಾರ್ಯಕ್ರಮವನ್ನು ತೊರೆಯುವವರಿದ್ದೀರಿ. ನಿಮ್ಮ ಮೊಬೈಲ್ ಫೋನ್‌ನಲ್ಲಿ ಸಂಭವಿಸುವ ಸಾಫ್ಟ್‌ವೇರ್ ದೋಷಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗುವುದಿಲ್ಲ ಮತ್ತು ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ, ಆದ ಕಾರಣ ನಿಮ್ಮ ಮೊಬೈಲ್ ಫೋನ್ ಬಳಕೆಯ ಅನುಭವವನ್ನು ಇದು ಸುಧಾರಿಸದಿರಬಹುದು.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/PreferenceItemPaddingStart" android:right="@dimen/PreferenceItemPaddingEnd">
+        <shape>
+            <solid android:color="#ffdcdcdc" />
+            <size android:height="1.0px" android:width="1.0px" />
+        </shape>
+    </item>
+</layer-list>

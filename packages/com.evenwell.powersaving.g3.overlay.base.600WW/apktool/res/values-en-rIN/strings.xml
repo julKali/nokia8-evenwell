@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Power saver</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="switch_on_text">On</string>
+    <string name="switch_off_text">Off</string>
+    <string name="lock_screen_ap_protect_title">Background activity manager</string>
+    <string name="fih_power_saving_doze_high_consumption">High power consumption</string>
+    <string name="fih_power_saving_background_activity_text">Enable the Background activity manager to extend the battery life. While this is enabled, some app/email notifications may not be retrieved instantly. You can manage the battery life by adding Apps to or removing them from the whitelist.</string>
+    <string name="app_block_list">Restricted APP list</string>
+    <string name="fih_power_saving_background_activity_text_blacklist">Adding applications to the restricted app list can extend battery life, but it may not be possible to retrieve notifications for some apps or emails instantly. You can manage the battery life by adding apps to or removing them from the restricted app list.</string>
+</resources>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Erişebilirlik</string>
+    <string name="app_name">Kurulum Sihirbazı</string>
+    <string name="available_via_passpoint">%1$s üzerinden ulaşılabilir</string>
+    <string name="back_btn_lebel">GERİ</string>
+    <string name="backup_and_restore_description">"Hesabınızı daha önce yedeklediyseniz, şimdi bu telefona geri yükleyebilirsiniz.
+
+Yedekleme ayarlarınızı Ayarlardan istediğiniz zaman değiştirebilirsiniz."</string>
+    <string name="backup_and_restore_title">Yedekle ve geri yükle</string>
+    <string name="connected_via_passpoint">%1$s üzerinden bağlandı</string>
+    <string name="connected_via_wfa">Wi‑Fi yardımcısı üzerinden bağlandı</string>
+    <string name="datausage_dialog_negitive_btn">İptal</string>
+    <string name="datausage_dialog_positive_btn">Tamam</string>
+    <string name="date_and_time">Tarih ve saat ayarları</string>
+    <string name="date_and_time_settings_title">Tarih ve Saat</string>
+    <string name="device_checking_message">Hoş Geldiniz</string>
+    <string name="emergency_dial_hmd_message">Acil</string>
+    <string name="finish_button_label">BİTİR</string>
+    <string name="hmd_user_experience_program_message">"Bu kullanıcı deneyimi programına katılımınız, HMD Global'in, Nokia cihazınızda hoşunuza giden ve iyileştirilmesi gerektiğini düşündüğünüz yönleri daha iyi anlamasına yardımcı olacaktır. Zaman içerisinde, oluşabilecek bir yazılım çökmesi ile ilgili verileri içeren bir dosya gibi, cihazınızla ilgili teknik özellikleri içeren isimsiz veriler toplayabiliriz. Bu verilerin hücresel bağlantı üzerinden aktarılmayacağını unutmayın. Nokia cihazınızla ilgili düşüncelerinizi bizimle paylaşmanızı dileriz!"</string>
+    <string name="hmd_user_experience_program_title">Kullanıcı deneyimi programı</string>
+    <string name="idle_too_long_toast">Bu telefon bazı zamanlarda etkin değil. Gücü korumak için şimdi kapatın.</string>
+    <string name="insert_sim_cards">SIM kartları takın</string>
+    <string name="insert_sim_cards_prompt_content">"Nasıl yapıldığından emin değil misiniz? Telefonunuzun talimatlarına göz atın.
+
+SIM kartları taktıktan sonra etkin duruma gelmeleri birkaç saniye sürebilir."</string>
+    <string name="language_selection_cancel_btn">İPTAL</string>
+    <string name="language_selection_title">Dilinizi seçin</string>
+    <string name="light_room_description">"%1$s RAW (DNG) resimler çekmeyi destekler. Adobe ile ortaklığımız sayesinde, doğrudan yeni akıllı telefonunuzda düzenleyebilirsiniz.&lt;br/>&lt;br/>Adobe Photoshop Lightroom CC'yi şimdi Google Play mağazasından indirin."</string>
+    <string name="light_room_title">Fotoğraf tutkunu musunuz?</string>
+    <string name="link_speed">%1$d Mb/sn</string>
+    <string name="nevigation_selection_back">Geri</string>
+    <string name="next_btn_lebel">SONRAKİ</string>
+    <string name="not_now">ŞİMDİ DEĞİL...</string>
+    <string name="passpoint_content">%1$s kimlik bilgileri</string>
+    <string name="passpoint_label">Şununla kaydedildi:</string>
+    <string name="please_select_phase2">2 aşamalı kimlik doğrulaması</string>
+    <string name="proxy_error_empty_host_set_port">Ana makine alanı boşsa, bağlantı noktası alanı boş olmalıdır.</string>
+    <string name="proxy_error_empty_port">Bağlantı noktası alanını doldurmanız gerekir.</string>
+    <string name="proxy_error_invalid_exclusion_list">Yazdığınız hariç tutma listesi doğru biçimlendirilmemiş. Virgülle ayrılmış bir hariç tutulan etki alanları listesi yazın.</string>
+    <string name="proxy_error_invalid_port">Yazdığınız bağlantı noktası geçerli değil.</string>
+    <string name="proxy_exclusionlist_label">Şunlar için ara sunucuyu atla:</string>
+    <string name="proxy_hostname_label">Ara sunucu ana bilgisayar adı</string>
+    <string name="proxy_port_label">Ara sunucu bağlantı noktası</string>
+    <string name="proxy_settings_title">Vekil Sunucu</string>
+    <string name="proxy_url_title">"PAC URL'si: "</string>
+    <string name="proxy_warning_limited_support">HTTP ara sunucusu, tarayıcı tarafından kullanılır, ancak diğer uygulamalar tarafından kullanılamayabilir.</string>
+    <string name="saved_network">Kaydeden: %1$s</string>
+    <string name="select_sim_card">SIM kart seç</string>
+    <string name="setup_complete_hmd">Başlamaya hazırsınız...</string>
+    <string name="setup_complete_hmd_1">Neredeyse, başlamaya hazırsınız...!</string>
+    <string name="setup_complete_main">Siz</string>
+    <string name="setup_complete_sub">BAŞLAMAYA HAZIR.</string>
+    <string name="setup_completed_congratulations">Tebrikler!</string>
+    <string name="setup_finish">HAYDİ BAŞLAYALIM</string>
+    <string name="sim_editor_title">SIM yuvası %1$d</string>
+    <string name="term_agree_text">Kabul Ediyorum</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia Kullanıcı Deneyimi programına katılın. &lt;a href='launch.UserExperienceActivity://Kode'>Daha fazla bilgi edinin.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"HAYDİ BAŞLAYALIM\" öğesine dokunmakla, Kullanıcı Deneyimi Programına katılmayı kabul edersiniz. &lt;a href='launch.UserExperienceActivity://Kode'>Daha fazla bilgi&lt;/a>. Kullanıcı Deneyimi Programına istediğiniz zaman Ayarlar menüsünden katılabileceğinizi unutmayın."</string>
+    <string name="upload_agent_title">Kullanıcı Deneyimi Programı</string>
+    <string name="welcome_hmd_term_of_use_2">"Ok simgesine dokunmakla, &lt;a href='launch.TermOfServiceActivity://Kode'>Hizmet Şartlarını&lt;/a> ve &lt;a href='launch.AddUploadAgentHandler://Kode'>Gizlilik İlkesini&lt;/a> kabul etmiş olursunuz. Tek seferlik cihaz konumunu içeren cihaz etkinleştirme bilgileri HMD Global'e gönderilecektir. Veri ücretleri uygulanabilir."</string>
+    <string name="welcome_hmd_term_of_use_4">"Düğmeye dokunmakla, &lt;a href='launch.TermOfServiceActivity://Kode'>Servis Koşulları&lt;/a> ve &lt;a href='launch.AddUploadAgentHandler://Kode'>Gizlilik Politikasını&lt;/a> kabul edersiniz. Tek seferlik cihaz konumunu içeren cihaz etkinleştirme bilgileri, HMD Global'a gönderilecektir.&lt;br/>&lt;br/>Sizin için en son güncellemeleri yükleyen Otomatik Yazılım Güncellemesi bildirimi etkinleştirilecektir. Bu, küçük miktarda veri kullanımına neden olabilir. Hizmetler ihtiyaç duydukları her an internete erişecektir.&lt;br/>&lt;br/>Bu hizmetler, hücresel ağlara eriştiklerinde yüksek ücretlere neden olabilir."</string>
+    <string name="welcome_hmd_term_of_use_5">"Düğmeye dokunmakla, &lt;a href='launch.TermOfServiceActivity://Kode'>Hizmet Şartları&lt;/a>'nı kabul edersiniz. Tek seferlik cihaz konumunu içeren cihaz etkinleştirme bilgileri HMD Global'e gönderilecektir. Veri ücretleri uygulanabilir. Veriler, &lt;a href='launch.AddUploadAgentHandler://Kode'>Gizlilik Politikası&lt;/a>'na uygun olarak kullanılacaktır."</string>
+    <string name="welcome_lets_go_button_label">Başlayalım</string>
+    <string name="welcome_message">Hoş Geldiniz</string>
+    <string name="welcome_start_button_label">BAŞLA</string>
+    <string name="welcome_vision_settings_button_label">Görünüm Ayarları</string>
+    <string name="wifi_add_network">Ağ ekle</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Gelişmiş Seçenekler açılan listesi. Genişletmek için iki kez dokunun.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Gelişmiş Seçenekler açılan listesi. Daraltmak için iki kez dokunun.</string>
+    <string name="wifi_and_mobile_skipped_message">"Ağa bağlanmak telefonunuzun kurulumunu hızlı bir şekilde gerçekleştirmenize yardımcı olur.
+
+Bağlantı olmadan şunları yapamazsınız:
+
+"<li>Bulut hesabınızda oturum açma</li>"
+
+"<li>Yazılım güncellemelerini alma</li>"
+
+"<li>Saat ve tarihi otomatik olarak ayarlama</li></string>
+    <string name="wifi_auth_password_wrong">Parola yanlış olabilir</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">İptal</string>
+    <string name="wifi_certificate">Sertifika</string>
+    <string name="wifi_connect">Bağlan</string>
+    <string name="wifi_connected_no_internet">Bağlı, internet yok</string>
+    <string name="wifi_disabled_generic">Devre dışı</string>
+    <string name="wifi_disabled_network_failure">IP Yapılandırma Hatası</string>
+    <string name="wifi_disabled_password_failure">Kimlik doğrulama sorunu</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Sağlama</string>
+    <string name="wifi_do_not_validate_eap_server">Doğrulama</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Sertifika belirtilmedi. Bağlantınız gizli olmayacak.</string>
+    <string name="wifi_dont_skip">GERİ DÖN</string>
+    <string name="wifi_eap_anonymous">Anonim kimlik</string>
+    <string name="wifi_eap_ca_cert">CA sertifikası</string>
+    <string name="wifi_eap_domain">Alan adı</string>
+    <string name="wifi_eap_identity">Kimlik</string>
+    <string name="wifi_eap_method">EAP yöntemi</string>
+    <string name="wifi_eap_user_cert">Kullanıcı sertifikası</string>
+    <string name="wifi_fail_to_scan">Ağları tarayamıyor</string>
+    <string name="wifi_failed_connect_message">Ağa bağlanılamadı</string>
+    <string name="wifi_failed_forget_message">Ağ unutulamadı</string>
+    <string name="wifi_failed_save_message">Ağ kaydedilemedi</string>
+    <string name="wifi_forget">Unut</string>
+    <string name="wifi_frequency">Frekans</string>
+    <string name="wifi_gateway">Ağ geçidi</string>
+    <string name="wifi_ip_address">IP adresi</string>
+    <string name="wifi_ip_settings">IP ayarları</string>
+    <string name="wifi_ip_settings_invalid_dns">Geçerli bir DNS adresi yazın.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Geçerli bir ağ geçidi adresi yazın.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Geçerli bir IP adresi yazın.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">0 ile 32 arasında bir ağ önek uzunluğu yazın.</string>
+    <string name="wifi_multiple_cert_added">(Birden fazla sertifika eklendi)</string>
+    <string name="wifi_network_prefix_length">Ağ önek uzunluğu</string>
+    <string name="wifi_no_domain_warning">Alan adı belirtilmelidir.</string>
+    <string name="wifi_no_internet">İnternet erişimi yok</string>
+    <string name="wifi_no_internet_no_reconnect">Otomatik olarak bağlanmayacak</string>
+    <string name="wifi_not_in_range">Aralık içinde değil</string>
+    <string name="wifi_password">Şifre</string>
+    <string name="wifi_picker_connection_positive">Tamam</string>
+    <string name="wifi_remembered">Kaydedildi</string>
+    <string name="wifi_save">Kaydet</string>
+    <string name="wifi_security">Emniyet</string>
+    <string name="wifi_security_none">Yok</string>
+    <string name="wifi_setting_title">Bağlı</string>
+    <string name="wifi_shared">Diğer cihaz kullanıcılarıyla paylaş</string>
+    <string name="wifi_show_advanced">Gelişmiş seçenekler</string>
+    <string name="wifi_show_password">Şifreyi göster</string>
+    <string name="wifi_signal">Sinyal gücü</string>
+    <string name="wifi_skip_anyway">YİNE DE ATLA</string>
+    <string name="wifi_speed">Bağlantı hızı</string>
+    <string name="wifi_ssid">Ağ adı</string>
+    <string name="wifi_ssid_hint">"SSID'yi girin"</string>
+    <string name="wifi_status">Durum</string>
+    <string name="wifi_unchanged">(değişmedi)</string>
+    <string name="wifi_unspecified">Lütfen seçin</string>
+    <string name="wifi_use_system_certs">Sistem sertifikalarını kullan</string>
+</resources>

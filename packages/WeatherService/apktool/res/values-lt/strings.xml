@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Įgalinti</string>
+    <string name="common_google_play_services_enable_text">„%1$s“ neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="common_google_play_services_enable_title">Įgalinkite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_install_button">Įdiegti</string>
+    <string name="common_google_play_services_install_text">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių nėra įrenginyje.</string>
+    <string name="common_google_play_services_install_title">Gaukite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_notification_channel_name">„Google Play“ paslaugų pasiekiamumas</string>
+    <string name="common_google_play_services_notification_ticker">„Google Play“ paslaugų klaida</string>
+    <string name="common_google_play_services_unknown_issue">Naudojant programą „%1$s“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą.</string>
+    <string name="common_google_play_services_unsupported_text">Programa „%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurių jūsų įrenginys nepalaiko.</string>
+    <string name="common_google_play_services_update_button">Atnaujinti</string>
+    <string name="common_google_play_services_update_text">„%1$s“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="common_google_play_services_update_title">Atnaujinkite „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_updating_text">„%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos.</string>
+    <string name="common_google_play_services_wear_update_text">Reikia naujos versijos „Google Play“ paslaugų. Jos netrukus bus atnaujintos.</string>
+    <string name="common_open_on_phone">Atidaryti telefone</string>
+    <string name="common_signin_button_text">Prisijungti</string>
+    <string name="common_signin_button_text_long">Prisijungti naudojant „Google“</string>
+    <string name="fih_weather_button_close">Uždaryti</string>
+    <string name="fih_weather_button_ok">nustatyti SMS paslaugų centrą Gerai</string>
+    <string name="fih_weather_button_setting">Nustatoma...</string>
+    <string name="fih_weather_notification_channel_title">Bendrieji pranešimai</string>
+    <string name="fih_weather_notification_text">Bakstelėkite, kad leistumėte</string>
+    <string name="fih_weather_notification_title">Orų informacijos paslaugai būtinos teisės</string>
+    <string name="fih_weather_permission_failed">Atmestas vietos nustatymo teisių suteikimas, todėl negalima gauti vietos informacijos</string>
+    <string name="fih_weather_permission_hint_1">Tinkamam šios programos veikimui būtinos atitinkamos teisės. Suteikite teises, kai bus rodomas raginimas.</string>
+    <string name="fih_weather_permission_hint_2">Tinkamam šios programos veikimui būtinos papildomos teisės. Nustatykite「Orų informacijos paslauga」teises srityje「Parametrai」</string>
+    <string name="fih_weather_permission_success">Suteikti vietos nustatymo teises</string>
+    <string name="fih_weather_service_title_txt">Orų informacijos paslauga</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

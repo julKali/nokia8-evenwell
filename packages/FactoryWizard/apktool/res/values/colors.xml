@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error_message_foreground">#ffd7004a</color>
+    <color name="agreement_background">#80000000</color>
+    <color name="link_color">#ffffffff</color>
+    <color name="highlight_color">#ffff6500</color>
+    <color name="divider_color">#ff5f5f60</color>
+    <color name="title_color">#ff33b5e5</color>
+    <color name="setupwizard_background">#fffafafa</color>
+    <color name="text_color">#ff212121</color>
+    <color name="main_background">#fff7f7f9</color>
+    <color name="title_background">#ff0961cc</color>
+    <color name="white">#ffffffff</color>
+    <color name="welcome_start_button_bg_color">#ff58c8b5</color>
+    <color name="welcome_start_button_arrow_color">#ff000000</color>
+    <color name="welcome_start_button_bg_color_highlight">#ffade900</color>
+    <color name="hyper_link_color">#ff5bc8b5</color>
+    <color name="hyper_link_color_2">#ff0288d1</color>
+    <color name="footer_background">#ffeceff1</color>
+    <color name="footer_ripple_color">#1a000000</color>
+    <color name="black">#ff000000</color>
+    <color name="navi_text_color">#ff333333</color>
+    <color name="fih_lollipop_Group6_default_primary">#ff545454</color>
+    <color name="fih_lollipop_Group6_default_primary_dark">#ff474747</color>
+    <color name="fih_lollipop_Group6_default_primary_light">#ff868686</color>
+    <color name="fih_lollipop_Group6_default_accent">#ff3cb5e6</color>
+    <color name="fih_lollipop_Group6_default_light_list">#66000000</color>
+    <color name="fih_lollipop_Group6_default_Dark_list">#19ffffff</color>
+    <color name="fih_lollipop_Group6_default_focus">#ff868686</color>
+    <color name="fih_lollipop_control_normal">#ff999999</color>
+    <color name="fih_lollipop_control_foreground_gray">#ffd9d9d9</color>
+    <color name="switchbar_background_color">#ffd8d8d8</color>
+    <color name="switch_accent_color">@color/fih_lollipop_Group6_default_accent</color>
+</resources>

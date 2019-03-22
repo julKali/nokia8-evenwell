@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">Gerai</string>
+    <string name="cancel">ATŠAUKTI</string>
+    <string name="system_busy_msg">Sistema užimta. Pabandykite vėliau.</string>
+    <string name="no_new_demo_found_msg">"Naujos dem. medž. nėra.
+
+Pal. \"Gerai\" įj. dem. rež.?"</string>
+    <string name="copying">Kopijuojama…</string>
+    <string name="downloading">Atsisiunčiama…</string>
+    <string name="download_complete_msg">"Atsisiųsta.
+
+Palietę \"Gerai\" įjung. dem. rež."</string>
+    <string name="download_fail_msg">"Nepavyko atsisiųsti dem. medž. iš interneto.
+
+Pal. \"Gerai\" įj. dem. rež.?"</string>
+    <string name="enable_demo_mode">Įjungti demonstracinį režimą?</string>
+    <string name="disable_demo_mode">Išjungti demonstracinį režimą</string>
+    <string name="update_demo_video">Atnaujinti demonstracinį vaizdo įrašą</string>
+    <string name="reset_device">Nustatyti įrenginį iš naujo?</string>
+    <string name="demo_mode_notifications">Demonstracinio režimo pranešimai</string>
+</resources>

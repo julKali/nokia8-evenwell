@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ຍົກເລີກ</string>
+    <string name="DONE">ສຳເລັດແລ້ວ</string>
+    <string name="NEXT">ຕ່ໍໄປ</string>
+    <string name="OK">ຕົກລົງ</string>
+    <string name="PREVIOUS">ກ່ອນນີ້</string>
+    <string name="alert_empty_desc">ກະລຸນາເພີ່ມລາຍລະອຽດຂອງທ່ານ!</string>
+    <string name="alert_warning_title">ເຄັດລັບ</string>
+    <string name="enter_comments">ປ້ອນຄຳຄິດເຫັນ (1000 ອັກຂະລະ)</string>
+    <string name="extremely_likely">(ເປັນໄປໄດ້ທີ່ສຸດ)</string>
+    <string name="feedback">ຄຳຕິຊົມ</string>
+    <string name="helps_us_improve_our_products">ຄຳຕິຊົມຂອງທ່ານຊ່ວຍພວກເຮົາປັບປຸງຜະລິດຕະພັນຂອງພວກເຮົາ!</string>
+    <string name="intro_title">ເປັນໄປໄດ້ສໍ່າໃດທີ່ທ່ານຈະແນະນຳໂທລະສັບນີ້ໃຫ້ກັບໝູ່ເພື່ອນ ຫຼື ເພື່ອນຮ່ວມງານ?</string>
+    <string name="msg_send_after">ຂໍ້ຄວາມຈະໂຫຼດໂດຍອັດຕະໂນມັດ ເມື່ອອຸປະກອນອອນລາຍ. ຂອບໃຈສຳລັບການຕອບຄືນຂອງທ່ານ.</string>
+    <string name="msg_send_fail">ສົ່ງບໍ່ສຳເລັດ. ຂໍ້ຄວາມຈະອັບໂຫຼດໂດຍອັດຕະໂນມັດ ເມື່ອອຸປະກອນອອນລາຍ. ຂອບໃຈສຳລັບການຕອບຄືນຂອງທ່ານ.</string>
+    <string name="no_ask_feedback_again_text">ຢ່າຖາມເອົາຄຳຕິຊົມອີກ</string>
+    <string name="no_showagain_text">ຢ່າສະແດງອີກ</string>
+    <string name="not_at_all_likely">(ເປັນໄປບໍ່ໄດ້ເລີຍ)</string>
+    <string name="select_a_value">ເລືອກຄ່າໃດໜຶ່ງ</string>
+    <string name="str_agree">ເຫັນດີ</string>
+    <string name="str_leave">ອອກ</string>
+    <string name="submit_fail">ສົ່ງບໍ່ສຳເລັດ</string>
+    <string name="submit_success">ຂອບໃຈສຳລັບການຕອບຄືນຂອງທ່ານ.</string>
+    <string name="thank_your_feedback">ຂອບໃຈສຳລັບຄຳຕິຊົມຂອງທ່ານ!</string>
+    <string name="we_appreciate_your_help">ພວກເຮົາຊົມເຊີຍຄວາມຊ່ວຍເຫຼືອຂອງທ່ານໃນການເຮັດໃຫ້ຜະລິດຕະພັນ Nokia ດີທີ່ສຸດໃນໂລກ.</string>
+    <string name="we_hope_enjoying_nokia_device">ພວກເຮົາຫວັງວ່າທ່ານຈະມີຄວາມສຸກກັບການໃຊ້ອຸປະກອນ Nokia. ຄຳຕິຊົມຂອງທ່ານສຳຄັນຫຼາຍຕໍ່ກັບພວກເຮົາ.</string>
+    <string name="we_will_contact_you_again">ພວກເຮົາຈະຕິດຕໍ່ຫາທ່ານອີກຄັ້ງໃນອະນາຄົດ.</string>
+    <string name="we_will_contact_you_again_enjoy">ພວກເຮົາຈະຕິດຕໍ່ຫາທ່ານອີກຄັ້ງໃນອະນາຄົດ. ຂໍໃຫ້ສະໜຸກກັບອຸປະກອນ Nokia ໃໝ່ຂອງທ່ານ.</string>
+    <string name="why_you_gave_this_score">ກະລຸນາບອກພວກເຮົາຍ້ອນຫຍັງທ່ານຈິ່ງໃຫ້ຄະແນນນີ້:</string>
+</resources>

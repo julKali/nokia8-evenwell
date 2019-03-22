@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽首頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">選擇分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="accessibility_no_wifi">Wi-Fi 連線已中斷。</string>
+    <string name="accessibility_text">輔助功能設置</string>
+    <string name="accessibility_wifi_off">已關閉 Wi-Fi。</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi 訊號強度一格。</string>
+    <string name="accessibility_wifi_security_type_none">開放式網路</string>
+    <string name="accessibility_wifi_security_type_secured">安全網路</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi 訊號強度滿格。</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi 訊號強度三格。</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi 訊號強度兩格。</string>
+    <string name="account_intro_description">請加入[BRAND_NAME]服務，更聰明有效的使用您的[BRAND_NAME]手機。</string>
+    <string name="account_intro_title">[BRAND_NAME]服務帳戶</string>
+    <string name="add_account_button_label">設定帳戶</string>
+    <string name="add_baidu_button_label">登入百度雲</string>
+    <string name="add_infocus_service_account">新增[BRAND_NAME]服務帳戶</string>
+    <string name="available_via_carrier">可透過 %1$s 使用</string>
+    <string name="available_via_passpoint">可透過 %1$s 使用</string>
+    <string name="back_btn_lebel">上一步</string>
+    <string name="backup_and_restore_description">"如果您先前已備份帳戶資料，現在就可以將資料還原到這支手機。
+
+您隨時可以前往「設定」變更備份設定。"</string>
+    <string name="backup_and_restore_title">備份與還原</string>
+    <string name="baidu_intro_description">只要完成幾個簡單的步驟，您即可享用無縫的百度雲端儲存空間。</string>
+    <string name="baidu_intro_title">百度雲端儲存空間</string>
+    <string name="baidu_progress_dialog_des">請稍候...</string>
+    <string name="bypass_setup_skip">略過</string>
+    <string name="bypass_setup_skip_cancel">返回</string>
+    <string name="bypass_setup_tip_text">您即將略過所有設定頁面並直接進到桌面，稍後仍可以到系統設定中完成相關設定，要繼續請按略過。</string>
+    <string name="bypass_setup_tip_title">略過所有設定頁面</string>
+    <string name="choose_timezone">選擇時區</string>
+    <string name="connected_via_carrier">已透過 %1$s 連線</string>
+    <string name="connected_via_network_scorer">已透過 %1$s 自動連線</string>
+    <string name="connected_via_network_scorer_default">已透過網路評分供應商自動連線</string>
+    <string name="connected_via_passpoint">已透過 %1$s 連線</string>
+    <string name="connected_via_wfa">已透過 Wi‑Fi 小幫手連線</string>
+    <string name="data_usage_metered_auto">自動</string>
+    <string name="data_usage_metered_no">非按傳輸量計費</string>
+    <string name="data_usage_metered_yes">按傳輸量計費</string>
+    <string name="datausage_dialog_negitive_btn">取消</string>
+    <string name="datausage_dialog_positive_btn">確定</string>
+    <string name="date_and_time">日期與時間設定</string>
+    <string name="date_and_time_settings_summary">設定日期、時間、時區及時間格式</string>
+    <string name="date_and_time_settings_title">日期與時間</string>
+    <string name="date_and_time_settings_title_setup_wizard">設定日期和時間</string>
+    <string name="date_picker_title">日期</string>
+    <string name="date_time_24hour">使用 24 小時格式</string>
+    <string name="date_time_auto">自動判斷日期和時間</string>
+    <string name="date_time_auto_summaryOff">使用網路提供的時間</string>
+    <string name="date_time_auto_summaryOn">使用網路提供的時間</string>
+    <string name="date_time_date_format">選擇日期格式</string>
+    <string name="date_time_set_date">設定日期</string>
+    <string name="date_time_set_time">設定時間</string>
+    <string name="date_time_set_timezone">選取時區</string>
+    <string name="default_date_format">MM/dd/yyyy</string>
+    <string name="device_checking_message">歡迎使用</string>
+    <string name="dropbox_fih_description">取得2GB的免費Dropbox空間，自動上傳您的照片及影片。</string>
+    <string name="dropbox_fih_signin">登入Dropbox</string>
+    <string name="dropbox_fih_signup">註冊Dropbox</string>
+    <string name="dropbox_fih_title">Dropbox</string>
+    <string name="dual_sim_setting_call_title">選擇撥號卡</string>
+    <string name="dual_sim_setting_data_title">選擇上網卡</string>
+    <string name="emergency_dial_hmd_message">緊急電話</string>
+    <string name="emergency_dial_message">緊急電話</string>
+    <string name="expand_button_title">進階</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY]軟體所有權及使用條款協議
+
+ 生效日: 2016年 5 月20日
+
+ 本使用條款之內容 (下稱\"使用條款\") ，適用於 [BRAND_NAME_PROXY] 所提供的軟體下載、自動更新等服務(下稱\"軟體服務\")。如您下載、安裝或使用[BRAND_NAME_PROXY]軟體，即表示您同意遵守本使用條款。如您不同意本使用條款，請勿下載、複製、使用[BRAND_NAME_PROXY]軟體。
+
+ 1.使用規則
+ 在您同意接受使用條款後，[BRAND_NAME_PROXY]將授予您不可轉讓、非專屬性、個人的、有限度的權限使用軟體服務。[BRAND_NAME_PROXY]將以目標代碼的形式安裝至您的[BRAND_NAME_PROXY]裝置，經由您開啟後使用[BRAND_NAME_PROXY]軟體。您清楚明白不得進行商業目的之使用，且應在您的個人[BRAND_NAME_PROXY]裝置中使用[BRAND_NAME_PROXY]軟體。
+ 對於[BRAND_NAME_PROXY]軟體，您應遵守本使用條款要求，承諾不得從事以下任一事項：
+ (a) 進行突破[BRAND_NAME_PROXY]軟體的技術限制、使用[BRAND_NAME_PROXY]軟體或與任何、專案或服務配合，試圖規避用於控制檔或其他資料獲取或權利的技術手段；
+ (b) 針對[BRAND_NAME_PROXY]軟體進行反向開發、反編譯、解密、反彙編或以其他方式，試圖取得[BRAND_NAME_PROXY]軟體的原始程式碼等法律明文或解釋上限制之行為，亦或對[BRAND_NAME_PROXY]軟體進行全部或部分增刪修改或演繹；
+ (c) 透過公開、轉讓、出租、出借、轉授權或揭露等方式，使任何第三人得以接觸、使用或持有[BRAND_NAME_PROXY]軟體；
+ (d) 將[BRAND_NAME_PROXY]軟體或任何相關不限形式的文件上所彰顯之任何權利聲明或標籤，自行或由非[BRAND_NAME_PROXY]授權人員加以移除；
+ (e) 藉由侵犯他人權利之方式或以違反任何現行法律規定之行為來使用[BRAND_NAME_PROXY]軟體；或
+ (f) 在任何限制或禁止使用的環境下，包含但不限於在核子設施、飛航管制、加油站等情形或環境，使用[BRAND_NAME_PROXY]軟體用而可能導致或提升人身財物傷亡損害的風險；或
+ (g) 其他本使用條款所禁止的方式使用[BRAND_NAME_PROXY]軟體。
+ 為使[BRAND_NAME_PROXY]軟體與您的[BRAND_NAME_PROXY]裝置得以正常運作，您承諾不會未經[BRAND_NAME_PROXY]人員協助下，自行破壞或更動[BRAND_NAME_PROXY]裝置之標籤。此種行為與本條(a)行為均會影響到[BRAND_NAME_PROXY]對您[BRAND_NAME_PROXY]裝置保固的承諾範圍與期間。
+
+ 2.隱私權政策
+ 您清楚知悉並同意，為提升服務品質，[BRAND_NAME_PROXY]得蒐集並保留任何您藉由[BRAND_NAME_PROXY]網站提供之各項服務所進行之軟體傳送或訊息溝通，包含但不限於[BRAND_NAME_PROXY]裝置型號/序號、IMEI/MEID碼、HW Version、SW Version、累積使用時間、累積休眠時間、SKU ID、錯誤統計資料、發生問題的軟體/程式名稱、錯誤次數、版本資訊等。
+ 若因行政/司法部門或因法律規定而要求如時，[BRAND_NAME_PROXY]應配合揭露相關資訊。
+ 若您的[BRAND_NAME_PROXY]裝置於購買後持續14天處於未聯網狀態，[BRAND_NAME_PROXY]裝置將會以簡訊方式傳送該[BRAND_NAME_PROXY]裝置的已開通使用狀態，通知[BRAND_NAME_PROXY]知悉。
+ 詳細說明，請參閱[BRAND_NAME_PROXY]『隱私政策』。
+
+ 3.支援服務
+ [BRAND_NAME_PROXY]依照[BRAND_NAME_PROXY]軟體下載更新當時之\"現狀\"，提供更新、下載、使用服務，[BRAND_NAME_PROXY]可依據狀況決定是否繼續提供相關支援與更新服務。
+ 在您獲得[BRAND_NAME_PROXY]軟體的初始檔案後，[BRAND_NAME_PROXY]會以更新、補充、附加元件或任何透過網路提供的服務元件，在軟體下載、更新、使用過程中的各種行為均適用本使用條款的規定。
+ [BRAND_NAME_PROXY]有權終止任何您透過網路瀏覽而取得之軟體服務、或使用[BRAND_NAME_PROXY]軟體提供的服務，以使各種軟體服務順利。
+ [BRAND_NAME_PROXY]可自行公布[BRAND_NAME_PROXY]軟體之後續更新版本，通知並要求您透過網路下載與使用最新更新版本。
+
+ 4.自動更新
+ [BRAND_NAME_PROXY]得透過自動下載韌體與軟體之方式，對您的[BRAND_NAME_PROXY]裝置，以更新、加強、保護或進一步改善您的[BRAND_NAME_PROXY]裝置與[BRAND_NAME_PROXY]軟體之應用程式。
+ 在您[BRAND_NAME_PROXY]裝置內的韌體及[BRAND_NAME_PROXY]軟體會預設為”啟動”狀態，意即通過網路連接[BRAND_NAME_PROXY]伺服器並自動連接您的[BRAND_NAME_PROXY]裝置，無需另行手動操作。為確保您的[BRAND_NAME_PROXY]裝置的安全性與穩定性，您清楚知曉並同意配合[BRAND_NAME_PROXY]更新程序要求，依循指示進行更新程序。
+ 為避免在更新過程中造成您的資料遺失，請您自行備份[BRAND_NAME_PROXY]裝置中的個人資料（例如您的照片、聯絡人、日曆、音樂、書籤以及文件檔等），並將之儲存到與您[BRAND_NAME_PROXY]裝置連結的電腦等裝置中。
+ [BRAND_NAME_PROXY]裝置經自動更新，抑或是經由[BRAND_NAME_PROXY]傳達更新訊息並經由您同意啟動更新後，代表您同意以下各項更新功能的敘述：
+ (a) 軟體更新
+ 您清楚知悉並同意[BRAND_NAME_PROXY]軟體將透過網路連接到您的[BRAND_NAME_PROXY]裝置，以便確認在[BRAND_NAME_PROXY]伺服器中的軟體版本與更新狀態。若[BRAND_NAME_PROXY]有發布任何更新訊息，將允許您可透過[BRAND_NAME_PROXY]軟體連接至伺服器來更新韌體版本與狀態。 在有可用之軟體更新時，您同意[BRAND_NAME_PROXY]即時向您通知更新訊息。若經由您確認接收更新通知時，即視為您同意[BRAND_NAME_PROXY]透過下載更新動作，將您[BRAND_NAME_PROXY]裝置內的[BRAND_NAME_PROXY]軟體的進行更新與安裝。
+ (b) 內容同步更新
+ 您現行使用經過更新後的[BRAND_NAME_PROXY]裝置內容，將自動更新至您所連接的相關[BRAND_NAME_PROXY]裝置或電腦上的內容和其他資訊（如連絡人資訊、日曆、書簽和文件檔等各種形式內容）。
+ 
+ 5.[BRAND_NAME_PROXY]軟體所有權與各項權利之保留
+ [BRAND_NAME_PROXY]及其關聯公司和供應商，擁有並保留所有未在本使用條款中明確表明授予您使用的各項[BRAND_NAME_PROXY]軟體的所有權、著作權和其他智慧財產權。
+ [BRAND_NAME_PROXY]所提供的各項軟體，均受到著作權和其他智慧財產權法律與國際條約之保障。
+
+ 6.免責聲明
+ 在法律許可的最大範圍內，[BRAND_NAME_PROXY]係依照現狀所提供的[BRAND_NAME_PROXY]軟體與衍生的服務（例如更新服務），如有瑕疵概不負責。[BRAND_NAME_PROXY]及其關聯公司和供應商，在此不做任何明示、默示或為任何法定的各項保證承諾，包括但不限於對[BRAND_NAME_PROXY]軟體與衍生的服務（例如更新服務）的可銷售性和特定用途適用性等情形，有任何默示保證、責任或條件之承諾。
+ [BRAND_NAME_PROXY]對以下所列事項，不做任何明示或默示之保證：
+ (a) [BRAND_NAME_PROXY]軟體或支援服務的所有權、非侵權狀態、與各種描述說明相符性、無病毒聲明、無程式漏洞、運作的準確性與完整性；或 (b) [BRAND_NAME_PROXY]軟體的順利運行、無中斷或無錯誤運行；或
+ (c) [BRAND_NAME_PROXY]軟體各種可能或潛在缺陷的立即修復。
+ 經由下載、使用[BRAND_NAME_PROXY]軟體後，您清楚知悉因使用或運行[BRAND_NAME_PROXY]軟體與衍生的服務（若有）而導致的全部風險(包含但不限於使用中[BRAND_NAME_PROXY]裝置損壞、內容遺失、第三方軟體移除或失效等)，視為您同意承擔相關風險與責任，[BRAND_NAME_PROXY]對此不會提供任何保障與承擔任何負責。您同意[BRAND_NAME_PROXY]有權判斷並移除影響更新作業之程式與軟體，且會自行先做好資料與軟體備份工作。
+ 若您自行下載之程式或檔案，造成您的資訊外洩或導致[BRAND_NAME_PROXY]裝置系統損毀，均與[BRAND_NAME_PROXY]無涉，您同意自行承擔相關風險。
+ 
+ 7.責任範圍與損害賠償的限制和免除。
+ 除法律明文禁止外，於任何情形下，[BRAND_NAME_PROXY]對於任何間接、附帶性、持續性、懲戒性、偶然或懲罰性違約金等各種損害賠償，包括利益之喪失，不負任何責任。縱使[BRAND_NAME_PROXY]曾被告知該損害可能發生，亦不論訴因或索賠依據如何，[BRAND_NAME_PROXY]或其關聯公司，均不對此承擔責任。
+ 若依據本使用條款，[BRAND_NAME_PROXY]對於有關於您使用本網站或其內容之事項應負賠償責任者，僅限於因合理信賴本軟體導致的實際直接損失，最高金額為10美元。無論形式如何，因本使用條款所生之相關訴訟，必須在您知曉該事件之訴因或請求依據發生後一年內進行。但若管轄法院不允許限制責任範圍者，前述之責任限制規定，將不予適用。
+
+ 8.賠償聲明
+ 在您藉由[BRAND_NAME_PROXY]軟體以包含但不限於瀏覽、下載、複製、傳輸、編碼、壓縮任何資料（[BRAND_NAME_PROXY]提供的資料除外），侵犯了他人的權利或違反了法律的規定時；或者是您違反了本使用條款的任何規定時，因而造成他人向[BRAND_NAME_PROXY]或其股東、董監事、經理人、員工或相關之利害第三人就損失、責任或費用(包括律師費)提出任何請求或主張者，您願意對此負起相關賠償責任，並就相關案件進行抗辯，且使[BRAND_NAME_PROXY]或其股東、董監事、經理人、員工或相關之利害第三人免於負擔賠償責任。若因而造成[BRAND_NAME_PROXY]或其股東、董監事、經理人、員工或相關之利害第三人受損者，您願意賠償相關損害。
+
+ 9.服務終止
+ 如您違反本使用條款的任何規定，代表您喪失合法使用[BRAND_NAME_PROXY]軟體之權利，您應當立即銷毀/刪除所有軟體副本。在特定情形下，同時也會影響到您的[BRAND_NAME_PROXY]裝置之保固期限與範圍。
+ 在前述情況下，您同意[BRAND_NAME_PROXY]可採取以下方式因應，同時因而對您或任何第三人，不負任何賠償責任：
+ (1) 終止您進入[BRAND_NAME_PROXY]服務帳戶的權利，
+ (2) 以及/或封鎖您將來進入[BRAND_NAME_PROXY]服務帳戶。
+ 您對本使用條款之違反，您亦清楚知悉並同意此將對[BRAND_NAME_PROXY]造成無法透過金錢賠償回復的傷害。在[BRAND_NAME_PROXY]認為必要或適當之情況下，您同意[BRAND_NAME_PROXY]得依法尋求假扣押、假處分、定暫時狀態處分等方式降低損害擴大。
+ 因您違反本使用條款，若[BRAND_NAME_PROXY]最終對您採取法律行動，將有權向您請求，您亦同意支付所有合理之律師費及訴訟費用，以及所有[BRAND_NAME_PROXY]可依法主張請求之其他損害賠償。
+
+ 10.法律適用與法院管轄
+ 您同意關於本使用條款之所有相關事項，將依中華民國法規定規範，以台灣台北地方法院作為因本使用條款所生案件之適格管轄法院及審判地點，您並同意放棄對該管轄權及審判地點之異議或抗辯。
+ 就本使用條款所生爭議，雙方應以最大善意盡力協商解決。若該爭議未能於合理期間（不超過 30 個日曆天）協商解決者，任何一方得將該爭議提交調解。若調解不成，雙方應以訴訟方式解決爭議。
+
+ 11.一般性規定。
+ 本協議的條款標題僅為便利參考使用，不具備法律效力或意義。
+ [BRAND_NAME_PROXY]未對您的違反本使用條款的行為採取任何措施時，不表示放棄就未來類似行為採取維權措施的權利。
+ 如經管轄法院認為本使用條款的任何內容或限制有非法、無效或不可執行，其他未經宣告的條款或限制之效力不因而受到影響或因此失效，仍保有完全效力。
+ 您不得轉讓或處分您在本使用條款中獲得使用的權利。
+ [BRAND_NAME_PROXY]的權利繼承人和受讓人，正式承受後亦適用本使用條款內容。
+
+ 12.使用條款完整性。 
+ 本使用條款及更新所提供的附加條款，均為本使用條款之一部分。
+
+ 13.條款更動權利
+ [BRAND_NAME_PROXY]基於其獨立判斷，保留隨時變更、修改、增加或刪除使用條款內容之權利。您需要隨時檢閱使用條款的變動，在本[BRAND_NAME_PROXY]網站上所有變動資訊的公布，透過您持續使用[BRAND_NAME_PROXY]裝置或軟體，視為您同意接受該變動。"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY]法律條款</string>
+    <string name="finish_button_label">完成</string>
+    <string name="google_account_add_account">登入Google</string>
+    <string name="google_account_intro_description">登入Google帳戶以使用Google服務。</string>
+    <string name="google_account_intro_title">Google 帳戶</string>
+    <string name="hmd_legal_message">"服務條款 
+ 
+生效日期：2016 年 10 月 14 日 
+ 
+1. 接受 
+本 HMD Global 服務條款連同相關隱私權政策以及服務範圍內所提供的所有其他附加條款和資訊 (以下合稱「本條款」)，規範您對本公司服務、網站、內容和軟體 (以下合稱「本服務」) 之使用。一經註冊或使用本服務或其中任何一部分，即表示您接受本條款。 
+ 
+本條款構成您和 HMD Global Oy (設址於 Bertel Jungin aukio 9, 02610 Espoo, Finland) (包括其子公司和供應商，以下合稱「HMD Global」) 達成的協議，其中定義了您和 HMD Global 有關本服務的各項權利和責任。 
+ 
+2. 資格 
+若要使用本服務，您必須年滿十三 (13) 歲。如果您不滿十三 (13) 歲或雖年滿十三 (13) 歲但在您的居住地仍為未成年人，則您必須請父母或法定監護人代表您接受註冊，並由其核准您使用本服務。註冊表的任何填寫者必須具有法律行為能力。 
+ 
+3. 註冊和終止 
+若要使用本服務，您可能需要註冊並建立一個具備使用者名稱和密碼的 HMD 帳戶，其可能另行受其他條款所拘束。您可能需要向我們提供特定個人資訊和其他資訊。HMD Global 可能會先驗證您的電子郵件地址，您的 HMD 帳戶才得以使用。在首次使用您的裝置以及每次更新您的諾基亞裝置軟體時，將會向 HMD Global 發送一則文字簡訊。HMD 帳戶的建立需要進行資料傳輸，可能要支付資料傳輸費用。 
+ 
+您同意：註冊本服務時提供真實完整的資訊，並持續更新該等資訊。您必須盡力保護您的使用者名稱和密碼，避免他人濫用。如發生濫用情形，應立即通知 HMD Global。您，以及您的父母或法定監護人 (如果您是未成年人)，應自行負責本服務的任何使用行為。 
+ 
+如果您不希望再使用本服務，您可以終止您的註冊。終止之後，您將無法再存取本服務。如果 HMD Global 合理認為您違反本條款，或是您在過去六 (6) 個月內未使用您的使用者名稱登入本服務而由系統發出事先通知的情況下，HMD Global 得終止或限制您存取本服務的特定部分。 
+ 
+除隱私權政策中所規定者外，對於您向服務提交之資訊或內容的移除或遺失，HMD Global 概不承擔任何責任。當您或 HMD Global 從服務中清除相關資訊或內容後，其他位置可能仍存留相關痕跡或複本。 
+ 
+4. 使用權 
+HMD Global 授與您非專屬且不可轉讓的使用權，其可由 HMD Global 隨時自行斟酌撤銷，以存取和使用本服務，但需嚴格遵守本條款的各項規定。使用本服務並未將本服務中所含任何資訊或內容中的任何智慧財產權授與給您。 
+ 
+做為本服務的一部分，HMD Global 可能會向您提供 HMD Global 或其授權者開發的內容 (以下稱「內容」)。HMD Global 授與您非專屬的永久使用權，針對其預期目的使用該等內容，除非相關條款或訂購單另有規定。部分內容可能僅提供給特定地理區域內的居民。您需要遵守透過服務所取得之內容特定的任何適用限制。針對第三方內容取得的任何使用權係您與第三方內容提供者之間所達成的具有約束力之協議。您僅對本條款明確授權之內容擁有權利。 
+ 
+做為本服務的一部分，HMD Global 得向您提供由 HMD Global 或其授權者開發的某些軟體 (以下稱「軟體」)。您使用軟體的行為應遵守您在使用該軟體前所接受的獨立條款和條件。如果無適用於該等軟體的獨立條款和條件，則應適用下述條款：HMD Global 授與您有限、非專屬且不可轉讓的權利，以在您的電腦和/或行動裝置上安裝和使用此軟體。除做單一封存備份外，您不得複製此軟體。您不得散布、轉讓使用權利、修改、轉譯、複製、轉售、轉授權、出租、租賃、進行還原工程或以其他方式試圖揭露軟體原始程式碼或開發軟體衍生品。針對開放原始碼授權軟體，相關開放原始碼授權條款應適用。如果您使用軟體，即表示您接受任何適用的條款和條件。 
+ 
+軟體可能受美國出口管理條例當中的出口管制規定和其他進出口管制法規約束。您同意嚴格遵守所有適用的進出口法規，並確認：您有責任獲得該等軟體出口、轉出口、轉讓或進口所需的相關許可。 
+ 
+您可能會向本服務提交資訊或內容 (以下稱「素材」)。HMD Global 不會主張您素材的所有權。您提交素材的行為並不會將素材的所有權轉讓給 HMD Global。HMD Global 僅進行素材傳輸，不負責對其編輯控制。向本服務提交素材，即表示您授與 HMD Global 全球範圍、非專屬、可轉授權、可轉讓、全額付清、免權利金、永久且不可撤銷的使用權，以進行使用、複製、公開執行、展示、透過任何媒介散布並修改素材以將素材整合到其他作品中，以及在 HMD Global 提供服務的必要範圍內授與類似的轉授權。您得以在本服務的隱私權及其他設定中，調整此項授權。 
+ 
+您應自行負責備份您在本服務中所儲存之資料 (包括您上傳的內容) 的複本。如果服務停止或取消，HMD Global 得永久刪除您的資料。在服務停止或取消後，HMD Global 並無義務將資料返還給您。 
+ 
+5. 服務使用 
+您同意： 
+• 遵守相關法律、本條款和良好禮儀； 
+• 僅將服務用於您的個人、非商業目的； 
+• 不得提交非法、冒犯、不準確、誤導、辱罵、色情、騷擾、毀謗或其他不當素材； 
+• 為您提交任何素材料取得法律要求的任何同意、允許或授權； 
+• 尊重其他人的隱私權； 
+• 不得散布或張貼垃圾資訊、不合理的超大型檔案、連鎖郵件、多層次傳銷、病毒； 
+• 不得使用可能損害本服務或是本服務使用者利益或財產的任何其他技術，或發起任何此類活動； 
+• 不得使用任何自動系統或方式，來存取、擷取、複製或監控本服務的任何部分；以及 
+• 承擔您所張貼素材相關的一切後果責任。 
+ 
+HMD Global 得進行但並無義務： 
+• 監控或調整內容或素材； 
+• 從本服務中移除任何素材；以及 
+• 隨時依其自行裁量限制存取本服務的任何部分。 
+ 
+6. 內容 
+在下載或存取任何內容前，請檢查您要存取的內容是否有年齡限制，或標記為具有潛在的「冒犯性」或「暴露性」。 
+ 
+對於您存取該等內容而引起或遭受的任何索賠或冒犯，HMD Global 不承擔任何責任。 
+ 
+您同意： 
+• 僅將內容用於您的個人、非商業目的； 
+• 依照相關法律、附加條款、規範和政策或是在產品頁面上明列的限制來使用內容； 
+• 不得複印、贈送、出售、轉售、貸款、出租、提供、廣播、寄送、散布、轉讓、向大眾傳播、重製、修改、展示、執行、以商業方式惡意探索或提供內容，除非適用條款另行授權。如果發生任何此等未經授權使用的情形，應立即告知 HMD Global； 
+• 不得移除、規避、還原工程、解密，或是以其他方式變更或干涉任何適用的使用規則或是試圖規避與內容或任何其他用以控制存取或使用內容或其識別用資訊相關聯之數位版權管理或複製保護功能； 
+• 不得使用任何自動系統或方式，進行選擇或下載內容，本公司提供者除外；以及 
+• 不得洩露您的密碼，或以其他方式允許他人存取內容。規範相關媒體的複製限制，亦規範做為本服務部分而存取的內容。 
+ 
+內容係為 HMD Global 和/或其各自授權者所擁有和/或控制，並受智慧財產權法律保護。第三方內容提供者對其提供的內容、任何保證 (在此等保證未棄權的前提下) 以及您就該等內容或您使用該等內容行為相關的任何索賠，由第三方內容提供者自行負責。但 HMD Global 得以第三方受益人的身分，對您履行這些第三方內容授權條款。第三方內容提供者根據本條款項為第三方受益人，可以履行就其擁有權利之內容直接相關的條款。在向您提供內容的過程中，HMD Global 的行動可能如同第三方內容提供者的代理人。HMD Global 並不是您和第三方內容提供者就該等內容所達成交易的一方。 
+ 
+7. 著作權侵權宣告 
+HMD Global 尊重第三方的智慧財產權。如果您希望發送一份智慧財產權侵權通知 (其中包括著作權侵權索賠)，請使用我們的侵權通知提交程序。與本程序無關的一切調查概不予以回應。 
+ 
+HMD Global 使用美國法典第 17 篇第 512 條所規定的程序回應任何著作權侵權通知。在適當情形下，HMD Global 得停用或終止可能重複侵權之 HMD Global 服務使用者的帳戶。 
+ 
+8. 通知 
+HMD Global 得在本服務範圍之內張貼通知。HMD Global 亦得將產品和服務相關的通知寄送至您提供給本公司的電子郵件位址或電話號碼。您視同收到該等通知的最晚時間為 HMD Global 寄送或張貼通知起的 7 日內。如果您持續使用我們的服務，將視為您收到我們發出的所有通知，無論通知交付方法為何。 
+ 
+9. 費用 
+您使用服務可能需要支付某些費用。 
+ 
+HMD Global 收取的任何費用將會單獨列出與本服務相關的部分。 
+ 
+使用本服務可能涉及透過您服務提供者的網路進行資料傳輸。本服務中名列的價格並不包括您網路服務提供者可能收取的資料傳輸、簡訊、語音通話或其他服務項目費用。 
+ 
+對於您服務提供者所收取之任何費用的支付，HMD Global 不承擔任何責任。 
+ 
+10. 訂購和付款條款 
+「訂購」應指：選擇由 HMD Global 提供並可於本服務中取得的付費內容和/或內容訂閱並且提交付款方式，以及在訂購流程中透過選擇「購買」、「確認」、「我接受」或其他類似的接受確認方式提交訂單，或是提供其他接受訂購流程中向您顯示之條款的表示。 
+ 
+若要在本服務下訂，您必須達到適用法律規定的法定行為能力年齡或成年。如果您未達法定行為能力年齡或成年，您只能在取得您父母或法定監護人事先同意後下訂。 
+ 
+您同意：所有訂購均在法律上有效且具有法律約束力。所有訂購都必須由 HMD Global 接受。 
+ 
+您可以透過信用卡或轉帳卡、網路服務提供者代扣付款或其他付款方法 (如果適用) 進行付款。 
+ 
+您的信用卡或轉帳卡必須在本服務所提供之內容的所在國家/地區具有帳單地址。HMD Global 將在您完成訂單之後的合理期間內，向您的信用卡或您的銀行帳戶進行請款。所有信用卡付款均需接受驗證檢查，並需經發卡單位授權。 
+ 
+如果您選擇網路服務提供者代扣付款，則費用將會出現在您的手機帳單上，或從您的預付款帳戶內進行扣除 (若為預付帳戶)。某些網路服務提供者可能會有其他條款和條件約束您對本服務的使用，包括：網路服務提供者代扣付款的金額上限。超過網路服務提供者代扣上限或帳戶餘額的金額可能會遭到拒付。 
+ 
+您同意支付與您訂購相關的費用，並確定付款媒介在訂購之時有效，您是該媒介的合法持有人，且在其信用額度內使用該媒介。 
+ 
+所交付的內容已授權予您。您同意僅根據本條款和訂購流程中顯示的任何附加條款使用此等內容。 
+ 
+本服務可能提供訂閱內容。您授權本服務在訂閱期間進行定期請款。本服務可能亦提供試用期。如果您的訂單涉及試用期 (亦稱為試用後購買)，試用期到期後將向您收取相應的費用，除非您依照訂閱/試用條款取消訂閱。 
+ 
+本服務中的各項價格可能隨時改變。價格包括交易時有效的相關稅賦，除非另有聲明。根據使用的貨幣兌換匯率和/或評估的額外費用，您的銀行或信用卡發卡機構可能會向您收取額外費用。對於銀行或任何其他第三方服務費用或款項的支付，HMD Global 不承擔任何責任。 
+ 
+11. 取消和退款 
+您同意在您下訂時，同時即開始以電子方式交付內容。您的訂單一經處理，即無法取消。內容的本質為不可退貨的項目。 
+ 
+如果您在訂購後發現以下情形，應在 48 小時內立即告知 HMD Global：(a) 所訂購的內容存在錯誤；(b) HMD Global 交付給您的內容與您透過本服務訂購之內容的敘述不符；或 (c) 因技術問題延誤或妨礙交付內容予您，或該等技術問題造成意料之外的多份訂單。在這類情形中，就該等內容而言，您唯一且全部的補償為替換該等內容，或是退還您就該等內容所支付的款項，由 HMD Global 自行決定。 
+ 
+除此之外概不予以退款。如果您遇到上述問題，請連絡 HMD Global 客戶服務。 
+ 
+請注意：如果您無法提供您的交易 ID (HMD Global 會在您向本服務訂購後提供給您)，HMD Global 客戶服務可能無法處理您的客戶支援要求。唯有總價超出相關當地法律所規定的金錢限額的情況下，HMD Global 才會針對內容進行退款。 
+ 
+12. 提供回饋意見給 HMD Global 
+藉由透過服務或其他方式向 HMD Global 送出任何想法、回饋意見和/或提議 (以下稱「回饋意見」)，表示您確認並同意：(1) HMD Global 得擁有與該回饋意見類似的開發想法；(2) 您的回饋意見不包含您或任何第三方持有的機密或專利資訊；(3) 對於該等回饋意見，HMD Global 並不承擔任何保密義務；(4) HMD Global 可為任何目的自由使用、散布、探究以及進一步發展和修改；以及 (5) 您無權向 HMD Global 要求任何類型的報酬。 
+ 
+13. 社交活動和位置分享 
+您可以使用本服務中的功能分享您的位置、狀態、內容、素材料或個人資訊，或是與其他使用者、網站和服務進行互動。使用這些功能即表示您同意：HMD Global 得使用並向您所選擇要進行互動或分享此資訊的其他服務和人士提供該資訊。這些服務的使用者和人士 (例如您的連絡人) 可以看見您的位置、狀態和/或個人資訊。在使用這些功能過程中，您同意不會分享以下資訊、內容或素材，亦不會連結進行以下事項的任何服務或網站：(a) 含有違法或不當的內容或其他素材；或 (b) 未經授權侵犯智慧財產權，或鼓勵用戶進行盜版。任何互動都與 HMD Global 無關，且僅發生在您和其他使用者之間。 
+ 
+14. 供應和技術要求 
+內容和服務的供應可能有所改變，並取決於 HMD Global 的全權裁量。HMD Global 明言不提供任何特定內容或服務將可供應的聲明或保證。並非所有國家/地區均有提供本服務，且本服務可能僅以所選擇的語言提供。本服務、運作和部分功能可能會依網路、所用裝置的相容性以及所支援的內容格式而有所差異。 
+ 
+若要存取服務，您可能需要下載 HMD Global 或其他方開發的特定軟體功能。 
+ 
+HMD Global 得全權裁量，變更、更正或停止全部或部分服務。在維護期間和其他時段可能無法使用服務。為確保您擁有最新裝置軟體和應用程式，您的裝置可能會自動向 HMD Global 處檢查是否提供軟體更新。如果偵測到任何更新，將提示您核准安裝。您可以透過裝置中的設定，停用自動檢查更新的功能。您也可以透過可用的軟體更新管道安裝軟體。如果 HMD Global 認為軟體某個更新為重要或重大，則您將無法繼續使用先前的軟體版本。HMD Global 得阻止您使用先前版本的軟體或服務，直至您安裝更新為止。 
+ 
+HMD Global 得因任何理由停用您服務帳戶中包含的任何內容或軟體，並移除任何內容或軟體，和/或停用您訂單裝置上任何應用程式的複本，以保護服務、應用程式提供者、您透過其網路存取服務的無線電信業者或任何受影響或可能受影響的其他方。 
+ 
+尤其需要注意的服務可能是預先發行的版本 (例如測試版本發行)，且其可能不會以最終版本運作的方式運作。HMD Global 得對本服務或軟體的任何版本進行重大變更，或決定不予發行最終版本。 
+ 
+15. 前往第三方網站和內容的連結 
+HMD Global 得包含對網際網路上之網站和服務或預先下載用戶端的存取路徑，使您可與第三方擁有或運營的網站和服務進行互動 (該等網站和服務不屬於本服務的一部分)。在使用這些網站或服務前，您必須閱讀並同意這些網站或服務的條款和條件。 
+ 
+HMD Global 對該等第三方內容、網站或服務並無控制權。因此，對於這些第三方網站或服務所提供的服務或是所建立或發布的素材，HMD Global 不承擔任何責任。前往第三方網站的連結並不表示 HMD Global 支持該網站或是其中所提及的產品或服務。 
+ 
+此外，您和其他使用者可以在本服務內建立內容以及建立內容的連結，此等內容除此之外未曾提交給本服務。對此等類型的內容或連結，HMD Global 不承擔任何責任。 
+ 
+16. 廣告 
+服務得包含廣告。這些廣告得將目標指向本服務上所儲存的內容或資訊、透過服務提出的詢問，或是其他資訊。 
+ 
+17. 個人資料 
+隱私權政策和任何提供予您的額外隱私權資訊，將規範對您個人資料的使用。 
+ 
+18. 責任限制 
+服務係以「依現狀」和「依實際供需情況」的基礎提供。HMD Global 不保證服務不會中斷或是沒有任何錯誤或病毒。HMD Global 不就本服務的供應性、準確性、可靠性、資訊或內容做出任何明示或暗示擔保，包括但不限於：所有權擔保、不侵權擔保、適售性擔保，或是符合特定目的擔保。您明文同意並確認：您自行承擔使用服務的風險，您可能接觸來自各種來源的內容。 
+ 
+除重大過失或故意瀆職所造成的死亡或人身傷害責任外，對於您使用或無法使用本服務所造成的任何間接、附隨性、懲罰性或衍生性損害，HMD Global 不承擔任何責任。 
+ 
+19. 賠償 
+您同意針對因以下原因導致之一切第三方索賠和所有責任、查核、損失、成本或損害，為 HMD Global 辯護，並使其受損害：(i) 您違反本條款；(ii) 您侵犯或違反任何第三方的智慧財產權、其他權利或隱私權；或 (iii) 第三方濫用本服務，而該等濫用之機緣係因您未能採取合理措施防護您的使用者名稱和密碼避免濫用。 
+ 
+20. 其他 
+ 
+20.1 法律選擇 
+本條款係受芬蘭法律管轄，不考慮法律衝突原則。 
+ 
+20.2 有效性 
+本條款既不排除也不限制您在居住國家/地區內依法不得放棄的任何法定權利。如果本條款的任何規定經判定無效，則其他規定不受影響。應使用最接近本條款意圖和目的之有效規定替換該等無效規定。如果本條款的一項或多項規定與您使用服務的行為無關，則其不影響本條款其他規定或本條款整體的有效性或可強制執行性。如果 HMD Global 服務條款和隱私權政策存在衝突，則本 HMD Global 服務條款應優先適用。在本條款終止後，在您的註冊終止後應有效的條款將繼續有效。 
+ 
+20.3 條款變更 
+HMD Global 得不時修改本條款，恕不另行通知。如果本條款發生任何重大不利變更，則 HMD Global 將發出單獨通知告知該等變更。 
+ 
+您應定期檢閱本條款。如果您繼續使用服務，則表示您同意其中的任何變更和修改。 
+ 
+21. 智慧財產權 
+本服務、內容和軟體係受國際著作權法保護。HMD Global 在法律允許的最大範圍內，對其服務、內容和軟體中的著作權擁有所有權。根據本條款的規定，HMD Global 保留本服務、其內容、軟體以及所有其他透過服務提供給您或由您使用的 HMD Global 產品、軟體和其他財產中的一切權利、所有權和利益。 
+ 
+22. 轉讓 
+HMD Global 得將其根據本條款項的權利和義務轉讓給其母公司、其任何子公司或，或是與 HMD Global 受到共同控制的任何公司。此外，HMD Global 得將其依本條款所享的權利和義務轉讓給因合併、收購、資產出售、法律運作或其他原因與而 HMD Global 具有關聯性的第三方。"</string>
+    <string name="hmd_user_experience_program_message">您參與使用者體驗計畫將幫助HMD Global更好的瞭解您所喜歡的有關於諾基亞手機的功能，和您所希望改進的地方。我們可能偶爾從您的設備收集匿名的技術參數，例如可能發生的系統當機資料。這些匿名資料將不會通過手機移動網路傳輸。我們願意傾聽您對諾基亞產品的心聲！</string>
+    <string name="hmd_user_experience_program_title">使用者體驗計畫</string>
+    <string name="idle_too_long_toast">本手機已閒置一段時間，需關機以保持電力。</string>
+    <string name="insert_sim_cards">插入SIM卡</string>
+    <string name="insert_sim_cards_prompt_content">"不知道怎麼辦？請查看手機附帶的說明。
+
+插入SIM卡後，可能需要幾秒鐘才能激活。"</string>
+    <string name="language_selection_cancel_btn">取消</string>
+    <string name="language_selection_title">選擇您的語言</string>
+    <string name="light_room_description">%1$s 支援拍攝 RAW (DNG) 影像。我們還與 Adobe 合作，所以您在新的智慧型手機上就能直接編輯影像。&lt;br/>&lt;br/>現在就到 Google Play 商店下載 Adobe Photoshop Lightroom CC。</string>
+    <string name="light_room_title">您熱愛攝影嗎？</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="location_for_service">將我的位置使用在Google搜尋和其他的Google服務。</string>
+    <string name="location_info_1">Google的定位服務在沒有GPS時也可將您大概的所在位置提供給應用程式使用。</string>
+    <string name="location_info_2">您可以在設定下的定位服務中停用這些功能。</string>
+    <string name="location_network">允許Google的定位服務收集匿名的位置資料。即使沒有任何的應用程式在執行，資料的收集都會進行。</string>
+    <string name="location_title">使用Google定位</string>
+    <string name="nevigation_selection_back">返回</string>
+    <string name="nevigation_selection_home">主畫面</string>
+    <string name="nevigation_selection_recent">最近使用</string>
+    <string name="nevigation_selection_text">您可以改變\"返回\"/\"最近使用\"鍵的位置及背景顏色</string>
+    <string name="nevigation_selection_title">導覽列設定</string>
+    <string name="next_btn_lebel">下一步</string>
+    <string name="normal_date_format">本地 (%s)</string>
+    <string name="not_now">稍後加入…</string>
+    <string name="passpoint_content">%1$s憑證</string>
+    <string name="passpoint_label">透過下列方式儲存：</string>
+    <string name="please_select_phase2">階段 2 驗證</string>
+    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="proxy_error_empty_host_set_port">若主機欄位空白，連接埠欄位也須空白。</string>
+    <string name="proxy_error_empty_port">您必須填寫通訊埠欄位。</string>
+    <string name="proxy_error_invalid_exclusion_list">您所輸入的排除清單格式有誤，請輸入以英文逗點分隔的排除網域清單。</string>
+    <string name="proxy_error_invalid_port">您所輸入的通訊埠無效。</string>
+    <string name="proxy_exclusionlist_label">略過以下 Proxy：</string>
+    <string name="proxy_hostname_label">Proxy 主機名稱</string>
+    <string name="proxy_port_label">Proxy 通訊埠</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"PAC 網址： "</string>
+    <string name="proxy_warning_limited_support">瀏覽器會使用 HTTP Proxy，但其他應用程式不一定會採用這項設定。</string>
+    <string name="saved_network">由%1$s儲存</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="select_sim_card">選取 SIM 卡</string>
+    <string name="set_sim_call_ask_every_time">每次都詢問</string>
+    <string name="set_sim_data">使用行動網路進行設定</string>
+    <string name="setup_complete_hmd">您的手機可以使用了...</string>
+    <string name="setup_complete_hmd_1">您的手機即將可以使用…!</string>
+    <string name="setup_complete_main">您的手機</string>
+    <string name="setup_complete_message">已完成相關設定，可以開始使用手機。</string>
+    <string name="setup_complete_sub">可以使用了。</string>
+    <string name="setup_completed_congratulations">恭喜!</string>
+    <string name="setup_finish">設定完成</string>
+    <string name="sim_data_tip_btn_back">返回</string>
+    <string name="sim_data_tip_btn_continue">繼續</string>
+    <string name="sim_data_tip_content">你的手機在設定期間會使用行動網路，你可能必須支付相關數據用量的費用。如要避免可能產生的數據傳輸費用，請連缐至WLAN網路。</string>
+    <string name="sim_data_tip_title">可能會產生數據傳輸費用</string>
+    <string name="sim_editor_title">SIM 卡插槽 %1$d</string>
+    <string name="sim_not_exist_toast">請檢查您是否已插入SIM卡。</string>
+    <string name="sim_slot">SIM 卡槽</string>
+    <string name="skip_add_account_button_label">現在不要</string>
+    <string name="skip_btn_label">略過</string>
+    <string name="skip_button_label">略過</string>
+    <string name="speed_label_fast">快</string>
+    <string name="speed_label_medium">適中</string>
+    <string name="speed_label_okay">確定</string>
+    <string name="speed_label_slow">慢</string>
+    <string name="speed_label_very_fast">非常快</string>
+    <string name="speed_label_very_slow">非常慢</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s，%2$s</string>
+    <string name="term_agree_text">同意</string>
+    <string name="term_disagree_text">不同意</string>
+    <string name="terms_of_service_description">"
+當使用手機上如天氣預報、網路空間上傳下載、電子郵件、瀏覽網際網路等服務時將會產生數據流量費用，建議您可向運營商申請數據流量套餐包以節省費用。
+
+一旦勾選同意，即表示您已清楚瞭解此提示﹐並同意手機將自動連網以使用相關服務｡
+
+另外，軟體自動更新通知為預設開啟，會使用到很少的流量，帶給您最新的軟體體驗。您稍後可以在設定中關閉此選項。
+
+"</string>
+    <string name="terms_title">流量提醒</string>
+    <string name="time_picker_title">時間</string>
+    <string name="traffic_prompt_content">勾選不同意時，您需透過手動方式取得軟體更新、天氣預報等資訊｡</string>
+    <string name="upload_agent_des_text">"加入使用者體驗計畫。&lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>了解更多&lt;/a>"</string>
+    <string name="upload_agent_hmd_des_text_2">"加入使用者體驗計畫。 &lt;a href='launch.UserExperienceActivity://Kode'>瞭解更多&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"點擊設定完成按鈕，表示您同意加入使用者體驗計畫。&lt;a href='launch.UserExperienceActivity://Kode'>瞭解更多&lt;/a>。稍後您也可以從設定中加入。"</string>
+    <string name="upload_agent_title">使用者體驗計畫</string>
+    <string name="v7_preference_off">關閉</string>
+    <string name="v7_preference_on">開啟</string>
+    <string name="wapi_auto_sel_cert">自動選取</string>
+    <string name="wapi_psk_security_type">密碼類型</string>
+    <string name="welcome_hmd_term_of_use_2">"點擊箭頭，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a> 和 &lt;a href='launch.AddUploadAgentHandler://Kode'>隱私政策&lt;/a>。設備啟動資訊和位置資訊將一次發送給HMD Global，可能產生數據費用。"</string>
+    <string name="welcome_hmd_term_of_use_4">"點擊按鈕，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a> 和 &lt;a href='launch.AddUploadAgentHandler://Kode'>隱私政策&lt;/a>。設備啟動信息和位置信息將被發送到HMD Global，可能產生數據費用。我們會遵照隱私權政策的規範使用相關資料。&lt;br/>&lt;br/> 軟體自動更新通知預設為開啟，如此可能會使用很少的流量，但會帶給您最新的軟體體驗。手機將自動聯網使用相關的服務。&lt;br/>&lt;br/> 上述服務的使用可能會產生資料流量費用。&lt;br/>&lt;br/> 設備可能會發送啟用訊息給當地電信商。&lt;br/>&lt;br/> 谷歌應用服務為了提供完整的服務，將需要連接網路，存取您的通訊錄、位置資訊、電話、簡訊、麥克風、相機、傳感器、日曆以及儲存。"</string>
+    <string name="welcome_hmd_term_of_use_5">"點擊按鈕，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a>。設備啟動資訊和位置資訊將一次發送給HMD Global，可能產生數據費用。我們會依據&lt;a href='launch.AddUploadAgentHandler://Kode'>隱私權政策&lt;/a>的規範使用相關資料。"</string>
+    <string name="welcome_infocus_term_of_use">"按下開始表示您同意&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">開始設定</string>
+    <string name="welcome_message">歡迎</string>
+    <string name="welcome_start_button_label">開始</string>
+    <string name="welcome_vision_settings_button_label">輔助功能設置</string>
+    <string name="wifi_add_network">新增網路</string>
+    <string name="wifi_advanced_toggle_description_collapsed">進階選項下拉式清單。輕觸兩下即可展開。</string>
+    <string name="wifi_advanced_toggle_description_expanded">進階選項下拉式清單。輕觸兩下即可收合。</string>
+    <string name="wifi_and_mobile_skipped_message">"連上網路有助於您快速完成手機設定作業。
+
+在離線狀態下，您無法執行以下動作：
+
+"<li>登入雲帳號</li>"
+
+"<li>取得軟體更新</li>"
+
+"<li>讓系統自動設定時間和日期</li></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">存取點暫時滿載</string>
+    <string name="wifi_auth_password_wrong">密碼可能不正確</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">取消</string>
+    <string name="wifi_carrier_connect">電信業者 Wi‑Fi 網路</string>
+    <string name="wifi_carrier_content">透過「%1%s」連線</string>
+    <string name="wifi_certificate">證書</string>
+    <string name="wifi_check_password_try_again">請檢查密碼，然後再試一次</string>
+    <string name="wifi_connect">連線</string>
+    <string name="wifi_connected_no_internet">已連線，沒有網際網路</string>
+    <string name="wifi_disabled_by_recommendation_provider">網路品質不佳，因此未連線</string>
+    <string name="wifi_disabled_generic">已停用</string>
+    <string name="wifi_disabled_network_failure">IP 設定失敗</string>
+    <string name="wifi_disabled_password_failure">驗證問題</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">不提供</string>
+    <string name="wifi_do_not_validate_eap_server">不進行驗證</string>
+    <string name="wifi_do_not_validate_eap_server_warning">您未指定任何憑證，因此無法為您設定私人連線。</string>
+    <string name="wifi_dont_skip">返回</string>
+    <string name="wifi_eap_anonymous">匿名身分</string>
+    <string name="wifi_eap_ca_cert">CA 憑證</string>
+    <string name="wifi_eap_domain">網域</string>
+    <string name="wifi_eap_identity">身分</string>
+    <string name="wifi_eap_method">EAP 方法</string>
+    <string name="wifi_eap_user_cert">使用者憑證</string>
+    <string name="wifi_fail_to_scan">無法掃描網路</string>
+    <string name="wifi_failed_connect_message">無法連線至網路</string>
+    <string name="wifi_failed_forget_message">無法刪除網路</string>
+    <string name="wifi_failed_save_message">無法儲存網路</string>
+    <string name="wifi_forget">清除</string>
+    <string name="wifi_frequency">頻率</string>
+    <string name="wifi_gateway">閘道</string>
+    <string name="wifi_ip_address">IP 位址</string>
+    <string name="wifi_ip_settings">IP 設定</string>
+    <string name="wifi_ip_settings_invalid_dns">請輸入有效的 DNS 位址。</string>
+    <string name="wifi_ip_settings_invalid_gateway">輸入有效的閘道位址。</string>
+    <string name="wifi_ip_settings_invalid_ip_address">請輸入有效的 IP 位址。</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">輸入長度介於 0 到 32 之間的網路前置碼。</string>
+    <string name="wifi_metered_label">按用量收費</string>
+    <string name="wifi_multiple_cert_added">(已新增多個憑證)</string>
+    <string name="wifi_network_prefix_length">網路前置碼長度</string>
+    <string name="wifi_no_domain_warning">必須指定網域。</string>
+    <string name="wifi_no_internet">無可用網際網路</string>
+    <string name="wifi_no_internet_no_reconnect">無法自動連線</string>
+    <string name="wifi_not_in_range">不在有效範圍內</string>
+    <string name="wifi_password">密碼</string>
+    <string name="wifi_picker_connection_des_text">若未連上WLAN則會透過行動網路驗證軟體，可能會產生資料傳輸費用。</string>
+    <string name="wifi_picker_connection_negative">連接</string>
+    <string name="wifi_picker_connection_negative_prc">連接WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">連接Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">確定</string>
+    <string name="wifi_picker_connection_title">網路連線</string>
+    <string name="wifi_picker_warning_des_text">在您連接上網路前，手機將無法驗證您的軟體是否是最新的。</string>
+    <string name="wifi_picker_warning_negative">略過</string>
+    <string name="wifi_picker_warning_positive">不要略過</string>
+    <string name="wifi_picker_warning_title">警告</string>
+    <string name="wifi_remembered">已儲存</string>
+    <string name="wifi_save">儲存</string>
+    <string name="wifi_security">安全性</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_none">無</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_see_all_network">查看所有WLAN網路</string>
+    <string name="wifi_setting_sub_title">如要取得應用程式或複製資料，請先連上網路</string>
+    <string name="wifi_setting_title">連上網路</string>
+    <string name="wifi_shared">與裝置的其他使用者共用</string>
+    <string name="wifi_show_advanced">進階選項</string>
+    <string name="wifi_show_password">顯示密碼</string>
+    <string name="wifi_signal">訊號強度</string>
+    <string name="wifi_skip_anyway">略過</string>
+    <string name="wifi_speed">連線速度</string>
+    <string name="wifi_ssid">網路名稱</string>
+    <string name="wifi_ssid_hint">輸入 SSID</string>
+    <string name="wifi_ssid_too_long">網路名稱太長。</string>
+    <string name="wifi_status">狀態</string>
+    <string name="wifi_unchanged">(未變更)</string>
+    <string name="wifi_unmetered_label">不限數據用量收費</string>
+    <string name="wifi_unspecified">請選取</string>
+    <string name="wifi_use_system_certs">使用系統憑證</string>
+    <string name="zone_auto">自動判定時區</string>
+    <string name="zone_auto_summaryOff">使用網路提供的時區</string>
+    <string name="zone_auto_summaryOn">使用網路提供的時區</string>
+    <string name="sugarsync_intro_description">只要完成幾個簡單的步驟，您即可享用無縫的SugarSync雲端儲存空間。</string>
+</resources>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">رسائی</string>
+    <string name="account_intro_description">[BRAND_NAME] خدمات میں شامل ہوکر آلے کا اسمارٹ استعمال کریں۔</string>
+    <string name="account_intro_title">[BRAND_NAME]InFocus خدمات کا اکاؤنٹ</string>
+    <string name="add_baidu_button_label">لاگ ان 百度云</string>
+    <string name="add_infocus_service_account">[BRAND_NAME]خدمات کا اکاؤنٹ شامل</string>
+    <string name="available_via_passpoint">دستیاب ہے بذریعہ %1$s</string>
+    <string name="back_btn_lebel">واپس</string>
+    <string name="backup_and_restore_description">"اپنا اکاؤنٹ پہلے بیک اپ کرنے کی صورت میں آپ اسے اس فون پر بحال کرسکتے ہیں
+
+آپ ترتیبات میں کبھی بھی بیک اپ ترتیبات تبدیل کرسکتے ہيں۔"</string>
+    <string name="backup_and_restore_title">یک اپ اور بحال</string>
+    <string name="baidu_intro_description">اب چند آسان اقدام کے بعد 百度云 سے بلا کسی رکاوٹ کے کلاؤڈ ذخیرے کا انضمام استعمال کرسکتے ہيں</string>
+    <string name="baidu_intro_title">Baidu کیلئے کلاؤڈ ذخیرہ</string>
+    <string name="baidu_progress_dialog_des">انتظار کریں...</string>
+    <string name="choose_timezone">ٹائم زون منتخب کریں</string>
+    <string name="connected_via_passpoint">مربوط بذریعہ %1$s</string>
+    <string name="connected_via_wfa">مربوط بذریعہ Wi‑Fi اسسٹنٹ</string>
+    <string name="datausage_dialog_negitive_btn">منسوخ کریں</string>
+    <string name="datausage_dialog_positive_btn">ٹھیک ہے</string>
+    <string name="date_and_time">ترتیبات&amp; تاریخ و وقت</string>
+    <string name="date_and_time_settings_summary">تاریخ، وقت، ٹائم زون اور فارمیٹس کو سیٹ کریں</string>
+    <string name="date_and_time_settings_title">تاریخ &amp; وقت</string>
+    <string name="date_and_time_settings_title_setup_wizard">تاریخ اور وقت سیٹ کریں</string>
+    <string name="date_picker_title">ہر مہینے کی تاریخ:</string>
+    <string name="date_time_24hour">24 گھنٹے کا فارمیٹ استعمال کریں</string>
+    <string name="date_time_auto">خود کار تاریخ اور وقت</string>
+    <string name="date_time_auto_summaryOff">نیٹ ورک کے فراہم کردہ وقت کا استعمال کریں</string>
+    <string name="date_time_auto_summaryOn">نیٹ ورک کے فراہم کردہ وقت کا استعمال کریں</string>
+    <string name="date_time_date_format">تاریخ کا فارمیٹ منتخب کریں</string>
+    <string name="date_time_set_date">تاریخ سیٹ کریں</string>
+    <string name="date_time_set_time">وقت سیٹ کریں</string>
+    <string name="date_time_set_timezone">ٹائم زون منتخب کریں</string>
+    <string name="device_checking_message">خوش آمدید</string>
+    <string name="dropbox_fih_description">تصاویر اور ویڈیو خودبخود محفوظ کرنے کیلئے 2 GB Drobox جگہ مفت حاصل کریں۔</string>
+    <string name="dropbox_fih_signin">بذریعہ Dropbox سائن</string>
+    <string name="dropbox_fih_signup">بذریعہ Dropbox سائن</string>
+    <string name="emergency_dial_hmd_message">ہنگامی</string>
+    <string name="emergency_dial_message">ہنگامی کال</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY]سافٹ وئیر استعمال شرائط
+ 
+ مؤثر تاریخ: 20 مارچ 2016
+ 
+ مندرجہ ذیل شرائط و ضوابط (شرائط) [BRAND_NAME_PROXY]سافٹ وئیر کے استعمال پر لاگو ہونے والا آپ کے اور[BRAND_NAME_PROXY]Inc. اور اس کے ایجنٹ Commtiva Technology Ltd (اجتماعی طور پر[BRAND_NAME_PROXY]) کے درمیان قانونی معاہدہ ہیں اور [BRAND_NAME_PROXY]سافٹ وئیر کے استعمال پر لاگو ہوتا ہے، جس میں ڈاؤن لوڈ، تنصیب، خودکار تجدید (سافٹ وئیر خدمت) شامل ہيں لیکن ان تک محدود نہيں۔ [BRAND_NAME_PROXY]استعمال کرنے کا مطلب ہے کہ آپ ان شرائط کے پابند ہیں۔ اگر آپ متفق نہ ہوں تو[BRAND_NAME_PROXY]سافٹ وئیر ڈاؤن لوڈ، نقل، استعمال یا برقرار نہ رکھیں۔
+ 
+ 1. 
+استعمال شرائط جب تک آپ ان شرائط کی تعمیل کرتے ہيں[BRAND_NAME_PROXY]آپ کو[BRAND_NAME_PROXY]سافٹ وئیر خدمات استعمال کرنا کا ذاتی، ناقابل انتقال، ناقابل منسوخ اور محدود اسکوپ دیتا ہے۔ [BRAND_NAME_PROXY]بذریعہ انٹرنیٹ آپ کے[BRAND_NAME_PROXY]موبائل اسمارٹ آلے ([BRAND_NAME_PROXY]ہینڈسیٹ) میں آبجیکٹ کوڈ نصب کرے گا۔ آپ اعتراف اور رضامند ہیں کہ آپ کے[BRAND_NAME_PROXY]ہینڈسیٹ پر[BRAND_NAME_PROXY]سافٹ وئیر تجارتی مقصد کیلئے استعمال نہيں ہوگا، اور نہ تیسرے فریق کو منتقل ہوگا۔
+ نيز آپ متفق ہیں کہ آپ[BRAND_NAME_PROXY]سافٹ وئیر کو مندرجہ ذیل طریقوں سے استعمال نہیں کریں گے:
+ (a) [BRAND_NAME_PROXY]سافٹ وئیر کریک کرنا (بشمول زیریں ٹیکنالوجی) یا [BRAND_NAME_PROXY]سافٹ وئیر کو کسی آلے پر استعمال کرکے جو[BRAND_NAME_PROXY]میں برانڈ نہيں ہے۔
+ (b) [BRAND_NAME_PROXY]سافٹ وئیر کا تجزیہ، ڈی کمپائل، ریورس انجنئیرنگ، ڈی کوڈ کرنا، نقل کرنا، تبدیل کرنا، یا کسی بھی مقصد کیلئے مبنی دوسرا کام تخلیق کرنا؛
+ (c) شرائط کی خلاف ورزی میں کوئی قدم اٹھانا، جیسے کہ منتقل کرنا، کرائے یا ادھار یا ذیلی لائسنس پر دینا، اور[BRAND_NAME_PROXY]سافٹ وئیر کو عوامی بنانا یا کسی تیسرے فریق کو[BRAND_NAME_PROXY]سافٹ وئیر استعمال کرنے، رسائی کرنے یا رکھنے دینا؛
+ (d) [BRAND_NAME_PROXY]سافٹ وئیر یا دستاویزات میں[BRAND_NAME_PROXY]کی تحریری اجازت کے بغیر مالکانہ نوٹس، لوگو یا ٹریڈمارک نکالنا؛
+ (e) [BRAND_NAME_PROXY]کے سافٹ وئکر کے استعمال سے موجودہ قانون کی خلاف ورزی یا دوسری فریقین کے حقوق کی خلاف ورزی؛
+ (f) [BRAND_NAME_PROXY]سافٹ وئیر کو ایسے ماحول میں استعمال کرنا جہاں اس کی ممانعت یا پابندی ہو، جیسے کہ پرواز کنٹرول کا علاقہ، پٹرول پمپ، جوہری آلات وغیرہ؛یا
+ (g) [BRAND_NAME_PROXY]سافٹ وئیر کا اس طرح استعمال کہ شرائط میں ممانعت ہو؛
+ 
+ [BRAND_NAME_PROXY]ہینڈسیٹ اور[BRAND_NAME_PROXY]سافٹ وئیر کے درست عمل کو یقینی بنانے کیلئے آپ عہد کرتے ہيں کہ آپ[BRAND_NAME_PROXY]کے عملے کے بغیر اپنے [BRAND_NAME_PROXY]ہینڈسیٹ کا لیبل نہيں نکالیں گے۔ یہ غیرمجاز سرگرمیاں[BRAND_NAME_PROXY]کی ضمانت کے دائرہ کار کو متاثر کرتے ہيں۔
+ 
+ 2. رازداری پالیسی
+ آپ اعتراف کرتے ہيں کہ[BRAND_NAME_PROXY]آپ کے[BRAND_NAME_PROXY]ہینڈسیٹ کے متعلق کوئی بھی معلومات جیسے کہ وضع کی قسم، سیریل نمبر، IMEI/MEID کوڈ، HW ورژن، SW ورژن، مجموعی وقت، SKU ID، ڈیفالٹ اعداد و شمار اور OS ورژن (معلومات) جمع کرسکتا ہے۔ 
+ اس صورت میں کہ[BRAND_NAME_PROXY]کو کسی بھی عدالت یا سرکاری ادارے کو یہ معلومات فراہم کرنی پڑ جائے،[BRAND_NAME_PROXY]ایسا کرے گا۔
+ 
+ [BRAND_NAME_PROXY]ہینڈسیٹ[BRAND_NAME_PROXY]کو[BRAND_NAME_PROXY]ہینڈسیٹ کے خریداری کے 14 روز تک موبائل نیٹورک سے نہ جڑنے کی کیفیت کے متعلق مطلع کرے گا۔
+ 
+ مزید تفصیلات کیلئے[BRAND_NAME_PROXY]رازداری کی پالیسی دیکھیں
+ 
+ 3. معاونتی خدمت
+ [BRAND_NAME_PROXY]سافٹ وئیر [BRAND_NAME_PROXY]ہینڈسیٹ سے [BRAND_NAME_PROXY]کی حاصل کردہ کیفیت[BRAND_NAME_PROXY] کے مطابق خدمات، بشمول تجدیدات اور اپ گریڈ فراہم کرے گا۔
+ [BRAND_NAME_PROXY]آپ کے[BRAND_NAME_PROXY]سافٹ وئیر کو[BRAND_NAME_PROXY]سافٹ وئیر کے استعمال بعد بذریعہ انٹرنیٹ تجدیدات، پیچ یا اضافی عناصر فراہم کرے گا، جس پر شرائط کا اطلاق ہوگا۔
+ 
+ [BRAND_NAME_PROXY]آپ کے[BRAND_NAME_PROXY]کی خدمت کو بذریعہ انٹرنیٹ رسائی کرنے اور[BRAND_NAME_PROXY]سافٹ وئیر اور خدمت تک بلاجھجھک رسائی منسوخ کرنے کا حق رکھتا ہے۔
+ [BRAND_NAME_PROXY]،[BRAND_NAME_PROXY]سافٹ وئیر کے جدید ورژن جاری کرکے آپ کو تازہ ترینOS ورزن کے استعمال کو ضروری بنائے گا۔
+ 
+ 4. خودکار تجدید
+ آپ کے[BRAND_NAME_PROXY]کو مضبوط کرنے اور بہتر بنانے کیلئے، اسے[BRAND_NAME_PROXY]سے تازہ ترین فرم وئیر اور سافٹ وئیر خودکار طور پر ڈاؤن لوڈ کرنے کیلئے سیٹ کیا گيا ہے۔
+ 
+ آپ کے[BRAND_NAME_PROXY]ہینڈسیٹ کی حفاظت اور استحکام کو یقینی بنانے کیلئے، آپ [BRAND_NAME_PROXY] کیذریعے دی گئی ضروری ہدایات پر عمل کرنے کیلئے پر متفق ہیں۔ جب آپ تازہ ترین سافٹ ویئر ڈاؤن لوڈ کرنے کے لئے متفق ہوتے ہیں تو اسے تجدید اور تنصیب کیلئے آپکی منظوری سمجھا جاتا ہے۔
+ 
+ [BRAND_NAME_PROXY]ہینڈسیٹ کی تجدیدات کے دوران آپ کے دستاویزات، تصویریں، ٹیکسٹ، ساؤنڈ فائلیں، اور برقیاتی ریکارڈ کے نقصان کی روک تھام کیلئے [BRAND_NAME_PROXY] میں ذخیرہ کردہ ریکارڈ کے بیک اپ کی ذمہ داری آپ کی ہے۔
+ 
+ آپ کے[BRAND_NAME_PROXY]کے ہینڈسیٹ کے پیغام کے ذریعے خودکار تجدید کا مطلب ہے کہ اپ مندرجہ ذیل مشمولات سے متفق ہيں:
+ (a) سافٹ وئیر کی تجدید
+ آپ اعتراف کرتے ہيں اور متفق ہيں کہ[BRAND_NAME_PROXY]انٹرنیٹ کے ذریعے متصل ہو کر آپ کے[BRAND_NAME_PROXY]ہینڈسیٹ کا سافٹ وئیر ورژن چیک اور کیفیت کی تجدید کرسکتا ہے۔ [BRAND_NAME_PROXY]کے اپ گریڈ کی اطلاع جاری کرنے پر[BRAND_NAME_PROXY]آپ کو[BRAND_NAME_PROXY]سافٹ وئیر ورژن اور کیفیت کو بذریعہ[BRAND_NAME_PROXY]خدمت تجدید کرنے دیتا ہے۔
+ [BRAND_NAME_PROXY]سافٹ وئیر کی دستیابی پر آپ[BRAND_NAME_PROXY]کو ان تجدیدوں کی اطلاع بھیجنے کی اجازت دیتے ہيں۔ نئے دستیاب تجدیدات کی تصدیق کا مطلب ہے کہ آپ [BRAND_NAME_PROXY] کو خودکار طور پر آپ کے[BRAND_NAME_PROXY] ہینڈسیٹ کی تجدید کی اجازت دیتے ہيں۔
+ (b) مشمولات سنک اور تجدید:
+ آپ کے[BRAND_NAME_PROXY]ہینڈسیٹ کو آپ کے کمپیوٹر اور دوسرے آلے کے ساتھ متصل کرنے کے بعد آپ کا[BRAND_NAME_PROXY]ہینڈسیٹ خودکار طور پر تمام متعلقہ مشمولات اور دوسری معلومات (رابطے کی معلومات، کیلنڈر، بک مارکس اور فائلیں) جدید کرے گا۔
+ 
+ 5. [BRAND_NAME_PROXY]کے سافٹ وئیر میں تمام مالکانہ اور دیگر حقوق کا تحفظ
+ آپ[BRAND_NAME_PROXY]سافٹ وئیر اور خدمات استعمال کرنے کا لائسنس رکھتے ہيں، لیکن[BRAND_NAME_PROXY]، اس کے شرکاء اور فراہم کنندگان تمام[BRAND_NAME_PROXY]سافٹ وئیر کے حقوق برقرار رکھتے ہيں، جس میں محدود مالکانہ، کاپی رائٹ اور دیگر عاقلانہ ملکیت کے حقوق شامل ہیں
+ 
+ یہ تمام[BRAND_NAME_PROXY]سافٹ وئیر کے حقوق مقامی قوانین اور بین الاقوامی معاہدوں کے ذریعے محفوظ ہيں۔
+ 
+ 6. دستبرداری
+ [BRAND_NAME_PROXY]کسی بھی قسم کی نمائندگی یا ضمانت نہيں دیتا ہے، چاہے وہ واضح کردہ ہو یا اخذ کردہ، جس میں قابل فروخت ہونے، معیار کے اطمینان بخش ہونے، کسی مقصد کیلئے موزوں ہونے یا خلاف ورزی نہ کرنا شامل ہيں۔ 
+ [BRAND_NAME_PROXY]درج ذیل کی ضمانت نہيں دیتا:
+ (a) آپ کی حاصل کردہ[BRAND_NAME_PROXY]کی خدمت درست یا معتبر ہوگی؛یا
+ (b) [BRAND_NAME_PROXY]خدمت بروقت، محفوظ، یا بغیرمداخلت کے فراہم کی جائے گی؛یا
+ (c) سافٹ وئیر میں نقص اور غلطیوں کو فوری طور پر ٹھیک کردیا جائے گا۔
+ 
+ [BRAND_NAME_PROXY]آپ کے[BRAND_NAME_PROXY]ہینڈسیٹ، پروگرام، ڈیٹا یا دیگر مالکانہ مواد کو[BRAND_NAME_PROXY]خدمات کے استعمال کی وجہ سے متاثر کرنے والے وائرس یا دیگر تکنیکی طور پر نقصان دہ مفاد کی وجہ سے ہونے والے نقصان کا ذمہ دار نہيں ہوگا۔ [BRAND_NAME_PROXY]کے ذریعے حاصل کردہ تمام مشمولات یا دوسرے مواد کی ذمہ داری آپ کی ہے، اور آپ اپنے[BRAND_NAME_PROXY]ہینڈسیٹ کو نقصان یا کسی سافٹ وئیر کے ڈاؤن لوڈ کی وجہ سے ڈیٹا یا مشمولات کے نقصان کے ذمہ دار ہيں۔
+ 
+ 7. صنعت کار کی ذمہ داری کی حد بندی
+ [BRAND_NAME_PROXY]کسی بھی ذیلی، بلاواسطہ نقصانات، یا نفع یا ذاتی یا دیگر معلومات کے نقصان، کاروبار میں مداخلت، ذاتی نقصان، املاک کے نقصان، رازداری کے نقصان، نیک نیتی یا مناسب دیکھ بھال کی ذمہ داری پوری نہ کرنے یا بے توجہی کا ذمہ دار نہيں ہے۔
+ قابل اطلاق قانون کی زیادہ سے زيادہ حد تک، [BRAND_NAME_PROXY] کی آپ پر زیادہ سے زیادہ مجموعی ذمہ داری، اور ان شرائط کے تحت تمام مطالبات یا ان شرائط سے تعلق رکھنے والے مقدمات کی وجہ سے آپ کے تمام نقصانات، چوٹ، ملکیت کے نقصان اور دیگر نقصانات کی بازیابی کے اخراجات دس امریکی ڈالر تک محدود ہیں۔ 
+ 
+ شرائط سے وابستہ متعدد مطالبات یا مقدمات کی صورت میں ذمہ داری میں توسیع نہيں ہوگی اور قابل اطلاق قانون کی زیادہ سے زیادہ حد تک آپ کا واحد ازالہ ہوگا۔
+ 
+ اگر اہل عدالت مذکورہ بالا ذمہ داری کی پابندی کو ناقابل نفاذ سمجھی ہے تو وہ اس حد تک ناقابل اطلاق سمجھے گی اور دس ڈالر تک محدودکی جگہاس معاملے کی قدر تک محدود جس پر ذمہ داری عائد ہوئی ہے۔آجائيں گے۔
+ 
+ ان شرائط سے تعلق رکھنے والے مطالبے یا مقدمے کو اس اقدام کے سبب کے ایک سال کے اندر اندر دائر کرنا ضروری ہے۔ 
+ 8. بری الذمہ
+ آپ[BRAND_NAME_PROXY]، اس کے مالکان حصص، ڈائریکٹر، افسران، فریقین، ذیلی کمپنیوں اور شرکاء کو[BRAND_NAME_PROXY]کی خدمات کے تیسرے فریق کے حقوق کی خلاف ورزی کے سلسلے میں یا وجہ سے کسی تیسرے فریق کی طرف سے[BRAND_NAME_PROXY] کے خلاف کسی بھی مطالبات، نقصان، ذمہ داری، یا اخراجات (بشمول وکیل کی فیس) سے بری الذمہ ٹھہراتے ہيں۔
+ 
+ 9. خدمات کی منسوخی
+ شرائط نہ ماننے کی صورت میں [BRAND_NAME_PROXY]کی خدمات کے قانونی استعمال سے روک دیا جائے گا۔ اس صورت میں آپ[BRAND_NAME_PROXY]سافٹ وئیر کے تمام نقول تباہ کردیں گے۔ اس دوران آپ کے [BRAND_NAME_PROXY] کے ہینڈسیٹ کی ضمانت متاثر ہوگی۔
+ مذکورہ بالا خلاف ورزی کی صورت میں[BRAND_NAME_PROXY] کو مندرجہ ذیل کا حق حاصل ہے:
+ (a) آپ ک[BRAND_NAME_PROXY]کے اکاؤنٹ تک رسائی کے حق کی فوری منسوخی، یا
+ (b) [BRAND_NAME_PROXY]کے خدمت کے اکاؤنٹ کے رسائی کو بلاک کرنا
+ 
+ آپ متفق ہیں کہ شرائط کی خلاف ورزی سے[BRAND_NAME_PROXY]کو ناقابل تلافی نقصان پہنچے گا، جس کیلئے رقم ناکافی ثابت ہوگی، اور آپ [BRAND_NAME_PROXY] کو ان صورت حال میں[BRAND_NAME_PROXY] کی ضروری سمجھے جانے والے مناسب ازالے کے حصول پر رضا مند ہيں۔ یہ ازالے ان ازالوں کے علاوہ ہیں جو[BRAND_NAME_PROXY]کو بحیثیت قانون یا سرمایہ حاصل ہیں۔
+ 
+ 10. قابل اطلاق قانون اور دائرہ کار
+ آپ متفق ہیں کہ ان شرائط سے تعلق رکھنے والے تمام مطالبوں پر جمہوریہ چین کے قوانین کا اطلاق، قانون کی شقوں کے بالاتر، ہوگا۔ 
+ 
+ آپ تائیوان تائی پئی ضلعی عدالت کے ذاتی دائرہ کار پر متفق ہیں اور ان دائرہ کار پر اعتراض سے دستبردار ہوتے ہيں۔
+ 
+ آپ اور [BRAND_NAME_PROXY]کے درمیان کوئی بھی تنازعہ جو باہمی تعلقات سے نہ حل ہوسکے، اس صورت میں آپ کو یا [BRAND_NAME_PROXY] کو ثالثی عمل کا حق حاصل ہے۔ تنازعے کے 30 کیلنڈر روز کے اندر اندر حل نہ ہونے کی صورت میں یہ تنازعہ مذکورہ بالا ضلعی عدالت میں فائل کیا جائے گا۔
+ 
+ 11. عام شق
+ شرائط کے عنوانات صرف سہولت کیلئے فراہم کئے گئے ہيں۔
+ آپ کی خلاف ورزی کی صورت میں[BRAND_NAME_PROXY]کا اقدام نہ کرنا اس خلاف ورزی یا مزید خلاف ورزیوں کے حق سے استثنی نہيں ہے۔
+ 
+ کسی اہل عدلت کے ان شرائط کو ناجائژ یا ناقابل نفاذ قرار دینے کی صورت میں ان ناجائز یا ناقابل نفاذ شقوں کو جائژ اور قابل نفاذ شق سے تبدیل کردیا جائے گا جو اصلی شق کے مقصد کی عکاسی کرتی ہوگی، اور باقی شرائط اسی طرح اثرانداز رہیں گی۔ 
+ 
+ آپ شرائط متعین نہيں کرسکتے ہيں اور نہ ہی حقوق کو متعین، منتقل یا لائسنس دے سکتے ہيں۔
+ 
+ [BRAND_NAME_PROXY]آپ کو اطلاع دئیے بغیر ان شرائط کو مکمل یا جزوی طور پر متعین کرسکتے ہيں۔ 
+ 
+ یہ شرائط آپ کے اور[BRAND_NAME_PROXY]کے درمیان کسی پیشگی مواصلت پر فوقیت رکھتے ہيں۔
+ 
+ 12. مکمل معاہدہ
+ شرائط اور منسلکات آپ کے اور[BRAND_NAME_PROXY]کے درمیان[BRAND_NAME_PROXY] کے حوالے سے مکمل معاہدہ ہيں۔
+ 
+ 13. شرائط میں ترمیم
+ [BRAND_NAME_PROXY]وقفے وقفے سے اپنی صوابدید پر شرائط ترمیم، تجدید یا حذف کرسکتا ہے۔
+ 
+ آپ کو[BRAND_NAME_PROXY]کی ویب سائٹ پر شائع کردہ شرائط پڑھنے چاہئیے جو آپ کے پڑھے گئے شرائط سے مختلف ہوسکتے ہيں۔
+ 
+ تجدید کرنے والے سافٹ وئیر اور[BRAND_NAME_PROXY]ہینڈسیٹ کا استعمال ان ترامیم کی قبولیت سمجھا جائے گا۔
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] legal</string>
+    <string name="finish_button_label">ختم</string>
+    <string name="google_account_add_account">‏Google کے ساتھ سائن ان کریں</string>
+    <string name="google_account_intro_description">Google خدمات سے لطف اندوز ہونے کیلئے Google اکاؤنٹ سیٹ اپ کريں</string>
+    <string name="google_account_intro_title">Google اکاؤنٹ</string>
+    <string name="hmd_legal_message">"سروس کی شرائط 
+ 
+موثرالعمل ہونے کی تاریخ 14 اکتوبر 2016 
+ 
+1. قبولیت 
+رازداری پالیسی اور دیگر تمام اضافی شرائط اور معلومات کے ساتھ اس HMD گلوبل سروس کی شرائط جنہیں سروس (مجموعی طور پر \"شرائط\") میں فراہم کیا جا سکتا ہے، آپ کے سروس، سائٹ، مندرجات اور سافٹ ویئر (مجموعی طور پر \"سروس\") کے استعمال پر لاگو ہوتی ہیں۔ سروس یا اس کے کسی بھی حصہ کے لئے رجسٹر کرنے یا استعمال کرنے سے آپ ان شرائط کو قبول کرتے ہیں۔ 
+ 
+سروس کے تناظر کے ساتھ، آپ اور HMD گلوبل کے حقوق اور ذمہ داریوں کی تشریح کرتے ہوئے، شرائط، آپ اور HMD گلوبل Oy، Bertel Jungin aukio 9، 02610 Espoo فن لینڈ، بشمول اس کے ماتحت اداروں اور فراہم کنندگان (مجموعی طور پر \"HMD گلوبل\") کے مابین ایک معاہدہ تشکیل دیتی ہیں۔ 
+ 
+2. اہلیت 
+سروس کو استعمال کرنے کیلئے، آپ کی عمر کم از کم تیرہ (13) سال ہونی لازمی ہے۔ اگر آپ کی عمر تیرہ (13) سال سے کم ہے، یا کم از کم تیرہ (13) سال ہے، لیکن جہاں آپ رہتے ہیں، وہاں بچے ہیں، تو آپ کی جانب سے آپ کے والدین یا قانونی سرپرست کی طرف سے آپ کے ایما پر آپ کی رجسٹریشن قبول کی جائے اور سروس کے استعمال کی منظوری دی جائے۔ رجسٹریشن مکمل کرنے والے کسی بھی شخص کا قانونی طور پر مجاز ہونا ضروری ہے۔ 
+ 
+3. رجسٹریشن اور برطرفی 
+ک سروس استعمال کرنے کے لیے آپ کو ایک صارف نام اور پاس ورڈ کے ساتھ رجسٹر کرنے اور ایک HMD اکاؤنٹ بنانے کی ضرورت ہو سکتی ہے، جو علیحدہ سے شرائط سے مشروط ہو سکتا ہے۔ پ کو ہمیں بعض ذاتی اور دیگر معلومات فراہم کرنے کی ضرورت ہو سکتی ہے۔ پ کے HMD اکاؤنٹ کو استعمال کیے جا سکنے سے پہلے HMD گلوبل آپ کے ای میل پتہ کی تصدیق کر سکتا ہے۔ آپ کے آلے کے پہلے استعمال پر اور ہر بار جب آپ نوکیا آلہ سافٹ ویئر کو اپ ڈیٹ کرتے ہیں، ایک متن پیغام HMD گلوبل کو بھیجا جائے گا۔ ایک HMD اکاؤنٹ کی تخلیق کیلئے ڈیٹا منتقل کرنے کی ضرورت ہو گی۔ ڈیٹا ٹرانسمیشن اخراجات لاگو ہو سکتے ہیں۔ 
+ 
+ب آپ سروس کیلئے رجسٹر کرتے ہیں اور اس معلومات کو تازہ ترین رکھنے کے لئے، آپ سچی اور مکمل معلومات فراہم کرنے کے لئے اتفاق کرتے ہیں۔ آپ دوسروں کی طرف سے اپنے صارف نام اور پاس ورڈ کے غلط استعمال کے خلاف لازماً مناسب خیال رکھیں اور اس غلط استعمال کے بارے میں HMD گلوبل کو فوری طور پر مطلع کریں۔ آپ، اور آپ کے والدین یا قانونی سرپرست، اگر آپ ایک بچے ہیں، ذاتی طور پر سروس کے کسی بھی استعمال کے لئے ذمہ دار ہیں۔ 
+ 
+اگر آپ مزید سروس استعمال نہیں کرنا چاہتے ہیں تو آپ اپنی رجسٹریشن ختم کر سکتے ہیں۔ ختم ہونے کے بعد، آپ کو سروس تک مزید رسائی حاصل نہیں رہے گی۔ HMD گلوبل سروس کے بعض حصون تک آپ کی رسائی کو ختم یا محدود کر سکتا ہے، اگر HMD معقول طور پر یقین کرتا ہے کہ آپ نے شرائط کی خلاف ورزی کی ہے یا پیشگی نوٹس کے ساتھ، اگر آپ نے اپنے صارف نام کے ساتھ گزشتہ چھ (6) ماہ میں سروس میں سائن نہیں کیا ہے۔ 
+ 
+سوائے جیسا کہ رازداری کی پالیسی میں متعین کیا گیا ہے، HMD گلوبل معلومات یا مندرجات جو آپ نے سروس میں جمع کرائے ہیں میں سے کسی کو ہٹانے یا نقصان کے لیے ذمہ دار نہیں ہے۔ جب سروس سے معلومات یا مندرجات کو یا تو آپ یا HMD گلوبل کی طرف سے ہٹایا جاتا ہے، تو کہیں اور نشانات یا نقول بدستور موجود رہ سکتے ہیں۔ 
+ 
+4. لائسنسز 
+HMD گلوبل آپ کو سروس تک سختی کے ساتھ شرائط کے مطابق رسائیا ور استعمال کرنے کے لئے، آپ کو ایک بغیر اختصاصی، ناقابل منتقلی لائسنس دیتا ہے جو HMD گلوبل کی کلی صوابدید پر کسی بھی وقت قابل تنسیخ ہے۔ سروس کا استعمال آپ کو کسی بھی دانشورانہ املاک، یا سروس میں کسی بھی معلومات یا مندرجات کے حقوق، عطا نہیں کرتا ہے۔ 
+ 
+سروس کے حصہ کے طور پر، HMD گلوبل، آپ کو HMD گلوبل یا اس کے لائسنس ( \"مندرجات\") کی طرف سے تیار کردہ مندرجات فراہم کر سکتا ہے۔ HMD گلوبل آپ کو اس مقصد کے لئے، جس کیلئے یہ مقصود ہے، مندرجات استعمال کرنے کا ایک غیرخصوصی اور دائمی لائسنس دیتا ہے، ماسوائے بصورت دیگر، جیسا کہ قابل اطلاق شرائط یا خریداری کے آرڈر میں وضاحت کی گئی ہے۔ کچھ مندرجات صرف مخصوص جغرافیائی علاقوں کے مکینوں کو دستیاب ہو سکتے ہیں۔ آپ کسی بھی پابندیوں کا احترام کریں گے جو سروس کے ذریعے آپ کے حاصل کردہ مندرجات پر لاگو ہیں۔ تیسرے فریق کے مندرجات کے لیے حاصل کردہ کوئی بھی لائسنس آپ اور تیسرا فریق مندرجات فراہم کنندہ کے درمیان ایک بائنڈنگ معاہدہ ہے۔ آپ کے پاس صرف مندرجات کے لئے حقوق موجود ہیں جو صریح طور پر عطا کیے جاتے ہیں۔ 
+ 
+سروس کے حصہ کے طور پر، HMD گلوبل آپ کو HMD گلوبل، یا اس کے لائسنس یافتگان ( \"سافٹ ویئر\") کی طرف سے تیار کردہ مخصوص سافٹ ویئر فراہم کر سکتا ہے۔ آپ کا سافٹ ویئر کا استعمال علیحدہ سے شرائط و ضوبط کے تابع ہو سکتا ہے، جو آپ کے لئے سافٹ ویئر استعمال کرنے سے پہلے قبول کرنا لازمی ہے۔ اس طرح کے سافٹ ویئر کے لئے لاگو، اگر کوئی علیحدہ شرائط اور ضوابط موجود نہیں ہیں، تو، مندرجہ ذیل شرائط کا اطلاق ہوتا ہے: HMD گلوبل آپ کو اپنے کمپیوٹر اور/یا موبائل کے آلہ پر سافٹ ویئر نصب کرنے اور استعمال کرنے کا ایک محدود، غیر اختصاصی، ناقابل منتقلی حقوق عطا کرتا ہے۔ آپ ماسوائے ایک واحد آرکائیو بیک اپ کاپی بنانے، کے سافٹ ویئر کی کاپی نہیں کر سکتے ہیں۔ آپ تقسیم، استعمال کرنے کے حق کو منتقل، ترمیم، ترجمہ، دوبارہ پیش، دوبارہ فروخت، ضمنی لائسنس، کرایہ، لیز، ریورس انجنیئر، یا دوسری صورت میں منبع کوڈ کی دریافت یا سافٹ ویئر سے استخراجی کام کرنے کی کوششیں نہیں کر سکتے ہیں۔ اوپن سورس لائسنس یافتہ سافٹ ویئر کے لئے، قابل اطلاق اوپن سورس لائسنس شرائط عائد ہوتی ہیں۔ آپ کے سافٹ ویئر کا استعمال آپ کی جانب سے قابل اطلاق شرائط و ضوابط کی قبولیت کی نشاندہی کرتا ہے۔ 
+ 
+سافٹ ویئر ہمارے ایکسپورٹ ایڈمنسٹریشن ضوابط کے ماتحت کنٹرولز اور دیگر درآمد یا برآمد پر کنٹرول کے ضوابط کے ماتحت ہونے سے مشروط ہو سکتا ہے۔ آپ سختی سے تمام قابل اطلاق درآمد اور برآمد کے ضوابط کی تعمیل کرنے سے اتفاق کرتے ہیں اور آپ تسلیم کرتے ہیں کہ آپ کے پاس برآمد کرنے، دوبارہ برآمد کرنے، منتقل کرنے، یا درآمد جیسا کہ سافٹ ویئر کے لائسنس حاصل کرنے کی ذمہ داری ہے۔ 
+ 
+آپ سروس کو معلومات یا مندرجات ( \"مندرجات\") پیش کرنے کے لئے قابل ہو سکتے ہیں۔ HMD گلوبل آپ کے مندرجات میں ملکیت کا دعوٰی نہیں کرتا ہے۔ آپ کی مندرجات کو جمع کرانا مندرجات کے لئے آپ کی ملکیت کے حقوق کو HMD گلوبل کو منتقل نہیں کرتا ہے۔ HMD گلوبل صرف مندرجات کی ترسیل کر رہا ہے اور اس پر ایڈیٹوریل کنٹرول کے لئے ذمہ دار نہیں ہے۔ سروس کو مندرجات جمع کرانے سے، آپ HMD گلوبل کو استعمال، نقل، عوامی طور پر انجام دینے، دکھانے، کسی بھی میڈیا میں تقسیم کرنے، اور دیگر کاموں میں مندرجات کو شامل کرنے کے لئے مندرجات میں ترمیم کرنے اور HMD گلوبل سروس فراہم کرنے کے لئے ضروری حد تک اسی طرح کے ضمنی لائسنس عطا کرنے کے لئے، ایک دنیا بھر کا، غیر خصوصی، ذیلی لائسنس، قابل تفویض، مکمل طور پر ادا شدہ، رائلٹی سے مبرا، دائمی، اور اٹل "</string>
+    <string name="hmd_user_experience_program_message">‏‫صارف تجربہ پروگرام میں آپ کی شرکت HMD Global کو یہ بہتر طور پر سمجھے میں مدد دیتی ہے کہ آپ کو Nokia آلے کے بارے میں کیا اچھا لگتا ہے اور آپ کے خیال میں کس چیز کو بہتر بنانے کی ضرورت ہے۔ وقتا فوقتا ہمیں آپ کے آلے کے بارے میں تکنیکی خصوصیات کے حامل گم نام ڈیٹا وصول ہوتے ہیں مثال کے طور پر ایسے ڈیٹا کا حامل فائل جس میں حاصل شدہ سافٹ ویئر کریش کے بارے میں معلومات ہوں۔ برائے مہربانی نوٹ کریں کہ سیلولر کنکشن کے ذریعے ایسے ڈیٹا کی ترسیل نہیں کی جاتی ہے۔ ہم Nokia آلے کے بارے میں آپ کی رائے سننے کے شوقین ہیں!</string>
+    <string name="hmd_user_experience_program_title">صارف تجربے کا پروگرام</string>
+    <string name="idle_too_long_toast">یہ فون کچھ دیر سے فارغ ہے۔ توانائی بچانے کیلئے ابھی بند کریں۔</string>
+    <string name="insert_sim_cards">SIM کارڈز داخل کریں</string>
+    <string name="insert_sim_cards_prompt_content">"یقین نہیں کہ کیسے؟ اپنے فون کے ساتھ آنے والی ہدایات ملاحظہ کریں۔
+
+جب آپ اپنے SIM کارڈز ڈالیں گے تو وہ فعال ہونے میں کچھ لمحات لے سکتے ہیں۔"</string>
+    <string name="language_selection_cancel_btn">منسوخ کریں</string>
+    <string name="language_selection_title">اپنی زبان منتخب کریں</string>
+    <string name="light_room_description">%1$s RAW (DNG) تصاویر لینے میں معاون ہے۔ Adobe کے ساتھ ہمارے اشتراک کا شکریہ کہ آپ اپنے نئے اسمارٹ فون پر براہ راست ترمیم کر سکتے ہیں۔&lt;br/>&lt;br/>Google Play اسٹور سے Adobe Photoshop Lightroom CC ابھی ڈاؤن لوڈ کریں۔</string>
+    <string name="light_room_title">فوٹوگرافی کے متعلق پرجوش ہیں؟</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="location_for_service">Google تلاش کے نتائج اور Google خدمات کیلئے میرا محل وقوع استعمال کریں</string>
+    <string name="location_info_1">Google کی محل و وقوع کی خدمت ایپلیکیشن کو GPS کے بغیر آپ کا محل و وقوع فراہم کرتی ہيں۔</string>
+    <string name="location_info_2">آپ محل و وقوع کی خدمات میں ترتیبات میں یہ خصوصیات غیرکارآمد کرسکتے ہيں۔</string>
+    <string name="location_network">Google کی محل و وقوع کی خدمات کو گم نام مقام کا ڈیٹا جمع کرنے دیں۔ اس وقت بھی جمع کاری ہوگی جب کوئی ایپلیکیشن نہيں چلے رہے ہوں گے۔</string>
+    <string name="location_title">Google محل وقوع استعمال کریں</string>
+    <string name="nevigation_selection_back">پچھلا</string>
+    <string name="nevigation_selection_home">ہوم</string>
+    <string name="nevigation_selection_recent">حالیہ</string>
+    <string name="nevigation_selection_text">آپ واپس / حالیہ کلیدوں کے پس منظر کا رنگ اور پوزيشن تبدیل کرسکتے ہیں۔</string>
+    <string name="nevigation_selection_title">گشت بار کی ترتیبات</string>
+    <string name="next_btn_lebel">اگلا</string>
+    <string name="normal_date_format">علاقائی (%s)</string>
+    <string name="not_now">ابھی نہیں…</string>
+    <string name="passpoint_content">%1$s استناد</string>
+    <string name="passpoint_label">محفوظ کردہ بذریعہ</string>
+    <string name="please_select_phase2">مرحلہ 2 کی توثیق</string>
+    <string name="proxy_error_empty_host_set_port">اگر میزبان فیلڈ خالی ہے تو پورٹ فیلڈ لازمی طور پر خالی ہونا چاہیے۔</string>
+    <string name="proxy_error_empty_port">آپ کو پورٹ فیلڈ مکمل کرنے کی ضرورت ہے۔</string>
+    <string name="proxy_error_invalid_exclusion_list">آپ نے اخراج کی جو فہرست ٹائپ کی وہ‏‎‎‏‎ٹھیک طرح سے فارمیٹ نہیں کی ہوئی ہے۔ خارج کردہ ڈومینز کی واویہ سے الگ کی ہوئی فہرست ٹائپ کریں۔</string>
+    <string name="proxy_error_invalid_port">آپ کے ذریعے ٹائپ کردہ پورٹ درست نہیں ہے‎.</string>
+    <string name="proxy_exclusionlist_label">پراکسی بائی پاس کریں</string>
+    <string name="proxy_hostname_label">پراکسی میزبان کا نام</string>
+    <string name="proxy_port_label">پراکسی پورٹ</string>
+    <string name="proxy_settings_title">پراکسی</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_warning_limited_support">‏HTTP پراکسی کا استعمال براؤزر کے ذریعے ہوتا ہے لیکن ممکن ہے دوسری ایپس اسے استعمال نہ کریں۔</string>
+    <string name="saved_network">محفوظ کردہ بہ ذریعہ %1$s</string>
+    <string name="select_sim_card">‏SIM کارڈ منتخب کریں</string>
+    <string name="setup_complete_hmd">ُآپ جانے کیلئے تیار ہیں۔۔۔</string>
+    <string name="setup_complete_hmd_1">آپ جانے کیلئے تقریبا تیار ہیں...!</string>
+    <string name="setup_complete_main">آپ ہيں</string>
+    <string name="setup_complete_sub">جانے کیلئے تیار</string>
+    <string name="setup_completed_congratulations">مبارک ہو!</string>
+    <string name="setup_finish">چلیں</string>
+    <string name="sim_editor_title">SIM سلاٹ %1$d</string>
+    <string name="sim_not_exist_toast">چیک کريں کہ آپ نے SIM کارڈ ڈالا ہے یا نہيں</string>
+    <string name="skip_add_account_button_label">ابھی نہیں</string>
+    <string name="skip_button_label">نظر انداز کریں</string>
+    <string name="term_agree_text">متفق</string>
+    <string name="term_disagree_text">غیر متفق</string>
+    <string name="terms_of_service_description">"
+موسم کی خدمات، ای میل، براؤزر وغیرہ جیسے نیٹورک کنکشن استعمال کرنے والی خدمات کے استعمال کے دوران موبائل ڈیٹا کے استعمال کے اخراجات لاگو ہوسکتے ہيں۔ اپنے موبائل ڈیٹا کے زيادہ موثر استعمال کیلئے ہم آپ کو اپنے کیرئیر سے مناسب موبائل خدمت کا پیکیج حاصل کرنے کی تجویز دیتے ہيں
+
+متفق منتخب کرکے آپ ان خدمات کو حسب ضرورت نیٹورک سے متصل ہونے کی اجازت دے رہے ہيں۔
+
+نیز، خودکار سافٹ وئیر کی تجدید ڈیفالٹ میں کارآمد ہے۔ تازہ ترین سافٹ وئیر کے تجربے کیلئے کچھ موبائل کا ڈیٹا استعمال ہوسکتا ہے آپ بعد میں ترتیبات میں یہ اختیار تبدیل کرسکتے ہيں
+
+"</string>
+    <string name="terms_title">ڈیٹا استعمال</string>
+    <string name="time_picker_title">وقت:</string>
+    <string name="traffic_prompt_content">اگر آپ غیر متفق ہیں تو آپکو سافٹ ویئر اپڈیٹ، موسم کی پیشگوئی اور دیگر معلومات دستی طور پر حاصل کرنے ہوئيں گے۔</string>
+    <string name="upload_agent_des_text">"صارف تجربہ پروگرام میں شمولیت &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>مزید جانیں&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia صارف تجربہ پروگرام میں شمولیت اختیار کریں۔ &lt;a href='launch.UserExperienceActivity://Kode'>مزید جانیں۔&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"چلیں\" پر ٹیپ کرنے کا مطلب ہے کہ آپ ‏‫صارف تجربے کے پروگرام‬ میں شامل ہونے سے متفق ہیں۔ &lt;a href='launch.UserExperienceActivity://Kode'>مزید جانیں&lt;/a>۔ یاد رکھیں کہ آپ کسی بھی وقت ترتیبات کے ذریعے شامل ہوسکتے ہیں۔"</string>
+    <string name="upload_agent_title">صارف تجربے کا پروگرام</string>
+    <string name="welcome_hmd_term_of_use_2">"تیر پر ٹیپ کرنے کا مطلب ہے کہ آپ &lt;a href='launch.TermOfServiceActivity://Kode'>خدمت کی شرائط&lt;/a> اور &lt;a href='launch.AddUploadAgentHandler://Kode'>رازداری کی پالیسی&lt;/a> سے متفق ہیں۔ آلہ کا مقام ایک بار آلہ ایکٹیویشن معلومات کے ساتھ HMD Global کو بھیجا جائے گا۔ ڈیٹا کی نرخوں کا اطلاق ہوسکتا ہے۔"</string>
+    <string name="welcome_hmd_term_of_use_4">"بٹن پر ٹیپ کرنے کا مطلب ہے کہ آپ &lt;a href='launch.TermOfServiceActivity://Kode'>خدمت کی شرائط&lt;/a> اور &lt;a href='launch.AddUploadAgentHandler://Kode'>رازداری کی پالیسی سے متفق ہیں&lt;/a>۔ ڈیوائس کے ایکٹیویشن کی معلومات ایک بار ڈیوائس کی معلومات کے ساتھ HMD Global کو بھیجی جائے گی۔&lt;br/>&lt;br/>خودکار سافٹ ویئر کی تجدید کی اطلاع فعال کردی جائے گی جو آپ کے لیے تازہ ترین اپ ڈیٹس نصب کرتی ہے۔ یہ آپ کے ڈیٹا بجٹ کا چھوٹا سا حصہ استعمال کرسکتا ہے۔ سروس جب بھی ضرورت ہو انٹرنیٹ تک رسائی کرسکتی ہے۔&lt;br/>&lt;br/>جب یہ سروسز سیلولر نیٹ ورکس استعمال کریں گی تو یہ آپ کے لیے اضافی چارجز کا سبب بن سکتی ہیں۔"</string>
+    <string name="welcome_hmd_term_of_use_5">"بٹن پر ٹیپ کرنے کا مطلب ہے کہ آپ &lt;a href='launch.TermOfServiceActivity://Kode'>خدمت کی شرائط&lt;/a> سے متفق ہیں۔ آلہ کا مقام ایک بار آلہ ایکٹیویشن معلومات کے ساتھ HMD Global کو بھیجا جائے گا۔ ڈیٹا کی نرخوں کا اطلاق ہوسکتا ہے۔ ڈیٹا کو &lt;a href='launch.AddUploadAgentHandler://Kode'>رازداری کی پالیسی&lt;/a> کے ذریعے استعمال کیا جائے گا۔"</string>
+    <string name="welcome_infocus_term_of_use">"تیر پر ٹیپ کرنا&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>شرائط استعمال&lt;/a>کو قبول کرناہے"</string>
+    <string name="welcome_lets_go_button_label">چلیں</string>
+    <string name="welcome_message">خوش آمدید</string>
+    <string name="welcome_start_button_label">شروع کریں</string>
+    <string name="welcome_vision_settings_button_label">بصارت کی ترتیبات</string>
+    <string name="wifi_add_network">نیٹ ورک شامل کریں</string>
+    <string name="wifi_advanced_toggle_description_collapsed">ڈراپ ڈاؤن فہرست ایڈوانسڈ اختیارات۔ پھیلانے کے لیے دوہرا ٹیپ کریں۔</string>
+    <string name="wifi_advanced_toggle_description_expanded">ڈراپ ڈاؤن فہرست ایڈوانسڈ اختیارات۔ سکوڑنے کے لیے دوہرا ٹیپ کریں۔</string>
+    <string name="wifi_and_mobile_skipped_message">"نیٹ ورک سے جڑنا آپ کے فون کو جلدی سے ترتیب دینے میں مدد کرتا ہے۔
+
+کنکشن کے بغیر، آپ نہیں کرسکتے:
+
+"<li>اپنے کلاؤڈ اکاؤنٹ میں سائن ان</li>"
+
+"<li>سافٹ ویئر اپ ڈیٹس</li>"
+
+"<li>خود بخود وقت اور تاریخ کو سیٹ</li></string>
+    <string name="wifi_auth_password_wrong">پاس ورڈ غلط ہوسکتا ہے</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">منسوخ کریں</string>
+    <string name="wifi_certificate">سند</string>
+    <string name="wifi_connect">مربوط کریں</string>
+    <string name="wifi_connected_no_internet">مربوط، انٹرنیٹ نہیں ہے</string>
+    <string name="wifi_disabled_generic">غیر فعال</string>
+    <string name="wifi_disabled_network_failure">IP کنفیگریشن ناکام</string>
+    <string name="wifi_disabled_password_failure">توثیق میں مسئلہ</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">فراہم نہ کریں</string>
+    <string name="wifi_do_not_validate_eap_server">توثیق نہ کریں</string>
+    <string name="wifi_do_not_validate_eap_server_warning">کسی سرٹیفکٹ کی صراحت نہیں ہے۔ آپ کا کنکشن نجی نہیں ہوگا۔</string>
+    <string name="wifi_dont_skip">واپس جائیں</string>
+    <string name="wifi_eap_anonymous">گمنام شناخت</string>
+    <string name="wifi_eap_ca_cert">‏CA سرٹیفکیٹ</string>
+    <string name="wifi_eap_domain">ڈومین</string>
+    <string name="wifi_eap_identity">شناخت</string>
+    <string name="wifi_eap_method">EAP طریقہ</string>
+    <string name="wifi_eap_user_cert">صارف کا سرٹیفیکیٹ</string>
+    <string name="wifi_fail_to_scan">نیٹ ورکس کے لیے اسکین نہیں کرسکتا</string>
+    <string name="wifi_failed_connect_message">نیٹ ورک سے مربوط ہونے میں ناکام رہا</string>
+    <string name="wifi_failed_forget_message">نیٹ ورک کو بھولنے میں ناکام ہوگیا</string>
+    <string name="wifi_failed_save_message">نیٹ ورک محفوظ کرنے میں ناکام ہوگیا</string>
+    <string name="wifi_forget">بھول جائیں</string>
+    <string name="wifi_frequency">تعدد</string>
+    <string name="wifi_gateway">گیٹ وے</string>
+    <string name="wifi_ip_address">‏IP پتہ</string>
+    <string name="wifi_ip_settings">‏IP ترتیبات</string>
+    <string name="wifi_ip_settings_invalid_dns">‏ایک درست DNS پتہ ٹائپ کریں۔</string>
+    <string name="wifi_ip_settings_invalid_gateway">ایک درست گیٹ وے پتہ ٹائپ کریں۔</string>
+    <string name="wifi_ip_settings_invalid_ip_address">‏ایک درست IP پتہ ٹائپ کریں۔</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">0 اور 32 کے طوالت کے درمیان ایک نیٹ ورک سابقہ ٹائپ کریں۔</string>
+    <string name="wifi_multiple_cert_added">(ایک سے زیادہ سرٹیفکیٹ شامل ہو گئے)</string>
+    <string name="wifi_network_prefix_length">نیٹ ورک کے سابقہ کی لمبائی</string>
+    <string name="wifi_no_domain_warning">کوئی ڈومین مختص کرنا لازمی ہے۔</string>
+    <string name="wifi_no_internet">انٹرنیٹ رسائی نہیں ہے</string>
+    <string name="wifi_no_internet_no_reconnect">خود سے نہیں جڑے گا</string>
+    <string name="wifi_not_in_range">رینج میں نہیں ہے</string>
+    <string name="wifi_password">پاس ورڈ</string>
+    <string name="wifi_picker_connection_des_text">WLANکو غیرفعال کرنےکےباعث نیٹورک کیذریعے آپکےسافٹ ویئر کی تصدیق کےدوران نرخیں لگ سکتی ہيں</string>
+    <string name="wifi_picker_connection_negative">مربوط کریں</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN سے جڑيں</string>
+    <string name="wifi_picker_connection_positive">ٹھیک ہے</string>
+    <string name="wifi_picker_connection_title">نیٹ ورک کنکشن</string>
+    <string name="wifi_picker_warning_des_text">انٹرنیٹ کنکشن دستیاب ہونے تک فون آپ کے سافٹ ویئر کا اپ ٹو ڈیٹ ہونے کی تصدیق کرنے کے قابل نہیں ہوگا۔</string>
+    <string name="wifi_picker_warning_negative">بہرحال نظر انداز کریں</string>
+    <string name="wifi_picker_warning_positive">نہیں چھوڑيں</string>
+    <string name="wifi_picker_warning_title">تنبیہ</string>
+    <string name="wifi_remembered">محفوظ کردہ</string>
+    <string name="wifi_save">محفوظ کریں</string>
+    <string name="wifi_security">سیکیورٹی</string>
+    <string name="wifi_security_none">کوئی نہیں</string>
+    <string name="wifi_setting_title">مربوط ہوں</string>
+    <string name="wifi_shared">دوسرے آلہ صارفین کے ساتھ اشتراک کریں</string>
+    <string name="wifi_show_advanced">جدید ترین اختیارات</string>
+    <string name="wifi_show_password">پاس ورڈ دکھائیں</string>
+    <string name="wifi_signal">سگنل کی قوت</string>
+    <string name="wifi_skip_anyway">بہرحال چھوڑیں</string>
+    <string name="wifi_speed">لنک کی رفتار</string>
+    <string name="wifi_ssid">نیٹ ورک کا نام</string>
+    <string name="wifi_ssid_hint">‏SSID درج کریں</string>
+    <string name="wifi_status">اسٹیٹس</string>
+    <string name="wifi_unchanged">(غیر تبدیل شدہ)</string>
+    <string name="wifi_unspecified">براہ کرم منتخب کریں</string>
+    <string name="wifi_use_system_certs">سسٹم سرٹیفکیٹس استعمال کریں</string>
+    <string name="zone_auto">خود کار ٹائم زون</string>
+    <string name="zone_auto_summaryOff">نیٹ ورک کے ذریعے فراہم کردہ ٹائم زون استعمال کریں</string>
+    <string name="zone_auto_summaryOn">نیٹ ورک کے ذریعے فراہم کردہ ٹائم زون استعمال کریں</string>
+    <string name="sugarsync_intro_description">اب آپ چند آسان اقدام مکمل کرکے SugarSync کے ذریعے بلا کسی رکاوٹ کے کلاؤڈ کے ذخیرے کے انضمام سے فائدہ اٹھاسکتے ہيں۔</string>
+</resources>

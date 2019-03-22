@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP-klient</string>
+    <string name="fih_cp_apn_not_set">&lt;Ej angett></string>
+    <string name="fih_cp_apply_dialog_body_msg">Vill du tillämpa den nya konfigurationen?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Ny certifikatinstallation</string>
+    <string name="fih_cp_btn_back">Tillbaka</string>
+    <string name="fih_cp_btn_cancel">Avbryt</string>
+    <string name="fih_cp_btn_next">Nästa</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Autentiseringstyp</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Ingen</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP eller CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS-port</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS-proxy</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Namn</string>
+    <string name="fih_cp_editor_apn_password">Lösenord</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_type">APN-typ</string>
+    <string name="fih_cp_editor_apn_user">Användarnamn</string>
+    <string name="fih_cp_error_apn_empty">Fältet APN får inte vara tomt.</string>
+    <string name="fih_cp_error_name_empty">Fältet Namn får inte vara tomt.</string>
+    <string name="fih_cp_error_other">Datasyntaxfelet.</string>
+    <string name="fih_cp_error_title">Obs!</string>
+    <string name="fih_cp_input_pin_code">Ange PIN-kod:</string>
+    <string name="fih_cp_input_pin_code_cancel">Avbryt</string>
+    <string name="fih_cp_input_pin_code_empty">Ange pinkod.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Fel pinkod.</string>
+    <string name="fih_cp_input_pin_code_ok">Ok</string>
+    <string name="fih_cp_notification_channel_name">Allmänna meddelanden</string>
+    <string name="fih_cp_notify_statusbar_content">Nytt meddelande om certifikatinstallation</string>
+    <string name="fih_cp_sim_not_available">SIM-kortet är inte tillgängligt.</string>
+    <string name="fih_cp_toast_info_create">Profilen har skapats</string>
+    <string name="fih_cp_toast_info_update">Profilen har uppdaterats</string>
+    <string name="fih_cp_ui_mode_delete">Ta bort</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Senarelägga</string>
+</resources>

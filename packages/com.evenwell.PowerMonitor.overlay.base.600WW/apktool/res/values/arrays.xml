@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audioWakeLockName">
+        <item>AudioMix</item>
+        <item>AudioDirectOut</item>
+        <item>AudioDup</item>
+        <item>AudioIn</item>
+        <item>AudioOffload</item>
+        <item>AudioUnknown</item>
+        <item>AmpWakeLock</item>
+        <item>android.media.MediaPlayer</item>
+        <item>APlayer</item>
+        <item>com.bruxlabsnore.services.b</item>
+    </string-array>
+</resources>

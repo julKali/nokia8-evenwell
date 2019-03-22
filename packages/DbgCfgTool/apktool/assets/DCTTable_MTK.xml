@@ -1,0 +1,10 @@
+<root>
+<header checkSize="1" receiveIntent="1"></header>																
+<type0	type="1" srcPath="/data/aee_exp/" desPath="aee_exp"	keyword="*" DateTime="false" command="null">aee_exp</type0>
+<type1	type="1" srcPath="/data/system/dropbox/" desPath="dropbox" keyword="*" DateTime="false" command="null">dropbox</type1>
+<type1	type="1" srcPath="/mnt/sdcard/APR/" desPath="APR" keyword="*" DateTime="false" command="null">APR</type1>
+<type1	type="1" srcPath="/mnt/sdcard/mtklog/" desPath="mtklog" keyword="*" DateTime="false" command="null">mtklog</type1>
+<type1	type="1" srcPath="/storage/sdcard1/APR/" desPath="APR" keyword="*" DateTime="false" command="null">APR</type1>
+<type1	type="1" srcPath="/storage/sdcard1/mtklog/" desPath="mtklog" keyword="*" DateTime="false" command="null">mtklog</type1>
+<!--<type2	type="2" srcPath="/data/ramdump/" desPath="ramdump" keyword="*" DateTime="false" command="null">ramdump</type2>-->
+</root>											

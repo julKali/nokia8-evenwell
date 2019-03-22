@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Urejevalnik bokeja</string>
+    <string name="image_not_null">Pot slike ne sme biti prazna</string>
+    <string name="no_bokeh_type">Ni vrste bokeha</string>
+    <string name="no_mpo_file">Ni datoteke MPO</string>
+    <string name="save">Shrani</string>
+    <string name="save_success">Shranjevanje je uspelo</string>
+</resources>

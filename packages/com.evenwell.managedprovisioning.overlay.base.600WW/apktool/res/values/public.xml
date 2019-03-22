@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="vendor_disallowed_apps_managed_device" id="0x7f020000" />
+    <public type="array" name="vendor_disallowed_apps_managed_profile" id="0x7f020001" />
+    <public type="array" name="vendor_required_apps_managed_device" id="0x7f020002" />
+    <public type="array" name="vendor_required_apps_managed_profile" id="0x7f020003" />
+</resources>

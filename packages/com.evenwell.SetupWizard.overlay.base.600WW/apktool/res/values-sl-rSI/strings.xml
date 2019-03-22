@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"Če tapnete gumb, se strinjate s &lt;a href='launch.TermOfServiceActivity://Kode'>pogoji storitve&lt;/a> in &lt;a href='launch.AddUploadAgentHandler://Kode'>pravilnikom o zasebnosti&lt;/a>. Podatki o aktiviranju naprave z enkratno lokacijo naprave bodo poslani podjetju HMD Global.&lt;br/>&lt;br/>Omogočeno bo obvestilo o samodejni posodobitvi programske opreme, ki namesti najnovejše posodobitve. Pri tem se lahko porabi manjša količina podatkov. Storitve bodo dostopale do interneta, ko po to potrebno.&lt;br/>&lt;br/>Te storitve povzročijo dodatne stroške, če dostopajo do mobilnih omrežij."</string>
+    <string name="welcome_hmd_term_of_use_5">"Če tapnete ta gumb, sprejemate &lt;a href='launch.TermOfServiceActivity://Kode'>pogoje storitve&lt;/a>. Vaši podatki bodo obdelani skladno s HMD-jevim &lt;a href='launch.AddUploadAgentHandler://Kode'>pravilnikom o zasebnosti&lt;/a>. Podatki o aktiviranju naprave in enkratni podatki o njeni lokaciji bodo poslani podjetju HMD Global. Morda boste morali plačati prenos podatkov v mobilnem omrežju."</string>
+    <string name="welcome_vision_settings_button_label">Nastavitve pogleda</string>
+    <string name="next_btn_lebel">NAPREJ</string>
+    <string name="welcome_hmd_term_of_use_2">"Če tapnete puščico, se strinjate s &lt;a href='launch.TermOfServiceActivity://Kode'>pogoji storitve&lt;/a> in &lt;a href='launch.AddUploadAgentHandler://Kode'>pravilnikom o zasebnosti&lt;/a>. Podatki o aktiviranju naprave in o lokaciji naprave ob tem času bodo poslani podjetju HMD Global. Nastanejo lahko stroški za prenos podatkov."</string>
+    <string name="accessibility_text">Pripomočki za osebe s posebnimi potrebami</string>
+    <string name="language_selection_title">Izberite jezik</string>
+    <string name="language_selection_cancel_btn">PREKLIČI</string>
+    <string name="welcome_lets_go_button_label">Začnimo</string>
+    <string name="term_agree_text">Strinjam se</string>
+    <string name="datausage_dialog_positive_btn">V redu</string>
+    <string name="datausage_dialog_negitive_btn">Prekliči</string>
+    <string name="nevigation_selection_text">Barvo ozadja in položaj gumbov Nazaj/Nazadnje uporabljeno lahko spreminjate.</string>
+    <string name="nevigation_selection_back">Nazaj</string>
+    <string name="upload_agent_hmd_des_text_2">"Pridružite se programu za uporabniško izkušnjo Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Preberite več o tem.&lt;/a>
+
+"</string>
+    <string name="hmd_user_experience_program_title">Program za uporabniško izkušnjo</string>
+    <string name="hmd_user_experience_program_message">Če se udeležite programa za uporabniško izkušnjo, s tem pomagate podjetju HMD Global bolje razumeti, kaj vam je všeč pri napravi Nokia in kaj menite, da je treba izboljšati. Občasno lahko prejmemo anonimne podatke s tehničnimi značilnostmi vaše naprave, na primer datoteko s podatki o zrušitvi programske opreme, ki se je morda zgodila. Upoštevajte, da takšni podatki ne bodo preneseni prek mobilne internetne povezave. Radi bi vedeli, kaj menite o svoji napravi Nokia!</string>
+    <string name="wifi_picker_connection_positive">V redu</string>
+    <string name="wapi_psk_security_type">Vrsta gesla</string>
+    <string name="upload_agent_hmd_des_text_3">"Če tapnete \"ZAČNIMO\", se strinjate s sodelovanjem v programu za uporabniško izkušnjo. &lt;a href='launch.UserExperienceActivity://Kode'>Preberite več o tem&lt;/a>. Za sodelovanje se lahko odločite tudi pozneje v nastavitvah."</string>
+    <string name="setup_complete_hmd_1">Skoraj ste pripravljeni ...</string>
+    <string name="not_now">NE ZDAJ ...</string>
+    <string name="setup_finish">ZAČNIMO</string>
+    <string name="wifi_fail_to_scan">Iskanje omrežij ni mogoče</string>
+    <string name="wifi_security_none">Brez</string>
+    <string name="wifi_remembered">Shranjeno</string>
+    <string name="wifi_disabled_generic">Onemogočeno</string>
+    <string name="wifi_disabled_network_failure">Konfiguracija naslova IP ni uspela</string>
+    <string name="wifi_disabled_password_failure">Težava pri preverjanju pristnosti</string>
+    <string name="wifi_not_in_range">Ni v dosegu</string>
+    <string name="wifi_no_internet_no_reconnect">Samodejno povezovanje ni mogoče</string>
+    <string name="wifi_no_internet">Ni internetnega dostopa</string>
+    <string name="saved_network">Shranil: %1$s</string>
+    <string name="connected_via_passpoint">Povezava vzpostavljena prek dostopne točke %1$s</string>
+    <string name="available_via_passpoint">Na voljo prek dostopne točke %1$s</string>
+    <string name="wifi_connected_no_internet">Povezava vzpostavljena, ni internetne povezave</string>
+    <string name="wifi_auth_password_wrong">Geslo morda ni pravilno</string>
+    <string name="connected_via_wfa">Povezava vzpostavljena prek pomočnika za Wi‑Fi</string>
+    <string name="wifi_ssid">Ime omrežja</string>
+    <string name="wifi_ssid_hint">Vnesite SSID</string>
+    <string name="wifi_security">Varnost</string>
+    <string name="wifi_eap_method">Način EAP</string>
+    <string name="please_select_phase2">Preverjanje pristnosti v fazi 2</string>
+    <string name="wifi_eap_ca_cert">Overjeno potrdilo</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Potrdilo ni navedeno. Povezava ne bo zasebna.</string>
+    <string name="wifi_eap_domain">Domena</string>
+    <string name="wifi_no_domain_warning">Določiti morate domeno.</string>
+    <string name="wifi_eap_user_cert">Uporabniško potrdilo</string>
+    <string name="wifi_eap_identity">Identiteta</string>
+    <string name="wifi_eap_anonymous">Anonimna identiteta</string>
+    <string name="wifi_password">Geslo</string>
+    <string name="wifi_show_password">Pokaži geslo</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Spustni seznam naprednih možnosti. Če ga želite razširiti, se ga dvakrat dotaknite.</string>
+    <string name="wifi_show_advanced">Dodatne možnosti</string>
+    <string name="proxy_settings_title">Strežnik proxy</string>
+    <string name="proxy_warning_limited_support">Proxy HTTP lahko uporablja brskalnik, druge aplikacije pa ne.</string>
+    <string name="proxy_url_title">"URL datoteke PAC: "</string>
+    <string name="proxy_hostname_label">Gostiteljsko ime strežnika proxy</string>
+    <string name="proxy_exclusionlist_label">Obidi strežnik proxy za</string>
+    <string name="wifi_ip_settings">Nastavitve naslova IP</string>
+    <string name="wifi_ip_address">Naslov IP</string>
+    <string name="wifi_gateway">Prehod</string>
+    <string name="wifi_network_prefix_length">Dolžina predpone omrežja</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">Skupna raba z drugimi uporabniki naprave</string>
+    <string name="proxy_port_label">Vrata strežnika proxy</string>
+    <string name="wifi_unspecified">Izberite</string>
+    <string name="wifi_multiple_cert_added">(Dodanih je bilo več potrdil)</string>
+    <string name="wifi_use_system_certs">Uporabi sistemska potrdila</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Ne posreduj</string>
+    <string name="wifi_do_not_validate_eap_server">Ne potrdi</string>
+    <string name="wifi_add_network">Dodaj omrežje</string>
+    <string name="wifi_save">Shrani</string>
+    <string name="passpoint_label">Shranjeno prek:</string>
+    <string name="wifi_connect">Vzpostavi povezavo</string>
+    <string name="wifi_status">Stanje</string>
+    <string name="wifi_signal">Moč signala</string>
+    <string name="wifi_speed">Hitrost povezave</string>
+    <string name="link_speed">%1$d Mb/s</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Frekvenca</string>
+    <string name="wifi_forget">Pozabi</string>
+    <string name="wifi_cancel">Prekliči</string>
+    <string name="proxy_error_invalid_port">Vnesena številka vrat je neveljavna.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Vnesite veljaven naslov IP.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Vnesite predpono omrežja, dolgo med 0 in 32 znaki.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Vnesite veljaven naslov prehoda.</string>
+    <string name="wifi_ip_settings_invalid_dns">Vnesite veljaven naslov DNS.</string>
+    <string name="wifi_unchanged">(nespremenjeno)</string>
+    <string name="wifi_failed_connect_message">Vzpostavljanje povezave z omrežjem ni uspelo</string>
+    <string name="wifi_failed_save_message">Shranjevanje omrežja ni uspelo</string>
+    <string name="wifi_failed_forget_message">Pozabljanje omrežja ni uspelo</string>
+    <string name="proxy_error_empty_host_set_port">Če je polje za gostitelja prazno, mora biti prazno tudi polje za vrata.</string>
+    <string name="proxy_error_empty_port">Izpolniti morate polje vrat.</string>
+    <string name="proxy_error_invalid_exclusion_list">Seznam izključitev, ki ste ga vnesli, ni pravilno oblikovan. Izključene domene na seznamu morajo biti ločene z vejico.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Spustni seznam naprednih možnosti. Če ga želite strniti, se ga dvakrat dotaknite.</string>
+    <string name="passpoint_content">Poverilnice za %1$s</string>
+    <string name="select_sim_card">Izberite kartico SIM</string>
+    <string name="sim_editor_title">Reža za SIM %1$d</string>
+    <string name="wifi_certificate">Potrdilo</string>
+    <string name="wifi_setting_title">Vzpostavite povezavo</string>
+    <string name="wifi_skip_anyway">VSEENO PRESKOČI</string>
+    <string name="wifi_dont_skip">NAZAJ</string>
+    <string name="wifi_and_mobile_skipped_message">"Če vzpostavite povezavo z omrežjem, lahko hitro nastavite telefon.
+
+Brez povezave ne morete narediti tega:
+
+"<li>Vpisati se v svoj račun v oblaku</li>"
+
+"<li>Prenesti posodobitev programske opreme</li>"
+
+"<li>Samodejno nastaviti ure in datuma</li></string>
+</resources>

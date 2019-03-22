@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ОТКАЗ</string>
+    <string name="copying">Копиране…</string>
+    <string name="demo_mode_notifications">Известия в демонстрационен режим</string>
+    <string name="disable_demo_mode">Деактивиране на демонстрационния режим</string>
+    <string name="download_complete_msg">"Изтеглянето завърши.
+
+Докоснете OK за стартиране на демонстрационния режим."</string>
+    <string name="download_fail_msg">"Изтеглянето на демонстрационен материал от интернет не бе успешно.
+
+Докоснете OK за стартиране на демонстрационния режим?"</string>
+    <string name="downloading">Изтегляне…</string>
+    <string name="enable_demo_mode">Да се активира ли демонстрационният режим?</string>
+    <string name="enable_demo_mode_setup">Да се активира ли демонстрационният режим</string>
+    <string name="no_new_demo_found_msg">"Не е намерен нов демонстрационен материал.
+
+Докоснете OK за стартиране на демонстрационния режим?"</string>
+    <string name="ok">OK</string>
+    <string name="reset_device">Нулиране на устройството?</string>
+    <string name="system_busy_msg">Системата е заета. Опитайте отново по-късно.</string>
+    <string name="update_demo_video">Актуализиране на демонстрационното видео</string>
+</resources>

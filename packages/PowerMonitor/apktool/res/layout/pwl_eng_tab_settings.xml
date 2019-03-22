@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:persistent="false" android:title="@string/log_settings_title" android:key="log_settings">
+        <SwitchPreference android:persistent="false" android:title="@string/str_log_to_PD" android:key="switch_log_to_PD" android:summary="@string/str_log_to_PD_desc" android:summaryOn="@string/str_log_to_PD_desc" android:summaryOff="@string/str_log_to_PD_desc" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/all_power_log_title" android:key="all_power_log" android:summaryOn="@string/all_power_log_summary" android:summaryOff="@string/all_power_log_summary" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/debug_log_title" android:key="debug_log" android:summaryOn="@string/debug_log_summary" android:summaryOff="@string/debug_log_summary" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/system_log_title" android:key="system_log" android:summaryOn="@string/system_log_summary" android:summaryOff="@string/system_log_summary" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/show_count_title" android:key="show_count" android:summaryOn="@string/show_count_summary" android:summaryOff="@string/show_count_summary" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/show_qxdm_title" android:key="show_qxdm" android:summaryOn="@string/show_qxdm_summary_off" android:summaryOff="@string/show_qxdm_summary_on" />
+        <Preference android:persistent="false" android:title="@string/copy_to_internal_storage_title" android:key="copy_to_sdcard" android:summary="@string/copy_to_internal_storage_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:persistent="false" android:title="@string/upload_settings_title" android:key="upload_settings">
+        <Preference android:persistent="false" android:title="@string/upload_to_server_title" android:key="upload_to_server" android:summary="@string/upload_to_server_summary" />
+        <Preference android:persistent="false" android:title="@string/set_upload_time_title" android:key="set_upload_time" />
+    </PreferenceCategory>
+</PreferenceScreen>

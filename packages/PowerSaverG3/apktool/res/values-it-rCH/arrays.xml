@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="issueTypes">
+        <item>Prestazioni</item>
+        <item>Stabilità</item>
+        <item>Interfaccia utente</item>
+        <item>Power Saving Effect</item>
+        <item>Altri problemi</item>
+        <item>Suggerimenti</item>
+    </string-array>
+</resources>

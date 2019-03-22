@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">Sawa</string>
+    <string name="cancel">GHAIRI</string>
+    <string name="system_busy_msg">Mfumo unashughuli. Tafadhali jaribu tena badaye.</string>
+    <string name="no_new_demo_found_msg">"Hakuna nyenzo mpya ya maonyesho iliyopatikana.
+
+Ungependa kugusa Sawa ili uzindue hali ya Maonyesho?"</string>
+    <string name="copying">Inanakili...</string>
+    <string name="downloading">Inapakua…</string>
+    <string name="download_complete_msg">"Upakuaji umekamilika.
+
+Ungependa kugusa Sawa ili uzindue hali ya Maonyesho."</string>
+    <string name="download_fail_msg">"Imeshindwa kupakua nyenzo ya maonyesho kutoka kwenye Intaneti.
+
+Ungependa kugusa Sawa ili uzindue hali ya Maonyesho?"</string>
+    <string name="enable_demo_mode">Ungependa kuwasha hali ya onyesho?</string>
+    <string name="disable_demo_mode">Zima hali ya onyesho</string>
+    <string name="update_demo_video">Sasisha video ya onyesho</string>
+    <string name="reset_device">Ungependa kuseti upya kifaa?</string>
+    <string name="demo_mode_notifications">Taarifa ya hali ya maonyesho</string>
+</resources>

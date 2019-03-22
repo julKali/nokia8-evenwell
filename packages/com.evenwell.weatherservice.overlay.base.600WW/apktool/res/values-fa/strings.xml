@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">سرویس هواشناسی</string>
+    <string name="fih_weather_permission_hint_1">برای کارکرد درست، این برنامه به مجوز دیگر نیاز دارد. لطفاً در صورت درخواست، اجازه دهید.</string>
+    <string name="fih_weather_permission_hint_2">برای کارکرد درست، این برنامه به مجوزهای دیگر نیاز دارد. لطفاً مجوز سرویس هواشناسی را در تنظیمات مدیریت کنید.</string>
+    <string name="fih_weather_button_ok">قبول</string>
+    <string name="fih_weather_button_close">بستن کانال</string>
+    <string name="fih_weather_button_setting">در حال تنظیم...</string>
+    <string name="fih_weather_permission_success">اعطای مجوز مکانی موفق بود.</string>
+    <string name="fih_weather_permission_failed">اعطای مجوز مکانی انجام نشد، عدم امکان دریافت مکان.</string>
+    <string name="fih_weather_notification_title">سرویس هواشناسی نیاز به مجوز دارد</string>
+    <string name="fih_weather_notification_text">ضربه بزنید</string>
+    <string name="fih_weather_notification_channel_title">اعلان‌های عمومی</string>
+</resources>

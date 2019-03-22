@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">시스템 진단</string>
+    <string name="setting_page_name">사용자 경험 향상 프로그램</string>
+    <string name="send_diag_dialog_any_network">데이터 네트워크 및 Wi-Fi 연결 사용</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi 연결만 사용</string>
+    <string name="send_diag_dialog_wlan">Wi-Fi 연결만 사용</string>
+    <string name="send_diag_dialog_title">진단정보 전달 방법</string>
+    <string name="diagnostics_setting">진단정보 보고</string>
+    <string name="diagnostics_report">진단정보 보내기</string>
+    <string name="diagnostics_report_summary">진단정보 보고는 귀하가 사용하는 제품 및 서비스의 품질과 성능을 개선하는데 도움을 주고자 할 때, 체크해 주시기 바랍니다. 이 기능은 서비스의 개선 및 통계의 목적으로 사용하기 위해 진단정보를 자동으로 수집하는 소프트웨어를 포함하고 있으며, 가입하신 데이터 요금제에 따라 요금이 부과될 수 있습니다.</string>
+    <string name="network_options">네트워크 옵션</string>
+    <string name="send_diagnostics">진단정보 전달 방법</string>
+    <string name="privacy_statement">개인정보 취급방침</string>
+    <string name="diagnostics_description">제품과 서비스 품질 향상을 위해 진단 데이터를 제공해주세요. 해당 설정은 옵션에서 변경 가능합니다.</string>
+    <string name="privacy_activity">개인정보 취급방침</string>
+    <string name="go_label">확인</string>
+    <string name="diagnostics_confirmation">네, 동의하고 진단을 위한 데이터를 자동으로 전송합니다.</string>
+    <string name="setcomplete">설치 완료</string>
+    <string name="agree_dialog">개인정보 취급방침에 의거 사용자 경험 향상 프로그램이 구성되어 있습니다. 사용자 경험 향상 프로그램에 참여하여 제품의 품질 및 서비스향상에 도움을 주세요. 해당 옵션은 설정에서 변경가능하며, 네트워크를 통해 데이터를 전송합니다. 데이터 요금제를 확인할 것을 권장합니다.</string>
+    <string name="agree">동의</string>
+    <string name="see_detail">세부정보</string>
+    <string name="next_btn_lebel">다음</string>
+    <string name="diagnostic_info_collect">진단정보 수집 및 이용동의</string>
+    <string name="privacy_policy">개인정보 수집 및 이용</string>
+    <string name="third_party_info_agreement">제3자 정보 제공</string>
+    <string name="diagnostic_info_collect_contect">" 
+"<b>진단 정보 수집 및 이용동의</b>"
+
+ 귀하가 사용하는 제품 및 서비스의 품질과 성능을 개선하기 위하여 귀하의 도움을 받고자 합니다. 귀하가 기기를 사용하는 과정에서 기기가 비정상 종료되거나 오작동하는 등 문제가 발생할 수 있습니다. 이는 애플리케이션(프리로드/다운로드 포함)이 주요 원인일 수 있으므로 앱사용 관련 세부 정보(기기 IMEI, 소프트웨어 버전 업그레이드, TP and 카메라 ISP 버전, 배터리 ID, 모바일 국가 코드(MCC), 모바일 네트워크 코드(MNC), 어플리케이션 버전 및 제목, 어플리케이션 실행했던 시점 및 횟수, CPU usage, Wi-Fi usage, Mobile data usage, 전체 통화 시간, 에러발생 시점, 에러 로그, 기기번호 및 이메일주소) 분석이 필요합니다.
+ 귀하가 이 정보를 제공하면, 회사(해외 지법인 포함)는 이를 분석하여 문제를 개선하고 서비스 개선, 통계/분석에 활용할 수 있습니다. 수집되는 정보는 익명화되어 귀하의 신원을 나타내지 않으며, 다른 정보와 분리하여 관리되고 3개월간 보관됩니다. 회사의 서버는 전세계에 존재하므로 귀하가 제공한 정보는 귀하가 거주하는 국가 외부(서버 또는 지법인)에 전송될 수 있습니다. 귀하께서는 귀하의 개인정보 수집 용에 대한 동의를 거부하실 권리가 있으며 동의를 거부하시더라도 아무런 불이익이 없습니다. 귀하는 언제라도 이러한 정보의 제공을 [설정]에서 변경할 수 있습니다. 아래의 “예”버튼을 클릭하면 귀하는 상기 목적을 위하여 티지앤컴퍼니와 지법인이 귀하의 기기로부터 진단정보를 수집, 사용, 저장, 공유, 공개하는 것에 동의하는 것입니다. 
+"</string>
+    <string name="privacy_policy_context">" 
+"<b>개인정보 수집 및 이용</b>"
+
+ (유)티지앤컴퍼니는 제품의 지원 또는 서비스 품질과 성능개선 등에 필요한 최소한의 정보에 대해 아래와 같이 개인정보 처리에 관한 사항을 안내하고 고객님의 동의를 받고자 합니다
+
+ "<b>• 개인정보 수집자</b>"
+
+ (유)티지앤컴퍼니
+
+ "<b>• 개인정보 수집 및 이용 목적</b>"
+
+ 1) 기기의 특정 애플리케이션 (사용자 경험 향상 프로그램, LUNA 금고, 파일 관리, 메모) 및 이와 관련한 소프트웨어 프로그램 사용시 제품 지원 및 서비스의 품질과 성능을 개선 목적으로 개인정보 수집됨
+ 2) 애플리케이션 사용시 발생하는 문제를 개선하고 서비스 개선, 통계/분석에 이용됨 (개인적으로 식별할 수 있는 형태로 이 정보를 공개하지 않음)
+
+ "<b>• 개인정보 수집항목</b>"
+
+ 모델명, 고객 코드, 액세스 기록, 해당 기기의 현재 SW 버전, 모바일 국가 코드(MCC), 모바일 네트워크 코드(MNC), 기기 IMEI, 소프트웨어 버전 업그레이드, TP and 카메라 ISP 버전, 배터리 ID, 어플리케이션 버전 및 제목, 어플리케이션 실행했던 시점 및 횟수, CPU usage, Wi-Fi usage , Mobile data usage , 전체 통화 시간, 에러발생 시점, 에러 로그, 기기번호 및 이메일주소, 하드웨어 정보, OS 버전 정보.
+
+ "<b>• 개인정보의 보유 및 이용기간</b>"
+
+ 개인 정보 수집 이용 목적 달성 시까지 및 관련 법령에 따른 기간까지 보관
+
+ "<b>• 개인정보 수집, 이용 동의 거부</b>"
+
+ 사용자는 개인정보 수집, 이용에 대한 동의를 거부하실 권리가 있으며, 동의를 거부하시면 일부서비스 이용에 제한이 발생할 수 있습니다.
+ 1. (동의 철회 접수처: privacy@tgnco.kr) 
+"</string>
+    <string name="third_party_collect_context">" 
+"<b>제3자 정보 제공</b>"
+
+ (유)티지앤컴퍼니는 사용자의 개인정보를 아래와 같이 제공하고 있습니다.
+
+ "<b>• 개인정보를 제공받는자</b>"
+
+ FIH (Foxconn International Holdings Ltd.)
+
+ "<b>• 개인정보를 제공받는 자의 이용목적</b>"
+
+ 기기 또는 소프트웨어 제품 지원 및 서비스의 품질과 성능을 개선
+
+ "<b>• 제공하는 개인정보 항목 </b>"
+
+ 모델명, 고객 코드, 액세스 기록, 해당 기기의 현재 SW 버전, 모바일 국가 코드(MCC), 모바일 네트워크 코드(MNC), 기기 IMEI, 소프트웨어 버전 업그레이드, TP and 카메라 ISP 버전, 배터리 ID, 어플리케이션 버전 및 제목, 어플리케이션 실행했던 시점 및 횟수, CPU usage, Wi-Fi usage , Mobile data usage , 전체 통화 시간, 에러발생 시점, 에러 로그, 기기번호 및 이메일주소, 하드웨어 정보, OS 버전 정보
+
+ "<b>• 개인정보를 제공받는 자의 개인정보 보유 및 이용기간</b>"
+
+ 수집일로부터 3개월을 기본으로 합니다.
+
+ "<b>• 개인정보 수집방법</b>"
+
+ 기기의 특정 애플리케이션 또는 소프트웨어 프로그램
+
+ "<b>• 개인정보 제공동의 거부</b>"
+
+ 사용자는 개인정보 제3자 제공에 대한 동의를 거부하실 권리가 있으며, 동의를 거부하시면 일부서비스 이용에 제한이 발생할 수 있습니다.
+
+ (동의 철회 접수처: privacy@tgnco.kr)
+
+ * 본 동의서에 기재되지 않은 제3자에게 이용자들의 개인정보를 공유． 제공 할 경우, 티지앤컴퍼니는 법령에서 정한 방법 및 개인정보처리 지침의 변경, 전자우편 및 전화 통지, 회사 홈페이지의 공지 등의 방법을 통하여 이용자에게 알리고 있습니다. 자세한 정보를 보려면 www.tgnco.kr/company/policy/policy2.jspa에서 티지앤컴퍼니의 개인정보취급방침을 확인하십시오. 
+"</string>
+</resources>

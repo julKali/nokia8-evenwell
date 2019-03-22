@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Tillgänglighet</string>
+    <string name="available_via_passpoint">Tillgänglig via %1$s</string>
+    <string name="back_btn_lebel">TILLBAKA</string>
+    <string name="backup_and_restore_description">"Om du tidigare har säkerhetskopierat ditt konto kan du återställa det till den här telefonen nu.
+
+Du kan när som helst ändra dina säkerhetskopieringsinställningar i Inställningar."</string>
+    <string name="backup_and_restore_title">Säkerhetskopiering och återställning</string>
+    <string name="connected_via_passpoint">Ansluten via %1$s</string>
+    <string name="connected_via_wfa">Ansluten via Wi‑Fi Assistant</string>
+    <string name="datausage_dialog_negitive_btn">Avbryt</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Datum &amp; tidsinställningar</string>
+    <string name="date_and_time_settings_title">Datum &amp; tid</string>
+    <string name="device_checking_message">Välkommen</string>
+    <string name="emergency_dial_hmd_message">Nödsituation</string>
+    <string name="finish_button_label">AVSLUTA</string>
+    <string name="hmd_user_experience_program_message">Ditt deltagande i användarupplevelseprogrammet hjälper HMD Global att bättre förstå vad du tycker om din Nokia-enhet och vad du tycker behöver förbättras. Från tid till annan kan vi få anonyma data med tekniska egenskaper om din enhet, till exempel en fil med data om en programkrasch som kan ha hänt. Observera att sådana data inte kommer att överföras via en mobilanslutning. Vi vill gärna höra från dig vad du tycker om din Nokia-enhet!</string>
+    <string name="hmd_user_experience_program_title">Användarupplevelseprogram</string>
+    <string name="idle_too_long_toast">Denna telefon är inaktiv vissa tider. Stäng ner nu för att behålla kraft.</string>
+    <string name="insert_sim_cards">Sätt i SIM-kort</string>
+    <string name="insert_sim_cards_prompt_content">"Men vet inte riktigt hur man gör? Se instruktionerna som medföljde din telefon.
+
+När du sätter i SIM-korten kan det ta några sekunder innan de aktiveras."</string>
+    <string name="language_selection_cancel_btn">AVBRYT</string>
+    <string name="light_room_description">%1$s stöder fotografering av RAW-bilder (DNG). Tack vare vårt nya samarbete med Adobe kan du redigera bilder direkt i din nya smartphone.&lt;br/>&lt;br/>Ladda ned Adobe Photoshop Lightroom CC från Google Play-butiken nu.</string>
+    <string name="light_room_title">Älskar du att fotografera?</string>
+    <string name="link_speed">%1$d Mbit/s</string>
+    <string name="nevigation_selection_back">Tillbaka</string>
+    <string name="next_btn_lebel">NÄSTA</string>
+    <string name="not_now">INTE NU ...</string>
+    <string name="passpoint_content">Användaruppgifter för %1$s</string>
+    <string name="passpoint_label">Sparat via</string>
+    <string name="please_select_phase2">Autentisering för fas 2</string>
+    <string name="proxy_error_empty_host_set_port">Portfältet måste vara tomt om värdfältet är tomt.</string>
+    <string name="proxy_error_empty_port">Du måste fylla i portfältet.</string>
+    <string name="proxy_error_invalid_exclusion_list">Uteslutningslistan är inte korrekt formaterad. Ange en kommaavgränsad lista över uteslutna domäner.</string>
+    <string name="proxy_error_invalid_port">Porten som du har angett är inte giltig.</string>
+    <string name="proxy_exclusionlist_label">Förbigå proxy för</string>
+    <string name="proxy_hostname_label">Proxyserverns värdnamn</string>
+    <string name="proxy_port_label">Proxyport</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"PAC-webbadress: "</string>
+    <string name="proxy_warning_limited_support">HTTP-proxyn används av webbläsaren men får inte användas av de andra apparna.</string>
+    <string name="saved_network">Sparat av %1$s</string>
+    <string name="select_sim_card">Välj SIM-kort</string>
+    <string name="setup_complete_hmd">Du är klar att sätta igång...</string>
+    <string name="setup_complete_hmd_1">Du är snart redo att börja...!</string>
+    <string name="setup_complete_main">Du är</string>
+    <string name="setup_complete_sub">KLAR ATT ANVÄNDA.</string>
+    <string name="setup_completed_congratulations">Gratulerar!</string>
+    <string name="setup_finish">OK</string>
+    <string name="sim_editor_title">SIM-kortplats %1$d</string>
+    <string name="term_agree_text">Godkänn</string>
+    <string name="upload_agent_hmd_des_text_3">"Genom att trycka på OK samtycker du till att delta i programmet för användarupplevelse. &lt;a href='launch.UserExperienceActivity://Kode'>Läs mer&lt;/a>. Du kan alltid gå med senare via Inställningar."</string>
+    <string name="upload_agent_title">Användarupplevelseprogram</string>
+    <string name="welcome_hmd_term_of_use_4">"Genom att trycka på knappen accepterar du &lt;a href='launch.TermOfServiceActivity://Kode'>tjänstvillkoren&lt;/a> och &lt;a href='launch.AddUploadAgentHandler://Kode'>sekretesspolicyn&lt;/a>. Enhetens aktiveringsinformation med engångsuppgifter om dess geografiska plats skickas till HMD Global.&lt;br/>&lt;br/>Automatisk programuppdatering aktiveras så att de senaste uppdateringarna installeras automatiskt. Detta kan förbruka en mindre del av din surf. Tjänsterna använder internet vid behov.&lt;br/>&lt;br/>Du debiteras en tilläggsavgift när du använder mobilnät."</string>
+    <string name="welcome_hmd_term_of_use_5">"Genom att trycka på knappen godkänner du &lt;a href='launch.TermOfServiceActivity://Kode'>användarvillkoren&lt;/a>. Enhetens aktiveringsinformation med engångsuppgifter om dess geografiska plats skickas till HMD Global. Dataavgifter kan tillkomma. Data används i enlighet med vår &lt;a href='launch.AddUploadAgentHandler://Kode'>sekretesspolicy&lt;/a>."</string>
+    <string name="welcome_message">Välkommen</string>
+    <string name="welcome_start_button_label">START</string>
+    <string name="wifi_add_network">Lägg till nätverk</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Rullgardinsmenyn Avancerade alternativ. Tryck två gånger för att öppna.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Rullgardinsmenyn Avancerade alternativ. Tryck två gånger för att stänga.</string>
+    <string name="wifi_and_mobile_skipped_message">"Genom att ansluta till ett nätverk kan du konfigurera telefonen snabbare.
+
+Utan anslutning kan du inte
+
+"<li>logga in på ditt Cloud-konto</li>"
+
+"<li>få programuppdateringar</li>"
+
+"<li>ställa in tid och datum automatiskt</li></string>
+    <string name="wifi_auth_password_wrong">Lösenordet kanske är felaktigt</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Avbryt</string>
+    <string name="wifi_certificate">Certifikat</string>
+    <string name="wifi_connect">Anslut</string>
+    <string name="wifi_connected_no_internet">Ansluten, ingen internetanslutning</string>
+    <string name="wifi_disabled_generic">Inaktiverat</string>
+    <string name="wifi_disabled_network_failure">Felaktig IP-konfiguration</string>
+    <string name="wifi_disabled_password_failure">Autentiseringsproblem</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Tillhandahåll inte</string>
+    <string name="wifi_do_not_validate_eap_server">Validera inte</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Inget certifikat har angetts. Anslutningen är inte privat.</string>
+    <string name="wifi_dont_skip">TILLBAKA</string>
+    <string name="wifi_eap_anonymous">Anonym identitet</string>
+    <string name="wifi_eap_ca_cert">CA-certifikat</string>
+    <string name="wifi_eap_domain">Domän</string>
+    <string name="wifi_eap_identity">Identitet</string>
+    <string name="wifi_eap_method">EAP-metod</string>
+    <string name="wifi_eap_user_cert">Användarcertifikat</string>
+    <string name="wifi_fail_to_scan">Det går inte att söka efter nätverk</string>
+    <string name="wifi_failed_connect_message">Det gick inte att ansluta till nätverket.</string>
+    <string name="wifi_failed_forget_message">Det gick inte att glömma nätverket</string>
+    <string name="wifi_failed_save_message">Det gick inte att spara närverket</string>
+    <string name="wifi_forget">Glöm</string>
+    <string name="wifi_frequency">Frekvens</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_ip_address">IP-adress</string>
+    <string name="wifi_ip_settings">IP-inställningar</string>
+    <string name="wifi_ip_settings_invalid_dns">Ange en giltig DNS-adress.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Ange en giltig gateway-adress.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Ange en giltig IP-adress.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Ange en nätverksprefixlängd mellan 0 och 32.</string>
+    <string name="wifi_multiple_cert_added">(Flera certifikat har lagts till)</string>
+    <string name="wifi_network_prefix_length">Nätverksprefixets längd</string>
+    <string name="wifi_no_domain_warning">Domän måste specificeras.</string>
+    <string name="wifi_no_internet">Ingen internetåtkomst</string>
+    <string name="wifi_no_internet_no_reconnect">Ansluter inte automatiskt</string>
+    <string name="wifi_not_in_range">Ingen täckning</string>
+    <string name="wifi_password">Lösenord</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_remembered">Sparat</string>
+    <string name="wifi_save">Spara</string>
+    <string name="wifi_security">Säkerhet</string>
+    <string name="wifi_security_none">Ingen</string>
+    <string name="wifi_setting_title">Anslut</string>
+    <string name="wifi_shared">Dela med andra som använder enheten</string>
+    <string name="wifi_show_advanced">Avancerade alternativ</string>
+    <string name="wifi_show_password">Visa lösenord</string>
+    <string name="wifi_signal">Signalstyrka</string>
+    <string name="wifi_skip_anyway">HOPPA ÖVER</string>
+    <string name="wifi_speed">Länkhastighet</string>
+    <string name="wifi_ssid">Nätverksnamn</string>
+    <string name="wifi_ssid_hint">Ange SSID</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_unchanged">(oförändrat)</string>
+    <string name="wifi_unspecified">Välj</string>
+    <string name="wifi_use_system_certs">Använd systemcertifikat</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Πρόγραμμα επεξεργασίας εφέ bokeh</string>
+    <string name="image_not_null">Η διαδρομή εικόνας δεν μπορεί να είναι κενή</string>
+    <string name="no_bokeh_type">Δεν υπάρχει τύπος bokeh</string>
+    <string name="no_mpo_file">Δεν υπάρχει αρχείο MPO</string>
+    <string name="save">Aποθήκευση</string>
+    <string name="save_success">Επιτυχής αποθήκευση</string>
+</resources>

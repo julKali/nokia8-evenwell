@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ANULAȚI</string>
+    <string name="copying">Se copiază…</string>
+    <string name="demo_mode_notifications">Notificări modul Demonstrativ</string>
+    <string name="disable_demo_mode">Dezactivați modul demo</string>
+    <string name="download_complete_msg">"Descărcare completă.
+
+Atingeți OK pentru a lansa modul Demonstrativ."</string>
+    <string name="download_fail_msg">"Materialul demonstrativ nu a putut fi descărcat de pe internet.
+
+Atingeți OK pentru a lansa modul Demonstrativ?"</string>
+    <string name="downloading">Se descarcă…</string>
+    <string name="enable_demo_mode">Activați modul demo?</string>
+    <string name="enable_demo_mode_setup">Activați modul demo</string>
+    <string name="no_new_demo_found_msg">"Nu a fost găsit niciun material demonstrativ nou.
+
+Atingeți OK pentru a lansa modul Demonstrativ?"</string>
+    <string name="ok">OK</string>
+    <string name="reset_device">Resetați dispozitivul?</string>
+    <string name="system_busy_msg">Sistemul este ocupat. Reîncercați.</string>
+    <string name="update_demo_video">Actualizați videoclipul demo</string>
+</resources>

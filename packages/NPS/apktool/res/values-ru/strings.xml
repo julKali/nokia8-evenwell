@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ОТМЕНА</string>
+    <string name="DONE">Готово</string>
+    <string name="NEXT">ВПЕРЕД</string>
+    <string name="OK">хорошо</string>
+    <string name="PREVIOUS">НАЗАД</string>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="alert_empty_desc">Добавьте описание!</string>
+    <string name="alert_warning_title">Советы</string>
+    <string name="enter_comments">Введите комментарии (1000 знаков)</string>
+    <string name="extremely_likely">(Очень вероятно)</string>
+    <string name="feedback">Отзыв</string>
+    <string name="helps_us_improve_our_products">Ваш отзыв поможет нам улучшить наши изделия!</string>
+    <string name="intro_title">Насколько вероятно, что вы порекомендуете этот телефон другу или коллеге?</string>
+    <string name="msg_send_after">Сообщение отправится автоматически, когда устройство будет в сети. Благодарим за ответ.</string>
+    <string name="msg_send_fail">Сбой отправки. Сообщение отправится автоматически, когда устройство будет в сети. Благодарим за ответ.</string>
+    <string name="no_ask_feedback_again_text">Не показывать снова</string>
+    <string name="no_showagain_text">Не показывать снова</string>
+    <string name="not_at_all_likely">(Вряд ли)</string>
+    <string name="privacy_context_wifi">"Уважаемые пользователи! 
+
+Добро пожаловать в клиентское ПО обратной связи! Перед использованием этого продукта внимательно ознакомьтесь с условиями обслуживания. Выбор кнопки 「Принимаю」 означает, что вы хорошо понимаете привилегии этого программного обеспечения и соглашаетесь его использовать. Если вы НЕ принимаете эти условия, нажмите кнопку 「Выход」. Чтобы предоставить вам полный набор услуг, приложению требуются следующие разрешения: 
+1. Доступ к Интернету, беспроводной сети для отправки отзывов 
+2. Импорт информации IMEI, PSN и MNC\\MCC для автоматического получения базовой информации о телефоне"</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="select_a_value">Выберите значение</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Принимаю</string>
+    <string name="str_leave">Выход</string>
+    <string name="submit_fail">Сбой отправки</string>
+    <string name="submit_success">Благодарим за ответ</string>
+    <string name="thank_your_feedback">Спасибо за ваш отклик!</string>
+    <string name="we_appreciate_your_help">Мы ценим ваше участие, помогающее сделать продукты Nokia самыми лучшими в мире.</string>
+    <string name="we_hope_enjoying_nokia_device">Надеемся, вам нравится ваше устройство Nokia. Ваш отзыв очень важен для нас.</string>
+    <string name="we_will_contact_you_again">Мы вновь обратимся к вам в будущем.</string>
+    <string name="we_will_contact_you_again_enjoy">Мы вновь обратимся к вам в будущем. Пусть ваше новое устройство Nokia радует вас!</string>
+    <string name="why_you_gave_this_score">Расскажите, почему вы поставили такую оценку:</string>
+</resources>

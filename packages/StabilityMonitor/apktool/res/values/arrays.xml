@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="debug_queue_upload_interval_options">
+        <item>1 Mins</item>
+        <item>10 Mins</item>
+        <item>20 Mins</item>
+        <item>30 Mins</item>
+        <item>40 Mins</item>
+        <item>50 Mins</item>
+        <item>60 Mins</item>
+    </string-array>
+    <string-array name="debug_queue_upload_interval_values">
+        <item>1</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="debug_regular_upload_interval_options">
+        <item>0.05 Hrs</item>
+        <item>6 Hrs</item>
+        <item>12 Hrs</item>
+        <item>18 Hrs</item>
+        <item>24 Hrs</item>
+        <item>48 Hrs</item>
+    </string-array>
+    <string-array name="debug_regular_upload_interval_values">
+        <item>0.05</item>
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+        <item>24</item>
+        <item>48</item>
+    </string-array>
+    <string-array name="dropbox_log_size_options">
+        <item>0</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>5000</item>
+    </string-array>
+    <string-array name="dropbox_log_size_values">
+        <item>0</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>5000</item>
+    </string-array>
+    <string-array name="queue_upload_interval_options">
+        <item>10 Mins</item>
+        <item>20 Mins</item>
+        <item>30 Mins</item>
+        <item>40 Mins</item>
+        <item>50 Mins</item>
+        <item>60 Mins</item>
+    </string-array>
+    <string-array name="queue_upload_interval_values">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="regular_upload_interval_options">
+        <item>6 Hrs</item>
+        <item>12 Hrs</item>
+        <item>18 Hrs</item>
+        <item>24 Hrs</item>
+        <item>48 Hrs</item>
+    </string-array>
+    <string-array name="regular_upload_interval_values">
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+        <item>24</item>
+        <item>48</item>
+    </string-array>
+    <string-array name="upload_location_options">
+        <item>to Server</item>
+        <item>to SD-Card</item>
+    </string-array>
+    <string-array name="upload_location_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

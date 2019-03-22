@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">დახურვა</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">\"პარამეტრები\"</string>
+    <string name="fih_weather_notification_text">Tap to allow</string>
+    <string name="fih_weather_notification_title">\"WeatherService-ს ესაჭიროება ნებართვა\"</string>
+    <string name="fih_weather_permission_failed">\"ნებართვა უარყოფილია, მდებარეობა მიუწვდომელია.\"</string>
+    <string name="fih_weather_permission_hint_1">To work properly, this app requires additional permission. Please allow permission when asked.</string>
+    <string name="fih_weather_permission_hint_2">\"Туура иштөөсү үчүн, бул колдонмо кошумча уруксаттарды талап кылат. გთხოვთ დაარეგულირეთ WeatherService-ის ნებართვები პარამეტრებში.\"</string>
+    <string name="fih_weather_permission_success">\"მდებარეობა დაშვებულია\"</string>
+    <string name="fih_weather_service_title_txt">ამინდის სერვისი</string>
+</resources>

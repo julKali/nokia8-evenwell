@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">Terminé</string>
+    <string name="abc_activity_chooser_view_see_all">Voir toutes les chaînes</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionnez une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Recherche en cours...</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="accessibility_text">Accessibilité</string>
+    <string name="datausage_dialog_negitive_btn">Annuler</string>
+    <string name="expand_button_title">Avancé</string>
+    <string name="hmd_legal_message">"Modalités de service 
+ 
+Date d’entrée en vigueur, le 14 octobre 2016. 
+ 
+1. Acceptation 
+Les présentes modalités de service de HMD Global ainsi que la politique de confidentialité et toutes les modalités et informations supplémentaires qui peuvent être fournies dans le cadre du service (collectivement désignées les « modalités »), régissent votre utilisation du service, du site, du contenu et du logiciel (collectivement désignés le « service »). En vous inscrivant ou en utilisant le service ou toute portion de celui-ci, vous acceptez les modalités. 
+ 
+Les modalités constituent une entente entre vous et HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finlande, y compris ses filiales et ses fournisseurs (collectivement désignés « HMD Global »), et elles définissent vos droits et vos obligations ainsi que ceux de HMD Global à l’égard du service. 
+ 
+2. Admissibilité 
+Pour utiliser le service, vous devez être âgé d’au moins treize (13) ans. Si vous avez moins de treize (13) ans ou si vous avez treize (13) ans et plus, mais que vous êtes mineur là où vous habitez, un parent ou un tuteur légal doit accepter votre inscription et approuver votre utilisation du service. Toute personne qui procède à l’inscription doit être légalement habilitée à le faire. 
+ 
+3. Inscription et résiliation 
+Pour utiliser un service, vous pourriez devoir vous inscrire et créer un compte HMD comportant un nom d’utilisateur et un mot de passe; ce compte peut être assujetti à des modalités distinctes. Vous pourriez devoir nous fournir certains renseignements personnels ou d’autres informations. HMD Global peut vérifier votre adresse électronique avant que votre compte HMD puisse être utilisé. La première fois que vous utilisez votre appareil, et chaque fois que vous mettez le logiciel d’un appareil Nokia à jour, un message texte est envoyé à HMD Global. La création d’un compte HMD nécessite le transfert de données. Des frais de transfert de données peuvent s’appliquer. 
+ 
+Vous acceptez de nous fournir des renseignements véridiques et complets lorsque vous vous inscrivez au service et de mettre cette information à jour. Vous devez exercer une diligence raisonnable pour protéger votre nom d’utilisateur et votre mot de passe contre un mésusage par des tiers et vous devez signaler avec célérité à HMD Global tout mésusage. Vous et votre parent, ou tuteur légal si vous êtes mineur, êtes personnellement responsables de toute utilisation du service. 
+ 
+Vous pouvez résilier votre inscription si vous ne désirez plus utiliser le service. Après la résiliation, vous n’aurez plus accès au service. HMD Global peut mettre fin à votre inscription ou limiter votre accès à certaines parties du service si HMD Global a des motifs raisonnables de croire que vous avez enfreint les modalités ou, avec préavis, si vous n’avez pas ouvert de session auprès du service à l'aide de votre nom d’utilisateur au cours des six (6) derniers mois. 
+ 
+Sauf dans les cas prévus dans notre politique de confidentialité, HMD Global n’est pas responsable du retrait ou de la perte des renseignements ou du contenu que vous soumettez au service. Lorsque vous, ou HMD Global, retirez des renseignements ou du contenu du service, il peut en rester des traces ou des copies ailleurs. 
+ 
+4. Licences 
+HMD Global vous concède une licence non exclusive et incessible, révocable en tout temps à la seule discrétion de HMD Global, vous permettant d’accéder au service et de l’utiliser strictement en accord avec les modalités. Votre utilisation du service ne vous confère aucun droit de propriété intellectuelle quant à l’information ou au contenu du service. 
+ 
+Dans le cadre du service, HMD Global peut vous fournir du contenu développé par HMD Global ou par ses concédants de licence (« contenu »). HMD Global vous concède une licence non exclusive et perpétuelle vous permettant d’utiliser le contenu pour les fins auxquelles il est destiné, à moins de stipulation contraire dans les modalités applicables ou sur le bon de commande. Il est possible que des éléments de contenu ne soient disponibles que pour les résidents de certaines régions géographiques. Vous êtes lié par toute restriction applicable au contenu particulier que vous obtenez par l’intermédiaire du service. Toute licence acquise pour du contenu de tiers constitue un contrat exécutoire entre vous et le tiers fournisseur de contenu. Vous ne disposez que des droits au contenu expressément accordés aux présentes. 
+ 
+Dans le cadre du service, HMD Global peut vous fournir des logiciels développés par HMD Global ou par ses concédants de licence (« logiciel »). Votre utilisation du logiciel peut être régie par des modalités distinctes, que vous devez accepter avant de pouvoir utiliser le logiciel. S’il n’y a pas de modalités distinctes applicables au logiciel, les modalités suivantes s’appliquent : HMD Global vous accorde le droit limité, non exclusif et incessible d’installer et d’utiliser le logiciel sur votre ordinateur ou sur votre appareil mobile. Vous ne pouvez pas copier le logiciel, sauf pour en faire une copie de sauvegarde unique. Vous ne pouvez pas distribuer le logiciel ou en céder le droit d’utilisation, ni modifier, traduire, reproduire, revendre, accorder une sous-licence ou louer le logiciel, ni faire de la rétro-ingénierie logicielle ou autrement tenter de découvrir le code source, ni créer des œuvres dérivées fondées sur le logiciel. Pour les logiciels ouverts sous licence, les modalités applicables aux licences de logiciels ouverts s’appliquent. Votre utilisation du logiciel donne à entendre que vous acceptez toutes les modalités applicables. 
+ 
+Le logiciel peut être assujetti au contrôle des exportations en vertu de la réglementation américaine sur l’exportation et à d’autres règlements relatifs au contrôle à l’importation ou à l’exportation. Vous acceptez de vous conformer rigoureusement à la réglementation applicable en matière d’importation et d’exportation et vous reconnaissez avoir l’obligation d’obtenir les permis nécessaires pour exporter, réexporter, transférer ou importer le logiciel. 
+ 
+Il est possible que vous puissiez soumettre de l’information ou du contenu (« document ») au service. HMD Global ne prétend pas être propriétaire de vos documents. Le fait que vous soumettiez des documents n’a pas pour effet de transférer à HMD Global vos droits relatifs aux documents. HMD Global ne fait que transmettre les documents et n’est pas responsable du contrôle de la rédaction. En soumettant des documents au service, vous accordez à HMD Global une licence mondiale, non exclusive, cessible en sous-licence, transférable, exempte de redevances, perpétuelle et irrévocable pour utiliser, copier, présenter publiquement, afficher, distribuer sur quelque support que ce soit et modifier les documents pour les intégrer à d’autres œuvres et pour octroyer des sous-licences similaires dans la mesure nécessaire pour que HMD Global puisse fournir le service. Vous pouvez régler cet octroi dans les options de confidentialité et les autres paramètres du service. 
+ 
+Vous êtes seul responsable de faire des copies de sauvegarde des données que vous stockez dans le service, y compris le contenu que vous y téléchargez. Si le service cesse ou est annulé, HMD Global peut supprimer vos données de façon définitive. HMD Global n’a pas l’obligation de vous retourner vos données après l’arrêt ou l’annulation du service. 
+ 
+5. Utilisation du service 
+Vous convenez : 
+• de respecter les lois applicables, les modalités et les bonnes manières; 
+• d’utiliser le service uniquement à des fins personnelles et non commerciales; 
+• de ne pas soumettre de contenu illégal, offensant, inexact, trompeur, insultant, pornographique, harcelant, diffamatoire ou de tout autre caractère inapproprié; 
+• d’obtenir tout consentement, permission ou licence pouvant être exigé en vertu de la loi pour les documents que vous soumettez; 
+• de respecter la vie privée d’autrui; 
+• de ne pas distribuer ou publier de pourriel, de fichier d’une taille déraisonnable, de chaîne de lettres, d’opération pyramidale, de virus; 
+• de ne pas utiliser d’autres technologies ni d’entreprendre des activités qui pourraient nuire au service ou aux intérêts et à la propriété des utilisateurs du service; 
+• de ne pas utiliser de systèmes automatisés ou d’autres moyens pour accéder au service ou en acquérir, copier ou surveiller une partie; et 
+• d’accepter la responsabilité des conséquences liées aux documents que vous publiez. 
+ 
+HMD Global peut, sans toutefois en avoir l’obligation : 
+• surveiller ou modérer le contenu ou les documents; 
+• supprimer des documents du service; et 
+• restreindre en tout temps votre accès à tout élément du service, à sa seule discrétion. 
+ 
+6. Contenu 
+Avant de télécharger ou d’accéder à du contenu, veuillez vérifier que le contenu auquel vous voulez accéder n’est pas limité à une catégorie d’âge ou qu’il n’est pas signalé comme pouvant être « offensant » ou « explicite ». 
+ 
+HMD Global ne saurait être tenue responsable de réclamations ou d’infractions causées ou subies par vous en accédant à un tel contenu. 
+ 
+Vous convenez de ce qui suit : 
+• d’utiliser le contenu uniquement à des fins personnelles et non commerciales; 
+• d’utiliser le contenu en conformité avec les restrictions fixées par les lois applicables, les modalités supplémentaires, les directives et les politiques ou sur la page du produit s’appliquant à cet élément particulier de contenu; 
+• de ne pas copier, donner, vendre, revendre, prêter, louer, offrir, diffuser, envoyer, distribuer, transférer, publier, reproduire, modifier, afficher, exécuter, exploiter commercialement ou rendre le contenu disponible, sauf autorisation contraire dans les modalités applicables et aviser sans délai HMD Global de toute utilisation non autorisée; 
+• de ne pas retirer, contourner, faire de rétro-ingénierie, déchiffrer, ni perturber ou modifier de toute autre façon les règles d’utilisation applicables ou tenter de circonvenir les fonctions de gestion des droits numériques ou de protection contre la copie liées au contenu ou aux autres technologies utilisées pour contrôler l’accès au contenu, son utilisation ou ses données d’identification; 
+• de ne pas utiliser de systèmes ou d’autres moyens automatisés, sauf ceux que nous fournissons, pour la sélection ou le téléchargement du contenu; et 
+• de ne pas communiquer votre mot de passe ni permettre par ailleurs à d’autres personnes d’accéder au contenu. Les restrictions relatives à la copie qui s’appliquent aux supports médias applicables s’appliquent aussi au contenu auquel vous accédez au moyen du service. 
+ 
+Le contenu appartient à HMD Global ou il est sous son contrôle ou celui de ses concédants de licences et il est protégé par les lois sur la propriété intellectuelle. Le tiers fournisseur de contenu est entièrement responsable du contenu qu’il fournit, de toute garantie qui n’a pas été déclinée et de toute réclamation se rapportant au contenu ou à votre utilisation de ce contenu. HMD Global peut toutefois faire appliquer les modalités de licence de contenu des tiers contre vous à titre de tiers bénéficiaire de ces modalités. Les tiers fournisseurs de contenu sont des tiers bénéficiaires en vertu des présentes modalités et ils peuvent faire appliquer les dispositions qui se rapportent directement au contenu sur lequel ils ont des droits. HMD Global peut agir comme mandataire pour un tiers fournisseur de contenu lorsqu’elle vous procure du contenu. HMD Global n’est pas une partie dans la transaction entre vous et le tiers fournisseur de contenu relativement audit contenu. 
+ 
+7. Allégations de violation du droit d’auteur 
+HMD Global respecte les droits de propriété intellectuelle des tiers. Si vous souhaitez transmettre un avis de violation de propriété intellectuelle, y compris une réclamation concernant une violation du droit d’auteur, veuillez suivre nos procédures pour soumettre votre avis de violation. AUCUNE RÉPONSE NE SERA FOURNIE AUX DEMANDES QUI NE SONT PAS PERTINENTES À CETTE PROCÉDURE. 
+ 
+HMD Global utilise les processus établis à l’article 512 du titre 17 du United States Code (code des États-Unis) pour répondre aux avis de violation de droit d’auteur. Dans certaines circonstances, HMD Global peut également désactiver ou fermer les comptes des utilisateurs des services HMD Global qui sont possiblement des récidivistes. 
+ 
+8. Avis 
+HMD Global peut publier des avis à l’intérieur du service. HMD Global peut également vous envoyer des avis sur les produits et les services à l’adresse électronique ou au numéro de téléphone que vous nous avez fournis. Vous êtes réputé avoir reçu de tels avis au plus tard dans les sept (7) jours après que HMD Global les a envoyés ou publiés. Votre utilisation ininterrompue des services équivaut à votre réception de tous les avis, peu importe la méthode de livraison. 
+ 
+9. Frais 
+Votre utilisation du service peut être ou devenir sujette à des frais. 
+ 
+Les frais imposés par HMD Global en rapport avec le service seront annoncés séparément. 
+ 
+L’utilisation du service peut engendrer le transfert de données sur le réseau de votre fournisseur de services. Les prix énumérés dans le service n’incluent pas les frais éventuels de transfert de données, de messages textes, d’appels ou d’autres services assurés par le fournisseur de services de réseau. 
+ 
+HMD Global n’assume aucune responsabilité quant au paiement des frais imposés par vos fournisseurs de services. 
+ 
+10. Modalités de commande et de paiement 
+Le mot « commande » désigne la sélection de contenu et d’abonnement payables offerts par HMD Global et disponibles dans le service et la soumission d’un mode de paiement, ainsi que le placement d’une commande en sélectionnant « acheter », « OK », « J’accepte » ou autre confirmation semblable d’acceptation dans le processus de commande ou en fournissant toute autre indication d’acceptation des modalités qui vous sont présentées au cours du processus de commande. 
+ 
+Pour passer une commande dans le service, vous devez être majeur ou avoir atteint l’âge de la capacité juridique selon la législation applicable. Si vous n’avez pas atteint l’âge de la capacité juridique ou de la majorité, vous ne pouvez passer des commandes qu’avec le consentement préalable de votre parent ou de votre tuteur légal. 
+ 
+Vous convenez que toutes les commandes sont valides et obligatoires en droit. Toutes les commandes sont sujettes à l’acceptation de HMD Global. 
+ 
+Vous pouvez payer par carte de crédit ou de débit, au moyen de la facturation par votre fournisseur de services de réseau ou par tout autre mode de paiement offert. 
+ 
+Votre carte de crédit ou de débit doit comporter une adresse de facturation dans le pays où le contenu est offert par le service. HMD Global facturera votre carte de crédit ou débitera votre compte bancaire dans un délai raisonnable après que votre commande aura été passée. Tous les paiements par carte de crédit sont sujets à des contrôles de validation et à l’autorisation par l’émetteur de la carte. 
+ 
+Si vous choisissez la facturation par votre fournisseur de services de réseau, les frais figureront sur votre facture de téléphone cellulaire; si vous avez un compte prépayé, ils seront déduits de celui-ci. Certains fournisseurs de services de réseau peuvent assujettir votre utilisation du service à des modalités et conditions supplémentaires, notamment en imposant des limites sur le montant des frais pouvant être facturés par votre fournisseur de services de réseau. Les frais supérieurs au solde du compte ou aux limites du fournisseur de services de réseau peuvent être rejetés. 
+ 
+Vous convenez de payer les frais liés à votre commande, de vous assurer que l’instrument de paiement est valide au moment de la commande, que vous êtes le détenteur légitime de l’instrument et que celui-ci est utilisé en respectant ses limites de crédit. 
+ 
+Le contenu qui vous est livré vous octroie une licence. Vous convenez d’utiliser le contenu uniquement de la manière permise aux présentes modalités et toutes les modalités supplémentaires qui pourraient vous être présentées au cours du processus de commande. 
+ 
+Le service peut offrir des abonnements. Vous autorisez le service à facturer des frais périodiques durant la période de l’abonnement. Le service peut également offrir une période d’essai. Si votre commande comporte une période d’essai (aussi appelée « essayez avant d’acheter »), des frais pourraient vous être facturés à la fin de la période d’essai, à moins d’une annulation conforme aux modalités de l’essai ou de l’abonnement. 
+ 
+Les prix du service peuvent changer de temps à autre. À moins d’indication contraire, les prix incluent les taxes applicables en vigueur au moment de votre transaction. Dans certains cas, des frais supplémentaires pourraient vous être facturés par votre banque ou par la société émettrice de votre carte de crédit pour la conversion des devises utilisées ou pour des frais d’administration. HMD Global n’assume aucune responsabilité quant au paiement de frais bancaires ou autres frais de service des tiers. 
+ 
+11. Annulations et remboursements 
+Vous acceptez que la livraison électronique du contenu débute au moment où vous passez votre commande. Une fois votre commande traitée, il vous sera impossible de l’annuler. La nature du contenu est telle qu’il ne peut pas être retourné. 
+ 
+Si, après avoir passé votre commande, vous découvrez et informez HMD Global dans les 48 heures que a) le contenu que vous avez commandé est défectueux; b) le contenu que HMD Global vous livre ne correspond pas à la description du contenu que vous avez commandé avec le service; ou c) des problèmes techniques ont retardé ou empêché la livraison de votre contenu ou ont donné lieu à des commandes multiples par accident, votre seul et unique recours quant à ce contenu sera le remplacement du contenu ou le remboursement du prix payé pour le contenu, à l’entière discrétion de HMD Global. 
+ 
+Autrement, aucun remboursement n’est possible. Si vous éprouvez l’un ou l’autre des problèmes décrits ci-dessus, veuillez communiquer avec le service à la clientèle de HMD Global. 
+ 
+Veuillez noter que le service à la clientèle de HMD Global pourrait ne pas être en mesure de traiter votre demande d’assistance si vous ne pouvez pas fournir le code de transaction que HMD Global vous transmet une fois que vous avez passé une commande auprès du service. HMD Global peut uniquement traiter le remboursement pour du contenu si le prix total en cause dépasse les limites d’argent énoncées dans la législation locale applicable. 
+ 
+12. Rétroaction à HMD Global 
+En soumettant des idées, de la rétroaction ou des propositions (« rétroaction ») à HMD Global par l’intermédiaire du service ou autrement, vous reconnaissez et convenez que : 1) HMD Global peut avoir des idées de développement similaires à la rétroaction; 2) votre rétroaction ne contient pas de renseignements confidentiels ou exclusifs à des tiers; 3) HMD Global n’est pas tenue à la confidentialité à l’égard de la rétroaction; 4) HMD Global peut librement utiliser, distribuer, exploiter et développer davantage et modifier la rétroaction pour toute fin; et 5) vous n’avez aucun droit de compensation de quelque nature que ce soit de HMD Global. 
+ 
+13. Activités sociales et partage d’emplacement 
+Vous pouvez utiliser les fonctions du service pour partager votre emplacement, votre statut, du contenu, des documents ou des renseignements personnels ou pour interagir avec d’autres utilisateurs, sites et services. En utilisant ces fonctions, vous acceptez que HMD Global puisse utiliser et transmettre ces renseignements à d’autres services et personnes avec lesquels vous choisissez d’interagir ou de partager cette information. Les utilisateurs de ces services et d’autres personnes, comme vos contacts, peuvent voir votre emplacement, votre statut ou vos renseignements personnels. En utilisant ces fonctions, vous convenez de ne pas partager d’informations, de contenu ou de documents ou de ne pas faire le lien vers un service ou un site qui : a) contient du contenu ou d’autres documents illégaux ou inappropriés; ou b) exploite des droits de propriété intellectuelle sans autorisation, ou incite les utilisateurs au piratage. HMD Global ne participe pas à ces interactions et celles-ci n’interviennent qu’entre vous et le ou les autres utilisateurs. 
+ 
+14. Disponibilité et exigences techniques 
+La disponibilité du contenu et du service peut varier et relève de la seule discrétion de HMD Global. HMD Global ne fait aucune déclaration et n’avance aucune garantie à l’effet qu’un élément de contenu ou un service sera disponible. Ce service peut ne pas être offert dans tous les pays et peut être fourni dans certaines langues seulement. Le service et certaines fonctions et caractéristiques peuvent dépendre du réseau, de la compatibilité des appareils utilisés et des formats pris en charge pour le contenu. 
+ 
+Pour accéder au service, vous pourriez devoir télécharger un logiciel particulier développé par HMD Global ou par un tiers. 
+ 
+HMD Global peut, à son entière discrétion, modifier, corriger ou supprimer le service en tout ou en partie. Le service peut ne pas être disponible pendant les pauses d’entretien ou à d’autres moments. Afin que vous disposiez des plus récentes applications et mises à jour, votre appareil peut vérifier automatiquement si des mises à jour logicielles sont offertes par HMD Global. Si c’est le cas, vous serez invité à approuver leur installation. Vous pouvez désactiver la vérification automatique des mises à jour dans les paramètres de votre appareil. Vous pouvez aussi installer le logiciel par le biais des canaux de mise à jour du logiciel disponibles. Si HMD Global estime qu’une mise à jour est importante ou critique, vous ne pourrez pas continuer à utiliser la version antérieure du logiciel. HMD Global peut empêcher votre utilisation de la version antérieure du logiciel ou du service jusqu’à ce que vous installiez la mise à jour. 
+ 
+HMD Global peut, pour quelque raison que ce soit, désactiver tout contenu ou logiciel de votre compte de service et retirer le contenu ou le logiciel ou désactiver les copies de n’importe quelle application sur votre appareil afin de protéger le service, les fournisseurs d’application, les fournisseurs de services sans fil sur le réseau par lequel vous accédez au service ou toute autre partie concernée ou pouvant être concernée. 
+ 
+Un service particulier peut être une version préliminaire, par exemple une version bêta, et pourrait ne pas fonctionner de la même façon que la version finale. HMD Global peut apporter des changements importants à toute version du service ou du logiciel ou décider de ne pas offrir de version finale. 
+ 
+15. Liens vers des sites et du contenu de tiers 
+HMD Global peut inclure un accès à des sites et des services sur Internet ou des clients préinstallés qui vous permettent d’interagir avec des sites et des services détenus ou exploités par des tiers et qui ne font pas partie du service. Vous devez examiner et accepter les modalités de ces sites ou services avant de pouvoir les utiliser. 
+ 
+HMD Global n’exerce aucun contrôle sur le contenu, les sites ou les services des tiers et ne peut assumer aucune responsabilité quant aux services fournis ou aux documents créés ou publiés par ces sites tiers. Un lien vers le site d’un tiers ne signifie d’aucune façon que HMD Global cautionne le site ou les produits ou services mentionnés sur ce site. 
+ 
+En outre, vous et les autres utilisateurs pouvez créer du contenu et des liens vers du contenu à l’intérieur du service qui n’ont pas autrement été soumis au service. HMD Global n’est pas responsable de ce type de contenu ou de liens. 
+ 
+16. Publicité 
+Le service peut inclure des annonces publicitaires. Les annonces publicitaires peuvent être ciblées en fonction du contenu ou des renseignements stockés dans le service, des demandes effectuées sur le service ou d’autres informations. 
+ 
+17. Données personnelles 
+La politique de confidentialité et les renseignements supplémentaires mis à votre disposition régissent l’utilisation de vos données personnelles. 
+ 
+18. Limitation de responsabilité 
+Le service est fourni « tel quel » et « selon la disponibilité ». HMD Global ne garantit pas que le service sera ininterrompu et exempt d’erreurs ou de virus. Aucune garantie de quelque nature que ce soit, expresse ou implicite, notamment, mais sans s’y limiter, les garanties de titre, d’absence de contrefaçon, de qualité marchande ou d’adéquation à un usage particulier, n’est donnée quant à la disponibilité, à l’exactitude, à la fiabilité, à l’information ou au contenu du service. Vous convenez expressément et reconnaissez que vous utilisez le service à vos propres risques et que vous pourriez être exposé à du contenu provenant de sources diverses. 
+ 
+Sauf en cas de décès ou de dommages corporels résultant de sa négligence grossière ou de son méfait intentionnel, HMD Global ne saurait en aucun cas être tenue responsable de dommages indirects, accessoires, punitifs ou corrélatifs découlant de votre utilisation ou de votre incapacité à utiliser le service. 
+ 
+19. Indemnisation 
+Vous acceptez de défendre et de dédommager HMD Global dans tous les cas de plaintes de tiers et dans les cas de responsabilités, d’évaluations, de pertes, de coûts ou de dommages résultant de i) votre non-respect des modalités, ii) votre violation ou atteinte portée à la propriété intellectuelle, des autres droits ou de la vie privée d’un tiers, ou iii) l’utilisation abusive du service par un tiers si celle-ci découle de votre incapacité à prendre des mesures raisonnables pour protéger votre identifiant ou votre mot de passe. 
+ 
+20. Divers 
+ 
+20.1 Compétence législative 
+Les présentes modalités sont régies par les lois de la Finlande, sans égard aux dispositions relatives au droit international privé. 
+ 
+20.2 Validité 
+Les présentes modalités n’excluent pas ou ne limitent aucun de vos droits fondamentaux dans votre pays de résidence qui ne peuvent faire l’objet d’une renonciation. Si une disposition quelconque des modalités est déclarée nulle, la validité des autres dispositions ne sera pas affectée et la disposition non valide sera remplacée par une clause se rapprochant le plus possible de l’objet et de l’effet des modalités. Dans le cas où une ou plusieurs dispositions de ces modalités ne s’appliquent pas à votre utilisation du service, la validité ou la force exécutoire des autres dispositions et des modalités dans leur ensemble ne sera pas affectée. En cas de conflit entre les présentes modalités de service HMD Global et notre politique de confidentialité, les dispositions des modalités de service HMD Global prévaudront. Les dispositions des modalités qui sont censées survivre à une résiliation de votre inscription restent valides après la résiliation. 
+ 
+20.3 Modification des modalités 
+HMD Global peut modifier les modalités en tout temps et sans préavis. Si les modalités sont modifiées de façon importante et dans un sens défavorable, HMD Global fournira un avis distinct pour signaler le changement. 
+ 
+Il vous incombe de consulter périodiquement les modalités. Votre utilisation ininterrompue des services équivaut à votre consentement aux changements et aux modifications. 
+ 
+21. Propriété intellectuelle 
+Le service, le contenu et le logiciel sont protégés par les lois internationales sur la propriété intellectuelle. HMD Global revendique les droits d’auteur relatifs à son service, son contenu et son logiciel avec toute la rigueur de la loi. Sous réserve des modalités, HMD Global conserve tous les droits, titres et intérêts relatifs au service, à son contenu, au logiciel et à tout autre produit, logiciel ou autre bien de HMD Global qui vous est fourni ou que vous utilisez par l’intermédiaire du service. 
+ 
+22. Cession 
+HMD Global peut céder les droits et les obligations qui lui sont dévolus en vertu des présentes modalités à sa société mère, à l’une de ses filiales ou à toute entreprise qui est sous un contrôle commun avec HMD Global. En outre, HMD Global peut céder ses droits et ses obligations en vertu des présentes modalités à un tiers dans le cadre d’une fusion, d’une acquisition, d’une vente d’actifs ou par effet de la loi ou autrement."</string>
+    <string name="insert_sim_cards">Insérer les cartes SIM</string>
+    <string name="insert_sim_cards_prompt_content">"Pas certain de savoir comment? Consultez les instructions fournies avec votre téléphone.
+
+Une fois les cartes SIM insérées, leur activation peut prendre quelques minutes."</string>
+    <string name="language_selection_cancel_btn">ANNULER</string>
+    <string name="light_room_description">"%1$s prend en charge la saisie des images RAW (DNG). Grâce à notre partenariat avec Adobe, il vous est possible d'apporter directement des modifications à votre nouveau téléphone intelligent.&lt;br/>&lt;br/>Téléchargez Adobe Photoshop Lightroom CC de Google Play Store dès maintenant."</string>
+    <string name="light_room_title">La photographie vous passionne?</string>
+    <string name="next_btn_lebel">SUIVANTE</string>
+    <string name="not_now">PAS MAINTENANT…;</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="setup_complete_hmd_1">Vous êtes presque prêt...!</string>
+    <string name="setup_finish">ALLONS-Y</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="upload_agent_hmd_des_text_3">"En appuyant sur \"ALLONS-Y\", vous acceptez de rejoindre le programme d'expérience utilisateur. &lt;a href='launch.UserExperienceActivity://Kode'>En savoir plus&lt;/a>. N'oubliez pas que vous pouvez toujours rejoindre le programme ultérieurement via les Paramètres."</string>
+    <string name="v7_preference_off">DÉSACTIVÉ</string>
+    <string name="v7_preference_on">ACTIVÉ</string>
+    <string name="welcome_hmd_term_of_use_5">"En appuyant sur le bouton, vous acceptez les &lt;a href='launch.TermOfServiceActivity://Kode'>Conditions du service&lt;/a>. Les informations de l'activation de votre appareil avec une localisation unique seront envoyées à HMD Global. Des frais de données peuvent s'appliquer. Les données seront utilisées conformément à la &lt;a href='launch.AddUploadAgentHandler://Kode'>Politique de confidentialité&lt;/a>."</string>
+</resources>

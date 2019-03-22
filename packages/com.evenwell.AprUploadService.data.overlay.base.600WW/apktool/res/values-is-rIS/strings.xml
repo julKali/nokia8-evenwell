@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Persónuverndarstefna HMD</string>
+    <string name="privacy_activity">Persónuverndarstefna HMD</string>
+    <string name="go_label">Lokið</string>
+    <string name="agree">Samþykkja</string>
+    <string name="see_detail">Upplýsingar</string>
+    <string name="next_btn_lebel">Venda</string>
+    <string name="app_name">Kerfisgreining</string>
+    <string name="setting_page_name">Upplifun notanda</string>
+    <string name="send_diag_dialog_any_network">Þegar gagnatenging er fyrir hendi</string>
+    <string name="send_diag_dialog_wifi">Þegar Wi-Fi-tenging er fyrir hendi</string>
+    <string name="send_diag_dialog_wlan">Þegar WLAN-tenging er fyrir hendi</string>
+    <string name="send_diag_dialog_title">Senda greiningu</string>
+    <string name="diagnostics_setting">Greining</string>
+    <string name="diagnostics_report">Greiningarskýrsla</string>
+    <string name="diagnostics_report_summary">Senda greiningarskýrslu þegar hugbúnaðarvilla kemur upp í tækinu. Gjald kann að vera tekið fyrir gagnanotkun. Ráðlagt er að stofna gagnaáskrift hjá símafyrirtæki.</string>
+    <string name="network_options">Valkostir fyrir net</string>
+    <string name="send_diagnostics">Senda greiningu</string>
+    <string name="diagnostics_description">Hjálpaðu okkur að bæta vörur okkar og þjónustu með því að leyfa okkur að safna greiningargögnum þegar hugbúnaðarvilla eða hrun kemur upp í tækinu. Þú getur alltaf breytt þessu síðar í stillingum.</string>
+    <string name="cancel_upload_confirm_msg">Þú ert í þann mund að hætta í notandaupplifunarþjónustu okkar. Hugbúnaðarvillur sem koma upp í símanum verða ekki vistaðar og sendar, svo ekki er víst að þetta bæti upplifun þína við notkun símans.</string>
+</resources>

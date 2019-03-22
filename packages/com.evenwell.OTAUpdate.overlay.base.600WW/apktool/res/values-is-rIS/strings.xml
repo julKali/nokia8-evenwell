@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hugbúnaðaruppfærsla</string>
+    <string name="file_not_found">Skrá fannst ekki</string>
+    <string name="remote_file_fail">Ekki hægt að opna fjartengda skrá. Reyndu aftur síðar.</string>
+    <string name="no_description">(Engin lýsing)</string>
+    <string name="login_fail">Mistókst að skrá inn á netþjón. Reyndu aftur síðar.</string>
+    <string name="get_service_url_fail">Nettenging er óstöðug (mistókst að sækja slóð netþjóns). Reyndu aftur síðar.</string>
+    <string name="query_sw_fail">Mistókst að biðja um forritsupplýsingar.</string>
+    <string name="download_sw_fail">Mistókst að sækja hugbúnað.</string>
+    <string name="query_sw_incorrect">Niðurstöðurnar eru rangar.</string>
+    <string name="no_update_available">Engin nýrri uppfærsla er í boði.</string>
+    <string name="update_not_ready">Nýrri uppfærsla er ekki í boði á netþjóni. Reyndu aftur síðar.</string>
+    <string name="check_now_label">Athuga núna</string>
+    <string name="checking">Athugar...</string>
+    <string name="verifying">Staðfestir ...</string>
+    <string name="header_verifying_update_file">Sannprófar uppfærða skrá ...</string>
+    <string name="unzipping">Afþjappar ...</string>
+    <string name="please_wait">Augnablik...</string>
+    <string name="header_starting_to_download_file">Niðurhal skráar að hefjast ...</string>
+    <string name="header_system_update_available">Kerfisuppfærsla er í boði</string>
+    <string name="new_version_desc_prompt">Nýja útgáfan er m.a. með:</string>
+    <string name="header_attention">Athugaðu</string>
+    <string name="data_fee_warning">Notkun þessarar þjónustu gegnum farsímakerfið þitt kann að hafa kostnað í för með sér!</string>
+    <string name="header_downloading_update">Sækir uppfærslu</string>
+    <string name="header_install_system_software_update">Setja upp uppfærslu kerfishugbúnaðar</string>
+    <string name="msg_install_system_software_update_1">"Á að setja upp eftirfarandi kerfishugbúnað?
+Kerfi uppfært í"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Ekki er hægt að nota tækið eða hringja neyðarsímtöl meðan á uppfærslunni stendur.
+
+Ef rafhlaðan eða SD-kortið er fjarlægt meðan á uppfærslu hugbúnaðar stendur kann það að hafa óvæntar afleiðingar."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Ekki er hægt að nota tækið meðan á uppfærslunni stendur.
+
+Ef slökkt er á tækinu eða sótta skráin er fjarlægð meðan á uppfærslu hugbúnaðar stendur mun það hafa óvæntar afleiðingar."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Ekki er hægt að nota tækið eða hringja neyðarsímtöl meðan á uppfærslunni stendur.
+
+Ef slökkt er á tækinu eða sótta skráin er fjarlægð meðan á uppfærslu hugbúnaðar stendur kann það hafa óvæntar afleiðingar."</string>
+    <string name="button_install_now">Setja upp núna</string>
+    <string name="button_install_later">Setja upp síðar</string>
+    <string name="header_unable_to_connect">Ekki er hægt að tengjast</string>
+    <string name="msg_unable_to_connect">Til að nota þetta forrit þarf nettengingu. Kveikið á farsímakerfi eða Wi-Fi í \"Stillingar\".</string>
+    <string name="msg_unable_to_connect_2">Til að nota þetta forrit þarf nettengingu. Kveikið á farsímakerfi í \"Stillingar\".</string>
+    <string name="msg_unable_to_connect_wlan">Til að nota þetta forrit þarf nettengingu. Kveikið á farsímakerfi eða WLAN í \"Stillingar\".</string>
+    <string name="msg_unable_to_connect_short">Engin nettenging</string>
+    <string name="button_reset">Endurstilla</string>
+    <string name="button_settings">Stillingar…</string>
+    <string name="header_system_is_update">Kerfið er uppfært.</string>
+    <string name="msg_system_is_update">Engin nýrri uppfærsla er í boði.</string>
+    <string name="msg_system_is_update_short">Engar nýrri uppfærslur</string>
+    <string name="msg_no_sd_card">SD-kort er áskilið við kerfisuppfærslu. Setjið SD-kort í.</string>
+    <string name="msg_no_sd_card_short">Ekkert SD-kort.</string>
+    <string name="msg_no_available_size_card">Þessi uppfærsla krefst %s MB geymslurýmis. Eyðið einhverjum skrám af SD-korti.</string>
+    <string name="msg_no_available_size_card_2">Þessi uppfærsla krefst %s MB geymslurýmis. Eyðið einhverjum skrám úr gagnageymslu.</string>
+    <string name="msg_no_available_size_card_short">Ekki nægilegt laust pláss.</string>
+    <string name="msg_do_not_remove_sd_card">EKKI fjarlægja SD-kortið.</string>
+    <string name="title_system_update_ready">Kerfisuppfærsla er tilbúin</string>
+    <string name="msg_system_update_ready">Pikka til að setja upp kerfisuppfærslu.</string>
+    <string name="msg_system_battery_too_low">"Kerfisuppfærsla er tilbúin en of lítil hleðsla er á rafhlöðunni til að setja hana upp. Hlaðið rafhlöðuna og ræsið uppsetningu aftur síðar
+
+Hleðsla rafhlöðu ætti að vera yfir 35%%.
+Núverandi rafhlöðuhleðsla: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Of lítil hleðsla á rafhlöðu</string>
+    <string name="msg_remove_sd_card">Ekki er hægt að skrifa sótta skrá inn á SD-kort. Athugið SD-kortið.</string>
+    <string name="msg_remove_sd_card_2">Ekki er hægt að skrifa sótta skrá inn í gagnageymslu. Athugið geymsluplássið.</string>
+    <string name="msg_remove_sd_card_short">Mistókst að opna SD-kort.</string>
+    <string name="msg_remove_sd_card_short_2">Mistókst að opna gagnageymslu.</string>
+    <string name="msg_verify_fail">Mistókst að sannprófa sóttu skrána.</string>
+    <string name="msg_verify_fail_short">Mistókst að sannprófa</string>
+    <string name="msg_unzip_fail">Mistókst að afþjappa sóttu skrána.</string>
+    <string name="msg_unzip_fail_short">Mistókst að afþjappa</string>
+    <string name="hide">Fela</string>
+    <string name="data_size">Gagnastærð</string>
+    <string name="required_size">Áskilið geymslurými</string>
+    <string name="network_not_match">Sem stendur er tækið stillt á að sækja gögn aðeins um WLAN. Veldu WLAN-net eða breyttu stillingunum.</string>
+    <string name="network_not_match_short">Netkerfið passar ekki.</string>
+    <string name="without_reboot_api">Ekki hægt að endurræsa þar sem API vantar. Endurræsið til að endurheimta handvirkt virku uppfærsluna.</string>
+    <string name="update_complete">Kerfisuppfærslu er lokið.</string>
+    <string name="update_complete_short">Uppfærslu er lokið</string>
+    <string name="file_removed">Sótta skráin var fjarlægð. Sækið skrána aftur.</string>
+    <string name="file_removed_short">Sótta skráin var fjarlægð.</string>
+    <string name="file_not_match">Skrá sem var sótt passar ekki við ætlaða stærð. Sækið skrána aftur.</string>
+    <string name="file_not_match_short">Skráin passar ekki.</string>
+    <string name="menu_url">Breyta vefslóð netþjóns</string>
+    <string name="menu_enabled">Aðeins virkjaður hugbúnaður</string>
+    <string name="using_internal_storage">Innra minni notað</string>
+    <string name="using_external_storage">Notar ytra geymslurými</string>
+    <string name="msg_agree_message">"
+
+Smávægileg hætta er á að notendagögnum verði eytt í uppfærsluferlinu. Ef þörf krefur skal taka öryggisafrit af gögnum áður en kerfisuppfærsla er sett upp."</string>
+    <string name="msg_root_message">"
+
+Ef rótaraðgangur er veittur að tæki er ekki hægt að tryggja eðlilega uppfærslu."</string>
+    <string name="msg_responsibility_message">Hafi rótaraðgangur verið veittur að síma er notandi ábyrgur fyrir allri óeðlilegri kerfishegðun eftir uppfærslu.</string>
+    <string name="msg_upgrade_agree">Lesa og samþykkja</string>
+    <string name="later">Síðar</string>
+    <string name="update">Uppfæra</string>
+    <string name="update_summary">Leita að uppfærslum</string>
+    <string name="wifi_only">Wi-Fi eingöngu</string>
+    <string name="wlan_only">Aðeins WLAN</string>
+    <string name="wifi_only_summary">Sækið uppfærslur þegar Wi-Fi er í boði</string>
+    <string name="wlan_only_summary">Sækja uppfærslur þegar WLAN-tenging er í boði</string>
+    <string name="auto_update">Sjálfvirk uppfærsla</string>
+    <string name="auto_update_summary">Leita sjálfkrafa að uppfærslum</string>
+    <string name="new_data_fee_warning">Leit að og niðurhal uppfærslna kann að leiða til viðbótarkostnaðar. Sækið uppfærslur um Wi-Fi, ef þess er kostur.</string>
+    <string name="wlan_data_fee_warning">Leit að og niðurhal uppfærslna kann að leiða til viðbótarkostnaðar. Sækið uppfærslur um WLAN, ef þess er kostur.</string>
+    <string name="installing">Setur upp</string>
+    <string name="install_complete">Uppsett</string>
+    <string name="install_fail">Uppsetning</string>
+    <string name="install_all">Setja allt upp</string>
+    <string name="install">Setja upp</string>
+    <string name="installed_version">Uppsett útgáfa</string>
+    <string name="update_available">Uppfærsla er í boði.</string>
+    <string name="apk_update_available">Uppfærsla forrits er tiltæk.</string>
+    <string name="recommend">Ráðleggja</string>
+    <string name="roaming_restriction">Takmarkanir á gagnareiki</string>
+    <string name="roaming_restriction_summary">Ekki er hægt að uppfæra vegna takmarkana á gagnareiki.</string>
+    <string name="changelog">Breytingaskrá</string>
+    <string name="description">Lýsing</string>
+    <string name="apk_update_available_summary">Uppfærsla er í boði fyrir %s. Smelltu á \"Í lagi\" til að setja upp strax eða smelltu á \"Hætta við\" til að leita að uppfærslu eftir einn dag.</string>
+    <string name="apk_removed">Þetta forrit var fjarlægt.</string>
+    <string name="apk_available_items">Heildarfjöldi %s tiltækra atriða</string>
+    <string name="apk_available_item">Alls %s atriði í boði</string>
+    <string name="new_forpreference">Nýjar</string>
+    <string name="invalid_update_summary">Uppfærslan er ógild. Reynið aftur.</string>
+    <string name="recheck">Athuga aftur</string>
+    <string name="image_download_exception_summary">Samband næst ekki við netþjón. Reynið aftur síðar.</string>
+    <string name="apk_download_exception">Ekki er hægt að opna skrána</string>
+    <string name="installation_confirmation">Uppsetning staðfest</string>
+    <string name="apk_need_reboot_summary">Þessi hugbúnaðaruppfærsla endurræsir kerfið sjálfkrafa að uppfærslu lokinni. Á að setja upp núna?</string>
+    <string name="downloaded">Sótt</string>
+    <string name="prepare_to_reboot">Undirbúa fyrir endurræsingu</string>
+    <string name="prepare_to_reboot_summary">Uppsettur hugbúnaður þarf að endurræsa tækið fyrir grunnstillingu. Mælt er með endurræsingu núna. Þó má endurræsa síðar.</string>
+    <string name="prepare_to_reboot_force_summary">Uppsettur hugbúnaður þarf að endurræsa tækið fyrir grunnstillingu. Ráðlagt er að endurræsa núna.</string>
+    <string name="reboot">Endurræsa</string>
+    <string name="reboot_fail">Endurræsing mistókst</string>
+    <string name="reboot_fail_summary">Ekki hægt að endurræsa þar sem API vantar. Endurræsið handvirkt.</string>
+    <string name="apk_no_avaliable_size">Ekki hægt að sækja þar sem innra geymslurými er of lítið.</string>
+    <string name="update_finished">Uppfærslu lokið</string>
+    <string name="header_warning">Viðvörun</string>
+    <string name="msg_root_warning">Rótaraðgangur var veittur að tæki eða hefur verið við upprunalegan hugbúnað. Ef haldið er áfram með uppfærsluna kann það að valda óstöðugleika kerfis eða kerfishruni og það kann að ógilda ábyrgðina á tækinu þínu eða tækjunum. Viltu örugglega halda áfram?</string>
+    <string name="multi_image_update">Nokkrar uppfærslur mynda eru tiltækar</string>
+    <string name="available_update_list">Listi yfir tiltækar uppfærslur</string>
+    <string name="downloading_summary">Hættið við að sækja myndina</string>
+    <string name="msg_erase_userdata_warning">Þessi uppfærsla krefst þess að notendagögnum sé eytt. Viltu halda áfram?</string>
+    <string name="msg_autoupdate_date_fee_warning">Sjálfvirk uppfærsla kann að leiða til viðbótarkostnaðar.</string>
+    <string name="invalid_update">Uppfærslan er ógild.</string>
+    <string name="file_corrupted">Ekki er hægt að uppfæra kerfi þar sem skráin er skemmd.</string>
+    <string name="ask_for_apk_check">Á að leita að uppfærslum fyrir forritið?</string>
+    <string name="update_ota_self">Hugbúnaðaruppfærsla er í gangi.</string>
+    <string name="ab_update_fail">Vandamál við uppsetningu.</string>
+    <string name="ab_update_wrong_status">Uppfærsluvélin er upptekin sem stendur. Reynið aftur síðar eða endurræsið.</string>
+    <string name="ab_update_installing">Uppfærslukerfi</string>
+    <string name="tag_engineer_mode">Þróunarstilling</string>
+    <string name="engineer_version_incorrect">Útgáfa tækisins þíns er röng</string>
+    <string name="msg_engineer_ota_restore">Pikka til að endurheimta opinbera útgáfu</string>
+    <string name="msg_engineer_ota_restore_warning">Þetta endurheimtir upprunalegu útgáfuna. Viltu halda áfram?</string>
+    <string name="silent_mode_data_fee_warning">Uppfærsla er í boði. Niðurhal uppfærslna kann að leiða til viðbótarkostnaðar. Sækið uppfærslur um Wi-Fi, ef þess er kostur.</string>
+    <string name="msg_updating_system">Uppfærir kerfi ...</string>
+    <string name="msg_tap_to_reboot">Pikka til að endurræsa</string>
+    <string name="msg_pause_download">Gera hlé á niðurhali</string>
+    <string name="notification_channel_name">Kerfisuppfærsla</string>
+    <string name="notification_channel_alert_name">Almennar tilkynningar</string>
+</resources>

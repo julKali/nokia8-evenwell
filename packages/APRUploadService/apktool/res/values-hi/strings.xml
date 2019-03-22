@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सिस्टम निदान</string>
+    <string name="setting_page_name">उपयोगकर्ता अनुभव प्रोग्राम</string>
+    <string name="send_diag_dialog_any_network">जब डेटा कनेक्शन उपलब्ध होता है</string>
+    <string name="send_diag_dialog_wifi">जब Wi-Fi कनेक्शन उपलब्ध होता है</string>
+    <string name="send_diag_dialog_wlan">जब WLAN कनेक्शन उपलब्ध होता है</string>
+    <string name="send_diag_dialog_title">निदान भेजें</string>
+    <string name="diagnostics_setting">निदान</string>
+    <string name="diagnostics_report">निदान रिपोर्ट</string>
+    <string name="diagnostics_report_summary">उपकरण जब किसी सॉफ्टवेयर त्रुटि का सामना कर रहा हो तब निदान रिपोर्ट भेजें। यह नेटवर्क के उपयोग की लागत जनरेट कर सकता है। वाहक से डेटा नेटवर्क पैकेज हासिल करने की सिफारिश की जाती है।</string>
+    <string name="network_options">नेटवर्क विकल्प</string>
+    <string name="send_diagnostics">निदान भेजें</string>
+    <string name="privacy_statement">गोपनीयता कथन</string>
+    <string name="diagnostics_description">आपका उपकरण जब किसी सॉफ्टवेयर त्रुटि या क्रैश का अनुभव करता है तब हमें कृपया निदान डेटा एकत्र करने की अनुमति देकर अपने उत्पादों और सेवाओं को बेहतर बनाने में हमारी मदद करें। आप कभी भी सेटिंग में बाद में विकल्प बदल सकते हैं।</string>
+    <string name="privacy_activity">गोपनीयता कथन</string>
+    <string name="go_label">संपन्न</string>
+    <string name="diagnostics_confirmation">हाँ, मैं स्वचालित रूप से निदान ​​डेटा भेजने के लिए सहमत हूँ।</string>
+    <string name="setcomplete">सेटअप पूरा हुआ</string>
+    <string name="agree_dialog">हमने पहले ही हमारा उपयोगकर्ता अनुभव प्रोग्राम और संबंधित गोपनीयता कथन बदल दिया है। कृपया उपयोगकर्ता अनुभव प्रोग्राम में अब शामिल होकर हमारे उत्पादों और सेवाओं को बेहतर बनाने में हमारी मदद करें। आप कभी भी सेटिंग में विकल्प बदल सकते हैं। उपयोगकर्ता अनुभव योजना में शामिल होने के बाद यह नेटवर्क के उपयोग की लागत जनरेट कर सकता है। वाहक से डेटा नेटवर्क पैकेज हासिल करने की सिफारिश की जाती है।</string>
+    <string name="agree">सहमत</string>
+    <string name="see_detail">विवरण</string>
+    <string name="next_btn_lebel">अगला</string>
+</resources>

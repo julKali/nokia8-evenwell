@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Išvaizda</string>
+    <string name="pref_dialog_title_time_out">Pertrauka</string>
+    <string name="pref_title_alarm_information">Žadintuvo informacija</string>
+    <string name="pref_title_calendar_reminder">Kalendoriaus priminimas</string>
+    <string name="pref_title_missed_calls">Praleistų skambučių indikatorius</string>
+    <string name="pref_title_time_out">Pertrauka, kai telefonas nejuda</string>
+    <string name="pref_title_unread_mails">Neperskaitytų laiškų indikatorius</string>
+    <string name="pref_title_unread_messages">Neperskaitytų pranešimų indikatorius</string>
+    <string name="switch_off_text">Išjungta</string>
+    <string name="switch_on_text">Įjungta</string>
+</resources>

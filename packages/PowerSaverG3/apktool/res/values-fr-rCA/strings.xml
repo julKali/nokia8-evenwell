@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_block_list">"Liste d'applications limitées"</string>
+    <string name="fih_power_saving_background_activity_text_blacklist">"L'ajout d'applications à la liste d'applications limitées peut prolonger la durée de vie utile de la batterie, mais il est possible que les notifications de certaines applications ou de certains courriels ne puissent pas être récupérés instantanément. Vous pouvez gérer la durée de vie utile de la batterie en ajoutant ou en enlevant des applications de la liste d'applications limitées."</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="switch_off_text">Désactivé</string>
+    <string name="switch_on_text">Activé</string>
+</resources>

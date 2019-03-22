@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/setupwizard_background_ww" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/viewStatusBar" android:background="@color/status_bar_ww" android:layout_width="fill_parent" android:layout_height="@dimen/status_bar_height" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="96.0dip" android:layout_below="@id/viewStatusBar" android:layout_marginStart="24.0dip" android:layout_marginEnd="24.0dip">
+        <TextView android:textSize="24.0sp" android:textColor="#ff212121" android:gravity="center" android:id="@id/description_text_main" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/light_room_title" android:layout_centerHorizontal="true" />
+        <ScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="240.0dip" android:layout_marginTop="24.0dip" android:fillViewport="true">
+            <TextView android:textSize="16.0sp" android:textColor="#ff212121" android:gravity="center" android:id="@id/description_text_second" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" />
+        </ScrollView>
+        <ImageView android:layout_width="94.0dip" android:layout_height="94.0dip" android:layout_marginTop="40.0dip" android:src="@drawable/lr_logo" android:scaleType="fitXY" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="67.0dip" android:layout_alignParentBottom="true" android:layout_marginStart="8.0dip" android:layout_marginEnd="24.0dip">
+        <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <Button android:id="@id/next_btn" android:background="@drawable/setupwizard_blue_button_ww" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="81.0dip" android:text="@string/next_btn_lebel" style="@style/SuwGlifButton.Primary" />
+    </LinearLayout>
+</RelativeLayout>

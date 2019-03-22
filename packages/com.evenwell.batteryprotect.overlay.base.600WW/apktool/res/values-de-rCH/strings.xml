@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Akkuschutz</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_warning_title">Vorsicht hohe Temperatur</string>
+    <string name="fih_battery_protect_cooldown_title">Abkühlen</string>
+    <string name="fih_battery_protect_normalmode_title">Normaltemperatur</string>
+    <string name="fih_battery_protect_warning_text">Anruf und Anwendungen beenden und Telefon abkühlen lassen.</string>
+    <string name="fih_battery_protect_cooldown_text">Telefon ist im Abkühlmodus. Nur Notrufe möglich.</string>
+    <string name="fih_battery_protect_normalmode_text">Normalbetrieb fortgesetzt.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Notruf</string>
+    <string name="fih_battery_protect_maxtemp_title">Maximale Temperatur</string>
+    <string name="fih_battery_protect_maxtemp_text">Telefon zu heiß, wird jetzt abgeschaltet.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Ladeabbruch</string>
+    <string name="fih_battery_protect_low_temp_title">Warnung</string>
+    <string name="fih_battery_protect_low_temp_text">Temperatur zu niedrig, Laden abbrechen.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">Temperatur außer Bereich</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Akkutemperatur nicht ermittelbar. Nur ordnungsgemäß eingelegter Akku kann geladen werden.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Akkutemperatur ist nicht ermittelbar.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">Der Akku muss richtig eingelegt sein, da sonst nicht geladen wird.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Akkutemperatur derzeit nicht ermittelbar und Telefon ist im Abkühlmodus, der nur Notrufe ermöglicht. Sicherstellen, dass der Akku richtig eingebaut ist.</string>
+    <string name="fih_battery_protect_aging_title">Akku-Assistent</string>
+    <string name="fih_battery_protect_aging_nm_text">Bitte rufen Sie unseren Kundenservice unter der Rufnummer %1$s an. Vielen Dank.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Bitte rufen Sie unseren Kundenservice an. Vielen Dank.</string>
+    <string name="fih_battery_protect_bl_warning_title">Alarm: Helligkeit verringern</string>
+    <string name="fih_battery_protect_bl_warning_text">Telefontemperatur erhöht, Abkühlen des Telefons durch Reduzieren der Helligkeit</string>
+    <string name="fih_battery_protect_full_charging">Laden beendet</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Abbrechen</string>
+    <string name="fih_battery_protect_power_off">Ausschalten</string>
+    <string name="fih_battery_protect_high_full_charging">Maximaler Ladegrenzwert bei hohen Temperaturen erreicht! Das Laden mit normaler Geschwindigkeit wird fortgesetzt, wenn das Mobiltelefon wieder seine Normaltemperatur erreicht hat.</string>
+    <string name="fih_battery_protect_low_full_charging">Maximaler Ladegrenzwert bei niedrigen Temperaturen erreicht! Das Laden mit normaler Geschwindigkeit wird fortgesetzt, wenn das Mobiltelefon wieder seine Normaltemperatur erreicht hat.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Ladebegrenzung für hohe Temperatur erreicht.</string>
+    <string name="fih_battery_protect_low_full_charging_title">Ladebegrenzung für niedrige Temperatur erreicht.</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Allgemeine Benachrichtigungen</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">Durch Tastendruck die Helligkeit verringern und Anwendungen schließen, damit das Gerät abkühlt.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">Gerät zu heiß, wird jetzt abgeschaltet.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">Akkutemperatur ist zu niedrig, Laden abbrechen.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Akkutemperatur derzeit nicht ermittelbar und Gerät ist im Abkühlmodus, der nur Notrufe ermöglicht. Sicherstellen, dass der Akku richtig eingebaut ist.</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">Akku falsch eingelegt</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">Sicherstellen, dass der Akku richtig eingelegt ist.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">Akkutemperatur zu hoch, Laden abbrechen.</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Abbrechen</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">Gerät ist jetzt im Abkühlmodus. Bitte später nutzen.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Bitte Originalakku verwenden</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Laden abgebrochen</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Bitte verwenden Sie zum Laden den Originalakku, andernfalls kann es zu dauerhaften/physischen Schäden am Gerät kommen.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Der Akku ist ungültig</string>
+    <string name="fih_battery_protect_notification_cooling_down">Abkühlen</string>
+    <string name="fih_battery_protect_tap_learn_more">Für weitere Informationen tippen.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Das Telefon wird heiß und hat Maßnahmen zur Abkühlung eingeleitet. Es kann weiter verwendet werden, zeigt aber möglicherweise folgende Symptome:
+·Laden pausiert.
+·WLAN deaktiviert.
+·Anwendungen geschlossen.
+·Flugmodus aktiviert.
+Nach dem Abkühlen funktioniert das Telefon wieder wie gewohnt."</string>
+</resources>

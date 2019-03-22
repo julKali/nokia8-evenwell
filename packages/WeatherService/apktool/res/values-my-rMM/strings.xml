@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">ပိတ်ရန်</string>
+    <string name="fih_weather_button_ok">ေကာင္းၿပီ</string>
+    <string name="fih_weather_button_setting">ဆက္တင္မ်ား</string>
+    <string name="fih_weather_notification_channel_title">အထွေထွေ အကြောင်းကြားချက်များ</string>
+    <string name="fih_weather_notification_text">ခွင့်ပြုရန် တို့ပါ</string>
+    <string name="fih_weather_notification_title">ရာသီဥတု ဝန်ဆောင်မှုသည် ခွင့်ပြုချက်များ လိုအပ်သည်</string>
+    <string name="fih_weather_permission_failed">သဘောတူထားသော တည်နေရာ ခွင့်ပြုချက်ကို ငြင်းခဲ့သည်၊ တည်နေရာ မရရှိနိုင်ပါ။</string>
+    <string name="fih_weather_permission_hint_1">မှန်ကန်စွာ အလုပ်လုပ်စေရန်၊ ဤအက်ပ်သည် ထပ်တိုး ခွင့်ပြုချက် လိုအပ်သည်။ ကျေးဇူးပြု၍ ခွင့်ပြုချက်ကို တောင်းခံသောအခါ ခွင့်ပြုပေးပါ။</string>
+    <string name="fih_weather_permission_hint_2">မှန်ကန်စွာ အလုပ်လုပ်စေရန်၊ ဤအက်ပ်သည် ထပ်တိုး ခွင့်ပြုချက်များ လိုအပ်သည်။ ကျေးဇူးပြု၍ သတ်မှတ်ချက်ထဲတွင် ရာသီဥတု ဝန်ဆောင်မှု၏ ခွင့်ပြုချက်ကို စီမံပါ။</string>
+    <string name="fih_weather_permission_success">သဘောတူထားသော တည်နေရာ ခွင့်ပြုချက်အောင်မြင်သည်</string>
+    <string name="fih_weather_service_title_txt">ရာသီဥတု ဝန်ဆောင်မှု</string>
+</resources>

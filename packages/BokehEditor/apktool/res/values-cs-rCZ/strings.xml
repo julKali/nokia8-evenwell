@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Editor bokeh</string>
+    <string name="image_not_null">Cesta k obrázku nesmí být prázdná</string>
+    <string name="no_bokeh_type">Žádný typ bokeh</string>
+    <string name="no_mpo_file">Žádný soubor MPO</string>
+    <string name="save">Uložit</string>
+    <string name="save_success">Úspěšně uloženo</string>
+</resources>

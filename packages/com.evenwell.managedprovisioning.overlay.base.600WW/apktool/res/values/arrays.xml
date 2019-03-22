@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vendor_disallowed_apps_managed_device">
+        <item>com.google.android.apps.handwriting.ime</item>
+    </string-array>
+    <string-array name="vendor_disallowed_apps_managed_profile">
+        <item>com.evenwell.SetupWizard</item>
+        <item>com.google.android.setupwizard</item>
+    </string-array>
+    <string-array name="vendor_required_apps_managed_device">
+        <item>com.android.vending</item>
+        <item>com.google.android.gms</item>
+        <item>com.google.android.contacts</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.launcher</item>
+        <item>com.google.android.dialer</item>
+        <item>com.google.android.setupwizard</item>
+        <item>com.google.android.apps.messaging</item>
+        <item>com.android.mms</item>
+        <item>com.android.mms.service</item>
+        <item>com.android.launcher</item>
+        <item>com.evenwell.SetupWizard</item>
+        <item>com.evenwell.camera2</item>
+        <item>com.hmdglobal.camera2</item>
+        <item>com.android.contacts</item>
+        <item>com.fihtdc.foxlauncher</item>
+        <item>com.android.dialer</item>
+    </string-array>
+    <string-array name="vendor_required_apps_managed_profile">
+        <item>com.android.vending</item>
+        <item>com.google.android.gms</item>
+        <item>com.google.android.contacts</item>
+    </string-array>
+</resources>

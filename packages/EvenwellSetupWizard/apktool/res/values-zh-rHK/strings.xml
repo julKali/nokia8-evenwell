@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽主頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">顯示全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">使用「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="accessibility_no_wifi">Wi-Fi 連線已中斷。</string>
+    <string name="accessibility_text">協助工具</string>
+    <string name="accessibility_wifi_off">Wi-Fi 已關閉。</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi 訊號一格。</string>
+    <string name="accessibility_wifi_security_type_none">開放式網絡</string>
+    <string name="accessibility_wifi_security_type_secured">安全網絡</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi 訊號滿格。</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi 訊號三格。</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi 訊號兩格。</string>
+    <string name="account_intro_description">請加入[BRAND_NAME]服務，更聰明有效的使用您的[BRAND_NAME]手機。</string>
+    <string name="account_intro_title">[BRAND_NAME]服務帳戶</string>
+    <string name="add_account_button_label">設定帳戶</string>
+    <string name="add_baidu_button_label">登入百度雲</string>
+    <string name="add_infocus_service_account">新增[BRAND_NAME]服務帳戶</string>
+    <string name="available_via_carrier">可透過 %1$s 連線</string>
+    <string name="back_btn_lebel">上一步</string>
+    <string name="backup_and_restore_description">"如果您先前已備份帳戶資料，現在就可以將資料還原到這支手機。
+
+您隨時可以前往「設定」變更備份設定。"</string>
+    <string name="backup_and_restore_title">備份與還原</string>
+    <string name="baidu_intro_description">只要完成幾個簡單的步驟，您即可享用無縫的百度雲端儲存空間。</string>
+    <string name="baidu_intro_title">百度雲端儲存空間</string>
+    <string name="baidu_progress_dialog_des">請稍候...</string>
+    <string name="bypass_setup_skip">略過</string>
+    <string name="bypass_setup_skip_cancel">返回</string>
+    <string name="bypass_setup_tip_text">您即將略過所有設定頁面並直接進到桌面，稍後仍可以到系統設定中完成相關設定，要繼續請按略過。</string>
+    <string name="bypass_setup_tip_title">略過所有設定頁面</string>
+    <string name="choose_timezone">選擇時區</string>
+    <string name="connected_via_carrier">已透過 %1$s 連線</string>
+    <string name="connected_via_network_scorer">已透過 %1$s 自動連線</string>
+    <string name="connected_via_network_scorer_default">已透過網絡評分供應商自動連線</string>
+    <string name="data_usage_metered_auto">自動</string>
+    <string name="data_usage_metered_no">非按用量收費</string>
+    <string name="data_usage_metered_yes">按用量收費</string>
+    <string name="datausage_dialog_negitive_btn">取消</string>
+    <string name="datausage_dialog_positive_btn">確定</string>
+    <string name="date_and_time">日期與時間設定</string>
+    <string name="date_and_time_settings_summary">設定日期、時間、時區及時間格式</string>
+    <string name="date_and_time_settings_title">日期與時間</string>
+    <string name="date_and_time_settings_title_setup_wizard">設定日期和時間</string>
+    <string name="date_picker_title">日期</string>
+    <string name="date_time_24hour">使用 24 小時格式</string>
+    <string name="date_time_auto">自動判斷日期和時間</string>
+    <string name="date_time_auto_summaryOff">使用網路提供的時間</string>
+    <string name="date_time_auto_summaryOn">使用網路提供的時間</string>
+    <string name="date_time_date_format">選擇日期格式</string>
+    <string name="date_time_set_date">設定日期</string>
+    <string name="date_time_set_time">設定時間</string>
+    <string name="date_time_set_timezone">選取時區</string>
+    <string name="default_date_format">MM/dd/yyyy</string>
+    <string name="device_checking_message">歡迎使用</string>
+    <string name="dropbox_fih_description">取得2GB的免費Dropbox空間，自動上傳您的照片及影片。</string>
+    <string name="dropbox_fih_signin">登入Dropbox</string>
+    <string name="dropbox_fih_signup">註冊Dropbox</string>
+    <string name="dropbox_fih_title">Dropbox</string>
+    <string name="dual_sim_setting_call_title">选择拨号卡</string>
+    <string name="dual_sim_setting_data_title">選擇上網卡</string>
+    <string name="emergency_dial_hmd_message">緊急電話</string>
+    <string name="emergency_dial_message">緊急電話</string>
+    <string name="expand_button_title">進階</string>
+    <string name="finish_button_label">完成</string>
+    <string name="google_account_add_account">登入Google</string>
+    <string name="google_account_intro_description">登入Google帳戶以使用Google服務。</string>
+    <string name="google_account_intro_title">Google 帳戶</string>
+    <string name="hmd_user_experience_program_message">您參與使用者體驗計畫將幫助HMD Global更好的瞭解您所喜歡的有關於諾基亞手機的功能，和您所希望改進的地方。我們可能偶爾從您的設備收集匿名的技術參數，例如可能發生的系統當機資料。這些匿名資料將不會通過手機移動網路傳輸。我們願意傾聽您對諾基亞產品的心聲！</string>
+    <string name="hmd_user_experience_program_title">使用者體驗計畫</string>
+    <string name="idle_too_long_toast">本手機已閒置一段時間，需關機以保持電力。</string>
+    <string name="language_selection_cancel_btn">取消</string>
+    <string name="language_selection_title">選擇您的語言</string>
+    <string name="location_for_service">將我的位置使用在Google搜尋和其他的Google服務。</string>
+    <string name="location_info_1">Google的定位服務在沒有GPS時也可將您大概的所在位置提供給應用程式使用。</string>
+    <string name="location_info_2">您可以在設定下的定位服務中停用這些功能。</string>
+    <string name="location_network">允許Google的定位服務收集匿名的位置資料。即使沒有任何的應用程式在執行，資料的收集都會進行。</string>
+    <string name="location_title">使用Google定位</string>
+    <string name="nevigation_selection_back">返回</string>
+    <string name="nevigation_selection_home">主畫面</string>
+    <string name="nevigation_selection_recent">最近使用</string>
+    <string name="nevigation_selection_text">您可以改變\"返回\"/\"最近使用\"鍵的位置及背景顏色</string>
+    <string name="nevigation_selection_title">導覽列設定</string>
+    <string name="next_btn_lebel">下一步</string>
+    <string name="normal_date_format">本地 (%s)</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="set_sim_call_ask_every_time">每次都詢問</string>
+    <string name="set_sim_data">使用流動網絡來設定</string>
+    <string name="setup_complete_hmd">您的手機可以使用了...</string>
+    <string name="setup_complete_main">您的手機</string>
+    <string name="setup_complete_message">已完成相關設定，可以開始使用手機。</string>
+    <string name="setup_complete_sub">可以使用了。</string>
+    <string name="setup_completed_congratulations">恭喜!</string>
+    <string name="sim_data_tip_btn_back">返回</string>
+    <string name="sim_data_tip_btn_continue">繼續</string>
+    <string name="sim_data_tip_content">您的手機在設定期間會使用流動網絡，您可能需要為相關數據用量支付費用。如要避免可能產生的數據傳輸費用，請連缐至WLAN</string>
+    <string name="sim_data_tip_title">可能產生的數據傳輸費用</string>
+    <string name="sim_not_exist_toast">請檢查您是否已插入SIM卡。</string>
+    <string name="sim_slot">SIM 插槽</string>
+    <string name="skip_add_account_button_label">現在不要</string>
+    <string name="skip_button_label">略過</string>
+    <string name="speed_label_fast">快</string>
+    <string name="speed_label_medium">適中</string>
+    <string name="speed_label_okay">良好</string>
+    <string name="speed_label_slow">慢</string>
+    <string name="speed_label_very_fast">非常快</string>
+    <string name="speed_label_very_slow">非常慢</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s，%2$s</string>
+    <string name="term_agree_text">同意</string>
+    <string name="term_disagree_text">不同意</string>
+    <string name="terms_of_service_description">"
+當使用手機上如天氣預報、網路空間上傳下載、電子郵件、瀏覽網際網路等服務時將會產生數據流量費用，建議您可向運營商申請數據流量套餐包以節省費用。
+
+一旦勾選同意，即表示您已清楚瞭解此提示﹐並同意手機將自動連網以使用相關服務｡
+
+另外，軟體自動更新通知為預設開啟，會使用到很少的流量，帶給您最新的軟體體驗。您稍後可以在設定中關閉此選項。
+
+"</string>
+    <string name="terms_title">流量提醒</string>
+    <string name="time_picker_title">時間</string>
+    <string name="traffic_prompt_content">勾選不同意時，您需透過手動方式取得軟體更新、天氣預報等資訊｡</string>
+    <string name="upload_agent_des_text">"加入使用者體驗計畫。&lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>了解更多&lt;/a>"</string>
+    <string name="upload_agent_hmd_des_text_2">"加入使用者體驗計畫。 &lt;a href='launch.UserExperienceActivity://Kode'>瞭解更多&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">使用者體驗計畫</string>
+    <string name="v7_preference_off">關閉</string>
+    <string name="v7_preference_on">開啟</string>
+    <string name="wapi_auto_sel_cert">自動選取</string>
+    <string name="wapi_psk_security_type">密碼類型</string>
+    <string name="welcome_hmd_term_of_use_2">"點擊箭頭，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a> 和 &lt;a href='launch.AddUploadAgentHandler://Kode'>隱私政策&lt;/a>。設備啟動資訊和位置資訊將一次發送給HMD Global，可能產生數據費用。"</string>
+    <string name="welcome_hmd_term_of_use_4">"點擊按鈕，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a> 和 &lt;a href='launch.AddUploadAgentHandler://Kode'>隱私政策&lt;/a>。設備啟動信息和位置信息將被發送到HMD Global，可能產生數據費用。我們會遵照隱私權政策的規範使用相關資料。&lt;br/>&lt;br/> 軟體自動更新通知預設為開啟，如此可能會使用很少的流量，但會帶給您最新的軟體體驗。手機將自動聯網使用相關的服務。&lt;br/>&lt;br/> 上述服務的使用可能會產生資料流量費用。&lt;br/>&lt;br/> 設備可能會發送啟用訊息給當地電信商。&lt;br/>&lt;br/> 谷歌應用服務為了提供完整的服務，將需要連接網路，存取您的通訊錄、位置資訊、電話、簡訊、麥克風、相機、傳感器、日曆以及儲存。"</string>
+    <string name="welcome_infocus_term_of_use">"按下開始表示您同意&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">開始設定</string>
+    <string name="welcome_message">歡迎</string>
+    <string name="welcome_start_button_label">開始</string>
+    <string name="welcome_vision_settings_button_label">輔助功能設置</string>
+    <string name="wifi_ap_unable_to_handle_new_sta">存取點暫時已滿</string>
+    <string name="wifi_carrier_connect">流動網絡供應商 Wi‑Fi 網絡</string>
+    <string name="wifi_carrier_content">透過 %1%s 連線</string>
+    <string name="wifi_check_password_try_again">請檢查密碼，然後再試一次</string>
+    <string name="wifi_disabled_by_recommendation_provider">網絡品質欠佳，因此無法連線</string>
+    <string name="wifi_metered_label">計量付費</string>
+    <string name="wifi_picker_connection_des_text">若未連上WLAN則會透過行動網路驗證軟體，可能會產生資料傳輸費用。</string>
+    <string name="wifi_picker_connection_negative">連接</string>
+    <string name="wifi_picker_connection_negative_prc">連接WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">連接Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">確定</string>
+    <string name="wifi_picker_connection_title">網路連線</string>
+    <string name="wifi_picker_warning_des_text">在您連接上網路前，手機將無法驗證您的軟體是否是最新的。</string>
+    <string name="wifi_picker_warning_negative">略過</string>
+    <string name="wifi_picker_warning_positive">不要略過</string>
+    <string name="wifi_picker_warning_title">警告</string>
+    <string name="wifi_ssid_too_long">網絡名稱太長。</string>
+    <string name="wifi_unmetered_label">非計量付費</string>
+    <string name="zone_auto">自動判定時區</string>
+    <string name="zone_auto_summaryOff">使用網路提供的時區</string>
+    <string name="zone_auto_summaryOn">使用網路提供的時區</string>
+    <string name="sugarsync_intro_description">只要完成幾個簡單的步驟，您即可享用無縫的SugarSync雲端儲存空間。</string>
+</resources>

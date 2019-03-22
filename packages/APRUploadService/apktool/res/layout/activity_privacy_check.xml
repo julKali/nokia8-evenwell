@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/diagnostics_description" />
+            <CheckBox android:id="@id/cbx_diagnostic_confirmation" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/diagnostics_confirmation" />
+            <TextView android:textColor="#ff37b5e5" android:id="@id/tv_privacy_statement" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/privacy_activity" />
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:orientation="horizontal" android:background="@android:drawable/bottom_bar" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <Button android:enabled="false" android:id="@id/btn_privacy_check_down" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/go_label" android:layout_weight="2.0" />
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

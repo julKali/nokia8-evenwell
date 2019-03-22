@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/strLogcatGlobal1" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <CheckBox android:id="@id/checkKlogd" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/strEnableKlogd" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <CheckBox android:id="@id/checkEnableDumpsysteminfo" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/strEnableDumpsysteminfo" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/strFileDestination" />
+                <Spinner android:id="@id/spinnerFileDestination" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+            </LinearLayout>
+        </LinearLayout>
+        <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/strLogcatRadio1" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/FileSize" />
+            <Spinner android:id="@id/radioSpinner1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/RotateFileCount" />
+            <Spinner android:id="@id/radioSpinner2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/LogOutputFormat" />
+            <Spinner android:id="@id/radioSpinner3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/Filter" />
+            <Spinner android:id="@id/radioSpinner5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/strLogcatMain1" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/FileSize" />
+            <Spinner android:id="@id/mainSpinner1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/RotateFileCount" />
+            <Spinner android:id="@id/mainSpinner2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/LogOutputFormat" />
+            <Spinner android:id="@id/mainSpinner3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/Filter" />
+            <Spinner android:id="@id/mainSpinner5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/strLogcatSystem1" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/FileSize" />
+            <Spinner android:id="@id/systemSpinner1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/RotateFileCount" />
+            <Spinner android:id="@id/systemSpinner2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/LogOutputFormat" />
+            <Spinner android:id="@id/systemSpinner3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/Filter" />
+            <Spinner android:id="@id/systemSpinner5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <TextView android:textColor="#ffffffff" android:background="#ff104e8b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/strLogcatEvents1" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/FileSize" />
+            <Spinner android:id="@id/eventsSpinner1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/RotateFileCount" />
+            <Spinner android:id="@id/eventsSpinner2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/LogOutputFormat" />
+            <Spinner android:id="@id/eventsSpinner3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/BinaryLog" />
+            <CheckBox android:id="@id/checkBinaryEvent" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/Filter" />
+            <Spinner android:id="@id/eventsSpinner5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/buttonSaveConfig" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str_start_logging" />
+            <Button android:id="@id/buttonReadDefault" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/readdefault" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

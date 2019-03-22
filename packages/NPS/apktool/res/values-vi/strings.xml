@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">HUỶ</string>
+    <string name="DONE">XONG</string>
+    <string name="NEXT">TIẾP THEO</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">TRƯỚC ĐÓ</string>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">phím cách</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="alert_empty_desc">Vui lòng thêm mô tả của bạn!</string>
+    <string name="alert_warning_title">Chú ý</string>
+    <string name="app_name">NPS</string>
+    <string name="enter_comments">Nhập nhận xét (1000 ký tự)</string>
+    <string name="extremely_likely">(Khả năng rất cao)</string>
+    <string name="feedback">Phản hồi</string>
+    <string name="helps_us_improve_our_products">Phản hồi của bạn giúp chúng tôi cải thiện sản phẩm của mình!</string>
+    <string name="intro_title">Khả năng bạn sẽ giới thiệu điện thoại này cho một người bạn hoặc đồng nghiệp là như thế nào?</string>
+    <string name="msg_send_after">tin nhắn sẽ tự động tải lên khi thiết bị trực tuyến, Cảm ơn trả lời của bạn.</string>
+    <string name="msg_send_fail">Gửi bị lỗi. Tin nhắn sẽ tự động tải lên khi thiết bị trực tuyến. Cảm ơn bạn trả lời.</string>
+    <string name="no_ask_feedback_again_text">Lần sau đừng nhắc lại</string>
+    <string name="no_showagain_text">Lần sau đừng nhắc lại</string>
+    <string name="not_at_all_likely">(Rất ít khả năng)</string>
+    <string name="privacy_context_wifi">"Gửi người dùng! 
+
+Hãy sử dụng Phản hồi. Trước khi sử dụng ứng dụng, vui lòng đọc kỹ và hiểu rõ các điều khoản sau đây. Nếu đồng ý với những điều khoản này, bấm Đồng ý để sử dụng Ứng dụng. Nếu bạn KHÔNG đồng ý với các điều khoản này, vui lòng bấm vào nút Thoát” để thoát khỏi ứng dụng.
+Để cung cấp cho bạn các dịch vụ toàn diện, Ứng dụng cần sự cho phép dưới đây:
+
+1. Truy cập vào mạng Internet, mạng WLAN để gửi thông tin phản hồi
+
+2. Đọc thông tin IMEI, PSN và MNC\\MCC để tự động có được thông tin cơ bản về điện thoại
+    "</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="select_a_value">Chọn một giá trị</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">đồng ý</string>
+    <string name="str_leave">THOÁT</string>
+    <string name="submit_fail">Gửi bị lỗi</string>
+    <string name="submit_success">Cảm ơn bạn đã trả lời.</string>
+    <string name="thank_your_feedback">Cảm ơn bạn đã cung cấp thông tin phản hồi!</string>
+    <string name="we_appreciate_your_help">Chúng tôi đánh giá cao sự giúp đỡ của bạn trong việc làm cho các sản phẩm của Nokia tốt nhất trên thế giới.</string>
+    <string name="we_hope_enjoying_nokia_device">Chúng tôi hy vọng bạn thích thiết bị Nokia của mình. Phản hồi của bạn rất quan trọng với chúng tôi.</string>
+    <string name="we_will_contact_you_again">Chúng tôi sẽ liên lạc lại với bạn.</string>
+    <string name="we_will_contact_you_again_enjoy">Chúng tôi sẽ lại liên lạc với bạn trong tương lai. Tận hưởng điện thoại Nokia mới của bạn!</string>
+    <string name="why_you_gave_this_score">Vui lòng cho chúng tôi biết vì sao bạn cho điểm như vậy:</string>
+</resources>

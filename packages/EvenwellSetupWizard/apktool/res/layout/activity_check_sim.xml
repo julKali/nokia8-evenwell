@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/setupwizard_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/sim_icon" android:layout_width="34.0dip" android:layout_height="34.0dip" android:layout_marginTop="68.0dip" android:src="@drawable/ic_sim_card" android:layout_marginStart="26.0dip" />
+    <TextView android:textSize="20.0sp" android:textColor="#ff212121" android:id="@id/insert_sim_cards" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:text="@string/insert_sim_cards" android:layout_below="@id/sim_icon" android:fontFamily="sans-serif-medium" android:layout_marginStart="26.0dip" />
+    <TextView android:textSize="15.0sp" android:textColor="#ff212121" android:id="@id/description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/insert_sim_cards_prompt_content" android:layout_below="@id/insert_sim_cards" android:layout_marginStart="26.0dip" />
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="67.0dip" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_marginEnd="24.0dip">
+        <Button android:id="@id/next_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="88.0dip" android:text="@string/next_btn_lebel" android:onClick="onNext" style="@style/SuwGlifButton.Primary" />
+    </LinearLayout>
+</RelativeLayout>

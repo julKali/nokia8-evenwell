@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">ကိုယ်ရေးကိုယ်တာ လုံခြုံရေး ကြေညာချက်</string>
+    <string name="privacy_activity">ကိုယ်ရေးကိုယ်တာ လုံခြုံရေး ကြေညာချက်</string>
+    <string name="go_label">ၿပီးပါၿပီ</string>
+    <string name="agree">သဘောတူ</string>
+    <string name="see_detail">အေသးစိတ္</string>
+    <string name="next_btn_lebel">ရှေ့သို့</string>
+    <string name="app_name">စနစ်ချွတ်ယွင်းမှု ရှာဖွေတွေ့ရှိချက်များ</string>
+    <string name="setting_page_name">အသုံးပြုသူ အတွေ့အကြုံ အစီအစဉ်</string>
+    <string name="send_diag_dialog_any_network">ဒေတာဆက်သွယ်မှု ရရှိသောအခါ</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi ဆက်သွယ်မှု ရရှိသောအခါ</string>
+    <string name="send_diag_dialog_wlan">WLAN ဆက်သွယ်မှု ရရှိသောအခါ</string>
+    <string name="send_diag_dialog_title">ချွတ်ယွင်းမှု ရှာဖွေတွေ့ရှိချက်များကို ပေးပို့ပါ</string>
+    <string name="diagnostics_setting">ချွတ်ယွင်းမှု ရှာဖွေတွေ့ရှိချက်များ</string>
+    <string name="diagnostics_report">ချွတ်ယွင်းမှု ရှာဖွေတွေ့ရှိချက်များ အစီရင်ခံစာ</string>
+    <string name="diagnostics_report_summary">စက်ပစ္စည်းတွင် ဆော့ဖ်ဝဲလ် မှားယွင်းချက် တစ်ခုခု တွေ့ကြုံရသောအခါ ချွတ်ယွင်းမှု ရှာဖွေတွေ့ရှိချက်များ အစီရင်ခံစာ ပေးပို့ပါ။ ၎င်းသည် ကွန်ရက်အသုံးပြုခြင်းအတွက် ကုန်ကျစရိတ် ရှိနိုင်ပါသည်။ ဝန်ဆောင်မှုပေးသူထံမှ ဒေတာကွန်ရက်အစီအစဉ် စုံစမ်းရန် အကြံပြုထောက်ခံပါသည်။</string>
+    <string name="network_options">ကွန်ရက်ရွေးချယ်ခွင့်များ</string>
+    <string name="send_diagnostics">ချွတ်ယွင်းမှု ရှာဖွေတွေ့ရှိချက်များကို ပေးပို့ပါ</string>
+    <string name="diagnostics_description">သင်၏ စက်ပစ္စည်းတွင် ဆော့ဖ်ဝဲလ် မှားယွင်းချက် သို့မဟုတ် ပျက်ယွင်းမှု တစ်ခုခု ကြုံတွေ့ရသောအခါ ကျွန်တော်တို့ကို ချွတ်ယွင်းမှု ရှာဖွေချက် ဒေတာကို စုဆောင်ရန် ခွင့်ပြုပေးခြင်းဖြင့် ကျွန်တော်တို့၏ ထုတ်ကုန်များကို တိုးတက်စေရန် ကျေးဇူးပြု၍ ကျွန်တော်တို့ကို ကူညီပါ။ သင်သည် နောက်ပိုင်းတွင် သတ်မှတ်ချက်ထဲတွင် ရွေးချယ်ခွင့်ကို အမြဲတမ်း ပြောင်းလဲနိုင်သည်။</string>
+    <string name="cancel_upload_confirm_msg">သင်သည် ကျွန်ုပ်တို့၏ အသုံးပြုသူ အတွေ့အကြုံ အစီအစဉ်မှ ထွက်တော့မည်ဖြစ်သည်။ သင်၏ဖုန်းထဲတွင် ဖြစ်ပေါ်နေသော ဆော့ဖ်ဝဲလ်မှားယွင်းချက်များကို သိမ်းထားခြင်း နှင့် ပေးပို့ခြင်း မပြုပါနှင့်၊ ဖုန်းအသုံးပြုနေစဉ် သင်၏အတွေ့အကြုံကို တိုးတက်စေနိုင်မည် မဟုတ်သောကြောင့် ဖြစ်ပါသည်။</string>
+    <string name="hmd_privacy_policy">HMD ကိုယ်ရေးကိုယ်တာ လုံခြုံရေးမူဝါဒ</string>
+</resources>

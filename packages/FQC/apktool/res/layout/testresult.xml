@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.evenwell.fqc.activity.view.FCIView android:id="@id/fciview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:id="@id/gpsinfo" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textSize="22.0sp" android:textStyle="bold" android:id="@id/total" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <TextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="#ff00ff00" android:id="@id/pass" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <TextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="#ffff0000" android:id="@id/fail" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <TextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="#ffffff00" android:id="@id/untest" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+    <RelativeLayout android:orientation="horizontal" android:id="@id/roundresult" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:id="@id/mround" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:id="@id/around" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:id="@id/total_round" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fci_title_item" android:layout_weight="1.0" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <TextView android:textSize="16.0sp" android:textStyle="bold" android:gravity="right" android:layout_width="50.0dip" android:layout_height="wrap_content" android:text="@string/fci_title_time" />
+            <TextView android:textSize="16.0sp" android:textStyle="bold" android:gravity="right" android:layout_width="60.0dip" android:layout_height="wrap_content" android:text="@string/fci_title_count" />
+            <TextView android:textSize="16.0sp" android:textStyle="bold" android:gravity="right" android:layout_width="65.0dip" android:layout_height="wrap_content" android:text="@string/fci_title_result" />
+        </LinearLayout>
+    </LinearLayout>
+    <ListView android:id="@id/test" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" android:cacheColorHint="@android:color/transparent" android:divider="@drawable/fci_diver" android:dividerHeight="2.0dip" />
+</LinearLayout>

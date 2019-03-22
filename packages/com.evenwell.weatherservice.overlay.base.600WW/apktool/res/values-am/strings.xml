@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">የአየር ሁኔታ አገልግሎት</string>
+    <string name="fih_weather_permission_hint_1">ይህ መተግበሪያ በአግባቡ ለመስራት የተወሰኑ አስፈላጊ ፈቃዶችን ይፈልጋል። እባክዎ በተጠየቁ ጊዜ ፈቃዶችን ይስጡ።</string>
+    <string name="fih_weather_permission_hint_2">በአግባቡ ለመስራት፣ ይህ መተግበሪያ ተጨማሪ ፈቃዶችን ይፈልጋል። እባክዎ የ「አየር ሁኔታ አገልግሎት」 ፈቃድን በ「ክንውን አውዶች」 ውስጥ ያስተዳድሩ።</string>
+    <string name="fih_weather_button_ok">ጥሩ</string>
+    <string name="fih_weather_button_close">ዝጋ</string>
+    <string name="fih_weather_button_setting">መቼቶች...</string>
+    <string name="fih_weather_permission_success">የመገኛ አካባቢ ፈቃዶችን ይስጡ</string>
+    <string name="fih_weather_permission_failed">የመገኛ አካባቢ ፈቃድ ተከልክሏል፣ እናም መገኛ ቦታው ሊገኝ አይችልም</string>
+    <string name="fih_weather_notification_title">የአየር ሁኔታ አገልግሎት ፈቃዶችን ይፈልጋል</string>
+    <string name="fih_weather_notification_text">ለመፍቀድ መታ ያድርጉ</string>
+</resources>

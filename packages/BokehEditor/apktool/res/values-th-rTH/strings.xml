@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">โปรแกรมแก้ไขภาพโบเก้</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="data_process_fail">การประมวลผลข้อมูลล้มเหลว</string>
+    <string name="delete">ลบ</string>
+    <string name="image_not_null">พาธรูปภาพไม่อาจเป็นค่าว่าง</string>
+    <string name="no_bokeh_type">ไม่มีประเภทของหน้าชัดหลังเบลอ</string>
+    <string name="no_mpo_file">ไม่มีไฟล์ MPO</string>
+    <string name="save">บันทึก</string>
+    <string name="save_success">บันทึกสำเร็จแล้ว</string>
+    <string name="share">แบ่งปัน</string>
+    <string name="title_watermarks">ลายน้ำ</string>
+    <string name="watermark_empty">ไม่มีลายน้ำ</string>
+</resources>

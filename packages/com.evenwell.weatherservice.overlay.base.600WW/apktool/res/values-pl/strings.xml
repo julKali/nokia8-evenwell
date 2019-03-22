@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Prognoza pogody</string>
+    <string name="fih_weather_permission_hint_1">Aby działać odpowiednio, ta aplikacja potrzebuje dodatkowych uprawnień. Po wyświetleniu monitu zaakceptuj uprawnienia.</string>
+    <string name="fih_weather_permission_hint_2">Aby działać odpowiednio, ta aplikacja potrzebuje dodatkowych uprawnień. Uprawnienia Prognozy pogody można zmienić w Ustawieniach.</string>
+    <string name="fih_weather_button_close">Zamknij</string>
+    <string name="fih_weather_button_setting">Potwierdź, czy chcesz zmienić ustawienie karty głównej na tę kartę SIM?</string>
+    <string name="fih_weather_permission_success">Uzyskano zgodę na pobieranie lokalizacji</string>
+    <string name="fih_weather_permission_failed">Nie przyznano uprawnień do pobierania lokalizacji. Nie można pobrać lokalizacji.</string>
+    <string name="fih_weather_notification_title">Prognoza pogody wymaga uprawnień</string>
+    <string name="fih_weather_notification_text">Dotknij, aby zezwolić</string>
+    <string name="fih_weather_notification_channel_title">Powiadomienia ogólne</string>
+</resources>

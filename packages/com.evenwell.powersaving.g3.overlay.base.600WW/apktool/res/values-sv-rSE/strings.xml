@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Visa inte igen.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Avbryt</string>
+    <string name="switch_on_text">På</string>
+    <string name="switch_off_text">Av</string>
+    <string name="fih_power_saving_permission_cancel">Avbryt</string>
+    <string name="lock_screen_ap_protect_title">Hanterare för bakgrundsaktivitet</string>
+    <string name="all_aps">Lägg till alla appar i vitlistan</string>
+    <string name="fih_power_saving_doze_high_consumption">Hög strömförbrukning</string>
+    <string name="fih_power_saving_background_activity_text">Aktivera hanteraren för bakgrundsaktivitet för att förlänga batteritiden. Aviseringar för vissa appar och e-postmeddelanden kanske inte hämtas omedelbart. Du kan hantera batteritiden genom att lägga till eller ta bort appar i vitlistan.</string>
+    <string name="fih_power_saving_background_cleaner">Rensat bakgrundsaktivitet</string>
+    <string name="fih_power_saving_background_cleaner_summary">Meddelandena kanske inte hämtas direkt</string>
+    <string name="app_block_list">Lista med begränsade APPAR</string>
+</resources>

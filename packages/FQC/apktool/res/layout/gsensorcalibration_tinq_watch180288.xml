@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/textView1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/hello" android:minLines="4" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" style="@style/FQCText" />
+    <Button android:id="@id/btn_gsencal" android:layout_width="fill_parent" android:layout_height="40.0dip" android:text="@string/buttons_1_small" android:layout_alignParentBottom="true" style="@style/FQCText" />
+    <AbsoluteLayout android:id="@id/absolute_layout" android:layout_width="fill_parent" android:layout_height="150.0dip" android:layout_alignParentLeft="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+        <ImageView android:id="@id/image_plastictube_lan" android:background="@drawable/fih_plastic_tube_lan_icn90" android:layout_width="100.0dip" android:layout_height="41.0dip" android:src="@drawable/fih_plastic_tube_lan_icn90" android:layout_x="90.0dip" android:layout_y="90.0dip" />
+        <ImageView android:id="@id/image_plastictube" android:background="@drawable/fih_plastic_tube_icn90" android:layout_width="41.0dip" android:layout_height="100.0dip" android:src="@drawable/fih_plastic_tube_icn90" android:layout_x="30.0dip" android:layout_y="30.0dip" />
+        <ImageView android:id="@id/image_bubble_lan" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fih_bubble_icn" android:layout_x="151.0dip" android:layout_y="96.0dip" android:layout_below="@id/textView1" android:layout_alignParentLeft="true" />
+        <ImageView android:id="@id/image_bubble" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fih_bubble_icn" android:layout_x="36.0dip" android:layout_y="91.0dip" android:layout_below="@id/textView1" android:layout_alignParentLeft="true" />
+    </AbsoluteLayout>
+</RelativeLayout>

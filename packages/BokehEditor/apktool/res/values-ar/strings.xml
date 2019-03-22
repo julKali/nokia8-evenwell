@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محرر تأثير البوكيه</string>
+    <string name="image_not_null">لا يمكن أن يكون مسار الصورة فارغًا</string>
+    <string name="no_bokeh_type">نوع البوكيه غير موجود</string>
+    <string name="no_mpo_file">لا يوجد ملف MPO</string>
+    <string name="save">حفظ</string>
+    <string name="save_success">تم الحفظ بنجاح.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

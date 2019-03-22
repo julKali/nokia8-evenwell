@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">Tamam</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">İptal</string>
+    <string name="fih_battery_protect_power_off">Kapat</string>
+    <string name="fih_battery_protect_high_full_charging">Yüksek sıcaklıkta maksimum şarj sınırına ulaşıldı! Telefon sıcaklığı normale döndüğünde, sistem normal hızda şarja devam edecek.</string>
+    <string name="fih_battery_protect_low_full_charging">Düşük sıcaklıkta maksimum şarj sınırına ulaşıldı! Telefon sıcaklığı normale döndüğünde, sistem normal hızda şarja devam edecek.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Yüksek sıcaklık şarj sınırına ulaşıldı</string>
+    <string name="fih_battery_protect_low_full_charging_title">Düşük sıcaklık şarj sınırına ulaşıldı</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Genel bildirimler</string>
+    <string name="fih_battery_protect_ok_wear">Tamam</string>
+    <string name="fih_battery_protect_cancel_wear">İptal</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Lütfen orijinal pil kullanın</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Şarj durdu</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Lütfen orijinal pil kullanarak şarj edin. Aksi halde, cihazınıza kalıcı/fiziksel hasara neden olabilirsiniz.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Pil geçersiz</string>
+    <string name="fih_battery_protect_notification_cooling_down">Isısı düşürülüyor</string>
+    <string name="fih_battery_protect_tap_learn_more">Daha fazla bilgi için dokunun.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefonunuz ısınmaya bağlı olarak ısısını düşürmek için gerekli adımları atıyor. Telefonunuzu kullanmaya devam edebilirsiniz, ancak şunları unutmayın:
+·Şarj işlemi duraklayabilir.
+·Wi-Fi kapanabilir.
+·Uygulamalar kapanabilir.
+·Uçak modu kapanabilir.
+Isısı düştüğünde telefonunuz normale dönecektir."</string>
+</resources>

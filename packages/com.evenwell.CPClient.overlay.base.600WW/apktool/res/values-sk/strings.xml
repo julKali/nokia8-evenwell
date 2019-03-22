@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Klient CP</string>
+    <string name="fih_cp_notify_statusbar_content">Správa o novom zriaďovaní</string>
+    <string name="fih_cp_notification_channel_name">Všeobecné upozornenia</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Odložiť</string>
+    <string name="fih_cp_ui_mode_delete">Odstrániť</string>
+    <string name="fih_cp_apply_dialog_head_msg">Nové zriaďovanie</string>
+    <string name="fih_cp_apply_dialog_body_msg">Chcete použiť novú konfiguráciu?</string>
+    <string name="fih_cp_toast_info_update">Profil sa úspešne aktualizoval</string>
+    <string name="fih_cp_toast_info_create">Profil sa úspešne vytvoril</string>
+    <string name="fih_cp_editor_apn_name">Názov</string>
+    <string name="fih_cp_editor_apn_apn">Názov prístupového bodu (APN)</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_user">Meno používateľa</string>
+    <string name="fih_cp_editor_apn_password">Heslo</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Server proxy MMS</string>
+    <string name="fih_cp_editor_apn_mms_port">Port MMS</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Typ overenia</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Žiadne</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP alebo CHAP</string>
+    <string name="fih_cp_editor_apn_type">Typ prístupového bodu (APN)</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_btn_cancel">Zrušiť</string>
+    <string name="fih_cp_btn_next">Ďalej</string>
+    <string name="fih_cp_btn_back">Späť</string>
+    <string name="fih_cp_apn_not_set">&lt;Nenastavené></string>
+    <string name="fih_cp_error_title">Upozornenie</string>
+    <string name="fih_cp_error_name_empty">Pole Názov nesmie byť prázdne.</string>
+    <string name="fih_cp_error_apn_empty">Pole Názov prístupového bodu (APN) nesmie byť prázdne.</string>
+    <string name="fih_cp_error_other">Chyba syntaxe údajov.</string>
+    <string name="fih_cp_input_pin_code">Zadajte PIN kód:</string>
+    <string name="fih_cp_input_pin_code_ok">OK</string>
+    <string name="fih_cp_input_pin_code_cancel">Zrušiť</string>
+    <string name="fih_cp_input_pin_code_incorrect">Nesprávny PIN kód.</string>
+    <string name="fih_cp_input_pin_code_empty">Zadajte PIN kód.</string>
+    <string name="fih_cp_sim_not_available">SIM karta nie je k dispozícii.</string>
+</resources>

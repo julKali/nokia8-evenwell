@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_install_system_software_update_3">"
+
+Bạn sẽ ko thể sử dụng thiết bị trong quá trình nâng cấp.
+
+Việc tắt nguồn hoặc xóa tệp đã tải xuống trong khi cập nhật phần mềm sẽ dẫn đến kết quả ko mong muốn."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Bạn sẽ ko thể sử dụng thiết bị hoặc thực hiện c.gọi khẩn cấp trong quá trình nâng cấp.
+
+Việc tắt nguồn hoặc xóa tệp đã tải xuống trong khi cập nhật phần mềm sẽ dẫn đến kết quả ko mong muốn."</string>
+    <string name="prepare_to_reboot_force_summary">Phần mềm đc c.nhật cần kh.động lại thiết bị để định c.hình cài đặt. Bạn nên khởi động lại ngay.</string>
+    <string name="update_ota_self">Đg tiến hành C.nhật p.mềm.</string>
+    <string name="ab_update_fail">Sự cố khi cài đặt.</string>
+    <string name="ab_update_wrong_status">C.cụ cập nhật hiện đang bận. Thử lại sau hoặc khởi động lại.</string>
+    <string name="ab_update_installing">Đg c.nhật h.thống</string>
+    <string name="tag_engineer_mode">Chế độ kỹ sư</string>
+    <string name="engineer_version_incorrect">Phiên bản thiết bị không đúng</string>
+    <string name="msg_engineer_ota_restore">Nhấn để k.phục p.bản c.thức</string>
+    <string name="msg_engineer_ota_restore_warning">Q.trình này sẽ k.phục p.bản c.thức. Bạn có muốn tiếp tục ko?</string>
+    <string name="silent_mode_data_fee_warning">Sẵn có cập nhật. Có thể phải trả thêm phí khi tải xuống các cập nhật. T.xuống cập nhật qua Wi-Fi nếu có thể.</string>
+    <string name="msg_updating_system">Đg c.nhật h.thống...</string>
+    <string name="msg_tap_to_reboot">Nhấn để KĐL</string>
+    <string name="msg_pause_download">T.dừng tải xuống</string>
+    <string name="notification_channel_name">C.nhật h.thống</string>
+    <string name="notification_channel_alert_name">Thông báo chung</string>
+</resources>

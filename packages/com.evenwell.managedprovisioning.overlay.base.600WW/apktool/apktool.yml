@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: com.evenwell.managedprovisioning.overlay.base.600WW.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: com.evenwell.managedprovisioning.overlay.base.s600ww
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '23'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '1'
+  versionName: '1234'

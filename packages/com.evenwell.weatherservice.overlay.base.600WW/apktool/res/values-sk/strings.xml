@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Služba predpovede počasia</string>
+    <string name="fih_weather_permission_hint_1">Táto aplikácia vyžaduje na správnu prevádzku príslušné povolenia. Na požiadanie udeľte oprávnenia.</string>
+    <string name="fih_weather_permission_hint_2">Táto aplikácia vyžaduje na správnu prevádzku ďalšie povolenia. Spravujte povolenie pre položku「Služba predpovede počasia」v položke「Nastavenia」.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Zatvoriť</string>
+    <string name="fih_weather_button_setting">Nastavuje sa...</string>
+    <string name="fih_weather_permission_success">Udeliť povolenia na zisťovanie polohy</string>
+    <string name="fih_weather_permission_failed">Oprávnenie na zisťovanie polohy zamietnuté. Nepodarilo sa získať polohu.</string>
+    <string name="fih_weather_notification_title">Služba predpovede počasia vyžaduje oprávnenia</string>
+    <string name="fih_weather_notification_text">Povoľte kliknutím</string>
+    <string name="fih_weather_notification_channel_title">Všeobecné upozornenia</string>
+</resources>

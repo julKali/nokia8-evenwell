@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">دوباره نشان داده نشود.</string>
+    <string name="fih_power_saving_dialog_ok">تأیید</string>
+    <string name="fih_power_saving_dialog_cancel">لغو</string>
+    <string name="switch_on_text">روشن</string>
+    <string name="switch_off_text">خاموش</string>
+    <string name="fih_power_saving_permission_cancel">لغو</string>
+    <string name="lock_screen_ap_protect_title">مدیر فعالیت پس‌زمینه</string>
+    <string name="all_aps">افزودن همه برنامه‌ها به لیست سفید</string>
+    <string name="fih_power_saving_doze_high_consumption">مصرف برق بالا</string>
+    <string name="fih_power_saving_background_activity_text">برای افزایش عمر باتری، مدیر فعالیت پس‌زمینه را فعال کنید، اما ممکن است اعلان‌های برخی از برنامه‌ها یا ایمیل‌ها نتوانند فوراً بازیابی شوند. می‌توانید با افزودن یا حذف برنامه‌ها به لیست سفید یا از آن، عمر باتری را مدیریت کنید.</string>
+    <string name="fih_power_saving_background_cleaner">تمیزکننده فعالیت پس‌زمینه</string>
+    <string name="fih_power_saving_background_cleaner_summary">ممکن است اعلان‌ها فوراً بازیابی نشوند</string>
+    <string name="app_block_list">فهرست برنامه محدودشده</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Factory Wizard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_OK">OK</string>
+    <string name="str_SecretCodeTitle">IMEI</string>
+    <string name="idle_too_long_toast">This phone is idled for some times. Shut down now to keep power.</string>
+</resources>

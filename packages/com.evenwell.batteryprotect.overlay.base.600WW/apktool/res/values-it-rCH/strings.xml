@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Protezione batteria</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_warning_title">Attenzione temperatura alta</string>
+    <string name="fih_battery_protect_cooldown_title">Raffreddamento</string>
+    <string name="fih_battery_protect_normalmode_title">Temperatura normale</string>
+    <string name="fih_battery_protect_warning_text">Chiudere chiamata e applicazioni per raffreddare il telefono.</string>
+    <string name="fih_battery_protect_cooldown_text">Modalità di raffreddamento attiva, solo chiamate emergenza.</string>
+    <string name="fih_battery_protect_normalmode_text">Ripreso funzionamento normale.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Chiamata di emergenza</string>
+    <string name="fih_battery_protect_maxtemp_title">Temperatura massima</string>
+    <string name="fih_battery_protect_maxtemp_text">Temperatura troppo alta. Il telefono verrà chiuso ora.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Carica interrotta</string>
+    <string name="fih_battery_protect_low_temp_title">Avviso</string>
+    <string name="fih_battery_protect_low_temp_text">Temperatura troppo bassa. Interrompi carica.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">La temperatura è fuori gamma</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Impossibile rilevare la temperatura. Verificare che la batteria sia ben inserita, altrimenti non si caricherà.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Impossibile rilevare la temperatura.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">verificare che la batteria sia ben inserita, altrimenti non si caricherà.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Impossibile rilevare la temperatura. Telefono in modalità raffreddamento, solo chiamate di emergenza. Verificare che la batteria sia inserita correttamente.</string>
+    <string name="fih_battery_protect_aging_title">Guida batteria</string>
+    <string name="fih_battery_protect_aging_nm_text">Contattare il servizio clienti al numero di telefono %1$s Grazie.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Contattare il servizio clienti, grazie.</string>
+    <string name="fih_battery_protect_bl_warning_title">Avviso riduzione luminosità</string>
+    <string name="fih_battery_protect_bl_warning_text">Temperatura più alta del normale, ridurre la luminosità per raffreddare il telefono</string>
+    <string name="fih_battery_protect_full_charging">Carica completata</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Annulla</string>
+    <string name="fih_battery_protect_power_off">Spegni</string>
+    <string name="fih_battery_protect_high_full_charging">Il limite massimo di carica è stato raggiunto a temperature elevate. Quando verrà ripristinata la normale temperatura del telefono, il sistema continuerà a caricare alla solita velocità.</string>
+    <string name="fih_battery_protect_low_full_charging">Il limite massimo di caricamento è stato raggiunto a temperature basse. Quando verrà ripristinata la normale temperatura del telefono, il sistema continuerà a caricare alla solita velocità.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Raggiunto limite carica ad alta temperatura</string>
+    <string name="fih_battery_protect_low_full_charging_title">Raggiunto limite carica a bassa temperatura</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Notifiche generali</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">Premendo pulsante, la luminosità verrà ridotta e le applicazioni chiuse per raffreddare il dispositivo.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">Temperatura troppo alta. Il dispositivo verrà chiuso ora.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">Temperatura troppo bassa. Interrompi la carica.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Impossibile rilevare la temperatura. Dispositivo in modalità raffreddamento, solo chiamate di emergenza. Verificare che la batteria sia inserita correttamente.</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">Errore inserimento batteria</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">Verificare che la batteria sia ben inserita.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">Temperatura troppo alta. Interrompi la carica.</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Annulla</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">Modalità di raffreddamento attiva. Usare il dispositivo più tardi.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Utilizza batteria originale</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Carica interrotta</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Utilizzare la batteria originale per caricare oppure il dispositivo potrebbe subire danni fisici permanenti.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">La batteria non è valida.</string>
+    <string name="fih_battery_protect_notification_cooling_down">Raffreddamento in corso</string>
+    <string name="fih_battery_protect_tap_learn_more">Toccare per ulteriori informazioni.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Il telefono si sta surriscaldando. Avvio procedura di raffreddamento. È ancora possibile utilizzarlo, ma potrebbe verificarsi quanto segue:
+·Caricamento sospeso.
+·Wi-Fi disattivato.
+·Applicazioni chiuse.
+·Modalità aereo attivata.
+Non appena si sarà raffreddato, il telefono riprenderà a funzionare normalmente."</string>
+</resources>

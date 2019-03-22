@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 सेकंड</item>
+        <item>30 सेकंड</item>
+        <item>1 मिनट</item>
+        <item>2 मिनट</item>
+        <item>निर्धारित सिस्टम का उपयोग करें</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_backlight_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>स्वचालित चमक</item>
+        <item>निर्धारित सिस्टम का उपयोग करें</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>15 मिनट</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>प्रदर्शन</item>
+        <item>स्थिरता</item>
+        <item>उपयोगकर्ता इंटरफ़ेस</item>
+        <item>पावर बचत प्रभाव</item>
+        <item>अन्य समस्याएं</item>
+        <item>सुझाव</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_schedule_entries">
+        <item>10% बैटरी पावर</item>
+        <item>15% बैटरी पावर</item>
+        <item>20% बैटरी पावर</item>
+        <item>30% बैटरी पावर</item>
+        <item>40% बैटरी पावर</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_swipe_up_gesture_setting_available">true</bool>
+    <bool name="config_swipe_up_gesture_default">true</bool>
+    <bool name="config_show_mobile_plan">false</bool>
+    <bool name="config_show_cust_certification">true</bool>
+    <bool name="hmd_open_source_info">true</bool>
+    <bool name="config_cust_shortcut_icon">true</bool>
+    <bool name="internal_storage_process_color">true</bool>
+    <bool name="config_show_product_nickname">true</bool>
+    <bool name="config_support_ram_display_rule">true</bool>
+    <bool name="config_support_customized_demo_mode">true</bool>
+    <bool name="zzz_default_build_ver">false</bool>
+    <bool name="zzz_creq_pkg_enable_preload_carrier_wifi_config">true</bool>
+    <bool name="zzz_creq_pkg_enable_change_default_eap_method">true</bool>
+</resources>

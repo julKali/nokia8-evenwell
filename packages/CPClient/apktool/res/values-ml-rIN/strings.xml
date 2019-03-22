@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP ക്ലയിന്റ്</string>
+    <string name="fih_cp_apn_not_set">&lt;ക്രമീകരിച്ചിട്ടില്ല></string>
+    <string name="fih_cp_apply_dialog_body_msg">പുതിയ കോൺഫിഗറേഷൻ പ്രയോഗിക്കാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+    <string name="fih_cp_apply_dialog_head_msg">പുതിയ പ്രൊവിഷനിംഗ്</string>
+    <string name="fih_cp_btn_back">മടങ്ങുക</string>
+    <string name="fih_cp_btn_cancel">റദ്ദാക്കുക</string>
+    <string name="fih_cp_btn_next">അടുത്തത്</string>
+    <string name="fih_cp_btn_ok">ശരി</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">പ്രാമാണീകരണ തരം</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">ഒന്നുമില്ല</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP അല്ലെങ്കിൽ CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">പോര്‍ട്ട്</string>
+    <string name="fih_cp_editor_apn_http_proxy">പ്രോക്‌സി</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS പോർട്ട്</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS പ്രോക്‌സി</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">പേര്</string>
+    <string name="fih_cp_editor_apn_password">പാസ്‌വേഡ്</string>
+    <string name="fih_cp_editor_apn_server">സെർവർ</string>
+    <string name="fih_cp_editor_apn_type">APN തരം</string>
+    <string name="fih_cp_editor_apn_user">ഉപയോക്തൃനാമം</string>
+    <string name="fih_cp_error_apn_empty">APN ഫീൽഡ് ശൂന്യമായി ഇടാൻ കഴിയില്ല.</string>
+    <string name="fih_cp_error_name_empty">പേര് ഫീൽഡ് ശൂന്യമായി ഇടാൻ കഴിയില്ല.</string>
+    <string name="fih_cp_error_other">ഡാറ്റ സിൻടാക്സ് പിശക്</string>
+    <string name="fih_cp_error_title">ശ്രദ്ധിക്കുക</string>
+    <string name="fih_cp_input_pin_code">PIN കോഡ് നൽകുക:</string>
+    <string name="fih_cp_input_pin_code_cancel">റദ്ദാക്കുക</string>
+    <string name="fih_cp_input_pin_code_empty">ദയവായി PIN കോഡ് നൽകുക.</string>
+    <string name="fih_cp_input_pin_code_incorrect">PIN കോഡ് തെറ്റാണ്.</string>
+    <string name="fih_cp_input_pin_code_ok">ശരി</string>
+    <string name="fih_cp_notification_channel_name">പൊതുവായ അറിയിപ്പുകൾ</string>
+    <string name="fih_cp_notify_statusbar_content">പുതിയ പ്രൊവിഷനിംഗ് സന്ദേശം</string>
+    <string name="fih_cp_sim_not_available">SIM കാർഡ് ലഭ്യമല്ല.</string>
+    <string name="fih_cp_toast_info_create">പ്രൊഫൈൽ സൃഷ്ടിക്കൽ വിജയകരം</string>
+    <string name="fih_cp_toast_info_update">പ്രൊഫൈൽ അപ്‌ഡേറ്റുചെയ്യൽ വിജയകരം</string>
+    <string name="fih_cp_ui_mode_delete">ഇല്ലാതാക്കുക</string>
+    <string name="fih_cp_ui_mode_ok">ശരി</string>
+    <string name="fih_cp_ui_mode_postpone">മാറ്റിവയ്ക്കുക</string>
+</resources>

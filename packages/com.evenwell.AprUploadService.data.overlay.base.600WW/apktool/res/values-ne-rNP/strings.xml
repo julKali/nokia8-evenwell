@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD को गोपनीयता नीति</string>
+    <string name="privacy_activity">HMD को गोपनीयता नीति</string>
+    <string name="go_label">सम्पन्‍न भयो</string>
+    <string name="agree">सहमत</string>
+    <string name="see_detail">विवरण</string>
+    <string name="next_btn_lebel">फर्कनुहोस्</string>
+    <string name="app_name">प्रणाली निदानहरू</string>
+    <string name="setting_page_name">प्रयोगकर्ता अनुभव कार्यक्रम</string>
+    <string name="send_diag_dialog_any_network">डाटा जडान उपलब्ध भएको बेला</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi जडान उपलब्ध भएको बेला</string>
+    <string name="send_diag_dialog_wlan">WLAN जडान उपलब्ध भएको बेला</string>
+    <string name="send_diag_dialog_title">निदानहरू पठाउनुहोस्</string>
+    <string name="diagnostics_setting">निदानहरू</string>
+    <string name="diagnostics_report">निदानहरूको प्रतिवेदन</string>
+    <string name="diagnostics_report_summary">यन्त्रले सफ्टवेयर त्रुटि देखाएको बेला निदानहरूको प्रतिवेदन पठाउनुहोस्। यसले नेटवर्क प्रयोगको लागत निर्माण गर्न सक्छ। वाहकबाट डाटा नेटवर्क प्याकेज प्राप्त गर्ने कुरालाई सिफारिस गरिएको छ।</string>
+    <string name="network_options">नेटवर्क विकल्पहरू</string>
+    <string name="send_diagnostics">निदानहरू पठाउनुहोस्</string>
+    <string name="diagnostics_description">तपाईंका यन्त्रको सफ्टवेयरमा त्रुटि वा क्र्यास हुँदा निदानात्मक डाटा संकलन गर्न हामीलाई अनुमति दिई कृपया हामीलाई हाम्रा उत्पादन तथा सेवाहरू सुधार्नमा मद्दत गर्नुहोस्। तपाईंले यी विकल्पहरू पछि सँधै सेटिङहरूमा परिवर्तन गर्न सक्नुहुनेछ।</string>
+    <string name="cancel_upload_confirm_msg">तपाईं हाम्रो प्रयोगकर्ताको अनुभव कार्यक्रम छोड्न लाग्दै हुनुहुन्छ। तपाईंको फोनमा देखिने सफ्टवेयर त्रुटिहरू कायम रहेनछैनन् तथा पठाइने छैन, जसकारण यसले तपाईंको मोबाइन फोन प्रयोग गर्ने अनुभवलाई सुधार गर्न सक्दैन।</string>
+</resources>

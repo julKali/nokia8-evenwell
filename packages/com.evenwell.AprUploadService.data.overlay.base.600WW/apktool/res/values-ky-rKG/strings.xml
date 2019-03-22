@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Купуялык билдирүүсү</string>
+    <string name="privacy_activity">Купуялык билдирүүсү</string>
+    <string name="go_label">Кирүү</string>
+    <string name="agree">Макул</string>
+    <string name="next_btn_lebel">Кийинки</string>
+    <string name="app_name">Система диагностикасы</string>
+    <string name="setting_page_name">Колдонуулук тажрыйба программасы</string>
+    <string name="send_diag_dialog_any_network">Берилмелер туташуусу жеткиликтүү болгондо</string>
+    <string name="send_diag_dialog_wifi">Wi-Fi туташуусу жеткиликтүү болгондо</string>
+    <string name="send_diag_dialog_wlan">WLAN туташуусу жеткиликтүү болгондо</string>
+    <string name="send_diag_dialog_title">Диагностиканы жөнөтүү</string>
+    <string name="diagnostics_setting">Диагностика</string>
+    <string name="diagnostics_report">Диагностикалык отчет</string>
+    <string name="diagnostics_report_summary">Түзмөктө программалык ката болгондо диагностикалык отчет жөнөтүңүз. Тармактык туташуу үчүн төлөм алынышы ыктымал. Кызмат тейлөөчүсүнөн берилмелердин тармактык пакетин алуу сунушталат.</string>
+    <string name="network_options">Тармактык тандоолор</string>
+    <string name="send_diagnostics">Диагностиканы жөнөтүү</string>
+    <string name="cancel_upload_confirm_msg">Сиз биздин Колдонуучулук тажрыйба программабыздан чыкканы жатасыз. Телефонуңузда болгон пррограммалык каталар сакталбайт же жөнөтүлбөйт, жана ошондуктан бул телефон менен болгон тажрыйбаңызды жакшырта албайбыз.</string>
+</resources>

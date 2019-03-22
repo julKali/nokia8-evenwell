@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Staties</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Vind outomaties</item>
+        <item>Behandel as getel</item>
+        <item>Behandel as ongetel</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Geen</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Geen</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Geen</item>
+        <item>Handmatig</item>
+        <item>Instaan-outo-opstelling</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Swak</item>
+        <item>Billik</item>
+        <item>Goed</item>
+        <item>Uitstekend</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Soek tans…</item>
+        <item>Koppel tans…</item>
+        <item>Staaf tans…</item>
+        <item>Verkry tans IP-adres…</item>
+        <item>Gekoppel</item>
+        <item>Opgeskort</item>
+        <item>Ontkoppel tans…</item>
+        <item>Ontkoppel</item>
+        <item>Onsuksesvol</item>
+        <item>Geblokkeer</item>
+        <item>Vermy swak verbinding tydelik</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Soek tans…</item>
+        <item>Koppel tans aan %1$s…</item>
+        <item>Staaf tans met %1$s…</item>
+        <item>Verkry tans IP-adres van %1$s…</item>
+        <item>Gekoppel aan %1$s</item>
+        <item>Opgeskort</item>
+        <item>Ontkoppel tans van %1$s…</item>
+        <item>Ontkoppel</item>
+        <item>Onsuksesvol</item>
+        <item>Geblokkeer</item>
+        <item>Vermy swak verbinding tydelik</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI-heksadesimaal</item>
+    </string-array>
+</resources>

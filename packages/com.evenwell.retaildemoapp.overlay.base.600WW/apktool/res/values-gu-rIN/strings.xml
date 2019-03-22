@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">ઓકે</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="system_busy_msg">સિસ્ટમ વ્યસ્ત છે. કૃપા કરીને પછીથી ફરી પ્રયાસ કરો.</string>
+    <string name="no_new_demo_found_msg">"ડેમોની કોઈ નવી સામગ્રી ન મળી.
+
+ડેમો મોડ લૉન્ચ કરવા ઓકે પર ટૅપ કરીએ?"</string>
+    <string name="copying">કૉપિ કરી રહ્યાં છે…</string>
+    <string name="downloading">ડાઉનલોડ થાય છે…</string>
+    <string name="download_complete_msg">"ડાઉનલોડ સમાપ્ત થયું.
+
+ડેમો મોડ લૉન્ચ કરવા ઓકે પર ટૅપ કરો."</string>
+    <string name="download_fail_msg">"ઇન્ટરનેટ પરથી ડેમોની સામગ્રી ડાઉનલોડ કરવામાં નિષ્ફળ.
+
+ડેમો મોડ લૉન્ચ કરવા ઓકે પર ટૅપ કરીએ?"</string>
+    <string name="enable_demo_mode">ડેમો મોડ સક્ષમ કરવો છે?</string>
+    <string name="disable_demo_mode">ડેમો મોડને અક્ષમ કરો</string>
+    <string name="update_demo_video">ડેમો વીડિઓ અપડેટ કરો</string>
+    <string name="reset_device">ઉપકરણ ફરી સેટ કરવું છે?</string>
+    <string name="demo_mode_notifications">ડેમો મોડની સૂચનાઓ</string>
+</resources>

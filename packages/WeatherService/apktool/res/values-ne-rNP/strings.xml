@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">बन्द गर्नुहोस्</string>
+    <string name="fih_weather_button_ok">ठीक छ</string>
+    <string name="fih_weather_button_setting">सेटिङ</string>
+    <string name="fih_weather_notification_channel_title">सामान्य सूचनाहरू</string>
+    <string name="fih_weather_notification_text">अनुमतिको लागि ट्याप गर्नुहोस्</string>
+    <string name="fih_weather_notification_title">मौसम सेवाका लागि अनुमति आवश्यक छ</string>
+    <string name="fih_weather_permission_failed">स्थान अनुमति प्रदान गर्न अस्वीकार गरियो, स्थान प्राप्त गर्न सकिंदैन।</string>
+    <string name="fih_weather_permission_hint_1">उचित तरिकाले कार्य गर्नको लागि यो एप्लिकेसनलाई अतिरिक्त अनुमतिहरूको आवश्यकता पर्छ। अनुरोध गरिँदा अनुमतिहरूलाई अनुमति दिनुहोस्।</string>
+    <string name="fih_weather_permission_hint_2">उचित तरिकाले कार्य गर्नको लागि यो एप्लिकेसनलाई अतिरिक्त अनुमतिहरूको आवश्यकता पर्छ। कृपया सेटिङमा गएर मौसम सेवाको अनुमतिलाई व्यवस्थित गर्नुहोस्।</string>
+    <string name="fih_weather_permission_success">स्थान अनुमति प्रदान सफल भयो</string>
+    <string name="fih_weather_service_title_txt">मौसम सेवा</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_time_out_titles">
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>20 minutes</item>
+    </string-array>
+    <string-array name="pref_backlight_titles">
+        <item>Darkness - slider:20</item>
+        <item>Indoor Office - slider:62</item>
+        <item>Outdoors overcast - slider:94</item>
+        <item>Outdoors sunny - slider:126</item>
+    </string-array>
+    <string-array name="pref_backlight_values">
+        <item>20</item>
+        <item>62</item>
+        <item>94</item>
+        <item>126</item>
+    </string-array>
+    <string-array name="pref_time_out_values">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">取消</string>
+    <string name="copying">正在复制…</string>
+    <string name="download_complete_msg">"下载完成。
+
+点按确认以启动演示模式。"</string>
+    <string name="download_fail_msg">"从互联网下载演示材料失败。
+
+点按确认以启动演示模式？"</string>
+    <string name="downloading">正在下载…</string>
+    <string name="no_new_demo_found_msg">"未找到新的演示材料。
+
+点按确认以启动演示模式？"</string>
+    <string name="ok">确定</string>
+    <string name="system_busy_msg">系统繁忙。请稍后再试。</string>
+</resources>

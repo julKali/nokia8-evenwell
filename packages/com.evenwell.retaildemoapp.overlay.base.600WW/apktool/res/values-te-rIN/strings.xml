@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">సరే</string>
+    <string name="cancel">రద్దు చేయి</string>
+    <string name="system_busy_msg">సిస్టమ్ బిజీగా ఉంది. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="no_new_demo_found_msg">"కొత్త డెమో మెటీరియల్ కనుగొనబడలేదు.
+
+డెమో మోడ్‌ని ప్రారంభించడం కోసం సరే ఎంపికని నొక్కాలా?"</string>
+    <string name="copying">కాపీ చేస్తోంది…</string>
+    <string name="downloading">డౌన్‌లోడ్ చేస్తోంది...</string>
+    <string name="download_complete_msg">"డౌన్‌లోడ్ పూర్తయింది.
+
+డెమో మోడ్‌ని ప్రారంభించడం కోసం సరే ఎంపికని నొక్కండి."</string>
+    <string name="download_fail_msg">"ఇంటర్నెట్ నుండి డెమో మెటీరియల్ డౌన్‌లోడ్ కాలేదు.
+
+డెమో మోడ్‌ని ప్రారంభించడం కోసం సరే ఎంపికని నొక్కాలా?"</string>
+    <string name="enable_demo_mode">డెమో మోడ్‌ని ప్రారంభించాలా?</string>
+    <string name="disable_demo_mode">డెమో మోడ్‌ని నిలిపివేయి</string>
+    <string name="update_demo_video">అప్‌డేట్ డెమో వీడియో</string>
+    <string name="reset_device">పరికరాన్ని రీసెట్ చేయాలా?</string>
+    <string name="demo_mode_notifications">డెమో మోడ్ నోటిఫికేషన్‌లు</string>
+</resources>

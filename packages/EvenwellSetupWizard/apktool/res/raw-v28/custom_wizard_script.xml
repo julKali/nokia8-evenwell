@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+    xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <!-- Preliminary setup for OEMs [CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_PRE_SETUP;end" id="oem_pre_setup" />
+
+    <!-- Welcome screen with language selection [RECOMMENDED, CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.evenwell.setupwizard.action.WelcomeSetupWizard;end" id="welcome">
+        <result wizard:resultCode="101" wizard:action="check_user_unlock_qr" wizard:name="start_qr_provision" />
+        <result wizard:resultCode="111" wizard:action="check_user_unlock_dpm_user_complete" wizard:name="dpm_user_complete" />
+        <result wizard:resultCode="102" wizard:action="check_user_unlock_demo" wizard:name="demo_mode_flow" />
+        <result wizard:action="check_user_unlock" />
+    </WizardAction>
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock_qr">
+        <result wizard:action="qr_provision_flow" />
+    </WizardAction>
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock_dpm_user_complete">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock_demo">
+        <result wizard:action="demo_mode_start" />
+    </WizardAction>
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock" />
+
+    <!-- Notify user if expected SIM is not found [RECOMMENDED, CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.SIM_MISSING;end" id="sim_missing">
+        <result wizard:resultCode="101" wizard:action="esim_intro" wizard:name="esim" />
+        <result wizard:action="carrier_setup" />
+    </WizardAction>
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.ESIM_INTRO;end" id="esim_intro" />
+
+    <!-- Activate carrier services [RECOMMENDED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CARRIER_SETUP;end" id="carrier_setup" />
+
+    <!-- On multi-SIM devices, choose which SIM to use for voice, data, and text [RECOMMENDED, CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.SIM_SETUP;end" id="sim_setup" />
+
+    <!-- Security warning (for enterprise) [RECOMMENDED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.DEVICE_OWNER_WARNING;end" id="device_owner_warning">
+        <result wizard:resultCode="1" wizard:action="check_frp" wizard:name="skip" />
+    </WizardAction>
+
+    <!-- Factory reset should cause a reboot, but if it returns unexpectedly, continue on to check_frp -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FACTORY_RESET;end" id="factory_reset" />
+
+    <!-- Wait to check factory reset protection status [RECOMMENDED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.CHECK_FRP;end" id="check_frp" />
+
+    <!-- Network selection and packages update [REQUIRED, CUSTOMIZABLE] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_connect_and_update_flow" id="connect_and_update">
+        <result wizard:resultCode="1" wizard:action="no_network_flow" wizard:name="no_connection" />
+    </WizardAction>
+
+    <!-- Zero touch provisioning (for enterprise) [RECOMMENDED] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_zero_touch_flow" id="zero_touch" >
+        <result wizard:resultCode="111" wizard:action="post_dpm_user_flow" wizard:name="dpm_user_complete" />
+    </WizardAction>
+
+    <!-- Choose between restoring or set up as new device [RECOMMENDED, CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.FLOW_CHOICE;end" id="flow_choice">
+        <result wizard:resultCode="1" wizard:action="setup_as_new_flow" wizard:name="skip" />
+        <result wizard:resultCode="101" wizard:action="exit" wizard:name="demo_mode_flow" />
+        <result wizard:resultCode="102" wizard:action="unified_restore_flow" wizard:name="unified_restore_flow" />
+    </WizardAction>
+
+    <!-- Restore from an existing account or device [RECOMMENDED, CUSTOMIZABLE] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_restore_flow" id="restore_flow">
+        <result wizard:action="oem_post_setup"/>
+    </WizardAction>
+
+
+    <!-- Restore from an existing account or device [RECOMMENDED, CUSTOMIZABLE] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_unified_restore_flow" id="unified_restore_flow">
+        <result wizard:action="oem_post_setup"/>
+    </WizardAction>
+
+    <!-- Set up as a new device [REQUIRED, CUSTOMIZABLE] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_setup_as_new_flow" id="setup_as_new_flow">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+
+    <!--<WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_setup_as_new_flow" id="setup_as_new_flow">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>-->
+
+    <!-- Set up without a network connection [RECOMMENDED] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_no_network_flow" id="no_network_flow">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+
+    <!-- Flow to run after a user-led device policy managed setup. [RECOMMENDED] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_post_dpm_user_flow" id="post_dpm_user_flow">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+
+    <!-- QR provision flow (for enterprise) [RECOMMENDED] -->
+    <WizardAction wizard:script="android.resource://com.evenwell.SetupWizard/raw/custom_wizard_script_qr_provision_flow" id="qr_provision_flow" />
+
+    <!-- OEM completion [CUSTOMIZABLE] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_POST_SETUP;end" id="oem_post_setup" />
+
+    <!-- Google kid account setup. Must be the last setup action. [REQUIRED] -->
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.KID_POST_SETUP;end" id="kid_post_setup" />
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.evenwell.setupwizard.action.SetupCompleteActivity;end" id="evenwell_complete" />
+
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.EXIT;end" id="exit" />
+</WizardScript>

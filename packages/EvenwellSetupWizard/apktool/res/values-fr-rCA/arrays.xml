@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <array name="fih_navigation_setting_icons">
+        <item>@drawable/oobe_navigation2</item>
+        <item>@drawable/oobe_navigation1</item>
+        <item>@drawable/oobe_navigation4</item>
+        <item>@drawable/oobe_navigation3</item>
+    </array>
+    <array name="fih_navigation_setting_tg_icons">
+        <item>@drawable/zzz_oobe_tg_navigation1</item>
+        <item>@drawable/zzz_oobe_tg_navigation2</item>
+        <item>@drawable/zzz_oobe_tg_navigation3</item>
+        <item>@drawable/zzz_oobe_tg_navigation4</item>
+    </array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statique</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Détecter automatiquement</item>
+        <item>Traiter comme étant limité</item>
+        <item>Traiter comme étant illimité</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Aucun</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Aucun</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Aucun</item>
+        <item>Manuel</item>
+        <item>Configuration auto du proxy</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+    </string-array>
+    <string-array name="wifi_security_china">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Faible</item>
+        <item>Satisfaisante</item>
+        <item>Bon</item>
+        <item>Excellente</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Recherche…</item>
+        <item>Connexion en cours…</item>
+        <item>Authentification…</item>
+        <item>"Récupération de l'adresse IP…"</item>
+        <item>Connecté</item>
+        <item>Interrompu</item>
+        <item>Déconnexion…</item>
+        <item>Déconnecté</item>
+        <item>Échec</item>
+        <item>Bloqué</item>
+        <item>Mauvaise connexion évitée momentanément</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Recherche…</item>
+        <item>Connexion à %1$s…</item>
+        <item>Authentification avec %1$s…</item>
+        <item>"Récupération de l'adresse IP à partir de %1$s…"</item>
+        <item>Connecté à %1$s</item>
+        <item>Interrompu</item>
+        <item>Déconnexion de %1$s…</item>
+        <item>Déconnecté</item>
+        <item>Échec</item>
+        <item>Bloqué</item>
+        <item>Mauvaise connexion évitée momentanément</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadécimal</item>
+    </string-array>
+</resources>

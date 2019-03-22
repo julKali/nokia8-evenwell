@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ຕົວແກ້ໄຂ Bokeh</string>
+    <string name="image_not_null">ທາງໂຄຈອນຮູບພາບບໍ່ສາມາດຫວ່າງໄດ້</string>
+    <string name="no_bokeh_type">ບໍ່ມີປະເພດ bokeh</string>
+    <string name="no_mpo_file">ບໍ່ມີໄຟລ໌ MPO</string>
+    <string name="save">ບັນທຶກ</string>
+    <string name="save_success">ບັນທຶກໄດ້ສຳເລັດແລ້ວ</string>
+</resources>

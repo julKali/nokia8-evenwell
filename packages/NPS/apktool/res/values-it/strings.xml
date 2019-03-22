@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ANNULLA</string>
+    <string name="DONE">FATTO</string>
+    <string name="NEXT">AVANTI</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">PRECEDENTE</string>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">ALT +</string>
+    <string name="abc_menu_ctrl_shortcut_label">CTRL +</string>
+    <string name="abc_menu_delete_shortcut_label">CANC</string>
+    <string name="abc_menu_enter_shortcut_label">INVIO</string>
+    <string name="abc_menu_function_shortcut_label">FUNZIONE +</string>
+    <string name="abc_menu_meta_shortcut_label">META +</string>
+    <string name="abc_menu_shift_shortcut_label">MAIUSC +</string>
+    <string name="abc_menu_space_shortcut_label">barra spaziatrice</string>
+    <string name="abc_menu_sym_shortcut_label">SYM +</string>
+    <string name="abc_prepend_shortcut_label">MENU +</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi tramite %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="alert_empty_desc">Aggiungere la propria descrizione.</string>
+    <string name="alert_warning_title">Dritte</string>
+    <string name="enter_comments">Inserire commenti (1000 caratteri)</string>
+    <string name="extremely_likely">(Molto probabile)</string>
+    <string name="feedback">Feedback</string>
+    <string name="helps_us_improve_our_products">Il feedback ci consente di migliorare i prodotti.</string>
+    <string name="intro_title">Consiglierebbe questo telefono a un amico o a un collega?</string>
+    <string name="msg_send_after">Il messaggio si caricherà automaticamente quando il dispositivo sarà online. Grazie per la risposta.</string>
+    <string name="msg_send_fail">Invio non riuscito. Il messaggio si caricherà automaticamente quando il dispositivo sarà online. Grazie per la risposta.</string>
+    <string name="no_ask_feedback_again_text">Non mostrare più questo messaggio</string>
+    <string name="no_showagain_text">Non mostrare più questo messaggio</string>
+    <string name="not_at_all_likely">(Affatto probabile)</string>
+    <string name="privacy_context_wifi">"Gentili utenti, 
+
+Il software client per i commenti è disponibile. Prima di usare questo prodotto, dovrete leggere attentamente e comprendere bene le condizioni per l'utilizzo del servizio. Facendo clic su 「Accetto」date atto di avere compreso perfettamente la prerogativa di tale software e di acconsentire al suo utilizzo. Qualora NON accettiate le presenti condizioni, premete 「Esci」. Per erogare servizi completi, l'app necessita delle seguenti autorizzazioni: 
+1. Accesso a Internet, rete WLAN per inviare i commenti. 
+2. Importazione dei dati IMEI, PSN e MNC\\MCC per acquisire automaticamente i dati di base del telefono"</string>
+    <string name="search_menu_title">Ricerca</string>
+    <string name="select_a_value">"Selezionare un'opzione"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Accetto</string>
+    <string name="str_leave">Esci</string>
+    <string name="submit_fail">Invio non riuscito</string>
+    <string name="submit_success">Grazie per la risposta</string>
+    <string name="thank_your_feedback">Grazie per il feedback.</string>
+    <string name="we_appreciate_your_help">Apprezziamo il suo contributo per rendere i prodotti Nokia i migliori al mondo.</string>
+    <string name="we_hope_enjoying_nokia_device">Speriamo che il dispositivo Nokia sia di suo gradimento. Il suo feedback è molto importante per noi.</string>
+    <string name="we_will_contact_you_again">La ricontatteremo prossimamente.</string>
+    <string name="we_will_contact_you_again_enjoy">La ricontatteremo prossimamente. Sfrutti al meglio il nuovo Nokia.</string>
+    <string name="why_you_gave_this_score">Motivi il punteggio assegnato:</string>
+</resources>

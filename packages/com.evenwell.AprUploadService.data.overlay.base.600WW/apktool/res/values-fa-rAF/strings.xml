@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">سیاست حریم خصوصی HMD</string>
+    <string name="privacy_activity">سیاست حریم خصوصی HMD</string>
+    <string name="go_label">موافقت</string>
+    <string name="agree">موافقت</string>
+    <string name="next_btn_lebel">بعدی</string>
+    <string name="app_name">تشخیصات سیستم</string>
+    <string name="setting_page_name">برنامه تجربه کاربر</string>
+    <string name="send_diag_dialog_any_network">زمانیکه اتصال دیتا میسر است</string>
+    <string name="send_diag_dialog_wifi">زمانیکه اتصال Wi-Fi میسر است</string>
+    <string name="send_diag_dialog_wlan">زمانیکه اتصال WLAN میسر است</string>
+    <string name="send_diag_dialog_title">ارسال کردن تشخیصات</string>
+    <string name="diagnostics_setting">تشخیصات</string>
+    <string name="diagnostics_report">گزارش تشخیصات</string>
+    <string name="diagnostics_report_summary">زمانیکه دستگاه یک خطای نرم افزاری تجربه می کند، گزارش تشخیصات ارسال شود. ممکن است هزینه استعمال شبکه ایجاد نماید. دریافت بسته شبکه دیتا از شرکت مخابراتی سفارش می شود.</string>
+    <string name="network_options">گزینه های شبکه</string>
+    <string name="send_diagnostics">ارسال کردن تشخیصات</string>
+    <string name="diagnostics_description">زمانی که دستگاه شما دچار خطای نرم افزاری یا خرابی می شود، لطفاً برای بهبود محصولات و خدمات مان به ما اجازه دهید دیتای تشخیصات را گردآوری کنیم. همیشه این گزینه را در تنظیمات تبدیل کرده می توانید.</string>
+</resources>

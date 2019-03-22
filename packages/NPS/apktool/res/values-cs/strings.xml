@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">ZRUŠIT</string>
+    <string name="DONE">Hotovo</string>
+    <string name="NEXT">DALŠÍ</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">PŘEDCHOZÍ</string>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYPNUTO</string>
+    <string name="abc_capital_on">ZAPNUTO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mezerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Vyhledávací dotaz</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet pomocí</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="alert_empty_desc">Zadejte popis!</string>
+    <string name="alert_warning_title">Tipy</string>
+    <string name="enter_comments">Zadejte komentář (1000 znaků)</string>
+    <string name="extremely_likely">(Extrémně pravděpodobné)</string>
+    <string name="feedback">Názor</string>
+    <string name="helps_us_improve_our_products">Vaše názory nám pomohou při vylepšování našich výrobků.</string>
+    <string name="intro_title">S jakou pravděpodobností byste tento telefon doporučil přátelům nebo kolegům?</string>
+    <string name="msg_send_after">Když se zařízení připojí, zpráva bude automaticky odeslána. Děkujeme za vaši odpověď.</string>
+    <string name="msg_send_fail">Odeslání se nezdařilo. Když se zařízení připojí, zpráva bude automaticky odeslána. Děkujeme za vaši odpověď.</string>
+    <string name="no_ask_feedback_again_text">Již nezobrazovat</string>
+    <string name="no_showagain_text">Již nezobrazovat</string>
+    <string name="not_at_all_likely">(Vůbec není pravděpodobné)</string>
+    <string name="privacy_context_wifi">"Vážení uživatelé, 
+
+Vítá vás klientský software pro zasílání názorů. Než začnete tento produkt používat, pečlivě si přečtěte podmínky. Klepnutím na možnost「Souhlasím」potvrzujete, že chápete oprávnění k tomuto softwaru a vyjadřujete souhlas s jejich dodržováním. Pokud s podmínkami NESOUHLASÍTE, stiskněte tlačítko「Konec」. Aby vám mohla aplikace poskytovat komplexní služby, potřebuje následující oprávnění: 
+1. Přístup k Internetu, síť WLAN pro posílání názorů 
+2. Import informací o IMEI, PSN a MNC\\MCC pro automatické zjišťování základních informací o telefonu"</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="select_a_value">Vyberte hodnotu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Souhlasím</string>
+    <string name="str_leave">Konec</string>
+    <string name="submit_fail">Odeslání se nezdařilo</string>
+    <string name="submit_success">Děkujeme za vaši odpověď</string>
+    <string name="thank_your_feedback">Děkujeme za váš názor.</string>
+    <string name="we_appreciate_your_help">Vážíme si vaší pomoci s vylepšováním výrobků Nokia na pozici nejlepších na světě.</string>
+    <string name="we_hope_enjoying_nokia_device">Doufáme, že si svého zařízení Nokia užíváte. Váš názor je pro nás velmi důležitý.</string>
+    <string name="we_will_contact_you_again">Obrátíme se na vás i v budoucnosti.</string>
+    <string name="we_will_contact_you_again_enjoy">Obrátíme se na vás i v budoucnosti. Ať vám nové zařízení Nokia dobře slouží!</string>
+    <string name="why_you_gave_this_score">Řekněte nám, proč jste dali tuto známku:</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="skip_btn_label">跳过</string>
+    <string name="upload_agent_des_text">"加入用户体验计划。&lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>了解更多&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_4">"点击按钮，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服务条款&lt;/a>。设备激活信息和位置信息将一次发送给HMD Global，可能产生数据费用。我们会遵照&lt;a href='launch.AddUploadAgentHandler://Kode'>隐私权政策&lt;/a>使用相应数据。&lt;br/>&lt;br/>软件自动更新通知缺省为开启，如此可能会使用很少的流量，但会带给您最新的软件体验。手机将自动联网使用相关的服务。&lt;br/>&lt;br/>上述服务的使用可能会产生数据流量费用。&lt;br/>&lt;br/>设备可能会发送激活信息给当地运营商。&lt;br/>&lt;br/>谷歌应用服务为了提供完整的服务，将需要连接网络，访问您的通讯录、位置信息、电话、短信、麦克风、相机、传感器、日历以及存储。"</string>
+    <string name="welcome_hmd_term_of_use_5">"点击此按钮，即表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>《服务条款》&lt;/a>。您的数据将根据 HMD 的&lt;a href='launch.AddUploadAgentHandler://Kode'>隐私政策&lt;/a>进行处理。设备激活信息和一次性设备位置会发送给 HMD Global。这可能需要支付移动数据费。"</string>
+    <string name="welcome_vision_settings_button_label">辅助功能设置</string>
+    <string name="welcome_hmd_term_of_use">"按下开始表示您同意我们的&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>使用条款&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_2">"点击箭头，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服务条款&lt;/a> 和 &lt;a href='launch.AddUploadAgentHandler://Kode'>隐私政策&lt;/a>。设备激活信息和位置信息将一次发送给HMD Global，可能产生数据费用。"</string>
+    <string name="language_selection_title">选择您的语言</string>
+    <string name="upload_agent_hmd_des_text">"加入诺基亚用户体验计划。&lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>了解更多&lt;/a>"</string>
+    <string name="upload_agent_hmd_des_text_2">"加入用户体验计划。&lt;a href='launch.UserExperienceActivity://Kode'>了解更多&lt;/a>
+
+"</string>
+    <string name="setup_completed_congratulations">恭喜!</string>
+    <string name="setup_complete_hmd">您的手机可以使用了...</string>
+    <string name="hmd_user_experience_program_title">用户体验计划</string>
+    <string name="hmd_user_experience_program_message">您参与用户体验计划将帮助HMD Global更好的了解您所喜欢的有关于诺基亚手机的功能，和您所希望改进的地方。我们可能偶尔从您的设备收集匿名的技术参数，例如可能发生的系统崩溃数据。这些匿名数据将不会通过手机移动网络传输。我们愿意倾听您对诺基亚产品的心声！</string>
+    <string name="upload_agent_hmd_des_text_3">"点击设置完成按钮，表示您同意加入用户体验计划。&lt;a href='launch.UserExperienceActivity://Kode'>了解更多&lt;/a>。稍后您也可以再从设置中加入。"</string>
+    <string name="setup_complete_hmd_1">您的手机即将可以使用…!</string>
+    <string name="not_now">稍后加入…</string>
+    <string name="setup_finish">设置完成</string>
+</resources>

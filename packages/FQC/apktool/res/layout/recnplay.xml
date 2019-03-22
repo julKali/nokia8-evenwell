@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/txtRecInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/recnplay_textview" />
+    <Button android:id="@id/btnRecStart" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/recnplay_button" />
+    <Button android:id="@id/btnRecStop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/recnplay_button" />
+    <Button android:id="@id/btnPlayStart" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/recnplay_button" />
+    <Button android:id="@id/btnPlayStop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/recnplay_button" />
+</LinearLayout>

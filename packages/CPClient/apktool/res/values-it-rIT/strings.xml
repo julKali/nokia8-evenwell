@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP Client</string>
+    <string name="fih_cp_apn_not_set">&lt;Non impostato></string>
+    <string name="fih_cp_apply_dialog_body_msg">Applicare la nuova configurazione?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Nuovo provisioning</string>
+    <string name="fih_cp_btn_back">Indietro</string>
+    <string name="fih_cp_btn_cancel">Annulla</string>
+    <string name="fih_cp_btn_next">Avanti</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Tipo di autenticazione</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Nessuno</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP o CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Porta</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">Porta MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Proxy MMS</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Nome</string>
+    <string name="fih_cp_editor_apn_password">Password</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_type">Tipo APN</string>
+    <string name="fih_cp_editor_apn_user">Nome utente</string>
+    <string name="fih_cp_error_apn_empty">Il campo APN non può essere vuoto.</string>
+    <string name="fih_cp_error_name_empty">Il campo Nome non può essere vuoto.</string>
+    <string name="fih_cp_error_other">Errore di sintassi dei dati.</string>
+    <string name="fih_cp_error_title">Attenzione</string>
+    <string name="fih_cp_input_pin_code">Inserisci codice PIN:</string>
+    <string name="fih_cp_input_pin_code_cancel">Annulla</string>
+    <string name="fih_cp_input_pin_code_empty">Inserire il codice PIN.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Codice PIN errato.</string>
+    <string name="fih_cp_input_pin_code_ok">Ok</string>
+    <string name="fih_cp_notification_channel_name">Notifiche generali</string>
+    <string name="fih_cp_notify_statusbar_content">Messaggio nuovo provisioning</string>
+    <string name="fih_cp_sim_not_available">Scheda SIM non disponibile.</string>
+    <string name="fih_cp_toast_info_create">Profilo creato</string>
+    <string name="fih_cp_toast_info_update">Profilo aggiornato</string>
+    <string name="fih_cp_ui_mode_delete">Canc</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Posponi</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">C.trình trải nghiệm người dùng</string>
+    <string name="setting_page_name">C.trình trải nghiệm người dùng</string>
+    <string name="send_diag_dialog_any_network">Khi kết nối dữ liệu có sẵn</string>
+    <string name="send_diag_dialog_wifi">Khi kết nối Wi-Fi có sẵn</string>
+    <string name="send_diag_dialog_wlan">Khi kết nối WLAN có sẵn</string>
+    <string name="send_diag_dialog_title">Gửi chẩn đoán</string>
+    <string name="diagnostics_setting">Chẩn đoán</string>
+    <string name="diagnostics_report">Báo cáo chẩn đoán</string>
+    <string name="diagnostics_report_summary">Gửi báo cáo chẩn đoán khi thiết bị đang gặp phải lỗi phần mềm</string>
+    <string name="network_options">Tùy chọn mạng</string>
+    <string name="send_diagnostics">Gửi chẩn đoán</string>
+    <string name="privacy_statement">Tuyên bố quyền riêng tư</string>
+    <string name="diagnostics_description">Vui lòng giúp chúng tôi cải thiện các sản phẩm và dịch vụ bằng cách cho phép chúng tôi thu thập các dữ liệu chẩn đoán khi ĐT của bạn gặp phải lỗi hay hỏng hóc phần mềm. Sau này bạn luôn có thể đổi t.chọn này trong Cài đặt.</string>
+    <string name="privacy_activity">Tuyên bố quyền riêng tư</string>
+    <string name="go_label">Xong</string>
+    <string name="diagnostics_confirmation">Có, tôi đồng ý gửi dữ liệu chẩn đoán tự động.</string>
+    <string name="setcomplete">Đã cài đặt xong</string>
+    <string name="agree_dialog">Bạn đã thay đổi C.trình trải nghiệm người dùng và Tuyên Bố Quyền Riêng Tư liên quan của chúng tôi. Hãy giúp chúng tôi cải thiện các sản phẩm và dịch vụ bằng cách tham ngay C.trình trải nghiệm người dùng. Bạn luôn có thể đổi tùy chọn này trong Cài đặt.</string>
+    <string name="agree">Đồng ý</string>
+    <string name="see_detail">Chi tiết</string>
+    <string name="next_btn_lebel">Kế tiếp</string>
+</resources>

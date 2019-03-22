@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">HMD የግላዊነት መመሪያ</string>
+    <string name="privacy_activity">HMD የግላዊነት መመሪያ</string>
+    <string name="go_label">ጨርሷል</string>
+    <string name="agree">እስማማለሁ</string>
+    <string name="see_detail">ዝርዝሮች</string>
+    <string name="next_btn_lebel">ተመለስ</string>
+    <string name="app_name">የስርዓት ዲያግኖሲስ</string>
+    <string name="setting_page_name">የተጠቃሚ ተሞክሮ ፕሮግራም</string>
+    <string name="send_diag_dialog_any_network">የውሂብ ግንኙነት በሚኖርበት ጊዜ</string>
+    <string name="send_diag_dialog_wifi">የWi-Fi ግንኙነት ብሚኖርበት ጊዜ</string>
+    <string name="send_diag_dialog_wlan">የWLAN ግንኙነት በሚኖርበት ጊዜ</string>
+    <string name="send_diag_dialog_title">የዲያግኖስቲክ ሪፖርት አስተላልፍ</string>
+    <string name="diagnostics_setting">የዲያግኖስቲክ ሪፖርት</string>
+    <string name="diagnostics_report">የዲያግኖስቲክ ሪፖርት</string>
+    <string name="diagnostics_report_summary">የሶፍትዌር ስህተቶች በመሳሪያ ላይ ሲከሰቱ፣ የዲያግኖስቲክ ሪፖርት መላክ የውሂብ አጠቃቀም ክፍያ ሊኖረው ይችላል፣ ስለዚህ የውሂብ ጥቅል ለማግኘት ለአገልግሎት አቅራቢዎ እንዲያመለክቱ ይመከራል።</string>
+    <string name="network_options">የአውታረመረብ አማራጮች</string>
+    <string name="send_diagnostics">የዲያግኖስቲክ ሪፖርት አስተላልፍ</string>
+    <string name="diagnostics_description">እባክዎ ምርትና አገልግሎት ለማሻሻል ይደግፉን፣ ለዚያም የሶፍትዌር ስህተት ወይም መበላሸት ሲያጋጥምዎ የዲያግኖስቲክ ውሂብ እንድንሰበስብ ይፍቀዱልን። ይህን በኋላ ላይ በክንውን አውዶች ውስጥ መቀየር ይችላሉ።</string>
+    <string name="cancel_upload_confirm_msg">ከተጠቃሚ ተሞክሮ ፕሮግራማችን ለመውጣት ተቃርበዋል። በሞባይል ስልክዎ ላይ የሚፈጠሩ የሶፍትዌር ስህተቶች አይያዙም እናም አይላኩም፣ ይህም በሞባይል ስልክ አጠቃቀም ተሞክሮዎ ላይ መሻሻል ላያመጣ ይችላል!</string>
+</resources>

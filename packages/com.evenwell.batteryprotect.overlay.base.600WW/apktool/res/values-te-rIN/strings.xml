@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">బ్యాటరీ రక్షణ</string>
+    <string name="fih_battery_protect_alert_dialog_ok">సరే</string>
+    <string name="fih_battery_protect_warning_title">అధిక ఉష్ణోగ్రత హెచ్చరిక</string>
+    <string name="fih_battery_protect_cooldown_title">చల్లబడుతోంది</string>
+    <string name="fih_battery_protect_normalmode_title">సాధారణ ఉష్ణోగ్రత</string>
+    <string name="fih_battery_protect_warning_text">దయచేసి ఫోన్ చల్లబడటం కోసం కాల్ మరియు అనువర్తనాలను ఆపివేయండి.</string>
+    <string name="fih_battery_protect_cooldown_text">ప్రస్తుతం ఫోన్ శీతలీకరణ మోడ్‌లో ఉంది, అత్యవసర కాల్‌లు మాత్రమే చేయగలరు.</string>
+    <string name="fih_battery_protect_normalmode_text">ఇప్పుడు సాధారణంగానే ఉపయోగించవచ్చు.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">అత్యవసర కాల్</string>
+    <string name="fih_battery_protect_maxtemp_title">గరిష్ట ఉష్ణోగ్రత</string>
+    <string name="fih_battery_protect_maxtemp_text">ఫోన్ ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది, ఇప్పుడు ఇది షట్‌డౌన్ చేయబడుతుంది.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">ఛార్జింగ్ ఆపివేయబడింది</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">ఛార్జింగ్‌ని ఆపివేయండి!</string>
+    <string name="fih_battery_protect_normalmode_warning_dec">ఫోన్ ఇప్పుడు హెచ్చరిక మోడ్ నుండి నిష్క్రమించింది. ఇప్పుడు సాధారణంగానే ఉపయోగించవచ్చు.</string>
+    <string name="fih_battery_protect_normalmode_cooldone_dec">ఫోన్ ఇప్పుడు శీతలీకరణ మోడ్ నుండి నిష్క్రమించింది. ఇప్పుడు సాధారణంగానే ఉపయోగించవచ్చు.</string>
+    <string name="fih_battery_protect_normalmode_max_dec">ఫోన్ ఇప్పుడు గరిష్ట ఉష్ణోగ్రత మోడ్ నుండి నిష్క్రమించింది. ఇప్పుడు సాధారణంగానే ఉపయోగించవచ్చు.</string>
+    <string name="fih_battery_protect_low_temp_title">హెచ్చరిక</string>
+    <string name="fih_battery_protect_low_temp_text">ఉష్ణోగ్రత చాలా తక్కువగా ఉంది, ఛార్జింగ్ ఆపివేయండి.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">బ్యాటరీ ఉష్ణోగ్రతను తెలుసుకోవడం సాధ్యం కాదు, బ్యాటరీని సరిగ్గా పెట్టినట్లు నిర్ధారించుకోండి, లేకుంటే అది ఛార్జ్ అవ్వదు.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">బ్యాటరీ ఉష్ణోగ్రతను తెలుసుకోవడం సాధ్యం కాదు.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">బ్యాటరీని సరిగ్గా పెట్టినట్లు నిర్ధారించుకోండి, లేకుంటే అది ఛార్జ్ అవ్వదు.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">ప్రస్తుతానికి బ్యాటరీ ఉష్ణోగ్రతను తెలుసుకోవడం సాధ్యం కాదు మరియు ఫోన్ ఇప్పుడు శీతలీకరణ మోడ్‌లో ఉంది, అత్యవసర కాల్ మాత్రమే చేయగలరు, బ్యాటరీని సరిగ్గా పెట్టినట్లు నిర్ధారించుకోండి.</string>
+    <string name="fih_battery_protect_aging_title">బ్యాటరీ విజార్డ్</string>
+    <string name="fih_battery_protect_aging_text">ప్రియమైన InFocus వినియోగదారుకి, సెల్ ఫోన్ బ్యాటరీ అనేది వినిమయ భాగం వలె పరిగణించబడుతుంది కనుక మీ ఫోన్ యొక్క బ్యాటరీ పనితీరు గణనీయంగా తగ్గినట్లు మీరు భావిస్తే, దయచేసి మీ ఫోన్‌ని సమీపంలో ఉన్న డీలర్ వద్ద తీసుకెళ్లి, సమస్యలను తెలుసుకుని, మరమ్మతులు చేయడం ద్వారా మీ ఫోన్‌ని ఉత్తమంగా ఆస్వాదించండి. దయచేసి మీకు ఏవైనా ప్రశ్నలు ఉంటే, %1$s ఫోన్ నంబర్ ద్వారా మా కస్టమర్ సేవా కేంద్రాన్ని సంప్రదించండి. ధన్యవాదాలు.</string>
+    <string name="fih_battery_protect_aging_nm_text">దయచేసి %1$s ఫోన్ నంబర్ ద్వారా మా కస్టమర్ సేవా కేంద్రాన్ని సంప్రదించండి, ధన్యవాదాలు.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">ప్రియమైన InFocus వినియోగదారుకి, సెల్ ఫోన్ బ్యాటరీ అనేది వినిమయ భాగం వలె పరిగణించబడుతుంది కనుక మీ ఫోన్ యొక్క బ్యాటరీ పనితీరు గణనీయంగా తగ్గినట్లు మీరు భావిస్తే, దయచేసి మీ ఫోన్‌ని సమీపంలో ఉన్న డీలర్ వద్ద తీసుకెళ్లి, సమస్యలను తెలుసుకుని, మరమ్మతులు చేయడం ద్వారా మీ ఫోన్‌ని ఉత్తమంగా ఆస్వాదించండి. దయచేసి మీకు ఏవైనా ప్రశ్నలు ఉంటే, మా కస్టమర్ సేవా కేంద్రాన్ని సంప్రదించండి.ధన్యవాదాలు.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">దయచేసి మా కస్టమర్ సేవా కేంద్రాన్ని సంప్రదించండి, ధన్యవాదాలు.</string>
+    <string name="fih_battery_protect_bl_warning_title">ప్రకాశాన్ని తగ్గించాల్సిందిగా హెచ్చరిక</string>
+    <string name="fih_battery_protect_bl_warning_text">ఫోన్ ఉష్ణోగ్రత సాధారణం కంటే ఎక్కువగా ఉంది, అది చల్లబడాలంటే స్క్రీన్ ప్రకాశాన్ని తగ్గించండి</string>
+    <string name="fih_battery_protect_full_charging">పూర్తిగా ఛార్జ్ అయింది</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">రద్దు చేయి</string>
+    <string name="fih_battery_protect_power_off">పవర్ ఆఫ్ చేయి</string>
+    <string name="fih_battery_protect_high_full_charging">అధిక ఉష్ణోగ్రతల్లో అనుమతించబడిన గరిష్ట ఛార్జింగ్ పరిమితిని చేరుకుంది! ఫోన్ ఉష్ణోగ్రత సాధారణ స్థితికి వచ్చినప్పుడు, సిస్టమ్ సాధారణం వేగంతో ఛార్జ్ కావడం కొనసాగుతుంది.</string>
+    <string name="fih_battery_protect_low_full_charging">తక్కువ ఉష్ణోగ్రతల్లో అనుమతించబడిన గరిష్ట ఛార్జింగ్ పరిమితిని చేరుకుంది! ఫోన్ ఉష్ణోగ్రత సాధారణ స్థితికి వచ్చినప్పుడు, సిస్టమ్ సాధారణం వేగంతో ఛార్జ్ కావడం కొనసాగుతుంది.</string>
+    <string name="fih_battery_protect_high_full_charging_title">అధిక ఉష్ణోగ్రత ఛార్జింగ్ పరిమితిని చేరుకుంది</string>
+    <string name="fih_battery_protect_low_full_charging_title">తక్కువ ఉష్ణోగ్రత ఛార్జింగ్ పరిమితిని చేరుకుంది</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">సాధారణ నోటిఫికేషన్‌లు</string>
+    <string name="fih_battery_protect_warning_title_wear">అధిక ఉష్ణోగ్రత</string>
+    <string name="fih_battery_protect_cooldown_title_wear">చల్లబడుతోంది</string>
+    <string name="fih_battery_protect_normalmode_title_wear">సాధారణ ఉష్ణోగ్రత</string>
+    <string name="fih_battery_protect_warning_text_wear">దయచేసి పరికరం చల్లబడటం కోసం కాల్ మరియు అనువర్తనాలను ఆపివేయండి.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">బటన్‌ని నొక్కిన వెంటనే పరికరాన్ని చల్లబరచడానికి మేము శీతలీకరణ మోడ్‌ని ప్రారంభించి ప్రకాశాన్ని తగ్గిస్తాము మరియు అనువర్తనాలను మూసివేస్తాము.</string>
+    <string name="fih_battery_protect_cooldown_text_wear">ప్రస్తుతం పరికరం శీతలీకరణ మోడ్‌లో ఉంది, అత్యవసర కాల్‌లు మాత్రమే చేయగలరు.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">ఇప్పుడు సాధారణంగానే ఉపయోగించవచ్చు.</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">గరిష్ట ఉష్ణోగ్రత</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">పరికర ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది, ఇప్పుడు ఇది షట్‌డౌన్ చేయబడుతుంది.</string>
+    <string name="fih_battery_protect_low_temp_title_wear">తక్కువ ఉష్ణోగ్రత</string>
+    <string name="fih_battery_protect_low_temp_text_wear">బ్యాటరీ ఉష్ణోగ్రత చాలా తక్కువగా ఉంది, కనుక ఛార్జింగ్ ఆపివేయండి.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">ప్రస్తుతానికి బ్యాటరీ ఉష్ణోగ్రతను తెలుసుకోవడం సాధ్యం కాదు మరియు పరికరం ఇప్పుడు శీతలీకరణ మోడ్‌లో ఉంది, అత్యవసర కాల్ మాత్రమే చేయగలరు, బ్యాటరీని సరిగ్గా పెట్టినట్లు నిర్ధారించుకోండి.</string>
+    <string name="fih_battery_protect_install_error_title_wear">బ్యాటరీ విజార్డ్</string>
+    <string name="fih_battery_protect_aging_title_wear">బ్యాటరీ విజార్డ్</string>
+    <string name="fih_battery_protect_aging_text_wear">ప్రియమైన InFocus వినియోగదారుకి, సెల్ పరికర బ్యాటరీ అనేది వినిమయ భాగం వలె పరిగణించబడుతుంది కనుక మీ పరికరం యొక్క బ్యాటరీ పనితీరు గణనీయంగా తగ్గినట్లు మీరు భావిస్తే, దయచేసి మీ పరికరాన్ని సమీపంలో ఉన్న డీలర్ వద్ద తీసుకెళ్లి, సమస్యలను తెలుసుకుని, మరమ్మతులు చేయడం ద్వారా మీ పరికరాన్ని ఉత్తమంగా ఆస్వాదించండి. దయచేసి మీకు ఏవైనా ప్రశ్నలు ఉంటే, %1$s ఫోన్ నంబర్ ద్వారా మా కస్టమర్ సేవా కేంద్రాన్ని సంప్రదించండి. ధన్యవాదాలు.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">ప్రియమైన InFocus వినియోగదారుకి, సెల్ పరికర బ్యాటరీ అనేది వినిమయ భాగం వలె పరిగణించబడుతుంది కనుక మీ పరికరం యొక్క బ్యాటరీ పనితీరు గణనీయంగా తగ్గినట్లు మీరు భావిస్తే, దయచేసి మీ పరికరాన్ని సమీపంలో ఉన్న డీలర్ వద్ద తీసుకెళ్లి, సమస్యలను తెలుసుకుని, మరమ్మతులు చేయడం ద్వారా మీ పరికరాన్ని ఉత్తమంగా ఆస్వాదించండి. దయచేసి మీకు ఏవైనా ప్రశ్నలు ఉంటే, మా కస్టమర్ సేవా కేంద్రాన్ని సంప్రదించండి.ధన్యవాదాలు.</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">అధిక ఉష్ణోగ్రత</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">ఛార్జింగ్‌ని ఆపివేయండి</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">బ్యాటరీని పెట్టడంలో లోపం ఉంది</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">బ్యాటరీని సరిగ్గా పెట్టినట్లు నిర్ధారించుకోండి.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">బ్యాటరీ ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది, కనుక ఛార్జింగ్ ఆపివేయండి.</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">బ్యాటరీ విజార్డ్</string>
+    <string name="fih_battery_protect_full_charging_wear">పూర్తిగా ఛార్జ్ అయింది</string>
+    <string name="fih_battery_protect_ok_wear">సరే</string>
+    <string name="fih_battery_protect_cancel_wear">రద్దు చేయి</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">ప్రస్తుతం పరికరం శీతలీకరణ మోడ్‌లో ఉంది. దయచేసి దీనిని తర్వాత ఉపయోగించండి.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">గడియార ఉష్ణోగ్రత చాలా ఎక్కువగా ఉంది. స్క్రీన్‌ని మసకగా చేసి, అనువర్తనాలను ఆపివేయాలని మేము సూచిస్తున్నాము. దయచేసి ఈ చర్యలను తనిఖీ చేసి, నిర్ధారించండి.</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">గడియారాన్ని ఇప్పుడు సాధారణంగానే ఉపయోగించవచ్చు.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">గడియార ఉష్ణోగ్రత దాని పరిమితిని చేరుకుంది మరియు ఇది తక్షణమే షట్‌డౌన్ చేయబడుతుంది.</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">బ్యాటరీ ఉష్ణోగ్రత చాలా తక్కువగా ఉంది, కనుక ఛార్జింగ్ ఆపివేయబడుతుంది.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">దయచేసి అసలు బ్యాటరీని ఉపయోగించండి</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">ఛార్జింగ్ ఆపివేయబడింది</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">దయచేసి ఛార్జ్ చేయడం కోసం అసలు బ్యాటరీని ఉపయోగించండి లేదా మీ పరికరానికి శాశ్వతమైన/భౌతిక హాని ఏర్పడవచ్చు.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">బ్యాటరీ చెల్లదు</string>
+    <string name="fih_battery_protect_notification_cooling_down">చల్లబడుతోంది</string>
+    <string name="fih_battery_protect_tap_learn_more">మరింత తెలుసుకోవడానికి నొక్కండి.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"మీ ఫోన్ వేడెక్కుతోంది, కనుక అది చల్లబడటానికి చర్యలు తీసుకోండి. ఇప్పటికీ మీరు దీనిని ఉపయోగించవచ్చు, కానీ ఇలా జరగవచ్చు:
+·ఛార్జింగ్ పాజ్ కావచ్చు.
+·Wi-Fi ఆఫ్ కావచ్చు.
+·అప్లికేషన్‌లు మూసివేయబడవచ్చు.
+·విమాన మోడ్ ఆన్ కావచ్చు.
+మీ ఫోన్ చల్లబడిన తర్వాత అది సాధారణంగా పని చేస్తుంది."</string>
+</resources>

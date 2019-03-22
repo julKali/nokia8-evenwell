@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">省电管理</string>
+    <string name="fih_power_saving_cpu_title">CPU节电</string>
+    <string name="fih_power_saving_screen_title">背光节电</string>
+    <string name="fih_power_saving_apply_notify">省电模式已启动</string>
+    <string name="fih_power_saving_apply_ticker_msg">省电模式已启动，无项目启用</string>
+    <string name="blacklist">黑名单</string>
+    <string name="fih_power_saving_power_saver_title">省电管理</string>
+    <string name="fih_power_saving_power_saver_status_on">开启</string>
+    <string name="fih_power_saving_power_saver_status_off">关闭</string>
+    <string name="fih_power_saving_time_schedule_title">定时启动</string>
+    <string name="fih_power_saving_time_schedule_set_time_equal">开始时间不能等于结束时间。</string>
+    <string name="fih_power_saving_request_dialog_title">开启省电管理</string>
+    <string name="fih_power_saving_request_dialog_cancel">取消</string>
+    <string name="fih_power_saving_request_dialog_enable">启用</string>
+    <string name="fih_power_saving_battery_Approx">约剩余 %1$s</string>
+    <string name="fih_power_saving_normal_mode_title">省电</string>
+    <string name="fih_power_saving_normal_mode_summary">应用省电模式设置</string>
+    <string name="fih_power_saving_extreme_mode_title">超级省电</string>
+    <string name="fih_power_saving_extreme_mode_summary">禁止后台应用及网络连接，这可能导致部分应用无法正常运作</string>
+    <string name="fih_power_saving_normal_mode_is_running">省电模式正在执行</string>
+    <string name="fih_power_saving_extreme_mode_is_running">超级省电模式正在执行</string>
+    <string name="fih_power_saving_time_schedule_mode_selection_title">模式选择</string>
+    <string name="fih_power_saving_time_schedule_mode_selection_normal">省电</string>
+    <string name="fih_power_saving_time_schedule_mode_selection_extreme">超级省电</string>
+    <string name="fih_power_saving_time_schedule_set_time_title">设置省电模式打开时间</string>
+    <string name="fih_power_saving_time_schedule_start_label">开始 - </string>
+    <string name="fih_power_saving_time_schedule_end_label">结束 - </string>
+    <string name="fih_power_saving_request_dialog_msg_normal_mode">"电量低于20％，您要启用省电管理来节省电力吗？
+
+这将启用省电模式。"</string>
+    <string name="fih_power_saving_request_dialog_msg_extreme_mode">"电量低于10％，您要启用省电管理来节省电力吗？
+
+这将启用超级省电模式。"</string>
+    <string name="power_saving_mode_warning_info_normal_mode_title">"启用省电模式将执行以下操作：
+
+"</string>
+    <string name="power_saving_mode_warning_info_extreme_mode_title">"启用超级省电模式将执行以下操作：
+
+"</string>
+    <string name="power_saving_mode_warning_info_item_cpu">"• 限制CPU性能
+"</string>
+    <string name="power_saving_mode_warning_info_item_brightness">"• 降低屏幕亮度
+"</string>
+    <string name="power_saving_mode_warning_info_item_bt">"• 关闭蓝牙
+"</string>
+    <string name="power_saving_mode_warning_info_item_ic">"• 没有任何下载活动时，自动中断网络连接
+"</string>
+    <string name="power_saving_mode_warning_info_item_bg_service">"• 开启后台服务管理
+"</string>
+    <string name="power_saving_mode_warning_info_item_gps">"• 关闭GPS
+"</string>
+    <string name="power_saving_mode_warning_info_item_resolution">"• 降低屏幕分辨率
+"</string>
+    <string name="power_saving_mode_warning_info_item_glance">"• 关闭Glance显示
+"</string>
+    <string name="power_saving_mode_warning_info_item_vibration">"• 关闭振动和后台资料传输
+"</string>
+    <string name="power_saving_mode_warning_info_item_hotspot">"• 关闭WiFi热点服务
+"</string>
+    <string name="power_saving_mode_warning_info_item_timeout">"• 屏幕休眠更改为15秒
+"</string>
+    <string name="fih_power_saving_dialog_ok_FIH">确定</string>
+    <string name="fih_power_saving_battery_status">电池状态</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Énoncé de confidentialité</string>
+    <string name="privacy_activity">Énoncé de confidentialité</string>
+    <string name="go_label">OK</string>
+    <string name="agree">"D'accord"</string>
+    <string name="next_btn_lebel">Suivant</string>
+    <string name="app_name">Diagnostic du système</string>
+    <string name="setting_page_name">"Programme d'expérience utilisateur"</string>
+    <string name="send_diag_dialog_any_network">Lorsque la connexion de données est disponible</string>
+    <string name="send_diag_dialog_wifi">Lorsque la connexion Wi-Fi est disponible</string>
+    <string name="send_diag_dialog_wlan">Lorsque la connexion WLAN est disponible</string>
+    <string name="send_diag_dialog_title">Envoyer le diagnostic</string>
+    <string name="diagnostics_setting">Diagnostic</string>
+    <string name="diagnostics_report">Rapport du diagnostic</string>
+    <string name="diagnostics_report_summary">"Envoyer un rapport de diagnostic lorsqu'une erreur logicielle survient sur le terminal. Cette opération peut impliquer des frais liés à l'utilisation du réseau. Il est recommandé de souscrire à un forfait de données auprès de votre opérateur."</string>
+    <string name="network_options">Options réseau</string>
+    <string name="send_diagnostics">Envoyer le diagnostic</string>
+    <string name="cancel_upload_confirm_msg">"Vous êtes sur le point de quitter notre Programme d'expérience utilisateur. Les erreurs logicielles qui surviennent sur votre téléphone ne seront ni conservées et ni envoyées. Ceci qui risque de compromettre votre expérience lorsque vous utilisez le téléphone !"</string>
+    <string name="hmd_privacy_policy">Politique de confidentialité HMD</string>
+</resources>

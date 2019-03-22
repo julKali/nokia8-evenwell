@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">CANCEL</string>
+    <string name="DONE">DONE</string>
+    <string name="NEXT">NEXT</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">PREVIOUS</string>
+    <string name="alert_empty_desc">Please add your description!</string>
+    <string name="alert_warning_title">Tips</string>
+    <string name="enter_comments">Enter comments (1000 characters)</string>
+    <string name="extremely_likely">(Extremely likely)</string>
+    <string name="feedback">Feedback</string>
+    <string name="helps_us_improve_our_products">Your feedback helps us improve our products!</string>
+    <string name="intro_title">How likely are you to recommend this phone to a friend or colleague?</string>
+    <string name="msg_send_after">Message will upload automatically when the device online. Thanks for your reply.</string>
+    <string name="msg_send_fail">Send fail.Message will upload automatically when the device online. Thanks for your reply.</string>
+    <string name="no_ask_feedback_again_text">Don’t ask feedback again</string>
+    <string name="no_showagain_text">Do not show again</string>
+    <string name="not_at_all_likely">(Not at all likely)</string>
+    <string name="select_a_value">Select a value</string>
+    <string name="str_agree">AGREE</string>
+    <string name="str_leave">EXIT</string>
+    <string name="submit_fail">Submit fail</string>
+    <string name="submit_success">Thanks for your reply.</string>
+    <string name="thank_your_feedback">Thank you for your feedback!</string>
+    <string name="we_appreciate_your_help">We appreciate your help making Nokia products the best in the world.</string>
+    <string name="we_hope_enjoying_nokia_device">We hope you are enjoying your Nokia device. Your feedback is very important to us.</string>
+    <string name="we_will_contact_you_again">We will contact you again in the future.</string>
+    <string name="we_will_contact_you_again_enjoy">We will contact you again in the future. Enjoy your new Nokia device!</string>
+    <string name="why_you_gave_this_score">Please tell us why you gave this score:</string>
+</resources>

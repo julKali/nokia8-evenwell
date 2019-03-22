@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/WearLayout_DialogStyle_Infocus"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/WearLayout_TitleStyle_Infocus">
+        <ImageView android:src="@drawable/infocus_wear_batteryprotect_alarm" style="@style/WearLayout_TitleImage_Infocus" />
+        <TextView android:id="@id/title_text" android:text="@string/fih_battery_protect_warning_title_wear" style="@style/WearLayout_DialogTitle_Infocus" />
+    </LinearLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/WearLayout_DialogContent_New_Infocus">
+        <TextView android:id="@id/normal_dec_text" android:text="@string/fih_battery_protect_warning_text_and_doitnow_wear" style="@style/WearLayout_DialogContent_with_scrollview_Infocus" />
+    </ScrollView>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <Button android:id="@id/alarm_activity_cancel_button" android:background="@drawable/infocus_wear_batteryprotect_cancel_button" style="@style/WearLayout_TwoImageButtonLeftStyle2_Infocus" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <Button android:id="@id/alarm_activity_comfirm_button" android:background="@drawable/infocus_wear_batteryprotect_confirm_button" style="@style/WearLayout_TwoImageButtonRightStyle2_Infocus" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,243 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: EvenwellSetupWizard.apk
+compressionType: false
+doNotCompress:
+- arsc
+- META-INF/android.arch.core_runtime.version
+- META-INF/android.arch.lifecycle_livedata-core.version
+- META-INF/android.arch.lifecycle_runtime.version
+- META-INF/android.arch.lifecycle_viewmodel.version
+- META-INF/com.android.support_animated-vector-drawable.version
+- META-INF/com.android.support_appcompat-v7.version
+- META-INF/com.android.support_asynclayoutinflater.version
+- META-INF/com.android.support_coordinatorlayout.version
+- META-INF/com.android.support_cursoradapter.version
+- META-INF/com.android.support_customview.version
+- META-INF/com.android.support_documentfile.version
+- META-INF/com.android.support_drawerlayout.version
+- META-INF/com.android.support_interpolator.version
+- META-INF/com.android.support_loader.version
+- META-INF/com.android.support_localbroadcastmanager.version
+- META-INF/com.android.support_preference-v7.version
+- META-INF/com.android.support_print.version
+- META-INF/com.android.support_recyclerview-v7.version
+- META-INF/com.android.support_slidingpanelayout.version
+- META-INF/com.android.support_support-compat.version
+- META-INF/com.android.support_support-core-ui.version
+- META-INF/com.android.support_support-core-utils.version
+- META-INF/com.android.support_support-fragment.version
+- META-INF/com.android.support_support-media-compat.version
+- META-INF/com.android.support_support-v4.version
+- META-INF/com.android.support_support-vector-drawable.version
+- META-INF/com.android.support_swiperefreshlayout.version
+- META-INF/com.android.support_viewpager.version
+- res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+- png
+- res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+- res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+- res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+- res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+- res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+- res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+- res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+- res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+- res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+- res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+- res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+- res/drawable-hdpi-v4/blue_button.9.png
+- res/drawable-hdpi-v4/blue_button_press.9.png
+- res/drawable-hdpi-v4/header_shadow.9.png
+- res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+- res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+- res/drawable-hdpi-v4/notification_bg_normal.9.png
+- res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+- res/drawable-hdpi-v4/oobe_btn_gplus_signin_normal.9.png
+- res/drawable-hdpi-v4/oobe_btn_gplus_signin_pressed.9.png
+- res/drawable-hdpi-v4/oobe_btn_normal.9.png
+- res/drawable-hdpi-v4/oobe_btn_press.9.png
+- jpg
+- res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+- res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+- res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+- res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+- res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+- res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+- res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+- res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+- res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+- res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+- res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+- res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+- res/drawable-mdpi-v4/notification_bg_normal.9.png
+- res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+- res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+- res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+- res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+- res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+- res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+- res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+- res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+- res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+- res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+- res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+- res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+- res/drawable-xhdpi-v4/blue_button.9.png
+- res/drawable-xhdpi-v4/blue_button_press.9.png
+- res/drawable-xhdpi-v4/header_shadow.9.png
+- res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+- res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+- res/drawable-xhdpi-v4/notification_bg_normal.9.png
+- res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+- res/drawable-xhdpi-v4/oobe_btn_gplus_signin_normal.9.png
+- res/drawable-xhdpi-v4/oobe_btn_gplus_signin_pressed.9.png
+- res/drawable-xhdpi-v4/oobe_btn_normal.9.png
+- res/drawable-xhdpi-v4/oobe_btn_press.9.png
+- res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+- res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+- res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+- res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+- res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+- res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+- res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+- res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+- res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+- res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+- res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+- res/drawable-xxhdpi-v4/blue_button.9.png
+- res/drawable-xxhdpi-v4/blue_button_press.9.png
+- res/drawable-xxhdpi-v4/header_shadow.9.png
+- res/drawable-xxhdpi-v4/oobe_btn_gplus_signin_normal.9.png
+- res/drawable-xxhdpi-v4/oobe_btn_gplus_signin_pressed.9.png
+- res/drawable-xxhdpi-v4/oobe_btn_normal.9.png
+- res/drawable-xxhdpi-v4/oobe_btn_press.9.png
+- res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+- res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+- res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+- res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+- res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+- res/drawable-xxxhdpi-v4/blue_button.9.png
+- res/drawable-xxxhdpi-v4/blue_button_press.9.png
+- res/drawable-xxxhdpi-v4/header_shadow.9.png
+- res/drawable-xxxhdpi-v4/oobe_btn.9.png
+- res/drawable-xxxhdpi-v4/oobe_btn_press.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '26'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  bin/aidl/com/fihtdc/cloudagent2/shared/StorageQuota.aidl: '0'
+  bin/aidl/com/fihtdc/cloudagent2/shared/CloudAccountInfo.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/ICloudNodeFilter.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/ICloudService.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/ICloudServiceCallback.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/cloudnode/CloudNodeInfo.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/cloudnode/ICloudNodeService.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/cloudnode/IDownloadCallback.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/cloudnode/IListFileCallback.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/cloudnode/IUploadCallback.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/feature/ShareLinkInfo.aidl: '8'
+  bin/aidl/com/fihtdc/cloudagent2/shared/feature/ShareLinkSetting.aidl: '8'
+  com/fihtdc/cloudagent2/shared/StorageQuota.aidl: '0'
+  com/fihtdc/cloudagent2/shared/BuildConfig.java: '8'
+  com/fihtdc/cloudagent2/shared/CloudAccountInfo.aidl: '8'
+  com/fihtdc/cloudagent2/shared/CloudAccountInfo.java: '8'
+  com/fihtdc/cloudagent2/shared/CloudCommon.java: '8'
+  com/fihtdc/cloudagent2/shared/CloudContract.java: '8'
+  com/fihtdc/cloudagent2/shared/CloudServiceCallback.java: '8'
+  com/fihtdc/cloudagent2/shared/CloudServiceProxy.java: '8'
+  com/fihtdc/cloudagent2/shared/ICloudNodeFilter.aidl: '8'
+  com/fihtdc/cloudagent2/shared/ICloudNodeFilter.java: '8'
+  com/fihtdc/cloudagent2/shared/ICloudService.aidl: '8'
+  com/fihtdc/cloudagent2/shared/ICloudService.java: '8'
+  com/fihtdc/cloudagent2/shared/ICloudServiceCallback.aidl: '8'
+  com/fihtdc/cloudagent2/shared/ICloudServiceCallback.java: '8'
+  com/fihtdc/cloudagent2/shared/R.java: '8'
+  com/fihtdc/cloudagent2/shared/ServiceProxy.java: '8'
+  com/fihtdc/cloudagent2/shared/StorageQuota.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/CloudNodeHelper.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/CloudNodeInfo.aidl: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/CloudNodeInfo.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/CloudNodeProvider.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/CloudNodeResponse.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/CloudNodeService.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/CloudNodeServiceProxy.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/FileContract.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/ICloudNodeService.aidl: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/ICloudNodeService.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/IDownloadCallback.aidl: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/IDownloadCallback.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/IListFileCallback.aidl: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/IListFileCallback.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/IUploadCallback.aidl: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/IUploadCallback.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/MediaFile.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/util/CloudNodeUtils.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/util/FileInfo.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/util/FileListUtil.java: '8'
+  com/fihtdc/cloudagent2/shared/cloudnode/util/ThreadPool.java: '8'
+  com/fihtdc/cloudagent2/shared/feature/ShareLinkInfo.aidl: '8'
+  com/fihtdc/cloudagent2/shared/feature/ShareLinkInfo.java: '8'
+  com/fihtdc/cloudagent2/shared/feature/ShareLinkSetting.aidl: '8'
+  com/fihtdc/cloudagent2/shared/feature/ShareLinkSetting.java: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '9002006'
+  versionName: 9.0020.06

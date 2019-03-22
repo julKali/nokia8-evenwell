@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="config_SupportWAPI">true</bool>
+    <bool name="config_isMTKDevice">false</bool>
+    <bool name="config_project_SupportSuggestApp">false</bool>
+    <bool name="config_skuid_SupportSuggestApp">false</bool>
+    <bool name="hasBrandLogo">false</bool>
+    <bool name="isAutoTimeCheckSim">true</bool>
+    <bool name="isCDAValid">true</bool>
+    <bool name="isDisableAutoTimePref">false</bool>
+    <bool name="isEvenwellStyleUI">false</bool>
+    <bool name="isHmdLegalTerm">false</bool>
+    <bool name="isLaunchAntiVirusPage">false</bool>
+    <bool name="isLaunchCloudPage">false</bool>
+    <bool name="isLaunchDateTimePage">true</bool>
+    <bool name="isLaunchLegalPage">false</bool>
+    <bool name="isLaunchLogoPage">false</bool>
+    <bool name="isNeedSetRotation">true</bool>
+    <bool name="isSupportCircularQSB">true</bool>
+    <bool name="isTGStyleUI">false</bool>
+    <bool name="isWatermark">false</bool>
+</resources>

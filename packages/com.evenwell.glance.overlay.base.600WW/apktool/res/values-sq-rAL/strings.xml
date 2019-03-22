@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_title_missed_calls">Treguesi i telefonatave të humbura</string>
+    <string name="pref_title_unread_mails">Treguesi i emaileve të palexuara</string>
+    <string name="pref_title_unread_messages">Treguesi i mesazheve të palexuara</string>
+    <string name="pref_title_alarm_information">Informacionet e alarmit</string>
+    <string name="pref_title_calendar_reminder">Rikujtesa e kalendarit</string>
+    <string name="pref_title_time_out">Kaloni cakun kohor kur telefoni nuk lëviz</string>
+    <string name="pref_dialog_title_time_out">Caku kohor</string>
+    <string name="pref_category_items_display">Paraqitja</string>
+    <string name="switch_on_text">Aktivizuar</string>
+    <string name="switch_off_text">Çaktivizuar</string>
+</resources>

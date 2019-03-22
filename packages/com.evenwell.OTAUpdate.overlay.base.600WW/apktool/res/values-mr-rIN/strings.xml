@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सॉफ्टवेअर अद्यतन</string>
+    <string name="file_not_found">फाइल आढळली नाही</string>
+    <string name="remote_file_fail">दूरस्थ फाइलमध्ये प्रवेश करू शकत नाही. कृपया नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="no_description">(वर्णन नाही)</string>
+    <string name="login_fail">सर्व्हरमध्ये लॉग इन करण्यात अयशस्वी. कृपया नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="get_service_url_fail">नेटवर्क कनेक्शन स्थिर नाही(सेवा URL मिळवण्यात अयशस्वी). कृपया नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="query_sw_fail">सॉफ्टवेअर माहितीची क्वेरी करण्यात अयशस्वी.</string>
+    <string name="download_sw_fail">सॉफ्टवेअर डाउनलोड करण्यात अयशस्वी.</string>
+    <string name="query_sw_incorrect">परिणाम अचूक नाही.</string>
+    <string name="no_update_available">अधिक नवीन अद्यतन उपलब्ध नाही.</string>
+    <string name="update_not_ready">सर्व्हरवर नवीन अद्यतन तयार नाही. कृपया नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="check_now_label">आता तपासा</string>
+    <string name="checking">तपासत आहे...</string>
+    <string name="verifying">सत्यापित करत आहे...</string>
+    <string name="header_verifying_update_file">अद्यतनित केलेली फाइल सत्यापित करत आहे...</string>
+    <string name="unzipping">अनझिप करत आहे...</string>
+    <string name="please_wait">कृपया प्रतीक्षा करा</string>
+    <string name="header_starting_to_download_file">फाइल डाउनलोड सुरू करत आहे...</string>
+    <string name="header_system_update_available">सिस्टम अद्यतन उपलब्ध आहे</string>
+    <string name="new_version_desc_prompt">नवीन आवृत्तीत हे समाविष्ट आहे:</string>
+    <string name="header_attention">लक्ष द्या</string>
+    <string name="data_fee_warning">आपल्या मोबाइल नेटवर्क कनेक्शनवर ही सेवा वापरल्याने शुल्क लागू शकते!</string>
+    <string name="header_downloading_update">अद्यतन डाउनलोड करत आहे</string>
+    <string name="header_install_system_software_update">सिस्टम सॉफ्टवेअर अद्यतन स्थापित करा</string>
+    <string name="msg_install_system_software_update_1">"आपल्याला पुढील सिस्टम सॉफ्टवेअर स्थापित करायचे आहे का?
+यावर सिस्टम अपग्रेड"</string>
+    <string name="msg_install_system_software_update_2">"
+
+या अपग्रेडच्या दरम्यान आपण आपले डिव्हाइस वापरू शकणार नाही किंवा आणीबाणी कॉल करू शकणार नाही.
+
+सॉफ्टवेअर अद्यतनित करत असताना बॅटरी किंवा SD कार्ड काढल्याने अनपेक्षित परिणाम मिळू शकतात."</string>
+    <string name="msg_install_system_software_update_3">"
+
+या अपग्रेडच्या दरम्यान आपण आपले डिव्हाइस वापरू शकणार नाही.
+
+सॉफ्टवेअर अद्यतनित करत असताना पॉवर खंडित केल्याने किंवा डाउनलोड केलेली फाइल काढल्याने अनपेक्षित परिणाम मिळतील."</string>
+    <string name="msg_install_system_software_update_4">"
+
+या अपग्रेडच्या दरम्यान आपण आपले डिव्हाइस वापरू शकणार नाही किंवा आणीबाणी कॉल करू शकणार नाही.
+
+सॉफ्टवेअर अद्यतनित करत असताना आपण पॉवर खंडित केल्यास किंवा डाउनलोड केलेली फाइल काढल्यास अनपेक्षित परिणाम मिळेल."</string>
+    <string name="button_install_now">आता स्थापित करा</string>
+    <string name="button_install_later">नंतर स्थापित करा</string>
+    <string name="header_unable_to_connect">कनेक्ट करण्यात अक्षम</string>
+    <string name="msg_unable_to_connect">हा अनुप्रयोग वापरण्यासाठी आपल्याला नेटवर्क कनेक्शन आवश्यक आहे. कृपया सेटिंग्जमध्ये मोबाइल नेटवर्क किंवा Wi-Fi चालू करा.</string>
+    <string name="msg_unable_to_connect_2">हा अनुप्रयोग वापरण्यासाठी आपल्याला नेटवर्क कनेक्शन आवश्यक आहे. कृपया सेटिंग्जमध्ये मोबाइल नेटवर्क चालू करा.</string>
+    <string name="msg_unable_to_connect_wlan">हा अनुप्रयोग वापरण्यासाठी आपल्याला नेटवर्क कनेक्शन आवश्यक आहे. कृपया सेटिंग्जमध्ये मोबाइल नेटवर्क किंवा WLAN चालू करा.</string>
+    <string name="msg_unable_to_connect_short">नेटवर्क कनेक्शन नाही</string>
+    <string name="button_reset">रिसेट करा</string>
+    <string name="button_settings">सेटिंग्ज</string>
+    <string name="header_system_is_update">सिस्टम अद्ययावत आहे.</string>
+    <string name="msg_system_is_update">अधिक नवीन अद्यतन उपलब्ध नाही.</string>
+    <string name="msg_system_is_update_short">अधिक नवीन अद्यतने नाहीत</string>
+    <string name="msg_no_sd_card">सिस्टम अद्यतनासाठी SD कार्ड आवश्यक आहे. कृपया उपलब्ध SD कार्ड घाला.</string>
+    <string name="msg_no_sd_card_short">SD कार्ड नाही</string>
+    <string name="msg_no_available_size_card">या अद्यतन फाइलला %s MB उपलब्ध जागेची आवश्यकता आहे. कृपया SD कार्डमधून काही फायली हटवा.</string>
+    <string name="msg_no_available_size_card_2">या अद्यतन फाइलला %s MB उपलब्ध जागेची आवश्यकता आहे. कृपया डेटा संचयनामधून काही फायली हटवा.</string>
+    <string name="msg_no_available_size_card_short">पुरेशी मोकळी जागा नाही.</string>
+    <string name="msg_do_not_remove_sd_card">कृपया SD कार्ड काढू नका.</string>
+    <string name="title_system_update_ready">सिस्टम अद्यतन तयार आहे</string>
+    <string name="msg_system_update_ready">सिस्टम अद्यतन स्थापित करण्यासाठी टॅप करा.</string>
+    <string name="msg_system_battery_too_low">"सिस्टम अद्यतन तयार आहे, परंतु ते स्थापित करण्यासाठी आपल्या डिव्हाइसची बॅटरी खूप कमी आहे. कृपया बॅटरी चार्ज करा आणि नंतर स्थापित करणे सुरू करा.
+
+बॅटरीची पातळी 35%% पेक्षा अधिक असणे आवश्यक आहे.
+वर्तमान बॅटरी पातळी: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">बॅटरी खूप कमी आहे</string>
+    <string name="msg_remove_sd_card">डाउनलोड केलेली फाइल SD कार्डमध्ये लिहिली जाऊ शकत नाही. कृपया SD कार्ड तपासा.</string>
+    <string name="msg_remove_sd_card_2">डाउनलोड केलेली फाइल डेटा संचयनामध्ये लिहिली जाऊ शकत नाही. कृपया संचयन तपासा.</string>
+    <string name="msg_remove_sd_card_short">SD कार्डमध्ये प्रवेश करण्यात अयशस्वी.</string>
+    <string name="msg_remove_sd_card_short_2">डेटा संचयामध्ये प्रवेश करणे अयशस्वी झाले.</string>
+    <string name="msg_verify_fail">डाउनलोड केलेली फाइल सत्यापित करण्यात अयशस्वी.</string>
+    <string name="msg_verify_fail_short">सत्यापित करण्यात अयशस्वी</string>
+    <string name="msg_unzip_fail">डाउनलोड केलेली फाइल अनझिप करण्यात अयशस्वी.</string>
+    <string name="msg_unzip_fail_short">अनझिप करण्यात अयशस्वी</string>
+    <string name="hide">लपवा</string>
+    <string name="data_size">डेटा आकार</string>
+    <string name="required_size">आवश्यक जागा</string>
+    <string name="network_not_match">आपले वर्तमान सेटिंग केवळ WLAN द्वारे डाउनलोड करण्यासाठी आहे. कृपया WLAN नेटवर्क निवडा किंवा आपली सेटिंग्ज बदला.</string>
+    <string name="network_not_match_short">नेटवर्क जुळलेले नाही.</string>
+    <string name="without_reboot_api">गहाळ असलेल्या API मुळे रिबूट करू शकत नाही. सक्रिय अद्यतन व्यक्तिचलितपणे पुनर्प्राप्त करण्यासाठी कृपया रिबूट करा.</string>
+    <string name="update_complete">सिस्टम अद्यतन पूर्ण झाले आहे.</string>
+    <string name="update_complete_short">अद्यतन पूर्ण</string>
+    <string name="file_removed">डाउनलोड केलेली फाइल काढली गेली आहे. कृपया पुन्हा डाउनलोड करा.</string>
+    <string name="file_removed_short">डाउनलोड केलेली फाइल काढली गेली आहे.</string>
+    <string name="file_not_match">डाउनलोड केलेली फाइल अपेक्षित आकाराशी जुळत नाही. कृपया पुन्हा डाउनलोड करा.</string>
+    <string name="file_not_match_short">फाइल जुळत नाही.</string>
+    <string name="menu_url">सर्व्हर URL बदला</string>
+    <string name="menu_enabled">केवळ सक्षम केलेले सॉफ्टवेअर</string>
+    <string name="using_internal_storage">अंतर्गत संचयन वापरत आहे</string>
+    <string name="using_external_storage">बाह्य संचयन वापरत आहे</string>
+    <string name="msg_agree_message">"
+
+अपग्रेड प्रक्रियेमुळे वापरकर्ता डेटा मिटवला जाण्याची थोडीशी शक्यता आहे. आवश्यकता असल्यास, सिस्टम अपग्रेड स्थापित करण्यापूर्वी कृपया आपल्या डेटाचा बॅकअप घ्या."</string>
+    <string name="msg_root_message">"
+
+डिव्हाइस रूट केल्यानंतर सामान्य अद्यतनाची हमी दिली जाऊ शकत नाही."</string>
+    <string name="msg_responsibility_message">डिव्हाइस रूट केले गेले असल्यास, अद्यतनानंतर कोणत्याही असाधारण सिस्टम वर्तनाला वापरकर्ता जबाबदार आहे.</string>
+    <string name="msg_upgrade_agree">वाचा आणि सहमत व्हा</string>
+    <string name="later">नंतर</string>
+    <string name="update">अद्यतन</string>
+    <string name="update_summary">अद्यतनांसाठी तपासा</string>
+    <string name="wifi_only">केवळ Wi-Fi</string>
+    <string name="wlan_only">केवळ WLAN</string>
+    <string name="wifi_only_summary">Wi-Fi उपलब्ध असताना अद्यतने डाउनलोड करा</string>
+    <string name="wlan_only_summary">WLAN उपलब्ध असताना अद्यतने डाउनलोड करा</string>
+    <string name="auto_update">स्वयं अद्यतन</string>
+    <string name="auto_update_summary">अद्यतनांसाठी स्वयंचलितपणे तपासा</string>
+    <string name="new_data_fee_warning">अद्यतने तपासल्याने आणि डाउनलोड केल्याने अतिरिक्त शुल्क लागू शकते. शक्य असल्यास Wi-Fi द्वारे अद्यतने डाउनलोड करा.</string>
+    <string name="wlan_data_fee_warning">अद्यतने तपासल्याने आणि डाउनलोड केल्याने अतिरिक्त शुल्क लागू शकते. शक्य असल्यास WLAN द्वारे अद्यतने डाउनलोड करा.</string>
+    <string name="installing">स्थापित करत आहे...</string>
+    <string name="install_complete">स्थापित केले</string>
+    <string name="install_fail">स्थापित करणे अयशस्वी</string>
+    <string name="install_all">सर्व स्थापित करा</string>
+    <string name="install">स्‍थापित करा</string>
+    <string name="installed_version">स्थापित केलेली आवृत्ती</string>
+    <string name="update_available">अद्यतन उपलब्ध आहे.</string>
+    <string name="apk_update_available">अनुप्रयोग अद्यतन उपलब्ध आहे.</string>
+    <string name="recommend">शिफारस केलेले</string>
+    <string name="roaming_restriction">डेटा रोमिंग प्रतिबंध</string>
+    <string name="roaming_restriction_summary">डेटा रोमिंग प्रतिबंधामुळे अद्यतनित करू शकत नाही.</string>
+    <string name="changelog">लॉग बदला</string>
+    <string name="description">वर्णन</string>
+    <string name="apk_update_available_summary">%s साठी उपलब्ध अद्यतन आहे. आत्ताच स्थापित करण्यासाठी ठीक आहे वर क्लिक करा किंवा एका दिवसानंतर अद्यतन तपासण्यासाठी रद्द करा वर क्लिक करा.</string>
+    <string name="apk_removed">हा अनुप्रयोग काढला गेला आहे.</string>
+    <string name="apk_available_items">एकूण %s उपलब्ध आयटम</string>
+    <string name="apk_available_item">एकूण %s उपलब्ध आयटम</string>
+    <string name="new_forpreference">नवीन</string>
+    <string name="invalid_update_summary">अद्यतन अवैध आहे, कृपया पुन्हा तपासा.</string>
+    <string name="recheck">पुन्हा तपासा</string>
+    <string name="image_download_exception_summary">सर्व्हरमध्ये प्रवेश करू शकत नाही, कृपया नंतर पुन्हा तपासा.</string>
+    <string name="apk_download_exception">सर्व्हरमध्ये प्रवेश करू शकत नाही</string>
+    <string name="installation_confirmation">स्थापित करणे पुष्टीकरण</string>
+    <string name="apk_need_reboot_summary">स्थापित करणे पूर्ण झाल्यावर हे सॉफ्टवेअर अद्यतन सिस्टम स्वयंचलितपणे रिबूट करेल. आपल्याला आता स्थापित करायचे आहे का?</string>
+    <string name="downloaded">डाउनलोड केले</string>
+    <string name="prepare_to_reboot">रिबूट करण्यासाठी तयार व्हा</string>
+    <string name="prepare_to_reboot_summary">सेटिंग्ज कॉन्फिगर करण्यासाठी स्थापित केलेले सॉफ्टवेअर रिबूट करण्याची आवश्यकता आहे. आम्ही आता रिबूट करण्यास सुचवतो किंवा आपण नंतरदेखील रिबूट करू शकता.</string>
+    <string name="prepare_to_reboot_force_summary">सेटिंग्ज कॉन्फिगर करण्यासाठी स्थापित केलेले सॉफ्टवेअर रिबूट करण्याची आवश्यकता आहे. आम्ही आता रिबूट करण्यास सुचवतो.</string>
+    <string name="reboot">रिबूट करा</string>
+    <string name="reboot_fail">रिबूट अयशस्वी</string>
+    <string name="reboot_fail_summary">गहाळ असलेल्या API मुळे रिबूट करू शकत नाही. कृपया व्यक्तिचलितपणे रिबूट करा.</string>
+    <string name="apk_no_avaliable_size">अपुर्‍या अंतर्गत संचयन आकारामुळे डाउनलोड करू शकत नाही.</string>
+    <string name="update_finished">अद्यतन पूर्ण झाले.</string>
+    <string name="header_warning">चेतावणी</string>
+    <string name="msg_root_warning">आपले डिव्हाइस रूट केले गेले आहे किंवा अधिकृत सॉफ्टवेअरशी छेडछाड झालेली आहे. सिस्टम अद्यतन सुरू ठेवल्याच्या परिणामी सिस्टम अस्थिर किंवा सिस्टम क्रॅश होऊ शकते आणि आपल्या डिव्हाइसची वॉरंटी रद्दबातल होऊ शकते. आपल्याला नक्की सुरू ठेवायचे आहे का?</string>
+    <string name="multi_image_update">काही प्रतिमा अद्यतने उपलब्ध आहेत</string>
+    <string name="available_update_list">उपलब्ध अद्यतनांची सूची</string>
+    <string name="downloading_summary">कृपया प्रतिमा डाउनलोड रद्द करा</string>
+    <string name="msg_erase_userdata_warning">या अद्यतनाला वापरकर्ता डेटा मिटवणे आवश्यक आहे. आपल्याला सुरू ठेवायचे आहे का?</string>
+    <string name="msg_autoupdate_date_fee_warning">स्वयं अद्यतन सक्षम केल्याने अतिरिक्त शुल्क लागू शकते.</string>
+    <string name="invalid_update">अद्यतन अवैध आहे.</string>
+    <string name="file_corrupted">फाइल करप्ट झाली असल्यामुळे सिस्टम अपग्रेड केली जाऊ शकत नाही.</string>
+    <string name="ask_for_apk_check">आपल्याला अनुप्रयोग अद्यतनांसाठी तपासायचे आहे का?</string>
+    <string name="update_ota_self">सॉफ्टवेअर अद्यतन प्रगतीपथावर.</string>
+    <string name="ab_update_fail">स्थापित करण्‍यात समस्या.</string>
+    <string name="ab_update_wrong_status">अद्यतन इंजिन आता व्यस्त आहे. कृपया नंतर पुन्हा प्रयत्न करा किंवा रिबूट करा.</string>
+    <string name="ab_update_installing">सिस्टम अद्यतनित करत आहे</string>
+    <string name="tag_engineer_mode">इंजिनीअर मोड</string>
+    <string name="engineer_version_incorrect">आपली डिव्हाइस आवृत्ती चुकीची आहे</string>
+    <string name="msg_engineer_ota_restore">अधिकृत आवृत्ती पुनर्स्थापित करण्यासाठी टॅप करा</string>
+    <string name="msg_engineer_ota_restore_warning">हे अधिकृत आवृत्ती पुनर्स्थापित करेल. आपल्याला सुरू ठेवायचे आहे का?</string>
+    <string name="silent_mode_data_fee_warning">अद्यतन उपलब्ध आहे. अद्यतने डाउनलोड केल्याने अतिरिक्त शुल्क लागू शकते. शक्य असल्यास Wi-Fi द्वारे अद्यतने डाउनलोड करा.</string>
+    <string name="msg_updating_system">सिस्टम अद्यतनित करत आहे...</string>
+    <string name="msg_tap_to_reboot">रिबूट करण्यासाठी टॅप करा</string>
+    <string name="msg_pause_download">डाउनलोड थांबवा</string>
+    <string name="notification_channel_name">सिस्टम अद्यतन</string>
+    <string name="notification_channel_alert_name">सर्वसाधारण सूचना</string>
+</resources>

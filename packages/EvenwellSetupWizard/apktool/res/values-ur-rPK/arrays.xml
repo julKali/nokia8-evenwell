@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>اسٹیٹک</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>خودبخود شناخت کریں</item>
+        <item>میٹر شدہ کے طور پر رکھیں</item>
+        <item>غیر میٹر شدہ کے طور پر رکھیں</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>کوئی نہیں</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>کوئی نہیں</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>کوئی نہیں</item>
+        <item>مینوئل</item>
+        <item>پراکسی آٹو کنفیگ</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>خراب</item>
+        <item>مناسب</item>
+        <item>اچھا</item>
+        <item>عمدہ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>اسیکن کررہا ہے…</item>
+        <item>مربوط ہو رہا ہے…</item>
+        <item>توثیق…</item>
+        <item>‏IP پتہ حاصل کررہا ہے…</item>
+        <item>مربوط</item>
+        <item>معطل شدہ</item>
+        <item>غیر مربوط ہو رہا ہے…</item>
+        <item>منقطع</item>
+        <item>ناکام</item>
+        <item>مسدود کردہ</item>
+        <item>عارضی طور پر کمزور کنکشن سے گریز کررہا ہے</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>اسیکن کررہا ہے…</item>
+        <item>مربوط ہو رہا ہے از %1$s…</item>
+        <item>توثیق بہ %1$s…</item>
+        <item>‏IP پتہ حاصل کررہا ہے از %1$s…</item>
+        <item>مربوط ہورہا ہے از %1$s</item>
+        <item>معطل شدہ</item>
+        <item>غیر مربوط ہو رہا ہے از %1$s…</item>
+        <item>منقطع ہوگیا</item>
+        <item>ناکام</item>
+        <item>مسدود کردہ</item>
+        <item>عارضی طور پر کمزور کنکشن سے گریز کررہا ہے</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI شش اعشاری</item>
+    </string-array>
+</resources>

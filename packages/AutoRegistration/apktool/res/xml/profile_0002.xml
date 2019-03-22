@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profile-data>
+    <CMCC>
+        <ID>CMCC</ID>
+        <MCC>460</MCC>
+        <MNC>00,02,07</MNC>
+        <SMS_NUMBER>10654040</SMS_NUMBER>
+        <SOURCE_PORT>16998</SOURCE_PORT>
+        <DESTINATION_PORT>16998</DESTINATION_PORT>
+    </CMCC>
+    <CMCC_OT>
+        <ID>CMCC_OT</ID>
+        <MCC>460</MCC>
+        <MNC>00,02,07</MNC>
+        <SMS_NUMBER>1065840409</SMS_NUMBER>
+        <SOURCE_PORT>16998</SOURCE_PORT>
+        <DESTINATION_PORT>16998</DESTINATION_PORT>
+    </CMCC_OT>
+    <CU>
+        <SERVER_ADDRESS>http://124.207.3.53:8083/register</SERVER_ADDRESS>
+        <CONTENT_TYPE>application/encrypted-json</CONTENT_TYPE>
+        <VERSION>1.0</VERSION>
+        <TAG>AutoRegistrationCU</TAG>
+        <BOOTWAITTIME>30000</BOOTWAITTIME>
+        <RETRYFIVEMIN>30000</RETRYFIVEMIN>
+        <RETRYSIXHOUR>30000</RETRYSIXHOUR>
+    </CU>
+</profile-data>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Staatiline</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Tuvasta automaatselt</item>
+        <item>Kohtle mahupõhisena</item>
+        <item>Ära kohtle mahupõhisena</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Puudub</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Puudub</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Puudub</item>
+        <item>Käsitsi</item>
+        <item>Puhverserveri automaatne konfigureerimine</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Kehv</item>
+        <item>Rahuldav</item>
+        <item>Hea</item>
+        <item>Suurepärane</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skannimine…</item>
+        <item>Ühendamine…</item>
+        <item>Autentimine…</item>
+        <item>IP-aadressi hankimine…</item>
+        <item>Ühendatud</item>
+        <item>Peatatud</item>
+        <item>Ühenduse katkestamine…</item>
+        <item>Ühendus katkestatud</item>
+        <item>Ebaõnnestus</item>
+        <item>Blokeeritud</item>
+        <item>Kehva ühenduse ajutine vältimine</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skannimine…</item>
+        <item>Ühendamine võrguga %1$s…</item>
+        <item>Autentimine võrguga %1$s…</item>
+        <item>IP-aadressi hankimine võrgust %1$s…</item>
+        <item>Ühendatud võrguga %1$s</item>
+        <item>Peatatud</item>
+        <item>Ühenduse katkestamine võrguga %1$s…</item>
+        <item>Ühendus katkestatud</item>
+        <item>Ebaõnnestus</item>
+        <item>Blokeeritud</item>
+        <item>Kehva ühenduse ajutine vältimine</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII-kujul</item>
+        <item>WAPI 16-ndkuju</item>
+    </string-array>
+</resources>

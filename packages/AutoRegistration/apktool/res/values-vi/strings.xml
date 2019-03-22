@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">phím cách</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="cmcc_body">Lời khuyên từ China Mobile: Để cung cấp cho bạn dịch vụ Nâng cao - Lâu dài - Miễn phí do China Mobile thiết lập nhằm đảm bảo sự quản lý trạm di động. Cài đặt Thông số Từ xa Qua Trạm luôn có sẵn và các dịch vụ Nâng cấp Phiên bản Phần mềm cho bạn), bạn cần đăng ký thiết bị của mình với Nền tảng Quản lý Trạm China Mobile. Việc đăng ký sẽ được gửi qua SMS kể cả thông tin về thiết bị; Gửi SMS miễn phí và chỉ được gửi một lần (Ngoại trừ ở Hồng Kông, Ma Cao, Đài Loan và khu vực chuyển vùng quốc tế). Nếu chọn Có, bạn đồng ý đăng ký và sử dụng dịch vụ nâng cao; Nếu bạn chọn Không, bạn không đồng ý đăng ký và China Mobile sẽ không cung cấp cho bạn dịch vụ này.</string>
+    <string name="cmcc_cancel_body">Lời khuyên từ China Mobile: Sau khi hủy dịch vụ, China Mobile sẽ không còn cung cấp cho bạn dịch vụ Nâng cao-Lâu dài-Miễn phí nữa, bạn có chắc muốn hủy dịch vụ này?</string>
+    <string name="cmcc_notification_text">Dịch vụ nâng cao gửi yêu cầu giấy phép bằng tin nhắn</string>
+    <string name="cmcc_notify_title">Dịch vụ nâng cao</string>
+    <string name="cmcc_title">Dịch vụ nâng cao</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="send_sms_accept">Có</string>
+    <string name="send_sms_body">Để mang lại cho bạn trải nghiệm sử dụng tốt hơn cũng như các d.vụ liên quan, chúng tôi dự định sẽ đ.ký th.tin cơ bản về ĐT của bạn như IMEI/MEID qua SMS, và các th.tin riêng của bạn như số ĐT và th.tin cá nhân sẽ không được bao gồm. Bạn sẽ được tính phí SMS một lần cho việc đăng ký này.</string>
+    <string name="send_sms_decline">Không</string>
+    <string name="send_sms_title">Dịch vụ đăng ký</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

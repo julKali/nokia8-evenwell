@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">تمكين</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏مدى توفّر خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_signin_button_text">تسجل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
+    <string name="fih_weather_button_close">اختر القناة</string>
+    <string name="fih_weather_button_ok">ठीक</string>
+    <string name="fih_weather_button_setting">جاري الضبط...</string>
+    <string name="fih_weather_notification_channel_title">الإشعارات العامة</string>
+    <string name="fih_weather_notification_text">النقر للسماح</string>
+    <string name="fih_weather_notification_title">تتطلب خدمة الطقس أذونات</string>
+    <string name="fih_weather_permission_failed">تم رفض منح إذن الموقع، يتعذر الحصول على الموقع.</string>
+    <string name="fih_weather_permission_hint_1">للعمل بشكل صحيح، يحتاج هذا التطبيق إلى أذون إضافية. يرجى السماح بالإذن عند طلب ذلك.</string>
+    <string name="fih_weather_permission_hint_2">يتطلب هذا التطبيق أذونات إضافية ليعمل بصورة صحيحة. يرجى إدارة أذونات خدمة الطقس في الإعداد.</string>
+    <string name="fih_weather_permission_success">نجح منح إذن الموقع</string>
+    <string name="fih_weather_service_title_txt">خدمة الطقس</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+</resources>

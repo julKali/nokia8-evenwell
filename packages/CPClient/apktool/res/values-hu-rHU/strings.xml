@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP-kliens</string>
+    <string name="fih_cp_apn_not_set">&lt;Nincs megadva></string>
+    <string name="fih_cp_apply_dialog_body_msg">Alkalmazza az új konfigurációt?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Új hozzáféréskezelés</string>
+    <string name="fih_cp_btn_back">Vissza</string>
+    <string name="fih_cp_btn_cancel">Mégse</string>
+    <string name="fih_cp_btn_next">Tovább</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Azonosítás típusa</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Egyik sem</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP vagy CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS-port</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS-proxy</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Név</string>
+    <string name="fih_cp_editor_apn_password">Jelszó</string>
+    <string name="fih_cp_editor_apn_server">Szerver</string>
+    <string name="fih_cp_editor_apn_type">APN típusa</string>
+    <string name="fih_cp_editor_apn_user">Felhasználónév</string>
+    <string name="fih_cp_error_apn_empty">Az APN mező nem lehet üres.</string>
+    <string name="fih_cp_error_name_empty">A Név mező nem lehet üres.</string>
+    <string name="fih_cp_error_other">Szintaktikai hiba az adatokban.</string>
+    <string name="fih_cp_error_title">Figyelem</string>
+    <string name="fih_cp_input_pin_code">Adja meg a PIN kódot:</string>
+    <string name="fih_cp_input_pin_code_cancel">Mégse</string>
+    <string name="fih_cp_input_pin_code_empty">Adja meg a PIN kódot.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Helytelen PIN kód.</string>
+    <string name="fih_cp_input_pin_code_ok">OK</string>
+    <string name="fih_cp_notification_channel_name">Általános értesítések</string>
+    <string name="fih_cp_notify_statusbar_content">Új hozzáféréskezelési üzenet</string>
+    <string name="fih_cp_sim_not_available">Nincs elérhető SIM-kártya.</string>
+    <string name="fih_cp_toast_info_create">Profilsiker létrehozása</string>
+    <string name="fih_cp_toast_info_update">Profilsiker frissítése</string>
+    <string name="fih_cp_ui_mode_delete">Delete</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Elhalasztás</string>
+</resources>

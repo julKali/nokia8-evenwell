@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/test_text0" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FQCText" />
+    <TextView android:id="@id/test_text" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="5" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/imgView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitEnd" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/userinfo" android:layout_width="180.0dip" android:layout_height="180.0dip" android:scaleType="fitEnd" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/usb_in" android:visibility="gone" android:layout_width="180.0dip" android:layout_height="180.0dip" android:src="@drawable/usb_in_watch180288" android:scaleType="fitEnd" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/usb_out" android:visibility="gone" android:layout_width="180.0dip" android:layout_height="180.0dip" android:src="@drawable/usb_out_watch180288" android:scaleType="fitEnd" />
+</LinearLayout>

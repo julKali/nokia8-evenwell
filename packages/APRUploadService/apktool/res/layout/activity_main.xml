@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/server_url" />
+    <EditText android:id="@id/txtServerUrl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:ems="10">
+        <requestFocus />
+    </EditText>
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/upload_buffered_size" />
+    <EditText android:id="@id/txtUploadBufferedSize" android:layout_width="fill_parent" android:layout_height="wrap_content" android:ems="10" />
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/upload_mode" />
+    <Spinner android:entries="@array/upload_mode_type" android:id="@id/upload_mode_sp" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <Button android:id="@id/btnSave" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/save" />
+    <Button android:id="@id/btnQryjob" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/qry_jobs" />
+    <CheckBox android:id="@id/cbx_set_debug" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/is_debug_mode" />
+</LinearLayout>

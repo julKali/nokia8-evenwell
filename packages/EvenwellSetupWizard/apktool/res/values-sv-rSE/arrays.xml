@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statisk</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Identifiera automatiskt</item>
+        <item>Behandla som avgiftsbelagd</item>
+        <item>Behandla som avgiftsfri</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Ingen</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Ingen</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Ingen</item>
+        <item>Manuellt</item>
+        <item>Autokonfig. av proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Dålig</item>
+        <item>Ganska bra</item>
+        <item>Bra</item>
+        <item>Utmärkt</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Söker…</item>
+        <item>Ansluter…</item>
+        <item>Autentiserar…</item>
+        <item>Hämtar IP-adress…</item>
+        <item>Ansluten</item>
+        <item>Pausad</item>
+        <item>Kopplar från…</item>
+        <item>Frånkopplad</item>
+        <item>Misslyckades</item>
+        <item>Blockerad</item>
+        <item>Undviker dålig anslutning just nu</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Söker…</item>
+        <item>Ansluter till %1$s…</item>
+        <item>Autentiserar mot %1$s…</item>
+        <item>Hämtar IP-adress från %1$s…</item>
+        <item>Ansluten till %1$s</item>
+        <item>Pausad</item>
+        <item>Kopplar från %1$s…</item>
+        <item>Frånkopplad</item>
+        <item>Misslyckades</item>
+        <item>Blockerad</item>
+        <item>Undviker dålig anslutning just nu</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+    </string-array>
+</resources>

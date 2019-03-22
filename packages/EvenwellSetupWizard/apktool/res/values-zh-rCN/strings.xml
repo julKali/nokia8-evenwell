@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到主屏幕</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享方式</string>
+    <string name="abc_shareactionprovider_share_with_application">使用%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="accessibility_no_wifi">WLAN 连接已断开。</string>
+    <string name="accessibility_text">辅助功能设置</string>
+    <string name="accessibility_wifi_off">WLAN 已关闭。</string>
+    <string name="accessibility_wifi_one_bar">WLAN 信号强度为一格。</string>
+    <string name="accessibility_wifi_security_type_none">开放网络</string>
+    <string name="accessibility_wifi_security_type_secured">安全网络</string>
+    <string name="accessibility_wifi_signal_full">WLAN 信号满格。</string>
+    <string name="accessibility_wifi_three_bars">WLAN 信号强度为三格。</string>
+    <string name="accessibility_wifi_two_bars">WLAN 信号强度为两格。</string>
+    <string name="account_intro_description">请加入[BRAND_NAME]服务，用更聪明有效的方式使用您的设备。</string>
+    <string name="account_intro_title">[BRAND_NAME]服务帐户</string>
+    <string name="add_account_button_label">设置帐户</string>
+    <string name="add_baidu_button_label">登录百度云</string>
+    <string name="add_infocus_service_account">新增[BRAND_NAME]服务帐户</string>
+    <string name="available_via_carrier">可通过%1$s连接</string>
+    <string name="available_via_passpoint">可通过%1$s连接</string>
+    <string name="back_btn_lebel">上一步</string>
+    <string name="backup_and_restore_description">"如果您以前备份过自己的帐户，现在就可以将数据恢复到此手机上。
+
+您可以随时在“设置”中更改备份设置。"</string>
+    <string name="backup_and_restore_title">备份和还原</string>
+    <string name="baidu_intro_description">只要完成几个简单的步骤，您即可享用无缝的百度云端储存空间。</string>
+    <string name="baidu_intro_title">百度云端储存空间</string>
+    <string name="baidu_progress_dialog_des">请稍候...</string>
+    <string name="bypass_setup_skip">仍然跳过</string>
+    <string name="bypass_setup_skip_cancel">返回</string>
+    <string name="bypass_setup_tip_text">您即将跳过所有设置页面并直接进到桌面，稍后仍可以到系统设置中完成相关设置，要继续请按仍然跳过。</string>
+    <string name="bypass_setup_tip_title">略过所有设置页面</string>
+    <string name="choose_timezone">选择时区</string>
+    <string name="connected_via_carrier">已通过%1$s连接</string>
+    <string name="connected_via_network_scorer">已通过%1$s自动连接</string>
+    <string name="connected_via_network_scorer_default">已自动连接（通过网络评分服务提供方）</string>
+    <string name="connected_via_passpoint">已通过%1$s连接</string>
+    <string name="connected_via_wfa">已连接（通过 WLAN 助手）</string>
+    <string name="data_usage_metered_auto">自动检测</string>
+    <string name="data_usage_metered_no">不按流量计费</string>
+    <string name="data_usage_metered_yes">按流量计费</string>
+    <string name="datausage_dialog_negitive_btn">取消</string>
+    <string name="datausage_dialog_positive_btn">确定</string>
+    <string name="date_and_time">日期和时间设置</string>
+    <string name="date_and_time_settings_summary">设置日期、时间、时区和格式</string>
+    <string name="date_and_time_settings_title">日期和时间</string>
+    <string name="date_and_time_settings_title_setup_wizard">设置日期和时间</string>
+    <string name="date_picker_title">日期</string>
+    <string name="date_time_24hour">使用 24 小时格式</string>
+    <string name="date_time_auto">自动确定日期和时间</string>
+    <string name="date_time_auto_summaryOff">使用网络上的时间</string>
+    <string name="date_time_auto_summaryOn">使用网络上的时间</string>
+    <string name="date_time_date_format">选择日期格式</string>
+    <string name="date_time_set_date">设置日期</string>
+    <string name="date_time_set_time">设置时间</string>
+    <string name="date_time_set_timezone">选择时区</string>
+    <string name="device_checking_message">欢迎使用</string>
+    <string name="dropbox_fih_description">取得2GB的免费Dropbox空间，自动上传您的照片及影片。</string>
+    <string name="dropbox_fih_signin">登录Dropbox</string>
+    <string name="dropbox_fih_signup">注册Dropbox</string>
+    <string name="dropbox_fih_title">Dropbox</string>
+    <string name="dual_sim_setting_call_title">选择拨号卡</string>
+    <string name="dual_sim_setting_data_title">选择上网卡</string>
+    <string name="emergency_dial_hmd_message">紧急电话</string>
+    <string name="emergency_dial_message">紧急电话</string>
+    <string name="expand_button_title">高级</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY]软件所有权及使用条款协议
+
+ 生效日: 2016年 5 月20日
+
+ 本使用条款之内容 (下称\"使用条款\") ，适用于 [BRAND_NAME_PROXY] 所提供的软件下载、自动更新等服务(下称\"软件服务\")。如您下载、安装或使用[BRAND_NAME_PROXY]软件，即表示您同意遵守本使用条款。如您不同意本使用条款，请勿下载、复制、使用[BRAND_NAME_PROXY]软件。
+
+ 1.使用规则
+ 在您同意接受使用条款后，[BRAND_NAME_PROXY]将授予您不可转让、非专属性、个人的、有限度的权限使用软件服务。[BRAND_NAME_PROXY]将以目标代码的形式安装至您的[BRAND_NAME_PROXY]装置，经由您开启后使用[BRAND_NAME_PROXY]软件。您清楚明白不得进行商业目的之使用，且应在您的个人[BRAND_NAME_PROXY]装置中使用[BRAND_NAME_PROXY]软件。
+ 对于[BRAND_NAME_PROXY]软件，您应遵守本使用条款要求，承诺不得从事以下任一事项：
+ (a) 进行突破[BRAND_NAME_PROXY]软件的技术限制、使用[BRAND_NAME_PROXY]软件或与任何、项目或服务配合，试图规避用于控制档或其他数据采集或权利的技术手段；
+ (b) 针对[BRAND_NAME_PROXY]软件进行反向开发、反编译、解密、反汇编或以其他方式，试图取得[BRAND_NAME_PROXY]软件的源代码等法律明文或解释上限制之行为，亦或对[BRAND_NAME_PROXY]软件进行全部或部分增删修改或演绎；
+ (c) 透过公开、转让、出租、出借、转授权或揭露等方式，使任何第三人得以接触、使用或持有[BRAND_NAME_PROXY]软件；
+ (d) 将[BRAND_NAME_PROXY]软件或任何相关不限形式的档上所彰显之任何权利声明或标签，自行或由非[BRAND_NAME_PROXY]授权人员加以移除；
+ (e) 藉由侵犯他人权利之方式或以违反任何现行法律规定之行为来使用[BRAND_NAME_PROXY]软件；或
+ (f) 在任何限制或禁止使用的环境下，包含但不限于在核子设施、飞航管制、加油站等情形或环境，使用[BRAND_NAME_PROXY]软件用而可能导致或提升人身财物伤亡损害的风险；或
+ (g) 其他本使用条款所禁止的方式使用[BRAND_NAME_PROXY]软件。
+ 为使[BRAND_NAME_PROXY]软件与您的[BRAND_NAME_PROXY]装置得以正常运作，您承诺不会未经[BRAND_NAME_PROXY]人员协助下，自行破坏或更动[BRAND_NAME_PROXY]装置之卷标。此种行为与本条(a)行为均会影响到[BRAND_NAME_PROXY]对您[BRAND_NAME_PROXY]装置保固的承诺范围与期间。
+
+ 2.隐私权政策
+ 您清楚知悉并同意，为提升服务质量，[BRAND_NAME_PROXY]得搜集并保留任何您藉由[BRAND_NAME_PROXY]网站提供之各项服务所进行之软件传送或讯息沟通，包含但不限于[BRAND_NAME_PROXY]装置型号/序号、IMEI/MEID码、HW Version、SW Version、累积使用时间、累积休眠时间、SKU ID、错误统计数据、发生问题的软件/程序名称、错误次数、版本信息等。
+ 若因行政/司法部门或因法律规定而要求如时，[BRAND_NAME_PROXY]应配合揭露相关信息。
+ 若您的[BRAND_NAME_PROXY]装置于购买后持续14天处于未联网状态，[BRAND_NAME_PROXY]装置将会以简讯方式传送该[BRAND_NAME_PROXY]装置的已开通使用状态，通知[BRAND_NAME_PROXY]知悉。
+ 详细说明，请参阅[BRAND_NAME_PROXY]『隐私政策』。
+
+ 3.支持服务
+ [BRAND_NAME_PROXY]依照[BRAND_NAME_PROXY]软件下载更新当时之\"现状\"，提供更新、下载、使用服务，[BRAND_NAME_PROXY]可依据状况决定是否继续提供相关支持与更新服务。
+ 在您获得[BRAND_NAME_PROXY]软件的初始档案后，[BRAND_NAME_PROXY]会以更新、补充、附加组件或任何透过网络提供的服务组件，在软件下载、更新、使用过程中的各种行为均适用本使用条款的规定。
+ [BRAND_NAME_PROXY]有权终止任何您透过网络浏览而取得之软件服务、或使用[BRAND_NAME_PROXY]软件提供的服务，以使各种软件服务顺利。
+ [BRAND_NAME_PROXY]可自行公布[BRAND_NAME_PROXY]软件之后续更新版本，通知并要求您透过网络下载与使用最新更新版本。
+
+ 4.自动更新
+ [BRAND_NAME_PROXY]得透过自动下载韧体与软件之方式，对您的[BRAND_NAME_PROXY]装置，以更新、加强、保护或进一步改善您的[BRAND_NAME_PROXY]装置与[BRAND_NAME_PROXY]软件之应用程序。
+ 在您[BRAND_NAME_PROXY]装置内的韧体及[BRAND_NAME_PROXY]软件会默认为\"启动\"状态，意即通过网络连接[BRAND_NAME_PROXY]服务器并自动连接您的[BRAND_NAME_PROXY]装置，无需另行手动操作。为确保您的[BRAND_NAME_PROXY]装置的安全性与稳定性，您清楚知晓并同意配合[BRAND_NAME_PROXY]更新程序要求，依循指示进行更新程序。
+ 为避免在更新过程中造成您的数据遗失，请您自行备份[BRAND_NAME_PROXY]装置中的个人资料（例如您的照片、联络人、日历、音乐、书签以及文件档等），并将之储存到与您[BRAND_NAME_PROXY]装置链接的计算机等装置中。
+ [BRAND_NAME_PROXY]装置经自动更新，抑或是经由[BRAND_NAME_PROXY]传达更新讯息并经由您同意启动更新后，代表您同意以下各项更新功能的叙述：
+ (a) 软件更新
+ 您清楚知悉并同意[BRAND_NAME_PROXY]软件将透过网络连接到您的[BRAND_NAME_PROXY]装置，以便确认在[BRAND_NAME_PROXY]服务器中的软件版本与更新状态。若[BRAND_NAME_PROXY]有发布任何更新讯息，将允许您可透过[BRAND_NAME_PROXY]软件连接至服务器来更新韧体版本与状态。
+ 在有可用之软件更新时，您同意[BRAND_NAME_PROXY]实时向您通知更新讯息。若经由您确认接收更新通知时，即视为您同意[BRAND_NAME_PROXY]透过下载更新动作，将您[BRAND_NAME_PROXY]装置内的[BRAND_NAME_PROXY]软件的进行更新与安装。
+ (b) 内容同步更新
+ 您现行使用经过更新后的[BRAND_NAME_PROXY]装置内容，将自动更新至您所连接的相关[BRAND_NAME_PROXY]装置或计算机上的内容和其他信息（如联系人信息、日历、书签和文件档等各种形式内容）。
+ 
+ 5.[BRAND_NAME_PROXY]软件所有权与各项权利之保留 
+ [BRAND_NAME_PROXY]及其关联公司和供货商，拥有并保留所有未在本使用条款中明确表明授予您使用的各项[BRAND_NAME_PROXY]软件的所有权、著作权和其他知识产权。
+ [BRAND_NAME_PROXY]所提供的各项软件，均受到著作权和其他知识产权法律与国际条约之保障。
+
+ 6.免责声明
+ 在法律许可的最大范围内，[BRAND_NAME_PROXY]系依照现状所提供的[BRAND_NAME_PROXY]软件与衍生的服务（例如更新服务），如有瑕疵概不负责。[BRAND_NAME_PROXY]及其关联公司和供货商，在此不做任何明示、默示或为任何法定的各项保证承诺，包括但不限于对[BRAND_NAME_PROXY]软件与衍生的服务（例如更新服务）的可销售性和特定用途适用性等情形，有任何默示保证、责任或条件之承诺。
+ [BRAND_NAME_PROXY]对以下所列事项，不做任何明示或默示之保证：
+ (a) [BRAND_NAME_PROXY]软件或支持服务的所有权、非侵权状态、与各种描述说明相符性、无病毒声明、无程序漏洞、运作的准确性与完整性；或
+ (b) [BRAND_NAME_PROXY]软件的顺利运行、无中断或无错误运行；或
+ (c) [BRAND_NAME_PROXY]软件各种可能或潜在缺陷的立即修复。
+ 经由下载、使用[BRAND_NAME_PROXY]软件后，您清楚知悉因使用或运行[BRAND_NAME_PROXY]软件与衍生的服务（若有）而导致的全部风险(包含但不限于使用中[BRAND_NAME_PROXY]装置损坏、内容遗失、第三方软件移除或失效等)，视为您同意承担相关风险与责任，[BRAND_NAME_PROXY]对此不会提供任何保障与承担任何负责。您同意[BRAND_NAME_PROXY]有权判断并移除影响更新作业之程序与软件，且会自行先做好数据与软件备份工作。
+ 若您自行下载之程序或档案，造成您的信息外泄或导致[BRAND_NAME_PROXY]装置系统损毁，均与[BRAND_NAME_PROXY]无涉，您同意自行承担相关风险。
+
+ 7.责任范围与损害赔偿的限制和免除。
+ 除法律明文禁止外，于任何情形下，[BRAND_NAME_PROXY]对于任何间接、附带性、持续性、惩戒性、偶然或惩罚性违约金等各种损害赔偿，包括利益之丧失，不负任何责任。纵使[BRAND_NAME_PROXY]曾被告知该损害可能发生，亦不论诉因或索赔依据如何，[BRAND_NAME_PROXY]或其关联公司，均不对此承担责任。
+ 若依据本使用条款，[BRAND_NAME_PROXY]对于有关于您使用本网站或其内容之事项应负赔偿责任者，仅限于因合理信赖本软件导致的实际直接损失，最高金额为10美元。无论形式如何，因本使用条款所生之相关诉讼，必须在您知晓该事件之诉因或请求依据发生后一年内进行。但若管辖法院不允许限制责任范围者，前述之责任限制规定，将不予适用。
+
+ 8.赔偿声明
+ 在您藉由[BRAND_NAME_PROXY]软件以包含但不限于浏览、下载、复制、传输、编码、压缩任何数据（[BRAND_NAME_PROXY]提供的数据除外），侵犯了他人的权利或违反了法律的规定时；或者是您违反了本使用条款的任何规定时，因而造成他人向[BRAND_NAME_PROXY]或其股东、董监事、经理人、员工或相关之利害第三人就损失、责任或费用(包括律师费)提出任何请求或主张者，您愿意对此负起相关赔偿责任，并就相关案件进行抗辩，且使[BRAND_NAME_PROXY]或其股东、董监事、经理人、员工或相关之利害第三人免于负担赔偿责任。若因而造成[BRAND_NAME_PROXY]或其股东、董监事、经理人、员工或相关之利害第三人受损者，您愿意赔偿相关损害。
+
+ 9.服务终止
+ 如您违反本使用条款的任何规定，代表您丧失合法使用[BRAND_NAME_PROXY]软件之权利，您应当立即销毁/删除所有软件副本。在特定情形下，同时也会影响到您的[BRAND_NAME_PROXY]装置之保固期限与范围。
+ 在前述情况下，您同意[BRAND_NAME_PROXY]可采取以下方式因应，同时因而对您或任何第三人，不负任何赔偿责任：
+ (1) 终止您进入[BRAND_NAME_PROXY]服务账户的权利，
+ (2) 以及/或封锁您将来进入[BRAND_NAME_PROXY]服务账户。
+ 您对本使用条款之违反，您亦清楚知悉并同意此将对[BRAND_NAME_PROXY]造成无法透过金钱赔偿回复的伤害。在[BRAND_NAME_PROXY]认为必要或适当之情况下，您同意[BRAND_NAME_PROXY]得依法寻求假扣押、假处分、定暂时状态处分等方式降低损害扩大。
+ 因您违反本使用条款，若[BRAND_NAME_PROXY]最终对您采取法律行动，将有权向您请求，您亦同意支付所有合理之律师费及诉讼费用，以及所有[BRAND_NAME_PROXY]可依法主张请求之其他损害赔偿。 
+
+ 10.法律适用与法院管辖
+ 您同意关于本使用条款之所有相关事项，将依中华人民共和国法规定规范，以北京市朝阳区人民法院作为因本使用条款所生案件之适格管辖法院及审判地点，您并同意放弃对该管辖权及审判地点之异议或抗辩。
+ 就本使用条款所生争议，双方应以最大善意尽力协商解决。若该争议未能于合理期间（不超过 30 个日历天）协商解决者，任何一方得将该争议提交调解。若调解不成，双方应以诉讼方式解决争议。
+
+ 11.一般性规定。 
+ 本协议的条款标题仅为便利参考使用，不具备法律效力或意义。
+ [BRAND_NAME_PROXY]未对您的违反本使用条款的行为采取任何措施时，不表示放弃就未来类似行为采取维权措施的权利。
+ 如经管辖法院认为本使用条款的任何内容或限制有非法、无效或不可执行，其他未经宣告的条款或限制之效力不因而受到影响或因此失效，仍保有完全效力。
+ 您不得转让或处分您在本使用条款中获得使用的权利。
+ [BRAND_NAME_PROXY]的权利继承人和受让人，正式承受后亦适用本使用条款内容。
+
+ 12.使用条款完整性。
+ 本使用条款及更新所提供的附加条款，均为本使用条款之一部分。
+
+ 13.条款更动权利
+ [BRAND_NAME_PROXY]基于其独立判断，保留随时变更、修改、增加或删除使用条款内容之权利。您需要随时检阅使用条款的变动，在本[BRAND_NAME_PROXY]网站上所有变动信息的公布，透过您持续使用[BRAND_NAME_PROXY]装置或软件，视为您同意接受该变动。
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY]法律信息</string>
+    <string name="finish_button_label">完成</string>
+    <string name="google_account_add_account">登录Google</string>
+    <string name="google_account_intro_description">登录Google帐户以使用Google服务。</string>
+    <string name="google_account_intro_title">Google 帐户</string>
+    <string name="hmd_legal_message">"服务条款 
+ 
+生效日：2016年10月14日 
+ 
+1. 接受 
+本HMD Global 服务条款连同相关隐私政策以及服务范围内所提供的所有其他附加条款和信息（合称“本条款”）适用于您使用我们的服务、网站、内容和软件（合称“服务”）。一经注册或使用我们的服务或其中任何一部分，即表示您接受本条款。 
+ 
+本条款构成您和HMD Global Oy（地址：Bertel Jungin aukio 9, 02610 Espoo, Finland）（包括其子公司和供应商，合称“HMD Global”）达成的一项协议，其中确定了您和HMD Global在服务方面的各项权利和职责。 
+ 
+2. 合格性 
+要使用我们的服务，您必须年满13周岁。如果您不满13周岁或虽满13周岁但在您国家内被视为未成年人，则您必须让您的父母或法律监护人代表您接受注册，并由其批准您使用我们的服务。填写注册表的任何人必须具有法律行事能力。 
+ 
+3. 注册和终止 
+要使用某项服务，您需要进行注册，并使用用户名和密码（需满足相应的独立条款）创建一个HMD账户。其中，您需要向我们提供某些个人信息和其他信息。HMD Global将在您的HMD账户使用前，验证您的电子邮件地址。在首次使用您的设备以及每次更新您的诺基亚设备软件时，将会向HMD Global发送一个文本信息。HMD账户的创建要求进行相应的数据传输，并将收取相应的数据传输成本费用。 
+ 
+您同意：注册服务时提供真实完整的信息，并更新该等信息。您必须尽力保护您的用户名和密码，防止他人滥用。如发生滥用情形，应立即通知HMD Global。您和您的父母或法律监护人（如果您是未成年人）应对服务使用行为负责。 
+ 
+如果您不再希望使用我们的服务，您可以终止您的注册。终止后，您将无法继续访问我们的服务。如果HMD Global合理认为您违反本条款，或您在过去六个月内未使用您的用户名签约某项服务，HMD Global可经发出事先通知终止或限制您访问某些服务。 
+ 
+除隐私政策规定外，对于您向服务所提交至信息或内容的清除或损失，HMD Global不承担任何责任。当您或HMD Global从服务中清除相关信息或内容后，其他地方可能存在相关痕迹或复本。 
+ 
+4. 许可 
+HMD Global授予您一项非专属且不可转让的许可（HMD Global可依据其唯一酌处权撤销该等许可），以访问和使用服务，但需严格遵守本条款的各项规定。使用服务的行为并不会授予您服务中所含任何信息或内容中的任何知识产权。 
+ 
+作为服务的一部分，HMD Global可能会向您提供HMD Global或其许可人开发的某些内容（“内容”）。HMD Global授予您一项非专属的永久性许可，以便为预期目的使用该等内容，除非相关条款或采购订单另有规定。某些内容可能只向某些地理区域内的公民提供。您需要遵守适用于您通过服务所获取之具体内容的任何限制。第三方内容许可是您和第三方内容运营商达成的一项具有约束力的协议。您有权使用本条款明确授权的内容。 
+ 
+作为服务的一部分，HMD Global可以向您提供HMD Global或其许可人开发的某些软件（“软件”）。您使用软件的行为应遵守您在使用该软件前所接受的独立条款和条件。如果无适用于该等软件的独立条款和条件，下述条款应适用：HMD Global授予您一项有限、非专属且不可转让的权利，以在您的电脑和/或移动设备上安装和使用软件。除做出单一存档备份外，您不得复制该等软件。您不得分发和转让如下权利：使用，修改，翻译，复制，转售，分许，出租，租赁，反向设计或以其他方式试图发现软件源代码或开发软件衍生品。就开放源许可软件而言，相关开放源许可条款应适用。如果您使用软件，即表示您接受任何适用的条款和条件。 
+ 
+软件可能受美国出口管理条例项下的出口管制规定和其他进出口管制法规。您同意严格遵守所有适用的进出口法规，并确认：您有责任获得该等软件出口、转出口、转让或进口所需的相关许可。 
+ 
+您可能会就服务提供某些信息或内容（“材料”）。HMD Global并未声明其拥有您材料的所有权。您提交材料的行为并不会将材料的所有权转给HMD Global。HMD Global仅负责材料传输，不负责其可编辑控制方面的内容。通过向服务提交材料，即表示您授予HMD Global一项全球范围的非专属、可分许、可转让、全额实付、无特许费的永久性且不可撤销的许可（从而在任何媒介中，使用，复制，公开执行，展示，分发该等资料，以及修改材料，以便将材料整合入其他作品中，以及在HMD Global提供服务的范围内授予类似分许可）。您可以以保密方式调整该项授权和其他服务设置。 
+ 
+您仅负责取用您在服务中所存储资料（包括您上传的内容）的备份复件。如果服务停止或被取消，HMD Global可以永久性地删除您的资料。在服务停止或被取消后，HMD Global并无义务将相关资料返还给您。 
+ 
+5. 服务使用 
+您同意： 
+• 遵守适用法律、本条款和良好行为方式； 
+• 仅将服务用于您的个人、非商业目的； 
+• 不得提交非法，具有侵犯性，不准确，误导性，滥用性，色情，骚扰性，毁谤性或其他不当材料； 
+• 获得您提交任何材料而合法要求的任何同意、允许或许可； 
+• 尊重其他人的隐私； 
+• 不得发放或邮递垃圾文件、超大文件、连锁邮件、金字塔项目、病毒； 
+• 不得使用可能损害服务或服务用户权益或财产的任何其他技术，或发起任何此类活动； 
+• 不得使用任何自动系统或方式，接触，获取，复制或监督服务或其任何部分；以及 
+• 承担与您所邮递服务相关的一切后果。 
+ 
+HMD Global可以（但是并无义务）： 
+• 监督或调整内容或材料； 
+• 从服务中清除材料； 以及 
+• 依据其唯一酌处权随时限制接触服务或其任何部分。 
+ 
+6. 内容 
+在下载或访问任何内容前，请检查您要访问的内容是否受年龄限制，或标记为具有潜在“侵犯性”或“暗示性”。 
+ 
+对于您访问该等内容引起或遭受的任何索赔或犯罪行为，HMD Global不承担任何责任。 
+ 
+您同意： 
+• 仅将内容用于您的个人、非商业目的； 
+• 根据相关法律、附加条款、指导和政策或适用于该内容特殊部分的产品页面使用内容； 
+• 除非适用条款另行授权，不得复印，给予，出售，转售，贷款，出租，提供，广播，发送，分发，转让，向公众交流，复制，修改，展示，执行，以商业方式开发或提供内容。如果发生任何非授权使用情形，应立即告知HMD Global； 
+• 不得移除，绕过，反向设计，解密或以其他方式变更或干涉任何适用的使用规定或试图绕过数字权利管理，或复制与内容或用于控制访问或使用内容或其中所识别信息的其他技术相关的保护特征； 
+• 不得使用任何自动系统或方式，选择或下载内容，除我司提供的以外；以及 
+• 不得泄露您的密码，或以其他方式允许他人访问内容。 
+ 
+适用于相关媒介的复制限制亦适用于作为本服务一部分的内容。 
+ 
+内容为HMD Global和/或其各自许可人所拥有和/或控制，并受知识产权法律保护。第三方内容运营商只对其提供的内容、未弃权保证以及您就该等内容或您使用该等内容行为相关的任何诉求负责。但HMD Global可以作为这些条款的第三方受益人，针对您执行该等第三方内容许可条款。第三方内容运营商为本条款项下的第三方受益人，可以执行就其拥有权利的内容。在向您提供内容过程中，HMD Global可以作为该等第三方内容运营商的代理人。HMD Global并不是您和第三方内容运营商就该等内容所达成交易的一方。 
+ 
+7. 版权侵权声明 
+HMD Global尊重第三方的知识产权。如果您希望发送一份知识产权侵权通知（其中包括版权侵权索赔），请使用我们的侵权通知提交程序。与该程序无关的一切询问不予回复。 
+ 
+HMD Global使用美国法典第17章第512款所规定的程序回复任何版权侵权通知。在相关情形下，HMD Global可以禁用或终止HMD Global服务用户的账户（该等用户可能会成为重复侵权人）。 
+ 
+8. 通知 
+HMD Global可以发送服务范围内的相关通知。HMD Global亦可以向您提供我们的电子邮件或电话号码发送与产品和服务相关的通知。您将视为最晚在HMD Global发送或邮递通知起7日内收到该等通知。如果您持续使用我们的服务，将视为您收到我们发出的所有通知（与通知交付方法无关）。 
+ 
+9. 费用 
+您使用服务可能需要支付某些费用。 
+ 
+针对服务单独列出HMD Global收取的任何费用。 
+ 
+使用服务可能涉及通过服务运营商的网络传输某些资料。服务价格并不包括您的网络服务运营商所规定的或有资料传输费用、文本信息费、语音服务费用或其他服务提供收费。 
+ 
+HMD Global不负责支付您服务运营商所收取的任何费用。 
+ 
+10. 订单和付款条款 
+订单应指：对HMD Global提供以及服务和付款方法提交文件中收费内容的选择和/或对所提供内容的订阅，以及通过选择“购买”、“确认”、“本人接受”或订单流程中的类似接受确认方式提交订单，或提供其他指示，表示接受订单流程中向您提交的接受条款。 
+ 
+根据适用法律的规定，要发出服务订单，您必须达到法律行事能力年龄或成年年龄。如果您未达法律行事能力年龄或成年年龄，您只能在您父母或合法监护人同意后发出订单。 
+ 
+您同意：所有订单在法律上均有效且具有法律约束力。所有订单都必须由HMD Global接受。 
+ 
+您可以通过信用卡或借记卡、网络服务运营商计费方式或其他付款方法进行付款。 
+ 
+您的信用卡或借记卡必须在服务所提供内容的所在国拥有计费地址。HMD Global将在您发出订单后的合理期限内，扣除您信用卡上金额或对您的银行卡进行借记。 
+ 
+所有信用卡付款均需接受有效性审查，并需经卡发行人授权。 
+ 
+如果您选择网络服务运营商计费方式，则相关费用将会发送至您的手机账单上，或从您的预付款账户内进行扣除。某些网络服务运营商可能会对您的服务使用施加某些附加条款和条件，包括：在网络服务运营商计费方面设置费用限额。 超过网络服务运营商限额或账户余额的收费可能会被拒绝。 
+ 
+您同意支付与您订单相关的费用，并确保付款文件在订单期间有效，您是该文书的合法持有人，在其信用限额内使用该文书。 
+ 
+所交付内容已经向您授予许可。您同意仅根据本条款和订单流程中的任何附加条款使用该等内容。 
+ 
+服务可能会提供某些订阅内容。在订阅期间，您授权我们在服务中发出一笔定期费用。服务可能提供一个试用期。如果您的订单涉及某个试用期（也称为试用后购买），试用期到期后将向您收取相应的费用，除非您根据订阅/试用条款取消。 
+ 
+服务价格可能会随时发生变化。除非另行规定，服务价格包括交易时有效的相关税费。基于所用货币兑换汇率和/或所评估的附加费用，您可能会在您的银行或信用卡运营商处产生任何附加收费。 
+ 
+11. 取消和退款 
+您同意在您发出订单后，我们将以电子方式交付相关内容。在处理后，您将无法取消您的订单。该等内容不可退回。 
+ 
+如果您在发出订单后发现如下情形，应在48小时内立即告知HMD Global：(a) 所订购的内容存在错误； (b) HMD Global向您交付内容与您通过服务所订购的内容存在出入；或 (c) 相关技术问题延误或阻止向您交付内容或该等技术问题造成偶然性多份订单。在这种情形下，就该等内容而言，您的唯一且专属救济应为：替换该等内容，或退还您就该等内容所支付的款项，具体由HMD Global酌情决定。 
+ 
+否则，不予退款。如果您遇到上述问题，请联系HMD Global客户服务部。 
+ 
+请注意：如果您无法提供您的交易ID（HMD Global在您发出服务订单后向您提供该交易ID），HMD Global客户服务部将无法处理您的客户支持请求。如果总价超出相关当地法律所规定的金钱限额，HMD Global将负责处理内容退款事宜。 
+ 
+12. 向HMD Global提供反馈 
+如果通过服务或其他方式向HMD Global提交任何想法、反馈和/或提议（“反馈”），则表示您确认并同意：(1) HMD Global拥有与该反馈类似的开发想法； (2)您的反馈不含有与您或任何第三方相关的保密或专属信息； (3) 对于该等反馈，HMD Global并不承担任何保密义务； (4) HMD Global可为任何目的自由使用，分发，开发和进一步发展并修改该等反馈；以及 (5)您无权从HMD Global处获得任何性质的报酬。 
+ 
+13. 社交活动和位置共享 
+您可以使用服务中的功能共享您的位置、状态、材料或个人信息，或与其他用户、网站和服务进行互动。使用这些功能即表示您同意：HMD Global可以使用并向您所选择的进行互动或分享该信息的其他服务机构和人员提供该等信息。这些服务用户和人员，例如：您的联系人可以看到您的位置、状态和/或个人信息。在使用这些功能过程中，您同意不会共享如下信息、内容或材料或与任何服务或网站建立链接：(a)含有违法或不当内容或其他材料；或； (b)未经授权开发知识产权，或鼓励用户进行剽窃。任何互动都不涉及HMD Global，仅发生在您和其他用户之间。 
+ 
+14. 可用性和技术要求 
+内容和服务的可用性可能会发生变化，并取决于HMD Global的唯一酌处权。HMD Global明确放弃任何特定内容或服务可用的声明或保证。HMD Global不在所有国家提供服务，仅以所选择的几种语言提供该等服务。服务及其运营和某些功能亦取决于相关网络、所用设备的兼容性和所支持的内容格式。 
+ 
+要访问服务，您需要下载HMD Global或另一方开发的具体软件或其中任何部分。 
+ 
+HMD Global可以酌情整体或部分变更，更正或停止服务，可能在维护期间和其他时间段内不提供服务。为确保您拥有最新设备软件和应用程序，您的设备可能会自动检查从HMD Global处更新软件的可能性。如果检测到任何更新，将提示您批准进行安装。您可以通过设置设备禁用自动更新检查功能。您也可以通过所提供的软件更新渠道安装软件。如果HMD Global认为软件更新非常重要，则您应停止使用先前的软件版本。HMD Global可以阻止您使用先前版本的软件或服务，直至您安装更新为止。 
+ 
+HMD Global可因故禁用您服务账户中的任何内容或软件，并移除任何内容或软件，和/或禁用您订单设备上的任何应用复本，以保护服务、应用程序运营商、您通过其网络访问服务的无线运营商或任何受影响或可能受影响的其他方。 
+ 
+某项特殊服务可能为某个预先发行的版本，例如：测试版本发行，并可能不会以最终版本运行的方式工作。HMD Global可以对服务或软件版本做出重大变更，或决定不予发行最终版本。 
+ 
+15. 到第三方网站和内容的链接 
+HMD Global可以在其因特网或预先下载客户端处提供到其他站点和服务的访问路径，从而使您与第三方拥有或运营的站点和服务进行互动（该等站点和服务不属于本条款所指服务的一部分）。在使用这些站点或服务前，您必须阅读并同意这些站点或服务的条款和条件。 
+ 
+HMD Global对该等第三方内容、站点或服务并无控制权。因此，对于根据这些第三方站点或服务所提供的服务或所创建或发布的材料，HMD Global不承担任何责任。到某第三方站点的链接并未暗示：HMD Global同意该站点或其中所提及的产品或服务。 
+ 
+此外，您和其他用户可以创建相关内容以及到服务内所含内容的链接（未向本条款所述服务提供该等内容）。对该等类型的内容或链接，HMD Global不承担任何责任。 
+ 
+16. 广告 
+服务中可能包含一些广告。这些广告指向在服务上所存储的内容或信息、通过服务提供的问询，或其他信息。 
+ 
+17. 个人资料 
+向您提供的隐私政策和任何附加隐私信息适用于您对您个人资料的使用。 
+ 
+18. 责任限制 
+服务在“现状”和“可用性”基础上提供。HMD Global不保证服务不会中断或不存在任何错误或病毒。HMD Global未就服务的可用性、准确性、可靠性、信息或内容做出任何明示或暗示保证，包括但不限于：所有权保证、不侵权保证、适销性保证，或特定目的适用性保证。您明确同意并确认：您使用服务时自担风险由，您可能接触来自各种来源的内容。 
+ 
+除重大过失或故意渎职所造成的死亡或人身伤害责任外，对于您使用或无法使用服务所造成的任何间接、偶然、惩罚性损害，HMD Global不承担任何责任。 
+ 
+19. 赔偿 
+您同意赔偿并使HMD Global免受源于如下内容的一切第三方索赔和责任、征税、损失、成本或损害：(i) 您违反本条款；(ii)您侵犯或违反第三方的任何知识产权、其他权利或隐私；或(iii)第三方滥用服务，该等滥用可能源于您未能采取合理措施保护您的用户名和密码被滥用。 
+ 
+20. 其他 
+ 
+20.1 法律选择 
+本条款应受芬兰法律（不考虑其法律冲突规定）管辖。 
+ 
+20.2 有效性 
+本条款既不排除也不限制您在居住国内法律未放弃的任何法定权利。如果本条款的任何规定经判定无效，则其他规定不受影响。应使用最接近本条款意图和目的的有效规定替换该等无效规定。如果本条款的一项或多项规定与您使用服务的行为无关，则其不影响本条款其他规定或本条款的有效性或可强制执行性。 
+ 
+如果HMD Global 服务条款和隐私政策存在冲突，则本HMD Global 服务条款应优先适用。在本条款终止后，在您的注册终止后应有效的条款应继续有效。 
+ 
+20.3 条款变更 
+HMD Global可不时修改本条款，恕不另行通知。如果本条款发生任何重大不利变更，则HMD Global将发出单独通知告知该等变化。 
+ 
+您应定期阅读本条款。如果您继续使用服务，则表示您同意其中的任何变更和修改。 
+ 
+21. 知识产权 
+服务、内容和软件受国际版权法保护。HMD Global在法律允许的最大范围内，对其服务、内容和软件中的版权拥有所有权。根据本条款的规定，HMD Global保留服务及其内容、软件以及所有其他HMD Global产品、软件和向您提供或您通过服务所使用的其他财产中的一切权利、所有权和权益。 
+ 
+22. 转让 
+HMD Global可以将其在本条款项下的权利和义务转让给其母公司或任何子公司或处于HMD Global共同控制的任何公司。HMD Global可以将其在本条款项下的权利和义务转让给因并购、资产出售、法律规定或其他原因与HMD Global具有关联性的第三方。"</string>
+    <string name="hmd_user_experience_program_message">您参与用户体验计划将帮助HMD Global更好的了解您所喜欢的有关于诺基亚手机的功能，和您所希望改进的地方。我们可能偶尔从您的设备收集匿名的技术参数，例如可能发生的系统崩溃数据。这些匿名数据将不会通过手机移动网络传输。我们愿意倾听您对诺基亚产品的心声！</string>
+    <string name="hmd_user_experience_program_title">用户体验计划</string>
+    <string name="idle_too_long_toast">本手机已闲置一段时间，需关机以保持电力。</string>
+    <string name="insert_sim_cards">插入SIM卡</string>
+    <string name="insert_sim_cards_prompt_content">"不知道怎么办？请查看手机附带的说明。
+
+插入SIM卡后，可能需要几秒钟才能激活。"</string>
+    <string name="label_text">同意</string>
+    <string name="label_text_negitive">不同意</string>
+    <string name="language_selection_cancel_btn">取消</string>
+    <string name="language_selection_title">选择您的语言</string>
+    <string name="light_room_description">%1$s 支持拍摄 RAW (DNG) 图像。鉴于我们与 Adobe 的合作，您可以直接在您的新智能手机上进行编辑。&lt;br/>&lt;br/>立即从 Google Play 商店下载 Adobe Photoshop Lightroom CC。</string>
+    <string name="light_room_title">热衷于摄影？</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="location_for_service">对Google搜索和其它Google服务使用我的位置。</string>
+    <string name="location_info_1">Google的位置服务所提供之应用程序无需使用GPS亦能得知您的大约位置。</string>
+    <string name="location_info_2">您可在设置下的位置服务中禁用这些功能。</string>
+    <string name="location_network">允许Google的位置服务收集匿名位置数据。没有运行任何应用程序时也会进行收集。</string>
+    <string name="location_title">使用Google定位</string>
+    <string name="nevigation_selection_back">返回</string>
+    <string name="nevigation_selection_home">主画面</string>
+    <string name="nevigation_selection_recent">最近使用</string>
+    <string name="nevigation_selection_text">您可以改变\"返回\"/\"最近使用\"键的位置及背景颜色</string>
+    <string name="nevigation_selection_title">导览列设置</string>
+    <string name="next_btn_lebel">下一步</string>
+    <string name="normal_date_format">所在区域 (%s)</string>
+    <string name="not_now">稍后加入…</string>
+    <string name="passpoint_content">%1$s凭据</string>
+    <string name="passpoint_label">保存方式：</string>
+    <string name="please_select_phase2">阶段2身份验证</string>
+    <string name="preference_summary_default_combination">%1$s/%2$s</string>
+    <string name="proxy_error_empty_host_set_port">如果主机字段为空，则端口字段必须为空。</string>
+    <string name="proxy_error_empty_port">您需要填写端口字段。</string>
+    <string name="proxy_error_invalid_exclusion_list">您输入的排除列表格式有误。请输入以逗号分隔的排除网域列表。</string>
+    <string name="proxy_error_invalid_port">您键入的端口无效。</string>
+    <string name="proxy_exclusionlist_label">对以下网址不使用代理</string>
+    <string name="proxy_hostname_label">代理服务器主机名</string>
+    <string name="proxy_port_label">代理服务器端口</string>
+    <string name="proxy_settings_title">代理</string>
+    <string name="proxy_url_title">"PAC网址： "</string>
+    <string name="proxy_warning_limited_support">浏览器会使用 HTTP 代理，但其他应用可能不会使用。</string>
+    <string name="saved_network">已通过%1$s保存</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="select_sim_card">选择手机卡</string>
+    <string name="set_sim_call_ask_every_time">每次都询问</string>
+    <string name="set_sim_data">使用移动网络进行设置</string>
+    <string name="setup_complete_hmd">您的手机可以使用了...</string>
+    <string name="setup_complete_hmd_1">您的手机即将可以使用…!</string>
+    <string name="setup_complete_main">您的手机</string>
+    <string name="setup_complete_message">已完成相关设置，可以开始使用手机。</string>
+    <string name="setup_complete_sub">可以使用了。</string>
+    <string name="setup_completed_congratulations">恭喜!</string>
+    <string name="setup_finish">设置完成</string>
+    <string name="sim_data_tip_btn_back">返回</string>
+    <string name="sim_data_tip_btn_continue">继续</string>
+    <string name="sim_data_tip_content">您的手机在设置过程中将用到移动网络，而您可能需要支付相应的数据流量费用。要避免可能产生的数据流量费用，请连接到WLAN网络。</string>
+    <string name="sim_data_tip_title">可能会产生数据流量费用</string>
+    <string name="sim_editor_title">SIM 卡插槽 %1$d</string>
+    <string name="sim_not_exist_toast">请检查您是否已插入SIM卡。</string>
+    <string name="sim_slot">SIM 卡槽</string>
+    <string name="skip_add_account_button_label">现在不要</string>
+    <string name="skip_btn_label">跳过</string>
+    <string name="skip_button_label">略过</string>
+    <string name="speed_label_fast">快</string>
+    <string name="speed_label_medium">适中</string>
+    <string name="speed_label_okay">良好</string>
+    <string name="speed_label_slow">慢</string>
+    <string name="speed_label_very_fast">很快</string>
+    <string name="speed_label_very_slow">很慢</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">当前显示了 %1$s 项（已添加 %2$s 项）</string>
+    <string name="term_agree_text">同意</string>
+    <string name="term_disagree_text">不同意</string>
+    <string name="terms_of_service_description">"
+当使用手机上如天气预报﹑网盘上传下载﹑电子邮件﹑浏览互联网等服务时将会产生数据流量费用，建议您可向运营商申请数据流量套餐包以节省费用。
+
+一旦勾选同意，即表示您已清楚了解此提示，并同意手机将自动联网以使用相关服务。
+
+另外，软件自动更新通知缺省为开启，会使用很少的流量，带给您最新的软件体验。您稍后可以在设置中关闭此选项。
+
+"</string>
+    <string name="terms_title">流量提示</string>
+    <string name="time_picker_title">时间</string>
+    <string name="traffic_prompt_content">勾选不同意时，您需通过手动方式取得软件更新、天气预报等信息。</string>
+    <string name="upload_agent_des_text">"加入用户体验计划。&lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>了解更多&lt;/a>"</string>
+    <string name="upload_agent_hmd_des_text_2">"加入用户体验计划。&lt;a href='launch.UserExperienceActivity://Kode'>了解更多&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"点击设置完成按钮，表示您同意加入用户体验计划。&lt;a href='launch.UserExperienceActivity://Kode'>了解更多&lt;/a>。稍后您也可以再从设置中加入。"</string>
+    <string name="upload_agent_title">用户体验计划</string>
+    <string name="v7_preference_off">关闭</string>
+    <string name="v7_preference_on">开启</string>
+    <string name="wapi_auto_sel_cert">自动选择</string>
+    <string name="wapi_psk_security_type">密码类型</string>
+    <string name="welcome_hmd_term_of_use_2">"点击箭头，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服务条款&lt;/a> 和 &lt;a href='launch.AddUploadAgentHandler://Kode'>隐私政策&lt;/a>。设备激活信息和位置信息将一次发送给HMD Global，可能产生数据费用。"</string>
+    <string name="welcome_hmd_term_of_use_4">"点击按钮，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服务条款&lt;/a> 和 &lt;a href='launch.AddUploadAgentHandler://Kode'>隐私政策&lt;/a>。设备启动信息和位置信息将被发送到HMD Global，可能产生数据费用。我们会遵照隐私权政策使用相应数据。&lt;br/>&lt;br/> 软件自动更新通知缺省为开启，如此可能会使用很少的流量，但会带给您最新的软件体验。手机将自动联网使用相关的服务。&lt;br/>&lt;br/> 上述服务的使用可能会产生数据流量费用。&lt;br/>&lt;br/> 设备可能会发送激活信息给当地运营商。&lt;br/>&lt;br/> 谷歌应用服务为了提供完整的服务，将需要连接网络，访问您的通讯录、位置信息、电话、短信、麦克风、相机、传感器、日历以及存储。"</string>
+    <string name="welcome_hmd_term_of_use_5">"点击按钮，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服务条款&lt;/a>。设备激活信息和位置信息将一次发送给HMD Global，可能产生数据费用。我们会遵照&lt;a href='launch.AddUploadAgentHandler://Kode'>隐私权政策&lt;/a>使用相应数据。"</string>
+    <string name="welcome_infocus_term_of_use">"按下开始表示您同意&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>服务条款&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">开始设置</string>
+    <string name="welcome_message">欢迎</string>
+    <string name="welcome_start_button_label">开始</string>
+    <string name="welcome_vision_settings_button_label">辅助功能设置</string>
+    <string name="wifi_add_network">添加网络</string>
+    <string name="wifi_advanced_toggle_description_collapsed">高级选项下拉列表。点按两次即可展开。</string>
+    <string name="wifi_advanced_toggle_description_expanded">高级选项下拉列表。点按两次即可折叠。</string>
+    <string name="wifi_and_mobile_skipped_message">"连接到网络有助于您快速设置手机。
+
+如果没有连接到网络，您将无法：
+
+"<li>登录云帐号</li>"
+
+"<li>获取软件更新</li>"
+
+"<li>让系统自动设置时间和日期</li></string>
+    <string name="wifi_ap_unable_to_handle_new_sta">接入点暂时满载</string>
+    <string name="wifi_auth_password_wrong">密码可能不正确</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">取消</string>
+    <string name="wifi_carrier_connect">运营商 WLAN 网络</string>
+    <string name="wifi_carrier_content">通过%1%s连接</string>
+    <string name="wifi_certificate">证书</string>
+    <string name="wifi_check_password_try_again">请检查密码，然后重试</string>
+    <string name="wifi_connect">连接</string>
+    <string name="wifi_connected_no_internet">已连接，但无法访问互联网</string>
+    <string name="wifi_disabled_by_recommendation_provider">网络质量较差，因此未连接</string>
+    <string name="wifi_disabled_generic">已停用</string>
+    <string name="wifi_disabled_network_failure">IP 配置失败</string>
+    <string name="wifi_disabled_password_failure">身份验证出现问题</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">不提供</string>
+    <string name="wifi_do_not_validate_eap_server">不验证</string>
+    <string name="wifi_do_not_validate_eap_server_warning">未指定任何证书。您的网络连接将不是私密连接。</string>
+    <string name="wifi_dont_skip">返回</string>
+    <string name="wifi_eap_anonymous">匿名身份</string>
+    <string name="wifi_eap_ca_cert">CA证书</string>
+    <string name="wifi_eap_domain">域名</string>
+    <string name="wifi_eap_identity">身份</string>
+    <string name="wifi_eap_method">EAP方法</string>
+    <string name="wifi_eap_user_cert">用户证书</string>
+    <string name="wifi_fail_to_scan">扫描不到网络</string>
+    <string name="wifi_failed_connect_message">无法连接网络</string>
+    <string name="wifi_failed_forget_message">无法取消保存网络</string>
+    <string name="wifi_failed_save_message">无法保存网络</string>
+    <string name="wifi_forget">取消保存</string>
+    <string name="wifi_frequency">频率</string>
+    <string name="wifi_gateway">网关</string>
+    <string name="wifi_ip_address">IP地址</string>
+    <string name="wifi_ip_settings">IP 设置</string>
+    <string name="wifi_ip_settings_invalid_dns">请输入有效的DNS地址。</string>
+    <string name="wifi_ip_settings_invalid_gateway">请键入有效的网关地址。</string>
+    <string name="wifi_ip_settings_invalid_ip_address">请输入有效的IP地址。</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">键入长度在 0 到 32 之间的网络前缀。</string>
+    <string name="wifi_metered_label">按流量计费</string>
+    <string name="wifi_multiple_cert_added">（已添加多份证书）</string>
+    <string name="wifi_network_prefix_length">网络前缀长度</string>
+    <string name="wifi_no_domain_warning">必须指定网域。</string>
+    <string name="wifi_no_internet">无网络连接。</string>
+    <string name="wifi_no_internet_no_reconnect">无法自动连接</string>
+    <string name="wifi_not_in_range">不在范围内</string>
+    <string name="wifi_password">密码</string>
+    <string name="wifi_picker_connection_des_text">若未连上WLAN则会透过移动网络验证软件，可能会产生数据传输费用。</string>
+    <string name="wifi_picker_connection_negative">连接</string>
+    <string name="wifi_picker_connection_negative_prc">连接WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">连接Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">确定</string>
+    <string name="wifi_picker_connection_title">网络连接</string>
+    <string name="wifi_picker_warning_des_text">除非您有互联网连接，手机将无法确认您的软件是否为最新的。</string>
+    <string name="wifi_picker_warning_negative">还是跳过</string>
+    <string name="wifi_picker_warning_positive">不要跳过</string>
+    <string name="wifi_picker_warning_title">警告</string>
+    <string name="wifi_remembered">已保存</string>
+    <string name="wifi_save">保存</string>
+    <string name="wifi_security">安全性</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_none">无</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_see_all_network">查看所有WLAN网络</string>
+    <string name="wifi_setting_sub_title">要下载应用或复制数据，请连接到网络</string>
+    <string name="wifi_setting_title">连接网络</string>
+    <string name="wifi_shared">与其他设备用户共享</string>
+    <string name="wifi_show_advanced">高级选项</string>
+    <string name="wifi_show_password">显示密码</string>
+    <string name="wifi_signal">信号强度</string>
+    <string name="wifi_skip_anyway">仍然跳过</string>
+    <string name="wifi_speed">连接速度</string>
+    <string name="wifi_ssid">网络名称</string>
+    <string name="wifi_ssid_hint">输入SSID</string>
+    <string name="wifi_ssid_too_long">网络名称太长。</string>
+    <string name="wifi_status">状态信息</string>
+    <string name="wifi_unchanged">（未更改）</string>
+    <string name="wifi_unmetered_label">不按流量计费</string>
+    <string name="wifi_unspecified">请选择</string>
+    <string name="wifi_use_system_certs">使用系统证书</string>
+    <string name="zone_auto">自动确定时区</string>
+    <string name="zone_auto_summaryOff">使用网络上的时区</string>
+    <string name="zone_auto_summaryOn">使用网络上的时区</string>
+</resources>

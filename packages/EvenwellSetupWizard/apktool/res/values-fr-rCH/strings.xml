@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Accessibilité</string>
+    <string name="backup_and_restore_description">"Si vous avez déjà sauvegardé votre compte, vous avez la possibilité de le restaurer immédiatement sur ce téléphone.
+
+Vous pouvez modifier vos paramètres de sauvegarde à tout moment dans Paramètres."</string>
+    <string name="backup_and_restore_title">Sauvegarde et restauration</string>
+    <string name="datausage_dialog_negitive_btn">Annuler</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">"Paramètres de date &amp; d'heure"</string>
+    <string name="date_and_time_settings_title">"Paramètres de date &amp; d'heure"</string>
+    <string name="date_time_24hour">Utiliser le format 24 h</string>
+    <string name="date_time_auto">Date &amp; heure automatique</string>
+    <string name="date_time_auto_summaryOff">"Utiliser la date et l'heure fournies par le réseau"</string>
+    <string name="date_time_auto_summaryOn">"Utiliser la date et l'heure fournies par le réseau"</string>
+    <string name="date_time_set_date">Définir la date</string>
+    <string name="date_time_set_time">"Définir l'heure"</string>
+    <string name="date_time_set_timezone">Définir le fuseau horaire</string>
+    <string name="device_checking_message">Bienvenue</string>
+    <string name="emergency_dial_hmd_message">Urgences</string>
+    <string name="emergency_dial_message">"Appel d'urgence"</string>
+    <string name="hmd_user_experience_program_message">"Votre contribution au programme d'expérience utilisateur permet à HMD Global de mieux comprendre ce que vous appréciez dans votre appareil Nokia et ce qui mérite, selon vous, d'être amélioré. Il peut arriver que des informations anonymes avec des données techniques sur votre appareil nous soient envoyées (ex : un fichier faisant état d'un dysfonctionnement de logiciel). Veuillez noter que de telles données ne seront pas transmises via une connexion au réseau mobile. Votre avis sur votre terminal Nokia nous intéresse !"</string>
+    <string name="hmd_user_experience_program_title">"Partage de l'expérience de l'utilisateur"</string>
+    <string name="idle_too_long_toast">"Ce téléphone est inactif pour quelques temps. Arrêter maintenant pour économiser de l'énergie."</string>
+    <string name="insert_sim_cards">Insérer des cartes SIM</string>
+    <string name="insert_sim_cards_prompt_content">"Vous n'êtes pas certain de la procédure ? Consultez les instructions fournies avec votre téléphone.
+
+Une fois que vous insérez vos cartes SIM, leur activation peut nécessiter quelques secondes."</string>
+    <string name="language_selection_cancel_btn">ANNULER</string>
+    <string name="language_selection_title">Choisir la langue</string>
+    <string name="light_room_title">Passionné de photographie ?</string>
+    <string name="next_btn_lebel">SUIVANT</string>
+    <string name="not_now">PAS MAINTENANT…</string>
+    <string name="setup_complete_hmd">Vous êtes prêt...</string>
+    <string name="setup_complete_hmd_1">Vous êtes presque prêt...!</string>
+    <string name="setup_complete_main">Vous êtes</string>
+    <string name="setup_complete_sub">PRÊT À COMMENCER.</string>
+    <string name="setup_completed_congratulations">Félicitations !</string>
+    <string name="setup_finish">ALLONS-Y</string>
+    <string name="sim_not_exist_toast">Veuillez vérifier si vous avez inséré une carte SIM.</string>
+    <string name="skip_add_account_button_label">Pas maintenant</string>
+    <string name="skip_button_label">Ignorer</string>
+    <string name="upload_agent_hmd_des_text_2">"Rejoignez le programme Nokia Partage d'expérience. &lt;a href='launch.UserExperienceActivity://Kode'>En savoir plus.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"En appuyant sur ALLONS-Y, vous acceptez de rejoindre le programme d'expérience utilisateur. &lt;a href='launch.UserExperienceActivity://Kode'>En savoir plus&lt;/a>. N'oubliez pas que vous pouvez toujours rejoindre le programme ultérieurement via les Paramètres."</string>
+    <string name="upload_agent_title">"Programme d'expérience utilisateur"</string>
+    <string name="welcome_hmd_term_of_use_5">"En appuyant sur le bouton, vous acceptez les &lt;a href='launch.TermOfServiceActivity://Kode'>Conditions du service&lt;/a>. Les informations de l'activation de votre appareil avec une localisation unique seront envoyées à HMD Global. Des frais de données peuvent s'appliquer. Les données seront utilisées conformément à la &lt;a href='launch.AddUploadAgentHandler://Kode'>Politique de confidentialité&lt;/a>."</string>
+    <string name="welcome_lets_go_button_label">Allons-y</string>
+    <string name="welcome_message">Bienvenue</string>
+    <string name="welcome_start_button_label">COMMENCER</string>
+    <string name="welcome_vision_settings_button_label">Accessibilité</string>
+    <string name="zone_auto">Fuseau horaire automatique</string>
+    <string name="zone_auto_summaryOff">Utiliser le fuseau horaire fourni par le réseau</string>
+    <string name="zone_auto_summaryOn">Utiliser le fuseau horaire fourni par le réseau</string>
+</resources>

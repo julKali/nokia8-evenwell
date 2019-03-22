@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Увімкнути</string>
+    <string name="common_google_play_services_enable_text">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
+    <string name="common_google_play_services_enable_title">Увімкнути сервіси Google Play</string>
+    <string name="common_google_play_services_install_button">Установити</string>
+    <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+    <string name="common_google_play_services_install_title">Установити сервіси Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступність сервісів Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Помилка сервісів Google Play</string>
+    <string name="common_google_play_services_unknown_issue">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
+    <string name="common_google_play_services_unsupported_text">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої.</string>
+    <string name="common_google_play_services_update_button">Оновити</string>
+    <string name="common_google_play_services_update_text">Додаток %1$s не працюватиме, якщо не оновити сервіси Google Play.</string>
+    <string name="common_google_play_services_update_title">Оновіть сервіси Google Play</string>
+    <string name="common_google_play_services_updating_text">Додаток %1$s не працюватиме без сервісів Google Play, які зараз оновлюються.</string>
+    <string name="common_google_play_services_wear_update_text">Потрібна нова версія сервісів Google Play. Вони невдовзі оновляться.</string>
+    <string name="common_open_on_phone">Відкрити на телефоні</string>
+    <string name="common_signin_button_text">Увійти</string>
+    <string name="common_signin_button_text_long">Увійти в облік. запис Google</string>
+    <string name="fih_weather_button_close">Закрити</string>
+    <string name="fih_weather_button_ok">успішно встановлено Сервісний центр SMS</string>
+    <string name="fih_weather_button_setting">налаштування…</string>
+    <string name="fih_weather_notification_channel_title">Загальні сповіщення</string>
+    <string name="fih_weather_notification_text">Торкніться, щоб дозволити</string>
+    <string name="fih_weather_notification_title">Для служби «Погода» потрібні дозволи</string>
+    <string name="fih_weather_permission_failed">Отримання дозволу на розташування відхилено, неможливо отримати розташування</string>
+    <string name="fih_weather_permission_hint_1">Для належної роботи цій програмі потрібен додатковий дозвіл. Дайте дозвіл, коли відобразиться запит.</string>
+    <string name="fih_weather_permission_hint_2">Для належної роботи цій програмі потрібні додаткові дозволи. Змініть дозвіл служби «Погода» в установках.</string>
+    <string name="fih_weather_permission_success">Успішно надано дозвіл на розташування</string>
+    <string name="fih_weather_service_title_txt">Служба «Погода»</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

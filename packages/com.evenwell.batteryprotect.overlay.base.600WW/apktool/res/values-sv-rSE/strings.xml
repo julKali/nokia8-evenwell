@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Avbryt</string>
+    <string name="fih_battery_protect_power_off">Stäng av</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Allmänna meddelanden</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Avbryt</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Använd originalbatteriet</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Laddningen har stoppats</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Använd originalbatteriet vid laddning, annars kan enheten skadas permanent/fysiskt.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Batteriet är ogiltigt</string>
+    <string name="fih_battery_protect_notification_cooling_down">Svalnar</string>
+    <string name="fih_battery_protect_tap_learn_more">Tryck för att läsa mer.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefonen börjar bli varm och vidtar åtgärder för att svalna. Du kan fortfarande använda den, men det kan hända att
+· laddningen pausas
+· Wi-Fi stängs av
+· appar stängs
+· flygplansläget aktiveras.
+Telefonen återgår till normal funktion när den har svalnat."</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Usluga o vremenu</string>
+    <string name="fih_weather_permission_hint_1">Za pravilan rad, ova aplikacija zahtijeva dodatno dopuštenje. Omogućite dopuštenje kada to bude zatraženo.</string>
+    <string name="fih_weather_permission_hint_2">Za pravilan rad, ova aplikacija zahtijeva dodatna dopuštenja. Upravljajte dopuštenjima usluge o vremenu u postavkama.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Zatvori\"</string>
+    <string name="fih_weather_button_setting">Postavke\"</string>
+    <string name="fih_weather_permission_success">Lokacija je dopuštena</string>
+    <string name="fih_weather_permission_failed">Dopuštenje je odbijeno, lokacija nije dostupna.</string>
+    <string name="fih_weather_notification_title">Usluga o vremenu zahtijeva dopuštenja</string>
+    <string name="fih_weather_notification_text">Dodirnite da dopustite</string>
+    <string name="fih_weather_notification_channel_title">Opća obavještenja</string>
+</resources>

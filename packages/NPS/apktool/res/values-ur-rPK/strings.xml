@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">منسوخ کریں</string>
+    <string name="DONE">ہو گیا</string>
+    <string name="NEXT">اگلا</string>
+    <string name="OK">ٹھیک ہے</string>
+    <string name="PREVIOUS">سابقہ</string>
+    <string name="alert_empty_desc">براہ کرم اپنی وضاحت شامل کریں!</string>
+    <string name="alert_warning_title">ٹوٹکے</string>
+    <string name="enter_comments">رائے ڈاليں (1000 حروف)</string>
+    <string name="extremely_likely">(انتہائی پسندیدہ)</string>
+    <string name="feedback">تاثرات</string>
+    <string name="helps_us_improve_our_products">آپ کے فیڈبیک سے ہم مصنوعات بہتر کرسکتے ہیں</string>
+    <string name="intro_title">اس فون کی اپنے دوست یا رفیق کار کو تجویز کرنے کا کیا امکان ہے؟</string>
+    <string name="msg_send_after">جب آلا آن لائن ہوتا ہے تو پیغام خودبخود اپ لوڈ ہو جائے گا۔ آپ کے جواب کے لئے شکریہ۔</string>
+    <string name="msg_send_fail">بھیجنا ناکام ہوا۔ جب آلا آن لائن ہوتا ہے تو پیغام خودبخود اپ لوڈ ہو جائے گا۔ آپ کے جواب کے لئے شکریہ۔</string>
+    <string name="no_ask_feedback_again_text">دوبارہ فیڈبیک دینا نہ مانگيں</string>
+    <string name="no_showagain_text">دوبارہ نہ دکھائيں</string>
+    <string name="not_at_all_likely">(بلک ہی اسی طرع نہیں ہے)</string>
+    <string name="privacy_context_wifi">"محترم صارف، 
+
+فیڈ بیک کلائنٹ سافٹ ویئر استعمال کرنے کے لئے خوش آمدید۔ براہ کرم یہ پروڈکٹ استعمال کرنے سے پہلے خدمت شرائط کو دھیان سے پڑھیں اور اچھی طرح سمجھیں۔ [اتفاق] کلک کرنے کا مطلب کہ آپ اس سافٹ ویئر کے استحقاق کو اچھی طرح سمجھتے اور اس کے استعمال کے لئے اتفاق کرتے ہیں۔ اگر آپ ان شرائط سے غیر متفق ہیں تو براہ کرم [اخراج کریں] دبائيں۔ آپ کو جامع خدمات فراہم کرنے کیلئے ایپ کو مندرجہ ذیل اجازتیں درکار ہيں: 
+1. فیڈ بیک معلومات بھیجنے کے لئے انٹرنیٹ یا WLAN نیٹورک پر رسائی کریں 
+2. فون کی بنیادی معلومات خودبخود حاصل کرنے کے لئے IMEI، PSN اور MNC\\MCC معلومات درآمد کریں"</string>
+    <string name="select_a_value">قدر منتخب کریں</string>
+    <string name="str_agree">اتفاق کریں</string>
+    <string name="str_leave">اخراج کریں</string>
+    <string name="submit_fail">جمع کرنا ناکام ہوا:</string>
+    <string name="submit_success">آپ کے جواب کے لئے شکریہ</string>
+    <string name="thank_your_feedback">آپ کے فیڈبیک کا شکریہ!</string>
+    <string name="we_appreciate_your_help">ہم Nokia مصنوعات کو بہترین بنانے میں آپ کی مدد کے شکرگزار ہيں۔</string>
+    <string name="we_hope_enjoying_nokia_device">امید ہے کہ آپ اپنے Nokia کا لطف اٹھارہے ہيں آپ کا فیڈبیک ہمارے لئے بہت اہم ہے۔</string>
+    <string name="we_will_contact_you_again">ہم آپ سے آگے چل کر رابطہ کریں گے۔</string>
+    <string name="we_will_contact_you_again_enjoy">ہم آپ سے آگے چل کر رابطہ کریں گے۔ اپنے Nokia آلے کا مزہ لیں!</string>
+    <string name="why_you_gave_this_score">آپ نے ہمیں یہ اسکور کیوں دیا:</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Slå på</string>
+    <string name="common_google_play_services_enable_text">%1$s fungerer ikke med mindre du slår på Google Play-tjenester.</string>
+    <string name="common_google_play_services_enable_title">Slå på Google Play-tjenester</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke er installert på enheten din.</string>
+    <string name="common_google_play_services_install_title">Installer Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Tjenester-tilgjengelighet</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke støttes av enheten din.</string>
+    <string name="common_google_play_services_update_button">Oppdater</string>
+    <string name="common_google_play_services_update_text">%1$s kjører ikke med mindre du oppdaterer Google Play Tjenester.</string>
+    <string name="common_google_play_services_update_title">Oppdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kjører ikke uten Google Play-tjenester, som oppdateres akkurat nå.</string>
+    <string name="common_google_play_services_wear_update_text">Du må installere en ny versjon av Google Play-tjenester. Appen oppdateres automatisk om en kort stund.</string>
+    <string name="common_open_on_phone">Åpne på telefonen</string>
+    <string name="common_signin_button_text">Logg på</string>
+    <string name="common_signin_button_text_long">Logg på med Google</string>
+    <string name="fih_weather_button_close">Lukk</string>
+    <string name="fih_weather_button_ok">SMS-servicesenter er satt</string>
+    <string name="fih_weather_button_setting">Stiller inn ...</string>
+    <string name="fih_weather_notification_channel_title">Generelle varsler</string>
+    <string name="fih_weather_notification_text">Trykk f till</string>
+    <string name="fih_weather_notification_title">Værtjeneste krever tillatelser</string>
+    <string name="fih_weather_permission_failed">Tildele stedstillatelse avvist, kan ikke hente sted.</string>
+    <string name="fih_weather_permission_hint_1">Denne appen krever ekstra tillatelse for å fungere riktig. Gi tillatelse ved forespørsel.</string>
+    <string name="fih_weather_permission_hint_2">Denne appen krever flere tillatelser for å fungere riktig. Du kan endre værtjenestetillatelse i Innstillinger</string>
+    <string name="fih_weather_permission_success">Tildeling av stedstillat. utført</string>
+    <string name="fih_weather_service_title_txt">Værtjeneste</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

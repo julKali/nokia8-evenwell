@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/outer_frame" android:background="#fff7f7f9" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="#ff33b5e5" android:gravity="bottom" android:id="@id/device_checking_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginRight="@dimen/title_indent" android:minHeight="@dimen/title_height" android:text="@string/device_checking_message" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" style="@style/Title" />
+    <FrameLayout android:orientation="vertical" android:id="@id/top_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/device_checking_title">
+        <ProgressBar android:id="@id/progress_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.5dip" android:layout_marginBottom="@dimen/divider_margin_bottom" android:indeterminate="true" style="?android:progressBarStyleHorizontal" />
+    </FrameLayout>
+    <TextView android:id="@id/wait_msg" android:layout_below="@id/top_divider" style="@style/DescriptionText2" />
+</RelativeLayout>

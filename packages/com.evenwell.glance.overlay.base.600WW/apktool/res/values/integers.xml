@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="doze_screen_brightness">39</integer>
+    <integer name="default_glance_enabled">1</integer>
+    <integer name="lux_darkness">50</integer>
+    <integer name="lux_indoor_office">1000</integer>
+    <integer name="lux_outdoors_overcast">5000</integer>
+    <integer name="backlight_darkness">3</integer>
+    <integer name="backlight_indoor_office">16</integer>
+    <integer name="backlight_outdoors_overcast">36</integer>
+    <integer name="backlight_outdoors_sunny">64</integer>
+</resources>

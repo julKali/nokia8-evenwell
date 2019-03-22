@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የሶፍትዌር ዝማኔ</string>
+    <string name="remote_file_fail">የሩቅ ፋይል ዘንድ መድረስ አልተቻለም። እባክዎ በኋላ እንደገና ይሞክሩ።</string>
+    <string name="no_description">(ማብራሪያ የለም)</string>
+    <string name="login_fail">ወደ አገልጋይ በመለያ መግባት አልተሳካም። እባክዎ በኋላ እንደገና ይሞክሩ።</string>
+    <string name="get_service_url_fail">የአውታረመረብ ግንኙነት አልተረጋጋም (የአገልግሎት ዩአርኤል ማግኘት አልተሳካም)። እባክዎ በኋላ እንደገና ይሞክሩ።</string>
+    <string name="query_sw_fail">የሶፍትዌር መረጃ መጠየቅ አልተሳካም።</string>
+    <string name="download_sw_fail">ሶፍትዌር ማውረድ አልተሳካም።</string>
+    <string name="query_sw_incorrect">ውጤቱ ትክክለኛ አይደለም።</string>
+    <string name="no_update_available">ምንም አዲስ ዝማኔ አይገኝም።</string>
+    <string name="update_not_ready">አዲስ ዝማኔ በአገልጋዩ ላይ አተዘጋጀም። እባክዎ በኋላ እንደገና ይሞክሩ።</string>
+    <string name="check_now_label">አሁን ይፈትሹ</string>
+    <string name="verifying">በማረጋገጥ ላይ...</string>
+    <string name="header_verifying_update_file">የዝማኔ ፋይልን በማረጋገጥ ላይ...</string>
+    <string name="unzipping">ከዚፕ በማውጣት ላይ…</string>
+    <string name="header_starting_to_download_file">ፋይል ማውረድን በመጀመር ላይ…</string>
+    <string name="header_system_update_available">የስርዓት ዝማኔ ዝግጁ ነው</string>
+    <string name="new_version_desc_prompt">አዲስ ስሪት የሚከተሉትን ያካትታል፦</string>
+    <string name="data_fee_warning">ይህን አገልግሎት በሞባይል አውታረመረብ ግንኙነት ላይ መጠቀም ወጪ ሊያስከትል ይችላል!</string>
+    <string name="header_downloading_update">ዝማኔ በማውረድ ላይ</string>
+    <string name="header_install_system_software_update">የስርዓት ሶፍትዌር ዝማኔ ጫን</string>
+    <string name="msg_install_system_software_update_1">"የሚከተለውን የስርዓት ሶፍትዌር መጫን ይፈልጋሉ?
+የስርዓት ማሻሻያ ለ"</string>
+    <string name="msg_install_system_software_update_2">"
+
+በማላቅ ሂደት ጊዜ መሳሪያዎን መጠቀም ወይም የአደጋ ጊዜ ጥሪ ማድረግ አይችሉም።
+
+ባትሪ ወይም SD ካርድ ማስወገድ ያልተጠብቁ ውጤቶችን ሊያስከትል ይችላል።"</string>
+    <string name="msg_install_system_software_update_3">"
+
+በማላቅ ሂደት ጊዜ መሳሪያዎን መጠቀም አይችሉም።
+
+ሶፍትዌር በመዘመን ላይ እያለ ኃይል ማቋረጥ ወይም የወረዱ ፋይሎችን ማስወገድ ያልተጠብቁ ውጤቶችን ያስከትላል።"</string>
+    <string name="msg_install_system_software_update_4">"
+
+በማላቅ ሂደት ጊዜ መሳሪያዎን መጠቀም ወይም የአደጋ ጊዜ ጥሪ ማድረግ አይችሉም።
+
+ሶፍትዌሩን በማላቅ ሂደት ላይ እያሉ የኃይል መቋረጥ ወይም የወረዱ ፋይሎች መወገድ ያልተጠበቀ ውጤት ያስከትላል።"</string>
+    <string name="button_install_now">አሁን ጫን</string>
+    <string name="button_install_later">በኋላ ይጫኑ</string>
+    <string name="header_unable_to_connect">መገናኘት አልተቻለም</string>
+    <string name="msg_unable_to_connect">ይህን መተግበሪያ ለመጠቀም የአውታረመረብ ግንኙነት ያስፈልግዎታል። እባክዎ የሞባይል አውታረመረብን ወይም Wi-Fiን በቅንብሮች ውስጥ ያብሩ።</string>
+    <string name="msg_unable_to_connect_2">ይህን መተግበሪያ ለመጠቀም የአውታረመረብ ግንኙነት ያስፈልግዎታል። እባክዎ የሞባይል አውታረመረብን በቅንብሮች ውስጥ ያብሩ።</string>
+    <string name="msg_unable_to_connect_wlan">ይህን መተግበሪያ ለመጠቀም የአውታረመረብ ግንኙነት ያስፈልግዎታል። እባክዎ የሞባይል አውታረመረብን ወይም WLANን በቅንብሮች ውስጥ ያብሩ።</string>
+    <string name="msg_unable_to_connect_short">የአውታረ መረብ ግንኙነት የለም።</string>
+    <string name="header_system_is_update">ስርዓቱ የዘመነ ነው።</string>
+    <string name="msg_system_is_update">ምንም አዲስ ዝማኔ አይገኝም።</string>
+    <string name="msg_system_is_update_short">አዲስ ዝማኔዎች የሉም</string>
+    <string name="msg_no_sd_card">ለስርዓት ዝማኔ SD ካርድ ያስፈልጋል። እባክዎ ዝግጁ የሆነ SD ካርድ ያስገቡ።</string>
+    <string name="msg_no_available_size_card">ይህ የዝማኔ ፋይል %s ሜባ ዝግጁ ቦታ ይፈልጋል። እባክዎ የተወሰኑ ፋይልቾን ከSD ካርድ ይሰርዙ።</string>
+    <string name="msg_no_available_size_card_2">ይህ የዝማኔ ፋይል %s ሜባ ዝግጁ ቦታ ይፈልጋል። እባክዎ የተሰሰኑ ፋይሎችን ይሰርዙ እና እንደገና ይሞክሩ።</string>
+    <string name="msg_no_available_size_card_short">በቂ ነጻ ቦታ የለም።</string>
+    <string name="msg_do_not_remove_sd_card">እባክዎ SD ካርድ አያስወግዱ።</string>
+    <string name="title_system_update_ready">የስርዓት ዝማኔ ዝግጁ አይደለም</string>
+    <string name="msg_system_update_ready">የስርዓት ዝማኔ ለመጫን መታ ያድርጉ።</string>
+    <string name="msg_system_battery_too_low">"የስርዓት ዝማኔ ዝግጁ ነው፣ ነገር ግን ለመጫን የመሳሪያዎ ባትሪ በጣም አነስተኛ ነው። እባክዎ ባትሪዎን ይሙሉ እና መጫኑን በኋላ ይጀምሩ።
+
+የባትሪ መጠኑ ከ 35%% በላይ መኦሆን አለበት።
+አሁን ይአለው የባትሪ መጠን፦ %s%%።"</string>
+    <string name="msg_system_battery_too_low_short">ባትሪ በጣም ዝቅተኛ ነው</string>
+    <string name="msg_remove_sd_card">የወረደው ፋይል ወደ SD ካርድ መጻፍ አይችልም። እባክዎ የSD ካርዱን ይፈትሹ።</string>
+    <string name="msg_remove_sd_card_2">የወረደው ፋይል ወደ ውሂብ ማከማቻ መጻፍ አይችልም። እባክዎ ማከማቻውን ይፈትሹ።</string>
+    <string name="msg_remove_sd_card_short">SD ካርድ ዘንድ መድረስ አልተሳካም።</string>
+    <string name="msg_remove_sd_card_short_2">የውሂብ ማከማቻ ዘንድ መድረስ አልተቻለም።</string>
+    <string name="msg_verify_fail">የወረደውን ፋይል ማረጋገጥ አልተሳካም።</string>
+    <string name="msg_verify_fail_short">ማረጋገጥ አልተሳካም</string>
+    <string name="msg_unzip_fail">የወረደውን ፋይል ከዚፕ ማውጣት አልተሳካም።</string>
+    <string name="msg_unzip_fail_short">ከዚፕ ማውጣት አልተሳካም</string>
+    <string name="data_size">የውሂብ መጠን</string>
+    <string name="required_size">የሚያስፈልግ ቦታ</string>
+    <string name="network_not_match">አሁን ያለዎት ቅንብር በWLAN በኩል ማውረድ ብቻ ነው። እባክዎ የWLAN አውታረመረብ ይምረጡ ወይም ቅንብርዎን ይለውጡ።</string>
+    <string name="network_not_match_short">አውታረመረብ አልተዛመደም።</string>
+    <string name="without_reboot_api">API ባለመገኘቱ ምክንያት ዳግም ማስጀመር አይችልም። እባክዎ ንቁውን ዝማኔ ለመመለስ እራስዎ ዳግም ያስጀምሩ።</string>
+    <string name="update_complete">የስርዓት ዝማኔ ተጠናቋል።</string>
+    <string name="update_complete_short">ዝማኔ ተጠናቋል</string>
+    <string name="file_removed">የወረደው ፋይል ተወግዷል። እባክዎ እንደገና ያውርዱ።</string>
+    <string name="file_removed_short">የወረደ ፋይል ተወግዷል።</string>
+    <string name="file_not_match">የወረደው ፋይል ከሚጠበቀው ፋይል ጋር አይዛመድም። እባክዎ እንደገና ያውርዱ።</string>
+    <string name="file_not_match_short">ፋይል አይዛመድም።</string>
+    <string name="menu_url">የአገልጋይ ዩአርኤልን ይለውጡ</string>
+    <string name="menu_enabled">የነቃ ሶፍትዌር ብቻ</string>
+    <string name="using_internal_storage">ውስጣዊ ማከማቻ መጠቀም</string>
+    <string name="using_external_storage">ውጫዊ ማከማቻ መጠቀም</string>
+    <string name="msg_agree_message">"
+
+በማላቁ ሂደት ምክንያት ሊከሰት የሚችል የተጠቃሚ ውሂብ የመሰረዝ አነስተኛ ዕድል አለ። አስፈላጊ ከሆነ፣ የስርዓት ማላቅን ከመጫንዎ በፊት ለውሂብዎ ምትኬ ያስቀምጡ።"</string>
+    <string name="msg_root_message">"
+
+መሳሪያው ሁሉም ከተፈቀደበት ለመደበኛ ዝማኔ ማረጋገጫ መስጠት አይቻልም።"</string>
+    <string name="msg_responsibility_message">መሳሪያው ሁሉም ተፈቅዶበት ከሆነ፣ ከዝማኔ በኋላ ለሚፈጠር ለማንኛውም እንግዳ የስርዓት ጠባይ ተጠቃሚው ኃላፊነት ይወስዳል።</string>
+    <string name="msg_upgrade_agree">ያንብቡ እና ይስማሙ</string>
+    <string name="later">በኋላ</string>
+    <string name="update_summary">ዝማኔዎችን ፈትሽ</string>
+    <string name="wlan_only">WLAN ብቻ</string>
+    <string name="wifi_only_summary">Wi-Fi በሚገኝ ጊዜ ዝማኔዎችን አውርድ</string>
+    <string name="wlan_only_summary">WLAN በሚገኝ ጊዜ ዝማኔዎችን አውርድ</string>
+    <string name="auto_update">በራስ ሰር አዘምን</string>
+    <string name="auto_update_summary">ዝማኔዎችን በራስ ሰር ፈትሽ</string>
+    <string name="new_data_fee_warning">ዝማኔዎችን መፈተሽ እና ማውረድ ተጨማሪ ወጪዎችን ሊያስከትል ይችላል። ከተቻለ ዝማኔዎችን በWi-Fi በኩል አውርድ።</string>
+    <string name="wlan_data_fee_warning">ዝማኔዎችን መፈተሽ እና ማውረድ ተጨማሪ ወጪዎችን ሊያስከትል ይችላል። ከተቻለ ዝማኔዎችን በWLAN በኩል አውርድ።</string>
+    <string name="install_fail">የጭነት አለመሳካት</string>
+    <string name="install_all">ሁሉንም ጫን</string>
+    <string name="installed_version">የተጫነ ስሪት</string>
+    <string name="update_available">ዝማኔ ዝግጁ ነው</string>
+    <string name="apk_update_available">የመተግበሪያ ዝማኔ ዝግጁ ነው።</string>
+    <string name="recommend">ምከር</string>
+    <string name="roaming_restriction">የውሂብ ዝውውር ገደብ</string>
+    <string name="roaming_restriction_summary">በውሂብ ዝውውር ገደብ ምክንያት ማዘመን አልተቻለም።</string>
+    <string name="changelog">የለውጥ መዝገብ</string>
+    <string name="apk_update_available_summary">%s ዝግጁ የሆነ ዝማኔ አለው። አሁኑኑ ለመጫን እሺን ጠቅ ያድርጉ ወይም ከአንድ ቀን በኋላ ዝማኔ ለመፈተሽ ተወውን ይጫኑ።</string>
+    <string name="apk_removed">ይህ መተግበሪያ ተወግዷል።</string>
+    <string name="apk_available_items">አጠቃላይ%s የሚገኙ ንጥሎች</string>
+    <string name="apk_available_item">አጠቃላይ%s የሚገኝ ንጥል</string>
+    <string name="invalid_update_summary">ዝማኔው ልክ አይደለም፣ እባክዎ እንደገና ይፈትሹ።</string>
+    <string name="recheck">እንደገና ይሞክሩ</string>
+    <string name="image_download_exception_summary">አገልጋይን ማግኘት አልተቻለም፣ እባክዎ በኋላ እንደገና ይሞክሩ።</string>
+    <string name="apk_download_exception">አገልጋይን ማግኘት አይችልም</string>
+    <string name="installation_confirmation">የመጫን ማረጋገጫ</string>
+    <string name="apk_need_reboot_summary">ይህ የሶፍትዌር ዝማኔ ጭነት ካበቃ በኋላ ስርዓቱን በራስ ሰር ዳግም ያስጀምራል። አሁን መጫን ይፈልጋሉ?</string>
+    <string name="prepare_to_reboot">ዳግም ለማስጀመር አዘጋጅ</string>
+    <string name="prepare_to_reboot_summary">የተጫነው ሶስፍትዌር ቅንብሮችን ለማዋቀር ዳግም ማስጀመር ይፈልጋል። አሁን ዳግም እንዲያስጀምሩት እንመክራለን ወይም በኋላም ቢሆን ዳግም ማስጀመር ይችላሉ።</string>
+    <string name="prepare_to_reboot_force_summary">የተጫነው ሶስፍትዌር ቅንብሮችን ለማዋቀር ዳግም ማስጀመር ይፈልጋል። አሁን ዳግም ማስጀመርን እንመክራለን።</string>
+    <string name="reboot_fail">ዳግም ማስጀመር አልተሳካም</string>
+    <string name="reboot_fail_summary">API ባለመገኘቱ ምክንያት ዳግም ማስጀመር አይችልም። እባክዎ እራስዎ ዳግም ያስጀምሩ።</string>
+    <string name="apk_no_avaliable_size">ውስጣዊ የማከማቻ ቦታ መጠን በቂ ባለመሆኑ ማውረድ አይቻልም።</string>
+    <string name="update_finished">ዝማኔ ጨርሷል</string>
+    <string name="msg_root_warning">መሳሪያዎ ሁሉም ተፈቅዶበታል ወይም ይፋዊው ሶፍትዌር ተነካክቷል። የስርዓት ዝማኔን መቀጠል የስርዓት አለመረጋጋትን ወይም ስራ ማቆምን ሊያስከትል ይችላል፣ እንዲሁም የመሳሪያዎን ዋስትና ውጋቢስ ሊያደርግ ይችላል። መቀጠል እንደሚፈልጉ እርግጠኛ ነዎት?</string>
+    <string name="multi_image_update">አንዳንድ ዝግጁ ይእሆኑ የምስል ዝማኔዎች አሉ።</string>
+    <string name="available_update_list">የሚገኙ ዝማኔዎች ዝርዝር</string>
+    <string name="downloading_summary">እባክዎ ምስል ማውረዱን ይሰርዙ</string>
+    <string name="msg_erase_userdata_warning">ይህ ዝማኔ የተጠቃሚን ውሂብ መሰረዝ ይፈልጋል። መቀጠል ይፈልጋሉ?</string>
+    <string name="msg_autoupdate_date_fee_warning">በራስ ሰር ማዘመንን ማብራት ተጨማሪ ወጪዎችን ሊያስከትል ይችላል።</string>
+    <string name="invalid_update">ዝማኔው ልክ አይደለም።</string>
+    <string name="file_corrupted">ፋይሉ የተበላሸ በመሆኑ ምክንያት ስርዓቱ መላቅ አይችልም።</string>
+    <string name="ask_for_apk_check">የመተግበሪያ ዝማኔዎችን መፈተሽ ይፈልጋሉ?</string>
+    <string name="update_ota_self">የሶፍትዌር ዝማኔ በሂደት ላይ።</string>
+    <string name="ab_update_fail">የመጫን ችግር።</string>
+    <string name="ab_update_wrong_status">የዝማኔ ሞተር አሁን ባተሌ ነው። እባክዎ በኋላ እንደገና ይሞክሩ ወይም ዳግም ያስጀምሩ።</string>
+    <string name="ab_update_installing">ስርዓት በማዘመን ላይ</string>
+    <string name="tag_engineer_mode">መሐንዲስ ሞድ</string>
+    <string name="engineer_version_incorrect">የመሳሪያዎ ስሪት የተሳሳተ ነው</string>
+    <string name="msg_engineer_ota_restore">ይፋዊውን ስሪት ለመመለስ መታ ያድርጉ።</string>
+    <string name="msg_engineer_ota_restore_warning">ይህ ይፋዊውን ስሪት ይመልሳል። መቀጠል ይፈልጋሉ?</string>
+    <string name="silent_mode_data_fee_warning">ዝማኔ ዝግጁ ነው ዝማኔዎችን ማውረድ ተጨማሪ ወጪዎችን ሊያስከትል ይችላል። ከተቻለ ዝማኔዎችን በWi-Fi በኩል አውርድ።</string>
+    <string name="msg_updating_system">ስርዓት በማዘመን ላይ…</string>
+    <string name="msg_tap_to_reboot">ዳግም ለማስጀመር መታ ያድርጉ</string>
+    <string name="msg_pause_download">ማውረድን ባለበት አቁም</string>
+    <string name="notification_channel_name">የስርዓት ዝማኔ</string>
+    <string name="notification_channel_alert_name">አጠቃላይ ማሳወቂያዎች</string>
+</resources>

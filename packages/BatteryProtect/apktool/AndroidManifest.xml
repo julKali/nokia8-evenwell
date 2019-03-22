@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.evenwell.batteryprotect">
+    <protected-broadcast android:name="com.fihtdc.action.Phone_BatteryProtect_Screen"/>
+    <protected-broadcast android:name="com.fihtdc.action.BatteryProtect_CoolDown_Mode"/>
+    <protected-broadcast android:name="com.fihtdc.action.Phone_BatteryProtect_CoolDownMode"/>
+    <protected-broadcast android:name="ACTION_ACTIVITY_FINISH"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.STATUS_BAR"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.RESTART_PACKAGES"/>
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+    <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <application android:icon="@drawable/ic_batteryprotect" android:label="@string/app_label" android:name="com.evenwell.batteryprotect.aplifecycle.ApplicationBattery" android:resizeableActivity="false" android:taskAffinity="com.evenwell.batteryprotect" android:theme="@style/MyActivityTheme">
+        <receiver android:name="com.evenwell.batteryprotect.BatteryProtectOnReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <data android:path="com.evenwell.batteryprotect" android:scheme="package"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.evenwell.batteryprotect.period_check_service"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.evenwell.batteryprotect.DetectBatteryService"/>
+        <service android:name="com.evenwell.batteryprotect.DetectBatteryServiceV2"/>
+        <service android:name="com.evenwell.batteryprotect.WearDetectBatteryService"/>
+        <receiver android:name="com.evenwell.batteryprotect.wear.jw3.JW3Receiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.evenwell.batteryprotect.jw3.button_feedback"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/fih_battery_protect_warning_title" android:name="com.evenwell.batteryprotect.activity.BatteryAlarmActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.evenwell.batteryprotect.activity.BatteryHighChargingFullActivity" android:taskAffinity="com.evenwell.batteryprotect" android:theme="@style/FullChargeActivityTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.evenwell.batteryprotect.activity.BatteryLowChargingFullActivity" android:taskAffinity="com.evenwell.batteryprotect" android:theme="@style/FullChargeActivityTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/fih_battery_protect_cooldown_title" android:name="com.evenwell.batteryprotect.activity.BatteryCoolDownActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/fih_battery_protect_normalmode_title" android:name="com.evenwell.batteryprotect.activity.BatteryNormalActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/fih_battery_protect_maxtemp_title" android:name="com.evenwell.batteryprotect.activity.BatteryMaxTempActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/fih_battery_protect_low_temp_title" android:name="com.evenwell.batteryprotect.activity.BatteryLowTempActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/fih_battery_protect_low_temp_title" android:name="com.evenwell.batteryprotect.activity.BatteryInstallErrorActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/fih_battery_protect_bl_warning_title" android:name="com.evenwell.batteryprotect.activity.BatteryBLAlarmActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/fih_battery_protect_aging_title" android:name="com.evenwell.batteryprotect.activity.BatteryFCCActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.evenwell.batteryprotect.batterylevel.BatteryLevelActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.evenwell.batteryprotect.wear.NotificationDetailActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.evenwell.batteryprotect.utils.InvalidBatteryNotifyDialog" android:taskAffinity="com.evenwell.batteryprotect" android:theme="@style/Transparent"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:label="@string/fih_battery_protect_maxtemp_title" android:name="com.evenwell.batteryprotect.activity.v2.BatteryMaxTempActivity" android:taskAffinity="com.evenwell.batteryprotect"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.evenwell.batteryprotect.activity.v2.BatteryWarningActivity" android:taskAffinity="com.evenwell.batteryprotect" android:theme="@style/Transparent"/>
+    </application>
+</manifest>

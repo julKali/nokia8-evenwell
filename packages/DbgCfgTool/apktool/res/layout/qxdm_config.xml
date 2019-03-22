@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/FileSize" />
+            <Spinner android:id="@id/mainSpinner1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/RotateFileCount" />
+            <Spinner android:id="@id/mainSpinner2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="130.0dip" android:layout_height="wrap_content" android:text="@string/MaxDirNo" />
+            <Spinner android:id="@id/mainSpinner3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/sp_prompt" />
+        </LinearLayout>
+        <Button android:id="@id/buttonSaveConfig" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/saveconfig" />
+    </LinearLayout>
+</ScrollView>

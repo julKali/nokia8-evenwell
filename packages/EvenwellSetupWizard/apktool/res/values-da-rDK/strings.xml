@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Hjælpefunktioner</string>
+    <string name="available_via_passpoint">Tilgængelig via %1$s</string>
+    <string name="back_btn_lebel">TILB.</string>
+    <string name="backup_and_restore_description">"Hvis du har sikkerhedskopieret din konto, kan du gendanne den på denne telefon nu.
+
+Du kan ændre backup-indstillinger når som helst i Indstillinger."</string>
+    <string name="backup_and_restore_title">Backup og gendan</string>
+    <string name="connected_via_passpoint">Tilsluttet via %1$s</string>
+    <string name="connected_via_wfa">Tilsluttet via Wi‑Fi-assistent</string>
+    <string name="datausage_dialog_negitive_btn">Annuller</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Dato- og tidsindstill.</string>
+    <string name="date_and_time_settings_title">Dato og tid</string>
+    <string name="date_time_24hour">Brug 24-timers format</string>
+    <string name="date_time_auto">Automatisk dato og tid</string>
+    <string name="date_time_auto_summaryOff">Brug tiden fra netværket</string>
+    <string name="date_time_auto_summaryOn">Brug tiden fra netværket</string>
+    <string name="date_time_set_date">Indstil dato</string>
+    <string name="date_time_set_time">Sæt tid</string>
+    <string name="date_time_set_timezone">Vælg tidszone</string>
+    <string name="device_checking_message">Velkommen</string>
+    <string name="emergency_dial_hmd_message">Nødsituation</string>
+    <string name="finish_button_label">AFSLUT</string>
+    <string name="hmd_user_experience_program_message">Din deltagelse i brugeroplevelses programmet hjælper HMD Global til bedre at forstå, hvad du synes om din Nokia-enhed, og hvad du synes skal forbedres. Vi kan fra tid til anden modtage anonyme data med tekniske data om din enhed, fx en fil med data om et softwarenedbrud, der måtte være sket. Bemærk, at dataene ikke vil blive overført via en mobilforbindelse Vi er altid glade for at høre fra dig, om hvad du synes om din Nokia-enhed.</string>
+    <string name="hmd_user_experience_program_title">Brugeroplevelsespgm.</string>
+    <string name="idle_too_long_toast">Tlf. sat i tomgang nogle gange. Luk ned nu for at spare på strømmen.</string>
+    <string name="insert_sim_cards">Indsæt SIM-kort</string>
+    <string name="insert_sim_cards_prompt_content">"Ved du ikke, hvordan du skal gøre? Tjek instruktionerne, der fulgte med din telefon.
+
+Når du indsætter dine SIM-kort, kan det vare nogle få sekunder, inden de bliver aktiveret."</string>
+    <string name="language_selection_cancel_btn">ANNULLER</string>
+    <string name="light_room_description">%1$s understøtter optagelse af RAW-billeder (DNG). Du kan redigere direkte på din nye smartphone takket være vores partneraftale med Adobe.&lt;br/>&lt;br/>Download Adobe Photoshop Lightroom CC fra Google Play-butikken nu.</string>
+    <string name="light_room_title">Er du vild med at fotografere?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="nevigation_selection_back">Tilbage</string>
+    <string name="next_btn_lebel">NÆSTE</string>
+    <string name="not_now">IKKE NU...</string>
+    <string name="passpoint_content">Loginoplysninger til %1$s</string>
+    <string name="passpoint_label">Gemt via</string>
+    <string name="please_select_phase2">Fase 2-godkendelse</string>
+    <string name="proxy_error_empty_host_set_port">Portfeltet skal være tomt, hvis værtsfeltet er tomt.</string>
+    <string name="proxy_error_empty_port">Du skal udfylde portfeltet.</string>
+    <string name="proxy_error_invalid_exclusion_list">Den indtastede udeladelsesliste er ikke korrekt formateret. Indtast en kommasepareret liste over udeladte domæner.</string>
+    <string name="proxy_error_invalid_port">Den indtastede port er ikke gyldig.</string>
+    <string name="proxy_exclusionlist_label">Brug ikke proxy til</string>
+    <string name="proxy_hostname_label">Proxyens værtsnavn</string>
+    <string name="proxy_port_label">Proxy-port</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"Webadresse til PAC: "</string>
+    <string name="proxy_warning_limited_support">HTTP-proxyen anvendes af browseren, men må ikke bruges af andre apps.</string>
+    <string name="saved_network">Gemt af %1$s</string>
+    <string name="select_sim_card">Vælg SIM-kort</string>
+    <string name="setup_complete_hmd">Du er parat til at gå i gang...</string>
+    <string name="setup_complete_hmd_1">Du er næsten klar til at gå i gang...!</string>
+    <string name="setup_complete_main">Du er</string>
+    <string name="setup_complete_sub">KLAR TIL BRUG</string>
+    <string name="setup_completed_congratulations">Til lykke</string>
+    <string name="setup_finish">LAD OS KOMME I GANG</string>
+    <string name="sim_editor_title">SIM-stik %1$d</string>
+    <string name="skip_add_account_button_label">Ikke nu</string>
+    <string name="skip_button_label">Spring over</string>
+    <string name="term_agree_text">Enig</string>
+    <string name="upload_agent_hmd_des_text_3">"Når du trykker på \"LAD OS KOMME I GANG\", accepterer du at deltage i brugeroplevelsesprogrammet. &lt;a href='launch.UserExperienceActivity://Kode'>Flere oplysninger&lt;/a>. Husk, at du altid kan tilmelde dig senere via Indstillinger."</string>
+    <string name="upload_agent_title">Brugeroplevelsespgm</string>
+    <string name="welcome_hmd_term_of_use_4">"Når du trykker på knappen, accepterer du &lt;a href='launch.TermOfServiceActivity://Kode'>tjenestevilkårene&lt;/a> og &lt;a href='launch.AddUploadAgentHandler://Kode'>politikken om beskyttelse af personlige oplysninger&lt;/a>. Oplysningerne om aktivering af enheder, hvor placeringen af enheden identificeres én gang, sendes til HMD Global.&lt;br/>&lt;br/>Meddelelser om automatisk softwareopdatering aktiveres, og du får installeret de seneste opdateringer. Dette kan bruge en mindre del af dit databudget. Tjenesterne får adgang til internettet, når de har brug for det.&lt;br/>&lt;br/>Disse tjenester koster gebyrer for mobildata, når de har adgang til mobilnetværk."</string>
+    <string name="welcome_hmd_term_of_use_5">"Når du trykker på knappen, accepterer &lt;a href='launch.TermOfServiceActivity://Kode'>tjenestevilkårene&lt;/a>. Oplysningerne om aktivering af enheder, hvor placeringen af enheden identificeres én gang, sendes til HMD Global. Datagebyrer kan være gældende. Data anvendes i overensstemmelse med &lt;a href='launch.AddUploadAgentHandler://Kode'>privatlivspolitikken&lt;/a>."</string>
+    <string name="welcome_message">Velkommen</string>
+    <string name="welcome_start_button_label">START</string>
+    <string name="wifi_add_network">Tilføj netværk</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Rulleliste med avancerede indstillinger. Dobbelttryk for at udvide.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Rulleliste med avancerede indstillinger. Dobbelttryk for at skjule.</string>
+    <string name="wifi_and_mobile_skipped_message">"Hvis du opretter forbindelse til et netværk, kan du hurtigt konfigurere din telefon.
+
+Uden en forbindelse kan du ikke:
+
+"<li>Logge på din skykonto</li>"
+
+"<li>Få softwareopdateringer</li>"
+
+"<li>Automatisk indstille dato og tid</li></string>
+    <string name="wifi_auth_password_wrong">Adgangskoden kan være forkert</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Annuller</string>
+    <string name="wifi_certificate">Certifikat</string>
+    <string name="wifi_connect">Opret forbindelse</string>
+    <string name="wifi_connected_no_internet">Tilsluttet, intet internet</string>
+    <string name="wifi_disabled_generic">Deaktiveret</string>
+    <string name="wifi_disabled_network_failure">IP-konfigurationsfejl</string>
+    <string name="wifi_disabled_password_failure">Godkendelsesproblem</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Angiv ikke</string>
+    <string name="wifi_do_not_validate_eap_server">Bekræft ikke</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Der er intet angivet certifikat. Din forbindelse er ikke privat.</string>
+    <string name="wifi_dont_skip">GÅ TILBAGE</string>
+    <string name="wifi_eap_anonymous">Anonym identitet</string>
+    <string name="wifi_eap_ca_cert">CA-certifikat</string>
+    <string name="wifi_eap_domain">Domæne</string>
+    <string name="wifi_eap_identity">Identitet</string>
+    <string name="wifi_eap_method">EAP-metode</string>
+    <string name="wifi_eap_user_cert">Brugercertifikat</string>
+    <string name="wifi_fail_to_scan">Kan ikke søge efter netværk</string>
+    <string name="wifi_failed_connect_message">Der kunne ikke oprettes forbindelse til netværket</string>
+    <string name="wifi_failed_forget_message">Netværket kunne ikke glemmes</string>
+    <string name="wifi_failed_save_message">Netværk kunne ikke gemmes</string>
+    <string name="wifi_forget">Glem</string>
+    <string name="wifi_frequency">Frekvens</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_ip_address">IP-adresse</string>
+    <string name="wifi_ip_settings">IP-indstillinger</string>
+    <string name="wifi_ip_settings_invalid_dns">Indtast en gyldig DNS-adresse.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Angiv en gyldig gatewayadresse.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Indtast en gyldig IP-adresse.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Angiv gyldigt netværkspræfiks på 0-32 tegn.</string>
+    <string name="wifi_multiple_cert_added">(Flere certifikater er tilføjet)</string>
+    <string name="wifi_network_prefix_length">Længde på netværkspræfiks</string>
+    <string name="wifi_no_domain_warning">Domæne skal angives.</string>
+    <string name="wifi_no_internet">Ingen internetforbindelse</string>
+    <string name="wifi_no_internet_no_reconnect">Kan ikke oprette forbindelse automatisk</string>
+    <string name="wifi_not_in_range">Uden for området</string>
+    <string name="wifi_password">Adgangskode</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_remembered">Gemt</string>
+    <string name="wifi_save">Gem</string>
+    <string name="wifi_security">Sikkerhed</string>
+    <string name="wifi_security_none">Ingen</string>
+    <string name="wifi_setting_title">Opret forbindelse</string>
+    <string name="wifi_shared">Del med andre enhedsbrugere</string>
+    <string name="wifi_show_advanced">Avancerede indstillinger</string>
+    <string name="wifi_show_password">Vis adgangskode</string>
+    <string name="wifi_signal">Signalstyrke</string>
+    <string name="wifi_skip_anyway">SPRING OVER ALLIGEVEL</string>
+    <string name="wifi_speed">Linkhastighed</string>
+    <string name="wifi_ssid">Netværksnavn</string>
+    <string name="wifi_ssid_hint">Indtast SSID</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_unchanged">(uændret)</string>
+    <string name="wifi_unspecified">Vælg</string>
+    <string name="wifi_use_system_certs">Brug systemets certifikater</string>
+    <string name="zone_auto">Auto-tidszone</string>
+    <string name="zone_auto_summaryOff">Brug netværkets tidszone</string>
+    <string name="zone_auto_summaryOn">Brug netværkets tidszone</string>
+</resources>

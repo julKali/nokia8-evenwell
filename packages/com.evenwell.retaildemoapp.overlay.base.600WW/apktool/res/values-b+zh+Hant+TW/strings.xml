@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="system_busy_msg">系統忙碌中。請稍候再試一次。</string>
+    <string name="no_new_demo_found_msg">"找不到新展示素材。
+
+輕觸「確定」以啟動展示模式？"</string>
+    <string name="copying">複製中…</string>
+    <string name="downloading">下載中…</string>
+    <string name="download_complete_msg">"下載完成。
+
+輕觸「確定」以啟動展示模式。"</string>
+    <string name="download_fail_msg">"無法從網際網路下載展示素材。
+
+輕觸「確定」以啟動展示模式？"</string>
+</resources>

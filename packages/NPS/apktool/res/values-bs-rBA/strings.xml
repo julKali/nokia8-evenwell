@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">OTKAŽI</string>
+    <string name="DONE">ZAVRŠENO</string>
+    <string name="NEXT">SLJEDEĆI</string>
+    <string name="OK">U redu</string>
+    <string name="PREVIOUS">PRETHODNO</string>
+    <string name="alert_empty_desc">Dodajte svoj opis!</string>
+    <string name="alert_warning_title">Savjeti</string>
+    <string name="enter_comments">Unesite komentare (1000 znakova)</string>
+    <string name="extremely_likely">(Izuzetno vjerovatno)</string>
+    <string name="feedback">Pošaljite komentare</string>
+    <string name="helps_us_improve_our_products">Vaše povratne informacije nam pomažu da poboljšamo naše proizvode!</string>
+    <string name="intro_title">Koliko je vjerovatno da ćete preporučiti ovaj telefon prijatelju/ci ili kolegi/ci?</string>
+    <string name="msg_send_after">Poruka će se automatski učitati kada uređaj bude na mreži. Hvala vam na odgovoru.</string>
+    <string name="msg_send_fail">Slanje nije uspjelo. Poruka će se automatski učitati kada uređaj bude na mreži. Hvala vam na odgovoru.</string>
+    <string name="no_ask_feedback_again_text">Nema više savjeta</string>
+    <string name="no_showagain_text">Nema više savjeta</string>
+    <string name="not_at_all_likely">(Nimalo vjerovatno)</string>
+    <string name="privacy_context_wifi">"Poštovani korisniče, 
+
+dobro došli u klijentski softver povratnih informacija. Pažljivo pročitajte i ostvarite temeljit uvid u uslove usluge prije korištenja ovog proizvoda. Klikom na opciju「Slažem se」naznačavate da ste podrobno shvatili ovaj softver i prihvatate njegovo korištenje. Ako se NE slažete s ovim uslovima, pritisnite「Izađi」. Za pružanje sveobuhvatnih usluga, Aplikaciji su potrebne sljedeće dozvole: 
+1. Pristup internetu i WLAN mreži za slanje povratnih informacija 
+2. Uvoz IMEI, PSN i MNC\\MCC informacija za automatsko preuzimanje osnovnih informacija o telefonu"</string>
+    <string name="select_a_value">Izaberite vrijednost</string>
+    <string name="str_agree">Slažem se</string>
+    <string name="str_leave">Izađi</string>
+    <string name="submit_fail">Slanje nije uspjelo</string>
+    <string name="submit_success">Hvala vam na odgovoru</string>
+    <string name="thank_your_feedback">Hvala vam na povratnim informacijama!</string>
+    <string name="we_appreciate_your_help">Cijenimo vašu pomoć, vi pomažete da Nokia proizvodi budu najbolji u svijetu</string>
+    <string name="we_hope_enjoying_nokia_device">Nadamo se da ćete uživati u korištenju Nokia uređaja. Vaše povratne informacije će poboljšati naše proizvode</string>
+    <string name="we_will_contact_you_again">Kontaktirat ćemo vas ponovo u budućnosti.</string>
+    <string name="we_will_contact_you_again_enjoy">Kontaktirat ćemo vas ponovo u budućnosti. Uživajte u novom Nokia uređaju!</string>
+    <string name="why_you_gave_this_score">Recite nam zašto ste dali ovu ocjenu:</string>
+</resources>

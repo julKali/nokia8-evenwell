@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP Client</string>
+    <string name="fih_cp_notify_statusbar_content">رسالة تهيئة جديدة</string>
+    <string name="fih_cp_notification_channel_name">الإشعارات العامة</string>
+    <string name="fih_cp_ui_mode_ok">موافق</string>
+    <string name="fih_cp_ui_mode_postpone">تعليق</string>
+    <string name="fih_cp_ui_mode_delete">حذف</string>
+    <string name="fih_cp_apply_dialog_head_msg">تهيئة جديدة</string>
+    <string name="fih_cp_apply_dialog_body_msg">هل تريد استخدام تكوين جديد؟</string>
+    <string name="fih_cp_toast_info_update">تم تحديث ملف التعريف بنجاح</string>
+    <string name="fih_cp_toast_info_create">أُنشيء ملف التعريف بنجاح</string>
+    <string name="fih_cp_editor_apn_name">الاسم</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">وكيل</string>
+    <string name="fih_cp_editor_apn_http_port">منفذ</string>
+    <string name="fih_cp_editor_apn_user">اسم المستخدم</string>
+    <string name="fih_cp_editor_apn_password">كلمة المرور</string>
+    <string name="fih_cp_editor_apn_server">الخادم</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">وكيل MMS</string>
+    <string name="fih_cp_editor_apn_mms_port">منفذ MMS</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">نوع المصادقة</string>
+    <string name="fih_cp_editor_apn_auth_type_none">بدون</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP أو CHAP</string>
+    <string name="fih_cp_editor_apn_type">نوع APN</string>
+    <string name="fih_cp_btn_ok">موافق</string>
+    <string name="fih_cp_btn_cancel">إلغاء</string>
+    <string name="fih_cp_btn_next">التالي</string>
+    <string name="fih_cp_btn_back">رجوع</string>
+    <string name="fih_cp_apn_not_set">&lt;غير محدد></string>
+    <string name="fih_cp_error_title">تنبيه</string>
+    <string name="fih_cp_error_name_empty">لا يمكن أن يكون حقل الاسم فارغًا.</string>
+    <string name="fih_cp_error_apn_empty">لا يمكن أن يكون حقل APN فارغًا.</string>
+    <string name="fih_cp_error_other">خطأ في تركيب البيانات.</string>
+    <string name="fih_cp_input_pin_code">إدخال رمز PIN:</string>
+    <string name="fih_cp_input_pin_code_ok">موافق</string>
+    <string name="fih_cp_input_pin_code_cancel">إلغاء</string>
+    <string name="fih_cp_input_pin_code_incorrect">رمز PIN غير صحيح.</string>
+    <string name="fih_cp_input_pin_code_empty">الرجاء إدخال رمز PIN.</string>
+    <string name="fih_cp_sim_not_available">بطاقة SIM غير متوفرة.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:textSize="25.0dip" android:id="@id/start_btn" android:layout_width="150.0dip" android:layout_height="50.0dip" android:text="@string/start_btn_label" android:layout_alignParentTop="true" />
+    <Button android:textSize="25.0dip" android:id="@id/stop_btn" android:layout_width="150.0dip" android:layout_height="50.0dip" android:text="@string/stop_btn_label" android:layout_alignParentTop="true" />
+    <Button android:textSize="25.0dip" android:id="@id/enable_all_btn" android:layout_width="wrap_content" android:layout_height="50.0dip" android:text="@string/enable_all_btn_label" android:layout_alignParentTop="true" />
+    <CheckBox android:textSize="25.0dip" android:id="@id/floatview_checkbox" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/floatview_checkbox_label" android:layout_alignParentTop="true" />
+    <Button android:textSize="25.0dip" android:id="@id/upload_to_agent" android:layout_width="wrap_content" android:layout_height="50.0dip" android:text="@string/upload_to_agent" android:layout_alignParentTop="true" />
+    <Button android:textSize="25.0dip" android:id="@id/set_alarm_time" android:layout_width="wrap_content" android:layout_height="50.0dip" android:text="@string/set_alarm_time" android:layout_alignParentTop="true" />
+    <Button android:textSize="25.0dip" android:id="@id/power_mix_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/start_power_mix" android:layout_alignParentTop="true" />
+    <TextView android:id="@id/standby_current_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" />
+    <CheckBox android:textSize="25.0dip" android:id="@id/dbg_checkbox" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dbg_checkbox_label" android:layout_alignParentTop="true" />
+    <CheckBox android:textSize="25.0dip" android:id="@id/system_logger_checkbox" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/system_Logger_checkbox_label" android:layout_alignParentTop="true" />
+</LinearLayout>

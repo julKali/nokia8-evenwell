@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate patungo sa home</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang mga opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng isang app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi gamit ang %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="accessibility_text">Kakayahang Ma-access</string>
+    <string name="account_intro_description">Maaari kang masiyahan sa mga serbisyo ng [BRAND_NAME] sa pamamagitan ng pagkumpleto sa ilang madadaling hakbang.</string>
+    <string name="account_intro_title">Mga serbisyo ng [BRAND_NAME]</string>
+    <string name="add_account_button_label">I-set up ang account</string>
+    <string name="add_baidu_button_label">I-login ang 百度云</string>
+    <string name="add_infocus_service_account">Magdagdad ng account sa mga serbisyong [BRAND_NAME]</string>
+    <string name="available_via_passpoint">Available sa pamamagitan ng %1$s</string>
+    <string name="back_btn_lebel">BALIK</string>
+    <string name="backup_and_restore_description">"Kung na-backup mo na nuong nakaraan ang iyong account, maaari mo itong i-restore ngayon sa teleponong ito.
+
+Maaari mong baguhin ang settings ng backup sa anumang oras sa Settings."</string>
+    <string name="backup_and_restore_title">I-backup at i-restore</string>
+    <string name="baidu_intro_description">Maaari kang masiyahan sa magkatugmang integrasyon ng cloud storage sa 百度云 sa pamamagiatan ng pagkumpleto sa ilang madadaling hakbang.</string>
+    <string name="baidu_intro_title">Cloud storage para sa Baidu</string>
+    <string name="baidu_progress_dialog_des">Mangyaring maghintay…</string>
+    <string name="choose_timezone">Pumili ng time zone</string>
+    <string name="connected_via_passpoint">Nakakonekta sa pamamagitan ng %1$s</string>
+    <string name="connected_via_wfa">Nakakonekta sa pamamagitan ng Wi‑Fi assistant</string>
+    <string name="datausage_dialog_negitive_btn">Ikansela</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Petsa &amp; settings ng oras</string>
+    <string name="date_and_time_settings_summary">I-set ang petsa,oras, time zone &amp; format</string>
+    <string name="date_and_time_settings_title">Petsa &amp; oras</string>
+    <string name="date_and_time_settings_title_setup_wizard">I-set ang petsa at oras</string>
+    <string name="date_picker_title">Petsa</string>
+    <string name="date_time_24hour">Gamitin ang 24-hour na format</string>
+    <string name="date_time_auto">Awtomatikong petsa &amp; oras</string>
+    <string name="date_time_auto_summaryOff">Gamitin ang oras na ibinigay ng network</string>
+    <string name="date_time_auto_summaryOn">Gamitin ang oras na ibinigay ng network</string>
+    <string name="date_time_date_format">Piliin ang format ng petsa</string>
+    <string name="date_time_set_date">Itakda ang petsa</string>
+    <string name="date_time_set_time">I-set ang oras</string>
+    <string name="date_time_set_timezone">Piliin ang time zone</string>
+    <string name="device_checking_message">Maligayang pagdating</string>
+    <string name="dropbox_fih_description">Magkaroon ng 2 GB na espasyo sa Dropbox para awtomatikong mag-save ng iyong mga larawan at mga video</string>
+    <string name="dropbox_fih_signin">Mag-sign in sa Dropbox</string>
+    <string name="dropbox_fih_signup">Mag-sign up sa Dropbox</string>
+    <string name="dropbox_fih_title">Dropbox</string>
+    <string name="emergency_dial_hmd_message">Emerhensiya</string>
+    <string name="emergency_dial_message">Emerhensiyang tawag</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="fih_legal_message">"Mga tuntunin ng [BRAND_NAME_PROXY] Paggamit ng Software
+
+
+
+Petsa ng Bisa: Mayo 20, 2016
+
+
+
+Ang sumusunod na Mga Tuntunin at Kondisyon (tinutukoy bilang \" Mga Tuntunin \") ay binubuo ng legal na kasunduan na sumasaklaw sa iyong paggamit ng anumang [BRAND_NAME_PROXY] Software sa pagitan mo at ng [BRAND_NAME_PROXY] Inc., at ng ahente nito, ang Commtiva Technology Ltd. (magkakasamang tinutukoy bilang \"[BRAND_NAME_PROXY]\") at nalalapat sa iyong paggamit ng [BRAND_NAME_PROXY] Software , kabilang ang ngunit hindi limitado sa pag-download, pag-install, awtomatikong pag-renew (tinutukoy bilang \" Serbisyo ng Software \"). Sa pamamagitan ng paggamit ng [BRAND_NAME_PROXY] Software sumasang-ayon ka na mapailalim sa Mga Tuntunin na ito; kung hindi ka sumasang-ayon sa Mga Tuntunin, huwag i-download, kopyahin, gamitin o o panatilihin ang [BRAND_NAME_PROXY] Software.
+
+
+
+1. Mga Tuntunin sa Paggamit
+
+Hangga't sumusunod ka sa Mga Tuntunin na ito, [BRAND_NAME_PROXY] ay nagbibigay sa iyo ng personal, di-eksklusibo, di-naipapasa, nababawi at limitadong sakop para magamit ang [BRAND_NAME_PROXY] Mga Serbisyo ng Software. [BRAND_NAME_PROXY] will install object code into your [BRAND_NAME_PROXY] mobile smart device (referred to as \" [BRAND_NAME_PROXY] Handset \") via internet. You acknowledge and consent that [BRAND_NAME_PROXY] Software on your [BRAND_NAME_PROXY] Handset cannot be used for commercial purpose or transferred to any third party.
+
+You further agree that you will not use [BRAND_NAME_PROXY] Software in any of the following manner:
+
+(a)\u0009Pag-crack ng [BRAND_NAME_PROXY] Software (kabilang ang mga batayang teknolohiya), o paggamit ng [BRAND_NAME_PROXY] Software sa anumang device na hindi branded in [BRAND_NAME_PROXY];
+
+(b)\u0009Pagsusuri, pag-decompile, reverse engineering, pag-decode, pagkopya, pagbago ng [BRAND_NAME_PROXY] Software, o paggawa ng pagmumulang katulad na trabaho para sa anumag layunin;
+
+(c)\u0009Paggawa ng anumang aktibidad kabilang ang ngunit hindi limitado sa paglilipat, pagpapaupa, pagpapautang, o pagsa-sublicense, na sumasalungat sa Mga Tuntunin at nagbibigay-daan sa [BRAND_NAME_PROXY] Software na maging pampubliko o sa anumang third party na magamit, ma-access, o kolektahin ang [BRAND_NAME_PROXY] Software;
+
+(d)\u0009Pag-alis ng anumang abiso sa pag-aari, logo, o trademark sa mga uri ng [BRAND_NAME_PROXY] Software o dokumento nang walang paunang [BRAND_NAME_PROXY] nasusulat na pahintulot;
+
+(e)\u0009Paggamit ng [BRAND_NAME_PROXY] Software sa anumang paraan na labag sa kasalukuyang batas sa panahong iyon o paglabag sa mga karapatan ng ibang partido;
+
+(f)\u0009Paggamit sa [BRAND_NAME_PROXY] Software sa mga environment kung saan ipinagbabawal o nililimitahan ang paggamit, kabilang ang ngunit hindi limitado sa lugar ng flight control, istasyon ng gas, kagamitang nukleyar; o
+
+(g)\u0009Paggamit ng [BRAND_NAME_PROXY] Software sa paraang ipinagbabawal ng Mga Tuntunin.
+
+
+
+Upang masiguro na ang [BRAND_NAME_PROXY] Handset at [BRAND_NAME_PROXY] Software ay gumagana nang maayos, ipinapangako mo na hindi mo sisirain o tatanggalin ang (mga) label sa iyong [BRAND_NAME_PROXY] Handset nang walang tulong ng [BRAND_NAME_PROXY] personnel. Ang mga hindi pinahihintulutang gawaing ito ay makakaapekto sa saklaw at tagal na ibinibigay ng warranty [BRAND_NAME_PROXY] sa iyo.
+
+
+
+2. Patakaran sa Privacy
+
+Tinatanggap at sinasang-ayunan mo na [BRAND_NAME_PROXY] ay maaaring mangolekta at magpanatili ng anumang impormasyon, kabilang ang ngunit hindi limitado sa uri ng mode, serial number, IMEI/MEID code, Bersyon ng HW, Bersyon ng SW, naiipong oras, SKU ID, mga default static at bersyon ng OS sa iyong [BRAND_NAME_PROXY] Handset (tinukoy sa \" Impormasyon \"). 
+
+S pangyayaring ang [BRAND_NAME_PROXY] ay mangailangan na magbunyag ng anumang Impormasyon sa ahensya ng gobyerno o sistema ng korte, ggawin ng [BRAND_NAME_PROXY] ang ayon sa kinakailangan.
+
+
+
+[BRAND_NAME_PROXY] Ipagbibigay-alam ng Handset sa [BRAND_NAME_PROXY] ang estado na ang [BRAND_NAME_PROXY] Handset ay hindi naging konektado sa mobile network sa hindi bababa sa 14 na araw simula ng petsa ng pagbili.
+
+
+
+Mangyaring sumangguni sa [BRAND_NAME_PROXY] Mga Patakaran sa Privacy para sa mga detalye.
+
+
+
+3. Ang Serbisyong Pang-suporta ay
+
+[BRAND_NAME_PROXY] magbibigay ng Mga Software Service, kabilang na ngunit hindi limitado sa, mga update at upgrade, sa iyong [BRAND_NAME_PROXY] Software ayong sa kasalukuyang kalagayan noon [BRAND_NAME_PROXY] na makukuha [BRAND_NAME_PROXY] sa Handset.
+  
+[BRAND_NAME_PROXY] magbibigay ng mga update, patch o dagdag na elemento sa iyong [BRAND_NAME_PROXY] Software pagtapos ng iyong paggamit nf [BRAND_NAME_PROXY] Software sa internet at magiging batay sa Mga Tuntunin.
+
+
+
+[BRAND_NAME_PROXY] may karapatang magtanggal ng iyong karapatan na makakuha ng anumang [BRAND_NAME_PROXY] Serbisyo sa internet hanggang sa paggamit ng [BRAND_NAME_PROXY] Software at Serbisyo nang maayos.
+
+[BRAND_NAME_PROXY] maglalathala ng mga sumusunod na bersiyon ng [BRAND_NAME_PROXY] Software at hihingin sa iyo na gumamit ng pinaka-updated na bersiyon ng OS.
+
+
+
+4. Awtomatikong mag-update
+
+Upang mapatibay at mapahusay ang iyong sariling [BRAND_NAME_PROXY] Handset, ito ay naka-preset na awtomatikong mag-download ng pinakabagong firmware at software mula sa [BRAND_NAME_PROXY] 
+
+
+
+Upang tiyakin ang kaligtasan at katatagan ng iyong [BRAND_NAME_PROXY] Handset, at sang-ayon ka na sumunod sa mga kinakailangang tagubilin para sa setting at sumunod sa mga tagubilin sa bilang mga tagubilin ng [BRAND_NAME_PROXY]. Dahil sumang-ayon ka na mag-download ng pinakabagong firmware o software, ito ay itinuturing na iyong pagtanggap sa pag-renew at pag-install.
+
+
+
+Upang iwasan ang pagkawala ng iyong mga dokumento, litrato, teksto, mga sound file, at kahit anong uri ng mga de-kuryenteng rekord na maaaring mawala o masira habang ang [BRAND_NAME_PROXY] Handset ay nagsasagawa ng mga update, ikaw ang may responibilidad na mag-backup ng lahat ng nasabing mga de-kuryenteng rekord na naka-store sa [BRAND_NAME_PROXY] Handset bago i-download ang pinakabagong bersiyon ng firmware o software.
+
+
+
+Kapag ang iyong [BRAND_NAME_PROXY] Handset ay awtomatikong nag-update o nag-update na may pahintulot mo mula sa pamamagitan ng mensahe, ito ay nangangahulugang ikaw ay sang-ayon sa mga sumusunod na mga pahintulot:
+
+(a)\u0009Pag-update ng software: 
+
+Ikaw ay sang-ayon at kumilala na [BRAND_NAME_PROXY] maaaring kumonekta sa internet upang masuri ang software at update status sa iyong [BRAND_NAME_PROXY] Handset. Kung [BRAND_NAME_PROXY] maglabas ng kahit anong abiso ng pag-upgrade, [BRAND_NAME_PROXY] pinahihintulutan kang mag-update [BRAND_NAME_PROXY] ng mga bersiyon at status [BRAND_NAME_PROXY] sa pamamagitan ng Serbisyo.
+
+Kapag may bagong [BRAND_NAME_PROXY] Software na magagamit, ikaw ay sang-ayon na hayaan [BRAND_NAME_PROXY] na mag-padala ng abiso ng mga update. Kung kupirmahin mo ang mga bagong update, ito ay nangangahulugan na ikaw ay sang-ayon na hayaan [BRAND_NAME_PROXY] na awtomatikong i-update ang iyong [BRAND_NAME_PROXY] Handset.
+
+(b)\u0009Pag-sync at pag-update ng mga nilalaman:
+
+Matapos mong i-konekta ang iyong [BRAND_NAME_PROXY] Handset sa iyong computer o ibang aparato, ang iyong [BRAND_NAME_PROXY] Handset ay awtomatikong ia-update ng mga kaugnay na nilalaman at ibang impormasyon (hal: impormasyon ng kontak, kalendaryo, mga bookmark at mga file.)
+
+
+
+5. Paglalaan ng lahat na pagmamay-ari at iba pang karapatan sa [BRAND_NAME_PROXY] Software
+
+Bagaman ikaw ay lisensyado na gumamit ng [BRAND_NAME_PROXY] Mga Software Service [BRAND_NAME_PROXY], ang mga kasosyo at supplier nito ay pananatilihin lahat [BRAND_NAME_PROXY] ng mga karapatan sa Software kabilang ngunit hindi limitado sa pagmamay-ari, karapatang magpalathala, at iba pang karapatang intelektwal sa pag-aari.
+
+
+
+Lahat ng [BRAND_NAME_PROXY] karapatan sa Software ay protektado ng mga batas at internasyonal na kasunduan.
+
+
+
+6. Ang Disclaimer (pagbitiw sa karapatan)
+
+[BRAND_NAME_PROXY] ay walang ginagawang paghayag o garantiya, inihayag o ipinahiwatig, kabilang na ngunit walang limitasyon sa, mga ipinahayag na garantiya na kakayahang maibenta, sa kasiya-siyang kalidad, at kalakasan para sa prtikular na layunin, or walang panghihimasok. 
+
+[BRAND_NAME_PROXY] walang ginagarantiya na:
+
+(a)\u0009Ang anumang [BRAND_NAME_PROXY] Serbisyo na iyong nakuha ay magiging tama at maaasahan; o
+
+(b)\u0009[BRAND_NAME_PROXY] Iahatid ang Serbisyo nang walang tigil, nasa oras, ligtas na paraan; o
+
+(c)\u0009Ang anumang sira o error sa Software na ibinigay ay maitatama kaagad.
+
+
+
+[BRAND_NAME_PROXY] hindi mananagot sa anumang pagkawala o pagkasira gawa ng mga virus o ibang teknikal na makakasira na materyales na maaaring makahawa sa iyong [BRAND_NAME_PROXY] Handset, mga programa, data o ibang pagmamay-ari na materyal sa iyong paggamit ng mga [BRAND_NAME_PROXY] Serbisyo. Lahat ng nilalaman at ibang mga materyales na iyong nai-download o nakuha mula [BRAND_NAME_PROXY] ay pag-access na alam mo ang panganib, at ikaw ang tanging may pananagutan sa anumang pinsala sa iyong [BRAND_NAME_PROXY] Handset o pagkawala na data o mga nilalaman bunga ng pag-download ng anumang software.
+
+
+
+7. Limitasyon ng Pananagutan at Ekslusibong Lunas
+
+[BRAND_NAME_PROXY] ay hindi mananagot para sa anumang resulta, saklaw, hindi direkta o pagpapahirap na pinsala, o pinsala para sa mga kawalan ng tubo o lihim o ibang impormasyon, para sa pagtigil ng negosyo, para sa pansariling pinsala, sira sa pag-aari, o kawalan ng pagkapribado, para sa pagkabigo na magtagpo ang anumang tungkulin o makatwirang pag-alaga o para sa kapabayaan.
+
+Hanggang sa umeksena ang hindi maayos at ang iyong ekslusibo sa lunas sa ilalim ng Mga Tuntunin para sa lahat ng pagkasira, pinsala, pagkasira ng ari-arian at mga kawalan na magbubuhat sa anumang paghahabol, o mga asunto na kaugnay sa Mga Tuntunin upang mabawi ang mga pagkasirang natanggap mo ay limitado sa USD 10 dolyares (USD 10) 
+
+
+
+Ang maramihang paghahabol o paghahabla sa o kaugnay ng Mga Tuntuninay hindi aabot sa limitasyon ng pananagutan, at sa hangganang pinahihintulutan ng batas, ang magiging natatangi at eksklusibong remedyong matatanggap mo. 
+
+
+
+Kung mapagtanto ng korte na may hurisdiksyon na ang nasa taas na liability cap ay hindi maipatutupad, hindi ito maipatutupad, sa halip ay ituturing ang mga salitang  limitado sa 10 dolyares  ay mapaniwalaang mapalitan ang mga salita \" limitado sa halaga ng mga transaksiyon kung saan nagbuhat ang pananagutan.\"
+
+
+
+Ang naturang paghahabol o paghabla na kaugnay o kasama sa Mga Tuntunin ay nararapat na maihain sa loob ng isang taon matapos ang dahilan ng paghabla ay lumitaw.
+
+
+8. Bayad-pinsala 
+
+Sumang-ayon ka na ipagtanggol , magbayad-pinsala at hawakan [BRAND_NAME_PROXY], ang mga shareholder, direktor, opisyal, interesadong partido, empleyado, sangay at kaanib, hindi makakasama sa anumang hinihingi, kawalan, pananagutan, paghahabol o gastos (kabilang ang mga fee ng abogado), ginawa laban [BRAND_NAME_PROXY] sa anumang ikatlong partido dahil sa o magbubuhat sa koneksiyon sa iyong maling paggamit ng [BRAND_NAME_PROXY] ng Mga Serbisyo na labag sa anumang karapatan ng ikatlong partido.
+
+
+
+9. Pagpatigil ng Serbisyo
+
+Hindi ka pinapayagan na gamitin ayon sa batas ang Mga Serbisyo ng [BRAND_NAME_PROXY] kung sinusuway mo ang Mga Tuntunin. Sa naturang pagkakataon, sisirain at tatanggalin mo ang lahat ng kopya ng [BRAND_NAME_PROXY] Software. Samantala, ang garantiya ng iyong [BRAND_NAME_PROXY] Handset ay maaapektuhan.
+
+Sa pangyayari na paglabag na nabanggit sa itaas, sang-ayon ka na ang [BRAND_NAME_PROXY] ay may mga karapatan na makukuha sa sumusunod,
+
+(a)\u0009Agad na pagputol sa karapatan mong mag-access ng [BRAND_NAME_PROXY] account; at /o
+
+(b)\u0009I-block ang pag-access mo sa hinaharap sa Service account ng [BRAND_NAME_PROXY] 
+
+
+
+Sang-ayon ka rin na ang anumang paglabag sa Mga Tuntunin ay magdudulot ng hindi maaayos na pinsala sa [BRAND_NAME_PROXY], kung saan ang kabayaran na pera ay hindi sasapat, at pumapayag ka sa [BRAND_NAME_PROXY] pagkuha ng anumang panaklolo o katumbas na remedyo na ituturing ng [BRAND_NAME_PROXY] na kinakailangan o nararapat sa naturang pangyayari. Ang mga remedyong ito bilang karagdagan sa anumang ibang mga remedyo na maaaring magkaroon ang [BRAND_NAME_PROXY] sa batas o katumbas.
+
+
+
+10. Sumasaklaw na batas at Hurisdiksyon
+
+Sang-ayon ka na lahat ng usapin kaugnay sa lahat ng alitan patungkol sa Mga Tuntunin ay pamamahalaan ng mga batas ng Republic of China (R.O.C.) na walang pagsasaalang-alang sa mga salungatan ng mga probisyon ng batas. 
+
+
+
+Sang-ayon ka sa pansariling hurisdiksyon ng at pagdadausan sa Distrito ng korte ng Taiwan at talikdan ang anumang pagsalungat sa naturang hurisdikyon o pagdadausan.
+
+
+
+Ang anumang alitan ay hindi mareresolba sa pamamagitan ng napagkasunduang areglo sa pagitan mo at [BRAND_NAME_PROXY] magkakaroon ng karapatan na ikaw ay humanap ng mamamagitan o [BRAND_NAME_PROXY]. Kung ang alitan ay di maaaring maresolba sa pamamagitan ng tagapamagitan sa loob ng 30 araw sa kalendaryo, ang naturang alitan ay maihahain sa korte ng distrito na nabanggit sa itaas.
+
+
+
+11. Pangkalahatang Sugnay
+
+Ang mga pamagat sa Mga Tuntunin ay ginamit lamang para sa kaginhawaan.
+ 
+Ang pagkabigo ng [BRAND_NAME_PROXY] na maghabla sa iyong paglabag ay hindi nangangahulugan na pagpaubaya ng karapatan pasa sa paglabag o para sa kasunod o katulad na paglabag.
+
+
+
+Kung ang korte na may hurisdiksyon ay malaman na anumang bahagi ng Mga Tuntunin ay hindi balido o hindi maipatutupad, papalitan nito ang hindi balido o hindi mapatutupad na probisyon ng balido, at maipatutupad na probisyon na pinakamalapit na tumugma sa layunin ng orihinal na probisyon at ang nalalabing Mga Tuntunin ay patuloy na ipatutupad. 
+
+
+
+Maaari kang hindi magtalaga ng Mga Tuntunin o magtalaga, maglipat, o I-sublicense ang iyong mga karapatan sa mga Tuntunin.
+
+
+
+[BRAND_NAME_PROXY] maaaring italaga ang Mga Tuntunin, buo o sa bahagi, sa kung anong oras na mayroon o walang abiso sa iyo. 
+
+
+
+Ang Mga Tuntuning ito ay pumalit sa lahat ng noon o kaalinsabay na mga pakikipagtalastasan sa kahit anong klase sa pagitan mo [BRAND_NAME_PROXY] at nang may galang sa lugar..
+
+
+
+12. Buong Kasunduan
+
+The Terms and renewing attachments constitute the entire agreement between you and [BRAND_NAME_PROXY] with respect to [BRAND_NAME_PROXY] Services.
+
+
+
+13. Ang Pagbabago sa Mga Tuntunin
+
+[BRAND_NAME_PROXY] maaaring i-update, ibahin o burahin ang nilalaman ng mga Tuntunin paminsan-minsan sa diskresyon. 
+
+
+
+Dapat mong tingnan ang mga tuntunin na nai-publish sa [BRAND_NAME_PROXY] website na maaaring iba sa mga tuntuning iyong orihinal mong nabasa.
+
+
+
+Ito ay ipalagay sa iyong pagtanggap tulad ng pagbabago sa pamamagitan ng iyong renewing software at [BRAND_NAME_PROXY] Handset.
+
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] legal</string>
+    <string name="finish_button_label">Tapusin</string>
+    <string name="google_account_add_account">Mag-sign in sa Google</string>
+    <string name="google_account_intro_description">Mag-setup ng Google account para masiyahan sa lahat ng mga serbisyo ng Google.</string>
+    <string name="google_account_intro_title">Google account</string>
+    <string name="hmd_legal_message">"Mga Tuntunin ng Serbisyo 
+ 
+Nagkaroon ng bisa noong ika-14 ng Oktubre, 2016 
+ 
+1. Pagtanggap 
+Pinamamahalaan ng Mga Tuntunin sa Serbisyo ng HMD Global na ito, kasama ng Patakaran sa Privacy at ng lahat ng iba pang karagdagang tuntunin na maaaring ibinigay kasama ng Serbisyo (na sama-samang tinatawag bilang Mga Tuntunin), ang paggamit mo ng serbisyo, site, content at software (na sama-samang tinatawag bilang \"Serbisyo\"). Sa pamamagitan ng pagre-register sa, o paggamit ng, Serbisyo o ng anumang bahagi nito, tinatanggap mo ang Mga Tuntunin na ito. 
+ 
+Kabilang sa Mga Tuntunin ang isang kasunduan sa pagitan mo at ng HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finland kasama ang mga subsidiary at supplier nito (na sama-samang tinatawag bilang “HMD Global”), na nagbibigay-kahulugan sa mga karapatan at responsibilidad mo at ng HMD Global kaugnay ng Serbisyo. 
+ 
+2. Pagiging Kwalipikado 
+Upang magamit ang Serbisyo, dapat ay labintatlong (13) taong gulang ka na o mas matanda. Kung wala ka pang labintatlong (13) taong gulang, o nasa labintatlong (13) taong gulang ka na ngunit isa kang menor de edad sa lugar na tinitirahan mo, dapat ay aprubahan ng iyong magulang o legal na tagapag-alaga, sa ngalan mo, ang iyong pagpapaparehistro at dapat din nilang aprubahan ang paggamit mo sa Serbisyo. Dapat ay legal na kinikilala ang sinumang tatapos sa pagpaparehistro. 
+ 
+3. Pagpaparehistro at Pagwawakas 
+Upang gamitin ang Serbisyo, kailangan mong magparehistro at gumawa ng HMD Account gamit ang isang username at password na maaaring mapasailalim sa magkakaibang tuntunin. Maaaring kailanganin mong magbigay sa amin ng ilang partikular na personal na impormasyon at iba pang impormasyon. Maaaring i-verify ng HMD Global ang iyong email address bago mo magamit ang iyong HMD Account. Sa unang paggamit ng iyong device at sa tuwing ia-update mo ang software ng Nokia device, may isang text message na ipapadala sa HMD Global. Sa paggawa ng HMD Account, kakailanganin ang pag-transmit ng data. Maaaring may mga ilapat na gastusin sa pag-transmit ng data. 
+ 
+Sumasang-ayon kang magbigay ng totoo at kumpletong impormasyon kapag nagparehistro ka para sa Serbisyo at na panatilihing napananahon ang impormasyong iyon. Dapat kang magsagawa ng naaangkop na pag-iingat upang maprotektahan ang iyong username at password laban sa maling paggamit ng iba at kaagad na abisuhan ang HMD Global tungkol sa anumang maling paggamit. Ikaw at ang iyong magulang o legal na tagapag-alaga, kung isa kang menor de edad, ay personal na responsable sa anumang paggamit ng Serbisyo 
+ 
+Maaari mong wakasan ang iyong pagpaparehistro kung hindi mo na gustong gamitin ang Serbisyo. Kapag nawakasan na, mawawalan ka na ng access sa Serbisyo. Maaaring wakasan o paghigpitan ng HMD Global ang iyong access sa ilang partikular na bahagi ng Serbisyo kung makatuwirang naniniwala ang HMD Global na nilabag mo ang Mga Tuntunin o nang may paunang abiso kung nag-sign in ka sa Serbsiyo gamit ang iyong username sa loob ng nakaraang anim (6) na buwan. 
+ 
+Maliban na lang kung itinakda sa Patakaran sa Privacy, hindi responsable ang HMD Global sa anumang pag-aalis o pagkawala ng impormasyon o content na isinumite mo sa Serbisyo. Kapag inalis mo o ng HMD Global ang impormasyon o content sa Serbisyo, maaaring may maiwan pa ring mga bakas o kopya ng mga ito sa kung saan. 
+ 
+4. Mga Lisensya 
+Bibigyan ka ng HMD Global ng hindi eksklusibo at hindi naililipat na lisensya, na mababawi anumang oras sa sariling pagpapasya ng HMD Global, upang i-access at gamitin ang Serbisyo nang mahigpit na naaayon sa Mga Tuntunin. Hindi nagbibigay sa iyo ang paggamit sa Serbisyo ng anumang karapatan sa intelektwal na ari-arian o sa anumang impormasyon o content sa Serbisyo. 
+ 
+Bilang bahagi ng Serbisyo, maaaring magbigay ang HMD Global sa iyo ng content na na-develop ng HMD Global o ng mga licensor nito (“Content”). Binibigyan ka ng HMD Global ng hindi eksklusibo at panghabambuhay na lisensya sa paggamit ng Content para sa layuning inilaan, maliban na lang kung may ibang ibinigay na kahulugan sa mga naaangkop na Tuntunin o sa purchase order. Maaaring available ang ilang Content sa mga residente lang ng ilang partikular na heograpikong lugar. Nasasaklawan ka ng anumang mga paghihigpit na nalalapat sa partikular na Content na nakuha mo sa pamamagitan ng Serbisyo. Ang anumang lisensyang nakuha sa Content ng third-party ay isang may bisang kasunduan sa pagitan mo at ng provider ng Content ng third-party. Ang mga karapatan sa Content na mayroon ka ay ang mga karapatan lang na hayagang ibinigay rito. 
+ 
+Maaari kang bigyan ng HMD Global ng ilang partikular na software na na-develop ng HMD Global, o ng mga licensor nito (“Software”) bilang bahagi ng Serbisyo. Ang paggamit mo ng Software ay maaaring mapasailalim sa magkakaibang tuntunin at kundisyon na dapat mong tanggapin bago gamitin ang Software. Kung walang magkakaibang tuntunin at kundisyon na nalalapat sa naturang Software, nalalapat ang mga sumusunod na tuntunin: Binibigyan ka ng HMD Global ng limitado, hindi ekslusibo, hindi naililipat na karapatan na i-install at gamitin ang Software sa iyong computer at/o mobile device. Hindi mo maaaring kopyahin ang Software, maliban na lang kung para sa paggawa ng isang pang-archive na backup na kopya. Hindi mo maaaring ipamahagi o ilipat ang karapatan sa paggamit, pagbabago, pagsasalin, pagkopya, muling pagbebenta, pagbibigay ng sublicense, pagpaparenta, pagpapaupa, pag-reverse engineer, o kaya naman, pagtangka na tuklasin ang source code ng, o gumawa ng mga halaw na trabaho sa, Software. Para sa open source na software na may lisensya, nalalapat ang mga naaangkop na tuntunin sa lisensya ng open source. Sa paggamit mo ng Software, nangangahulugan ito na tinatanggap mo ang anumang naaangkop na mga tuntunin at kundisyon. 
+ 
+Maaaring mapasailalim ang Software sa mga pagkontrol sa pag-export sa ilalim ng US Export Administration Regulations at iba pang mga regulasyon sa pagkontrol sa pag-import o pag-export. Sumasang-ayon ka sa mahigpit na pagsunod sa lahat ng naaangkop na regulasyon sa pag-import at pag-export at tinatanggap mo na may responsibilidad ka sa pagkuha ng mga lisensya sa pag-export, muling pag-export, paglipat o pag-import ng naturang Software. 
+ 
+Maaaring makapagsumite ka ng impormasyon o content (“Materyal”) sa Serbisyo. Hindi aangkinin ng HMD Global ang pagmamay-ari sa iyong Materyal. Sa pagsumite mo ng Materyal, hindi ililipat sa HMD Global ang pagmamay-ari sa mga karapatan sa Materyal. Ang Materyal lang ang ita-transmit ng HMD Global at hindi ito responsable sa editorial control dito. Sa pamamagitan ng pagsumite ng Materyal sa Serbisyo, binibigyan mo ang HMD Global ng pandaigdigan, hindi eksklusibo, maaaring mabigyan ng sublicense, maitatakda, ganap na nabayaran, walang royalty, panghabambuhay at hindi mababawing lisensya na gamitin, kopyahin, isagawa sa publiko, ipakita, ipamahagi sa anumang media at baguhin ang Materyal upang maiangkop sa iba pang mga trabaho, at magbigay ng mga katulad na sublicense sa sukdulan na kinakailangan para sa HMD Global upang maibigay ang Serbisyo. Maaari mong isaayos ang pagkakaloob na ito sa privacy at iba pang mga setting ng Serbisyo. 
+ 
+Ikaw lang ang responsable sa pagba-backup sa mga kopya ng data na iniimbak mo sa Serbisyo, kabilang ang Content na na-upload mo. Kung ihihinto o kakanselahin ang Serbisyo, maaaring permanenteng tanggalin ng HMD Global ang iyong data. Walang obligasyon ang HMD Global na ibalik ang data sa iyo pagkatapos mahinto o makansela ang Serbisyo. 
+ 
+5. Paggamit sa Serbisyo 
+Sumasang-ayon ka na: 
+• Sumunod sa mga naaangkop na batas, sa Mga Tununtin at mabuting asal; 
+• Gamitin ang Serbisyo para lang sa iyong personal na layunin at hindi para sa negosyo; 
+• Huwag magsumite ng labag sa batas, nakakapanakit, hindi tumpak, nakakapanlinlang, mapang-abuso, may pornograpiya, nakakapanligalig, mapanirang-puri o, kung hindi naman, hindi naangkop na Materyal; 
+• Kumuha ng anumang pahintulot, permiso o lisensya na maaaring legal na kinakailangan sa bahagi mo upang makapagsumite ng anumang Materyal; 
+• Respetuhin ang privacy ng iba; 
+• Huwag magpamahagi o mag-post ng spam, mga file na hindi makatuwiran ang laki, chain letter, pyramid scheme, virus; 
+• Huwag gumamit ng anumang iba pang teknolohiya o magsimula ng iba pang aktibidad na maaaring makasira sa Serbisyo, o sa interes o ari-arian ng mga gumagamit ng Serbisyo; 
+• Huwag gumamit ng anumang automated na system o paraan upang ma-access, makuha, makopya o masubaybayan ang anumang bahagi ng Serbisyo; at 
+• Tanggapin ang responsibilidad para sa anumang kahihinatnang nauugnay sa Materyal na na-post mo. 
+ 
+Bagama't walang obligasyon ang HMD Global na isagawa ang sumusunod, maaari nitong: 
+• Subaybayan o pangasiwaan ang anumang Content o Materyal; 
+• Alisin ang anumang Materyal sa Serbisyo; at 
+• Paghigpitan ang pag-access sa anumang bahagi ng Serbisyo anumang oras sa sarili nitong pagpapasya. 
+ 
+6. Content 
+Bago mag-download o mag-access ng anumang Content, pakitiyak kung ang Content na gusto mong i-access ay pinaghihigpitan batay sa edad o minarkahan bilang potensyal na ‘nakakapanakit’ o ‘marahas’. 
+ 
+Hindi mananagot ang HMD Global para sa anumang mga claim o pananakit na dinulot o naranasan mo sa pag-access ng naturang Content. 
+ 
+Sumasang-ayon ka: 
+• Na gamitin ang Content para lang sa iyong personal na layunin at hindi para sa negosyo; 
+• Na gamitin ang Content alinsunod sa mga paghihigpit na itinakda sa mga naaangkop na batas, mga karagdagang tuntunin, alituntunin at patakaran o sa mga page ng produkto na nalalapat sa partikular na bahagi ng Content na iyon; 
+• Na huwag gumawa ng mga kopya, mamigay, magbenta, muling magbenta, magpautang, parentahan, mag-alok, magpahayag, magpadala, mamahagi, makipag-ugnayan sa publiko, kopyahin, baguhin, ipakita, isagawa, gamitin sa negosyo o gumawa ng available na Content maliban na lang kung pinapahintulutan ito sa mga naaangkop na Tuntunin at abisuhan kaagad ang HMD Global tungkol sa anumang hindi awtorisadong paggamit; 
+• Na huwag alisin, dayain, i-reverse engineer, i-decrypt, o kaya naman ay baguhin o hadlangan ang anumang naaangkop na tuntunin o subukang dayain ang pamamahala sa mga digital na karapatan o ang mga feature sa pagprotekta sa kopya na nauugnay sa Content o anumang iba pang teknolohiyang ginagamit upang kontrolin ang pag-access sa, o paggamit ng, Content, o sa nakakapagtukoy na impormasyon nito; 
+• Na huwag gumamit ng anumang automated na system o paraan, maliban na lang kung ibinigay namin, para sa pagpili o pag-download ng Content; at 
+• Na huwag ibigay ang iyong password o kaya ay payagan ang ibang tao na i-access ang Content. Ang mga paghihigpit sa pagkopya na nalalapat sa naaangkop na media ay maaari ding ilapat sa Content na na-access bilang bahagi ng Serbisyo. 
+ 
+Ang Content ay pag-aari at/o kinokontrol ng HMD Global at/o mga nauugnay na licensor nito, at pinoprotektahan ito ng mga batas sa intelektwal na ari-arian. Ang provider ng Content ng third party ay ang natatanging responsable sa anumang Content na ibinibigay nito, sa anumang warranty hanggang sa sukdulan na hindi na-disclaim ang mga naturang warranty, at sa anumang claim na maaaring mayroon ka na nauugnay sa Content o sa paggamit mo ng Content na iyon. Gayunpaman, maaaring ipatupad ng HMD Global ang mga tuntunin sa lisensya sa Content ng third party laban sa iyo bilang isang third party na beneficiary ng mga tuntuning iyon. Ang mga provider ng Content ng third party ay mga third-party na beneficiary sa ilalim ng Mga Tuntuning ito at maaaring magpatupad ng mga probisyon na direktang nauugnay sa Content kung saan mayroon silang mga karapatan. Maaaring kumilos ang HMD Global bilang isang ahente para sa provider ng Content ng third party sa pagbibigay ng Content sa iyo. Ang HMD Global ay hindi isang partido sa transaksyon sa pagitan mo at ng provider ng Content ng third party para sa naturang Content. 
+ 
+7. Mga Paratang ng Paglabag sa Copyright 
+Nirerespeto ng HMD Global ang mga karapatan sa intelektwal na ari-arian ng mga third party. Kung gusto mong magpadala ng abiso sa paglabag sa intelektwal na ari-arian, kabilang ang mga claim ng paglabag sa copyright, pakigamit ang aming mga pamamaraan sa pagsusumite ng Mga Abiso sa Paglabag. LAHAT NG TANONG NA HINDI NAUUGNAY SA PAMAMARAANG ITO AY HINDI MAKAKATANGGAP NG TUGON. 
+ 
+Gumagamit ang HMD Global ng mga prosesong nakatakda sa Title 17, United States Code, Seksyon 512 upang tumugon sa mga abiso sa paglabag sa copyright. Sa mga naaangkop na sitwasyon, maaari ding i-disable o wakasan ng HMD Global ang mga account ng mga gumagamit ng mga serbisyo ng HMD Global na maaaring paulit-ulit nang lumabag. 
+ 
+8. Mga Abiso 
+Maaaring mag-post ng mga abiso ang HMD Global sa loob ng Serbisyo. Maaari ka ring padalhan ng HMD Global ng mga abiso tungkol sa mga produkto at serbisyo sa email address o numero ng telepono na ibinigay mo sa amin. Ipinapagpalagay na matatanggap mo ang mga naturang abiso sa loob ng pitong (7) araw mula sa pagpapadala o pagpo-post ng HMD Global ng mga iyon. Ang patuloy na paggamit mo ng Serbisyo ay katumbas ng pagtanggap mo ng lahat ng abiso anupaman ang paraan ng paghahatid. 
+ 
+9. Mga Bayarin 
+Ang paggamit mo ng Serbisyo ay maaaring napapasailalim o mapasailalim sa mga singil. 
+ 
+Hiwalay na ipapahayag ang anumang bayarin na siningil ng HMD Global kaugnay ng Serbisyo. 
+ 
+Maaaring kasama sa paggamit ng Serbisyo ang pag-transmit ng data sa pamamagitan ng iyong network service provider. Ang mga presyong nakalista sa loob ng Serbisyo ay hindi kinabibilangan ng posibleng pag-transmit ng data, text message, boses o iba pang mga singil sa probisyon ng serbisyo ng iyong network service provider. 
+ 
+Walang inaakong responsibilidad ang HMD Global sa pagbabayad ng anumang mga sinisingil ng iyong mga service provider. 
+ 
+10. Mga Termino sa Pag-order at Pagbabayad 
+Ang salitang \"Order\" ay ang pagpili ng binabayarang Content at/o subscription sa Content na inaalok ng HMD Global at na available sa Serbisyo at pagsusumite ng paraan ng pagbabayad, pati na rin ang pagsusumite ng order sa pamamagitan ng pagpili sa \"bilhin\", \"ok\", \"Tinatanggap ko\" o iba pang katulad na kumpirmasyon ng pagtanggap sa proseso ng pag-order o pagbibigay ng iba pang indikasyon ng mga termino ng pagtanggap na ipinapakita sa iyo sa proseso ng pag-order. 
+ 
+Upang Mag-order sa Serbisyo, dapat ay nasa legal na tinatanggap na edad ka na o may edad na gaya ng nakakarami alinsunod sa naaangkop na batas. Kung hindi mo pa naaabot ang legal na tinatanggap na edad o ng nakakarami, maaari ka lang Mag-order nang may paunang pahintulot mula sa iyong magulang o legal na tagapag-alaga. 
+ 
+Sumasang-ayon ka na ang lahat ng Order ay legal na may bisa at umiiral. Lahat ng Order ay napapasailaim sa pagtanggap ng HMD Global. 
+ 
+Maaari kang magbayad sa pamamagitan ng credit o debit card, billing ng service provider ng network, o iba pang paraan sa pagbabayad kung available. 
+ 
+Dapat ay may billing address sa iyong credit o debit card sa bansa kung saan inaalok ng Serbisyo ang Content. Sisingilin ng HMD Global ang iyong credit card o ide-debit ang iyong bank account sa loob ng makatuwirang oras pagkatapos mong Mag-order. Lahat ng pagbabayad gamit ang credit card ay napapasailalim sa mga pagsusuri sa validation at awtorisasyon ng nagbigay ng card. 
+ 
+Kung pipiliin mo ang billing ng network service provider, lalabas ang mga singil sa iyong bill sa mobile phone o ibabawas sa iyong prepaid account kung isa itong prepaid account. Maaaring mapasailalim ang ilang network service provider sa paggamit mo ng Serbisyo bukod sa mga karagdagang tuntunin at kundisyon kabilang ang paglalagay ng mga limitasyon sa halaga ng mga singil na posible sa billing ng network service provider. Ang mga singil o balanse sa account na lampas sa mga limitasyon ng network service provider ay maaaring tanggihan. 
+ 
+Sumasang-ayon kang bayaran ang mga singil na nauugnay sa iyong Order, upang matiyak na ang paraan ng pagbabayad ay valid sa panahon ng Pag-order, na ikaw ang karapat-dapat na may-ari ng paraan sa pagbabayad na ginamit sa mga limitasyon sa credit nito. 
+ 
+Sa iyo nakalisensya ang Content na inihatid. Sumasang-ayon kang gamitin ang Content ayon lang sa pinapahintulutan sa Mga Tuntuning ito at sa anumang karagdagang tuntunin na maaaring isaad sa iyo sa paraan ng pag-order. 
+ 
+Maaaring mag-alok ang Serbisyo ng mga subscription. Inaawtorisahan mo ang Serbisyo na maglagay ng pana-panahong singil sa kabuuang panahon ng subscription. Maaari ding mag-alok ng panahon ng trial ang Serbisyong ito. Kung may kasamang panahon ng trial sa iyong Order (na tinatawag ding try-and-buy), maaari kang singilin kapag tapos na ang panahon ng trial, maliban na lang kung kakanselahin mo ito alinsunod sa mga tuntunin ng subscription/trial. 
+ 
+Maaaring pana-panahong magbago ang mga presyo sa Serbisyo. Kasama sa mga presyo ang naaangkop na buwis na nalalapat sa oras kung kailan ka nakipagtransaksyon, maliban na lang kung iba ang nakasaad. Maaaring may mga pagkakataon kung saan makakakuha ka ng mga karagdagang singil mula sa iyong bangko o provider ng credit card batay sa mga ginamit na halaga ng palitan ng currency at/o mga nasuring karagdagang bayarin. Walang inaakong responsibilidad ang HMD Global sa pagbabayad sa bangko o sa anumang mga bayarin o singil ng third party para sa serbisyo. 
+ 
+11. Mga Pagkansela at Pag-refund 
+Sumasang-ayon ka sa elektronikong paghahatid ng Content na sisimulan kasabay ng pagkumpleto sa iyong Order. Hindi mo makakansela ang iyong Order sa sandaling maiproseso ito. Ang uri ng Content ay hindi maibabalik. 
+ 
+Sa sitwasyon kung saan pagkatapos ng Pag-order mo ay natuklasan mo at agad mong inabisuhan ang HMD Global sa loob ng 48 oras na (a) ang Content na na-order mo ay may sira; (b) ang Content na inihatid ng HMD Global sa iyo ay hindi tumutugma sa paglalarawan ng Content na na-order mo sa pamamagitan ng Serbisyo; o (c) naatala o napigilan ng mga teknikal na problema ang paghahatid ng iyong Content o nagkaroon ng aksidenteng maraming pag-order nang dahil sa mga teknikal na problema, ang iyong tangi at ekslusibong remedyo kaugnay ng naturang Content ay ang pagpapalit ng naturang Content, o pag-refund ng presyong ibinayad para sa naturang Content, na HMD Global lang ang makakapagtukoy. 
+ 
+Kung hindi ganito ang sitwasyon, walang ibibigay na mga refund. Kung nakaranas ka ng anumang isyu sa itaas, mangyaring makipag-ugnayan sa Pangangalaga sa Customer ng HMD Global. 
+ 
+Pakitandaan na maaaring hindi maiproseso ng Pangangalaga sa Customer ng HMD Global ang iyong kahilingan sa suporta sa customer kung hindi mo maibibigay ang iyong transaction ID, na ibinigay sa iyo ng HMD Global pagkatapos mong Mag-order sa Serbisyo. Maipoproseso lang ng HMD Global ang mga refund para sa Content na may kabuuang halaga na mas mataas sa monetary na limitasyon na itinakda sa naaangkop na lokal na batas. 
+ 
+12. Feedback sa HMD Global 
+Sa pamamagitan ng pagsusumite ng anumang mga ideya, feedback at/o mungkahi (\"Feedback\") sa HMD Global sa pamamagitan ng Serbisyo o iba pang mga paraan, tinatanggap at sinasang-ayunan mo na: (1) Maaaring may mga ideya ang HMD Global para sa pag-develop gaya ng nasa Feedback; (2) hindi naglalaman ang iyong Feedback ng kumpidensyal na impormasyon o impormasyon sa pinagmamay-arian mo o ng anumang third party; (3) Ang HMD Global ay hindi napapasailalim sa anumang pananagutan sa pagkakumpidensyal kaugnay ng Feedback; (4) May kalayaan ang HMD Global na gamitin, ipamahagi, samantalahin, at pahusayin at baguhin ang Feedback para sa anumang layunin; at (5) wala kang karapatang makakuha ng anumang bayad, sa anumang paraan, mula sa HMD Global. 
+ 
+13. Mga Aktibidad sa Pakikipag-ugnayan at Pagbabahagi ng Lokasyon 
+Maari mong gamitin ang mga feature sa Serbisyo upang ibahagi ang iyong lokasyon, status, content, Mga Materyal o personal na impormasyon o upang makipag-ugnayan sa iba pang mga user, site at serbisyo. Sa paggamit sa mga feature na ito, sumasang-ayon kang maaaring gamitin at ibigay ng HMD Global ang impormasyon na iyon sa iba pang mga serbisyo at tao, kung kanino mo napiling makipag-ugnayan o ibahagi ang impromasyong ito. Maaaring makita ng mga gumagamit ng mga serbisyong ito, at ng mga tao gaya ng iyong mga contact, ang iyong lokasyon, status at/o personal na impormasyon. Sa paggamit ng mga feature na ito, sumasang-ayon ka na huwag ibahagi ang iyong impormasyon, Content o Materyal o mag-link sa anumang serbisyo o site na: (a) naglalaman ng content o iba pang materyal na labag sa batas o hindi naaangkop; o (b) sumasamantala sa mga karapatan sa intelektwal na ari-arian nang walang awtorisasyon o naghihikayat sa mga user na masangkot sa piracy. Hindi nasasangkot ang HMD Global sa anumang pakikipag-ugnayan, at ito ay sa pagitan mo at ng iba pang (mga) user lang. 
+ 
+14. Availability at Mga Teknikal na Kinakailangan 
+Ang availability ng Content at ng Serbisyo ay maaaring magbago at napapasailalim sa sariling pagpapasya ng HMD Global. Tahasang itinatanggi ng HMD Global ang anumang representasyon o warranty na magiging available ang anumang partikular na Content o Serbisyo. Maaaring hindi available ang Serbisyong ito sa lahat ng bansa at maaaring ibigay lang sa ilang piling wika. Ang Serbisyo, mga operasyon at ilang feature ay maaari ding idepende sa network, compatibility ng mga device na ginamit at ang mga sinusuportahang format ng content. 
+ 
+Upang ma-access ang Serbisyo, maaaring kailanganin mong i-download ang isang partikular na bahagi ng software na na-develop ng HMD Global o ng iba pang partido. 
+ 
+Sa sariling pagpapasya ng HMD Global, maaari nitong palitan, itama o ihinto ang kabuuan, o ang bahagi ng, Serbisyo. Maaaring hindi available ang Serbisyo sa mga panahon ng pagmementina at iba pang mga pagkakataon. Upang matiyak na mayroon ka ng mga pinakabagong software at application ng device, maaaring awtomatikong tingnan ng iyong device kung may mga available na update sa software mula sa HMD Global. Kung may nakitang anuman, mapo-prompt kang aprubahan ang pag-install. Maaari mong i-disable ang awtomatikong pagsusuri para sa mga update sa pamamagitan ng mga setting sa iyong device. Maaari mo ring i-install ang software sa pamamagitan ng mga available na channel sa pag-update ng software. Kung itinuturing ng HMD Global ang isang update sa Software bilang mahalaga o kritikal, hindi mo maaaring patuloy na gamitin ang nakaraang bersyon ng Software. Maaaring pigilan ng HMD Global ang iyong paggamit sa lumang bersyon ng Software o ng Serbisyo hanggang sa ma-install mo ang update. 
+ 
+Maaaring i-disable ng HMD Global ang anumang Content o Software na kabilang sa iyong Service account para sa anumang dahilan at alisin ang anumang Content o Software at/o i-disable ang mga kopya ng anumang application sa iyong device upang maprotektahan ang Serbisyo, mga provider ng application, mga wireless carrier kung saang network mo na-access ang serbisyo o anumang iba pang apektado o potensyal na maaapektuhang partido. 
+ 
+Ang isang partikular na serbisyo ay maaaring isang pre-release na bersyon, halimbawa, isang beta release, at maaaring hindi gumana sa paraang tulad ng sa pinal na bersyon. Maaaring magsagawa ang HMD Global ng malaking pagbabago sa anumang bersyon ng Serbisyo o Software o magpasya na hindi mag-release ng pinal na bersyon. 
+ 
+15. Mga Link sa Mga Third Party na Site at Content 
+Maaaring kasama sa HMD Global ang access sa mga site at serbisyo sa Internet o mga preloaded na kliyente na nagbibigay-daan sa iyong makipag-ugnayan sa mga site at serbisyo na pag-aari o pinapatakbo ng mga third party na hindi bahagi ng Serbisyo. Dapat mong suriin at sang-ayunan ang mga tuntunin at kundisyon ng mga site o serbisyo na ito bago gamitin ang mga site o serbisyo nito. 
+ 
+Walang kontrol ang HMD Global sa content, mga site o serbisyo ng third party, at wala itong inaakong responsibilidad sa mga serbisyong ibinigay o ginawang materyal o na-publish sa mga site o serbisyo ng third-party na ito. Ang link sa isang site ng third-party ay hindi nangangahulugan na ineendorso ng HMD Global ang site o ang mga produkto o serbisyo na binanggit sa site. 
+ 
+Bukod dito, maaari kang gumawa at ang iba pang mga user ng content at link sa content sa loob ng Serbisyo na hindi isinumite sa Serbisyo. Hindi mananagot ang HMD Global sa ganitong uri ng content o link. 
+ 
+16. Mga Advertisement 
+Maaaring may kasamang mga advertisement ang Serbisyo. Maaaring i-target ang mga advertisement sa content o impormasyong nakaimbak sa Serbisyo, mga tanong na ipinarating sa pamamagitan ng Serbisyo, o iba pang impormasyon. 
+ 
+17. Personal na Data 
+Pinamamahalaan ng Patakaran sa Privacy at ng anumang karagdagang impormasyon sa privacy na ibinigay sa iyo ang paggamit ng iyong personal na data. 
+ 
+18. Limitasyon ng Pananagutan 
+Ibinigay ang Serbisyo sa “AS IS” at “AS AVAILABLE” na batayan. Hindi ginagarantiya ng HMD Global na hindi maaantala o magkakaroon ng error o walang virus ang Serbisyo. Walang ginawang anumang uri ng warranty, ipinahayag man o ipinahiwatig, kabilang ang, ngunit hindi nalilimitahan sa mga warranty ng pamagat, hindi paglabag, merchantability, o kaangkupan para sa isang partikular na layunin, kaugnay ng availability, katumpakan, reliability, impormasyon o content ng Serbisyo. Hayagan mong sinasang-ayunan at tinatanggap na ang paggamit ng Serbisyo ay pananagutan mo lang at na maaari kang makakita ng content mula sa iba't ibang pinagmulan. 
+ 
+Maliban sa pananagutan sa kamatayan o personal na pinsala na dinulot ng labis na kapabayaan nito o sinadyang paggawa ng hindi tama, hindi mananagot ang HMD Global, sa anumang paraan, para sa anumang hindi direkta, hindi sinadya, pagpaparusa o kinahinatnang pinsala na nagresulta sa paggamit mo ng, o kawalan mo ng kakayahan na gamitin ang, Serbisyo. 
+ 
+19. Pagbibigay-proteksyon 
+Sumasang-ayon kang ipagtanggol at bigyang protekson ang HMD Global mula at laban sa lahat ng claim ng third party at lahat ng pananagutan, pagsusuri, pagkawala, gastusin o pinsala na nagreresulta sa, o mula sa (i) iyong paglabag sa Mga Tuntunin, (ii) iyong paglabag o pagsuway sa anumang karapatan sa intelektwal na ari-arian, iba pang mga karapatan o privacy ng isang third party, o (iii) maling paggamit sa Serbisyo ng isang third party kung saan ang maling paggamit ay nangyari nang dahil sa pagkabigo mong magsagawa ng mga makatuwirang hakbang sa pagprotekta sa iyong username at password laban sa maling paggamit. 
+ 
+20. Miscellaneous 
+ 
+20.1 Desisyon ng Batas 
+Ang Mga Tuntunin ay pinamamahalaan ng mga batas ng Finland nang hindi isinasaalang-alang sa mga hindi pagkakatugma ng mga probisyon ng mga batas nito. 
+ 
+20.2 Validity 
+Hindi binabalewala o nililimitahan ng Mga Tuntunin ang alinman sa iyong mga karapatang naaayon sa batas ng bansa kung saan ka nakatira na hindi mapapawalang-bisa ng batas. Kung ang isang probisyon ng Mga Tuntunin ay napag-alamang walang bisa, ang mga natitirang probisyon ay hindi maapektuhan at ang mga hindi wastong probisyon ay mapapalitan ng may bisang probisyon na pinakamalapit sa resulta at layunin ng Mga Tuntunin. Kung sakaling ang isa o higit pa sa mga probisyon ng Mga Tuntuning ito ay hindi nauugnay sa paggamit mo ng Serbisyo, hindi dapat nito maapektuhan ang validity o enforceability ng anumang iba pang probisyon ng Mga Tuntunin o ng Mga Tuntunin bilang kabuuan. Kung mayroong anumang hindi pagkakatugma sa pagitan ng Mga Tuntunin sa Serbisyo ng HMD Global na ito at sa Patakaran sa Privacy, mangingibabaw ang mga probisyon ng Mga Tuntunin sa Serbisyo ng HMD Global na ito. Ang mga probisyon ng Mga Tuntunin na itinakdang magpatuloy kapag nagwakas na ang iyong registration ay mananatiling may bisa pagkatapos ng pagwawakas. 
+ 
+20.3 Mga Pagbabago sa Mga Tuntunin 
+Maaaring baguhin ng HMD Global ang Mga Tuntunin anumang oras nang walang paunang abiso. Kung nagbago ang Mga Tuntuning ito sa isang kapansin-pansin at nakakaapektong paraan, magbibigay ang HMD Global ng hiwalay na abiso na nagpapahayag ng mga bagay na tungkol sa pagbabago. 
+ 
+Responsibilidad mo ang regular na pagsusuri sa Mga Tuntuning ito. Ang patuloy na paggamit mo ng Serbisyo ay katumbas ng pagpayag mo sa anumang pagbabago at pagpapahusay. 
+ 
+21. Intelektwal na Ari-arian 
+Ang Serbisyo, Content at Software ay pinoprotektahan sa ilalim ng mga pandaigdigang batas sa copyright. Inaangkin ng HMD Global ang mga copyright sa mga Serbisyo, Content at Software nito, hanggang sa sukdulan ng pinapahintulutan ng batas. Alinsunod sa Mga Tuntunin, pinapanatili ng HMD Global ang lahat ng karapatan, pamagat at interes sa Serbisyo, sa Content nito, sa Software at sa lahat ng iba pang produkto, software at iba pang mga ari-arian ng HMD Global na ibinigay sa iyo o ginamit mo sa pamamagitan ng Serbisyo. 
+ 
+22. Pagtatakda 
+Maaaring itakda ng HMD Global ang mga karapatan at obligasyon nito sa ilalim ng Mga Tuntuning ito sa corporate parent nito, sa alinman sa mga subsidiary nito, o sa anumang kumpanya na nasa ilalim ng parehong kontrol gaya ng sa HMD Global. Bukod dito, maaaring itakda ng HMD Global ang mga karapatan at obligasyon nito sa ilalim ng Mga Tuntuning ito sa isang third party kaugnay ng pag-merge, acquisition, pagbebenta ng mga asset, alinsunod sa pagkilos ng batas."</string>
+    <string name="hmd_user_experience_program_message">Nakakatulong ang paglahok mo sa programa ng karanasan ng user sa HMD Global na mas maunawaan kung ano ang nagugustuhan mo sa iyong Nokia device, at kung ano ang sa tingin mo ay dapat pang pagandahin. Paminsan-minsan, maaari kaming makatanggap ng anonymous na data na naglalaman ng mga teknikal na katangian tungkol sa iyong device, gaya ng isang file na naglalaman ng data tungkol sa pag-crash ng isang software. Pakitandaan na hindi magpapadala ng ganitong data sa pamamagitan ng cellular na koneksyon. Ikinalulugod naming malaman ang iyong mga palagay tungkol sa iyong Nokia device!</string>
+    <string name="hmd_user_experience_program_title">Programa ng karanasan ng user</string>
+    <string name="idle_too_long_toast">Hindi aktibo ang teleponong ito nang ilang oras. Patayin na ngayon upang panatilihin ang baterya.</string>
+    <string name="insert_sim_cards">Maglagay ng mga SIM card</string>
+    <string name="insert_sim_cards_prompt_content">"Hindi ka ba sigurado kung paano? Basahin ang mga panuto na kasama ng iyong telepono.
+
+Kapag nailagay mo na ang mga SIM card, maaaring abutin nang ilang segundo bago ma-activate ang mga ito."</string>
+    <string name="label_text">Oo, ako ay sumasang-ayon.</string>
+    <string name="label_text_negitive">Paumanhin, ako ay hindi sumasang-ayon.</string>
+    <string name="language_selection_cancel_btn">KANSELAHIN</string>
+    <string name="language_selection_title">Piliin ang iyong wika</string>
+    <string name="light_room_description">Sinusuportahan ng %1$s ang pag-capture ng mga RAW (DNG) na larawan. Sa pamamagitan ng aming partnership sa Adobe, maaari ka nang direktang mag-edit sa bago mong smartphone.&lt;br/>&lt;br/>I-download na ang Adobe Photoshop Lightroom CC sa Google Play store.</string>
+    <string name="light_room_title">Mahilig ka ba sa potograpiya?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="location_for_service">"Gamitin ang My Location para sa resulta ng paghahanap ng Google at iba pang serbisyo ng Google.
+
+"</string>
+    <string name="location_info_1">Ang serbisyong panglokasyon ng Google ay ibinibigay ang iyong humigit kumulang na lokasyon sa mga application ng hindi gumagamit ng GPS.</string>
+    <string name="location_info_2">Maaari mong i-disable ang mga feature na ito sa Settings, sa ilalim ng Serbisyong panglokasyon.</string>
+    <string name="location_network">Pahintulutan ang serbisyong panglokasyon ng Google na kumalap ng anonimong data ng lokasyon. Ang koleksyon ay magaganap kahit na walang application na tumatakbo.</string>
+    <string name="location_title">Gamitin ang lokasyong mula sa Google</string>
+    <string name="nevigation_selection_back">Back</string>
+    <string name="nevigation_selection_home">Home</string>
+    <string name="nevigation_selection_recent">Kamakailan lamang</string>
+    <string name="nevigation_selection_text">Maaari mong baguhin ang kulay ng background at posisyon ng mga Back / Recent key.</string>
+    <string name="nevigation_selection_title">Layout ng Nabigasyon</string>
+    <string name="next_btn_lebel">Susunod</string>
+    <string name="normal_date_format">Rehiyunal (%s)</string>
+    <string name="not_now">HINDI NGAYON…</string>
+    <string name="passpoint_content">Mga credential ng %1$s</string>
+    <string name="passpoint_label">Na-save sa pamamagitan ng</string>
+    <string name="please_select_phase2">Phase 2 na pagpapatotoo</string>
+    <string name="proxy_error_empty_host_set_port">Dapat na walang laman ang field ng port kung walang laman ang field ng host.</string>
+    <string name="proxy_error_empty_port">Kailangan mong kumpletuhin ang field ng port.</string>
+    <string name="proxy_error_invalid_exclusion_list">Hindi maayos na na-format ang listahan ng pagbubukod na iyong na-type. Mag-type ng listahang pinaghihiwalay ng kuwit ng mga ibinukod na domain.</string>
+    <string name="proxy_error_invalid_port">Hindi wasto ang port na iyong na-type.</string>
+    <string name="proxy_exclusionlist_label">Bypass proxy para sa</string>
+    <string name="proxy_hostname_label">Hostname ng proxy</string>
+    <string name="proxy_port_label">Port ng proxy</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_warning_limited_support">Ang HTTP proxy ay ginagamit ng browser ngunit hindi maaaring gamitin ng iba pang apps.</string>
+    <string name="saved_network">Na-save ni %1$s</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="select_sim_card">Pumili ng SIM card</string>
+    <string name="setup_complete_hmd">Handa ka na ngayon...</string>
+    <string name="setup_complete_hmd_1">Halos handa ka na...!</string>
+    <string name="setup_complete_main">Ikaw ay</string>
+    <string name="setup_complete_message">Ang iyong telepono ay na-set up na at handa ng gamitin.</string>
+    <string name="setup_complete_sub">HANDA NANG UMALIS.</string>
+    <string name="setup_completed_congratulations">Congrats!</string>
+    <string name="setup_finish">TARA NA</string>
+    <string name="sim_editor_title">Slot ng SIM %1$d</string>
+    <string name="sim_not_exist_toast">Tignan kung nakapasok ang SIM card.</string>
+    <string name="skip_add_account_button_label">Hindi sa ngayon</string>
+    <string name="skip_button_label">Laktawan</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Sumasang-ayon</string>
+    <string name="term_disagree_text">Tutol</string>
+    <string name="terms_of_service_description">"
+Maaaring may dagdag na singil sa paggamit ng mobile data kapag gumagamit ka ng mga serbisyong nangangailangan ng koneksyon sa network, tulad ng mga serbisyo sa panahon, serbisyo sa Internet, E-mail, browser.. atbp. Para makatipid ng bayad sa iyong paggamit ng mobile data, iminumungkahi namin na mag-apply ka ng angkop na package ng serbisyong mobile mula sa iyong carrier.
+
+Sa pagpili ng sang-ayon, pinahihintulutan mo ang mga serbisyong ito na kumunekta sa network kapag kailangan.
+
+Karagdagan pa, ang auto software update ay default na gumagana. Para makapaghatid sa iyo ng pinakabagong karanasan sa software, maaari itong gumamit ng kaunting mobile data. Maaari mong laging palitan ang opsyon mamaya sa mga Setting.
+
+"</string>
+    <string name="terms_title">Paggamit ng Data</string>
+    <string name="time_picker_title">Oras</string>
+    <string name="traffic_prompt_content">Kung pinipili mong hindi sumang-ayon, kinakailangan mong manwal na kumuha ng update ng software, ulat ng panahon, o iba pang impormasyon.</string>
+    <string name="upload_agent_configuration">User Experience Program</string>
+    <string name="upload_agent_des">Mangyaring tulungan ninyo kaming pagbutihin ang aming mga produkto at serbisyo sa pamamagitan ng pagpapahintulot sa amin na mangolekta ng diagnostic datadata kapag ang iyong aparato ay nakararanas ng software error o nag-crash. Maaari mong palitan ang opsyon mamaya sa configuration ng upload agent.</string>
+    <string name="upload_agent_des_text">"Magpadala ng mga diagnostic report kapag may problema ang device. &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Statement&lt;/a> .Maaari mong palitan ang opsyong ito mamaya sa Mga Setting."</string>
+    <string name="upload_agent_hmd_des_text_2">"Sumali sa User Experience program ng Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Matuto pa.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"Sa pamamagitan ng pag-tap sa \"TARA NA\", sumasang-ayon kang sumali sa User Experience Program. &lt;a href='launch.UserExperienceActivity://Kode'>Matuto nang higit pa&lt;/a>. Tandaan, maaari kang sumali anumang oras sa ibang pagkakataon sa Mga Setting."</string>
+    <string name="upload_agent_title">User Experience Program</string>
+    <string name="v7_preference_off">NAKA-OFF</string>
+    <string name="v7_preference_on">NAKA-ON</string>
+    <string name="welcome_hmd_term_of_use_2">"Sa pamamagitan ng pag-tap sa arrow, sumasang-ayon ka sa &lt;a href='launch.TermOfServiceActivity://Kode'>Mga Tuntunin ng Serbisyo&lt;/a> at &lt;a href='launch.AddUploadAgentHandler://Kode'>Patakaran sa Pagkapribado&lt;/a>. Ipapadala sa HMD Global ang impormasyon tungkol sa pag-activate sa device na naglalaman ng minsanang lokasyon ng device. Maaaring may mga singil para sa data."</string>
+    <string name="welcome_hmd_term_of_use_4">"Sa pamamagitan ng pag-tap sa button, sumasang-ayon ka sa &lt;a href='launch.TermOfServiceActivity://Kode'>Mga Tuntunin ng Serbisyo&lt;/a> at &lt;a href='launch.AddUploadAgentHandler://Kode'>Patakaran sa Privacy&lt;/a>. Ipapadala sa HMD Global ang impormasyon sa pag-activate ng device na mayroong pang-isang beses na lokasyon ng device&lt;br/>&lt;br/>Mae-enable ang Awtomatikong Update sa Software na mag-i-install sa mga pinakabagong update para sa iyo. Maaari itong gumamit ng maliit na bahagi ng iyong badyet sa data. Ia-access ng mga serbisyo ang Internet kung kailangan ng mga ito.&lt;br/>&lt;br/>May mga babayaran kang singil sa overage para sa mga serbisyong ito kapag in-access ng mga ito ang mga cellular network."</string>
+    <string name="welcome_hmd_term_of_use_5">"Sa pamamagitan ng pag-tap sa button, sumasang-ayon ka sa &lt;a href='launch.TermOfServiceActivity://Kode'>Mga Tuntunin ng Serbisyo&lt;/a>. Ipapadala sa HMD Global ang impormasyon tungkol sa pag-activate sa device na isang beses na maglalaman ng lokasyon ng device. Maaaring may mga singil para sa data. Gagamitin ang data alinsunod sa &lt;a href='launch.AddUploadAgentHandler://Kode'>Patakaran sa Privacy&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"Sa pamamagitan ng pag-tap sa arrow, sumasang-ayon ka sa &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Mga Tuntunin Sa Paggamit&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Tara na</string>
+    <string name="welcome_message">Mabuhay!</string>
+    <string name="welcome_start_button_label">SIMULAN</string>
+    <string name="welcome_vision_settings_button_label">Mga setting ng paningin</string>
+    <string name="wifi_add_network">Magdagdag ng network</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Drop down na listahan ng Mga Advanced na Opsyon. I-double tap upang palawakin.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Drop down na listahan ng Mga Advanced na Opsyon. I-double tap upang paliitin.</string>
+    <string name="wifi_and_mobile_skipped_message">"Makakatulong sa iyo ang pagkonekta sa isang network na mabilis na ma-set up ang iyong telepono.
+
+Kung walang koneksyon, hindi mo magagawang:
+
+"<li>Mag-sign in sa iyong Cloud account</li>"
+
+"<li>Kumuha ng mga update sa software</li>"
+
+"<li>Awtomatikong i-set up ang oras at petsa</li></string>
+    <string name="wifi_auth_password_wrong">Maaaring mali ang password</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Kanselahin</string>
+    <string name="wifi_certificate">Sertipiko</string>
+    <string name="wifi_connect">Kumonekta</string>
+    <string name="wifi_connected_no_internet">Nakakonekta, walang Internet</string>
+    <string name="wifi_disabled_generic">Hindi pinagana</string>
+    <string name="wifi_disabled_network_failure">Mali ang Configuration ng IP</string>
+    <string name="wifi_disabled_password_failure">Problema sa pagpapatotoo</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Huwag ibigay</string>
+    <string name="wifi_do_not_validate_eap_server">Huwag patotohanan</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Walang natukoy na certificate. Hindi magiging pribado ang iyong koneksyon.</string>
+    <string name="wifi_dont_skip">BUMALIK</string>
+    <string name="wifi_eap_anonymous">Anonymous na pagkakakilanlan</string>
+    <string name="wifi_eap_ca_cert">Certificate ng CA</string>
+    <string name="wifi_eap_domain">Domain</string>
+    <string name="wifi_eap_identity">Pagkakilanlan</string>
+    <string name="wifi_eap_method">Pamamaraang EAP</string>
+    <string name="wifi_eap_user_cert">Certificate ng user</string>
+    <string name="wifi_fail_to_scan">Hindi makapag-scan para sa mga network</string>
+    <string name="wifi_failed_connect_message">Nabigong kumonekta sa network.</string>
+    <string name="wifi_failed_forget_message">Nabigong kalimutan ang network</string>
+    <string name="wifi_failed_save_message">Nabigong i-save ang network</string>
+    <string name="wifi_forget">Kalimutan</string>
+    <string name="wifi_frequency">Dalas</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_ip_address">IP address</string>
+    <string name="wifi_ip_settings">Mga setting ng IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Mag-type ng wastong DNS address.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Mag-type ng isang wastong gateway address.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Mag-type ng isang wastong IP address.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Mag-type haba ng network prefix pagitan 0 at 32.</string>
+    <string name="wifi_multiple_cert_added">(Nagdagdag ng maraming certificate)</string>
+    <string name="wifi_network_prefix_length">Haba ng prefix ng network</string>
+    <string name="wifi_no_domain_warning">Dapat tumukoy ng domain.</string>
+    <string name="wifi_no_internet">Walang access sa Internet</string>
+    <string name="wifi_no_internet_no_reconnect">Hindi awtomatikong kumokonekta</string>
+    <string name="wifi_not_in_range">Wala sa saklaw</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_picker_connection_des_text">Ang kasalukuyang ginagamit na koneksyon ng mobile network ay maaaring magdulot ng singil kapag kinukumpirma ang iyong software.</string>
+    <string name="wifi_picker_connection_negative">Kumonekta</string>
+    <string name="wifi_picker_connection_negative_prc">Ikonekta ang WLAN</string>
+    <string name="wifi_picker_connection_negative_ww">Ikonekta ang Wi-Fi</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Koneksyon ng network</string>
+    <string name="wifi_picker_warning_des_text">Hanggang sa ikaw ay magkaroon ng koneksyon ng internet, ang telepono ay hindi makukumpirma na ang iyong software ay napapanahon.</string>
+    <string name="wifi_picker_warning_negative">Laktawan parin</string>
+    <string name="wifi_picker_warning_positive">Huwag laktawan</string>
+    <string name="wifi_picker_warning_title">Babala</string>
+    <string name="wifi_remembered">Na-save</string>
+    <string name="wifi_save">I-save</string>
+    <string name="wifi_security">Seguridad</string>
+    <string name="wifi_security_none">Wala</string>
+    <string name="wifi_setting_title">Kumonekta</string>
+    <string name="wifi_shared">Ibahagi sa iba pang mga user ng device</string>
+    <string name="wifi_show_advanced">Mga advanced na opsyon</string>
+    <string name="wifi_show_password">Ipakita ang password</string>
+    <string name="wifi_signal">Lakas ng signal</string>
+    <string name="wifi_skip_anyway">LAKTAWAN PA RIN</string>
+    <string name="wifi_speed">I-link ang bilis</string>
+    <string name="wifi_ssid">Pangalan ng network</string>
+    <string name="wifi_ssid_hint">Ilagay ang SSID</string>
+    <string name="wifi_status">Katayuan</string>
+    <string name="wifi_unchanged">(di-nabago)</string>
+    <string name="wifi_unspecified">Mangyaring pumili</string>
+    <string name="wifi_use_system_certs">Gamitin ang mga certificate ng system</string>
+    <string name="zone_auto">Awtomatikong time zone</string>
+    <string name="zone_auto_summaryOff">Gamitin ang time zone na ibinigay ng network</string>
+    <string name="zone_auto_summaryOn">Gamitin ang time zone na ibinigay ng network</string>
+    <string name="sugarsync_intro_description">Maaari kang masiyahan sa magkatugmang integrasyon ng cloud storage sa SugarSync sa pamamagiatan ng pagkumpleto sa ilang madadaling hakbang.</string>
+</resources>

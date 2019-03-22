@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_notice_dialog_title">Märkus</string>
+    <string name="fih_power_saving_remember_choice">Ära näita uuesti</string>
+    <string name="fih_power_saving_dialog_ok">SMS-i teenuskeskuse seadmine OK</string>
+    <string name="fih_power_saving_dialog_cancel">Tühista</string>
+    <string name="fih_power_saving_screen_title">Ekraan</string>
+    <string name="fih_power_saving_data_title">Andmesideühendus:</string>
+    <string name="fih_power_saving_data_time_always">Kogu päev</string>
+    <string name="fih_power_saving_lpm_title">Režiim Madal võimsus</string>
+    <string name="fih_power_saving_lpm_wifi">Lülita Wi-Fi välja</string>
+    <string name="fih_power_saving_lpm_restrict_background_data">Piira taustaandmeid</string>
+    <string name="fih_power_saving_lpm_timeout_dialog_title">Ekraani ajalõpp</string>
+    <string name="fih_power_saving_lpm_timeout_bright_sysdefined">Jäta alles</string>
+    <string name="fih_power_saving_lpm_power_saving_minute">minut</string>
+    <string name="fih_power_saving_lpm_power_saving_second">sekund</string>
+    <string name="fih_power_saving_lpm_power_saving_minutes">minutit</string>
+    <string name="fih_power_saving_lpm_power_saving_seconds">sekundit</string>
+    <string name="fih_power_saving_ss_wifi">Lülita Wi-Fi välja</string>
+    <string name="switch_on_text">Sees.</string>
+    <string name="switch_off_text">VÄLJAS</string>
+    <string name="app_about">Üldist</string>
+    <string name="version">Versioon:</string>
+    <string name="feedback">Tagasiside saatmine</string>
+    <string name="fih_power_saving_permission_settings">Sätted</string>
+    <string name="fih_power_saving_permission_cancel">Tühista</string>
+    <string name="blacklist">MustNimekiri</string>
+    <string name="lock_screen_ap_protect_title">Taustategevuse haldur</string>
+    <string name="all_aps">Lisage kõik rakendused lubatud seadmete loendisse</string>
+    <string name="fih_power_saving_doze_high_consumption">Suur energiatarbimine</string>
+    <string name="fih_power_saving_background_activity_text">Lubage taustategevuse haldur aku eluea pikendamiseks, ent mõnede rakenduste või e-kirjade teatisi ei pruugi olla võimalik kohe tuua. Saate aku eluiga hallata, kui lisate lubatud seadmete loendisse rakendusi või neid sealt eemaldate.</string>
+    <string name="fih_power_saving_background_cleaner">Taustategevuse puhastaja</string>
+    <string name="fih_power_saving_background_cleaner_summary">Teatisi ei pruugita kohe tuua</string>
+    <string name="app_block_list">Piiratud rakenduste loend</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ಸ್ಥಿರ</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪತ್ತೆಹಚ್ಚಿ</item>
+        <item>ನಿಯಮಿತ ಎಂಬಂತೆ ಪರಿಗಣಿಸಿ</item>
+        <item>ಅನಿಯಮಿತ ಎಂಬಂತೆ ಪರಿಗಣಿಸಿ</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>ಯಾವುದೂ ಅಲ್ಲ</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ಯಾವುದೂ ಅಲ್ಲ</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>ಯಾವುದೂ ಅಲ್ಲ</item>
+        <item>ಹಸ್ತಚಾಲಿತ</item>
+        <item>ಪ್ರಾಕ್ಸಿ ಸ್ವಯಂ-ಕಾನ್ಫಿಗ್</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ಕಳಪೆ</item>
+        <item>ತೃಪ್ತಿಕರ</item>
+        <item>ಉತ್ತಮ</item>
+        <item>ಉತ್ಕೃಷ್ಟ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗುತ್ತಿದೆ…</item>
+        <item>ಸಂಪರ್ಕಗೊಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item>ಪ್ರಮಾಣೀಕರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item>IP ವಿಳಾಸವನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ…</item>
+        <item>ಸಂಪರ್ಕಗೊಂಡಿದೆ</item>
+        <item>ಅಮಾನತುಗೊಳಿಸಲಾಗಿದೆ</item>
+        <item>ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item>ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗಿದೆ</item>
+        <item>ವಿಫಲವಾಗಿದೆ</item>
+        <item>ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</item>
+        <item>ಕಳಪೆ ಸಂಪರ್ಕವನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ತಡೆಗಟ್ಟಲಾಗುತ್ತಿದೆ</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗುತ್ತಿದೆ…</item>
+        <item>%1$s… ಗೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ</item>
+        <item>%1$s… ಜೊತೆ ಪ್ರಮಾಣೀಕರಿಸಲಾಗುತ್ತಿದೆ</item>
+        <item>%1$s ನಿಂದ IP ವಿಳಾಸವನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ…</item>
+        <item>%1$s ಗೆ ಸಂಪರ್ಕಪಡಿಸಲಾಗಿದೆ</item>
+        <item>ಅಮಾನತುಗೊಳಿಸಲಾಗಿದೆ</item>
+        <item>%1$s ನಿಂದ ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item>ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗಿದೆ</item>
+        <item>ವಿಫಲವಾಗಿದೆ</item>
+        <item>ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</item>
+        <item>ಕಳಪೆ ಸಂಪರ್ಕವನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ತಡೆಗಟ್ಟಲಾಗುತ್ತಿದೆ</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI ಹೆಕ್ಸಾಡೆಸಿಮಲ್</item>
+    </string-array>
+</resources>

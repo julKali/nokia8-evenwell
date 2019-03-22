@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Боке-едитор</string>
+    <string name="image_not_null">Патеката на сликата не може да биде празна</string>
+    <string name="no_bokeh_type">Нема тип на боке</string>
+    <string name="no_mpo_file">Нема датотека mpo</string>
+    <string name="save">Зачувај</string>
+    <string name="save_success">Успешно зачувано.</string>
+</resources>

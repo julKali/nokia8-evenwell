@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">ການບໍລິການສະພາບອາກາດ</string>
+    <string name="fih_weather_permission_hint_1">ເພື່ອໃຫ້ໃຊ້ໄດ້ຢ່າງຖືກຕ້ອງ, ແອັບນີ້ຕ້ອງການມີການອະນຸຍາດເພີ່ມເຕີມ. ກະລຸນາໃຫ້ການອະນຸຍາດເມື່ອຖືກຖາມເອົາ.</string>
+    <string name="fih_weather_permission_hint_2">ເພື່ອໃຫ້ໃຊ້ໄດ້ຢ່າງຖືກຕ້ອງ, ແອັບນີ້ຕ້ອງການມີການອະນຸຍາດເພີ່ມເຕີມ. ກະລຸນາຈັດການການອະນຸຍາດຂອງການບໍລິການສະພາບການໃນການຕັ້ງຄ່າ.</string>
+    <string name="fih_weather_button_ok">ຖືກແລ້ວ</string>
+    <string name="fih_weather_button_close">ປິດ</string>
+    <string name="fih_weather_button_setting">ກຳ​ລັງ​ຕັ້ງ​ຄ່າ...</string>
+    <string name="fih_weather_permission_success">ການອະນຸຍາດໃຫ້ຈຸດທີ່ຕັ້ງສຳເລັດແລ້ວ</string>
+    <string name="fih_weather_permission_failed">ການອະນຸຍາດໃຫ້ຈຸດທີ່ຕັ້ງຖືກປະຕິເສດແລ້ວ, ບໍ່ສາມາດໄດ້ຮັບຈຸດທີ່ຕັ້ງໄດ້.</string>
+    <string name="fih_weather_notification_title">ການບໍລິການສະພາບອາກາດຈຳເປັນຕ້ອງມີການອະນຸຍາດ</string>
+    <string name="fih_weather_notification_text">ແຕະອະນຸຍາດ</string>
+    <string name="fih_weather_notification_channel_title">ການແຈ້ງເຕືອນທົ່ວໄປ</string>
+</resources>

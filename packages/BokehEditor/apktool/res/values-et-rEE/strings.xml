@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh-redaktor</string>
+    <string name="image_not_null">Pildi tee ei tohi olla null</string>
+    <string name="no_bokeh_type">Bokeh-tüüp puudub</string>
+    <string name="no_mpo_file">MPO-fail puudub</string>
+    <string name="save">Salvesta</string>
+    <string name="save_success">Salvestamine õnnestus</string>
+</resources>

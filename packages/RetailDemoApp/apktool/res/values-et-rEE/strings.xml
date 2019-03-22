@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">TÜHISTA</string>
+    <string name="copying">Kopeerimine …</string>
+    <string name="demo_mode_notifications">Demorežiimi teated</string>
+    <string name="disable_demo_mode">Keela demorežiim</string>
+    <string name="download_complete_msg">"Allalaadimine on lõpetatud.
+
+Puudutage nuppu OK, et demorežiim käivitada."</string>
+    <string name="download_fail_msg">"Demomaterjali allalaadimine Internetist nurjus.
+
+Kas soovite puudutada nuppu OK, et demorežiim käivitada?"</string>
+    <string name="downloading">Allalaadimine …</string>
+    <string name="enable_demo_mode">Kas lubada demorežiim?</string>
+    <string name="enable_demo_mode_setup">Kas lubada demorežiim</string>
+    <string name="no_new_demo_found_msg">"Uut demomaterjali ei leitud.
+
+Kas soovite puudutada nuppu OK, et demorežiim käivitada?"</string>
+    <string name="ok">OK</string>
+    <string name="reset_device">Kas lähtestada seade?</string>
+    <string name="system_busy_msg">Süsteem on hõivatud. Proovige hiljem uuesti.</string>
+    <string name="update_demo_video">Värskenda demovideot</string>
+</resources>

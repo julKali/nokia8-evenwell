@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<folder title="@string/google_folder_name">
+    <favorite packageName="com.google.android.googlequicksearchbox" className="com.google.android.googlequicksearchbox.SearchActivity" />
+    <favorite packageName="com.google.android.apps.maps" className="com.google.android.maps.MapsActivity" />
+    <favorite packageName="com.google.android.calendar" className="com.android.calendar.AllInOneActivity" />
+    <favorite packageName="com.google.android.youtube" className="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" />
+    <favorite packageName="com.google.android.gm" className="com.google.android.gm.ConversationListActivityGmail" />
+    <favorite packageName="com.google.android.apps.docs" className="com.google.android.apps.docs.app.NewMainProxyActivity" />
+    <favorite packageName="com.google.android.music" className="com.android.music.activitymanagement.TopLevelActivity" />
+    <favorite packageName="com.google.android.videos" className="com.google.android.youtube.videos.EntryPoint" />
+    <favorite packageName="com.google.android.apps.walletnfcrel" className="com.google.commerce.tapandpay.android.cardlist.CardListActivity" />
+</folder>

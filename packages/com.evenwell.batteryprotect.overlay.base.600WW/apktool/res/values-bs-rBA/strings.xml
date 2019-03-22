@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Zaštita baterije</string>
+    <string name="fih_battery_protect_alert_dialog_ok">Uredu</string>
+    <string name="fih_battery_protect_warning_title">Budite oprezni zbog visoke temperature</string>
+    <string name="fih_battery_protect_cooldown_title">Hlađenje</string>
+    <string name="fih_battery_protect_normalmode_title">Temperatura je normalna</string>
+    <string name="fih_battery_protect_warning_text">Isključite poziv ili aplikaciju da omogućite hlađenje telefona.</string>
+    <string name="fih_battery_protect_cooldown_text">Trenutno, telefon se nalazi u režimu raspršivanja topline i možete uputiti samo hitne pozive.</string>
+    <string name="fih_battery_protect_normalmode_text">Telefon je nastavio s normalnim radom.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Poziv za hitne slučajeve</string>
+    <string name="fih_battery_protect_maxtemp_title">Maksimalna temperatura za upozorenje je dostignuta</string>
+    <string name="fih_battery_protect_maxtemp_text">Telefon je na visokoj temperaturi pa će se obaviti gašenje.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Zaustavi punjenje!</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">Zaustavi punjenje!</string>
+    <string name="fih_battery_protect_low_temp_title">Upozorenje</string>
+    <string name="fih_battery_protect_low_temp_text">Telefon je na niskoj temperaturi pa neće biti napunjen.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">Prekoračen je naznačeni raspon temperature baterije</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Temperatura baterije se ne može otkriti. Uvjerite se da je baterija pravilno postavljena, inače neće biti napunjena.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Temperatura baterije se ne može otkriti.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">Uvjerite se da je baterija pravilno postavljena, inače neće biti napunjena</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Trenutno, temperatura baterije se ne može otkriti i telefon se nalazi u režimu raspršivanja topline. Uputite samo hitne pozive. Uvjerite se da je baterija pravilno postavljena.</string>
+    <string name="fih_battery_protect_aging_title">Produžavanje vijeka baterije</string>
+    <string name="fih_battery_protect_aging_text">Poštovani InFOcus korisnici, pošto je baterija u mobilnom telefoni potrošna, ako vidite da je vijek baterije značajno smanjen kada koristite svoj telefon, pošaljite telefon do maloprodajnog zastupnika radi testiranja i održavanje kako biste osigurali da će vaš mobilni telefon nastaviti raditi u najboljem stanju ako vidite da je vijek baterije značajno smanjen tokom korištenja mobilnog telefona. Ako postoji bilo kakav problem, ne ustručavajte se nazvati centar naše službe za korisnike, a broj telefona je %1$s. Hvala vam.</string>
+    <string name="fih_battery_protect_aging_nm_text">Dobrodošli pozivni centar službe za korisnike, broj telefona %1$s, hvala.</string>
+    <string name="fih_battery_protect_aging_text_no_phone">Poštovani InFOcus korisnici, pošto je baterija u mobilnom telefoni potrošna, pošaljite telefon do maloprodajnog zastupnika radi testiranja i održavanje kako biste osigurali da se radne performanse vašeg mobilnog telefona mogu održavati u najboljem stanju ako vidite da je vijek baterije značajno smanjen tokom korištenja mobilnog telefona. Ako postoji bilo kakav problem, ne ustručavajte se nazvati pozivni centar službe za korisnike. Hvala vam.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Dobrodošli pozivni centar službe za korisnike, hvala.</string>
+    <string name="fih_battery_protect_bl_warning_title">Podsjetnik za smanjenje osvjetljenja</string>
+    <string name="fih_battery_protect_bl_warning_text">Pošto je temperatura baterije relativno visoka, smanjite osvjetljenje da zaštitite bateriju?</string>
+    <string name="fih_battery_protect_full_charging">Baterija je napunjena u potpunosti</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Otkaži</string>
+    <string name="fih_battery_protect_power_off">Isključi telefon</string>
+    <string name="fih_battery_protect_high_full_charging">Maksimalna granica punjenja je dosegnuta pri visokim temperaturama! Kada se temperatura telefona vrati na normalnu, sistem će nastaviti s punjenjem pri normalnoj brzini.</string>
+    <string name="fih_battery_protect_low_full_charging">Maksimalna granica punjenja je dosegnuta pri niskim temperaturama! Kada se temperatura telefona vrati na normalnu, sistem će nastaviti s punjenjem pri normalnoj brzini.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Dosegnuta je granica punjenja pri visokoj temperaturi</string>
+    <string name="fih_battery_protect_low_full_charging_title">Dosegnuta je granica punjenja pri niskoj temperaturi</string>
+    <string name="fih_battery_protect_warning_title_wear">Visoka temperatura</string>
+    <string name="fih_battery_protect_cooldown_title_wear">Hlađenje</string>
+    <string name="fih_battery_protect_normalmode_title_wear">Temperatura je normalna</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">Nudimo smanjenje osvjetljenja ekrana i isključivanje aplikacije da ohladite uređaj.</string>
+    <string name="fih_battery_protect_cooldown_text_wear">Trenutno, uređaj se nalazi u režimu raspršivanja topline i možete uputiti samo hitne pozive.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">Telefon je nastavio s normalnim radom.</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">Maksimalna temperatura za upozorenje je dostignuta</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">Uređaj je na visokoj temperaturi pa će se obaviti gašenje.</string>
+    <string name="fih_battery_protect_low_temp_title_wear">Niska temperatura</string>
+    <string name="fih_battery_protect_low_temp_text_wear">Uređaj je na niskoj temperaturi pa neće biti napunjen.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Trenutno, temperatura baterije se ne može otkriti i uređaj se nalazi u režimu raspršivanja topline. Uputite samo hitne pozive. Uvjerite se da je baterija pravilno postavljena.</string>
+    <string name="fih_battery_protect_install_error_title_wear">Produžavanje vijeka baterije</string>
+    <string name="fih_battery_protect_aging_title_wear">Produžavanje vijeka baterije</string>
+    <string name="fih_battery_protect_aging_text_wear">Poštovani InFocus korisnici, pošto je baterija u uređaju potrošna, pošaljite uređaj do zastupnika radi testiranja i održavanja kako biste osigurali da radne performanse vašeg uređaja mogu ostati u najboljem stanju ako vidite da je vijek njegove baterije značajno smanjen tokom korištenja uređaja. Ako postoji bilo kakav problem, ne ustručavajte se nazvati centar službe za korisnike, broj telefona je %1$s, hvala.</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">Poštovani InFocus korisnici, pošto je baterija u uređaju potrošna, pošaljite uređaj do zastupnika radi testiranja i održavanja kako biste osigurali da radne performanse vašeg uređaja mogu ostati u najboljem stanju ako vidite da je vijek njegove baterije značajno smanjen tokom korištenja uređaja. Ako postoji bilo kakav problem, ne ustručavajte se nazvati pozivni centar službe za korisnike. Hvala vam.</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">Visoka temperatura</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">Zaustavi punjenje!</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">Slab kontakt na bateriji</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">Temperatura baterije je premašila naznačeni opseg</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">Uvjerite se da je baterija pravilno postavljena</string>
+    <string name="fih_battery_protect_high_temp_text_wear">Uređaj je na visokoj temperaturi pa neće biti napunjen.</string>
+    <string name="fih_battery_protect_full_charging_wear">Baterija je u potpunosti napunjena</string>
+    <string name="fih_battery_protect_ok_wear">Uredu</string>
+    <string name="fih_battery_protect_cancel_wear">Otkaži</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">Trenutno, uređaj se nalazi u režimu raspršivanja topline i koristite kasnije</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">Temperatura sata je previsoka! Preporučujemo prigušivanje ekrana i isključivanje aplikacije. Jeste li sigurni da želite to izvršiti?</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">Sat nastavlja s normalnim radom.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">Sat je dostigao granicu visoke temperature, brzo će se ugasiti!</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">Sat je na niskoj temperaturi i punjenje će biti zaustavljeno.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Koristite originalnu bateriju</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Punjenje je zaustavljeno</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Za punjenje koristite originalnu bateriju. U suprotnom možete izazvati trajnu/fizičku štetu na uređaju.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Baterija je nevažeća</string>
+    <string name="fih_battery_protect_notification_cooling_down">Hlađenje</string>
+    <string name="fih_battery_protect_tap_learn_more">Dodirnite da saznate više.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Vaš telefon se pregrijava stoga poduzima korake za hlađenje. I dalje ga možete koristiti, ali možete primijetiti sljedeće:
+·punjenje se može pauzirati.
+·Wi-Fi se može isključiti.
+·aplikacije se mogu zatvoriti.
+·Avionski režim se može uključiti.
+Telefon će početi normalno funkcionirati nakon što se ohladi."</string>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Nuskaitoma…</item>
+        <item>Jungiamasi…</item>
+        <item>Nustatoma tapatybė…</item>
+        <item>Gaunamas IP adresas…</item>
+        <item>Prijungtas</item>
+        <item>Pristabdyta</item>
+        <item>Atjungiama…</item>
+        <item>Atsijungęs</item>
+        <item>Nepavyko</item>
+        <item>Užblokuota</item>
+        <item>Laikinai vengiama prasto ryšio</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Nuskaitoma…</item>
+        <item>Prijungiama prie \"%1$s\"…</item>
+        <item>Nustatoma tapatybė naudojant \"%1$s…\"</item>
+        <item>Gaunamas IP adresas iš \"%1$s\"…</item>
+        <item>Prisijungta prie \"%1$s\"</item>
+        <item>Pristabdyta</item>
+        <item>Atjungiama nuo \"%1$s\"…</item>
+        <item>Atsijungęs</item>
+        <item>Nepavyko</item>
+        <item>Užblokuota</item>
+        <item>Laikinai vengiama prasto ryšio</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Prastas</item>
+        <item>Neblogas</item>
+        <item>Geras</item>
+        <item>Puikus</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Nėra</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Nėra</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statinis</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Nėra</item>
+        <item>Neautomatinis</item>
+        <item>Aut. tarp. serv. konfig.</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI šešioliktainis</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(unspecified)</item>
+        <item>Sim Slot 1</item>
+        <item>Sim Slot 2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_text">Accessibility</string>
+    <string name="account_intro_description">Please join service to use your device in a smarter and more effective way.</string>
+    <string name="account_intro_title">Service account</string>
+    <string name="add_baidu_button_label">Log on Baidu Cloud</string>
+    <string name="add_infocus_service_account">New service account</string>
+    <string name="available_via_passpoint">Available via %1$s</string>
+    <string name="back_btn_lebel">Previous step</string>
+    <string name="backup_and_restore_description">If you backed up your account before, you may restore data to mobile phone now. You may change backup setting in Setting at any time.</string>
+    <string name="backup_and_restore_title">Backup and restore</string>
+    <string name="baidu_intro_description">By completing several simple steps, you can enjoy seamless Baidu Cloud storage space.</string>
+    <string name="baidu_intro_title">Baidu Cloud end storage space</string>
+    <string name="baidu_progress_dialog_des">Please wait a moment</string>
+    <string name="connected_via_passpoint">Connected via %1$s</string>
+    <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+    <string name="datausage_dialog_negitive_btn">Cancel</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Date and time setting</string>
+    <string name="date_and_time_settings_title">Date and time</string>
+    <string name="date_time_24hour">In 24-hour format</string>
+    <string name="date_time_auto">Determine Date and time automatically</string>
+    <string name="date_time_auto_summaryOff">In the Internet time</string>
+    <string name="date_time_auto_summaryOn">In the Internet time</string>
+    <string name="date_time_set_date">Set date</string>
+    <string name="date_time_set_time">Set time</string>
+    <string name="date_time_set_timezone">Choose time zone</string>
+    <string name="device_checking_message">Welcome</string>
+    <string name="dropbox_fih_description">Obtain 2GB of free Dropbox space to automatically upload your photos and videos.</string>
+    <string name="dropbox_fih_signin">Log on to Dropbox</string>
+    <string name="dropbox_fih_signup">Sign up in Dropbox</string>
+    <string name="emergency_dial_hmd_message">Emergency</string>
+    <string name="emergency_dial_message">Emergency call</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="fih_legal_message">"Software Ownership and Terms of Use Agreement Effective date: May 20, 2016 The contents of the Terms of Use (hereinafter referred to as Terms of Use) apply to such services as software download, automatic update service etc (hereinafter referred to as software services) provided. Your downloading, installation or use of software indicate that you agree to abide by the Terms of Use. If you don't agree to the Terms of Use, please don't download, copy or use software. 
+
+ 1. Rules of Use You'll be granted with non-transferability, non-proprietary, personal and limited authority to use the software services after you agree to accept Terms of Use. Software will be installed to your device in the form of target code, and you may use software upon starting it. You're well aware that it shouldn't be used for commercial purpose and you should use software in your personal device. 
+ As for software, you should abide by the requirements of the Terms of Use and promise that you won't engage in any of the following items: 
+ (a) Try to break through technological limitation of software or in conjunction with any project or service to attempt to circumvent technical means for the control of archives or other data collection or entitlements; (b) Take actions such as reverse development, disassembly, decoding, decompilation or try to obtain the source code of software or other means directed against software that are limited by laws explicitly, make full or partial additions and deletions, modification or deduction to software; (c) Enable any third person to contact, use or hold software through publicizing, transferring, renting, lending, sublicensing, or disclosing etc. (d) Remove any copyright statement or label highlighted on software or any relevant files in unlimited formats by oneself or any non-authorized personnel; (e) Use software in a way of intruding other people's rights or by any behaviour that goes against laws and regulations; or (f) In any environment where use of software is limited or prohibited, including but not limited to nuclear facility, aircraft and aviation regulation, petrol station and other situations or environments, use software that can probably result in or increase the risk of casualty or financial damage; or (g) Use software in any other means that are prohibited by the Terms of Use. 
+ To ensure that software and your device operate normally, you promise not to damage or change the volume label of device without the assistance of personnel. This behaviour and the behaviour stated in (a) of this article will both influence the assurance scope and warranty of your device. 
+
+ 2. Privacy Rights Policy You're informed of and agree that in order to promote the service quality, we collect and reserve any software transmission or message communication you conduct through various services provided by website. This includes but is not limited to device model number/sequence number, IMEI/MEID code, HW Version, SW Version, accumulated service time, accumulated sleeping time, SKU ID, statistical error data, name of software/procedure with an error, error frequency, version information etc. 
+ If a request is made by administrative/judicial department or by laws and regulation, you should cooperate in revealing relevant information. 
+ If your device stays in a status without Internet connection for 14 consecutive days after purchase, the device will send a short message to inform you that the device in available status. 
+ Please refer to [Privacy Policy] for detailed instructions. 
+
+ 3. Supporting Service Provide update, download and use services in accordance with the current situation at the time when software was downloaded or updated, can decide whether to continue providing relevant supporting and updating services in accordance with the situation. 
+ After you obtain the initial files, will update, supplement, add components or any service components provided through the Internet, all kinds of behaviours in the processes of downloading, updating, using the software apply to the regulations of the Terms of Use. 
+ Reserve the right to terminate any software services you obtained through surfing online or use of any service provided by software to ensure that all kinds of software work smoothly. 
+ May automatically announce the follow-up and updated version of software, informing you and requesting you to use the latest version through online download. 
+
+ 4. Automatic Update You may update, enhance, protect, or further improve the use of your device and software by automatically downloading firmware and software on your device. 
+ The firmware and software in your device will be in Start state by default, in other words, it's connected to server through the Internet and automatically connects your device without any extra manual operation. To ensure safety and stability of your device, you're well informed of and agree to cooperate with the requirements of updating procedure and follow update instruction. 
+ To avoid data loss in updating process, please backup your personal profile (such as your photo, contact, calendar, music, bookmark, document and others) in your device and store them on a device connected to your computer. 
+ After your device updates automatically or you agree to start the update upon receiving updating message delivered, it's considered that you agree to the description of the following updating functions: 
+ (a) Software Update You' are well informed of and agree that software is connected to your device through the Internet so as to confirm the software edition and update status in server. If any updating message is released, you'll be allowed to connect to the server to update the firmware version and status. 
+ You agree to inform you of any updating message in real time when software update is available. If you confirm receipt of updating notice, it'll be considered that you agree to update and install software in your device through downloading update file. 
+ (b) Content Synchronization Update You now use updated device content, you will be automatically updated to relevant device or computer with content and other information (such as contact information, calendar, bookmark, document and other forms of content). 
+ 
+ 5. Ownership of software and Preservation of All Rights Its relevant companies and suppliers hold and reserve ownership, copyright and other intellectual property rights of all software that are not clearly stated to be granted to you in the Terms of Use. 
+ All software provided are guaranteed by the laws and international regulations related to copyright and other intellectual property rights. 
+
+ 6. Disclaimer To the maximum extent permitted by law, software and derivative services provided in accordance with the current status, we won't be responsible for any defect. Its relevant companies and suppliers do not make any explicit, implied promise or any legal guarantee, they don't make any promise on any default guarantee, responsibility or conditions of situations including but not limited to marketability and applicability to specific uses of software and derivative services (such as updating service). 
+ Do not make any applicability or implied guarantee on items listed as follows: 
+ (a) The ownership, non-infringing status, conformance with all kinds of descriptions, virus-free statement, program bug free, precision and completion of operation; or (b) Smooth operation, operation without interruption or errors of software; or (c) Immediate repair of all kinds of possible or potential bugs of software. 
+ By downloading and using software, you're well informed of all the risks (including but are not limited to damage of device in use, loss of contents, removal or invalidation of third party software etc.) resulting from use or operation of software and derivative services (if any), and this is considered that you agree to undertake relevant risks and responsibilities, won't provide any guarantee or undertake any responsibility for this. You agree to have right to judge and remove programs and software that influences operation, and you backup data and software beforehand. 
+ If program or file you download results in disclosure of your information or damage of your device system, is not related to us, and you agree to undertake relevant risks by yourself. 
+
+ 7. Scope of Responsibility and Limitation and Exemption of Damage Compensation 
+ Not responsible for all kinds of damage compensations such as indirect, incidental, successive, punitive, accidental or penalizing penalty or any loss of interest under any circumstance, except that it's prohibited by laws in explicit text. Even if informed that the damage might happen, and no matter what the causes and basis for claims is, neither or nor it is related to, this company won't take responsibility. 
+ In the event that we shall take the compensation responsibility for using website or its contents in accordance with the Terms of Use, it shall be limited to actual and direct loss caused by reasonable trust of the software and the highest compensation amount is 10 USD. No matter what form it is, relevant actions resulting from the Terms of Use must be implemented within one year after you are informed of the cause of the event or the occurrence of the request basis. But in the event that governing court doesn't allow to limit scope of responsibilities, the regulations on the limitation of responsibilities stated before won't be applicable. 
+
+ 8. Statement of Indemnity When you browse, download, copy, transmit, encode, compress any data (excluding data provided by ) through software and infringe other people's rights or violate legal provisions; when you breach any regulation of the Terms of Use and cause other people to propose any request or proposal in terms of the loss, responsibilities or fees (including attorney fee) towards or its shareholder, director and supervisor, managing personnel, employee or third person with relevant interest, you're willing to take corresponding indemnity responsibility and defend against relevant case, besides, you should free its shareholder, director and supervisor, managing personnel, employee or the third person with relevant interest from undertaking the indemnity responsibility. In the event that its shareholder, director and supervisor, managing personnel, employee or the third person with relevant interest suffers from a loss, you're willing to indemnify for relevant damage. 
+
+ 9. Service Termination If you breach any regulations of the Terms of Use, it indicates that you've lost the right to legally use software and you should destroy or delete all copies of software immediately. Under special circumstance, it'll also influence the assurance time limit and scope of your device. 
+ Under the circumstance stated beforehand, you agree to conform to the situation, meanwhile, neither you nor any third person won't take any indemnity responsibility: 
+ (1) Terminate your right of entering service account, (2) and/or block you from entering service account in the future. 
+ As for your breach of the Terms of Use, you're well informed of and agree that it will cause the damage that can't be compensated through money to. In the event that it is considered necessary or appropriate, you agree to seek false detention, false punishment, regular or temporal state punishment and other ways to reduce damage expansion. 
+ In the event that you violate Terms of Use, and[BRAND_NAME_PROXY] finally a legal action is taken against you, we will have right to request to you, and you shall agree to pay all [BRAND_NAME_PROXY]reasonable attorney fees and legal expenses, as well as all other damage compensations that proposes and requests by law. 
+
+ 10. Law Applicability and Court Jurisdiction
+ You agree on all relevant items related to the Terms of Use, we'll formulate the specifications in accordance with laws of the People's Republic of China, and the Chaoyang District People's Court of Beijing City will be the governing court and trial location of a case incurred by the Terms of Use, and you shall agree to waive any opposition or defence against the jurisdiction and trial location. 
+ Both parties shall try their best and try all they can to negotiate solving any dispute incurred from the Terms of Use. If a dispute cannot be solved through negotiation within the reasonable period (within 30 calendar days), either party shall submit the dispute for reconciliation. If a reconciliation fails, both parties shall solve the dispute through lawsuit. 
+
+ 11. General Regulations. 
+ The term titles of this Agreement are used for convenient reference only without any legal effect or significance. 
+ [BRAND_NAME_PROXY]In the event that any measures haven't been taken against your action that you breached Terms of Use, it should not be deemed to waive the right to take protection actions for similar actions in the future. 
+ In the event that the governing court thinks that any content of the Terms of Use is illegal, ineffective or unenforceable, other terms or limitations that haven't been declared like that won't be influenced or invalid because of this with its full effect preserved. 
+ You may not assign or dispose of your usage rights obtained under these Terms of Use. 
+ The successors and assignees of the rights of [BRAND_NAME_PROXY] shall also apply the content of these Terms of Use after formally inheriting said rights. 
+
+ 12. Integrality of the Terms of Use. 
+ These Terms of Use and additional terms provided in updates are an integral part of these Terms of Use. 
+
+ 13. Right to Change the Terms
+ [BRAND_NAME_PROXY] reserves the right to change, modify, add, or delete the content of the Terms of Use at its sole discretion. You are required to continually stay abreast of changes to the Terms of Use and the publication of all change information on this [BRAND_NAME_PROXY] website, and your continued use of the [BRAND_NAME_PROXY] device or software constitutes your acceptance of said changes. 
+ [BRAND_NAME_PROXY] Software Ownership and Terms of Use Agreement
+
+ Effective Date: May 20, 2016
+
+ These Terms of Use (hereinafter \"Terms of Use\") apply to the provision of software downloads, automatic updates and other services by [BRAND_NAME_PROXY] (hereinafter \"Software Services\"). If you download, install or use the [BRAND_NAME_PROXY] software, you agree to abide by these Terms of Use. Do not download, copy, or use the [BRAND_NAME_PROXY] software if you do not agree to these Terms of Use. 
+
+ 1. Rules of Use
+ After you agree to the Terms of Use, [BRAND_NAME_PROXY] will grant you non-transferable, non-exclusive, personal, limited access to the Software Services. [BRAND_NAME_PROXY] will be installed in object code form on your [BRAND_NAME_PROXY] device, and the [BRAND_NAME_PROXY] software is used by switching on the device. You expressly understand that you may not use the [BRAND_NAME_PROXY] software for commercial purposes and that you shall use the software on your personal [BRAND_NAME_PROXY] device. 
+ With respect to the [BRAND_NAME_PROXY] software, you are required to comply with these Terms of Use and undertake not to do any of the following: 
+ (a) work around any technical limitations in the [BRAND_NAME_PROXY] software or to use the [BRAND_NAME_PROXY] software in an attempt to, or in conjunction with any device, program or service designed to, circumvent technical measures employed to control files or other data collection or rights;
+ (b) reverse engineer, decompile, decipher, or disassemble the [BRAND_NAME_PROXY] software or otherwise attempt to access source code of the [BRAND_NAME_PROXY] software, or engage in other conduct that is expressly or interpretively restricted by law, or modify or make any derivative works of the [BRAND_NAME_PROXY] software, in whole or in part;
+ (c) enable any third party to access, use or hold the [BRAND_NAME_PROXY] software by publishing, transferring, leasing, lending, sublicensing or disclosing the software;
+ (d) remove any rights notices or labels on the [BRAND_NAME_PROXY] software or any related files in whatever form, whether said removal is performed by yourself or by persons not authorized by [BRAND_NAME_PROXY]; 
+ (e) use the [BRAND_NAME_PROXY] software to infringe the rights of any third party or in any way that violates all applicable laws; or
+ (f) use the [BRAND_NAME_PROXY] software in any environment where its use is restricted or prohibited and may result in or increase the risk of personal injury or death, including but not limited to nuclear facilities, air traffic control, gas stations and other circumstances or environments; or
+ (g) use the [BRAND_NAME_PROXY] software in any other manner prohibited by these Terms of Use. 
+ In order for the [BRAND_NAME_PROXY] software to work properly with your [BRAND_NAME_PROXY] device, you undertake not to destroy or modify the [BRAND_NAME_PROXY] device label yourself without assistance from [BRAND_NAME_PROXY] personnel. This conduct and the conduct under (a) of this clause will affect the scope and duration of the warranty undertaken by [BRAND_NAME_PROXY] for your [BRAND_NAME_PROXY] device. 
+
+ 2. Privacy Policy
+ You expressly acknowledge and agree that, in order to improve the quality of service, [BRAND_NAME_PROXY] may collect and retain any software transfers or message communications you perform through the various services provided by the [BRAND_NAME_PROXY] website, including but not limited to the [BRAND_NAME_PROXY] device model/serial number, IMEI/MEID code, HW version, SW version, cumulative usage time, cumulative sleep time, SKU ID, error statistics, the name of software/programs in which problems occur, number of errors, version information, and so on. 
+ If required to do so by administrative/judicial departments or by law, [BRAND_NAME_PROXY] shall cooperate in disclosing the related information. 
+ If your [BRAND_NAME_PROXY] device has been offline for 14 consecutive days after purchase, your [BRAND_NAME_PROXY] device will send an SMS informing [BRAND_NAME_PROXY] that the [BRAND_NAME_PROXY] device has been opened for use. 
+ See the [BRAND_NAME_PROXY] Privacy Policy for a detailed description. 
+
+ 3. Support Services
+ According to the \"AS IS” state of the [BRAND_NAME_PROXY] software at the time it is downloaded or updated and the provision of [BRAND_NAME_PROXY] updates, downloads, and usage services, [BRAND_NAME_PROXY] can decide whether to continue providing related support and update services. 
+ After you have obtained the initial files for the [BRAND_NAME_PROXY] software, [BRAND_NAME_PROXY] will apply the provisions of these Terms of Use to the various updates, supplements, add-ons, or any service components provided through the network in the course of downloading, updating, and using the software. 
+ [BRAND_NAME_PROXY] reserves the right to terminate any Software Services that you access through browsing the network, or services provided through using the [BRAND_NAME_PROXY] software, in order to make the various Software Services run smoothly. 
+ [BRAND_NAME_PROXY] may, at its sole discretion, release subsequent updated versions of the [BRAND_NAME_PROXY] software, notify you of the update and require you to download over the network and use the latest updated version. 
+
+ 4. Automatic Updates
+ [BRAND_NAME_PROXY] may update, enhance, protect, or further improve the use of your[BRAND_NAME_PROXY] device and [BRAND_NAME_PROXY] software by automatically downloading firmware and software to your [BRAND_NAME_PROXY] device. 
+ The firmware and [BRAND_NAME_PROXY] software on your [BRAND_NAME_PROXY] device will default to \"Enabled\" state, meaning that the [BRAND_NAME_PROXY] server is connected over the network and your [BRAND_NAME_PROXY] device is automatically connected without further manual intervention. To ensure the security and stability of your [BRAND_NAME_PROXY] device, you expressly acknowledge and agree to update programs in accordance with the [BRAND_NAME_PROXY] program updating requirements and following the instructions. 
+ To avoid loss of your data during the update process, please back up personal data (such as your photos, contacts, calendars, music, bookmarks, documents, etc.) on your [BRAND_NAME_PROXY] device and save it to a computer or other device connected to your [BRAND_NAME_PROXY] device. 
+ Once the [BRAND_NAME_PROXY] device is automatically updated or an update message is communicated by [BRAND_NAME_PROXY] and you agree to initiate the update, this indicates your agreement with the following update feature descriptions: 
+ (a) Software updates
+ You expressly acknowledge and agree that the [BRAND_NAME_PROXY] software will connect to your [BRAND_NAME_PROXY] device over the network to confirm the software version and update status in the [BRAND_NAME_PROXY] server. If [BRAND_NAME_PROXY] has published any update messages, it will allow you to connect to the server via the [BRAND_NAME_PROXY] software to update the firmware version and status. 
+ Whenever there is an available software update, you consent to [BRAND_NAME_PROXY] notifying you with an update message in real time. If you receive an update notification via your confirmation, you are deemed to consent to [BRAND_NAME_PROXY] updating and installing the [BRAND_NAME_PROXY] software on your [BRAND_NAME_PROXY] device by downloading the update. 
+ (b) Content synchronization update
+ The updated [BRAND_NAME_PROXY] device content you are currently using will automatically update the content and other information on your connected related [BRAND_NAME_PROXY] devices or computers (such as contact information, calendars, bookmarks and document files and other forms of contents). 
+ 
+ 5. Reservation of Ownership and Rights of the [BRAND_NAME_PROXY] Software
+ [BRAND_NAME_PROXY], its affiliates and suppliers own and retain all title, copyright, and other intellectual property rights in the various [BRAND_NAME_PROXY] software not expressly granted to you in these Terms of Use. 
+ The various software supplied by [BRAND_NAME_PROXY] is protected by copyright and other intellectual property laws and international treaties. 
+
+ 6. Disclaimer
+ To the maximum extent permitted by law, [BRAND_NAME_PROXY] shall not be liable for any faults connected with the [BRAND_NAME_PROXY] software and derivative services (including update services) provided on an \"AS IS\" basis. [BRAND_NAME_PROXY], its affiliates and suppliers do not make any warranties, express, implied or statutory, including, but not limited to, any implied warranties, undertakings or conditions as to the merchantability and fitness for a particular purpose or other circumstances of the [BRAND_NAME_PROXY] software and derivative services (such as update services). 
+ [BRAND_NAME_PROXY] does not make any warranties, express or implied, regarding the matters listed below: 
+ (a) ownership, non-infringement status, compliance with various descriptions, virus-free statements, absence of program vulnerabilities, operational accuracy and completeness of the [BRAND_NAME_PROXY] software or support services; or
+ (b) smooth, uninterrupted or error-free operation of the [BRAND_NAME_PROXY] software; or
+ (c) immediate repair of all possible or potential defects of the [BRAND_NAME_PROXY] software. 
+ By downloading and using the [BRAND_NAME_PROXY] software, you expressly acknowledge all risks resulting from the use or operation of the [BRAND_NAME_PROXY] software and derivative services (if any) (including, but not limited to, damage to the [BRAND_NAME_PROXY] device during use, loss of content, removal or failure of third-party software, etc.), which indicates that you agree to assume the relevant risks and liabilities, and [BRAND_NAME_PROXY] will not provide any guarantee or assume any responsibility in this regard. You agree that [BRAND_NAME_PROXY] has the right to determine and remove programs and software that affect update operations, and will first carry out your own data and software backups. 
+ If you download programs or files that result in your information being leaked or that cause damage to the [BRAND_NAME_PROXY] device system, [BRAND_NAME_PROXY] shall not be held liable therefor and you agree to solely bear all related risks. 
+
+ 7. Scope of Liability and Limitation and Exclusion of Damages. 
+ Except as expressly prohibited by law, [BRAND_NAME_PROXY]shall not be liable in any way for any indirect, incidental, continuing, exemplary, accidental or punitive liquidated damages and other compensation for damage, including loss of profits. [BRAND_NAME_PROXY] or its affiliates shall not be held liable therefor, even if [BRAND_NAME_PROXY] has been advised that said damage may occur, and irrespective of the cause of action or the basis of the claim. 
+ Subject to these Terms of Use, the liability of [BRAND_NAME_PROXY] for damages relating to your use of this website or its contents is limited to a maximum of U.S. $10 for actual direct losses arising from reasonable reliance on this software. Regardless of the form of action, no action arising out of or related to these Terms of Use may be brought more than one year after you become aware that the cause of the action or basis of the claim has occurred. However, if the court of competent jurisdiction does not allow restrictions on the scope of liability, the aforementioned limitation of liability shall not apply. 
+
+ 8. Compensation Statement
+ You are willing to defend, indemnify, and hold [BRAND_NAME_PROXY], its shareholders, directors, managers, employees and other interested third parties harmless and will keep [BRAND_NAME_PROXY], its shareholders, directors, managers, employees and other interested third parties indemnified from all losses, liabilities or expenses (including attorneys fees) incurred as a result of any third party claim arising from your violation of any another party’s rights or applicable law through using the [BRAND_NAME_PROXY] software to carry out the following activities, including but not limited to, browsing, downloading, copying, transferring, encoding or compressing any data (except for data supplied by [BRAND_NAME_PROXY]); or your violation of any provision of these Terms of Use. In the event of damage to [BRAND_NAME_PROXY] or its shareholders, directors, managers, employees or interested third parties resulting therefrom, you are willing to compensate the relevant damage. 
+
+ 9. Termination of Service
+ Upon your violation of any provision of these Terms of Use, you will lose your right to legitimately use the [BRAND_NAME_PROXY] software and must immediately destroy/delete all copies of the software. In certain cases, such violation will also affect the duration and scope of your [BRAND_NAME_PROXY] device's warranty. 
+ In the foregoing cases, you agree that [BRAND_NAME_PROXY] may respond in the following manner, without incurring any consequential liability to you or to any third party: 
+ (1) terminate your right to access the [BRAND_NAME_PROXY] service account
+ (2) and/or block your future access to the [BRAND_NAME_PROXY] service account. 
+ You also expressly acknowledge and agree that your violation of these Terms of Use will cause damage to [BRAND_NAME_PROXY] that cannot be repaid through monetary compensation. In cases where [BRAND_NAME_PROXY] deems it necessary or appropriate, you agree that [BRAND_NAME_PROXY] may, in accordance with the law, seek to reduce the extent of the damage by seeking provisional seizure, provisional injunction, preliminary injunction and other means. 
+ If [BRAND_NAME_PROXY] ultimately takes legal action against you due to your violation of these Terms of Use, you agree to pay all reasonable attorneys' fees and legal costs, and all other damages which [BRAND_NAME_PROXY] may claim in accordance with the law. 
+
+ 10. Applicable Law and Court Jurisdiction
+ You agree that all matters relating to these Terms of Use shall be governed by the laws of the People's Republic of China and you agree to waive any objections or defences against the jurisdiction and venue of the People's Court of Chaoyang District, Beijing, as the court of competent jurisdiction and venue for cases arising from these Terms of Use. 
+ In the event of disputes regarding these Terms of Use, both parties shall endeavour to negotiate in the utmost good faith to settle the dispute. If the negotiations fail to settle the dispute within a reasonable period of time (not exceeding 30 calendar days), either party may submit the dispute to mediation. If mediation fails, the parties shall resolve the dispute through litigation. 
+
+ 11. General Provisions. 
+ The section titles of this Agreement are solely for convenience and have no legal effect or significance. 
+ The failure of [BRAND_NAME_PROXY] to take any action with respect to your violation of these Terms of Use does not constitute a waiver of the right to take action with respect to future similar conduct. 
+ If the court of competent jurisdiction holds any term or restriction of these Terms of Use to be illegal, invalid or unenforceable, the remaining terms and restrictions will remain in full force and effect and will in no way be affected or invalidated. 
+ You may not assign or dispose of your usage rights obtained under these Terms of Use. 
+ The successors and assignees of the rights of [BRAND_NAME_PROXY] shall also apply the content of these Terms of Use after formally inheriting said rights. 
+
+ 12. Integrality of the Terms of Use. 
+ These Terms of Use and additional terms provided in updates are an integral part of these Terms of Use. 
+
+ 13. Right to Change the Terms
+ [BRAND_NAME_PROXY] reserves the right to change, modify, add, or delete the content of the Terms of Use at its sole discretion. You are required to continually stay abreast of changes to the Terms of Use and the publication of all change information on this [BRAND_NAME_PROXY] website, and your continued use of the [BRAND_NAME_PROXY] device or software constitutes your acceptance of said changes. 
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] Legal Information</string>
+    <string name="finish_button_label">Finish</string>
+    <string name="google_account_add_account">Log in with Google account</string>
+    <string name="google_account_intro_description">Sign in to your Google Account to use Google Services.</string>
+    <string name="google_account_intro_title">Google Account</string>
+    <string name="hmd_legal_message">"Terms of Service 
+ 
+Effective Date: October 14, 2016 
+ 
+1. Accept 
+These HMD Global Terms of Service, together with the relevant Privacy Policy and all other additional terms and information (collectively, these Terms) provided within the Service scope, apply to your use of our services, websites, content and software (collectively, the Services). By registering or using our Services or any part of them, you must indicate your acceptance of these Terms. 
+ 
+These Terms constitute an agreement between You and HMD Global Oy (address: Bertel Jungin aukio 9, 02610 Espoo, Finland) (including its subsidiaries and suppliers, collectively, HMD Global), which sets out the rights and responsibilities of you and HMD Global in respect of the Services. 
+ 
+2. Qualifications 
+You must be over 13 years old to use our services. If you are under 13, or you are over 13 but not regarded as an adult in your country, your parent or legal guardian must register on your behalf and approve your use of our services. Any person filling in the registration form must have the legal capacity to act. 
+ 
+3. Registration and Termination. 
+In order to use a particular service, you must register and create an HMD account with a username and password (which must comply with the relevant separate terms). You must also provide us with certain personal details and other information. HMD Global will verify your email address before you use your HMD account. A text message will be sent to HMD Global the first time you use your device and each time that you update your Nokia device’s software. Creating an HMD requires the transfer of relevant data and the collection of relevant data transfer costs. 
+ 
+You hereby agree to provide accurate and complete information when registering for services, and to update such information. You must do everything possible to protect your username and passport, and prevent other people from misusing them. If you discover that such misuse has occurred, you must inform HMD Global immediately. You and your parent or legal guardian (if you are not an adult) are responsible for your actions in using the services. 
+ 
+If you do not wish to use our services, you can terminate your registration. After you terminate the registration, you will no longer be able to access our services. If HMD Global can reasonably conclude that you are violating these terms and conditions, or that you have not used your username to sign up for a particular service within the last six months, HMD Global may terminate or restrict your access to particular services by sending you a notification in advance. 
+ 
+HMD Global undertakes no liability for the deletion or loss of information or content that you provide to the services, except as specified in the Privacy Policy. Traces or copies of the relevant information or content may still exist in other places after you or HMD Global delete them from the services. 
+ 
+4. Licenses 
+HMD Global hereby grants you a non-exclusive and non-transferable license (HMD Global may revoke such licenses at its sole discretion) to access and use the services; however, you must strictly abide by the provisions of each section of these terms. The act of using the services does not grant you any intellectual property rights to any information or content within your services. 
+ 
+As part of the services, HMD Global may provide you certain content (“the Content”) developed by HMD Global or its licensees. HMD Global grants you a non-exclusive, perpetual license to use such Content for the anticipated purpose, unless otherwise stipulated in the relevant terms or purchase orders. Some Content may only be provided to citizens in certain geographical regions. You must comply with any restrictions that apply to your use of specific content obtained through the services. Any third-party content license constitutes a binding agreement reached between you and the third-party content operator. You have the right to use the content specifically authorized in these terms. 
+ 
+As part of the services, HMD Global may provide you certain software (“the Software”) developed by HMD Global or its licensees. Your use of the Software must comply with the separate terms and conditions that you accepted before using the Software. If there are no separate terms and conditions that apply to such Software, the following terms shall be applied: HMD Global grants you the exclusive, non-transferable right to install and use the Software on your computer and/or mobile device. You may not copy the Software other than to make a single backup. You may not issue or transfer the following rights: use, modify, translate, copy, resell, distribute, rent out, lease, reverse-engineer, or otherwise attempt to discover the Software’s source code or development products derived from the Software. The license terms of the relevant open source licenses shall apply to software with open source licenses. By using the Software, you indicate that your accept any applicable terms and conditions. 
+ 
+The Software may be subject to provisions of export control rules under US export administration regulations, or to other import/export control regulations. You agree to strictly comply with all applicable import/export regulations and hereby confirm that you are responsible for obtaining any relevant licenses that are required to export, re-export, transfer or import the Software. 
+ 
+You may provide the services with certain information or content (“the Materials”). HMD Global does not claim ownership of your Materials. Your actions in providing the Materials by no means indicate that you are transferring ownership of the Materials to HMD Global. HMD Global is solely responsible for transferring the Materials, and shall not accept liability for the editorial control of such content. By providing the Materials to the services, you indicate that you grant HMD Global a global license that is non-exclusive, redistributable, transferable, fully paid up with no royalties, permanent and irrevocable (and thereby to use, copy, publicly enforce, display or distribute such Materials in any medium, to modify the Materials to facilitate their incorporation into other works, and to grant similar sub-licenses within the scope of the provision of services by HMD Global). You can adjust these licenses and other service settings in a confidential manner. 
+ 
+You are only responsible for accessing backup copies of data that you have stored in the services (including content that you upload). HMD Global may permanently delete your data if the services are suspended or cancelled. HMD Global has no obligation to return the relevant data to you after the services are suspended or cancelled. 
+ 
+5. Using the Services 
+You hereby agree that 
+• You will comply with the applicable laws, these terms, and best practice methods. 
+• You will only use the services for your personal, non-commercial purposes. 
+• You will not submit materials that are illegal, aggressive, inaccurate, misleading, abusive, pornographic, slanderous or constitute harassment, or other inappropriate materials. 
+• You will obtain any consent, permissions or licenses legitimately required for you to submit any materials. 
+• • You will respect the privacy of others. 
+• You will not distribute or email junk mail, very large files, chain emails, pyramid schemes or viruses. 
+• You will not use any technologies or initiate any such events/activities that could damage the services or the rights, interests or property of service users. 
+• You will not use any automatic systems or methods, [to] access, obtain, copy, or monitor the services or any part there of. 
+• You are liable for all relevant consequences of the services that you mail. 
+ 
+HMD Global may (but has no obligation to): 
+• Monitor or adjust the Content or the Materials. 
+• Delete materials from the services. 
+• Restrict access to the services or any part thereof at any time at its sole discretion. 
+ 
+6. Content 
+Before you download or access any content, please check whether the content you wish to access has any age restrictions or is potentially “offensive” or “suggestive”. 
+ 
+HMD Global accepts no liability for any compensation claims or criminal actions caused or encountered by your accessing the content. 
+ 
+You hereby agree that 
+• You will only use the content for your personal, non-commercial purposes. 
+• You will use the content in accordance with the relevant laws, supplementary articles, guidance and policies, or the product pages applicable to particular portion of the content. 
+• You may not photocopy, give, sell, resell, mortgage, hire, provide, broadcast, send, distribute, transfer, communicate to the public, replicate, modify, display, execute, or develop or provide content on a commercial basis, unless separately authorized to do so in the applicable articles. If you discover any unauthorized use, you must inform HMD Global immediately. 
+• You may not remove, circumvent, reverse-design, decrypt or otherwise change or interfere with any applicable usage regulations or attempt to circumvent digital rights management, or copy other technological protection features associated with the content or used to control the access or use of content or information identified therein. 
+• You may not use any automated systems or methods to select or download content, other than those provided by the company. 
+• You may not disclose your password or otherwise permit another person to access the content. 
+ 
+Any applicable restrictions on copying the relevant media are also applicable to content that forms part of these services. 
+ 
+The content is owned and/or controlled by HMD Global and/or its various licensees, and is protected by intellectual property laws. Third-party content operators are only responsible for content that they provided, assurances that they have not forfeited, and any appeals by you pertaining to the content or your actions in using the content. However, HMD Global may act as a third-party beneficiary of these terms with regard to your performance of these third-party content licensing terms. As third-party beneficiaries of these terms, third-party content providers may exercise [these rights] with regard to the content to which they hold rights. In the process of providing you with content, HMD Global may act an agent for such third-party content operators. HMD Global is not a party to any transactions between you and third-party content operators with regard to such content. 
+ 
+7. Copyright Infringement Statement 
+HMD Global respects the intellectual property (IP) rights of third parties. If you would like to send an IP rights infringement notice (including compensation claims for rights infringements), please use our rights infringement notice submission procedure. No response will be given to any inquiries that are not relevant to this procedure. 
+ 
+HMD Global will respond to all copyright infringement notices using the procedure stipulated in Chapter 17, Article 512 of the United States Code (USC). In the relevant circumstances, HMD Global may prohibit use or terminate your HMD Global service user account (such users could become repeat infringers). 
+ 
+8. Notice 
+HMD Global may send notices that are relevant within the scope of the services. HMD Global may also send notices concerning products and services to the email or phone number that you provided to us. Such notices will be deemed received by you no later than 7 days from the date on which HMD Global sent or mailed the notice. By continuing to use our services, you will be deemed to have received all notices (not relevant to methods of payment notification) sent by us. 
+ 
+9. Fees 
+You may need to pay certain fees to use the services. 
+ 
+Any fees charged by HMD Global are individually listed with regard to the service. 
+ 
+Using the services may involve transferring certain data through the service operator’s network. Service prices do not include data transfer fees, text message fees, voice service fees or other service provision charges stipulated by your network service carrier. 
+ 
+HMD Global is not responsible for paying any fees charged by your service carrier. 
+ 
+10. Ordering and Payment Terms 
+The order should specify: 
+ 
+In accordance with the provisions of the applicable laws, if you wish to send a service order, you must have reached the age of legal competency to act or the age of adulthood. If you have not reached the age of legal competency to act or the age of adulthood, you may only send an order after obtaining the consent of your parent or legal guardian. 
+ 
+You hereby agree that all orders have legal force and are legally binding. All orders must be accepted by HMD Global. 
+ 
+You can pay by credit or debit card, via your internet service carrier’s payment method, or by other methods of payment. 
+ 
+Your credit or debit card must have a payment address in the country in which the services are provided. HMD Global will charge the amount that is on your credit card or perform a debit on your bank card within a reasonable period of time after you sent an order. 
+ 
+All credit card payments must undergo validity checks and must be authorized by the card issuer. 
+ 
+If you choose the network service carrier payment method, the relevant fees will be sent to your mobile phone bill or deducted from your prepaid account. Some network service carriers may impose additional terms and conditions on your use of the services, including the imposition of limits on your network service charges. Charges that exceed the network service carrier’s limits or the balance on your account may be declined. 
+ 
+You agree to pay the relevant fees for your order and ensure that the payment instrument is valid for the order period, that you are the legal holder of the instrument, and that you will use the instrument within the credit limit. 
+ 
+You are licensed to use any content that has been delivered to you. You agree to use the content only in accordance with these terms and any supplementary articles in the order process. 
+ 
+The services provide subscription content. During the subscription period, you authorize us to send a periodic fee within the service. The services may provide a trial period. If your order involves a particular trial period (also referred to as purchase after trial use), you will be charged the relevant fees after the trial period expires, unless you cancel in accordance with the subscription/trial terms. 
+ 
+Service prices may change at any time. Unless otherwise stipulated, service prices include the relevant taxes in effect at the time of the transaction. Any additional fees may be incurred at your bank or credit card operator based on the exchange rates for the currency used and/or the additional fees assessed. 
+ 
+11. Cancellation and Refunds 
+You agree that we will deliver the relevant content in electronic form after you send an order. Your order cannot be cancelled once it has been processed, and neither may the relevant content be returned. 
+ 
+If you discover that any of the following circumstances applies after you send your order, you should immediately inform HMD Global within 48 hours: (a) There are errors in the content ordered; (b) There are discrepancies between the content you ordered via the service and the content delivered by HMD Global; (c) Relevant technical problems have delayed or the delivery of the content to you, or such technical problems have caused accidental multiple orders. In such circumstances, your only and exclusive remedy with regard to the content is to exchange the content or refund the amount paid for such content; HMD Global will make specific decisions based on the circumstances. 
+ 
+Other than this, no refunds will be given. Please contact the HMD Global Customer Service Department if you encounter the aforementioned technical problems. 
+ 
+Please note that if you are unable to provide your transaction ID (the transaction ID provided by HMD Global after you sent the service order), the HMD Global Customer Service Department will not be able to process your customer support request. If the total price exceeds the money limit stipulated by the relevant local laws, HMD Global will take responsibility for processing the content refund. 
+ 
+12. Providing feedback to HMD Global. 
+By providing any opinions, feedback and/or proposals to HMD Global via the service or other methods (“the Feedback”), you indicate that you confirm and agree that: (1) HMD Global possesses development ideas similar to the Feedback; (2) Your Feedback does not include confidential or exclusive information pertaining to your or any third party; (3) HMD Global shall not undertake any confidentiality obligations with regard to the Feedback; (4) HMD Global may freely utilize, distribute, develop and further develop and modify such Feedback for any purpose; (5) You are not entitled to receive any form of remuneration from HMD Global. 
+ 
+13. Social Activities and Location Sharing 
+You may use the functions in the services to share your location, status, materials or personal information, or to interact with other users, websites and services. By using these functions you indicate that you agree that HMD Global may use such information and provide it to other service organizations and personnel that you have chosen to interact or share with. These service users and personnel, for example your contacts, may see your location, status and/or personal information. During the process of using these functions, you agree that you will not share the following information, content or materials, or establish links with any service or website: (a) contains illegal or inappropriate content or other materials; or (b) unauthorized development of IP rights, or encouraging users to engage in plagiarism. All interactions take place between you and other users, and as such do not involve HMD Global. 
+ 
+14. Availability and Technical Requirements 
+The availability of content and services may change, and is subject to the sole discretion of HMD Global. HMD Global expressly disclaims any statements or guarantees regarding the availability of specific content or services. HMD Global does not provide services in all countries, and only provides the services in a few selected languages. The services and their operations and certain functions are also determined by the compatibility and supported content formats of the relevant networks and the device used. 
+ 
+In order to access the services, you need to download specific software or part thereof from HMD Global or another developer. 
+ 
+HMD Global may modify, correct or suspend all or part of the service based on the circumstances, and is likely to not provide services during the maintenance period and at other times. To ensure that you have the latest device software and applications, your device may automatically check the possibility of updating the software from HMD Global. If any updates are detected, you will be notified to approve their installation. You can configure the device to disable the automatic update check function. You can install software through the software update channels provided. If HMD Global believes that a software update is extremely important, you should stop using the earlier version of the software. HMD Global may prevent you from using earlier versions of the software or services until you install the updates. 
+ 
+HMD Global may disable the use of any content or software in your service account, remove any content or software, and/or disable any copies of applications on your order device, in order to protect the services, application operators, and the wireless carriers through whose networks you access the services or any other party that is affected or may be affected. 
+ 
+Specific services may take the form of pre-release versions, such as test versions, and may not necessarily work in the way that the final version operates. HMD Global may make major changes to the service or software versions, or decide not to release a final version. 
+ 
+15. Links to Third-Party Websites and Content 
+HMD Global may provide access paths to other sites and services on its Internet or pre-downloaded client end; thereby allowing you to interact with sites and services owned or operated by third parties (such sites and services do not count as part of the services under these terms). Before using such sites and services, you must read and agree to the terms and conditions of these sites and services. 
+ 
+HMD Global has no right to control third-party content, websites or services. For this reason, HMD Global undertakes no liability for the services provided or the materials created or published based on these third-party sites or services. A link to a particular third-party website by no means implies that HMD Global agrees with the site or the products or services mentioned therein. 
+ 
+Additionally, you and other users may create relevant content and links to content contained in the services (without providing such content to the services described in these terms.) HMD Global undertakes no liability for content or links of this type. 
+ 
+16. Advertising 
+The services may include some adverts. These adverts point to content or information stored on the services, inquiries provided through the services, or other information. 
+ 
+17. Personal Information 
+The privacy policy provided and any additional privacy information is applicable to your use of your personal information. 
+ 
+18. Limitations of Liability 
+The service is provided on the basis of the “current situation” and “availability”. HMD Global does not guarantee that the service will not be interrupted or does not contain errors for viruses. HMD Global makes no explicit or implicit guarantees of the availability, accuracy, reliability, information or content of the services, including but not limited to ownership rights, non-infringement of rights guarantees, saleability guarantees, or guarantees of suitability for a specific purpose. You clearly agree and confirm that you understand that the risk is yours when you use the services, and that you may encounter content from a variety of sources. 
+ 
+Excluding liability for death or personal injury caused by culpable negligence or malfeasance, HMD Global shall accept no liability for indirect, accidental, or punitive damages caused by your use or inability to use the services. 
+ 
+19. Compensation 
+You agree to compensate and indemnify HMD Global from all third-party compensation claims and liability, taxation, losses, costs or damages arising from the following content: (i) You violate these terms; (ii) You infringe or violate any IP rights, other rights or the privacy of a third party; (iii) A third party misuses the services and such misuse originates from your failure to take reasonable measures to protect your username and password from being abused. 
+ 
+20. Other 
+ 
+20.1 Choice of Law 
+These terms are subject to the jurisdiction of the laws of Finland (without consideration to its legal conflict regulations). 
+ 
+20.2 Validity 
+These terms neither exclude nor limit any statutory right that you have not waived in your country of residence. If any provision of these terms is judged to be invalid, the validity of the other provisions shall not be affected. The invalid provisions should be replaced with valid provisions that are closest to the intention and goals of these terms. If one or several provisions of these terms are irrelevant to your use of the services, this does not affect the validity or enforceability of the other provisions of the terms or of this article. 
+ 
+In case of conflicts between HMD Global ‘s terms of service and its privacy policy, the application of these HMD Global terms of service should be given priority. After these terms have terminated, any terms that should remain valid after your registration is terminated shall continue to be valid. 
+ 
+20.3 Changes to the Terms 
+HMD Global may revise these terms at any time without any separate notification. If there are any major, adverse changes to the terms, HMD Global shall send out a separate notice informing you of the changes. 
+ 
+You should read these terms periodically. By continuing to use the services, you indicate that you agree to any changes or amendments thereto. 
+ 
+21. Intellectual Property Rights 
+The services, content and software are subject to the protection of international copyright law. HMD Global has ownership of the copyright in its services, content and software to the maximum extent permitted by the law. In accordance with the provisions of these terms, HMD Global reserves all rights, ownership and interests for the services and the content and software thereof, as well as all other HMD Global products, software, and assets provided to you or which you use via the services. 
+ 
+22. Transferal 
+HMD Global may transfer its rights and obligations under these terms to its parent company or any subsidiary or any company that is jointly controlled by HMD Global. HMD Global may transfer its rights and obligations under these terms to any third party that is affiliated with HMD Global as a result of mergers, asset sales, legal provisions, or other reasons."</string>
+    <string name="hmd_user_experience_program_message">Your participation in the user experience programme helps HMD Global to better understand what you like about your Nokia device and what you think needs to be improved. From time to time, we may receive anonymous data with technical characteristics about your device, such as, for example, a file with data about a software crash that may have happened. Please note that such data will not be transmitted over a mobile connection. We love hearing from you what you think about your Nokia device!</string>
+    <string name="hmd_user_experience_program_title">User experience programme</string>
+    <string name="idle_too_long_toast">If this phone has been idle for a while, you must turn it off to turn to save power.</string>
+    <string name="insert_sim_cards">Insert SIM cards</string>
+    <string name="insert_sim_cards_prompt_content">"Not sure how? Check the instructions that came with your phone.
+
+Once you insert your SIM cards, they may take a few seconds to activate."</string>
+    <string name="language_selection_cancel_btn">CANCEL</string>
+    <string name="language_selection_title">Choose your language</string>
+    <string name="light_room_description">%1$s supports capture of RAW (DNG) images. You can edit directly on your new smartphone thanks to our partnership with Adobe.&lt;br/>&lt;br/>Download Adobe Photoshop Lightroom CC from the Google Play store now.</string>
+    <string name="light_room_title">Passionate about photography?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="location_for_service">Use my location for Google searches and other Google services.</string>
+    <string name="location_info_1">Apps provided by Google’s location service can still obtain your approximate location without needing to use GPS.</string>
+    <string name="location_info_2">You can disable these functions in the Location Services settings.</string>
+    <string name="location_network">Allow Google location services to gather anonymous location data. Collection continues even when no apps are running.</string>
+    <string name="location_title">Use Google positioning</string>
+    <string name="nevigation_selection_back">Back</string>
+    <string name="nevigation_selection_home">Home screen</string>
+    <string name="nevigation_selection_recent">Last used</string>
+    <string name="nevigation_selection_text">You can change the position and background colour of the \"Back\"/\"Last Used\" buttons</string>
+    <string name="nevigation_selection_title">Navigation Bar Settings</string>
+    <string name="next_btn_lebel">Next</string>
+    <string name="not_now">NOT NOW…</string>
+    <string name="passpoint_content">%1$s credentials</string>
+    <string name="passpoint_label">Saved via</string>
+    <string name="please_select_phase2">Phase 2 authentication</string>
+    <string name="proxy_error_empty_host_set_port">The port field must be empty if the host field is empty.</string>
+    <string name="proxy_error_empty_port">You need to complete the port field.</string>
+    <string name="proxy_error_invalid_exclusion_list">The exclusion list you typed isn’t properly formatted. Type a list of excluded domains, separated by commas.</string>
+    <string name="proxy_error_invalid_port">The port you typed isn’t valid.</string>
+    <string name="proxy_exclusionlist_label">Bypass proxy for</string>
+    <string name="proxy_hostname_label">Proxy hostname</string>
+    <string name="proxy_port_label">Proxy port</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_warning_limited_support">The HTTP proxy is used by the browser, but may not be used by the other apps.</string>
+    <string name="saved_network">Saved by %1$s</string>
+    <string name="search_menu_title">Search</string>
+    <string name="select_sim_card">Select SIM card</string>
+    <string name="setup_complete_hmd_1">You are nearly ready to go...!</string>
+    <string name="setup_complete_main">Your phone</string>
+    <string name="setup_complete_sub">is ready for use</string>
+    <string name="setup_completed_congratulations">Congratulations!</string>
+    <string name="setup_finish">"LET'S GO"</string>
+    <string name="sim_editor_title">SIM slot %1$d</string>
+    <string name="sim_not_exist_toast">Please check that you have inserted a SIM card.</string>
+    <string name="skip_add_account_button_label">Not now</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Agree</string>
+    <string name="term_disagree_text">Disagree</string>
+    <string name="terms_of_service_description">"
+Data traffic costs will incur when you use services like: weather, online storage uploads/downloads, email or Internet browsers. We recommend that you apply to your carrier for a data package to save costs. 
+
+Checking “Agree” indicates that you clearly understand this notification and you agree that your phone may automatically connect to the Internet to use the relevant services. 
+
+In addition, software automatic update notifications default to enabled, which uses small amounts of data to give you a new software experience. You can turn off this option later in Settings. 
+
+"</string>
+    <string name="terms_title">Data usage notifications</string>
+    <string name="traffic_prompt_content">If you check disagree, you must manually obtain information on: software updates, weather forecasts and so on.</string>
+    <string name="upload_agent_des_text">"Join the User Experience Program &lt;a href='launch.AddUploadAgentHandler://Kode'>PrivacyTerms&amp;Conditions&lt;/a> 。"</string>
+    <string name="upload_agent_hmd_des_text_2">"Join the Nokia User Experience program. &lt;a href='launch.UserExperienceActivity://Kode'>Learn more.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"By tapping \"LET'S GO\", you agree to join the User Experience Program. &lt;a href='launch.UserExperienceActivity://Kode'>Learn more&lt;/a>. Remember, you can always join later via Settings."</string>
+    <string name="upload_agent_title">User Experience Program</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="welcome_hmd_term_of_use_2">"By tapping the arrow, you agree to &lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&lt;/a> and &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>. The device activation information with one-time device location will be sent to HMD Global. Mobile data charges may apply."</string>
+    <string name="welcome_hmd_term_of_use_4">"By tapping the button, you agree to &lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&lt;/a> and &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>. The device activation information and location will be sent to HMD Global. Data charges may apply. Data will be used according to Privacy Policy.&lt;br/>&lt;br/> Auto Software Update notification will be enabled which installs the latest updates for you. This may use up a small portion of your data budget. The services will access the Internet whenever they need.&lt;br/>&lt;br/> These services will cost you overage charges when they access cellular networks.&lt;br/>&lt;br/> The device may send device activation information to local operators.&lt;br/>&lt;br/> To provide complete service, Google Play Services need to connect to network, access your contact, location, phone, SMS, Microphone, Camera, Sensor, Calendar and storage."</string>
+    <string name="welcome_hmd_term_of_use_5">"By tapping the button, you agree to &lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&lt;/a>. The device activation information with one-time device location will be sent to HMD Global. Data charges may apply. Mobile data will be used according to &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"Press Start to indicate that you agree&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Service Terms&amp;Conditions&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">"Let's go"</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="welcome_start_button_label">Start</string>
+    <string name="welcome_vision_settings_button_label">Vision Settings</string>
+    <string name="wifi_add_network">Add network</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Drop down list Advanced Options. Double-tap to expand.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Drop down list Advanced Options. Double-tap to collapse.</string>
+    <string name="wifi_and_mobile_skipped_message">"Connecting to a network helps you quickly set up your phone.
+
+Without a connection, you can’t:
+
+"<li>Sign in to your Cloud account</li>"
+
+"<li>Get software updates</li>"
+
+"<li>Automatically set up time and date</li></string>
+    <string name="wifi_auth_password_wrong">Password may be incorrect</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Cancel</string>
+    <string name="wifi_certificate">Certificate</string>
+    <string name="wifi_connect">Connect</string>
+    <string name="wifi_connected_no_internet">Connected, no Internet</string>
+    <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
+    <string name="wifi_disabled_password_failure">Authentication problem</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Do not provide</string>
+    <string name="wifi_do_not_validate_eap_server">Do not validate</string>
+    <string name="wifi_do_not_validate_eap_server_warning">No certificate specified. Your connection will not be private.</string>
+    <string name="wifi_dont_skip">GO BACK</string>
+    <string name="wifi_eap_anonymous">Anonymous identity</string>
+    <string name="wifi_eap_ca_cert">CA certificate</string>
+    <string name="wifi_eap_domain">Domain</string>
+    <string name="wifi_eap_identity">Identity</string>
+    <string name="wifi_eap_method">EAP method</string>
+    <string name="wifi_eap_user_cert">User certificate</string>
+    <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
+    <string name="wifi_failed_connect_message">Failed to connect to network</string>
+    <string name="wifi_failed_forget_message">Failed to forget network</string>
+    <string name="wifi_failed_save_message">Failed to save network</string>
+    <string name="wifi_forget">Forget</string>
+    <string name="wifi_frequency">Frequency</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_ip_address">IP address</string>
+    <string name="wifi_ip_settings">IP settings</string>
+    <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Type a valid IP address.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
+    <string name="wifi_multiple_cert_added">(Multiple certificates added)</string>
+    <string name="wifi_network_prefix_length">Network prefix length</string>
+    <string name="wifi_no_domain_warning">Must specify a domain.</string>
+    <string name="wifi_no_internet">No Internet access</string>
+    <string name="wifi_no_internet_no_reconnect">"Won't automatically connect"</string>
+    <string name="wifi_not_in_range">Not in range</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_picker_connection_des_text">If you are not connected to WLAN, the software will be authenticated using the mobile network, which may cause you to incur data transfer fees.</string>
+    <string name="wifi_picker_connection_negative_prc">Connect to WLAN</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Network connection</string>
+    <string name="wifi_picker_warning_des_text">It will not be possible to confirm that your software is up to date unless you have an Internet connection.</string>
+    <string name="wifi_picker_warning_negative">Skip anyway</string>
+    <string name="wifi_picker_warning_positive">Don’t skip</string>
+    <string name="wifi_picker_warning_title">Warning</string>
+    <string name="wifi_remembered">Saved</string>
+    <string name="wifi_save">Save</string>
+    <string name="wifi_security">Security</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_setting_title">Get connected</string>
+    <string name="wifi_shared">Share with other device users</string>
+    <string name="wifi_show_advanced">Advanced options</string>
+    <string name="wifi_show_password">Show password</string>
+    <string name="wifi_signal">Signal strength</string>
+    <string name="wifi_skip_anyway">SKIP ANYWAY</string>
+    <string name="wifi_speed">Link speed</string>
+    <string name="wifi_ssid">Network name</string>
+    <string name="wifi_ssid_hint">Enter the SSID</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_unchanged">(unchanged)</string>
+    <string name="wifi_unspecified">Please select</string>
+    <string name="wifi_use_system_certs">Use system certificates</string>
+    <string name="zone_auto">Automatically identify the time zone</string>
+    <string name="zone_auto_summaryOff">Use the time zone on the network</string>
+    <string name="zone_auto_summaryOn">Use the time zone on the network</string>
+    <string name="sugarsync_intro_description">With just a few simple steps, you can use seamless SugarSync cloud storage space.</string>
+</resources>

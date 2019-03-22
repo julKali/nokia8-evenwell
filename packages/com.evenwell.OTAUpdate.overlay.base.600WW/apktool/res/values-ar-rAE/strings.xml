@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تحديث البرنامج</string>
+    <string name="remote_file_fail">لا يمكن الوصول لملف بعيد. يرجى إعادة المحاولة لاحقًا.</string>
+    <string name="no_description">(بلا وصف)</string>
+    <string name="login_fail">فشل تسجيل الدخول للخادم. يرجى إعادة المحاولة لاحقًا.</string>
+    <string name="get_service_url_fail">اتصال الشبكة غير مستقر (فشل الحصول على عنوان URL للخدمة). يرجى إعادة المحاولة لاحقًا.</string>
+    <string name="query_sw_fail">فشل استعلام معلومات البرنامج.</string>
+    <string name="download_sw_fail">فشل تنزيل البرنامج.</string>
+    <string name="query_sw_incorrect">النتيجة غير صحيحة.</string>
+    <string name="no_update_available">لا يتوفر تحديث آخر.</string>
+    <string name="update_not_ready">لا يوجد تحديث آخر جاهز على الخادم. يرجى إعادة المحاولة لاحقًا.</string>
+    <string name="check_now_label">التحقق الآن</string>
+    <string name="verifying">جار التحقق...</string>
+    <string name="header_verifying_update_file">جار التحقق من الملف المحدث...</string>
+    <string name="unzipping">جار فك الضغط...</string>
+    <string name="header_starting_to_download_file">بدء تنزيل الملف...</string>
+    <string name="new_version_desc_prompt">الإصدار الجديد يتضمن:</string>
+    <string name="data_fee_warning">استخدام هذا الجهاز عبر اتصال شبكة الجوال لديك قد يكلف رسومًا!</string>
+    <string name="header_downloading_update">تنزيل التحديث</string>
+    <string name="header_install_system_software_update">تثبيت تحديث برنامج النظام</string>
+    <string name="msg_install_system_software_update_1">"أتريد تثبيت برنامج النظام التالي؟
+ترقية النظام إلى"</string>
+    <string name="msg_install_system_software_update_2">"
+
+سيتعذر عليك استخدام جهازك أو إجراء مكالمات طوارئ أثناء الترقية.
+
+قد يؤدي إخراج البطارية أو بطاقة SD أثناء تحديث البرنامج إلى نتائج غير متوقعة."</string>
+    <string name="msg_install_system_software_update_3">"
+
+سيتعذر عليك استخدام جهازك أثناء الترقية.
+
+يؤدي انقطاع التيار أو إزالة الملف المُنزَّل أثناء تحديث البرنامج إلى نتائج غير متوقعة."</string>
+    <string name="msg_install_system_software_update_4">"
+
+سيتعذر عليك استخدام جهازك أو إجراء مكالمات الطوارئ أثناء الترقية.
+
+في حالة انقطاع التيار أو إزالة الملف المُنزَّل أثناء تحديث البرنامج، ستظهر نتائج غير متوقعة."</string>
+    <string name="button_install_later">التثبيت لاحقًا</string>
+    <string name="msg_unable_to_connect">أنت بحاجة إلى اتصال شبكة لاستخدام هذا التطبيق. يرجى تشغيل شبكة الجوال أو Wi-Fi في الإعدادات.</string>
+    <string name="msg_unable_to_connect_2">أنت بحاجة إلى اتصال شبكة لاستخدام هذا التطبيق. يرجى تشغيل شبكة الجوال في الإعدادات.</string>
+    <string name="msg_unable_to_connect_wlan">أنت بحاجة إلى اتصال شبكة لاستخدام هذا التطبيق. يرجى تشغيل شبكة الجوال أو WLAN في الإعدادات.</string>
+    <string name="msg_unable_to_connect_short">لا يوجد اتصال بالشبكة</string>
+    <string name="header_system_is_update">النظام محدّث.</string>
+    <string name="msg_system_is_update">لا يتوفر تحديث آخر.</string>
+    <string name="msg_system_is_update_short">لا تتوفر تحديثات أخرى</string>
+    <string name="msg_no_sd_card">بطاقة SD مطلوبة لتحديث النظام. يرجى إدخال بطاقة SD متوفرة.</string>
+    <string name="msg_no_available_size_card">يحتاج ملف التحديث هذا إلى %s م.ب من المساحة المتوفرة. يرجى حذف بعض الملفات من بطاقة SD.</string>
+    <string name="msg_no_available_size_card_2">يحتاج ملف التحديث هذا إلى %s م.ب من المساحة المتوفرة. يرجى حذف بعض الملفات في تخزين البيانات.</string>
+    <string name="msg_no_available_size_card_short">لا توجد مساحة خالية كافية.</string>
+    <string name="msg_do_not_remove_sd_card">يرجى عدم إزالة بطاقة SD.</string>
+    <string name="msg_system_battery_too_low">"تحديث النظام جاهز، لكن البطارية منخفضة للغاية بحيث لا يمكن تثبيته. يرجى شحن البطارية وبدء التثبيت لاحقًا.
+
+يجب أن يزيد مستوى البطارية عن 35%%.
+مستوى البطارية الحالي: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">البطارية ضعيفة للغاية</string>
+    <string name="msg_remove_sd_card">لا يمكن نسخ الملف المُنزَّل إلى بطاقة SD. يرجى التحقق من بطاقة SD.</string>
+    <string name="msg_remove_sd_card_2">لا يمكن نسخ الملف المُنزَّل إلى تخزين البيانات. يرجى التحقق من التخزين.</string>
+    <string name="msg_remove_sd_card_short">فشل الوصول إلى بطاقة SD.</string>
+    <string name="msg_remove_sd_card_short_2">فشل الوصول إلى تخزين البيانات.</string>
+    <string name="msg_verify_fail">فشل التحقق من صحة الملف المُنزَّل.</string>
+    <string name="msg_verify_fail_short">فشل التحقق من الصحة</string>
+    <string name="msg_unzip_fail">فشل فك ضغط الملف المُنزَّل.</string>
+    <string name="msg_unzip_fail_short">فشل فك الضغط</string>
+    <string name="data_size">حجم البيانات</string>
+    <string name="required_size">المساحة المطلوبة</string>
+    <string name="network_not_match">إعدادك الحالي هو التنزيل عبر WLAN فقط. يرجى تحديد شبكة WLAN أو تغيير الإعدادات لديك.</string>
+    <string name="network_not_match_short">الشبكة غير مطابقة.</string>
+    <string name="without_reboot_api">لا يمكن إعادة التشغيل بسبب فقدان API. يرجى إعادة التشغيل يدويًا لاستعادة التحديث النشط.</string>
+    <string name="update_complete">تحديث النظام اكتمل.</string>
+    <string name="update_complete_short">التحديث اكتمل</string>
+    <string name="file_removed">تمت إزالة الملف المُنزَّل. يرجى التنزيل مرة أخرى.</string>
+    <string name="file_removed_short">تمت إزالة الملف المُنزَّل.</string>
+    <string name="file_not_match">الملف المُنزَّل لا يتطابق مع الحجم المتوقع. يرجى التنزيل مرة أخرى.</string>
+    <string name="file_not_match_short">الملف غير مطابق.</string>
+    <string name="menu_url">تغيير عنوان URL للخادم</string>
+    <string name="menu_enabled">البرامج الممكنة فقط</string>
+    <string name="using_internal_storage">استخدام تخزين داخلي</string>
+    <string name="using_external_storage">استخدام تخزين خارجي</string>
+    <string name="msg_agree_message">"
+
+هناك احتمال ضئيل أن يتم مسح بيانات المستخدم بسبب عملية الترقية. عند الحاجة، يرجى نسخ بياناتك احتياطيًا قبل تثبيت ترقية النظام."</string>
+    <string name="msg_root_message">"
+
+لا يمكن ضمان التحديث العادي بعد تحديد جذر الجهاز."</string>
+    <string name="msg_responsibility_message">إذا تم تحديد جذر الجهاز، يكون المستخدم مسؤولاً عن سلوك النظام غير الطبيعي بعد التحديث.</string>
+    <string name="msg_upgrade_agree">أقرأ ووافق</string>
+    <string name="update_summary">البحث عن تحديثات</string>
+    <string name="wlan_only">WLAN فقط</string>
+    <string name="wifi_only_summary">تنزيل التحديثات عندما تتوفر Wi-Fi</string>
+    <string name="wlan_only_summary">تنزيل التحديثات عند توفر WLAN</string>
+    <string name="auto_update">تحديث تلقائي</string>
+    <string name="auto_update_summary">البحث عن تحديثات تلقائيًا</string>
+    <string name="new_data_fee_warning">قد يترتب على البحث عن تحديثات وتنزيلها فرض رسوم إضافية. قم بتنزيل التحديثات عبر Wi-Fi إذا أمكن.</string>
+    <string name="wlan_data_fee_warning">قد يترتب على البحث عن تحديثات وتنزيلها فرض رسوم إضافية. قم بتنزيل التحديثات عبر WLAN إذا أمكن.</string>
+    <string name="install_fail">فشل التثبيت</string>
+    <string name="install_all">تثبيت الكل</string>
+    <string name="installed_version">إصدار مثبت</string>
+    <string name="update_available">التحديث متوفر.</string>
+    <string name="apk_update_available">لا يتوفر تحديث التطبيق.</string>
+    <string name="recommend">موصى به</string>
+    <string name="roaming_restriction">قيد تجوال البيانات</string>
+    <string name="roaming_restriction_summary">لا يمكن التحديث نظرًا لقيد تجوال البيانات.</string>
+    <string name="changelog">تغيير السجل</string>
+    <string name="apk_update_available_summary">يتوفر تحديث لـ %s. انقر على موافق للتثبيت الآن أو انقر على إلغاء للبحث عن تحديث بعد يوم واحد.</string>
+    <string name="apk_removed">تمت إزالة هذا التطبيق.</string>
+    <string name="apk_available_items">إجمالي العناصر المتاحة %s</string>
+    <string name="apk_available_item">إجمالي العناصر المتاحة %s</string>
+    <string name="invalid_update_summary">التحديث غير صالح، يرجى التحقق مرة أخرى.</string>
+    <string name="recheck">التحقق مرة أخرى</string>
+    <string name="image_download_exception_summary">لا يمكن الوصول إلى الخادم، يرجى التحقق مرة أخرى لاحقًا.</string>
+    <string name="apk_download_exception">لا يمكن الوصول للخادم</string>
+    <string name="installation_confirmation">تأكيد التثبيت</string>
+    <string name="apk_need_reboot_summary">تحديث البرنامج هذا سيؤدي إلى إعادة تشغيل النظام تلقائيًا بعد انتهاء التثبيت. أتريد التثبيت الآن؟</string>
+    <string name="prepare_to_reboot">الإعداد لإعادة التشغيل</string>
+    <string name="prepare_to_reboot_summary">البرنامج المثبت يحتاج إلى إعادة تشغيل الجهاز لتكوين الإعدادات. إننا نوصي بإعادة التشغيل الآن أو يمكنك أيضًا إعادة التشغيل لاحقًا.</string>
+    <string name="prepare_to_reboot_force_summary">البرنامج المثبت يحتاج إلى إعادة تشغيل الجهاز لتكوين الإعدادات. إننا نوصي بإعادة التشغيل الآن.</string>
+    <string name="reboot_fail">فشل إعادة التشغيل</string>
+    <string name="reboot_fail_summary">لا يمكن إعادة التشغيل بسبب فقدان API. يرجى إعادة التشغيل يدويًا.</string>
+    <string name="apk_no_avaliable_size">يتعذر التنزيل لعدم كفاية حجم التخزين الداخلي.</string>
+    <string name="update_finished">التحديث انتهى</string>
+    <string name="msg_root_warning">تم تحديد جذر لجهازك أو تم التلاعب بالبرنامج الرسمي. قد يؤدي استمرار تحديث النظام إلى عدم استقرار النظام أو تعطل النظام، وربما يبطل ضمان جهازك. أتريد بالتأكيد المتابعة؟</string>
+    <string name="multi_image_update">تتوفر بعض تحديثات الصور</string>
+    <string name="available_update_list">قائمة التحديثات الحالية</string>
+    <string name="downloading_summary">يرجى إلغاء تنزيل الصورة</string>
+    <string name="msg_erase_userdata_warning">هذا التحديث بحاجة إلى مسح بيانات المستخدم. أتريد المتابعة؟</string>
+    <string name="msg_autoupdate_date_fee_warning">قد يترتب على تمكين التحديث التلقائي فرض رسوم إضافية.</string>
+    <string name="invalid_update">التحديث غير صالح.</string>
+    <string name="file_corrupted">لا يمكن ترقية النظام بسبب تلف الملف.</string>
+    <string name="ask_for_apk_check">أترغب في البحث عن تحديثات التطبيق؟</string>
+    <string name="update_ota_self">تحديث البرنامج قيد التقدم.</string>
+    <string name="ab_update_fail">مشكلة بالتثبيت.</string>
+    <string name="ab_update_wrong_status">محرك التحديث مشغول الآن. يرجى المحاولة مرة أخرى أو إعادة التشغيل.</string>
+    <string name="ab_update_installing">تحديث النظام</string>
+    <string name="tag_engineer_mode">وضع المهندس</string>
+    <string name="engineer_version_incorrect">إصدار جهازك غير صحيح</string>
+    <string name="msg_engineer_ota_restore">انقر لاستعادة الإصدار الرسمي</string>
+    <string name="msg_engineer_ota_restore_warning">يؤدي ذلك إلى استعادة الإصدار الرسمي. أتريد المتابعة؟</string>
+    <string name="silent_mode_data_fee_warning">التحديث متوفر. قد يترتب على تنزيل التحديثات فرض رسوم إضافية. قم بتنزيل التحديثات عبر Wi-Fi إذا أمكن.</string>
+    <string name="msg_updating_system">تحديث النظام...</string>
+    <string name="msg_tap_to_reboot">انقر لإعادة التشغيل</string>
+    <string name="msg_pause_download">إيقاف التنزيل مؤقتًا</string>
+    <string name="notification_channel_name">تحديث النظام</string>
+    <string name="notification_channel_alert_name">الإشعارات العامة</string>
+</resources>

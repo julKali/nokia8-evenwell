@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Yazılımı indirme başarısız.</string>
+    <string name="msg_root_message">"
+
+Cihaz kök dizin erişimine izin verildikten sonra normal güncelleme garanti edilemez."</string>
+    <string name="msg_responsibility_message">Cihazın kök dizin erişimine izin verilirse, güncellemeden sonra oluşabilecek tüm anormal sistem davranışlarından kullanıcı sorumludur.</string>
+    <string name="apk_available_items">Toplam %s kullanılabilir öğe</string>
+    <string name="apk_available_item">Toplam %s kullanılabilir öğe</string>
+    <string name="invalid_update_summary">Yükleme geçersiz, lütfen tekrar kontrol edin.</string>
+    <string name="recheck">Tekrar kontrol et</string>
+    <string name="image_download_exception_summary">Sunucuya erişilemiyor, lütfen daha sonra tekrar deneyin.</string>
+    <string name="apk_download_exception">Sunucuya erişilemiyor</string>
+    <string name="installation_confirmation">Yükleme Onayı</string>
+    <string name="apk_need_reboot_summary">Bu yazılım güncellemesi yükleme bittikten sonra yazılımınızı yeniden başlatacaktır. Şimdi yüklemek istiyor musunuz?</string>
+    <string name="prepare_to_reboot">Yeniden başlatmaya hazırlanıyor</string>
+    <string name="prepare_to_reboot_summary">Ayarları yapılandırmak için, yüklü yazılımın cihazı yeniden başlatması gerekiyor. Şimdi yeniden başlatmanızı öneririz veya daha sonra da yeniden başlatabilirsiniz.</string>
+    <string name="prepare_to_reboot_force_summary">Ayarları yapılandırmak için, yüklü yazılımın cihazı yeniden başlatması gerekiyor. Şimdi yeniden başlatmanızı öneririz.</string>
+    <string name="reboot_fail">Yeniden yükleme başarısız</string>
+    <string name="reboot_fail_summary">Eksik API nedeniyle yeniden başlatılamıyor. Lütfen el ile yeniden başlatın.</string>
+    <string name="apk_no_avaliable_size">Yetersiz dahili depolama boyutu nedeniyle indirilemiyor.</string>
+    <string name="update_finished">Güncelleme tamamlandı</string>
+    <string name="msg_root_warning">Cihazınızın kök dizin erişimine izin verilmiş veya resmi yazılımda değişiklik yapılmış. Sistem güncellemesine devam edilmesi, sistem kararsızlığı ya da sistem çökmesi ile sonuçlanabilir ve cihazınızın garantisini geçersiz kılabilir. Devam etmek istediğinizden emin misiniz?</string>
+    <string name="multi_image_update">Bazı yansıma güncellemeleri mevcut</string>
+    <string name="available_update_list">Mevcut Güncellemeler Listesi</string>
+    <string name="downloading_summary">Lütfen yansıma indirmeyi iptal edin</string>
+    <string name="msg_erase_userdata_warning">Bu güncellemenin kullanıcı verilerini silmesi gerekiyor. Devam etmek istiyor musunuz?</string>
+    <string name="msg_autoupdate_date_fee_warning">Otomatik güncellemenin etkinleştirilmesi ek ücretler yansıtılmasıyla sonuçlanabilir.</string>
+    <string name="invalid_update">Güncelleme geçersiz.</string>
+    <string name="file_corrupted">Dosya bozuk olduğu için sistem yükseltilemiyor.</string>
+    <string name="ask_for_apk_check">Uygulama güncellemelerini kontrol etmek istiyor musunuz?</string>
+    <string name="update_ota_self">Yazılım Güncellemesi sürüyor.</string>
+    <string name="ab_update_fail">Yükleme Sorunu.</string>
+    <string name="ab_update_wrong_status">Güncelleme altyapısı şu anda meşgul. Lütfen daha sonra tekrar deneyin veya yeniden başlatın.</string>
+    <string name="ab_update_installing">Sistem güncelleniyor</string>
+    <string name="tag_engineer_mode">Geliştirici Modu</string>
+    <string name="engineer_version_incorrect">Cihazınızın sürümü yanlış</string>
+    <string name="msg_engineer_ota_restore">Resmi sürümü geri yüklemek için dokunun</string>
+    <string name="msg_engineer_ota_restore_warning">Bu, resmi sürümü geri yükleyecektir. Devam etmek istiyor musunuz?</string>
+    <string name="silent_mode_data_fee_warning">Güncelleme mevcut. Güncellemeleri indirmek ek ücretler yansıtılmasıyla sonuçlanabilir. Güncellemeleri mümkünse Wi-Fi ile indirin.</string>
+    <string name="msg_updating_system">Sistem güncelleniyor...</string>
+    <string name="msg_tap_to_reboot">Yeniden başlatmak için dokunun</string>
+    <string name="msg_pause_download">İndirmeyi duraklat</string>
+    <string name="notification_channel_name">Sistem güncellemesi</string>
+    <string name="notification_channel_alert_name">Genel bildirimler</string>
+</resources>

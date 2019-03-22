@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Non mostrare più questo messaggio.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Annulla</string>
+    <string name="switch_on_text">Funzionalità attivate</string>
+    <string name="switch_off_text">Funzionalità disattivate</string>
+    <string name="fih_power_saving_permission_cancel">Annulla</string>
+    <string name="lock_screen_ap_protect_title">Gestione attività in background</string>
+    <string name="all_aps">Aggiungi tutte le app alla whitelist</string>
+    <string name="fih_power_saving_doze_high_consumption">Consumo energetico elevato</string>
+    <string name="fih_power_saving_background_activity_text">Consente alla funzionalità di gestione delle attività in background di prorogare la durata della batteria, ma le notifiche di alcune app o e-mail potrebbero non essere recuperate subito. La durata della batteria può essere gestita aggiungendo le app alla whitelist o rimuovendole da essa.</string>
+    <string name="fih_power_saving_background_cleaner">Dispositivo di rimozione attività in background</string>
+    <string name="fih_power_saving_background_cleaner_summary">"Le notifiche non possono essere recuperate all'istante"</string>
+    <string name="app_block_list">Elenco app con limitazioni</string>
+</resources>

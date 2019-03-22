@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boke-editori</string>
+    <string name="image_not_null">Kuvan polku ei voi olla tyhjä</string>
+    <string name="no_bokeh_type">Boke-tyyppiä ei ole</string>
+    <string name="no_mpo_file">Ei MPO-tiedostoa</string>
+    <string name="save">Tallenna</string>
+    <string name="save_success">Tallentaminen onnistui</string>
+</resources>

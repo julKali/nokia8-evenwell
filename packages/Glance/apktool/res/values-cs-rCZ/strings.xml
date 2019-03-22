@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Vzhled</string>
+    <string name="pref_dialog_title_time_out">Prodleva</string>
+    <string name="pref_title_alarm_information">Informace o upozornění</string>
+    <string name="pref_title_calendar_reminder">Připomínka kalendáře</string>
+    <string name="pref_title_missed_calls">Kontrolka nepřijatých hovorů</string>
+    <string name="pref_title_time_out">Prodleva, když se telefon nepohybuje</string>
+    <string name="pref_title_unread_mails">Kontrolka nepřečtených e-mailů</string>
+    <string name="pref_title_unread_messages">Kontrolka nepřečtených zpráv</string>
+    <string name="switch_off_text">Vyp.</string>
+    <string name="switch_on_text">Zap.</string>
+</resources>

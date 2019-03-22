@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="accessibility_text">Erişilebilirlik</string>
+    <string name="account_intro_description">"[BRAND_NAME] Hizmetleri'ne katılarak cihazınızı daha akıllı kullanın."</string>
+    <string name="account_intro_title">[BRAND_NAME] Hizmetleri Hesabı</string>
+    <string name="add_baidu_button_label">百度云 girişi yap</string>
+    <string name="add_infocus_service_account">[BRAND_NAME] Hizmetleri Hesabı Ekle</string>
+    <string name="back_btn_lebel">GERİ</string>
+    <string name="backup_and_restore_description">"Hesabınızı daha önce yedeklediyseniz şimdi bu telefona geri yükleyebilirsiniz.
+
+Yedekleme ayarlarınızı istediğiniz zaman Ayarlar'dan değiştirebilirsiniz."</string>
+    <string name="backup_and_restore_title">Yedekleme ve geri yükleme</string>
+    <string name="baidu_intro_description">Birkaç kolay adımı tamamlayarak yapacağınız 百度云 entegrasyonuyla bulut depolamanın keyfini çıkarın.</string>
+    <string name="baidu_intro_title">Baidu için bulut depolama</string>
+    <string name="baidu_progress_dialog_des">Lütfen Bekleyin...</string>
+    <string name="choose_timezone">Saat dilimini seçin</string>
+    <string name="datausage_dialog_negitive_btn">İptal</string>
+    <string name="datausage_dialog_positive_btn">Tamam</string>
+    <string name="date_and_time">Tarih ve saat ayarları</string>
+    <string name="date_and_time_settings_summary">Tarihi, saati, saat dilimini ve biçimleri ayarlayın</string>
+    <string name="date_and_time_settings_title">Tarih ve Saat</string>
+    <string name="date_and_time_settings_title_setup_wizard">Tarih ve saati ayarlayın</string>
+    <string name="date_picker_title">Tarih :</string>
+    <string name="date_time_24hour">24 saatlik biçimi kullan</string>
+    <string name="date_time_auto">Otomatik tarih ve saat</string>
+    <string name="date_time_auto_summaryOff">Ağın sağladığı saati kullan</string>
+    <string name="date_time_auto_summaryOn">Ağın sağladığı saati kullan</string>
+    <string name="date_time_date_format">Tarih biçimi seçin</string>
+    <string name="date_time_set_date">Tarihi ayarlayın</string>
+    <string name="date_time_set_time">Saati ayarlayın</string>
+    <string name="date_time_set_timezone">Saat dilimi seç</string>
+    <string name="device_checking_message">Hoş geldiniz</string>
+    <string name="dropbox_fih_description">Fotoğraf ve videolarınızı otomatik kaydetmek için ücretsiz 2 GB Dropbox alanı alın.</string>
+    <string name="dropbox_fih_signin">Dropbox ile giriş yapın</string>
+    <string name="dropbox_fih_signup">"Dropbox'a kaydolun"</string>
+    <string name="emergency_dial_hmd_message">Acildurumaraması</string>
+    <string name="emergency_dial_message">Acil durum çağrısı</string>
+    <string name="expand_button_title">Gelişmiş</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] Yazılımı Kullanım Koşulları
+
+
+
+Geçerlilik Tarihi: 20 Mayıs 2016
+
+
+
+Aşağıdaki Koşullar ve Şartlar (\" Koşullar \" denilecektir) [BRAND_NAME_PROXY] Yazılımını kullanımınıza yönelik, sizin ve [BRAND_NAME_PROXY] Inc., ile temsilcisi Commtiva Technology Ltd. (\"[BRAND_NAME_PROXY]\" olarak anılacaktır) arasındaki yasal anlaşmayı oluşturur ve indirme, yükleme, otomatik yenileme (\" Yazılım Hizmeti \" denilecektir) işlemlerini içerecek ancak bunlarla kısıtlı kalmayacak şekilde [BRAND_NAME_PROXY] Yazılımı kullanımınız için geçerli olacaktır. [BRAND_NAME_PROXY] Yazılımını kullanarak bu Koşullara bağlanmayı kabul edersiniz; Koşulları kabul etmiyorsanız [BRAND_NAME_PROXY] Yazılımını indirmeyin, çoğaltmayın, kullanmayın veya elinizde tutmayın.
+
+
+
+1. Kullanım Koşulları
+
+Bu koşullara uyduğunuz sürece [BRAND_NAME_PROXY] size [BRAND_NAME_PROXY] Yazılım Hizmetlerinin kullanımı için kişisel, münhasır olmayan, aktarılamayan, iptal edilebilir ve sınırlı bir kapsam sağlar. [BRAND_NAME_PROXY] nesne kodunu [BRAND_NAME_PROXY] mobil akıllı cihazınıza (\" [BRAND_NAME_PROXY] Telefonu \"denilecektir) internet üzerinden yükler. [BRAND_NAME_PROXY] Telefonunuzdaki [BRAND_NAME_PROXY] Yazılımının ticari amaçla kullanılamayacağını veya üçüncü bir tarafa aktarılamayacağını anlar ve onaylarsınız.
+
+Ayrıca [BRAND_NAME_PROXY] Yazılımını aşağıda belirtilen şekillerde kullanmayacağınızı da kabul edersiniz:
+
+(a)\u0009[BRAND_NAME_PROXY] Yazılımını (temel aldığı teknolojiler de dahil) kırma veya [BRAND_NAME_PROXY] Yazılımını [BRAND_NAME_PROXY] markası dışındaki cihazlarda kullanma;
+
+(b)\u0009[BRAND_NAME_PROXY] Yazılımını analiz etme, kaynak koda dönüştürme, üzerinde ters mühendislik uygulama ve kodunu çözme, kopyalama, değiştirme ya da herhangi bir amaçla bir türetme çalışması yapma;
+
+(c)\u0009Transfer etme, ticari kiralama, ödünç verme veya alt lisansını verme, Koşulları ihlal etme ve [BRAND_NAME_PROXY] Yazılımını kamuya açma ya da bir üçüncü tarafın [BRAND_NAME_PROXY] Yazılımını kullanmasına, yazılıma erişmesine veya sahip olmasına izin verme işlemleri dahil olan, ancak bunlarla sınırla olmayan tüm etkinlikler;
+
+(d)\u0009[BRAND_NAME_PROXY] Yazılımında veya belgelerinde bulunan tescil işaretini, logoyu veya ticari markaları [BRAND_NAME_PROXY] tarafından verilen yazılı bir izin olmadan çıkarma
+
+(e)\u0009[BRAND_NAME_PROXY] Yazılımını yürürlükteki yasayı veya başka tarafların haklarını ihlal edecek şekilde kullanma;
+
+(f)\u0009[BRAND_NAME_PROXY] Yazılımını uçuş kontrol sahası, benzin istasyonu, nükleer cihazlar dahil ancak bunlarla sınırlı olmayacak şekilde kullanımının yasak veya sınırlı olduğu ortamlarda kullanma; veya
+
+(g)\u0009[BRAND_NAME_PROXY] Yazılımını Koşulların yasakladığı bir şekilde kullanma.
+
+
+
+[BRAND_NAME_PROXY] Telefonu ve [BRAND_NAME_PROXY] Yazılımının düzgün çalışması için [BRAND_NAME_PROXY] Telefonunuzdaki etiketleri tahrip etmeyeceğiniz ve [BRAND_NAME_PROXY] personeli yardımı olmadan çıkarmayacağınıza söz verirsiniz. Bu tür yetkisiz davranışlar [BRAND_NAME_PROXY] tarafından sağlanan garantinizin kapsamını ve süresini etkiler.
+
+
+
+2. Gizlilik İlkesi
+
+[BRAND_NAME_PROXY] tarafından [BRAND_NAME_PROXY] Telefonunuzun model türü, seri numarası, IMEI/MEID kodu, Donanım Sürümü, Yazılım Sürümü, birikmiş süre, SKU No, varsayılan istatistikler ve işletim sistemi sürümü (\" Bilgiler \" denilecektir) dahil ancak bunlarla sınırlı olmayacak şekilde bilgi toplanabileceğini ve bunların saklanabileceğini anlar ve kabul edersiniz. 
+
+[BRAND_NAME_PROXY] şirketinden herhangi bir bilgiyi devlet birimlerine veya mahkemelere açıklaması istendiğinde [BRAND_NAME_PROXY] bu isteği yerine getirecektir.
+
+
+
+[BRAND_NAME_PROXY] Telefonu [BRAND_NAME_PROXY] şirketine [BRAND_NAME_PROXY] Telefonunun satın alınmasından sonraki 14 gün süresince cep telefonu şebekesine bağlanmaması durumunda bilgi verecektir.
+
+
+
+Ayrıntılar için lütfen [BRAND_NAME_PROXY] Gizlilik İlkesine bakın.
+
+
+
+3. Destek Hizmeti
+
+[BRAND_NAME_PROXY], [BRAND_NAME_PROXY] Yazılımınıza güncellemeler ve yükseltmeler dahil ancak bunlarla sınırlı olmayacak şekilde, [BRAND_NAME_PROXY] tarafından [BRAND_NAME_PROXY] Telefonundan elde edilen geçerli durum bilgisine göre Yazılım Hizmetleri sağlar.
+  
+[BRAND_NAME_PROXY], [BRAND_NAME_PROXY] Yazılımınızı internet üzerinden kullandıktan sonra [BRAND_NAME_PROXY] Yazılımınıza, Koşullara tabi olacak şekilde güncellemeler, yamalar veya ek öğeler sağlar.
+
+
+
+[BRAND_NAME_PROXY], [BRAND_NAME_PROXY] Yazılımını ve [BRAND_NAME_PROXY] Hizmetini kullanma hakkınızı doğrudan sonlandırma yetkisini elinde tutar.
+
+[BRAND_NAME_PROXY], [BRAND_NAME_PROXY] Yazılımının birbirini izleyen sürümlerini yayınlar ve en güncel işletim sistemi sürümünü kullanmanızı gerektirir.
+
+
+
+4. Otomatik güncelleme
+
+[BRAND_NAME_PROXY] Telefonunuzu güçlendirmek ve geliştirmek için telefonunuz [BRAND_NAME_PROXY] tarafından en son ürün yazılımlarını ve yazılımları otomatik indirecek şekilde önceden ayarlanmıştır 
+
+
+
+[BRAND_NAME_PROXY] Telefonunuzun güvenli ve kararlı olmasını sağlamak için bu ayarla ilgili gerekli talimatları uygulamayı kabul edin ve [BRAND_NAME_PROXY] tarafından sağlanan talimatlardaki ilgili talimatı uygulayın. En son ürün yazılımını veya yazılımları indirmeyi kabul etmeniz bu yenileme ve yüklemeyi kabul etmeniz anlamına gelir.
+
+
+
+[BRAND_NAME_PROXY] Telefonu güncellemeleri yaparken kaybedilebilecek veya bozulabilecek belgelerinizi, fotoğraflarınızı, metinlerinizi, ses dosyalarınızı ve her türlü elektronik kaydınızı korumak için en son ürün yazılımı veya yazılım sürümünü indirmeden önce [BRAND_NAME_PROXY] Telefonunda depolanan, sözü geçen tüm elektronik kayıtları yedeklemek sizin sorumluluğunuzdur.
+
+
+
+[BRAND_NAME_PROXY] Telefonu otomatik olarak veya mesaj biçimindeki onayınıza dayanarak güncelleme yaptığında aşağıdakileri kabul etmiş olursunuz:
+
+(a)\u0009Yazılım güncellemesi:
+
+[BRAND_NAME_PROXY] Telefonunuzdaki yazılım sürümünü ve güncelleme durumunu kontrol etmek için [BRAND_NAME_PROXY] tarafından internet yoluyla telefonunuza bağlanılmasını kabul edersiniz. [BRAND_NAME_PROXY] bir yükseltme bildirimi çıkardığında [BRAND_NAME_PROXY], [BRAND_NAME_PROXY] Yazılım sürümlerini ve durumu [BRAND_NAME_PROXY] Hizmeti aracılığıyla güncellemenizi sağlar.
+
+Yeni [BRAND_NAME_PROXY] Yazılımları kullanıma sunulduğunda [BRAND_NAME_PROXY] tarafından bu güncellemelerle ilgili bildirim gönderilmesini kabul edersiniz. Yeni güncellemeleri onaylamanız [BRAND_NAME_PROXY] tarafından [BRAND_NAME_PROXY] Telefonunuza otomatik güncellemeye izin vermeniz anlamına gelir.
+
+(b)\u0009İçerik senkronizasyonu ve güncellemesi:
+
+[BRAND_NAME_PROXY] Telefonunuzu bilgisayarınıza veya başka bir cihaza bağladıktan sonra [BRAND_NAME_PROXY] Telefonunuz ilgili içeriği ve diğer bilgileri (kişi bilgileri, takvim, yer imleri ve dosyalar vb.) otomatik olarak günceller.
+
+
+
+5. [BRAND_NAME_PROXY] Yazılımındaki tüm mülkiyet ve diğer hakların korunması
+
+[BRAND_NAME_PROXY] Yazılım ve Hizmetlerini kullanma lisansı edinmiş olsanız da, [BRAND_NAME_PROXY], bağlı kuruluşları ve sağlayıcıları tescil, telif hakkı ve diğer fikri mülkiyet hakkı dahil olacak ancak bunlarla sınırlı olmayacak şekilde tüm [BRAND_NAME_PROXY] Yazılımı haklarını saklı tutar.
+
+
+
+Tüm bu [BRAND_NAME_PROXY] Yazılımı hakları yerel kanunlar ve uluslararası anlaşmalar tarafından korunur.
+
+
+
+6. Sorumluluk reddi
+
+[BRAND_NAME_PROXY] ticari olarak satılabilirlik, memnun edici kalite ve belirli bir amaca uygunluk ya da ihlal etmeme ile ilgili zımni garantiler de dahil olmak üzere ancak bunlarla kısıtlı olmamak koşuluyla, açık veya zımni herhangi bir beyan veya garanti vermez. 
+
+[BRAND_NAME_PROXY] şu garantileri vermez:
+
+(a)\u0009Tarafınızca alınan herhangi bir [BRAND_NAME_PROXY] Hizmetinin doğru ve güvenilir olacağı,
+
+(b)\u0009[BRAND_NAME_PROXY] Hizmetinin kesintisiz, zamanında ve güvenli bir şekilde verileceği,
+
+(c)\u0009Yazılımdaki kusur veya hataların anında düzeltileceği.
+
+
+
+[BRAND_NAME_PROXY] virüslerin neden olduğu kayıp veya hasarlardan ya da [BRAND_NAME_PROXY] Hizmetleri kullanımınızdan ötürü [BRAND_NAME_PROXY] Telefonunuzu, programlarınızı, verilerinizi veya diğer özel materyallerinizi etkileyebilecek diğer teknik olarak zararlı materyallerden sorumlu tutulamaz. [BRAND_NAME_PROXY] aracılığıyla indirdiğiniz veya edindiğiniz tüm içerik ve diğer materyaller ile ilgili risk size aittir ve herhangi bir yazılımı indirme sonucunda [BRAND_NAME_PROXY] Telefonunuzda oluşabilecek hasar veya veri ya da içerik kaybı tümüyle sizin sorumluluğunuzdur.
+
+
+
+7. Sorumluluğun Sınırlandırılması ve Münhasır Hak
+
+[BRAND_NAME_PROXY] bir şeyin sonucunda meydana gelen, arızi, dolaylı veya cezai hasarlardan, gelir kaybından, gizli ya da diğer bilgilerin, iş itibarının kaybından, kişisel yaralanmadan, mala yönelik zarardan, gizliliğin ifşasından, iyi niyet ya da makul özenin gösterilmemesinden veya ihmalkarlıktan sorumlu tutulamaz.
+
+İlgili yasaların izin verdiği azami ölçüde, [BRAND_NAME_PROXY]’ şirketinin size karşı maksimum, toplam sorumluluğu ve sizin Koşullar ile ilişkili veya bunlara uyan tüm zararlara, yaralanmalara, mala yönelik zararlara ve bunlardan doğan kayıplara karşı Koşullar ile belirtilen münhasır hakkınız, maruz kaldığınız hasarları karşılamak üzere sağlanacak on ABD Doları (10 ABD Doları) ile sınırlıdır. 
+
+
+
+Koşullar ile ilgili veya bunlara uygun birden çok talep sorumluluk sınırlandırmasını genişletmeyecek ve ilgili yasaların izin verdiği azami ölçüde yegane ve tek hakkınız olacaktır.
+
+
+
+Yetki sınırları içindeki bir mahkeme yukarıda belirtilen tazminatın yürürlüğe konamayacağına karar verirse, bu koşul bu bağlamda geçerli olmayacak ve on ABD Dolarıyla sınırlıdır ifadesinin yerine \"sorumluluğu doğuran konudaki işlemin değeriyle sınırlıdır\" ifadesi koyulacaktır.
+
+
+
+Koşullar ile ilgili veya bunlara uyan bu tür bir talep eylemin nedeninin oluşmasından sonraki bir yıl içinde yapılmalıdır.
+
+
+8. Tazminat 
+
+[BRAND_NAME_PROXY] şirketini, hissedarlarını, yöneticilerini, çalışanlarını, ilgili tarafları, bayilerini ve alt kuruluşlarını, her türlü istekten, kayıptan ve sorumluluktan ve üçüncü bir tarafın [BRAND_NAME_PROXY] Hizmetleri'ni hatalı kullanımınızdan doğan veya bununla bağlantılı bir şekilde hakları ihlal edildiği için [BRAND_NAME_PROXY] şirketine karşı yaptığı iddia veya harcamalardan (avukat ücretleri dahil), muaf tutacağınızı, bunlara karşı savunacağınızı ve tazmin edeceğinizi kabul edersiniz.
+
+
+
+9. Hizmetin Sonlandırılması
+
+Koşullar'a uymazsanız [BRAND_NAME_PROXY] Hizmetleri'ni yasal olarak kullanmanıza izin verilmez. Böyle bir durumda [BRAND_NAME_PROXY] Yazılımının tüm kopyalarını imha etmeniz ve kaldırmanız gerekir. Bununla birlikte, [BRAND_NAME_PROXY] Telefonunuzun garantisi de bu durumdan etkilenir.
+
+Yukarıda söz edilen bir ihlal söz konusu olduğunda [BRAND_NAME_PROXY] şirketinin aşağıdakileri yapma hakkı olduğunu kabul edersiniz,
+
+(a)\u0009[BRAND_NAME_PROXY]  hesabına erişim hakkınızı anında sonlandırmak ve/veya
+
+(b)\u0009[BRAND_NAME_PROXY] Service hesabına erişiminizi engellemek
+
+
+
+Ayrıca Koşullar'ı ihlal etmenin [BRAND_NAME_PROXY] için parasal hasarın yetersiz kalacağı, onarılamaz bir zarara neden olması durumunda, [BRAND_NAME_PROXY] şirketinin [BRAND_NAME_PROXY] tarafından böyle bir durumda gerekli veya uygun görülen ihtiyati veya adil telafiyi alacağını kabul edersiniz. [BRAND_NAME_PROXY] kanun ve hakkaniyet çerçevesinde bu çözümlere ek olarak başka çözümler de bulabilir.
+
+
+
+10. Geçerli Kanun ve Yetki Alanı
+
+Koşullar'a yönelik ihtilaflarla ilgili tüm konuların, adli kararlarda uyuşmazlıklara bakılmaksızın Çin Halk Cumhuriyeti (R.O.C.) kanunlarına tabi olduğunu kabul edersiniz. 
+
+
+
+Kişisel yetki alanının ve yerinin Tayvan Taipei Bölgesi mahkemesi olduğunu ve bu yetki alanına veya yerine herhangi bir itirazınız olmadığını kabul edersiniz.
+
+
+
+Siz ve [BRAND_NAME_PROXY] arasında ortak rızaya dayalı bir şekilde çözülemeyen bir ihtilaf, siz veya [BRAND_NAME_PROXY] tarafından arabulucu arayışına gidilmesine hak tanıyacaktır. İhtilaf 30 takvim günü içinde arabulucu tarafından çözülemezse yukarıda söz edilen bölge mahkemesinde ilgili bir dava açılacaktır .
+
+
+
+11. Genel Madde
+
+Koşullar içindeki başlıklar kolaylık sağlamak içindir.
+ 
+[BRAND_NAME_PROXY] şirketinin anlaşmaya uymamanızdan ötürü işlemde bulunmaması bu ihlalle ilgili hakkından veya bundan sonraki veya benzeri ihlallerle ilgili hakkından vazgeçtiği anlamına gelmez.
+
+
+
+Yetki sınırları içindeki bir mahkeme bu Koşullar'ın herhangi bir kısmının geçersiz veya yürütülemez olduğunu belirlerse, geçersiz veya yürütülemez hükmü, esas hükmün amacına en çok uyan geçerli ve yürütülebilir bir hükümle değiştirecektir; Koşullar'ın geri kalanı geçerli olmaya devam edecektir. 
+
+
+
+Koşullar'ı başka bir kişiye veya tarafa atayamaz veya Koşullar'daki haklarınızı başka bir kişiye veya tarafa atayamaz, aktaramaz veya alt lisans veremezsiniz.
+
+
+
+[BRAND_NAME_PROXY] bu Koşullar'ı, tümüyle veya kısmı olarak bilginiz dahilinde veya bilginiz olmadan atayabilir. 
+
+
+
+Bu Koşullar, Bölge ile ilgili olarak siz ve [BRAND_NAME_PROXY] arasındaki tüm önceki veya eşzamanlı iletişimin yerine geçer.
+
+
+
+12. Tüm anlaşma
+
+Koşullar ve yenilenen ekler siz ve [BRAND_NAME_PROXY] arasındaki, [BRAND_NAME_PROXY] Hizmetleri ile ilgili anlaşmanın tümünü oluşturur.
+
+
+
+13. Koşullar'ın Değiştirilmesi
+
+[BRAND_NAME_PROXY] kendi takdirine bağlı olarak, zaman zaman Koşullar'ın içeriğini güncelleyebilir, değiştirebilir veya silebilir.
+
+
+
+[BRAND_NAME_PROXY] web sitesinde yayınlanan koşullara bakmanız gerekir, buradaki koşullar ilk okuduğunuz koşullardan farklı olabilir.
+
+
+
+Yenilenen yazılımınızı ve [BRAND_NAME_PROXY] Telefonunuzu kullanmanız bu değişiklikleri kabul ettiğinizi gösterir.
+
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] yasal bilgiler</string>
+    <string name="finish_button_label">SON</string>
+    <string name="google_account_add_account">"Google'da oturum aç"</string>
+    <string name="google_account_intro_description">Tüm Google hizmetlerinden yararlanmak için Google hesabı ayarlayın.</string>
+    <string name="google_account_intro_title">Google Hesabı</string>
+    <string name="hmd_legal_message">"Hizmet Şartları 
+ 
+Yürürlük tarihi: 14 Ekim 2016 
+ 
+1. Kabul 
+Hizmeti, siteyi, içeriği ve yazılımı (topluca Hizmet) kullanımınız, bu HMD Global Hizmet Şartlarına ve beraberinde sunulan Gizlilik Politikası ile Hizmet içerisinde sağlanabilecek diğer tüm ek şartlara ve bilgilere (topluca Şartlar) tabidir. Hizmet için kaydolmakla veya Hizmeti ya da herhangi bir bölümünü kullanmakla, bu Şartları kabul etmiş olursunuz. 
+ 
+Bu Şartlar siz ile merkezi Bertel Jungin aukio 9, 02610 Espoo, Finland adresindeki HMD Global Oy, bağlı kuruluşları ve tedarikçileri (topluca HMD Global) arasındaki, sizin ve HMD Global'in Hizmete ilişkin hak ve sorumluluklarını tanımlayan anlaşmayı teşkil eder. 
+ 
+2. Uygunluk 
+Hizmeti kullanmak için en az on üç (13) yaşında olmanız gerekir. On üç (13) yaşın altında veya en az on üç (13) yaşında ama yaşadığınız yer için küçük olarak kabul edilen bir yaşta olmanız durumunda ebeveyniniz veya yasal velinizin, kaydı sizin adınıza kabul etmesi ve Hizmeti kullanımınızı onaylaması gerekir. Kaydı tamamlayan kişi yasal açıdan yetkin olmalıdır. 
+ 
+3. Kayıt ve Kaydı Sonlandırma 
+Bir Hizmeti kullanmak için kaydolmanız ve bir kullanıcı adı ile parolası bulunan, ayrı şartlara tabi olabilecek bir HMD Hesabı oluşturmanız gerekebilir. Bize, belirli kişisel bilgileri ve diğer bilgileri sağlamanız gerekebilir. HMD Global, HMD Hesabınızın kullanılabilmesinden önce e-posta adresinizi doğrulayabilir. Cihazınızı ilk kullanımınız itibariyle ve Nokia cihaz yazılımını her güncellediğinizde, HMD Global'e bir kısa mesaj gönderilir. HMD Hesabı oluşturulması için veri aktarımı gereklidir. Veri aktarım ücretleri uygulanabilir. 
+ 
+Hizmet için kaydolurken sağladığınız bilgilerin doğru ve eksiksiz olduğunu ve bu bilgileri güncel tutmayı kabul edersiniz. Kullanıcı adı ve parolanızı başkaları tarafından kötüye kullanıma karşı korumak için gerekli özeni göstermeniz ve herhangi bir kötüye kullanımı derhal HMD Global'e bildirmeniz gerekir. Hizmetin her türlü kullanımından şahsen siz; küçük olarak kabul edilen bir yaşta olmanız durumunda ebeveyniniz veya yasal veliniz sorumlu olur. 
+ 
+Hizmeti kullanmayı artık istememeniz durumunda kaydınızı sonlandırabilirsiniz. Kaydınızı sonlandırmanızın ardından Hizmete erişemezsiniz. HMD Global'in Şartları ihlal ettiğinize makul nedenlerle inanması veya son altı (6) ay içerisinde kullanıcı adınızla Hizmette oturum açmamış olmanız durumunda, HMD Global, önceden bildirerek Hizmetin belirli kısımlarına erişiminizi sonlandırabilir veya kısıtlayabilir. 
+ 
+Gizlilik Politikasında belirtilenin dışında, Hizmete göndermiş olduğunuz bilgi veya içeriklerin herhangi bir şekilde kaldırılmasından veya kaybından HMD Global sorumlu değildir. Bilgi veya içerikler siz ya da HMD Global tarafından Hizmetten kaldırıldığında, başka yerlerde bunların izleri veya kopyaları kalmış olabilir. 
+ 
+4. Lisanslar 
+HMD Global, kesinlikle Şartlara uygun olarak Hizmete erişmeniz ve Hizmeti kullanmanız amacıyla size; münhasır olmayan, devredilemeyen ve HMD Global'in kendi takdiriyle herhangi bir zamanda iptal edilebilecek bir lisans verir. Hizmetin kullanımı size, Hizmetin içerdiği veya Hizmetle ilgili herhangi bir bilgi veya içeriğe ilişkin hiçbir fikri mülkiyet hakkı vermez. 
+ 
+HMD Global size, Hizmetin bir parçası olarak HMD Global veya onun lisans verenleri tarafından geliştirilen içerikler (İçerik) sağlayabilir. HMD Global, ilgili Şartlarda veya satın alma siparişinde aksi tanımlanmadıkça size, İçerikleri amaçlanan kullanımına yönelik olarak kullanmanız için münhasır olmayan ve kalıcı bir lisans verir. Bazı İçerikler, yalnızca belirli coğrafi alanlarda yaşayanların kullanımına sunuluyor olabilir. Hizmet yoluyla aldığınız özel İçeriklerle ilgili tüm kısıtlamalara bağlı olmayı kabul edersiniz. Üçüncü taraf İçeriklerine ilişkin alınan her lisans, siz ile üçüncü taraf İçerik sağlayıcı arasındaki bağlayıcı bir anlaşmadır. İçeriğe ilişkin haklarınız, yalnızca bu belgede açıkça verilenlerle sınırlıdır. 
+ 
+HMD Global size, Hizmetin bir parçası olarak HMD Global ve onun lisans verenleri tarafından geliştirilen belirli yazılımlar (Yazılım) sağlayabilir. Yazılımı kullanımınız, kullanmadan önce kabul etmeniz gereken ayrı şart ve koşullara tabi olabilir. Söz konusu Yazılımları kullanmanızla ilgili ayrı şart ve koşulların bulunmaması durumunda, aşağıdaki şartlar geçerli olur: HMD Global size, Yazılımı bilgisayarınıza ve/veya mobil cihazınıza yükleyip kullanmanız için sınırlı, münhasır olmayan ve devredilemeyen bir hak verir. Arşiv amaçlı tek bir kopyasını oluşturmanın dışında Yazılımı kopyalayamazsınız. Yazılımın alt lisansını veremez, Yazılımı dağıtamaz, Yazılımın kullanım hakkını aktaramaz, değiştiremez, başka bir dile çeviremez, çoğaltamaz, yeniden satamaz, kiralayamaz, finansal kiralama yoluyla satamaz, tersine mühendislik işlemine tabi tutamaz veya Yazılımın kaynak kodunu keşfetmeye ya da türev çalışmalarını oluşturmaya yönelik başka bir girişimde bulunamazsınız. Açık kaynak lisanslı yazılımlar için ilgili açık kaynak lisansı şartları uygulanır. Yazılımı kullanımınız, ilgili şart ve koşulları kabul ettiğiniz anlamına gelir. 
+ 
+Yazılım, ABD İhracat Kurumu Yönetmelikleri kapsamındaki ihracat denetimlerine ve diğer ithalat veya ihracat denetim yönetmeliklerine tabi olabilir. İlgili tüm ithalat ve ihracat yönetmeliklerine tam olarak uymayı kabul eder ve söz konusu Yazılımın ihracı, yeniden ihracı, devri veya ithali için gerekli lisansları alma sorumluluğunuzun bulunduğunu onaylarsınız. 
+ 
+Hizmete bilgi veya içerik (Materyal) gönderebilirsiniz. HMD Global, Materyallerinizde mülkiyet hakkı talep etmez. Materyal gönderiminiz, Materyalin mülkiyet haklarını HMD Global'e geçirmez. HMD Global, yalnızca Materyali iletir ve Materyale ilişkin editör denetiminden sorumlu değildir. Hizmete Materyal göndermekle, HMD Global'e Materyali kullanma, kopyalama, herkese açık olarak gerçekleştirme, görüntüleme ve her türlü ortamda dağıtma ve Materyali diğer çalışmalara dahil etmek amacıyla Materyalde değişiklik yapmaya ilişkin dünya çapında, münhasır olmayan, alt lisansı verilebilir, devredilebilir, tam olarak ödenmiş, ücretsiz, kalıcı ve iptal edilemez bir lisans ve HMD Global'in Hizmeti sağlaması için gerektiği ölçüde, benzer alt lisanslar vermiş olursunuz. Verilen lisansları, Hizmetin gizlilik ve diğer ayarlarında düzenleyebilirsiniz. 
+ 
+Yalnızca, karşıya yüklediğiniz İçerik dahil olmak üzere, Hizmette depoladığınız verilerin yedek kopyalarını almaktan sorumlusunuzdur. HMD Global, Hizmetin sonlandırılması veya iptal edilmesi durumunda verilerinizi kalıcı olarak silebilir. HMD Global, Hizmetin sonlandırılması veya iptal edilmesinin ardından verilerinizi iade etmekle yükümlü değildir. 
+ 
+5. Hizmetin Kullanımı 
+Aşağıdakileri kabul edersiniz: 
+• İlgili yasalara, Şartlara ve kurallara uymayı; 
+• Hizmeti yalnızca kişisel, ticari olmayan amaçlarla kullanmayı; 
+• Yasaya aykırı, saldırgan, yanlış, yanıltıcı, rahatsız edici, müstehcen, taciz edici, karalayıcı veya başka uygunsuz Materyal göndermemeyi; 
+• Herhangi bir Materyali göndermeniz için yasal açıdan gerekli olabilecek tüm onayları, izinleri veya lisansları almayı; 
+• Başkalarının gizliliğine saygı duymayı; 
+• İstenmeyen içerikler, aşırı büyük boyutlu dosyalar, zincir iletiler, piramit düzenli gönderiler, virüsler dağıtmamayı ya da yayımlamamayı; 
+• Hizmete ya da Hizmet kullanıcılarının çıkar veya mülkiyet haklarına zarar verebilecek başka hiçbir teknolojiyi kullanmamayı ya da başka faaliyetler başlatmamayı; 
+• Hizmetin herhangi bir bölümüne erişmeye, herhangi bir bölümünü almaya, kopyalamaya veya izlemeye yönelik hiçbir otomatik sistem veya yöntemi kullanmamayı ve 
+• Yayımlamış olduğunuz Materyale ilişkin sonuçların sorumluluğunu üstlenmeyi. 
+ 
+HMD Global aşağıdakileri yapabilir, ancak yapmakla yükümlü değildir: 
+• Herhangi bir İçerik veya Materyali izleyebilir veya yönetebilir; 
+• Herhangi bir Materyali Hizmetten kaldırabilir ve 
+• Hizmetin herhangi bir parçasına erişimi herhangi bir zamanda kendi takdiriyle kısıtlayabilir. 
+ 
+6. İçerik 
+Herhangi bir İçeriği indirmeden veya İçeriğe erişmeden önce, lütfen erişmeyi istediğiniz İçeriğin yaş kısıtlamalı olup olmadığını veya saldırgan ya da müstehcen olması olası olarak işaretlenmiş olup olmadığını kontrol edin. 
+ 
+HMD Global, bu tür İçeriğe erişmenizden kaynaklanan veya maruz kalınan hiçbir iddia ya da suçtan sorumlu olmayacaktır. 
+ 
+Aşağıdakileri kabul edersiniz: 
+• İçeriği yalnızca kişisel, ticari olmayan amaçlarla kullanmayı; 
+• İçeriği, ilgili yasalarda, ek şartlarda, yönergelerde ve politikalarda veya İçeriğin belirli bir parçası için geçerli olan ürün sayfalarında belirtilen kısıtlamalara uygun olarak kullanmayı; 
+• İlgili Şartlarda aksine yetki verilmedikçe İçeriğin kopyalarını oluşturmamayı, İçeriği vermemeyi, satmamayı, yeniden satmamayı, kiraya vermemeyi, kiralamamayı, sunmamayı, yayınlamamayı, göndermemeyi, dağıtmamayı, aktarmamayı, herkese açık şekilde iletmemeyi, çoğaltmamayı, değiştirmemeyi, görüntülememeyi, gerçekleştirmemeyi, ticari olarak açıklarından yararlanmamayı veya kullanıma sunmamayı ve HMD Global'i bu tür yetkisiz kullanıma ilişkin derhal bilgilendirmeyi; 
+• İlgili hiçbir kullanım kuralını kaldırmamayı, aşmamayı, tersine mühendislik işlemine tabi tutmamayı, başka şekilde değiştirmemeyi ya da bu kurallara müdahale etmemeyi veya içeriğin şifresini çözmemeyi ya da İçerikle ilişkilendirilmiş, İçeriğe ya da İçeriğin tanımlama bilgilerine erişimi ya da İçeriğin veya İçeriğin tanımlama bilgilerinin kullanımını denetlemek için kullanılan diğer tüm teknolojilerle ilişkilendirilmiş dijital hak yönetimi veya kopya koruma özelliklerini aşma girişiminde bulunmamayı; 
+• İçeriğin seçilmesi veya indirilmesi için tarafımızdan sağlananın haricinde hiçbir otomatik sistem veya yöntem kullanmamayı ve 
+• Parolanızı başkalarıyla paylaşmamayı veya başkalarının İçeriğe başka şekilde erişmesine izin vermemeyi. İlgili ortam için geçerli olan kopyalamaya ilişkin kısıtlamalar ayrıca, bu Hizmetin bir parçası olarak erişilen İçerik için de geçerlidir. 
+ 
+İçerik, HMD Global'in ve/veya ilgili lisans verenlerinin mülkiyetinde ve/veya denetiminde olup fikri mülkiyet haklarıyla korunmaktadır. Üçüncü taraf İçerik sağlayıcı sağlamış olduğu tüm İçerikten, reddedilmiş olmadıkları sürece verilen tüm garantilerden ve İçeriğe ya da İçeriği kullanımınıza ilişkin tüm hak taleplerinizden kendisi sorumludur. Buna rağmen, HMD Global üçüncü taraf İçerik lisansı şartlarını, söz konusu şartların lehtarı bir üçüncü taraf olarak sizin aleyhinize icra edebilir. Üçüncü taraf İçerik sağlayıcılar, bu Şartlar kapsamında üçüncü taraf lehtarlardır ve haklarına sahip oldukları İçeriği doğrudan ilgilendiren hükümleri icra edebilirler. HMD Global, üçüncü taraf İçerik sağlayıcı için İçeriğin tarafınıza sağlanmasında bir aracı olarak hareket edebilir. HMD Global, söz konusu İçerik bakımından siz ile üçüncü taraf İçerik sağlayıcı arasındaki işlemde bir taraf değildir. 
+ 
+7. Telif Hakkı İhlali İddiaları 
+HMD Global, üçüncü tarafların fikri mülkiyet haklarına saygı duyar. Telif hakkı ihlali hak talepleri dahil olmak üzere, fikri mülkiyet hakkı ihlali bildirimi göndermek istemeniz durumunda, lütfen İhlal Bildirimleri göndermeye ilişkin prosedürlerimizi uygulayın. BU PROSEDÜRLE İLGİLİ OLMAYAN HİÇBİR SORU CEVAPLANMAYACAKTIR. 
+ 
+HMD Global, telif hakkı ihlali bildirimlerine cevap vermek için Amerika Birleşik Devletleri Kanunu'nun 512. Maddesinin 17. Bendinde belirtilen süreçleri uygular. Uygun durumlarda HMD Global ayrıca, HMD Global hizmetlerinin tekrarlanan ihlallerde bulunabilecek kullanıcılarının hesaplarını devre dışı bırakabilir veya sonlandırabilir. 
+ 
+8. Bildirimler 
+HMD Global, bildirimleri Hizmet içerisinde yayımlayabilir. HMD Global, ürün ve hizmetler hakkındaki bildirimleri tarafımıza sağlamış olduğunuz e-posta adresine veya telefon numarasına da gönderebilir. Bu bildirimleri, HMD Global'in göndermesinden veya yayımlamasından itibaren en geç yedi (7) gün içerisinde almış olarak kabul edilirsiniz. Hizmeti kullanmaya devam etmeniz, teslim yöntemi fark etmeksizin tüm bildirimleri teslim aldığınız anlamına gelir. 
+ 
+9. Ücretler 
+Hizmeti kullanımınız ücrete tabi olabilir veya ücrete tabi hale gelebilir. 
+ 
+HMD Global tarafından talep edilen tüm ücretler, Hizmetle bağlantılı olarak ayrıca duyurulacaktır. 
+ 
+Hizmet kullanımı, hizmet sağlayıcınızın ağı üzerinden veri iletimini içerebilir. Hizmet içerisinde listelenen fiyatlar, hizmet sağlayıcınız tarafından talep edilen olası veri iletimi, kısa mesaj, ses veya diğer hizmet sağlama ücretlerini içermez. 
+ 
+HMD Global, hizmet sağlayıcılarınız tarafından talep edilen herhangi bir ücretin ödenmesine ilişkin hiçbir sorumluluk kabul etmez. 
+ 
+10. Sipariş ve Ödeme Şartları 
+Sipariş, HMD Global tarafından sağlanan ve Hizmette kullanıma sunulan ücrete tabi İçeriğin ve/veya İçerik aboneliğinin, ödeme yönteminin seçilmesine ek olarak, sipariş akışı içerisinde satın al, tamam, kabul ediyorum veya benzeri kabul onayının seçilmesiyle ya da sipariş akışı içerisinde size sunulan şartlara ilişkin başka bir kabul ifadesi sağlanmasıyla siparişin gönderilmesi anlamına gelir. 
+ 
+Hizmet içerisinde Sipariş vermek için, ilgili yasalar uyarınca reşitlik veya yetişkinlik yaşına ulaşmış olmanız gerekir. Reşitlik veya yetişkinlik yaşına ulaşmamış olmanız durumunda, yalnızca ebeveyninizin ya da yasal velinizin önceden onayı ile Sipariş verebilirsiniz. 
+ 
+Tüm Siparişlerin yasal olarak geçerli ve bağlayıcı olacağını kabul edersiniz. Tüm Siparişler HMD Global'in onayına tabidir. 
+ 
+Kredi kartı veya ATM kartı, ağ hizmeti sağlayıcı faturası veya mevcut ise diğer ödeme yöntemleri ile ödeyebilirsiniz. 
+ 
+Kredi veya ATM kartınızın, Hizmet tarafından İçeriğin sunulduğu ülkede bir fatura adresi bulunmalıdır. HMD Global, siz Siparişinizi verdikten sonra makul bir süre içerisinde ücreti kredi kartınızdan tahsil eder veya banka hesabınızı borçlandırır. Tüm kredi kartı ödemeleri, kartı veren tarafından doğrulama kontrollerine ve yetkilendirmeye tabidir. 
+ 
+Ağ hizmeti sağlayıcı faturası ile ödemeyi seçerseniz, ücretler cep telefonu faturanıza yansıtılır veya ön ödemeli olması durumunda, ön ödemeli hesabınızdan düşülür. Bazı ağ hizmeti sağlayıcılar, ağ hizmeti sağlayıcı faturası ile ödenebilen ücretlerin tutarını sınırlamak da dahil, Hizmet kullanımınızı ek şart ve koşullara tabi tutabilir. Ağ hizmeti sağlayıcı veya hesap bakiyesi sınırlarını aşan ücretler reddedilebilir. 
+ 
+Siparişinize ilişkin ücretleri ödemeyi, ödeme aracının Sipariş sırasında geçerli olmasını sağlamayı, ödeme aracının yasal hamili olduğunuzu ve ödeme aracının kredi sınırları içerisinde kullanıldığını kabul edersiniz. 
+ 
+İçerik, tarafınıza lisanslanmış olarak sağlanır. Söz konusu İçeriği, yalnızca bu Şartlarda ve sipariş akışı içerisinde tarafınıza sunulabilecek tüm ek şartlarda izin verildiği şekilde kullanmayı kabul edersiniz. 
+ 
+Hizmet, abonelikler sunabilir. Hizmeti, abonelik dönemi boyunca düzenli aralıklarla ücret yansıtmaya yetkilendirirsiniz. Hizmet, deneme süresi de sunabilir. Siparişinizin deneme süresi (ayrıca, dene ve satın al olarak da bilinir) içermesi durumunda, Siparişinizi abonelik/deneme şartlarına uygun olarak iptal etmezseniz, deneme süresi sona erdiğinde sizden ücret tahsil edilebilir. 
+ 
+Hizmete ilişkin fiyatlar zaman içerisinde değişebilir. Aksi belirtilmedikçe fiyatlara, işleminiz sırasında uygulanan vergiler dahildir. Uygulanan para birimi dönüştürme oranlarına ve/veya uygun görülen ek ücretlere bağlı olarak bankanız veya kredi kartı sağlayıcınız tarafından sizden ek ücretler alındığı durumlar olabilir. HMD Global, banka ödemesi veya başka herhangi bir üçüncü taraf hizmet ücreti veya bedeline ilişkin hiçbir sorumluluk kabul etmez. 
+ 
+11. İptaller ve Ücret İadeleri 
+İçeriğin elektronik tesliminin, Siparişinizin verilmesine eş zamanlı olarak başlatılmasını kabul edersiniz. Siparişiniz işleme alındıktan sonra, Siparişinizi iptal edemezsiniz. İçeriğin yapısı itibariyle, iadesi mümkün değildir. 
+ 
+Siparişiniz sonrasında (a) Sipariş verdiğiniz İçeriğin hatalı olduğunu; (b) HMD Global'in size teslim ettiği İçerik ile Hizmet üzerinden sipariş verdiğiniz İçeriğin açıklamasının eşleşmediğini veya (c) teknik sorunların İçeriğinizin teslim edilmesini geciktirdiğini veya engellediğini ya da söz konusu teknik sorunların yanlışlıkla birden çok sipariş verilmesine sebep olduğunu fark etmeniz ve HMD Global'i 48 saat içerisinde derhal haberdar etmeniz durumunda, söz konusu İçeriğe ilişkin tek ve münhasır talep hakkınızın, HMD Global'in takdiri doğrultusunda, söz konusu İçeriğin değişimi ya da İçerik için ödenen ücretin iadesi olduğunu kabul edersiniz. 
+ 
+Başka hiçbir ücret iadesi mevcut değildir. Yukarıdaki sorunlardan herhangi biriyle karşılaşmanız durumunda, lütfen HMD Global Müşteri Hizmetleri ile iletişime geçin. 
+ 
+Hizmetten verdiğiniz Siparişi takiben size HMD Global tarafından sağlanan işlem kimliğinizi sağlayamamanız durumunda, HMD Global Müşteri Hizmetlerinin, müşteri desteği talebinizi işleyemeyebileceğini lütfen unutmayın. HMD Global, İçeriğe ilişkin ücret iadelerini yalnızca, toplam fiyat ilgili yerel yasada belirtilen parasal sınırın üstünde olduğunda işleyebilir. 
+ 
+12. HMD Global'e Geri Bildirim 
+Herhangi bir fikri, geri bildirimi ve/veya teklifi (Geri Bildirim) Hizmet veya başka yöntem ile HMD Global'e göndermekle şunları kabul eder ve onaylarsınız: (1) HMD Global'in Geri Bildirime benzer geliştirme fikirlerinin olabileceğini; (2) Geri Bildiriminizin size veya herhangi bir üçüncü tarafa ait gizli veya üzerinde mülkiyet hakkı bulunan bilgiler içermediğini; (3) HMD Global'in Geri Bildirime ilişkin hiçbir gizlilik yükümlülüğü altında olmadığını; (4) HMD Global'in, Geri Bildirimi herhangi bir amaçla serbestçe kullanabileceğini, dağıtabileceğini, Geri Bildirimin açıklarından yararlanabileceğini, Geri Bildirimi daha da geliştirebileceğini ve değiştirebileceğini ve (5) HMD Global'den herhangi bir türden hiçbir tazminat almaya yetkili olmadığınızı. 
+ 
+13. Sosyal Etkinlikler ve Konum Paylaşımı 
+Hizmetteki özellikleri; konumunuzu, durumunuzu, içeriğinizi, Materyallerinizi veya kişisel bilgilerinizi paylaşmak ya da diğer kullanıcılar, siteler ve hizmetler ile etkileşim kurmak için kullanabilirsiniz. Bu özellikleri kullanmakla, HMD Global'in bu bilgileri kullanabileceğini ve bu bilgileri kendisiyle iletişim kurmayı veya bilgi paylaşmayı seçtiğiniz diğer hizmetlere ya da kişilere sağlayabileceğini kabul edersiniz. Bu hizmetlerin kullanıcıları ve kişiler listenizdekiler gibi kişiler konumunuzu, durumunuzu ve/veya kişisel bilgilerinizi görebilir. Bu özelliklerin kullanımında, aşağıdakilere dahil olan bilgi, İçerik veya Materyal ya da bağlantıyı hiçbir hizmetle veya siteyle paylaşmamayı kabul edersiniz: (a) Yasaya aykırı veya uygunsuz içerik ya da diğer materyal içeren veya (b) yetkilendirme olmaksızın fikri mülkiyet haklarının açıklarından yararlanan veya kullanıcıları korsanlığa teşvik eden. Hiçbir etkileşim, HMD Global'i içermez ve yalnızca siz ile diğer kullanıcılar arasındadır. 
+ 
+14. Kullanılabilirlik ve Teknik Gereksinimler 
+İçerik ve Hizmetin kullanılabilirliği farklılık gösterebilir ve HMD Global'in takdirine tabidir. HMD Global, belirli bir İçerik veya Hizmetin kullanılabilir olacağına ilişkin tüm beyan veya garantileri açıkça reddeder. Hizmet her ülkede kullanılamayabilir ve sadece seçili dillerde sunulabilir. Hizmet, işlemler ve bazı özellikler; ağa, kullanılan cihazların uyumluluğuna ve desteklenen içerik biçimlerine de bağlı olabilir. 
+ 
+Hizmete erişmek için HMD Global tarafından veya başka bir tarafça geliştirilen belirli yazılımlar indirmeniz gerekebilir. 
+ 
+HMD Global kendi takdiriyle, Hizmetin tümünü ya da bir bölümünü değiştirebilir, düzeltebilir veya sonlandırabilir. Hizmet, bakım zamanları ve başka zamanlar boyunca kullanılamayabilir. Cihazınız, en son cihaz yazılımına ve uygulamalara sahip olmanızı sağlamak amacıyla HMD Global tarafından kullanıma sunulan yazılım güncellemelerini otomatik olarak kontrol edebilir. Herhangi bir güncelleme algılanması durumunda, sizden yüklemeyi onaylamanız istenir. Otomatik güncelleme kontrollerini cihazınızın ayarlarından devre dışı bırakabilirsiniz. Yazılımı, kullanılabilir yazılım güncelleme kanalları aracılığıyla da yükleyebilirsiniz. HMD Global'in, bir Yazılım güncellemesinin önemli veya kritik olduğunu düşünmesi durumunda, Yazılımın önceki sürümünü kullanmaya devam edemezsiniz. HMD Global, siz güncellemeyi yükleyene kadar Yazılımın önceki sürümünü veya Hizmeti kullanmanızı engelleyebilir. 
+ 
+HMD Global, Hizmet hesabınıza dahil edilen herhangi bir İçerik veya Yazılımı herhangi bir nedenle devre dışı bırakabilir ve Hizmeti, uygulama sağlayıcılarını, ağları üzerinden hizmete eriştiğiniz kablosuz ağ operatörlerini veya etkilenen ya da etkilenebilecek diğer tüm tarafları korumak için cihazınızdaki herhangi bir İçeriği veya Yazılımı kaldırabilir ve/veya herhangi bir uygulamanın kopyalarını devre dışı bırakabilir. 
+ 
+Belirli bir hizmet, beta sürüm gibi bir yayın öncesi sürüm olabilir ve son sürümün çalıştığı gibi çalışmayabilir. HMD Global, Hizmet veya Yazılımın herhangi bir sürümünü önemli ölçüde değiştirebilir ya da son sürümü yayınlamamaya karar verebilir. 
+ 
+15. Üçüncü Taraf Site ve İçerik Bağlantıları 
+HMD Global, üçüncü tarafların sahip olduğu veya işlettiği, Hizmetin bir parçası olmayan site ve hizmetler ile etkileşim kurmanızı sağlayan, internetteki site ve hizmetlere veya önceden yüklenmiş istemcilere erişim içerebilir. Bu site veya hizmetleri kullanmadan önce, bu site veya hizmetlerin şart ve koşullarını incelemeniz ve kabul etmeniz gerekir. 
+ 
+HMD Global, üçüncü taraf içeriği, site veya hizmetleri üzerinde denetime sahip değildir ve bu üçüncü taraf site veya hizmetleri üzerinde sağlanan hizmetler veya oluşturulan ya da yayınlanan materyaller için hiçbir sorumluluk kabul etmez. Üçüncü taraf sitesi bağlantısına yer verilmesi, HMD Global'in siteyi veya bu sitede atıfta bulunulan ürün veya hizmetleri desteklediği anlamına gelmez. 
+ 
+Bununla birlikte, siz ve diğer kullanıcılar Hizmet içinde içerik ve Hizmete başka şekilde gönderilmemiş olan içeriklerin bağlantılarını oluşturabilirsiniz. HMD Global, bu tür içerik veya bağlantılardan sorumlu değildir. 
+ 
+16. Reklamlar 
+Hizmet, reklam içerebilir. Reklamlar, Hizmette depolanan içerik veya bilgileri, Hizmet aracılığıyla yapılan sorguları veya diğer bilgileri hedefleyebilir. 
+ 
+17. Kişisel Veriler 
+Kişisel verilerinizin kullanımı, Gizlilik Politikasına ve kullanımınıza sunulan tüm ek gizlilik bilgilerine tabidir. 
+ 
+18. Sorumluluğun Sınırlandırılması 
+Hizmet OLDUĞU GİBİ ve MEVCUT HALİYLE sağlanmaktadır. HMD Global, Hizmetin kesintisiz olacağını veya hata ya da virüs içermeyeceğini garanti etmez. Mülkiyet, ihlalde bulunmama, ticari olarak satılabilme veya belirli bir amaca uygunluk ile ilgili garantiler de dahil, ancak bunlarla sınırlı olmaksızın, Hizmetin bilgi veya içeriğinin kullanılabilirliği, doğruluğu, güvenilirliği ile ilgili açık veya zımni hiçbir garanti verilmemiştir. Hizmeti kullanımınızdan yalnızca sizin sorumlu olduğunuzu ve çeşitli kaynaklardan sağlanan içeriklere maruz kalabileceğinizi açıkça kabul eder ve onaylarsınız. 
+ 
+Ağır ihmal veya kasti hareketin neden olduğu ölüm veya yaralanma sorumluluğu dışındaki hiçbir durumda HMD Global, Hizmeti kullanımınızdan veya kullanamamanızdan kaynaklanan hiçbir dolaylı, müsbet zararlarla bağlantılı, cezalandırıcı veya neticede oluşan zararlardan sorumlu olmayacaktır. 
+ 
+19. Tazminat 
+HMD Global'i, (i) Şartları ihlal etmenizden, (ii) üçüncü tarafın herhangi bir fikri mülkiyet hakkını, diğer haklarını veya gizliliğini ihlal etmenizden ya da çiğnemenizden veya (iii) kullanıcı adı ve parolanızı kötüye kullanıma karşı korumak için makul önlemleri almamanız dolayısıyla mümkün hale gelen kötüye kullanımdan ötürü, Hizmetin üçüncü tarafça kötüye kullanılmasından kaynaklanan tüm üçüncü taraf hak taleplerine ve sorumluluklara, tahakkuklara, kayıplara, maliyetlere veya zararlara karşı savunmayı ve bunlardan tazmin etmeyi kabul edersiniz. 
+ 
+20. Çeşitli Hükümler 
+ 
+20.1 Yasa Seçimi 
+Şartlar, yasalar arası çelişki hükümlerine bağlı olmaksızın Finlandiya yasalarına tabidir. 
+ 
+20.2 Geçerlilik 
+Şartlar, yaşadığınız ülkede yasalarca feragat edilemez hiçbir zaruri hakkınızı hariç tutamaz veya sınırlayamaz. Şartların bir hükmünün geçersiz olduğu anlaşılırsa, kalan hükümler bundan etkilenmeyecek ve geçersiz hüküm, Şartların sonucu ve amacına en yakın geçerli hüküm ile değiştirilecektir. Bu Şartların bir veya daha fazla hükmünün Hizmeti kullanımınızla alakalı olmaması durumunda, söz konusu hükümler, Şartların başka herhangi bir hükmünün ya da bütünüyle Şartların geçerliliğini veya icra edilebilirliğini etkilemeyecektir. Bu HMD Global Hizmet Şartları ile Gizlilik Politikası arasında bir uyuşmazlık olması durumunda, bu HMD Global Hizmet Şartlarının hükümleri geçerli olacaktır. Şartların, kaydınızın sonlanmasından sonra geçerliliğini sürdürmesi amaçlanan hükümleri, fesih sonrasında geçerli olmaya devam eder. 
+ 
+20.3 Şartlardaki Değişiklikler 
+HMD Global herhangi bir zamanda, önceden bildirmeksizin Şartlarda değişiklik yapabilir. Şartların önemli ve olumsuz durum oluşturacak şekilde değiştirilmesi durumunda HMD Global, değişikliği açıklayan ayrı bir bildirim sağlar. 
+ 
+Şartları düzenli olarak incelemek sizin sorumluluğunuzdur. Hizmeti kullanmaya devam etmeniz, tüm değişiklikleri kabul ettiğiniz anlamına gelir. 
+ 
+21. Fikri Mülkiyet 
+Hizmet, İçerik ve Yazılım; uluslararası telif hakkı yasaları kapsamında korunmaktadır. HMD Global, kendi Hizmet, İçerik ve Yazılımı üzerinde yasalarca izin verildiği azami ölçüde telif hakkı iddia etmektedir. HMD Global, Şartlara tabi olarak, kendi Hizmeti, İçeriği, Yazılımı ve diğer tüm HMD Global ürünleri, Hizmet aracılığıyla tarafınıza sunulan ya da tarafınızca kullanılan yazılım ve diğer mülklerindeki tüm hak, mülkiyet ve menfaatleri saklı tutar. 
+ 
+22. Devir 
+HMD Global, bu Şartlar kapsamındaki hak ve yükümlülüklerini kendi ana kuruluşuna, bağlı kuruluşlarından herhangi birine veya HMD Global'in müşterek denetimi altındaki herhangi bir şirkete devredebilir. HMD Global ayrıca, bu Şartlar kapsamındaki hak ve yükümlülüklerini; bir birleşme, alım, varlıkların satışı veya yasa gereği ya da başka nedenle bağlantılı olarak bir üçüncü tarafa devredebilir."</string>
+    <string name="hmd_user_experience_program_message">"Bu kullanıcı deneyimi programına katılımınız, HMD Global'in, Nokia cihazınızda hoşunuza giden ve iyileştirilmesi gerektiğini düşündüğünüz yönleri daha iyi anlamasına yardımcı olacaktır. Zaman içerisinde, oluşabilecek bir yazılım çökmesi ile ilgili verileri içeren bir dosya gibi, cihazınızla ilgili teknik özellikleri içeren isimsiz veriler toplayabiliriz. Bu verilerin hücresel bağlantı üzerinden aktarılmayacağını unutmayın. Nokia cihazınızla ilgili düşüncelerinizi bizimle paylaşmanızı dileriz!"</string>
+    <string name="hmd_user_experience_program_title">Kullanıcı deneyimi programı</string>
+    <string name="idle_too_long_toast">Bu telefon bir süredir kullanılmıyor. Gücü korumak için şimdi kapatın.</string>
+    <string name="language_selection_cancel_btn">İPTAL</string>
+    <string name="language_selection_title">Dilinizi seçin</string>
+    <string name="location_for_service">"Google arama sonuçları ve diğer Google hizmetleri için Konumum'u kullanın."</string>
+    <string name="location_info_1">Google konum hizmeti konumunuzu GPS kullanmadan yaklaşık olarak veren uygulamalar sağlar.</string>
+    <string name="location_info_2">"Bu özellikleri Konum hizmetlerindeki Ayarlar'da devre dışı bırakabilirsiniz."</string>
+    <string name="location_network">Google konum hizmetinin anonim konum verileri toplamasına izin verin. Hiç bir uygulamanın çalışmadığı durumlarda da veri toplanır.</string>
+    <string name="location_title">"Google Konum'u Kullan"</string>
+    <string name="nevigation_selection_back">Geri</string>
+    <string name="nevigation_selection_home">Giriş Sayfası</string>
+    <string name="nevigation_selection_recent">En Son</string>
+    <string name="nevigation_selection_text">Arka plan rengini ve Geri / En Son tuşlarının konumunu değiştirebilirsiniz.</string>
+    <string name="nevigation_selection_title">Gezinti Çubuğu Ayarları</string>
+    <string name="next_btn_lebel">İLERİ</string>
+    <string name="normal_date_format">Bölgesel (%s)</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="setup_complete_hmd">Hazırsınız...</string>
+    <string name="setup_complete_main">Artık</string>
+    <string name="setup_complete_sub">HAZIRSINIZ.</string>
+    <string name="setup_completed_congratulations">Tebrikler!</string>
+    <string name="sim_not_exist_toast">SIM kart taktığınızı kontrol edin.</string>
+    <string name="skip_add_account_button_label">Şimdi değil</string>
+    <string name="skip_button_label">Atlamak</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Kabul Et</string>
+    <string name="term_disagree_text">Kabul etmiyorum</string>
+    <string name="terms_of_service_description">"
+Hava durumu hizmeti, İnternet hizmeti, E-posta tarayıcı gibi ağ bağlantısı gerektiren hizmetler kullandığınızda ek mobil veri kullanımı ücreti alınabilir. Mobil veri kullanımı ücretinizi daha etkin bir şekilde yönetmek için operatörünüze başvurarak uygun mobil hizmet paketini edinmenizi öneririz.
+
+Kabul ediyorum'u seçerek bu hizmetlerin gerektiğinde ağa bağlanmasına izin verirsiniz.
+
+Buna ek olarak, otomatik yazılım güncellemesi varsayılan olarak etkindir. En son yazılım deneyimini sunmak için bir miktar mobil veri kullanabilir. Seçeneği Ayarlar'dan istediğiniz zaman değiştirebilirsiniz.
+
+"</string>
+    <string name="terms_title">Veri Kullanımı</string>
+    <string name="time_picker_title">Zaman:</string>
+    <string name="traffic_prompt_content">Kabul etmemeyi seçerseniz yazılım güncellemesi, hava durumu ve diğer bilgileri kendiniz edinmeniz gerekir.</string>
+    <string name="upload_agent_des_text">"Kullanıcı deneyimi programına katılın. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Daha fazla bilgi edinin&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia Kullanıcı Deneyimi programına katılın. &lt;a href='launch.UserExperienceActivity://Kode'>Daha fazla bilgi edinin.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Kullanıcı Deneyimi Programı</string>
+    <string name="v7_preference_off">KAPALI</string>
+    <string name="v7_preference_on">AÇIK</string>
+    <string name="welcome_hmd_term_of_use_2">"Ok simgesine dokunmakla, &lt;a href='launch.TermOfServiceActivity://Kode'>Hizmet Şartlarını&lt;/a> ve &lt;a href='launch.AddUploadAgentHandler://Kode'>Gizlilik İlkesini&lt;/a> kabul etmiş olursunuz. Tek seferlik cihaz konumunu içeren cihaz etkinleştirme bilgileri HMD Global'e gönderilecektir. Veri ücretleri uygulanabilir."</string>
+    <string name="welcome_infocus_term_of_use">"Oka dokunarak, &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Kullanım Şartları&lt;/a>nı kabul etmiş olursunuz"</string>
+    <string name="welcome_lets_go_button_label">Başlayalım</string>
+    <string name="welcome_message">Hoş geldiniz</string>
+    <string name="welcome_start_button_label">BAŞLAT</string>
+    <string name="welcome_vision_settings_button_label">Görünüm Ayarları</string>
+    <string name="wifi_picker_connection_des_text">WLAN bağlantısını devre dışı bırakmak yazılımınızı cep telefonu şebekesi üzerinden doğrularken ücrete neden olabilir.</string>
+    <string name="wifi_picker_connection_negative">Bağlan</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN Bağlantısı</string>
+    <string name="wifi_picker_connection_positive">Tamam</string>
+    <string name="wifi_picker_connection_title">Ağ bağlantısı</string>
+    <string name="wifi_picker_warning_des_text">İnternet bağlantınız olmadan telefon yazılımınızın güncelliğini doğrulayamaz.</string>
+    <string name="wifi_picker_warning_negative">Yine de atla</string>
+    <string name="wifi_picker_warning_positive">Atlamayın</string>
+    <string name="wifi_picker_warning_title">Uyarı:</string>
+    <string name="zone_auto">Otomatik saat dilimi</string>
+    <string name="zone_auto_summaryOff">Ağ tarafından sağlanan saat dilimini kullan</string>
+    <string name="zone_auto_summaryOn">Ağ tarafından sağlanan saat dilimini kullan</string>
+    <string name="sugarsync_intro_description">Birkaç kolay adımı tamamlayarak yapacağınız SugarSync entegrasyonuyla bulut depolamanın keyfini çıkarabilirsiniz.</string>
+</resources>

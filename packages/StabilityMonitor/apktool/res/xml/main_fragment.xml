@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/action_category_title">
+        <Preference android:title="@string/upload_now_preference_title" android:key="upload_now_location_key" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/check_category_title" android:key="check_category_key">
+        <Preference android:title="@string/check_dutinfo_preference_title" android:key="check_dutinfo_key" />
+        <Preference android:title="@string/check_network_preference_title" android:key="check_network_key" />
+        <Preference android:title="@string/check_allowed_upload_preference_title" android:key="check_allow_uplod_key" />
+        <Preference android:title="@string/check_is_wifi_only_title" android:key="check_is_wifi_only_key" />
+        <Preference android:title="@string/switch_long_que_on_off_title" android:key="switch_long_que_on_off_key" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/information_category_title">
+        <Preference android:title="@string/poweroncause_preference_title" android:key="power_on_cause_key" />
+        <Preference android:title="@string/latest_dropbox_tag_preference_title" android:key="latest_dropbox_tag_key" />
+        <Preference android:title="@string/reset_data_preference_title" android:key="reset_data_key" />
+    </PreferenceCategory>
+</PreferenceScreen>

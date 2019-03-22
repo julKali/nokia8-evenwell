@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" android:sharedUserId="android.uid.system" package="com.evenwell.dataagent" platformBuildVersionCode="9001030" platformBuildVersionName="9.0010.30">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <protected-broadcast android:name="com.evenwell.dataagent.ACTION_LOW_FREQUENCY"/>
+    <application android:allowBackup="false" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:process="system" android:supportsRtl="true" android:theme="@style/AppTheme">
+        <service android:exported="true" android:name="com.evenwell.dataagent.UdpService">
+            <intent-filter>
+                <action android:name="com.evenwell.dataagent.start"/>
+            </intent-filter>
+        </service>
+        <meta-data android:name="android.support.VERSION" android:value="26.0.0-beta1"/>
+    </application>
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Ilmateenus</string>
+    <string name="fih_weather_permission_hint_1">See rakendus nõuab korralikult töötamiseks asjakohaseid õigusi. Andke luba, kui seda küsitakse.</string>
+    <string name="fih_weather_permission_hint_2">Korralikult töötamiseks vajab rakendus lisaõigusi. Hallake ilmateenuse õigusi jaotises Sätted.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Sulge</string>
+    <string name="fih_weather_button_setting">Seade</string>
+    <string name="fih_weather_permission_success">Anna asukohaõigused</string>
+    <string name="fih_weather_permission_failed">Asukohale juurdepääsu andmine on keelatud ja asukohta ei saa tuua</string>
+    <string name="fih_weather_notification_title">Ilmateenus nõuab õigusi</string>
+    <string name="fih_weather_notification_text">Puudutage lubamiseks</string>
+    <string name="fih_weather_notification_channel_title">Üldised teatised</string>
+</resources>

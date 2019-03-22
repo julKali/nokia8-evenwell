@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Client CP</string>
+    <string name="fih_cp_notify_statusbar_content">Mesaj acces nou</string>
+    <string name="fih_cp_notification_channel_name">Notificări generale</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Amânați</string>
+    <string name="fih_cp_ui_mode_delete">Ștergeți</string>
+    <string name="fih_cp_apply_dialog_head_msg">Acces nou</string>
+    <string name="fih_cp_apply_dialog_body_msg">Doriți să aplicați noua configurație?</string>
+    <string name="fih_cp_toast_info_update">Profil actualizat cu succes.</string>
+    <string name="fih_cp_toast_info_create">Profil creat cu succes.</string>
+    <string name="fih_cp_editor_apn_name">Nume</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Proxy</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_user">Nume utilizator</string>
+    <string name="fih_cp_editor_apn_password">Parolă</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Proxy MMS</string>
+    <string name="fih_cp_editor_apn_mms_port">Port MMS</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Tip de autentificare</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Niciuna</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP sau CHAP</string>
+    <string name="fih_cp_editor_apn_type">Tip APN</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_btn_cancel">Anulați</string>
+    <string name="fih_cp_btn_next">Înainte</string>
+    <string name="fih_cp_btn_back">Înapoi</string>
+    <string name="fih_cp_apn_not_set">&lt;Nesetat></string>
+    <string name="fih_cp_error_title">Atenție</string>
+    <string name="fih_cp_error_name_empty">Câmpul Nume nu poate fi gol.</string>
+    <string name="fih_cp_error_apn_empty">Câmpul APN nu poate fi gol.</string>
+    <string name="fih_cp_error_other">Eroare sintaxă date.</string>
+    <string name="fih_cp_input_pin_code">Introduceți codul PIN:</string>
+    <string name="fih_cp_input_pin_code_ok">OK</string>
+    <string name="fih_cp_input_pin_code_cancel">Anulați</string>
+    <string name="fih_cp_input_pin_code_incorrect">Cod PIN incorect.</string>
+    <string name="fih_cp_input_pin_code_empty">Introduceți codul PIN.</string>
+    <string name="fih_cp_sim_not_available">Cartelă SIM indisponibilă.</string>
+</resources>

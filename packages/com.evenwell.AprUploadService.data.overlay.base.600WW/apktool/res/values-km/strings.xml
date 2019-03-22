@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">គោលការណ៍​ភាពឯកជន HMD</string>
+    <string name="privacy_activity">គោលការណ៍​ភាពឯកជន HMD</string>
+    <string name="go_label">ធ្វើ</string>
+    <string name="agree">យល់​ព្រម</string>
+    <string name="see_detail">ព​ត៌​មាន​លំអិត</string>
+    <string name="next_btn_lebel">បន្ទាប់</string>
+    <string name="app_name">វិនិច្ឆ័យ​របស់​ប្រព័ន្ធ</string>
+    <string name="setting_page_name">កម្មវិធី​បទ​ពិសោធ​អ្នក​ប្រើ</string>
+    <string name="send_diag_dialog_any_network">នៅពេល​ដែល​ការ​តភ្ជាប់​ទិន្នន័យ​គឺ​អាច​ប្រើ​បាន</string>
+    <string name="send_diag_dialog_wifi">នៅពេល​ដែល​ភ្ជាប់ Wi​-Fi គឺ​អាច​រក​បាន</string>
+    <string name="send_diag_dialog_wlan">ពេល​ដែល​ការ​តភ្ជាប់​ WLAN ​អាច​រក​បាន</string>
+    <string name="send_diag_dialog_title">ផ្ញើ​ការ​វិ​និ​ច្ឆ័យ</string>
+    <string name="diagnostics_setting">រោគ​វិនិច្ឆ័យ</string>
+    <string name="diagnostics_report">របាយ​ការ​វិនិច្ឆ័យ</string>
+    <string name="diagnostics_report_summary">ផ្ញើ​ការវិនិច្ឆ័យ​រាយការណ៍​ពី​ពេល​ដែល​ឧបករណ៍​នេះ​ត្រូវ​បាន​ជួប​ប្រទះ​កំហុស​កម្មវិធី​។ វា​អាច​បង្កើត​តម្លៃ​នៃ​ការ​ប្រើ​ប្រាស់​ប​ណ្តា​ញ​។ ទិន្នន័យ​ដែល​ទទួល​បាន​ពី​បណ្ដាញ​កញ្ចប់​ប​ណ្តា​ញ​នេះ​ត្រូវ​បាន​ផ្ដល់​អនុសាសន៍​។</string>
+    <string name="network_options">ជម្រើស​ប​ណ្តា​ញ</string>
+    <string name="send_diagnostics">ផ្ញើ​ការ​វិ​និ​ច្ឆ័យ</string>
+    <string name="diagnostics_description">សូម​ជួយ​យើង​ឱ្យ​ប្រសើរ​ឡើង​នូវ​ផលិតផល​និង​សេវាកម្ម​របស់​យើង​ដោយ​អនុញ្ញាត​ឱ្យ​យើងប្រមូល​ទិន្នន័យ​រោគវិនិច្ឆ័យ​នៅពេល​ដែល​ឧបករណ៍​របស់​អ្នក​បទពិសោធន៍​កំហុស​កម្មវិធី​មួយ​ឬ​គាំង​។ អ្នក​អាច​ផ្លាស់​ប្តូ​រ​ជម្រើស​នេះ​នៅ​ពេល​ក្រោយ​ក្នុង​ការ​កំណត់​។</string>
+    <string name="diagnostics_confirmation">បាទ​ខ្ញុំ​យល់​ព្រម​ទៅ​នឹង​ផ្ញើ​ទិន្នន័យ​រោគវិនិច្ឆ័យ​ដោយ​ស្វ័យ​ប្រវត្តិ​។</string>
+    <string name="setcomplete">ការ​ដំឡើង​បាន​បញ្ចប់</string>
+    <string name="agree_dialog">យើង​បាន​ផ្លាស់​ប្តូ​រ​​កម្មវិធី​របស់​យើងពី​បទ​ពិសោធ​អ្នក​ប្រើ ​និង​​ព័ត៌មាន​ផ្ទាល់ខ្លួន​ដែល​ពាក់ព័ន្ធ​។ សូម​ជួយ​យើង​ក្នុង​ការ​ធ្វើឱ្យ​ប្រសើរ​ឡើង​នូវ​ផលិតផល​និង​សេវាកម្ម​របស់​យើង​ដោយ​ការ​ចូលរួម​ក្នុង​កម្មវិធី​បទ​ពិសោធ​អ្នកប្រើប្រាស់​ឥឡូវ​នេះ​។ អ្នក​អាច​ផ្លាស់​ប្តូ​រ​ជម្រើស​នេះ​នៅ Settings.​វា អាច​បង្កើត​តម្លៃ​នៃ​ការ​ប្រើ​ប​ណ្តា​ញ​បន្ទាប់​ពី​ចូលរួម​ក្នុង​ផែនការ​បទពិសោធន៍​របស់​អ្នកប្រើប្រាស់​។ ទិន្នន័យ​ដែល​ទទួល​បាន​ពី​បណ្ដាញ​កញ្ចប់​ប​ណ្តា​ញ​នេះ​ត្រូវ​បាន​ផ្ដល់​អនុសាសន៍​។</string>
+</resources>

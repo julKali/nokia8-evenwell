@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ການອັບເດດຊອບແວ</string>
+    <string name="file_not_found">ບໍ່ໄດ້ຄົ້ນພົບໄຟ້</string>
+    <string name="remote_file_fail">ບໍ່ສາມາດເຂົ້າເຖິງໄຟລ໌ຈາກທາງໄກໄດ້. ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ.</string>
+    <string name="no_description">(ບໍ່ມີລາຍລະອຽດ)</string>
+    <string name="login_fail">ເຂົ້າສູ່ລະບົບເຊີເວີບໍ່ສຳເລັດ. ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ.</string>
+    <string name="get_service_url_fail">ການເຊື່ອມຕໍ່ເຄືອຂ່າຍບໍ່ສະຖຽນ (ຂໍເອົາ URL ການບໍລິການບໍ່ສຳເລັດ). ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ.</string>
+    <string name="query_sw_fail">ສອບຖາມຂໍ້ມູນຊອບແວບໍ່ສຳເລັດ.</string>
+    <string name="download_sw_fail">ດາວໂຫຼດຊອບແວບໍ່ສຳເລັດ.</string>
+    <string name="query_sw_incorrect">ຜົນໄດ້ຮັບບໍ່ຖືກຕ້ອງ.</string>
+    <string name="no_update_available">ບໍ່ມີການອັບເດດທີ່ໃໝ່ກວ່ານີ້ອີກແລ້ວ.</string>
+    <string name="update_not_ready">ການອັບເດດທີ່ໃໝ່ກວ່າຍັງບໍ່ພ້ອມເທື່ອໃນເຊີບເວີ. ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ.</string>
+    <string name="check_now_label">ກວດເບິ່ງດຽວນີ້</string>
+    <string name="checking">ກຳລັງກວດສອບ...</string>
+    <string name="verifying">ກຳລັງກວດສອບ...</string>
+    <string name="header_verifying_update_file">ກຳລັງກວດສອບໄຟລ໌ທີ່ອັບເດດແລ້ວ...</string>
+    <string name="unzipping">ກຳລັງແຍກໄຟລ໌...</string>
+    <string name="please_wait">ກະລຸນາລໍຖ້າ…</string>
+    <string name="header_starting_to_download_file">ກຳລັງເລີ່ມການດາວໂຫຼດໄຟລ໌...</string>
+    <string name="header_system_update_available">ມີການອັບເດດລະບົບ</string>
+    <string name="new_version_desc_prompt">ເວີຊັນໃໝ່ລວມມີ:</string>
+    <string name="header_attention">ລະວັງ</string>
+    <string name="data_fee_warning">ການໃຊ້ການບໍລິການນີ້ຜ່ານການເຊື່ອມຕໍ່ເຄືອຂ່າຍມືຖືຂອງທ່ານ ອາດຈະເຮັດໃຫ້ເກີດການເກັບຄ່າ!</string>
+    <string name="header_downloading_update">ກຳລັງດາວໂຫຼດການອັບເດດ</string>
+    <string name="header_install_system_software_update">ຕິດຕັ້ງການອັບເດດຊອບແວລະບົບ</string>
+    <string name="msg_install_system_software_update_1">"ທ່ານຕ້ອງການຕິດຕັ້ງຊອບແວລະບົບຕໍ່ໄປນີ້ບໍ?
+ການອັບເດດລະບົບເປັນ"</string>
+    <string name="msg_install_system_software_update_2">"
+
+ທ່ານຈະບໍ່ສາມາດໃຊ້ອຸປະກອນຂອງທ່ານ ຫຼື ເຮັດການໂທສຸກເສີນໄດ້ໃນລະຫວ່າງການອັບເກຣດ.
+
+ການເອົາແບັດເຕີຣີ ຫຼື ແຜ່ນ SD ອອກ ໃນຂະນະທີ່ອັບເດດຊອບແວອາດນຳໄປສູ່ຜົນໄດ້ຮັບທີ່ບໍ່ຄາດໄວ້."</string>
+    <string name="msg_install_system_software_update_3">"
+
+ທ່ານຈະບໍ່ສາມາດໃຊ້ອຸປະກອນຂອງທ່ານໄດ້ໃນລະຫວ່າງການອັບເກຣດ.
+
+ການຕັດໄຟ ຫຼື ການຍ້າຍໄຟລ໌ທີ່ດາວໂຫຼດມາອອກ ໃນຂະນະທີ່ອັບເດດຊອບແວຈະນຳໄປສູ່ຜົນໄດ້ຮັບທີ່ບໍ່ຄາດໄວ້."</string>
+    <string name="msg_install_system_software_update_4">"
+
+ທ່ານຈະບໍ່ສາມາດໃຊ້ອຸປະກອນຂອງທ່ານ ຫຼື ເຮັດການໂທສຸກເສີນໄດ້ໃນລະຫວ່າງການອັບເກຣດ.
+
+ມັນຈະນຳໄປສູ່ຜົນໄດ້ຮັບທີ່ບໍ່ຄາດໄວ້ ຖ້າທ່ານຕັດໄຟ ຫຼື ຍ້າຍໄຟລ໌ທີ່ດາວໂຫຼດມາອອກ ໃນຂະນະທີ່ອັບເດດຊອບແວ."</string>
+    <string name="button_install_now">ຕິດຕັ້ງດຽວນີ້</string>
+    <string name="button_install_later">ຕິດຕັ້ງໃນພາຍຫຼັງ</string>
+    <string name="header_unable_to_connect">ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້</string>
+    <string name="msg_unable_to_connect">ທ່ານຈຳເປັນຕ້ອງມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍເພື່ອໃຊ້ແອັບພລິເຄຊັນນີ້. ກະລຸນາເປີດເຄືອຂ່າຍມືຖື ຫຼື Wi-Fi ໃນການຕັ້ງຄ່າ.</string>
+    <string name="msg_unable_to_connect_2">ທ່ານຈຳເປັນຕ້ອງມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍເພື່ອໃຊ້ແອັບພລິເຄຊັນນີ້. ກະລຸນາເປີດເຄືອຂ່າຍມືຖືໃນການຕັ້ງຄ່າ.</string>
+    <string name="msg_unable_to_connect_wlan">ທ່ານຈຳເປັນຕ້ອງມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍເພື່ອໃຊ້ແອັບພລິເຄຊັນນີ້. ກະລຸນາເປີດເຄືອຂ່າຍມືຖື ຫຼື WLAN ໃນການຕັ້ງຄ່າ.</string>
+    <string name="msg_unable_to_connect_short">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ</string>
+    <string name="button_reset">ກັບຄືນພາວະເດີມ</string>
+    <string name="button_settings">​ການ​ຕັ້ງ​ຄ່າ</string>
+    <string name="header_system_is_update">ລະບົບອັບເດດໃໝ່ແລ້ວ.</string>
+    <string name="msg_system_is_update">ບໍ່ມີການອັບເດດທີ່ໃໝ່ກວ່ານີ້ອີກແລ້ວ.</string>
+    <string name="msg_system_is_update_short">ບໍ່ມີການອັບເດດທີ່ໃໝ່ກວ່າ</string>
+    <string name="msg_no_sd_card">ຈຳເປັນຕ້ອງມີແຜ່ນ SD ສຳລັບການອັບເດດລະບົບ. ກະລຸນາໃສ່ແຜ່ນ SD ທີ່ສາມາດໃຊ້ໄດ້.</string>
+    <string name="msg_no_sd_card_short">ບໍ່ມີ SD ກາດ</string>
+    <string name="msg_no_available_size_card">ໄຟລ໌ການອັບເດດນີ້ຕ້ອງການພື້ນທີ່ຫວ່າງ %s MB. ກະລຸນາລຶບບາງໄຟລ໌ອອກຈາກແຜ່ນ SD.</string>
+    <string name="msg_no_available_size_card_2">ໄຟລ໌ການອັບເດດນີ້ຕ້ອງການພື້ນທີ່ຫວ່າງ %s MB. ກະລຸນາລຶບບາງໄຟລ໌ໃນບ່ອນຈັດເກັບຂໍ້ມູນ.</string>
+    <string name="msg_no_available_size_card_short">ບໍ່ມີພື້ນທີ່ຫວ່າງພຽງພໍ.</string>
+    <string name="msg_do_not_remove_sd_card">ກະລຸນາຢ່າຖອດແຜ່ນ SD ອອກ.</string>
+    <string name="title_system_update_ready">ການອັບເດດລະບົບພ້ອມແລ້ວ</string>
+    <string name="msg_system_update_ready">ແຕະເພື່ອຕິດຕັ້ງການອັບເດດຊອບແວ.</string>
+    <string name="msg_system_battery_too_low">"ການອັບເດດລະບົບພ້ອມແລ້ວ, ແຕ່ແບັດເຕີຣີອຸປະກອນຂອງທ່ານຕໍ່າເກີນກວ່າຈະສາມາດຕິດຕັ້ງມັນໄດ້. ກະລຸນາສາກແບັດເຕີຣີ ແລະ ເລີ່ມການຕິດຕັ້ງໃນພາຍຫຼັງ.
+
+ລະດັບແບັດເຕີຣີຄວນສູງກວ່າ 35%%.
+ລະດັບແບັດເຕີຣີປັດຈຸບັນ: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">ແບັດເຕີຣີຕໍ່າເກີນໄປ</string>
+    <string name="msg_remove_sd_card">ບໍ່ສາມາດຂຽນໄຟລ໌ທີ່ດາວໂຫຼດມາໃສ່ໃນແຜ່ນ SD ໄດ້. ກະລຸນາກວດເບິ່ງແຜ່ນ SD.</string>
+    <string name="msg_remove_sd_card_2">ບໍ່ສາມາດຂຽນໄຟລ໌ທີ່ດາວໂຫຼດມາໃສ່ໃນບ່ອນຈັດເກັບຂໍ້ມູນໄດ້. ກະລຸນາກວດເບິ່ງບ່ອນຈັດເກັບຂໍ້ມູນ.</string>
+    <string name="msg_remove_sd_card_short">ເຂົ້າຫາແຜ່ນ SD ບໍ່ສຳເລັດ.</string>
+    <string name="msg_remove_sd_card_short_2">ເຂົ້າເຖິງບ່ອນຈັດເກັບຂໍ້ມູນບໍ່ສຳເລັດ.</string>
+    <string name="msg_verify_fail">ກວດສອບໄຟລ໌ທີ່ດາວໂຫຼດມາບໍ່ສຳເລັດ.</string>
+    <string name="msg_verify_fail_short">ກວດສອບບໍ່ສຳເລັດ</string>
+    <string name="msg_unzip_fail">ແຍກໄຟລ໌ທີ່ດາວໂຫຼດມາບໍ່ສຳເລັດ.</string>
+    <string name="msg_unzip_fail_short">ແຍກໄຟລ໌ບໍ່ສຳເລັດ</string>
+    <string name="hide">ເຊື່ອງ</string>
+    <string name="data_size">ຂະໜາດຂໍ້ມູນ</string>
+    <string name="required_size">ພື້ນທີ່ຫວ່າງທີ່ຕ້ອງການ</string>
+    <string name="network_not_match">ການຕັ້ງຄ່າປັດຈຸບັນຂອງທ່ານແມ່ນໃຫ້ດາວໂຫຼດຜ່ານ WLAN ເທົ່ານັ້ນ. ກະລຸນາເລືອກເຄືອຂ່າຍ WLAN ຫຼື ປ່ຽນການຕັ້ງຄ່າຂອງທ່ານ.</string>
+    <string name="network_not_match_short">ເຄືອຂ່າຍບໍ່ກົງກັນ.</string>
+    <string name="without_reboot_api">ບໍ່ສາມາດປິດເປີດເຄື່ອງໃໝ່ໄດ້ ເນື່ອງຈາກບໍ່ພົບ API. ກະລຸນາປິດເປີດເຄື່ອງໃໝ່ດ້ວຍຕົນເອງ ເພື່ອຟື້ນຄືນການອັບເດດທີ່ດຳເນີນຢູ່.</string>
+    <string name="update_complete">ການອັບເດດລະບົບສຳເລັດແລ້ວ.</string>
+    <string name="update_complete_short">ການອັບເດດສຳເລັດແລ້ວ</string>
+    <string name="file_removed">ໄຟລ໌ທີ່ດາວໂຫຼດມາໄດ້ຖືກຍ້າຍອອກແລ້ວ. ກະລຸນາລອງດາວໂຫຼດໃໝ່.</string>
+    <string name="file_removed_short">ໄຟລ໌ທີ່ດາວໂຫຼດມາໄດ້ຖືກຍ້າຍອອກແລ້ວ.</string>
+    <string name="file_not_match">ໄຟລ໌ທີ່ດາວໂຫຼດມາບໍ່ກົງກັນກັບຂະໜາດທີ່ຄາດໄວ້. ກະລຸນາລອງດາວໂຫຼດໃໝ່.</string>
+    <string name="file_not_match_short">ໄຟລ໌ບໍ່ກົງກັນ.</string>
+    <string name="menu_url">ປ່ຽນ URL ຂອງເຊີບເວີ</string>
+    <string name="menu_enabled">ຊອບແວທີ່ເປີດນຳໃຊ້ແລ້ວເທົ່ານັ້ນ</string>
+    <string name="using_internal_storage">ການໃຊ້ບ່ອນຈັດເກັບຂໍ້ມູນພາຍໃນ</string>
+    <string name="using_external_storage">ການໃຊ້ບ່ອນຈັດເກັບຂໍ້ມູນພາຍນອກ</string>
+    <string name="msg_agree_message">"
+
+ມີຄວາມເປັນໄປໄດ້ເລັກນ້ອຍທີ່ຈະມີການລຶບຂໍ້ມູນຜູ້ໃຊ້ທີ່ເກີດຈາກຂະບວນການອັບເກຣດ. ຖ້າຈຳເປັນ, ກະລຸນາສຳຮອງຂໍ້ມູນຂອງທ່ານກ່ອນທີ່ຈະຕິດຕັ້ງການອັບເກຣດລະບົບ."</string>
+    <string name="msg_root_message">"
+
+ບໍ່ສາມາດຮັບປະກັນການອັບເດດປົກກະຕິໄດ້ ຫຼັງຈາກອຸປະກອນຖືກຣູດແລ້ວ."</string>
+    <string name="msg_responsibility_message">ຖ້າອຸປະກອນໄດ້ຖືກຣູດແລ້ວ, ຜູ້ໃຊ້ຮັບຜິດຊອບສຳລັບພຶດຕິກຳທີ່ຜິດປົກກະຕິຂອງລະບົບ ຫຼັງຈາກການອັບເດດ.</string>
+    <string name="msg_upgrade_agree">ອ່ານ ແລະ ເຫັນດີ</string>
+    <string name="later">ພາຍຫຼັງ</string>
+    <string name="update">ອັບເດດ</string>
+    <string name="update_summary">ກວດເບິ່ງການອັບເດດ</string>
+    <string name="wifi_only">Wi​-Fi ເທົ່າ​ນັ້ນ</string>
+    <string name="wlan_only">WLAN ເທົ່ານັ້ນ</string>
+    <string name="wifi_only_summary">ດາວໂຫຼດການອັບເດດ ເມື່ອມີການເຊື່ອມຕໍ່ Wi-Fi</string>
+    <string name="wlan_only_summary">ດາວໂຫຼດການອັບເດດ ເມື່ອມີການເຊື່ອມຕໍ່ WLAN</string>
+    <string name="auto_update">ອັບເດດອັດຕະໂນມັດ</string>
+    <string name="auto_update_summary">ກວດເບິ່ງການອັບເດດໂດຍອັດຕະໂນມັດ</string>
+    <string name="new_data_fee_warning">ການກວດເບິ່ງ ແລະ ການດາວໂຫຼດການອັບເດດອາດຈະເຮັດໃຫ້ເກີດຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມ. ດາວໂຫຼດການອັບເດດຜ່ານ Wi-Fi ຖ້າເປັນໄປໄດ້.</string>
+    <string name="wlan_data_fee_warning">ການກວດເບິ່ງ ແລະ ການດາວໂຫຼດການອັບເດດອາດຈະເຮັດໃຫ້ເກີດຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມ. ດາວໂຫຼດການອັບເດດຜ່ານ WLAN ຖ້າເປັນໄປໄດ້.</string>
+    <string name="installing">​ກຳ​ລັງ​ຕິດ​ຕັ້ງ</string>
+    <string name="install_complete">ໄດ້ຕິດຕັ້ງ</string>
+    <string name="install_fail">ການຕິດຕັ້ງບໍ່ສຳເລັດ</string>
+    <string name="install_all">ຕິດຕັ້ງທັງໝົດ</string>
+    <string name="install">ຕິດຕັ້ງ</string>
+    <string name="installed_version">ເວີຊັນທີ່ຕິດຕັ້ງແລ້ວ</string>
+    <string name="update_available">ມີການອັບເດດ.</string>
+    <string name="apk_update_available">ມີການອັບເດດແອັບພລິເຄຊັນ.</string>
+    <string name="recommend">ແນະນຳ</string>
+    <string name="roaming_restriction">ຂໍ້ຈຳກັດດ້ານການໂຣມມິງຂໍ້ມູນ</string>
+    <string name="roaming_restriction_summary">ບໍ່ສາມາດອັບເດດໄດ້ ເນື່ອງຈາກຂໍ້ຈຳກັດດ້ານການໂຣມມິງຂໍ້ມູນ.</string>
+    <string name="changelog">ບັນທຶກການປ່ຽນແປງ</string>
+    <string name="description">ອະທິບາຍ</string>
+    <string name="apk_update_available_summary">%s ມີການອັບເດດ. ຄລິກ ຕົກລົງ ເພື່ອຕິດຕັ້ງໃນຕອນນີ້ເລີຍ ຫຼື ຄລິກ ຍົກເລີກ ເພື່ອກວດເບິ່ງການອັບເດດຫຼັງຈາກໜຶ່ງວັນ.</string>
+    <string name="apk_removed">ແອັບພລິເຄຊັນໄດ້ຖືກຍ້າຍອອກແລ້ວ.</string>
+    <string name="apk_available_items">ມີໃຫ້ທັງໝົດ %s ລາຍການ</string>
+    <string name="apk_available_item">ມີໃຫ້ທັງໝົດ %s ລາຍການ</string>
+    <string name="new_forpreference">ໃໝ່</string>
+    <string name="invalid_update_summary">ການອັບເດດໃຊ້ບໍ່ໄດ້, ກະລຸນານກວດຄືນອີກຄັ້ງ.</string>
+    <string name="recheck">ກວດເບິ່ງອີກຄັ້ງ</string>
+    <string name="image_download_exception_summary">ບໍ່ສາມາດເຂົ້າເຖິງເຊີບເວີໄດ້, ກະລຸນາກວດໃໝ່ໃນພາຍຫຼັງ.</string>
+    <string name="apk_download_exception">ບໍ່ສາມາດເຂົ້າເຖິງເຊີບເວີໄດ້</string>
+    <string name="installation_confirmation">ການຢືນຢັນການຕິດຕັ້ງ</string>
+    <string name="apk_need_reboot_summary">ການອັບເດດຊອບແວນີ້ຈະປິດເປີດລະບົບໂດຍອັດຕະໂນມັດ ຫຼັງຈາກການຕິດຕັ້ງສຳເລັດແລ້ວ. ທ່ານຕ້ອງການສືບຕໍ່ຕອນນີ້ບໍ?</string>
+    <string name="downloaded">ດາວໂຫລດແລ້ວ</string>
+    <string name="prepare_to_reboot">ກະກຽມປິດເປີດເຄື່ອງໃໝ່</string>
+    <string name="prepare_to_reboot_summary">ຊອບແວທີ່ຕິດຕັ້ງແລ້ວຕ້ອງການໃຫ້ປິດເປີດອຸປະກອນຄືນໃໝ່ເພື່ອກຳນົດການຕັ້ງຄ່າ. ພວກເຮົາຂໍແນະນຳໃຫ້ປິດເປີດເຄື່ອງດຽວນີ້ ຫຼື ທ່ານສາມດປິດເປີດເຄື່ອງໃນພາຍຫຼັງກໍໄດ້.</string>
+    <string name="prepare_to_reboot_force_summary">ຊອບແວທີ່ຕິດຕັ້ງແລ້ວຕ້ອງການໃຫ້ປິດເປີດອຸປະກອນຄືນໃໝ່ເພື່ອກຳນົດການຕັ້ງຄ່າ. ພວກເຮົາຂໍແນະນຳໃຫ້ປິດເປີດເຄື່ອງດຽວນີ້.</string>
+    <string name="reboot">ຣີບູດ</string>
+    <string name="reboot_fail">ປິດເປີດເຄື່ອງໃໝ່ບໍ່ສຳເລັດ</string>
+    <string name="reboot_fail_summary">ບໍ່ສາມາດປິດເປີດເຄື່ອງໃໝ່ໄດ້ ເນື່ອງຈາກບໍ່ພົບ API. ກະລຸນາປິດເປີດເຄື່ອງໃໝ່ດ້ວຍຕົນເອງ.</string>
+    <string name="apk_no_avaliable_size">ບໍ່ສາມາດດາວໂຫຼດໄດ້ ເນື່ອງຈາກຂະໜາດບ່ອນຈັດເກັບຂໍ້ມູນພາຍໃນບໍ່ພຽງພໍ.</string>
+    <string name="update_finished">ການອັບເດດສຳເລັດແລ້ວ</string>
+    <string name="header_warning">ຄໍາເຕືອນ</string>
+    <string name="msg_root_warning">ອຸປະກອນຂອງທ່ານໄດ້ຖືກຣູດແລ້ວ ຫຼື ຊອບແວທາງການໄດ້ຖືກປ່ຽນແປງແລ້ວ. ການສືບຕໍ່ການອັບເດດລະບົບອາດຈະເຮັດໃຫ້ລະບົບບໍ່ສະຖຽນ ຫຼື ລະບົບຂັດຂ້ອງ, ແລະ ອາດຈະເຮັດໃຫ້ການຮັບປະກັນຂອງອຸປະກອນເປັນໂມຄະໄດ້. ທ່ານແນ່ໃຈບໍ່ວ່າທ່ານຕ້ອງການສືບຕໍ່?</string>
+    <string name="multi_image_update">ມີບາງການອັບເດດຮູບພາບ</string>
+    <string name="available_update_list">ລາຍການອັບເດດທີ່ມີໃຫ້</string>
+    <string name="downloading_summary">ກະລຸນາຍົກເລີກການດາວໂຫຼດຮູບພາບ</string>
+    <string name="msg_erase_userdata_warning">ການອັບເດດນີ້ຈຳເປັນຕ້ອງລຶບຂໍ້ມູນຜູ້ໃຊ້. ທ່ານຕ້ອງການສືບຕໍ່ບໍ?</string>
+    <string name="msg_autoupdate_date_fee_warning">ການເປີດນຳໃຊ້ການອັບເດດອັດຕະໂນມັດຈະເຮັດໃຫ້ເກີດຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມ.</string>
+    <string name="invalid_update">ການອັບເດດໃຊ້ບໍ່ໄດ້.</string>
+    <string name="file_corrupted">ບໍ່ສາມາດອັບເກຣດລະບົບໄດ້ ເນື່ອງຈາກໄຟລ໌ເສຍຫາຍ.</string>
+    <string name="ask_for_apk_check">ທ່ານຕ້ອງການກວດເບິ່ງການອັບເດດແອັບພລິເຄຊັນບໍ?</string>
+    <string name="update_ota_self">ການອັບເດດຊອບແວພວມດຳເນີນຢູ່.</string>
+    <string name="ab_update_fail">ບັນຫາການຕິດຕັ້ງ.</string>
+    <string name="ab_update_wrong_status">ໂປຣແກຣມອັບເດດບໍ່ຫວ່າງໃນຕອນນີ້. ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ ຫຼື ປິດເປີດເຄື່ອງໃໝ່.</string>
+    <string name="ab_update_installing">ກຳລັງອັບເດດລະບົບ</string>
+    <string name="tag_engineer_mode">ໂໝດວິສະວະກອນ</string>
+    <string name="engineer_version_incorrect">ເວີຊັນອຸປະກອນຂອງທ່ານບໍ່ຖືກຕ້ອງ</string>
+    <string name="msg_engineer_ota_restore">ແຕະເພື່ອກູ້ຄືນເວີຊັນທາງການ</string>
+    <string name="msg_engineer_ota_restore_warning">ນີ້ຈະກູ້ຄືນເວີຊັນທາງການ. ທ່ານຕ້ອງການສືບຕໍ່ບໍ?</string>
+    <string name="silent_mode_data_fee_warning">ມີການອັບເດດ. ການດາວໂຫຼດການອັບເດດອາດຈະເຮັດໃຫ້ເກີດຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມ. ດາວໂຫຼດການອັບເດດຜ່ານ Wi-Fi ຖ້າເປັນໄປໄດ້.</string>
+    <string name="msg_updating_system">ກຳລັງອັບເດດລະບົບ...</string>
+    <string name="msg_tap_to_reboot">ແຕະເພື່ອປິດເປີດເຄື່ອງໃໝ່</string>
+    <string name="msg_pause_download">ຢຸດການດາວໂຫຼດໄວ້ຊົ່ວຄາວ</string>
+    <string name="notification_channel_name">ການອັບເດດລະບົບ</string>
+    <string name="notification_channel_alert_name">ການແຈ້ງເຕືອນທົ່ວໄປ</string>
+</resources>

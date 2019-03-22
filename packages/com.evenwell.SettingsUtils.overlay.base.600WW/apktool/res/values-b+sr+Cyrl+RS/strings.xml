@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SettingUtils</string>
+    <string name="fih_fakeincomingcall">Долазни позив</string>
+    <string name="fih_motion_turn_over_help_1">Покушајте да окренете телефон</string>
+    <string name="fih_motion_turn_over_help_2">Покушајте да одбијете још</string>
+    <string name="fih_motion_turn_over_reject_call_help">\"Покушајте да окренете телефон да бисте одбили долазни позив који је у току.\"</string>
+    <string name="fih_motion_pickup_quiet_ring_help">\"Када одложите телефон на равну површину, појавиће се долазни позив. Подигните телефон и тон звона ће престати.\"</string>
+    <string name="motion_help_Try">Испробајте</string>
+    <string name="motion_help_Cancel">Откажи</string>
+    <string name="try_smart_alert">Поново подигните телефон да би вас вибрацијом подсетио на пропуштене позиве или поруке</string>
+    <string name="try_smart_alert_title">Испробајте паметно упозорење</string>
+    <string name="try_shake_song_title">Покушајте да протресете за следећу песму</string>
+    <string name="try_shakenextsong">Протресите телефон да бисте прешли на следећу песму</string>
+    <string name="songone">Песма 1</string>
+    <string name="songtwo">Песма 2</string>
+    <string name="playing">репродукује се</string>
+    <string name="smart_alert_open_screen_content">Подигните телефон. Подсетиће вас на пропуштене позиве или поруке.</string>
+    <string name="smart_alert_dialog_up">Када одложите телефон, екран ће се искључити.</string>
+    <string name="smart_alert_dialog_middel">Када поново подигнете телефон, вибрацијом ће вас подсетити на пропуштене позиве или поруке.</string>
+    <string name="fih_try_direct_call_title">Испробајте директан позив и одговор</string>
+    <string name="fih_try_direct_call_dailog_help">Приближите телефон уху бисте покушали директан позив.</string>
+    <string name="fih_fake_text_outgoingcall">Одлазни позив</string>
+    <string name="fih_fake_text_hello">Здраво!</string>
+    <string name="fih_fake_text_callyou">Зовем те!</string>
+    <string name="fih_direct_call_gyroscope_fail_help">Покушајте да окренете и приближите уху.</string>
+    <string name="fih_direct_call_proximity_fail_help">Покушајте да приближите уху.</string>
+    <string name="motion_settings_category_title">Подешавања покрета</string>
+    <string name="motion_tutor_category_title">Водич</string>
+    <string name="motion_settings_title">Покрет</string>
+    <string name="motion_turn_over_reject_call_title">Окрените за одбијање позива</string>
+    <string name="motion_volume_quiet_pickup_title">Пригушивање тона при подизању</string>
+    <string name="motion_direct_call_title">Директан позив и одговор</string>
+    <string name="motion_smart_alert_title">Паметно упозорење</string>
+    <string name="motion_shake_next_song_title">Протресите за следећу песму</string>
+    <string name="motion_settings_help">Како да користите покрете</string>
+    <string name="motion_turn_over_reject_call_help">Док траје долазни позив, окрените телефон да бисте га одбили.</string>
+    <string name="motion_volume_quiet_pickup_help">Док траје долазни позив, подигните телефон да бисте пригушили тон звона док је телефон у хоризонталном положају.</string>
+    <string name="motion_direct_call_help">Да бисте одговорили на долазни позив или да бисте упутили позив контакту који је приказан у детаљима евиденције позива, детаљима контакта или детаљима поруке, приближите телефон уху.</string>
+    <string name="motion_smart_alert_help">Телефон ће завибрирати када га узмете да би вас подсетио на пропуштен позив или поруке.</string>
+    <string name="motion_shake_next_song_help">Док слушате музику, протресите телефон да бисте прешли на следећу песму.</string>
+</resources>

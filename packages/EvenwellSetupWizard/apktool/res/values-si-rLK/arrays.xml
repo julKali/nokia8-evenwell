@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ස්ථිතික</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>ස්වයංක්‍රීයව හඳුනාගන්න</item>
+        <item>මිනූ ලෙස සලකන්න</item>
+        <item>නොමිනූ ලෙස සලකන්න</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>කිසිවක් නැත</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>කිසිවක් නැත</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>කිසිවක් නැත</item>
+        <item>අතින් කරන</item>
+        <item>ප්‍රොක්සිය ස්වයංක්‍රීය-වින්‍යාසය</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>දුර්වලයි</item>
+        <item>සතුටුදායකයි</item>
+        <item>හොඳයි</item>
+        <item>ඉතා හොඳයි</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>පරිලෝකනය කරමින්…</item>
+        <item>සම්බන්ධ වෙමින්…;</item>
+        <item>සත්‍යාපනය කරමින්…</item>
+        <item>IP ලිපිනය ලබාගනිමින්…</item>
+        <item>සම්බන්ධිත</item>
+        <item>අත්හිටුවන කරන ලදී</item>
+        <item>විසන්ධි කරමින්…</item>
+        <item>විසන්ධි කරන ලදී</item>
+        <item>අසාර්ථකයි</item>
+        <item>අවහිර කරන ලදි</item>
+        <item>දුර්වල සම්බන්ධතාව තාවකාලිකව මඟ හරිමින්</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>පරිලෝකනය කරමින්…</item>
+        <item>%1$s… කරා සම්බන්ධ කරමින්</item>
+        <item>%1$s… සමඟ සත්‍යාපන කරමින්</item>
+        <item>%1$s… වෙතින් IP ලිපිනය ලබා ගනිමින්</item>
+        <item>%1$s වෙත සම්බන්ධ විය</item>
+        <item>අත්හිටුවන කරන ලදී</item>
+        <item>%1$s… වෙතින් විසන්ධි කරමින්</item>
+        <item>විසන්ධි කරන ලදී</item>
+        <item>අසාර්ථකයි</item>
+        <item>අවහිර කරන ලදි</item>
+        <item>දුර්වල සම්බන්ධතාව තාවකාලිකව මඟ හරිමින්</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI ෂඩ්දශමය</item>
+    </string-array>
+</resources>

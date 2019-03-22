@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Privacy statement</string>
+    <string name="privacy_activity">Privacy statement</string>
+    <string name="go_label">Done</string>
+    <string name="app_name">System Diagnostics</string>
+    <string name="setting_page_name">User Experience Program</string>
+    <string name="send_diag_dialog_any_network">When data connection is available</string>
+    <string name="send_diag_dialog_wifi">When Wi-Fi connection is available</string>
+    <string name="send_diag_dialog_wlan">When WLAN connection is available</string>
+    <string name="send_diag_dialog_title">Send diagnostics</string>
+    <string name="diagnostics_setting">Diagnostics</string>
+    <string name="diagnostics_report">Diagnostics report</string>
+    <string name="diagnostics_report_summary">Send diagnostics report when device is experiencing a software error. It might generate cost of using network. Acquiring data network package from carrier is recommended.</string>
+    <string name="network_options">Network Options</string>
+    <string name="send_diagnostics">Send diagnostics</string>
+    <string name="cancel_upload_confirm_msg">You are about to quit from our User Experience Program. Software errors happened in your phone won’t be kept and sent, and thus might not be able to improve your experience while using the phone!</string>
+    <string name="hmd_privacy_policy">HMD privacy policy</string>
+</resources>

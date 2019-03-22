@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/pass_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pass_button_text" android:drawableTop="@drawable/fs_good" android:layout_weight="1.0" />
+    <Button android:id="@id/info_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/info_button_text" android:drawableTop="@drawable/fs_indeterminate" android:layout_weight="1.0" />
+    <Button android:id="@id/fail_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fail_button_text" android:drawableTop="@drawable/fs_error" android:layout_weight="1.0" />
+</LinearLayout>

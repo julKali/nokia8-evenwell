@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="12.0dip" android:paddingTop="1.0dip" android:paddingBottom="1.0dip" android:layout_width="fill_parent" android:layout_height="30.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/app_icon" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/sym_def_app_icon" android:scaleType="centerInside" />
+    <RelativeLayout android:id="@id/RelativeLayout01" android:paddingTop="1.0dip" android:paddingBottom="1.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentRight="true"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textColor="#ffffffff" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="20.0dip" android:singleLine="true" android:layout_toLeftOf="@id/time" android:layout_alignParentLeft="true" android:marqueeRepeatLimit="marquee_forever" />
+        <TextView android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@id/time" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="20.0dip" android:singleLine="true" android:layout_toLeftOf="@id/count" />
+        <TextView android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@id/count" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="20.0dip" android:singleLine="true" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</LinearLayout>

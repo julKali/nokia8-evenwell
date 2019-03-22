@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到主屏幕</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 键</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 键</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">空格键</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享方式</string>
+    <string name="abc_shareactionprovider_share_with_application">使用%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="app_name">Caivs</string>
+    <string name="cmcc_body">中国移动提示：为了向您提供免费的增强售后服务（增强售后服务是由中国移动建立终端管理平台来实现对终端的管理。随时为您提供终端远程参数设置和软件版本升级的服务），需要将您的设备免费注册到中国移动终端管理平台。注册将通过短信方式发送设备信息，该短信免费，仅发送一次（在港澳台及国际漫游情况下不发送）。如选择确认，视为您同意注册并使用增强售后服务；如选择取消，视为您不同意注册，中国移动将不向您提供该服务。</string>
+    <string name="cmcc_cancel_body">中国移动提示：您取消后，中国移动将不再向您提供永久免费的增强售后服务，您确定要取消该服务？</string>
+    <string name="cmcc_notification_text">增强售后服务请求获取发送短信权限</string>
+    <string name="cmcc_notify_title">增强售后服务</string>
+    <string name="cmcc_title">增强售后服务</string>
+    <string name="fih_no_permission">若要正常运作，此应用程序需要相关权限。 请允许所需权限</string>
+    <string name="fih_permission_allow">权限已允许</string>
+    <string name="fih_permission_no">关闭</string>
+    <string name="fih_permission_ok">确定</string>
+    <string name="fih_permission_set">设定</string>
+    <string name="fih_permission_set_permission">如欲正常运作，此应用程序需要额外的权 限。请在「设定」中，管理「Caivs」的权限</string>
+    <string name="notification_permission_body">点选以允许</string>
+    <string name="notification_permission_title">Caivs 需要权限</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="send_sms_accept">接受</string>
+    <string name="send_sms_body">"尊敬的用户：
+为了更好的给您提供服务，我们将通过短信获取手机的基本信息(如IMEI/MEID等)，但不会包含电话号码及个人资料，因此会产生一次短信费用，感谢您的支持！"</string>
+    <string name="send_sms_decline">拒绝</string>
+    <string name="send_sms_title">注册服务</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

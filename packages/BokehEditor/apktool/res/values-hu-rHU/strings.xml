@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh szerkesztő</string>
+    <string name="image_not_null">A kép útvonala nem lehet nulla.</string>
+    <string name="no_bokeh_type">Nincs bokeh típus</string>
+    <string name="no_mpo_file">Nincs MPO-fájl</string>
+    <string name="save">Mentés</string>
+    <string name="save_success">Sikeresen mentve</string>
+</resources>

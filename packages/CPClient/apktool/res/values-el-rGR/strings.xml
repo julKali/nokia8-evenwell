@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Πελάτης CP</string>
+    <string name="fih_cp_apn_not_set">&lt;Δεν έχει ρυθμιστεί></string>
+    <string name="fih_cp_apply_dialog_body_msg">Θέλετε να εφαρμοστεί η νέα διαμόρφωση;</string>
+    <string name="fih_cp_apply_dialog_head_msg">Νέα παροχή ρυθμίσεων</string>
+    <string name="fih_cp_btn_back">Πίσω</string>
+    <string name="fih_cp_btn_cancel">Ακύρωση</string>
+    <string name="fih_cp_btn_next">Επόμενο</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Τύπος ελέγχου ταυτότητας</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Καμία</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP ή CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Θύρα</string>
+    <string name="fih_cp_editor_apn_http_proxy">Διακομιστής μεσολάβησης</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">Θύρα MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Διακομιστής μεσολάβησης MMS</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Όνομα</string>
+    <string name="fih_cp_editor_apn_password">Κωδικός πρόσβασης</string>
+    <string name="fih_cp_editor_apn_server">Διακομιστής</string>
+    <string name="fih_cp_editor_apn_type">Τύπος APN</string>
+    <string name="fih_cp_editor_apn_user">Όνομα χρήστη</string>
+    <string name="fih_cp_error_apn_empty">Το πεδίο \"APN\" δεν μπορεί να είναι κενό.</string>
+    <string name="fih_cp_error_name_empty">Το πεδίο \"Όνομα\" δεν μπορεί να είναι κενό.</string>
+    <string name="fih_cp_error_other">Συντακτικό σφάλμα δεδομένων.</string>
+    <string name="fih_cp_error_title">Προσοχή</string>
+    <string name="fih_cp_input_pin_code">Εισαγάγετε κωδικό PIN:</string>
+    <string name="fih_cp_input_pin_code_cancel">Ακύρωση</string>
+    <string name="fih_cp_input_pin_code_empty">Εισαγάγετε τον κωδικό PIN.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Λάθος κωδικός PIN.</string>
+    <string name="fih_cp_input_pin_code_ok">OK</string>
+    <string name="fih_cp_notification_channel_name">Γενικές ειδοποιήσεις</string>
+    <string name="fih_cp_notify_statusbar_content">Νέο μήνυμα παροχής ρυθμίσεων</string>
+    <string name="fih_cp_sim_not_available">Κάρτα SIM μη διαθέσιμη.</string>
+    <string name="fih_cp_toast_info_create">Επιτυχής δημιουργία προφίλ</string>
+    <string name="fih_cp_toast_info_update">Επιτυχής ενημέρωση προφίλ</string>
+    <string name="fih_cp_ui_mode_delete">Διαγραφή</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Αναβολή</string>
+</resources>

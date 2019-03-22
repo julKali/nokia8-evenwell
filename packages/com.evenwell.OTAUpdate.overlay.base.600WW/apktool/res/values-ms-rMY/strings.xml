@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kemas kini perisian</string>
+    <string name="file_not_found">Fail tidak dijumpai</string>
+    <string name="remote_file_fail">Tidak boleh akses fail jauh. Sila cuba lagi kemudian.</string>
+    <string name="no_description">(Tiada butiran)</string>
+    <string name="login_fail">Gagal untuk log-masuk pelayan. Sila cuba lagi kemudian.</string>
+    <string name="get_service_url_fail">Sambungan rangkaian tidak stabil (Gagal untuk mendapatkan khidmat URL). Sila cuba lagi kemudian.</string>
+    <string name="query_sw_fail">Gagal untuk bertanya maklumat perisian</string>
+    <string name="query_sw_incorrect">Hasil tidak betul.</string>
+    <string name="no_update_available">Tiada kemaskini terbaru tersedia</string>
+    <string name="update_not_ready">Kemaskini terbaru belum bersedia pada pelayan. Sila cuba lagi kemudian.</string>
+    <string name="check_now_label">Semak sekarang</string>
+    <string name="checking">Penyemakan...</string>
+    <string name="verifying">Menentusahkan...</string>
+    <string name="header_verifying_update_file">Menentusahkan fail kemaskini...</string>
+    <string name="unzipping">Nyahzip...</string>
+    <string name="please_wait">Sila tunggu</string>
+    <string name="header_starting_to_download_file">Mula untuk muat turun fail...</string>
+    <string name="header_system_update_available">Kemaskini sistem tersedia</string>
+    <string name="new_version_desc_prompt">Versi baharu termasuk:</string>
+    <string name="header_attention">Untuk perhatian</string>
+    <string name="data_fee_warning">Menggunakan perkhidmatan ini melalui sambungan rangkaian mudah alih anda boleh menyebabkan pengecasan!</string>
+    <string name="header_downloading_update">Memuat turun kemaskini</string>
+    <string name="header_install_system_software_update">Pasang kemaskini perisian sistem</string>
+    <string name="msg_install_system_software_update_1">"Adakah anda ingin memasang perisian sistem berikut?
+Peningkatan sistem kepada"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Anda tidak boleh menggunakan peranti anda atau membuat panggilan kecemasan semasa peningkatan .
+
+Ia boleh menyebabkan kesan yang tidak diduga jika anda menanggalkan bateri atau kad SD semasa peningkatan perisian."</string>
+    <string name="button_install_now">Pasang sekarang</string>
+    <string name="button_install_later">Pasang kemudian</string>
+    <string name="header_unable_to_connect">Tidak dapat bersambung</string>
+    <string name="msg_unable_to_connect">Anda memerlukan sambunga rangkaian untuk menggunakan aplikasi ini. Sila hidupkan rangkaian mudah alih atau Wi-Fi di dalam Tetapan.</string>
+    <string name="msg_unable_to_connect_short">Tiada sambungan rangkaian</string>
+    <string name="button_reset">Set Semula</string>
+    <string name="button_settings">Tetapan</string>
+    <string name="header_system_is_update">Sistem terkini</string>
+    <string name="msg_system_is_update">Tiada kemaskini terbaru tersedia.</string>
+    <string name="msg_system_is_update_short">Tiada kemaskini terbaru</string>
+    <string name="msg_no_sd_card">Kad SD diperlukan untuk kemaskini sistem. Sila sisipkan kad SD.</string>
+    <string name="msg_no_sd_card_short">Tiada kad SD</string>
+    <string name="msg_no_available_size_card">Fail kemaskini ini memerlukan %s MB saiz tersedia. Sila padam beberapa fail dalam kad SD.</string>
+    <string name="msg_no_available_size_card_short">Ruang kosong tidak cukup</string>
+    <string name="msg_do_not_remove_sd_card">Tolong JANGAN tanggalkan kad SD.</string>
+    <string name="title_system_update_ready">Kemaskini sistem bersedia.</string>
+    <string name="msg_system_update_ready">Ketuk untuk memasang kemaskini sistem</string>
+    <string name="msg_system_battery_too_low">"Kemaskini sistem bersedia, tetapi bateri peranti anda terlalu rendah untuk memasangnnya. Sila cas bateri dan mulakan pemasangan kemudian.
+
+Level bateri sepatutnya lebih daripada 35%%.
+Level bateri sekarang: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Bateri terlalu rendah</string>
+    <string name="msg_remove_sd_card">Fail yang dimuat turun tidak boleh ditulis ke dalam kad SD. Sila periksa kad SD.</string>
+    <string name="msg_remove_sd_card_short">Gagal untuk akses kad SD</string>
+    <string name="msg_verify_fail">Fail yang dimuat turun gagal untuk ditentusahkan.</string>
+    <string name="msg_verify_fail_short">Gagal menentusahkan</string>
+    <string name="msg_unzip_fail">Fail yang dimuat turun gagal untuk dinyahzip.</string>
+    <string name="msg_unzip_fail_short">Gagal nyahzip</string>
+    <string name="hide">Sorok</string>
+    <string name="data_size">Saiz data</string>
+    <string name="required_size">Memerlukan ruang kosong</string>
+    <string name="network_not_match">Jenis rangkaian tidak sepadan. Sila cuba sekali lagi selepas rangkaian ditukar.</string>
+    <string name="network_not_match_short">Rangkaian tidak sepadan.</string>
+    <string name="without_reboot_api">Tidak boleh but semula kerana tanpa API. Tolong but semula untuk mendapat kembali kemaskini aktif secara manual.</string>
+    <string name="update_complete">Kemaskini sistem selesai.</string>
+    <string name="update_complete_short">Kemaskini selesai.</string>
+    <string name="file_removed">Fail yang dimuat turun dihapuskan. Sila muat turun sekali lagi.</string>
+    <string name="file_removed_short">Fail yang dimuat turun dihapuskan</string>
+    <string name="file_not_match">Fail yang dimuat turun tidak sepada seperti yang dijangkakan. Sila muat turun sekali lagi.</string>
+    <string name="file_not_match_short">Fail tidak sepadan</string>
+    <string name="menu_url">Ubah URL Pelayan</string>
+    <string name="msg_agree_message">"
+
+
+Ada kemungkinan kecil memadam data pengguna yang disebabkan oleh tujuan menaik taraf. Jika perlu, sila sandaran data anda sebelum memasang menaik taraf sistem."</string>
+    <string name="msg_upgrade_agree">Baca dan bersetuju</string>
+    <string name="later">kemudian</string>
+    <string name="update">Update</string>
+    <string name="update_summary">Semak kemas kini</string>
+    <string name="wifi_only">Wi-Fi sahaja</string>
+    <string name="wlan_only">WLAN sahaja</string>
+    <string name="wifi_only_summary">Memuat turun kemas kini apabila Wi-Fi disediakan</string>
+    <string name="wlan_only_summary">Memuat turun kemas kini apabila WLAN</string>
+    <string name="auto_update">kini auto</string>
+    <string name="auto_update_summary">Semak untuk kemas kini secara automatik</string>
+    <string name="new_data_fee_warning">Semak dan kemaskini download mungkin dikenakan bayaran tambahan.Memuat turun kemas kini melalui Wi-Fi jika mungkin.</string>
+    <string name="wlan_data_fee_warning">Semak dan kemaskini download mungkin dikenakan bayaran tambahan. Memuat turun kemas kini melalui WLAN jika boleh.</string>
+    <string name="installing">Memasang</string>
+    <string name="install_complete">Dipasang</string>
+    <string name="install">Pasang</string>
+    <string name="description">Penerangan:</string>
+    <string name="new_forpreference">Baru</string>
+    <string name="downloaded">Sudah dimuat turun</string>
+    <string name="prepare_to_reboot_summary">Perisian yang dipasang perlu membut semula peranti untuk mengkonfigurasikan tetapan. Kami cadangkan anda membut semula sekarang atau kemudian.</string>
+    <string name="prepare_to_reboot_force_summary">Perisian yang dipasang perlu membut semula peranti untuk mengkonfigurasikan tetapan. Kami cadangkan anda buat semula sekarang.</string>
+    <string name="reboot">But semula</string>
+    <string name="update_finished">Kemas kini selesai</string>
+    <string name="header_warning">Peringatan</string>
+    <string name="update_ota_self">Kemas Kini Perisian sedang berjalan.</string>
+    <string name="ab_update_fail">Masalah Pemasangan.</string>
+    <string name="ab_update_wrong_status">Enjin kemas kini sibuk sekarang. Sila cuba lagi kemudian atau but semula.</string>
+    <string name="ab_update_installing">Mengemas kini sistem</string>
+    <string name="tag_engineer_mode">Mod Jurutera</string>
+    <string name="engineer_version_incorrect">Versi peranti anda adalah salah</string>
+    <string name="msg_engineer_ota_restore">Ketik untuk memulihkan versi rasmi</string>
+    <string name="msg_engineer_ota_restore_warning">Ini akan memulihkan versi rasmi. Anda mahu teruskan?</string>
+    <string name="silent_mode_data_fee_warning">Kemas kini tersedia. Memuat turun kemas kini mungkin dikenakan caj tambahan. Muat turun kemas kini melalui Wi-Fi jika boleh.</string>
+    <string name="msg_updating_system">Mengemas kini sistem...</string>
+    <string name="msg_tap_to_reboot">Ketik untuk but semula</string>
+    <string name="msg_pause_download">Jeda muat turun</string>
+    <string name="notification_channel_name">Kemas kini sistem</string>
+    <string name="notification_channel_alert_name">Pemberitahuan umum</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">Жабуу</string>
+    <string name="fih_weather_button_ok">Жарайт</string>
+    <string name="fih_weather_button_setting">\"Орнотуулар\"</string>
+    <string name="fih_weather_notification_text">Уруксат берүү үчүн басыңыз</string>
+    <string name="fih_weather_notification_title">\"WeatherService уруксаттарды талап кылат\"</string>
+    <string name="fih_weather_permission_failed">\"Уруксат четке кагылды, жайгашуу жеткиликтүү эмес.\"</string>
+    <string name="fih_weather_permission_hint_1">Тиешелүү түрдө иштеш үчүн, бул колдонмо кошумча уруксаттарды талап кылат. Суралганда уруксат бериңиз.</string>
+    <string name="fih_weather_permission_hint_2">\"Тиешелүү түрдө иштеш үчүн, бул колдонмо кошумча уруксаттарды талап кылат. Сураныч, WeatherService уруксаттарын Орнотууларда башкарыңыз.\"</string>
+    <string name="fih_weather_permission_success">\"Жайгашууга уруксат берилди\"</string>
+    <string name="fih_weather_service_title_txt">Аба ырайы кызматы</string>
+</resources>

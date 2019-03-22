@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/setupwizard_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:textDirection="ltr" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/viewStatusBar" android:background="@color/status_bar" android:layout_width="fill_parent" android:layout_height="@dimen/status_bar_height" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="70.0dip" android:layout_below="@id/viewStatusBar">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/outer_frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <ImageView android:id="@id/title_content" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="72.0dip" android:src="@drawable/oobe_brand_logo" android:layout_centerHorizontal="true" />
+                <TextView android:textSize="43.0sp" android:textColor="@color/text_color_cn" android:ellipsize="marquee" android:gravity="center" android:id="@id/oobe_welcome" android:layout_width="272.0dip" android:layout_height="wrap_content" android:layout_marginTop="46.0dip" android:src="@drawable/oobe_welcome_text" android:text="@string/welcome_message" android:singleLine="true" android:layout_below="@id/title_content" android:layout_centerHorizontal="true" />
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/language_picker_btn_layout" android:background="@color/setupwizard_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="23.0dip" android:minHeight="96.0dip" android:layout_below="@id/oobe_welcome" android:layout_centerHorizontal="true" android:layout_marginStart="75.0dip" android:layout_marginEnd="75.0dip">
+                    <Button android:textSize="18.0sp" android:textColor="@color/text_gray_color_cn" android:id="@id/language_picker_up_btn" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="57.0dip" />
+                    <View android:id="@id/language_picker_up_divider_view" android:background="#ffdcdcdc" android:layout_width="wrap_content" android:layout_height="1.0dip" />
+                    <Button android:textSize="18.0sp" android:textColor="@color/blue_button_color" android:id="@id/language_picker_btn" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="57.0dip" />
+                    <View android:id="@id/language_picker_divider_view" android:background="#ffdcdcdc" android:layout_width="wrap_content" android:layout_height="1.0dip" />
+                    <Button android:textSize="18.0sp" android:textColor="@color/text_gray_color_cn" android:id="@id/language_suggest_btn" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="57.0dip" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/accessibility_layout" android:layout_width="272.0dip" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/language_picker_btn_layout" android:layout_centerHorizontal="true">
+                    <ImageView android:id="@id/accessibility_drawable" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/ic_accessibility_white" android:layout_centerHorizontal="true" android:layout_marginEnd="8.0dip" />
+                    <Button android:gravity="center" android:layout_gravity="center" android:id="@id/start_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:minWidth="88.0dip" android:text="@string/welcome_lets_go_button_label" style="@style/SuwGlifButton.Primary" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/termofserviceview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:layout_below="@id/accessibility_layout" android:layout_centerHorizontal="true" android:layout_marginStart="46.0dip" android:layout_marginEnd="46.0dip">
+                    <TextView android:textSize="12.5sp" android:textColor="@color/text_gray_color_cn" android:textColorLink="@color/text_gray_color_cn" android:gravity="center|top" android:layout_gravity="center|top" android:id="@id/term_of_use_cn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/welcome_hmd_term_of_use_4" android:lineSpacingExtra="3.0dip" />
+                </LinearLayout>
+                <View android:layout_width="fill_parent" android:layout_height="10.0dip" android:layout_below="@id/termofserviceview" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:orientation="vertical" android:id="@id/welcome_linear_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="21.0dip" android:layout_marginStart="18.0dip" android:layout_marginEnd="18.0dip">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/emergency_call_layout" android:layout_width="123.0dip" android:layout_height="wrap_content" android:layout_alignParentStart="true">
+                <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:src="@drawable/emergency_call" />
+                <TextView android:textSize="11.0sp" android:textColor="@color/text_gray_color_cn_2" android:id="@id/emergency_call_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/emergency_dial_hmd_message" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:layout_gravity="end" android:orientation="vertical" android:id="@id/text_accessibility_layout" android:layout_width="123.0dip" android:layout_height="wrap_content" android:layout_alignParentEnd="true">
+                <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:src="@drawable/vision_settings" />
+                <TextView android:textSize="11.0sp" android:textColor="@color/text_gray_color_cn_2" android:id="@id/text_accessibility" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_vision_settings_button_label" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

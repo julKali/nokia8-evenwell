@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prepare_to_reboot_force_summary">ซอฟต์แวร์ที่ติดตั้งจำเป็นต้องรีบูตอุปกรณ์เพื่อกำหนดการตั้งค่า เราแนะนำให้รีบูตตอนนี้</string>
+    <string name="update_ota_self">กำลังดำเนินการอัปเดตซอฟต์แวร์</string>
+    <string name="ab_update_fail">ปัญหาในการติดตั้ง</string>
+    <string name="ab_update_wrong_status">เครื่องที่อัปเดตกำลังทำงานอยู่ โปรดลองใหม่ในภายหลัง หรือรีบูต</string>
+    <string name="ab_update_installing">กำลังอัปเดตระบบ</string>
+    <string name="tag_engineer_mode">โหมดวิศวกรรม</string>
+    <string name="engineer_version_incorrect">เวอร์ชันอุปกรณ์ไม่ถูกต้อง</string>
+    <string name="msg_engineer_ota_restore">แตะเพื่อเรียกคืนเวอร์ชันทางการ</string>
+    <string name="msg_engineer_ota_restore_warning">การดำเนินการนี้จะเรียกคืนเวอร์ชันทางการ ต้องการดำเนินการต่อหรือไม่</string>
+    <string name="silent_mode_data_fee_warning">การอัปเดตพร้อมใช้งาน การดาวน์โหลดการอัปเดตอาจมีค่าใช้จ่ายเพิ่มเติม ดาวน์โหลดการอัปเดตผ่าน Wi-Fi หากทำได้</string>
+    <string name="msg_updating_system">กำลังอัปเดตระบบ...</string>
+    <string name="msg_tap_to_reboot">แตะเพื่อรีบูต</string>
+    <string name="msg_pause_download">หยุดดาวน์โหลดชั่วคราว</string>
+    <string name="notification_channel_name">การอัปเดตระบบ</string>
+    <string name="notification_channel_alert_name">การแจ้งเตือนทั่วไป</string>
+</resources>

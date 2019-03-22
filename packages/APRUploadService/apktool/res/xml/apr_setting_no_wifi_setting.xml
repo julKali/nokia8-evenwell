@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="pref_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/diagnostics_setting" android:key="category_diagnostics_setting_key">
+        <CheckBoxPreference android:title="@string/diagnostics_report" android:key="diagnostics_report_key" android:summary="@string/diagnostics_report_summary" />
+    </PreferenceCategory>
+    <Preference android:title="@string/privacy_statement" android:key="privacy_statement_key" />
+</PreferenceScreen>

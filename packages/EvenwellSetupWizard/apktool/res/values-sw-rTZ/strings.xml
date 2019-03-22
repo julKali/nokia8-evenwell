@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Ufikiaji</string>
+    <string name="datausage_dialog_negitive_btn">Ghairi</string>
+    <string name="datausage_dialog_positive_btn">Sawa</string>
+    <string name="emergency_dial_hmd_message">Dharura</string>
+    <string name="insert_sim_cards">Weka SIM kadi</string>
+    <string name="insert_sim_cards_prompt_content">"Huna uhakika? Angalia maagizo ambayo yalikuja na simu yako.
+
+Ukiingiza SIM kadi zako, zinaweza kuchukua sekunde chache kuamilisha."</string>
+    <string name="language_selection_cancel_btn">GHAIRI</string>
+    <string name="light_room_description">%1$s hukubali kunasa picha GHAFI (DNG). Unaweza kuhariri moja kwa moja kwenye simu yako mpya maizi asante shukran kwa ushirikiano wetu na Adobe.&lt;br/>&lt;br/>Pakua Adobe Photoshop Lightroom CC kutoka kwa Google Play sasa.</string>
+    <string name="light_room_title">Unapenda upigaji picha?</string>
+    <string name="nevigation_selection_text">Unaweza kubadilisha rangi ya chinichini na mkao wa vitufe vya Nyuma /Hivi karibuni.</string>
+    <string name="next_btn_lebel">INAYOFUATA</string>
+    <string name="not_now">SI SASA…</string>
+    <string name="setup_complete_hmd_1">Uko karibu kuwa tayari...!</string>
+    <string name="setup_finish">TUANZE</string>
+    <string name="term_agree_text">Kubali</string>
+    <string name="upload_agent_hmd_des_text_3">"Kwa kugusa \"TUANZE\", unakubali kujiunga na Mpango wa Uzoefu wa Watumiaji. &lt;a href='launch.UserExperienceActivity://Kode'>Jifunze zaidi&lt;/a>. Kumbuka, unaweza kujiunga baadaye wakati wowote kupitia Mipangilio."</string>
+    <string name="welcome_hmd_term_of_use_5">"Kwa kugonga kitufe, unakubaliana na &lt;a href='launch.TermOfServiceActivity://Kode'>Masharti ya Huduma&lt;/a>. Maelezo ya kuamilisha kifaa yenye eneo la wakati mmoja la kifaa yatatumwa kwa HMD Global. Huenda ada ya data ikatumika. Data itatumika kulingana na &lt;a href='launch.AddUploadAgentHandler://Kode'>Sera ya Faragha&lt;/a>."</string>
+    <string name="wifi_cancel">Ghairi</string>
+    <string name="wifi_connect">Unganisha</string>
+    <string name="wifi_disabled_generic">Imelemazwa</string>
+    <string name="wifi_picker_connection_positive">Sawa</string>
+</resources>

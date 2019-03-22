@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="cta_mode">false</bool>
+    <bool name="is_enable_userexperience">true</bool>
+    <bool name="is_tg_customization">false</bool>
+    <bool name="is_siui_customization">false</bool>
+    <bool name="is_sharp_customization_default">false</bool>
+    <bool name="is_include_delete_forceupload">false</bool>
+    <bool name="is_enable_privacy_statement">true</bool>
+    <bool name="is_enable_piggyback">false</bool>
+    <bool name="is_debug">false</bool>
+</resources>

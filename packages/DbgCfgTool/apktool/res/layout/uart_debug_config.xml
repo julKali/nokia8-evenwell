@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/LinearLayout02" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <Button android:id="@id/btnUartDebugConfigSave" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_button_Save" />
+            <TextView android:id="@id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_save_debug_config_note" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout03" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugUartmsgCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_uartmsg_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout04" android:paddingLeft="30.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugPrintfUartmsgCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_printf_uartmsg_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout05" android:paddingLeft="30.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugAndroidUartmsgCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView04" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_android_uartmsg_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout051" android:paddingLeft="60.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugAndroidUartmsgMainCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView051" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_android_uartmsg_main_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout052" android:paddingLeft="60.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugAndroidUartmsgSystemCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView052" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_android_uartmsg_system_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout053" android:paddingLeft="60.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugAndroidUartmsgRadioCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView053" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_android_uartmsg_radio_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout054" android:paddingLeft="60.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugAndroidUartmsgEventsCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView054" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_android_uartmsg_events_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout06" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugCpuUsageCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView05" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_cpu_usage_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout07" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDebugRPCMSGCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView06" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_debug_rpcmsg_cfg" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

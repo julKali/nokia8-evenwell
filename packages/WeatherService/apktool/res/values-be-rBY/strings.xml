@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">Закрыць</string>
+    <string name="fih_weather_button_ok">ОК</string>
+    <string name="fih_weather_button_setting">\"Параметры\"</string>
+    <string name="fih_weather_notification_text">Дакраніцеся, каб дазволіць</string>
+    <string name="fih_weather_notification_title">"\"Служба надвор'я патрабуе дазволаў\""</string>
+    <string name="fih_weather_permission_failed">\"У дазволе адмоўлена, звесткі аб месцазанходжанні недаступныя.\"</string>
+    <string name="fih_weather_permission_hint_1">Каб працаваць належным чынам, гэта праграма патрабуе дадатковага дазволу. Дадайце дазвол, калі яго запытаюць.</string>
+    <string name="fih_weather_permission_hint_2">"\"Каб працаваць належным чынам, гэта праграма патрабуе дадатковых дазволаў. Кіраваць дазволамі Службы надвор'я можна ў Параметрах.\""</string>
+    <string name="fih_weather_permission_success">\"Атрыманы дазвол на доступ да звестак аб месцазнаходжанні\"</string>
+    <string name="fih_weather_service_title_txt">"Служба надвор'я"</string>
+</resources>

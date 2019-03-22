@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP-клиент</string>
+    <string name="fih_cp_notify_statusbar_content">Нова порака за опслужување</string>
+    <string name="fih_cp_notification_channel_name">Општи известувања</string>
+    <string name="fih_cp_ui_mode_ok">Во ред</string>
+    <string name="fih_cp_ui_mode_postpone">Одложи</string>
+    <string name="fih_cp_ui_mode_delete">Избриши</string>
+    <string name="fih_cp_apply_dialog_head_msg">Ново опслужување</string>
+    <string name="fih_cp_apply_dialog_body_msg">Дали сакате да примените нова конфигурација?</string>
+    <string name="fih_cp_toast_info_update">Успешно ажурирање на профилот</string>
+    <string name="fih_cp_toast_info_create">Успешно креирање профил</string>
+    <string name="fih_cp_editor_apn_name">Име</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Прокси</string>
+    <string name="fih_cp_editor_apn_http_port">Порт</string>
+    <string name="fih_cp_editor_apn_user">Корисничко име</string>
+    <string name="fih_cp_editor_apn_password">Лозинка</string>
+    <string name="fih_cp_editor_apn_server">Сервер</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">Прокси на MMS</string>
+    <string name="fih_cp_editor_apn_mms_port">Порт за MMS</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Тип на автентикација</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Нема</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP или CHAP</string>
+    <string name="fih_cp_editor_apn_type">Тип APN</string>
+    <string name="fih_cp_btn_ok">Во ред</string>
+    <string name="fih_cp_btn_cancel">Откажи</string>
+    <string name="fih_cp_btn_next">Следно</string>
+    <string name="fih_cp_btn_back">Назад</string>
+    <string name="fih_cp_apn_not_set">&lt;Не е подесено></string>
+    <string name="fih_cp_error_title">Внимание</string>
+    <string name="fih_cp_error_name_empty">Полето за име не може да биде празно.</string>
+    <string name="fih_cp_error_apn_empty">Полето APN не може да биде празно.</string>
+    <string name="fih_cp_error_other">Грешка во синтаксата на податоците.</string>
+    <string name="fih_cp_input_pin_code">Внесете PIN-код:</string>
+    <string name="fih_cp_input_pin_code_ok">Во ред</string>
+    <string name="fih_cp_input_pin_code_cancel">Откажи</string>
+    <string name="fih_cp_input_pin_code_incorrect">Погрешен ПИН код.</string>
+    <string name="fih_cp_input_pin_code_empty">Внесете PIN-код.</string>
+    <string name="fih_cp_sim_not_available">Не е достапна SIM-картичка.</string>
+</resources>

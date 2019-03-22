@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_aging_nm_text">សូម​ទាក់ទង​មជ្ឈមណ្ឌល​សេវា​អតិថិជន, ទូរសព្ទ %1$s សូម​អរគុណ។</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">សូម​ទាក់ទង​មជ្ឈមណ្ឌល​សេវា​អតិថិជន, សូម​អរគុណ។</string>
+    <string name="fih_battery_protect_aging_text">សូម​ជម្រាប​អតិថិជន InFocus, ដោយសារ​ថ្ម​ទូរសព្ទ​ចល័ត​ត្រូវ​បាន​ចាត់ទុក​ថា​ជា​គ្រឿង​ដែល​អាច​ប្រើប្រាស់​ឡើងវិញ​បាន បើ​អ្នក​រកឃើញ​ថា​ភាពធន់​នៃ​ថ្ម​ទូរសព្ទ​របស់​អ្នក​បាន​ធ្លាក់​ចុះ​យ៉ាង​ខ្លាំង សូម​យក​ទូរសព្ទ​របស់​អ្នក​ឲ្យ​តំណាង​ចែកចាយ​ធ្វើ​កំហុស​វិនិច្ឆយ​និង​ជួសជុល ដើម្បី​ធានា​ថា​ទូរសព្ទ​របស់​អ្នក​ត្រូវ​បាន​រក្សា​ភាពប្រតិបត្តិការ​ក្នុង​ស្ថានភាព​ល្អបំផុត​របស់​វា។ បើ​អ្នក​មាន​សំណួរ​ផ្សេងៗ សូម​ទាក់ទង​មជ្ឈមណ្ឌល​សេវា​អតិថិជន, ទូរសព្ទ %1$s។ សូម​អរគុណ។</string>
+    <string name="fih_battery_protect_aging_text_no_phone">សូម​ជម្រាប​អតិថិជន InFocus, ដោយសារ​ថ្ម​ទូរសព្ទ​ចល័ត​ត្រូវ​បាន​ចាត់ទុក​ថា​ជា​គ្រឿង​ដែល​អាច​ប្រើប្រាស់​ឡើងវិញ​បាន បើ​អ្នក​រកឃើញ​ថា​ភាពធន់​នៃ​ថ្ម​ទូរសព្ទ​របស់​អ្នក​បាន​ធ្លាក់​ចុះ​យ៉ាង​ខ្លាំង សូម​យក​ទូរសព្ទ​របស់​អ្នក​ឲ្យ​តំណាង​ចែកចាយ​ធ្វើ​កំហុស​វិនិច្ឆយ​និង​ជួសជុល ដើម្បី​ធានា​ថា​ទូរសព្ទ​របស់​អ្នក​ត្រូវ​បាន​រក្សា​ភាពប្រតិបត្តិការ​ក្នុង​ស្ថានភាព​ល្អបំផុត​របស់​វា។ បើ​អ្នក​មាន​សំណួរ​ផ្សេងៗ សូម​ទាក់ទង​មជ្ឈមណ្ឌល​សេវា​អតិថិជន។ សូម​អរគុណ។</string>
+    <string name="fih_battery_protect_aging_text_no_phone_wear">សូម​ជម្រាប​អតិថិជន InFocus, ដោយសារ​ថ្ម​ឧបករណ៍​ចល័ត​ត្រូវ​បាន​ចាត់ទុក​ថា​ជា​ផ្នែក​ដែល​អាច​ប្រើប្រាស់​ឡើងវិញ​បាន បើ​អ្នក​រកឃើញ​ថា​ភាពធន់​នៃ​ថ្ម​ឧបករណ៍​របស់​អ្នក​បាន​ធ្លាក់​ចុះ​យ៉ាង​ខ្លាំង សូម​យក​ឧបករណ៍​របស់​អ្នក​ឲ្យ​តំណាង​ចែកចាយ​ធ្វើ​កំហុស​វិនិច្ឆយ​និង​ជួសជុល ដើម្បី​ធានា​ថា​ឧបករណ៍​របស់​អ្នក​ត្រូវ​បាន​រក្សា​ភាពប្រតិបត្តិការ​ក្នុង​ស្ថានភាព​ល្អបំផុត​របស់​វា។ បើ​អ្នក​មាន​សំណួរ​ផ្សេងៗ សូម​ទាក់ទង​មជ្ឈមណ្ឌល​សេវា​អតិថិជន។ សូម​អរគុណ។</string>
+    <string name="fih_battery_protect_aging_text_wear">សូម​ជម្រាប​អតិថិជន InFocus, ដោយសារ​ថ្ម​ឧបករណ៍​ចល័ត​ត្រូវ​បាន​ចាត់ទុក​ថា​ជា​ផ្នែក​ដែល​អាច​ប្រើប្រាស់​ឡើងវិញ​បាន បើ​អ្នក​រកឃើញ​ថា​ភាពធន់​នៃ​ថ្ម​ឧបករណ៍​របស់​អ្នក​បាន​ធ្លាក់​ចុះ​យ៉ាង​ខ្លាំង សូម​យក​ឧបករណ៍​របស់​អ្នក​ឲ្យ​តំណាង​ចែកចាយ​ធ្វើ​កំហុស​វិនិច្ឆយ​និង​ជួសជុល ដើម្បី​ធានា​ថា​ឧបករណ៍​របស់​អ្នក​ត្រូវ​បាន​រក្សា​ភាពប្រតិបត្តិការ​ក្នុង​ស្ថានភាព​ល្អបំផុត​របស់​វា។ បើ​អ្នក​មាន​សំណួរ​ផ្សេងៗ សូម​ទាក់ទង​មជ្ឈមណ្ឌល​សេវា​អតិថិជន, ទូរសព្ទ %1$s។ សូម​អរគុណ។</string>
+    <string name="fih_battery_protect_aging_title">អ្នកសម្រួលការ​ថ្ម</string>
+    <string name="fih_battery_protect_aging_title_wear">អ្នកសម្រួលការ​ថ្ម</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">លើកលែង</string>
+    <string name="fih_battery_protect_alert_dialog_ok">យល់ព្រម</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">ត្រូវ​ប្រាកដ​ថា ថ្ម​ត្រូវ​បាន​ដំឡើង​ត្រឹមត្រូវ។</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">សីតុណ្ហភាព​នៅ​ក្រៅ​វិសាលភាព។</string>
+    <string name="fih_battery_protect_cancel_wear">លើកលែង</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">ការហៅក្នុងគ្រាអាសន្ន</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">ឥឡូវ ឧបករណ៍​ស្ថិត​ក្នុង​ទម្រង់​ចុះត្រជាក់។ សូម​ប្រើ​វា​ពេលក្រោយ។</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"ទូរសព្ទ​របស់​អ្នក​កំពុង​ឡើង​កម្ដៅ​ក្ដៅ ដូច្នេះ​វា​អនុវត្ត​ជំហាន​ដើម្បី​ឲ្យ​ចុះ​ត្រជាក់​ដោយ​ខ្លួន​ឯង។ អ្នក​នៅតែ​អាច​ប្រើ​វា​ដដែល ប៉ុន្តែ​អ្នក​អាច​កត់សម្គាល់​ឃើញ៖
+·ការសាក​អាច​ផ្អាក។
+·Wi-Fi អាច​ត្រូវ​បាន​បិទ។
+·កម្មវិធី​អាច​ត្រូវ​បាន​បិទ។
+·ទម្រង់​យន្តហោះ​អាច​ត្រូវ​បាន​បើក។
+ទូរសព្ទ​របស់​អ្នក​នឹង​ត្រឡប់​ទៅ​ធម្មតា​វិញ នៅពេល​វា​ចុះ​ត្រជាក់។"</string>
+    <string name="fih_battery_protect_cooldown_text_wear">បច្ចុប្បន្ន ឧបករណ៍​ស្ថិត​ក្នុង​ទម្រង់​ចុះ​ត្រជាក់ អាច​ប្រើ​តែ​ការហៅ​អាសន្ន​ប៉ុណ្ណោះ។</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">បច្ចុប្បន្ន​មិន​អាច​ដឹង​សីតុណ្ហភាព​ថ្ម ហើយ​ឧបករណ៍​ស្ថិត​ក្នុង​ទម្រង់​ចុះ​ត្រជាក់ និង អាច​ធ្វើ​តែ​ការហៅ​អាសន្ន​ប៉ុណ្ណោះ ដូច្នេះ​ត្រូវ​ប្រាកដ​ថា​ថ្ម​ត្រូវ​បាន​ដំឡើង​ត្រឹមត្រូវ។</string>
+    <string name="fih_battery_protect_cooldown_title">កំពុង​ចុះ​ត្រជាក់</string>
+    <string name="fih_battery_protect_cooldown_title_wear">កំពុង​ចុះ​ត្រជាក់</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">ការជូនដំណឹង​ទូទៅ</string>
+    <string name="fih_battery_protect_full_charging">ការសាកថ្ម​បាន​បញ្ចប់</string>
+    <string name="fih_battery_protect_full_charging_wear">ការសាកថ្ម​បាន​បញ្ចប់</string>
+    <string name="fih_battery_protect_high_full_charging">បាន​ដល់​ដែនកំណត់​ការសាក​អតិបរមា​នៅ​សីតុណ្ហភាព​ខ្ពស់! នៅពេល​សីតុណ្ហភាព​ទូរសព្ទ​ត្រឡប់​ទៅ​ធម្មតា​វិញ ប្រព័ន្ធ​នឹង​បន្ត​សាក​នៅ​ល្បឿន​ធម្មតា។</string>
+    <string name="fih_battery_protect_high_full_charging_title">បាន​ដល់​ដែនកំណត់​ការសាក​ក្នុង​សីតុណ្ហភាព​ខ្ពស់</string>
+    <string name="fih_battery_protect_high_temp_text_wear">សីតុណ្ហភាព​ថ្ម​ខ្ពស់​ពេក ដូច្នេះ​សូម​បញ្ឈប់​ការសាក។</string>
+    <string name="fih_battery_protect_install_error_title_wear">អ្នកសម្រួលការ​ថ្ម</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">សូម​ប្រើ​ថ្ម​សុទ្ធ​មក​ពី​នាយ​ដើម្បី​សាក បើ​ពុំ​នោះ​អ្នក​អាច​ធ្វើ​ឲ្យ​ឧបករណ៍​របស់​អ្នក​ខូច​រូបរាង/ខូច​ជា​រៀងរហូត។</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">សូម​ប្រើ​ថ្ម​សុទ្ធ​មក​ពី​នាយ</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">បាន​បញ្ឈប់​ការសាក</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">ថ្ម​មិន​ត្រឹមត្រូវ</string>
+    <string name="fih_battery_protect_low_full_charging">បាន​ដល់​ដែនកំណត់​ការសាក​អតិបរមា​នៅ​សីតុណ្ហភាព​ទាប! នៅពេល​សីតុណ្ហភាព​ទូរសព្ទ​ត្រឡប់​ទៅ​ធម្មតា​វិញ ប្រព័ន្ធ​នឹង​បន្ត​សាក​នៅ​ល្បឿន​ធម្មតា។</string>
+    <string name="fih_battery_protect_low_full_charging_title">បាន​ដល់​ដែនកំណត់​ការសាក​ក្នុង​សីតុណ្ហភាព​ទាប</string>
+    <string name="fih_battery_protect_low_temp_text_wear">សីតុណ្ហភាព​ថ្ម​ទាប​ពេក ដូច្នេះ​សូម​បញ្ឈប់​ការសាក។</string>
+    <string name="fih_battery_protect_low_temp_text_wear_jw3">សីតុណ្ហភាព​ថ្ម​ទាប​ខ្លាំង​ពេក ហើយ​វា​នឹង​ឈប់​សាក។</string>
+    <string name="fih_battery_protect_low_temp_title">ជូន​ដំណឹង</string>
+    <string name="fih_battery_protect_low_temp_title_wear">សីតុណ្ហភាព​ទាប</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">សីតុណ្ហភាព​ឧបករណ៍​ខ្ពស់​ពេក ហើយ​វា​នឹង​បិទ​ឥឡូវ។</string>
+    <string name="fih_battery_protect_maxtemp_text_wear_jw3">សីតុណ្ហភាព​នាឡិកា​បាន​ដល់​ដែនកំណត់​របស់​វា ហើយ​វា​នឹង​បិទ​ភ្លាមៗ។</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">សីតុណ្ហភាព​អតិបរមា</string>
+    <string name="fih_battery_protect_normalmode_text">ប្រតិបត្តិការ​ធម្មតា​បាន​ចាប់ផ្ដើម​បន្ត។</string>
+    <string name="fih_battery_protect_normalmode_text_wear">ប្រតិបត្តិការ​ធម្មតា​បាន​ចាប់ផ្ដើម​បន្ត។</string>
+    <string name="fih_battery_protect_normalmode_text_wear_jw3">នាឡិកា​ត្រឡប់​ទៅ​ប្រតិបត្តិការ​ធម្មតា។</string>
+    <string name="fih_battery_protect_normalmode_title_wear">សីតុណ្ហភាព​ធម្មតា</string>
+    <string name="fih_battery_protect_notification_cooling_down">កំពុង​ធ្វើ​ឲ្យ​ចុះ​ត្រជាក់</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">សីតុណ្ហភាព​ខ្ពស់</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">កំហុស​ដំឡើង​ថ្ម</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">បញ្ឈប់​ការសាក</string>
+    <string name="fih_battery_protect_ok_wear">យល់ព្រម</string>
+    <string name="fih_battery_protect_power_off">បិទ</string>
+    <string name="fih_battery_protect_tap_learn_more">ប៉ះ​ដើម្បី​ស្វែងយល់​បន្ថែម។</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">សីតុណ្ហភាព​នៅ​ក្រៅ​វិសាលភាព។</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">យើង​ផ្ដល់​ការបន្ថយ​ពន្លឺ​និង​បិទ​កម្មវិធី ដើម្បី​ធ្វើ​ឲ្យ​ឧបករណ៍​ចុះ​ត្រជាក់ តាមរយៈ​ការចុច​ប៊ូតុង។</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear_jw3">សីតុណ្ហភាព​នាឡិកា​ខ្ពស់​ពេក។ យើង​ស្នើ​ឲ្យ​អ្នក​ធ្វើ​ឲ្យ​អេក្រង់​ស្រអាប់​និង​បញ្ឈប់​កម្មវិធី។ សូម​ពិនិត្យ ដើម្បី​បញ្ជាក់​សកម្មភាព​ទាំងនេះ។</string>
+    <string name="fih_battery_protect_warning_text_wear">សូម​បិទ​ការហៅ​និង​កម្មវិធី ដើម្បី​ធ្វើ​ឲ្យ​ឧបករណ៍​ចុះ​ត្រជាក់។</string>
+    <string name="fih_battery_protect_warning_title_wear">សីតុណ្ហភាព​ខ្ពស់</string>
+</resources>

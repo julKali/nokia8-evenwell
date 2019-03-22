@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ажурирање софтвера</string>
+    <string name="file_not_found">Датотека није пронађена</string>
+    <string name="remote_file_fail">Није могуће приступити удаљеној датотеци. Покушајте поново касније.</string>
+    <string name="no_description">(Без описа)</string>
+    <string name="login_fail">Пријављивање на сервер није успело. Покушајте поново касније.</string>
+    <string name="get_service_url_fail">Мрежна веза није стабилна (неуспешно прибављање URL адресе услуге). Покушајте поново касније.</string>
+    <string name="query_sw_fail">Није успело слање упита за информације о софтверу.</string>
+    <string name="download_sw_fail">Преузимање софтвера није успело.</string>
+    <string name="query_sw_incorrect">Резултат није исправан.</string>
+    <string name="no_update_available">Није доступно новије ажурирање.</string>
+    <string name="update_not_ready">Новије ажурирање није спремно на серверу. Покушајте поново касније.</string>
+    <string name="check_now_label">Провери одмах</string>
+    <string name="checking">Провера...</string>
+    <string name="verifying">Верификовање...</string>
+    <string name="header_verifying_update_file">Верификовање ажуриране датотеке...</string>
+    <string name="unzipping">Распакивање...</string>
+    <string name="please_wait">Сачекајте</string>
+    <string name="header_starting_to_download_file">Покретање преузимања датотеке...</string>
+    <string name="header_system_update_available">Доступно је ажурирање система</string>
+    <string name="new_version_desc_prompt">Нова верзија укључује:</string>
+    <string name="header_attention">Пажња</string>
+    <string name="data_fee_warning">Коришћење ове услуге преко мобилне везе може довести до трошкова!</string>
+    <string name="header_downloading_update">Преузимање ажурирања</string>
+    <string name="header_install_system_software_update">Инсталирај ажурирање системског софтвера</string>
+    <string name="msg_install_system_software_update_1">"Желите ли да инсталирате следећи системски софтвер?
+Надоградња система на"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Нећете моћи да користите уређај или упутите хитне позиве током надоградње.
+
+Уклањање батерије или SD картице у току ажурирања софтвера може довести до неочекиваних резултата."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Нећете моћи да користите уређај током надоградње.
+
+Ограничење напајања или уклањање преузете датотеке у току ажурирања софтвера довешће до неочекиваних резултата."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Нећете моћи да користите уређај или упутите хитне позиве током надоградње.
+
+Ако ограничите напајање или уклоните преузету датотеку у току ажурирања софтвера, доћи ће до неочекиваних резултата."</string>
+    <string name="button_install_now">Инсталирај одмах</string>
+    <string name="button_install_later">Инсталирај касније</string>
+    <string name="header_unable_to_connect">Повезивање није могуће</string>
+    <string name="msg_unable_to_connect">За коришћење ове апликације потребна вам је мрежна веза. Укључите мрежну везу или Wi-Fi у оквиру Подешавања.</string>
+    <string name="msg_unable_to_connect_2">За коришћење ове апликације потребна вам је мрежна веза. Укључите мрежну везу у оквиру Подешавања.</string>
+    <string name="msg_unable_to_connect_wlan">За коришћење ове апликације потребна вам је мрежна веза. Укључите мрежну везу или WLAN у оквиру Подешавања.</string>
+    <string name="msg_unable_to_connect_short">Нема мрежне везе</string>
+    <string name="button_reset">Ресетуј</string>
+    <string name="button_settings">Подешавања</string>
+    <string name="header_system_is_update">Систем је ажуриран.</string>
+    <string name="msg_system_is_update">Није доступно новије ажурирање.</string>
+    <string name="msg_system_is_update_short">Нема новијих ажурирања</string>
+    <string name="msg_no_sd_card">Ажурирање система није могуће без SD картице. Уметните доступну SD картицу.</string>
+    <string name="msg_no_sd_card_short">Нема SD картице</string>
+    <string name="msg_no_available_size_card">Ова датотека ажурирања захтева %s MB слободног простора. Избришите неке датотеке са SD картице.</string>
+    <string name="msg_no_available_size_card_2">Ова датотека ажурирања захтева %s MB слободног простора. Избришите неке датотеке у складишту података.</string>
+    <string name="msg_no_available_size_card_short">Нема довољно слободног простора.</string>
+    <string name="msg_do_not_remove_sd_card">НЕМОЈТЕ да уклањате SD картицу.</string>
+    <string name="title_system_update_ready">Ажурирање система је спремно</string>
+    <string name="msg_system_update_ready">Додирните за инсталирање ажурирања система.</string>
+    <string name="msg_system_battery_too_low">"Ажурирање система је спремно, али не можете да га инсталирате јер је батерија уређаја је при крају. Проверите батерију и покрените инсталацију касније.
+
+Ниво напуњености батерије мора бити изнад 35%%.
+Тренутни ниво напуњености батерије: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Батерија је скоро празна</string>
+    <string name="msg_remove_sd_card">Није могуће уписати преузету датотеку у SD картицу. Проверите SD картицу.</string>
+    <string name="msg_remove_sd_card_2">Није могуће уписати преузету датотеку у складиште података. Проверите складиште.</string>
+    <string name="msg_remove_sd_card_short">Неуспешан приступ SD картици.</string>
+    <string name="msg_remove_sd_card_short_2">Неуспешан приступ складишту података.</string>
+    <string name="msg_verify_fail">Верификовање преузете датотеке није успело.</string>
+    <string name="msg_verify_fail_short">Верификовање није успело</string>
+    <string name="msg_unzip_fail">Распакивање преузете датотеке није успело.</string>
+    <string name="msg_unzip_fail_short">Распакивање није успело</string>
+    <string name="hide">Сакриј</string>
+    <string name="data_size">Величина података</string>
+    <string name="required_size">Потребан простор</string>
+    <string name="network_not_match">Тренутно је подешено преузимање само преко WLAN мреже. Изаберите WLAN мрежу или промените подешавања.</string>
+    <string name="network_not_match_short">Мрежа није подударна.</string>
+    <string name="without_reboot_api">Поновно покретање није могуће јер недостаје API. Поново покрените да бисте ручно опоравили активно ажурирање.</string>
+    <string name="update_complete">Завршено је ажурирање система.</string>
+    <string name="update_complete_short">Извршено је ажурирање</string>
+    <string name="file_removed">Преузета датотека је уклоњена. Преузмите је поново.</string>
+    <string name="file_removed_short">Преузета датотека је уклоњена.</string>
+    <string name="file_not_match">Преузета датотека нема очекивану величину. Преузмите је поново.</string>
+    <string name="file_not_match_short">Датотека није подударна.</string>
+    <string name="menu_url">Промени URL адресу сервера</string>
+    <string name="menu_enabled">Само омогућени софтвер</string>
+    <string name="using_internal_storage">Коришћење интерне меморије</string>
+    <string name="using_external_storage">Коришћење екстерне меморије</string>
+    <string name="msg_agree_message">"
+
+Постоји незнатна могућност да услед процеса надоградње дође до брисања корисничких података. Ако је потребно, направите резервну копију података пре инсталирања ажурирања система."</string>
+    <string name="msg_root_message">"
+
+У случају рутовања уређаја, није могуће гарантовати нормално ажурирање."</string>
+    <string name="msg_responsibility_message">Ако је уређај рутован, корисник је одговоран за било какво неуобичајено понашање система након ажурирања.</string>
+    <string name="msg_upgrade_agree">Прочитајте и прихватите</string>
+    <string name="later">Касније</string>
+    <string name="update">Ажурирај</string>
+    <string name="update_summary">Провери има ли ажурирања</string>
+    <string name="wifi_only">Само Wi-Fi</string>
+    <string name="wlan_only">Само WLAN</string>
+    <string name="wifi_only_summary">Преузми ажурирања када је доступна Wi-Fi веза</string>
+    <string name="wlan_only_summary">Преузми ажурирања када је доступна WLAN веза</string>
+    <string name="auto_update">Аутоматско ажурирање</string>
+    <string name="auto_update_summary">Аутоматски провери да ли има ажурирања</string>
+    <string name="new_data_fee_warning">Провера доступности ажурирања и њихово преузимање може довести до додатних трошкова. Ако је могуће, преузмите ажурирања преко Wi-Fi везе.</string>
+    <string name="wlan_data_fee_warning">Провера доступности ажурирања и њихово преузимање може довести до додатних трошкова. Ако је могуће, преузмите ажурирања преко WLAN везе.</string>
+    <string name="installing">Инсталирање...</string>
+    <string name="install_complete">Инсталирано</string>
+    <string name="install_fail">Инсталација није успела</string>
+    <string name="install_all">Инсталирај све</string>
+    <string name="install">Инсталирај</string>
+    <string name="installed_version">Инсталирана верзија</string>
+    <string name="update_available">Ажурирање је доступно.</string>
+    <string name="apk_update_available">Доступно је ажурирање апликације.</string>
+    <string name="recommend">Препоручено</string>
+    <string name="roaming_restriction">Ограничење преноса података у ромингу</string>
+    <string name="roaming_restriction_summary">Ажурирање није могуће због ограничења преноса података у ромингу.</string>
+    <string name="changelog">Евиденција промена</string>
+    <string name="description">Опис</string>
+    <string name="apk_update_available_summary">%s има доступно ажурирање. Кликните на Потврди да бисте га одмах инсталирали или кликните на Откажи да бисте након једног дана проверили да ли има ажурирања.</string>
+    <string name="apk_removed">Ова апликација је уклоњена.</string>
+    <string name="apk_available_items">Укупно доступних ставки: %s</string>
+    <string name="apk_available_item">Укупно је доступна %s ставка</string>
+    <string name="new_forpreference">Ново</string>
+    <string name="invalid_update_summary">Ажурирање је неважеће. Проверите поново.</string>
+    <string name="recheck">Провери поново</string>
+    <string name="image_download_exception_summary">Није могуће приступити серверу, покушајте поново касније.</string>
+    <string name="apk_download_exception">Није могуће приступити серверу</string>
+    <string name="installation_confirmation">Потврда инсталације</string>
+    <string name="apk_need_reboot_summary">Ово ажурирање софтвера аутоматски поново покреће систем након инсталирања. Желите ли одмах да га инсталирате?</string>
+    <string name="downloaded">Преузето</string>
+    <string name="prepare_to_reboot">Припреми за поновно покретање</string>
+    <string name="prepare_to_reboot_summary">Да би се подешавања конфигурисала, инсталирани софтвер захтева поново покретање уређаја. Предлажемо да га поново покренете одмах, или можете то да урадите касније.</string>
+    <string name="prepare_to_reboot_force_summary">Да би се подешавања конфигурисала, инсталирани софтвер захтева поново покретање уређаја. Предлажемо да га поново покренете одмах.</string>
+    <string name="reboot">Поново покрени</string>
+    <string name="reboot_fail">Поновно покретање није успело</string>
+    <string name="reboot_fail_summary">Поновно покретање није могуће јер недостаје API. Поново покрените ручно.</string>
+    <string name="apk_no_avaliable_size">Није могуће преузети јер нема довољно интерне меморије.</string>
+    <string name="update_finished">Ажурирање је завршено</string>
+    <string name="header_warning">Упозорење</string>
+    <string name="msg_root_warning">Уређај је рутован или је званични софтвер неовлашћено измењен. Ако се ажурирање система настави, може доћи до нестабилности или пада система, као и до поништавања гаранције уређаја. Желите ли заиста да наставите?</string>
+    <string name="multi_image_update">Доступна су нека ажурирања слике</string>
+    <string name="available_update_list">Листа доступних ажурирања</string>
+    <string name="downloading_summary">Откажите преузимање слике</string>
+    <string name="msg_erase_userdata_warning">Ово ажурирање захтева брисање корисничких података. Желите ли да наставите?</string>
+    <string name="msg_autoupdate_date_fee_warning">Омогућавање аутоматског ажурирања може довести до додатних трошкова.</string>
+    <string name="invalid_update">Ажурирање је неважеће.</string>
+    <string name="file_corrupted">Није могуће надоградити систем јер је датотека оштећена.</string>
+    <string name="ask_for_apk_check">Желите ли да проверите да ли су доступна ажурирања апликације?</string>
+    <string name="update_ota_self">У току је ажурирање софтвера.</string>
+    <string name="ab_update_fail">Проблем при инсталирању.</string>
+    <string name="ab_update_wrong_status">Механизам за ажурирање је тренутно заузет. Покушајте још једном касније или поново покрените систем.</string>
+    <string name="ab_update_installing">Ажурирање система</string>
+    <string name="tag_engineer_mode">Инжењерски режим</string>
+    <string name="engineer_version_incorrect">Ваша верзија уређаја је неисправна</string>
+    <string name="msg_engineer_ota_restore">Додирните за враћање званичне верзије</string>
+    <string name="msg_engineer_ota_restore_warning">Овим ћете вратити званичну верзију. Желите ли да наставите?</string>
+    <string name="silent_mode_data_fee_warning">Ажурирање је доступно. Преузимање ажурирања може довести до додатних трошкова. Ако је могуће, преузмите ажурирања преко Wi-Fi везе.</string>
+    <string name="msg_updating_system">Ажурирање система...</string>
+    <string name="msg_tap_to_reboot">Додирните за поновно покретање</string>
+    <string name="msg_pause_download">Паузирај преузимање</string>
+    <string name="notification_channel_name">Ажурирање система</string>
+    <string name="notification_channel_alert_name">Општа обавештења</string>
+</resources>

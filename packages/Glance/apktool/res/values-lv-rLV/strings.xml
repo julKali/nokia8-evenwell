@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Izskats</string>
+    <string name="pref_dialog_title_time_out">Taimauts</string>
+    <string name="pref_title_alarm_information">Informācija par brīdinājumiem</string>
+    <string name="pref_title_calendar_reminder">Kalendāra atgādinājums</string>
+    <string name="pref_title_missed_calls">Neatbildētu zvanu indikators</string>
+    <string name="pref_title_time_out">Taimauts, ja tālrunis netiek kustināts</string>
+    <string name="pref_title_unread_mails">Nelasītu pasta ziņojumu indikators</string>
+    <string name="pref_title_unread_messages">Nelasītu īsziņu indikators</string>
+    <string name="switch_off_text">Izslēgts</string>
+    <string name="switch_on_text">Ieslēgts</string>
+</resources>

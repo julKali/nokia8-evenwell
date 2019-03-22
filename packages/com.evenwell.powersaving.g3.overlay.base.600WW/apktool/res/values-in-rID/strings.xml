@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_power_saving_remember_choice">Jangan tampilkan lagi.</string>
+    <string name="fih_power_saving_dialog_ok">OK</string>
+    <string name="fih_power_saving_dialog_cancel">Batal</string>
+    <string name="switch_on_text">Aktif</string>
+    <string name="switch_off_text">Tidak Aktif</string>
+    <string name="fih_power_saving_permission_cancel">Batal</string>
+    <string name="lock_screen_ap_protect_title">Manajer aktivitas latar belakang</string>
+    <string name="all_aps">Tambahkan semua Aplikasi ke daftar putih</string>
+    <string name="fih_power_saving_doze_high_consumption">Konsumsi daya tinggi</string>
+    <string name="fih_power_saving_background_activity_text">Aktifkan Manajer aktivitas latar belakang untuk memperpanjang masa pakai baterai, namun notifikasi dari beberapa Aplikasi atau Email mungkin tidak dapat langsung ditampilkan. Anda dapat mengelola masa pakai baterai dengan menambahkan atau menghapus Aplikasi ke atau dari daftar putih.</string>
+    <string name="fih_power_saving_background_cleaner">Penghapus aktivitas latar belakang</string>
+    <string name="fih_power_saving_background_cleaner_summary">Pemberitahuan ini mungkin tidak langsung diterima</string>
+    <string name="app_block_list">Daftar APLIKASI yang dilarang</string>
+</resources>

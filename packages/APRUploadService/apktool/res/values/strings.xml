@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_character">WLAN</string>
+    <string name="apr_server_url">apr.c2dms.com</string>
+    <string name="brand_name_en">Commtiva</string>
+    <string name="brand_name_local">Commtiva</string>
+    <string name="status_server_url">https://upps.c2dms.com/api/v1/UserExperience/ChangeStatusStatusHistory</string>
+    <string name="app_name">System Diagnostics</string>
+    <string name="setting_page_name">User Experience Program</string>
+    <string name="start">Start</string>
+    <string name="save">Save</string>
+    <string name="send_diag_dialog_any_network">When data connection is available</string>
+    <string name="send_diag_dialog_wifi">When Wi-Fi connection is available</string>
+    <string name="send_diag_dialog_wlan">When WLAN connection is available</string>
+    <string name="send_diag_dialog_title">Send diagnostics</string>
+    <string name="diagnostics_setting">Diagnostics</string>
+    <string name="diagnostics_report">Diagnostics report</string>
+    <string name="diagnostics_report_summary">Send diagnostics report when device is experiencing a software error. It might generate cost of using network. Acquiring data network package from carrier is recommended.</string>
+    <string name="network_options">Network Options</string>
+    <string name="send_diagnostics">Send diagnostics</string>
+    <string name="privacy_statement">Privacy statement</string>
+    <string name="diagnostics_description">Please help us to improve our products and services by allowing us to collect diagnostic data when your device experiences a software error or crash. You can always change the option later in Settings.</string>
+    <string name="privacy_activity">Privacy statement</string>
+    <string name="go_label">Done</string>
+    <string name="diagnostics_confirmation">Yes, I agree to send the diagnostic data automatically.</string>
+    <string name="setcomplete">Setup Completed</string>
+    <string name="agree_dialog">We have already changed our User Experience Program and related Privacy Statement. Please help us improve our products and services by joining User Experience Program now. You can always change the option in Settings.It might generate cost of using network after joining User Experience Plan. Acquiring data network package from carrier is recommended.</string>
+    <string name="agree">Agree</string>
+    <string name="see_detail">Detail</string>
+    <string name="next_btn_lebel">Next</string>
+    <string name="enable_db_log">Enable Process Log to DB</string>
+    <string name="upload_buffered_size">Upload Buffered Size(MB)</string>
+    <string name="upload_mode">Upload Mode</string>
+    <string name="server_url">Server URL</string>
+    <string name="qry_jobs">Query Jobs</string>
+    <string name="is_debug_mode">is enable debug mode</string>
+    <string name="hmd_privacy_policy">HMD privacy policy</string>
+    <string name="diagnostic_info_collect">Diagnostic Information Collect</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="third_party_info_agreement">Third-party information provider agreement</string>
+    <string name="cancel_upload_confirm_msg">You are about to quit from our User Experience Program. Software errors happened in your phone won’t be kept and sent, and thus might not be able to improve your experience while using the phone!</string>
+    <string name="settings_safetylegal_activity_loading">Loading…</string>
+    <string name="diagnostic_info_collect_contect">" "<b>Report Diagnostic Info.</b>" 
+ 
+ CONSENT TO PROVIDE DIAGNOSTIC AND USAGE DATA 
+ 
+ TG&amp;Co. Inc. and its affiliates (TG&amp;Co.) would like your help in improving the quality and performance of its products and services. Your device includes diagnostic software that may, with your consent, automatically collect diagnostic and usage data form your device. Diagnostic software may send this data to TG&amp;Co. for statistical analysis in order to improve product and service quality, and track and address unexpected shutdowns or system errors. Diagnostic and usage data collected by TG&amp;Co. may include information on how you use your device or information about network providers (including connection status, charging status, setting status (such as display and power settings), etc.) and how you use your applications (device IMEI, Software version upgrade, TP and Camera ISP version, Battery ID, Mobile Country Code (MCC), Mobile Network Code (MNC), Application version and name, the time period and the number of times application have been run, CPU usage information, Wi-Fi usage information, mobile data usage information, total call time duration, error occurred time, error log, personal information which may include phone number and email addresses.). Since TG&amp;Co. has servers located all over the world, the data we collect may be stored outside your country of residence, including countries where the data protection laws may not be as comprehensive. By agreeing to provide us with this data, you expressly consent to this. All diagnostic and usage data collected for this purpose will be aggregated in a manner that does not personally identify you or your device, and is retained for 3 months. You may choose not to provide us with diagnostic and usage data, and such decision will not impact the functionality or operation of your device in any way. You may choose to disable this software at any time, through Settings on your device. By tapping on the Agree button below, you hereby agree to (i) the automatic transmit of diagnostic and usage data and (ii) the collection, use, storage, sharing and disclosure by TG&amp;Co. of diagnostic and usage data from your device for the purposes set out above.
+"</string>
+    <string name="privacy_policy_context">"
+"<b>Privacy Policy</b>"
+
+ This privacy policy is to help users to understand what personal information that TG&amp;Co. collect and why TG&amp;Co. need it.
+
+ "<b>• The personal information collector</b>"
+
+ TG&amp;Co. Inc.
+
+ "<b>• Personal information gatherings and its purpose</b>"
+
+ 1. When users use certain pre-embedded applications (Safebox, File Manager, Note) and related software programs, personal information can be collected to offer product support and to improve service quality and performance improvements.
+ 2. The purpose of collecting personal information is to enhance TG&amp;Co.’s service (statistical analysis) and to protect users. TG&amp;Co. will not expose any sorts of information to others in any format that could be individually recognizable.
+
+ "<b>• Personal information gathering items</b>"
+
+ Device IMEI, customer code, access log, HW information, software version and upgrade information, TP &amp; camera ISP version, battery ID, network MCC/MNC information, the title and version of the application user have used, the time period and the number of times application have been run, CPU usage information, battery usage information, Wi-Fi usage information, mobile data usage information, total call duration, error occurred time, error log, personal information which may include phone number &amp; email addresses.
+
+ "<b>• Personal information usage and storing period</b>"
+
+ Personal information can be used and stored until the fulfillment of the personal information gathering purpose and direction from related government regulations.
+
+ "<b>• Refusal to personal information gathering and usage</b>"
+
+ Users have rights to refuse to personal information gathering and usage by TG&amp;Co. Refusal to personal information gathering and usage can limit using certain services offered by TG&amp;Co.
+
+ (Contact to refuse to this personal information gathering and usage agreement: privacy@tgnco.kr) "</string>
+    <string name="third_party_collect_context">" "<b>Privacy Policy towards the 3rd Party Suppliers</b>"
+
+ TG&amp;Co. Inc. (\"TG&amp;Co.\") provides user’s personal information as below:
+
+ "<b>• The 3rd party that gets personal information</b>"
+
+ Foxconn International Holdings Ltd. (\"FIH\")
+
+ "<b>• Personal information usage purpose by the 3rd party</b>"
+
+ Device or software product support and improvement in service quality and performance.
+
+ "<b>• Personal information (by item) to be provided to the 3rd party by items</b>"
+
+ Device IMEI, customer code, access log, HW information, software version and upgrade information, TP &amp; camera ISP version, battery ID, network MCC/MNC information, the title and version of the application user have used, the time period and the number of times application have been run, CPU usage information, battery usage information, Wi-Fi usage information, mobile data usage information, total call duration, error occurred time, error log, personal information which may include phone number &amp; email addresses.
+
+ "<b>• The 3rd party’s storage and usage period</b>"
+
+ 3 months from the collected date.
+
+ "<b>• How to gather the personal information</b>"
+
+ Device’s certain application or software program
+
+ "<b>• Refusal to personal information gathering and usage</b>"
+
+ Users have rights to refuse to personal information gathering and usage by TG&amp;Co. Refusal to personal information gathering and usage can limit using certain services offered by TG&amp;Co.
+
+ (Contact to refuse to this personal information gathering and usage agreement: privacy@tgnco.kr)
+
+ *If TG&amp;Co. happens to be sharing the personal information with 3rd parties or suppliers that does not mentioned in this agreement, complying the government regulation and changing its privacy policy, TG&amp;Co. will notify users via company website, email, telephone and etc. For more information, please visit www.tgnco.kr/company/policy/policy2.jspa and refer to TG&amp;Co. Privacy Policy. 
+"</string>
+    <string name="privacy_context">"Privacy Policy
+This privacy policy (the “Privacy Policy”) describes how [BRAND_NAME_EN] Technology Limited and their related companies (“[BRAND_NAME_EN]” or we/our/us) collect, use and share personal information collected from you as a user of [BRAND_NAME_EN] websites, devices, applications and services (together, the “Product and Services”). Personal information is data that can be used to identify or contact a single person. We may collect kinds of information, including your name, mailing address, phone number, email address, contact preferences, credit card information, and related information (collectively referred “Information”).
+We comply with all laws that apply to Information collected about you. You may be asked to provide your personal information when you contact with us for product or services. [BRAND_NAME_EN] and related companies share this personal information with each other and use it consistent with this Privacy Policy. We also combine it with other information to provide and improve our products, and services. If you chose not to provide your information to us when required, we will not be able to provide you with our products/services or respond to any queries you may have.
+Your wireless operator, mobile operating system provider and/or third-party applications, services, social media platforms and websites may also collect, use and share your information including your device and usage. Privacy policies do not cover any third parties, their products, actions or services. We cannot control how they collect, use or secure your data and information. Please consult with the third parties for further details about privacy practices.
+ 
+
+Please familiarize yourself with our privacy policy and let us know if you have any questions.
+
+
+(i)\u0009[BRAND_NAME_EN] may use your information, including personal information, to:
+o respond to your comments, and provide and deliver products and Services that you request;
+o provide a personalized and customized experience, content, marketing and recommendations for Services;
+o deliver information according to your requests and purchases, including confirmations, invoices, updates, security alerts, and related support and administrative messages;
+o notify you about contests, promotions, rewards, upcoming events and news about products and services offered by [BRAND_NAME_EN] and our partners;
+o protect, investigate and prevent fraudulent, unauthorized or illegal activity; and
+o compile and analysis any all usage and relevant statistics data about Products and Services.
+(ii)\u0009[BRAND_NAME_EN] may collect, use, disclose, store your information as following
+o with your consent, including express and implied consent;
+o for legal, protection and safety purposes, including:
+　 • to comply with laws, regulatory requirements, or orders from the competent authority or the court ;
+　 • to protect the rights and property of [BRAND_NAME_EN], our agents, customers and others, including enforcing our agreements, policies and terms of use and protecting our network and  assets; and/or
+　 • adopt an emergent method to protect the safety of those including our employees and agents, customers or any other person.
+o with those using information to provide services to us or on our behalf;
+o with wireless carriers whose use of your information shall be subject to their privacy policies;
+o for any merger, financing, acquisition or bankruptcy transaction or proceeding occurs.
+We may share information by de-identified method to those have to know for certain purpose.
+(iii)\u0009[BRAND_NAME_EN] may use, disclose, share your information as following,
+(1).\u0009Information provided by you
+When you need for our Services, you may provide information to [BRAND_NAME_EN], whether online and offline, including but not limited to your name, email address, street address, phone numbers, device identifiers, and credit card number and any relevant information about you.
+[BRAND_NAME_EN] may hold and associate any information provided by you with information collected from other sources, such as the social accounts that you choose to use, or with information we receive from other parties.
+(2).\u0009Information collected by [BRAND_NAME_EN]
+　 • When you use [BRAND_NAME_EN] Services or visit our websites, we will collect information about your usage and activity on our Services or websites automatically. Such collected information includes your operating system, Internet Protocol (IP) address, access times, browser type, language, a record for previous visiting websites and relevant information.
+　 • When you use, access our devices, or download and use our applications from your device, we may log information related to your device and your use of our applications and Services. We may record the date your device, location, phone number, device type, serial number, device identifiers, such as IMEI, mobile operating systems version, the use of and how you use installed applications and software, content you view or use and any kind of log data and information. 
+　 • Collecting your information by web beacons, cookies and similar technologies.
+We may log information about you using web beacons, cookies and similar technologies, and automatically link the information collected to recognize and estimate which ads you have seen and relevant records. We can use the collected information manage [BRAND_NAME_EN] website and improve our Products and Services. By using this kind of information, we are better able to provide you with a better advertisements and promotions of Products and Services.
+Third parties may collect information by using web beacons, cookies and similar technologies, and may use information collected about you to deliver advertising targeted to you. This Policy does not apply to, and we are not responsible for as well, web beacons, cookies and similar technologies used or hosted by third parties. We encourage you to check the privacy policies of these third parties and advertisers to learn about their use of cookies and other technology.
+　 • Location Data
+We may collect, process, store and share your precise location data when you use certain Services. The location information may include geographic location of your device, places that you have been, where you check-in, places that you’ve taken photos, routes that you have travelled, how close you are to other devices, such as Bluetooth-enabled devices, [WIFI_WLAN] routers and services that use those devices (such as tracking your movement for data collection and marketing purposes), and the dates and times that you were at the certain locations. 
+We may share the above mentioned data with application providers who show that they have the permissions. In addition, [BRAND_NAME_EN] may also collect location data in a de-identified form to share this data with partners and carriers to improve features and services.
+　 • You share your own information to third parties
+You may also connect to third-party social media platforms, websites, applications and services through any features made available on third party and connected with our Services, and share your own information. 
+Please be careful of your own privacy requirements when you choose who to connect with and what to share and make public. We cannot control the privacy of information that you make public or share with others, also are not responsible for any third party sharing services or actions, including how they collect from your device and you, or how they use such data.
+(iv)\u0009The way to store your information
+We may secure all the information collected, and may use, share or store such information in accordance with this Policy and laws. Moreover, we may store your information on your phone or stored on our servers.
+(v)\u0009Access to and Change Information
+You may send requests to access to, change and delete your information to us through our contact information. 
+You may request us to delete your own information if [BRAND_NAME_EN] is not required to retain it by law or for legitimate business purposes. We also may decline to process requests that are frivolous, or endanger others’ privacy, are extremely impractical, or for which access is not required by local law. 
+If you are prohibited to visit [BRAND_NAME_EN] websites for disobeying our related service terms, we may remove and delete all your information on our websites.
+(vi)\u0009Children information
+We do not knowingly collect, use or disclose information from children under the age of 13 (or equivalent minimum age by laws) without written parent consent. If we learn that we have collected the personal information of a child under 13(or equivalent minimum age by laws) without written parent consent, we will delete the information as soon as possible.
+[BRAND_NAME_EN] may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+Last updated: May 20, 2016
+ "</string>
+    <string name="privacy_context_hmd">"
+Privacy Policy
+
+
+Effective date 14th of October 2016
+
+
+Your privacy is important
+
+HMD Global Oy, including its affiliates (“HMD Global”), is committed to respect your personal privacy and to comply with applicable data protection and privacy laws as we understand that you care about your privacy. This Privacy Policy (“Policy”) describes:
+
+
+1. What personal data we collect;
+
+2. How we collect your personal data;
+
+3. How we use your personal data.
+
+
+HMD Global may from time to time provide you with additional information which is specific to certain product or service in addition to this Policy. HMD Global may also give you additional notices while using our products or services. If there is a difference between such notices and this Policy, the notices prevails.
+
+
+Third party software downloaded and/ or installed on your device may access your personal data. HMD Global products or services may contain links to other companies’ websites and services that have their own privacy policies. HMD Global is not responsible for the privacy practices of others. HMD Global encourages you to read their privacy notices in order to protect your personal data.
+
+
+Please do not use our products and services or provide HMD Global with your personal data if you do not agree with this Policy.
+
+
+Personal Data We Collect
+
+
+There are circumstances which you provide HMD Global your data directly, e.g. when you make a transaction with HMD Global, use or register into HMD Global products and services, take part in campaigns or research or otherwise interact with HMD Global.
+
+
+Depending on the products and services you use, the data we collect can include
+
+
+•　Contact details such as your name (including first, middle and last name), your email address, your phone number, postal address and any other contact details
+
+•　Demographic information such as gender, age, country, language
+
+•　Transaction information such as user names, password, feedback, payment data (e.g. bank account information, credit card details and any other financial information), delivery information. HMD Global also may also maintain a record of your agreement, consent, preference, settings relating to, for example, location data, marketing and sharing of personal data. HMD Global may, subject to applicable law, record your communication with HMD Global customer care or with other such contact points
+
+•　Product information such as information of your hardware and software, the network you use to connect to HMD Global products and services, operating systems, software installed in your products, IP addresses, product identifier (such as IMEI number for your mobile devices) and your product settings
+
+•　Product and service usage information such as IP-address, access times, the sites linked from, pages visited, the links and features used, the content viewed or requested, browser or application type, language and other such information. See also our Cookie and Web Beacon section for more details. Our applications may contact our servers periodically, for example to check for updates or to send us information relating to service usage.
+
+•　Positioning and Location data. Location-based services establish location through the use of satellite, mobile, Wi-Fi or other network based positioning methods. These technologies may involve exchanging your location data and unique device and mobile, Wi-Fi or other network related identifiers with HMD Global. Our products may operate on multiple device platforms, applications and services which may also collect your location data. HMD Global do not use this information to identify you personally without your consent.
+
+
+How We Process Personal Data
+
+
+HMD Global processes your personal data for the following purposes: (1) providing products and services we offer; (2) managing accounts which helps maintain your content, preference, settings; (3) developing and managing products and services (such as sales, marketing, customer care and support); (4) improving our products and services; (5) communicating with you regarding updated notices relating to our products and / or services; (6) marketing and advertising when we have your consent or otherwise it is allowed.
+
+
+•　Providing the products and services - We may use your personal data to provide you with our products and services, to process your requests or as otherwise may be necessary to perform the contract between you and HMD Global, to ensure the functionality and security of our products and services, to identify you as well as to prevent and investigate fraud and other misuses.
+
+•　Products &amp; Service Activations and Account Management – We may use your personal data to activate products and services which requires activation. Some services may require an account to help you manage your content, preferences and settings.
+
+•　Developing and managing products and services - We may use your personal data to develop and manage our products, services, customer care, sales and marketing. We may combine personal data collected in connection with your use of a particular HMD Global product and/or service with other personal data we may have about you, unless such personal data was collected for a different purpose.
+
+•　Improving our products and services – We may use your personal data to improve our products and services such as providing you with the latest information of new features and functionalities.
+
+•　Communications - We may use your personal data to communicate with you personally, for example to inform you about our service change, to send you critical alerts and other such notices relating to our products and/or services and to contact you for customer care related purposes.
+
+•　Marketing, advertising and making recommendations - We may contact you to inform you of new products, services or promotions we may offer and to conduct market research when we have your consent or it is otherwise allowed. We may use your personal data to personalize our offering and to provide you with more relevant services, for example, to make recommendations and to display customized content and advertising in our services. This may include displaying HMD Global and third party content.
+
+
+Cookies and Web Beacons
+
+
+HMD Global uses cookies, web beacons and other similar technologies to operate and improve our websites and offering and help collect data.
+
+
+Our domains may include third party elements that set cookies on behalf of a third party, for example relating to third party social network.
+
+
+Why We Share Personal Data
+
+
+We do not sell, lease, rent or otherwise disclose your personal data to third parties unless otherwise stated below.
+
+
+•　Your consent - We only share your personal data if we have your consent or as necessary to provide you with the service to complete a transaction as requested and authorized by you.
+
+•　HMD Global companies and affiliates - We may share your personal data among other HMD Global companies and affiliates
+
+•　Authorized third parties – We may share your personal data with agents and vendors who process personal data for HMD Global for the purposes described in this Policy. For example, we may hire vendors and agents to provide services such as customer care and support, delivery of your purchases, managing and analyzing consumer data, managing marketing and promotion of our products and services. These companies need to comply with our privacy and security requirements and are now allowed to disclose the personal data received from us for other purposes.
+
+•　Payment Transaction - This may include for example billing through your network service provider or otherwise. When you purchase a HMD Global product from us with a network service provider plan, we may need to exchange information with your network service provider to provide you with the relevant service. If you provide with us your payment data, we may need to share such data to banks or other entities which enables the completion of the transaction.
+
+
+These authorized third parties are not permitted to use your personal data for any other purposes. We require them to act consistently with this Policy and to use appropriate security measures to protect your personal data.
+
+
+•　International transfers of personal data – HMD Global may use using resources and servers located in different countries around the world, hence your personal data may be transferred across international borders outside the country where you use our services. HMD Global ensures that such a transfer has a legal base and provide adequate protection for your personal data as required by applicable law.
+
+•　To comply with applicable law and valid legal process – HMD Global may be required to disclose your personal data to certain authorities, law enforcement agencies or other third parties in the countries where we or third parties acting on our behalf operate in order to comply with applicable law or to respond to a valid legal process.
+
+•　Mergers and Acquisitions - If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing personal data to prospective or actual purchasers and their advisers, or receiving personal data from sellers and their advisers.
+
+Steps Taken To Safeguard Personal Data
+
+HMD Global cares about your privacy and is committed to protect your personal data. Privacy and security are key considerations in the creation and delivery of our products and services. We take appropriate steps to address online security, physical security, risk of data loss and other such risks taking into consideration the risk represented by the processing and the nature of the data being protected. We use different technologies and have a variety of Kprocedures to protect your personal data from unauthorized access, use and disclosure.
+
+
+Retention of Personal Data
+
+HMD Global retains your personal data as long as it is necessary to provide you with the relevant products and services, to comply with the applicable legal obligations, to resolve disputes and to enforce our contractual obligations.
+
+
+Your Rights
+
+You have a right to know what personal data we hold about you. You have a right to have incomplete, incorrect, unnecessary or outdated personal data deleted or updated. You have a right to unsubscribe from direct marketing messages and to request that we stop processing your personal data for direct marketing purposes or on other compelling legal grounds. However, if you opt-out from marketing and other communications from HMD Global, critical alerts may still be sent to you.
+
+
+You may exercise your rights by contacting us or by managing your account and choices through available profile management tools on your device and our services. In some cases, especially if you wish us to delete or stop processing your personal data, this may also mean that we may not be able to continue to provide the services to you.
+
+
+The Controller of Your Personal Data
+
+HMD Global Oy of Karaportti 2, 02160, Espoo, Finland is the controller of your personal data. In addition, the HMD Global affiliate providing the product or service may be a controller of your personal data. You may find the identity of the controller and its contact details by reviewing the terms and conditions of such a product or service or by using contact information provided in the applicable HMD Global websites.
+
+
+If you have questions concerning HMD Global’s privacy practice, you may contact us at:
+
+
+Karaportti 2, 02160, Espoo, Finland
+
+
+Changes to This Privacy Policy
+
+HMD Global may from time to time update this Policy or change, modify or withdraw access to this site at any time with or without notice. We will revise the “Updated” date accordingly. If this Policy is changed in a material, adverse way, HMD Global will post a notice advising of such change at the beginning of this Policy. We recommend that you re-visit this Policy from time to time to learn of any such changes to this Policy.
+
+
+In the event that there is any conflict between this Policy and the agreement with customer, the terms of agreement shall prevail.
+"</string>
+    <string name="privacy_context_default">" "<u>Privacy Policy</u>"
+ This privacy policy (the “Privacy Policy”) describes how [BRAND_NAME_EN] Technology Limited and their related companies (“[BRAND_NAME_EN]” or we/our/us) collect, use and share personal information collected from you as a user of [BRAND_NAME_EN] websites, devices, applications and services (together, the “Product and Services”). Personal information is data that can be used to identify or contact a single person. We may collect kinds of information, including your name, mailing address, phone number, email address, contact preferences, credit card information, and related information (collectively referred “Information”). We comply with all laws that apply to Information collected about you. You may be asked to provide your personal information when you contact with us for product or services. [BRAND_NAME_EN] and related companies share this personal information with each other and use it consistent with this Privacy Policy. We also combine it with other information to provide and improve our products, and services. If you chose not to provide your information to us when required, we will not be able to provide you with our products/services or respond to any queries you may have. Your wireless operator, mobile operating system provider and/or third-party applications, services, social media platforms and websites may also collect, use and share your information including your device and usage. Privacy policies do not cover any third parties, their products, actions or services. We cannot control how they collect, use or secure your data and information. Please consult with the third parties for further details about privacy practices. 
+
+ Please familiarize yourself with our privacy policy and let us know if you have any questions.
+
+ (i) [BRAND_NAME_EN] may use your information, including personal information, to:
+ 　o　 respond to your comments, and provide and deliver products and Services that you request;
+ 　o　 provide a personalized and customized experience, content, marketing and recommendations for Services;
+ 　o　 deliver information according to your requests and purchases, including confirmations, invoices, updates, security alerts, and related support and administrative messages;
+ 　o　 notify you about contests, promotions, rewards, upcoming events and news about products and services offered by [BRAND_NAME_EN] and our partners;
+ 　o　 protect, investigate and prevent fraudulent, unauthorized or illegal activity; and
+ 　o　 compile and analysis any all usage and relevant statistics data about Products and Services.
+
+ (ii) [BRAND_NAME_EN] may collect, use, disclose, store your information as following
+ 　o　 with your consent, including express and implied consent;
+ 　o　 for legal, protection and safety purposes, including:
+ 　　•　 to comply with laws, regulatory requirements, or orders from the competent authority or the court ;
+ 　　•　to protect the rights and property of [BRAND_NAME_EN], our agents, customers and others, including enforcing our agreements, policies and terms of use and protecting our network and assets; and/or
+ 　　•　adopt an emergent method to protect the safety of those including our employees and agents, customers or any other person.
+ 　o　 with those using information to provide services to us or on our behalf;
+ 　o　 with wireless carriers whose use of your information shall be subject to their privacy policies;
+ 　o　 for any merger, financing, acquisition or bankruptcy transaction or proceeding occurs.
+ We may share information by de-identified method to those have to know for certain purpose.
+
+ (iii) [BRAND_NAME_EN] may use, disclose, share your information as following,
+ (1). Information provided by you
+ When you need for our Services, you may provide information to [BRAND_NAME_EN], whether online and offline, including but not limited to your name, email address, street address, phone numbers, device identifiers, and credit card number and any relevant information about you. [BRAND_NAME_EN] may hold and associate any information provided by you with information collected from other sources, such as the social accounts that you choose to use, or with information we receive from other parties.
+ (2). Information collected by [BRAND_NAME_EN]
+ 　•　When you use [BRAND_NAME_EN] Services or visit our websites, we will collect information about your usage and activity on our Services or websites automatically. Such collected information includes your operating system, Internet Protocol (IP) address, access times, browser type, language, a record for previous visiting websites and relevant information.
+ 　•　When you use, access our devices, or download and use our applications from your device, we may log information related to your device and your use of our applications and Services. We may record the date your device, location, phone number, device type, serial number, device identifiers, such as IMEI, mobile operating systems version, the use of and how you use installed applications and software, content you view or use and any kind of log data and information.
+ 　•　Collecting your information by web beacons, cookies and similar technologies.
+ We may log information about you using web beacons, cookies and similar technologies, and automatically link the information collected to recognize and estimate which ads you have seen and relevant records. We can use the collected information manage [BRAND_NAME_EN] website and improve our Products and Services. By using this kind of information, we are better able to provide you with a better advertisements and promotions of Products and Services. Third parties may collect information by using web beacons, cookies and similar technologies, and may use information collected about you to deliver advertising targeted to you. This Policy does not apply to, and we are not responsible for as well, web beacons, cookies and similar technologies used or hosted by third parties. We encourage you to check the privacy policies of these third parties and advertisers to learn about their use of cookies and other technology.
+ 　•　Location Data
+ We may collect, process, store and share your precise location data when you use certain Services. The location information may include geographic location of your device, places that you have been, where you check-in, places that you’ve taken photos, routes that you have travelled, how close you are to other devices, such as Bluetooth-enabled devices, [WIFI_WLAN] routers and services that use those devices (such as tracking your movement for data collection and marketing purposes), and the dates and times that you were at the certain locations. We may share the above mentioned data with application providers who show that they have the permissions. In addition, [BRAND_NAME_EN] may also collect location data in a de-identified form to share this data with partners and carriers to improve features and services.
+ 　•　You share your own information to third parties
+ You may also connect to third-party social media platforms, websites, applications and services through any features made available on third party and connected with our Services, and share your own information. Please be careful of your own privacy requirements when you choose who to connect with and what to share and make public. We cannot control the privacy of information that you make public or share with others, also are not responsible for any third party sharing services or actions, including how they collect from your device and you, or how they use such data.
+
+ (iv) The way to store your information
+ We may secure all the information collected, and may use, share or store such information in accordance with this Policy and laws. Moreover, we may store your information on your phone or stored on our servers.
+
+ (v) Access to and Change Information
+ You may send requests to access to, change and delete your information to us through our contact information. You may request us to delete your own information if [BRAND_NAME_EN] is not required to retain it by law or for legitimate business purposes. We also may decline to process requests that are frivolous, or endanger others’ privacy, are extremely impractical, or for which access is not required by local law. If you are prohibited to visit [BRAND_NAME_EN] websites for disobeying our related service terms, we may remove and delete all your information on our websites.
+
+ (vi) Children information
+ We do not knowingly collect, use or disclose information from children under the age of 13 (or equivalent minimum age by laws) without written parent consent. If we learn that we have collected the personal information of a child under 13(or equivalent minimum age by laws) without written parent consent, we will delete the information as soon as possible.
+
+ [BRAND_NAME_EN] may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+ Last updated: May 20, 2016 "</string>
+</resources>

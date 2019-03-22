@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Iskanje…</item>
+        <item>Povezovanje …</item>
+        <item>Preverjanje pristnosti…</item>
+        <item>Pridobivanje naslova IP…</item>
+        <item>Povezava je vzpostavljena</item>
+        <item>Začasno ustavljeno</item>
+        <item>Prekinjanje povezave…</item>
+        <item>Prekinjena povezava</item>
+        <item>Ni uspelo</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabi povezavi</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Iskanje…</item>
+        <item>Vzpostavljanje povezave z omrežjem %1$s…</item>
+        <item>Preverjanje pristnosti v omrežju %1$s…</item>
+        <item>Pridobivanje naslova IP od omrežja %1$s…</item>
+        <item>Vzpostavljena povezava z omrežjem %1$s</item>
+        <item>Začasno ustavljeno</item>
+        <item>Prekinjanje povezave z omrežjem %1$s…</item>
+        <item>Prekinjena povezava</item>
+        <item>Ni uspelo</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabi povezavi</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Slabo</item>
+        <item>Zadovoljivo</item>
+        <item>Dobro</item>
+        <item>Odlično</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Brez</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Brez</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statično</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Brez</item>
+        <item>Ročno</item>
+        <item>Samodejni proxy</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI šestnajstiško</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(unspecified)</item>
+        <item>Sim Slot 1</item>
+        <item>Sim Slot 2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Estático</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Detetar automaticamente</item>
+        <item>Tratar como com restrições</item>
+        <item>Tratar como sem restrições</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Nenhum</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Nenhum</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Nenhum</item>
+        <item>Manual</item>
+        <item>Configuração automática do proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Fraco</item>
+        <item>Suficiente</item>
+        <item>Bom</item>
+        <item>Excelente</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>A procurar…</item>
+        <item>A ligar…</item>
+        <item>A autenticar…</item>
+        <item>A obter o endereço IP…</item>
+        <item>Ligado</item>
+        <item>Suspenso</item>
+        <item>A desligar…</item>
+        <item>Desligado</item>
+        <item>Falha</item>
+        <item>Bloqueado</item>
+        <item>A evitar temporariamente uma ligação fraca</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>A procurar…</item>
+        <item>A ligar a %1$s…</item>
+        <item>A autenticar com %1$s…</item>
+        <item>A obter o endereço IP de %1$s…</item>
+        <item>Ligado a %1$s</item>
+        <item>Suspenso</item>
+        <item>A desligar-se de %1$s…</item>
+        <item>Desligado</item>
+        <item>Falha</item>
+        <item>Bloqueado</item>
+        <item>A evitar temporariamente uma ligação fraca</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+    </string-array>
+</resources>

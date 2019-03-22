@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="copying">نقل کررہا ہے…</string>
+    <string name="demo_mode_notifications">ڈیمو موڈ اطلاع نامے</string>
+    <string name="disable_demo_mode">ڈیمو وضع غیرفعال کریں</string>
+    <string name="download_complete_msg">"ڈاؤن لوڈ مکمل ہوگیا۔
+
+ڈیمو موڈ شروع کرنے کے لیے اوکے پر ٹیپ کریں۔"</string>
+    <string name="download_fail_msg">"انٹرنیٹ سے ڈیمو میٹریل ڈاؤن لوڈ کرنے میں ناکام۔
+
+ڈیمو موڈ شروع کرنے کے لیے اوکے پر ٹیپ کریں؟"</string>
+    <string name="downloading">ڈاؤن لوڈ ہورہا ہے…</string>
+    <string name="enable_demo_mode">ڈیمو وضع فعال کریں؟</string>
+    <string name="enable_demo_mode_setup">ڈیمو وضع فعال کریں</string>
+    <string name="no_new_demo_found_msg">"کوئی نیا ڈیمو مواد نہیں ملا۔
+
+ڈیمو موڈ شروع کرنے کے لیے اوکے پر ٹیپ کریں؟"</string>
+    <string name="ok">ٹھیک ہے</string>
+    <string name="reset_device">آلہ کو دوبارہ ترتیب دیں؟</string>
+    <string name="system_busy_msg">سسٹم مصروف ہے۔ بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="update_demo_video">ڈیمو کی وڈیو اپ ڈیٹ کریں</string>
+</resources>

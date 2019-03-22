@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP Client</string>
+    <string name="fih_cp_notify_statusbar_content">नया प्रोविज़निंग संदेश</string>
+    <string name="fih_cp_notification_channel_name">सामान्य नोटिफिकेशन</string>
+    <string name="fih_cp_ui_mode_ok">ठीक</string>
+    <string name="fih_cp_ui_mode_postpone">टाल दें</string>
+    <string name="fih_cp_ui_mode_delete">हटाएं</string>
+    <string name="fih_cp_apply_dialog_head_msg">नई प्रोविज़निंग</string>
+    <string name="fih_cp_apply_dialog_body_msg">क्या आप नया कॉन्फ़िगरेशन लागू करना चाहते हैं?</string>
+    <string name="fih_cp_toast_info_update">प्रोफ़ाइल सफलतापूर्वक अपडेट हुई</string>
+    <string name="fih_cp_toast_info_create">प्रोफ़ाइल सफलतापूर्वक बनाई गई</string>
+    <string name="fih_cp_editor_apn_name">नाम</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">प्रॉक्सी</string>
+    <string name="fih_cp_editor_apn_http_port">पोर्ट</string>
+    <string name="fih_cp_editor_apn_user">उपयोगकर्ता नाम</string>
+    <string name="fih_cp_editor_apn_password">पासवर्ड</string>
+    <string name="fih_cp_editor_apn_server">सर्वर</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS प्रॉक्‍सी</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS पोर्ट</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">प्रमाणीकरण प्रकार</string>
+    <string name="fih_cp_editor_apn_auth_type_none">कोई नहीं</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP या CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN प्रकार</string>
+    <string name="fih_cp_btn_ok">ठीक</string>
+    <string name="fih_cp_btn_cancel">रद्द करें</string>
+    <string name="fih_cp_btn_next">अगला</string>
+    <string name="fih_cp_btn_back">वापस जाएं</string>
+    <string name="fih_cp_apn_not_set">&lt;सेट नहीं></string>
+    <string name="fih_cp_error_title">ध्यान दें</string>
+    <string name="fih_cp_error_name_empty">नाम फ़ील्ड खाली न छोड़ें.</string>
+    <string name="fih_cp_error_apn_empty">APN फ़ील्ड खाली न छोड़ें.</string>
+    <string name="fih_cp_error_other">डेटा सिंटैक्स त्रुटि.</string>
+    <string name="fih_cp_input_pin_code">पिन कोड डालें:</string>
+    <string name="fih_cp_input_pin_code_ok">ठीक</string>
+    <string name="fih_cp_input_pin_code_cancel">रद्द करें</string>
+    <string name="fih_cp_input_pin_code_incorrect">गलत पिन कोड</string>
+    <string name="fih_cp_input_pin_code_empty">कृपया पिन कोड डालें.</string>
+    <string name="fih_cp_sim_not_available">SIM कार्ड उपलब्ध नहीं है.</string>
+</resources>

@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bbs:config xmlns:bbs="http://schemas.fihtdc.com/bbs/fih">
+    <metadata>
+        <version>1.0.2</version>
+        <update-date>2013-10-03</update-date>
+        <update-date>2013-10-24</update-date>
+        <update-date>2013-11-27</update-date>
+    </metadata>
+    <update-details>
+        <update date="2013-10-03">Create report_config.xml</update>
+        <update date="2013-10-24">Add Sim Info and Net Info</update>
+        <update date="2013-11-27">Add new Error Table and Power Abnormal description</update>
+    </update-details>
+
+    <menu bbs:layout="menu_detail" bbs:display="show" />
+
+    <sections>
+        <section bbs:name="SECTION_SYS_INFO" bbs:title="System Info." bbs:order="0" />
+        <section bbs:name="SECTION_ROOT_STATUS" bbs:title="Root Status" bbs:order="1" />
+        <section bbs:name="SECTION_STATISTIC" bbs:title="Statistics" bbs:order="2" />
+        <section bbs:name="SECTION_PANIC" bbs:title="Panic" bbs:order="3" />
+        <section bbs:name="SECTION_REBOOT" bbs:title="Shutdown Reasons" bbs:order="4" />
+        <section bbs:name="SECTION_BATTERY" bbs:title="Battery Info" bbs:order="5" />
+        <section bbs:name="SECTION_OTHERS" bbs:title="Others" bbs:order="6" />
+    </sections>
+
+    <reports>
+
+        <!-- The following types are predefined in the code, however, without the definition, they won't be shown -->
+        <report bbs:name="REPORT_UNKNOWN" bbs:title="Unknown" bbs:display="show">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+        </report>
+
+        <report bbs:name="REPORT_FORCE_CLOSE" bbs:title="Force Close" bbs:file="FC" bbs:display="show">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+        </report>
+
+        <report bbs:name="REPORT_ERROR_TABLE" bbs:title="Error Table" bbs:file="errortable" bbs:display="show">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+        </report>
+
+        <report bbs:name="REPORT_ERROR_TABLE_NEW" bbs:title="Error Table" bbs:file="errtable" bbs:display="show">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+        </report>
+        <!-- End of predefined types -->
+
+        <!-- Start of System Info. related records -->
+        <report bbs:name="REPORT_DEBUG_MESSAGE" bbs:title="Debug Message" bbs:file="alog_fih" bbs:order="0">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator="" bbs:recordType="detail" bbs:noTitle="true">
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_PROJECT_NAME" bbs:title="Project Name" bbs:file="PRJNAME" bbs:order="1">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_IMEI" bbs:title="IMEI" bbs:file="IMEI" bbs:displayMode="expanded" bbs:order="2">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_MEID" bbs:title="MEID" bbs:file="MEID" bbs:displayMode="expanded" bbs:order="3">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_SERIAL_NUMBER" bbs:title="Serial" bbs:file="SN" bbs:order="4">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_CURRENT_VERSION" bbs:title="Version" bbs:file="PREV_VER" bbs:order="5">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:recordType="simple">
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_ISP_FIRMWARE" bbs:title="ISP Firmware" bbs:file="ISPFirmware" bbs:order="6">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail" bbs:title="">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_TP_FIRMWARE" bbs:title="TP Firmware" bbs:file="TPFirmware" bbs:order="7">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_NET_INF" bbs:title="Net Inf" bbs:file="NetInf" bbs:order="8">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_SIM_INF" bbs:title="Sim Inf" bbs:file="SIMInf" bbs:order="9">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_CPU_LEVEL" bbs:title="CPU Level" bbs:file="CPU_LEVEL" bbs:order="10">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_EMMC" bbs:title="EMMC Info" bbs:file="EMMC" bbs:displayMode="expanded" bbs:order="11">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="title" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_CAIVS" bbs:title="Caivs Info" bbs:file="CAIVS" bbs:displayMode="expanded" bbs:order="12">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator="(?&lt;!\\):" bbs:recordType="detail">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="title" />
+                    <column bbs:type="string" bbs:omit=".+" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_HARDWARE_CONFIG" bbs:title="Hardware Config" bbs:file="hwcfg" bbs:displayMode="expanded" bbs:order="13">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator="=" bbs:recordType="detail">
+                    <column bbs:type="title" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+        <!-- End of System Info. related records -->
+
+        <!-- Start of statistic related records -->
+        <report bbs:name="REPORT_POWER_ON" bbs:title="Power On Time" bbs:maxRecord="" bbs:file="PwrOn" bbs:order="0" bbs:icon="ic_power_on">
+            <categories>
+                <category bbs:name="SECTION_STATISTIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="millisecond" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_TALK_TIME" bbs:title="Talk Time" bbs:file="Talk" bbs:order="1" bbs:icon="ic_dialer">
+            <categories>
+                <category bbs:name="SECTION_STATISTIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="second" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_TALK_TIME_COUNT" bbs:title="Talk Time Count" bbs:maxRecord="" bbs:file="TALK_TIME_COUNT" bbs:order="2" bbs:icon="ic_dialer">
+            <categories>
+                <category bbs:name="SECTION_STATISTIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_DATA_USAGE" bbs:title="Data Usage" bbs:maxRecord="" bbs:file="Data" bbs:order="3" bbs:icon="ic_data_usage">
+            <categories>
+                <category bbs:name="SECTION_STATISTIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="byte" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_SMS_RECEIVE_COUNT" bbs:title="SMS Receive Count" bbs:maxRecord="" bbs:file="SMS_RECEIVE_COUNT" bbs:order="4">
+            <categories>
+                <category bbs:name="SECTION_STATISTIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_SMS_TRANSMIT_COUNT" bbs:title="SMS Transmit Count" bbs:maxRecord="" bbs:file="SMS_TRANSMIT_COUNT" bbs:order="5">
+            <categories>
+                <category bbs:name="SECTION_STATISTIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_MMS_TRANSMIT_COUNT" bbs:title="MMS Transmit Count" bbs:maxRecord="" bbs:file="MMS_TRANSMIT_COUNT" bbs:order="6">
+            <categories>
+                <category bbs:name="SECTION_STATISTIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <!-- End of statistic related records -->
+
+        <!-- Start of root related records -->
+        <report bbs:name="REPORT_ROOT_STATUS" bbs:title="Root History" bbs:file="Root_status" bbs:order="" bbs:icon="ic_root">
+            <categories>
+                <category bbs:name="SECTION_ROOT_STATUS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple" bbs:icon="ic_root">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="boolean" />
+                </record>
+            </records>
+        </report>
+        <report bbs:name="REPORT_CURRENT_ROOT" bbs:title="Current Root" bbs:file="CURRENT_ROOT" bbs:order="" bbs:icon="ic_root">
+            <categories>
+                <category bbs:name="SECTION_ROOT_STATUS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple" bbs:icon="ic_root">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="boolean" />
+                </record>
+            </records>
+        </report>
+        <report bbs:name="REPORT_IMAGE_STATUS" bbs:title="Image Modification" bbs:file="Img_status" bbs:order="" bbs:icon="ic_root">
+            <categories>
+                <category bbs:name="SECTION_ROOT_STATUS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple" bbs:icon="ic_root">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="boolean" />
+                </record>
+            </records>
+        </report>
+        <report bbs:name="REPORT_ROOT_REASON" bbs:title="Root Reason" bbs:file="ROOT_REASON" bbs:order="" bbs:icon="ic_root">
+            <categories>
+                <category bbs:name="SECTION_ROOT_STATUS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail" bbs:icon="ic_root">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+        <!-- End of root related records -->
+
+        <!-- Start of panic related records -->
+        <report bbs:name="REPORT_FRAMEWORK_PANIC" bbs:title="Framework Panic" bbs:file="FrameworkPanic" bbs:order="" bbs:icon="ic_panic">
+            <categories>
+                <category bbs:name="SECTION_PANIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple" bbs:icon="ic_panic">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="count" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_KERNEL_PANIC" bbs:title="Kernel Panic" bbs:file="KernelPanic" bbs:order="" bbs:icon="ic_panic">
+            <categories>
+                <category bbs:name="SECTION_PANIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple" bbs:icon="ic_panic">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="count" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_MODEM_PANIC" bbs:title="Modem Panic" bbs:file="ModPanic" bbs:order="" bbs:icon="ic_panic">
+            <categories>
+                <category bbs:name="SECTION_PANIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple" bbs:icon="ic_panic">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="count" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_POWER_CUT_PANIC" bbs:title="Power Cut" bbs:file="PWRCut" bbs:order="" bbs:icon="ic_panic">
+            <categories>
+                <category bbs:name="SECTION_PANIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple" bbs:icon="ic_panic">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="count" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_SMPL_PANIC" bbs:title="SMPL" bbs:file="SMPL" bbs:order="" bbs:icon="ic_panic">
+            <categories>
+                <category bbs:name="SECTION_PANIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple" bbs:icon="ic_panic">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="count" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_UNKNOWN_PANIC" bbs:title="Unknown Panic" bbs:file="UnknowPanic" bbs:order="" bbs:icon="ic_panic">
+            <categories>
+                <category bbs:name="SECTION_PANIC" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple" bbs:icon="ic_panic">
+                    <column bbs:type="timestamp" format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="count" />
+                </record>
+            </records>
+        </report>
+        <!-- End of panic related records -->
+
+        <report bbs:name="REPORT_SOFWARE_UPGRADE" bbs:title="Upgrade" bbs:file="SWupgrade" bbs:order="" bbs:icon="ic_upgrade">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|->" bbs:recordType="detail" bbs:icon="ic_upgrade">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+                <record bbs:seperator=":|->" bbs:title="" bbs:recordType="detail" bbs:icon="ic_upgrade">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" bbs:prefix="Upgraded from " />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_APKS" bbs:title="APKs" bbs:file="APKs" bbs:order="">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|," bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="package" />
+                    <column bbs:type="title" />
+                    <column bbs:type="version" bbs:omit="^V|^v" bbs:prefix="V" />
+                </record>
+                <record bbs:seperator=":|," bbs:title="" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="package" />
+                    <column bbs:type="title" />
+                </record>
+                <record bbs:seperator=":|," bbs:title="" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="package" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_FACTORY_RESET" bbs:title="Factory Reset" bbs:file="MRESET" bbs:order="" bbs:icon="ic_reset">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail" bbs:icon="ic_reset">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" bbs:omit="1" bbs:prefix="Reset" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_DROPBOX" bbs:title="Dropbox" bbs:file="DROPBOX" bbs:order="" >
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|," bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="string" bbs:omit="DROPBOX" />
+                    <column bbs:type="key" />
+                    <column bbs:type="package" />
+                    <column bbs:type="string" bbs:prefix="Version Code:" />
+                    <column bbs:type="string" bbs:prefix="Version:" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="REPORT_POWER_ABNORMAL" bbs:title="Power Abnormal" bbs:file="PowerAbnormal" bbs:order="" bbs:icon="ic_power_abnormal">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail" bbs:icon="ic_power_abnormal">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" bbs:prefix="CPU temp " bbs:suffix="°C" />
+                    <column bbs:type="string" bbs:prefix="Brightness:" bbs:suffix="%" />
+                    <column bbs:type="string" bbs:prefix="Comsumption:" />
+                    <column bbs:type="string" bbs:prefix="Case:" />
+                    <column bbs:type="string" bbs:prefix="AP:" />
+                    <column bbs:type="string" bbs:prefix="Service:" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="NETWORK_LOCK" bbs:title="Netwrok Lock" bbs:file="NETWORK_LOCK" bbs:order="">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail" bbs:icon="ic_power_abnormal">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="SHDN_LOW_BATT" bbs:title="Low Battery Shutdown" bbs:file="SHDN_LOW_BATT">
+            <categories>
+                <category bbs:name="SECTION_REBOOT" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="SHDN_BATT_OVHEAT" bbs:title="Battery Overheated Shutdown" bbs:file="SHDN_BATT_OVHEAT">
+            <categories>
+                <category bbs:name="SECTION_REBOOT" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="SHDN_CPU_OVHEAT" bbs:title="CPU Overheated Shutdown" bbs:file="SHDN_CPU_OVHEAT">
+            <categories>
+                <category bbs:name="SECTION_REBOOT" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="SHDN_FRAMEWORK" bbs:title="Framework Shutdown" bbs:file="SHDN_FRAMEWORK">
+            <categories>
+                <category bbs:name="SECTION_REBOOT" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="SHDN_USER" bbs:title="User Shutdown" bbs:file="SHDN_USER">
+            <categories>
+                <category bbs:name="SECTION_REBOOT" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="SHDN_HARD_RESET" bbs:title="Hard Reset Shutdown" bbs:file="SHDN_HARD_RESET">
+            <categories>
+                <category bbs:name="SECTION_REBOOT" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="SHDN_SMPL" bbs:title="Hard SMPL Shutdown" bbs:file="SHDN_SMPL">
+            <categories>
+                <category bbs:name="SECTION_REBOOT" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="SHDN_UVLO" bbs:title="UVLO Shutdown" bbs:file="SHDN_UVLO">
+            <categories>
+                <category bbs:name="SECTION_REBOOT" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="GPS_SUCCESS" bbs:title="GPS Success" bbs:file="GPS_SUCCESS">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="GPS_FAIL" bbs:title="GPS Fail" bbs:file="GPS_FAIL">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="CAIVS" bbs:title="Caivs" bbs:file="CAIVS">
+            <categories>
+                <category bbs:name="SECTION_SYS_INFO" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="BATT_FCC_MAX" bbs:title="Max FCC" bbs:file="BATT_FCC_MAX">
+            <categories>
+                <category bbs:name="SECTION_BATTERY" />
+            </categories>
+            <records>
+                <record bbs:seperator=":" bbs:recordType="simple">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="BATT_FCC" bbs:title="FCC History" bbs:file="BATT_FCC">
+            <categories>
+                <category bbs:name="SECTION_BATTERY" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="title" bbs:omit="BATT_" />
+                    <column bbs:type="string" bbs:prefix="Cycle: " />
+                    <column bbs:type="string" bbs:prefix="FCC: " />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="IN_CURR" bbs:title="Bad Charging" bbs:file="IN_CURR">
+            <categories>
+                <category bbs:name="SECTION_BATTERY" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" bbs:prefix="Input Current: " />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="DNS" bbs:title="DNS Fail" bbs:file="DNS">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator=":|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" bbs:prefix="Server: " />
+                    <column bbs:type="title" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="THERMAL" bbs:title="Thermal" bbs:file="THERMAL">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator="(?&lt;!\\):|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" bbs:prefix="Elapsed Time: " />
+                    <column bbs:type="string" bbs:omit="\\" />
+                    <column bbs:type="string" bbs:omit="\\" />
+                    <column bbs:type="string" bbs:omit="\\" />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="WIFI" bbs:title="WIFI" bbs:file="WIFI">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator="(?&lt;!\\):|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="skip" />
+                    <column bbs:type="title" bbs:omit="&quot;" />
+                    <column bbs:type="string" bbs:prefix="Signal: " bbs:suffix="dBM" />
+                    <column bbs:type="string" bbs:prefix="MAC: " bbs:omit="\\" />
+                    <column bbs:type="string" bbs:prefix="Frequency: " />
+                    <column bbs:type="string" bbs:prefix="Channel: " />
+                    <column bbs:type="string" bbs:prefix="Security: " />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" bbs:prefix="Location: " />
+                </record>
+            </records>
+        </report>
+
+        <report bbs:name="FRAME_DROP" bbs:title="Frame Drop" bbs:file="FRAME_DROP">
+            <categories>
+                <category bbs:name="SECTION_OTHERS" />
+            </categories>
+            <records>
+                <record bbs:seperator="(?&lt;!\\):|;" bbs:recordType="detail">
+                    <column bbs:type="timestamp" bbs:format="yyyyMMddhhmmss" />
+                    <column bbs:type="key" />
+                    <column bbs:type="string" bbs:prefix="Skipped Frames: " />
+                    <column bbs:type="package" />
+                </record>
+            </records>
+        </report>
+
+    </reports>
+</bbs:config>

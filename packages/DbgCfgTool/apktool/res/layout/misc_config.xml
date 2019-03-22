@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:id="@id/LinearLayout02" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <Button android:id="@id/btnMiscConfigSave" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_button_Save" />
+            <TextView android:id="@id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_save_debug_config_note" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout03" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbDisablePowerOffChargingCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_disable_power_off_charging_cfg" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/LinearLayout04" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:id="@id/cbForceTriggerRamdumpCfg" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str_force_trigger_ramdump_cfg" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

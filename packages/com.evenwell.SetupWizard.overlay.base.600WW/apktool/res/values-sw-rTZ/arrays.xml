@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Inachanganua…</item>
+        <item>Inaunganisha…</item>
+        <item>Inahalalisha…</item>
+        <item>Inapata anwani ya IP…</item>
+        <item>Imeunganishwa</item>
+        <item>Imesitishwa</item>
+        <item>Inakata muunganisho…</item>
+        <item>Imetenganishwa</item>
+        <item>Haijafanikiwa</item>
+        <item>Imezuiwa</item>
+        <item>Inaepuka kwa muda muunganisho mbovu</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Inachanganua…</item>
+        <item>Inaunganisha kwa %1$s…</item>
+        <item>Inahalalisha na %1$s…</item>
+        <item>Inapata anwani ya IP kutoka %1$s…</item>
+        <item>Imeunganishwa kwa %1$s</item>
+        <item>Imesitishwa</item>
+        <item>Inatenganisha kutoka %1$s…</item>
+        <item>Imetenganishwa</item>
+        <item>Haijafanikiwa</item>
+        <item>Imezuiwa</item>
+        <item>Inaepuka kwa muda muunganisho mbovu</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Mbaya</item>
+        <item>Wastani</item>
+        <item>Nzuri</item>
+        <item>Bora zaidi</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Hamna</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Hamna</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Haibadiliki</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Hamna</item>
+        <item>Mwongozo</item>
+        <item>Usanidi Kiotomatiki wa Seva Mbadala</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>Heksadesimali ya WAPI</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(unspecified)</item>
+        <item>Sim Slot 1</item>
+        <item>Sim Slot 2</item>
+    </string-array>
+</resources>

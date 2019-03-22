@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">सॉफ़्टवेयर डाउनलोड नहीं हुआ.</string>
+    <string name="prepare_to_reboot_force_summary">सेटिंग कॉन्फ़िगर करने के लिए इंस्टॉल किए गए सॉफ़्टवेयर को डिवाइस रीबूट करना होगा. हम आपको अभी रीबूट करने का सुझाव देते हैं.</string>
+    <string name="update_ota_self">सॉफ़्टवेयर अपडेट प्रगति पर है.</string>
+    <string name="ab_update_fail">इंस्टॉलेशन में समस्या.</string>
+    <string name="ab_update_wrong_status">अपडेट इंजन अभी व्यस्त है. कृपया बाद में फिर से कोशिश करें या रीबूट करें.</string>
+    <string name="ab_update_installing">सिस्टम अपडेट हो रहा है</string>
+    <string name="tag_engineer_mode">इंजीनियर मोड</string>
+    <string name="engineer_version_incorrect">आपके डिवाइस का संस्करण गलत है</string>
+    <string name="msg_engineer_ota_restore">आधिकारिक संस्करण रीस्टोर करने के लिए टैप करें</string>
+    <string name="msg_engineer_ota_restore_warning">इससे आधिकारिक संस्करण रीस्टोर हो जाएगा. क्या आप जारी रखना चाहते हैं?</string>
+    <string name="silent_mode_data_fee_warning">अपडेट उपलब्ध है. अपडेट डाउनलोड करने पर अतिरिक्त शुल्क लागू हो सकते हैं. अगर संभव हो, तो वाई-फ़ाई के ज़रिये अपडेट डाउनलोड करें.</string>
+    <string name="msg_updating_system">सिस्टम अपडेट हो रहा है...</string>
+    <string name="msg_tap_to_reboot">रीबूट करने के लिए टैप करें</string>
+    <string name="msg_pause_download">डाउनलोड रोकें</string>
+    <string name="notification_channel_name">सिस्‍टम अपडेट</string>
+    <string name="notification_channel_alert_name">सामान्य नोटिफिकेशन</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">ঠিক আছে</string>
+    <string name="cancel">বাতিল</string>
+    <string name="system_busy_msg">সিস্টেম ব্যস্ত আছে। দয়া করে পরে আবার চেষ্টা করুন।</string>
+    <string name="no_new_demo_found_msg">"কোনো নতুন ডেমোর সামগ্রী খুঁজে পাওয়া যায়নি।
+
+ডেমো মোড লঞ্চ করতে ঠিক আছে-তে ট্যাপ করবেন?"</string>
+    <string name="copying">কপি করা হচ্ছে...</string>
+    <string name="downloading">ডাউনলোড হচ্ছে…</string>
+    <string name="download_complete_msg">"ডাউনলোড সম্পূর্ণ হয়েছে।
+
+ডেমো মোড লঞ্চ করতে ঠিক আছে-তে ট্যাপ করুন।"</string>
+    <string name="download_fail_msg">"ইন্টারনেট থেকে কোনো ডেমোর সামগ্রী ডাউনলোড করতে ব্যর্থ হয়েছে।
+
+ডেমো মোড লঞ্চ করতে ঠিক আছে-তে ট্যাপ করবেন?"</string>
+    <string name="enable_demo_mode">ডেমো মোড সক্ষম করবেন?</string>
+    <string name="disable_demo_mode">ডেমো মোড অক্ষম করুন</string>
+    <string name="update_demo_video">ডেমো ভিডিও আপডেট করুন</string>
+    <string name="reset_device">ডিভাইস পুনরায় সেট করবেন?</string>
+    <string name="demo_mode_notifications">ডেমো মোডের বিজ্ঞপ্তিসমূহ</string>
+</resources>

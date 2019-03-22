@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Peruuta</string>
+    <string name="fih_battery_protect_power_off">Sammuta</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Yleiset ilmoitukset</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Peruuta</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Käytä alkuperäistä akkua</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Lataus pysäytetty</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Käytä lataamiseen alkuperäistä akkua, muuten laitteelle voi aiheutua lopullisia/fyysisiä vahinkoja.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Akku ei kelpaa</string>
+    <string name="fih_battery_protect_notification_cooling_down">Jäähtymässä</string>
+    <string name="fih_battery_protect_tap_learn_more">Lue lisää napauttamalla tätä.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Puhelimesi kuumenee, joten se ryhtyy toimenpiteisiin itsensä jäähdyttämiseksi. Voit edelleen käyttää sitä, mutta saatat huomata seuraavat asiat:
+·Lataaminen saattaa keskeytyä.
+·WLAN-yhteys voidaan poistaa käytöstä.
+·Sovelluksia voidaan sulkea.
+·Lentotila voidaan ottaa käyttöön.
+Puhelimesi toimii taas normaalisti, kun se on jäähtynyt."</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP ደንበኛ</string>
+    <string name="fih_cp_notify_statusbar_content">አዲስ የአቅርቦት መልዕክት</string>
+    <string name="fih_cp_notification_channel_name">አጠቃላይ ማሳወቂያዎች</string>
+    <string name="fih_cp_ui_mode_ok">እሺ</string>
+    <string name="fih_cp_ui_mode_postpone">ለሌላ ጊዜ ያስተላልፉ</string>
+    <string name="fih_cp_ui_mode_delete">ይሰርዙ</string>
+    <string name="fih_cp_apply_dialog_head_msg">አዲስ አቅርቦት</string>
+    <string name="fih_cp_apply_dialog_body_msg">አዲስ አወቃቀር መተግበር ይፈልጋሉ?</string>
+    <string name="fih_cp_toast_info_update">መገለጫ ማዘመን ተሳክቷል</string>
+    <string name="fih_cp_toast_info_create">መገለጫ መፍጠር ተሳክቷል</string>
+    <string name="fih_cp_editor_apn_name">ስም</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">እጅ አዙር</string>
+    <string name="fih_cp_editor_apn_http_port">ወደብ</string>
+    <string name="fih_cp_editor_apn_user">የተጠቃሚ ስም</string>
+    <string name="fih_cp_editor_apn_password">የይለፍ ቃል፦</string>
+    <string name="fih_cp_editor_apn_server">አገልጋይ</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">የMMS እጅ አዙር</string>
+    <string name="fih_cp_editor_apn_mms_port">የMMS ወደብ</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">የማረጋገጫ አይነት</string>
+    <string name="fih_cp_editor_apn_auth_type_none">የለም</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP ወይም CHAP</string>
+    <string name="fih_cp_editor_apn_type">የAPN አይነት</string>
+    <string name="fih_cp_btn_ok">እሺ</string>
+    <string name="fih_cp_btn_cancel">ተወው</string>
+    <string name="fih_cp_btn_next">ቀጣይ</string>
+    <string name="fih_cp_btn_back">ተመለስ</string>
+    <string name="fih_cp_apn_not_set">&lt;አልተዘጋጀም></string>
+    <string name="fih_cp_error_title">ትኩረት</string>
+    <string name="fih_cp_error_name_empty">Name መስክ ባዶ መሆን አይችልም።</string>
+    <string name="fih_cp_error_apn_empty">APN መስክ ባዶ መሆን አይችልም።</string>
+    <string name="fih_cp_error_other">የውሂቡ የአገባብ ስህተት።</string>
+    <string name="fih_cp_input_pin_code">PIN ኮድ ያስገቡ፦</string>
+    <string name="fih_cp_input_pin_code_ok">እሺ</string>
+    <string name="fih_cp_input_pin_code_cancel">ተወው</string>
+    <string name="fih_cp_input_pin_code_incorrect">ትክክል ያልሆነ የፒን ኮድ።</string>
+    <string name="fih_cp_input_pin_code_empty">እባክዎ PIN ኮድ ያስግቡ።</string>
+    <string name="fih_cp_sim_not_available">SIM ካርድ አይገኝም።</string>
+</resources>

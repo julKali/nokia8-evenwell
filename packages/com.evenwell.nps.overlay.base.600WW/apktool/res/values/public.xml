@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="mipmap" name="ic_launcher" id="0x7f020000" />
+    <public type="string" name="feedback" id="0x7f030000" />
+    <public type="string" name="intro_title" id="0x7f030001" />
+    <public type="string" name="select_a_value" id="0x7f030002" />
+    <public type="string" name="extremely_likely" id="0x7f030003" />
+    <public type="string" name="not_at_all_likely" id="0x7f030004" />
+    <public type="string" name="why_you_gave_this_score" id="0x7f030005" />
+    <public type="string" name="helps_us_improve_our_products" id="0x7f030006" />
+    <public type="string" name="we_will_contact_you_again_enjoy" id="0x7f030007" />
+    <public type="string" name="we_will_contact_you_again" id="0x7f030008" />
+    <public type="string" name="we_hope_enjoying_nokia_device" id="0x7f030009" />
+    <public type="string" name="thank_your_feedback" id="0x7f03000a" />
+    <public type="string" name="we_appreciate_your_help" id="0x7f03000b" />
+    <public type="string" name="enter_comments" id="0x7f03000c" />
+    <public type="string" name="PREVIOUS" id="0x7f03000d" />
+    <public type="string" name="DONE" id="0x7f03000e" />
+    <public type="string" name="CANCEL" id="0x7f03000f" />
+    <public type="string" name="NEXT" id="0x7f030010" />
+    <public type="string" name="OK" id="0x7f030011" />
+    <public type="string" name="alert_warning_title" id="0x7f030012" />
+    <public type="string" name="alert_empty_desc" id="0x7f030013" />
+    <public type="string" name="submit_success" id="0x7f030014" />
+    <public type="string" name="submit_fail" id="0x7f030015" />
+    <public type="string" name="msg_send_after" id="0x7f030016" />
+    <public type="string" name="msg_send_fail" id="0x7f030017" />
+    <public type="string" name="privacy_context_wifi" id="0x7f030018" />
+    <public type="string" name="str_agree" id="0x7f030019" />
+    <public type="string" name="str_leave" id="0x7f03001a" />
+    <public type="string" name="no_showagain_text" id="0x7f03001b" />
+    <public type="string" name="no_ask_feedback_again_text" id="0x7f03001c" />
+    <public type="string" name="app_name" id="0x7f03001d" />
+    <public type="array" name="rating_list" id="0x7f040000" />
+</resources>

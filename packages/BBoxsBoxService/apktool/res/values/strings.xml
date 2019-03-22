@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BBox Service</string>
+    <string name="permission_label">access BBoxs Service</string>
+    <string name="permission_description">Allows applications to connect to the service</string>
+</resources>

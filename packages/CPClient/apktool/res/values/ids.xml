@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ET_ApnMaxProfile">false</item>
+    <item type="id" name="ET_AutoCheckInterval">false</item>
+    <item type="id" name="ET_MaxPasswordRetry">false</item>
+    <item type="id" name="SB_DumpMsg">false</item>
+    <item type="id" name="SB_ReadOnly">false</item>
+    <item type="id" name="SB_SecurityOnly">false</item>
+    <item type="id" name="SB_SetDefault">false</item>
+    <item type="id" name="SB_ShowDetailReslutLog">false</item>
+    <item type="id" name="SB_ShowLog">false</item>
+    <item type="id" name="SB_ShowParserLog">false</item>
+    <item type="id" name="SP_UiMode">false</item>
+    <item type="id" name="btn_back">false</item>
+    <item type="id" name="btn_cancel">false</item>
+    <item type="id" name="btn_next">false</item>
+    <item type="id" name="btn_reset">false</item>
+    <item type="id" name="edit">false</item>
+    <item type="id" name="layout_configurations">false</item>
+    <item type="id" name="layout_database">false</item>
+    <item type="id" name="layout_debug_log">false</item>
+</resources>

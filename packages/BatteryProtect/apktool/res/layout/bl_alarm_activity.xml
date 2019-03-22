@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/DialogStyle_Light">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/blalarm_image" android:layout_width="120.0dip" android:layout_height="@dimen/battery_height" android:src="@drawable/fih_batteryprotect_alarm" android:scaleType="centerInside" />
+            <TextView android:id="@id/normal_dec_text" android:text="@string/fih_battery_protect_bl_warning_text" style="@style/DialogContent_Light" />
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:gravity="bottom|center|right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <Button android:id="@id/alarm_activity_button_cancel" android:text="@string/fih_battery_protect_alert_dialog_cancel" style="@style/ButtonStyle_Light" />
+        <Button android:id="@id/alarm_activity_button_ok" android:text="@string/fih_battery_protect_alert_dialog_ok" style="@style/ButtonStyle_Light" />
+    </LinearLayout>
+</LinearLayout>

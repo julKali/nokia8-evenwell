@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Prejsť na plochu</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Prejsť hore</string>
+    <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
+    <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
+    <string name="abc_capital_off">VYPNUTÉ</string>
+    <string name="abc_capital_on">ZAPNUTÉ</string>
+    <string name="abc_search_hint">Vyhľadať…</string>
+    <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+    <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
+    <string name="abc_searchview_description_search">Hľadať</string>
+    <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+    <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
+    <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
+    <string name="abc_toolbar_collapse_description">Zbaliť</string>
+    <string name="hmd_service_terms_message">"PODMIENKY SPOLOČNOSTI HMD GLOBAL PRE POSKYTOVANIE SLUŽIEB &lt;br/> &lt;br/>Platné a účinné od 1. septembra 2017 &lt;br/> &lt;br/>&lt;b>1. Akceptácia&lt;/b> &lt;br/> &lt;br/>Tieto Podmienky pre poskytovanie služieb spoločne so Smernicou o ochrane osobných údajov a ďalšími podmienkami a informáciami, ktoré môžu byť poskytnuté v rámci danej služby (spoločne ďalej len „Podmienky“), upravujú váš spôsob používania tejto služby, stránky, obsahu a softvéru (ďalej len „Služba“). Zaregistrovaním sa alebo používaním Služby alebo akejkoľvek jej časti akceptujete tieto Podmienky. &lt;br/> &lt;br/>Podmienky predstavujú dohodu medzi vami a spoločnosťou HMD Global Oy, Bertel Jungin aukio 9, 02600 Espoo, Fínsko, vrátane všetkých jej pridružených spoločností a dodávateľov (spoločne ďalej len „spoločnosť HMD Global“), pričom táto dohoda definuje vaše práva a povinnosti a práva a povinnosti spoločnosti HMD Global v súvislosti s danou Službou. &lt;br/> &lt;br/>&lt;b>2. Oprávnenia&lt;/b> &lt;br/> &lt;br/>Oprávnenie na používanie tejto Služby máte len v prípade, ak máte najmenej trinásť (13) rokov. Pokiaľ ste mladší ako trinásť (13) rokov, alebo už máte trinásť (13) rokov, ale v mieste svojho pobytu ste považovaní za neplnoletého, vaši rodičia alebo zákonní zástupcovia musia vaším menom registráciu a používanie Služby schváliť. Každý, kto sa zaregistruje, musí byť právne spôsobilý. &lt;br/> &lt;br/>&lt;b>3. Registrácia a ukončenie&lt;/b> &lt;br/> &lt;br/>Je možné, že za účelom používania Služby sa budete musieť zaregistrovať a zriadiť si účet HMD Global s používateľským menom a heslom. Ďalej je možné, že nám budete musieť poskytnúť určité osobné a ďalšie informácie. Skôr ako budete môcť svoj účet použiť, môže spoločnosť HMD Global preveriť vašu e-mailovú adresu. Pri prvom použití zariadenia a vždy, keď budete aktualizovať softvér na svojom zariadení, bude spoločnosti HMD Global zaslaná textová správa. Zriadenie účtu HMD Global vyžaduje prenos údajov. V prípade takéhoto prenosu môžu vzniknúť náklady. &lt;br/> &lt;br/>Týmto sa zaväzujete, že pri registrácii na používanie Služby spoločnosti HMD Global poskytnete pravdivé a úplné informácie a tieto informácie budete aktualizovať. Ste povinní venovať svojmu požívateľskému menu a heslu náležitú pozornosť a chrániť ich pred zneužitím inými osobami a akýkoľvek prípad zneužitia ste povinní spoločnosti HMD Global bezodkladne nahlásiť. Vy alebo váš rodič alebo zákonný zástupca, pokiaľ ste neplnoletý, osobne zodpovedáte za akékoľvek použitie Služby. &lt;br/> &lt;br/>Pokiaľ si neprajete ďalej Službu využívať, ste oprávnení zrušiť svoju registráciu. Po ukončení registrácie nebudete mať ďalej k Službe prístup. Spoločnosť HMD Global je oprávnená zrušiť vašu registráciu alebo obmedziť vám prístup k istým častiam Služby pokiaľ má dôvod domnievať sa, že ste porušili tieto Podmienky, alebo tak môže urobiť po predchádzajúcom upozornení, pokiaľ ste sa za posledných šesť (6) mesiacov neprihlásili na využívanie Služby pod svojím používateľským menom a heslom. &lt;br/> &lt;br/>Pokiaľ nie je v Smernici o ochrane osobných údajov uvedené inak, spoločnosť HMD Global nezodpovedá za žiadnu stratu informácií alebo obsahu, ktorý ste na účely Služby poskytli. V prípade, že vy alebo spoločnosť HMD Global z používanej Služby odstráni informáciu alebo obsah, môžu na iných miestach stále zostať ich stopy alebo kópie. &lt;br/> &lt;br/>&lt;b>4. Licencia&lt;/b> &lt;br/> &lt;br/>Spoločnosť HMD Global vám týmto udeľuje nevýhradnú, neprevoditeľnú licenciu na prístup a používanie Služby v prísnom súlade s týmito Podmienkami, pričom táto licencia môže byť kedykoľvek na základe jednostranného uváženia spoločnosťou HMD Global odvolateľná. Využívaním Služby vám nevznikajú žiadne práva k duševnému vlastníctvu alebo akýmkoľvek informáciám alebo obsahu Služby. &lt;br/> &lt;br/>Ako súčasť Služby vám spoločnosť HMD Global môže poskytnúť obsah spracovaný spoločnosťou HMD Global alebo partnermi, ktorí jej k takémuto obsahu udelili licenciu (ďalej len „Obsah“). Spoločnosť HMD Global vám týmto udeľuje nevýhradnú, časovo neobmedzenú licenciu k používaniu Obsahu pre účely, na ktoré je určený, pokiaľ v príslušných Podmienkach alebo objednávke nie je uvedené inak. Istý Obsah môže byť k dispozícii len osobám s pobytom v určitých zemepisných lokalitách. Ako používateľ Služby ste viazaní akýmikoľvek obmedzeniami, ktoré platia pre určitý Obsah, ktorý prostredníctvom takejto Služby získavate. Akákoľvek licencia, ktorú získavate v súvislosti s Obsahom tretej strany, predstavuje záväznú dohodu medzi vami a poskytovateľom takéhoto Obsahu. K Obsahu máte len také práva, ktoré sú vám týmto výslovne udelené. &lt;br/> &lt;br/>Ako súčasť Služby vám spoločnosť HMD Global môže poskytnúť určitý softvér spracovaný spoločnosťou HMD Global alebo poskytovateľmi, ktorí jej k takémuto softvéru udelili licenciu (ďalej len „Softvér“). Používanie Softvéru môže byť predmetom zvláštnych podmienok, ktoré ste povinní akceptovať, skôr ako začnete Softvér používať. Pokiaľ sa k danému Softvéru nevzťahujú žiadne zvláštne podmienky, platia tieto: spoločnosť HMD Global vám týmto udeľuje obmedzené, nevýhradné, neprevoditeľné právo na inštaláciu a používanie Softvéru na vašom počítači a/alebo mobilnom zariadení. Nemáte právo robiť kópie Softvéru, s výnimkou jednorazových záložných kópií. Nie ste oprávnení distribuovať, prevádzať právo na používanie, modifikovať, prekladať, rozmnožovať, predávať, prenechať výkon práva iným osobám, prenajímať, spätne generovať alebo inak zisťovať zdrojový kód alebo k nemu udeľovať sublicencie alebo spracúvať odvodené diela. V súvislosti s licenciou k Softvéru s otvoreným zdrojovým kódom platia príslušné podmienky vzťahujúce sa na takéto licencie. &lt;br/> &lt;br/>Softvér môže byť predmetom kontrolných mechanizmov vzťahujúcich sa na vývoz, platných podľa predpisov USA upravujúcich vývoz (U.S. Export Administration Regulations) a ďalších predpisov na kontrolu importu a exportu. Týmto sa zaväzujete, že budete prísne dodržiavať všetky príslušné dovozné a vývozné predpisy, a potvrdzujete, že zodpovedáte za získanie licencií na export, re- export, prevod alebo import takéhoto Softvéru. &lt;br/> &lt;br/>Môžete mať možnosť vkladať informácie alebo obsah (ďalej len „Materiál“) do používanej Služby. Spoločnosť HMD Global si nenárokuje vlastníctvo právo na taký Materiálu. Skutočnosť, že takýto Materiál poskytnete, neznamená prevod vlastníckych práv k Materiálu na spoločnosť HMD Global. Spoločnosť HMD Global len zabezpečuje prenos Materiálu a nezodpovedá za jeho úpravu. Vložením Materiálu do danej Služby udeľujete spoločnosti HMD Global celosvetovú, nevýhradnú, prevoditeľnú, plne splatenú, bezodplatnú, časovo neobmedzenú a neodvolateľnú licenciu na používanie, kopírovanie, verejné prezentovanie, zobrazovanie, šírenie v akýchkoľvek médiách a modifikovanie Materiálu za účelom jeho vkladania do ďalších diel a udeľovať k nej sublicencie v rozsahu nevyhnutnom na to, aby spoločnosť HMD Global mohla poskytovať danú Službu. Toto udelenie licencie môžete upraviť v nastavení ochrany súkromia alebo inom nastavení Služby. &lt;br/> &lt;br/>Ste výhradne zodpovedný za vytvorenie záložných kópií údajov, ktoré v rámci svojej Služby uchovávate, vrátane uploadovaného Obsahu. V prípade, že bude používanie Služby zastavené alebo zrušené, spoločnosť HMD Global je oprávnená vaše údaje trvale zmazať. Spoločnosť HMD Global nie je povinná vám po zastavení alebo zrušení používania Služby vaše údaje vracať. &lt;br/> &lt;br/>&lt;b>5. Používanie Služby&lt;/b> &lt;br/> &lt;br/>Týmto sa zaväzujete: &lt;br/>• dodržiavať príslušné zákony a tieto Podmienky a konať v súlade s dobrými mravmi, &lt;br/>• využívať Službu len pre osobné, nie komerčné účely, &lt;br/>• nevkladať nezákonný, nepresný, zavádzajúci materiál alebo materiál s urážlivým, hrubým, pornografickým, obťažujúcim alebo inak nevhodným obsahom, &lt;br/>• získať akékoľvek súhlasy, povolenia alebo licencie, ktoré môžu byť podľa zákona nevyhnutné na vloženie akéhokoľvek Materiálu, &lt;br/>• rešpektovať súkromie druhých, &lt;br/>• nedistribuovať a nevkladať spamy, neprimerane veľké súbory, reťazové správy, pyramídové schémy, vírusy, alebo &lt;br/>• nepoužívať iné technológie alebo iniciovať iné aktivity, ktoré môžu poškodiť Službu alebo záujmy alebo vlastníctvo používateľov Služby, &lt;br/>• nepoužívať automatizované systémy alebo prostriedky na prístup, získanie, kopírovanie alebo monitorovanie častí služby, &lt;br/>• že ponesiete zodpovednosť za akékoľvek následky, ktoré vyplynú z vami vloženého Materiálu. &lt;br/> &lt;br/>Spoločnosť HMD Global je oprávnená, nie však povinná: &lt;br/>• monitorovať alebo moderovať akýkoľvek Obsah alebo Materiál, &lt;br/>• odstrániť zo Služby akýkoľvek Materiál a &lt;br/>• kedykoľvek podľa svojho uváženia obmedziť prístup k akejkoľvek časti Služby. &lt;br/> &lt;br/>&lt;b>6. Obsah&lt;/b> &lt;br/> &lt;br/>Pred stiahnutím alebo zobrazením akéhokoľvek Obsahu skontrolujte, či Obsah, ktorý si chcete zobraziť, nie je obmedzený vekom alebo označený ako potenciálne „urážlivý“ alebo „explicitný.“ HMD Global nezodpovedá za žiadne nároky, ktoré by ste si chceli uplatniť, alebo za urážku či pohoršenie, ktoré by vám vznikli na základe zobrazenia takéhoto Obsahu. &lt;br/> &lt;br/>Týmto sa zaväzujete: &lt;br/>• používať Obsah len na osobné, nie komerčné účely, &lt;br/>• používať Obsah v rámci obmedzení stanovených príslušnými právnymi predpismi, ďalšími podmienkami a smernicami alebo na produktových stránkach, ktoré platia pre danú konkrétnu časť Obsahu, &lt;br/>• nevytvárať kópie, neposkytovať, nepredávať alebo nevykonávať ďalší predaj, nepožičiavať, neprenajímať, neponúkať, nevysielať, neposielať, nedistribuovať, neprevádzať, nezdieľať na verejnosti, nereprodukovať, nemodifikovať, nezobrazovať, neprezentovať, komerčne nevyužívať a nesprístupňovať Obsah, pokiaľ na to nebudete mať oprávnenie podľa príslušných podmienok, a o takomto neoprávnenom použití hneď informovať spoločnosť HMD Global, &lt;br/>• neodstraňovať, neobchádzať, spätne negenerovať, nedekódovať ani inak neupravovať neporušovať akékoľvek príslušné pravidlá o používaní, nepokúšať sa o obchádzanie pravidiel fungovania digitálnych práv a nekopírovať žiadne ochranné prvky spojené s Obsahom alebo akékoľvek iné technológie súžiace na kontrolu prístupu alebo používanie Obsahu alebo jeho identifikačných informácií, &lt;br/>• nepoužívať žiadne automatizované systémy alebo prostriedky, s výnimkou tých, ktoré poskytla spoločnosť HMD Global na výber alebo sťahovanie Obsahu, &lt;br/>• neposkytovať iným osobám vaše heslo ani inak neumožňovať iným osobám prístup k Obsahu. Obmedzenia týkajúce sa vytvárania kópií, ktoré sa vzťahujú k príslušným médiám, môžu platiť rovnako pre Obsah zobrazený ako súčasť danej Služby. &lt;br/>Obsah vlastní a/alebo kontroluje spoločnosť HMD Global a/alebo poskytovatelia, ktorí jej udelili príslušné licencie a je chránený právnymi predpismi o ochrane duševného vlastníctva. Poskytovateľ Obsahu &lt;br/>– tretia strana – výlučne zodpovedá za akýkoľvek Obsah, ktorý poskytne, za akékoľvek záruky v rozsahu, v ktorom takéto záruky neodmietol a za akékoľvek nároky, ktoré vám mohli vzniknúť v súvislosti s Obsahom alebo jeho používaním z vašej strany. Spoločnosť HMD Global však je oprávnená voči vám vymáhať dodržiavanie podmienok licencie k Obsahu ako tretia strana – oprávnený z daných podmienok. Poskytovatelia obsahu – tretie strany – sú oprávnení práv z týchto podmienok a môžu vymáhať dodržiavanie ustanovení, ktoré sa priamo týkajú Obsahu, ku ktorému títo poskytovatelia vlastnia práva. Spoločnosť HMD Global je v rámci poskytovania Obsahu pre vás oprávnená konať ako zástupca poskytovateľa Obsahu – tretej strany. HMD Global nie je stranou transakcie medzi vami a poskytovateľom Obsahu – treťou stranou v súvislosti s takýmto Obsahom. &lt;br/> &lt;br/>&lt;b>7. Oznámenie o porušení autorských práv&lt;/b> &lt;br/> &lt;br/>Spoločnosť HMD Global môžete o prípadoch porušenia autorských práv vzťahujúcich sa k danej Službe informovať e-mailom s predmetom Copyright Notification / Oznámenie o porušení autorských práv“ na legal@hmdglobal.com. Vo svojom oznámení:
+&lt;br/>
+&lt;br/>(1)\u0009uveďte identifikáciu originálneho diela chráneného autorským právom, ku ktorého porušeniu podľa vášho tvrdenia došlo,
+&lt;br/>(2)\u0009uveďte identifikáciu Obsahu v rámci danej Služby, ktorý podľa vás predstavuje porušenie autorských práv. Poskytnite spoločnosti HMD Global informácie dostatočne podrobné na to, aby bolo možné v rámci danej Služby lokalizovať Obsah, ktorý údajne predstavuje porušenie autorských práv,
+&lt;br/>(3)\u0009uveďte svoje kontaktné informácie, vrátane celého mena, adresy, telefónneho čísla a e- mailovej adresy (pokiaľ ju máte),
+&lt;br/>(4)\u0009priložte prehlásenie, že máte dobrý dôvod veriť, že použitie Obsahu, na ktoré upozorňujete, nebolo povolené držiteľom autorského práva, jeho zástupcom  alebo zákonom,
+&lt;br/>(5)\u0009oznámenie podpíšte, v prípade že sa podpis dá pripojiť.
+&lt;br/>
+&lt;br/>&lt;b>8.\u0009Doručovanie&lt;/b>
+&lt;br/>
+&lt;br/>Spoločnosť HMD Global môže v rámci Služby uverejňovať oznámenia. Spoločnosť HMD Global je ďalej oprávnená zasielať na e-mailovú adresu alebo telefónne číslo, ktoré ste nám poskytli, informácie o výrobkoch a Službách. Predpokladá sa, že takéto informácie vám boli doručené najneskôr do siedmich (7) dní od okamihu, kedy tieto informácie boli zverejnené alebo zaslané. Pokiaľ budete naďalej Službu používať, znamená to, že ste všetky takéto oznámenia akceptovali nezávisle na spôsobe doručenia.
+&lt;br/>
+&lt;br/>&lt;b>9.\u0009Poplatky&lt;/b>
+&lt;br/>
+&lt;br/>Používanie Služby z vašej strany môže byť spoplatnené alebo sa môže stať predmetom spoplatnenia.
+&lt;br/>
+&lt;br/>Akékoľvek poplatky, ktoré bude spoločnosť HMD Global účtovať, vám budú v súvislosti s danou Službou oznámené samostatne.
+&lt;br/>
+&lt;br/>Používanie Služby môže vyžadovať prenos údajov prostredníctvom siete poskytovateľa.
+&lt;br/>Ceny uvedené v rámci služby nezahŕňajú možný prenos údajov alebo poplatky za textové alebo hlasové správy alebo iné služby zo strany poskytovateľa sieťových služieb.
+&lt;br/>HMD Global odmieta akúkoľvek zodpovednosť za platby akýchkoľvek poplatkov poskytovateľom vašich služieb.
+&lt;br/>
+&lt;br/>&lt;b>10.\u0009Objednávka a platobné podmienky&lt;/b>
+&lt;br/>
+&lt;br/>Objednávka znamená výber spoplatneného Obsahu a/alebo predplatenie Obsahu, ktorý ponúka spoločnosť HMD Global a ktorý je k dispozícii v rámci Služby, výber spôsobu platby a odoslanie objednávky zvolením tlačidla „Kúpiť“, „Ok“, „Akceptujem,“ alebo iného podobného potvrdenia v procese objednávky alebo iný spôsob akceptácie podmienok, ktoré sú vám v procese objednávky predložené.
+&lt;br/>
+&lt;br/>Pre Objednávku v rámci Služby je nevyhnutné, aby ste dosiahli vek právnej spôsobilosti podľa príslušných právnych predpisov. Pokiaľ nie ste podľa zákona spôsobilí na právne úkony v plnom rozsahu, môžete Objednávku odoslať len s predchádzajúcim súhlasom rodičov alebo zákonných zástupcov.
+&lt;br/>
+&lt;br/>Týmto súhlasíte s tým, že všetky vaše Objednávky budú platné a právne záväzné. Všetky Objednávky musí schváliť spoločnosť HMD Global.
+&lt;br/>
+&lt;br/>Platby môžete vykonávať kreditnou alebo debetnou kartou, na základe vyúčtovania poskytovateľa sieťovej služby alebo iným spôsobom, pokiaľ je taký k dispozícii.
+&lt;br/>
+&lt;br/>Vaša kreditná alebo debetná karta musí mať zúčtovaciu adresu v krajine, kde je Obsah pre danú Službu ponúkaný. Spoločnosť HMD Global si čiastku z vašej karty alebo bankového účtu odčíta v primeranej lehote po odoslaní Objednávky. Všetky platby kreditnou kartou sú predmetom overenia a schválenia zo strany emitenta karty.
+&lt;br/>
+&lt;br/>Pokiaľ zvolíte metódu platby na základe vyúčtovania poskytovateľa sieťovej služby, účtované čiastky budú uvedené na vašom vyúčtovaní k mobilnému telefónu alebo budú odrátané z predplateného účtu. Niektorí poskytovatelia sieťových služieb môžu vaše používanie Služby podmieniť ďalšími podmienkami, vrátane obmedzenia počtu účtovaných čiastok, ktoré sú u takéhoto poskytovateľa možné. Čiastky mimo rámca takýchto limitov alebo zostatku na účte môžu byť odmietnuté.
+&lt;br/>
+&lt;br/>Týmto sa zaväzujete uhradiť poplatky vzťahujúce sa k vašej Objednávke, zaistiť, aby platobný nástroj bol v okamihu Objednávky platný, aby ste vy boli jeho oprávneným držiteľom a aby daný platobný nástroj bol použitý v rámci kreditných limitov.
+&lt;br/>
+&lt;br/>K doručenému Obsahu vám je udelená licencia. Týmto sa zaväzujete, že daný Obsah budete používať výhradne v súlade s týmito Podmienkami a akýmikoľvek ďalšími podmienkami, o ktorých ste boli informovaný v procese Objednávky.
+&lt;br/>
+&lt;br/>Služba vám môže ponúknuť možnosť predplatného. V rámci predplatného dávate povolenie, aby vám v rámci Služby po dobu predplatného bola účtovaná určitá čiastka. Služba vám ďalej môže ponúknuť skúšobnú lehotu. Pokiaľ vaša Objednávka zahŕňa skúšobnú lehotu (nazývanú tiež try- and-buy), môže vám príslušná čiastka byť vyúčtovaná najskôr po jej uplynutí, pokiaľ odber nezrušíte v súlade s podmienkami predplatného/skúšobnej lehoty.
+&lt;br/>
+&lt;br/>Ceny v rámci Služby sa môžu meniť. Ceny zahŕňajú príslušné dane, platné v dobe transakcie, pokiaľ nie je uvedené inak. V niektorých prípadoch vám môžu vniknúť ďalšie poplatky účtované vašou bankou alebo poskytovateľom kreditnej karty na základe výmenných kurzov a/alebo ďalších vymeraných poplatkov. Spoločnosť HMD Global odmieta zodpovednosť za platby banky alebo iné poplatky za služby tretej strany.
+&lt;br/>
+&lt;br/>&lt;b>11.\u0009Zrušenie a náhrady&lt;/b>
+&lt;br/>
+&lt;br/>Týmto súhlasíte s elektronickým doručením Obsahu, pričom tento proces bude začatý spolu s odovzdaním Objednávky. Objednávku nie je možné do okamihu spracovania zrušiť. Z povahy Obsahu vyplýva, že nemôže byť vrátený.
+&lt;br/>
+&lt;br/>V prípade, že po odoslaní Objednávky zistíte a spoločnosť HMD Global bezodkladne do 48 hodín informujete, že (a) Obsah, ktorý ste si objednali, je chybný, (b) Obsah, ktorý vám spoločnosť HMD Global doručila, nezodpovedá popisu Obsahu, ktorý ste si prostredníctvom danej Služby objednali, alebo
+&lt;br/>(c) z technických dôvodov bolo doručenie Obsahu omeškané alebo znemožnené alebo v dôsledku takých technických problémov došlo k náhodným opakovaným Objednávkam, jedinou a výlučnou možnosťou odstránenia vady v súvislosti s takýmto Obsahom je výmena Obsahu alebo refundácia zaplatenej ceny podľa výhradného rozhodnutia spoločnosti HMD Global. Žiadne iné refundácie nie sú možné. Pokiaľ sa s niektorým z vyššie uvedených problémov stretnete, kontaktujte prosím centrum zákazníckej podpory spoločnosti HMD Global.
+&lt;br/>
+&lt;br/>Upozorňujeme, že spoločnosť HMD Global nemusí byť schopná spracovať vašu požiadavku na zákaznícku podporu, pokiaľ neuvediete svoje transakčné identifikačné číslo, ktoré vám spoločnosť HMD Global pridelila na základe Objednávky odoslanej z vašej Služby. Spoločnosť HMD Global je oprávnená spracovať len refundáciu za Obsah, ktorého celková cena prevyšuje limit stanovený príslušnými miestnymi právnymi predpismi.
+&lt;br/>
+&lt;br/>&lt;b>12.\u0009Spätná väzba pre spoločnosť HMD Global&lt;/b>
+&lt;br/>
+&lt;br/>Doručením akýchkoľvek nápadov, spätnej väzby a/alebo návrhov (ďalej len „Spätná väzba“) spoločnosti HMD Global prostredníctvom danej Služby alebo inými prostriedkami potvrdzujete a  súhlasíte, že (1) spoločnosť  HMD Global môže mať plány na vývoj podobné ako je vaša  Spätná  väzba,
+&lt;br/>(2) Spätná väzba od vás neobsahuje vaše dôverné alebo chránené informácie ani takéto informácie tretích strán, (3) spoločnosť HMD Global nemá žiadny záväzok zachovania dôvernosti informácií v súvislosti so Spätnou väzbou, (4) spoločnosť HMD Global je oprávnená vašu Spätnú väzbu voľne využívať, distribuovať a ďalej rozvíjať a modifikovať pre akékoľvek účely a (5) nemáte nárok na odmenu akéhokoľvek druhu zo strany spoločnosti HMD Global.
+&lt;br/>
+&lt;br/>&lt;b>13.\u0009Sociálne aktivity a zdieľanie lokality&lt;/b>
+&lt;br/>
+&lt;br/>V rámci svojej Služby môžete využívať určité prvky na zdieľanie svojej lokality, statusu, obsahu, Materiálov alebo osobných údajov alebo na interakciu s inými užívateľmi, stránkami alebo službami. Použitím týchto prvkov dávate súhlas s tým, že spoločnosť HMD Global je oprávnená použiť a poskytnúť takéto informácie iným službám a osobám, s ktorými chcete byť v interakcii alebo s nimi takéto informácie zdieľať. Používatelia týchto služieb a osoby, ktoré máte napríklad uvedené vo svojich kontaktoch, môžu vidieť vašu lokalitu, status a/alebo osobné údaje. Pri využívaní týchto prvkov sa zaväzujete, že dané informácie, Obsah alebo Materiály nebudete zdieľať alebo prepájať so žiadnymi službami alebo stránkami, ktoré (a) zahŕňajú obsah alebo iný materiál, ktorý odporuje zákonu alebo je nevhodný, alebo (b) bez oprávnenia využíva práva k duševnému vlastníctvu a povzbudzuje užívateľov k pirátstvu. Interakcia nezahŕňa spoločnosť HMD Global a odohráva sa výhradne medzi vami a ostatnými používateľmi
+&lt;br/>
+&lt;br/>&lt;b>14.\u0009Dostupnosť a technické požiadavky&lt;/b>
+&lt;br/>
+&lt;br/>Dostupnosť Obsahu a Služby sa môže líšiť a je na výhradnom uvážení spoločnosti HMD Global. Spoločnosť HMD Global výslovne odmieta akékoľvek prehlásenie alebo záruku za dostupnosť určitého Obsahu alebo Služby. Služba nemusí byť dostupná vo všetkých krajinách a môže byť poskytovaná vo vybraných jazykoch. Služba, jej prevádzka a niektoré prvky môžu byť ďalej závislé na sieti, kompatibilite používaných zariadení a podporovaných formátoch obsahu.
+&lt;br/>
+&lt;br/>Pre prístup k danej Službe môže byť nevyhnutné stiahnutie určitého softvéru vyvinutého spoločnosťou HMD Global alebo inou stranou.
+&lt;br/>
+&lt;br/>Spoločnosť HMD Global môže podľa svojho výhradného uváženia zmeniť, opraviť alebo zrušiť  Službu  v celom alebo čiastočnom rozsahu. Služba nemusí byť k dispozícii počas údržby a iných udalostí. Aby ste mali istotu, že máte posledné verzie softvéru a aplikácií HMD Global, môže vaše zariadenie automaticky kontrolovať dostupnosť aktualizácií softvéru spoločnosti HMD Global. Ak budú akékoľvek aktualizácie zistené, budete upozornený, aby ste schválili inštaláciu. Nastavením nového zariadenia môžete automatické vyhľadávanie aktualizácií zablokovať. Rovnako si môžete nainštalovať softvér pomocou dostupných kanálov pre aktualizáciu softvéru. Pokiaľ spoločnosť HMD Global bude aktualizáciu Softvéru považovať za dôležitú alebo kritickú, môže sa stať, že nebudete môcť používať predchádzajúcu verziu Softvéru. Spoločnosť HMD Global vám môže zabrániť používať predchádzajúce verzie Softvéru alebo Služby, pokiaľ si nenainštalujete poslednú aktualizáciu.
+&lt;br/>
+&lt;br/>Spoločnosť HMD Global môže z akéhokoľvek dôvodu zablokovať akýkoľvek Obsah alebo Softvér na účte vašej Služby a odstrániť akýkoľvek Obsah alebo Softvér a/alebo zablokovať kópie akejkoľvek aplikácie na vašom zariadení kvôli ochrane Služby, poskytovateľov aplikácie, sietí bezdrôtových nosičov, prostredníctvom ktorých získavate prístup k službe alebo akýchkoľvek iných dotknutých alebo potenciálne dotknutých strán.
+&lt;br/>
+&lt;br/>Určitá Služba môže predstavovať verziu pre-relase, napríklad verziu beta, a nemusí fungovať rovnako ako funguje verzia konečná. Spoločnosť HMD Global môže podstatným spôsobom zmeniť akúkoľvek verziu Služby alebo Softvéru alebo sa rozhodnúť finálnu verziu nevydať.
+&lt;br/>
+&lt;br/>&lt;b>15.\u0009Odkazy na stránky a obsah tretích strán&lt;/b>
+&lt;br/>
+&lt;br/>Spoločnosť HMD Global môže poskytovať prístup na stránky a služby na internete alebo predinštalované klientmi, na základe čoho získavate možnosť interakcie s inými stránkami a službami, ktoré sú vo vlastníctve alebo sú prevádzkované tretími stranami, avšak nie sú súčasťou Služby. Pred použitím týchto stránok alebo služieb ste povinní zoznámiť sa s ich podmienkami.
+&lt;br/>
+&lt;br/>Spoločnosť HMD Global nemá kontrolu nad obsahom, stránkami alebo službami tretích strán a odmieta zodpovednosť za služby poskytnuté alebo materiál spracovaný alebo zverejnený na stránkach alebo v rámci služieb týchto tretích strán. Odkaz na stránku tretej strany neznamená, že spoločnosť HMD Global stránku alebo výrobky a služby na nej uvedené propaguje.
+&lt;br/>
+&lt;br/>Vy aj ďalší používatelia môžete rovnako spracúvať obsah a odkazy na obsah v rámci Služby, ktorý nebol Službe odovzdaný inak. Spoločnosť HMD Global nezodpovedá za takéto druhy obsahov alebo odkazov.
+&lt;br/>
+&lt;br/>&lt;b>16.\u0009Reklama&lt;/b>
+&lt;br/>
+&lt;br/>Služba môže obsahovať reklamu. Reklama môže byť cielená na obsah alebo informácie uchovávané v rámci Služby, otázky, ktoré boli v rámci Služby položené alebo iné informácie.
+&lt;br/>
+&lt;br/>&lt;b>17.\u0009Osobné údaje&lt;/b>
+&lt;br/>
+&lt;br/>Využívanie vašich osobných údajov reguluje Smernica o ochrane osobných údajov a akékoľvek ďalšie informácie o tejto oblasti, ktoré vám boli odovzdané.
+&lt;br/>
+&lt;br/>&lt;b>18.\u0009Obmedzenie zodpovednosti&lt;/b>
+&lt;br/>
+&lt;br/>Služba je poskytovaná tak, ako je („AS IS“), alebo ako je dostupná („AS AVAILABLE“). Spoločnosť HMD Global  nezaručuje, že Služba bude fungovať bez prerušení, chýb a vírusov. V súvislosti  s dostupnosťou, presnosťou, spoľahlivosťou, informáciami alebo obsahom Služby spoločnosť HMD Global nevydáva záruku žiadneho druhu, výslovnú ani konkludentnú, a to predovšetkým ani záruku vlastníckeho práva, záruku na neporušovanie práv, obchodovateľnosť alebo vhodnosť k určitému účelu. Týmto výslovne potvrdzujete a súhlasíte s tým, že Službu budete používať výhradne na vlastné riziko a že môžete byť vystavení obsahu z rôznych zdrojov.
+&lt;br/>
+&lt;br/>S výnimkou zodpovednosti za škodu na živote alebo za škodu na zdraví spôsobenou hrubou nedbanlivosťou alebo úmyselným pochybením spoločnosť HMD Global nezodpovedá za priame škody spôsobené vaším používaním alebo neschopnosťou Službu používať. Spoločnosť HMD Global v žiadnom prípade nezodpovedá za žiadne nepriame, súvisiace alebo následné škody alebo škody nad rámec bežnej kompenzácie s represívnou funkciou vyplývajúce z vášho spôsobu používania alebo neschopnosti používať Službu.
+&lt;br/>
+&lt;br/>&lt;b>19.\u0009Odškodnenie&lt;/b>
+&lt;br/>
+&lt;br/>Týmto sa zaväzujete, že spoločnosť HMD Global budete chrániť a odškodníte proti všetkým nárokom tretích strán a všetkým záväzkom, stratám, nákladom a náhradám škôd, ktoré vzniknú v dôsledku alebo vyplynú (i) z vášho porušenia Podmienok, (ii) z vášho porušenia práv duševného vlastníctva alebo iných práv alebo porušenia súkromia tretej strany alebo (iii) zneužitia Služby treťou stranou, pokiaľ takéto zneužitie nastalo v dôsledku toho, že ste neprijali primerané opatrenia na ochranu svojho používateľského mena a hesla pred zneužitím.
+&lt;br/>
+&lt;br/>&lt;b>20.\u0009Ostatné ustanovenia&lt;/b>
+&lt;br/>
+&lt;br/>&lt;b>20.1\u0009Voľba práva&lt;/b>
+&lt;br/>
+&lt;br/>Tieto podmienky sa riadia právnym poriadkom Fínska bez ohľadu na ustanovenie kolíznych noriem.
+&lt;br/>
+&lt;br/>&lt;b>20.2\u0009Platnosť&lt;/b>
+&lt;br/>
+&lt;br/>Tieto podmienky nevylučujú ani neobmedzujú žiadne zo zákonných práv v krajine vášho pobytu, ktorých sa zo zákona nemožno zriecť. Pokiaľ niektoré z ustanovení týchto Podmienok budú uznané za neplatné, ostatné ustanovenia nie sú dotknuté a neplatné ustanovenie bude nahradené platným ustanovením, ktoré bude pokiaľ možno čo najbližšie výsledku a účelu týchto Podmienok. Pokiaľ najmenej jedno ustanovenie týchto Podmienok nebude relevantné pre vaše používanie Služby, nemá to vplyv na platnosť alebo vymáhateľnosť ktoréhokoľvek z ostatných ustanovení týchto podmienok alebo týchto podmienok ako celku. V prípade rozporu medzi týmto podmienkami a Smernicou o ochrane osobných údajov spoločnosti HMD Global sú ustanovenia týchto podmienok rozhodujúce. Ustanovenia týchto podmienok platia aj po ukončení vašej registrácie.
+&lt;br/>
+&lt;br/>&lt;b>20.3\u0009Úpravy podmienok&lt;/b>
+&lt;br/>
+&lt;br/>Spoločnosť HMD Global je oprávnená tieto Podmienky kedykoľvek bez predchádzajúceho upozornenia upraviť. V prípade, že podmienky budú upravené podstatným nepriaznivým spôsobom, spoločnosť HMD Global vás samostatnou správou o takýchto úpravách bude informovať.
+&lt;br/>
+&lt;br/>Je vo vašej zodpovednosti tieto Podmienky pravidelne preštudovať. Pokračujúcim používaním Služby dávate súhlas s akýmikoľvek úpravami a modifikáciami.
+&lt;br/>
+&lt;br/>&lt;b>21.\u0009Duševné vlastníctvo&lt;/b>
+&lt;br/>
+&lt;br/>Služby, Obsah a Softvér sú chránené podľa ustanovení medzinárodných právnych predpisov o autorských právach. Spoločnosť HMD Global má autorské práva ku svojim Službám, Obsahu a Softvéru v maximálnom rozsahu, ktorý umožňuje zákon. S výhradou týchto Podmienok spoločnosť HMD Global vlastní všetky práva, tituly a podiely na Službách, ich Obsahu, Softvéru a všetkých výrobkoch HMD Global, softvéru a ďalších prvkoch, ktoré vám boli poskytnuté alebo ktoré využívate prostredníctvom Služby.
+&lt;br/>
+&lt;br/>&lt;b>22.\u0009Postúpenie&lt;/b>
+&lt;br/>
+&lt;br/>Spoločnosť HMD Global je oprávnená postúpiť svoje práva a záväzky podľa týchto Podmienok svojej materskej spoločnosti, svojim dcérskym spoločnostiam alebo akejkoľvek inej spoločnosti, ktorá je ovládaná rovnakou osobou ako spoločnosť HMD Global. Spoločnosť HMD Global je ďalej oprávnená postúpiť svoje práva a záväzky podľa týchto podmienok tretej osobe, a to v súvislosti s fúziou, akvizíciou, predajom majetku, zo zákona alebo inak.
+"</string>
+    <string name="nokia_legal_title">Právne informácie spoločnosti HMD</string>
+    <string name="positive">OK</string>
+    <string name="privacy_activity">Zásady ochrany osobných údajov spoločnosti HMD</string>
+    <string name="privacy_context">"Zásady ochrany osobných údajov spoločnosti HMD Global týkajúce sa výrobkov a služieb
+
+Dátum účinnosti: 1. novembra 2018
+
+Riadnu ochranu vašich osobných údajov považujeme za dôležitú.
+
+Spoločnosť HMD Global Oy sa zaväzuje rešpektovať vaše súkromie a dodržiavať príslušné právne predpisy na ochranu osobných údajov a súkromia. Tieto zásady ochrany osobných údajov (ďalej len „zásady“) opisujú, ako zhromažďujeme a používame osobné údaje tam, kde spoločnosť HMD vystupuje v úlohe prevádzkovateľa údajov, ako aj spôsoby uplatnenia, na ktoré sa v týchto zásadách odkazujeme. „Osobné údaje“ sú údaje, ktoré sa týkajú vás alebo inej identifikovateľnej osoby.
+
+V dodatkoch k týmto zásadám nájdete doplnkové informácie o ochrane osobných údajov týkajúce sa konkrétneho výrobku alebo konkrétnej služby, okrem toho sa vám pri používaní výrobkov alebo služieb môžu zobraziť ďalšie upozornenia. Ak existuje rozpor medzi takýmito oznámeniami a týmito zásadami, prednostne sa uplatňuje text upozornení.
+
+Venujte potrebný čas zoznámeniu sa s týmito zásadami, a v prípade akýchkoľvek otázok sa s nami skontaktujte.
+
+Aké údaje zhromažďujeme?
+
+Vaše osobné údaje a ďalšie informácie zhromažďujeme, keď uskutočníte nákup, keď používate naše produkty alebo služby, prípadne sa registrujete v rámci našich výrobkov a služieb, keď sa zapájate do kampaní alebo prieskumov alebo keď s nami komunikujete iným spôsobom. Zahŕňa to tieto kategórie:
+
+•　Aktivácia produktov a služieb. Produkty a služby spoločnosti HMD môžu vyžadovať elektronickú aktiváciu, pri ktorej sa spoločnosti HMD zasielajú údaje o type zariadenia a aplikácie a jedinečný identifikátor zariadenia, aplikácie, siete a predplatného.
+
+•　Používanie produktov a služieb. 
+
+　o　Keď využívate online prístup k našim službám, naše webové servery vašu návštevu automaticky zaznamenávajú. Tieto záznamy zvyčajne obsahujú adresu IP, dobu prístupu, odkazujúce webové stránky, navštívené stránky, použité odkazy a funkcie, zobrazený alebo vyžiadaný obsah, typ prehliadača alebo aplikácie, jazyk a ďalšie podobné údaje. Naše aplikácie sa môžu spájať s našimi servermi pravidelne, napríklad pri kontrole aktualizácií alebo odosielaní informácií týkajúcich sa využívania služby.
+
+　o　Programy na zdokonaľovanie. Môžeme vás vyzvať, aby ste sa zapojili do dobrovoľných programov, ktorých cieľom je zlepšovanie produktov a služieb, prípadne prieskum. V rámci týchto programov sa zhromažďujú podrobné údaje. Ďalšie informácie nájdete v dodatku týkajúcom sa Programu pre používateľov.
+
+　o　Údaje o polohe. Služby využívajúce polohu určujú vašu presnú alebo približnú polohu rôznymi metódami určenia polohy, ktoré využívajú satelitnú, mobilnú, Wi-Fi alebo inú sieť. Tieto technológie môžu zahŕňať výmenu údajov so spoločnosťou HMD o vašej polohe a jedinečných identifikátorov súvisiacich so zariadením a mobilnou, Wi-Fi alebo inou sieťou. Bez vášho súhlasu nevyužívame tieto údaje na vašu osobnú identifikáciu.
+
+•　Informácie, ktoré nám poskytujete. Pri vytváraní účtu, nákupe, vyžiadaní služby, účasti na prieskume alebo kampaniach, prípadne pri inej forme komunikácie s nami vás môžeme požiadať o informácie, ako je vaše meno, e-mailová adresa, telefónne číslo, fyzická adresa, používateľské mená a heslá, spätná väzba, informácie týkajúce sa vašich zariadení, veku, pohlavia a jazyka, čísla bankového účtu, údaje o platobnej karte a ďalšie podobné finančné informácie. Okrem toho vedieme záznamy o vašich súhlasoch, preferenciách a nastaveniach týkajúcich sa napríklad údajov o polohe, marketingu a zdieľania osobných údajov.
+
+•　Údaje získavame zo zdrojov tretích strán. Určité informácie získavame zo služieb sociálnych sietí, ktoré predstavujú tretie strany, napríklad keď sa na svoj účet prihlásite pomocou prihlasovacích údajov účtu v sociálnej sieti. Ďalšie informácie nájdete v dodatku týkajúcom sa účtu k telefónom Nokia.
+
+•　Vaše transakcie realizované s nami. Uchovávame záznamy o vykonaných nákupoch, sťahovaniach, o obsahu, ktorý ste nám poskytli, o vašich požiadavkách, produktoch a službách, ktoré sme vám poskytli, podrobnosti o platbách a dodávkach, o vašich kontaktoch a komunikácii, ako aj o ďalšej interakcii s nami. V súlade s platnými zákonmi môžeme zaznamenávať vašu komunikáciu s našimi službami starostlivosti o zákazníkov alebo s ďalšími podobnými kontaktnými miestami.
+
+Prečo spracovávame osobné údaje?
+
+Spoločnosť HMD môže spracovávať vaše osobné údaje na tieto účely. Uplatňovať sa môže jeden alebo viacero účelov súčasne.
+
+•　Poskytovanie produktov a služieb. Vaše osobné údaje využívame na to, aby sme vám mohli poskytovať naše produkty a služby, na spracovanie vašich požiadaviek, alebo iným spôsobom, ak je to nevyhnutné v rámci plnenia zmluvy uzavretej medzi vami a spoločnosťou HMD, na zabezpečenie funkčnosti a bezpečnosti našich produktov a služieb, na určenie vašej totožnosti v záujme predchádzania podvodom a pri vyšetrovaní podvodov a iných zneužití. Napríklad údaje o aktivácii zariadenia používame na aktiváciu záruky na vaše zariadenie a na poskytovanie súvisiacich služieb v rámci starostlivosti o zákazníkov.
+
+•　Personalizácia produktov a služieb. Vaše osobné údaje využívame na personalizáciu našich produktov a služieb, ktoré používate, a na poskytovanie relevantnejších služieb, ktoré zodpovedajú vášmu profilu a vašim záujmom, napríklad na vytváranie odporúčaní a zobrazovanie prispôsobeného obsahu v našich službách.
+
+•　Účty. Niektoré služby vyžadujú účet, ktorý vám pomáha spravovať váš obsah a preferencie. Ďalšie informácie nájdete v dodatku týkajúcom sa účtu k telefónom Nokia.
+
+•　Vývoj produktov a služieb. Vaše osobné údaje využívame pri vývoji našich produktov a služieb, na účely starostlivosti o zákazníkov, predaja a marketingu. Môžete sa napríklad zapojiť do Programu pre používateľov a poskytovať nám osobné údaje pre potreby zvyšovania kvality a zlepšovania výkonu našich produktov a služieb. Ďalšie informácie o tom, ako využívame vaše osobné údaje pri vývoji našich produktov a služieb, nájdete v dodatku týkajúcom sa Programu pre používateľov. Osobné údaje zozbierané v spojitosti s používaním konkrétneho produktu alebo služby spoločnosti HMD môžeme spojiť s ďalšími osobnými údajmi, ktoré o vás môžeme mať, pokiaľ sa takéto osobné údaje nezhromažďujú na odlišné účely.
+
+•　Komunikácia s vami. Vaše osobné údaje používame na komunikáciu s vami, napríklad aby sme vás informovali, že naše služby sa zmenili, alebo aby sme vám mohli poslať dôležité upozornenia a ďalšie takéto oznámenia týkajúce sa našich produktov alebo služieb, prípadne aby sme sa s vami mohli skontaktovať na účely starostlivosti o zákazníkov. Ďalšie informácie o tom, ako využívame vaše osobné údaje na poskytovanie služieb starostlivosti o zákazníkov, nájdete v dodatku týkajúcom sa starostlivosti o zákazníkov spoločnosti Nokia.
+
+•　Marketing. Môžeme sa s vami skontaktovať, aby sme vás informovali o nových produktoch, službách alebo propagačných akciách, ktoré môžeme ponúkať, prípadne s cieľom vykonať prieskum trhu, pokiaľ na to máme váš súhlas alebo ak je to inak prípustné. Vaše osobné údaje môžeme využiť na personalizáciu našej ponuky a na poskytovanie relevantnejších služieb, ktoré zodpovedajú vášmu profilu a vašim záujmom, na marketingové účely, napríklad na zobrazovanie prispôsobeného obsahu v našich službách alebo pri odporúčaní príslušenstva. Pri tejto činnosti sa môže zobrazovať obsah spoločnosti HMD alebo tretej strany.
+
+Na akom základe prebieha spracovanie údajov?
+
+Spoločnosť HMD spracováva vaše osobné údaje len zákonným spôsobom. Spracovanie údajov vychádza z uvedených právnych základov:
+
+•　Zmluva. Spracovanie vašich osobných údajov je nevyhnutné na plnenie zmluvy medzi vami a spoločnosťou HMD. Vaše osobné údaje využívame na to, aby sme vám poskytovali naše výrobky a služby a zaistili ich funkčnosť a zabezpečenie. Ak nám neposkytnete potrebné informácie, spôsobí to, že vám nebudeme schopní poskytnúť produkt alebo službu. Zmluva je základom na spracovanie údajov napríklad v týchto prípadoch:
+
+　o　Zhromažďujeme osobné údaje potrebné na spracovanie platieb a dodanie vami zakúpených položiek.
+
+　o　Komunikujeme s vami, aby sme vás informovali napríklad o aktualizácii softvéru alebo aby sme vám mohli poslať dôležité oznámenia týkajúce sa našich produktov alebo služieb, prípadne aby sme sa s vami mohli skontaktovať na účely týkajúce sa starostlivosti o zákazníkov.
+
+•　Oprávnený záujem.  Spoločnosť HMD spracováva osobné údaje, keď je to potrebné na účely oprávnených záujmov spoločnosti HMD. Oprávnené záujmy predstavujú záujmy, ktoré sú zákonné a pre spoločnosť HMD dôležité. Pri činnostiach spracovania údajov vyplývajúcich z oprávnených záujmov berieme do úvahy vaše práva, ktoré musia byť v rovnováhe so záujmami spoločnosti HMD. Ak máte záujem o ďalšie informácie o tom, ako určujeme túto rovnováhu, obráťte sa na nás. Máte právo podať námietku voči spracovaniu na základe oprávnených záujmov. Ďalšie informácie o vašich právach a o tom, ako sa s nami skontaktovať, nájdete v časti „Aké máte práva?“. Oprávnený záujem tvorí základ pre spracovanie údajov napríklad v týchto prípadoch:
+
+　o　Aktivujete si produkty a služby spoločnosti HMD elektronicky a spoločnosti HMD sa pri tom zasielajú údaje o type zariadenia a aplikácie a jedinečný identifikátor zariadenia, aplikácie, siete a predplatného.
+
+　o　Skontaktujeme sa s vami, aby sme vás informovali o nových produktoch alebo službách podobných tým, ktoré ste od nás už skôr získali.
+
+　o　Vaše osobné údaje môžeme využiť na personalizáciu našej ponuky a na poskytovanie relevantnejších služieb, ktoré zodpovedajú vášmu profilu a vašim záujmom, napríklad aby sme vám poskytli odporúčania, zobrazili prispôsobený obsah alebo na účely marketingu v rámci našich služieb. Pri tejto činnosti sa môže zobrazovať obsah tretích strán.
+
+　o　Analyzujeme informácie o vašich záujmoch, nákupnom správaní a vašu spätnú väzbu v záujme rozvoja našich obchodných činností, produktov a služieb.
+
+　o　Spracovávame osobné údaje s cieľom predchádzať podvodom a vyšetrovať podvody a ďalšie zneužívanie, pri obrane oprávnených záujmov spoločnosti HMD, napríklad v občianskoprávnom alebo trestnoprávnom konaní.
+
+•　Súhlas. Spracovanie vašich osobných údajov sa môže zakladať na vašom súhlase. V týchto situáciách vás požiadame o súhlas ešte pred tým, než vaše osobné údaje spracujeme. Poskytnutie takého súhlasu je vždy dobrovoľné a máte možnosť svoj súhlas kedykoľvek odvolať. Odvolanie súhlasu nemá žiadny vplyv na zákonnosť spracovania na základe daného súhlasu pred jeho odvolaním. Vedieme záznamy o vašich súhlasoch, preferenciách a nastaveniach týkajúcich sa napríklad údajov o marketingu, polohe a zdieľania osobných údajov. Súhlas tvorí základ pre spracovanie napríklad v týchto situáciách:
+
+　o　Keď sa zapojíte do Programu pre používateľov, zhromažďujeme údaje o tom, ako využívate konkrétny produkt alebo službu spoločnosti HMD. Údaje využijeme na zlepšovanie našich produktov a služieb. Svoj súhlas môžete odvolať v nastaveniach zariadenia. Ďalšie informácie nájdete v dodatku týkajúcom sa Programu pre používateľov.
+
+　o　Môžete sa prihlásiť na odber našich správ, v ktorých informujeme o nových produktoch, službách a propagačných akciách. Súhlas na účely marketingu môžete kedykoľvek odvolať pomocou odkazu na zrušenie odberu, ktorý sa nachádza na konci bulletinu.
+
+　o　Služba vyžaduje účet, ktorý vám pomáha spravovať váš obsah a preferencie. Obsah na spracovanie môžete spravovať v nastaveniach účtu.
+
+　o　Použitie produktov a služieb spoločnosti HMD môže, na základe vášho súhlasu, zahŕňať použitie údajov o polohe. Súhlas so spracovaním údajov o polohe môžete odvolať v nastaveniach zariadenia alebo aplikácie.
+
+•　Zákonná povinnosť. Môže byť potrebné, aby spoločnosť HMD spracovávala vaše osobné údaje s cieľom plniť svoje zákonné povinnosti, ktoré sa na spoločnosť HMD vzťahujú. Spoločnosť HMD môže byť napríklad zo zákona povinná oznámiť vaše osobné údaje na vyžiadanie orgánom štátnej správy.
+
+Zdieľame osobné údaje?
+
+Vaše osobné údaje nepredávame, neprenajímame ani nepožičiavame tretím stranám. Vaše osobné údaje môžeme oznámiť tretím stranám iba v týchto situáciách:
+
+•　Spoločnosti skupiny HMD a oprávnené tretie strany. Vaše osobné údaje môžeme zdieľať s ďalšími spoločnosťami skupiny HMD alebo s oprávnenými tretími stranami, ktoré spracúvajú osobné údaje pre spoločnosť HMD na účely opísané v týchto zásadách. Môže ísť napríklad o fakturáciu prostredníctvom vášho operátora alebo fakturáciu iným spôsobom, dodanie vami zakúpených položiek, poskytovanie služieb vrátane služieb pre zákazníkov, analyzovanie údajov o spotrebiteľoch, kontroly kreditnej solventnosti alebo vykonávanie prieskumu. Keď si zakúpite produkt od spoločnosti HMD, môže sa vyžadovať, aby sme si vymenili informácie s vaším operátorom. Tieto tretie strany nemajú povolené používať vaše osobné údaje na žiadne iné účely. Požadujeme od nich, aby konali v súlade s týmito zásadami a využívali vhodné bezpečnostné opatrenia na ochranu vašich osobných údajov.
+
+•　Marketing. Môžeme zdieľať vaše osobné údaje s našimi marketingovými partnermi, napríklad na účely správy marketingových kampaní. Môžeme marketing vykonávať spoločne, prípadne môžeme aj inak komunikovať s našimi partnermi. S cieľom vyhnúť sa duplicitnej či zbytočnej komunikácii a na účely prípravy oznámenia na mieru pre vás môžeme v prípadoch, keď to pripúšťa zákon, spojiť informácie, ktoré zhromaždila spoločnosť HMD, s informáciami, ktoré zhromaždil partner. Naši marketingoví partneri nemajú povolené používať vaše osobné údaje na žiadne iné účely. Požadujeme od nich, aby konali v súlade s týmito zásadami a využívali vhodné bezpečnostné opatrenia na ochranu vašich osobných údajov.
+
+•　Medzinárodný prenos osobných údajov. Pri poskytovaní našich produktov a služieb využívame prostriedky a servery nachádzajúce sa v rôznych krajinách a regiónoch sveta, vrátane Európskej únie, Spojených štátov amerických, Singapuru a Číny. Preto sa môžu vaše osobné údaje prenášať cez medzinárodné hranice, mimo územia, kde využívate naše produkty a služby, vrátane krajín mimo Európskeho hospodárskeho priestoru (EHP), kde neexistujú zákony zabezpečujúce špeciálnu ochranu osobných údajov, prípadne kde platia iné právne predpisy o ochrane osobných údajov. V takýchto prípadoch zabezpečujeme, aby na takýto prenos existoval právny základ a aby bola zaistená adekvátna ochrana vašich osobných údajov, ako to vyžadujú platné právne predpisy, napríklad využitím štandardných zmluvných ustanovení schválených príslušnými orgánmi (ak je to potrebné) alebo požiadaním, aby sa uplatňovali ďalšie vhodné technické a organizačné opatrenia na zabezpečenie údajov.
+
+•　Povinné uverejňovanie informácií. Môžeme mať povinnosť oznámiť vaše osobné údaje určitým orgánom alebo tretím stranám, ktorá vyplýva zo záväzných právnych predpisov – napríklad orgánom presadzovania práva v krajinách, kde pôsobíme my alebo tretie strany konajúce v našom mene. Okrem toho môžeme poskytnúť alebo inak spracovávať vaše osobné údaje v súlade s platnými právnymi predpismi na účely obhajoby oprávnených záujmov spoločnosti HMD, napríklad v rámci občianskeho alebo trestného konania.
+
+•　Fúzie a akvizície. Ak sa rozhodneme pre predaj, kúpu, fúziu alebo inú formu reorganizácie našej spoločnosti v určitých krajinách, môže to zahŕňať oznámenie osobných údajov potenciálnym alebo skutočným kupcom a ich poradcom, prípadne prijatie osobných údajov od predávajúcich a ich poradcov.
+
+Ako riešime otázku ochrany súkromia detí?
+
+Produkty a služby spoločnosti HMD sú zvyčajne určené pre všeobecné publikum. Spoločnosť HMD nezhromažďuje vedome údaje o deťoch, bez toho, aby na to mala súhlas ich rodičov alebo zákonných zástupcov.
+
+Aké kroky podnikáte na zaistenie ochrany osobných údajov?
+
+Súkromie a zabezpečenie predstavujú kľúčové aspekty pri vytváraní a poskytovaní našich produktov a služieb. S cieľom riešiť záležitostí súvisiace so súkromím a zabezpečením sme vymedzili konkrétne zodpovednosti. Presadzujeme uplatňovanie interných zásad a usmernení prostredníctvom vhodne vybraných činností, napríklad pomocou aktívneho a reaktívneho riadenia rizík, technických opatrení na zaistenie bezpečnosti a ochrany súkromia, pomocou školení a hodnotení. Vykonávame navyše vhodné kroky na riešenie otázok online zabezpečenia, fyzického zabezpečenia, rizík straty údajov a ďalších takýchto rizík, s prihliadnutím na to, aké riziko spracovanie údajov predstavuje a akej povahy sú spracované údaje. Okrem toho obmedzujeme prístup k našim databázam obsahujúcim osobné údaje na oprávnené osoby, ktoré majú oprávnený dôvod na prístup k takýmto informáciám.
+
+Ako používame súbory cookie?
+
+Spoločnosť HMD používa súbory cookie a podobné ďalšie technológie na prevádzkovanie a vylepšovanie našich webov a našej ponuky. Súbory cookie používame aj na personalizáciu a zobrazovanie reklám. Niektoré webové lokality spoločnosti HMD využívajú na zobrazovanie reklám inzertné technológie tretích strán, napríklad DoubleClick.
+
+Naše domény môžu zahŕňať prvky tretích strán, ktoré ukladajú súbory cookie v mene takejto tretej strany, napríklad vo vzťahu k sociálnym sieťam, ktoré predstavujú tretiu stranu. Ďalšie informácie o tom, ako používame súbory cookie, nájdete v zásadách používania súborov cookie.
+
+Ako dlho sa údaje uchovávajú?
+
+Prijímame primerané kroky, ktorých cieľom je zabezpečiť presnosť osobných údajov, ktoré máme v držbe, a zmazanie nesprávnych alebo nepotrebných údajov.
+
+Obdobie uchovávania údajov závisí od typu údajov a od príslušnej služby či produktu. Doba uchovávania vašich osobných údajov sa určuje v súlade s týmito kritériami:
+
+•　Informácie o aktivácii produktov a služieb (napr. jedinečné identifikátory zariadenia, aplikácie, siete a predplatného): Údaje sa uchovávajú po záručnú dobu a ďalej po dobu 24 mesiacov po skončení záručnej doby.
+
+•　Údaje týkajúce sa Programu pre používateľov (napr. IMEI, stabilita, stav batérie): Údaje sa uchovávajú po dobu 6 mesiacov od dátumu získania, prípadne keď odvoláte súhlas so spracovaním.
+
+•　Informácie o účte (napr. meno, e-mailová adresa, používateľské mená, heslá): Údaje uchovávame, kým je účet aktívny. Keď je účet neaktívny po dobu 24 mesiacov, dôjde k zmazaniu údajov.
+
+•　Informácie o nákupoch (napr. záznamy nákupov a sťahovaní, číslo bankového účtu, údaje o platobnej karte): Údaje sa uchovávajú po dobu 10 rokov od dátumu, získania, pretože to vyžadujú predpisy týkajúce sa účtovníctva.
+
+•　Informácie o komunikácii a interakciách (napr. meno, e-mail, požiadavky): Údaje sa uchovávajú po dobu 24 mesiacov od dátumu získania.
+
+Okrem toho sa na spoločnosť HMD vzťahuje zákonná povinnosť uchovávať údaje v súlade so záväznými právnymi predpismi.
+
+Aké máte práva?
+
+Máte právo vedieť, aké osobné údaje o vás uchovávame, ako sa uvádza ďalej. Máte právo neúplné, nesprávne alebo neaktuálne osobné údaje doplniť či pozmeniť. Za určitých okolností máte právo na vymazanie, obmedzenie alebo na prenos údajov, prípadne na vznesenie námietky voči spracovaniu svojich osobných údajov. Svoje práva môžete uplatniť pomocou správy svojho účtu a volieb, ktoré ponúkajú dostupné nástroje na správu profilu vo vašom zariadení a v našich službách, prípadne sa s nami môžete skontaktovať. V niektorých prípadoch, predovšetkým ak si prajete osobné údaje zmazať alebo ukončiť ich spracovanie, to môže znamenať, že vám nebudeme už naďalej môcť poskytovať služby.
+
+•　Právo na prístup. Máte právo vedieť, aké osobné údaje o vás uchovávame, prípadne máte právo dostať potvrdenie, že údaje o vás nespracovávame. Prístup k svojim údajom môžete vykonať pomocou nastavení účtu. O prístup k svojim údajom môžete požiadať aj využitím nižšie uvedených kontaktných údajov.
+
+•　Právo na opravu.  Máte právo neúplné alebo nesprávne osobné údaje opraviť. Svoje údaje môžete opraviť a aktualizovať prostredníctvom nastavení účtu. Vyzývame vás k tomu, aby ste to občas urobili a zaistili tak aktuálnosť svojich osobných údajov. O opravu alebo doplnenie svojich údajov môžete požiadať aj využitím nižšie uvedených kontaktných údajov.
+
+•　Právo na zabudnutie.  Máte právo na vymazanie svojich osobných údajov v určitých situáciách, napríklad keď spracovanie vašich údajov už nie je potrebné na účely, na ktoré boli údaje získané, alebo keď sa spracovanie zakladá na vašom súhlase a vy chcete svoj súhlas odvolať, pričom neexistuje žiadny ďalší základ na spracovanie týchto údajov. Upozorňujeme vás, že údaje môžu byť potrebné na plnenie zmluvy medzi vami a spoločnosťou HMD, prípadne že spoločnosť HMD môže mať závažné oprávnené dôvody, aby si určité údaje ponechala. Pokiaľ chcete zmazať takéto údaje, znamená to, že možno nebudeme schopní vám aj naďalej poskytovať služby. Údaje môžete zmazať v nastaveniach účtu, prípadne využite nižšie uvedené kontaktné údaje.
+
+•　Právo namietať. Keď sa vaše osobné údaje spracúvajú na základe oprávneného záujmu, máte právo voči takémuto spracovaniu podať námietku. Môžete požiadať o ukončenie spracovania svojich osobných údajov na účely priameho marketingu alebo profilovania. Môžete odhlásiť odber bulletinov kliknutím na odkaz na ukončenie odberu, ktorý sa nachádza na konci našich bulletinov. Závažné upozornenia a ďalšie dôležité oznámenia vám budeme môcť zasielať aj naďalej. Právo na podanie námietky môžete využiť v nastaveniach účtu, prípadne využite nižšie uvedené kontaktné údaje.
+
+•　Právo na obmedzenie spracovania.  Za určitých okolností máte právo na obmedzenie spracovania svojich údajov. Keď dôjde k obmedzeniu spracovania, vaše údaje budú iba uchovávané a nebudú sa už ďalej spracovávať. Napríklad, ak máte pochybnosti o presnosti svojich údajov, máte právo na to, aby sa obmedzilo spracovanie údajov, o ktorých máte pochybnosti, kým sa nepresvedčíte, že sú údaje presné. Právo na obmedzenie spracovania údajov môžete uplatniť využitím nižšie uvedených kontaktných údajov.
+
+•　Právo na prenosnosť údajov.  Keď sa spracovanie vykonáva automatizovanými prostriedkami a vychádza zo zmluvy alebo súhlasu, máte právo získať údaje, ktoré ste spoločnosti HMD poskytli, v strojovo čitateľnom formáte, aby ste ich mohli preniesť k inému prevádzkovateľovi údajov. Možno to vykonať prostredníctvom nastavení účtu, prípadne využite nižšie uvedené kontaktné údaje.
+
+Ak nemôžete uplatniť svoje práva priamo prostredníctvom vami používaných produktov a služieb spoločnosti HMD, môžete sa s nami skontaktovať prostredníctvom nasledujúcich údajov:
+
+•　Portál účtov k telefónom Nokia: www.nokia.com/phones/sso/login
+
+•　Služby zákazníkom: www.nokia.com/en_int/phones/support#contact-us
+
+•　Aplikácia technickej podpory vo vašom telefóne Nokia
+
+•　Poštová adresa: HMD Global Oy, c/o Privacy, Bertel Jungin aukio 9, 02600 Espoo, Fínsko
+
+Ak chcete žiadať o informácie o prenose údajov tretím stranám, do tretích krajín a o bezpečnostných opatreniach uvedených vyššie, obráťte sa na nás. Ak sa domnievate, že sa spoločnosť HMD, bez ohľadu na princípy stanovené v týchto zásadách ochrany osobných údajov a v príslušných dodatkoch, dopustila porušenia platných právnych predpisov o ochrane osobných údajov, máte právo sa sťažovať na úrade pre ochranu osobných údajov.
+
+Kto je prevádzkovateľom vašich osobných údajov?
+
+Prevádzkovateľom vašich osobných údajov, pokiaľ ide o spracovanie osobných údajov v spojitosti s telefónom Nokia, účtom k telefónu Nokia a ďalšími súvisiacimi službami, je spoločnosť HMD Global Oy. Osobou poverenou ochranou osobných údajov je Jari Koljonen.
+
+Vo veciach týkajúcich sa postupov spoločnosti HMD pri ochrane osobných údajov sa s nami môžete skontaktovať na adrese:
+
+HMD Global Oy, c/o Privacy, Bertel Jungin aukio 9, 02600 Espoo, Fínsko
+
+Naše produkty alebo služby môžu obsahovať odkazy na weby a služby iných firiem, ktoré uplatňujú svoje vlastné zásady ochrany osobných údajov. Všetky odkazy na takéto weby a služby vám poskytujeme len pre vaše pohodlie. Spoločnosť HMD odporúča, aby ste sa skôr, než odošlete akékoľvek osobné údaje tretím stranám, zoznámili so zásadami ochrany osobných údajov takýchto tretích strán.
+
+Zmeny týchto zásad ochrany osobných údajov
+
+Spoločnosť HMD môže občas tieto zásady aktualizovať, aby odrážali zmeny našich postupov pri spracovaní osobných údajov, pokiaľ ide o naše produkty a služby, prípadne zmeny platných právnych predpisov. Zmeny týchto zásad ochrany osobných údajov nájdete na portáli ochrany osobných údajov spoločnosti HMD (www.nokia.com/phones/privacyportal) v sekcii „Čo sa zmenilo?“. Dátum poslednej zmeny týchto zásad vždy uvádzame aj v záhlaví zásad.
+
+"</string>
+    <string name="search_menu_title">Vyhľadávanie</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

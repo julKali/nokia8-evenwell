@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="cancel">BATAL</string>
+    <string name="system_busy_msg">Sistem sibuk. Sila cuba lagi nanti.</string>
+    <string name="no_new_demo_found_msg">"Bahan demo baru ditemui.
+
+Ketik OK untuk melancarkan mod Demo?"</string>
+    <string name="copying">Menyalin…</string>
+    <string name="downloading">Memuat turun...</string>
+    <string name="download_complete_msg">"Muat turun selesai.
+
+Ketik OK untuk melancarkan mod Demo."</string>
+    <string name="download_fail_msg">"Gagal memuat turun bahan demo daripada Internet.
+
+Ketik OK untuk melancarkan mod Demo?"</string>
+    <string name="enable_demo_mode">Dayakan mod demo?</string>
+    <string name="disable_demo_mode">Nyahdaya mod demo</string>
+    <string name="update_demo_video">Kemas kini video demo</string>
+    <string name="reset_device">Tetapkan semula peranti?</string>
+    <string name="demo_mode_notifications">Pemberithuan mod demo</string>
+</resources>

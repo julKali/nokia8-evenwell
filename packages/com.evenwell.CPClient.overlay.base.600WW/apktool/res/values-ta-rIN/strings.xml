@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP க்ளையன்ட்</string>
+    <string name="fih_cp_notify_statusbar_content">புதிய வழங்கல் செய்தி</string>
+    <string name="fih_cp_notification_channel_name">பொது அறிவிப்புகள்</string>
+    <string name="fih_cp_ui_mode_ok">சரி</string>
+    <string name="fih_cp_ui_mode_postpone">ஒத்தி வை</string>
+    <string name="fih_cp_ui_mode_delete">நீக்கு</string>
+    <string name="fih_cp_apply_dialog_head_msg">புதிய வழங்கல்</string>
+    <string name="fih_cp_apply_dialog_body_msg">புதிய உள்ளமைவைப் பயன்படுத்த விருப்பமா?</string>
+    <string name="fih_cp_toast_info_update">சுயவிவரம் புதுப்பிக்கப்பட்டது</string>
+    <string name="fih_cp_toast_info_create">சுயவிவரம் உருவாக்கப்பட்டது</string>
+    <string name="fih_cp_editor_apn_name">பெயர்</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">ப்ராக்ஸி</string>
+    <string name="fih_cp_editor_apn_http_port">போர்ட்</string>
+    <string name="fih_cp_editor_apn_user">பயனர்பெயர்</string>
+    <string name="fih_cp_editor_apn_password">கடவுச்சொல்</string>
+    <string name="fih_cp_editor_apn_server">சேவையகம்</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS ப்ராக்ஸி</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS போர்ட்</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">அங்கீகரிப்பு வகை</string>
+    <string name="fih_cp_editor_apn_auth_type_none">ஏதுமில்லை</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP அல்லது CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN வகை</string>
+    <string name="fih_cp_btn_ok">சரி</string>
+    <string name="fih_cp_btn_cancel">ரத்து</string>
+    <string name="fih_cp_btn_next">அடுத்து</string>
+    <string name="fih_cp_btn_back">பின்</string>
+    <string name="fih_cp_apn_not_set">&lt;அமைக்கப்படவில்லை></string>
+    <string name="fih_cp_error_title">கவனத்திற்கு</string>
+    <string name="fih_cp_error_name_empty">பெயர் புலம் காலியாக இருக்கக்கூடாது.</string>
+    <string name="fih_cp_error_apn_empty">APN புலம் காலியாக இருக்கக்கூடாது.</string>
+    <string name="fih_cp_error_other">தரவு தொடரியல் பிழை.</string>
+    <string name="fih_cp_input_pin_code">PIN குறியீட்டை உள்ளிடவும்:</string>
+    <string name="fih_cp_input_pin_code_ok">சரி</string>
+    <string name="fih_cp_input_pin_code_cancel">ரத்து</string>
+    <string name="fih_cp_input_pin_code_incorrect">தவறான PIN குறியீடு.</string>
+    <string name="fih_cp_input_pin_code_empty">PIN குறியீட்டை உள்ளிடவும்.</string>
+    <string name="fih_cp_sim_not_available">SIM கார்டு இல்லை.</string>
+</resources>

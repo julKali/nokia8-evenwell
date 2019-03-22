@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:id="@id/firstLine" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/pic1" android:background="@drawable/pic1_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic2" android:background="@drawable/pic2_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic3" android:background="@drawable/pic3_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic12" android:background="@drawable/pic12_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:id="@id/secondLine" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/pic5" android:background="@drawable/pic12_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic11" android:background="@drawable/pic11_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic4" android:background="@drawable/pic4_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic6" android:background="@drawable/pic6_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:id="@id/thirdLine" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/pic16" android:background="@drawable/pic16_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic7" android:background="@drawable/pic7_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic8" android:background="@drawable/pic8_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic9" android:background="@drawable/pic9_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/pic10" android:background="@drawable/pic10_off" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">حفاظت بتری</string>
+    <string name="fih_battery_protect_aging_nm_text">لطفاً با مرکز خدمات مشتریان ما، تلیفون %1$s در تماس شوید. تشکری می کنیم.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">لطفاً با مرکز خدمات مشتریان ما در تماس شوید. تشکری می کنیم.</string>
+    <string name="fih_battery_protect_aging_title">بخش راهنمای بتری</string>
+    <string name="fih_battery_protect_aging_title_wear">بخش راهنمای بتری</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">لغو</string>
+    <string name="fih_battery_protect_alert_dialog_ok">تأیید</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">یقین یابید بتری به طور صحیح نصب شده باشد، در غیر این صورت چارج نخواهد شد.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">یقین یابید بتری به طور صحیح نصب شده باشد.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">دمای باتری قابل تشخیص نیست، مطمئن شوید که باتری بدرستی نصب شده است، در غیر این صورت باتری شارژ نمیشود.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">دمای بتری را تشخیص داده نمی تواند.</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt">چارج متوقف شد</string>
+    <string name="fih_battery_protect_batterywaringmessagehight1_adding_txt_wear">چارج متوقف شد</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">چارج متوقف شد</string>
+    <string name="fih_battery_protect_batterywizard_title_wear">بخش راهنمای بتری</string>
+    <string name="fih_battery_protect_bl_warning_text">دمای تلیفون بیش از حد معمول است، برای خنک شدن تلیفون، روشنی را کاهش دهید</string>
+    <string name="fih_battery_protect_bl_warning_title">هشدار کاهش روشنایی</string>
+    <string name="fih_battery_protect_cancel_wear">لغو</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">‏‏تماس عاجل</string>
+    <string name="fih_battery_protect_cooldown_text">تلیفون فعلی در حالت خنک شدن است، فقط امکان برقراری تماس عاجل وجود دارد.</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">دستگاه اکنون در حالت خنک شدن می باشد. لطفاً بعداً استعمال نمایید.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"تلیفون شما در حال داغ شدن است، بنابراین چند مرحله طول می کشد تا خنک شود. شما تاهنوز می توانید آن را استعمال نمایید، اما شما ممکن است متوجه شوید:
+.چارج شدن ممکن است متوقف شود.
+.Wi-Fi ممکن است خاموش شود.
+.برنامه ها ممکن است بسته شوند.
+حالت پرواز ممکن است روشن شود.
+.تلیفون شما زمانیکه خنک شود به حالت عادی باز خواهد گشت."</string>
+    <string name="fih_battery_protect_cooldown_text_wear">تلیفون فعلی در حالت خنک شدن است، فقط امکان برقراری تماس عاجل وجود دارد.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">در حال حاضر در تشخیص دمای بتری ناتوان می باشد و تلیفون در حالت خنک شدن است، فقط امکان برقراری تماس عاجل وجود دارد، یقین یابید بتری به درستی نصب شده باشد.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">در حال حاضر در تشخیص دمای بتری ناتوان می باشد و دستگاه در حالت خنک شدن است، فقط امکان برقراری تماس عاجل وجود دارد، یقین یابید بتری به درستی نصب شده باشد.</string>
+    <string name="fih_battery_protect_cooldown_title">خنک کردن</string>
+    <string name="fih_battery_protect_cooldown_title_wear">خنک کردن</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">اعلان‌های عمومی</string>
+    <string name="fih_battery_protect_full_charging">چارج مکمل شد</string>
+    <string name="fih_battery_protect_full_charging_wear">چارج مکمل شد</string>
+    <string name="fih_battery_protect_high_full_charging">شارژ به حداکثر مجاز در دماهای بالا رسیده است!‬ وقتی دمای تلفن به حد نرمال رسید، سیستم با سرعت عادی شارژ می‌شود.</string>
+    <string name="fih_battery_protect_high_full_charging_title">شارژ در دمای بالا به حداکثر مجاز رسیده است</string>
+    <string name="fih_battery_protect_high_temp_text_wear">دمای بتری بیش از حد بالا است، پس چارج کردن را توقف دهید.</string>
+    <string name="fih_battery_protect_install_error_title_wear">بخش راهنمای بتری</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">لطفاً بتری اصلی را برای چارج کردن استعمال نمایید در غیر این صورت ممکن است آسیب دائمی/فیزیکی به دستگاه شما وارد شود.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">لطفاً بتری اصلی استعمال نمایید</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">چارج متوقف شد</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">بتری نامعتبر است</string>
+    <string name="fih_battery_protect_low_full_charging">شارژ به حداکثر مجاز در دماهای پایین رسیده است! وقتی دمای تلفن به حد نرمال رسید، سیستم با سرعت عادی شارژ می‌شود.</string>
+    <string name="fih_battery_protect_low_full_charging_title">شارژ در دمای پایین به حداکثر مجاز رسیده است</string>
+    <string name="fih_battery_protect_low_temp_text">دما بیش از حد پایین است، چارج کردن را توقف دهید.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">دمای بتری بیش از حد پایین است، پس چارج کردن را توقف دهید.</string>
+    <string name="fih_battery_protect_low_temp_title">‏‏هشدار</string>
+    <string name="fih_battery_protect_low_temp_title_wear">‏‏هشدار</string>
+    <string name="fih_battery_protect_maxtemp_text">دمای تلیفون بیش از حد بالا می باشد، اکنون خاموش خواهد شد</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">دمای دستگاه بیش از حد بالا می باشد، اکنون خاموش خواهد شد</string>
+    <string name="fih_battery_protect_maxtemp_title">حداکثر تمام</string>
+    <string name="fih_battery_protect_maxtemp_title_wear">حداکثر تمام</string>
+    <string name="fih_battery_protect_normalmode_text">عملیه معمولی از سر گرفته شده است.</string>
+    <string name="fih_battery_protect_normalmode_text_wear">عملیه معمولی از سر گرفته شده است.</string>
+    <string name="fih_battery_protect_normalmode_title">دمای معمولی</string>
+    <string name="fih_battery_protect_normalmode_title_wear">دمای معمولی</string>
+    <string name="fih_battery_protect_notification_cooling_down">خنک کردن</string>
+    <string name="fih_battery_protect_notification_high_temp_wear">هشدار دمای بالا</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">خطای نصب بتری</string>
+    <string name="fih_battery_protect_notification_stop_charge_title_wear">چارج متوقف شد</string>
+    <string name="fih_battery_protect_ok_wear">تأیید</string>
+    <string name="fih_battery_protect_power_off">برق خاموش</string>
+    <string name="fih_battery_protect_tap_learn_more">برای یادگیری بیشتر ضربت آهسته بزنید.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">دما خارج از محدوده می باشد</string>
+    <string name="fih_battery_protect_warning_text">لطفاً برای خنک شدن تلیفون، تماس و برنامه ها را خاموش کنید.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">ما کاهش روشنی و خاموش کردن برنامه ها را برای خنک شدن دستگاه توسط فشار دادن دکمه ارائه می دهیم.</string>
+    <string name="fih_battery_protect_warning_text_wear">لطفاً برای خنک شدن تلیفون، تماس و برنامه ها را خاموش کنید.</string>
+    <string name="fih_battery_protect_warning_title">هشدار دمای بالا</string>
+    <string name="fih_battery_protect_warning_title_wear">هشدار دمای بالا</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">বাতিল</string>
+    <string name="DONE">কৃত</string>
+    <string name="NEXT">পরবর্তী</string>
+    <string name="OK">ঠিক আছে</string>
+    <string name="PREVIOUS">পূর্ববর্তী</string>
+    <string name="alert_empty_desc">অনুগ্রহ করে বিবরণ যোগ করুন!</string>
+    <string name="alert_warning_title">ইঙ্গিতগুলো</string>
+    <string name="enter_comments">মন্ত্যব্য লিখুন (1000 অক্ষর)</string>
+    <string name="extremely_likely">(অত্যন্ত সম্ভবত)</string>
+    <string name="feedback">প্রতিক্রিয়া</string>
+    <string name="helps_us_improve_our_products">আপনার পতিক্রিয়া আমাদের পন্যের উন্নতি করতে আমাদের সাহায্য করে!</string>
+    <string name="intro_title">আপনি এই ফোনটিকে কোনো বন্ধু বা সহকর্মীর কাছে কতটা ব্যবহারের প্রস্তাব দিতে চান?</string>
+    <string name="msg_send_after">ডিভাইসটি অনলাইনে থাকাকালীন বার্তা স্বয়ংক্রিয়ভাবে আপলোড হবে। আপনার উত্তরের জন্য ধ্যন্যবাদ।</string>
+    <string name="msg_send_fail">পাঠানো ব্যর্থ হয়েছে। ডিভাইসটি অনলাইনে থাকাকালীন বার্তা স্বয়ংক্রিয়ভাবে আপলোড হবে। আপনার উত্তরের জন্য ধ্যন্যবাদ।</string>
+    <string name="no_ask_feedback_again_text">আবার প্রতিক্রিয়া জিজ্ঞাসা করবেন না</string>
+    <string name="no_showagain_text">আর দেখাবেন না</string>
+    <string name="not_at_all_likely">(মোটেও সম্ভাব্য নয়)</string>
+    <string name="privacy_context_wifi">"প্রিয় ব্যবহারকারী, 
+
+ফিডব্যাক ক্লায়েন্ট সফটওয়্যার ব্যবহারে স্বাগতম। এই পণ্য ব্যবহারের পূর্বে পরিষেবার শর্তসমূহ যত্নসহকারে পড়ুন এবং বুঝে নিন। 「সম্মত」ক্লিক করার মানে আপনি এই সফটওয়ারের বিশেষ সুবিধা সমূহ ভালোভাবে বুঝতে পেরেছেন এবং ব্যবহারে সম্মত হয়েছেন। আপনি এই সব শর্তাবলীর সাথে সম্মত না হন, দয়া করে 「প্রস্থান」 টিপুন। আপনাকে সুবিধাজনক পরিষেবাগুলো প্রদান করার জন্য, অ্যাপটির নিম্নোক্ত অনুমতিগুলোর প্রয়োজন হয়: 
+1. ইন্টারনেটে স্বাগত, ফিডব্যাকের তথ্য পাঠানোর জন্য WLAN নেটওয়ার্ক 
+2. ফোনের মৌলিক তথ্যাবলী স্বয়ংক্রিয়ভাবে অর্জন করতে IMEI, PSN এবং MNC\\MCC তথ্য আমদানী করুন।"</string>
+    <string name="select_a_value">একটি মান নির্বাচন করুন</string>
+    <string name="str_agree">সন্মত</string>
+    <string name="str_leave">প্রস্থান</string>
+    <string name="submit_fail">জমা দেওয়া ব্যর্থ হয়েছে</string>
+    <string name="submit_success">আপনার উত্তরের জন্য ধ্যন্যবাদ</string>
+    <string name="thank_your_feedback">আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ!</string>
+    <string name="we_appreciate_your_help">আমরা Nokia পণ্যগুলোকে বিশ্বের সর্বোত্তম করতে সহায়্তা করার জন্য শুভেচ্ছা জানাই।</string>
+    <string name="we_hope_enjoying_nokia_device">আমাদের আশা আপনি আপনার Nokia ডিভাইস উপভোগ করছেন। আপনার প্রতিক্রিয়া আমাদের কাছে অত্যন্ত গুরুত্বপূর্ণ।</string>
+    <string name="we_will_contact_you_again">আমরা ভবিষ্যতে আপনার সাথে আবার যোগাযোগ করব।</string>
+    <string name="we_will_contact_you_again_enjoy">আমরা ভবিষ্যতে আপনার সাথে আবার যোগাযোগ করব। আপনার নতুন Nokia ডিভাইস উপভোগ করুন!</string>
+    <string name="why_you_gave_this_score">আপনি কেন এই স্কোর দিয়েছেন তা অনুগ্রহ করে আমাদের বলুন:</string>
+</resources>

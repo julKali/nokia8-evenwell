@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="app_label">Battery protect</string>
+    <string name="fih_battery_protect_aging_nm_text">Please contact our Customer Service Centre, telephone %1$s Thank you.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Please contact our Customer Service Centre, Thank you.</string>
+    <string name="fih_battery_protect_aging_title">Battery Wizard</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">Make sure the battery is properly installed, otherwise it will not charge.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">Make sure the battery is properly installed.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">Cannot detect the battery temperature. Make sure the battery is properly installed, otherwise it will not charge.</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Cannot detect the battery temperature.</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Charging stop</string>
+    <string name="fih_battery_protect_bl_warning_text">"The phone's temperature is higher than normal. Reduce the brightness to cool down the phone."</string>
+    <string name="fih_battery_protect_bl_warning_title">Reduce The Brightness Alert</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Emergency call</string>
+    <string name="fih_battery_protect_cooldown_text">The phone is currently in Cool Down mode. Emergency calls only.</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">The device is currently in Cool Down mode. Please do not try to use it at this time.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Your phone is getting hot, so it's taking steps to cool itself down. You can still use it, but you may notice:
+·Charging might pause.
+·Wi-Fi might turn off.
+·Applications might close.
+·Airplane mode might turn on.
+Your phone will return to normal once it cools down."</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">Currently unable to detect the battery temperature. The phone is in Cool Down mode, and can only be used for emergency calls. Make sure the battery is installed correctly.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">Currently unable to detect the battery temperature. The device is in Cool Down mode, and can only be used for emergency calls. Make sure the battery is installed correctly.</string>
+    <string name="fih_battery_protect_cooldown_title">Cooling Down</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">General notifications</string>
+    <string name="fih_battery_protect_full_charging">Charging completed</string>
+    <string name="fih_battery_protect_high_full_charging">The maximum charging limit has been reached due to high temperatures! When the phone temperature returns to normal, the system will continue to charge at normal speed.</string>
+    <string name="fih_battery_protect_high_full_charging_title">High temperature charging limit reached</string>
+    <string name="fih_battery_protect_high_temp_text_wear">The battery temperature is too high, so charging has stopped.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Please use the original battery to charge, or you could cause permanent/physical damage to your device.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Please use original battery</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Charging stopped</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">The battery is not valid</string>
+    <string name="fih_battery_protect_low_full_charging">The maximum charging limit has been reached due to low temperatures! When the phone temperature returns to normal, the system will continue to charge at normal speed.</string>
+    <string name="fih_battery_protect_low_full_charging_title">Low temperature charging limit reached</string>
+    <string name="fih_battery_protect_low_temp_text">Temperature too low. Charging stopped.</string>
+    <string name="fih_battery_protect_low_temp_text_wear">The battery temperature is too low, so charging has stopped.</string>
+    <string name="fih_battery_protect_low_temp_title">Alert</string>
+    <string name="fih_battery_protect_maxtemp_text">The phone temperature is too high. It will now be shut down.</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">The device temperature is too high. It will now be shut down.</string>
+    <string name="fih_battery_protect_maxtemp_title">Maximum temperature</string>
+    <string name="fih_battery_protect_normalmode_text">Normal operation has resumed.</string>
+    <string name="fih_battery_protect_normalmode_title">Normal Temperature</string>
+    <string name="fih_battery_protect_notification_cooling_down">Cooling down</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">Battery Installation Error</string>
+    <string name="fih_battery_protect_power_off">Power off</string>
+    <string name="fih_battery_protect_tap_learn_more">Tap to learn more.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">The temperature is outside the acceptable range</string>
+    <string name="fih_battery_protect_warning_text">Please end all calls and shut down applications to cool down the phone.</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">We provide brightness reduction and application shut downs to cool down the device at the push of a button.</string>
+    <string name="fih_battery_protect_warning_title">Caution! High Temperature</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

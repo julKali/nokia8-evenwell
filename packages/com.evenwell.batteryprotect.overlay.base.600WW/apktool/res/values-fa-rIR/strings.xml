@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_ok">تأیید</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">لغو</string>
+    <string name="fih_battery_protect_high_full_charging">شارژ به حداکثر مجاز در دماهای بالا رسیده است!‬ وقتی دمای تلفن به حد نرمال رسید، سیستم با سرعت عادی شارژ می‌شود.</string>
+    <string name="fih_battery_protect_low_full_charging">شارژ به حداکثر مجاز در دماهای پایین رسیده است! وقتی دمای تلفن به حد نرمال رسید، سیستم با سرعت عادی شارژ می‌شود.</string>
+    <string name="fih_battery_protect_high_full_charging_title">شارژ در دمای بالا به حداکثر مجاز رسیده است</string>
+    <string name="fih_battery_protect_low_full_charging_title">شارژ در دمای پایین به حداکثر مجاز رسیده است</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">اعلان‌های عمومی</string>
+    <string name="fih_battery_protect_ok_wear">تأیید</string>
+    <string name="fih_battery_protect_cancel_wear">لغو</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">لطفاً از باتری اصلی استفاده کنید</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">شارژ متوقف شد</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">لطفاً از باتری اصلی برای شارژ استفاده کنید، در غیر این صورت ممکن است به دستگاه خود آسیب دائمی/عینی وارد کنید.</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">باتری نامعتبر است</string>
+    <string name="fih_battery_protect_notification_cooling_down">خنک شدن</string>
+    <string name="fih_battery_protect_tap_learn_more">برای کسب اطلاعات بیشتر، ضربه بزنید.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"تلفن شما بیش از حد داغ شده است، بنابراین برای خنک کردن خود مراحلی را طی می‌کند. شما هنوز هم می توانید از آن استفاده کنید، اما ممکن است متوجه شوید:
+·عملیات شارژ ممکن است موقتاً متوقف شود.
+·Wi-Fi ممکن است خاموش شود.
+·برنامه‌ها احتمال دارد بسته شوند.
+·حالت هواپیما شاید خاموش شود.
+وقتی گوشی خنک شد، تلفن شما به حالت عادی باز می‌گردد."</string>
+</resources>

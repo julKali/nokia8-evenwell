@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Отмена</string>
+    <string name="fih_battery_protect_alert_dialog_ok">ОК</string>
+    <string name="fih_battery_protect_cancel_wear">Отмена</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Ваш телефон — горячий, поэтому примите меры для его охлаждения. Вы можете продолжить его использование, но можете заметить, что:
+·зарядка, возможно, приостановлена;
+·сеть Wi-Fi, возможно, отключена;
+·приложения, возможно, закрыты;
+·режим полета, возможно, включен.
+Ваш телефон вернется в нормальный режим работы, как только охладится."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Общие уведомления</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Используйте фирменную батарею для зарядки, иначе может произойти серьезное/физическое повреждение устройства.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Используйте фирменную батарею</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Зарядка остановлена</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Недопустимая батарея</string>
+    <string name="fih_battery_protect_notification_cooling_down">Охлаждение</string>
+    <string name="fih_battery_protect_ok_wear">ОК</string>
+    <string name="fih_battery_protect_tap_learn_more">Коснитесь, чтобы узнать больше.</string>
+</resources>

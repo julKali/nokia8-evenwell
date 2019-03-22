@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh တည်းဖြတ်မှု</string>
+    <string name="image_not_null">ရုပ်ပုံလမ်းကြောင်း ဘာမှမရှိ၍ မရပါ</string>
+    <string name="no_bokeh_type">Bokeh အမျိုးအစား မရှိ</string>
+    <string name="no_mpo_file">MPO ဖိုင်မရှိပါ</string>
+    <string name="save">သိမ်းဆည်းပါ</string>
+    <string name="save_success">အောင်မြင်စွာ သိမ်းဆည်းပြီးပါပြီ</string>
+</resources>

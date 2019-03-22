@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Isitatimende sobumfihlo</string>
+    <string name="privacy_activity">Isitatimende sobumfihlo</string>
+    <string name="app_name">Ukuhlola kwesistimu</string>
+    <string name="setting_page_name">Uhlelo lomuzwa womsebenzisi</string>
+    <string name="send_diag_dialog_any_network">Uma uxhumo lwedatha lutholakala</string>
+    <string name="send_diag_dialog_wifi">Uma uxhumo lwe-Wi-Fi lutholakala</string>
+    <string name="send_diag_dialog_wlan">Uma uxhumo lwe-WLAN lutholakala</string>
+    <string name="send_diag_dialog_title">Thumela ukucwaninga</string>
+    <string name="diagnostics_setting">Ukucwaninga</string>
+    <string name="diagnostics_report">Umbiko wokuhlola</string>
+    <string name="diagnostics_report_summary">Thumela umbiko wokucwaninga uma idivayisi ihlangabezana nephutha lesofthiwe. Izindleko zokuxhumana zenethiwekhi zingasebenza. Ukuthola iphakheji yenethiwekhi yedatha kusuka kumhlinzeki wesevisi kuyadingeka.</string>
+    <string name="network_options">Izinketho zenethiwekhi</string>
+    <string name="send_diagnostics">Thumela ukucwaninga</string>
+    <string name="cancel_upload_confirm_msg">Usuzoshiya uhlelo lwethu lomuzwa womsebenzisi. Amaphutha esofthiwe avelile efonini yakho ngeke alondolozwe noma athunyelwe, futhi singahle singakwazi ukuthuthukisa umuzwa wakho ngale foni.</string>
+</resources>

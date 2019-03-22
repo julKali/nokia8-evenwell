@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">Pechar</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">\"Configuración\"</string>
+    <string name="fih_weather_notification_text">Toca para permitir</string>
+    <string name="fih_weather_notification_title">\"WeatherService require permisos\"</string>
+    <string name="fih_weather_permission_failed">\"Permiso denegado, localización non dispoñible\"</string>
+    <string name="fih_weather_permission_hint_1">Para poder funcionar correctamente, esta aplicación require un permiso adicional. Outorga o permiso cando se solicite.</string>
+    <string name="fih_weather_permission_hint_2">\"Para poder funcionar correctamente, esta aplicación require permisos adicionais. Administre os permisos de WeatherService en Configuración.\"</string>
+    <string name="fih_weather_permission_success">\"Localización permitida\"</string>
+    <string name="fih_weather_service_title_txt">Servizo de previsión meteorolóxica</string>
+</resources>

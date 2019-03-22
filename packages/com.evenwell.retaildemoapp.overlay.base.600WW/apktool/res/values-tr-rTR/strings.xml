@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İPTAL</string>
+    <string name="system_busy_msg">Sistem meşgul. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="no_new_demo_found_msg">"Yeni demo materyali bulunamadı.
+
+Demo modunu başlatmak için Tamam seçeneğine dokunun."</string>
+    <string name="copying">Kopyalanıyor…</string>
+    <string name="downloading">İndiriliyor...</string>
+    <string name="download_complete_msg">"İndirme tamamlandı.
+
+Demo modunu başlatmak için Tamam seçeneğine dokunun."</string>
+    <string name="download_fail_msg">"Demo materyalini internetten indirme başarısız.
+
+Demo modunu başlatmak için Tamam seçeneğine dokunun."</string>
+    <string name="enable_demo_mode">Demo modu etkinleştirilsin mi?</string>
+    <string name="disable_demo_mode">Demo modunu devre dışı bırak</string>
+    <string name="update_demo_video">Demo videosunu güncelle</string>
+    <string name="reset_device">Cihaz sıfırlansın mı?</string>
+    <string name="demo_mode_notifications">Demo modu bildirimleri</string>
+</resources>

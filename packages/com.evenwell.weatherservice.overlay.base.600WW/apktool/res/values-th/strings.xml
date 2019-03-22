@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">บริการสภาพอากาศ</string>
+    <string name="fih_weather_permission_hint_1">เพื่อให้ทำงานอย่างเหมาะสม แอปนี้ต้องการสิทธิ์เพิ่มเติม โปรดอนุญาตสิทธิ์เมื่อมีการขอ</string>
+    <string name="fih_weather_permission_hint_2">เพื่อให้ทำงานอย่างเหมาะสม แอปนี้ต้องการสิทธิ์เพิ่มเติม โปรดจัดการสิทธิ์ของ บริการสภาพอากาศ ใน การตั้งค่า</string>
+    <string name="fih_weather_button_ok">ตกลง</string>
+    <string name="fih_weather_button_close">ปิด</string>
+    <string name="fih_weather_button_setting">การตั้งค่า</string>
+    <string name="fih_weather_permission_success">การให้สิทธิ์ตำแหน่งสำเร็จ</string>
+    <string name="fih_weather_permission_failed">การให้สิทธิ์ตำแหน่งถูกปฏิเสธ ไม่สามารถรับตำแหน่ง</string>
+    <string name="fih_weather_notification_title">บริการสภาพอากาศ ต้องการสิทธิ์</string>
+    <string name="fih_weather_notification_text">แทปเพื่ออนุญาต</string>
+    <string name="fih_weather_notification_channel_title">การแจ้งเตือนทั่วไป</string>
+</resources>

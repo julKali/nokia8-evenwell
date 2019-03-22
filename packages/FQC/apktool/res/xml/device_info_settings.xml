@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/version_title" android:key="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/Device_LinuxKernelVersion" android:key="LinuxKernelVersion" />
+    <PreferenceScreen android:title="@string/Device_BuildVersion" android:key="BuildVersion" />
+    <PreferenceScreen android:title="@string/Device_DeviceSWVersion" android:key="DeviceSWVersion" />
+    <PreferenceScreen android:title="@string/Device_ModelName" android:key="ModelName" />
+    <PreferenceScreen android:title="@string/Device_BaseBandVersion" android:key="BaseBandVersion" />
+    <PreferenceScreen android:title="@string/Device_HWBaseBandVersion" android:key="HWBasebandVersion" />
+    <PreferenceScreen android:title="@string/Device_CellphoneVersion" android:key="CellphoneVersion" />
+    <PreferenceScreen android:title="@string/Device_FlashVersion" android:key="FlashVersion" />
+    <PreferenceScreen android:title="@string/Device_TouchScreenFirmwareVersion" android:key="TouchScreenFirmwareVersion" />
+    <PreferenceScreen android:title="@string/Device_IMEI" android:key="IMEI" />
+    <PreferenceScreen android:title="@string/Device_MEID" android:key="MEID" />
+    <PreferenceScreen android:title="@string/Device_NVITEM8039" android:key="NVITEM8039" />
+    <PreferenceScreen android:title="@string/Device_NVITEM80391" android:key="NVITEM80391" />
+    <PreferenceScreen android:title="@string/Device_DramVersion" android:key="DramVersion" />
+    <PreferenceScreen android:title="@string/Device_EmmcVersion" android:key="EmmcVersion" />
+    <PreferenceScreen android:title="@string/Device_UfsVersion" android:key="UfsVersion" />
+    <PreferenceScreen android:title="@string/Device_ProductId" android:key="ProductId" />
+    <PreferenceScreen android:title="@string/WiFiFirmwareVersionId" android:key="WiFiFirmwareVersionId" />
+    <PreferenceScreen android:title="@string/BTFirmwareVersionId" android:key="BTFirmwareVersionId" />
+    <PreferenceScreen android:title="@string/CPUId" android:key="CPUId" />
+    <PreferenceScreen android:title="@string/CPUSecureTypeId" android:key="CPUSecureTypeId" />
+    <PreferenceScreen android:title="@string/CPUSecureRevisionId" android:key="CPUSecureRevisionId" />
+    <PreferenceScreen android:title="@string/BatteryFirmwareVersionId" android:key="BatteryFirmwareVersionId" />
+    <PreferenceScreen android:title="@string/LCM" android:key="LCMId" />
+    <PreferenceScreen android:title="@string/MainCamera_Vendor" android:key="MainVendor" />
+    <PreferenceScreen android:title="@string/VGACamera_Vendor" android:key="FrontVendor" />
+    <PreferenceScreen android:title="@string/SKU_ID" android:key="SKUID" />
+    <PreferenceScreen android:title="@string/SKU_NAME" android:key="SKUNAME" />
+    <PreferenceScreen android:title="@string/FQC_title" android:key="FQCVersion" />
+    <PreferenceScreen android:title="@string/sdcard_cap" android:key="sdcardcap" />
+    <PreferenceScreen android:title="@string/CameraFirmwareVersionId" android:key="CameraFirmwareVersionId" />
+    <PreferenceScreen android:title="@string/HDDinfoId" android:key="HDDinfoId" />
+    <PreferenceScreen android:title="@string/FelicaId" android:key="FelicaId" />
+    <PreferenceScreen android:title="@string/TouchKey" android:key="TouchKey" />
+    <PreferenceScreen android:title="@string/Mo7SmartBezel" android:key="Mo7SmartBezel" />
+    <PreferenceScreen android:title="@string/TouchpadFirmware" android:key="TouchpadFirmware" />
+    <PreferenceScreen android:title="@string/LcmInfo" android:key="LcmInfo" />
+    <PreferenceScreen android:title="@string/BtMacAddress" android:key="BtMacAddress" />
+    <PreferenceScreen android:title="@string/WifiMacAddress" android:key="WifiMacAddress" />
+    <PreferenceScreen android:title="@string/battery_manufacture" android:key="BatteryManufacture" />
+    <PreferenceScreen android:title="@string/nfc_vendor" android:key="NFCVenderInfo" />
+    <PreferenceScreen android:title="@string/main_module_id" android:key="MainModuleId" />
+    <PreferenceScreen android:title="@string/main_lens_id" android:key="MainLensId" />
+    <PreferenceScreen android:title="@string/front_module_id" android:key="FrontModuleId" />
+    <PreferenceScreen android:title="@string/front_lens_id" android:key="FrontLensId" />
+    <PreferenceScreen android:title="@string/aux_module_id" android:key="AuxModuleId" />
+    <PreferenceScreen android:title="@string/aux_lens_id" android:key="AuxLensId" />
+</PreferenceScreen>

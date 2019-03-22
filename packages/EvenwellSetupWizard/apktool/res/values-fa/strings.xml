@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_up_description">پیمایش به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">مشاهده همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_search_hint">جستجو…</string>
+    <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
+    <string name="abc_searchview_description_query">عبارت جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
+    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
+    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
+    <string name="abc_shareactionprovider_share_with_application">اشتراک‌گذاری با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="accessibility_text">قابلیت دسترسی</string>
+    <string name="account_intro_description">راه بهتر استفاده از دستگاه، پیوستن به سرویس های [BRAND_NAME]است.</string>
+    <string name="account_intro_title">حساب سرویس های [BRAND_NAME]</string>
+    <string name="add_baidu_button_label">ورودبه 百度云</string>
+    <string name="add_infocus_service_account">افزودن حساب سرویسهای [BRAND_NAME]</string>
+    <string name="back_btn_lebel">عقب</string>
+    <string name="backup_and_restore_description">"اگر از حساب خود پشتیبان گرفته باشید، می توانید آنرا در این تلفن بازیابی کنید.
+
+می توانید هرزمان تنظیمات پشتیبان را در تنظیمات تغییر دهید."</string>
+    <string name="backup_and_restore_title">پشتیبانی و بازیابی</string>
+    <string name="baidu_intro_description">می توانید با تکمیل چند مرحله ساده، از ادغام ذخیره سازی یکپارچه ابری با 百度云 لذت ببرید.</string>
+    <string name="baidu_intro_title">حافظه ابری برای Baidu</string>
+    <string name="baidu_progress_dialog_des">صبر کنید...</string>
+    <string name="choose_timezone">انتخاب منطقهٔ زمانی</string>
+    <string name="datausage_dialog_negitive_btn">لغو</string>
+    <string name="datausage_dialog_positive_btn">قبول</string>
+    <string name="date_and_time">تنظیمات تاریخ و ساعت</string>
+    <string name="date_and_time_settings_summary">تنظیم تاریخ، ساعت، منطقهٔ زمانی و قالب‌ها</string>
+    <string name="date_and_time_settings_title">تاریخ &amp; زمان</string>
+    <string name="date_and_time_settings_title_setup_wizard">تنظیم تاریخ و زمان</string>
+    <string name="date_picker_title">تاریخ:</string>
+    <string name="date_time_24hour">استفاده از قالب ۲۴ ساعته</string>
+    <string name="date_time_auto">زمان و تاریخ خودکار</string>
+    <string name="date_time_auto_summaryOff">استفاده از زمان ارائه شده توسط شبکه</string>
+    <string name="date_time_auto_summaryOn">استفاده از زمان ارائه شده توسط شبکه</string>
+    <string name="date_time_date_format">فرمت تاریخ را انتخاب کنید</string>
+    <string name="date_time_set_date">تنظیم تاریخ</string>
+    <string name="date_time_set_time">تنظیم ساعت</string>
+    <string name="date_time_set_timezone">انتخاب منطقهٔ زمانی</string>
+    <string name="device_checking_message">خوش آمدید</string>
+    <string name="dropbox_fih_description">از فضای 2GB رایگان Dropbox برای ذخیره خودکار عکس و فیلم استفاده کنید.</string>
+    <string name="dropbox_fih_signin">ورود با Dropbox</string>
+    <string name="dropbox_fih_signup">ثبت نام با Dropbox</string>
+    <string name="emergency_dial_hmd_message">تماساضطراری</string>
+    <string name="emergency_dial_message">تماس اضطراری</string>
+    <string name="expand_button_title">پیشرفته</string>
+    <string name="fih_legal_message">"شرایط نرم افزار [BRAND_NAME_PROXY]
+ 
+ تاریخ اجرا: 20 مه 2016
+ 
+ شرایط و ضوابط زیر (موسوم به \" شرایط \") شامل یک توافق قانونی حاکم بر استفاده شما از هر نرم افزار است که [BRAND_NAME_PROXY] میان شما و [BRAND_NAME_PROXY]Inc.، و نماینده آن، .Commtiva Technology Ltd برقرار است (درمجموع موسوم به \"[BRAND_NAME_PROXY]\") و بر استفاده شما از نرم افزار [BRAND_NAME_PROXY] که شامل دانلود، نصب، تمدید خودکار نرم افزار (موسوم به \" خدمات نرم افزار \")اما نه محدود به آن ها است، اعمال می شود. با استفاده از نرم افزار [BRAND_NAME_PROXY] این شرایط را پذیرفته اید؛ درصورت نپذیرفتن شرایط، نرم افزار [BRAND_NAME_PROXY] را دانلود، تکثیر، استفاده یا نگهداری نکنید.
+ 
+ 1. شرط استفاده
+ در صورت پایبندی شما به این شرایط، [BRAND_NAME_PROXY] حق استفاده شخصی، غیر انحصاری، انتقال ناپذیر، قابل برگشت و دامنه محدود از خدمات نرم افزار [BRAND_NAME_PROXY] را به شما می دهد. [BRAND_NAME_PROXY] از طریق اینترنت کد شیء را در دستگاه [BRAND_NAME_PROXY] تلفن هوشمند شما (اشاره دارد به \" [BRAND_NAME_PROXY] گوشی \") نصب می کند. شما تأیید و موافقت می کنید که نرم افزار [BRAND_NAME_PROXY] روی گوشی [BRAND_NAME_PROXY] شما برای اهداف تجاری استفاده نمی شود یا به هیچ شخص ثالثی انتقال نمی یابد.
+ همچنین موافقت می کنید که از نرم افزار [BRAND_NAME_PROXY] در هیچیک از شرایط زیر استفاده نمی کنید:
+ (a) کرک کردن نرم افزار [BRAND_NAME_PROXY] (شامل فناوری های زیرساختی)، یا استفاده از نرم افزار [BRAND_NAME_PROXY] در دستگاه فاقد برند [BRAND_NAME_PROXY]؛
+ (b) آنالیز، تجزیه، مهندسی معکوس، رمزگشایی، کپی یا تغییر نرم افزار [BRAND_NAME_PROXY] یا ایجاد کاری مشتق از آن با هر هدفی؛
+ (c) انجام هر فعالیتی شامل ولی نه محدود به انتقال، لیزینگ، قرض دادن، یا واگذاری، تضاد با شرایط و عمومی کردن نرم افزار [BRAND_NAME_PROXY] یا اجازه استفاده به هر شخص ثالث، دسترسی به نرم افزار [BRAND_NAME_PROXY]؛
+ (d) حذف هرگونه اخطار خصوصی، آرم، یا نشان تجاری در نرم افزار یا مستندات [BRAND_NAME_PROXY] بدون اجازه کتبی قبلی از [BRAND_NAME_PROXY] ؛
+ (e) استفاده از نرم افزار [BRAND_NAME_PROXY] به هر شکل بر خلاف قانون فعلی یا جهت تعدی به حقوق دیگر اشخاص؛
+ (f) استفاده از نرم افزار [BRAND_NAME_PROXY] در محیط هایی که استفاده از آن ممنوع یا محدود شده است شامل اما نه محدود به محوطه کنترل پرواز، پمپ بنزین، تجهیزات اتمی؛ یا
+ (g) استفاده از [BRAND_NAME_PROXY]به طوریکه در شرایط منع شده است.
+ 
+ به منظور اطمینان از صحت عملکرد گوشی [BRAND_NAME_PROXY] و نرم افزار [BRAND_NAME_PROXY]، شما قول داده و متعهد می شوید که برچسب های روی گوشی [BRAND_NAME_PROXY] خود را بدون کمک کارکنان [BRAND_NAME_PROXY] خراب نکرده و بر نمی دارید. چنین فعالیت های غیرمجازی روی محدوده و بازه زمانی ضمانتی که [BRAND_NAME_PROXY] فراهم می کند تأثیرگذار است.
+ 
+ 2. حریم خصوصی
+ شما تأیید و موافقت می کنید که [BRAND_NAME_PROXY] می تواند اطلاعات شامل اما نه محدود به نوع مدل، شماره سریال، کد IMEI/MEID، نسخه سخت افزار و نرم افزار، زمان استفاده، SKU ID، تنظیمات پیش فرض و نسخه سیستم عامل در گوشی [BRAND_NAME_PROXY] شما (موسوم به \" اطلاعات \") را جمع آوری کرده و نگهداری کند. 
+ در صورتی که [BRAND_NAME_PROXY] ملزم به افشای هرگونه اطلاعات به آژانس های دولتی یا سیستم قضایی شود، [BRAND_NAME_PROXY] اقدام لازم را انجام می دهد.
+ 
+ گوشی [BRAND_NAME_PROXY] وضعیتی را که گوشی [BRAND_NAME_PROXY] حداقل به مدت 14 روز از زمان خرید به شبکه تلفن همراه وصل نشده باشد را به [BRAND_NAME_PROXY] اطلاع می دهد.
+ 
+ برای جزئیات به سیاست حریم خصوصی [BRAND_NAME_PROXY]مراجعه کنید.
+ 
+ 3. خدمات پشتیبانی
+ [BRAND_NAME_PROXY] شامل و بدون محدودیت بروزرسانی ها و ارتقاها برای نرم افزار [BRAND_NAME_PROXY] شما، مطابق با وضعیت آن زمان که [BRAND_NAME_PROXY] از گوشی [BRAND_NAME_PROXY] دریافت می کند، خدمات پشتیبانی ارائه می دهد.
+ [BRAND_NAME_PROXY] به روزرسانی، الحاقات یا عناصر اضافه ای را برای نرم افزار [BRAND_NAME_PROXY] شما، پس از استفاده از نرم افزار [BRAND_NAME_PROXY] از طریق اینترنت ارائه میکند که مطابق با این شرایط است.
+ 
+ [BRAND_NAME_PROXY] reserves the right to terminate your right to obtain any [BRAND_NAME_PROXY] Service via internet to the use of [BRAND_NAME_PROXY] Software and Service is smoothly.
+ [BRAND_NAME_PROXY] نسخه های متوالی نرم افزار [BRAND_NAME_PROXY] رامنتشر و شما را ملزم به استفاده از بروزترین نسخه سیستم عامل میکند.
+ 
+ 4. به روزرسانی خودکار
+ به منظور تقویت و بهبود گوشی [BRAND_NAME_PROXY] خود، امکان دانلود خودکار آخرین میان افزار و نرم افزار از [BRAND_NAME_PROXY] از قبل فراهم شده است 
+ 
+ جهت اطمینان از ایمنی و ثبات گوشی [BRAND_NAME_PROXY]، و توافق شما بر رعایت دستورالعمل های ضروری برای چنین تنظیماتی و پیروی از دستورالعمل مطابق با دستورالعمل های [BRAND_NAME_PROXY]. As you agree to download the latest firmware or software, it is deemed your acceptance this renewing and installation.
+ 
+ برای جلوگیری از از دست رفتن اسناد، عکس ها، متون، فایل های صوتی و ویدئویی و هرگونه موارد الکتریکی که ممکن است با انجام به روزرسانی در گوشی [BRAND_NAME_PROXY] از دست رفته یا خراب شود، شما مسئول پشتیبان گیری از تمامی موارد الکترونیکی اشاره شده در گوشی [BRAND_NAME_PROXY] پیش از دانلود آخرین نسخه از سخت افزار و نرم افزار هستید.
+ 
+ زمانی که گوشی [BRAND_NAME_PROXY] شما به صورت خودکار یا با اجازه شما از طریق پیام به روزرسانی می شود، به این معنا است که شما با مفاد زیر موافقت می کنید:
+ (a) به روز رسانی:
+ تأیید و موافقت می کنید که [BRAND_NAME_PROXY] می تواند از طریق اینترنت، نسخه و به روز بودن نرم افزار روی گوشی [BRAND_NAME_PROXY] شما را بررسی کند. اگر [BRAND_NAME_PROXY] هرگونه اعلان ارتقا را منتشر کند، [BRAND_NAME_PROXY] اجازه بروزرسانی نسخه نرم افزار [BRAND_NAME_PROXY] و وضعیت را از طریق خدمات [BRAND_NAME_PROXY] می دهد.
+ موافقت می کنید [BRAND_NAME_PROXY]وقتی بروزرسانی جدید نرم افزار [BRAND_NAME_PROXY] دردسترس است به شما اعلان ارسال نماید. تأیید به روزرسانی های جدید به این معنا است که به [BRAND_NAME_PROXY] اجازه می دهید گوشی [BRAND_NAME_PROXY] شما را به صورت خودکار به روزرسانی کند.
+ (b) ب)همگامسازی و بروزرسانی:
+ پس از این که گوشی [BRAND_NAME_PROXY] خود را به رایانه یا دستگاه دیگر متصل کردید، گوشی [BRAND_NAME_PROXY] شما به صورت خودکار محتوای مرتبط و اطلاعات دیگر (مانند: اطلاعات مخاطبین، تقویم،نشان گذاری ها و فایل ها) را به روزرسانی می کند.
+ 
+ 5. حفظ کلیه حقوق متعلق به مالک و دیگر حقوق در نرم افزار [BRAND_NAME_PROXY]
+ اگرچه شما مجاز به استفاده از نرم افزار و سرویس های [BRAND_NAME_PROXY] هستید، [BRAND_NAME_PROXY]، شرکت های مربوطه و تأمین کنندگان آن تمامی حقوق نرم افزار [BRAND_NAME_PROXY] شامل اما نه محدود به حقوق مالکانه، کپی رایت و دیگر حقوق مالکیت معنوی را نگه می دارند.
+ 
+ تمامی این حقوق نرم افزار [BRAND_NAME_PROXY] به وسیله قوانین محلی و معاهدات بین المللی محافظت می شوند.
+ 
+ 6. رفع ادعا
+ [BRAND_NAME_PROXY] هیچ نمایندگی یا ضمانت صریح یا ضمنی شامل بدون محدودیت ضمانتهاى ضمنى تجارى، برای کیفیت رضایت بخش و متناسب با اهداف خاص، یا عدم تخلف ارائه نمی کند. 
+ [BRAND_NAME_PROXY] ضمانت نمی کند که:
+ (a) هرگونه خدمات [BRAND_NAME_PROXY] کسب شده از سوی شما دقیق یا قابل اطمینان باشد یا
+ (b) خدمات [BRAND_NAME_PROXY] بی وقفه، به موقع، بر مبنایی امن ارائه شود؛ یا
+ (c) هر گونه عیب یا خطا در نرم افزار ارائه شده به سرعت تصحیح شود.
+ 
+ [BRAND_NAME_PROXY] مسئول هیچ گونه فقدان یا آسیب ایجاد شده به وسیله ویروس ها یا دیگر موارد آسیب زای فنی که ممکن است گوشی [BRAND_NAME_PROXY]، برنامه ها، داده ها یا دیگر موارد تحت مالکیت شما را به خاطر استفاده شما از خدمات [BRAND_NAME_PROXY] آلوده کند، نیست. همه محتواها و دیگر مواردی که دانلود می کنید یا از طریق [BRAND_NAME_PROXY] به دست می آورید با مسئولیت خود در دسترستان قرار می گیرد و خود به تنهایی مسئول هرگونه آسیب به گوشی [BRAND_NAME_PROXY] خود یا فقدان اطلاعات یا محتوایی هستید که از دانلود هرگونه نرم افزار ناشی شود.
+ 
+ 7. محدوده مسئولیت و انحصار جبران
+ [BRAND_NAME_PROXY] مسئول هیچ گونه خسارت متعاقب، تصادفی، غیرمستقیم یا کیفری، یا خسارات از دست رفتن سود یا فقدان اطلاعات محرمانه یا دیگر انواع آن، وقفه در کسب و کار، آسیب شخصی، خسارت مالی، از دست رفتن محرمانگی، عدم موفقیت در هر یک از وظایف حسن نیت یا مراقبت متعارف یا سهل انگاری نخواهد بود.
+ تا بالاترین حد مجاز به وسیله قانون قابل اجرا، حداکثر جمع مسئولیت [BRAND_NAME_PROXY]’ نسبت به شما و جبران خسارت تحت شرایط برای هرگونه خسارت و همه خسارات،آسیب، خسارت و فقدان مالی ناشی از همه شکایات یا پرونده های مربوط به شرایط جبران خسارت واقعی تحت ادعای شما محدود به 10 دلار آمریکا می شود. 
+ 
+ شکایات یا پرونده های متعدد مربوط به شرایط، محدوده مسئولیت را افزایش نخواهد داد و تا بالاترین حد مجاز به وسیله قانون اجرایی، تنها جبران خسارت برای شما خواهد بود.
+ 
+ اگر یک دادگاه قضایی مسئولیت فوق را غیر قابل اجرا اعلام کند تا آن حد اجرا نمی شود بلکه به جای آن کلمات محدود به 10 دلار حذف شده و با کلمات \"محدود به ارزش تراکنشی که مسئولیت از آن ناشی شده است\" جایگزین می شود.
+ 
+ چنین شکایت یا دعوی مربوط به شرایط باید تا حداکثر یک سال بعد از ایجاد دلیل این عمل مطرح شود. 
+ 8. غرامت 
+ شما موافقت می کنید از [BRAND_NAME_PROXY]، سهامداران، هیئت مدیره، مدیران، ذی نفعان، کارکنان و شرکت های تابعه آن دفاع کنید و جبران خسارت نمایید و در مقابل درخواست ها، فقدان، مسئولیت، شکایات یا هزینه ها (از جمله هزینه وکیل) که به خاطر فعالیت های در ارتباط با سوء استفاده شما از خدمات [BRAND_NAME_PROXY] که حقوق هر شخص ثالثی را نقض کرده باشد علیه [BRAND_NAME_PROXY] جبران خسارت نمایید.
+ 
+ 9. خاتمه سرویس
+ شما قانوناً اگر از شرایط سرپیچی کنید اجازه ندارید، از خدمات [BRAND_NAME_PROXY] استفاده کنید. در چنین شرایطی، شما باید تمام کپی های نرم افزار [BRAND_NAME_PROXY] را از بین برده و حذف کنید. در عین حال، ضمانت گوشی [BRAND_NAME_PROXY] شما تحت تأثیر قرار می گیرد.
+ در صورت رخ داد نقصی که در بالا اشاره شد، شما موافقت می کنید که [BRAND_NAME_PROXY] حق به کارگیری موارد زیر را دارد،
+ (a) اتمام سریع حق شما در دسترسی به حساب [BRAND_NAME_PROXY]؛ و / یا
+ (b) قطع دسترسی شما در آینده به حساب سرویس [BRAND_NAME_PROXY]
+ 
+ شما همچنین موافقت می کنید که هرگونه تخطی از شرایط باعث ضرر به [BRAND_NAME_PROXY]می شود، که آسیب های مالی ناکافی خواهد بود و شما رضایت می دهید [BRAND_NAME_PROXY] هرگونه معافیت یا نهی که [BRAND_NAME_PROXY] ضروری بداند یا در چنین شرایطی مناسب بداند را دریافت کند. این غرامت ها علاوه بر دیگر جبران خسارت هایی است که [BRAND_NAME_PROXY] در قانون یا حقوق دارد.
+ 
+ 10. قانون و حوزه قضایی حاکم
+ شما موافقت می کنید که تمامی مسائل مربوط به همه نزاع ها بر اساس ضوابط به وسیله قوانین جمهوری چین بدون در نظر گرفتن تعارضات مواد قانونی آن قضاوت شود. 
+ 
+ شما با محاکمه شخصی به وسیله و در محل دادگاه ناحیه تایوان تایپه موافقت می کنید و از هر گونه اعتراض به محاکمه یا محل رسیدگی خودداری می کنید.
+ 
+ هر گونه منازعه که از طریق توافق دوجانبه میان شما و [BRAND_NAME_PROXY] به نتیجه نرسد، مستحق دنبال کردن وساطت به وسیله شما یا [BRAND_NAME_PROXY]است. اگر منازعه با وساطت طی 30 روز تقویمی حل نشود، چنین منازعه ای به دادگاه محلی که در بالا اشاره شد ارجاع می شود.
+ 
+ 11. عبارات کلی
+ عناوین این شرایط تنها برای راحتی استفاده شده اند.
+ عدم موفقیت [BRAND_NAME_PROXY] در انجام اقدام علیه تخطی شما به صورت اسقاط حقش برای چنین تخطی یا تخطی های مشابه یا زیر مجموعه تفسیر نمی شود.
+ 
+ اگر یک دادگاه صالحه تشخیص دهد که هر بخشی از این ضوابط نامعتبر یا غیر قابل اجرا است، آن گاه ماده غیر قابل اجرا یا نامعتبر را به ماده ای معتبر و قابل اجرا که باید نزدیک ترین ماده منطبق با هدف ماده اصلی باشد جایگزین می کند و بقیه ضوابط موثر باقی می مانند. 
+ 
+ شما نمی توانید ضوابط را انتقال دهید یا حقوق خود در ضوابط را انتقال یا زیر مجوز دهید.
+ 
+ [BRAND_NAME_PROXY] می تواند کل یا بخشی از این شرایط را در هر زمان با یا بدون اطلاع به شما انتقال دهد. 
+ 
+ این شرایط جایگزین تمامی ارتباطات پیشین یا همزمان از هر نوع میان شما و [BRAND_NAME_PROXY] در رابطه با این سایت می شود.
+ 
+ 12. کلیت موافقت نامه
+ شرایط و پیوست های تمدید شامل کلیت توافقنامه میان شما و [BRAND_NAME_PROXY] در رابطه با خدمات [BRAND_NAME_PROXY] می شود.
+ 
+ 13. تغییر ضوابط
+ [BRAND_NAME_PROXY] می تواند گهگاه محتواهایی را از ضوابط با نظر خود به روزرسانی، تغییر یا حذف کند.
+ 
+ شما باید ضوابط منتشر شده روی وب سایت [BRAND_NAME_PROXY] را که ممکن است با ضوابطی که در اصل خوانده اید متفاوت باشد بررسی کنید.
+ 
+ استفاده شما از نرم افزار جدید شده و گوشی [BRAND_NAME_PROXY] به منزله پذیرش این تغییرات از سوی شما تلقی می شود.
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] حقوقی</string>
+    <string name="finish_button_label">پایان</string>
+    <string name="google_account_add_account">‏ورود به سیستم با Google‎</string>
+    <string name="google_account_intro_description">با تنظیم حساب Google، از تمامی خدمات آن لذت ببرید.</string>
+    <string name="google_account_intro_title">حساب Google</string>
+    <string name="hmd_legal_message">"شرایط سرویس 
+ 
+تاریخ قابل اجرا 14 اکتبر سال 2016 
+ 
+1. پذیرش 
+این شرایط سرویس HMD Global همراه با سیاست حفظ حریم خصوصی و سایر شرایط اضافی و اطلاعاتی که ممکن است در این سرویس (مجموعا شرایط) ارائه شده باشد، استفاده شما از سایت سرویس، محتوا و نرم افزار (مجموعاً \"سرویس\") را کنترل می کند. با ثبت نام یا استفاده از این سرویس یا بخشی از آن، موافقت خود را با این شرایط اعلام می کنید. 
+ 
+این شرایط شامل توافق بین شما و HMD Global Oy، کاراپورتی 2، 02610 اسپو، فنلاند که شامل شرکت های تابعه و تأمین کنندگان آن (در مجموع HMD Global) است می باشد، و این شرایط تعیین کننده حقوق و مسئولیت های شما و HMD Global در ارتباط با این سرویس هستند. 
+ 
+2. شایستگی 
+برای استفاده از این سرویس، سن شما باید حداقل سیزده (13) سال باشد. اگر سن شما سیزده (13) یا کمتر از (13) سال است، اما در مکانی زندگی می کنید که نابالغ محسوب می شوید، باید والد یا سرپرست قانونی شما از طرف شما ثبت نام شما را بر عهده گیرد و استفاده شما از سرویس را تأیید کند. شخصی که ثبت نام را تکمیل می کند باید از لحاظ قانونی واجد شرایط باشد. 
+ 
+3. ثبت نام و خاتمه قرارداد 
+برای استفاده از یک سرویس لازم است ثبت نام کنید و یک حساب HMD با نام کاربری و رمز عبوری ایجاد کنید که ممکن است تابع شرایط جداگانه ای باشند. لازم است برخی داده های شخصی و دیگر اطلاعات را در اختیار ما قرار دهید. HMD Global آدرس ایمیل شما را قبل از استفاده از حساب HMD مورد بررسی قرار می دهد. پس از اولین استفاده شما از دستگاه و هر بار که شما نرم افزار دستگاه Nokia را به روزرسانی می کنید، یک پیام متنی به HMD Global ارسال می شود. ایجاد حساب HMD نیازمند انتقال داده است. ممکن است مشمول هزینه انتقال داده شود. 
+ 
+شما موافقت می کنید که هنگام ثبت نام برای این سرویس، از اطلاعات صحیح و کامل برای این منظور استفاده می کنید و این اطلاعات را بروز نگه می دارید. شما باید از نام کاربری و رمز عبور خود در برابر سوء استفاده دیگران محافظت کنید و بی درنگ HMD Global را در مورد هر گونه سوء استفاده مطلع کنید. در صورتی که نابالغ هستید، شما، والدین شما یا وکیل قانونی شما، شخصاً مسئول هرگونه استفاده از سرویس هستید. 
+ 
+در صورتی که دیگر تمایل به استفاده از این سرویس ندارید، می توانید ثبت نام خود را خاتمه دهید. پس از خاتمه، دیگر به این سرویس دسترسی نخواهید داشت. در صورتیکه HMD Global بطور منطقی بر این باور باشد که شما این شرایط را نقض نموده اید یا با اطلاع قبلی در شش (6) ماه گذشته با نام کاربری خود وارد سرویس نشده اید، HMD Global می تواند دسترسی شما به بخش های خاصی از سرویس را محدود نماید یا خاتمه دهد. 
+ 
+مگر در موارد ذکر شده در سیاست حفظ حریم خصوصی، HMD Global مسئول هر گونه حذف و یا از دست دادن اطلاعات یا محتوای ارسال شده توسط شما به سرویس نیست. هنگامی که اطلاعات یا محتوایی از سرویس توسط شما یا HMD Global حذف شده باشد، ممکن است آثار یا نسخه کپی آن ها در جاهای دیگر هنوز باقی مانده باشد. 
+ 
+4. مجوزها 
+HMD Global یک مجوز غیر انحصاری، غیرقابل انتقال، قابل فسخ در هر زمان به صلاحدید HMD Global را برای دسترسی و استفاده مؤکد از این سرویس مطابق با این شرایط در اختیار شما قرار می دهد. استفاده از این سرویس، حق مالکیت معنوی اطلاعات یا محتوای سرویس را به شما اعطا نمی کند. 
+ 
+به عنوان بخشی از این سرویس، HMD Global ممکن است محتوای ارائه شده توسط HMD Global یا اعطا کنندگان مجوز آن را در اختیار شما قرار دهد (محتوا). HMD Global مجوز غیر انحصاری و دائمی استفاده از محتوای درنظر گرفته شده برای آن را به شما اعطا می کند، مگر اینکه در شرایط قابل اجرا یا سفارش خرید تعیین شده باشد. برخی محتواها ممکن است تنها برای ساکنان مناطق خاص جغرافیایی در دسترس باشد. شما موظفید محدودیت های قابل اجرا بر محتوای خاصی که از طریق سرویس کسب نموده اید را رعایت کنید. هر گونه مجوز حاصل از محتوای شخص ثالث، یک قرارداد لازم الاجرا بین شما و ارائه دهنده محتوای شخص ثالث است. شما تنها حق استفاده از محتوایی را دارید که صراحتاً در اینجا به شما اعطا شود. 
+ 
+HMD Global ممکن است نرم افزار خاص ارائه شده توسط HMD Global، یا اعطا کنندگان مجوز آن (نرم افز"</string>
+    <string name="hmd_user_experience_program_message">شرکت شما در این برنامه تجربه کاربر به کمک می‌کند بهتر متوجه شود چه چیزی را در دستگاه Nokia خود می‌پسندید و فکر می‌کنید چه چیزی باید بهبود پیدا کند. گهگاه ممکن است داده‌های بی‌نام را با طبقه‌بندی‌های فنی درباره دستگاهتان دریافت کنیم، به‌عنوان مثال فایلی با داده‌هایی درباره خرابی نرم‌افزار که ممکن است رخ داده باشد. لطفاً توجه داشته باشید که چنین داده‌هایی را نمی‌توان ازطریق داده شبکه تلفن هماره منتقل کرد. دوست داریم نظر شما را درباره دستگاه Nokia خودتان بدانیم!</string>
+    <string name="hmd_user_experience_program_title">برنامه تجربه کاربر</string>
+    <string name="idle_too_long_toast">تلفن برای مدتی بدون استفاده است. برای ذخیره نیرو خاموش کنید.</string>
+    <string name="language_selection_cancel_btn">لغو</string>
+    <string name="language_selection_title">زبانتان را انتخاب کنید</string>
+    <string name="location_for_service">استفاده از مکان من برای نتایج جستجوی Google و دیگر خدمات Google.</string>
+    <string name="location_info_1">سرویس موقعیت مکانی Google، برنامه هایی را برای مکان تقریبی شما بدون استفاده از GPS فراهم می کند.</string>
+    <string name="location_info_2">می توانید این ویژگی ها را در تنظیمات قسمت خدمات مکان غیر فعال کنید.</string>
+    <string name="location_network">به سرویس مکان Google اجازه دهید اطلاعات مکان ناشناس را جمع آوری کند. جمع آوری حتی زمانیکه برنامه ای اجرا نمی شود انجام می شود.</string>
+    <string name="location_title">موقعیت مکانی Google</string>
+    <string name="nevigation_selection_back">عقب</string>
+    <string name="nevigation_selection_home">خانه</string>
+    <string name="nevigation_selection_recent">اخیر</string>
+    <string name="nevigation_selection_text">می توانید رنگ پس زمینه و موقعیت کلیدهای برگشت / جدید را تغییر دهید.</string>
+    <string name="nevigation_selection_title">تنظیمات نوار پیمایش</string>
+    <string name="next_btn_lebel">بعدی</string>
+    <string name="normal_date_format">پیش‌فرض (%s)</string>
+    <string name="search_menu_title">جستجو</string>
+    <string name="setup_complete_hmd">آماده رفتن هستید…</string>
+    <string name="setup_complete_main">شما</string>
+    <string name="setup_complete_sub">آماده رفتن.</string>
+    <string name="setup_completed_congratulations">تبریک!</string>
+    <string name="sim_not_exist_toast">بررسی کنید سیم کارت را گذاشته اید.</string>
+    <string name="skip_add_account_button_label">فعلاً نه</string>
+    <string name="skip_button_label">رد شدن</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="term_agree_text">موافقت</string>
+    <string name="term_disagree_text">موافق نیستم</string>
+    <string name="terms_of_service_description">"
+استفاده از خدماتی که نیاز به اتصال شبکه دارند ممکن است میزان استفاده از داده تلفن همراه را افزایش دهد، مانند سرویس هواشناسی، خدمات اینترنت، ایمیل، مرورگر و غیره ... برای مدیریت بهتر هزینه استفاده از داده تلفن همراه، توصیه می کنیم از بسته های خدمات مناسب ارائه شده استفاده کنید.
+
+با انتخاب موافقم، شما اجازه می دهید این خدمات در زمان مورد نیاز به شبکه متصل شوند.
+
+علاوه بر این، به طور پیش فرض به روز رسانی خودکار نرم افزار فعال است. برای آخرین تجربه نرم افزار، ممکن است چند داده تلفن همراه استفاده شود. همیشه این گزینه را در تنظیمات می توانید تغییر دهید.
+
+"</string>
+    <string name="terms_title">مصرف داده</string>
+    <string name="time_picker_title">زمان:</string>
+    <string name="traffic_prompt_content">در صورت عدم موافقت، شما باید بروزرسانی نرم افزار، پیش بینی وضع هوا، یا دیگر اطلاعات را بصورت دستی دریافت کنید.</string>
+    <string name="upload_agent_des_text">"پیوستن به برنامه تجربه کاربر. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>یادگیری&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"به برنامه Nokia User Experience بپیوندید. &lt;a href='launch.UserExperienceActivity://Kode'>بیشتر بدانید.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">برنامه تجربه کاربر</string>
+    <string name="v7_preference_off">خاموش</string>
+    <string name="v7_preference_on">روشن</string>
+    <string name="welcome_hmd_term_of_use_2">"با ضربه زدن روی فلش، با &lt;a href='launch.TermOfServiceActivity://Kode'>شرایط سرویس&lt;/a> و &lt;a href='launch.AddUploadAgentHandler://Kode'>خط‌مشی حریم خصوصی&lt;/a> موافقت می‌کنید. اطلاعات فعال‌سازی دستگاه با مکان یک‌باره‌ دستگاه به HMD Global ارسال خواهد شد. هزینه‌های داده ممکن است اعمال شود."</string>
+    <string name="welcome_infocus_term_of_use">"بازدن روی پیکان،با&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>شرایط استفاده&lt;/a>موافقت کنید"</string>
+    <string name="welcome_lets_go_button_label">بیا برویم</string>
+    <string name="welcome_message">خوش آمدید</string>
+    <string name="welcome_start_button_label">شروع</string>
+    <string name="welcome_vision_settings_button_label">تنظیمات دید</string>
+    <string name="wifi_picker_connection_des_text">هنگام تأیید نرم افزار از طریق شبکه تلفن همراه، قطع اتصال WLAN می تواند موجب هزینه شود.</string>
+    <string name="wifi_picker_connection_negative">اتصال</string>
+    <string name="wifi_picker_connection_negative_prc">اتصال WLAN</string>
+    <string name="wifi_picker_connection_positive">قبول</string>
+    <string name="wifi_picker_connection_title">اتصال شبکه</string>
+    <string name="wifi_picker_warning_des_text">تا زمانی که شما به اینترنت وصل هستید، تلفن نمی تواند تأیید کند نرم افزار شما بروز است.</string>
+    <string name="wifi_picker_warning_negative">در هر حال رد شود</string>
+    <string name="wifi_picker_warning_positive">رد نشوید</string>
+    <string name="wifi_picker_warning_title">هشدار!!</string>
+    <string name="zone_auto">منطقهٔ زمانی خودکار</string>
+    <string name="zone_auto_summaryOff">استفاده از منطقهٔ زمانی ارائه شده توسط شبکه</string>
+    <string name="zone_auto_summaryOn">استفاده از منطقهٔ زمانی ارائه شده توسط شبکه</string>
+    <string name="sugarsync_intro_description">می توانید با تکمیل چند مرحله ساده، از ادغام یکپارچه ذخیره سازی ابری با SugarSync لذت ببرید.</string>
+</resources>

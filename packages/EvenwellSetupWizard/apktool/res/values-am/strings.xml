@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ወደ መነሻ ይዳስሱ</string>
+    <string name="abc_action_bar_up_description">ወደ ላይ ይዳስሱ</string>
+    <string name="abc_action_menu_overflow_description">ተጨማሪ አማራጮች</string>
+    <string name="abc_action_mode_done">ተከናውኗል</string>
+    <string name="abc_activity_chooser_view_see_all">ሁሉንም ይመልከቱ</string>
+    <string name="abc_activitychooserview_choose_application">መተግበሪያ ይምረጡ</string>
+    <string name="abc_capital_off">ጠፍቷል</string>
+    <string name="abc_capital_on">በርቷል</string>
+    <string name="abc_search_hint">ፈልግ…</string>
+    <string name="abc_searchview_description_clear">መጠይቅ አጽዳ</string>
+    <string name="abc_searchview_description_query">የፍለጋ ጥያቄ</string>
+    <string name="abc_searchview_description_search">ፍለጋ</string>
+    <string name="abc_searchview_description_submit">መጠይቅ ያስረክቡ</string>
+    <string name="abc_searchview_description_voice">የድምፅ ፍለጋ</string>
+    <string name="abc_shareactionprovider_share_with">ከሚከተለው ጋር ያጋሩ</string>
+    <string name="abc_shareactionprovider_share_with_application">ከ%s ጋር አጋራ</string>
+    <string name="abc_toolbar_collapse_description">ሰብስብ</string>
+    <string name="accessibility_text">ተደራሽነት</string>
+    <string name="account_intro_description">መሳሪያዎን በብልጠትና በተሻለ ውጤታማነት ለመጠቀም እባክዎ የ[BRAND_NAME] አገልግሎቶችን ይቀላቀሉ።</string>
+    <string name="account_intro_title">[BRAND_NAME]የአገልግሎት መለያ</string>
+    <string name="add_baidu_button_label">ወደ Baidu Cloud ይግቡ</string>
+    <string name="add_infocus_service_account">አዲስ የ[BRAND_NAME] የአገግሎት መለያ</string>
+    <string name="back_btn_lebel">የቀደመው ተግባር</string>
+    <string name="backup_and_restore_description">"ቀደም ሲል የመለያዎን ምትኬ ወስደው ከነበረ፣ አሁን ውሂብ ወደ ሞባይል ስልክ መመለስ ይችላሉ። 
+
+በማንኛውም ጊዜ የምትኬ የክንውን አውዶችን በ«ክንውን አውዶች» ውስጥ መቀየር ይችላሉ።"</string>
+    <string name="backup_and_restore_title">ምትኬ ማስቀመጥ እና እንደነበረ መመለስ</string>
+    <string name="baidu_intro_description">በርካታ ቀላል ተግባሮችን በማከናወን፣ እንቅፋት በሌለው የBaidu Cloud ማከማቻ ቦታ መደሰት ይችላሉ።</string>
+    <string name="baidu_intro_title">Baidu Cloud ማከማቻ ቦታ</string>
+    <string name="baidu_progress_dialog_des">እባክዎ ለአፍታ ይጠብቁ</string>
+    <string name="choose_timezone">የጊዜ ሰቅ ምረጥ</string>
+    <string name="datausage_dialog_negitive_btn">ይቅር</string>
+    <string name="datausage_dialog_positive_btn">ጥሩ</string>
+    <string name="date_and_time">የቀን እና ሰዓት ቅንብሮች</string>
+    <string name="date_and_time_settings_summary">ቀን፣ ሰዓት፣ የጊዜ ሰቅ&amp; ቅርፀቶች አዘጋጅ</string>
+    <string name="date_and_time_settings_title">ቀን እና ሰዓት</string>
+    <string name="date_and_time_settings_title_setup_wizard">ቀን እና ሰዓት አዘጋጅ</string>
+    <string name="date_picker_title">የእያንዳንዱ ወር ቀን፡</string>
+    <string name="date_time_24hour">የ24 ሰዓት ቅርፀት ተጠቀም</string>
+    <string name="date_time_auto">ራስ-ሰር ቀን እና ሰዓት</string>
+    <string name="date_time_auto_summaryOff">በአውታረ መረብ የቀረበ ሰዓት ይጠቀሙ</string>
+    <string name="date_time_auto_summaryOn">በአውታረ መረብ የቀረበ ሰዓት ይጠቀሙ</string>
+    <string name="date_time_date_format">የውሂብ ቅርፀት ምረጥ</string>
+    <string name="date_time_set_date">ውሂብ አዘጋጅ</string>
+    <string name="date_time_set_time">ጊዜ አዘጋጅ</string>
+    <string name="date_time_set_timezone">የሰዓት ሰቅ</string>
+    <string name="device_checking_message">እንኳን በደህና መጡ</string>
+    <string name="dropbox_fih_description">ፎቶዎችዎን እና ቪድዮዎችዎን በራስሰር ለመስቀል 2ጊባ ነጻ የDropbox ቦታ ያግኙ።</string>
+    <string name="dropbox_fih_signin">ወደ Dropbox ይግቡ</string>
+    <string name="dropbox_fih_signup">ወደ Dropbox በመለያ ይግቡ</string>
+    <string name="emergency_dial_hmd_message">ድንገተኛ አደጋ</string>
+    <string name="emergency_dial_message">የአደጋ ጊዜ ጥሪ</string>
+    <string name="expand_button_title">የላቀ</string>
+    <string name="fih_legal_message" />
+    <string name="fih_legal_title">የ[BRAND_NAME_PROXY] የሃርድዌር መረጃ</string>
+    <string name="finish_button_label">አጠናቅቅ</string>
+    <string name="google_account_add_account">በGoogle ይግቡ</string>
+    <string name="google_account_intro_description">በGoogle አገልግሎቶች ለመጠቀም ወደ የGoogle መለያዎ ይግቡ።</string>
+    <string name="google_account_intro_title">የGoogle መለያ</string>
+    <string name="hmd_legal_message" />
+    <string name="hmd_user_experience_program_message">በተጠቃሚ ተሞክሮ ፕሮግራም መሳተፍዎ መን እንደወደዱ እና ምን መሻሻል እንዳለበት ኤችኤምዲ ግሎባል በተሻለ እንዲገነዘብ ያደርጋል። ከጊዜ ወደ ጊዜ፣ እንደ ተከስቶ የነበረን የሶፍትዌር ብልሽት በተበመለከተ ውሂብ የያዘ ፋይል የመሳሰሉ የእርስዎን መሳሪያ ቴክኒካዊ ባህሪዎችን የተመለከተቱ ማንነትን የማይገልጹ ውሂቦች ሊደርሱን ይችላሉ። እንደዚህ አይነት ውሂቦች በህዋሳዊ ግንኙነቶች አማካኝነት የማይተላለፉ መሆኑን ልብ ይበሉ። የNokia መሳሪያዎን በተመለከተ ምን እንደሚያስቡ መስማት እንወዳለን!</string>
+    <string name="hmd_user_experience_program_title">የተጠቃሚ ተሞክሮ ፕሮግራም</string>
+    <string name="idle_too_long_toast">ይህ ስልክ ለተወሰነ ጊዜ እንቅስቃሴ ካልነበረው፣ ወደ ሃይል ቁጠባ ለመመለስ ሊያጠፉት ይገባል።</string>
+    <string name="language_selection_cancel_btn">ተወው</string>
+    <string name="language_selection_title">ቋንቋዎን ይምረጡ</string>
+    <string name="location_for_service">ለGoogle ፍለጋዎች እና ሌሎቸ የGoogle አገልግሎቶች የእኔን መገኛ ቦታ ተጠቀም።</string>
+    <string name="location_info_1">የGoogleን የአካባቢ አገልግሎት የሚጠቀሙ መተግበሪያዎች GPS መጠቀም ሳያስፈልጋቸው የእርስዎን የተጠጋጋ አካባቢ ማግኘት ይችላሉ።</string>
+    <string name="location_info_2">ይህን ተግባር በአካባቢ አግልግሎቶች የክንውን አውድ ውስጥ ማሰናከል ይቻልሉ።</string>
+    <string name="location_network">የGoogle የአካባቢ አገልግሎቶች ማንነትን የማይገልጽ የአካባቢ ውሂብ እንዲሰበስቡ ይፍቀዱላቸው። ምንም መተግበሪያ በማይሰራበት ጊዜም ቢሆን መሰብሰቡ ይቀጥላል።</string>
+    <string name="location_title">Google አቀማመጥ ይጠቀሙ</string>
+    <string name="nevigation_selection_back">ወደ ኋላ</string>
+    <string name="nevigation_selection_home">መነሻ</string>
+    <string name="nevigation_selection_recent">የቅርብ ጊዜ</string>
+    <string name="nevigation_selection_text">«ተመለስ»/«ባለፈው ጥቅም ላይ የዋለ» አዝራሮችን አቀማመጥና የበስተጀርባ ቀለም መቀየር ይችላሉ</string>
+    <string name="nevigation_selection_title">የአሰሳ አሞሌ የክንውን አውዶች</string>
+    <string name="next_btn_lebel">ቀጣይ</string>
+    <string name="normal_date_format">የአካባቢው (%s)</string>
+    <string name="search_menu_title">ፈልግ</string>
+    <string name="setup_complete_hmd">ለመጀመር ተዘጋጅተዋል...</string>
+    <string name="setup_complete_main">የእርስዎ ስልክ</string>
+    <string name="setup_complete_sub">ለአገልግሎት ዝግጁ ነው</string>
+    <string name="setup_completed_congratulations">እንኳን ደስ አለወት!</string>
+    <string name="sim_not_exist_toast">እባክዎ SIM ካርድ ማስገባትዎን ያረጋግጡ።</string>
+    <string name="skip_add_account_button_label">አሁን አይደለም</string>
+    <string name="skip_button_label">ዝለል</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s፣ %2$s</string>
+    <string name="term_agree_text">እስማማለሁ</string>
+    <string name="term_disagree_text">አትስማማ</string>
+    <string name="terms_of_service_description">"
+የሚከተሉትን አይነት አገልግሎቶችን ሲጠቀሙ የውሂብ ትራፊክ ወጪዎች ሊኖሩ ይችላሉ፦ የአየር ንብረት፣ የመስመር ላይ ማከማቻ ሰቀላዎች/ማውረዶች፣ የኢሜይል ወይመ የበይነመረብ አሳሾች። ወጪዎችን ለመቀነስ የውሂብ ጥቅል እንዲያገኙ ለአገልግሎት አቅራቢዎ እንዲያመለክቱ እንመክራለን። 
+
+«እስማማለሁ» የሚለውን መምረጥ ይህን ማሳወቂያ በግልጽ መረዳትዎን እና ጠቃሚ አገልግሎቶችን ለመጠቀም ስልክዎ በራስሰር ወደ በይነመረብ እንዲገናኝ እንደተስማሙ ያሳያል። 
+
+በተጨማሪም፣ የሶፍትዌር የራስሰር ዝማኔ ማሳወቂያዎች በነባሪነት የነቁ ሲሆኑ ለእርስዎ አዲስ የሶፍትዌር ተሞክሮ ለማቅረብ አነስተኛ ውሂብ ይጠቀማሉ። ይህን በኋላ ላይ በክንውን አውዶች ውስጥ ሊያጠፉት ይችላሉ። 
+
+"</string>
+    <string name="terms_title">የውሂብ አጠቃቀም ማሳወቂያዎች</string>
+    <string name="time_picker_title">ሰዓት</string>
+    <string name="traffic_prompt_content">አልስማማም የሚለውን ከመረጡ፣ የሚከተሉትን መረጃዎች እራስዎ ማግኘት አለብዎት፦ የሶፍትዌር ዝማኔዎች፣ የአየር ንብረት ትንበያዎች እና የመሳሰሉት።</string>
+    <string name="upload_agent_des_text">"የተጠቃሚ ተሞክሮ ፕሮግራምን ይቀላቀሉ &lt;a href='launch.AddUploadAgentHandler://Kode'>የግላዊነት ውሎች እና ሁኔታዎች&lt;/a> 。"</string>
+    <string name="upload_agent_hmd_des_text_2">"የNokiaን የተጠቃሚ ተሞክሮ ፕሮግራም ይቀላቀሉ። &lt;a href='launch.UserExperienceActivity://Kode'>ተጨማሪ ይወቁ።&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">የተጠቃሚ ተሞክሮ ፕሮግራም</string>
+    <string name="v7_preference_off">ቅናሽ</string>
+    <string name="v7_preference_on">በርቷል</string>
+    <string name="welcome_hmd_term_of_use_2">"ቀስቱ ላይ መታ በማድረግ፣ በ&lt;a href='launch.TermOfServiceActivity://Kode'>አገልግሎት ውሎች&lt;/a> እና &lt;a href='launch.AddUploadAgentHandler://Kode'>የግላዊነት መመሪያ&lt;/a> ይስማማሉ። የመሳሪያ ማንቂያ መረጃ ከአንድ ጊዜ የመሳሪያ አካባቢ ጋር ወደ ኤችኤምዲ ግሎባል ይላካል። የውሂብ ወጭ ሊኖር ይችላል።"</string>
+    <string name="welcome_infocus_term_of_use">"በ&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>አገልግሎት ውሎች እና ሁኔታዎች&lt;/a> መስማማትዎን ለማመልከት ጀምርን ይጫኑ"</string>
+    <string name="welcome_lets_go_button_label">እንሂድ</string>
+    <string name="welcome_message">እንኳን በደህና መጡ</string>
+    <string name="welcome_start_button_label">ጀምር</string>
+    <string name="welcome_vision_settings_button_label">የዕይታ ቅንጅቶች</string>
+    <string name="wifi_picker_connection_des_text">ወደ WLAN የተገናኙ ካልሆነ፣ ሶፍትዌሩ ሞባይል አውታረመረብን በመጠቀም ፈቃድ የሚያገኝ ሲሆን ይህም የውሂብ ዝውውር ክፍያዎች ሊኖሩት ይችላሉ።</string>
+    <string name="wifi_picker_connection_negative">አገናኝ</string>
+    <string name="wifi_picker_connection_negative_prc">ወደ WLAN ይገናኙ</string>
+    <string name="wifi_picker_connection_positive">ጥሩ</string>
+    <string name="wifi_picker_connection_title">የአውታረመረብ ግንኙነት</string>
+    <string name="wifi_picker_warning_des_text">የበይነመረብ ግንኙነት ከሌለዎት በስተቀር፣ ሶፍትዌርዎ ወቅታዊ መሆኑን ማረጋገጥ አይቻልም።</string>
+    <string name="wifi_picker_warning_negative">ለማንኛውም ዝለል</string>
+    <string name="wifi_picker_warning_positive">አትዝለል</string>
+    <string name="wifi_picker_warning_title">ማስጠንቀቂያ</string>
+    <string name="zone_auto">ራስ ሰር ሰዓት ሰቅ</string>
+    <string name="zone_auto_summaryOff">በአውታረ መረብ የቀረበ የሰዓት ሰቅ ተጠቀም</string>
+    <string name="zone_auto_summaryOn">በአውታረ መረብ የቀረበ የሰዓት ሰቅ ተጠቀም</string>
+    <string name="sugarsync_intro_description">የተወሰኑ ቀላል ተግባሮችን በማከናወን፣ እንቅፋት በሌለው የSugarSync cloud ማከማቻ ቦታ መጠቀም ይችላሉ።</string>
+</resources>

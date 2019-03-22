@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ይቅር</string>
+    <string name="copying">በመቅዳት ላይ…</string>
+    <string name="demo_mode_notifications">የማሳያ ሁነታ ማሳወቂያዎች</string>
+    <string name="disable_demo_mode">የማሳያ ሁነታን አሰናክል</string>
+    <string name="download_complete_msg">"ማውረድ ተጠናቋል።
+
+የማሳያ ሁኔታን ለማስነሳት እሺን ጠቅ ያድርጉ?"</string>
+    <string name="download_fail_msg">"የማሳያ ቁሳቁስ ከበይነመረብ ማውረድ አልተሳካም።
+
+የማሳያ ሁኔታን ለማስነሳት እሺን ጠቅ ያድርጉ?"</string>
+    <string name="downloading">በማውረድ ላይ…</string>
+    <string name="enable_demo_mode">ማሳያ ሁነታን አንቃ?</string>
+    <string name="enable_demo_mode_setup">ማሳያ ሁነታን አንቃ</string>
+    <string name="no_new_demo_found_msg">"አዲስ የማሳያ ቁሳቁስ አልተገኘም።
+
+የማሳያ ሁኔታን ለማስነሳት እሺን ጠቅ ያድርጉ?"</string>
+    <string name="ok">እሺ</string>
+    <string name="reset_device">መሳሪያውን ዳግም አስጀምር?</string>
+    <string name="system_busy_msg">ስርዓቱ ባተሌ ነው።</string>
+    <string name="update_demo_video">የማሳያ ቪዲዮን አዘምን</string>
+</resources>

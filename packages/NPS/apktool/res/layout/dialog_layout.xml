@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/dialog_wrapper" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/dialog" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/dialog_wrap" />
+    <View android:id="@id/anchor" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+</LinearLayout>

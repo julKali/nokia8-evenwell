@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Éditeur bokeh</string>
+    <string name="image_not_null">"Le chemin d'accès de l'image ne peut pas être nul"</string>
+    <string name="no_bokeh_type">Pas de type de bokeh</string>
+    <string name="no_mpo_file">Pas de fichier MPO</string>
+    <string name="save">Enregistrer</string>
+    <string name="save_success">Configuration enregistrée.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

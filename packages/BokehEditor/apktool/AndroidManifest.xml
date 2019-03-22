@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.evenwell.bokeheditor">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application android:debuggable="false" android:icon="@mipmap/bokeh_setting" android:label="@string/app_name" android:supportsRtl="true" android:theme="@style/Theme.PicEdit.Fullscreen">
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:label="@string/app_name" android:name="com.evenwell.bokeheditor.ui.activity.PicObjectActivity">
+            <intent-filter>
+                <action android:name="com.evenwell.bokeheditor.CUT_VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_watermarks" android:name="com.evenwell.bokeheditor.ui.activity.CutSelectActivity" android:theme="@style/Theme.PicEdit.ActionBar">
+            <intent-filter>
+                <action android:name="com.evenwell.bokeheditor.WATERMARK_LIST"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden" android:name="com.evenwell.bokeheditor.ui.activity.RefocusActivity">
+            <intent-filter>
+                <action android:name="com.evenwell.bokeheditor.REFOCUS_VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.evenwell.bokeheditor.test.TestDataSelectActivity"/>
+    </application>
+</manifest>

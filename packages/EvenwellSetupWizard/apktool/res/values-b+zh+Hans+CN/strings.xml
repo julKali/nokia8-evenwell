@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_now">稍后加入…</string>
+    <string name="setup_complete_hmd_1">您的手机即将可以使用…!</string>
+    <string name="setup_finish">设置完成</string>
+    <string name="upload_agent_hmd_des_text_3">"点击设置完成按钮，表示您同意加入用户体验计划。&lt;a href='launch.UserExperienceActivity://Kode'>了解更多&lt;/a>。稍后您也可以再从设置中加入。"</string>
+    <string name="welcome_hmd_term_of_use_5">"点击按钮，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服务条款&lt;/a>。设备激活信息和位置信息将一次发送给HMD Global，可能产生数据费用。我们会遵照&lt;a href='launch.AddUploadAgentHandler://Kode'>隐私权政策&lt;/a>使用相应数据。"</string>
+</resources>

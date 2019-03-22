@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"Pieskaroties pogai, jūs piekrītat &lt;a href='launch.TermOfServiceActivity://Kode'>pakalpojuma sniegšanas noteikumiem&lt;/a> un &lt;a href='launch.AddUploadAgentHandler://Kode'>konfidencialitātes politikai&lt;/a>. Uzņēmumam HMD Global tiks nosūtīta informācija par ierīces aktivizēšanu un vienreizēja informācija par ierīces atrašanās vietu.&lt;br/>&lt;br/>Tiks iespējoti automātiskās programmatūras atjaunināšanas ziņojumi; tādējādi jums tiks nodrošināti jaunākie atjauninājumi. Tas var izmantot nelielu daļu no jūsu datu budžeta. Šie pakalpojumi piekļūs internetam, kad vien tas būs nepieciešams.&lt;br/>&lt;br/>Par šiem pakalpojumiem jums tiks piemērota lielāka maksa, ja tie piekļūs mobilajiem tīkliem."</string>
+    <string name="welcome_hmd_term_of_use_5">"Pieskaroties šai pogai, jūs piekrītat &lt;a href='launch.TermOfServiceActivity://Kode'>pakalpojuma sniegšanas noteikumiem&lt;/a>. Jūsu dati tiks apstrādāti saskaņā ar &lt;a href='launch.AddUploadAgentHandler://Kode'>konfidencialitātes politiku&lt;/a>. Uzņēmumam HMD Global tiks nosūtīta informācija par ierīces aktivizēšanu un vienreizēja informācija par ierīces atrašanās vietu. Var tikt piemērota maksa par mobilo datu izmantošanu."</string>
+    <string name="welcome_vision_settings_button_label">Redzes iestatījumi</string>
+    <string name="next_btn_lebel">TĀLĀK</string>
+    <string name="back_btn_lebel">ATPAKAĻ</string>
+    <string name="finish_button_label">PABEIGT</string>
+    <string name="idle_too_long_toast">Šis tālrunis kādu brīdi ir bijis dīkstāvē. Izslēdziet, lai taupītu enerģiju.</string>
+    <string name="welcome_message">Laipni lūdzam!</string>
+    <string name="welcome_hmd_term_of_use_2">"Pieskaroties bultiņai, jūs piekrītat &lt;a href='launch.TermOfServiceActivity://Kode'>pakalpojuma sniegšanas noteikumiem&lt;/a> un &lt;a href='launch.AddUploadAgentHandler://Kode'>konfidencialitātes politikai&lt;/a>. Uzņēmumam HMD Global tiks nosūtīta informācija par ierīces aktivizēšanu līdz ar vienreizēju informāciju par ierīces atrašanās vietu. Var tikt piemērota maksa par datu izmantošanu."</string>
+    <string name="welcome_start_button_label">SĀKT</string>
+    <string name="emergency_dial_hmd_message">Ārkārtas</string>
+    <string name="accessibility_text">Pieejamība</string>
+    <string name="language_selection_title">Izvēlieties savu valodu</string>
+    <string name="language_selection_cancel_btn">ATCELT</string>
+    <string name="welcome_lets_go_button_label">Sākt darbu</string>
+    <string name="term_agree_text">Piekrist</string>
+    <string name="datausage_dialog_positive_btn">Labi</string>
+    <string name="datausage_dialog_negitive_btn">Atcelt</string>
+    <string name="date_and_time">Datuma un laika iestatījumi</string>
+    <string name="date_time_auto">Automātisks datums un laiks</string>
+    <string name="date_and_time_settings_title">Datums un laiks</string>
+    <string name="nevigation_selection_text">Varat mainīt pogu Atpakaļ/Nesen izmantots fona krāsu un novietojumu.</string>
+    <string name="nevigation_selection_back">Atpakaļ</string>
+    <string name="upload_agent_hmd_des_text_2">"Pievienojieties Nokia lietotāju pieredzes programmai. &lt;a href='launch.UserExperienceActivity://Kode'>Papildinformācija.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Lietotāju pieredzes programma</string>
+    <string name="setup_completed_congratulations">Apsveicam!</string>
+    <string name="setup_complete_hmd">Es gatavs doties...</string>
+    <string name="setup_complete_main">Jūs esat</string>
+    <string name="setup_complete_sub">GATAVS DOTIES.</string>
+    <string name="hmd_user_experience_program_title">Lietotāju pieredzes programma</string>
+    <string name="hmd_user_experience_program_message">Jūsu dalība lietotāju pieredzes programmā sniedz HDM Global labāku izpratni par to, kas jums patīk Nokia ierīcē un ko, jūsuprāt, vajadzētu uzlabot. Mēs reizēm varam saņemt anonīmus datus ar jūsu ierīces tehniskajiem raksturlielumiem, piemēram, failu ar datiem par notikušu programmatūras avāriju. Ņemiet vērā, ka šādi dati netiks pārraidīti, izmantojot mobilā tīkla savienojumu. Mēs labprāt uzklausām jūsu domas par Nokia ierīci.</string>
+    <string name="device_checking_message">Laipni lūdzam!</string>
+    <string name="backup_and_restore_title">Dublēt un atjaunot</string>
+    <string name="backup_and_restore_description">"Ja iepriekš dublējāt savu kontu, tagad varat to atjaunot šajā tālrunī.
+
+Dublēšanas iestatījumu jebkurā laikā varat mainīt sadaļā Iestatījumi."</string>
+    <string name="wifi_picker_connection_positive">Labi</string>
+    <string name="wapi_psk_security_type">Paroles tips</string>
+    <string name="upload_agent_hmd_des_text_3">"Pieskaroties vienumam AIZIET, jūs piekrītat pievienoties lietotāju pieredzes programmai. &lt;a href='launch.UserExperienceActivity://Kode'>Uzziniet vairāk&lt;/a>. Pievienoties var arī vēlāk sadaļā Iestatījumi."</string>
+    <string name="setup_complete_hmd_1">Esat gandrīz gatavs darbam...!</string>
+    <string name="not_now">NE TAGAD...</string>
+    <string name="setup_finish">AIZIET</string>
+    <string name="wifi_fail_to_scan">Nevar meklēt tīklus</string>
+    <string name="wifi_security_none">Nav</string>
+    <string name="wifi_remembered">Saglabāts</string>
+    <string name="wifi_disabled_generic">Atspējots</string>
+    <string name="wifi_disabled_network_failure">IP konfigurācijas kļūme</string>
+    <string name="wifi_disabled_password_failure">Autentifikācijas problēma</string>
+    <string name="wifi_not_in_range">Nav diapazonā</string>
+    <string name="wifi_no_internet_no_reconnect">Nevar savienot automātiski</string>
+    <string name="wifi_no_internet">Nav piekļuves internetam</string>
+    <string name="saved_network">Saglabāts, izmantojot %1$s</string>
+    <string name="connected_via_passpoint">Savienojums izveidots, izmantojot %1$s</string>
+    <string name="available_via_passpoint">Pieejams, izmantojot %1$s</string>
+    <string name="wifi_connected_no_internet">Pievienots, nav interneta savienojuma</string>
+    <string name="wifi_auth_password_wrong">Iespējams, parole ir nepareiza</string>
+    <string name="connected_via_wfa">Savienojums izveidots, izmantojot Wi‑Fi palīgu</string>
+    <string name="wifi_ssid">Tīkla nosaukums</string>
+    <string name="wifi_ssid_hint">Ievadīt SSID</string>
+    <string name="wifi_security">Drošība</string>
+    <string name="wifi_eap_method">EAP metode</string>
+    <string name="please_select_phase2">2. fāzes autentifikācija</string>
+    <string name="wifi_eap_ca_cert">CA sertifikāts</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nav norādītu sertifikātu. Savienojums nebūs privāts.</string>
+    <string name="wifi_eap_domain">Domēns</string>
+    <string name="wifi_no_domain_warning">Norādiet domēnu.</string>
+    <string name="wifi_eap_user_cert">Lietotāja sertifikāts</string>
+    <string name="wifi_eap_identity">Identifikācijas dati</string>
+    <string name="wifi_eap_anonymous">Anonīmi identifikācijas dati</string>
+    <string name="wifi_password">Parole</string>
+    <string name="wifi_show_password">Rādīt paroli</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Nolaižamais saraksts Papildopcijas. Divreiz pieskarieties, lai izvērstu.</string>
+    <string name="wifi_show_advanced">Papildu opcijas</string>
+    <string name="proxy_settings_title">Starpniekserveris</string>
+    <string name="proxy_warning_limited_support">HTTP starpniekserveris tiek izmantots pārlūkprogrammā, taču, iespējams, netiek izmantots citās lietotnēs.</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">Starpniekservera saimniekdatora nosaukums</string>
+    <string name="proxy_exclusionlist_label">Apiet starpniekserveri:</string>
+    <string name="wifi_ip_settings">IP iestatījumi</string>
+    <string name="wifi_ip_address">IP adrese</string>
+    <string name="wifi_gateway">Vārteja</string>
+    <string name="wifi_network_prefix_length">Tīkla prefiksa garums</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">Koplietot ar citiem ierīces lietotājiem</string>
+    <string name="proxy_port_label">Starpniekservera ports</string>
+    <string name="wifi_unspecified">Lūdzu, atlasiet</string>
+    <string name="wifi_multiple_cert_added">(Pievienoti vairāki sertifikāti)</string>
+    <string name="wifi_use_system_certs">Izmantot sistēmas sertifikātus</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Nenorādīt</string>
+    <string name="wifi_do_not_validate_eap_server">Neapstiprināt</string>
+    <string name="wifi_add_network">Pievienot tīklu</string>
+    <string name="wifi_save">Saglabāt</string>
+    <string name="passpoint_label">Saglabāts, izmantojot</string>
+    <string name="wifi_connect">Izveidot savienojumu</string>
+    <string name="wifi_status">Statuss</string>
+    <string name="wifi_signal">Signāla stiprums</string>
+    <string name="wifi_speed">Saites izveides ātrums</string>
+    <string name="link_speed">%1$d Mb/s</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Biežums</string>
+    <string name="wifi_forget">Aizmirst</string>
+    <string name="wifi_cancel">Atcelt</string>
+    <string name="proxy_error_invalid_port">Ierakstītais porta numurs nav derīgs.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Ierakstiet derīgu IP adresi.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Ierakstiet tīkla prefiksa garumu diapazonā 0–32.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Ierakstiet derīgu vārtejas adresi.</string>
+    <string name="wifi_ip_settings_invalid_dns">Ierakstiet derīgu sistēmas DNS adresi.</string>
+    <string name="wifi_unchanged">(bez izmaiņām)</string>
+    <string name="wifi_failed_connect_message">Neizdevās izveidot savienojumu ar tīklu</string>
+    <string name="wifi_failed_save_message">Neizdevās saglabāt tīklu.</string>
+    <string name="wifi_failed_forget_message">Neizdevās aizmirst tīklu.</string>
+    <string name="proxy_error_empty_host_set_port">Ja saimniekdatora lauks ir tukšs, porta laukam jābūt tukšam.</string>
+    <string name="proxy_error_empty_port">Aizpildiet lauku Ports.</string>
+    <string name="proxy_error_invalid_exclusion_list">Ierakstītais izslēgšanas saraksts nav pareizi formatēts. Ierakstiet ar komatiem atdalītu izslēgto domēnu sarakstu.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Nolaižamais saraksts Papildopcijas. Divreiz pieskarieties, lai sakļautu.</string>
+    <string name="passpoint_content">Lietotāja %1$s akreditācijas dati</string>
+    <string name="select_sim_card">Atlasiet SIM karti</string>
+    <string name="sim_editor_title">SIM kartes slots: %1$d</string>
+    <string name="wifi_certificate">Sertifikāts</string>
+    <string name="wifi_setting_title">Savienojums izveidots</string>
+    <string name="wifi_skip_anyway">TIK UN TĀ IZLAIST</string>
+    <string name="wifi_dont_skip">DOTIES ATPAKAĻ</string>
+    <string name="wifi_and_mobile_skipped_message">"Savienošanās ar tīklu jums palīdzēs ātri iestatīt savu tālruni.
+
+Bez savienošanās jūs nevarat:
+
+"<li>Pierakstīties savā mākoņa kontā</li>"
+
+"<li>Saņemt programmatūras atjauninājumus</li>"
+
+"<li>Automātiski iestatīt datumu un laiku</li></string>
+</resources>

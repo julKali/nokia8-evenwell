@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">កម្មវិធី CP</string>
+    <string name="fih_cp_apn_not_set">&lt;មិន​បាន​កំណត់></string>
+    <string name="fih_cp_apply_dialog_body_msg">តើ​អ្នក​ចង់​ប្រើ​ការកំណត់​រចនាសម្ពន្ធ​ថ្មី?</string>
+    <string name="fih_cp_apply_dialog_head_msg">ការកំណត់​រចនាសម្ពន្ធ​ថ្មី</string>
+    <string name="fih_cp_btn_back">ថយ</string>
+    <string name="fih_cp_btn_cancel">បោះបង់</string>
+    <string name="fih_cp_btn_next">បន្ទាប់</string>
+    <string name="fih_cp_btn_ok">ព្រម</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">ប្រភេទ​ការផ្ទៀងផ្ទាត់​ភាពពិត</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">គ្មាន</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP ឬ CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">ច្រក</string>
+    <string name="fih_cp_editor_apn_http_proxy">ប្រូកស៊ី</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">ច្រក MMS</string>
+    <string name="fih_cp_editor_apn_mms_proxy">ប្រូកស៊ី MMS</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">ឈ្មោះ</string>
+    <string name="fih_cp_editor_apn_password">ពាក្យសម្ងាត់</string>
+    <string name="fih_cp_editor_apn_server">សឺវើ</string>
+    <string name="fih_cp_editor_apn_type">ប្រភេទ APN</string>
+    <string name="fih_cp_editor_apn_user">ឈ្មោះ​អ្នកប្រើប្រាស់</string>
+    <string name="fih_cp_error_apn_empty">វាល APN មិន​អាច​ទទេ។</string>
+    <string name="fih_cp_error_name_empty">វាល​ឈ្មោះ​មិន​អាច​ទទេ។</string>
+    <string name="fih_cp_error_other">កំហុស​សំយោគ​ទិន្នន័យ។</string>
+    <string name="fih_cp_error_title">ប្រយ័ត្ន</string>
+    <string name="fih_cp_input_pin_code">វាយបញ្ចូល​កូដ PIN៖</string>
+    <string name="fih_cp_input_pin_code_cancel">បោះបង់</string>
+    <string name="fih_cp_input_pin_code_empty">សូម​វាយបញ្ចូល​កូដ PIN។</string>
+    <string name="fih_cp_input_pin_code_incorrect">កូដ PIN មិន​ត្រឹមត្រូវ។</string>
+    <string name="fih_cp_input_pin_code_ok">ព្រម</string>
+    <string name="fih_cp_notification_channel_name">ការជូនដំណឹង​ទូទៅ</string>
+    <string name="fih_cp_notify_statusbar_content">សារ​កំណត់​រចនាសម្ពន្ធ​ថ្មី</string>
+    <string name="fih_cp_sim_not_available">កាត SIM មិន​អាច​ប្រើ​បាន។</string>
+    <string name="fih_cp_toast_info_create">បង្កើត​ទម្រង់​បាន​ជោគជ័យ</string>
+    <string name="fih_cp_toast_info_update">ធ្វើ​បច្ចុប្បន្នភាព​ទម្រង់​បាន​ជោគជ័យ</string>
+    <string name="fih_cp_ui_mode_delete">លុប</string>
+    <string name="fih_cp_ui_mode_ok">ព្រម</string>
+    <string name="fih_cp_ui_mode_postpone">ពន្យារពេល</string>
+</resources>

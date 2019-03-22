@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">මෘදුකාංග යාවත්කාලය</string>
+    <string name="file_not_found">ගොනුව සොයාගැනීමට නැත.</string>
+    <string name="remote_file_fail">දුරස්ථ ගොනුව කරා ප්‍රවේශය ගැනීමට නොහැකිය. කරුණාකර පසුව යළි උත්සාහ කරන්න.</string>
+    <string name="no_description">(විස්තරයක් නැත)</string>
+    <string name="login_fail">සේවාදායකයට ඇතුල්වීම අසාර්ථක විය. කරුණාකර පසුව යළි උත්සාහ කරන්න.</string>
+    <string name="get_service_url_fail">ජාල සම්බන්ධතාව අස්ථායීය (සේවා URL කැඳවුම අසාර්ථක විය). කරුණාකර පසුව යළි උත්සාහ කරන්න.</string>
+    <string name="query_sw_fail">මෘදුකාංග තොරතුරු විමසීම අසාර්ථක විය.</string>
+    <string name="download_sw_fail">මෘදුකාංගය බාගැනීම අසාර්ථක විය.</string>
+    <string name="query_sw_incorrect">ප්‍රතිඵලය නිවැරදි නොවේ.</string>
+    <string name="no_update_available">ලද හැකි නව යාවත්කාල කිසිත් නැත.</string>
+    <string name="update_not_ready">සේවාදායකය මත නව යාවත්කාලය සූදානමින් නැත. කරුණාකර පසුව යළි උත්සාහ කරන්න.</string>
+    <string name="check_now_label">දැන් පරීක්ෂා කරන්න</string>
+    <string name="checking">පරික්ෂා කරමින්...</string>
+    <string name="verifying">සත්‍යාපනය කෙරෙමින්...</string>
+    <string name="header_verifying_update_file">යාවත්කාල කළ ගොනුව සත්‍යාපනය කෙරෙමින්...</string>
+    <string name="unzipping">සිප් කිරීම මිදීම සඳහාය...</string>
+    <string name="please_wait">කරුණාකර රැඳී සිටින්න...</string>
+    <string name="header_starting_to_download_file">ගොනුව බාගැනීම ආරම්භ කරමින්...</string>
+    <string name="header_system_update_available">පද්ධති යාවත්කාලය ලද හැකිය</string>
+    <string name="new_version_desc_prompt">නව අනුවාදයට අඩංගු වන්නේ:</string>
+    <string name="header_attention">අවධානය</string>
+    <string name="data_fee_warning">ඔබගේ ජංගම ජාල සම්බන්ධතාව මත මෙම සේවාව භාවිත කිරීම ගාස්තු නංවනු හැකිය!</string>
+    <string name="header_downloading_update">යාවත්කාල බාගැනෙමින්</string>
+    <string name="header_install_system_software_update">පද්ධති මෘදුකාංග යාවත්කාල ස්ථාපනය කරන්න</string>
+    <string name="msg_install_system_software_update_1">"ඔබ පහත සඳහන් පද්ධති මෘදුකාංගය ස්ථාපනය කිරීමට කැමැත්තෙහිද?
+පද්ධතිය උත්ශ්‍රේණිගත කරන්නේ"</string>
+    <string name="msg_install_system_software_update_2">"
+
+උත්ශ්‍රේණිගත කිරීම අතරතුර ඔබට ඔබගේ උපාංගය භාවිත කිරීමට හෝ හදිසි ඇමතුම් ගැනීමට නොහැකි වනු ඇත.
+
+මෘදුකාංගය යාවත්කාල කරන අතරතුර බැටරිය හෝ SD කාඩ්පත ඉවත් කිරීම අනපේක්ෂිත ප්‍රතිඵල ලබාදීමට මෙහෙයවෙනු ඇත."</string>
+    <string name="msg_install_system_software_update_3">"
+
+උත්ශ්‍රේණිගත කිරීම අතරතුර ඔබට ඔබගේ උපාංගය භාවිත කිරීමට නොහැකි වනු ඇත.
+
+මෘදුකාංගය යාවත්කාල කරන අතරතුර බලය විසන්ධි කිරීම හෝ බාගැනුණු ගොනුව ඉවත් කිරීම අනපේක්ෂිත ප්‍රතිඵල ලබාදීමට මෙහෙයවෙනු ඇත."</string>
+    <string name="msg_install_system_software_update_4">"
+
+උත්ශ්‍රේණිගත කිරීම අතරතුර ඔබට ඔබගේ උපාංගය භාවිත කිරීමට හෝ හදිසි ඇමතුම් ගැනීමට නොහැකි වනු ඇත.
+
+මෘදුකාංගය යාවත්කාල කරන අතරතුර බලය විසන්ධි කිරීම හෝ බාගැනුණු ගොනුව ඉවත් කිරීම අනපේක්ෂිත ප්‍රතිඵල ලබාදීමට මෙහෙයවෙනු ඇත."</string>
+    <string name="button_install_now">දැන් ස්ථාපනය කරන්න</string>
+    <string name="button_install_later">පසුව ස්ථාපනය කරන්න</string>
+    <string name="header_unable_to_connect">සම්බන්ධ කළ නොහැකිය</string>
+    <string name="msg_unable_to_connect">මේ යෙදුම භාවිත කිරීමට ඔබට ජාල සම්බන්ධතාවක් අවශ්‍යයි. කරුණාකර පසුතල තුළ ජංගම ජාලය හෝ Wi-Fi පසුතල සජීවනය කරන්න.</string>
+    <string name="msg_unable_to_connect_2">මේ යෙදුම භාවිත කිරීමට ඔබට ජාල සම්බන්ධතාවක් අවශ්‍යයි. කරුණාකර පසුතල තුළ ජංගම ජාලය සජීවනය කරන්න.</string>
+    <string name="msg_unable_to_connect_wlan">මේ යෙදුම භාවිත කිරීමට ඔබට ජාල සම්බන්ධතාවක් අවශ්‍යයි. කරුණාකර පසුතල තුළ ජංගම ජාලය හෝ WLAN සජීවනය කරන්න.</string>
+    <string name="msg_unable_to_connect_short">ජාල සම්බන්ධතා නැත</string>
+    <string name="button_reset">යළි පිහිටුවන්න</string>
+    <string name="button_settings">සැකසීම්</string>
+    <string name="header_system_is_update">පද්ධති යාවත්කාලීනය.</string>
+    <string name="msg_system_is_update">ලද හැකි නව යාවත්කාල කිසිත් නැත.</string>
+    <string name="msg_system_is_update_short">නව යාවත්කාල කිසිවක් නැත</string>
+    <string name="msg_no_sd_card">පද්ධති යාවත්කාල සඳහා SD කාඩ්පත අවශ්‍ය වේ. කරුණාකර ලද හැකි SD කාඩ්පතක් ඇතුළත් කරන්න.</string>
+    <string name="msg_no_sd_card_short">SD කාඩ් පතක් නොමැත.</string>
+    <string name="msg_no_available_size_card">මෙම යාවත්කාලයට ලද හැකි ඉඩ %s MB ක් අවශ්‍ය වේ. කරුණාකර SD කාඩ්පත වෙතින් ගොනු කිහිපයක් මකා දමන්න.</string>
+    <string name="msg_no_available_size_card_2">මෙම යාවත්කාලයට ලද හැකි ඉඩ %s MB ක් අවශ්‍ය වේ. කරුණාකර දත්ත ගබඩාව තුළ ගොනු කිහිපයක් මකා දමන්න.</string>
+    <string name="msg_no_available_size_card_short">අවශ්‍ය තරම් නිදහස් ගබඩාකරණ ඉඩ නොමැත.</string>
+    <string name="msg_do_not_remove_sd_card">කරුණාකර SD කාඩ්පත ඉවත් නොකරන්න.</string>
+    <string name="title_system_update_ready">පද්ධති යාවත්කාලය සූදානම්ය</string>
+    <string name="msg_system_update_ready">පද්ධති යාවත්කාල ස්ථාපනය කිරීමට තට්ටු කරන්න.</string>
+    <string name="msg_system_battery_too_low">"පද්ධති යාවත්කාලය සූදානම්ය, නමුත් එය ස්ථාපනය කිරීමට ඔබගේ උපාංග බැටරිය ඉතා පහළය. කරුණාකර බැටරිය ආරෝපණය කර පසුව ස්ථාපනය ආරම්භ කරන්න.
+
+බැටරි බලය 35%%ට වඩා වැඩිවිය යුතුය.
+වර්තමාන බැටරි මට්ටම: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">බැටරි මට්ටම ඉතා පහළය</string>
+    <string name="msg_remove_sd_card">බාගැනුණු ගොනුව SD කාඩ්පත කරා ලිවීමට නොහැකිය. කරුණාකර SD කාඩ් පත පරීක්ෂා කරන්න.</string>
+    <string name="msg_remove_sd_card_2">බාගැනුණු ගොනුව දත්ත ගබඩාව කරා ලිවීමට නොහැකිය. කරුණාකර ගබඩා ඉඩ පරීක්ෂා කරන්න.</string>
+    <string name="msg_remove_sd_card_short">SD කාඩ්පත කරා ප්‍රවේශය ගැනීම අසාර්ථක විය.</string>
+    <string name="msg_remove_sd_card_short_2">දත්ත ගබඩාවට ප්‍රවේශය ගැනීම අසාර්ථක විය.</string>
+    <string name="msg_verify_fail">බාගැනුණු ගොනුව සත්‍යාපනය කිරීම අසාර්ථක විය.</string>
+    <string name="msg_verify_fail_short">සත්‍යාපනය කිරීම අසාර්ථක විය</string>
+    <string name="msg_unzip_fail">බාගැනුණු ගොනුව සිප් මිදීම අසාර්ථක විය.</string>
+    <string name="msg_unzip_fail_short">සිප් කිරීමෙන් මිදීම අසාර්ථක විය</string>
+    <string name="hide">සඟවන්න</string>
+    <string name="data_size">දත්ත තරම</string>
+    <string name="required_size">අවශ්‍ය ඉඩ</string>
+    <string name="network_not_match">ඔබගේ වර්තමාන පසුතලය WLAN හරහා පමණක් බාගැනීමට වේ. කරුණාකර WLAN ජාලයක් තෝරන්න, නැත්නම් ඔබගේ පසුතල වෙනස් කරන්න.</string>
+    <string name="network_not_match_short">ජාලය නොගැළපේ.</string>
+    <string name="without_reboot_api">API අස්ථානගත වීම හේතුවෙන් නැවත ආරම්භ කිරීමට නොහැකිය. කරුණාකර සක්‍රීය යාවත්කාලය හස්තීයව පිළිනැගීමට නැවත ආරම්භ කරන්න.</string>
+    <string name="update_complete">පද්ධති යාවත්කාලය සම්පූර්ණයි.</string>
+    <string name="update_complete_short">යාවත්කාලය සම්පූර්ණයි</string>
+    <string name="file_removed">බාගැනුණු ගොනුව ඉවත් කරනු ලැබ ඇත. කරුණාකර නැවත බාගන්න.</string>
+    <string name="file_removed_short">බාගැනුණු ගොනුව ඉවත් කරනු ලැබ ඇත.</string>
+    <string name="file_not_match">බාගැනුණු ගොනුව අපේක්ෂිත තරම හා නොගැළපේ. කරුණාකර නැවත බාගන්න.</string>
+    <string name="file_not_match_short">ගොනුව නොගැළපේ.</string>
+    <string name="menu_url">සේවාදායක URL වෙනස් කරන්න</string>
+    <string name="menu_enabled">සබලිත මෘදුකාංග පමණි</string>
+    <string name="using_internal_storage">අභ්‍යන්තර ගබඩාව භාවිත කිරීම</string>
+    <string name="using_external_storage">බාහිර ගබඩාව භාවිත කිරීම</string>
+    <string name="msg_agree_message">"
+
+උත්ශ්‍රේණිගත කිරීමේ ක්‍රියාවලිය හේතුකාරක වුණු පරිශීලක දත්ත මැකීයාමේ සුළු හැකියාවක් ඇත. අවශ්‍ය වන්නේ නම්, කරුණාකර පද්ධති යාවත්කාල ස්ථාපනයට පෙරාතුව ඔබගේ දත්ත උපස්ථ කරන්න."</string>
+    <string name="msg_root_message">"
+
+උපාංගය මූලනය කිරීමෙන් පසුව සාමාන්‍ය යාවත්කාලය වෙනුවෙන් ඇප විය නොහැකිය."</string>
+    <string name="msg_responsibility_message">උපාංගය මූලනය කරනු ලැබ ඇත්නම්, යාවත්කාලයකට පසුව කිසියම් අසාමාන්‍ය පද්ධති චර්යාවක් සඳහා පරිශීලක වගකිව යුතු වේ.</string>
+    <string name="msg_upgrade_agree">කියවා එකඟතාව පළ කරන්න</string>
+    <string name="later">පසුව</string>
+    <string name="update">අලුත් කරන්න</string>
+    <string name="update_summary">යාවත්කාල සඳහා පරීක්‍ෂා කරන්න</string>
+    <string name="wifi_only">Wi-Fi පමණයි</string>
+    <string name="wlan_only">WLAN පමණි</string>
+    <string name="wifi_only_summary">Wi-Fi සම්බන්ධතාව ලද හැකි විට යාවත්කාල බාගන්න</string>
+    <string name="wlan_only_summary">WLAN සම්බන්ධතාව ලද හැකි විට යාවත්කාල බාගන්න</string>
+    <string name="auto_update">ස්වයං යාවත්කාලය</string>
+    <string name="auto_update_summary">ස්වයංක්‍රීයව යාවත්කාල සඳහා පරීක්ෂා කරන්න</string>
+    <string name="new_data_fee_warning">පරීක්ෂා කිරීම සහ යාවත්කාල බාගැනීම අතිරේක ගාස්තු නංවනු හැකිය. හැකියාව ඇත්නම් Wi-Fi හරහා යාවත්කාල බාගන්න.</string>
+    <string name="wlan_data_fee_warning">පරීක්ෂා කිරීම සහ යාවත්කාල බාගැනීම අතිරේක ගාස්තු නංවනු හැකිය. හැකියාව ඇත්නම් WLAN හරහා යාවත්කාල බාගන්න.</string>
+    <string name="installing">ස්ථාපනය කරමින්</string>
+    <string name="install_complete">ස්ථාපිතයි</string>
+    <string name="install_fail">ස්ථාපනය අසාර්ථකත්වය</string>
+    <string name="install_all">සියල්ල ස්ථාපනය කරන්න</string>
+    <string name="install">ස්ථාපනය</string>
+    <string name="installed_version">ස්ථාපිත අනුවාදය</string>
+    <string name="update_available">යාවත්කාලය ලද හැකිය.</string>
+    <string name="apk_update_available">යෙදුම් යාවත්කාලය ලද හැකිය.</string>
+    <string name="recommend">නිර්දේශිතයි</string>
+    <string name="roaming_restriction">දත්ත සැරිසැරීම සඳහා සීමාකිරීම</string>
+    <string name="roaming_restriction_summary">දත්ත සැරිසැරීම් සීමාකිරීම හේතුවෙන් යාවත්කාල කිරීමට නොහැකිය.</string>
+    <string name="changelog">ලොග් වෙනස් කරන්න</string>
+    <string name="description">විස්තරය</string>
+    <string name="apk_update_available_summary">%s හට ලද හැකි යාවත්කාලයක් තිබේ. මේ අවස්ථාවේ ස්ථාපනය කිරීමට හරි ක්ලික් කරන්න, නැත්නම් එක් දිනකට පසුව යාවත්කාල පරීක්ෂා කිරීමට අවලංගු කරන්න ක්ලික් කරන්න.</string>
+    <string name="apk_removed">මෙම යෙදුම ඉවත් කරනු ලැබ ඇත.</string>
+    <string name="apk_available_items">ලද හැකි අයිතමවලින් සම්පූර්ණයෙන් %s ක්</string>
+    <string name="apk_available_item">ලද හැකි අයිතමවලින් සම්පූර්ණයෙන් %s ක්</string>
+    <string name="new_forpreference">අලුත්:</string>
+    <string name="invalid_update_summary">යාවත්කාලය අවලංගුය, කරුණාකර නැවත පරීක්ෂා කරන්න.</string>
+    <string name="recheck">නැවත පරීක්‍ෂා කරන්න</string>
+    <string name="image_download_exception_summary">සේවාදායකය කරා ප්‍රවේශ විය නොහැකිය, කරුණාකර පසුව නැවතත් පරීක්ෂා කරන්න.</string>
+    <string name="apk_download_exception">සේවාදායකයට ප්‍රවේශය ගැනීමට නොහැකිය</string>
+    <string name="installation_confirmation">ස්ථාපනය තහවුරු කිරීම</string>
+    <string name="apk_need_reboot_summary">ස්ථාපනය නිමා කිරීමෙන් පසුව මෙම මෘදුකාංග යාවත්කාලය ස්වයංක්‍රීයව පද්ධතිය නැවත ආරම්භ කරනු ඇත. ඔබට දැන් ස්ථාපනය කිරීමට අවශ්‍යද?</string>
+    <string name="downloaded">බාගන්නා ලද</string>
+    <string name="prepare_to_reboot">නැවත ආරම්භ කිරීමට සූදානම් වන්න</string>
+    <string name="prepare_to_reboot_summary">ස්ථාපිත මෘදුකාංගයට පසුතල වින්‍යාසගත කිරීමට නැවත ආරම්භ කිරීම අවශ්‍ය වේ. අපි දැන් නැවත ආරම්භ කිරීම නිර්දේශ කරමු, නැත්නම් ඔබට පසුව නැවත ආරම්භ කළ හැකිය.</string>
+    <string name="prepare_to_reboot_force_summary">ස්ථාපිත මෘදුකාංගයට පසුතල වින්‍යාසගත කිරීමට නැවත ආරම්භ කිරීම අවශ්‍ය වේ. අපි දැන් නැවත ආරම්භ කිරීමට නිර්දේශ කරමු.</string>
+    <string name="reboot">පුනරාරම්භ කරන්න</string>
+    <string name="reboot_fail">නැවත ආරම්භ කිරීම අසාර්ථක විය</string>
+    <string name="reboot_fail_summary">API අස්ථානගත වීම හේතුවෙන් නැවත ආරම්භ කිරීමට නොහැකිය. කරුණාකර හස්තීයව නැවත ආරම්භ කරන්න.</string>
+    <string name="apk_no_avaliable_size">අප්‍රමාණවත් අභ්‍යන්තර ගබඩාකරණ තරම හේතුවෙන් බාගැනීමට නොහැකිය.</string>
+    <string name="update_finished">යාවත්කාලය නිමයි</string>
+    <string name="header_warning">අවවාදයයි</string>
+    <string name="msg_root_warning">ඔබගේ උපාංගය මූලනය කර හෝ නිල මෘදුකාංගය දැඩි ආසක්ත බැවින් යුතු වී ඇත. පද්ධති යාවත්කාලය සමග ඉදිරියට යෑම පද්ධති අස්ථායී බව හෝ පද්ධති විකෘති බව ඇති කරනු විය හැකිය, එනිසා ඔබගේ උපාංගයේ වගකීම් සහතිකය බල රහිත කරනු විය හැකිය. අඛණ්ඩව කරගෙන යාමට අවශ්‍ය බව ඔබට නිසැක ද?</string>
+    <string name="multi_image_update">අනුරූප යාවත්කාල කිහිපයක් ලද හැකිව තිබේ</string>
+    <string name="available_update_list">ලද හැකි යාවත්කාල ලැයිස්තුව</string>
+    <string name="downloading_summary">කරුණාකර අනුරූප බාගැනීම අවලංගු කරන්න</string>
+    <string name="msg_erase_userdata_warning">මෙම යාවත්කාලයයට පරිශීලක දත්ත මකා දැමීම අවශ්‍ය වේ. ඔබට ඉදිරියට යාමට අවශ්‍යද?</string>
+    <string name="msg_autoupdate_date_fee_warning">ස්වයං යාවත්කාල කිරීම අතිරේක ගාස්තු නංවනු හැකිය.</string>
+    <string name="invalid_update">යාවත්කාලය අවලංගුය.</string>
+    <string name="file_corrupted">ගොනුව විකෘති වීම හේතුවෙන් පද්ධතිය උත්ශ්‍රේණිගත කිරීමට නොහැකිය.</string>
+    <string name="ask_for_apk_check">ඔබට යෙදුම් යාවත්කාල සඳහා පරීක්ෂා කිරීමට අවශ්‍යද?</string>
+    <string name="update_ota_self">මෘදුකාංග යාවත්කාලය ප්‍රගතියේය.</string>
+    <string name="ab_update_fail">ස්ථාපන ගැටලුව.</string>
+    <string name="ab_update_wrong_status">යාවත්කාල එන්ජිම දැන් කාර්ය බහුලයි. කරුණාකර නැවත උත්සාහ කරන්න, නැත්නම් නැවත ආරම්භ කරන්න.</string>
+    <string name="ab_update_installing">පද්ධතිය යාවත්කාල කරමින්</string>
+    <string name="tag_engineer_mode">ඉංජිනේරු ප්‍රකාරය</string>
+    <string name="engineer_version_incorrect">ඔබගේ උපාංග අනුවාදය වැරදියි</string>
+    <string name="msg_engineer_ota_restore">නිල අනුවාදය පිළිනැගීමට තට්ටු කරන්න</string>
+    <string name="msg_engineer_ota_restore_warning">මෙයින් නිල අනුවාදය පිළිනැගෙනු ඇත. ඔබට ඉදිරියට යාමට අවශ්‍යද?</string>
+    <string name="silent_mode_data_fee_warning">යාවත්කාලය ලද හැකිය. යාවත්කාල බාගැනීම අතිරේක ගාස්තු නංවනු හැකිය. හැකියාව ඇත්නම් Wi-Fi හරහා යාවත්කාල බාගන්න.</string>
+    <string name="msg_updating_system">පද්ධතිය යාවත්කාල කරමින්...</string>
+    <string name="msg_tap_to_reboot">නැවත ආරම්භ කිරීමට තට්ටු කරන්න</string>
+    <string name="msg_pause_download">බාගැනීම විරාම කරන්න</string>
+    <string name="notification_channel_name">පද්ධති යාවත්කාලය</string>
+    <string name="notification_channel_alert_name">සාමාන්‍ය දැනුම්දීම්</string>
+</resources>

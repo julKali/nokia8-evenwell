@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">İPTAL</string>
+    <string name="DONE">BİTTİ</string>
+    <string name="NEXT">İLERİ</string>
+    <string name="OK">USB belleği</string>
+    <string name="PREVIOUS">ÖNCEKİ</string>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="alert_empty_desc">Lütfen açıklamanızı ekleyin!</string>
+    <string name="alert_warning_title">İpuçları</string>
+    <string name="enter_comments">Yorum girin (1000 karakter)</string>
+    <string name="extremely_likely">(Çok yüksek olasılıkla)</string>
+    <string name="feedback">Geri bildirim</string>
+    <string name="helps_us_improve_our_products">Geri bildiriminiz ürünlerimizi iyileştirmemize yardımcı olur.</string>
+    <string name="intro_title">Bu telefonu arkadaşınıza veya iş arkadaşınıza önerir misiniz?</string>
+    <string name="msg_send_after">Cihaz çevrimiçi olduğunda ileti otomatik olarak yüklenecektir. Cevabınız için teşekkür ederiz.</string>
+    <string name="msg_send_fail">Gönderilemedi. Cihaz çevrimiçi olduğunda ileti otomatik olarak yüklenecektir. Cevabınız için teşekkür ederiz.</string>
+    <string name="no_ask_feedback_again_text">Tekrar gösterme</string>
+    <string name="no_showagain_text">Tekrar gösterme</string>
+    <string name="not_at_all_likely">(Hiç olası değil)</string>
+    <string name="privacy_context_wifi">"Değerli kullanıcılar, 
+
+Geri bildirim istemcisi yazılımına hoş geldiniz. Bu ürünü kullanmaya başlamadan önce aşağıdaki hizmet koşullarını dikkatle okuyup anlayın. 「Kabul Ediyorum」düğmesine tıklamanız, yazılımın ayrıcalıklarını anladığınız ve yazılımı kullanmayı kabul ettiğiniz anlamına gelir. Bu koşulları kabul ETMİYORSANIZ lütfen「Çıkış」düğmesine basın. Size kapsamlı hizmetler sunması için Uygulamanın aşağıdaki izinlere sahip olması gerekir: 
+1. Geri bildirim bilgilerini göndermek için İnternet, WLAN ağı erişimi 
+2. Temel telefon bilgilerini otomatik olarak almak için IMEI, PSN ve MNC\\MCC bilgilerini içeri aktarma"</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="select_a_value">Bir değer seçin</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Kabul ediyorum</string>
+    <string name="str_leave">Çıkış</string>
+    <string name="submit_fail">Gönderme başarısız oldu</string>
+    <string name="submit_success">Cevabınız için teşekkür ederiz</string>
+    <string name="thank_your_feedback">Geri bildiriminiz için teşekkür ederiz.</string>
+    <string name="we_appreciate_your_help">Nokia ürünlerini dünyanın en iyisi yapmamıza yardımcı olduğunuz için teşekkür ederiz.</string>
+    <string name="we_hope_enjoying_nokia_device">Nokia cihazınızdan memnun olduğunuzu umarız. Geri bildiriminiz bizim için çok önemli.</string>
+    <string name="we_will_contact_you_again">Sizinle daha sonra tekrar iletişim kuracağız.</string>
+    <string name="we_will_contact_you_again_enjoy">Sizinle daha sonra tekrar iletişim kuracağız. Yeni Nokia cihazınızı keyifle kullanın.</string>
+    <string name="why_you_gave_this_score">Lütfen bu puanı verme nedeninizi açıklayın:</string>
+</resources>

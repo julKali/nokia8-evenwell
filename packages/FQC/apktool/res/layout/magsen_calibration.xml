@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/test_mag_calibration" android:lines="6" />
+    <TextView android:id="@id/magtest_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/nodata" android:lines="5" />
+    <TextView android:textSize="20.0px" android:id="@id/magtest_result" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

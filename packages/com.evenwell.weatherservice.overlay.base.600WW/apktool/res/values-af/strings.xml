@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Weerdiens</string>
+    <string name="fih_weather_permission_hint_1">Om regte werk, vereis hierdie toep ekstra oestemming. Gee toestemming as gevra word.</string>
+    <string name="fih_weather_permission_hint_2">Om behoorlik te werk, vereis die toep ekstra toestemming. Bestuur Weerdiens se toestemming in Instellings.</string>
+    <string name="fih_weather_button_ok">Oukei</string>
+    <string name="fih_weather_button_close">Sluit</string>
+    <string name="fih_weather_button_setting">Instelling</string>
+    <string name="fih_weather_permission_success">Gun liggingstoestemming suksesvol</string>
+    <string name="fih_weather_permission_failed">Gun liggingstoestemming is geweier, kan nie ligging kry nie.</string>
+    <string name="fih_weather_notification_title">Weerdiens benodig toestemming</string>
+    <string name="fih_weather_notification_text">Tik om toe te laat</string>
+    <string name="fih_weather_notification_channel_title">Algemene kennisgewings</string>
+</resources>

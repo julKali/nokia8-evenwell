@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Programinės įrangos naujinimas</string>
+    <string name="remote_file_fail">Nepavyksta pasiekti nuotolinio failo. Pabandykite vėliau.</string>
+    <string name="no_description">(Nėra aprašo)</string>
+    <string name="login_fail">Nepavyko prisijungti prie serverio. Pabandykite vėliau.</string>
+    <string name="get_service_url_fail">Tinklo ryšys nestabilus (nepavyko gauti paslaugos URL). Pabandykite vėliau.</string>
+    <string name="query_sw_fail">Nepavyko užklausti programinės įrangos informacijos.</string>
+    <string name="download_sw_fail">Nepavyko atsisiųsti programinės įrangos.</string>
+    <string name="query_sw_incorrect">Rezultatas neteisingas.</string>
+    <string name="no_update_available">Nėra naujesnio naujinio.</string>
+    <string name="update_not_ready">Naujesnis naujinys neparuoštas serveryje. Pabandykite vėliau.</string>
+    <string name="check_now_label">Tikrinti dabar</string>
+    <string name="verifying">Tikrinama...</string>
+    <string name="header_verifying_update_file">Tikrinamas atnaujintas failas...</string>
+    <string name="unzipping">Išskleidžiama...</string>
+    <string name="header_starting_to_download_file">Pradedamas failo atsisiuntimas...</string>
+    <string name="new_version_desc_prompt">Nauja versija apima:</string>
+    <string name="data_fee_warning">Jei naudosite šią paslaugą prisijungę per mobiliojo ryšio tinklus, gali būti taikomi mokesčiai!</string>
+    <string name="header_downloading_update">Atsisiunčiamas naujinys</string>
+    <string name="header_install_system_software_update">Diegti sistemos programinės įrangos naujinį</string>
+    <string name="msg_install_system_software_update_1">"Ar norėtumėte diegti šią sistemos programinę įrangą?
+Sistemos naujinimas į"</string>
+    <string name="msg_install_system_software_update_2">"
+
+Naujinimo metu negalėsite naudoti įrenginio arba atlikti pagalbos skambučių.
+
+Išėmus akumuliatorių arba pašalinus SD kortelę programinės įrangos naujinimo metu, gali atsitikti nenumatytų dalykų."</string>
+    <string name="msg_install_system_software_update_3">"
+
+Naujinimo metu negalėsite naudoti įrenginio.
+
+Išjungus maitinimą arba pašalinus atsisiųstą failą programinės įrangos naujinimo metu, atsitiks nenumatytų dalykų."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Naujinimo metu negalėsite naudoti įrenginio arba atlikti pagalbos skambučių.
+
+Išjungus maitinimą arba pašalinus atsisiųstą failą programinės įrangos naujinimo metu, atsitiks nenumatytų dalykų."</string>
+    <string name="button_install_later">Įdiegti vėliau</string>
+    <string name="msg_unable_to_connect">Norint naudoti šią programą, reikia tinklo ryšio. Įjunkite mobilųjį tinklą arba \"Wi-Fi\" srityje \"Nustatymai\".</string>
+    <string name="msg_unable_to_connect_2">Norint naudoti šią programą, reikia tinklo ryšio. Įjunkite mobilųjį tinklą srityje \"Nustatymai\".</string>
+    <string name="msg_unable_to_connect_wlan">Norint naudoti šią programą, reikia tinklo ryšio. Įjunkite mobilųjį tinklą arba WLAN srityje \"Nustatymai\".</string>
+    <string name="msg_unable_to_connect_short">Nėra tinklo ryšio</string>
+    <string name="header_system_is_update">Sistema atnaujinta.</string>
+    <string name="msg_system_is_update">Nėra naujesnio naujinio.</string>
+    <string name="msg_system_is_update_short">Nėra naujesnių naujinimų</string>
+    <string name="msg_no_sd_card">Sistemai naujinti reikalinga SD kortelė. Įdėkite turimą SD kortelę.</string>
+    <string name="msg_no_available_size_card">Naujinimo failui reikia %s MB tuščios vietos. Ištrinkite kai kuriuos failus iš SD kortelės.</string>
+    <string name="msg_no_available_size_card_2">Naujinimo failui reikia %s MB tuščios vietos. Ištrinkite kai kuriuos failus iš duomenų saugyklos.</string>
+    <string name="msg_no_available_size_card_short">Nėra pakankamai laisvos vietos.</string>
+    <string name="msg_do_not_remove_sd_card">NEIŠIMKITE SD kortelės.</string>
+    <string name="msg_system_battery_too_low">"Sistemos naujinys paruoštas, bet įrenginio akumuliatoriuje liko per mažai energijos, kad jį būtų galima įdiegti. Įkraukite akumuliatorių ir pradėkite diegti vėliau.
+
+Akumuliatoriaus įkrovos lygis turėtų būti didesnis nei 35 %%.
+Dabartinis akumuliatoriaus įkrovos lygis: %s %%."</string>
+    <string name="msg_system_battery_too_low_short">Akumuliatoriuje liko per mažai energijos</string>
+    <string name="msg_remove_sd_card">Atsisiųsto failo negalima įrašyti į SD kortelę. Patikrinkite SD kortelę.</string>
+    <string name="msg_remove_sd_card_2">Atsisiųsto failo negalima įrašyti į duomenų saugyklą. Patikrinkite saugyklą.</string>
+    <string name="msg_remove_sd_card_short">Nepavyko gauti prieigos prie SD kortelės.</string>
+    <string name="msg_remove_sd_card_short_2">Nepavyko pasiekti duomenų saugyklos.</string>
+    <string name="msg_verify_fail">Nepavyko patikrinti atsisiųsto failo.</string>
+    <string name="msg_verify_fail_short">Nepavyko patikrinti</string>
+    <string name="msg_unzip_fail">Nepavyko išskleisti atsisiųsto failo.</string>
+    <string name="msg_unzip_fail_short">Nepavyko išskleisti</string>
+    <string name="data_size">Duomenų dydis</string>
+    <string name="required_size">Reikalinga vieta</string>
+    <string name="network_not_match">Dabar nustatyta atsisiųsti tik naudojant WLAN. Pasirinkite WLAN tinklą arba pakeiskite nustatymus.</string>
+    <string name="network_not_match_short">Tinklas neatitiktas.</string>
+    <string name="without_reboot_api">Negalima perkrauti dėl trūkstamo API. Paleiskite įrenginį iš naujo, kad neautomatiškai atkurtumėte aktyvų naujinimą.</string>
+    <string name="update_complete">Sistemos naujinimas užbaigtas.</string>
+    <string name="update_complete_short">Naujinimas užbaigtas</string>
+    <string name="file_removed">Atsisiųstas failas pašalintas. Atsisiųskite dar kartą.</string>
+    <string name="file_removed_short">Atsisiųstas failas pašalintas.</string>
+    <string name="file_not_match">Atsisiųstas failas neatitinka numatyto dydžio. Atsisiųskite dar kartą.</string>
+    <string name="file_not_match_short">Failas neatitinka.</string>
+    <string name="menu_url">Keisti serverio URL</string>
+    <string name="menu_enabled">Tik įgalinta programinė įranga</string>
+    <string name="using_internal_storage">Naudojama vidinė saugykla</string>
+    <string name="using_external_storage">Naudojama išorinė saugykla</string>
+    <string name="msg_agree_message">"
+
+Yra nedidelė tikimybė, kad dėl naujinimo proceso bus ištrinti naudotojo duomenys. Jei reikia, prieš diegdami sistemos naujinį sukurkite atsarginę duomenų kopiją."</string>
+    <string name="msg_root_message">"
+
+Pašalinius įrenginio naudotojų teisių apribojimą, neužtikrinamas normalus naujinimas."</string>
+    <string name="msg_responsibility_message">Jei įrenginyje pašalintas naudotojų teisių apribojimas, naudotojas atsakingas už bet kokį nenormalų sistemos veikimą po atnaujinimo.</string>
+    <string name="msg_upgrade_agree">Perskaitykite ir sutikite</string>
+    <string name="update_summary">Tikrinti, ar yra naujinių</string>
+    <string name="wlan_only">Tik WLAN</string>
+    <string name="wifi_only_summary">Atsisiųsti naujinius, kai yra \"Wi-Fi\" ryšys</string>
+    <string name="wlan_only_summary">Atsisiųsti naujinius, jei yra WLAN ryšys</string>
+    <string name="auto_update">Automatinis naujinimas</string>
+    <string name="auto_update_summary">Automatiškai tikrinti, ar yra naujinių</string>
+    <string name="new_data_fee_warning">Tikrinant ir atsisiunčiant naujinius gali būti taikomi papildomi mokesčiai. Atsisiųsti naujinius naudojant \"Wi-Fi\" ryšį (jei įmanoma).</string>
+    <string name="wlan_data_fee_warning">Tikrinant ir atsisiunčiant naujinius gali būti taikomi papildomi mokesčiai. Atsisiųsti naujinius naudojant WLAN ryšį (jei įmanoma).</string>
+    <string name="install_fail">Diegimo klaida</string>
+    <string name="install_all">Įdiegti viską</string>
+    <string name="installed_version">Įdiegta versija</string>
+    <string name="update_available">Galimas naujinys.</string>
+    <string name="apk_update_available">Galimas programos naujinys.</string>
+    <string name="recommend">Rekomenduoti</string>
+    <string name="roaming_restriction">Tarptinklinio duomenų ryšio apribojimas</string>
+    <string name="roaming_restriction_summary">Negalima naujinti dėl tarptinklinio duomenų ryšio apribojimo.</string>
+    <string name="changelog">Pakeisti žurnalą</string>
+    <string name="apk_update_available_summary">%s yra galimas naujinys. Spustelėkite \"Gerai\", jei norite diegti dabar, arba spustelėkite \"Atšaukti\", norėdami naujinį peržiūrėti po vienos dienos.</string>
+    <string name="apk_removed">Ši programa pašalinta.</string>
+    <string name="apk_available_items">Iš viso galimų elementų: %s</string>
+    <string name="apk_available_item">Iš viso galimų elementų: %s</string>
+    <string name="invalid_update_summary">Naujinys netinkamas, pabandykite vėliau.</string>
+    <string name="recheck">Tikrinti dar kartą</string>
+    <string name="image_download_exception_summary">Nepavyksta pasiekti serverio, pabandykite vėliau.</string>
+    <string name="apk_download_exception">Nepavyksta pasiekti serverio</string>
+    <string name="installation_confirmation">Diegimo patvirtinimas</string>
+    <string name="apk_need_reboot_summary">Užbaigus diegimą, programinės įrangos naujinimas automatiškai paleis sistemą iš naujo. Ar norite diegti dabar?</string>
+    <string name="prepare_to_reboot">Pasiruoškite paleisti iš naujo</string>
+    <string name="prepare_to_reboot_summary">Įdiegta programinė įranga turi paleisti įrenginį iš naujo, kad būtų sukonfigūruoti nustatymai. Siūlome paleisti iš naujo dabar. Taip pat galite paleisti iš naujo vėliau.</string>
+    <string name="prepare_to_reboot_force_summary">Įdiegta programinė įranga turi paleisti įrenginį iš naujo, kad būtų sukonfigūruoti nustatymai. Siūlome paleisti iš naujo dabar.</string>
+    <string name="reboot_fail">Paleisti iš naujo nepavyko</string>
+    <string name="reboot_fail_summary">Negalima perkrauti dėl trūkstamo API. Paleiskite iš naujo neautomatiškai.</string>
+    <string name="apk_no_avaliable_size">Negalima atsisiųsti dėl nepakankamo vidinės saugyklos dydžio.</string>
+    <string name="update_finished">Naujinimas baigtas</string>
+    <string name="msg_root_warning">Įrenginyje pašalintas naudotojų teisių apribojimas arba oficiali programinė įranga modifikuota. Tęsiant sistemos naujinimą, sistema gali tapti nestabili arba sugesti, o įrenginio garantija gali tapti nebegaliojanti. Ar tikrai norite tęsti?</string>
+    <string name="multi_image_update">Yra keletas vaizdų naujinių</string>
+    <string name="available_update_list">Galimų naujinių sąrašas</string>
+    <string name="downloading_summary">Atšaukite vaizdo atsisiuntimą</string>
+    <string name="msg_erase_userdata_warning">Norint diegti šį naujinį, reikia ištrinti naudotojo duomenis. Ar norite tęsti?</string>
+    <string name="msg_autoupdate_date_fee_warning">Įjungus automatinį naujinimą, gali būti taikomi papildomi mokesčiai.</string>
+    <string name="invalid_update">Naujinys netinkamas.</string>
+    <string name="file_corrupted">Sistemos negalima naujinti, nes failas sugadintas.</string>
+    <string name="ask_for_apk_check">Ar norite tikrinti, ar yra programos naujinių?</string>
+    <string name="update_ota_self">Vyksta programinės įrangos naujinimas.</string>
+    <string name="ab_update_fail">Diegimo problema.</string>
+    <string name="ab_update_wrong_status">Naujinimo modulis šiuo metu užimtas. Pabandykite vėliau arba paleiskite įrenginį iš naujo.</string>
+    <string name="ab_update_installing">Sistemos naujinimas</string>
+    <string name="tag_engineer_mode">Inžinieriaus režimas</string>
+    <string name="engineer_version_incorrect">Įrenginio versija netinkama</string>
+    <string name="msg_engineer_ota_restore">Bakstelėkite, kad atkurtumėte oficialią versiją.</string>
+    <string name="msg_engineer_ota_restore_warning">Tai atkurs oficialią versiją. Ar norite tęsti?</string>
+    <string name="silent_mode_data_fee_warning">Galimas naujinys. Atsisiunčiant naujinius gali būti taikomi papildomi mokesčiai. Atsisiųsti naujinius naudojant \"Wi-Fi\" ryšį (jei įmanoma).</string>
+    <string name="msg_updating_system">Sistema naujinama...</string>
+    <string name="msg_tap_to_reboot">Palieskite, kad paleistumėte iš naujo</string>
+    <string name="msg_pause_download">Pristabdyti atsisiuntimą</string>
+    <string name="notification_channel_name">Sistemos naujinimas</string>
+    <string name="notification_channel_alert_name">Bendrieji pranešimai</string>
+</resources>

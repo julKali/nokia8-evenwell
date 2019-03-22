@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feedback">Commentaires</string>
+    <string name="intro_title">Dans quelle mesure recommanderiez-vous ce téléphone à un ami ou un collègue ?</string>
+    <string name="select_a_value">Sélectionnez une valeur</string>
+    <string name="extremely_likely">(Extrêmement probable)</string>
+    <string name="not_at_all_likely">(Pas du tout probable)</string>
+    <string name="why_you_gave_this_score">Expliquez-nous votre score :</string>
+    <string name="helps_us_improve_our_products">Vos commentaires nous aident à améliorer nos produits !</string>
+    <string name="we_will_contact_you_again_enjoy">Nous vous recontacterons ultérieurement. Profitez de votre nouvel appareil Nokia !</string>
+    <string name="we_will_contact_you_again">Nous vous recontacterons ultérieurement.</string>
+    <string name="we_hope_enjoying_nokia_device">Nous espérons que vous profitez de votre appareil Nokia. Votre avis est très important pour nous.</string>
+    <string name="thank_your_feedback">Merci pour votre avis !</string>
+    <string name="we_appreciate_your_help">Nous vous remercions de nous aider à rendre les produits Nokia les meilleurs au monde.</string>
+    <string name="enter_comments">Entrer des commentaires (1 000 caractères)</string>
+    <string name="PREVIOUS">PRÉCÉDENT</string>
+    <string name="DONE">TERMINÉ</string>
+    <string name="CANCEL">ANNULER</string>
+    <string name="NEXT">SUIVANT</string>
+    <string name="OK">OK</string>
+    <string name="alert_warning_title">Conseils</string>
+    <string name="alert_empty_desc">Veuillez ajouter votre description !</string>
+    <string name="submit_success">Merci pour votre réponse.</string>
+    <string name="submit_fail">Échec de la soumission</string>
+    <string name="msg_send_after">"Le message sera téléchargé automatiquement lorsque l'appareil sera en ligne. Merci pour votre réponse."</string>
+    <string name="msg_send_fail">"Échec de l'envoi. Message sera téléchargé automatiquement lorsque l'appareil sera en ligne. Merci pour votre réponse."</string>
+    <string name="str_agree">"J'ACCEPTE"</string>
+    <string name="str_leave">QUITTER</string>
+    <string name="no_showagain_text">Ne plus afficher.</string>
+    <string name="no_ask_feedback_again_text">Ne plus inviter à laisser des commentaires</string>
+</resources>

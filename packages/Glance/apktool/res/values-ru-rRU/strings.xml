@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Внешний вид</string>
+    <string name="pref_dialog_title_time_out">Время ожидания</string>
+    <string name="pref_title_alarm_information">Данные сигнала</string>
+    <string name="pref_title_calendar_reminder">Напоминание календаря</string>
+    <string name="pref_title_missed_calls">Индикатор пропущенных вызовов</string>
+    <string name="pref_title_time_out">Переход в режим ожидания через</string>
+    <string name="pref_title_unread_mails">Индикатор непрочитанных писем</string>
+    <string name="pref_title_unread_messages">Индикатор непрочитанных сообщений</string>
+    <string name="switch_off_text">Выкл.</string>
+    <string name="switch_on_text">Вкл.</string>
+</resources>

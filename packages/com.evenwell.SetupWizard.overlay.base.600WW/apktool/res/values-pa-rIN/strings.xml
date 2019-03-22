@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"ਉਪਭੋਗਤਾ ਅਨੁਭਵ ਪ੍ਰੋਗਰਾਮ ਨਾਲ ਜੁੜੋ। &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>ਹੋਰ ਜਾਣੋ&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"ਬਟਨ ਨੂੰ ਟੈਪ ਕਰਕੇ, ਤੁਸੀਂ &lt;a href='launch.TermOfServiceActivity://Kode'>ਸੇਵਾ ਦੀ ਸ਼ਰਤਾਂ&lt;/a> ਅਤੇ &lt;a href='launch.AddUploadAgentHandler://Kode'>ਗੋਪਨੀਯਤਾ ਨੀਤੀ&lt;/a> ਦੇ ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। ਇੱਕ-ਵਾਰ ਡਿਵਾਈਸ ਟਿਕਾਣੇ ਦੇ ਨਾਲ ਡਿਵਾਈਸ ਸਕ੍ਰਿਅਤਾ ਜਾਣਕਾਰੀ HMD Global ਨੂੰ ਭੇਜ ਦਿੱਤੀ ਜਾਵੇਗੀ।&lt;br/>&lt;br/>ਸਵੈਚਲ ਸੌਫਟਵੇਅਰ ਅੱਪਡੇਟ ਸੂਚਨਾ ਸਮਰੱਥ ਕੀਤੀ ਜਾਵੇਗੀ ਜੋ ਤੁਹਾਡੇ ਲਈ ਨਵੀਨਤਮ ਅੱਪਡੇਟ ਸਥਾਪਿਤ ਕਰਦਾ ਹੈ। ਇਹ ਤੁਹਾਡੇ ਡਾਟਾ ਬਜਟ ਦਾ ਛੋਟਾ ਜਿਹਾ ਹਿੱਸਾ ਵਰਤ ਸਕਦਾ ਹੈ। ਸੇਵਾਵਾਂ ਨੂੰ ਜਦੋਂ ਵੀ ਲੋੜ ਹੋਵੇਗੀ ਉਹ ਇੰਟਰਨੈੱਟ ਤੱਕ ਪਹੁੰਚ ਕਰਨਗੀਆਂ।&lt;br/>&lt;br/>ਜਦੋਂ ਇਹ ਸੇਵਾਵਾਂ ਸੈਲੂਲਰ ਨੈੱਟਵਰਕ ਤੱਕ ਪਹੁੰਚ ਕਰਦੀਆਂ ਹਨ ਤਾਂ ਉਹਨਾਂ ਲਈ ਤੁਹਾਡੇ ਤੋਂ ਵੱਧ ਵਰਤੋਂ ਦਾ ਮੁੱਲ ਲਿਆ ਜਾਵੇਗਾ।"</string>
+    <string name="welcome_hmd_term_of_use_5">"ਬਟਨ ਨੂੰ ਟੈਪ ਕਰਕੇ, ਤੁਸੀਂ &lt;a href='launch.TermOfServiceActivity://Kode'>ਸੇਵਾ ਦੀ ਸ਼ਰਤਾਂ&lt;/a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। ਤੁਹਾਡੇ ਡੇਟਾ 'ਤੇ HMD ਦੀ &lt;![CDATA[&lt;a href='launch.AddUploadAgentHandler://Kode'>ਗੁਪਤਤਾ ਨੀਤੀ&lt;/a> ਦੇ ਅਨੁਸਾਰ ਪ੍ਰਕਿਰਿਆ ਕੀਤੀ ਜਾਵੇਗੀ। ਇੱਕ-ਵਾਰ ਡਿਵਾਈਸ ਟਿਕਾਣੇ ਦੇ ਨਾਲ ਡਿਵਾਈਸ ਸਕ੍ਰਿਅਤਾ ਜਾਣਕਾਰੀ HMD Global ਨੂੰ ਭੇਜ ਦਿੱਤੀ ਜਾਵੇਗੀ। ਮੋਬਾਈਲ ਡੇਟਾ ਚਾਰਜ ਲਾਗੂ ਹੋ ਸਕਦੇ ਹਨ।"</string>
+    <string name="welcome_vision_settings_button_label">ਨਜ਼ਰ ਸਬੰਧੀ ਸੈਟਿੰਗਾਂ</string>
+    <string name="next_btn_lebel">ਅਗਲਾ</string>
+    <string name="back_btn_lebel">ਪਿੱਛੇ</string>
+    <string name="finish_button_label">ਖਤਮ</string>
+    <string name="sim_not_exist_toast">ਜਦੋਂ ਤੁਸੀਂ SIM ਕਾਰਡ ਸੰਮਿਲਿਤ ਕਰਦੇ ਹੋ ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਜਾਂਚ ਕਰੋ।</string>
+    <string name="idle_too_long_toast">ਇਹ ਫੋਨ ਕੁਝ ਸਮੇਂ ਲਈ ਵਿਹਲਾ ਹੈ। ਪਾਵਰ ਰੱਖਣ ਲਈ ਹੁਣ ਬੰਦ ਕਰ ਦਿਓ।</string>
+    <string name="welcome_message">ਸੁਆਗਤ ਹੈ</string>
+    <string name="welcome_infocus_term_of_use">"ਤੀਰ 'ਤੇ ਟੈਪ ਕਰਕੇ, ਤੁਸੀਂ&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ&lt;/a>ਨਾਲ ਸਹਿਮਤ ਹੋ"</string>
+    <string name="welcome_hmd_term_of_use_2">"ਤੀਰ ਨੂੰ ਟੈਪ ਕਰਦੇ ਹੋਏ, ਤੁਸੀਂ &lt;a href='launch.TermOfServiceActivity://Kode'>ਸੇਵਾ ਦੀ ਸ਼ਰਤਾਂ&lt;/a> ਅਤੇ &lt;a href='launch.AddUploadAgentHandler://Kode'>ਗੋਪਨੀਯਤਾ ਨੀਤੀ&lt;/a>ਦੇ ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। ਇੱਕ-ਵਾਰ ਡਿਵਾਈਸ ਸਥਾਨ ਦੇ ਨਾਲ ਡਿਵਾਈਸ ਸਕ੍ਰਿਆਤਾ ਜਾਣਕਾਰੀ ਨੂੰ HMD Global ਤੇ ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਡੇਟਾ ਚਾਰਜੇਸ ਲਾਗੂ ਹੋ ਸਕਦੇ ਹਨ।"</string>
+    <string name="welcome_start_button_label">ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="emergency_dial_message">ਆਪਾਤਕਾਲੀਨ ਕਾੱਲ</string>
+    <string name="emergency_dial_hmd_message">ਸੰਕਟਕਾਲ</string>
+    <string name="accessibility_text">ਪਹੁੰਚ ਸਮਰੱਥਾ</string>
+    <string name="language_selection_title">ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="language_selection_cancel_btn">ਰੱਦ</string>
+    <string name="welcome_lets_go_button_label">ਆਓ ਅੱਗੇ ਵਧੀਏ</string>
+    <string name="terms_title">ਡੇਟਾ ਵਰਤੋਂ</string>
+    <string name="terms_of_service_description">"
+ਮੋਬਾਈਲ ਡੇਟਾ ਵਰਤੋਂ ਦੇ ਵਾਧੂ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ ਜਦੋਂ ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਸੇਵਾਵਾਂ ਨੂੰ ਵਰਤਦੇ ਹੋ ਜਿਨ੍ਹਾਂ ਲਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ, ਜਿਵੇਂ ਕਿ ਮੌਸਮ ਸੇਵਾਵਾਂ, ਇੰਟਰਨੈੱਟ ਸੇਵਾਵਾਂ, ਈਮੇਲ, ਬ੍ਰਾਊਜ਼ਰ, ਆਦਿ। ਆਪਣੇ ਮੋਬਾਈਲ ਡੇਟਾ ਵਰਤੋਂ ਫੀਸ ਦਾ ਜ਼ਿਆਦਾ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਤਰੀਕੇ ਨਾਲ ਪ੍ਰਬੰਧ ਕਰਨ ਲਈ, ਅਸੀਂ ਸਲਾਹ ਦਿੰਦੇ ਹਾਂ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਕੈਰੀਅਰ ਕੋਲ ਉਚਿਤ ਮੋਬਾਈਲ ਸੇਵਾ ਪੈਕੇਜ ਲਈ ਅਪਲਾਈ ਕਰੋ।
+
+ਸਹਿਮਤ ਹੋਣ ਨੂੰ ਚੁਣਕੇ, ਤੁਸੀਂ ਇਨ੍ਹਾਂ ਸੇਵਾਵਾਂ ਨੂੰ ਲੋੜ ਪੈਣ ਤੇ ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦੇ ਹੋ।
+
+ਇਸ ਤੋਂ ਇਲਾਵਾ, ਆਟੋ ਸੌਫਟਵੇਅਰ ਅੱਪਡੇਟ ਡਿਫਲੌਟ ਫਾਲਟ ਰੂਪ ਤੋਂ ਸਮਰੱਥ ਹੈ। ਤੁਹਾਨੂੰ ਨਵੀਨਤਮ ਸੌਫਟਵੇਅਰ ਅਨੁਭਵ ਦੇਣ ਲਈ, ਇਹ ਕੁਝ ਮੋਬਾਈਲ ਡੇਟਾ ਵਰਤ ਸਕਦਾ ਹੈ। ਤੁਸੀਂ ਹਮੇਸ਼ਾਂ ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਵਿਕਲਪ ਬਦਲ ਸਕਦੇ ਹੋ।
+
+"</string>
+    <string name="term_agree_text">ਸਹਿਮਤ</string>
+    <string name="term_disagree_text">ਅਸਹਿਮਤ</string>
+    <string name="datausage_dialog_positive_btn">ਓਕੇ</string>
+    <string name="datausage_dialog_negitive_btn">ਰੱਦ ਕਰੋ</string>
+    <string name="traffic_prompt_content">ਜੇ ਤੁਸੀਂ ਅਸਹਿਮਤ ਹੋ ਨੂੰ ਚੁਣਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ ਸੌਫਟਵੇਅਰ ਅੱਪਡੇਟ, ਮੌਸਮ ਦੀ ਭਵਿੱਖਬਾਣੀ ਜਾਂ ਹੋਰ ਜਾਣਕਾਰੀ ਨੂੰ ਮੈਨੂਅਲੀ ਪ੍ਰਾਪਤ ਕਰਨਾ ਪਵੇਗਾ।</string>
+    <string name="google_account_intro_description">ਸਾਰੀਆਂ Google ਸੇਵਾਵਾਂ ਦਾ ਆਨੰਦ ਮਾਣਨ ਲਈ Google ਖਾਤਾ ਸੈੱਟ ਕਰੋ।</string>
+    <string name="google_account_intro_title">Google ਖਾਤਾ</string>
+    <string name="google_account_add_account">Google ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ</string>
+    <string name="location_title">Google ਲੋਕੇਸ਼ਨ ਵਰਤੋਂ</string>
+    <string name="location_info_1">Google ਦੀ ਲੋਕੇਸ਼ਨ ਸੇਵਾ GPS ਦੀ ਵਰਤੋਂ ਕੀਤੇ ਬਿਨਾਂ ਤੁਹਾਡੀ ਅੰਦਾਜ਼ਨ ਲੋਕੇਸ਼ਨ ਦੇ ਨਾਲ ਐਪਲੀਕੇਸ਼ਨਾਂ ਪ੍ਰਦਾਨ ਕਰਦੀ ਹੈ।</string>
+    <string name="location_info_2">ਤੁਸੀਂ ਇਨ੍ਹਾਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ, ਲੋਕੇਸ਼ਨ ਸੇਵਾਵਾਂ ਅੰਦਰ, ਅਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="location_network">Google ਲੋਕੇਸ਼ਨ ਸੇਵਾ ਨੂੰ ਬੇਨਾਮ ਲੋਕੇਸ਼ਨ ਡੇਟਾ ਇਕੱਤਰ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ। ਇਕੱਤਰ ਕਰਨਾ ਉਦੋਂ ਵੀ ਹੁੰਦਾ ਰਹੇਗਾ ਜਦੋਂ ਕੋਈ ਵੀ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨਹੀਂ ਚੱਲ ਰਹੀਆਂ ਹੁੰਦੀਆਂ।</string>
+    <string name="location_for_service">Google ਖੋਜ ਨਤੀਜਿਆਂ ਅਤੇ ਹੋਰ Google ਸੇਵਾਵਾਂ ਲਈ ਮੇਰੀ ਲੋਕੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
+    <string name="date_and_time">ਤਾਰੀਖ &amp; ਸਮਾਂ ਸੈਟਿੰਗਾਂ</string>
+    <string name="date_time_auto">ਸਵੈਚਾਲਿਤ ਤਾਰੀਖ &amp; ਸਮਾਂ</string>
+    <string name="date_time_auto_summaryOn">ਨੈਟਵਰਕ-ਪ੍ਰਦਾਨ ਕੀਤਾ ਸਮਾਂ ਪ੍ਰਯੋਗ ਕਰੋ</string>
+    <string name="date_time_auto_summaryOff">ਨੈਟਵਰਕ-ਪ੍ਰਦਾਨ ਕੀਤਾ ਸਮਾਂ ਪ੍ਰਯੋਗ ਕਰੋ</string>
+    <string name="zone_auto">ਆਟੋਮੈਟਿਕ ਸਮਾਂ ਜ਼ੋਨ</string>
+    <string name="zone_auto_summaryOn">ਨੈਟਵਰਕ ਵੱਲੋਂ -ਮੁਹੱਈਆ ਕੀਤਾ ਸਮਾਂ ਜ਼ੋਨ ਵਰਤੋ</string>
+    <string name="zone_auto_summaryOff">ਨੈਟਵਰਕ ਵੱਲੋਂ -ਮੁਹੱਈਆ ਕੀਤਾ ਸਮਾਂ ਜ਼ੋਨ ਵਰਤੋ</string>
+    <string name="date_time_set_date">ਤਾਰੀਖ ਸੈਟ ਕਰੋ</string>
+    <string name="date_time_set_time">ਸਮਾਂ ਸੈਟ ਕਰੋ</string>
+    <string name="date_time_set_timezone">ਟਾਈਮ ਜ਼ੋਨ ਚੁਣੋ</string>
+    <string name="date_time_24hour">24-ਘੰਟੇ ਦੇ ਪ੍ਰਾਰੂਪ ਦੀ ਵਰਤੋ ਕਰੋ</string>
+    <string name="date_time_date_format">ਮਿਤੀ ਫੌਰਮੈਟ ਚੁਣੋ</string>
+    <string name="choose_timezone">ਸਮਾਂ ਜ਼ੋਨ ਚੁਣੋ</string>
+    <string name="normal_date_format">ਖੇਤਰੀ (%s)</string>
+    <string name="date_and_time_settings_title">ਤਾਰੀਖ &amp; ਸਮਾਂ</string>
+    <string name="date_and_time_settings_title_setup_wizard">ਤਾਰੀਖ ਅਤੇ ਸਮਾਂ ਸੈਟ ਕਰੋ</string>
+    <string name="date_and_time_settings_summary">ਤਾਰੀਖ, ਸਮਾਂ, ਸਮਾਂ ਜ਼ੋਨ, &amp; ਫੌਰਮੈਟ ਸੈਟ ਕਰੋ</string>
+    <string name="date_picker_title">ਮਿਤੀ:</string>
+    <string name="time_picker_title">ਸਮਾਂ</string>
+    <string name="account_intro_title">[BRAND_NAME] ਸੇਵਾਵਾਂ ਦਾ ਖਾਤਾ</string>
+    <string name="account_intro_description">[BRAND_NAME] ਸੇਵਾਵਾਂ ਨਾਲ ਜੁੜ ਕੇ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤਣ ਦਾ ਹੋਰ ਸਮਾਰਟ ਤਰੀਕਾ।</string>
+    <string name="add_infocus_service_account">[BRAND_NAME] ਸੇਵਾ ਖਾਤਾ ਜੋੜੋ</string>
+    <string name="dropbox_fih_signup">Dropbox ਨਾਲ ਸਾਈਨ ਅੱਪ ਕਰੋ</string>
+    <string name="dropbox_fih_signin">Dropbox ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ</string>
+    <string name="dropbox_fih_description">ਆਪਣੀਆਂ ਫੋਟੋਆਂ ਅਤੇ ਵੀਡੀਓਜ਼ ਨੂੰ ਆਪਣੇ-ਆਪ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ 2 GB Dropbox ਥਾਂ ਮੁਫਤ ਵਿੱਚ ਪ੍ਰਾਪਤ ਕਰੋ।</string>
+    <string name="nevigation_selection_title">ਨੇਵੀਗੇਸ਼ਨ ਪੱਟੀ ਸੈਟਿੰਗਾਂ</string>
+    <string name="nevigation_selection_text">ਤੁਸੀਂ ਬੈਕਗਰਾਉਂਡ ਰੰਗ ਅਤੇ ਪਿਛਲੀਆਂ/ਹੁਣੇ ਵਰਤੀਆਂ ਕੁੰਜੀਆਂ ਦੀ ਸਥਿਤੀ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
+    <string name="nevigation_selection_back">ਵਾਪਸ...</string>
+    <string name="nevigation_selection_home">ਹੋਮ</string>
+    <string name="nevigation_selection_recent">ਹਾਲ ਹੀ ਵਿੱਚ</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia ਉਪਯੋਗਕਰਤਾ ਅਨੁਭਵ ਪ੍ਰੋਗਰਾਮ ਨਾਲ ਜੁੜੋ। &lt;a href='launch.UserExperienceActivity://Kode'>ਜਿਆਦਾ ਜਾਣੋ.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">ਉਪਭੋਗਤਾ ਤਜਰਬਾ ਪ੍ਰੋਗਰਾਮ</string>
+    <string name="setup_completed_congratulations">ਵਧਾਈਆਂ!</string>
+    <string name="setup_complete_hmd">ਤੁਸੀਂ ਜਾਣ ਲਈ ਤਿਆਰ ਹੋ...</string>
+    <string name="setup_complete_main">ਤੁਸੀਂ</string>
+    <string name="setup_complete_sub">ਜਾਣ ਲਈ ਤਿਆਰ ਹੋ।</string>
+    <string name="hmd_user_experience_program_title">ਉਪਭੋਗਤਾ ਤਜਰਬਾ ਪ੍ਰੋਗਰਾਮ</string>
+    <string name="hmd_user_experience_program_message">ਉਪਭੋਗਤਾ ਤਜਰਬਾ ਪ੍ਰੋਗ੍ਰਾਮ ਵਿੱਚ ਤੁਹਾਡੀ ਭਾਗੀਦਾਰੀ ਕੀ ਤੁਸੀਂ Nokia ਡਿਵਾਈਸ ਦੇ ਬਾਰੇ ਕੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਨੂੰ ਸਮਝਣ ਵਿੱਚ HMD Global ਦੀ ਮਦਦ ਕਰਦਾ ਹੈ, ਅਤੇ ਤੁਸੀਂ ਇਸਦੇ ਸੁਧਾਰ ਬਾਰੇ ਕੀ ਸੋਚਦੇ ਹੋ। ਸਮੇਂ-ਸਮੇਂ ਤੇ, ਸਾਨੂੰ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਜਿਵੇਂ ਕਿ ਉਦਾਹਰਣ ਦੇ ਲਈ ਹੋ ਸਕਦਾ ਹੈ, ਇੱਕ ਸੌਫਟਵੇਅਰ ਕ੍ਰੈਸ਼ ਦੇ ਬਾਰੇ ਵਿੱਚ ਡੇਟਾ ਦੇ ਨਾਲ ਇੱਕ ਫਾਈਲ ਦੇ ਬਾਰੇ ਵਿੱਚ ਤਕਨੀਕੀ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੇ ਨਾਲ ਗੁਮਨਾਮ ਡੇਟਾ ਪ੍ਰਾਪਤ ਹੋ ਸਕਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਨੋਟ ਕਰੋ ਕਿ ਇਹੋ ਜਿਹਾ ਡੇਟਾ ਸੇਲੂਲਰ ਕੈਨਕਸ਼ਨ ਉੱਤੇ ਪ੍ਰਸਾਰਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ। ਸਾਨੂੰ ਤੁਹਾਡੇ ਤੋਂ ਇਹ ਸੁਣਨਾ ਚੰਗਾ ਲਗੇਗਾ ਕਿ ਤੁਸੀਂ ਆਪਣੇ Nokia ਡਿਵਾਈਸ ਦੇ ਬਾਰੇ ਕੀ ਸੋਚਦੇ ਹੋ!</string>
+    <string name="skip_button_label">ਸਕਿੱਪ</string>
+    <string name="skip_add_account_button_label">ਹੁਣ ਨਹੀਂ</string>
+    <string name="device_checking_message">ਸੁਆਗਤ ਹੈ</string>
+    <string name="backup_and_restore_title">ਬੈਕਅੱਪ ਲਓ ਅਤੇ ਪੁਨਰ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="backup_and_restore_description">"ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਆਪਣੇ ਖਾਤੇ ਦਾ ਬੈਕਅੱਪ ਲਿਆ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਹੁਣ ਇਸ ਨੂੰ ਇਸ ਫੋਨ ਤੇ ਪੁਨਰ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।
+
+ਤੁਸੀਨ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਆਪਣੀਆਂ ਬੈਕਅੱਪ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।"</string>
+    <string name="baidu_intro_title">Baidu ਲਈ ਕਲਾਉਡ ਸਟੋਰੇਜ</string>
+    <string name="baidu_intro_description">ਤੁਸੀਂ ਕੁਝ ਆਸਾਨ ਕਦਮਾਂ ਨੂੰ ਪੂਰਾ ਕਰਕੇ Baidu Yun ਨਾਲ ਅਣਗਿਣਤ ਕਲਾਉਡ ਸਟੋਰੇਜ ਏਕੀਕਰਣ ਦਾ ਆਨੰਦ ਮਾਣ ਸਕਦੇ ਹੋ।</string>
+    <string name="add_baidu_button_label">Baidu Yun ਵਿੱਚ ਲੌਗ-ਇਨ ਕਰੋ</string>
+    <string name="baidu_progress_dialog_des">ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ...</string>
+    <string name="wifi_picker_connection_title">ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ</string>
+    <string name="wifi_picker_connection_des_text">ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਰਾਹੀਂ ਤੁਹਾਡੇ ਸੌਫਟਵੇਅਰ ਦੀ ਤਸਦੀਕ ਕਰਦੇ ਹੋਏ WLAN ਕਨੈਕਸ਼ਨ ਨੂੰ ਅਸਮਰੱਥ ਕਰਨ ਨਾਲ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ।</string>
+    <string name="wifi_picker_connection_positive">ਓਕੇ</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="wifi_picker_connection_negative">ਕੁਨੈਕਟ ਕਰੋ</string>
+    <string name="wifi_picker_warning_title">ਚੇਤਾਵਨੀ</string>
+    <string name="wifi_picker_warning_des_text">ਜਦੋਂ ਤਕ ਤੁਹਾਡੇ ਕੋਲ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ, ਫੋਨ ਇਸ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵੇਗਾ ਕਿ ਤੁਹਾਡਾ ਸੌਫਟਵੇਅਰ ਨਵੀਨਤਮ ਹੈ।</string>
+    <string name="wifi_picker_warning_positive">ਛੱਡੋ ਨਾ</string>
+    <string name="wifi_picker_warning_negative">ਫੇਰ ਵੀ ਛੱਡੋ</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] ਕਨੂੰਨੀ</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ
+
+
+
+ਪ੍ਰਭਾਵੀ ਮਿਤੀ: ਮਈ 20, 2016
+
+
+
+ਹੇਠਲੇ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ (\" ਸ਼ਰਤਾਂ \") ਵਜੋਂ ਹਵਾਲਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ) ਕਨੂੰਨੀ ਇਕਰਾਰਨਾਮਾ ਬਣਾਉਂਦੀਆਂ ਹਨ ਜੋ ਤੁਹਾਡੇ [BRAND_NAME_PROXY] Inc., ਅਤੇ ਇਸ ਦੇ ਏਜੰਟ Commtiva Technology Ltd. (ਸਮੂਹਿਕ ਤੌਰ ਤੇ \"[BRAND_NAME_PROXY]\" ਵਜੋਂ ਹਵਾਲਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ) ਵਿਚਕਾਰ ਕਿਸੇ ਵੀ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਨੂੰ ਸੰਚਾਲਿਤ ਕਰਦੇ ਹਨ ਅਤੇ ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ, ਡਾਉਨਲੋਡ ਕਰਨ, ਸਥਾਪਿਤ ਕਰਨ, ਆਪਣੇ-ਆਪ ਨਵਾਂ ਕਰਨ (\" ਸੌਫਟਟਵੇਅਰ ਸੇਵਾ \" ਵਜੋਂ ਹਵਾਲਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ) ਸਮੇਤ ਪਰ ਇਨ੍ਹਾਂ ਤਕ ਸੀਮਤ ਨਹੀਂ। [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਸੀਂ ਇਨ੍ਹਾਂ ਸ਼ਰਤਾਂ ਨਾਲ ਬੰਨ੍ਹਣ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ; ਜੇ ਤੁਸੀਂ ਸ਼ਰਤਾਂ ਨਾਲ ਸਹਿਮਤ ਨਹੀਂ ਹੁੰਦੇ, ਤਾਂ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਨੂੰ ਡਾਉਨਲੋਡ, ਨਕਲ ਨਾ ਕਰੋ ਜਾਂ ਨਾ ਰੱਖੋ।
+
+
+
+1. ਉਪਯੋਗ ਦੀਆਂ ਸ਼ਰਤਾਂ
+
+ਜਦੋਂ ਤੁਸੀਂ ਇਨ੍ਹਾਂ ਸ਼ਰਤਾਂ ਦੀਆਂ ਪਾਲਣਾ ਕਰਦੇ ਹੋ, [BRAND_NAME_PROXY] ਤੁਹਾਨੂੰ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਸੇਵਾਵਾਂ ਨੂੰ ਵਰਤਣ ਦੀ ਨਿੱਜੀ, ਗੈਰ-ਰਾਖਵੀਂ, ਨਾ-ਬਦਲਣਯੋਗ, ਮੇਟਣਯੋਗ ਅਤੇ ਸੀਮਤ ਸਕੋਪ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ। [BRAND_NAME_PROXY] ਇੰਟਰਨੈੱਟ ਰਾਹੀਂ ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਮੋਬਾਈਲ ਸਮਾਰਟ ਡਿਵਾਇਸ (\" [BRAND_NAME_PROXY] ਔਬਜੈਕਟ \" ਵਜੋਂ ਹਵਾਲਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ) ਤੇ ਕੋਡ ਨੂੰ ਸਥਾਪਿਤ ਕਰੇਗਾ। ਤੁਸੀਂ ਸਵੀਕਾਰ ਕਰਦੇ ਹੋ ਅਤੇ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਤੇ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਨੂੰ ਵਪਾਰਕ ਉਦੇਸ਼ਾਂ ਲਈ ਜਾਂ ਕਿਸੇ ਤੀਜੀ ਧਿਰ ਨੂੰ ਭੇਜਣ ਲਈ ਨਹੀਂ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+
+ਤੁਸੀਂ ਅੱਗੇ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ ਕਿ ਤੁਸੀਂ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਨੂੰ ਕਿਸੇ ਵੀ ਨਿਮਨਲਿਖਤ ਤਰੀਕੇ ਨਾਲ ਨਹੀਂ ਵਰਤੋਗੇ:
+
+(a)\u0009[BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਨੂੰ ਕ੍ਰੈਕ ਕਰਨਾ (ਬੁਨਿਆਦੀ ਤਕਨੀਕਾਂ ਸਮੇਤ), ਜਾਂ [BRAND_NAME_PROXY] ਵਿੱਚ ਬ੍ਰਾਂਡ ਨਾ ਹੋਈ ਕਿਸੇ ਵੀ ਡਿਵਾਇਸ ਤੇ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਨੂੰ ਵਰਤਣਾ;
+
+(b)\u0009[BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਨਾ, ਅਸੰਗ੍ਰਹਿਤ ਕਰਨਾ, ਉਤਕ੍ਰਮ ਇੰਜੀਨੀਅਰਿੰਗ, ਡੀਕੋਡਿੰਗ, ਕਾਪੀ ਕਰਨਾ, ਬਦਲਣਾ, ਜਾਂ ਕਿਸੇ ਵੀ ਉਦੇਸ਼ ਲਈ ਇਸ ਦਾ ਡੈਰੀਵੇਸ਼ਨ ਕੰਮ ਬਣਾਉਣਾ;
+
+(c)\u0009ਕੋਈ ਵੀ ਗਤੀਵਿਧੀਆਂ ਕਰਨਾ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਤਬਦੀਲ ਕਰਨ, ਲੀਜ਼ ਤੇ ਦੇਣ, ਉਧਾਰ ਦੇਣ, ਜਾਂ ਸਬਲਸੰਸ ਕਰਨ ਸ਼ਾਮਲ ਹੈ ਪਰ ਇਨ੍ਹਾਂ ਤਕ ਸੀਮਤ ਨਹੀਂ ਹੈ, ਸ਼ਰਤਾਂ ਦੇ ਪਰਸਪਰ-ਵਿਰੋਧੀ ਹਨ ਅਤੇ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਨੂੰ ਜਨਤਕ ਜਾਂ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਦੀ ਕਿਸੇ ਵੀ ਤੀਜੀ ਧਿਰ ਦੁਆਰਾ ਵਰਤੋਂ, ਪਹੁੰਚ ਜਾਂ ਰੱਖਣ ਵਾਲਾ ਬਣਾਉਂਦਾ ਹੈ;
+
+(d)\u0009[BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਦੇ ਕਿਸੇ ਵੀ ਮਾਲਕੀ ਵਾਲੇ ਨੋਟਿਸ, ਲੋਗੋ ਜਾਂ ਮਾਰਕੇ ਜਾਂ ਦਸਤਾਵੇਜਾਂ ਨੂੰ [BRAND_NAME_PROXY] ਦੀ ਪਹਿਲਾਂ ਤੋਂ ਲਿਖਤੀ ਸਹਿਮਤੀ ਬਿਨਾਂ ਕਿਸੇ ਵੀ ਤਰ੍ਹਾਂ ਨਾਲ ਹਟਾਉਣਾ;
+
+(e)\u0009ਉਸ ਸਮੇਂ ਦੇ ਮੌਜੂਦਾ ਕਨੂੰਨਾਂ ਵਿਰੁੱਧ ਜਾਂ ਕਿਸੇ ਧਿਰ ਦੇ ਅਧਿਕਾਰਾਂ ਵਿੱਚ ਰੁਕਾਵਟ ਪਾਉਣ ਦੇ ਤਰੀਕੇ ਨਾਲ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਨੂੰ ਵਰਤਣਾ;
+
+(f)\u0009[BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਨੂੰ ਉਸ ਵਾਤਾਵਰਨ ਵਿੱਚ ਵਰਤਣਾ ਜੋ ਇਸ ਤਰ੍ਹਾਂ ਦੀ ਵਰਤੋਂ ਦੀ ਮਨਾਹੀਂ ਕਰਦੇ ਹਨ ਜਾਂ ਰੋਕਦੇ ਹਨ, ਫਲਾਈਟ ਕੰਟ੍ਰੋਲ ਖੇਤਰ, ਗੈਸ ਸਟੇਸ਼ਨ, ਪਰਮਾਣੂ ਉਪਕਰਨ, ਆਦਿ ਸਮੇਤ ਪਰ ਇਨ੍ਹਾਂ ਤਕ ਸੀਮਤ ਨਹੀਂ; ਜਾਂ
+
+(g)\u0009[BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਨੂੰ ਉਸ ਤਰੀਕੇ ਨਾਲ ਵਰਤਣਾ ਜੋ ਸ਼ਰਤਾਂ ਦੁਆਰਾ ਵਰਜਿਤ ਹਨ।
+
+
+
+[BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਅਤੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਦੇ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ, ਤੁਸੀਂ ਵਾਦਾ ਕਰਦੇ ਹੋ ਅਤੇ ਅਨੁਬੰਧ ਕਰਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਤੇ [BRAND_NAME_PROXY] ਕਰਮਚਾਰੀ ਦੀ ਸਹਾਇਤਾ ਤੋਂ ਬਿਨਾਂ ਲੇਬਲ(ਲਾਂ) ਨੂੰ ਖਰਾਬ ਨਹੀਂ ਕਰੋਗੇ ਜਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਨਹੀਂ ਹਟਾਓਗੇ। ਇਸ ਤਰ੍ਹਾਂ ਦੀਆਂ ਅਣਅਧੀਕ੍ਰਿਤ ਗਤੀਵਿਧੀਆਂ ਤੁਹਾਨੂੰ ਪ੍ਰਦਾਨ ਕੀਤੀ [BRAND_NAME_PROXY] ਵਰੰਟੀ ਦੇ ਮੰਤਵ ਅਤੇ ਅਵਧੀ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰਨਗੀਆਂ।
+
+
+
+2. ਗੋਪਨੀਯਤਾ ਨੀਤੀ
+
+ਤੁਸੀਂ ਸਵੀਕਾਰ ਕਰਦੇ ਹੋ ਅਤੇ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ ਕਿ [BRAND_NAME_PROXY] ਕਿਸੇ ਵੀ ਜਾਣਕਾਰੀ ਨੂੰ ਇਕੱਤਰ ਕਰਕੇ ਰੱਖ ਸਕਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਇਹ ਸ਼ਾਮਲ ਹਨ ਪਰ ਇਨ੍ਹਾਂ ਤੱਕ ਸੀਮਤ ਮੋਡ ਨਹੀਂ ਹਨ, ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਵਿੱਚ ਮਾਡਲ ਦੀ ਕਿਸਮ, ਕ੍ਰਮ ਨੰਬਰ, ਹੈਂਡਸੈੱਟ ਵਿੱਚ ਮਾਡਲ ਦੀ ਕਿਸਮ, ਕ੍ਰਮ ਨੰਬਰ, IMEI/MEID ਕੋਡ, HW ਸੰਸਕਰਨ, SW ਸੰਸਕਰਨ, ਵਰਤੋਂ ਸਮਾਂ, SKU ID, ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਅਤੇ OS ਸੰਸਕਰਨ (\" ਜਾਣਕਾਰੀ \" ਵਜੋਂ ਹਵਾਲਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ)। 
+
+ਉਸ ਘਟਨਾ ਵਿੱਚ ਜੇ [BRAND_NAME_PROXY] ਨੂੰ ਸਰਕਾਰੀ ਏਜੰਸੀ ਜਾਂ ਅਦਾਲਤੀ ਸਿਸਟਮ ਨੂੰ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਪ੍ਰਗਟ ਕਰਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ, ਤਾਂ [BRAND_NAME_PROXY] ਲੋੜ ਅਨੁਸਾਰ ਇਸ ਤਰ੍ਹਾਂ ਕਰੇਗੀ।
+
+
+
+[BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਸਥਿਤੀ ਬਾਰੇ [BRAND_NAME_PROXY] ਨੂੰ ਸੂਚਿਤ ਕਰੇਗਾ ਕਿ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਖਰੀਦਣ ਦੀ ਤਾਰੀਖ ਤੋਂ ਘੱਟੋ-ਘੱਟ 14 ਦਿਨਾਂ ਬਾਅਦ ਤਕ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋਇਆ ਹੈ।
+
+
+
+ਕਿਰਪਾ ਕਰਕੇ ਵੇਰਵਿਆਂ ਲਈ [BRAND_NAME_PROXY] ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਨੂੰ ਦੇਖੋ।
+
+
+
+3. ਸਹਾਇਕ ਸੇਵਾ
+
+[BRAND_NAME_PROXY] ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਤੋਂ ਪ੍ਰਾਪਤ ਉਸ ਸਮੇਂ [BRAND_NAME_PROXY] ਦੀ ਮੌਜੂਦਾ ਸਥਿਤੀ ਅਨੁਸਾਰ ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਤੇ ਬਿਨਾਂ ਸੀਮਾਵਾਂ, ਅੱਪਡੇਟਸ ਅਤੇ ਅੱਪਗ੍ਰੇਡਾਂ ਸਮੇਤ ਸੌਫਟਵੇਅਰ ਸੇਵਾਵਾਂ ਪ੍ਰਦਾਨ ਕਰੇਗੀ।
+  
+[BRAND_NAME_PROXY] ਤੁਹਾਡੇ ਦੁਆਰਾ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਤੋਂ ਬਾਅਦ ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਤੇ ਇੰਟਰਨੈੱਟ ਰਾਹੀਂ ਅੱਪਡੇਟਸ, ਪੈਚ ਜਾਂ ਵਾਧੂ ਅੰਸ਼ ਪ੍ਰਦਾਨ ਕਰੇਗੀ ਅਤੇ ਉਹ ਸ਼ਰਤਾਂ ਅਧੀਨ ਹੋਣਗੇ।
+
+
+
+[BRAND_NAME_PROXY] ਕੋਲ ਇੰਟਰਨੈੱਟ ਰਾਹੀਂ ਸਿੱਧੇ ਤੌਰ 'ਤੇ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਅਤੇ [BRAND_NAME_PROXY] ਸੇਵਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੇ ਤੁਹਾਡੇ ਅਧਿਕਾਰ ਨੂੰ ਰੱਦ ਕਰਨ ਦੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।
+
+[BRAND_NAME_PROXY] [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਦੇ ਅਨੁਕ੍ਰਮੀ ਸੰਸਕਰਨਾਂ ਨੂੰ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਤੋਂ ਲੋੜੀਂਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਨਵੀਨਤਮ OS ਸੰਸਕਰਨ ਦੀ ਵਰਤੋਂ ਕਰੋ।
+
+
+
+4. ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ
+
+ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਨੂੰ ਮਜ਼ਬੂਤ ਅਤੇ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ, ਇਹ ਪਹਿਲਾਂ ਤੋਂ ਹੀ [BRAND_NAME_PROXY] ਵਲੋਂ ਨਵੀਨਤਮ ਫਰਮਵੇਅਰ ਅਤੇ ਸੌਫ਼ਟਵੇਅਰ ਨੂੰ ਆਪਣੇ-ਆਪ ਡਾਉਨਲੋਡ ਕਰਨ ਤੇ ਸੈੱਟ ਹੈ 
+
+
+
+ਤੁਹਾਡੀ [BRAND_NAME_PROXY] ਡਿਵਾਇਸ ਦੀ ਸੁਰੱਖਿਆ ਅਤੇ ਸਥਿਰਤਾ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ, ਤੁਸੀਂ [BRAND_NAME_PROXY] ਦੁਆਰਾ ਦਿੱਤੀਆਂ ਹਿਦਾਇਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ। ਕਿਉਂਕਿ ਤੁਸੀਂ ਨਵੀਨਤਮ ਫਰਮਵੇਅਰ ਜਾਂ ਸੌਫ਼ਟਵੇਅਰ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ, ਇਸ ਨੂੰ ਨਵਾਂ ਕਰਨ ਅਤੇ ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਸਵੀਕ੍ਰਿਤੀ ਸਮਝੀ ਜਾਂਦੀ ਹੈ।
+
+
+
+ਤੁਹਾਡੇ ਆਪਣੇ ਦਸਤਾਵੇਜਾਂ, ਫੋਟੋਆਂ, ਟੈਕਸਟ, ਸਾਉਂਡ ਫਾਈਲਾਂ, ਵੀਡੀਓ ਫਾਈਲਾਂ, ਅਤੇ ਕਿਸੇ ਵੀ ਤਰ੍ਹਾਂ ਦੇ ਬਿਜਲਈ ਰਿਕਾਰਡ ਜੋ ਗੁੰਮ ਜਾਂ ਖਰਾਬ ਹੋ ਸਕਦੇ ਹਨ ਕਿਉਂਕਿ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਅੱਪਡੇਟ ਕਰ ਰਿਹਾ ਹੁੰਦਾ ਹੈ, ਤੁਸੀਂ ਫਰਮਵੇਅਰ ਜਾਂ ਸੌਫਟਵੇਅਰ ਦੇ ਨਵੀਨਤਮ ਸੰਸਕਰਨ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਵਿੱਚ ਸਟੋਰ ਕੀਤੇ ਉੱਪਰ ਦੱਸੇ ਸਾਰੇ ਬਿਜਲਈ ਰਿਕਾਰਡਾਂ ਦਾ ਬੈਕਅੱਪ ਲੈਣ ਲਈ ਜ਼ੁੰਮੇਵਾਰ ਹੋਵੋਗੇ।
+
+
+
+ਇੱਕ ਵਾਰ ਤੁਹਾਡਾ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਕਰਦਾ ਹੈ ਜਾਂ ਸੁਨੇਹੇ ਦੇ ਰੂਪ ਵਿੱਚ ਤੁਹਾਡੀ ਸਹਿਮਤੀ ਨਾਲ ਅੱਪਡੇਟ ਕਰਦਾ ਹੈ, ਤਾਂ ਇਸ ਦਾ ਮਤਲਬ ਹੈ ਕਿ ਤੁਸੀਂ ਨਿਮਨਲਿਖਤ ਸਮੱਗਰੀਆਂ ਤੇ ਸਹਿਮਤ ਹੋ:
+
+(a)\u0009ਸੌਫਟਵੇਅਰ ਅੱਪਡੇਟ:
+
+ਤੁਸੀਂ ਸਵੀਕਾਰ ਕਰਦੇ ਅਤੇ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ ਕਿ [BRAND_NAME_PROXY] ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਤੇ ਸਾਫਟਵੇਅਰ ਸੰਸਕਰਨ ਦੀ ਜਾਂਚ ਕਰਨ ਅਤੇ ਸਥਿਤੀ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਇੰਟਰਨੈੱਟ ਰਾਹੀਂ ਕਨੈਕਟ ਕਰ ਸਕਦਾ ਹੈ। ਜੇ [BRAND_NAME_PROXY] ਕੋਈ ਅੱਪਗ੍ਰੇਡ ਸੂਚਨਾ ਰਿਲੀਜ਼ ਕਰਦਾ ਹੈ, ਤਾਂ [BRAND_NAME_PROXY] ਤੁਹਾਨੂੰ [BRAND_NAME_PROXY] ਸੇਵਾ ਰਾਹੀਂ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਸੰਸਕਰਨਾਂ ਅਤੇ ਸਥਿਤੀ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ।
+
+ਜਦੋਂ ਨਵਾਂ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਉਪਲਬਧ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ [BRAND_NAME_PROXY] ਨੂੰ ਤੁਹਾਨੂੰ ਇਨ੍ਹਾਂ ਅੱਪਡੇਟਾਂ ਦੀ ਸੂਚਨਾ ਭੇਜਣ ਤੇ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਨਵੇਂ ਉਪਲਬਧ ਅੱਪਡੇਟਾਂ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦੇ ਹੋ ਤਾਂ ਇਸ ਦਾ ਮਤਲਬ ਹੁੰਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਇਸ ਤੇ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ ਕਿ [BRAND_NAME_PROXY] ਆਪਣੇ-ਆਪ ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਨੂੰ ਅੱਪਡੇਟ ਕਰੇਗਾ।
+
+(b)\u0009ਸਮੱਗਰੀਆਂ ਸਿੰਕ ਕਰਨਾ ਅਤੇ ਅੱਪਡੇਟ ਕਰਨਾ:
+
+ਤੁਹਾਡੇ ਦੁਆਰਾ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਜਾਂ ਹੋਰ ਡਿਵਾਇਸਾਂ ਨੂੰ ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਤੋਂ ਬਾਅਦ, ਤੁਹਾਡਾ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਸੰਬੰਧਿਤ ਸਮੱਗਰੀਆਂ ਅਤੇ ਹੋਰ ਜਾਣਕਾਰੀ ਨੂੰ ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਕਰੇਗਾ (ਉਦਾਹਰਨ: ਸੰਪਰਕ ਜਾਣਕਾਰੀ, ਕੈਲੰਡਰ, ਬੁੱਕਮਾਰਕਸ ਅਤੇ ਫਾਈਲਾਂ।)
+
+
+
+5. [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਵਿੱਚ ਸਾਰੇ ਮਾਲਕੀ ਅਤੇ ਹੋਰ ਅਧਿਕਾਰਾਂ ਦਾ ਰਿਜ਼ਰਵੇਸ਼ਨ
+
+ਹਾਲਾਂਕਿ ਤੁਸੀਂ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਅਤੇ ਸੇਵਾਵਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਲਸੰਸਸ਼ੁਦਾ ਹੋ, [BRAND_NAME_PROXY], ਇਸ ਦੇ ਸਹਿਯੋਗੀ ਅਤੇ ਪੂਰਤੀਕਰਤਾਵਾਂ ਕੋਲ ਸਾਰੇ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਅਧਿਕਾਰ ਰਹਿਣਗੇ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਮਾਲਕੀ, ਕਾਪੀਰਾਈਟ, ਅਤੇ ਹੋਰ ਬੌਧਿਕ ਸੰਪਦਾ ਅਧਿਕਾਰ ਸ਼ਾਮਲ ਹਨ ਪਰ ਇਨ੍ਹਾਂ ਤਕ ਸੀਮਤ ਨਹੀਂ ਹਨ।
+
+
+
+ਉਹ ਸਾਰੇ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਅਧਿਕਾਰ ਸਥਾਨਕ ਕਨੂੰਨਾਂ ਅਤੇ ਅੰਤਰਰਾਸ਼ਟਰੀ ਸੰਧੀ ਦੁਆਰਾ ਰੱਖਿਅਤ ਹਨ।
+
+
+
+6. ਅਸਵੀਕਰਨ
+
+[BRAND_NAME_PROXY] ਕੋਈ ਪ੍ਰਸਤੁਤੀਆਂ ਜਾਂ ਕਿਸੇ ਵੀ ਤਰ੍ਹਾਂ ਦੀਆਂ ਵਰੰਟੀਆਂ, ਪ੍ਰਤੱਖ ਜਾਂ ਅਪ੍ਰਤੱਖ, ਬਿਨਾਂ ਪਾਬੰਧੀਆਂ ਦੇ ਸਮੇਤ, ਮਰਚੈਂਟੇਬਿਲਿਟੀ ਦੀਆਂ ਅਪ੍ਰਤੱਖ ਵਰੰਟੀਆਂ, ਸਮਤੋਸ਼ਜਨਕ ਗੁਣਵੱਤਾ ਤਕ, ਅਤੇ ਕਿਸੇ ਵਿਸ਼ੇਸ਼ ਉਦੇਸ਼ ਲਈ ਫਿੱਟਨੈੱਸ, ਜਾਂ ਗੈਰ-ਉਲੰਘਣ ਸਮੇਤ। 
+
+[BRAND_NAME_PROXY] ਕੋਈ ਵਰੰਟੀ ਨਹੀਂ ਦਿੰਦਾ ਕਿ:
+
+(a)\u0009ਤੁਹਾਡੇ ਦੁਆਰਾ ਪ੍ਰਾਪਤ ਕੀਤੀ ਕੋਈ ਵੀ [BRAND_NAME_PROXY] ਸੇਵਾ ਸਟੀਕ ਜਾਂ ਭਰੋਸੇਯੋਗ ਹੋਵੇਗੀ; ਜਾਂ
+
+(b)\u0009[BRAND_NAME_PROXY] ਸੇਵਾ ਬਿਨਾਂ ਰੁਕਾਵਟ, ਸਮੇਂ ਤੇ, ਸੁਰੱਖਿਅਤ ਆਧਾਰ ਤੇ ਦਿੱਤੀ ਜਾਵੇਗੀ; ਜਾਂ
+
+(c)\u0009ਦਿੱਤੇ ਗਏ ਸੌਫਟਟਵੇਅਰ ਵਿੱਚ ਕਿਸੇ ਵੀ ਨੁਕਸਾਂ ਜਾਂ ਤਰੁੱਟੀਆਂ ਨੂੰ ਤੁਰੰਤ ਸਹੀ ਕੀਤਾ ਜਾਵੇਗਾ।
+
+
+
+[BRAND_NAME_PROXY] ਵਾਇਰਸਾਂ ਜਾਂ ਹੋਰ ਤਕਨੀਕੀ ਨੁਕਸਾਨਦਾਇਕ ਸਮੱਗਰੀਆਂ ਰਾਹੀਂ ਕਿਸੇ ਵੀ ਨੁਕਸਾਨ ਜਾਂ ਖਰਾਬੀ ਲਈ ਜ਼ੁੰਮੇਵਾਰ ਨਹੀਂ ਹੋਵੇਗਾ ਜੋ ਤੁਹਾਡੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ, ਪ੍ਰੋਗਰਾਮਾਂ, ਡਾਟਾ ਜਾਂ ਹੋਰ ਮਾਲਕੀ ਸੰਬੰਧੀ ਸਮੱਗਰੀ ਨੂੰ [BRAND_NAME_PROXY] ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਾਰਨ ਸੰਕ੍ਰਮਿਤ ਕਰ ਸਕਦੇ ਹਨ। ਤੁਹਾਡੇ ਦੁਆਰਾ [BRAND_NAME_PROXY] ਰਾਹੀਂ ਡਾਉਨਲੋਡ ਜਾਂ ਪ੍ਰਾਪਤ ਕੀਤੀ ਸਾਰੀ ਸਮੱਗਰੀ ਅਤੇ ਹੋਰ ਵਸਤੂਆਂ ਤੇ ਪਹੁੰਚ ਤੁਹਾਡੇ ਆਪਣੇ ਜੋਖਿਮ ਤੇ ਹੋਵੇਗੀ, ਅਤੇ ਕਿਸੇ ਵੀ ਸੌਫਟਟਵੇਅਰ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਨ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਹੋਈ ਆਪਣੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਵਿੱਚ ਕਿਸੇ ਵੀ ਖਰਾਬੀ ਜਾਂ ਡੇਟਾ ਜਾਂ ਸਮੱਗਰੀਆਂ ਦੇ ਨੁਕਸਾਨ ਲਈ ਤੁਸੀਂ ਇਕੱਲੇ ਜ਼ੁੰਮੇਵਾਰ ਹੋਵੋਗੇ।
+
+
+
+7. ਜ਼ੁੰਮੇਵਾਰੀ ਅਤੇ ਰਾਖਵੇਂ ਉਪਰਾਲੇ ਦੀ ਹੱਦਬੰਦੀ
+
+[BRAND_NAME_PROXY] ਕਿਸੇ ਵੀ ਪਰਿਣਾਮੀ, ਇਤਫਾਕੀਆ, ਅਪ੍ਰਤੱਖ ਜਾਂ ਦੰਡਾਤਮਿਕ ਨੁਕਸਾਨਾਂ ਜਾਂ ਲਾਭ ਵਿੱਚ ਘਾਟੇ ਜਾਂ ਗੁਪਤ ਜਾਂ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਨੁਕਸਾਨ, ਕਾਰੋਬਾਰ ਵਿੱਚ ਰੁਕਾਵਟ ਲਈ, ਵਿਅਕਤੀਗਤ ਸੱਟ ਲਈ, ਸੰਪੱਤੀ ਦੇ ਨੁਕਸਾਨ, ਨਿੱਜਤਾ ਦੇ ਨੁਕਸਾਨ ਲਈ, ਨੇਕਨੀਤੀ ਜਾਂ ਮੁਨਾਸਬ ਸੰਭਾਲ ਦੀ ਕਿਸੇ ਜ਼ੁੰਮੇਵਾਰੀ ਨੂੰ ਪੂਰਾ ਕਰਨ ਵਿੱਚ ਅਸਫਲਤਾ ਲਈ ਜਾਂ ਅਣਗਹਿਲੀ ਲਈ ਜ਼ੁੰਮੇਵਾਰ ਨਹੀਂ ਹੋਵੇਗਾ।
+
+ਲਾਗੂ ਕਨੂੰਨ ਰਾਹੀਂ ਅਧਿਕਤਮ ਸੀਮਾ ਤਕ, [BRAND_NAME_PROXY] ਦੀ ਤੁਹਾਡੇ ਲਈ ਅਧਿਕਤਮ ਜ਼ੁੰਮੇਵਾਰੀ, ਅਤੇ ਕਿਸੇ ਜਾਂ ਸਾਰੇ ਨੁਕਸਾਨਾਂ, ਸੱਟ, ਸੰਪੱਤੀ ਦੇ ਨੁਕਸਾਨ ਅਤੇ ਸ਼ਰਤਾਂ ਨਾਲ ਸੰਬੰਧਿਤ ਜਾਂ ਸ਼ਾਮਲ ਸਾਰੇ ਦਾਅਵਿਆਂ, ਜਾਂ ਕਨੂੰਨੀ ਕਾਰਵਾਈਆਂ ਤੋਂ ਹੋਏ ਕਿਸੇ ਜਾਂ ਸਾਰੇ ਨੁਕਸਾਨ ਲਈ ਸ਼ਰਤਾਂ ਅਧੀਨ ਰਾਖਵੇਂ ਉਪਰਾਲੇ, ਉਨ੍ਹਾਂ ਵਾਸਤਵਿਕ ਨੁਕਸਾਨਾਂ ਦੇ ਮੁਆਵਜ਼ੇ ਜੋ ਤੁਹਾਨੂੰ ਹੋਏ ਹਨ, ਉਹ USD ਦੱਸ ਡਾਲਰ (USD 10) ਤਕ ਸੀਮਤ ਹੋਣਗੇ। 
+
+
+
+ਸ਼ਰਤਾਂ ਨਾਲ ਸੰਬੰਧਿਤ ਜਾਂ ਸ਼ਾਮਲ ਬਹੁਤ ਸਾਰੇ ਦਾਅਵੇ ਜਾਂ ਕਨੂੰਨੀ ਕਾਰਵਾਈਆਂ ਜ਼ੁੰਮੇਵਾਰੀ ਦੀ ਸੀਮਾ ਨੂੰ ਨਹੀਂ ਵਧਾਉਣਗੇ ਅਤੇ, ਲਾਗੂ ਕਨੂੰਨ ਰਾਹੀਂ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਅਧਿਕਤਮ ਸੀਮਾ, ਤੁਹਾਡਾ ਇਕੱਲਾ ਅਤੇ ਰਾਖਵਾਂ ਉਪਰਾਲਾ ਹੋਵੇਗਾ।
+
+
+
+ਜੇ ਯੋਗ ਨਿਆਂਇਕ ਅਦਾਲਤ ਸਮਝਦੀ ਹੈ ਕਿ ਉੱਪਰਲੀ ਉੱਚਤਮ ਸੀਮਾ ਲਾਗੂ ਕਰਨਯੋਗ ਨਹੀਂ ਹੈ, ਤਾਂ ਇਹ, ਪਰ ਸ਼ਬਦਾਂ ਦੀ ਬਜਾਏ ਉਸ ਹੱਦ ਤਕ ਜੋ ਲਾਗੂ ਨਹੀਂ ਹੁੰਦਾ ਦੱਸ ਡਾਲਰਾਂ ਤਕ ਸੀਮਤ ਹੈ ਨੂੰ \"ਸੌਦੇ ਦੇ ਮੁੱਲ ਤਕ ਸੀਮਤ ਕਰਨਾ ਜਿਸ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਦੇਣਦਾਰੀ ਪੈਦਾ ਹੋਈ ਹੈ\" ਸ਼ਬਦਾਂ ਨਾਲ ਬਦਲ ਦੇਵੇਗੀ।
+
+
+
+ਸ਼ਰਤਾਂ ਨਾਲ ਸੰਬੰਧਿਤ ਜਾਂ ਸ਼ਾਮਲ ਇਸ ਤਰ੍ਹਾਂ ਦਾ ਦਾਅਵਾ ਜਾਂ ਕਨੂੰਨੀ ਕਾਰਵਾਈ ਹੋਣ ਦੇ ਕਾਰਨ ਦੇ ਪੈਦਾ ਹੋਣ ਤੋਂ ਇੱਕ ਸਾਲ ਦੇ ਅੰਦਰ ਫਾਈਲ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ।
+
+
+8. ਹਰਜਾਨਾ 
+
+ਤੁਸੀਂ [BRAND_NAME_PROXY], ਇਸ ਦੇ ਸ਼ੇਅਰਹੋਲਡਰਾਂ, ਨਿਰਦੇਸ਼ਕਾਂ, ਅਫਸਰਾਂ, ਪ੍ਰਭਾਵਿਤ ਪਾਰਟੀ, ਕਰਮਚਾਰੀਆਂ, ਸਹਾਇਕ ਅਤੇ ਸੰਬੰਧਿਤ ਕੰਪਨੀਆਂ ਨੂੰ ਕਿਸੇ ਵੀ ਮੰਗਾਂ ਤੋਂ ਸੁਰੱਖਿਅਤ, ਨੁਕਸਾਨ, ਦੇਣਦਾਰੀ, ਦਾਅਵਿਆਂ ਜਾਂ ਖਰਚਿਆਂ (ਵਕੀਲ ਦੀ ਫੀਸ ਸਮੇਤ) ਤੋਂ ਕਿਸੇ ਤੀਜੀ ਧਿਰ ਦੁਆਰਾ [BRAND_NAME_PROXY] ਦੇ ਖਿਲਾਫ ਤੁਹਾਡੇ ਦੁਆਰਾ [BRAND_NAME_PROXY] ਸੇਵਾ ਦੀ ਦੁਰਵਰਤੋਂ ਕਾਰਨ, ਜਾਂ ਪੈਦਾ ਹੋਏ ਜਾਂ ਇਸ ਨਾਲ ਸੰਬੰਧਿਤ ਤੋਂ ਬਚਾਉਣ, ਨੁਕਸਾਨ ਪੂਰਤੀ ਕਰਨ ਅਤੇ ਬਚਾਕੇ ਰੱਖਣ ਲਈ ਸਹਿਮਤ ਹੋ ਜੋ ਕਿਸੇ ਤੀਜੇ ਧਿਰ ਦੇ ਅਧਿਕਾਰਾਂ ਦੀ ਉਲੰਘਣਾ ਕਰਦੇ ਹਨ।
+
+
+
+9. ਸੇਵਾ ਸਮਾਪਤੀ
+
+ਜੇ ਤੁਸੀਂ ਸ਼ਰਤਾਂ ਦੀ ਪਾਲਣਾ ਨਹੀਂ ਕਰਦੇ ਤਾਂ ਤੁਹਾਨੂੰ [BRAND_NAME_PROXY] ਸੇਵਾਵਾਂ ਦੀ ਕਨੂੰਨੀ ਰੂਪ ਤੋਂ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੋਵੇਗੀ। ਇਨ੍ਹਾਂ ਹਾਲਾਤਾਂ ਵਿੱਚ, ਤੁਹਾਨੂੰ [BRAND_NAME_PROXY] ਸੌਫਟਵੇਅਰ ਦੀਆਂ ਸਾਰੀਆਂ ਪ੍ਰਤੀਲਿਪੀਆਂ ਨੂੰ ਨਸ਼ਟ ਕਰਨਾ ਅਤੇ ਹਟਾਉਣਾ ਪਵੇਗਾ। ਇਸ ਦੌਰਾਨ, ਤੁਹਾਡੇ ਖੁਦ ਦੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਦੀ ਵਰੰਟੀ ਪ੍ਰਭਾਵਿਤ ਹੋਵੇਗੀ।
+
+ਉੱਪਰ ਦੱਸੀ ਉਲੰਘਣਾ ਦੇ ਮਾਮਲੇ ਵਿੱਚ, ਤੁਸੀਂ ਸਹਿਮਤ ਹੋ ਕਿ [BRAND_NAME_PROXY] ਕੋਲ ਨਿਮਨਲਿਖਤ ਨੂੰ ਅਪਣਾਉਣ ਦੇ ਅਧਿਕਾਰ ਹਨ,
+
+(a)\u0009[BRAND_NAME_PROXY] ਖਾਤੇ ਤੇ ਤੁਹਾਡੀ ਪਹੁੰਚ ਨੂੰ ਤੁਰੰਤ ਬੰਦ ਕਰਨਾ; ਅਤੇ/ਜਾਂ
+
+(b)\u0009[BRAND_NAME_PROXY] ਸੇਵਾ ਖਾਤੇ ਤੋਂ ਆਪਣੇ ਭਵਿੱਖ ਐਕਸੈੱਸ ਨੂੰ ਬਲੌਕ ਕਰੋ
+
+
+
+ਤੁਸੀਂ ਇਸ ਤੇ ਵੀ ਸਹਿਮਤ ਹੋ ਕਿ ਸ਼ਰਤਾਂ ਖਿਲਾਫ ਕਿਸੇ ਵੀ ਉਲੰਘਣਾ ਕਾਰਨ [BRAND_NAME_PROXY] ਨੂੰ ਨਾ ਠੀਕ ਹੋਣ ਯੋਗ ਨੁਕਸਾਨ ਹੋਵੇਗਾ, ਜਿਸ ਲਈ ਵਿੱਤੀ ਨੁਕਸਾਨ ਨਾਕਾਫੀ ਹੋਣਗੇ, ਅਤੇ ਤੁਸੀਂ [BRAND_NAME_PROXY] ਨੂੰ ਕਿਸੇ ਵੀ ਇੰਜਕਟਿਵ ਜਾਂ ਨਿਆਂਸੰਗਤ ਨਿਵਾਰਨ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇਣ ਲਈ ਸਹਿਮਤ ਹੋ ਜੋ [BRAND_NAME_PROXY] ਇਨ੍ਹਾਂ ਹਾਲਾਤਾਂ ਵਿੱਚ ਜ਼ਰੂਰੀ ਜਾਂ ਉਚਿਤ ਸਮਝਦਾ ਹੈ। ਹੋਰ ਕਿਸੇ ਉਪਰਾਲਿਆਂ ਤੋਂ ਇਲਾਵਾ ਇਹ ਉਪਰਾਲੇ ਜੋ [BRAND_NAME_PROXY] ਕੋਲ ਕਨੂੰਨ ਜਾਂ ਨਿਆਂਪੂਰਨ ਹੋ ਸਕਦੇ ਹਨ।
+
+
+
+10. ਸੰਚਾਲਨ ਕਰਨ ਵਾਲੇ ਕਨੂੰਨ ਅਤੇ ਇਖਤਿਆਰ
+
+ਤੁਸੀਂ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ ਕਿ ਸ਼ਰਤਾਂ ਸੰਬੰਧਿਤ ਸਾਰੇ ਝਗੜਿਆਂ ਨਾਲ ਸੰਬੰਧਿਤ ਸਾਰੇ ਮਾਮਲਿਆਂ ਦਾ ਰਿਪਬਲਿਕ ਆਫ ਚੀਨ (ਆਰ.ਓ.ਸੀ.) ਦੇ ਕਨੂੰਨ ਦੇ ਪ੍ਰਵਾਧਾਨਾਂ ਦੇ ਵਿਰੋਧ ਦੇ ਬਿਨਾਂ ਕਨੂੰਨਾਂ ਅਨੁਸਾਰ ਨਿਪਟਾਰਾ ਕੀਤਾ ਜਾਵੇਗਾ। 
+
+
+
+ਤੁਸੀਂ ਤਾਈਵਾਨ ਤਾਈਪਾਈ ਜਿਲ੍ਹਾ ਅਦਾਲਤ ਵਿੱਚ ਥਾਂ ਦੁਆਰਾ ਨਿੱਜੀ ਅਧਿਕਾਰ ਖੇਤਰ ਤੋਂ ਸਹਿਮਤ ਹੋ, ਅਤੇ ਇਸ ਤਰ੍ਹਾਂ ਦੇ ਕਿਸੇ ਅਧਿਕਾਰ ਖੇਤਰ ਜਾਂ ਥਾਂ ਤੇ ਕਿਸੇ ਵੀ ਇਤਰਾਜ਼ ਨੂੰ ਤਿਆਗਦੇ ਹੋ।
+
+
+
+ਕੋਈ ਵੀ ਝਗੜਾ ਤੁਹਾਡੇ ਅਤੇ [BRAND_NAME_PROXY] ਵਿਚਕਾਰ ਆਪਸ ਵਿੱਚ ਸ਼ਾਂਤੀਪੂਰਨ ਵਿਵਸਥਾ ਨਾਲ ਹੱਲ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ, ਉਸ ਲਈ ਤੁਹਾਡੇ ਜਾਂ [BRAND_NAME_PROXY] ਕੋਲ ਵਿਚੋਲਗੀ ਲਈ ਬੇਨਤੀ ਕਰਨ ਦਾ ਅਧਿਕਾਰ ਹੋਵੇਗਾ। ਜੇ 30 ਕੈਲੰਡਰ ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਝਗੜੇ ਦਾ ਹੱਲ ਨਹੀਂ ਨਿਕਲ ਸਕਦਾ ਹੈ, ਤਾਂ ਇਸ ਝਗੜੇ ਨੂੰ ਉੱਪਰ ਦੱਸੀ ਜਿਲ੍ਹਾ ਅਦਾਲਤ ਵਿੱਚ ਫਾਈਲ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।
+
+
+
+11. ਆਮ ਧਾਰਾ
+
+ਸ਼ਰਤਾਂ ਵਿਚਲੇ ਸਿਰਲੇਖ ਕੇਵਲ ਸੁਵਿਧਾ ਲਈ ਵਰਤੇ ਗਏ ਹਨ।
+ 
+ਤੁਹਾਡੀ ਉਲੰਘਣਾ ਖਿਲਾਫ ਕਾਰਵਾਈ ਕਰਨ ਵਿੱਚ [BRAND_NAME_PROXY] ਦੀ ਅਸਫਲਤਾ ਦਾ ਮਤਲਬ ਇਸ ਉਲੰਘਣਾ ਜਾਂ ਆਗਾਮੀ ਜਾਂ ਇਸ ਤਰ੍ਹਾਂ ਦੀਆਂ ਉਲੰਘਣਾਵਾਂ ਲਈ ਆਪਣੇ ਅਧਿਕਾਰਾਂ ਨੂੰ ਤਿਆਗਣਾ ਨਹੀਂ ਹੈ।
+
+
+
+ਜੇ ਯੋਗ ਅਧਿਕਾਰ ਖੇਤਰ ਨਿਰਧਾਰਿਤ ਕਰਦਾ ਹੈ ਕਿ ਇਨ੍ਹਾਂ ਸ਼ਰਤਾਂ ਦਾ ਕੋਈ ਵੀ ਹਿੱਸਾ ਅਵੈਧ ਜਾਂ ਨਾ ਲਾਗੂ ਹੋਣ ਯੋਗ ਹੈ, ਤਾਂ ਇਹ ਅਵੈਧ ਜਾਂ ਨਾ ਲਾਗੂ ਹੋਣ ਯੋਗ ਨਿਯਮ ਨੂੰ ਵੈਧ ਅਤੇ ਲਾਗੂ ਹੋਣ ਯੋਗ ਨਿਯਮ ਨਾਲ ਬਦਲਣਗੇ ਜੋ ਵਾਸਤਵਿਕ ਨਿਯਮ ਦੀ ਸਮੱਗਰੀ ਨਾਲ ਬਹੁਤ ਜ਼ਿਆਦਾ ਮੇਲ ਖਾਂਦਾ ਹੋਵੇਗਾ ਅਤੇ ਬਾਕੀ ਸ਼ਰਤਾਂ ਉਸੇ ਤਰ੍ਹਾਂ ਰਹਿਣਗੀਆਂ। 
+
+
+
+ਤੁਸੀਂ ਸ਼ਰਤਾਂ ਨੂੰ ਨਿਯਤ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ, ਜਾਂ ਸ਼ਰਤਾਂ ਵਿਚਲੇ ਆਪਣੇ ਅਧਿਕਾਰਾਂ ਨੂੰ ਨਿਯਤ, ਤਬਦੀਲ, ਜਾਂ ਸਬਲਸੰਸ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।
+
+
+
+[BRAND_NAME_PROXY] ਇਨ੍ਹਾਂ ਸ਼ਰਤਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ, ਤੁਹਾਨੂੰ ਨੋਟਿਸ ਦੇ ਕੇ ਜਾਂ ਨੋਟਿਸ ਤੋਂ ਬਿਨਾਂ, ਪੂਰਾ ਜਾਂ ਕੁਝ ਭਾਗਾਂ ਨੂੰ, ਨਿਯਤ ਕਰ ਸਕਦਾ ਹੈ। 
+
+
+
+ਇਹ ਸ਼ਰਤਾਂ ਸਾਈਟ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਤੁਹਾਡੇ ਅਤੇ [BRAND_NAME_PROXY] ਵਿਚਕਾਰ ਪਹਿਲੇ ਸਾਰੇ ਕਿਸੇ ਵੀ ਕਿਸਮ ਦੇ ਸਮਕਾਲੀਨ ਸੰਚਾਰਾਂ ਨੂੰ ਹਟਾ ਸਕਦਾ ਹੈ।
+
+
+
+12. ਸੰਪੂਰਨ ਇਕਰਾਰਨਾਮਾ
+
+ਸ਼ਰਤਾਂ ਅਤੇ ਨਵੀਆਂ ਅਟੈਚਮੈਂਟਾਂ [BRAND_NAME_PROXY] ਸੁਵਾਵਾਂ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਤੁਹਾਡੇ ਅਤੇ [BRAND_NAME_PROXY] ਵਿਚਕਾਰ ਸੰਪੂਰਨ ਇਕਰਾਰਨਾਮਾ ਬਣਾਉਂਦੀਆਂ ਹਨ।
+
+
+
+13. ਸ਼ਰਤਾਂ ਦਾ ਸੰਸ਼ੋਧਨ
+
+[BRAND_NAME_PROXY] ਸਮੇਂ ਸਮੇਂ ਤੇ ਆਪਣੀ ਮਰਜ਼ੀ ਅਨੁਸਾਰ ਸ਼ਰਤਾਂ ਦੀ ਸਮੱਗਰੀ ਨੂੰ ਅੱਪਡੇਟ, ਬਦਲ ਜਾਂ ਮਿਟਾ ਸਕਦਾ ਹੈ।
+
+
+
+ਤੁਹਾਨੂੰ [BRAND_NAME_PROXY] ਦੀ ਵੈੱਬਸਾਈਟ ਤੇ ਪ੍ਰਕਾਸ਼ਿਤ ਸ਼ਰਤਾਂ ਦੀ ਜਾਂਚ ਕਰਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ ਜੋ ਉਨ੍ਹਾਂ ਸ਼ਰਤਾਂ ਤੋਂ ਅਲੱਗ ਹੋ ਸਕਦੀਆਂ ਹਨ ਜੋ ਤੁਸੀਂ ਅਸਲ ਵਿੱਚ ਪੜ੍ਹੀਆਂ ਸਨ।
+
+
+
+ਤੁਹਾਡੇ ਦੁਆਰਾ ਵਰਤ ਜਾ ਰਹੇ ਨਵੇਂ ਸੌਫਟਵੇਅਰ ਅਤੇ [BRAND_NAME_PROXY] ਹੈਂਡਸੈੱਟ ਦੁਆਰਾ ਇਸ ਤਰ੍ਹਾਂ ਦੇ ਬਦਲਾਅ ਨੂੰ ਤੁਹਾਡੀ ਸਹਿਮਤੀ ਸਮਝੀ ਜਾਂਦੀ ਹੈ।
+
+"</string>
+    <string name="hmd_legal_message" />
+    <string name="wapi_psk_security_type">ਪਾਸਵਰਡ ਕਿਸਮ</string>
+    <string name="upload_agent_hmd_des_text_3">"ਆਓ ਅੱਗੇ ਵਧੀਏ\" 'ਤੇ ਟੈਪ ਕਰਕੇ, ਤੁਸੀਂ ਉਪਭੋਗਤਾ ਤਜਰਬਾ ਪ੍ਰੋਗਰਾਮ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। &lt;a href='launch.UserExperienceActivity://Kode'>ਹੋਰ ਜਾਣੋ&lt;/a>। ਯਾਦ ਰੱਖੋ, ਤੁਸੀਂ ਹਮੇਸ਼ਾਂ ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗਾਂ ਰਾਹੀਂ ਸ਼ਾਮਲ ਹੋ ਸਕਦੇ ਹੋ।"</string>
+    <string name="setup_complete_hmd_1">ਤੁਸੀਂ ਲਗਭਗ ਅੱਗੇ ਵਧਣ ਲਈ ਤਿਆਰ ਹੋ...!</string>
+    <string name="not_now">ਅਜੇ ਨਹੀਂ…</string>
+    <string name="setup_finish">ਆਓ ਅੱਗੇ ਵਧੀਏ</string>
+    <string name="wifi_fail_to_scan">ਨੈੱਟਵਰਕਾਂ ਨੂੰ ਸਕੈਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ</string>
+    <string name="wifi_security_none">ਕੋਈ ਨਹੀਂ</string>
+    <string name="wifi_remembered">ਰੱਖਿਅਤ ਕੀਤਾ</string>
+    <string name="wifi_disabled_generic">ਅਯੋਗ ਕੀਤਾ ਗਿਆ</string>
+    <string name="wifi_disabled_network_failure">IP ਕੰਫਿਗਰੇਸ਼ਨ ਅਸਫਲਤਾ</string>
+    <string name="wifi_disabled_password_failure">ਪ੍ਰਮਾਣੀਕਰਨ ਸਮੱਸਿਆ</string>
+    <string name="wifi_not_in_range">ਰੇਂਜ਼ ਵਿੱਚ ਨਹੀਂ</string>
+    <string name="wifi_no_internet_no_reconnect">"ਸਵੈਚਲ ਤੌਰ 'ਤੇ ਕਨੈਕਟ ਨਹੀਂ ਕਰੇਗਾ"</string>
+    <string name="wifi_no_internet">ਕੋਈ ਇੰਟਰਨੈਟ ਪਹੁੰਚ ਨਹੀਂ</string>
+    <string name="saved_network">%1$s ਦੁਆਰਾ ਰੱਖਿਅਤ ਕੀਤਾ</string>
+    <string name="connected_via_passpoint">%1$s ਰਾਹੀਂ ਕਨੈਕਟ ਕੀਤਾ</string>
+    <string name="available_via_passpoint">%1$s ਰਾਹੀਂ ਉਪਲਬਧ</string>
+    <string name="wifi_connected_no_internet">ਕਨੈਕਟ ਕੀਤਾ, ਕੋਈ ਇੰਟਰਨੈੱਟ ਨਹੀਂ</string>
+    <string name="wifi_auth_password_wrong">ਪਾਸਵਰਡ ਗਲਤ ਹੋ ਸਕਦਾ ਹੈ</string>
+    <string name="connected_via_wfa">Wi‑Fi ਰਾਹੀਂ ਕਨੈਕਟ ਕੀਤਾ</string>
+    <string name="wifi_ssid">ਨੈਟਵਰਕ ਦਾ ਨਾਮ</string>
+    <string name="wifi_ssid_hint">SSID ਦਰਜ ਕਰੋ</string>
+    <string name="wifi_security">ਸੁਰੱਖਿਆ</string>
+    <string name="wifi_eap_method">EAP ਵਿਧੀ</string>
+    <string name="please_select_phase2">ਪੜਾਅ 2 ਪ੍ਰਮਾਣੀਕਰਨ</string>
+    <string name="wifi_eap_ca_cert">CA ਪ੍ਰਮਾਣ-ਪੱਤਰ</string>
+    <string name="wifi_do_not_validate_eap_server_warning">ਕੋਈ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਨਿਰਧਾਰਤ ਨਹੀਂ ਕੀਤਾ ਗਿਆ। ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਨਿੱਜੀ ਨਹੀਂ ਰਹੇਗਾ।</string>
+    <string name="wifi_eap_domain">ਡੋਮੇਨ</string>
+    <string name="wifi_no_domain_warning">ਇੱਕ ਡੋਮੇਨ ਨਿਰਧਾਰਤ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ।</string>
+    <string name="wifi_eap_user_cert">ਉਪਯੋਗਕਰਤਾ ਪ੍ਰਮਾਣ-ਪੱਤਰ</string>
+    <string name="wifi_eap_identity">ਪਛਾਣ</string>
+    <string name="wifi_eap_anonymous">ਅਨਾਮ ਪਛਾਣ</string>
+    <string name="wifi_password">ਪਾਸਵਰਡ</string>
+    <string name="wifi_show_password">ਪਾਸਵਰਡ ਦਿਖਾਓ</string>
+    <string name="wifi_advanced_toggle_description_collapsed">ਡ੍ਰੌਪ-ਡਾਉਨ ਸੂਚੀ ਅਗਾਉਂ ਵਿਕਲਪ। ਵਿਸਤਾਰ ਕਰਨ ਲਈ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ।</string>
+    <string name="wifi_show_advanced">ਅਗਾਉਂ ਵਿਕਲਪ</string>
+    <string name="proxy_settings_title">ਪ੍ਰੌਕਸੀ</string>
+    <string name="proxy_warning_limited_support">HTTP ਪ੍ਰੌਕਸੀ ਬ੍ਰਾਊਜ਼ਰ ਵੱਲੋਂ ਵਰਤੀ ਜਾਂਦੀ ਹੈ ਪਰੰਤੂ ਹੋਰਾਂ ਐਪਾਂ ਵੱਲੋਂ ਨਹੀਂ ਵਰਤੀ ਜਾ ਸਕਦੀ।</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">ਪ੍ਰੌਕਸੀ ਹੋਸਟਨਾਮ</string>
+    <string name="proxy_exclusionlist_label">ਇਸ ਲਈ ਬਾਇਪਾਸ ਪ੍ਰੌਕਸੀ</string>
+    <string name="wifi_ip_settings">IP ਸੈਟਿੰਗਾਂ</string>
+    <string name="wifi_ip_address">IP ਪਤਾ</string>
+    <string name="wifi_gateway">ਗੇਟਵੇ</string>
+    <string name="wifi_network_prefix_length">ਨੈਟਵਰਕ ਅਗੇਤਰ ਲੰਮਾਈ</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">ਹੋਰ ਡਿਵਾਈਸ ਉਪਯੋਗਕਰਤਾਵਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="proxy_port_label">ਪ੍ਰੌਕਸੀ ਪੋਰਟ</string>
+    <string name="wifi_unspecified">ਕਿਰਪਾ ਕਰਕੇ ਚੁਣੋ</string>
+    <string name="wifi_multiple_cert_added">(ਇੱਕ ਤੋਂ ਜ਼ਿਆਦਾ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਸ਼ਾਮਲ ਕੀਤੇ ਗਏ)</string>
+    <string name="wifi_use_system_certs">ਸਿਸਟਮ ਪ੍ਰਮਾਣ-ਪੱਤਰਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="wifi_do_not_provide_eap_user_cert">ਪ੍ਰਦਾਨ ਨਾ ਕਰੋ</string>
+    <string name="wifi_do_not_validate_eap_server">ਪ੍ਰਮਾਣਿਤ ਨਾ ਕਰੋ</string>
+    <string name="wifi_add_network">ਨੈਟਵਰਕ ਜੋੜੋ</string>
+    <string name="wifi_save">ਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="passpoint_label">ਇਸ ਰਾਹੀਂ ਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ</string>
+    <string name="wifi_connect">ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="wifi_status">ਸਥਿਤੀ:</string>
+    <string name="wifi_signal">ਸਿਗਨਲ ਸ਼ਕਤੀ</string>
+    <string name="wifi_speed">ਲਿੰਕ ਸਪੀਡ</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">ਬਾਰੰਬਾਰਤਾ</string>
+    <string name="wifi_forget">ਭੁੱਲਣਾ</string>
+    <string name="wifi_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="proxy_error_invalid_port">ਤੁਹਾਡੇ ਵੱਲੋਂ ਟਾਈਪ ਕੀਤਾ ਪੋਰਟ ਪ੍ਰਮਾਣਿਕ ਨਹੀਂ ਹੈ।</string>
+    <string name="wifi_ip_settings_invalid_ip_address">ਇੱਕ ਪ੍ਰਮਾਣਿਕ IP ਪਤਾ ਟਾਈਪ ਕਰੋ।</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">0 ਅਤੇ 32 ਦੇ ਵਿਚਕਾਰ ਇੱਕ ਨੈਟਵਰਕ ਅਗੇਤਰ ਲੰਮਾਈ ਟਾਈਪ ਕਰੋ।</string>
+    <string name="wifi_ip_settings_invalid_gateway">ਇੱਕ ਪ੍ਰਮਾਣਿਕ ਗੇਟਵੇ ਪਤਾ ਟਾਈਪ ਕਰੋ।</string>
+    <string name="wifi_ip_settings_invalid_dns">ਇੱਕ ਪ੍ਰਮਾਣਿਕ DNS ਪਤਾ ਟਾਈਪ ਕਰੋ।</string>
+    <string name="wifi_unchanged">(ਬਿਨਾਂ ਬਦਲਿਆ)</string>
+    <string name="wifi_failed_connect_message">ਨੈਟਵਰਕ ਕਨੈਕਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="wifi_failed_save_message">ਨੈਟਵਰਕ ਰੱਖਿਅਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="wifi_failed_forget_message">ਨੈਟਵਰਕ ਛੱਡਣ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="proxy_error_empty_host_set_port">ਜੇਕਰ ਹੋਸਟ ਖੇਤਰ ਖਾਲੀ ਹੈ ਤਾਂ ਪੋਰਟ ਖੇਤਰ ਖਾਲੀ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।</string>
+    <string name="proxy_error_empty_port">ਤੁਹਾਨੂੰ ਪੋਰਟ ਖੇਤਰ ਪੂਰਾ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="proxy_error_invalid_exclusion_list">ਤੁਹਾਡੇ ਵੱਲੋਂ ਟਾਈਪ ਕੀਤੀ ਵਰਜਨ ਸੂਚੀ ਸਹੀ ਢੰਗ ਨਾਲ ਫੌਰਮੈਟ ਨਹੀਂ ਕੀਤੀ ਹੋਈ ਹੈ। ਵਰਜਨ ਵਾਲੇ ਡੋਮੇਨਾਂ ਦੀ ਇੱਕ ਕਾਮਾ-ਵੱਖ ਕੀਤੀ ਸੂਚੀ ਟਾਈਪ ਕਰੋ।</string>
+    <string name="wifi_advanced_toggle_description_expanded">ਡ੍ਰੌਪ-ਡਾਉਨ ਸੂਚੀ ਅਗਾਉਂ ਵਿਕਲਪ। ਸਮੇਟਣ ਲਈ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ।</string>
+    <string name="passpoint_content">%1$s ਕ੍ਰੀਡੈਂਸ਼ੀਅਲ</string>
+    <string name="select_sim_card">SIM ਕਾਰਡ ਚੁਣੋ</string>
+    <string name="sim_editor_title">SIM ਸਲੌਟ %1$d</string>
+    <string name="wifi_certificate">ਪ੍ਰਮਾਣ-ਪੱਤਰ</string>
+    <string name="wifi_setting_title">ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="wifi_skip_anyway">ਤਾਂ ਵੀ ਛੱਡੋ</string>
+    <string name="wifi_dont_skip">ਪਿੱਛੇ ਜਾਓ</string>
+    <string name="wifi_and_mobile_skipped_message">"ਕਿਸੇ ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਨਾਲ ਤੁਹਾਨੂੰ ਆਪਣਾ ਫ਼ੋਨ ਤੇਜ਼ੀ ਨਾਲ ਸੈੱਟਅਪ ਕਰਨ ਵਿੱਚ ਮਦਦ ਮਿਲਦੀ ਹੈ।
+
+ਕਨੈਕਸ਼ਨ ਦੇ ਬਿਨਾਂ, ਤੁਸੀਂ ਇਹ ਨਹੀਂ ਕਰ ਸਕਦੇ:"<li>ਆਪਣੇ ਕਲਾਉਡ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ</li>"
+
+"<li>ਸੌਫਟਵੇਅਰ ਅੱਪਡੇਟ ਪ੍ਰਾਪਤ ਕਰੋ</li>"
+
+"<li>"ਸਵੈਚਲ ਤੌਰ 'ਤੇ ਮਿਤੀ ਅਤੇ ਸਮਾਂ ਸੈੱਟਅਪ ਕਰੋ"</li></string>
+</resources>

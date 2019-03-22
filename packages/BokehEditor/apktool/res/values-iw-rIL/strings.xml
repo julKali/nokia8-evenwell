@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">עורך עם אפקט בוקה</string>
+    <string name="image_not_null">נתיב התמונה לא יכול להיות null</string>
+    <string name="no_bokeh_type">אין סוג של אפקט בוקה</string>
+    <string name="no_mpo_file">אין קובץ MPO</string>
+    <string name="refocus_type_description">התמונה הזו צולמה במצב פריסה לאורך עם מיפוי עומק לצורך מיקוד מחדש.</string>
+    <string name="refocus_type_name">פריסה לאורך</string>
+    <string name="save">שמור</string>
+    <string name="save_success">נשמר בהצלחה</string>
+    <string name="saving_photos">שומר תמונות...</string>
+</resources>

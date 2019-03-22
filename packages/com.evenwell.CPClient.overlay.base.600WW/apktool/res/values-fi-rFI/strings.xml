@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP-asiakas</string>
+    <string name="fih_cp_notify_statusbar_content">Uusi valmisteluviesti</string>
+    <string name="fih_cp_notification_channel_name">Yleiset ilmoitukset</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Lykkää</string>
+    <string name="fih_cp_ui_mode_delete">Poista</string>
+    <string name="fih_cp_apply_dialog_head_msg">Uusi valmistelu</string>
+    <string name="fih_cp_apply_dialog_body_msg">Haluatko käyttää uutta kokoonpanoa?</string>
+    <string name="fih_cp_toast_info_update">Profiilin päivitys onnistui</string>
+    <string name="fih_cp_toast_info_create">Profiilin luonti onnistui</string>
+    <string name="fih_cp_editor_apn_name">Nimi</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">Välityspalvelin</string>
+    <string name="fih_cp_editor_apn_http_port">Portti</string>
+    <string name="fih_cp_editor_apn_user">Käyttäjänimi</string>
+    <string name="fih_cp_editor_apn_password">Salasana</string>
+    <string name="fih_cp_editor_apn_server">Palvelin</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS-välityspalvelin</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS-portti</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">Todennustyyppi</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Ei mitään</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP tai CHAP</string>
+    <string name="fih_cp_editor_apn_type">APN-tyyppi</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_btn_cancel">Peruuta</string>
+    <string name="fih_cp_btn_next">Seuraava</string>
+    <string name="fih_cp_btn_back">Takaisin</string>
+    <string name="fih_cp_apn_not_set">&lt;Ei asetettu></string>
+    <string name="fih_cp_error_title">Huomio</string>
+    <string name="fih_cp_error_name_empty">Nimi-kenttä ei voi olla tyhjä.</string>
+    <string name="fih_cp_error_apn_empty">APN-kenttä ei voi olla tyhjä.</string>
+    <string name="fih_cp_error_other">Tietojen syntaksivirhe.</string>
+    <string name="fih_cp_input_pin_code">Anna PIN-koodi:</string>
+    <string name="fih_cp_input_pin_code_ok">OK</string>
+    <string name="fih_cp_input_pin_code_cancel">Peruuta</string>
+    <string name="fih_cp_input_pin_code_incorrect">Virheellinen PIN-koodi.</string>
+    <string name="fih_cp_input_pin_code_empty">Anna PIN-koodi.</string>
+    <string name="fih_cp_sim_not_available">SIM-kortti ei ole käytettävissä.</string>
+</resources>

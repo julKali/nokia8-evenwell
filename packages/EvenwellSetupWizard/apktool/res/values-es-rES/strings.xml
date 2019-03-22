@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Accesibilidad</string>
+    <string name="available_via_passpoint">Disponible a través de %1$s</string>
+    <string name="back_btn_lebel">ATRÁS</string>
+    <string name="backup_and_restore_description">"Si has hecho previamente una copia de seguridad de tu cuenta, puedes restaurarla en este teléfono ahora.
+
+Puedes cambiar tus ajustes de copia de seguridad en cualquier momento en Ajustes."</string>
+    <string name="backup_and_restore_title">Copia de seguridad y restaurar</string>
+    <string name="connected_via_passpoint">Conexión establecida mediante %1$s</string>
+    <string name="connected_via_wfa">Conexión establecida mediante asistente de Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Cancelar</string>
+    <string name="datausage_dialog_positive_btn">Aceptar</string>
+    <string name="date_and_time">Ajustes de fecha y hora</string>
+    <string name="date_and_time_settings_title">Fecha y hora</string>
+    <string name="date_time_24hour">Usar formato de 24 horas</string>
+    <string name="date_time_auto">Fecha y hora automáticas</string>
+    <string name="date_time_auto_summaryOff">Usar la hora indicada por la red</string>
+    <string name="date_time_auto_summaryOn">Usar la hora indicada por la red</string>
+    <string name="date_time_set_time">Configurar la hora</string>
+    <string name="date_time_set_timezone">Seleccionar zona horaria</string>
+    <string name="device_checking_message">Bienvenido/a</string>
+    <string name="emergency_dial_hmd_message">Emergencia</string>
+    <string name="finish_button_label">FINALIZAR</string>
+    <string name="hmd_user_experience_program_message">Tu participación en el programa de experiencia del usuario ayuda a HMD Global a entender mejor lo que te gusta de tu dispositivo Nokia y lo que consideras que se debe mejorar. Es posible que, periódicamente, recibamos datos anónimos con características técnicas de tu dispositivo, por ejemplo, un archivo con datos sobre un bloqueo de software que se haya podido producir. Ten en cuenta que esos datos no se transmitirán a través de una conexión móvil. Nos encantará recibir tu opinión sobre tu dispositivo Nokia.</string>
+    <string name="hmd_user_experience_program_title">Programa de experiencia del usuario</string>
+    <string name="idle_too_long_toast">Este teléfono se suspende en ocasiones. Apágalo ahora para ahorrar energía.</string>
+    <string name="insert_sim_cards">Insertar tarjetas SIM</string>
+    <string name="insert_sim_cards_prompt_content">"¿No sabe cómo? Consulte las instrucciones que venían con el teléfono.
+
+Una vez haya introducido sus tarjetas SIM, puede que tarden unos segundos en activarse."</string>
+    <string name="language_selection_cancel_btn">CANCELAR</string>
+    <string name="light_room_description">%1$s es compatible con la captura de imágenes en formato RAW (DNG). Puede editar directamente en su nuevo smartphone, gracias a nuestra colaboración con Adobe.&lt;br/>&lt;br/>Descargar Adobe Photoshop Lightroom CC de Google Play Store ahora.</string>
+    <string name="light_room_title">¿Le apasiona la fotografía?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="nevigation_selection_back">Atrás</string>
+    <string name="next_btn_lebel">SIGUIENTE</string>
+    <string name="not_now">AHORA NO...</string>
+    <string name="passpoint_content">Credenciales de %1$s</string>
+    <string name="passpoint_label">Guardada mediante</string>
+    <string name="please_select_phase2">Autenticación de fase 2</string>
+    <string name="proxy_error_empty_host_set_port">El campo de puerto debe estar vacío si el campo de host también lo está.</string>
+    <string name="proxy_error_empty_port">Debe completar el campo de puerto.</string>
+    <string name="proxy_error_invalid_exclusion_list">El formato de la lista de exclusiones que ha introducido no es correcto. Introduzca una lista separada por comas de los dominios excluidos.</string>
+    <string name="proxy_error_invalid_port">El puerto que ha introducido no es válido.</string>
+    <string name="proxy_exclusionlist_label">Omitir proxy para</string>
+    <string name="proxy_hostname_label">Nombre de host de proxy</string>
+    <string name="proxy_port_label">Puerto proxy</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"URL PAC: "</string>
+    <string name="proxy_warning_limited_support">El navegador utiliza el proxy HTTP, pero no pueden utilizarlo otras aplicaciones.</string>
+    <string name="saved_network">Guardado por %1$s</string>
+    <string name="select_sim_card">Seleccione una tarjeta SIM</string>
+    <string name="setup_complete_hmd">Estás listo para empezar…</string>
+    <string name="setup_complete_hmd_1">Ya casi está listo para empezar...</string>
+    <string name="setup_complete_main">Estás</string>
+    <string name="setup_complete_sub">LISTO PARA EMPEZAR.</string>
+    <string name="setup_completed_congratulations">¡Enhorabuena!</string>
+    <string name="setup_finish">EMPECEMOS</string>
+    <string name="sim_editor_title">Ranura de la SIM %1$d</string>
+    <string name="term_agree_text">Aceptar</string>
+    <string name="upload_agent_hmd_des_text_3">"Al pulsar en \"Empecemos\", acepta participar en el programa de experiencia del usuario. &lt;a href='launch.UserExperienceActivity://Kode'>Más información&lt;/a>. Recuerde, siempre puede participar más tarde mediante Ajustes."</string>
+    <string name="upload_agent_title">Programa de experiencia del usuario</string>
+    <string name="welcome_hmd_term_of_use_4">"Al tocar el botón, acepta las &lt;a href='launch.TermOfServiceActivity://Kode'>Condiciones de servicio&lt;/a> y la &lt;a href='launch.AddUploadAgentHandler://Kode'>Política de privacidad&lt;/a>. La información de activación del dispositivo se enviará con una ubicación única del dispositivo a HMD Global.&lt;br/>&lt;br/>Se habilitará la notificación de actualización automática de software que, como lo indica su nombre, instala las últimas actualizaciones de forma automática. Esta función puede utilizar una pequeña parte de su presupuesto de datos. Los servicios accederán a Internet siempre que lo necesiten.&lt;br/>&lt;br/>Estos servicios le supondrán un cargo por cobertura cuando accedan a redes móviles."</string>
+    <string name="welcome_hmd_term_of_use_5">"Al tocar el botón, acepta las &lt;a href='launch.TermOfServiceActivity://Kode'>Condiciones de servicio&lt;/a>. La información de activación del dispositivo con su ubicación única se enviará a HMD Global. Pueden aplicarse tarifas de datos. Los datos se utilizarán de acuerdo con la &lt;a href='launch.AddUploadAgentHandler://Kode'>Política de privacidad&lt;/a>."</string>
+    <string name="welcome_message">Bienvenido/a</string>
+    <string name="welcome_start_button_label">INICIAR</string>
+    <string name="wifi_add_network">Añadir red</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Lista desplegable de opciones avanzadas. Toque dos veces para ampliarla.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Lista desplegable de opciones avanzadas. Toque dos veces para contraerla.</string>
+    <string name="wifi_and_mobile_skipped_message">"La conexión a una red le ayuda a configurar rápidamente el teléfono.
+
+Sin una conexión, no podrá:
+
+"<li>Iniciar sesión en su cuenta Cloud</li>"
+
+"<li>Obtener actualizaciones de software</li>"
+
+"<li>Configurar automáticamente fecha y hora</li></string>
+    <string name="wifi_auth_password_wrong">Es posible que la contraseña sea incorrecta</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Cancelar</string>
+    <string name="wifi_certificate">Certificado</string>
+    <string name="wifi_connect">Conectar</string>
+    <string name="wifi_connected_no_internet">Conexión establecida, sin Internet</string>
+    <string name="wifi_disabled_generic">Deshabilitado</string>
+    <string name="wifi_disabled_network_failure">Error de configuración de IP</string>
+    <string name="wifi_disabled_password_failure">Problema de autenticación</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">No proporcionar</string>
+    <string name="wifi_do_not_validate_eap_server">No validar</string>
+    <string name="wifi_do_not_validate_eap_server_warning">No se ha especificado ningún certificado. La conexión no será privada.</string>
+    <string name="wifi_dont_skip">VOLVER</string>
+    <string name="wifi_eap_anonymous">Identidad anónima</string>
+    <string name="wifi_eap_ca_cert">Certificado de CA</string>
+    <string name="wifi_eap_domain">Dominio</string>
+    <string name="wifi_eap_identity">Identidad</string>
+    <string name="wifi_eap_method">Método EAP</string>
+    <string name="wifi_eap_user_cert">Certificado de usuario</string>
+    <string name="wifi_fail_to_scan">No se puede buscar redes</string>
+    <string name="wifi_failed_connect_message">Error al conectar a la red</string>
+    <string name="wifi_failed_forget_message">Error al eliminar la red</string>
+    <string name="wifi_failed_save_message">Error al guardar la red</string>
+    <string name="wifi_forget">Borrar</string>
+    <string name="wifi_frequency">Frecuencia</string>
+    <string name="wifi_gateway">Puerta de enlace</string>
+    <string name="wifi_ip_address">Dirección IP</string>
+    <string name="wifi_ip_settings">Ajustes de IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Introduzca una dirección DNS válida.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Introduzca una dirección de puerta de enlace válida.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Introduzca una dirección IP válida.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Introduzca un prefijo de red que tenga entre 0 y 32 caracteres.</string>
+    <string name="wifi_multiple_cert_added">(Se han añadido varios certificados)</string>
+    <string name="wifi_network_prefix_length">Longitud del prefijo de red</string>
+    <string name="wifi_no_domain_warning">Se debe especificar un dominio.</string>
+    <string name="wifi_no_internet">Sin acceso a Internet</string>
+    <string name="wifi_no_internet_no_reconnect">No se conectará automáticamente</string>
+    <string name="wifi_not_in_range">No está dentro del rango</string>
+    <string name="wifi_password">Contraseña</string>
+    <string name="wifi_picker_connection_positive">Aceptar</string>
+    <string name="wifi_remembered">Guardado</string>
+    <string name="wifi_save">Guardar</string>
+    <string name="wifi_security">Seguridad</string>
+    <string name="wifi_security_none">Ninguno</string>
+    <string name="wifi_setting_title">Establecer conexión</string>
+    <string name="wifi_shared">Compartir con otros usuarios del dispositivo</string>
+    <string name="wifi_show_advanced">Opciones avanzadas</string>
+    <string name="wifi_show_password">Mostrar contraseña</string>
+    <string name="wifi_signal">Intensidad de la señal</string>
+    <string name="wifi_skip_anyway">OMITIR DE TODAS FORMAS</string>
+    <string name="wifi_speed">Velocidad de enlace</string>
+    <string name="wifi_ssid">Nombre de la red</string>
+    <string name="wifi_ssid_hint">Introduzca el SSID</string>
+    <string name="wifi_status">Estado</string>
+    <string name="wifi_unchanged">(sin modificar)</string>
+    <string name="wifi_unspecified">Seleccione una opción</string>
+    <string name="wifi_use_system_certs">Utilizar certificados del sistema</string>
+    <string name="zone_auto">Zona horaria automática</string>
+    <string name="zone_auto_summaryOff">Usar la zona horaria indicada por la red</string>
+    <string name="zone_auto_summaryOn">Usar la zona horaria indicada por la red</string>
+</resources>

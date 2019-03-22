@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Актуализиране на софтуера</string>
+    <string name="remote_file_fail">Няма достъп до отдалечения файл. Опитайте отново по-късно.</string>
+    <string name="no_description">(Няма описание)</string>
+    <string name="login_fail">Влизането в сървъра не бе успешно. Опитайте отново по-късно.</string>
+    <string name="get_service_url_fail">Връзката с мрежата е нестабилна (не се получи URL адрес на услугата). Опитайте отново по-късно.</string>
+    <string name="query_sw_fail">Заявката за информация за софтуера не бе успешна.</string>
+    <string name="download_sw_fail">Изтеглянето на софтуера не бе успешно.</string>
+    <string name="query_sw_incorrect">Резултатът не е верен.</string>
+    <string name="no_update_available">Няма по-нова актуализация.</string>
+    <string name="update_not_ready">По-новата актуализация не е готова на сървъра. Опитайте отново по-късно.</string>
+    <string name="check_now_label">Проверка сега</string>
+    <string name="verifying">Проверка...</string>
+    <string name="header_verifying_update_file">Проверка на актуализирания файл...</string>
+    <string name="unzipping">Разархивиране...</string>
+    <string name="header_starting_to_download_file">Стартиране на изтеглянето на файла...</string>
+    <string name="new_version_desc_prompt">Новата версия включва:</string>
+    <string name="data_fee_warning">Използването на този сървър чрез връзката ви с мобилната мрежа може да доведе до таксуване!</string>
+    <string name="header_downloading_update">Изтегляне на актуализация</string>
+    <string name="header_install_system_software_update">Инсталиране на актуализация на системния софтуер</string>
+    <string name="msg_install_system_software_update_1">"Искате ли да инсталирате следния системен софтуер?
+Надстройка на системата до"</string>
+    <string name="msg_install_system_software_update_2">"
+
+По време на надстройването няма да можете да използвате устройството или да осъществявате спешни обаждания.
+
+Премахването на батерията или SD картата, докато софтуерът се актуализира, може да доведе до неочаквани резултати."</string>
+    <string name="msg_install_system_software_update_3">"
+
+По време на надстройването няма да можете да използвате устройството.
+
+Прекъсването на захранването или премахването на изтегления файл, докато софтуерът се актуализира, ще доведе до неочаквани резултати."</string>
+    <string name="msg_install_system_software_update_4">"
+
+По време на надстройването няма да можете да използвате устройството или да осъществявате спешни обаждания.
+
+Прекъсването на захранването или премахването на изтегления файл, докато софтуерът се актуализира, ще доведе до неочаквани резултати."</string>
+    <string name="button_install_later">Инсталиране по-късно</string>
+    <string name="msg_unable_to_connect">За да използвате приложението, трябва връзка с мрежата. Включете мобилната мрежа или Wi-Fi в Настройки.</string>
+    <string name="msg_unable_to_connect_2">За да използвате приложението, трябва връзка с мрежата. Включете мобилната мрежа в Настройки.</string>
+    <string name="msg_unable_to_connect_wlan">За да използвате приложението, трябва връзка с мрежата. Включете мобилната мрежа или WLAN в Настройки.</string>
+    <string name="msg_unable_to_connect_short">Няма връзка с мрежата</string>
+    <string name="header_system_is_update">Системата е актуална.</string>
+    <string name="msg_system_is_update">Няма по-нова актуализация.</string>
+    <string name="msg_system_is_update_short">Няма по-нови актуализации</string>
+    <string name="msg_no_sd_card">За актуализация на системата е необходима SD карта. Поставете налична SD карта.</string>
+    <string name="msg_no_available_size_card">За файла на тази актуализация са необходими %s MB налично място. Изтрийте някои файлове от SD картата.</string>
+    <string name="msg_no_available_size_card_2">За файла на тази актуализация са необходими %s MB налично място. Изтрийте някои файлове от паметта на телефона.</string>
+    <string name="msg_no_available_size_card_short">Няма достатъчно свободно място.</string>
+    <string name="msg_do_not_remove_sd_card">НЕ премахвайте SD картата.</string>
+    <string name="msg_system_battery_too_low">"Актуализацията на системата е готова, но батерията на устройството ви е твърде изтощена, за да бъде инсталирана. Заредете батерията и стартирайте инсталирането по-късно.
+
+Зарядът на батерията трябва да е над 35%%.
+Текущ заряд на батерията: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Твърде нисък заряд на батерията</string>
+    <string name="msg_remove_sd_card">Изтегленият файл не може да бъде записан на SD карта. Проверете SD картата.</string>
+    <string name="msg_remove_sd_card_2">Изтегленият файл не може да бъде записан в паметта на телефона. Проверете хранилището.</string>
+    <string name="msg_remove_sd_card_short">Достъпът до SD картата не бе успешен.</string>
+    <string name="msg_remove_sd_card_short_2">Достъпът до паметта на телефона не бе успешен.</string>
+    <string name="msg_verify_fail">Проверката на изтегления файл не бе успешна.</string>
+    <string name="msg_verify_fail_short">Проверката не бе успешна</string>
+    <string name="msg_unzip_fail">Разархивирането на изтегления файл не бе успешно.</string>
+    <string name="msg_unzip_fail_short">Разархивирането не бе успешно</string>
+    <string name="data_size">Размер на данните</string>
+    <string name="required_size">Необходимо място</string>
+    <string name="network_not_match">Настоящата ви настройка е за изтегляне само чрез WLAN. Изберете WLAN мрежа или променете настройките си.</string>
+    <string name="network_not_match_short">Мрежата не съответства.</string>
+    <string name="without_reboot_api">Рестартирането не е възможно, тъй като липсва API. Рестартирайте, за да възстановите ръчно активната актуализация.</string>
+    <string name="update_complete">Актуализацията на системата е завършена.</string>
+    <string name="update_complete_short">Актуализирането е завършено</string>
+    <string name="file_removed">Изтегленият файл е премахнат. Повторете изтеглянето.</string>
+    <string name="file_removed_short">Изтегленият файл е премахнат.</string>
+    <string name="file_not_match">Изтегленият файл не съответства на очаквания размер. Повторете изтеглянето.</string>
+    <string name="file_not_match_short">Файлът не съответства.</string>
+    <string name="menu_url">Смяна на URL адреса на сървъра</string>
+    <string name="menu_enabled">Активиран е само софтуерът</string>
+    <string name="using_internal_storage">Използване на вътрешно хранилище</string>
+    <string name="using_external_storage">Използване на външно хранилище</string>
+    <string name="msg_agree_message">"
+
+Съществува малка вероятност от изтриване на потребителски данни, дължащо се на процеса на надстройване. Ако е необходимо, направете резервно копие на данните си, преди да инсталирате надстройката на системата."</string>
+    <string name="msg_root_message">"
+
+Не може да се гарантира нормално актуализиране, след като устройството е рутирано."</string>
+    <string name="msg_responsibility_message">Ако устройството е рутирано, отговорност за всяко ненормално поведение на системата след актуализиране носи потребителят.</string>
+    <string name="msg_upgrade_agree">Прочетете и приемете</string>
+    <string name="update_summary">Проверка за актуализация</string>
+    <string name="wlan_only">Само WLAN</string>
+    <string name="wifi_only_summary">Изтегляне на актуализациите, когато има достъпен Wi-Fi</string>
+    <string name="wlan_only_summary">Изтегляне на актуализациите, когато има достъпна WLAN</string>
+    <string name="auto_update">Автоматично актуализиране</string>
+    <string name="auto_update_summary">Автоматична проверка за актуализации</string>
+    <string name="new_data_fee_warning">Проверките за актуализации и изтеглянето им може да бъдат таксувани допълнително. Изтегляйте актуализациите чрез Wi-Fi, ако е възможно.</string>
+    <string name="wlan_data_fee_warning">Проверките за актуализации и изтеглянето им може да бъдат таксувани допълнително. Изтегляйте актуализациите чрез WLAN, ако е възможно.</string>
+    <string name="install_fail">Неуспешно инсталиране</string>
+    <string name="install_all">Инсталиране на всички</string>
+    <string name="installed_version">Инсталирана версия</string>
+    <string name="update_available">Актуализацията е налице.</string>
+    <string name="apk_update_available">Налице е актуализация на приложението.</string>
+    <string name="recommend">Препоръка</string>
+    <string name="roaming_restriction">Ограничение на роуминга на данни</string>
+    <string name="roaming_restriction_summary">Актуализирането не е възможно поради ограничение на роуминга на данни.</string>
+    <string name="changelog">Промяна на дневника</string>
+    <string name="apk_update_available_summary">%s има налична актуализация. Кликнете върху OK, за да я инсталирате веднага, или върху \"Отказ\", за да проверите за актуализация след един ден.</string>
+    <string name="apk_removed">Приложението е премахнато.</string>
+    <string name="apk_available_items">Общо %s налични елемента</string>
+    <string name="apk_available_item">Общо %s наличен елемент</string>
+    <string name="invalid_update_summary">Актуализацията е невалидна. Опитайте отново.</string>
+    <string name="recheck">Повторна проверка</string>
+    <string name="image_download_exception_summary">Няма достъп до сървъра. Опитайте отново по-късно.</string>
+    <string name="apk_download_exception">Няма достъп до сървъра</string>
+    <string name="installation_confirmation">Потвърждение на инсталирането</string>
+    <string name="apk_need_reboot_summary">Актуализацията на софтуера ще рестартира автоматично системата, след като инсталирането приключи. Искате ли да инсталирате сега?</string>
+    <string name="prepare_to_reboot">Подготовка за рестартиране</string>
+    <string name="prepare_to_reboot_summary">Инсталираният софтуер трябва да рестартира устройството, за да се конфигурират настройките. Добре е да рестартирате сега, но можете да го направите и по-късно.</string>
+    <string name="prepare_to_reboot_force_summary">Инсталираният софтуер трябва да рестартира устройството, за да се конфигурират настройките. Добре е да рестартирате сега.</string>
+    <string name="reboot_fail">Рестартирането не бе успешно.</string>
+    <string name="reboot_fail_summary">Рестартирането не е възможно, тъй като липсва API. Рестартирайте ръчно.</string>
+    <string name="apk_no_avaliable_size">Изтеглянето не е възможно поради недостатъчен размер на вътрешното хранилище.</string>
+    <string name="update_finished">Актуализирането приключи</string>
+    <string name="msg_root_warning">Устройството ви е рутирано или в официалния софтуер са внасяни изменения. Продължаването с актуализацията на системата може да предизвика нестабилност или срив на системата или да анулира гаранцията на устройството Ви. Наистина ли искате да продължите?</string>
+    <string name="multi_image_update">Налице са някои актуализации на изображения</string>
+    <string name="available_update_list">Списък с налични актуализации</string>
+    <string name="downloading_summary">Откажете изтеглянето на изображението</string>
+    <string name="msg_erase_userdata_warning">Тази актуализация изисква изтриване на потребителски данни. Искате ли да продължите?</string>
+    <string name="msg_autoupdate_date_fee_warning">Активирането на автоматичното актуализиране може да бъде таксувано допълнително.</string>
+    <string name="invalid_update">Актуализацията е невалидна.</string>
+    <string name="file_corrupted">Системата не може да бъде надстроена, тъй като файлът е повреден.</string>
+    <string name="ask_for_apk_check">Искате ли да проверите за актуализации на приложението?</string>
+    <string name="update_ota_self">Извършва се актуализиране на софтуера.</string>
+    <string name="ab_update_fail">Има проблем с инсталирането.</string>
+    <string name="ab_update_wrong_status">Ядрото за актуализация е заето. Опитайте по-късно или рестартирайте.</string>
+    <string name="ab_update_installing">Актуализиране на системата</string>
+    <string name="tag_engineer_mode">Инженерен режим</string>
+    <string name="engineer_version_incorrect">Версията на устройството Ви е неправилна</string>
+    <string name="msg_engineer_ota_restore">Докоснете, за да възстановите официалната версия</string>
+    <string name="msg_engineer_ota_restore_warning">Това ще възстанови официалната версия. Искате ли да продължите?</string>
+    <string name="silent_mode_data_fee_warning">Актуализацията е налице. Изтеглянето на актуализации може да бъде таксувано допълнително. Изтегляйте актуализациите чрез Wi-Fi, ако е възможно.</string>
+    <string name="msg_updating_system">Актуализиране на системата...</string>
+    <string name="msg_tap_to_reboot">Докоснете, за да рестартирате</string>
+    <string name="msg_pause_download">Поставяне на пауза на изтеглянето</string>
+    <string name="notification_channel_name">Актуализация на системата</string>
+    <string name="notification_channel_alert_name">Общи известия</string>
+</resources>

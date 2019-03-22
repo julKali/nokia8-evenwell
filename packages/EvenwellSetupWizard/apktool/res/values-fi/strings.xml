@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisää</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
+    <string name="abc_capital_on">KÄYTÖSSÄ</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakulauseke</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
+    <string name="abc_toolbar_collapse_description">Kutista</string>
+    <string name="accessibility_text">Esteettömyys</string>
+    <string name="account_intro_description">Älykkäämpi tapa käyttää laitetta – [BRAND_NAME] Services.</string>
+    <string name="account_intro_title">[BRAND_NAME] Services ‑tili</string>
+    <string name="add_baidu_button_label">百度云-sisäänkirjaus</string>
+    <string name="add_infocus_service_account">Lisää [BRAND_NAME] Services ‑tili</string>
+    <string name="back_btn_lebel">TAKAISIN</string>
+    <string name="backup_and_restore_description">"Jos tili on varmuuskopioitu aiemmin, voit nyt palauttaa sen puhelimeen.
+
+Voit koska tahansa muuttaa varmuuskopioasetuksia asetuksissa."</string>
+    <string name="backup_and_restore_title">Varmuuskopiointi ja palautus</string>
+    <string name="baidu_intro_description">Nauti sujuvasta pilvitallennuksen ja 百度云:n integroinnista muutaman helpon vaiheen avulla.</string>
+    <string name="baidu_intro_title">Baidu-pilvitallennus</string>
+    <string name="baidu_progress_dialog_des">Odota hetki...</string>
+    <string name="choose_timezone">Valitse aikavyöhyke</string>
+    <string name="datausage_dialog_negitive_btn">Peruuta</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Päivämäärä- ja aika-asetukset</string>
+    <string name="date_and_time_settings_summary">Aseta päivämäärä, aika, aikavyöhyke ja muodot</string>
+    <string name="date_and_time_settings_title">Päivämäärä ja aika</string>
+    <string name="date_and_time_settings_title_setup_wizard">Aseta päivämäärä ja aika</string>
+    <string name="date_picker_title">Päivämäärä:</string>
+    <string name="date_time_24hour">Käytä 24-tuntista kelloa</string>
+    <string name="date_time_auto">Automaattinen päivä ja aika</string>
+    <string name="date_time_auto_summaryOff">Käytä verkon määrittämää aikaa</string>
+    <string name="date_time_auto_summaryOn">Käytä verkon määrittämää aikaa</string>
+    <string name="date_time_date_format">Valitse päivämäärän muoto</string>
+    <string name="date_time_set_date">Aseta päivämäärä</string>
+    <string name="date_time_set_time">Aseta aika</string>
+    <string name="date_time_set_timezone">Valitse aikavyöhyke</string>
+    <string name="device_checking_message">Tervetuloa</string>
+    <string name="dropbox_fih_description">Ilmainen 2 Gt:n Dropbox-tila valokuvien ja videoiden autom. tallennukseen.</string>
+    <string name="dropbox_fih_signin">Kirjaudu Dropboxiin</string>
+    <string name="dropbox_fih_signup">Rekisteröidy Dropboxiin</string>
+    <string name="emergency_dial_hmd_message">Hätäpuhelu</string>
+    <string name="emergency_dial_message">Hätäpuhelu</string>
+    <string name="expand_button_title">Lisätiedot</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY]-ohjelmiston käyttöehdot
+ 
+ Voimassa alkaen: 20.5.2016
+ 
+ Seuraavat käyttöehdot (jäljempänä \" Ehdot \") muodostavat [BRAND_NAME_PROXY]-ohjelmiston käyttösopimuksen käyttäjän ja [BRAND_NAME_PROXY] Inc.:n sekä sen edustajan, Commtiva Technology Ltd.:n (yhteisesti \"[BRAND_NAME_PROXY]\") välillä. Sopimus kattaa [BRAND_NAME_PROXY]-ohjelmiston käytön, mukaan lukien muun muassa sen lataaminen, asennus ja automaattinen uudistaminen (jäljempänä \" Ohjelmistopalvelu \"). Käyttämällä [BRAND_NAME_PROXY]-ohjelmistoa hyväksyt nämä Ehdot. Jos et hyväksy Ehtoja, älä lataa, kopioi, käytä tai säilytä [BRAND_NAME_PROXY]-ohjelmistoa.
+ 
+ 1. Käyttöehdot
+ Sikäli kun Ehtoja noudatetaan, [BRAND_NAME_PROXY] myöntää käyttäjälle henkilökohtaisen, ei-yksinomaisen, siirtokelvottoman, peruutettavissa olevan ja rajoitetun [BRAND_NAME_PROXY]-ohjelmistopalvelujen käyttöoikeuden. [BRAND_NAME_PROXY] asentaa objektikoodin [BRAND_NAME_PROXY]-mobiililaitteeseen (jäljempänä \" [BRAND_NAME_PROXY]-laite \") internetin kautta. Käyttäjä hyväksyy, ettei [BRAND_NAME_PROXY]-laitteeseen asennettua [BRAND_NAME_PROXY]-ohjelmistoa saa käyttää kaupallisesti eikä siirtää kolmannelle osapuolelle.
+ [BRAND_NAME_PROXY]-ohjelmistoa ei myöskään saa käyttää millään seuraavista tavoista:
+ (a) [BRAND_NAME_PROXY]-ohjelmiston (tai sen alla olevan tekniikan) kräkkäys tai [BRAND_NAME_PROXY]-ohjelmiston käyttö laitteessa, jota [BRAND_NAME_PROXY] ei ole hyväksynyt;
+ (b) [BRAND_NAME_PROXY]-ohjelmiston analysointi, takaisinkääntäminen, kopiointi, muokkaus tai koodin avaaminen, rakenteen selvittäminen tai soveltaminen missään tarkoituksessa;
+ (c) Toimet, joihin sisältyy muun muassa [BRAND_NAME_PROXY]-ohjelmiston Ehtojen vastainen siirto, vuokraus, lainaus tai alilisensointi sekä [BRAND_NAME_PROXY]-ohjelmiston julkaisu tai luovutus kolmannen osapuolen käyttöön tai hallintaan;
+ (d) Valmistajan merkinnän, logon tai tavaramerkin poistaminen [BRAND_NAME_PROXY]-ohjelmistosta tai sen dokumenteista ilman [BRAND_NAME_PROXY]-yhtiön kirjallista ennakkolupaa;
+ (e) [BRAND_NAME_PROXY]-ohjelmiston käyttö voimassa olevan lain vastaisesti tai toisen osapuolen oikeuksia loukaten;
+ (f) [BRAND_NAME_PROXY]-ohjelmiston käyttö kielto- tai rajoitusalueella, muun muassa lentokoneissa, huoltoasemilla ja ydinvoimaloissa; tai
+ (g) [BRAND_NAME_PROXY]-ohjelmiston käyttö Ehtojen vastaisesti.
+ 
+ [BRAND_NAME_PROXY]-laitteen ja [BRAND_NAME_PROXY]-ohjelmiston asianmukaisen toiminnan varmistamiseksi käyttäjä sitoutuu olemaan poistamatta tai siirtämättä [BRAND_NAME_PROXY]-laitteen merkintätarroja ilman [BRAND_NAME_PROXY]-henkilöstön apua. Nämä luvattomat toimet vaikuttavat [BRAND_NAME_PROXY]-yhtiön tarjoaman takuun kattavuuteen ja voimassaoloon.
+ 
+ 2. Tietosuojakäytäntö
+ Käyttäjä hyväksyy, että [BRAND_NAME_PROXY] voi kerätä ja säilyttää haluamiaan tietoja, mukaan lukien [BRAND_NAME_PROXY]-laitteen malli, sarjanumero, IMEI/MEID-koodi, laite- ja ohjelmistoversio, kumulatiivinen aika, SKU-tunnus, oletusstatiikka ja käyttöjärjestelmän versio (jäljempänä \" Tiedot \"). 
+ Jos [BRAND_NAME_PROXY] joutuu luovuttamaan Tietoja valtion virastolle tai oikeuslaitokselle, [BRAND_NAME_PROXY] luovuttaa pyydetyt tiedot.
+ 
+ [BRAND_NAME_PROXY]-laite ilmoittaa [BRAND_NAME_PROXY]-yhtiölle, jos [BRAND_NAME_PROXY]-laitetta ei ole liitetty matkapuhelinverkkoon 14 päivän kuluessa ostopäivästä.
+ 
+ Lisätietoja on [BRAND_NAME_PROXY]-tietosuojakäytännössä.
+ 
+ 3. Tukipalvelu
+ [BRAND_NAME_PROXY] tarjoaa ohjelmistopalveluja, muun muassa päivityksiä, [BRAND_NAME_PROXY]-ohjelmistoon sen voimassa olevan tilan mukaisesti, jonka [BRAND_NAME_PROXY]-laite ilmoittaa [BRAND_NAME_PROXY]-yhtiölle.
+ [BRAND_NAME_PROXY] tarjoaa [BRAND_NAME_PROXY]-ohjelmistoon päivityksiä, korjauksia tai lisäelementtejä [BRAND_NAME_PROXY]-ohjelmiston internet-käytön perusteella. Ehdot koskevat myös näitä osia.
+ 
+ [BRAND_NAME_PROXY] pidättää oikeuden purkaa käyttäjän oikeus hankkia [BRAND_NAME_PROXY]-palveluja internetissä tai käyttää [BRAND_NAME_PROXY]-ohjelmistoa ja ‑palveluja.
+ [BRAND_NAME_PROXY] julkaisee [BRAND_NAME_PROXY]-ohjelmistosta uusia versioita ja edellyttää, että käytät uusinta käyttöjärjestelmän versiota.
+ 
+ 4. Automaattinen päivitys
+ Jotta [BRAND_NAME_PROXY]-laitteesi toimisi mahdollisimman hyvin, se on asetettu lataamaan automaattisesti uusimmat [BRAND_NAME_PROXY]-laiteohjelmistot ja ‑ohjelmistot 
+ 
+ [BRAND_NAME_PROXY]-laitteen turvallisuuden ja toimivuuden varmistamiseksi käyttäjä sitoutuu määrittämään tarvittavat asetukset ja noudattamaan [BRAND_NAME_PROXY]-yhtiön antamia ohjeita. Sallimalla uuden laiteohjelmiston tai ohjelmiston latauksen käyttäjä hyväksyy tämän uudistamisen ja asennuksen.
+ 
+ Asiakirjojen, kuvien, tekstien, ääni- ja videotiedostojen ja muiden sähköisten tietojen häviämisen estämiseksi [BRAND_NAME_PROXY]-laitteen päivityksen yhteydessä käyttäjä vastaa siitä, että kaikki edellä mainitut sähköiset tiedot varmuuskopioidaan [BRAND_NAME_PROXY]-laitteesta ennen laiteohjelmiston tai ohjelmiston uuden version latausta.
+ 
+ Kun [BRAND_NAME_PROXY]-laite päivittyy automaattisesti tai käyttäjän vahvistuksen jälkeen, käyttäjä hyväksyy seuraavat:
+ (a) Ohjelmistopäivitys:
+ Käyttäjä hyväksyy, että [BRAND_NAME_PROXY] voi muodostaa internetyhteyden [BRAND_NAME_PROXY]-laitteesta ohjelmistoversion tarkistamiseksi ja tilan päivittämiseksi. Jos [BRAND_NAME_PROXY] näyttää päivitysviestin, [BRAND_NAME_PROXY] sallii [BRAND_NAME_PROXY]-ohjelmistoversion ja tilan päivityksen [BRAND_NAME_PROXY]-palvelusta.
+ Kun uusi [BRAND_NAME_PROXY]-ohjelmisto on saatavilla, käyttäjä sallii, että [BRAND_NAME_PROXY] lähettää päivityksestä ilmoituksen. Vahvistamalla saatavilla olevan uuden päivityksen käyttäjä sallii, että [BRAND_NAME_PROXY] päivittää automaattisesti [BRAND_NAME_PROXY]-laitteen.
+ (b) Sisällön synkronointi ja päivitys:
+ Kun [BRAND_NAME_PROXY]-laite on yhdistetty tietokoneeseen tai muuhun laitteeseen, [BRAND_NAME_PROXY]-laite päivittää automaattisesti liittyvän sisällön ja muut tiedot (esim. yhteystiedot, kalenterin, kirjanmerkit ja tiedostot.)
+ 
+ 5. Kaikkien [BRAND_NAME_PROXY]-ohjelmiston omistus- ym. oikeuksien pidättäminen
+ [BRAND_NAME_PROXY]-ohjelmiston ja ‑palvelujen käyttölisenssistä huolimatta [BRAND_NAME_PROXY], sen tytäryhtiö ja toimittajat omistavat kaikki [BRAND_NAME_PROXY]-ohjelmiston oikeudet, muun muassa omistus- ja tekijänoikeudet sekä muut immateriaalioikeudet.
+ 
+ Kaikkia [BRAND_NAME_PROXY]-ohjelmiston oikeuksia suojaavat paikalliset lait ja kansainväliset sopimukset.
+ 
+ 6. Vastuunrajoitus
+ [BRAND_NAME_PROXY] ei tee lupauksia tai anna mitään suoraa tai epäsuoraa takuuta esimerkiksi soveltumisesta kaupankäynnin kohteeksi, hyväksyttävästä laadusta, sopivuudesta tiettyyn tarkoitukseen tai sopimuksien mukaisuudesta. 
+ [BRAND_NAME_PROXY] ei takaa:
+ (a) Minkään [BRAND_NAME_PROXY]-palvelun tarkkuutta tai luotettavuutta; tai
+ (b) [BRAND_NAME_PROXY]-palvelun keskeytyksetöntä, oikea-aikaista ja turvallista toimintaa; tai
+ (c) Ohjelmiston mahdollisten puutteiden tai virheiden välitöntä korjausta.
+ 
+ [BRAND_NAME_PROXY] ei ota vastuuta mistään virusten tai muiden [BRAND_NAME_PROXY]-laitteen toimintaa, ohjelmia, tietoja tai muuta sisältöä vahingoittavien teknisesti haitallisten materiaalien aiheuttamista vahingoista tai menetyksistä, jotka liittyvät [BRAND_NAME_PROXY]-palvelujen käyttöön. Kaiken käyttäjän lataaman tai [BRAND_NAME_PROXY]-yhtiön kautta saaman sisällön ja muun materiaalin käyttö tapahtuu käyttäjän omalla riskillä, ja käyttäjä on yksi vastuussa mahdollisista [BRAND_NAME_PROXY]-laitteelle aiheutuvista vahingoista tai tietojen tai sisällön menetyksestä, joka johtuu jonkin ohjelmiston lataamisesta.
+ 
+ 7. Vastuunrajoitus ja ainoa oikeuskeino
+ [BRAND_NAME_PROXY] ei vastaa mistään satunnaisista, välillisistä tai rangaistusluonteisista tai liikevoiton tai luottamuksellisen tai muun tiedon menetyksestä, liiketoiminnan keskeytymisestä, henkilö- tai omaisuusvahingosta, yksityisyydensuojan menetyksestä, sovitun velvollisuuden täyttämättä jättämisestä, kohtuullisen ylläpidon puutteesta tai huolimattomuudesta aiheutuvista vahingoista.
+ Ellei pakottavasta lainsäädännöstä muuta johdu, [BRAND_NAME_PROXY]-yhtiön ainoa velvoite ja käyttäjän ainoa oikeuskeino kaikista vaatimuksiin liittyvistä vaurioista, henkilö- ja omaisuusvahingoista ja tappioista tai Ehtoihin liittyvistä oikeusjutuista todellisten vahinkojen korvaamiseksi rajoittuu Ehtojen mukaan kymmeneen Yhdysvaltain dollariin (10 USD). 
+ 
+ Useat Ehtoihin liittyvät vaatimukset tai oikeusjutut eivät kumoa vastuunrajoitusta, ja ellei pakottavasta lainsäädännöstä muuta johdu, tämä on käyttäjän ainoa oikeuskeino.
+ 
+ Jos tuomiovaltainen oikeusistuin katsoo edellä mainitun vastuunrajoituksen kannekelvottomaksi, rajoitus ei ole siltä osin voimassa ja sanat rajoittuu kymmeneen dollariin korvataan sanoilla \"rajoittuu sen tuotteen ostohintaan, jota vastuu koskee.\"
+ 
+ Ehtoihin liittyvä vaatimus tai oikeusjuttu on kirjattava yhden vuoden sisällä vaatimuksen perusteen ilmenemisestä. 
+ 8. Hyvitys 
+ Käyttäjä sitoutuu puolustamaan ja hyvittämään [BRAND_NAME_PROXY]-yhtiötä, sen osakkaita, johtajia, toimihenkilöitä, sidosryhmiä, työntekijöitä ja tytäryhtiöitä sekä olemaan pitämättä niitä vastuussa mistään vaatimuksista, vahingoista, sitoumuksista, väitteistä tai kuluista (mukaan lukien asianajajan palkkiot), jotka jokin kolmas osapuoli esittää [BRAND_NAME_PROXY]-yhtiötä vastaan tai jotka johtuvat käyttäjän [BRAND_NAME_PROXY]-palvelujen käyttöön liittyvästä kolmannen osapuolen oikeuksien loukkauksesta.
+ 
+ 9. Palvelun lopettaminen
+ Jos käyttäjä rikkoo Ehtoja, hänellä ei ole laillista oikeutta käyttää [BRAND_NAME_PROXY]-palveluja. Tällöin hänen tulee tuhota ja poistaa kaikki [BRAND_NAME_PROXY]-ohjelmiston kopiot. Tämä vaikuttaa myös käyttäjän omistaman [BRAND_NAME_PROXY]-laitteen takuuseen.
+ Edellä kuvatun oikeuksien loukkauksen yhteydessä käyttäjä hyväksyy [BRAND_NAME_PROXY]-yhtiön oikeuden seuraaviin toimiin,
+ (a) Käyttäjän [BRAND_NAME_PROXY]-tilin käyttöoikeuden välitön lopettaminen; ja/tai
+ (b) [BRAND_NAME_PROXY] Service ‑tilin käytön estäminen jatkossa
+ 
+ Lisäksi käyttäjä hyväksyy, että Ehtojen rikkominen aiheuttaa [BRAND_NAME_PROXY]-yhtiölle peruuttamatonta vahinkoa, jota ei voi korvata rahallisesti, ja myöntyy [BRAND_NAME_PROXY]-yhtiön kohtuullisiin korvausvaatimuksiin, jotka [BRAND_NAME_PROXY] katsoo olosuhteiden mukaan tarpeellisiksi. Näiden oikeuskeinojen lisäksi [BRAND_NAME_PROXY] voi käyttää muita laillisia ja oikeudenmukaisia oikeuskeinoja.
+ 
+ 10. Noudatettava laki ja tuomiovalta
+ Käyttäjä hyväksyy, että kaikki Ehtoihin liittyvät kiistat käsitellään Kiinan kansantasavallan lakien mukaan ottamatta huomioon ehtojen ja lain säännösten ristiriitoja. 
+ 
+ Käyttäjä hyväksyy Taiwanin Taipein alueen oikeusistuimen toimivallan, ja luopuu oikeusistuinta tai oikeuspaikkaa koskevista vastalauseista.
+ 
+ Jos kiista ei ratkea käyttäjän ja [BRAND_NAME_PROXY]-yhtiön keskinäisellä sopimuksella, käyttäjä tai [BRAND_NAME_PROXY] voi hakea välimiesmenettelyä. Jos kiista ei ratkea välimiesmenettelyllä 30 kalenteripäivässä, se viedään yllä mainittuun alueelliseen oikeusistuimeen.
+ 
+ 11. Yleinen sopimusehto
+ Ehtojen otsikot ovat vain helpottamassa käyttöä.
+ Vaikka [BRAND_NAME_PROXY] ei ryhtyisi toimiin oikeuksien loukkauksen vuoksi, se ei tarkoita oikeuksista luopumista kyseisen rikkomuksen tai myöhempien tai muiden vastaavien rikkomusten osalta.
+ 
+ Jos tuomiovaltainen oikeusistuin katsoo jonkin näiden Ehtojen osan laittomaksi tai kannekelvottomaksi, kyseinen säännös korvataan laillisella, täytäntöönpanokelpoisella säännöksellä, joka mahdollisimman tarkasti vastaa alkuperäisen säännöksen tarkoitusta, ja muut Ehdot pysyvät voimassa. 
+ 
+ Käyttäjä ei voi siirtää Ehtoja tai siirtää tai alilisensoida Ehtojen mukaisia käyttäjän oikeuksia.
+ 
+ [BRAND_NAME_PROXY] voi siirtää nämä Ehdot kokonaan tai osittain koska tahansa ilman ilmoitusta. 
+ 
+ Näm Ehdot korvaavat kaiken aiemman tai samanaikaisen [BRAND_NAME_PROXY]-yhtiön ja käyttäjän välisen sivustoa koskevan tiedonvaihdon.
+ 
+ 12. Koko sopimus
+ Ehdot ja uudistamisliitteet muodostavat koko käyttäjän ja [BRAND_NAME_PROXY]-yhtiön välisen [BRAND_NAME_PROXY]-palveluja koskevan sopimuksen.
+ 
+ 13. Ehtojen muokkaus
+ [BRAND_NAME_PROXY] voi ajoittain päivittää, muuttaa tai poistaa Ehtojen sisältöä harkintansa mukaan.
+ 
+ Käyttäjän tulee tarkistaa [BRAND_NAME_PROXY]-sivustossa julkaistut ehdot, jotka voivat poiketa alkuperäisistä ehdoista.
+ 
+ Käyttämällä uudistettua ohjelmistoa ja [BRAND_NAME_PROXY]-laitetta käyttäjä hyväksyy muutokset.
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] juridiset tiedot</string>
+    <string name="finish_button_label">LOPPU</string>
+    <string name="google_account_add_account">Kirjaudu Google-tiliin</string>
+    <string name="google_account_intro_description">Määritä Google-tili saadaksesi kaikki Google-palvelut.</string>
+    <string name="google_account_intro_title">Google-tili</string>
+    <string name="hmd_legal_message">"Palveluehdot 
+ 
+Voimaantulopäivä 14.10.2016 
+ 
+1. Ehtojen hyväksyminen 
+Nämä HMD Globalin palveluehdot yhdessä Tietosuojaselosteen ja muiden Palveluun sisältyvien ehtojen ja tietojen kanssa (yhdessä ”Ehdot”) sääntelevät palvelun, sivuston, sisällön ja ohjelmiston (yhdessä ”Palvelu”) käyttöäsi. Rekisteröitymällä tai käyttämällä Palvelua tai mitä tahansa sen osaa hyväksyt Ehdot. 
+ 
+Ehdot muodostavat sopimuksen sinun ja HMD Global Oy:n, Bertel Jungin aukio 9, 02610 Espoo, Suomi, välillä, mukaan lukien sen tytäryhtiöt ja toimittajat (yhdessä “HMD Global“), ja määrittelevät sinun ja HMD Globalin oikeudet ja velvollisuudet Palvelun osalta. 
+ 
+2. Kelpoisuus palvelun käyttöön 
+Käyttääksesi Palvelua sinun on oltava vähintään 13-vuotias. Jos olet alle 13-vuotias tai vähintään 13-vuotias, mutta asuinmaassasi vajaavaltainen, tulee vanhempasi tai laillisen holhoojasi hyväksyä Palveluun rekisteröitymisesi puolestasi ja hyväksyä, että käytät Palvelua. Rekisteröinnin tekijän on oltava oikeustoimikelpoinen. 
+ 
+3. Rekisteröityminen ja rekisteröinnin lopettaminen 
+Käyttääksesi Palvelua saatat joutua rekisteröitymään ja luomaan HMD-tilin, käyttäjätunnuksen ja salasanan, ja siihen voidaan soveltaa erillisiä ehtoja. Sinun saattaa olla tarpeen luovuttaa HMD Globalille tiettyjä henkilötietoja ja muita tietoja. HMD Global saattaa varmentaa sähköpostiosoitteesi, ennen kuin HMD-tiliä voidaan käyttää. Laitteen ensimmäisellä käyttökerralla ja joka kerta kun teet Nokian-laitteeseesi ohjelmistopäivityksen, HMD Globalille lähetetään tekstiviesti. HMD-tilin luominen edellyttää tiedonsiirtoa verkossa. Tiedonsiirtomaksuja saatetaan veloittaa. 
+ 
+Sitoudut antamaan todenmukaiset ja täydelliset tiedot rekisteröityessäsi Palveluun ja pitämään kyseiset tiedot ajan tasalla. Sinun tulee noudattaa huolellisuutta käyttäjätunnuksen ja salasanan säilyttämisessä, jotta muut henkilöt eivät voi väärinkäyttää tietojasi, ja ilmoittaa viipymättä HMD Globalille kaikista väärinkäytöksistä. Sinä olet, ja jos olet alaikäinen, vanhempasi tai laillinen holhoojasi on, henkilökohtaisesti vastuussa Palvelun käytöstä. 
+ 
+Voit lopettaa rekisteröitymisesi, jos et enää halua käyttää Palvelua. Rekisteröinnin lopettamisen jälkeen sinulla ei enää ole pääsyä Palveluun. HMD Global voi päättää rekisteröitymisesi tai rajoittaa pääsyäsi joihinkin Palvelun osiin, jos HMD Global olettaa todennäköisin syin, että olet rikkonut Ehtoja. HMD Global voi myös ennakkoon antamansa ilmoituksen jälkeen päättää rekisteröitymisesi, jos et ole kirjautunut käyttäjätunnuksellasi Palveluun viimeisen kuuden (6) kuukauden aikana. 
+ 
+Lukuun ottamatta Tietosuojaselosteessa esitettyä, HMD Global ei ole vastuussa siitä, että Palveluun toimittamaasi tietoa tai sisältöä poistetaan tai häviää Palvelusta. Senkin jälkeen kun aineistoa tai tietoa on poistettu Palvelusta joko sinun toimestasi tai HMD Globalin toimesta, muualle voi jäädä jälkiä tai kopioita. 
+ 
+4. Käyttöoikeudet 
+HMD Global myöntää sinulle ei-yksinomaisen, siirtokelvottoman, HMD Globalin yksinomaisen harkinnan mukaan milloin tahansa peruutettavissa olevan käyttöoikeuden päästä Palveluun ja käyttää Palvelua Ehtojen mukaisesti. Palvelun käyttö ei anna sinulle immateriaalioikeuksia mihinkään tietoon tai sisältöön Palvelussa. 
+ 
+Palvelun osana HMD Global voi tarjota sinulle HMD Globalin tai sen lisenssinantajien kehittämää sisältöä (”Sisältö”). HMD Global myöntää sinulle ei-yksinomaisen, ainaisen käyttöoikeuden Sisällön käyttöön määrättyyn tarkoitukseen, ellei sovellettavissa Ehdoissa tai ostotilauksessa ole toisin mainittu. Jokin Sisältö saattaa olla vain määrättyjen maantieteellisten alueiden asukkaiden saatavilla. Palvelun kautta hankkimaasi Sisältöön sovellettavat rajoitukset sitovat sinua. Mikä tahansa kolmannen osapuolen Sisältöön hankittu käyttöoikeus on sitova sopimus sinun ja Sisältöä tarjoavan kolmannen osapuolen välillä. Sinulla on Sisältöön vain ne oikeudet, jotka näissä Ehdoissa nimenomaisesti myönnetään. 
+ 
+HMD Global voi tarjota sinulle tietyn HMD Globalin tai sen lisenssinantajien kehittämän ohjelmiston (”Ohjelmisto”) osana Palvelua. Ohjelmiston käyttöön sovelletaan mahdollisesti erillisiä ehtoja, jotka sinun tulee hyväksyä ennen Ohjelmiston käyttöä. Jos Ohjelmistoon sovellettavia erillisiä ehtoja ei ole, sovelletaan seuraavia ehtoja: HMD Global myöntää sinulle rajoitetun, ei-yksinomaisen, siirtokelvottoman oikeuden asentaa Ohjelmisto ja käyttää Ohjelmistoa tietokoneellasi ja/tai mobiililaitteellasi. Sinulla ei ole oikeutta kopioida Ohjelmistoa, lukuun ottamatta yhtä arkistoitavaa varmuuskopiota. Sinulla ei ole oikeutta levittää, siirtää käyttöoikeutta, muokata, kääntää, toisintaa, jälleenmyydä, myöntää alilisenssiä, vuokrata, liisata, käänteisohjelmoida tai muutoin yrittää selvittää Ohjelmiston lähdekoodia tai tehdä Ohjelmistosta johdannaisteoksia. Avoimen lähdekoodin (Open Source) lisenssillä lisensoituihin ohjelmistoihin sovelletaan niitä koskevia lisenssiehtoja. Käyttämällä Ohjelmistoa hyväksyt kaikki sitä koskevat ehdot. 
+ 
+Ohjelmisto saattaa olla Yhdysvaltojen vientivalvontasäännösten mukaisen vientivalvonnan ja muiden tuonti- tai vientivalvontaa koskevien säännösten kohteena. Sitoudut noudattamaan tarkoin kaikkia soveltuvia tuonti- ja vientisäännöksiä ja hyväksyt, että vastuullasi on hankkia luvat, joita tarvitset tällaisen Ohjelmiston vientiin, jälleenvientiin, siirtoon tai maahantuontiin. 
+ 
+Saatat pystyä lisäämään tietoa tai sisältöä (”Aineisto”) Palveluun. HMD Global ei vaadi omistusoikeutta Aineistoosi. Aineiston lisääminen ei siirrä Aineiston omistusoikeutta HMD Globalille. HMD Global ainoastaan välittää Aineiston ilman mitään toimituksellista vastuuta. Lisäämällä Aineistoa Palveluun myönnät HMD Globalille maailmanlaajuisen, ei-yksinomaisen, alilisenssikelpoisen, siirtokelpoisen, täysin maksetun, rojaltittoman, ainaisen ja peruuttamattoman oikeuden käyttää, kopioida, julkisesti esittää ja näyttää Aineistoa, jaella Aineistoa missä tahansa viestimessä, muokata Aineistoa yhdistääkseen sitä muuhun aineistoon ja oikeuden myöntää vastaavat alilisenssit siinä määrin kuin se on HMD Globalille tarpeellista Palvelun tarjoamiseksi. Saatat voida muokata näitä oikeuksia Palvelun yksityisyysasetuksissa ja muissa asetuksissa. 
+ 
+Olet yksin vastuussa Palveluun tallentamasi tietoaineiston varmuuskopioiden ottamisesta, mukaan lukien siirtämästäsi Sisällöstä. Jos Palvelu lakkautetaan tai puretaan, HMD Global voi lopullisesti poistaa tietoaineistosi. HMD Globalilla ei ole velvollisuutta palauttaa tietoaineistoasi sinulle Palvelun lakattua tai tultua puretuksi. 
+ 
+5. Palvelun käyttäminen 
+Sitoudut: 
+• Noudattamaan sovellettavaa lainsäädäntöä, Ehtoja ja hyviä tapoja; 
+• Käyttämään Palvelua ainoastaan henkilökohtaisiin, ei kaupallisiin tarkoituksiin; 
+• Olemaan toimittamatta Palveluun laitonta, loukkaavaa, virheellistä, harhaanjohtavaa, herjaavaa, pornografista, häiritsevää, kunniaa loukkaavaa tai muutoin sopimatonta Aineistoa; 
+• Hankkimaan kaikki tarvittavat suostumukset, luvat ja käyttöoikeudet, jotka tarvitaan laillisesti Aineiston toimittamiseksi Palveluun; 
+• Kunnioittamaan muiden yksityisyyttä; 
+• Olemaan levittämättä tai julkaisematta roskapostia, kohtuuttoman suuria tiedostoja, ketjukirjeitä, pyramidisuunnitelmia tai viruksia; 
+• Olemaan käyttämättä muita tekniikoita tai käynnistämättä toimia, jotka voivat vahingoittaa Palvelua tai Palvelun käyttäjien etuja tai omaisuutta; 
+• Olemaan käyttämättä mitään automatisoituja järjestelmiä tai keinoja päästä, hankkia, kopioida tai seurata mitään palvelun osaa; ja 
+• Vastaamaan julkaisemaasi Aineistoon liittyvistä seurauksista. 
+ 
+HMD Global voi, mutta sillä ei ole velvollisuutta: 
+• Valvoa tai tarkistaa mitä tahansa Sisältöä tai Aineistoa; 
+• Poistaa mitä tahansa Aineistoa Palvelusta; ja 
+• Milloin tahansa harkintansa mukaan rajoittaa pääsyä mihin tahansa Palvelun osaan. 
+ 
+6. Sisältö 
+Ennen minkään Sisällön lataamista tai sen käyttöä, ole hyvä ja tarkista ettei pääsyä Sisältöön ole rajoitettu ikärajalla tai merkitty mahdollisesti ”loukkaavaksi” tai ”sopimattomaksi”. 
+ 
+HMD Global ei ole vastuussa mistään vaateista tai loukkauksista, jotka olet aiheuttanut tai joiden kohteeksi olet joutunut käyttämällä tällaista Sisältöä. 
+ 
+Sitoudut: 
+• Käyttämään Sisältöä ainoastaan henkilökohtaiseen, ei-kaupalliseen tarkoitukseen; 
+• Käyttämään Sisältöä sovellettavien, erillisten säädösten, ehtojen, ohjeiden ja menettelytapojen rajoitusten mukaisesti tai niiden tuotesivujen mukaisesti, jotka pätevät kyseiseen tiettyyn Sisällön osaan; 
+• Olemaan kopioimatta, antamatta, myymättä, jälleenmyymättä, lainaamatta, vuokraamatta, tarjoamatta, radioimatta/televisioimatta, lähettämättä, jakelematta, siirtämättä, asettamatta yleisön saataville, jäljentämättä, muokkaamatta, julkaisematta, esittämättä, kaupallisesti hyväksikäyttämättä tai muutoin asettamatta Sisältöä saatavilla olevaksi, ellei sovellettavissa Ehdoissa ole toisin sallittu, ja ilmoittamaan HMD Globalille välittömästi kaikista mahdollisista väärinkäytöksistä; 
+• Olemaan poistamatta, kiertämättä, käänteisohjelmoimatta, avaamatta salausta tai muutoin muuntamatta tai häiritsemättä mitään sovellettavia käyttösääntöjä tai yrittämättä kiertää Sisältöön liittyviä digitaalisten oikeuksien hallinta- tai kopiosuojausmenetelmiä tai muita teknologioita, joita käytetään Sisältöön tai sen identifiointitietoon pääsyn tai käytön kontrollointiin; 
+• Olemaan käyttämättä mitään muita automatisoituja järjestelmiä tai keinoja kuin niitä, jotka me tarjoamme Sisällön valintaan tai lataamiseen; 
+• Olemaan antamatta salasanaasi tai muuten päästämättä muita henkilöitä käsiksi Sisältöön. Kopiointirajoitukset, jotka koskevat sovellettavaa mediaa, koskevat myös tämän Palvelun osana haettua Sisältöä. 
+ 
+HMD Global ja/tai sen lisenssinantajat omistavat ja/tai kontrolloivat Sisältöä, jota suojaavat immateriaalioikeuksia koskevat lait. Kolmannet Sisältöä tuottavat osapuolet ovat yksin vastuussa tarjoamastaan Sisällöstä, kaikista takuista siinä määrin kuin tällaisia takuita ei ole pois suljettu ja kaikista kyseiseen Sisältöön tai sen käyttöön liittyvistä vaatimuksista, joita sinulla voi olla. HMD Global voi kuitenkin vedota kolmannen osapuolen Sisällön käyttöehtoihin sinua vastaan kyseisten ehtojen edunsaajana. Kolmannet Sisältöä tuottavat osapuolet ovat näiden Ehtojen mukaan edunsaajia, jotka voivat vedota ehtoihin, jotka välittömästi koskevat sellaista Sisältöä, johon heillä on oikeuksia. HMD Global voi toimia agenttina kolmannelle Sisältöä tuottavalle osapuolelle tarjotessaan Sisältöä sinulle. HMD Global ei ole osapuolena sinun ja kolmannen Sisältöä tuottavan osapuolen välisessä Sisältöä koskevassa oikeustoimessa. 
+ 
+7. Tekijänoikeusloukkauksia koskevat väitteet 
+HMD Global kunnioittaa kolmansien osapuolten immateriaalioikeuksia. Jos halut tehdä ilmoituksen immateriaalioikeuden loukkauksesta, mukaan lukien tekijänoikeusloukkauksesta, noudata Loukkausilmoitusten lähettämismenettelyämme. KYSELYIHIN, JOTKA EIVÄT OLE MENETTELYN KANNALTA OLENNAISIA, EI ANNETA VASTAUSTA. 
+ 
+HMD Global noudattaa tekijänloukkausilmoituksiin vastaamisessa Yhdysvaltojen säädöskokoelman 17 osaston 512 pykälässä säädettyjä menettelyjä. HMD Global voi, kun se on tarkoituksenmukaista, myös poistaa käytöstä tai päättää sellaisten HMD Globalin palvelujen käyttäjien tilit, jotka ovat mahdollisia loukkauksen uusijoita. 
+ 
+8. Ilmoitukset 
+HMD Global voi laittaa ilmoituksia Palveluun. HMD Global voi myös lähettää sinulle tuotteita ja palveluja koskevia ilmoituksia antamaasi sähköpostiosoitteeseen tai puhelinnumeroon. Ilmoitukset katsotaan vastaanotetuiksi seitsemän (7) päivän kuluttua siitä, kun HMD Global on ne lähettänyt tai laittanut esille. Palvelun käytön jatkaminen toimestasi tarkoittaa, että Sinun katsotaan vastaanottaneen kaikki ilmoitukset lähetystavasta huolimatta. 
+ 
+9. Maksut 
+Palvelun käyttö voi olla maksullista tai muuttua maksulliseksi. 
+ 
+Mikäli HMD Global perii maksuja, siitä ilmoitetaan erikseen Palvelun yhteydessä. 
+ 
+Palvelun käyttö voi sisältää tietojen siirtoa palveluntarjoajasi verkon kautta. Palvelussa ilmoitetut hinnat eivät sisällä verkkopalveluntarjoajasi mahdollisia tiedonsiirto-, tekstiviesti-, ääni- tai muista palveluista veloittamia maksuja. 
+ 
+HMD Global ei vastaa palveluntarjoajien veloittamien maksujen suorittamisesta. 
+ 
+10. Tilaus- ja maksuehdot 
+”Tilaus” tarkoittaa tässä kaikkea sitä maksullista Sisältöä ja/tai HMD Globalin tarjoaman ja Palvelussa saatavilla olevan Sisällön tilaamista ja maksutavan hyväksymistä, kuten myös tilauksen hyväksymistä valitsemalla ”osta”, ”OK”, ”hyväksyn” tai muu vastaava hyväksymisvahvistus tilausvalikossa tai osoittamalla muulla tavoin hyväksyvänsä ehdot, jotka esitetään tilauksen aikana. 
+ 
+Tehdäksesi Tilauksen Palvelussa sinun tulee olla sovellettavan lain mukaan iältäsi oikeustoimikelpoinen. Mikäli et ole iältäsi oikeustoimikelpoinen, voit tehdä Tilauksia ainoastaan vanhempasi tai laillisen holhoojasi suostumuksella. 
+ 
+Sitoudut siihen, että kaikki Tilaukset ovat laillisesti päteviä ja sitovia. Kaikki Tilaukset vaativat HMD Globalin hyväksynnän. 
+ 
+Voit maksaa luotto- tai pankkikortilla, verkkopalveluntarjoajan laskutuksella tai muilla käytettävissä olevilla maksutavoilla. 
+ 
+Luotto- tai pankkikorttisi laskutusosoitteen tulee olla siinä maassa, jossa Sisältöä tarjotaan Palvelussa. HMD Global veloittaa luottokorttiasi tai pankkitiliäsi kohtuullisessa ajassa Tilauksesi jälkeen. Luottokortin myöntäjä tarkistaa kaikkien luottokorttimaksujen voimassaolon ja oikeutuksen. 
+ 
+Jos valitset maksutavaksi verkkopalveluntarjoajan laskutuksen, veloitukset näkyvät matkapuhelinlaskullasi, tai jos kyseessä on prepaid-tili, ne pidätetään prepaid-tililtäsi. Jotkin verkkopalveluntarjoajat voivat asettaa lisäehtoja Palvelun käytöllesi, mukaan lukien rajojen asettaminen verkkopalveluntarjoajan laskutuksessa mahdollisten veloitusten määrälle. Maksut, jotka ylittävät verkkopalveluntarjoajan asettamat rajat tai tilin saldon voidaan jättää hyväksymättä. 
+ 
+Sitoudut maksamaan Tilaukseesi liittyvät maksut, varmistamaan, että maksuväline on voimassa Tilausta tehdessäsi, että olet maksuvälineen oikeutettu haltija ja että maksuvälinettä käytetään luottorajojen puitteissa. 
+ 
+Sinulla on käyttöoikeus toimitettavaan Sisältöön. Sitoudut käyttämään kyseistä Sisältöä yksinomaan näiden Ehtojen ja muiden sinulle tilausvalikossa esitettyjen lisäehtojen sallimissa rajoissa. 
+ 
+Palvelu voi tarjota tilausmahdollisuuksia. Valtuutat Palvelun asettamaan jaksoittaisia maksuja tilausjakson aikana. Palvelu voi myös tarjota koejaksoja. Jos Tilauksesi sisältää koejakson (ns. kokeile ennen kuin ostat) sinua voidaan veloittaa kun koejakso päättyy, ellet teet peruutusta tilaus- tai koejakson ehtojen mukaisesti. 
+ 
+Palvelun hinnat voivat ajoittain muuttua. Ostohetkellä voimassa olevat verot sisältyvät hintoihin, ellei toisin ole mainittu. On mahdollista että joudut maksamaan joskus käytetyistä valuuttakursseista tai palkkioista johtuvia ylimääräisiä kuluja luotto- tai pankkikortin myöntäjällesi. HMD Global ei vastaa tällaisista maksuista pankeille tai muille kolmansille osapuolille. 
+ 
+11. Peruutukset ja hyvitykset 
+Sitoudut hyväksymään Sisällön sähköisen toimittamisen yhdenaikaisesti Tilauksen lähettämisen kanssa. Et voi peruuttaa Tilaustasi sen jälkeen kun se on prosessoitu. Sisällön luonne on sellainen, ettei sitä voi palauttaa. 
+ 
+Tilanteessa, jossa Tilauksesi jälkeen huomaat ja asianmukaisesti ilmoitat HMD Globalille 48 tunnin sisällä, että (a) ostamasi Sisältö on virheellinen; (b) HMD Globalin toimittama Sisältö ei vastaa Palvelun kautta tilaamasi Sisällön tuotekuvausta; tai (c) tekniset ongelmat viivästyttivät tai estivät Sisältösi toimittamisen tai aiheuttivat moninkertaiset tilaukset, ainoa ja yksinomainen korvauksesi on Sisällön vaihtaminen tai Sisällön hinnan hyvittäminen HMD Globalin harkinnan mukaan. 
+ 
+Muutoin hyvitykset eivät ole mahdollisia. Mikäli törmäät mihinkään yllä olevista ongelmista, otathan yhteyden HMD Globalin Asiakaspalveluun. 
+ 
+Otathan huomioon, ettei HMD Global mahdollisesti pysty prosessoimaan asiakaspalvelupyyntöäsi, jos et kykene ilmoittamaan tilaustunnusta, jonka HMD Global on toimittanut sinulle Palvelussa tekemäsi Tilauksen jälkeen. HMD Global voi käsitellä ainoastaan hyvityksiä Sisällöstä, jonka kokonaishinta ylittää paikallisen lainsäädännön määrittämän rahamääräisen rajan. 
+ 
+12. Palaute HMD Globalille 
+Lähettämällä ideoita, palautetta ja/tai ehdotuksia (\"Palaute\") HMD Globalille Palvelun kautta tai muulla tavoin, hyväksyt seuraavaa: (1) HMD Globalilla saattaa olla Palautteen kanssa samanlaisia kehittämisideoita; (2) Palautteesi ei sisällä kenenkään luottamuksellisia tai yksityisiä tietoja; (3) HMD Globalilla ei ole salassapitovelvollisuutta Palautteeseen nähden; (4) HMD Global saa vapaasti käyttää, levittää, hyödyntää sekä kehittää ja muokata Palautetta mihin tahansa tarkoitukseen; ja (5) sinulla ei ole oikeutta minkäänlaiseen korvaukseen HMD Globalilta. 
+ 
+13. Sosiaalinen toiminta ja paikkatiedon jakaminen 
+Voit käyttää Palvelun ominaisuuksia jakaaksesi olinpaikkasi, statuksesi, sisältöä, Aineistoa tai henkilökohtaisia tietojasi tai ollaksesi vuorovaikutuksessa muiden käyttäjien, sivustojen ja palvelujen kanssa. Näitä ominaisuuksia käyttämällä hyväksyt, että HMD Global voi käyttää ja antaa kyseisiä tietoja muille palveluille ja henkilöille, joiden kanssa olet vuorovaikutuksessa tai jaat näitä tietoja. Näiden palveluiden käyttäjät ja henkilöt, kuten kontaktisi, näkevät olinpaikkasi, statuksesi ja/tai henkilökohtaiset tietosi. Näitä ominaisuuksia käyttämällä sitoudut olemaan jakamatta tietoja, Sisältöä tai Aineistoa tai linkittämättä mitään palvelua tai sivustoa, joka: (a) sisältää laitonta tai epäasiallista sisältöä tai muuta materiaalia tai (b) hyödyntää immateriaalioikeuksia ilman käyttöoikeutta tai kannustaa käyttäjiä piratismiin. Kaikki vuorovaikutus tapahtuu yksinomaan sinun ja muiden käyttäjien välillä eikä HMD Global ole siinä osallisena. 
+ 
+14. Palvelun saatavuus ja tekniset vaatimukset 
+Sisällön ja Palvelun saatavuus voi vaihdella ja on HMD Globalin yksinomaisessa harkinnassa. HMD Global ei takaa, että tietty Sisältö tai Palvelu olisi saatavilla. Palvelu ei välttämättä ole saatavilla kaikissa maissa ja se voi olla saatavilla vain tietyillä kielillä. Palvelu, sen toiminta tai jotkut ominaisuudet voivat olla riippuvaisia verkkoyhteyksistä, käytettävien laitteiden yhteensopivuudesta ja tuetuista sisällön formaateista. 
+ 
+Sinun voi olla tarpeen ladata tietty HMD Globalin tai muun osapuolen kehittämä ohjelmisto käyttääksesi Palvelua. 
+ 
+HMD Global voi harkintansa mukaan muuttaa, korjata tai lopettaa Palvelun kokonaisuudessaan tai osittain. Palvelu saattaa olla pois käytöstä huoltotaukojen aikana ja muina ajankohtina. Varmistaakseen, että sinulla on viimeisimmät Microsoft Mobile laitteen ohjelmistot ja sovellukset, laitteesi voi automaattisesti tarkistaa saatavana olevat ohjelmistopäivitykset HMD Globalilta. Jos päivityksiä on saatavana, laite kehottaa hyväksymään asennuksen. Voit ottaa automaattisen tarkistuksen pois päältä laitteesi asetuksista. Voit myös asentaa ohjelmistoja saatavilla olevien ohjelmistopäivityskanavien kautta. Jos HMD Global pitää ohjelmistopäivitystä tärkeänä tai kriittisenä, et voi jatkaa edellisen Ohjelmistoversion käyttöä. HMD Global voi estää edellisen Ohjelmistoversion tai Palvelun käytön, kunnes päivitys on asennettu. 
+ 
+HMD Global voi kytkeä pois päältä minkä tahansa Palvelun käyttäjätililläsi olevan Sisällön tai Ohjelmiston mistä tahansa syystä ja siirtää mitä tahansa Sisältöä tai Ohjelmistoa ja/tai kytkeä pois päältä mitä tahansa laitteellasi olevia sovelluksia suojatakseen Palvelua, sovellustoimittajia, verkkopalveluntarjoajia, joiden verkossa käytät palvelua, tai ketä tahansa muuta vaikutuspiirissä olevaa tai mahdollisesti olevaa osapuolta. 
+ 
+Tietty palvelu voidaan julkaista ennakkoon eri versiona, esimerkiksi beta-versiona, eikä se silloin välttämättä toimi kuten lopullinen versio toimii. HMD Global voi muuttaa merkittävässä määrin mitä tahansa Palvelun tai Ohjelmiston versiota tai päättää olla lainkaan julkaisematta lopullista versiota. 
+ 
+15. Linkit ulkopuolisten sivuille ja näiden sivujen sisältö 
+HMD Global voi sisällyttää pääsyn sivustoihin tai palveluihin Internetissä tai ennalta ladattuihin sovelluksiin, jotka mahdollistavat pääsyn kolmansien osapuolten omistamiin ja ylläpitämiin sivustoihin ja palveluihin, jotka eivät ole osa Palvelua. Sinun tulee lukea ja hyväksyä näiden sivustojen ja palveluiden ehdot, ennen kuin käytät kyseisiä sivustoja tai palveluita. 
+ 
+HMD Globalilla ei ole mitään kontrollia kolmansien osapuolien sivustoihin tai palveluihin, eikä se ota mitään vastuuta tällaisilla kolmannen osapuolen sivustoilla tai palveluissa tarjotuista palveluista tai luodusta tai julkaistusta materiaalista. Linkki kolmannen osapuolen sivustolle ei tarkoita sitä, että HMD Global tukisi sivustoa tai tuotteita tai palveluita, joihin sivustolla on viitattu. 
+ 
+Sinulla ja muilla käyttäjillä on lisäksi mahdollisuus luoda Palvelussa sisältöä ja linkkejä, joita ei muutoin ole sisällytetty Palveluun. HMD Global ei ole vastuussa tämän tyyppisestä sisällöstä tai linkeistä. 
+ 
+16. Mainokset 
+Palvelu voi sisältää mainoksia. Mainokset voivat olla suunnattuja Palveluun tallennettuun sisältöön tai tietoon, Palvelun kautta tehtyihin kyselyihin, tai muuhun tietoon. 
+ 
+17. Henkilötiedot 
+Tietosuojaseloste ja muut saatavillasi olevat yksityisyyttä koskevat tiedot sääntelevät henkilötietojesi käyttöä. 
+ 
+18. Vastuurajoitus 
+Palvelu tarjotaan ”SELLAISENA KUIN SE ON” ja ”SEN MUKAAN KUIN SAATAVILLA”. HMD Global ei takaa, että Palvelu on käytettävissä keskeytyksettä tai että se on virheetön tai virukseton. Palvelusta ei anneta mitään Palvelun saatavuuteen, virheettömyyteen, luotettavuuteen, tietoihin, tai sisältöön liittyvää nimenomaista tai konkludenttista takuuta, joihin luetaan muun muassa omistusoikeuteen tai loukkaamattomuuteen liittyvät takuut ja takuut myyntikelpoisuudesta tai sopivuudesta tiettyyn tarkoitukseen. Hyväksyt nimenomaisesti, että käytät Palvelua omalla riskilläsi ja että voit saada useista lähteistä peräisin olevaa sisältöä. 
+ 
+Lukuun ottamatta törkeästä huolimattomuudesta tai tahallisuudesta aiheutuvaa vastuuta kuolemasta tai henkilövahingoista, HMD Global ei ole vastuussa mistään suorasta vahingosta, joka johtuu Palvelun käytöstäsi tai siitä, ettet voi käyttää Palvelua. 
+ 
+19. Korvausvelvollisuus 
+Sitoudut korvaamaan HMD Globalille kaikki tappiot, kustannukset ja vahingot, joita HMD Globalille aiheutuu kolmansien tahojen esittämistä vaatimuksista, jotka perustuvat siihen, että (i) rikot Ehtoja, (ii) loukkaat kolmansien osapuolten immateriaalioikeuksia, muita oikeuksia tai yksityisyyttä, tai (iii) kolmas osapuoli väärinkäyttää Palvelua ja olet mahdollistanut tämän väärinkäytöksen siten, että et ole riittävällä tavalla suojannut käyttäjätunnustasi ja salasanaasi väärinkäytöksiltä. 
+ 
+20. Muut ehdot 
+ 
+20.1 Sovellettava laki 
+Ehtoihin sovelletaan Suomen lakia, paitsi sen lainvalintasäännöksiä. 
+ 
+20.2 Ehtojen pätevyys 
+Ehdot eivät sulje pois tai rajoita mitään asuinmaasi pakottavan lainsäädännön mukaisia oikeuksiasi, joista ei lain mukaan voi luopua. Jos Ehtoihin sisältyvä kohta katsotaan pätemättömäksi, tämä ei vaikuta muihin säännöksiin ja pätemätön säännös korvataan Ehtojen lopputulosta ja tarkoitusta lähinnä olevalla pätevällä säännöksellä. Vaikka yksi tai useampi näiden Ehtojen kohta ei ole merkityksellinen Palvelun käyttösi kannalta, se ei vaikuta minkään muun Ehtojen kohdan pätevyyteen tai täytäntöönpanokelpoisuuteen eikä Ehtoihin kokonaisuudessaan. Jos nämä HMD Globalin palveluehdot ja Tietosuojaseloste ovat ristiriidassa keskenään, sovelletaan ensisijaisesti näitä HMD Globalin palveluehtoja. Ne Ehtojen sisältämät kohdat, joiden on tarkoitus jäädä voimaan rekisteröitymisesi päättymistilanteessa, jäävät voimaan päättymisestä huolimatta. 
+ 
+20.3 Muutokset ehtoihin 
+HMD Global voi muuttaa Ehtoja milloin tahansa ilman ennakkoilmoitusta. Jos Ehtoja heikennetään merkittävästi, HMD Global ilmoittaa tällaisesta muutoksesta erikseen. 
+ 
+Olet velvollinen käymään Ehdot säännöllisesti läpi. Palvelun käytön jatkamisen katsotaan tarkoittavan sitä, että olet suostunut Ehtojen muutoksiin ja muuttamiseen. 
+ 
+21. Immateriaalioikeudet 
+Palvelu, Sisältö ja Ohjelmistot ovat kansainvälisten tekijänoikeuslakien suojaamia. Tekijänoikeus Palveluun, Sisältöön ja Ohjelmistoihin kuuluu HMD Globalille lain sallimassa laajuudessa. HMD Global pidättää Ehtojen mukaisesti kaikki oikeudet Palveluun, sen Sisältöön, Ohjelmistoihin ja kaikkiin muihin Palvelun kautta tarjottaviin tai käytettävissä oleviin HMD Globalin tuotteisiin, ohjelmistoihin ja muuhun omaisuuteen. 
+ 
+22. Siirtokelpoisuus 
+HMD Global voi siirtää näiden Ehtojen mukaiset oikeutensa ja velvollisuutensa mille tahansa emo- tai tytäryhtiölleen tai mille tahansa HMD Globalin kanssa samaan määräysvaltaan kuuluvalle yhtiölle. Lisäksi, HMD Global voi siirtää näiden Ehtojen mukaiset oikeutensa kolmannelle osapuolelle fuusion, yritysoston tai liiketoiminnan myynnin yhteydessä, lakimääräisesti tai muutoin."</string>
+    <string name="hmd_user_experience_program_message">Osallistuminen käyttäjäkokemusohjelmaan auttaa HMD Globalia ymmärtämään, mistä Nokia-laitteesi ominaisuuksista pidät ja mitä ominaisuuksia mielestäsi pitäisi parantaa. Voimme ajoittain saada nimettömästi laitteesi teknisiä ominaisuuksia koskevia tietoja, kuten tiedostoja, jotka sisältävät mahdollisten ohjelmistohäiriöiden tiedot. Huomaa, että tällaisia tietoja ei lähetetä matkapuhelinyhteyden kautta. Otamme mielellämme vastaan palautetta Nokia-laitteestasi!</string>
+    <string name="hmd_user_experience_program_title">Käyttäjäkokemusohjelma</string>
+    <string name="idle_too_long_toast">Tämä puhelin on ollut käyttämättömänä jonkin aikaa. Sulje puhelin säästääksesi virtaa.</string>
+    <string name="language_selection_cancel_btn">PERUUTA</string>
+    <string name="language_selection_title">Valitse kieli</string>
+    <string name="location_for_service">Käytä sijaintia Googlen hakutuloksissa ja muissa Google-palveluissa.</string>
+    <string name="location_info_1">Googlen paikannuspalvelu antaa sovelluksille summittaisen paikkatiedon ilman GPS:ää.</string>
+    <string name="location_info_2">Voit poistaa nämä toiminnot asetusten Paikannuspalvelut-kohdassa.</string>
+    <string name="location_network">Salli Googlen paikannuspalvelun kerätä nimettömiä sijaintitietoja. Tietoja kerätään silloinkin, kun sovelluksia ei ole avoinna.</string>
+    <string name="location_title">Käytä Google-paikannusta</string>
+    <string name="nevigation_selection_back">Takaisin</string>
+    <string name="nevigation_selection_home">Koti</string>
+    <string name="nevigation_selection_recent">Viimeisimmät</string>
+    <string name="nevigation_selection_text">Voit vaihtaa taustavärin ja muuttaa Takaisin/Viimeaikaiset-näppäinten sijaintia.</string>
+    <string name="nevigation_selection_title">Siirtymispalkin asetukset</string>
+    <string name="next_btn_lebel">SEURAAVA</string>
+    <string name="normal_date_format">Paikallinen (%s)</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="setup_complete_hmd">Olet valmis...</string>
+    <string name="setup_complete_main">Olet</string>
+    <string name="setup_complete_sub">VALMIS.</string>
+    <string name="setup_completed_congratulations">Onnittelut!</string>
+    <string name="sim_not_exist_toast">Varmista, että SIM-kortti on asetettu.</string>
+    <string name="skip_add_account_button_label">Ei nyt</string>
+    <string name="skip_button_label">Ohita</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Hyväksy</string>
+    <string name="term_disagree_text">En hyväksy</string>
+    <string name="terms_of_service_description">"
+Mobiilidatan käytöstä voi aiheutua lisäkustannuksia, kun käytetään palveluja, jotka edellyttävät verkkoyhteyttä, kuten sääpalvelut, internetpalvelut, sähköposti ja selain. Mobiilidatan käyttömaksujen tehokasta hallintaa varten suosittelemme tilaamaan palveluntarjoajalta sopivan palvelupaketin.
+
+Hyväksyn-valinnalla sallit näiden palvelujen muodostaa verkkoyhteyden tarvittaessa.
+
+Lisäksi automaattinen ohjelmistopäivitys on oletuksena käytössä. Uusimman ohjelmiston lataus voi lisätä tiedonsiirtoa. Voit aina vaihtaa valinnan myöhemmin asetuksissa.
+
+"</string>
+    <string name="terms_title">Datan käyttö</string>
+    <string name="time_picker_title">Aika:</string>
+    <string name="traffic_prompt_content">Jos olet eri mieltä, sinun on haettava ohjelmistopäivitykset, sääennusteet ja muut tiedot manuaalisesti.</string>
+    <string name="upload_agent_des_text">"Liity käyttäjäkokemusohjelm. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Lue lisää&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Liity Nokian käyttäjäkokemusohjelmaan. &lt;a href='launch.UserExperienceActivity://Kode'>Lue lisää.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Käyttäjäkokemusohjelma</string>
+    <string name="v7_preference_off">POIS PÄÄLTÄ</string>
+    <string name="v7_preference_on">PÄÄLLÄ</string>
+    <string name="welcome_hmd_term_of_use_2">"Napauttamalla nuolta hyväksyt &lt;a href='launch.TermOfServiceActivity://Kode'>palveluehdot&lt;/a> ja &lt;a href='launch.AddUploadAgentHandler://Kode'>tietosuojaselosteen&lt;/a>. Laitteen aktivointitiedot sekä kertaluonteisesti laitteen sijainti lähetetään HMD Globalille. Tietojen lähettämisestä saatetaan periä tiedonsiirtomaksu."</string>
+    <string name="welcome_infocus_term_of_use">"Napauttamalla nuolta hyväksyt&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>käyttöehdot&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Hyväksy</string>
+    <string name="welcome_message">Tervetuloa</string>
+    <string name="welcome_start_button_label">ALOITA</string>
+    <string name="welcome_vision_settings_button_label">Näyttöasetukset</string>
+    <string name="wifi_picker_connection_des_text">WLAN-yhteyden poistaminen käytöstä voi lisätä kuluja, kun ohjelmisto varmennetaan matkapuhelinverkossa.</string>
+    <string name="wifi_picker_connection_negative">Yhdistä</string>
+    <string name="wifi_picker_connection_negative_prc">Yhdistä WLAN</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Verkkoyhteys</string>
+    <string name="wifi_picker_warning_des_text">Ilman internetyhteyttä puhelin ei voi varmistaa, että ohjelmisto on ajan tasalla.</string>
+    <string name="wifi_picker_warning_negative">Ohita silti</string>
+    <string name="wifi_picker_warning_positive">Älä ohita</string>
+    <string name="wifi_picker_warning_title">Varoitus</string>
+    <string name="zone_auto">Automaattinen aikavyöhyke</string>
+    <string name="zone_auto_summaryOff">Käytä verkon määrittämää aikavyöhykettä</string>
+    <string name="zone_auto_summaryOn">Käytä verkon määrittämää aikavyöhykettä</string>
+    <string name="sugarsync_intro_description">Nauti sujuvasta pilvitallennuksen ja SugarSyncin integroinnista muutaman helpon vaiheen avulla.</string>
+</resources>

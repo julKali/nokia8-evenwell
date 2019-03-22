@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.evenwell.CPClient">
+    <protected-broadcast android:name="CPClient.intent.action.CheckDBMsg"/>
+    <protected-broadcast android:name="CPClient.intent.action.MsgApply"/>
+    <protected-broadcast android:name="CPClient.intent.action.MsgDelete"/>
+    <protected-broadcast android:name="CPClient.intent.action.MsgPostPone"/>
+    <protected-broadcast android:name="CPClient.intent.action.MsgNotHandle"/>
+    <protected-broadcast android:name="CPClient.intent.action.MsgExpire"/>
+    <protected-broadcast android:name="CPClient.intent.action.MsgSyntaxError"/>
+    <protected-broadcast android:name="CPClient.intent.action.LauncherEditor"/>
+    <protected-broadcast android:name="CPClient.intent.action.CommitUpdateSuccess"/>
+    <protected-broadcast android:name="CPClient.intent.action.CommitCreateSuccess"/>
+    <protected-broadcast android:name="CPClient.intent.action.GetMvno"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.RECEIVE_WAP_PUSH"/>
+    <uses-permission android:name="android.permission.WRITE_APN_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <application android:icon="@mipmap/ic_launcher" android:label="@string/app_label">
+        <receiver android:name="com.evenwell.CPClient.WapPushReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.WAP_PUSH_RECEIVED"/>
+                <data android:mimeType="application/vnd.wap.connectivity-wbxml"/>
+            </intent-filter>
+        </receiver>
+        <activity android:excludeFromRecents="true" android:name="com.evenwell.CPClient.CPApplyDialog" android:theme="@style/Transparent"/>
+        <activity android:excludeFromRecents="true" android:name="com.evenwell.CPClient.CPCheckPinCodeDialog" android:theme="@style/Transparent"/>
+        <receiver android:name="com.evenwell.CPClient.CPReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+                <action android:name="CPClient.intent.action.MsgApply"/>
+                <action android:name="CPClient.intent.action.MsgDelete"/>
+                <action android:name="CPClient.intent.action.MsgPostPone"/>
+                <action android:name="CPClient.intent.action.MsgNotHandle"/>
+                <action android:name="CPClient.intent.action.MsgExpire"/>
+                <action android:name="CPClient.intent.action.MsgSyntaxError"/>
+                <action android:name="CPClient.intent.action.CheckDBMsg"/>
+                <action android:name="CPClient.intent.action.CommitUpdateSuccess"/>
+                <action android:name="CPClient.intent.action.CommitCreateSuccess"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <data android:path="com.evenwell.cpclient" android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.evenwell.CPClient.CPMvnoReceiver" android:process="com.android.phone">
+            <intent-filter>
+                <action android:name="CPClient.intent.action.GetMvno"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.evenwell.cpclient" android:name="com.evenwell.CPClient.CPProfileProvider"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:excludeFromRecents="true" android:label="@string/fih_cp_notify_statusbar_content" android:name="com.evenwell.CPClient.CPApnEditor">
+            <intent-filter>
+                <action android:name="CPClient.intent.action.LauncherEditor"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.evenwell.CPClient.CPSecretCodeReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="27364" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="27324564" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <activity android:excludeFromRecents="true" android:launchMode="singleTop" android:name="com.evenwell.CPClient.CPSecretCodeActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

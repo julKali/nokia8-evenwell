@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_hmd_term_of_use_4">"By tapping the button, you agree to the &lt;a href='launch.TermOfServiceActivity://Kode'>Terms of Service&lt;/a> and &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>. The device activation information and location will be sent to HMD Global.&lt;br/>&lt;br/>Auto Software Update notification, which installs the latest updates for you, will also be enabled. This may use up a small portion of your data budget. The services will access the Internet whenever they need to.&lt;br/>&lt;br/>You will be charged for these services if they exceed your current data plan when they access mobile networks."</string>
+    <string name="welcome_hmd_term_of_use_5">"By tapping the button, you agree to the &lt;a href='launch.TermOfServiceActivity://Kode'>Terms of Service&lt;/a>. Your data will be processed according to HMD’s &lt;a href='launch.AddUploadAgentHandler://Kode'>Privacy Policy&lt;/a>. The device activation information with one-time device location will be sent to HMD Global. Mobile data charges may apply."</string>
+    <string name="welcome_vision_settings_button_label">Accessibility</string>
+    <string name="sim_not_exist_toast">Please check that you have inserted a SIM card.</string>
+    <string name="idle_too_long_toast">This phone has been idle for some time. Shut down now to save battery power.</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="welcome_start_button_label">START</string>
+    <string name="emergency_dial_message">Emergency call</string>
+    <string name="emergency_dial_hmd_message">Emergency</string>
+    <string name="accessibility_text">Accessibility</string>
+    <string name="language_selection_title">Choose your language</string>
+    <string name="language_selection_cancel_btn">CANCEL</string>
+    <string name="date_and_time">Date &amp; time settings</string>
+    <string name="date_time_auto">Automatic date &amp; time</string>
+    <string name="date_time_auto_summaryOn">Use network-provided time</string>
+    <string name="date_time_auto_summaryOff">Use network-provided time</string>
+    <string name="zone_auto">Automatic time zone</string>
+    <string name="zone_auto_summaryOn">Use network-provided time zone</string>
+    <string name="zone_auto_summaryOff">Use network-provided time zone</string>
+    <string name="date_time_set_date">Set date</string>
+    <string name="date_time_set_time">Set time</string>
+    <string name="date_time_set_timezone">Select time zone</string>
+    <string name="date_time_24hour">Use 24-hour format</string>
+    <string name="date_and_time_settings_title">Date &amp; Time</string>
+    <string name="upload_agent_hmd_des_text_2">"Join the Nokia User Experience program. &lt;a href='launch.UserExperienceActivity://Kode'>Learn more.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">User Experience Program</string>
+    <string name="setup_completed_congratulations">Congratulations!</string>
+    <string name="setup_complete_hmd">You are ready to go...</string>
+    <string name="setup_complete_main">You are</string>
+    <string name="setup_complete_sub">READY TO GO.</string>
+    <string name="hmd_user_experience_program_title">User experience program</string>
+    <string name="hmd_user_experience_program_message">Your participation in the user experience program helps HMD Global to better understand what you like about your Nokia device, and what you think needs to be improved. From time to time, we may receive anonymous data with technical characteristics about your device, such as a file containing data about a software crash that may have happened. Please note that such data will not be transmitted over a mobile data connection. We love hearing what you think about your Nokia device!</string>
+    <string name="skip_add_account_button_label">Not now</string>
+    <string name="device_checking_message">Welcome</string>
+    <string name="backup_and_restore_title">Backup and restore</string>
+    <string name="backup_and_restore_description">"If you previously backed up your account, you can restore it to this phone now.
+
+You can change your backup settings at any time in Settings."</string>
+    <string name="upload_agent_hmd_des_text_3">"By tapping LET'S GO!, you agree to join the User Experience Program. &lt;a href='launch.UserExperienceActivity://Kode'>Learn more&lt;/a>. Remember, you can always join later via Settings."</string>
+    <string name="setup_complete_hmd_1">You are nearly ready to go...!</string>
+    <string name="not_now">NOT NOW…</string>
+    <string name="setup_finish">"LET'S GO!"</string>
+    <string name="wifi_wapi_key_type">WAPI hexadecimal</string>
+</resources>

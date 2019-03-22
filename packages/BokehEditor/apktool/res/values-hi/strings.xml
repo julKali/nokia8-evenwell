@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PicEdit</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="data_process_fail">डेटा संसाधन विफल रहा</string>
+    <string name="delete">हटाएँ</string>
+    <string name="image_not_null">छवि पथ रिक्त नहीं हो सकता</string>
+    <string name="no_bokeh_type">कोई भी बोकेह प्रकार नहीं</string>
+    <string name="no_mpo_file">कोई भी MPO फ़ाइल नहीं</string>
+    <string name="save">जोड़ें</string>
+    <string name="save_success">सफलतापूर्वक सहेजा गया</string>
+    <string name="share">साझा करें</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_watermarks">वाटरमार्क</string>
+    <string name="watermark_empty">कोई भी वाटरमार्क नहीं</string>
+</resources>

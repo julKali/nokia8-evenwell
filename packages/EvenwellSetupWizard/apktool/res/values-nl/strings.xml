@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="accessibility_text">Toegankelijkheid</string>
+    <string name="account_intro_description">Gebruik uw apparaat slimmer door deel te nemen aan [BRAND_NAME] Services.</string>
+    <string name="account_intro_title">[BRAND_NAME] Services-account</string>
+    <string name="add_baidu_button_label">Meld u aan bij 百度云</string>
+    <string name="add_infocus_service_account">[BRAND_NAME] Services-account toevoegen</string>
+    <string name="back_btn_lebel">TERUG</string>
+    <string name="backup_and_restore_description">"Als u eerder back-up van uw account hebt gemaakt, kunt u deze nu op telefoon terugzetten.
+
+U kunt uw back-upinstellingen altijd wijzigen in Instellingen."</string>
+    <string name="backup_and_restore_title">Back-up maken en terugzetten</string>
+    <string name="baidu_intro_description">You can enjoy seamless cloud storages integration with 百度云 by completing a few easy steps.</string>
+    <string name="baidu_intro_title">Cloudopslag voor Baidu</string>
+    <string name="baidu_progress_dialog_des">Even geduld...</string>
+    <string name="choose_timezone">Een tijdzone kiezen</string>
+    <string name="datausage_dialog_negitive_btn">Beëindig</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Datum- en tijdinstellingen</string>
+    <string name="date_and_time_settings_summary">Datum, tijd, tijdzone en notaties instellen</string>
+    <string name="date_and_time_settings_title">Datum en tijd</string>
+    <string name="date_and_time_settings_title_setup_wizard">Datum en tijd instellen</string>
+    <string name="date_picker_title">Datum:</string>
+    <string name="date_time_24hour">24-uurs klok gebruiken</string>
+    <string name="date_time_auto">Automatische tijd en datum</string>
+    <string name="date_time_auto_summaryOff">Gebruik door netwerk aangeboden tijd</string>
+    <string name="date_time_auto_summaryOn">Gebruik door netwerk aangeboden tijd</string>
+    <string name="date_time_date_format">Datumnotatie selecteren</string>
+    <string name="date_time_set_date">Datum instellen</string>
+    <string name="date_time_set_time">Tijd instellen</string>
+    <string name="date_time_set_timezone">Tijdzone selecteren</string>
+    <string name="device_checking_message">Welkom</string>
+    <string name="dropbox_fih_description">"Krijg gratis 2 GB Dropbox-ruimte om uw foto's en video's automatisch op te slaan."</string>
+    <string name="dropbox_fih_signin">Aanmelden bij Dropbox</string>
+    <string name="dropbox_fih_signup">Registreren bij Dropbox</string>
+    <string name="emergency_dial_hmd_message">Noodoproep</string>
+    <string name="emergency_dial_message">Noodoproep</string>
+    <string name="expand_button_title">Geavanceerd</string>
+    <string name="fih_legal_message">"Gebruiksvoorwaarden voor [BRAND_NAME_PROXY]-software
+
+
+
+Ingangsdatum: 20 mei 2016
+
+
+
+De volgende voorwaarden (\" Voorwaarden \" genoemd) vormen een juridisch bindende overeenkomst voor uw gebruik van [BRAND_NAME_PROXY] Software tussen u en [BRAND_NAME_PROXY] Inc., en haar agent, Commtiva Technology Ltd. (gezamenlijk \"[BRAND_NAME_PROXY]\" genoemd). De overeenkomst geldt voor uw gebruik van [BRAND_NAME_PROXY] Software, inclusief maar niet beperkt tot downloaden, installeren en automatisch verlengen (\" Softwareservice \" genoemd). Door gebruik te maken van [BRAND_NAME_PROXY] Software gaat u ermee akkoord gebonden te zijn aan deze Voorwaarden; als u niet akkoord gaat met de Voorwaarden, downloadt, dupliceert, gebruikt of bewaart u de [BRAND_NAME_PROXY] Software niet.
+
+
+
+1. Gebruiksvoorwaarden
+
+Zo lang u zich houdt aan deze Voorwaarden, verleent [BRAND_NAME_PROXY] u een persoonlijk, niet-exclusief, niet-overdraagbaar, intrekbaar en beperkt recht [BRAND_NAME_PROXY] Softwareservices te gebruiken. [BRAND_NAME_PROXY] installeert via internet objectcode op uw mobiele [BRAND_NAME_PROXY] smart apparaat (\" [BRAND_NAME_PROXY] Handset \" genoemd). U verklaart en stemt ermee in dat [BRAND_NAME_PROXY] Software op uw [BRAND_NAME_PROXY] Handset niet kan worden gebruikt voor commerciële doeleinden en niet kan worden overgedragen aan derden.
+
+U gaat er ook mee akkoord dat u [BRAND_NAME_PROXY] Software niet op een van de volgende manieren zult gebruiken:
+
+(a)\u0009[BRAND_NAME_PROXY] Software (inclusief de onderliggende technologieën) kraken of [BRAND_NAME_PROXY] Software gebruiken op een apparaat dat niet van het merk [BRAND_NAME_PROXY] is;
+
+(b)\u0009[BRAND_NAME_PROXY] Software voor enig doel analyseren, decompileren, reverse-engineeren, decoderen, kopiëren, wijzigen of er voor enig doel afgeleid werk van creëren;
+
+(c)\u0009In strijd met de Voorwaarden activiteiten uitvoeren zoals maar niet beperkt tot [BRAND_NAME_PROXY] Software overdragen, leasen, uitlenen, in sublicentie geven, openbaar maken of derden gebruik van, toegang tot of eigendom van [BRAND_NAME_PROXY] Software verlenen;
+
+(d)\u0009Eigendomsverklaringen, logo's of handelsmerken met betrekking tot [BRAND_NAME_PROXY] Software of documenten verwijderen zonder voorafgaande schriftelijke toestemming van [BRAND_NAME_PROXY];
+
+(e)\u0009[BRAND_NAME_PROXY] Software gebruiken op een manier die in strijd is met geldend recht of die inbreuk maakt op rechten van derden;
+
+(f)\u0009[BRAND_NAME_PROXY] Software gebruiken in omgevingen waar dergelijk gebruik verboden of beperkt is, inclusief maar niet beperkt tot luchtvaartomgevingen, benzinestations en nucleaire apparatuur; of
+
+(g)\u0009[BRAND_NAME_PROXY] Software gebruiken op een manier die wordt verboden door de Voorwaarden.
+
+
+
+Om ervoor te zorgen dat de [BRAND_NAME_PROXY] Handset en [BRAND_NAME_PROXY] Software goed werken, belooft en verklaart u dat u de labels op uw [BRAND_NAME_PROXY] Handset niet zult vernietigen zonder hulp van [BRAND_NAME_PROXY]-personeel. Dergelijke ongeautoriseerde activiteiten zijn van invloed op het recht en de garantieperiode die [BRAND_NAME_PROXY] u verleent.
+
+
+
+2. Privacybeleid
+
+U verklaart en gaat ermee akkoord dat [BRAND_NAME_PROXY] informatie mag verzamelen en bewaren, inclusief maar niet beperkt tot modeltype, serienummer, IMEI/MEID-code, hardwareversie, softwareversie, gebruikstijd, SKU-id, standaardinstellingen en OS-versie in uw [BRAND_NAME_PROXY] Handset (\" Informatie \" genoemd). 
+
+In het geval dat [BRAND_NAME_PROXY] verplicht is Informatie openbaar te maken aan een overheidsinstelling of gerechtshof, zal [BRAND_NAME_PROXY] dit doen.
+
+
+
+De [BRAND_NAME_PROXY] Handset informeert [BRAND_NAME_PROXY] over de status dat de [BRAND_NAME_PROXY] Handset gedurende ten minste 14 dagen na de aanschafdatum niet verbonden is geweest met het mobiele netwerk.
+
+
+
+Raadpleeg het Privacybeleid van [BRAND_NAME_PROXY] voor meer informatie.
+
+
+
+3. Ondersteunende service
+
+[BRAND_NAME_PROXY] levert Softwareservices, inclusief zonder enige beperking updates en upgrades op uw [BRAND_NAME_PROXY] Software, volgens de status die [BRAND_NAME_PROXY] op dat moment ontvangt van de [BRAND_NAME_PROXY] Handset.
+  
+[BRAND_NAME_PROXY] levert via internet updates, patches of toegevoegde elementen voor uw [BRAND_NAME_PROXY] Software nadat u de [BRAND_NAME_PROXY] Software hebt gebruikt. Deze vallen onder de Voorwaarden.
+
+
+
+[BRAND_NAME_PROXY] behoudt zich het recht voor uw gebruik van de [BRAND_NAME_PROXY] Software en de [BRAND_NAME_PROXY] Service per direct te beëindigen.
+
+[BRAND_NAME_PROXY] zal volgende versies van [BRAND_NAME_PROXY] Software publiceren en vereist dat u de meest bijgewerkte versie van het OS gebruikt.
+
+
+
+4. Automatisch bijwerken
+
+Met het oog op het verbeteren van uw [BRAND_NAME_PROXY] Handset is deze ingesteld om automatisch de nieuwste firmware en software te downloaden van [BRAND_NAME_PROXY] 
+
+
+
+In verband met de veiligheid en stabiliteit van uw [BRAND_NAME_PROXY] Handset gaat u ermee akkoord de benodigde instructies van [BRAND_NAME_PROXY] op te volgen. As you agree to download the latest firmware or software, it is deemed your acceptance this renewing and installation.
+
+
+
+Ter voorkoming van verlies van uw eigen documenten, foto's, teksten, geluidsbestanden, videobestanden en andere elektrische records die verloren kunnen gaan of kunnen worden vernietigd wanneer de [BRAND_NAME_PROXY] Handset updates uitvoert, is het uw verantwoordelijkheid een back-up van alle genoemde elektrische records in de [BRAND_NAME_PROXY] Handset te maken voordat u de nieuwste versie van firmware of software downloadt.
+
+
+
+Wanneer uw [BRAND_NAME_PROXY] Handset automatisch een update uitvoert of met uw toestemming, door middel van een bericht, een update uitvoert, betekent dit dat u akkoord gaat met de volgende inhoud:
+
+(a)\u0009Software-update:
+
+U gaat ermee akkoord en accepteert dat [BRAND_NAME_PROXY] verbinding met internet mag maken om de softwareversie te controleren en de status bij te werken van uw [BRAND_NAME_PROXY] Handset. Als [BRAND_NAME_PROXY] een upgrademelding doet uitgaan, staat [BRAND_NAME_PROXY] u toe [BRAND_NAME_PROXY] Softwareversies en de status bij te werken via de [BRAND_NAME_PROXY] Service.
+
+Wanneer nieuwe [BRAND_NAME_PROXY] Software beschikbaar is, gaat u ermee akkoord dat [BRAND_NAME_PROXY] u meldingen over deze updates stuurt. Als u de nieuwe beschikbare updates bevestigt, betekent dit dat u ermee akkoord gaat dat [BRAND_NAME_PROXY] uw [BRAND_NAME_PROXY] Handset automatisch bijwerkt.
+
+(b)\u0009Inhoud synchroniseren en bijwerken:
+
+Nadat u uw [BRAND_NAME_PROXY] Handset hebt verbonden met uw computer of ander apparaat, voert de [BRAND_NAME_PROXY] Handset automatisch een update uit van gerelateerde inhoud en overige informatie (bv. contactgegevens, agenda, bladwijzers en bestanden).
+
+
+
+5. Alle eigendoms- en andere rechten met betrekking tot [BRAND_NAME_PROXY] Software worden voorbehouden
+
+Hoewel u een licentie hebt om [BRAND_NAME_PROXY] Software en Services te gebruiken, behouden [BRAND_NAME_PROXY], haar gelieerde ondernemingen en leveranciers alle rechten met betrekking tot [BRAND_NAME_PROXY] Software, inclusief maar niet beperkt tot eigendomsrechten, auteursrechten en andere intellectuele eigendomsrechten.
+
+
+
+Al deze rechten met betrekking tot de [BRAND_NAME_PROXY] Software worden beschermd door lokale wetgeving en internationale verdragen.
+
+
+
+6. Vrijwaring
+
+[BRAND_NAME_PROXY] doet geen uitspraken en biedt geen garanties, noch uitdrukkelijk noch impliciet, inclusief maar zonder beperking, impliciete garanties ten aanzien van verhandelbaarheid, toereikende kwaliteit en geschiktheid voor een bepaald doel of geen inbreuk. 
+
+[BRAND_NAME_PROXY] garandeert niet dat:
+
+(a)\u0009Elke [BRAND_NAME_PROXY] Service waarvan u gebruikmaakt, accuraat en betrouwbaar zal zijn; of
+
+(b)\u0009De [BRAND_NAME_PROXY] Service wordt aangeboden op een ononderbroken, tijdige en veilige basis; of
+
+(c)\u0009Fouten in of problemen met de verstrekte Software direct worden gecorrigeerd.
+
+
+
+[BRAND_NAME_PROXY] zal niet aansprakelijk zijn voor enig verlies of enige schade die wordt veroorzaakt door virussen of ander technisch schadelijk materiaal waarmee uw [BRAND_NAME_PROXY] Handset, programma's, gegevens of ander eigen materiaal besmet kunnen raken vanwege uw gebruik van [BRAND_NAME_PROXY] Services. Alle inhoud en overige materialen die u downloadt of verkrijgt van [BRAND_NAME_PROXY], gebruikt u op uw eigen risico en u bent als enige aansprakelijk voor schade aan uw [BRAND_NAME_PROXY] Handset of voor verlies van gegevens of inhoud die het gevolg is van het downloaden van software.
+
+
+
+7. Beperking van aansprakelijkheid en uitsluitend rechtsmiddel
+
+[BRAND_NAME_PROXY] zal niet aansprakelijk zijn voor enige strafvergoeding of gevolgschade, incidentele schade, onrechtstreekse schade of schade die voortkomt uit het verlies van winst of vertrouwelijke of andere informatie, voor onderbreking van de bedrijfsvoering, voor persoonlijke verwonding, voor schade aan eigendom, voor verlies van privacy, voor niet voldoen aan de plicht tot goede trouw of redelijke zorg of voor nalatigheid.
+
+Voor zover maximaal toegestaan op grond van het toepasselijke recht is de maximale totale aansprakelijkheid van [BRAND_NAME_PROXY] jegens u en is uw uitsluitende rechtsmiddel onder de Voorwaarden voor enige en alle schade, verwonding, schade aan eigendom en verliezen als gevolg van enige en alle claims of rechtszaken met betrekking tot of in verband met de Voorwaarden om de werkelijk opgelopen schade te vorderen, beperkt tot USD tien dollar (USD 10). 
+
+
+
+Meerdere claims of rechtszaken met betrekking tot of in verband met de Voorwaarden leiden niet tot een ruimere beperking van de aansprakelijkheid en zijn, voor zover maximaal toegestaan op grond van het toepasselijke recht, uw enige en uitsluitende rechtsmiddel.
+
+
+
+Als een rechtbank met bekwame bevoegdheid oordeelt dat de hierboven genoemde aansprakelijkheidsbeperking niet afdwingbaar is, zal deze in die mate niet van toepassing zijn, maar worden de woorden beperkt tot tien dollar geacht te zijn vervangen door de woorden \"beperkt tot de waarde van de transactie waarmee de aansprakelijkheid verband houdt.\"
+
+
+
+Een dergelijke claim of rechtszaak in verband met of met betrekking tot de Voorwaarden moet worden ingediend of aangespannen binnen één jaar nadat de oorzaak ervan zich heeft voorgedaan.
+
+
+8. Schadeloosstelling 
+
+U komt overeen [BRAND_NAME_PROXY], haar aandeelhouders, directeuren, management, belanghebbende partij, werknemers, dochterondernemingen en gelieerde ondernemingen te vrijwaren, verdedigen en beschermen tegen eisen, verlies, aansprakelijkheid, claims, kosten (inclusief de kosten voor advocaten), jegens [BRAND_NAME_PROXY] door derden die te wijten zijn aan, voortkomen uit of verband houden met uw misbruik van [BRAND_NAME_PROXY] Services die inbreuk maken op de rechten van derden.
+
+
+
+9. Beëindiging van de Service
+
+Als u zich niet houdt aan de Voorwaarden, is het u juridisch niet toegestaan gebruik te maken van [BRAND_NAME_PROXY] Services. In degelijke gevallen dient u alle kopieën van [BRAND_NAME_PROXY] Software te vernietigen en verwijderen. Dit heeft echter geen invloed op de garantie op uw eigen [BRAND_NAME_PROXY] Handset.
+
+In het geval van een inbreuk zoals hierboven vermeld, gaat u ermee akkoord dat [BRAND_NAME_PROXY] het recht heeft over te gaan tot het volgende,
+
+(a)\u0009Directe beëindiging van uw recht toegang te krijgen tot een [BRAND_NAME_PROXY]-account; en/of
+
+(b)\u0009Blokkering van uw toegang tot een [BRAND_NAME_PROXY] Service-account
+
+
+
+U gaat er ook mee akkoord dat elke schending van de Voorwaarden leidt tot onherstelbare schade voor [BRAND_NAME_PROXY], waarvoor een monetaire schadeloosstelling ontoereikend zou zijn, en u stemt ermee in dat [BRAND_NAME_PROXY] elke gerechtelijke of redelijke compensatie ontvangt die [BRAND_NAME_PROXY] in dergelijke omstandigheden noodzakelijk of geëigend acht. Deze vorderingen komen op andere vorderingen in rechte die [BRAND_NAME_PROXY] mogelijk heeft.
+
+
+
+10. Toepasselijk recht en bevoegde rechtbank
+
+U gaat ermee akkoord dat alle geschillen met betrekking tot de Voorwaarden onderhevig zijn aan de wetten van de Republiek China (R.O.C.), zonder inachtneming van haar rechtsconflicten. 
+
+
+
+U gaat akkoord met de persoonlijke jurisdictie van en locatie in de Taiwan Taipei District-rechtbank, en doet hierbij afstand van enig bezwaar tegen een dergelijke jurisdictie en locatie.
+
+
+
+Indien een geschil niet kan worden opgelost door een minnelijke schikking tussen u en [BRAND_NAME_PROXY], kan door u of [BRAND_NAME_PROXY] arbitrage worden gezocht. Als het geschil niet binnen 30 kalenderdagen door middel van arbitrage kan worden opgelost, wordt het aanhangig gemaakt bij de hierboven genoemde districtsrechtbank.
+
+
+
+11. Algemene clausule
+
+De koppen in de Voorwaarden worden slechts voor gemaksdoeleinden gebruikt.
+ 
+Indien [BRAND_NAME_PROXY] geen actie onderneemt tegen door u gepleegde inbreuk, houdt dat niet in dat afstand wordt gedaan van de rechten ten aanzien van een dergelijke inbreuk of van toekomstige of soortgelijke inbreuken.
+
+
+
+Indien een rechtbank met bevoegde jurisdictie bepaalt dat enig deel van deze Voorwaarden ongeldig of niet-afdwingbaar is, wordt de ongeldige of niet-afdwingbare bepaling vervangen door een geldige, afdwingbare bepaling die het meest overeenkomt met de intentie van de oorspronkelijke bepaling en blijven de overige Voorwaarden van kracht. 
+
+
+
+U mag de Voorwaarden niet overdragen en u mag uw in de Voorwaarden beschreven rechten niet overdragen of in sublicentie geven.
+
+
+
+[BRAND_NAME_PROXY] mag deze Voorwaarden op elk moment, geheel of gedeeltelijk, overdragen met of zonder kennisgeving aan u. 
+
+
+
+Deze Voorwaarden hebben voorrang op alle eerdere of gelijktijdige communicatie van enig soort tussen u en [BRAND_NAME_PROXY] met betrekking tot de Site.
+
+
+
+12. Volledige overeenkomst
+
+De Voorwaarden en toevoegingen erop vormen de volledige overeenkomst tussen u en [BRAND_NAME_PROXY] met betrekking tot [BRAND_NAME_PROXY] Services.
+
+
+
+13. Wijziging van de Voorwaarden
+
+[BRAND_NAME_PROXY] kan inhoud van de Voorwaarden naar eigen goeddunken van tijd tot tijd bijwerken, wijzigen of verwijderen.
+
+
+
+Lees de voorwaarden die worden gepubliceerd op de website van [BRAND_NAME_PROXY]. Deze kunnen afwijken van de voorwaarden die u oorspronkelijk hebt gelezen.
+
+
+
+Als u de software en de [BRAND_NAME_PROXY] Handset blijft gebruiken, impliceert dit dat u de wijziging accepteert.
+
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] juridisch</string>
+    <string name="finish_button_label">VOLTOOIEN</string>
+    <string name="google_account_add_account">Inloggen met Google</string>
+    <string name="google_account_intro_description">Stel een Google-account in om te profiteren van alle Google-services.</string>
+    <string name="google_account_intro_title">Google-account</string>
+    <string name="hmd_legal_message">"Dienstvoorwaarden 
+ 
+Ingangsdatum 14 oktober 2016 
+ 
+1. Aanvaarding 
+Deze HMD Global-dienstvoorwaarden samen met het Privacybeleid en alle andere aanvullende voorwaarden en informatie die binnen de Dienst worden geleverd (gezamenlijk 'Voorwaarden'), gelden voor uw gebruik van de dienst, website, inhoud en software (gezamenlijk de 'Dienst'). Door te registreren voor de Dienst of enig deel ervan of door de Dienst te gebruiken, gaat u akkoord met deze voorwaarden. 
+ 
+De Voorwaarden vormen een overeenkomst tussen u en HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finland, met inbegrip van haar dochterondernemingen en leveranciers (collectief: 'HMD Global'), en definiëren uw rechten en verantwoordelijkheden en die van HMD Global met betrekking tot de Dienst. 
+ 
+2. Geschiktheid 
+Om de dienst te gebruiken, moet u ten minste dertien (13) jaar oud zijn. Als u jonger bent dan dertien (13) jaar oud, of ten minste dertien (13) jaar oud, maar minderjarig bent in het land waar u woont, moet uw ouder of voogd uw registratie accepteren namens u en uw gebruik van de Dienst goedkeuren. Iedereen die het registratieformulier invult moet wettelijk bevoegd zijn. 
+ 
+3. Registratie en beëindiging 
+Om een ​​dienst te gebruiken kan het nodig zijn om uzelf te registreren en een HMD-account te maken met een gebruikersnaam en een wachtwoord waarvoor afzonderlijke voorwaarden kunnen gelden. U moet ons mogelijk voorzien van bepaalde persoonlijke en andere informatie. HMD Global kan uw e-mailadres controleren voordat uw HMD-account kan worden gebruikt. Bij het eerste gebruik van het apparaat en elke keer dat u het Nokia-apparaat bijwerkt, zal er een SMS-bericht naar HMD Global worden verzonden. De aanmaak van een HMD-account vereist gegevensoverdracht. Gegevensoverdrachtskosten kunnen van toepassing zijn. 
+ 
+U stemt ermee in correcte en volledige informatie te verstrekken wanneer u zich inschrijft en om de Dienst actueel te houden. U moet passende maatregelen nemen om uw gebruikersnaam en wachtwoord te beschermen tegen misbruik door anderen en HMD Global onverwijld op de hoogte stellen in geval van misbruik. U, en uw ouder of voogd als u minderjarig bent, bent persoonlijk verantwoordelijk voor het gebruik van de dienst. 
+ 
+U kunt uw registratie beëindigen indien u niet langer van de Dienst gebruik wenst te maken. Na beëindiging heeft u niet langer meer toegang tot de Dienst. HMD Global kan uw toegang tot bepaalde onderdelen van de Dienst beperken of beëindigen als HMD Global redelijkerwijs van mening is dat u de Voorwaarden hebt overtreden of, met voorafgaande kennisgeving, wanneer u zich niet hebt aangemeld met uw gebruikersnaam voor de Dienst in de afgelopen zes (6) maanden. 
+ 
+Behalve zoals uiteengezet in het privacybeleid, is HMD Global niet aansprakelijk voor verwijdering of verlies van de informatie of inhoud die u aan de Dienst hebt opgegeven. Wanneer informatie of inhoud van de dienst wordt verwijderd door u of HMD Global, kunnen er elders nog sporen of kopieën achterblijven. 
+ 
+4. Licenties 
+HMD Global verleent u een niet-exclusieve, niet-overdraagbare licentie, die te allen tijde herroepbaar is door HMD Global naar eigen inzicht, voor toegang tot en gebruik van de dienst strikt in overeenstemming met de voorwaarden. Het gebruik van de dienst verleent u geen enkel intellectueel eigendomsrecht op of met betrekking tot informatie of inhoud van de dienst. 
+ 
+Als onderdeel van de dienst kan HMD Global u voorzien van inhoud ontwikkeld door HMD Global of haar licentiegevers ('Inhoud'). HMD Global verleent u een niet-exclusieve en eeuwigdurende licentie om Inhoud voor het doel waarvoor deze is bedoeld te gebruiken, tenzij anders gedefinieerd in de toepasselijke voorwaarden of de inkooporder. Sommige Inhoud is mogelijk alleen beschikbaar voor inwoners van bepaalde geografische gebieden. U bent gebonden aan beperkingen die van toepassing zijn op specifieke Inhoud die u verkrijgt via de Dienst. Elke licentie die wordt verworven voor Inhoud van derden is een bindende overeenkomst tussen u en de derde partij die de Inhoud levert. U beschikt alleen over de rechten op de Inhoud die hier uitdrukkelijk worden toegekend. 
+ 
+HMD Global kan u voorzien van bepaalde software ontwikkeld door HMD Global, of haar licentiegevers ('Software') als onderdeel van de Dienst. Uw gebruik van software kan onderworpen zijn aan afzonderlijke voorwaarden die u voor het gebruik van de software moeten accepteren. Als er geen afzonderlijke bepalingen en voorwaarden van toepassing zijn op dergelijke Software, gelden de volgende voorwaarden: HMD Global verleent u een beperkt, niet-exclusief, niet-overdraagbaar recht om de software te installeren en te gebruiken op uw computer en/of mobiel apparaat. U mag de Software niet kopiëren, met uitzondering van 1 back-up voor archiveringsdoeleinden. U mag de broncode niet distribueren, wijzigen, vertalen, reproduceren, verkopen, in sublicentie geven, verhuren of leasen, u mag het recht op gebruik van de broncode niet overdragen en u mag de broncode niet onderwerpen aan reverse-engineering of anderszins trachten de broncode van de software te ontdekken of afgeleide producten van de Software te maken. Voor open source software onder licentie zijn toepasselijke open source licentievoorwaarden van toepassing. Uw gebruik van de Software geeft aan dat u akkoord gaat met de van toepassing zijnde voorwaarden. 
+ 
+De Software kan onderhevig zijn aan exportbeperkingen op grond van de Amerikaanse Export Administration Regulations en andere regelgeving met betrekking tot import- en exportbeperkingen. U stemt ermee in zich strikt houden aan alle toepasselijke import- en exportregels en erkent dat u de verantwoordelijkheid hebt voor het verkrijgen van vergunningen voor de export, wederuitvoer, overdracht of import van dergelijke Software. 
+ 
+U bent mogelijk in staat om informatie of inhoud ('Materiaal') in te dienen bij de Dienst. HMD Global beschouwt dit als uw materiaal. Uuw inzending van materiaal houdt geen overdracht in van eigendomsrechten op het materiaal aan HMD Global. HMD Global verzendt alleen het materiaal en is niet verantwoordelijk voor redactionele controle ervan. Door het indienen van Materiaal bij de Dienst, verleent u HMD Global een wereldwijde, niet-exclusieve, sublicentieerbare, toewijsbare, volledig betaalde, royalty-vrije, eeuwigdurende en onherroepelijke licentie voor het gebruiken, kopiëren, publiekelijk uitvoeren, weergeven, publiceren in alle media en wijzigen van het Materiaal voor opname van het Materiaal in andere werken, en kent u vergelijkbare sublicenties toe voor zover dit nodig is voor HMD Global om de dienst te leveren. U bent mogelijk in staat om deze toekenning aan te passen in de privacyinstellingen en andere instellingen van de Dienst. 
+ 
+U bent zelf verantwoordelijk voor het maken van back-ups van de gegevens die u op de Dienst opslaat, inclusief inhoud die u uploadt. Als de dienst wordt stopgezet of geannuleerd, kan HMD Global permanent uw gegevens verwijderen. HMD Global is niet verplicht om gegevens terug te sturen naar u nadat de dienst is stopgezet of geannuleerd. 
+ 
+5. Gebruik van de Dienst 
+U stemt ermee in: 
+• Zich te houden aan de geldende wetten, de Voorwaarden en goede manieren; 
+• De Dienst voor uw persoonlijke, niet-commerciële doeleinden te gebruiken; 
+• Geen onwettig, beledigend, onjuist, misleidend, beledigend, pornografisch, intimiderend, lasterlijk of anderszins ongepast materiaal in te dienen; 
+• Te zorgen voor elke toestemming, goedkeuring of licenties die wettelijk nodig kunnen zijn voor u om enig materiaal in te dienen; 
+• De privacy van anderen te respecteren; 
+• Geen spam, onredelijk grote bestanden, kettingbrieven, piramidespelen of virussen te distribueren of publiceren; 
+• Geen andere technologieën te gebruiken of andere activiteiten te initiëren die de Dienst of het belang of eigendom van de Dienst-gebruikers kunnen schaden; 
+• Geen geautomatiseerde systemen of middelen te gebruiken voor toegang tot enig onderdeel van de Dienst of verkrijging, kopiëring of controle ervan; en 
+• Verantwoordelijkheid te accepteren voor de gevolgen die verband houden met het Materiaal dat u opgeeft. 
+ 
+HMD Global mag, maar is niet verplicht om: 
+• Enige inhoud of materiaal te controleren en te beheren; 
+• Enig materiaal van de Dienst te verwijderen; en 
+• De toegang tot enig deel van de Dienst te beperken op elk gewenst moment naar eigen inzicht. 
+ 
+6. Inhoud 
+Voordat u enige Inhoud downloadt of er zich toegang toe verschaft, dient u te controleren of voor de inhoud die u wilt weergeven een minimumleeftijd geldt dan wel of deze is gemarkeerd als potentieel 'aanstootgevend' of 'expliciet'. 
+ 
+HMD Global is niet verantwoordelijk voor eventuele claims of overtreding veroorzaakt of ondergaan door uw toegang tot dergelijke inhoud. 
+ 
+U stemt ermee in: 
+• De inhoud alleen te gebruiken voor uw persoonlijke, niet-commerciële doeleinden; 
+• De inhoud te gebruiken in overeenstemming met de beperkingen in de toepasselijke wetten, aanvullende voorwaarden, richtlijnen of het toepasselijke beleid, of op de productpagina's die van toepassing zijn op dat specifieke deel van de Inhoud; 
+• Geen kopieën te maken, geven, verkopen, wederverkopen, uitlenen, verhuren, aan te bieden, uit te zenden, te sturen, te distribueren, over te dragen, te communiceren naar een publiek, te reproduceren, te wijzigen, weer te geven, uit te voeren, commercieel te exploiteren of de Inhoud beschikbaar te maken, tenzij anderszins is toegestaan ​​in de van toepassing zijnde Voorwaarden, en om HMD Global meteen op de hoogte te stellen van een dergelijk ongeoorloofd gebruik; 
+• De toepasselijke regels voor het gebruik niet te verwijderen, te omzeilen, aan reverse engineering te onderwerpen, te ontsleutelen of anderszins te wijzigen of hierin in te grijpen, of te trachten het beheer van digitale rechten te omzeilen of beveiligingsmaatregelen in verband met de Inhoud of andere technologieën waarmee de toegang tot of het gebruik van de Inhoud of de identificatiegegevens daarvan wordt geregeld, te kopiëren; 
+•Geen geautomatiseerde systemen of middelen te gebruiken, met uitzondering van de middelen die door ons worden geleverd, voor de selectie of het downloaden van de Inhoud; en 
+• Uw wachtwoord niet aan anderen te verstrekken of anderszins toestaan ​​dat andere mensen toegang hebben tot de Inhoud. De beperkingen op het kopiëren die van toepassing zijn op toepasselijke media zijn ook van toepassing op de Inhoud waartoe u toegang heeft als onderdeel van deze Dienst. 
+ 
+De Inhoud is eigendom van en/of in beheer van HMD Global en/of zijn respectieve licentiegevers en wordt beschermd door intellectuele eigendomsrechten. De derde partij die Inhoud levert is volledig zelf verantwoordelijk voor de Inhoud die deze aanbiedt, voor alle garanties voor zover dergelijke garanties niet zijn afgewezen en voor eventuele aanspraken die u heeft met betrekking tot die Inhoud of het gebruik van die Inhoud. HMD Global kan echter de licentievoorwaarden van die derde partij afdwingen ten opzichte van u als derdebegunstigde van deze voorwaarden. De derde partijen die Inhoud leveren, zijn derdebegunstigden onder deze Voorwaarden en kunnen de bepalingen die rechtstreeks betrekking hebben op de Inhoud waarvoor zij rechten hebben, afdwingen. HMD Global kan als agent handelen voor derde partijen die Inhoud leveren middels het verstrekken van die Inhoud aan u. HMD Global is geen partij bij de transactie tussen u en de derde partij die dergelijke Inhoud levert. 
+ 
+7. Beschuldigingen van inbreuk op het auteursrecht 
+HMD Global respecteert de intellectuele eigendomsrechten van derden. Indien u een kennisgeving wilt zenden met betrekking tot inbreuk op intellectuele eigendomsrechten, met inbegrip van claims van inbreuk op het auteursrecht, kunt u gebruik maken van onze procedures voor het indienen van kennisgevingen van inbreuk. VRAGEN DIE GEEN VERBAND HOUDEN MET DEZE PROCEDURE WORDEN NIET BEANTWOORD. 
+ 
+HMD Global maakt gebruik van de processen die zijn uiteengezet in titel 17, United States Code, sectie 512 om te reageren op meldingen van inbreuk op het auteursrecht. In bepaalde omstandigheden kan HMD Global mogelijk ook accounts uitschakelen of beëindigen van gebruikers van HMD Global-diensten indien deze herhaaldelijk inbreuk maken. 
+ 
+8. Kennisgevingen 
+HMD Global kan kennisgevingen publiceren binnen de Dienst. HMD Global kan kennisgevingen over producten en diensten ook sturen naar het e-mailadres of telefoonnummer dat u aan ons hebt verstrekt. U wordt geacht deze kennisgevingen te hebben ontvangen binnen uiterlijk zeven (7) dagen nadat HMD Global deze heeft verzenden of heeft bekendgemaakt. Met uw voortgezet gebruik van de Dienst bevestigt u uw ontvangst van alle kennisgevingen, ongeacht de afleveringsmethode. 
+ 
+9. Vergoedingen 
+Uw gebruik van de Dienst kan, of kan in de toekomst, aan een vergoeding zijn onderworpen. 
+ 
+Eventuele vergoedingen die door HMD Global in rekening worden gebracht zullen afzonderlijk in verband met de Dienst worden aangekondigd. 
+ 
+Het gebruik van de Dienst kan zorgen voor overdracht van gegevens via het netwerk van uw dienstprovider. De prijzen die worden weergegeven voor de Dienst zijn exclusief de kosten voor mogelijke datatransmissie, sms, spraak of andere dienstverleningskosten die uw netwerkprovider in rekening brengt. 
+ 
+HMD Global aanvaardt geen verantwoordelijkheid voor de betaling van eventuele kosten die uw dienstverleners in rekening brengen. 
+ 
+10. Bestellings- en betalingsvoorwaarden 
+'Bestelling' is de selectie van betaalde Inhoud en/of abonnement op Inhoud aangeboden door HMD Global en verkrijgbaar in de Dienst en de indiening van de betaalmethode, evenals het indienen van de bestelling door het selecteren van de knoppen 'Kopen', 'ok' ', 'Ik stem toe' of andere gelijkaardige bevestiging van acceptatie in de bestellingsstroom of het verstrekken van een andere indicatie van de acceptatie van voorwaarden die aan u worden gepresenteerd in de bestellingsstroom. 
+ 
+Om een ​​bestelling te plaatsen binnen de Dienst, dient u de leeftijd waarop u wettelijk bent bevoegd of meerderjarig bent volgens de toepasselijke wetgeving te hebben bereikt. Als u nog niet de leeftijd van wettelijke bevoegdheid hebt bereikt of nog niet meerderjarig bent, kunt u alleen bestellingen plaatsen met voorafgaande toestemming van uw ouders of wettelijke voogd. 
+ 
+U stemt ermee in dat alle bestellingen rechtsgeldig en bindend zijn. Alle bestellingen zijn onderhevig aan acceptatie door HMD Global. 
+ 
+U kunt betalen met een creditcard of betaalpas, via uw netwerkprovider of via andere betaalmethoden indien beschikbaar. 
+ 
+Uw creditcard of betaalpas moet een factuuradres hebben in het land waar de Inhoud wordt aangeboden door de Dienst. HMD Global zal nadat u uw bestelling hebt gedaan het bedrag binnen een redelijke termijn afschrijven van uw creditcard of bankrekening. Alle creditcardbetalingen zijn onderworpen aan geldigheidscontroles en toestemming van de kaartuitgever. 
+ 
+Als u kiest voor facturering via uw netwerkprovider, wordt de rekening weergegeven op uw gsm-factuur of afgetrokken van uw prepaid account in het geval u prepaid gebruikt. Sommige netwerkproviders kunnen voor uw gebruik van de dienst aanvullende voorwaarden stellen waaronder beperkingen aan het maximale bedrag dat kan worden gefactureerd via de netwerkprovider. Kosten die de door de netwerkprovider gestelde grenzen of het saldo overschrijden kunnen worden geweigerd. 
+ 
+U gaat ermee akkoord de kosten in verband met uw Bestelling te betalen, ervoor te zorgen dat de betaalwijze geldig is op het moment van de Bestelling, dat u de rechtmatige houder van de betaalwijze bent en dat de betaalwijze wordt gebruikt binnen de betalingslimieten. 
+ 
+De inhoud die wordt geleverd wordt aan u in licentie gegeven. U stemt ermee in om een ​​dergelijke inhoud alleen te gebruiken zoals is toegestaan ​​in deze Voorwaarden en in eventuele aanvullende voorwaarden die u kunnen worden aangeboden in de bestellingsstroom. 
+ 
+De Dienst kan abonnementen aanbieden. U machtigt de Dienst voor incassering van periodieke betalingen gedurende de periode van het abonnement. De Dienst kan ook in de vorm van een proefabonnement beschikbaar zijn. Als uw Bestelling een ​​proefperiode betreft (ook bekend als try-and-buy), kunt u worden gefactureerd wanneer de proefperiode is verlopen, tenzij u annuleert in overeenstemming met de abonnements-/proefvoorwaarden. 
+ 
+De prijzen in de Dienst kunnen van tijd tot tijd wijzigen. Prijzen zijn inclusief toepasselijke belastingen van kracht op het moment van de transactie, tenzij anders vermeld. Er kunnen zich gevallen voordoen waarbij u extra kosten in rekening worden gebracht door uw bank of creditcardmaatschappij op basis van de bij het omrekenen van valuta gehanteerde tarieven en/of extra kosten die worden bepaald. HMD Global aanvaardt geen aansprakelijkheid voor de bankbetaling of enige dienstkosten of heffingen van derde partijen. 
+ 
+11. Annuleringen en restituties 
+U gaat akkoord met de elektronische levering van Inhoud die gelijktijdig wordt gestart met de plaatsing van uw bestelling. U kunt uw bestelling niet annuleren nadat deze is verwerkt. De aard van de inhoud is zodanig dat deze niet kan worden geretourneerd. 
+ 
+In het geval dat u na uw bestelling ontdekt, en u HMD Global er binnen 48 uur van op de hoogte stelt dat (a) de Inhoud die u hebt besteld defect is; (b) de Inhoud die HMD Global levert aan u niet overeenkomt met de beschrijving van de inhoud die u bestelde via de Dienst; of (c) technische problemen de levering van uw inhoud hebben vertraagd of verhinderd of er per ongeluk meerdere bestellingen zijn geplaatst door dergelijke technische problemen, is uw enige en exclusieve remedie met betrekking tot dergelijke Inhoud ofwel de vervanging van dergelijke Inhoud of teruggaaf van de voor een dergelijke Inhoud betaalde prijs, zoals uitsluitend door HMD Global bepaald. 
+ 
+Anderszins is er geen restitutie beschikbaar. Als u een van de bovenstaande problemen ondervindt, kunt u contact opnemen HMD Global-klantenservice. 
+ 
+Houd u er rekening mee dat HMD Global-klantenservice mogelijk niet in staat is om uw klantenserviceverzoek te verwerken indien u niet in staat bent om een transactie-ID op te geven, die aan u wordt geleverd door HMD Global na uw Bestelling via de Dienst. HMD Global kan alleen restitutieverzoeken voor Inhoud verwerken waarvan de totale prijs boven de monetaire limiet is die is bepaald door de toepasselijke lokale wetgeving. 
+ 
+12. Feedback aan HMD Global 
+Door het indienen van ideeën, feedback en/of voorstellen ('Feedback') bij HMD Global via de Dienst of andere middelen, erkent u en gaat ermee akkoord dat: (1) HMD Global ontwikkelingsideeën kan hebben die lijken op de Feedback; (2) uw Feedback geen vertrouwelijke of geheime informatie bevat van u of een derde partij; (3) HMD Global niet verplicht is tot geheimhouding met betrekking tot de feedback; (4) HMD Global de Feedback vrijelijk kan gebruiken, verspreiden, benutten en verder ontwikkelen en aanpassen voor welk doel dan ook; en (5) u geen recht op schadevergoeding hebt van welke aard dan ook van HMD Global. 
+ 
+13. Sociale activiteiten en locatiedeling 
+U kunt functies van de Dienst gebruiken om uw locatie, de status, de inhoud, Materialen of persoonlijke informatie te delen of om te communiceren met andere gebruikers, sites en diensten. Door het gebruik van deze functies gaat u ermee akkoord dat HMD Global die informatie kan gebruiken en die informatie aan andere diensten en personen waarmee u communiceert of deze informatie deelt, beschikbaar kan stellen. Gebruikers van deze diensten en personen, zoals uw contacten, kunnen uw locatie, status en/of persoonlijke informatie zien. Bij het gebruik van deze functies stemt u ermee in om geen informatie, Inhoud of Materiaal te delen of om te linken naar een dienst of site die: (a) inhoud of ander materiaal bevat dat illegaal is of ongeschikt; of (b) intellectuele eigendomsrechten exploiteert zonder toestemming, of gebruikers aanmoedigt tot piraterij. HMD Global is niet betrokken bij enige interactie. Interacties vinden uitsluitend plaats tussen u en de andere gebruiker(s). 
+ 
+14. Beschikbaarheid en technische vereisten 
+De beschikbaarheid van Inhoud en de Dienst kan variëren en is onderworpen aan HMD Globals eigen inzicht. HMD Global wijst uitdrukkelijk elke garantie dat een bepaalde inhoud of dienst beschikbaar zal zijn af. De Dienst is mogelijk niet in alle landen beschikbaar en wordt mogelijk alleen in bepaalde talen aangeboden. De dienst, werking en een aantal functies kunnen ook afhankelijk zijn van het netwerk, de compatibiliteit van de gebruikte apparatuur en de inhoudsindelingen die worden ondersteund. 
+ 
+Om toegang te krijgen tot de dienst, kan het nodig zijn om specifieke software te downloaden die is ontwikkeld door HMD Global of door een andere partij. 
+ 
+HMD Global kan naar eigen inzicht in zijn geheel of gedeeltelijk de Dienst wijzigen, corrigeren of stoppen. De Dienst is mogelijk niet beschikbaar tijdens onderhoudswerkzaamheden en op andere momenten. Om ervoor te zorgen dat u over de nieuwste software van het apparaat en toepassingen beschikt, kan uw apparaat automatisch controleren op de beschikbaarheid van software-updates van HMD Global. Indien deze worden gevonden, wordt u gevraagd om de installatie goed te keuren. U kunt de automatische controle op updates uitschakelen via de instellingen in uw apparaat. U kunt ook software installeren via de beschikbare software-updatekanalen. Als HMD Global van mening is dat een software-update belangrijk of cruciaal is, kunt u mogelijk niet doorgaan met uw gebruik van de vorige versie van de software. HMD Global kan uw gebruik van de vorige versie van de software of dienst voorkomen totdat u de update installeert. 
+ 
+HMD Global kan enige Inhoud of Software in uw Dienst-account om welke reden dan ook uitschakelen en dergelijke Inhoud of Software verwijderen en/of kopieën van enige toepassing op uw apparaat uitschakelen om de Dienst, toepassingsproviders, draadloze netwerken met behulp van het netwerk waarvan u zich toegang verschaft tot de dienst of enige andere betrokken of mogelijkerwijs betrokken partijen te beschermen. 
+ 
+Een bepaalde dienst kan een pre-release versie zijn, bijvoorbeeld een beta release, en werkt mogelijk niet op de manier waarop een definitieve versie werkt. HMD Global kan enige versie van Dienst of Software significant veranderen of beslissen om geen definitieve versie vrij te geven. 
+ 
+15. Links naar websites van derden en Inhoud 
+HMD Global kan toegang tot websites en diensten op het internet of voorgeladen clients toevoegen die u in staat stellen om te communiceren met websites en diensten die eigendom zijn van of beheerd worden door derden en die geen deel uitmaken van de Dienst. U moet de voorwaarden van deze sites of diensten voor het gebruik van deze sites of diensten doornemen en ermee akkoord gaan. 
+ 
+HMD Global heeft geen controle over de inhoud, websites of diensten van derden en aanvaardt geen verantwoordelijkheid voor geleverde diensten die, of materiaal dat is gemaakt of gepubliceerd op deze sites of diensten van derden. Een link naar een site van derden impliceert niet dat HMD Global de site of de producten of diensten waarnaar verwezen wordt in de site onderschrijft. 
+ 
+Bovendien kunnen u en andere gebruikers inhoud en links creëren naar inhoud binnen de Dienst die niet anderszins bij de Dienst is ingediend. HMD Global is niet verantwoordelijk voor dit soort inhoud of links. 
+ 
+16. Advertenties 
+De Dienst kan advertenties bevatten. Advertenties kunnen worden gericht op de inhoud of de informatie die is opgeslagen op de Dienst, zoekvragen die worden gedaan via de Dienst, of andere informatie. 
+ 
+17. Persoonlijke gegevens 
+Het privacybeleid en eventuele aanvullende privacy-informatie die ter beschikking gesteld is voor u regelen het gebruik van uw persoonlijke gegevens. 
+ 
+18. Beperking van aansprakelijkheid 
+De dienst wordt geleverd op 'ZOALS DEZE IS'- en 'ALS BESCHIKBAAR'-basis. HMD Global garandeert niet dat de Dienst ononderbroken of fout- of virusvrij is. Er wordt geen enkele garantie van welke aard dan ook, expliciet of impliciet, inclusief maar niet beperkt tot eigendomsgaranties, niet-inbreuk, verkoopbaarheid of geschiktheid voor een bepaald doel, verstrekt met betrekking tot de beschikbaarheid, nauwkeurigheid, betrouwbaarheid, informatie of inhoud van de Dienst. U gaat er uitdrukkelijk mee akkoord en erkent dat het gebruik van de Dienst volledig op eigen risico is en dat u kunt worden blootgesteld aan inhoud uit verschillende bronnen. 
+ 
+Met uitzondering van aansprakelijkheid voor overlijden of persoonlijk letsel veroorzaakt door grove nalatigheid of opzettelijk wangedrag, zal HMD Global in geen geval aansprakelijk zijn voor enige indirecte, incidentele schade of gevolgschade die voortvloeit uit het gebruik van of onvermogen om de dienst te gebruiken. 
+ 
+19. Schadeloosstelling 
+U stemt ermee in HMD Global te verdedigen tegen en te vrijwaren van alle aanspraken van derden en alle aansprakelijkheid, aanslagen, verliezen, kosten of schade als gevolg van of voortvloeiend uit (i) uw schending van de voorwaarden, (ii) uw inbreuk op of schending van enige intellectuele eigendomsrechten, andere rechten of privacy van een derde partij, of (iii) misbruik van de Dienst door een derde partij, waar het misbruik mogelijk werd gemaakt doordat u hebt nagelaten redelijke maatregelen te nemen om uw gebruikersnaam en wachtwoord tegen misbruik te beschermen. 
+ 
+20. Overig 
+ 
+20.1 Jurisdictie 
+De Voorwaarden worden beheerst door de wetten van Finland, zonder verwijzing naar de bepalingen met betrekking tot rechtsconflicten. 
+ 
+20.2 Geldigheid 
+De Voorwaarden sluiten geen van uw verplichte rechten in uw woonland uit en beperken deze niet indien hiervan niet bij wet kan worden afgezien. Indien een bepaling van de Voorwaarden ongeldig blijkt te zijn, zullen de overige bepalingen niet worden aangetast en zal de ongeldige bepaling worden vervangen door een geldige bepaling die het dichtst bij het resultaat en het doel van de Voorwaarden komt. In het geval één of meerdere bepalingen van deze Voorwaarden niet relevant zijn voor uw gebruik van de Dienst, zullen deze geen invloed hebben op de geldigheid of afdwingbaarheid van enige andere bepaling van de Voorwaarden of de Voorwaarden als geheel. Als er een conflict tussen deze HMD Global-dienstvoorwaarden en het Privacybeleid is, prevaleren de bepalingen van deze HMD Global-dienstvoorwaarden. De bepalingen van de Algemene Voorwaarden die bedoeld zijn om ook na beëindiging van uw inschrijving te gelden blijven van kracht na beëindiging. 
+ 
+20.3 Wijzigingen in de Algemene Voorwaarden 
+HMD Global kan de Voorwaarden te allen tijde zonder voorafgaande kennisgeving wijzigen. Als dit beleid is veranderd op een wijze die substantieel en ongunstig is, zal HMD Global voorzien in een afzonderlijke kennisgeving van een dergelijke wijziging. 
+ 
+U bent verantwoordelijk voor het regelmatig opnieuw doornemen van de Voorwaarden. Uw voortgezet gebruik van de Dienst vormt uw instemming met eventuele wijzigingen en aanpassingen. 
+ 
+21. Intellectueel eigendom 
+De Dienst, Inhoud en Software zijn beschermd onder internationale auteursrechtwetten. HMD Global maakt aanspraak op het auteursrecht voor zijn Dienst, Inhoud, en Software met de maximale omvang die door de wet is toegestaan. Onder voorbehoud van de Voorwaarden behoudt HMD Global alle rechten, titels en belangen in de Dienst, de Inhoud, de Software en in alle andere producten, software en overige eigendommen van HMD Global die aan u zijn geleverd of door u worden gebruikt binnen de Dienst. 
+ 
+22. Toewijzing 
+HMD Global kan haar rechten en verplichtingen uit hoofde van deze voorwaarden toewijzen aan haar moederbedrijf, een van haar dochterondernemingen, of aan vennootschappen die gemeenschappelijk worden beheerd met HMD Global. Bovendien kan HMD Global haar rechten en verplichtingen uit hoofde van deze voorwaarden toewijzen aan een derde partij in verband met een fusie, overname, verkoop van activa, van rechtswege of anderszins."</string>
+    <string name="hmd_user_experience_program_message">Uw deelname aan het gebruikerservaringprogramma helpt HMD Global beter te begrijpen wat u fijn vindt aan uw Nokia-apparaat en welke verbeteringen u graag zou willen zien. Van tijd tot tijd ontvangen wij anonieme gegevens met technische kenmerken van uw apparaat, zoals bijvoorbeeld een bestand met gegevens over een software-crash die kan zijn voorgekomen. Dergelijke gegevens worden niet via een mobiele-telefoonverbinding verzonden. Wij horen graag wat u van uw Nokia-apparaat vindt!</string>
+    <string name="hmd_user_experience_program_title">Gebruikerservaringprogramma</string>
+    <string name="idle_too_long_toast">Deze telefoon is enige tijd niet gebruikt. Sluit nu af om stroom te behouden.</string>
+    <string name="language_selection_cancel_btn">ANNULEREN</string>
+    <string name="language_selection_title">Taal kiezen</string>
+    <string name="location_for_service">Gebruik Mijn locatie voor Google-zoekresultaten en andere Google-services.</string>
+    <string name="location_info_1">De locatieservice van Google verstrekt toepassingen uw locatie bij benadering, zonder dat GPS wordt gebruikt.</string>
+    <string name="location_info_2">U kunt deze functies uitschakelen in Instellingen, onder Locatieservices.</string>
+    <string name="location_network">De locatieservice van Google toestaan anonieme locatiegegevens te verzamelen. Deze gegevens worden ook verzameld wanneer geen toepassingen worden uitgevoerd.</string>
+    <string name="location_title">Google-locatie gebruiken</string>
+    <string name="nevigation_selection_back">Vorige</string>
+    <string name="nevigation_selection_home">Thuis</string>
+    <string name="nevigation_selection_recent">Recent</string>
+    <string name="nevigation_selection_text">U kunt achtergrondkleur en positie van toetsen Vorige/Recent wijzigen.</string>
+    <string name="nevigation_selection_title">Instellingen van navigatiebalk</string>
+    <string name="next_btn_lebel">VOLGENDE</string>
+    <string name="normal_date_format">Regionaal (%s)</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="setup_complete_hmd">U bent klaar...</string>
+    <string name="setup_complete_main">U bent</string>
+    <string name="setup_complete_sub">KLAAR.</string>
+    <string name="setup_completed_congratulations">Gefeliciteerd!</string>
+    <string name="sim_not_exist_toast">Controleer of u simkaart hebt geplaatst.</string>
+    <string name="skip_add_account_button_label">Niet nu</string>
+    <string name="skip_button_label">Overslaan</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Instemmen</string>
+    <string name="term_disagree_text">Niet akkoord</string>
+    <string name="terms_of_service_description">"
+Wanneer u services gebruikt die een netwerkverbinding vereisen, zoals weerbericht, internetservices, e-mail, een browser, enzovoort, kan dat extra kosten voor mobiel datagebruik met zich meebrengen. Als u de gebruikskosten voor uw mobiele data efficiënter wilt beheren, raden we aan bij uw provider een geschikt pakket voor mobiele service aan te vragen.
+
+Als u selecteert dat u akkoord gaat, staat u deze services toe indien nodig verbinding met het netwerk te maken.
+
+Bovendien zijn automatische software-updates standaard ingeschakeld. Als u over de meest recente software wilt beschikken, is enige gebruik van mobiele data noodzakelijk. U kunt de optie later altijd wijzigen in Instellingen.
+
+"</string>
+    <string name="terms_title">Datagebruik</string>
+    <string name="time_picker_title">Tijd:</string>
+    <string name="traffic_prompt_content">Als u niet akkoord gaat, moet u handmatig vragen om software-updates, weerberichten en andere informatie.</string>
+    <string name="upload_agent_des_text">"Doe mee met gebruikersprogramma. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Meer info&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Doe mee met het Nokia-gebruikersprogramma. &lt;a href='launch.UserExperienceActivity://Kode'>Meer informatie.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Meedoen met gebruikersprogramma</string>
+    <string name="v7_preference_off">UIT</string>
+    <string name="v7_preference_on">AAN</string>
+    <string name="welcome_hmd_term_of_use_2">"Als u op de pijl tikt, betekent dit dat u akkoord gaat met de &lt;a href='launch.TermOfServiceActivity://Kode'>servicevoorwaarden&lt;/a> en het &lt;a href='launch.AddUploadAgentHandler://Kode'>privacybeleid&lt;/a>. De informatie over de activering van het apparaat wordt samen met een eenmalige apparaatlocatie naar HMD Global gestuurd. Mogelijk zijn er gegevenstarieven."</string>
+    <string name="welcome_infocus_term_of_use">"Door op de pijl te tikken accepteert u de &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Voorwaarden&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Aan de slag</string>
+    <string name="welcome_message">Welkom</string>
+    <string name="welcome_start_button_label">START</string>
+    <string name="welcome_vision_settings_button_label">Zichtinstellingen</string>
+    <string name="wifi_picker_connection_des_text">Als u de WLAN-verbinding uitschakelt, kan dat leiden tot kosten wanneer uw software via het mobiele netwerk wordt geverifieerd.</string>
+    <string name="wifi_picker_connection_negative">Verbinden</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN verbinden</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Netwerkverbinding</string>
+    <string name="wifi_picker_warning_des_text">De telefoon kan pas controleren of uw software up-to-date is wanneer u een internetverbinding hebt.</string>
+    <string name="wifi_picker_warning_negative">Toch overslaan</string>
+    <string name="wifi_picker_warning_positive">Niet overslaan</string>
+    <string name="wifi_picker_warning_title">Waarschuwing</string>
+    <string name="zone_auto">Automatische tijdzone</string>
+    <string name="zone_auto_summaryOff">Netwerktijdzone gebruiken</string>
+    <string name="zone_auto_summaryOn">Netwerktijdzone gebruiken</string>
+    <string name="sugarsync_intro_description">U kunt van naadloze integratie van cloudopslag met SugarSync profiteren door enkele eenvoudige stappen uit te voeren.</string>
+</resources>

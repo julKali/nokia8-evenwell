@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/text_hint" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/showtext" style="@style/FQCText" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:id="@id/text_test" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/text_test" android:layout_above="@id/image" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/FQCText" />
+        <ImageView android:id="@id/image" android:layout_width="160.0dip" android:layout_height="160.0dip" android:src="@drawable/fih_compass_calibration_x" />
+    </LinearLayout>
+</LinearLayout>

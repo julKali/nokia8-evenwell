@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/container_material" android:background="@color/siui_dialog_panel" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:scrollbarSize="4.0dip" android:scrollbarThumbVertical="@drawable/siui_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textSize="16.0sp" android:textColor="@color/siui_text_color_default" android:id="@id/txtPrivacy" android:background="@color/siui_dialog_panel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/siui_privacy_dialog_margin_default" android:layout_marginRight="@dimen/siui_privacy_dialog_margin_default" />
+    </ScrollView>
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button android:textSize="@dimen/bottom_button_text_size_default" android:textColor="@color/privacy_dialog_button_color_default" android:gravity="center" android:id="@id/dialog_button_ok" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/siui_privacy_dialog_margin_default" android:text="@android:string/ok" android:layout_weight="1.0" android:layout_alignParentRight="true" style="@style/EditNotesButton" />
+    </RelativeLayout>
+</LinearLayout>

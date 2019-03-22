@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>סטטי</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>זהה באופן אוטומטי</item>
+        <item>התייחסות כאל מוגבל</item>
+        <item>התייחסות כאל לא מוגבל</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>ללא</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ללא</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>ללא</item>
+        <item>ידני</item>
+        <item>הגדרה אוטומטית של שרת Proxy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>חלשה</item>
+        <item>סבירה</item>
+        <item>טובה</item>
+        <item>מצוינת</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>מחפש…</item>
+        <item>מתחבר…</item>
+        <item>מאמת…</item>
+        <item>מקבל כתובת IP…</item>
+        <item>מחובר</item>
+        <item>בהשעיה</item>
+        <item>מתנתק…</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>חסום</item>
+        <item>נמנע זמנית מחיבור חלש</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>מחפש…</item>
+        <item>מתחבר אל %1$s…</item>
+        <item>מאמת עם %1$s…</item>
+        <item>מקבל כתובת IP מ-%1$s…</item>
+        <item>מחובר אל %1$s</item>
+        <item>בהשעיה</item>
+        <item>מתנתק מ-%1$s…</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>חסום</item>
+        <item>נמנע זמנית מחיבור חלש</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI הקסה-דצימלי</item>
+    </string-array>
+</resources>

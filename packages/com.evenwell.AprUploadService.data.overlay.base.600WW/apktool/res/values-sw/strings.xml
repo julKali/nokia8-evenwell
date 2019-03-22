@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Sera ya faragha ya HMD</string>
+    <string name="privacy_activity">Sera ya faragha ya HMD</string>
+    <string name="go_label">Umemaliza</string>
+    <string name="agree">Kubali</string>
+    <string name="see_detail">Maelezo</string>
+    <string name="next_btn_lebel">Rudi</string>
+    <string name="app_name">Utambuzi wa mfumo</string>
+    <string name="setting_page_name">Mpango wa Uzoefu wa Watumiaji</string>
+    <string name="send_diag_dialog_any_network">Wakati kuna muunganisho wa data unaopatikana</string>
+    <string name="send_diag_dialog_wifi">Wakati kuna muunganisho wa Wi-Fi unaopatikana</string>
+    <string name="send_diag_dialog_wlan">Wakati kuna muunganisho wa WLAN unaopatikana</string>
+    <string name="send_diag_dialog_title">Wasilisha ripoti ya utambuzi</string>
+    <string name="diagnostics_setting">Ripoti ya utambuzi</string>
+    <string name="diagnostics_report">Ripoti ya utambuzi</string>
+    <string name="diagnostics_report_summary">Wakati makosa ya programu yanapotokea kwenye kifaa, kutuma ripoti ya utambuzi kunaweza kusababisha gharama ya matumizi ya data, na inapendekezwa uombe furushi la data kutoka kwa mtoa huduma wako.</string>
+    <string name="network_options">Chaguo za mtandao</string>
+    <string name="send_diagnostics">Wasilisha ripoti ya utambuzi</string>
+    <string name="diagnostics_description">Tafadhali tusaidie kuboresha bidhaa na huduma, na uturuhusu tukusanye data ya utambuzi wakati unapopata makosa au hitilafu za programu. Unaweza kurekebisha chaguo hili baadaye katika mipangilio.</string>
+    <string name="cancel_upload_confirm_msg">Uko karibu kutoka kwenye mpango wetu wa uzoefu wa mtumiaji. Makosa ya programu ambayo hutokea kwenye simu yako ya mkononi hatayawekwa na kutumwa, kwa hivyo hii haitaboresha uzoefu wako wa kutumia simu ya mkononi!</string>
+</resources>

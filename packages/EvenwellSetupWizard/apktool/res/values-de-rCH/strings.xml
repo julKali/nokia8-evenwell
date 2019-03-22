@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Bedienungshilfen</string>
+    <string name="backup_and_restore_description">"Ein zuvor gesichertes Konto lässt sich auf diesem Telefon wiederherstellen.
+
+Sie können die Sicherungseinstellungen jederzeit ändern."</string>
+    <string name="backup_and_restore_title">Sichern/Wiederherstellen</string>
+    <string name="datausage_dialog_negitive_btn">Abbrechen</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Datums- &amp; Uhrzeiteinstellungen</string>
+    <string name="date_and_time_settings_title">Datum &amp; Uhrzeit</string>
+    <string name="date_time_24hour">24-Stunden-Format</string>
+    <string name="date_time_auto">Autom. Datum/Uhrzeit</string>
+    <string name="date_time_auto_summaryOff">Zeit aus Netzwerk beziehen</string>
+    <string name="date_time_auto_summaryOn">Zeit aus Netzwerk beziehen</string>
+    <string name="date_time_set_date">Datum festlegen</string>
+    <string name="date_time_set_time">Uhrzeit festlegen</string>
+    <string name="date_time_set_timezone">Zeitzone auswählen</string>
+    <string name="device_checking_message">Hallo!</string>
+    <string name="emergency_dial_hmd_message">Notfall</string>
+    <string name="emergency_dial_message">Notruf</string>
+    <string name="hmd_user_experience_program_message">Ihre Teilnahme am Nutzererfahrungsprogramm hilft HMD Global, besser zu verstehen, was Ihnen an Ihrem Nokia Gerät gefällt und was Sie gerne verbessert haben möchten. Wir erhalten gelegentlich anonyme Daten mit technischen Merkmalen über Ihr Gerät, z. B. eine Datei mit Daten über etwaige Software-Abstürze. Bitte beachten Sie, dass derartige Daten nicht über eine Mobilfunkverbindung übertragen werden. Wir freuen uns, Ihre Meinung über Ihr Nokia Gerät zu erfahren!</string>
+    <string name="hmd_user_experience_program_title">Nutzererfahrungsprogramm</string>
+    <string name="idle_too_long_toast">Telefon war einige Zeit im Leerlauf. Wechsel in den Energiesparmodus.</string>
+    <string name="insert_sim_cards">SIM-Karten einlegen</string>
+    <string name="insert_sim_cards_prompt_content">"Nicht sicher, wie? Beachten Sie die Anleitungen Ihres Telefons.
+
+Das Aktivieren kann nach dem Einsetzen Ihrer SIM-Karte einige Sekunden dauern."</string>
+    <string name="language_selection_cancel_btn">ABBRECHEN</string>
+    <string name="language_selection_title">Sprache auswählen</string>
+    <string name="light_room_title">Leidenschaftlicher Fotograf?</string>
+    <string name="next_btn_lebel">WEITER</string>
+    <string name="not_now">JETZT NICHT …</string>
+    <string name="setup_complete_hmd">Sie sind startklar...</string>
+    <string name="setup_complete_hmd_1">Sie sind fast startklar!</string>
+    <string name="setup_complete_main">Sie sind</string>
+    <string name="setup_complete_sub">STARTKLAR.</string>
+    <string name="setup_completed_congratulations">Glückwunsch!</string>
+    <string name="setup_finish">"LOS GEHT'S"</string>
+    <string name="sim_not_exist_toast">Prüfen, ob SIM-Karte eingelegt ist.</string>
+    <string name="skip_add_account_button_label">Jetzt nicht</string>
+    <string name="skip_button_label">Überspringen</string>
+    <string name="upload_agent_hmd_des_text_2">"Am Nokia Nutzererfahrungsprogramm teilnehmen. &lt;a href='launch.UserExperienceActivity://Kode'>Mehr erfahren.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"Tippen auf \"Los geht's\" stimmt der Teilnahme am Nutzererfahrungsprogramm zu. &lt;a href='launch.UserExperienceActivity://Kode'>Mehr erfahren&lt;/a>. Dies ist auch später noch in den Einstellungen möglich."</string>
+    <string name="upload_agent_title">Nutzererfahrungsprogramm</string>
+    <string name="welcome_hmd_term_of_use_5">"Tippen auf die Schaltfläche akzeptiert die &lt;a href='launch.TermOfServiceActivity://Kode'>Nutzungsbedingungen&lt;/a>. Die Geräte-Aktivierungsdaten mit einmaliger Geräteortung werden an HMD Global gesendet. Datengebühren möglich. Die Datennutzung erfolgt gemäß &lt;a href='launch.AddUploadAgentHandler://Kode'>Datenschutzrichtlinie&lt;/a>."</string>
+    <string name="welcome_lets_go_button_label">"Los geht's"</string>
+    <string name="welcome_message">Hallo!</string>
+    <string name="welcome_start_button_label">START</string>
+    <string name="welcome_vision_settings_button_label">Bedienungshilfen</string>
+    <string name="zone_auto">Automatische Zeitzone</string>
+    <string name="zone_auto_summaryOff">Vom Netzwerk angegebene Zeitzone beibehalten</string>
+    <string name="zone_auto_summaryOn">Vom Netzwerk angegebene Zeitzone beibehalten</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+    </string-array>
+    <string-array name="time_schedule_mode_entries">
+        <item>Normal mode</item>
+        <item>Extreme mode</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/WearLayout_DialogStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="top" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="36.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:id="@id/navi_watch_date" style="@style/WearLayout_DateTimeLeftStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:id="@id/navi_watch_time" style="@style/WearLayout_DateTimeRightStyle" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/WearLayout_TitleStyle_HasDataTime">
+        <ImageView android:src="@drawable/fih_wear_batteryprotect_cooldown" style="@style/WearLayout_TitleImage" />
+        <TextView android:id="@id/cooldown_main_text" android:text="@string/fih_battery_protect_cooldown_title_wear" style="@style/WearLayout_DialogTitle" />
+    </LinearLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/WearLayout_DialogContent_New">
+        <TextView android:id="@id/cooldown_dec_text" android:text="@string/fih_battery_protect_cooldown_text_wear" style="@style/WearLayout_DialogContent_with_scrollview" />
+    </ScrollView>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="11.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <ImageButton android:id="@id/cooldown_activity_button" android:background="@drawable/fih_wear_batteryprotect_emergencyall_button" style="@style/WearLayout_TwoImageButtonLeftStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <ImageButton android:id="@id/shutdown_button" android:background="@drawable/fih_wear_batteryprotect_poweroff_button" style="@style/WearLayout_TwoImageButtonRightStyle" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

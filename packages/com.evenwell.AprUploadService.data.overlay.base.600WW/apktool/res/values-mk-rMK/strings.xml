@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_statement">Политика за приватност на HMD</string>
+    <string name="privacy_activity">Политика за приватност на HMD</string>
+    <string name="go_label">Се согласувам</string>
+    <string name="agree">Се согласувам</string>
+    <string name="see_detail">Детаљ</string>
+    <string name="next_btn_lebel">Следно</string>
+    <string name="app_name">Дијагностика на системот</string>
+    <string name="setting_page_name">Програма за искуство на корисникот</string>
+    <string name="send_diag_dialog_any_network">Кога е достапна податочна врска</string>
+    <string name="send_diag_dialog_wifi">Кога е достапна Wi-Fi-врска</string>
+    <string name="send_diag_dialog_wlan">Кога е достапна WLAN-врска</string>
+    <string name="send_diag_dialog_title">Испрати дијагностика</string>
+    <string name="diagnostics_setting">Дијагностика</string>
+    <string name="diagnostics_report">Извештај од дијагностика</string>
+    <string name="diagnostics_report_summary">Испрати извештај од дијагностиката кога на уредот ќе има софтверска грешка. Може да се појават трошоци за мрежната врска. Се препорачува земање податочен пакет за мрежата од давателот на услугата.</string>
+    <string name="network_options">Мрежни опции</string>
+    <string name="send_diagnostics">Испрати дијагностика</string>
+    <string name="diagnostics_description">Помогнете нѝ да ги подобриме нашите производи и услуги со тоа што ќе ни дозволите да собираме дијагностичките податоци кога уредот ќе има грешка или пад на софтверот. Секогаш можете да ја смените оваа опција во Поставки.</string>
+    <string name="cancel_upload_confirm_msg">Сакате да ја напуштите програмата за искуство на корисникот. Софтверските грешки што ќе се појават на вашиот телефон нема да се зачуваат или испратат, а со тоа ние можеби нема да можеме да го подобриме вашето искуство со овој телефон.</string>
+    <string name="hmd_privacy_policy">Политика за приватност на HMD</string>
+</resources>

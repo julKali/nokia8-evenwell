@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">ОТКАЖИ</string>
+    <string name="copying">Се копира…</string>
+    <string name="demo_mode_notifications">Известувања на демо-режимот</string>
+    <string name="disable_demo_mode">Оневозможи демо-режим</string>
+    <string name="download_complete_msg">"Преземањето е завршено.
+
+Допрете на OK за да стартувате Demo-режим."</string>
+    <string name="download_fail_msg">"Неуспешно преземање на демо-материјал од Интернет.
+
+Ќе допрете на ОК за стартување на режимот Демо?"</string>
+    <string name="downloading">Се презема…</string>
+    <string name="enable_demo_mode">Да се овозможи демо-режим?</string>
+    <string name="enable_demo_mode_setup">Да се овозможи демо-режим</string>
+    <string name="no_new_demo_found_msg">"Не е пронајден нов демо-материјал.
+
+Допрете на ОК за да го стартувате режимот Демо."</string>
+    <string name="ok">Во ред</string>
+    <string name="reset_device">Да се ресетира уредот?</string>
+    <string name="system_busy_msg">Системот е зафатен. Обидете се подоцна повторно.</string>
+    <string name="update_demo_video">Ажурирај го демо-видеозаписот</string>
+</resources>

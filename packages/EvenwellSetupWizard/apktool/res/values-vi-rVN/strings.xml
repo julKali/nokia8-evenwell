@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Khả năng truy cập</string>
+    <string name="app_name">Trình hướng dẫn thiết lập</string>
+    <string name="available_via_passpoint">Khả dụng qua %1$s</string>
+    <string name="connected_via_passpoint">Được kết nối qua %1$s</string>
+    <string name="connected_via_wfa">Được kết nối qua trình hỗ trợ Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Hủy</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="insert_sim_cards">Hãy lắp các thẻ SIM</string>
+    <string name="insert_sim_cards_prompt_content">"Bạn không chắc về cách làm? Kiểm tra hướng dẫn đi kèm với điện thoại của bạn.
+
+Sau khi bạn lắp các thẻ SIM của mình, các SIM đó có thể mất vài giây để kích hoạt."</string>
+    <string name="language_selection_cancel_btn">HỦY</string>
+    <string name="light_room_description">%1$s hỗ trợ chụp ảnh RAW (DNG). Bạn có thể chỉnh sửa trực tiếp trên điện thoại thông minh mới của mình nhờ mối quan hệ đối tác của chúng tôi với Adobe.&lt;br/>&lt;br/>Tải xuống Adobe Photoshop Lightroom CC từ cửa hàng Google Play ngay bây giờ.</string>
+    <string name="light_room_title">Đam mê nhiếp ảnh?</string>
+    <string name="link_speed">%1$d Mb/giây</string>
+    <string name="nevigation_selection_back">Quay lại</string>
+    <string name="next_btn_lebel">TIẾP THEO</string>
+    <string name="not_now">KHÔNG PHẢI BÂY GIỜ…</string>
+    <string name="passpoint_content">Thông tin xác thực %1$s</string>
+    <string name="passpoint_label">Đã lưu qua</string>
+    <string name="please_select_phase2">Xác thực Giai đoạn 2</string>
+    <string name="proxy_error_empty_host_set_port">Trường cổng phải trống nếu trường máy chủ lưu trữ trống.</string>
+    <string name="proxy_error_empty_port">Bạn cần hoàn tất trường cổng.</string>
+    <string name="proxy_error_invalid_exclusion_list">Danh sách loại trừ bạn đã nhập không được định dạng đúng. Vui lòng nhập danh sách các tên miền loại trừ được phân tách bằng dấu phẩy.</string>
+    <string name="proxy_error_invalid_port">Cổng bạn đã nhập không hợp lệ.</string>
+    <string name="proxy_exclusionlist_label">Bỏ qua proxy cho</string>
+    <string name="proxy_hostname_label">Tên máy chủ proxy</string>
+    <string name="proxy_port_label">Cổng proxy</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_url_title">"URL PAC: "</string>
+    <string name="proxy_warning_limited_support">Proxy HTTP được trình duyệt sử dụng nhưng có thể không được các ứng dụng khác sử dụng.</string>
+    <string name="saved_network">Được lưu bởi %1$s</string>
+    <string name="select_sim_card">Chọn thẻ SIM</string>
+    <string name="setup_complete_hmd_1">Bạn gần như đã sẵn sàng bắt đầu...!</string>
+    <string name="setup_finish">HÃY BẮT ĐẦU</string>
+    <string name="sim_editor_title">Khe cắm thẻ SIM %1$d</string>
+    <string name="term_agree_text">Đồng ý</string>
+    <string name="upload_agent_hmd_des_text_3">"Bằng cách chạm vào \"HÃY BẮT ĐẦU\", bạn đồng ý tham gia Chương trình trải nghiệm người dùng. &lt;a href='launch.UserExperienceActivity://Kode'>Tìm hiểu thêm&lt;/a>. Hãy nhớ rằng bạn luôn có thể tham gia sau này qua Cài đặt."</string>
+    <string name="welcome_hmd_term_of_use_4">"Bằng cách nhấn vào nút này, bạn đồng ý với &lt;a href='launch.TermOfServiceActivity://Kode'>Điều khoản Dịch vụ&lt;/a> và &lt;a href='launch.AddUploadAgentHandler://Kode'>Chính sách Bảo mật&lt;/a>. Thông tin kích hoạt thiết bị cùng với vị trí thiết bị một lần sẽ được gửi đến HMD Global.&lt;br/>&lt;br/>Thông báo Tự động Cập nhật Phần mềm khi được bật sẽ cho phép cài đặt các bản cập nhật mới nhất cho bạn. Quá trình này có thể sử dụng một phần nhỏ ngân sách dữ liệu của bạn. Các dịch vụ sẽ truy cập vào Internet bất cứ khi nào cần.&lt;br/>&lt;br/>Những dịch vụ này sẽ tính khoản phí dư khi chúng truy cập vào các mạng di động."</string>
+    <string name="welcome_hmd_term_of_use_5">"Bằng cách nhấn vào nút này, bạn đồng ý với &lt;a href='launch.TermOfServiceActivity://Kode'>Điều khoản dịch vụ&lt;/a>. Thông tin kích hoạt thiết bị cùng với vị trí thiết bị một lần sẽ được gửi đến HMD Global. Có thể mất phí dữ liệu. Dữ liệu sẽ được sử dụng theo &lt;a href='launch.AddUploadAgentHandler://Kode'>Chính sách bảo mật&lt;/a>."</string>
+    <string name="wifi_add_network">Thêm mạng</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Danh sách Tùy chọn Nâng cao thả xuống. Nhấn đúp để mở rộng.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Danh sách Tùy chọn Nâng cao thả xuống. Nhấn đúp để thu gọn.</string>
+    <string name="wifi_and_mobile_skipped_message">"Việc kết nối với mạng sẽ giúp bạn thiết lập điện thoại của mình một cách nhanh chóng.
+
+Nếu không có kết nối, bạn không thể:
+
+"<li>Đăng nhập vào tài khoản Đám mây</li>"
+
+"<li>Nhận các bản cập nhật phần mềm</li>"
+
+"<li>Thiết lập ngày và giờ tự động</li></string>
+    <string name="wifi_auth_password_wrong">Mật khẩu có thể không chính xác</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Hủy</string>
+    <string name="wifi_certificate">Chứng chỉ</string>
+    <string name="wifi_connect">Kết nối</string>
+    <string name="wifi_connected_no_internet">Đã kết nối, không có Internet</string>
+    <string name="wifi_disabled_generic">Đã tắt</string>
+    <string name="wifi_disabled_network_failure">Lỗi Cấu hình IP</string>
+    <string name="wifi_disabled_password_failure">Sự cố xác thực</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Không cung cấp</string>
+    <string name="wifi_do_not_validate_eap_server">Không xác thực</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Không có chứng chỉ nào được chỉ định. Kết nối của bạn sẽ không phải là riêng tư.</string>
+    <string name="wifi_dont_skip">QUAY LẠI</string>
+    <string name="wifi_eap_anonymous">Danh tính ẩn danh</string>
+    <string name="wifi_eap_ca_cert">Chứng chỉ CA</string>
+    <string name="wifi_eap_domain">Miền</string>
+    <string name="wifi_eap_identity">Nhận dạng</string>
+    <string name="wifi_eap_method">Phương thức EAP</string>
+    <string name="wifi_eap_user_cert">Chứng chỉ người dùng</string>
+    <string name="wifi_fail_to_scan">Không thể quét tìm mạng</string>
+    <string name="wifi_failed_connect_message">Không kết nối được với mạng</string>
+    <string name="wifi_failed_forget_message">Không bỏ qua được mạng</string>
+    <string name="wifi_failed_save_message">Không lưu được mạng</string>
+    <string name="wifi_forget">Bỏ qua</string>
+    <string name="wifi_frequency">Tần số</string>
+    <string name="wifi_gateway">Cổng</string>
+    <string name="wifi_ip_address">Địa chỉ IP</string>
+    <string name="wifi_ip_settings">Cài đặt IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Hãy nhập địa chỉ DNS hợp lệ.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Hãy nhập địa chỉ cổng hợp lệ.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Hãy nhập địa chỉ IP hợp lệ.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Hãy nhập tiền tố mạng có độ dài từ 0 đến 32.</string>
+    <string name="wifi_multiple_cert_added">(Đã thêm nhiều chứng chỉ)</string>
+    <string name="wifi_network_prefix_length">Độ dài tiền tố mạng</string>
+    <string name="wifi_no_domain_warning">Phải chỉ định một miền.</string>
+    <string name="wifi_no_internet">Không có kết nối Internet</string>
+    <string name="wifi_no_internet_no_reconnect">Sẽ không kết nối tự động</string>
+    <string name="wifi_not_in_range">Ngoài vùng phủ sóng</string>
+    <string name="wifi_password">Mật khẩu</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_remembered">Đã lưu</string>
+    <string name="wifi_save">Lưu</string>
+    <string name="wifi_security">Bảo mật</string>
+    <string name="wifi_security_none">Không</string>
+    <string name="wifi_setting_title">Kết nối</string>
+    <string name="wifi_shared">Chia sẻ với những người dùng thiết bị khác</string>
+    <string name="wifi_show_advanced">Tùy chọn nâng cao</string>
+    <string name="wifi_show_password">Hiển thị mật khẩu</string>
+    <string name="wifi_signal">Cường độ tín hiệu</string>
+    <string name="wifi_skip_anyway">VẪN BỎ QUA</string>
+    <string name="wifi_speed">Tốc độ liên kết</string>
+    <string name="wifi_ssid">Tên mạng</string>
+    <string name="wifi_ssid_hint">Nhập SSID</string>
+    <string name="wifi_status">Trạng thái</string>
+    <string name="wifi_unchanged">(không thay đổi)</string>
+    <string name="wifi_unspecified">Vui lòng chọn</string>
+    <string name="wifi_use_system_certs">Sử dụng chứng chỉ hệ thống</string>
+</resources>

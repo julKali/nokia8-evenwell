@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">Ułatwienia dostępu</string>
+    <string name="app_name">Kreator konfiguracji</string>
+    <string name="available_via_passpoint">Dostępne przez %1$s</string>
+    <string name="back_btn_lebel">WSTECZ</string>
+    <string name="backup_and_restore_description">"Jeśli wcześniej robiłeś kopię zapasową konta, możesz ją teraz przywrócić.
+
+Możesz zmienić ustawienia kopii zapasowej w dowolnym momencie w ustawieniach."</string>
+    <string name="backup_and_restore_title">Kopia zapasowa i przywracanie</string>
+    <string name="connected_via_passpoint">Połączono przez %1$s</string>
+    <string name="connected_via_wfa">Połączono przez asystenta Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">Anuluj</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Data &amp; Ustawienia czasu</string>
+    <string name="date_and_time_settings_title">Data &amp; Czas</string>
+    <string name="device_checking_message">Witaj</string>
+    <string name="emergency_dial_hmd_message">Numery alarmowe</string>
+    <string name="finish_button_label">ZAKOŃCZONO</string>
+    <string name="hmd_user_experience_program_message">Twoje uczestnictwo w progamie satysfakcji użytkownika pomaga HMD Global lepiej zrozumieć, co lubisz w swoim telefonie Nokia, a co byś w nim poprawił. Od czasu do czasu możemy otrzymywać anonimowe dane techniczne o twoim urządzeniu, na przykład plik z danymi o awariach oprogramowaia, które potencjalnie mogą się wydarzyć. Zapewniamy, że takie dane nie będą wysyłane przez sieć danych komórkowych. Cenimy każdy kontakt i opinię o urządzeniu Nokia!</string>
+    <string name="hmd_user_experience_program_title">Program satysfakcji użytkownika</string>
+    <string name="idle_too_long_toast">Telefon był bezczynny przez pewien czas. Wyłącz, by zachować moc.</string>
+    <string name="insert_sim_cards">Włóż karty SIM</string>
+    <string name="insert_sim_cards_prompt_content">"Nie wiesz, jak to zrobić? Zajrzyj do instrukcji dostarczonych wraz z telefonem.
+
+Po włożeniu kart SIM ich aktywacja może potrwać kilka sekund."</string>
+    <string name="language_selection_cancel_btn">ANULUJ</string>
+    <string name="light_room_description">%1$s obsługuje przechwytywanie obrazów RAW (DNG). Dzięki naszej współpracy z Adobe możesz edytować obrazy bezpośrednio w swoim nowym smartfonie.&lt;br/>&lt;br/>Pobierz teraz Adobe Photoshop Lightroom CC ze sklepu Google Play.</string>
+    <string name="light_room_title">Kochasz fotografować?</string>
+    <string name="link_speed">%1$d Mb/s</string>
+    <string name="nevigation_selection_back">Wstecz</string>
+    <string name="next_btn_lebel">NASTĘPNY</string>
+    <string name="not_now">NIE TERAZ…</string>
+    <string name="passpoint_content">Dane logowania do %1$s</string>
+    <string name="passpoint_label">Zapisane przez</string>
+    <string name="please_select_phase2">Uwierzytelnianie w drugiej fazie</string>
+    <string name="proxy_error_empty_host_set_port">Pole port musi być puste, jeśli pole host jest puste.</string>
+    <string name="proxy_error_empty_port">Musisz wypełnić pole portu.</string>
+    <string name="proxy_error_invalid_exclusion_list">Wpisana lista wykluczeń jest niepoprawnie sformatowana. Wykluczone domeny muszą być rozdzielone przecinkami.</string>
+    <string name="proxy_error_invalid_port">Wpisany port jest nieprawidłowy.</string>
+    <string name="proxy_exclusionlist_label">Pomiń proxy dla</string>
+    <string name="proxy_hostname_label">Nazwa hosta serwera proxy</string>
+    <string name="proxy_port_label">Numer portu serwera proxy</string>
+    <string name="proxy_settings_title">Serwer proxy</string>
+    <string name="proxy_url_title">"URL pliku PAC: "</string>
+    <string name="proxy_warning_limited_support">Serwer proxy HTTP jest używany przez przeglądarkę, ale inne aplikacje mogą go nie używać.</string>
+    <string name="saved_network">Zapisane przez %1$s</string>
+    <string name="select_sim_card">Wybierz kartę SIM</string>
+    <string name="setup_complete_hmd">Gotowe...</string>
+    <string name="setup_complete_hmd_1">Już prawie gotowe...!</string>
+    <string name="setup_complete_main">Jesteś</string>
+    <string name="setup_complete_sub">GOTOWY.</string>
+    <string name="setup_completed_congratulations">Gratulacje!</string>
+    <string name="setup_finish">DALEJ</string>
+    <string name="sim_editor_title">Gniazdo SIM %1$d</string>
+    <string name="term_agree_text">Zgadzam się</string>
+    <string name="upload_agent_hmd_des_text_3">"Naciskając opcję \"DALEJ\", zgadzasz się na udział w programie poprawy satysfakcji użytkowników. &lt;a href='launch.UserExperienceActivity://Kode'>Dowiedz się więcej&lt;/a>. Pamiętaj, że do programu możesz przyłączyć się w dowolnym momencie za pomocą Ustawień."</string>
+    <string name="upload_agent_title">Program satysfakcji użytkownika</string>
+    <string name="welcome_hmd_term_of_use_4">"Naciskając ten przycisk, akceptujesz &lt;a href='launch.TermOfServiceActivity://Kode'>Warunki świadczenia usługi&lt;/a> i &lt;a href='launch.AddUploadAgentHandler://Kode'>Zasady ochrony prywatności&lt;/a>. Do HMD Global zostanie wysłane powiadomienie o aktywacji urządzenia wraz z jednorazową informacją o jego lokalizacji.&lt;br/>&lt;br/>Powiadomienie o automatycznej aktualizacji oprogramowania będzie włączone, dzięki czemu będą instalowane najnowsze aktualizacje. Może to zużywać niewielką część budżetu przeznaczonego na opłaty za transmisję danych. Usługi te będą łączyły się internetem, gdy tylko będzie to wymagane.&lt;br/>&lt;br/>Korzystanie z tych usługi w sieciach komórkowych będzie wiązało się z opłatami."</string>
+    <string name="welcome_hmd_term_of_use_5">"Naciskając ten przycisk, akceptujesz &lt;a href='launch.TermOfServiceActivity://Kode'>Warunki świadczenia usługi&lt;/a>. Do HMD Global zostanie wysłane powiadomienie o aktywacji urządzenia wraz z jednorazową informacją o jego lokalizacji. Mogą zostać naliczone opłaty za transfer danych. Dane będą wykorzystywane zgodnie z &lt;a href='launch.AddUploadAgentHandler://Kode'>Zasadami ochrony prywatności&lt;/a>."</string>
+    <string name="welcome_message">Witaj</string>
+    <string name="welcome_start_button_label">URUCHOM</string>
+    <string name="wifi_add_network">Dodaj sieć</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Lista rozwijana Opcje zaawansowane. Kliknij dwukrotnie, aby rozwinąć.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Lista rozwijana Opcje zaawansowane. Kliknij dwukrotnie, aby zwinąć.</string>
+    <string name="wifi_and_mobile_skipped_message">"Łączność z siecią pozwala szybko skonfigurować telefon.
+
+Bez połączenia nie można:
+
+"<li>zalogować się na konto chmurowe</li>"
+
+"<li>pobierać aktualizacji oprogramowania</li>"
+
+"<li>automatycznie konfigurować daty i godziny</li></string>
+    <string name="wifi_auth_password_wrong">Hasło może być nieprawidłowe</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_cancel">Anuluj</string>
+    <string name="wifi_certificate">Certyfikat</string>
+    <string name="wifi_connect">Połącz</string>
+    <string name="wifi_connected_no_internet">Połączono, brak internetu</string>
+    <string name="wifi_disabled_generic">Wyłączony</string>
+    <string name="wifi_disabled_network_failure">Błąd konfiguracji IP</string>
+    <string name="wifi_disabled_password_failure">Problem z uwierzytelnieniem</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Nie podawaj</string>
+    <string name="wifi_do_not_validate_eap_server">Nie sprawdzaj poprawności</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nie określono certyfikatu. Twoje połączenie nie będzie prywatne.</string>
+    <string name="wifi_dont_skip">WRÓĆ</string>
+    <string name="wifi_eap_anonymous">Tożsamość anonimowa</string>
+    <string name="wifi_eap_ca_cert">Certyfikat urzędu certyfikacji</string>
+    <string name="wifi_eap_domain">Domena</string>
+    <string name="wifi_eap_identity">Tożsamość</string>
+    <string name="wifi_eap_method">Metoda EAP</string>
+    <string name="wifi_eap_user_cert">Certyfikat użytkownika</string>
+    <string name="wifi_fail_to_scan">Wyszukiwanie sieci niedostępne</string>
+    <string name="wifi_failed_connect_message">Nie można nawiązać połączenia z siecią</string>
+    <string name="wifi_failed_forget_message">Nie udało się zapomnieć sieci</string>
+    <string name="wifi_failed_save_message">Nie udało się zapisać sieci</string>
+    <string name="wifi_forget">Zapomnij</string>
+    <string name="wifi_frequency">Częstotliwość</string>
+    <string name="wifi_gateway">Brama</string>
+    <string name="wifi_ip_address">Adres IP</string>
+    <string name="wifi_ip_settings">Ustawienia IP</string>
+    <string name="wifi_ip_settings_invalid_dns">Wpisz prawidłowy adres DNS.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Wpisz prawidłowy adres bramy.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Wpisz prawidłowy adres IP.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Wpisz długość przedrostka sieci z zakresu 0-32.</string>
+    <string name="wifi_multiple_cert_added">(Dodano wiele certyfikatów)</string>
+    <string name="wifi_network_prefix_length">Długość przedrostka sieci</string>
+    <string name="wifi_no_domain_warning">Musisz określić domenę.</string>
+    <string name="wifi_no_internet">Brak dostępu do internetu</string>
+    <string name="wifi_no_internet_no_reconnect">Nie można połączyć automatycznie</string>
+    <string name="wifi_not_in_range">Poza zasięgiem</string>
+    <string name="wifi_password">Hasło</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_warning_title">Ostrzeżenie</string>
+    <string name="wifi_remembered">Zapisano</string>
+    <string name="wifi_save">Zapisz</string>
+    <string name="wifi_security">Bezpieczeństwo</string>
+    <string name="wifi_security_none">Brak</string>
+    <string name="wifi_setting_title">Połącz</string>
+    <string name="wifi_shared">Udostępnij innym użytkownikom urządzenia</string>
+    <string name="wifi_show_advanced">Opcje zaawansowane</string>
+    <string name="wifi_show_password">Pokaż hasło</string>
+    <string name="wifi_signal">Siła sygnału</string>
+    <string name="wifi_skip_anyway">POMIŃ MIMO TO</string>
+    <string name="wifi_speed">Szybkość łącza</string>
+    <string name="wifi_ssid">Nazwa sieci</string>
+    <string name="wifi_ssid_hint">Wpisz identyfikator SSID</string>
+    <string name="wifi_status">Stan</string>
+    <string name="wifi_unchanged">(nie zmieniono)</string>
+    <string name="wifi_unspecified">Wybierz</string>
+    <string name="wifi_use_system_certs">Użyj certyfikatów systemowych</string>
+</resources>

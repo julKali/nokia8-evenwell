@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>ഒന്നുമില്ല</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP അല്ലെങ്കിൽ CHAP</item>
+    </string-array>
+</resources>

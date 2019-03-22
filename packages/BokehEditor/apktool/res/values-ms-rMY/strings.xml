@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Editor Bokeh</string>
+    <string name="image_not_null">Laluan imej tidak boleh kosong</string>
+    <string name="no_bokeh_type">Tiada jenis bokeh</string>
+    <string name="no_mpo_file">Tiada fail MPO</string>
+    <string name="save">Simpan</string>
+    <string name="save_success">Berjaya disimpan</string>
+</resources>

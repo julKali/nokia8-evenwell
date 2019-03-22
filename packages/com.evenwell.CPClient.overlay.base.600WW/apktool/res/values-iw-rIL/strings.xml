@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">לקוח CP</string>
+    <string name="fih_cp_notify_statusbar_content">הודעה חדשה על הקצאת משאבים</string>
+    <string name="fih_cp_notification_channel_name">התראות כלליות</string>
+    <string name="fih_cp_ui_mode_ok">אישור</string>
+    <string name="fih_cp_ui_mode_postpone">דחה</string>
+    <string name="fih_cp_ui_mode_delete">מחיקה</string>
+    <string name="fih_cp_apply_dialog_head_msg">הקצאת משאבים חדשה</string>
+    <string name="fih_cp_apply_dialog_body_msg">האם ברצונך להחיל תצורה חדשה?</string>
+    <string name="fih_cp_toast_info_update">הפרופיל עודכן בהצלחה</string>
+    <string name="fih_cp_toast_info_create">הפרופיל נוצר בהצלחה</string>
+    <string name="fih_cp_editor_apn_name">שם</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_http_proxy">‏שרת Proxy</string>
+    <string name="fih_cp_editor_apn_http_port">יציאה</string>
+    <string name="fih_cp_editor_apn_user">שם משתמש</string>
+    <string name="fih_cp_editor_apn_password">סיסמה</string>
+    <string name="fih_cp_editor_apn_server">שרת</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mms_proxy">‏שרת Proxy של MMS</string>
+    <string name="fih_cp_editor_apn_mms_port">‏יציאת MMS</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_auth_type">סוג אימות</string>
+    <string name="fih_cp_editor_apn_auth_type_none">ללא</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">‏PAP או CHAP</string>
+    <string name="fih_cp_editor_apn_type">‏סוג APN</string>
+    <string name="fih_cp_btn_ok">אישור</string>
+    <string name="fih_cp_btn_cancel">ביטול</string>
+    <string name="fih_cp_btn_next">הבא</string>
+    <string name="fih_cp_btn_back">הקודם</string>
+    <string name="fih_cp_apn_not_set">&lt;לא הוגדר></string>
+    <string name="fih_cp_error_title">שים לב</string>
+    <string name="fih_cp_error_name_empty">"השדה 'שם' לא יכול להיות ריק."</string>
+    <string name="fih_cp_error_apn_empty">השדה APN לא יכול להיות ריק.</string>
+    <string name="fih_cp_error_other">השגיאה בתחביר הנתונים.</string>
+    <string name="fih_cp_input_pin_code">הזן קוד גישה:</string>
+    <string name="fih_cp_input_pin_code_ok">אישור</string>
+    <string name="fih_cp_input_pin_code_cancel">ביטול</string>
+    <string name="fih_cp_input_pin_code_incorrect">‏קוד גישה שגוי.</string>
+    <string name="fih_cp_input_pin_code_empty">‏הזן את קוד הגישה.</string>
+    <string name="fih_cp_sim_not_available">כרטיס SIM אינו זמין.</string>
+</resources>

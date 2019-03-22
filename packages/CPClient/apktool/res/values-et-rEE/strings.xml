@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">CP klient</string>
+    <string name="fih_cp_apn_not_set">&lt;Määramata></string>
+    <string name="fih_cp_apply_dialog_body_msg">Kas soovite rakendada uut konfiguratsiooni?</string>
+    <string name="fih_cp_apply_dialog_head_msg">Uus sätestamine</string>
+    <string name="fih_cp_btn_back">Tagasi</string>
+    <string name="fih_cp_btn_cancel">Tühista</string>
+    <string name="fih_cp_btn_next">Järgmine</string>
+    <string name="fih_cp_btn_ok">OK</string>
+    <string name="fih_cp_editor_apn_apn">APN</string>
+    <string name="fih_cp_editor_apn_auth_type">Autentimise tüüp</string>
+    <string name="fih_cp_editor_apn_auth_type_chap">CHAP</string>
+    <string name="fih_cp_editor_apn_auth_type_none">Puudub</string>
+    <string name="fih_cp_editor_apn_auth_type_pap">PAP</string>
+    <string name="fih_cp_editor_apn_auth_type_pap_chap">PAP või CHAP</string>
+    <string name="fih_cp_editor_apn_http_port">Port</string>
+    <string name="fih_cp_editor_apn_http_proxy">Puhverserveri seaded</string>
+    <string name="fih_cp_editor_apn_mcc">MCC</string>
+    <string name="fih_cp_editor_apn_mms_port">MMS-port</string>
+    <string name="fih_cp_editor_apn_mms_proxy">MMS-i puhverserver</string>
+    <string name="fih_cp_editor_apn_mmsc">MMSC</string>
+    <string name="fih_cp_editor_apn_mnc">MNC</string>
+    <string name="fih_cp_editor_apn_name">Nimi</string>
+    <string name="fih_cp_editor_apn_password">Parool</string>
+    <string name="fih_cp_editor_apn_server">Server</string>
+    <string name="fih_cp_editor_apn_type">APN-i tüüp</string>
+    <string name="fih_cp_editor_apn_user">Kasutajanimi</string>
+    <string name="fih_cp_error_apn_empty">APN-i väli ei tohi olla tühi.</string>
+    <string name="fih_cp_error_name_empty">Nimeväli ei tohi olla tühi.</string>
+    <string name="fih_cp_error_other">Andmete süntaksi viga.</string>
+    <string name="fih_cp_error_title">Tähelepanu</string>
+    <string name="fih_cp_input_pin_code">Sisestage PIN-kood:</string>
+    <string name="fih_cp_input_pin_code_cancel">Tühista</string>
+    <string name="fih_cp_input_pin_code_empty">Sisestage PIN-kood.</string>
+    <string name="fih_cp_input_pin_code_incorrect">Vale PIN-kood.</string>
+    <string name="fih_cp_input_pin_code_ok">OK</string>
+    <string name="fih_cp_notification_channel_name">Üldised teatised</string>
+    <string name="fih_cp_notify_statusbar_content">Uus sätestamise sõnum</string>
+    <string name="fih_cp_sim_not_available">SIM-kaart pole saadaval.</string>
+    <string name="fih_cp_toast_info_create">Loo edukas profiil</string>
+    <string name="fih_cp_toast_info_update">Värskenda edukat profiili</string>
+    <string name="fih_cp_ui_mode_delete">Kustuta</string>
+    <string name="fih_cp_ui_mode_ok">OK</string>
+    <string name="fih_cp_ui_mode_postpone">Lükka edasi</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Batal</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Batal</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">Panggilan kecemasan</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefon anda semakin panas, jadi ia melakukan langkah-langkah penyejukan. Anda masih boleh menggunakannya, tetapi anda mungkin mendapati:
+·Pengecasan mungkin dijeda.
+·Wi-Fi mungkin dimatikan.
+·Aplikasi mungkin ditutup.
+·Mod Kapal terbang mungkin dimatikan.
+Telefon anda akan kembali biasa setelah menyejuk."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Pemberitahuan umum</string>
+    <string name="fih_battery_protect_high_full_charging">Had pengecasan maksimum tercapai pada suhu tinggi! Apabila suhu telefon kembali kepada normal, sistem akan teruskan mengecas pada kelajuan normal.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Had pengecasan suhu tinggi tercapai</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Sila gunakan bateri asli untuk mengecas, jika tidak anda boleh menyebabkan kerosakan kekal/fizikal pada peranti anda.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Sila gunakan bateri asli</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Pengecasan dihentikan</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Bateri tidak sah</string>
+    <string name="fih_battery_protect_low_full_charging">Had pengecasan maksimum tercapai pada suhu rendah! Apabila suhu telefon kembali kepada normal, sistem akan teruskan mengecas pada kelajuan normal.</string>
+    <string name="fih_battery_protect_low_full_charging_title">Had pengecasan suhu rendah tercapai</string>
+    <string name="fih_battery_protect_low_temp_title">Makluman</string>
+    <string name="fih_battery_protect_notification_cooling_down">Menyejuk</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_power_off">Matikan kuasa</string>
+    <string name="fih_battery_protect_tap_learn_more">Ketik untuk mengetahui lebih lanjut.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trình chỉnh sửa Bokeh</string>
+    <string name="image_not_null">Không được để trống đường dẫn hình ảnh</string>
+    <string name="no_bokeh_type">Không có loại Bokeh nào</string>
+    <string name="no_mpo_file">Không có tệp MPO nào</string>
+    <string name="save">Lưu</string>
+    <string name="save_success">Đã lưu thành công.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Ακύρωση</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Ακύρωση</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Το τηλέφωνό σας θερμαίνεται υπερβολικά και γι' αυτό λαμβάνει μέτρα για να ψυχθεί μόνο του. Μπορείτε να το χρησιμοποιείτε αλλά πιθανόν να παρατηρήσετε ότι:
+·Η φόρτιση μπορεί να σταματήσει προσωρινά.
+·Το Wi-Fi μπορεί να απενεργοποιηθεί.
+·Οι εφαρμογές ενδέχεται να κλείσουν.
+·Η λειτουργία πτήσης ενδέχεται να ενεργοποιηθεί.
+Το τηλέφωνό σας θα επανέλθει σε κανονική λειτουργία εφόσον ψυχθεί."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Γενικές ειδοποιήσεις</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Να χρησιμοποιείτε τη γνήσια μπαταρία για φόρτιση, διαφορετικά ενδέχεται να προκαλέσετε μόνιμη ή υλική ζημιά στη συσκευή σας.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Να χρησιμοποιείτε γνήσια μπαταρία</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Η φόρτιση διακόπηκε</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Η μπαταρία είναι μη έγκυρη</string>
+    <string name="fih_battery_protect_notification_cooling_down">Ψύξη</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_power_off">Απενεργοποίηση</string>
+    <string name="fih_battery_protect_tap_learn_more">Αγγίξτε για να μάθετε περισσότερα.</string>
+</resources>

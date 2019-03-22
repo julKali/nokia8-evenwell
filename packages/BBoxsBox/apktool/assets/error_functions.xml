@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="error-functions-style.xsl"?>
+<fih:error xmlns:fih="http://schemas.fihtdc.com/error-code/fih">
+	<metadata>
+		<version>1.0.5</version>
+		<update date="2013-08-07">Create error_functions.xml</update>
+		<update date="2013-08-29">Correct function CC descriptions</update>
+		<update date="2013-11-12">Add Fingerprint definitions</update>
+		<update date="2013-12-23">Add Panic and update telephony definitions</update>
+		<update date="2013-01-08">Update telephony definitions</update>
+        <update date="2016-01-28">Add more camera definitions</update>
+        <update date="2016-02-02">Add WIFI definitions</update>
+        <update date="2016-04-27">Add LCM error code: id="4"</update>
+        <update date="2016-08-03">BSP modify error items</update>
+        <update date="2016-10-13">modify Camera error items</update>
+        <update date="2016-10-19">Add Vibrator/Audio</update>
+        <update date="2016-10-20">Add Telephony/PON</update>
+        <update date="2016-10-21">SW4 add error code</update>
+        <update date="2016-10-24">SW5 add error code</update>
+        <update date="2016-12-13">MMS/SMS add error code</update>
+        <update date="2016-12-30">SW8 add error code</update>
+        <update date="2017-02-07">SW8 add error code</update>
+        <update date="2017-09-08">SW4 add Fingerprint error code</update>
+	</metadata>
+	<error-functions>
+		<error-function id="0" fih:name="LCM">
+			<error-code id="0" fih:owner="Paul">MIPI command transfer failure (MIPI Command)</error-code>
+			<error-code id="1" fih:owner="Paul">Power-on failure (LDO or GPIO)</error-code>
+			<error-code id="2" fih:owner="Paul">Display-on failure (MIPI command)</error-code>
+			<error-code id="3" fih:owner="Paul">Display-off failure (MIPI command)</error-code>
+			<error-code id="4" fih:owner="JohnPHChen">Wait for TE signal timeout</error-code>
+			<error-code id="5" fih:owner="SelwynChen">MIPI interface unworkable</error-code>
+			<error-code id="6" fih:owner="SelwynChen">Power status abnormal</error-code>
+			<error-code id="7" fih:owner="Sean">Initial failure (MIPI command)</error-code>
+			<error-code id="8" fih:owner="Sean">OEM function failure (MIPI command)</error-code>
+		</error-function>
+		<error-function id="1" fih:name="BackLight">
+			<error-code id="0" fih:owner="Paul">PWN operation failure</error-code>
+			<error-code id="1" fih:owner="Paul">I2C command transfer failure</error-code>
+			<error-code id="2" fih:owner="SelwynChen">LED Voltage OVP</error-code>
+		</error-function>
+		<error-function id="2" fih:name="Audio Codec">
+			<error-code id="0" fih:owner="Lucy">SLIM bus command transfer failure</error-code>
+			<error-code id="1" fih:owner="SelwynChen">Spmi probe failure</error-code>
+			<error-code id="2" fih:owner="SelwynChen">Register adsp state notifier failure</error-code>
+			<error-code id="3">Probe failure</error-code>
+		</error-function>
+		<error-function id="3" fih:name="USB">
+			<error-code id="0" fih:owner="JasonYY">Transfer failure</error-code>
+			<error-code id="1" fih:owner="JasonYY">Floating Charging Mode</error-code>
+			<error-code id="2" fih:owner="JasonYY">Configurance Fail</error-code>
+			<error-code id="3" fih:owner="JasonYY">Type-C third-party chip initialize fail</error-code>
+			<error-code id="4" fih:owner="JasonYY">Type-C third-party chip I2C fail</error-code>
+			<error-code id="5" fih:owner="Ida">POWER_SUPPLY_TYPE_UNKNOWN</error-code>
+		</error-function>
+		<error-function id="6" fih:name="eMMC">
+			<error-code id="0" fih:owner="Jordan">Read failure (Block)</error-code>
+			<error-code id="1" fih:owner="Jordan">Write failure (Block)</error-code>
+			<error-code id="2" fih:owner="Jordan">Command failure</error-code>
+			<error-code id="3" fih:owner="SelwynChen">Clock failure</error-code>
+			<error-code id="4" fih:owner="SelwynChen">HOST ADMA ERROR</error-code>
+			<error-code id="5" fih:owner="AlanChang">HighSpeed tuning fail in bootloader</error-code>
+		</error-function>
+		<error-function id="7" fih:name="Touch">
+			<error-code id="0" fih:owner="SelwynChen">Probe fail</error-code>
+			<error-code id="1" fih:owner="Amber">I2C read fail</error-code>
+			<error-code id="2" fih:owner="Amber">I2C write fail</error-code>
+			<error-code id="5" fih:owner="Amber">firmware version get fail</error-code>
+			<error-code id="6" fih:owner="Amber">FW upgrade fail</error-code>
+			<error-code id="7" fih:owner="Amber">Resolution out of limit</error-code>
+			<error-code id="8" fih:owner="LanceCYShen">SPI read fail</error-code>
+			<error-code id="9" fih:owner="LanceCYShen">SPI write fail</error-code>
+		</error-function>
+		<error-function id="8" fih:name="Sensor">
+			<error-code id="0">gsensor : I2C read fail</error-code>
+			<error-code id="1">gsensor : I2C write faill</error-code>
+			<error-code id="2">gsensor : open data fail</error-code>
+			<error-code id="3">gsensor : read data fail</error-code>
+			<error-code id="4">gsensor : write data fail</error-code>
+			<error-code id="5">gsensor : Read value too small</error-code>
+			<error-code id="6">gsensor : Read value too large</error-code>
+			<error-code id="7">gsensor : Calibration fail</error-code>
+			<error-code id="8">gsensor : Initial fail</error-code>
+			<error-code id="9">gyro:I2C read fail</error-code>
+			<error-code id="10">gyro:I2C write fail</error-code>
+			<error-code id="11">gyro:open data fail</error-code>
+			<error-code id="12">gyro:read data fail</error-code>
+			<error-code id="13">gyro:write data fail</error-code>
+			<error-code id="14">gyro:Read value too small</error-code>
+			<error-code id="15">gyro:Read value too large</error-code>
+			<error-code id="16">gyro:Calibration fail</error-code>
+			<error-code id="17">gyro:Initial fail</error-code>
+			<error-code id="18">ecompass: I2C read fail</error-code>
+			<error-code id="19">ecompass: I2C write fail</error-code>
+			<error-code id="20">ecompass: open data fail</error-code>
+			<error-code id="21">ecompass: read data fail</error-code>
+			<error-code id="22">ecompass: write data fail</error-code>
+			<error-code id="23">ecompass: Read value too small</error-code>
+			<error-code id="24">ecompass: Read value too large</error-code>
+			<error-code id="25">ecompass: Calibration fail</error-code>
+			<error-code id="26">ecompass: Initial fail</error-code>
+			<error-code id="27">lightsensor : I2C read fail</error-code>
+			<error-code id="28">lightsensor :I2C write fail</error-code>
+			<error-code id="29">lightsensor: open data fail</error-code>
+			<error-code id="30">lightsensor: read data fail</error-code>
+			<error-code id="31">lightsensor: write data fail</error-code>
+			<error-code id="32">lightsensor: Read value too small</error-code>
+			<error-code id="33">lightsensor: Read value too large</error-code>
+			<error-code id="34">lightsensor: Calibration fail</error-code>
+			<error-code id="35">lightsensor: Initial fail</error-code>
+			<error-code id="36">proximity : I2C read fail</error-code>
+			<error-code id="37">proximity :I2C write fail</error-code>
+			<error-code id="38">proximity: open data fail</error-code>
+			<error-code id="39">proximity: read data fail</error-code>
+			<error-code id="40">proximity: write data fail</error-code>
+			<error-code id="41">proximity: Read value too small</error-code>
+			<error-code id="42">proximity: Read value too large</error-code>
+			<error-code id="43">proximity: Calibration fail</error-code>
+			<error-code id="44">proximity: Initial fail</error-code>
+			<error-code id="45">sensortek: I2C read fail</error-code>
+			<error-code id="46">sensortek :I2C write fail</error-code>
+			<error-code id="47">sensortek: open data fail</error-code>
+			<error-code id="48">sensortek: read data fail</error-code>
+			<error-code id="49">sensortek: write data fail</error-code>
+			<error-code id="50">sensortek: Read value too small</error-code>
+			<error-code id="51">sensortek: Read value too large</error-code>
+			<error-code id="52">sensortek: Calibration fail</error-code>
+			<error-code id="53">sensortek: Initial fail</error-code>
+			<error-code id="54">Hall Sensor: Probe fail</error-code>
+			<error-code id="55">Hall Sensor: init fail</error-code>
+			<error-code id="56">Hall Sensor: Gpio get value fail</error-code>
+			<error-code id="57">proximity : power initial fail</error-code>
+			<error-code id="58">temperature :I2C check fail</error-code>
+			<error-code id="59">temperature :I2C read/write fail</error-code>
+			<error-code id="60">temperature :Power initial fail</error-code>
+			<error-code id="61">temperature:Initial fail</error-code>
+			<error-code id="62">gsensor : i2c command fail</error-code>
+			<error-code id="63">gsensor : read value fail</error-code>
+			<error-code id="64">gsensor : Read chip ID</error-code>
+			<error-code id="65">gyro: i2c command fail</error-code>
+			<error-code id="66">gyro: read value fail</error-code>
+			<error-code id="67">gyro: Read chip ID</error-code>
+			<error-code id="68">ecompass: i2c command fail</error-code>
+			<error-code id="69">ecompass: read value fail</error-code>
+			<error-code id="70">ecompass: Read chip ID</error-code>
+			<error-code id="71">lightsensor : i2c command fail</error-code>
+			<error-code id="72">lightsensor: read value fail</error-code>
+			<error-code id="73">lightsensor: Read chip ID</error-code>
+			<error-code id="74">proximity : i2c command fail</error-code>
+			<error-code id="75">proximity : read value fail</error-code>
+			<error-code id="76">proximity : Read chip ID</error-code>
+			<error-code id="77">barosensor i2c command fail</error-code>
+			<error-code id="78">barosensor : read value fail</error-code>
+			<error-code id="79">barosensor : read chip id</error-code>
+			<error-code id="80">humidity : i2c command fail</error-code>
+			<error-code id="81">humidity : read value fail</error-code>
+			<error-code id="82">humidity : read chip id</error-code>
+			<error-code id="83">ToF sensor : i2c command fail</error-code>
+			<error-code id="84">ToF sensor : read value fail</error-code>
+			<error-code id="85">ToF sensor : read chip id</error-code>
+			<error-code id="86">temperature sensor : i2c command fail</error-code>
+			<error-code id="87">temperature sensor : read value fail</error-code>
+			<error-code id="88">temperature sensor : read chip id</error-code>
+			<error-code id="89">i2c-muxe :i2c check fail</error-code>
+			<error-code id="90">i2c-muxe :initail fail</error-code>
+		</error-function>
+		<error-function id="9" fih:name="Camera">
+			<error-code id="1" fih:owner="Vince">I2c read / write fail</error-code>
+			<error-code id="2" fih:owner="Vince">Can not find main camera</error-code>
+			<error-code id="3" fih:owner="Vince">Could not open Camera interface</error-code>
+			<error-code id="4" fih:owner="Vince">Preivew fail</error-code>
+			<error-code id="5" fih:owner="Vince">Take a snapshot fail</error-code>
+			<error-code id="6" fih:owner="Vince">Recoder fail</error-code>
+			<error-code id="7" fih:owner="Vince">AF Fail</error-code>
+			<error-code id="8" fih:owner="Vince">AE Fail</error-code>
+			<error-code id="9" fih:owner="Vince">Firmware update fail</error-code>
+			<error-code id="10" fih:owner="SelwynChen">Camera power up/down fail</error-code>
+			<error-code id="11" fih:owner="SelwynChen">Actuator power up/down fail</error-code>
+			<error-code id="12" fih:owner="SelwynChen">Actuator i2c read/write fail</error-code>
+			<error-code id="13" fih:owner="SelwynChen">Eeprom i2c read/write fail</error-code>
+			<error-code id="14" fih:owner="SelwynChen">Flash fail </error-code>
+			<error-code id="15" fih:owner="May">power on fail</error-code>
+			<error-code id="16" fih:owner="May">match id fail</error-code>
+			<error-code id="17" fih:owner="May">Turn on camera(HAL)</error-code>
+			<error-code id="18" fih:owner="May">Turn off camera(HAL)</error-code>
+		</error-function>
+		<error-function id="10" fih:name="Flash LED">
+			<error-code id="0" fih:owner="Vince">I2c read / write fail</error-code>
+			<error-code id="1" fih:owner="May">flash led OVP</error-code>
+		</error-function>
+		<error-function id="11" fih:name="Charger">
+			<error-code id="0" fih:owner="KunFeng">Probe error</error-code>
+			<error-code id="1" fih:owner="KunFeng">Battery OVP</error-code>
+			<error-code id="2" fih:owner="KunFeng">Battery miss</error-code>
+			<error-code id="3" fih:owner="Piny">Charger read failed</error-code>
+			<error-code id="4" fih:owner="Piny">Charger write failed</error-code>
+			<error-code id="5" fih:owner="Piny">Weak charger</error-code>
+			<error-code id="6" fih:owner="Piny">Charge OVP</error-code>
+			<error-code id="7" fih:owner="Ida">USBIN_UV/Weak charger</error-code>
+		</error-function>
+		<error-function id="12" fih:name="GasGauge">
+			<error-code id="0" fih:owner="KunFeng">Probe error</error-code>
+			<error-code id="1" fih:owner="KunFeng">Update FW error</error-code>
+			<error-code id="2" fih:owner="Piny">FG read failed</error-code>
+			<error-code id="3" fih:owner="Piny">FG write failed</error-code>
+		</error-function>
+		<error-function id="13" fih:name="Wifi">
+			<error-code id="0" fih:owner="GaryPWChen">Power-on failure (SDIO or GPIO)</error-code>
+            <error-code id="1" fih:owner="GaryPWChen">Drvier load fail</error-code>
+            <error-code id="2" fih:owner="GaryPWChen">Firmware load fail</error-code>
+            <error-code id="3" fih:owner="GaryPWChen">AP bascon loss</error-code>
+            <error-code id="4" fih:owner="SelwynChen">Scan failed</error-code>
+            <error-code id="5" fih:owner="Gary">Probe failure</error-code>
+            <error-code id="6" fih:owner="SelwynChen">GPIO request fail</error-code>
+            <error-code id="7" fih:owner="SelwynChen">SMD command channel open fail</error-code>
+            <error-code id="8" fih:owner="SelwynChen">Invalid firmware status</error-code>
+            <error-code id="9" fih:owner="SelwynChen">Get memory fail</error-code>
+            <error-code id="10" fih:owner="SelwynChen">Request firmware fail</error-code>
+            <error-code id="11" fih:owner="SelwynChen">GPIOs config fail</error-code>
+		</error-function>
+		<error-function id="14" fih:name="BT">
+			<error-code id="0" fih:owner="Thomas">Power-on failure (UART or GPIO)</error-code>
+			<error-code id="1" fih:owner="Thomas">HCI cmd transfer failure</error-code>
+			<error-code id="2" fih:owner="SelwynChen">Power-on failure (SOFTWARE)</error-code>
+			<error-code id="3" fih:owner="SelwynChen">HCI cmd transfer failure (SOFTWARE)</error-code>
+			<error-code id="4" fih:owner="SelwynChen">Can't send command to search other BT device</error-code>
+			<error-code id="5" fih:owner="SelwynChen">Can't get BT device cause bluedroid occur error</error-code>
+		</error-function>
+		<error-function id="15" fih:name="FM">
+			<error-code id="0" fih:owner="Steven">Power-on failure (UART or GPIO)</error-code>
+			<error-code id="1" fih:owner="Steven">HCI cmd transfer failure</error-code>
+			<error-code id="2" fih:owner="SelwynChen">FM_SET_LOW_POWER_MODE_ERROR</error-code>
+			<error-code id="3" fih:owner="SelwynChen">FM_SET_FREQUENCY_ERROR</error-code>
+			<error-code id="4" fih:owner="SelwynChen">FM_DO_CALIBRATION_ERROR</error-code>
+			<error-code id="5" fih:owner="SelwynChen">FM_SEARCH_ERROR</error-code>
+			<error-code id="6" fih:owner="SelwynChen">FM_STATE_ERROR</error-code>
+			<error-code id="7" fih:owner="SelwynChen">FM_RDS_ERROR</error-code>
+			<error-code id="8" fih:owner="SelwynChen">FM_ANTENNA_ERROR</error-code>
+		</error-function>
+		<error-function id="16" fih:name="NFC">
+			<error-code id="0" fih:owner="Lucy">NCI cmd transfer failure</error-code>
+			<error-code id="1" fih:owner="SelwynChen">NFC Chip RF initialize fail</error-code>
+			<error-code id="2" fih:owner="Lucy" fih:deprecated="true">Android bean Transmission fail.</error-code>
+			<error-code id="3" fih:owner="Lucy">NFC upgrade firmware fail</error-code>
+		</error-function>
+		<error-function id="17" fih:name="PMIC regulator">
+			<error-code id="0" fih:owner="Piny">Probe error</error-code>
+			<error-code id="1" fih:owner="Piny" fih:deprecated="true">Add subdevices error</error-code>
+			<error-code id="2" fih:owner="Piny">Set voltage fail</error-code>
+			<error-code id="3" fih:owner="Piny" fih:deprecated="true">Die temp alarm</error-code>
+			<error-code id="4" fih:owner="Piny">RTC read fail</error-code>
+			<error-code id="5" fih:owner="Piny">RTC write fail</error-code>
+		</error-function>
+		<error-function id="18" fih:name="RTC">
+			<error-code id="0" fih:owner="KunFeng">RTC read time/alarm fail</error-code>
+			<error-code id="1" fih:owner="KunFeng">RTC set time/alarm fail</error-code>
+			<error-code id="2" fih:owner="KunFeng">RTC probe fail</error-code>
+			<error-code id="3" fih:owner="KunFeng">RTC enable fail</error-code>
+		</error-function>
+		<error-function id="19" fih:name="Vibrator">
+			<error-code id="0" fih:owner="Kevin">Probe fail</error-code>
+			<error-code id="1" fih:owner="Kevin">hrtimer_get_remaining error</error-code>
+			<error-code id="2" fih:owner="Kevin">Vib set fail</error-code>
+			<error-code id="3" fih:owner="Kevin">Enable EN fail</error-code>
+			<error-code id="4" fih:owner="Kevin">Disable EN fail</error-code>
+			<error-code id="5" fih:owner="Kevin">Enable PWM fail</error-code>
+			<error-code id="6" fih:owner="Kevin">Disable PWM fail</error-code>
+			<error-code id="7" fih:owner="SelwynChen">Write register error</error-code>
+			<error-code id="8" fih:owner="SelwynChen">Set regulator error</error-code>
+			<error-code id="9" fih:owner="Amber">I2C read fail</error-code>
+			<error-code id="10" fih:owner="Amber">I2C write fail</error-code>
+			<error-code id="11" fih:owner="LanceCYShen">Short circuit found</error-code>
+		</error-function>
+		<error-function id="20" fih:name="PMIC temperature">
+			<error-code id="0" fih:owner="Piny">Probe fail</error-code>
+			<error-code id="1" fih:owner="Piny">Die temp alarm</error-code>
+			<error-code id="2" fih:owner="Piny">IRQ init error</error-code>
+			<error-code id="3" fih:owner="Piny" fih:deprecated="true">IRQ request fail</error-code>
+		</error-function>
+		<error-function id="22" fih:name="CPU Thermal">
+			<error-code id="0" fih:owner="Piny">Get temperature fail</error-code>
+			<error-code id="4" fih:owner="Piny">Thermal zone device register fail</error-code>
+			<error-code id="5" fih:owner="Piny">Thermal add hwmon fail</error-code>
+			<error-code id="6" fih:owner="Piny">Request IRQ fail</error-code>
+			<error-code id="7" fih:owner="Piny">Get temperature fail</error-code>
+			<error-code id="8" fih:owner="Piny">Thermal zone device register fail</error-code>
+			<error-code id="9" fih:owner="Piny">Thermal add hwmon fail</error-code>
+			<error-code id="10" fih:owner="SelwynChen">Thermal engine shutdown</error-code>
+			<error-code id="11" fih:owner="SelwynChen">KTM shutdown</error-code>
+		</error-function>
+		<error-function id="23" fih:name="LED">
+			<error-code id="0" fih:owner="Eddie">Probe fail</error-code>
+			<error-code id="1" fih:owner="Eddie">Set brightness fail</error-code>
+		</error-function>
+		<error-function id="25" fih:name="Telephony">
+			<error-code id="0" fih:owner="DeniseTzeng">Card error</error-code>
+			<error-code id="1" fih:owner="DeniseTzeng">Call drop</error-code>
+			<error-code id="2" fih:owner="DeniseTzeng">LAU(Location Area Update) fail</error-code>
+			<error-code id="3" fih:owner="DeniseTzeng">RAU(Routing Area Update) fail</error-code>
+			<error-code id="4" fih:owner="DeniseTzeng">PS Attach fail</error-code>
+            <error-code id="5" fih:owner="DeniseTzeng">Set Up PDP fail</error-code>
+            <error-code id="6" fih:owner="DeniseTzeng">No Service/ Limit Service</error-code>
+            <error-code id="7" fih:owner="DeniseTzeng">Card error 11 - SIM lost case 1</error-code>
+            <error-code id="8" fih:owner="DeniseTzeng">Card error 12 - SIM lost case 2</error-code>
+            <error-code id="9" fih:owner="DeniseTzeng">Card error 13 - SIM card hotswap removed</error-code>
+            <error-code id="10" fih:owner="RollinCCTseng">CS out of service 5 mins</error-code>
+            <error-code id="11" fih:owner="RollinCCTseng">PS out of service 5 mins</error-code>
+            <error-code id="12" fih:owner="JohnnyKCChiu">QMI_UIM_CARD_ERROR_FIH_DETECT_RXBRK</error-code>
+            <error-code id="13" fih:owner="JohnnyKCChiu">QMI_UIM_CARD_ERROR_SIM_GG</error-code>
+            <error-code id="14" fih:owner="JohnnyKCChiu">QMI_UIM_CARD_ERROR_NO_ATR_RECEIVED</error-code>
+            <error-code id="15" fih:owner="JohnnyKCChiu">QMI_UIM_CARD_ERROR_HOTSWAP_REMOVED</error-code>
+            <error-code id="16" fih:owner="JohnnyKCChiu">QMI_UIM_CARD_ERROR_UNKNOWN_REMOVED</error-code>
+            <error-code id="17" fih:owner="JohnnyKCChiu">Illegal SIM</error-code>
+            <error-code id="18" fih:owner="JohnnyKCChiu">註冊網路失敗( Registration fail )-環境問題</error-code>
+            <error-code id="19" fih:owner="JohnnyKCChiu">註冊網路失敗( Registration fail )-網路問題</error-code>
+            <error-code id="20" fih:owner="JohnnyKCChiu">註冊網路失敗( Registration fail )-使用者因素</error-code>
+            <error-code id="21" fih:owner="JohnnyKCChiu">註冊網路失敗( Registration fail )-其他因素所造成的問題</error-code>
+            <error-code id="22" fih:owner="JohnnyKCChiu">無法使用語音服務 ( Voice call drop or fail )-環境問題</error-code>
+            <error-code id="23" fih:owner="JohnnyKCChiu">無法使用語音服務 ( Voice call drop or fail )-網路問題</error-code>
+            <error-code id="24" fih:owner="JohnnyKCChiu">無法使用語音服務 ( Voice call drop or fail )-其他因素所造成的問題</error-code>
+            <error-code id="25" fih:owner="JohnnyKCChiu">無法使用數據服務(Data service unavailable)-環境問題</error-code>
+            <error-code id="26" fih:owner="JohnnyKCChiu">無法使用數據服務(Data service unavailable)-網路問題</error-code>
+            <error-code id="27" fih:owner="JohnnyKCChiu">無法使用數據服務(Data service unavailable)-使用者因素</error-code>
+            <error-code id="28" fih:owner="JohnnyKCChiu">無法使用數據服務(Data service unavailable)-其他因素所造成的問題</error-code>
+            <error-code id="29" fih:owner="JohnnyKCChiu">SIM detect abnormal-硬體問題</error-code>
+            <error-code id="30" fih:owner="JohnnyKCChiu">SIM lose -硬體問題</error-code>
+            <error-code id="31" fih:owner="JohnnyKCChiu">Power on modem fail</error-code>
+            <error-code id="32" fih:owner="JohnnyKCChiu">RF front end MIPI missing-硬體問題</error-code>
+            <error-code id="33" fih:owner="JohnnyKCChiu">訊號好 (good signal) - 搭配(1)(2)(3)，如果有訊號不好的狀況是環境因素所造成的</error-code>            
+		</error-function>
+		<error-function id="26" fih:name="Telephony">
+			<error-code id="0">ipc memory full – 與host溝通的buffer出問題</error-code>
+			<error-code id="1">engine on fail – GPS engine出問題</error-code>
+			<error-code id="2">XTRA download fail – XTRA連線出問題</error-code>
+			<error-code id="3">SUPL connection fail – AGPS連線出問題</error-code>
+		</error-function>
+		<error-function id="27" fih:name="Audio">
+			<error-code id="0">Audio Set datasource failed, means the audio cannot be play.</error-code>
+			<error-code id="1">obtainBuffer timed out (is the CPU pegged?), means the data buffer doesn’t consume by Audio HAL.</error-code>
+		</error-function>
+		<error-function id="28" fih:name="Video">
+			<error-code id="0">setDataSource fail, which means device can not play video</error-code>
+			<error-code id="1">setVideoSurfaceTexture fail, which means device can not display video content</error-code>
+		</error-function>
+		<error-function id="29" fih:name="Camera/Sub-camera">
+			<error-code id="0">Can not find the main camera</error-code>
+			<error-code id="1">connection rejected(existing client)</error-code>
+            <error-code id="2" fih:owner="PeimingWang">don't trust clientUid</error-code>
+            <error-code id="3" fih:owner="PeimingWang">camera HAL module not loaded</error-code>
+            <error-code id="4" fih:owner="PeimingWang">invalid camera ID</error-code>
+            <error-code id="5" fih:owner="PeimingWang">camera is disabled by device</error-code>
+            <error-code id="6" fih:owner="PeimingWang">camera is not connected</error-code>
+            <error-code id="7" fih:owner="PeimingWang">camera is initializing</error-code>
+            <error-code id="8" fih:owner="PeimingWang">no camera device with ID</error-code>
+            <error-code id="9" fih:owner="PeimingWang">existing client(s) with higher</error-code>
+            <error-code id="10" fih:owner="PeimingWang">module->open fail</error-code>
+            <error-code id="11" fih:owner="PeimingWang">Camera2 Unable to initialize HAL device</error-code>
+            <error-code id="12" fih:owner="PeimingWang">Camera1 API unable to initialize device</error-code>
+		</error-function>
+		<error-function id="30" fih:name="SD (storage)">
+			<error-code id="0">updatePublicVolumeState() fail, this check the device the volume state if this state set to unknown so the device can not mount this volume</error-code>
+			<error-code id="1">setEnabledFunctions() fail , this function will change the this pid if fail that say the pid does not have this set.</error-code>
+		</error-function>
+		<error-function id="31" fih:name="Wifi">
+			<error-code id="0">mWifiNative.loadDriver() fail, this means the loaf the wifi driver fail so can not turn on the wifi</error-code>
+			<error-code id="1">WifiMonitor.connectToSupplicant() fail, this means the wpa_supplicant run fail so client can not sent command to wifi driver</error-code>
+		</error-function>
+		<error-function id="32" fih:name="BT">
+			<error-code id="0">Power-on (Framework)failure</error-code>
+			<error-code id="1">Power-off (Framework) failure</error-code>
+			<error-code id="2" fih:owner="SelwynChen">Send command to search other BT device failure</error-code>
+			<error-code id="3" fih:owner="SelwynChen">Search other BT device failure on response time</error-code>			
+		</error-function>
+		<error-function id="33" fih:name="FM">
+			<error-code id="0">FM is in the process of turning off.Pls wait for sometime.</error-code>
+			<error-code id="1">mReceiver.enable done, Status :false</error-code>
+		</error-function>
+		<error-function id="34" fih:name="NFC">
+			<error-code id="0">NFC can not enable.</error-code>
+			<error-code id="1">NFC Transmission fail (P2P, read/write, card mode)</error-code>
+			<error-code id="2">Android bean Transmission fail.</error-code>
+			<error-code id="3">NFC upgrade firmware fail</error-code>
+		</error-function>
+		<error-function id="35" fih:name="LED">
+			<error-code id="0">LED service init fail.</error-code>
+			<error-code id="1">LED can not work.</error-code>
+		</error-function>
+		<error-function id="36" fih:name="CC">
+			<error-code id="0" fih:owner="FuPinYu">無法撥打電話：因為所帶電話號碼為NULL</error-code>
+			<error-code id="1" fih:owner="FuPinYu">無法撥打一般電話號碼(非緊急電話號碼)：因Service狀態為POWER_OFF,EMERGENCY_ONLY或OUT_OF_SERVICE</error-code>
+			<error-code id="2" fih:owner="FuPinYu">無法撥打一般電話(非緊急電話號碼)：因為第三方AP送過來的Intent為Intent.ACTION_CALL_EMERGENCY</error-code>
+			<error-code id="3" fih:owner="FuPinYu">無法撥打緊急電話：因Service狀態為POWER_OFF(Airplane Mode On)下撥打緊急電話號碼,嘗試失敗</error-code>
+			<error-code id="4" fih:owner="FuPinYu">無法撥打緊急電話：因為第三方AP送過來的Intent不是Intent.ACTION_CALL_EMERGENCY</error-code>
+			<error-code id="5" fih:owner="FuPinYu">無法撥打語音信箱：因語音信箱號碼為NULL或空字串</error-code>
+			<error-code id="6" fih:owner="FuPinYu">掛斷電話: 不經由通話畫面掛斷電話。PhoneInterfaceManager endCall()</error-code>
+			<error-code id="7" fih:owner="FuPinYu">傳送訊息: 來電以訊息回覆</error-code>
+		</error-function>
+		<error-function id="37" fih:name="SMS/MMS">
+			<error-code id="0" fih:owner="WenShengChen">Cannot send a SMS/MMS without SIM inserted.</error-code>
+			<error-code id="1" fih:owner="WenShengChen">Cannot send a SMS/MMS by PIN locked.</error-code>
+			<error-code id="2" fih:owner="WenShengChen">Cannot send a SMS/MMS by PUK locked.</error-code>
+			<error-code id="3" fih:owner="WenShengChen">Cannot send a SMS/MMS while airplane mode is enabled.</error-code>
+			<error-code id="4" fih:owner="AlbertTHLi">Cannot send a MMS with empty MMSC</error-code>
+			<error-code id="5" fih:owner="AlbertTHLi">Cannot send a MMS by http connection error</error-code>
+			<error-code id="6" fih:owner="AlbertTHLi">Send MMS permanent failed</error-code>
+			<error-code id="7" fih:owner="AlbertTHLi">Download MMS permanent failed</error-code>
+			<error-code id="8" fih:owner="AlbertTHLi">APN failure</error-code>
+		</error-function>
+		<error-function id="38" fih:name="Telephony">
+			<error-code id="0">SIM lose retry count</error-code>
+		</error-function>
+        <error-function id="39" fih:name="Fingerprint">
+            <error-code id="0">Probe Error</error-code>
+            <error-code id="1">Connect chip fail</error-code>
+            <error-code id="2">Reset chip</error-code>
+            <error-code id="3">Reset chip and hold low</error-code>
+            <error-code id="4">Recognize_Pass</error-code>
+            <error-code id="5">Recognize_Fail</error-code>
+            <error-code id="6">Recognize_Fail_TOO_FAST</error-code>
+            <error-code id="7">Recognize_Fail_BAD_IMAGE</error-code>
+            <error-code id="8">Recognize_Fail_RAWDATA_FAIL</error-code>
+            <error-code id="9">Device open fail</error-code>
+            <error-code id="10">Device TA load fail</error-code>
+            <error-code id="11">Device fail</error-code>                        
+        </error-function>
+        <error-function id="40" fih:name="PON">
+            <error-code id="0">RAMDump</error-code>
+            <error-code id="1">Watch dog timeout (modem)</error-code>
+            <error-code id="16" fih:owner="AlanChiu">SHDN_LOW_BATT</error-code>
+            <error-code id="17" fih:owner="AlanChiu">SHDN_BATT_OVHEAT</error-code>
+            <error-code id="18" fih:owner="AlanChiu">SHDN_CPU_OVHEAT</error-code>
+            <error-code id="19" fih:owner="AlanChiu">SHDN_USER</error-code>
+            <error-code id="20" fih:owner="AlanChiu">SHDN_FRAMEWORK</error-code>
+            <error-code id="21" fih:owner="AlanChiu">SHDN_HARD_RESET</error-code>
+            <error-code id="22" fih:owner="AlanChiu">SHDN_SMPL</error-code>
+            <error-code id="23" fih:owner="AlanChiu">SHDN_UVLO</error-code>
+            <error-code id="24" fih:owner="AlanChiu">SHDN_GP2</error-code>
+            <error-code id="25" fih:owner="AlanChiu">PON_KERNEL_PANIC</error-code>
+            <error-code id="26" fih:owner="AlanChiu">PON_UNKNOWN_RESET</error-code>
+            <error-code id="27" fih:owner="AlanChiu">PON_Modem_fatal</error-code>
+        </error-function>
+        <error-function id="41" fih:name="HDD">
+            <error-code id="0">Probe Fail</error-code>
+            <error-code id="1">HD error</error-code>
+        </error-function>
+        <error-function id="42" fih:name="HDMI/MHL">
+            <error-code id="0">Probe Error.</error-code>
+            <error-code id="1">Create HDMI thread fail.</error-code>
+            <error-code id="2">Create hdmi virtual file fail.</error-code>
+        </error-function>
+        <error-function id="43" fih:name="SD Card">
+            <error-code id="0" fih:owner="BokeeLi">Read failure</error-code>
+            <error-code id="1" fih:owner="BokeeLi">Write failure</error-code>
+            <error-code id="2" fih:owner="BokeeLi">Command failure</error-code>
+            <error-code id="3" fih:owner="BokeeLi">Card Identify fail</error-code>
+        </error-function>
+		<error-function id="44" fih:name="Front Camera">
+			<error-code id="1" fih:owner="Vince">I2c read / write fail</error-code>
+			<error-code id="2" fih:owner="Vince">Can not find main camera</error-code>
+			<error-code id="3" fih:owner="Vince">Could not open Camera interface</error-code>
+			<error-code id="4" fih:owner="Vince">Preivew fail</error-code>
+			<error-code id="5" fih:owner="Vince">Take a snapshot fail</error-code>
+			<error-code id="6" fih:owner="Vince">Recoder fail</error-code>
+			<error-code id="7" fih:owner="Vince">AF Fail</error-code>
+			<error-code id="8" fih:owner="Vince">AE Fail</error-code>
+			<error-code id="9" fih:owner="Vince">Firmware update fail</error-code>
+			<error-code id="10" fih:owner="SelwynChen">Camera power up/down fail</error-code>
+			<error-code id="11" fih:owner="SelwynChen">Actuator power up/down fail</error-code>
+			<error-code id="12" fih:owner="SelwynChen">Actuator i2c read/write fail</error-code>
+			<error-code id="13" fih:owner="SelwynChen">Eeprom i2c read/write fail</error-code>
+			<error-code id="14" fih:owner="May">power on fail</error-code>
+			<error-code id="15" fih:owner="May">match id fail</error-code>
+			<error-code id="16" fih:owner="May">Turn on camera(HAL)</error-code>
+			<error-code id="17" fih:owner="May">Turn off camera(HAL)</error-code>
+		</error-function>
+        <error-function id="45" fih:name="Wifi">
+            <error-code id="0">Drvier load fail</error-code>
+            <error-code id="1">firmware load fail</error-code>
+            <error-code id="2">Ap bascon loss</error-code>
+        </error-function>
+        <error-function id="46" fih:name="IrDa">
+            <error-code id="0">Enable Clock failure</error-code>
+            <error-code id="1">Request IRQ failure</error-code>
+            <error-code id="2">Set PWM duty cycle  failure</error-code>
+            <error-code id="3">IrDa On/Off  failure (GPIO High/Low)</error-code>
+        </error-function>
+        <error-function id="47" fih:name="Touchstrip">
+            <error-code id="0">Probe fail</error-code>
+            <error-code id="1">FW upgrade fail</error-code>
+            <error-code id="2">resolution fail</error-code>
+        </error-function>
+        <error-function id="48" fih:name="I2C-switch">
+            <error-code id="0">i2c-muxe :i2c check fail</error-code>
+            <error-code id="1">i2c-muxe :i2c add adapter fail</error-code>
+            <error-code id="2">i2c-muxe :power initial fail</error-code>
+            <error-code id="3">i2c-muxe :initail fail</error-code>
+        </error-function>
+        <error-function id="49" fih:name="Battery">
+			<error-code id="0" fih:owner="SelwynChen">Voltage drop (UVLO)</error-code>
+			<error-code id="1" fih:owner="SelwynChen">Battery Temperature reach shutdown temperature</error-code>
+			<error-code id="2" fih:owner="SelwynChen">aging</error-code>
+			<error-code id="3" fih:owner="SelwynChen">Voltage low (approach HW shutdown voltage)</error-code>
+			<error-code id="4" fih:owner="SelwynChen">Battery ID miss/out-range</error-code>
+        </error-function>
+        <error-function id="50" fih:name="Audio Smart AMP">
+            <error-code id="0" fih:owner="Lucy">Read ID fail</error-code>
+            <error-code id="1" fih:owner="Lucy">Probe failure</error-code>
+            <error-code id="2" fih:owner="Lucy">Bus read failure</error-code>
+            <error-code id="3" fih:owner="Lucy">Bus write failure</error-code>
+            <error-code id="4" fih:owner="Lucy">Power on failure</error-code>
+            <error-code id="5" fih:owner="Lucy">Power off failure</error-code>
+            <error-code id="6" fih:owner="LanceCYShen">Impedance value error</error-code>
+        </error-function>
+        <error-function id="51" fih:name="Range Finder">
+            <error-code id="0">Probe fail</error-code>
+            <error-code id="1">I2C read fail</error-code>
+            <error-code id="2">I2C write fail</error-code>
+            <error-code id="3">Calibration data check fail</error-code>
+        </error-function>
+        <error-function id="52" fih:name="UFS">
+            <error-code id="0" fih:owner="SanHsinKuo">Initialize Power Regulator Failure</error-code>
+            <error-code id="1" fih:owner="SanHsinKuo">Request IRQ Failure</error-code>
+            <error-code id="2" fih:owner="SanHsinKuo">Enable Host controller Failure</error-code>
+            <error-code id="3" fih:owner="SanHsinKuo">Set Clock Failure</error-code>
+            <error-code id="4" fih:owner="SanHsinKuo">Control UIC Power Failure </error-code>
+            <error-code id="5" fih:owner="SanHsinKuo">Initialize unipro link startup Failure</error-code>
+        </error-function>
+	</error-functions>
+</fih:error>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_battery_protect_alert_dialog_cancel">Prekliči</string>
+    <string name="fih_battery_protect_alert_dialog_ok">V redu</string>
+    <string name="fih_battery_protect_cancel_wear">Prekliči</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Telefon postaja vroč, zato izvaja ukrepe za ohlajevanje. Telefon lahko še vedno uporabljate, vendar lahko opazite naslednje:
+·Polnjenje se lahko začasno ustavi.
+·Wi-Fi se lahko izklopi.
+·Aplikacije se lahko zaprejo.
+·Letalski način je morda vklopljen.
+Telefon bo deloval normalno, ko se ohladi."</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Splošna obvestila</string>
+    <string name="fih_battery_protect_high_full_charging">Dosežena je bila omejitev polnjenja pri visokih temperaturah! Ko se temperatura telefona vrne na normalno, se bo sistem polnil naprej pri normalni hitrosti.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Dosežena je omejitev polnjenja pri visokih temperaturah</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">Za polnjenje uporabite originalni akumulator, sicer lahko povzročite trajne/fizične poškodbe naprave.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">Uporabite originalni akumulator</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Polnjenje ustavljeno</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">Akumulator ni veljaven</string>
+    <string name="fih_battery_protect_low_full_charging">Dosežena je bila omejitev polnjenja pri nizkih temperaturah! Ko se temperatura telefona vrne na normalno, se bo sistem polnil naprej pri normalni hitrosti.</string>
+    <string name="fih_battery_protect_low_full_charging_title">Dosežena je omejitev polnjenja pri nizkih temperaturah</string>
+    <string name="fih_battery_protect_notification_cooling_down">Ohlajevanje</string>
+    <string name="fih_battery_protect_ok_wear">V redu</string>
+    <string name="fih_battery_protect_tap_learn_more">Dotaknite se za več informacij.</string>
+</resources>

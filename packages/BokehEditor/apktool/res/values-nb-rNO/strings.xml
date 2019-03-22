@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bokeh Editor</string>
+    <string name="image_not_null">Bildebane kan ikke være tomt</string>
+    <string name="no_bokeh_type">Ingen bokeh-type</string>
+    <string name="no_mpo_file">Ingen MPO-fil</string>
+    <string name="save">Lagre</string>
+    <string name="save_success">Lagret</string>
+</resources>

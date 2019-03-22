@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statisch</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Automatisch detecteren</item>
+        <item>Als gemeten behandelen</item>
+        <item>Als niet-gemeten behandelen</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Geen</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Geen</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Geen</item>
+        <item>Handleiding</item>
+        <item>Proxy auto-configuratie</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Slecht</item>
+        <item>Redelijk</item>
+        <item>Goed</item>
+        <item>Uitstekend</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Bezig met scannen…</item>
+        <item>Verbinding maken…</item>
+        <item>Word geverifieerd…</item>
+        <item>IP-adres wordt opgehaald…</item>
+        <item>Verbonden</item>
+        <item>Opgeschort</item>
+        <item>Verbinding wordt verbroken…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Slechte verbinding tijdelijk vermijden</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Bezig met scannen…</item>
+        <item>Verbinden met %1$s…</item>
+        <item>Verifiëren met %1$s…</item>
+        <item>IP-adres wordt opgehaald van %1$s…</item>
+        <item>Verbonden met %1$s</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken met %1$s…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Slechte verbinding tijdelijk vermijden</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>Hexadecimaal WAPI</item>
+    </string-array>
+</resources>

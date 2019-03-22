@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">Жабу</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">Параметрлер</string>
+    <string name="fih_weather_notification_channel_title">Жалпы параметрлер</string>
+    <string name="fih_weather_notification_text">Рұқсат беру үшін түртіңіз</string>
+    <string name="fih_weather_notification_title">Ауа райы қызметіне рұқсат қажет</string>
+    <string name="fih_weather_permission_failed">Рұқсаттан бас тартылды, орын қолжетімді емес.</string>
+    <string name="fih_weather_permission_hint_1">Дұрыс жұмыс істеу үшін бұл бағдарламаға қосымша рұқсат қажет. Сұралған кезде рұқсат беріңіз.</string>
+    <string name="fih_weather_permission_hint_2">Дұрыс жұмыс істеу үшін бұл бағдарламаға қосымша рұқсаттар қажет. Параметрлер бөлімінде ауа райы рұқсаттарын реттеңіз.</string>
+    <string name="fih_weather_permission_success">Орынға рұқсат етілді</string>
+    <string name="fih_weather_service_title_txt">Ауа райы қызметі</string>
+</resources>

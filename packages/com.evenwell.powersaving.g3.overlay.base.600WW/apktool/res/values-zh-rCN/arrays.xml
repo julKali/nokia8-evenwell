@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 分钟</item>
+        <item>5 分钟</item>
+        <item>10 分钟</item>
+        <item>15 分钟</item>
+    </string-array>
+    <string-array name="time_schedule_mode_entries">
+        <item>省电</item>
+        <item>超级省电</item>
+    </string-array>
+</resources>

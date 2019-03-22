@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/upload_now_btn" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <Button android:id="@id/check_dutinfo_btn" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <Button android:id="@id/check_network_btn" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <Button android:id="@id/check_allowed_btn" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:id="@id/power_on_cause_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

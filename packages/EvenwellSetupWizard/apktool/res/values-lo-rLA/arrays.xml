@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>ຄົງທີ່</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>ກວດສອບອັດຕະໂນມັດ</item>
+        <item>ໝາຍວ່າມີການວັດແທກ</item>
+        <item>ເລືອກວ່າບໍ່ໄດ້ວັດແທກ</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>ບໍ່ມີ</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>ບໍ່ມີ</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>ບໍ່ມີ</item>
+        <item>ດ້ວຍຕົນເອງ</item>
+        <item>ການກຳນົດຄ່າພຣັອກຊີອັດຕະໂນມັດ</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>ທຸກ​ຍາກ</item>
+        <item>ປານ​ກາງ</item>
+        <item>ດີ</item>
+        <item>​ດີ​ເລີດ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>ກຳລັງສະແກນ…</item>
+        <item>ກຳລັງເຊື່ອມຕໍ່…</item>
+        <item>ກຳລັງຮັບຮອງຄວາມຖືກຕ້ອງ…</item>
+        <item>ກຳລັງຂໍເອົາທີ່ຢູ່ IP…</item>
+        <item>​ເຊື່ອມ​ຕໍ່​ແລ້ວ</item>
+        <item>ໂຈະໄວ້ແລ້ວ</item>
+        <item>ກຳລັງຕັດເຊື່ອມຕໍ່…</item>
+        <item>​ຕັດ​ເຊື່ອມ​ຕໍ່​ແລ້ວ</item>
+        <item>ບໍ່​ສຳ​ເລັດ</item>
+        <item>ບລັອກໄວ້ແລ້ວ</item>
+        <item>ກຳລັງຫຼີກລຽງການເຊື່ອມຕໍ່ທີ່ບໍ່ດີແບບຊົ່ວຄາວ</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>ກຳລັງສະແກນ…</item>
+        <item>ກຳລັງເຊື່ອມຕໍ່ກັບ %1$s…</item>
+        <item>ກຳລັງຮອງຮັບຄວາມຖືກຕ້ອງດ້ວຍ %1$s…</item>
+        <item>ກຳລັງຂໍເອົາທີ່ຢູ່ IP ຈາກ %1$s…</item>
+        <item>ເຊື່ອມຕໍ່ກັບ %1$s ແລ້ວ</item>
+        <item>ໂຈະແລ້ວ</item>
+        <item>ກຳລັງຕັດເຊື່ອມຕໍ່ຈາກ %1$s…</item>
+        <item>​ຕັດ​ເຊື່ອມ​ຕໍ່​ແລ້ວ</item>
+        <item>ບໍ່​ສຳ​ເລັດ</item>
+        <item>ບລັອກແລ້ວ</item>
+        <item>ກຳລັງຫຼີກລຽງການເຊື່ອມຕໍ່ທີ່ບໍ່ດີແບບຊົ່ວຄາວ</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>ເລກຖານສິບຫົກ WAPI</item>
+    </string-array>
+</resources>

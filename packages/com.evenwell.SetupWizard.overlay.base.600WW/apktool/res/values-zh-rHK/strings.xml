@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"加入使用者體驗計畫。&lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>了解更多&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_4">"點擊按鈕，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a> 和 &lt;a href='launch.AddUploadAgentHandler://Kode'>隱私政策&lt;/a>。設備啟動信息和位置信息將被發送到HMD Global。&lt;br/>&lt;br/>軟體自動更新通知預設為開啟，如此可能會使用很少的流量，但會帶給您最新的軟體體驗。手機將自動聯網使用相關的服務。 &lt;br/>&lt;br/>上述服務的使用可能會產生資料流量費用。"</string>
+    <string name="welcome_hmd_term_of_use_5">"點擊按鈕，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a>。我們會依據HMD&lt;a href='launch.AddUploadAgentHandler://Kode'>隱私權政策&lt;/a>使用相關資料。設備啟動資訊和位置資訊將一次發送給HMD Global，可能產生數據費用。"</string>
+    <string name="welcome_vision_settings_button_label">輔助功能設置</string>
+    <string name="welcome_hmd_term_of_use">"按下開始表示您同意我們的&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>使用條款&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_2">"點擊箭頭，表示您同意&lt;a href='launch.TermOfServiceActivity://Kode'>服務條款&lt;/a> 和 &lt;a href='launch.AddUploadAgentHandler://Kode'>隱私政策&lt;/a>。設備啟動資訊和位置資訊將一次發送給HMD Global，可能產生數據費用。"</string>
+    <string name="language_selection_title">選擇您的語言</string>
+    <string name="upload_agent_hmd_des_text">"加入 Nokia 使用者體驗計畫。&lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>了解更多&lt;/a>"</string>
+    <string name="upload_agent_hmd_des_text_2">"加入使用者體驗計畫。 &lt;a href='launch.UserExperienceActivity://Kode'>瞭解更多&lt;/a>
+
+"</string>
+    <string name="setup_completed_congratulations">恭喜!</string>
+    <string name="setup_complete_hmd">您的手機可以使用了...</string>
+    <string name="hmd_user_experience_program_title">使用者體驗計畫</string>
+    <string name="hmd_user_experience_program_message">您參與使用者體驗計畫將幫助HMD Global更好的瞭解您所喜歡的有關於諾基亞手機的功能，和您所希望改進的地方。我們可能偶爾從您的設備收集匿名的技術參數，例如可能發生的系統當機資料。這些匿名資料將不會通過手機移動網路傳輸。我們願意傾聽您對諾基亞產品的心聲！</string>
+    <string name="upload_agent_hmd_des_text_3">"點擊設定完成按鈕，表示您同意加入使用者體驗計畫。&lt;a href='launch.UserExperienceActivity://Kode'>瞭解更多&lt;/a>。稍後您也可以從設定中加入。"</string>
+    <string name="setup_complete_hmd_1">您的手機即將可以使用…!</string>
+    <string name="not_now">稍後加入…</string>
+    <string name="setup_finish">設定完成</string>
+</resources>

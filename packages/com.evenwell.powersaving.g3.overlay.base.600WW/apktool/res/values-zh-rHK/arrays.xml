@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fih_power_saving_lpm_screen_timeout_entries">
+        <item>15 秒</item>
+        <item>30 秒</item>
+        <item>1 分鐘</item>
+        <item>2 分鐘</item>
+        <item>保持設定</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_entries">
+        <item>3 分鐘</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+    </string-array>
+    <string-array name="issueTypes">
+        <item>效能</item>
+        <item>穩定性</item>
+        <item>操作介面</item>
+        <item>節電效果</item>
+        <item>其他問題</item>
+        <item>建議</item>
+    </string-array>
+    <string-array name="fih_power_saving_lpm_screen_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>KEEP</item>
+    </string-array>
+    <string-array name="fih_power_saving_ss_schedule_values">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+</resources>

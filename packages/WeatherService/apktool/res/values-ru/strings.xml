@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="fih_weather_button_close">Закрыть канал</string>
+    <string name="fih_weather_button_ok">хорошо</string>
+    <string name="fih_weather_button_setting">Установка...</string>
+    <string name="fih_weather_notification_channel_title">Общие уведомления</string>
+    <string name="fih_weather_notification_text">Нажмите, чтобы разрешить</string>
+    <string name="fih_weather_notification_title">Для службы погоды требуются разрешения</string>
+    <string name="fih_weather_permission_failed">Невозможно получить сведения о местоположении, так как нет разрешения на это.</string>
+    <string name="fih_weather_permission_hint_1">Для нормальной работы приложения нужно дополнительное разрешение. Дайте разрешение, когда будет предложено это сделать.</string>
+    <string name="fih_weather_permission_hint_2">Для нормальной работы приложения нужны дополнительные разрешения. Задайте в «Настройках» разрешения для службы погоды.</string>
+    <string name="fih_weather_permission_success">Успешно предоставлено разрешение определять местоположение</string>
+    <string name="fih_weather_service_title_txt">Служба погоды</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+</resources>

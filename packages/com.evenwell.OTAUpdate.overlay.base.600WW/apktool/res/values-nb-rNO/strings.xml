@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Kunne ikke laste ned programvare.</string>
+    <string name="msg_install_system_software_update_3">"
+
+Du vil ikke kunne bruke enheten under oppgraderingen.
+
+Hvis du kobler fra strømtilførselen eller fjerner den nedlastede filen under oppdatering av programvaren, kan det føre til uventede resultater."</string>
+    <string name="msg_install_system_software_update_4">"
+
+Du vil ikke kunne bruke enheten eller foreta nødanrop under oppgraderingen.
+
+Hvis du kobler fra strømtilførselen eller fjerner den nedlastede filen under oppdatering av programvaren, kan det føre til uventede resultater."</string>
+    <string name="msg_unable_to_connect_2">Du må ha nettverksforbindelse for å bruke denne appen. Slå på mobilt nettverk i Innstillinger.</string>
+    <string name="msg_unable_to_connect_wlan">Du må ha nettverksforbindelse for å bruke denne appen. Slå på mobilt nettverk eller WLAN i Innstillinger.</string>
+    <string name="msg_no_available_size_card_2">Denne oppdateringsfilen trenger %s MB ledig plass. Slett noen filer i datalagring.</string>
+    <string name="msg_remove_sd_card_2">Den nedlastede filen kan ikke lagres i datalagring. Kontroller lagringen.</string>
+    <string name="msg_remove_sd_card_short_2">Fikk ikke tilgang til datalagring.</string>
+    <string name="menu_enabled">Bare aktivert programvare</string>
+    <string name="using_internal_storage">Bruke internminne</string>
+    <string name="using_external_storage">Bruke ekstern lagring</string>
+    <string name="msg_root_message">"
+
+Normal oppdatering kan ikke garanteres når enheten er rootet."</string>
+    <string name="msg_responsibility_message">Hvis enheten er rootet, er brukeren ansvarlig for eventuell unormal systemadferd etter en oppdatering.</string>
+    <string name="install_fail">Installasjonen mislyktes</string>
+    <string name="install_all">Installer alle</string>
+    <string name="installed_version">Installert versjon</string>
+    <string name="update_available">Oppdatering er tilgjengelig.</string>
+    <string name="apk_update_available">Programoppdatering er tilgjengelig.</string>
+    <string name="recommend">Anbefalt</string>
+    <string name="roaming_restriction">Begrensning på dataroaming</string>
+    <string name="roaming_restriction_summary">Kan ikke oppdatere grunnet begrensning i dataroaming.</string>
+    <string name="changelog">Endre logg</string>
+    <string name="apk_update_available_summary">%s har en tilgjengelig oppdatering. Klikk på OK for å installere nå eller Avbryt for å kontrollere oppdateringen om en dag.</string>
+    <string name="apk_removed">Dette programmet er fjernet.</string>
+    <string name="apk_available_items">Totalt %s tilgjengelige elementer</string>
+    <string name="apk_available_item">Totalt %s tilgjengelig element</string>
+    <string name="invalid_update_summary">Oppdateringen er ugyldig. Kontroller den på nytt.</string>
+    <string name="recheck">Sjekk på nytt</string>
+    <string name="image_download_exception_summary">Får ikke tilgang til tjener. Kom tilbake senere.</string>
+    <string name="apk_download_exception">Får ikke tilgang til tjener</string>
+    <string name="installation_confirmation">Installasjonsbekreftelse</string>
+    <string name="apk_need_reboot_summary">Denne programvareoppdateringen vil starte systemet på nytt automatisk når installasjonen er fullført. Vil du installere nå?</string>
+    <string name="prepare_to_reboot">Klargjør for omstart</string>
+    <string name="prepare_to_reboot_summary">Den installerte programvaren må starte enheten på nytt for å konfigurere innstillinger. Vi foreslår at du starter enheten på nytt nå, men du kan også starte enheten på nytt senere.</string>
+    <string name="prepare_to_reboot_force_summary">Den installerte programvaren må starte enheten på nytt for å konfigurere innstillinger. Vi foreslår at du starter enheten på nytt nå.</string>
+    <string name="reboot_fail">Omstart mislykkes</string>
+    <string name="reboot_fail_summary">Kan ikke starte på nytt grunnet manglende API. Start enheten på nytt manuelt.</string>
+    <string name="apk_no_avaliable_size">Kan ikke laste ned fordi det ikke er nok ledig plass i internminnet.</string>
+    <string name="update_finished">Oppdatering fullført</string>
+    <string name="msg_root_warning">Enheten har blitt rootet eller den offisielle programvaren har blitt tuklet med. Hvis du fortsetter med systemoppdateringen, kan det føre til systemkrasj eller et ustabilt system, og det kan gjøre garantien ugyldig. Er du sikker på at du vil fortsette?</string>
+    <string name="multi_image_update">Noen bildeoppdateringer er tilgjengelige</string>
+    <string name="available_update_list">Liste med tilgjengelige oppdateringer</string>
+    <string name="downloading_summary">Avbryt bildenedlastingen</string>
+    <string name="msg_erase_userdata_warning">Denne oppdateringen må slette brukerdata. Vil du fortsette?</string>
+    <string name="msg_autoupdate_date_fee_warning">Det kan påløpe kostnader for automatisk oppdatering.</string>
+    <string name="invalid_update">Oppdateringen er ugyldig.</string>
+    <string name="file_corrupted">Systemet kan ikke oppgraderes ettersom filen er skadet.</string>
+    <string name="ask_for_apk_check">Vil du se etter programoppdateringer?</string>
+    <string name="update_ota_self">Programvareoppdatering pågår.</string>
+    <string name="ab_update_fail">Installasjonsproblem.</string>
+    <string name="ab_update_wrong_status">Oppdateringsmotoren er opptatt nå. Forsøk senere, eller start enheten på nytt.</string>
+    <string name="ab_update_installing">Oppdaterer system</string>
+    <string name="tag_engineer_mode">Konstruksjonsmodus</string>
+    <string name="engineer_version_incorrect">Enhetsversjonen din er feil</string>
+    <string name="msg_engineer_ota_restore">Trykk hvis du vil gjenopprette den offisielle versjonen</string>
+    <string name="msg_engineer_ota_restore_warning">Dette vil gjenopprette den offisielle versjonen. Vil du fortsette?</string>
+    <string name="silent_mode_data_fee_warning">Oppdatering er tilgjengelig. Det kan påløpe kostnader for nedlasting av oppdateringer. Last ned oppdateringene via Wi-Fi hvis det er mulig.</string>
+    <string name="msg_updating_system">Oppdaterer system ...</string>
+    <string name="msg_tap_to_reboot">Trykk for å starte på nytt</string>
+    <string name="msg_pause_download">Sett nedlasting på pause</string>
+    <string name="notification_channel_name">Systemoppdatering</string>
+    <string name="notification_channel_alert_name">Generelle varsler</string>
+</resources>

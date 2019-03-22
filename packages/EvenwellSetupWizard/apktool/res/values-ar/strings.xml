@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="accessibility_text">إمكانية الوصول</string>
+    <string name="account_intro_description">الطريقة الأذكى لاستخدام جهازك هي الانضمام إلى خدمات [BRAND_NAME].</string>
+    <string name="account_intro_title">حساب خدمات [BRAND_NAME]</string>
+    <string name="add_baidu_button_label">تسجيل دخول إلى 百度云</string>
+    <string name="add_infocus_service_account">إضافة حساب خدمات [BRAND_NAME]</string>
+    <string name="available_via_passpoint">متاح عبر %1$s</string>
+    <string name="back_btn_lebel">رجوع</string>
+    <string name="backup_and_restore_description">"إذا قمت بنسخ حسابك احتياطيًا في وقت سابق، يمكنك الآن استعادته على هذا الهاتف .
+
+يمكنك تغيير إعدادات النسخ الاحتياطي لديك في أي وقت من الإعدادات."</string>
+    <string name="backup_and_restore_title">النسخ الاحتياطي والاستعادة</string>
+    <string name="baidu_intro_description">يمكنك الاستمتاع بتكامل سلس للسحابات التخزينية مع 百度云 من خلال إكمال بضعة خطوات سهلة.</string>
+    <string name="baidu_intro_title">تخزين سحابي لمتصفح Baidu</string>
+    <string name="baidu_progress_dialog_des">يرجى الانتظار...</string>
+    <string name="choose_timezone">اختيار المنطقة الزمنية</string>
+    <string name="connected_via_passpoint">متصل عبر %1$s</string>
+    <string name="connected_via_wfa">متصل عبر مساعد Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">الغاء</string>
+    <string name="datausage_dialog_positive_btn">موافق</string>
+    <string name="date_and_time">إعدادات التاريخ والوقت</string>
+    <string name="date_and_time_settings_summary">تعيين التاريخ والوقت والمنطقة الزمنية والتنسيقات</string>
+    <string name="date_and_time_settings_title">التاريخ والوقت</string>
+    <string name="date_and_time_settings_title_setup_wizard">تعيين التاريخ والوقت</string>
+    <string name="date_picker_title">التاريخ:</string>
+    <string name="date_time_24hour">استخدام تنسيق 24 ساعة</string>
+    <string name="date_time_auto">التاريخ والوقت التلقائي</string>
+    <string name="date_time_auto_summaryOff">استخدام الوقت المعين بالشبكة</string>
+    <string name="date_time_auto_summaryOn">استخدام الوقت المعين بالشبكة</string>
+    <string name="date_time_date_format">اختيار تنسيق التاريخ</string>
+    <string name="date_time_set_date">تعيين التاريخ</string>
+    <string name="date_time_set_time">تعيين الوقت</string>
+    <string name="date_time_set_timezone">تحديد المنطقة الزمنية</string>
+    <string name="device_checking_message">مرحبا</string>
+    <string name="dropbox_fih_description">احصل على مساحة Dropbox مجانية بسعة 2 جيجا بايت لحفظ الصور ومقاطع الفيديو تلقائيًا.</string>
+    <string name="dropbox_fih_signin">تسجيل الدخول إلى Dropbox</string>
+    <string name="dropbox_fih_signup">إنشاء حساب Dropbox</string>
+    <string name="emergency_dial_hmd_message">طارئ</string>
+    <string name="emergency_dial_message">مكالمة طوارئ</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
+    <string name="fih_legal_message">"شروط استخدام برنامج [BRAND_NAME_PROXY]
+ 
+ تاريخ السريان: 20 مايو 2016
+ 
+ تشكل الشروط والأحكام التالية (المشار إليها هنا \" الشروط \") اتفاقًا قانونيًا ينظم استخدام أي برامج [BRAND_NAME_PROXY] بينك وبين شركة [BRAND_NAME_PROXY] Inc., ووكيلها شركة Commtiva Technology Ltd.‎ (المشار إليها إجمالاً \"[BRAND_NAME_PROXY]\") وتُطبق على استخدامك لبرنامج [BRAND_NAME_PROXY]، ويشمل على سبيل المثال لا الحصر التنزيل والتثبيت والتجديد التلقائي (المشار إليها \" خدمات البرامج \"). باستخدامك برنامج [BRAND_NAME_PROXY]، أنت توافق على الالتزام بهذه الشروط؛ وإذا كنت لا توافق على هذه الشروط، فلا تقم بتنزيل أو نسخ أو استخدام أو الاحتفاظ ببرنامج [BRAND_NAME_PROXY] .
+ 
+ 1. شروط الاستخدام
+ طالما تلتزم بهذه الشروط، يمنحك [BRAND_NAME_PROXY] نطاقًا شخصيًا وغير حصري وغير قابل للتحويل وقابل للإلغاء ومحدودًا لاستخدام خدمات برامج [BRAND_NAME_PROXY]. وسيقوم [BRAND_NAME_PROXY] بتثبيت رمز كائن بجهاز [BRAND_NAME_PROXY] المحمول الذكي لديك (يشار إليه باسم جهاز [BRAND_NAME_PROXY]\") عبر الإنترنت. أنت تقر وتوافق على عدم استخدام برنامج [BRAND_NAME_PROXY] الموجود على هاتف [BRAND_NAME_PROXY] لديك لأغراض تجارية أو نقلها إلى أي طرف آخر.
+
+وتوافق كذلك على عدم استخدام برنامج [BRAND_NAME_PROXY] بأي من الطرق التالية:
+
+(أ)\u0009قرصنة برامج [BRAND_NAME_PROXY] (بما في ذلك التقنيات المضمنة بها)، أو استخدام برنامج [BRAND_NAME_PROXY] على أي جهاز لا يحمل علامة [BRAND_NAME_PROXY] التجارية؛
+
+(ب)\u0009تحليل أو تفكيك أو عكس هندسة أو فك شفرة أو نسخ أو تعديل برنامج [BRAND_NAME_PROXY] أو إنشاء أي عمل مشتق من ذلك لأي غرض من الأغراض؛
+
+(ج)\u0009اتخاذ أي أنشطة تشمل دون الاقتصار على، النقل أو التأجير أو الإقراض أو الترخيص من الباطن بما يتنافى مع الشروط وكشف برامج [BRAND_NAME_PROXY] للعامة أو لأي طرف آخر أو للاستخدام أو الدخول إلى أو امتلاك برنامج [BRAND_NAME_PROXY] ؛
+
+(د)\u0009إزالة أي إشعارات ملكية أو شعارات أو علامات تجارية من أنواع برنامج [BRAND_NAME_PROXY] أو وثائقها دون موافقة مسبقة مكتوبة من [BRAND_NAME_PROXY] ؛
+
+(ه)\u0009استخدام برنامج [BRAND_NAME_PROXY] بطريقة تخالف القانون المعمول به حاليًا أو انتهاك حقوق الطرف الآخر؛
+
+(و)\u0009استخدام برنامج [BRAND_NAME_PROXY] في البيئات التي تمنع أو تقيد ذلك الاستخدام وتشمل على سبيل المثال لا الحصر منطقة المراقبة بالمطارات ومحطات الوقود والمعدات النووية؛ أو
+
+(ي)\u0009استخدام برنامج [BRAND_NAME_PROXY] بطريقة تمنعها الشروط.
+
+
+
+لضمان عمل هاتف [BRAND_NAME_PROXY] وبرنامج [BRAND_NAME_PROXY] بشكل صحيح، فأنت تتعهد بعدم إتلاف أو إزالة الملصق/الملصقات الموجودة على جهاز [BRAND_NAME_PROXY] بدون مساعدة من موظف [BRAND_NAME_PROXY]. ستؤثر تلك الإجراءات غير المصرح بها على نطاق ومدة الضمان الذي تقدمه لك [BRAND_NAME_PROXY].
+
+
+
+2. سياسة الخصوصية
+
+أنت تقر وتوافق على أن [BRAND_NAME_PROXY] يمكنه جمع والاحتفاظ بأي معلومات، وتشمل على سبيل المثال لا الحصر، نوع الطراز والرقم التسلسلي ورمز IMEI/MEID وإصدار الجهاز وإصدار البرامج والوقت التراكمي ومعرف SKU والإحصاءات الافتراضية وإصدار نظام التشغيل في جهاز [BRAND_NAME_PROXY] (يشار إليها \" المعلومات\"). 
+
+وفي حالة الطلب من [BRAND_NAME_PROXY] الإفصاح عن أي معلومات للهيئات الحكومية أو النظام القضائي، ستقوم [BRAND_NAME_PROXY] بعمل ما يُطلب منها.
+
+
+
+سيقوم جهاز [BRAND_NAME_PROXY] بإبلاغ [BRAND_NAME_PROXY] في حالة أن جهاز [BRAND_NAME_PROXY] لم يتصل بشبكة الجوّال لمدة 14 يوم على الأقل من تاريخ الشراء.
+
+
+
+يرجى مراجعة سياسة الخصوصية في [BRAND_NAME_PROXY] لمعرفة التفاصيل.
+
+
+
+3. خدمة الدعم
+
+ستقدم [BRAND_NAME_PROXY] خدمات البرامج، وتشمل على سبيل المثال لا الحصر، التحديثات والترقيات لبرنامج [BRAND_NAME_PROXY] وفقًا للحالة الحالية التي تحصل عليها [BRAND_NAME_PROXY] من جهاز [BRAND_NAME_PROXY].
+  
+وستقدم [BRAND_NAME_PROXY] التحديثات أو التصحيحات أو العناصر المضافة إلى برنامج [BRAND_NAME_PROXY] بعد استخدامك لبرنامج [BRAND_NAME_PROXY] عبر الإنترنت والتي ستخضع للشروط.
+
+
+
+وتحتفظ [BRAND_NAME_PROXY] بالحق في إنهاء حقك في الحصول على أي خدمة من خدمات [BRAND_NAME_PROXY] عبر الإنترنت لجعل استخدام خدمات وبرامج [BRAND_NAME_PROXY] أكثر سلاسة.
+
+ستُصدر [BRAND_NAME_PROXY] إصدارات متتابعة من برنامج [BRAND_NAME_PROXY] ما سيتطلب استخدامك لأحدث إصدار من نظام التشغيل.
+
+
+
+4. التحديث التلقائي
+
+لتقوية وتحسين جهاز [BRAND_NAME_PROXY]، فقد تم ضبطه مسبقًا على تنزيل أحدث البرامج الثابتة والبرمجيات من [BRAND_NAME_PROXY] تلقائيًا 
+
+
+
+لضمان أمان واستقرار جهاز [BRAND_NAME_PROXY]، فأنت توافق على اتباع الإرشادات الضرورية لهذا الإعداد واتباع الإرشادات كما وضعتها [BRAND_NAME_PROXY]. تعد موافقتك على تنزيل أحدث البرامج الثابتة أو البرامج دليلاً على قبولك لهذا التجديد والتثبيت.
+
+
+
+لتجنب فقد مستنداتك وصورك ورسائلك النصية والملفات الصوتية وملفات الفيديو وأي نوع من أنواع التسجيلات على الأجهزة والتي قد يتم فقدها أو إتلافها أثناء إجراء تحديثات جهاز [BRAND_NAME_PROXY]، ستكون أنت مسؤولًا عن نسخ جميع التسجيلات على الأجهزة الواردة أعلاه احتياطيًا والمخزنة في جهاز [BRAND_NAME_PROXY] قبل تنزيل أحدث إصدار من البرامج الثابتة أو البرامج.
+
+
+
+بمجرد قيام جهاز [BRAND_NAME_PROXY] الخاص بك بالتحديث تلقائيًا أو التحديث من خلال موافقتك المرسلة عبر نموذج الرسالة، فهذا يعني أنك توافق على المحتويات التالية:
+
+(أ)\u0009تحديث البرامج:
+
+أنت توافق وتقر بأن [BRAND_NAME_PROXY] يمكنه الاتصال عبر الإنترنت للتحقق من إصدار البرامج وتحديث الحالة على جهاز [BRAND_NAME_PROXY] الخاص بك. إذا أصدرت [BRAND_NAME_PROXY] أي إشعار بالترقية، ستتيح [BRAND_NAME_PROXY] لك تحديث إصدارات برامج [BRAND_NAME_PROXY] والحالة عبر خدمة [BRAND_NAME_PROXY].
+
+عندما تتوفر برامج [BRAND_NAME_PROXY] جديدة، فأنت توافق على السماح لشركة [BRAND_NAME_PROXY] بإرسال إشعارات بهذه التحديثات. إذا قمت بتأكيد التحديثات الجديدة المتاحة، فهذا يعني أنك توافق على السماح لشركة [BRAND_NAME_PROXY] تلقائيًا بتحديث جهاز [BRAND_NAME_PROXY].
+
+(ب)\u0009مزامنة وتحديث المحتويات:
+
+بعد اتصال جهاز [BRAND_NAME_PROXY] الخاص بك بالكمبيوتر أو أي جهاز آخر، سيقوم جهاز [BRAND_NAME_PROXY] بتحديث المحتويات والمعلومات الأخرى ذات الصلة تلقائيًا (مثل: معلومات جهة الاتصال والتقويم والعلامات المرجعية والملفات).
+
+
+
+5. الاحتفاظ بجميع حقوق الملكية والحقوق الأخرى ببرامج [BRAND_NAME_PROXY] 
+
+وبالرغم من أنك مرخص لك باستخدام خدمات وبرامج [BRAND_NAME_PROXY]، تحتفظ [BRAND_NAME_PROXY] وشركاتها التابعة ومورديها بجميع حقوق برامج [BRAND_NAME_PROXY] والتي تشمل على سبيل المثال لا الحصر، حقوق الملكية وحقوق النشر وحقوق الملكية الفكرية الأخرى.
+
+
+
+تعد جميع حقوق برامج [BRAND_NAME_PROXY] محمية بواسطة القوانين المحلية والمعاهدات الدولية.
+
+
+
+6. إخلاء المسؤولية
+
+لا تقدم [BRAND_NAME_PROXY] أي إقرارات أو ضمانات صريحة أو ضمنية، وتشمل على سبيل المثال لا الحصر، الضمانات الضمنية للترويج والجودة المرضية والملاءمة لغرض معين أو عدم الانتهاك. 
+
+ولا تقدم [BRAND_NAME_PROXY] أي ضمانات بأن:
+
+(أ)\u0009أي خدمة [BRAND_NAME_PROXY] تحصل عليها ستكون دقيقة أو فعالة؛ أو
+
+(ب)\u0009سيتم تقديم خدمة [BRAND_NAME_PROXY] دون انقطاع وفي وقت محدد وآمن؛ أو
+
+(ج)\u0009أية عيوب أو أخطاء في البرامج المقدمة سيتم تصحيحها بشكل فوري.
+
+
+
+لن تتحمل [BRAND_NAME_PROXY] أية مسؤولية عن أي خسارة أو ضرر تسببه الفيروسات أو المواد الضارة التقنية الأخرى التي قد تصيب جهاز [BRAND_NAME_PROXY] أو البرامج أو البيانات أو أي مواد مملوكة لك، والتي قد تنتج عن استخدامك لخدمات [BRAND_NAME_PROXY]. جميع المحتويات والمواد الأخرى التي تقوم بتنزيلها أو الحصول عليها من خلال [BRAND_NAME_PROXY]، يتم الوصول إليها على مسؤوليتك الخاصة، وسوف تكون وحدك المسؤول عن أي ضرر يلحق بجهاز [BRAND_NAME_PROXY] أو أي فقدان للبيانات أو المحتويات والذي ينتج من تنزيل أية برامج.
+
+
+
+7. حدود المسؤولية وسبيل الانتصاف الوحيد
+
+لن تتحمل [BRAND_NAME_PROXY] أية مسؤولية عن أي أضرار تبعية أو عرضية أو غير مباشرة أو عقابية أو أضرار تنتج عن فقدان الأرباح أو المعلومات السرية أو المعلومات الأخرى، أو تعطيل الأعمال، أو إصابة شخصية أو تلف الممتلكات، أو فقد الخصوصية، أو الفشل في تلبية أي واجبات بحسن نية أو العناية المعقولة أو الإهمال.
+
+سيقتصر التعويض عن الأضرار الفعلية التي تتكبدها [BRAND_NAME_PROXY] على مبلغ 10 دولارات أمريكية (10 USD)، وذلك في الإطار الذي يسمح به القانون المعمول به، والمسؤولية الإجمالية لك، وضمان الإصلاح الوحيد بموجب الشروط عن أي وجميع الأضرار والإصابات والأضرار في الممتلكات والخسائر الناتجة عن أي وجميع المطالبات، أو الدعاوى المتصلة أو المرتبطة بالشروط. 
+
+
+
+لن توسع المطالبات أو الدعاوى المتعددة ذات الصلة بالشروط حدود المسؤولية، وإلى الحد الأقصى الذي يسمح به القانون المعمول به، ستكون ضمان إصلاحك الوحيد والحصري.
+
+
+
+إذا رأت إحدى المحاكم المختصة أن الحد الأقصى للمسؤولية المذكور أعلاه غير قابل للتنفيذ، ستقوم المحكمة، في إطار هذا الحد غير القابل للتطبيق، باستبدال عبارة تقتصر على عشرة دولارات بعبارة \"تقتصر على قيمة الصفقة التي نشأت بشأنها المسؤولية.
+ 
+ يجب تقديم الدعوى أو رفع القضية المتعلقة بالشروط خلال سنة واحدة بعد وقوع سبب الدعوى. 
+ 8. التعويض 
+ أنت توافق على الدفاع عن، وتعويض، وحماية [BRAND_NAME_PROXY] ومساهميها، ومديريها، ومسؤوليها، وأطرافها المعنيين، وموظفيها، والشركات التابعة لها، من أي أذى أو مطالب أو خسائر أو مسؤولية أو مطالبات أو نفقات (بما في ذلك أتعاب المحاماة)، التي توجه ضد [BRAND_NAME_PROXY] من قِبل أي طرف آخر تنتج بسبب سوء استخدامك لخدمات [BRAND_NAME_PROXY] والذي أدى إلى انتهاك حقوق أي أطراف أخرى.
+ 
+ 9. إنهاء الخدمة
+ لن يُسمح لك باستخدام خدمات [BRAND_NAME_PROXY] بشكل قانوني إذا خالفت الشروط. وفي تلك الظروف، ستقوم بالتخلص من جميع نسخ برامج [BRAND_NAME_PROXY] وإزالتها. في الوقت ذاته، سيتأثر ضمان هاتف [BRAND_NAME_PROXY] الخاص بك.
+ وفي حالة حدوث مثل ذلك الانتهاك المذكور أعلاه، فأنت توافق على أن [BRAND_NAME_PROXY] لديها الحق في اتخاذ ما يلي،
+ (أ) الإنهاء الفوري لحقك في الدخول إلى حسابك في [BRAND_NAME_PROXY] ؛ و/أو
+ (ب) حظر دخولك المستقبلي إلى حساب خدمات [BRAND_NAME_PROXY] 
+ 
+ كما أنك توافق على أن أي انتهاك للشروط سوف يسبب ضررًا لا يمكن إصلاحه لشركة [BRAND_NAME_PROXY]، والذي يكون التعويض المالي فيه غير كافٍ، وأنت توافق على حصول [BRAND_NAME_PROXY] على أي تعويض زجري أو منصف تراه [BRAND_NAME_PROXY] ضروريًا أو مناسبًا في مثل هذه الظروف. هذه التعويضات ستكون بجانب أي تعويضات أخرى قد تكون مستحقة لدى [BRAND_NAME_PROXY] بموجب القانون أو من باب الإنصاف.
+ 
+ 10. القانون الحاكم والاختصاص القضائي
+ أنت توافق على أن جميع شؤون المنازعات ذات الصلة بالشروط ستحكمها قوانين جمهورية الصين (.R.O.C) بغض النظر عن تعارضها مع أحكام القانون. 
+ 
+ كما توافق على الاختصاص القضائي الشخصي بواسطة منطقة المحاكم في تايباي بتايوان والاحتكام أمامها، وتتنازل عن أي اعتراض عن أي اختصاص قانوني أو مكان الدعوى.
+ 
+ أي نزاع يتعذر حله عن طريق ترتيب ودي متبادل بينك وبين [BRAND_NAME_PROXY] يحق لك ولشركة [BRAND_NAME_PROXY] طلب الوساطة. إذا تعذر حل النزاع بالوساطة في غضون 30 يومًا تقويميًا، فسيتم إحالة ذلك النزاع إلى المحكمة الإقليمية المذكورة أعلاه.
+ 
+ 11. فقرة عامة
+ تم استخدام العناوين الموجودة في الشروط للمواءمة فقط.
+ لا يفسّر فشل [BRAND_NAME_PROXY] في اتخاذ إجراء ضد انتهاكك أنها تتنازل عن حقها في ذلك الانتهاك أو ما يتبعه أو عن أي انتهاكات متشابهة.
+ 
+ إذا قضت محكمة مختصة بأن أي جزء من هذه الشروط غير قانوني أو غير قابل للتنفيذ، فسيتم استبدال البند غير القانوني أو غير القابل للتنفيذ بآخر قانوني وقابل للتنفيذ يوافق إلى حد كبير مضمون البند الأصلي وستبقى باقي الشروط سارية المفعول. 
+ 
+ لا يجوز لك التنازل عن الشروط أو التنازل عن حقوقك في الشروط أو نقل ملكيتها أو ترخيصها من الباطن.
+ 
+ قد تتنازل [BRAND_NAME_PROXY] عن هذه الشروط، كليًا أو جزئيًا، في أي وقت بإشعار أو بدون إشعارك بذلك. 
+ 
+ ستحل هذه الشروط محل جميع المراسلات المسبقة أو المتزامنة بجميع أنواعها بينك وبين [BRAND_NAME_PROXY] فيما يتصل بالموقع.
+ 
+ 12. الاتفاقية كاملة
+ تشكل الشروط والملحقات المتجددة الاتفاق بأكمله بينك وبين [BRAND_NAME_PROXY] فيما يتعلق بخدمات [BRAND_NAME_PROXY].
+ 
+ 13. تعديل الشروط
+ قد تقوم [BRAND_NAME_PROXY] بتحديث أو تبديل أو حذف محتوى الشروط من وقتٍ لأخر حسب تقديرها.
+ 
+ يجب عليك التحقق من الشروط المنشورة على موقع [BRAND_NAME_PROXY] على الويب والتي قد تكون مختلفة عن الشروط الأصلية التي قرأتها.
+ 
+ ويعد استخدامك للبرامج وجهاز [BRAND_NAME_PROXY] المجددين دليلاً على موافقتك على هذا التبديل.
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] قانوني</string>
+    <string name="finish_button_label">انتهى</string>
+    <string name="google_account_add_account">‏تسجيل الدخول بحساب Google</string>
+    <string name="google_account_intro_description">إعداد حساب Google للاستمتاع بكل خدمات Google.</string>
+    <string name="google_account_intro_title">حساب Google</string>
+    <string name="hmd_legal_message" />
+    <string name="hmd_user_experience_program_message">مشاركتك في برنامج تجربة المستخدم تساعد HMD Global على التوصل لفهم أفضل لما يروق لك في جهاز Nokia، والأشياء التي ترى أنها تحتاج إلى التحسين. قد نتلقى من حين لآخر بيانات لا تعكس هوية المرسل تتضمن خصائص فنية حول جهازك، وهذا يشمل على سبيل المثال، ملف به بيانات حول تعطل محتمل لأحد البرامج. رجاء ملاحظة أن تلك البيانات لن يتم بثها من خلال اتصال شبكة جوال. نود أن نستمع إلى رأيك حول جهاز Nokia الخاص بك!</string>
+    <string name="hmd_user_experience_program_title">برنامج تجربة المستخدم</string>
+    <string name="idle_too_long_toast">يدخل هذا الهاتف وضع الخمول أحيانًا. أوقف تشغيله الآن لحفظ الطاقة.</string>
+    <string name="language_selection_cancel_btn">إلغاء</string>
+    <string name="language_selection_title">اختر لغتك</string>
+    <string name="link_speed">%1$d ميجا بايت/ثانية</string>
+    <string name="location_for_service">استخدام My Location لنتائج بحث Google وخدمات Google الأخرى.</string>
+    <string name="location_info_1">توفر خدمة موقع Google تطبيقات مع تحديد تقريبي لموقعك بدون استخدام GPS.</string>
+    <string name="location_info_2">يمكنك تعطيل هذه الميزات من الإعدادات، تحت خدمات تحديد الموقع.</string>
+    <string name="location_network">اسمح لخدمة تحديد الموقع من Google بجمع بيانات الموقع المجهولة. يستمر الجمع حتى في حالة عدم عمل التطبيقات.</string>
+    <string name="location_title">استخدام خدمة الموقع من Google</string>
+    <string name="nevigation_selection_back">رجوع</string>
+    <string name="nevigation_selection_home">الصفحة الرئيسية</string>
+    <string name="nevigation_selection_recent">الأخيرة</string>
+    <string name="nevigation_selection_text">يمكنك تغيير لون الخلفية وأماكن مفاتيح عودة / الأخيرة.</string>
+    <string name="nevigation_selection_title">إعدادات شريط التنقل</string>
+    <string name="next_btn_lebel">التالي</string>
+    <string name="normal_date_format">إقليمي (%s)</string>
+    <string name="not_now">ليس الآن…</string>
+    <string name="passpoint_content">بيانات اعتماد %1$s</string>
+    <string name="passpoint_label">تم الحفظ عبر</string>
+    <string name="please_select_phase2">مصادقة المرحلة 2</string>
+    <string name="proxy_error_empty_host_set_port">يجب أن يكون حقل المنفذ فارغًا إذا كان حقل المضيف فارغًا.</string>
+    <string name="proxy_error_empty_port">يجب عليك إكمال حقل المنفذ.</string>
+    <string name="proxy_error_invalid_exclusion_list">قائمة الاستبعاد التي أدخلتها ليست بالتنسيق الصحيح. اكتب قائمة المجالات المستبعدة مفصولة بفاصلة.</string>
+    <string name="proxy_error_invalid_port">المنفذ الذي كتبته ليس صالحًا.</string>
+    <string name="proxy_exclusionlist_label">تجاوز الوكيل من أجل</string>
+    <string name="proxy_hostname_label">اسم مضيف الوكيل</string>
+    <string name="proxy_port_label">منفذ الوكيل</string>
+    <string name="proxy_settings_title">وكيل</string>
+    <string name="proxy_url_title">"عنوان URL لـ PAC: "</string>
+    <string name="proxy_warning_limited_support">يستخدم المتصفح وكيل HTTP ولكن لا يمكن للتطبيقات الأخرى استخدامه.</string>
+    <string name="saved_network">تم الحفظ بواسطة %1$s</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="select_sim_card">حدد شريحة SIM</string>
+    <string name="setup_complete_hmd">أنت جاهز للانطلاق...</string>
+    <string name="setup_complete_hmd_1">أنت جاهز تقريبًا للبدء...!</string>
+    <string name="setup_complete_main">أنت الآن</string>
+    <string name="setup_complete_sub">مستعد للبدء.</string>
+    <string name="setup_completed_congratulations">تهانينا!</string>
+    <string name="setup_finish">فلنبدأ</string>
+    <string name="sim_editor_title">فتحة SIM %1$d</string>
+    <string name="sim_not_exist_toast">يرجى التحقق من إدخال بطاقة SIM.</string>
+    <string name="skip_add_account_button_label">ليس الآن</string>
+    <string name="skip_button_label">تخطي</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="term_agree_text">موافقة</string>
+    <string name="term_disagree_text">لا أوافق</string>
+    <string name="terms_of_service_description">"
+يمكن أن يفرض استخدام بيانات الهاتف رسومًا إضافية عندما تستخدم الخدمات التي تتطلب اتصالاً بالشبكة، مثل خدمات الطقس، وخدمات الإنترنت، والبريد الإلكتروني، والمتصفح.. وما إلى ذلك. لإدارة رسوم استخدام بيانات الهاتف بكفاءة أكثر، نقترح عليك استخدام حزمة خدمة الهاتف من شركة الجوال.
+
+بتحديد أوافق، فأنت تسمح لهذه الخدمات بالاتصال بالشبكة عندما تتطلب ذلك.
+
+بالإضافة إلى ذلك، فإن تحديث البرامج التلقائي مدعم في الضبط الافتراضي. لتحضير أحدث تجربة للبرامج، قد تستخدم القليل من بيانات شبكة الجوّال. يمكنك دائمًا تغيير الخيار لاحقًا من الإعدادات.
+
+"</string>
+    <string name="terms_title">استخدام البيانات</string>
+    <string name="time_picker_title">الوقت:</string>
+    <string name="traffic_prompt_content">إذا اخترت عدم الموافقة، ستحتاج إلى الحصول على معلومات تحديث البرامج، أو التنبؤ بالطقس، أو المعلومات الأخرى يدويًا.</string>
+    <string name="upload_agent_des_text">"شارك ببرنامج تجربة المستخدم. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>معرفة المزيد&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"انضم إلى برنامج تجربة مستخدمي Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>تعرف على المزيد.&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_3">"بالنقر على \"فلنبدأ\"، أنت توافق على الانضمام إلى برنامج تجربة المستخدم. &lt;a href='launch.UserExperienceActivity://Kode'>معرفة المزيد&lt;/a>. تذكر أنه يمكنك دائمًا الانضمام لاحقًا عبر الإعدادات."</string>
+    <string name="upload_agent_title">برنامج تجربة المستخدم</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">تفعيل</string>
+    <string name="welcome_hmd_term_of_use_2">"بالنقر على السهم، فإنك توافق على &lt;a href='launch.TermOfServiceActivity://Kode'>شروط الخدمة&lt;/a> و &lt;a href='launch.AddUploadAgentHandler://Kode'>سياسة الخصوصية&lt;/a>. سيتم إرسال معلومات تنشيط الجهاز مع موقع الجهاز لمرة واحدة إلى HMD Global. قد تطبق رسوم على البيانات."</string>
+    <string name="welcome_hmd_term_of_use_4">"بالنقر على الزر، أنت توافق على &lt;a href='launch.TermOfServiceActivity://Kode'>شروط الخدمة&lt;/a> و&lt;a href='launch.AddUploadAgentHandler://Kode'>سياسة الخصوصية&lt;/a>. سيتم إرسال معلومات تنشيط الجهاز مع موقع الجهاز لمرة واحدة إلى HMD Global.&lt;br/>&lt;br/>سيتم تمكين إشعار Auto Software Update الذي يقوم بتثبيت آخر التحديثات من أجلك. قد يستهلك ذلك جزءًا صغيرًا من ميزانية بياناتك. ستتصل الخدمات بالإنترنت عند الحاجة.&lt;br/>&lt;br/>ستكلفك تلك الخدمات رسومًا فوق المتوقعة عندما تتصل بشبكات الجّوال."</string>
+    <string name="welcome_hmd_term_of_use_5">"بالنقر على الزر، أنت توافق على &lt;a href='launch.TermOfServiceActivity://Kode'>شروط الخدمة&lt;/a>. سيتم إرسال معلومات تنشيط الجهاز مع موقع الجهاز لمرة واحدة إلى HMD Global. قد يتم خصم رسوم البيانات. سيتم استخدام البيانات حسب &lt;a href='launch.AddUploadAgentHandler://Kode'>سياسة الخصوصية&lt;/a>."</string>
+    <string name="welcome_infocus_term_of_use">"بالنقر فوق السهم، أنت توافق على&lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>شروط الاستخدام&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">دعونا ننطلق</string>
+    <string name="welcome_message">مرحبا</string>
+    <string name="welcome_start_button_label">بدء</string>
+    <string name="welcome_vision_settings_button_label">إعدادات الرؤية</string>
+    <string name="wifi_add_network">إضافة شبكة</string>
+    <string name="wifi_advanced_toggle_description_collapsed">القائمة المنسدلة خيارات متقدمة. انقر نقرًا مزدوجًا للتوسيع.</string>
+    <string name="wifi_advanced_toggle_description_expanded">القائمة المنسدلة خيارات متقدمة. انقر نقرًا مزدوجًا للطي.</string>
+    <string name="wifi_and_mobile_skipped_message">"يساعدك الاتصال بالشبكة على إعداد هاتفك بسرعة.
+
+بدون اتصال، لا يمكنك’:
+
+"<li>تسجيل الدخول إلى حساب Cloud الخاص بك</li>"
+
+"<li>الحصول على تحديثات البرنامج</li>"
+
+"<li>الإعداد التلقائي للوقت والتاريخ</li></string>
+    <string name="wifi_auth_password_wrong">قد تكون كلمة المرور خاطئة</string>
+    <string name="wifi_band_24ghz">2.4 جيجا هرتز</string>
+    <string name="wifi_band_5ghz">5 جيجا هرتز</string>
+    <string name="wifi_cancel">إلغاء</string>
+    <string name="wifi_certificate">شهادة</string>
+    <string name="wifi_connect">الاتصال</string>
+    <string name="wifi_connected_no_internet">متصل، لا يوجد إنترنت</string>
+    <string name="wifi_disabled_generic">معطل</string>
+    <string name="wifi_disabled_network_failure">فشل تكوين IP</string>
+    <string name="wifi_disabled_password_failure">مشكلة في المصادقة</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">عدم التوفير</string>
+    <string name="wifi_do_not_validate_eap_server">عدم التحقق من الصحة</string>
+    <string name="wifi_do_not_validate_eap_server_warning">لم يتم تعيين شهادة. لن يكون اتصالك خاصًا.</string>
+    <string name="wifi_dont_skip">العودة</string>
+    <string name="wifi_eap_anonymous">هوية مجهولة</string>
+    <string name="wifi_eap_ca_cert">شهادة CA</string>
+    <string name="wifi_eap_domain">مجال</string>
+    <string name="wifi_eap_identity">هوية</string>
+    <string name="wifi_eap_method">طريقة EAP</string>
+    <string name="wifi_eap_user_cert">شهادة المستخدم</string>
+    <string name="wifi_fail_to_scan">يتعذر المسح بحثًا عن شبكات</string>
+    <string name="wifi_failed_connect_message">فشل الاتصال بالشبكة</string>
+    <string name="wifi_failed_forget_message">فشل نسيان الشبكة</string>
+    <string name="wifi_failed_save_message">فشل حفظ الشبكة</string>
+    <string name="wifi_forget">نسيان</string>
+    <string name="wifi_frequency">التردد</string>
+    <string name="wifi_gateway">البوابة</string>
+    <string name="wifi_ip_address">عنوان IP</string>
+    <string name="wifi_ip_settings">إعدادات IP</string>
+    <string name="wifi_ip_settings_invalid_dns">اكتب عنوان DNS صالحًا.</string>
+    <string name="wifi_ip_settings_invalid_gateway">اكتب عنوان بوابة صالحًا.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">اكتب عنوان IP صالحًا.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">اكتب بادئة شبكة بطول يتراوح بين 0 و32.</string>
+    <string name="wifi_multiple_cert_added">(تمت إضافة عدة شهادات)</string>
+    <string name="wifi_network_prefix_length">طول بادئة الشبكة</string>
+    <string name="wifi_no_domain_warning">يجب تحديد مجال.</string>
+    <string name="wifi_no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="wifi_no_internet_no_reconnect">عدم الاتصال تلقائيًا</string>
+    <string name="wifi_not_in_range">ليس ضمن النطاق</string>
+    <string name="wifi_password">كلمة المرور</string>
+    <string name="wifi_picker_connection_des_text">تعطيل اتصال WLAN قد يفرض رسومًا عند التحقق من البرامج عبر شبكة الهاتف.</string>
+    <string name="wifi_picker_connection_negative">اتصال</string>
+    <string name="wifi_picker_connection_negative_prc">اتصال WLAN</string>
+    <string name="wifi_picker_connection_positive">حسنا</string>
+    <string name="wifi_picker_connection_title">اتصال الشبكة</string>
+    <string name="wifi_picker_warning_des_text">لن يتمكن الهاتف من التحقق من أن برامجك محدثة إلا عند توافر اتصال إنترنت.</string>
+    <string name="wifi_picker_warning_negative">تخطٍ على أية حال</string>
+    <string name="wifi_picker_warning_positive">عدم التخطي</string>
+    <string name="wifi_picker_warning_title">تحذير</string>
+    <string name="wifi_remembered">تم الحفظ</string>
+    <string name="wifi_save">حفظ</string>
+    <string name="wifi_security">الأمن</string>
+    <string name="wifi_security_none">بدون</string>
+    <string name="wifi_setting_title">الاتصال</string>
+    <string name="wifi_shared">مشاركة مع مستخدمي الجهاز الآخر</string>
+    <string name="wifi_show_advanced">خيارات متقدمة</string>
+    <string name="wifi_show_password">إظهار كلمة المرور</string>
+    <string name="wifi_signal">قوة الإشارة</string>
+    <string name="wifi_skip_anyway">تخطي على أي حال</string>
+    <string name="wifi_speed">سرعة الرابط</string>
+    <string name="wifi_ssid">اسم الشبكة</string>
+    <string name="wifi_ssid_hint">إدخال SSID</string>
+    <string name="wifi_status">الحالة</string>
+    <string name="wifi_unchanged">(بدون تغيير)</string>
+    <string name="wifi_unspecified">رجاء التحديد</string>
+    <string name="wifi_use_system_certs">استخدام شهادات النظام</string>
+    <string name="zone_auto">المنطقة الزمنية التلقائية</string>
+    <string name="zone_auto_summaryOff">استخدام المنطقة الزمنية للشبكة</string>
+    <string name="zone_auto_summaryOn">استخدام المنطقة الزمنية للشبكة</string>
+    <string name="sugarsync_intro_description">يمكنك الاستمتاع بتكامل لانهائي للتخزين السحابي مع SugarSync بواسطة إكمال بضع خطوات سهلة.</string>
+</resources>

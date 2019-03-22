@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYPNUTO</string>
+    <string name="abc_capital_on">ZAPNUTO</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Vyhledávací dotaz</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet pomocí</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="accessibility_text">Usnadnění</string>
+    <string name="account_intro_description">Chytřejší způsob práce se zařízením po připojení ke službám [BRAND_NAME].</string>
+    <string name="account_intro_title">Účet služby [BRAND_NAME]</string>
+    <string name="add_baidu_button_label">Přihlášení: 百度云</string>
+    <string name="add_infocus_service_account">Přidat účet služby [BRAND_NAME]</string>
+    <string name="back_btn_lebel">ZPĚT</string>
+    <string name="backup_and_restore_description">"Pokud jste účet dříve zálohovali, můžete ho nyní obnovit do tohoto telefonu.
+
+Nastavení zálohování můžete kdykoli změnit v aplikaci Nastavení."</string>
+    <string name="backup_and_restore_title">Zálohování a obnovování</string>
+    <string name="baidu_intro_description">Hladkou integraci cloudových úložišť můžete v několika krocích zajistit pomocí služby 百度云.</string>
+    <string name="baidu_intro_title">Cloudové úložiště pro službu Baidu</string>
+    <string name="baidu_progress_dialog_des">Počkejte prosím...</string>
+    <string name="choose_timezone">Vybrat časové pásmo</string>
+    <string name="datausage_dialog_negitive_btn">Zrušit</string>
+    <string name="datausage_dialog_positive_btn">OK</string>
+    <string name="date_and_time">Nastavení data a času</string>
+    <string name="date_and_time_settings_summary">Umožňuje nastavit datum, čas, časové pásmo a formát</string>
+    <string name="date_and_time_settings_title">Datum a čas</string>
+    <string name="date_and_time_settings_title_setup_wizard">Nastavit datum a čas</string>
+    <string name="date_picker_title">Datum:</string>
+    <string name="date_time_24hour">Používat 24hodinový formát</string>
+    <string name="date_time_auto">Automatické datum a čas</string>
+    <string name="date_time_auto_summaryOff">Použít sítí poskytnutý čas</string>
+    <string name="date_time_auto_summaryOn">Použít sítí poskytnutý čas</string>
+    <string name="date_time_date_format">Vybrat formát data</string>
+    <string name="date_time_set_date">Nastavit datum</string>
+    <string name="date_time_set_time">Nastavit čas</string>
+    <string name="date_time_set_timezone">Časové pásmo</string>
+    <string name="device_checking_message">Vítejte</string>
+    <string name="dropbox_fih_description">Obdržíte 2 GB místa ve službě Dropbox zdarma k automatickému ukládání svých fotografií a videa.</string>
+    <string name="dropbox_fih_signin">Přihlaste se ke službě Dropbox.</string>
+    <string name="dropbox_fih_signup">Zaregistrujte se do služby Dropbox.</string>
+    <string name="emergency_dial_hmd_message">Nouzové volání</string>
+    <string name="emergency_dial_message">Nouzové volání</string>
+    <string name="expand_button_title">Rozšířené</string>
+    <string name="fih_legal_message">"Podmínky používání softwaru [BRAND_NAME_PROXY] 
+ 
+ Platí od: 20. května 2016
+ 
+ Následující podmínky (dále jen \"Podmínky\") představují právní smlouvu, kterou se řídí vaše používání libovolného softwaru [BRAND_NAME_PROXY], mezi vámi a společností [BRAND_NAME_PROXY] Inc., a jejím agentem Commtiva Technology Ltd. (souhrnně \"[BRAND_NAME_PROXY]\") a platí pro vaše používání softwaru [BRAND_NAME_PROXY] , včetně, nikoli však pouze stahování, instalace, automatického obnovování (dále jen \" Softwarové služby \"). Použitím softwaru [BRAND_NAME_PROXY] vyjadřujete souhlas s tím, že budete dodržovat tyto Podmínky; pokud s Podmínkami nesouhlasíte, software [BRAND_NAME_PROXY] nestahujte, neduplikujte ani neuchovávejte.
+ 
+ 1. Podmínky používání
+ Za předpokladu splnění těchto Podmínek vám společnost [BRAND_NAME_PROXY] poskytuje osobní, nevýhradní, nepřenosné, odvolatelné a omezené právo na používání Softwarových služeb [BRAND_NAME_PROXY]. Software [BRAND_NAME_PROXY] nainstaluje do vašeho chytrého mobilního zařízení [BRAND_NAME_PROXY] (dále jen \" [BRAND_NAME_PROXY]Telefon\") objektový kód. Vyjadřujete souhlas s tím, že software [BRAND_NAME_PROXY] ve vašem Telefonu [BRAND_NAME_PROXY] nelze používat ke komerčním účelům ani přenášet k žádnému jinému subjektu.
+ Dále souhlasíte s tím, že software [BRAND_NAME_PROXY] nebudete používat žádným z následujících způsobů:
+ (a) Crackování softwaru [BRAND_NAME_PROXY] (včetně použitých technologií) nebo používání softwaru [BRAND_NAME_PROXY] v libovolném zařízení jiné značky než [BRAND_NAME_PROXY];
+ (b) Analyzování, dekompilace, zpětné inženýrství, dekódování, kopírování, úpravy softwaru [BRAND_NAME_PROXY] nebo vytváření odvozených děl softwaru pro libovolný účel;
+ (c) Podnikání jakýchkoli aktivit zahrnujících, nikoli však omezených na převádění, půjčování nebo sublicencování, které jsou v rozporu s Podmínkami a poskytují software [BRAND_NAME_PROXY] veřejnosti nebo umožňují kterékoli třetí straně používat software [BRAND_NAME_PROXY], přistupovat k němu nebo ho vlastnit;
+ (d) Odstraňování jakéhokoli upozornění na vlastnická práva, loga nebo ochranných známek ze softwaru [BRAND_NAME_PROXY] nebo dokumentů vez předchozího písemného svolení společnosti [BRAND_NAME_PROXY];
+ (e) Používání softwaru [BRAND_NAME_PROXY] způsobem odporujícím aktuálním zákonům nebo narušujícím práva jiných stran;
+ (f) Používání softwaru [BRAND_NAME_PROXY] v prostředích, ve kterých je takové používání zakázáno nebo omezeno, včetně, nikoli však pouze, oblasti řízení letového provozu, čerpacích stanic pohonných hmot či jaderných zařízení; ani
+ (g) Používání softwaru [BRAND_NAME_PROXY] způsobem, který je v Podmínkách zakázán.
+ 
+ Pro zajištění řádného fungování Telefonu [BRAND_NAME_PROXY] a softwaru [BRAND_NAME_PROXY] se zavazujete, že nebudete ničit ani přesouvat štítky na Telefonu [BRAND_NAME_PROXY] bez asistence pracovníků společnosti [BRAND_NAME_PROXY]. Takové neautorizované činnosti by ovlivnily obsah záruky a záruční dobu poskytovanou společností [BRAND_NAME_PROXY].
+ 
+ 2. Zásady ochrany osobních údajů
+ Potvrzujete svůj souhlas s tím, že společnost [BRAND_NAME_PROXY] může shromažďovat a uchovávat informace, včetně, nikoli však pouze, modelu, výrobního čísla, kódu IMEI/MEID, verze hardwaru, verze softwaru, doby používání, SKU ID, výchozích nastavení a verze operačního systému v Telefonu [BRAND_NAME_PROXY] (dále jen \"Informace\"). 
+ Pokud bude společnost [BRAND_NAME_PROXY] požádána o sdělení některých Informací vládním úřadům nebo soudu, společnost [BRAND_NAME_PROXY] tak podle požadavku učiní.
+ 
+ Telefon [BRAND_NAME_PROXY] upozorní společnost [BRAND_NAME_PROXY] na stav, kdy Telefon [BRAND_NAME_PROXY] nebyl po nejméně 14 dní od data zakoupení připojen k mobilní síti.
+ 
+ Podrobnější informace najdete v zásadách ochrany osobních údajů společnosti [BRAND_NAME_PROXY].
+ 
+ 3. Podpůrné služby
+ Společnost [BRAND_NAME_PROXY] poskytuje softwarové služby, včetně, nikoli však pouze, aktualizací a upgradů Softwaru [BRAND_NAME_PROXY] podle aktuálního stavu, který společnost [BRAND_NAME_PROXY] získá z Telefonu [BRAND_NAME_PROXY].
+ Společnost [BRAND_NAME_PROXY] bude poskytovat aktualizace, opravy či přidané prvky do Softwaru [BRAND_NAME_PROXY] poté, co Software [BRAND_NAME_PROXY] použijete přes Internet. Poskytované prvky jsou předmětem Podmínek.
+ 
+ Společnost [BRAND_NAME_PROXY] si vyhrazuje právo ukončit vaše právo na získávání Služeb [BRAND_NAME_PROXY] přes Internet pro hladké používání softwaru a služeb [BRAND_NAME_PROXY].
+ Společnost [BRAND_NAME_PROXY] bude zveřejňovat postupné verze Softwaru [BRAND_NAME_PROXY] a vyžaduje, abyste používali nejaktuálnější verzi operačního systému.
+ 
+ 4. Automatické aktualizace
+ Za účelem posilování funkčnosti a vylepšování je Telefon [BRAND_NAME_PROXY] nastaven tak, aby automaticky stahoval nejnovější firmware a software společnosti [BRAND_NAME_PROXY] 
+ 
+ Pro zajištění bezpečnosti a stability Telefonu [BRAND_NAME_PROXY] souhlasíte s plněním potřebných pokynů společnosti [BRAND_NAME_PROXY]. Souhlas se stahováním nejnovějšího firmwaru nebo softwaru je považován za vaše přijetí tohoto obnovování a instalace.
+ 
+ Abyste zabránili ztrátě vlastních dokumentů, fotografií, textů, zvukových souborů, videosouborů a jakýchkoli elektronických záznamů, které mohou být při aktualizaci Telefonu [BRAND_NAME_PROXY] ztraceny nebo zničeny, jste zodpovědni za zálohování veškerých výše uvedených elektronických záznamů uložených v Telefonu [BRAND_NAME_PROXY] ještě před stažením nejnovější verze firmwaru nebo softwaru.
+ 
+ Jakmile se Telefon [BRAND_NAME_PROXY] automaticky aktualizuje nebo aktualizuje s vaším souhlasem ve formě zprávy, vyjadřujete tím souhlas s následujícím obsahem:
+ (a) Aktualizace softwaru:
+ Vyjadřujete souhlas s tím, že se společnost [BRAND_NAME_PROXY] může připojovat přes Internet a kontrolovat verzi softwaru a stav aktualizace vašeho Telefonu [BRAND_NAME_PROXY]. Pokud společnost [BRAND_NAME_PROXY] vydá upozornění na aktualizaci, umožní vám společnost [BRAND_NAME_PROXY] aktualizovat verze a stav Softwaru [BRAND_NAME_PROXY] přes službu [BRAND_NAME_PROXY].
+ Když je k dispozici nový Software [BRAND_NAME_PROXY], souhlasíte s tím, aby vám společnost [BRAND_NAME_PROXY] poslala upozornění na takové aktualizace. Pokud potvrdíte nově dostupné aktualizace, vyjadřujete tím souhlas s automatickou aktualizací Telefonu [BRAND_NAME_PROXY] společností [BRAND_NAME_PROXY].
+ (b) Synchronizace a aktualizace obsahu:
+ Po připojení Telefonu [BRAND_NAME_PROXY] k počítači nebo jinému zařízení, Telefon [BRAND_NAME_PROXY] automaticky aktualizuje související obsah a další informace (např: informace o kontaktech, kalendář, záložky a soubory.)
+ 
+ 5. Vyhrazení všech vlastnických a jiných práv v softwaru [BRAND_NAME_PROXY]
+ Máte sice udělenu licenci k používání Softwaru a Služeb [BRAND_NAME_PROXY], společnost [BRAND_NAME_PROXY], její pobočky a dodavatelé si však ponechávají všechna práva k Softwaru [BRAND_NAME_PROXY], včetně, nikoli však pouze vlastnických, autorských a jakýchkoli jiných práv k duševnímu vlastnictví.
+ 
+ Veškerá tato práva k Softwaru [BRAND_NAME_PROXY] jsou chráněna místními zákony a mezinárodními smlouvami.
+ 
+ 6. Odmítnutí odpovědnosti
+ Společnost [BRAND_NAME_PROXY] neposkytuje žádné výslovně uvedené nebo předpokládané záruky jakéhokoli druhu, včetně, nikoli však pouze, předpokládaných záruk obchodovatelnosti, uspokojivé kvality a vhodnosti pro určitý účel či neporušení práv. 
+ Společnost [BRAND_NAME_PROXY] nezaručuje:
+ (a) přesnost a spolehlivost žádné vámi získané služby [BRAND_NAME_PROXY];
+ (b) nepřetržité, včasné a bezpečné poskytování služeb [BRAND_NAME_PROXY];
+ (c) okamžité opravy libovolných závad nebo chyb v Softwaru.
+ 
+ Společnost [BRAND_NAME_PROXY] není zodpovědná za žádné ztráty ani škody způsobené viry nebo jiným technicky nebezpečným materiálem, který může infikovat váš Telefon [BRAND_NAME_PROXY], programy, data nebo jiný vlastněný materiál během používání služeb [BRAND_NAME_PROXY]. Veškerý obsah a jiné materiály, které si stáhnete nebo získáte přes společnost [BRAND_NAME_PROXY] používáte na vlastní riziko a jste výhradně odpovědni za jakékoli škody na svém Telefonu [BRAND_NAME_PROXY] nebo ztrátu dat nebo obsahu následkem stažení libovolného softwaru.
+ 
+ 7. Omezení odpovědnosti a výhradní nárok
+ Společnost [BRAND_NAME_PROXY] není zodpovědna za žádné následné, náhodné, nepřímé ani trestní škody ani za škody či ztrátu zisku nebo důvěrných či jiných informací, za přerušení podnikání, za zranění osob, poškození majetku, za ztrátu soukromí, nesplnění povinnosti v dobré víře, s přiměřenou péčí nebo zanedbáním.
+ V maximální míře povolené platnými zákony je zodpovědnost společnosti [BRAND_NAME_PROXY] v maximální souhrnné míře a váš výhradní nárok podle Podmínek za všechny škody, zranění, poškození majetku a ztráty vzniklé ze všech nároků nebo podání souvisejících s Podmínkami, na požadovanou náhradu skutečných škod omezen na deset USD (10 USD). 
+ 
+ Vícenásobné nároky nebo podání související s Podmínkami nerozšiřují omezení odpovědnosti a v maximální míře povolené příslušnými zákony jsou vaším jediným a výhradním nárokem.
+ 
+ Pokud soud z příslušné jurisdikce označí výše uvedené omezení odpovědnosti za nevymahatelné, bude v této míře neplatné, ale slova omezen na deset USD budou považována za nahrazená slovy \"omezen na hodnotu transakce, v souvislosti s níž odpovědnost vznikla.\"
+ 
+ Nárok nebo podání související s Podmínkami musí být podány do jednoho roku od vzniku příčiny této akce. 
+ 8. Odškodnění 
+ Zavazujete se chránit a odškodnit společnost [BRAND_NAME_PROXY], její akcionáře, vedení, úředníky, zainteresované strany, zaměstnance a pobočky před jakýmikoli nároky, ztrátami, odpovědností či náklady (včetně poplatků za právní zastoupení) požadovanými po společnosti [BRAND_NAME_PROXY] libovolnou třetí stranou, související s vaším zneužitím služeb [BRAND_NAME_PROXY], které narušuje práva libovolné třetí strany.
+ 
+ 9. Ukončení poskytování služeb
+ Pokud nedodržíte Podmínky, nebudete smět zákonně využívat služby [BRAND_NAME_PROXY]. V takovém případě musíte zničit a odstranit všechny kopie Softwaru [BRAND_NAME_PROXY]. V mezidobí bude ovlivněna záruka na váš Telefon [BRAND_NAME_PROXY].
+ V případě výše uvedeného porušení podmínek souhlasíte s tím, že má společnost [BRAND_NAME_PROXY] právo uskutečnit následující kroky:
+ (a) Okamžité ukončení platnosti vašeho práva přistupovat k účtu [BRAND_NAME_PROXY]; a/nebo
+ (b) Zablokování vašeho budoucího přístupu k účtu služby [BRAND_NAME_PROXY].
+ 
+ Souhlasíte také s tím, že jakékoli porušení Podmínek způsobí společnosti [BRAND_NAME_PROXY] nenapravitelnou škodu, za které je peněžní náhrada škody nedostatečná, a souhlasíte s tím, aby společnost [BRAND_NAME_PROXY] získala jakýkoli soudní zákaz nebo odpovídající náhradu, kterou bude společnost [BRAND_NAME_PROXY] v takovém případě považovat za nutnou nebo vhodnou. Tyto náhrady se přičítají k jakýmkoli jiným případným zákonným nárokům společnosti [BRAND_NAME_PROXY] na náhrady.
+ 
+ 10. Příslušné zákony a jurisdikce
+ Souhlasíte s tím, že všechny záležitosti související se všemi spory související s Podmínkami se řídí zákony Čínské republiky, a to bez ohledu na konflikty zákonných ustanovení. 
+ 
+ Souhlasíte s osobní jurisdikcí a místem jednání u okresního soudu v Tchaj-peji na Tchaj-wanu a zříkáte se jakýchkoli námitek proti takové jurisdikci nebo místa jednání.
+ 
+ Jakýkoli spor, který nelze vyřešit vzájemnou přátelskou dohodou mezi vámi a společností [BRAND_NAME_PROXY], musí pokračovat žádostí o mediaci podanou vámi nebo společností [BRAND_NAME_PROXY]. Pokud spor nebude možné vyřešit mediací během 30 kalendářních dní, bude takový spor předán výše uvedenému okresnímu soudu.
+ 
+ 11. Obecné ustanovení
+ Nadpisy jsou v Podmínkách uvedeny pouze pro přehlednost.
+ Fakt, že společnost [BRAND_NAME_PROXY] nepodnikne proti vašemu porušení podmínek kroky, nelze vykládat jako vzdání se práv týkajících se konkrétního porušení podmínek nebo následujících nebo podobných porušení podmínek.
+ 
+ Pokud soud příslušné jurisdikce označí kteroukoli část těchto Podmínek za neplatnou nebo nevymahatelnou, nahradí neplatné nebo nevymahatelné ustanovení platným a vymahatelným ustanovením, které co nejblíže odpovídá záměru původního ustanovení, a ostatní části Podmínek zůstávají v platnosti. 
+ 
+ Podmínky nesmíte postoupit ani nesmíte postoupit, převést ani sublicencovat svá práva podle těchto Podmínek.
+ 
+ Společnost [BRAND_NAME_PROXY] může tyto Podmínky jako celek nebo částečně kdykoli postoupit jinému subjektu a může a nemusí vám to oznámit. 
+ 
+ Tyto Podmínky nahrazují veškerou předchozí i současnou komunikaci jakéhokoli druhu mezi vámi a společností [BRAND_NAME_PROXY] týkající se příslušného Webu.
+ 
+ 12. Nedělitelnost smlouvy
+ Tyto Podmínky a jejich aktualizační dodatky představují úplnou smlouvu mezi vámi a společností [BRAND_NAME_PROXY] s ohledem na Služby [BRAND_NAME_PROXY].
+ 
+ 13. Změny Podmínek
+ Společnost [BRAND_NAME_PROXY] může podle svého rozhodnutí obsah těchto Podmínek občas aktualizovat, změnit nebo odstranit.
+ 
+ Vaší povinností je kontrolovat podmínky zveřejněné na webu [BRAND_NAME_PROXY], které se mohou lišit od podmínek, které jste původně četli.
+ 
+ Obnovování softwaru a používání Telefonu [BRAND_NAME_PROXY] je považováno za vyjádření souhlasu s takovými změnami.
+"</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] právní informace</string>
+    <string name="finish_button_label">DOKONČIT</string>
+    <string name="google_account_add_account">Přihlásit se účtem Google</string>
+    <string name="google_account_intro_description">Nastavte si účet Google, abyste mohli využívat všechny služby Google.</string>
+    <string name="google_account_intro_title">Účet Google</string>
+    <string name="hmd_legal_message">"Podmínky používání služeb 
+ 
+Datum účinnosti: 14. října 2016 
+ 
+1. Souhlas 
+Těmito podmínkami používání služeb HMD Global a zásadami ochrany osobních údajů a všemi dalšími podmínkami a informacemi poskytovanými v rámci služby (dále „podmínky“) se řídí vaše používání služby, webu, obsahu a softwaru (dále „služba“). Zaregistrováním nebo použitím služby nebo jakékoli její součásti vyjadřujete přijetí podmínek. 
+ 
+Podmínky představují dohodu mezi vámi a společností HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo ve Finsku, včetně jejích poboček a dodavatelů (dále souhrnně „HMD Global“), která definuje vaše práva a povinnosti a práva a povinnosti společnosti HMD Global týkající se služby. 
+ 
+2. Způsobilost 
+Chcete-li službu používat, musí vám být nejméně třináct (13) let. Pokud je vám méně než třináct (13) let nebo je vám nejméně třináct (13) let, ale jste ve vašem regionu stále nezletilý (nezletilá), musí za vás nebo vaším jménem přijmout registraci a schválit používání služby některý z rodičů nebo zákonný zástupce. Osoba provádějící registraci musí být právně způsobilá. 
+ 
+3. Registrace a ukončení 
+Chcete-li službu používat, pravděpodobně se budete muset zaregistrovat a vytvořit i účet HMD s uživatelským jménem a heslem, které může podléhat samostatným podmínkám. Pravděpodobně nám budete muset poskytnout některé osobní a další údaje. Společnost HMD Global si před zprovozněním účtu HMD může ověřit vaši e-mailovou adresu. Při prvním použití zařízení a při každé aktualizaci softwaru zařízení Nokia bude společnosti HMD Global odeslána textová zpráva. Vytvoření účtu HMD vyžaduje přenos dat. Mohou být účtovány poplatky za přenos dat. 
+ 
+Registrací do služby souhlasíte s poskytnutím pravdivých a úplných informací a s jejich aktualizováním. Musíte řádně dbát na ochranu svého uživatelského jména a hesla proti zneužití dalšími osobami a o jakémkoli zneužití ihned informovat společnost HMD Global. Za používání služby jste osobně odpovědní vy nebo váš rodič nebo zákonný zástupce (pokud jste nezletilý/nezletilá). 
+ 
+Pokud si již službu nepřejete používat, můžete registraci ukončit. Po ukončení již nebudete mít přístup ke službě. Společnost HMD Global může ukončit nebo omezit váš přístup k určitým součástem služby, pokud má důvodné podezření, že jste porušili podmínky, nebo po předchozím upozornění v případě, že se nepřihlásíte ke službě svým uživatelským jménem během posledních šesti (6) měsíců. 
+ 
+S výjimkou ustanovení uvedených v zásadách o ochraně osobních údajů neodpovídá společnost HMD Global za žádné odstranění nebo ztrátu informací nebo obsahu odeslaného do služby. Když vy nebo společnost HMD Global odstraníte ze služby informace nebo obsah, vždy mohou někde zůstat zachovány stopy nebo kopie. 
+ 
+4. Licence 
+Společnost HMD Global vám poskytuje nevýhradní nepřenosnou licenci pro přístup a používání služby v souladu s podmínkami, kdykoli odvolatelnou podle uvážení společnosti HMD Global. Používání služby vám neposkytuje žádná autorská práva na žádné informace nebo obsah služby. 
+ 
+Jako součást služby vám může společnost HMD Global poskytnout obsah vyvinutý společností HMD Global nebo jejími poskytovateli licencí (dále „obsah“). Společnost HMD Global poskytuje nevýhradní a časově neomezenou licenci k použití obsahu pro určené účely, pokud není v platných podmínkách nebo v nákupní objednávce stanoveno jinak. Určité druhy obsahu mohou být dostupné pouze obyvatelům určitých zeměpisných oblastí. Zavazujete se dodržovat veškerá omezení platná pro konkrétní obsah, k němuž získáte přístup prostřednictvím služby. Jakákoli licence poskytnutá pro obsah třetí strany je závaznou smlouvou mezi vámi a poskytovatelem obsahu třetí strany. Máte pouze zde výslovně uvedená práva k obsahu. 
+ 
+Jako součást služby vám může společnost HMD Global poskytnout určitý software vyvinutý společností HMD Global nebo jejími poskytovateli licencí (dále „software“). Vaše používání softwaru může podléhat zvláštním podmínkám, které je nutno přijmout před použitím softwaru. Pokud k takovému softwaru neexistují žádné samostatné podmínky, platí následující ujednání: Společnost HMD Global vám poskytuje omezené, nevýhradní, nepřenosné právo na instalaci a používání softwaru ve vašem počítači nebo mobilním zařízení. Software nesmíte kopírovat, s výjimkou vytvoření jedné archivní záložní kopie. Software nesmíte distribuovat, přenášet oprávnění k jeho používání, modifikovat, překládat, reprodukovat, dále prodávat, poskytovat další licenci, pronajímat, poskytovat leasing, používat postupy zpětného inženýrství nebo se jinými způsoby pokoušet získat zdrojový kód nebo vytvářet deriváty softwaru. Pro licencovaný software s otevřeným zdrojovým kódem platí licenční podmínky pro software s otevřeným zdrojovým kódem. Používáním softwaru vyjadřujete souhlas s veškerými platnými podmínkami. 
+ 
+Software může podléhat exportním omezením určeným Exportním administrativním nařízením USA nebo jiným importním a exportním omezením. Souhlasíte, že se důsledně podrobíte všem příslušným importním a exportním omezením, a berete na vědomí, že jste povinni získat licence pro export, reexport, průvoz (transfer) nebo import softwaru. 
+ 
+Pravděpodobně budete do služby odesílat informace nebo obsah (dále „materiál“). Společnost HMD Global si nenárokuje vlastnictví tohoto materiálu. Vaším odesláním materiálu nepřechází vlastnictví práv k tomuto materiálu na společnost HMD Global. Společnost HMD Global materiál pouze přenáší a neodpovídá za jeho redakční kontrolu. Odesláním materiálu do služby poskytujete společnosti HMD Global celosvětovou, nevýhradní, dále licencovatelnou, převoditelnou, plně splacenou, bezpoplatkovou, časově neomezenou a neodvolatelnou licenci k používání, kopírování, veřejnému předvádění, zobrazování, distribuci v libovolných médiích a k modifikaci materiálu za účelem jeho začlenění do jiných děl a za účelem poskytnutí podobných podlicencí v rozsahu nezbytném pro poskytování služby společností HMD Global. Toto poskytnutí licence můžete upravit v nastavení ochrany osobních údajů a v dalších nastaveních služby. 
+ 
+Za vytváření záložních kopií dat, která ukládáte ve službě, včetně obsahu, který odesíláte, jste výhradně zodpovědní vy. Pokud dojde k ukončení poskytování nebo zrušení služby, může společnost HMD Global vaše data trvale smazat. Společnost HMD Global nemá žádnou povinnost vracet vám po ukončení nebo zrušení služby data. 
+ 
+5. Používání služby 
+Souhlasíte, že: 
+• budete dodržovat platné zákony, podmínky a dobré mravy, 
+• budete používat službu pouze pro osobní, nekomerční účely, 
+• nebudete odesílat nezákonný, agresivní, nepřesný, zavádějící, hanlivý, pornografický, obtěžující, urážlivý nebo jinak nevhodný Materiál, 
+• si opatříte veškeré souhlasy, povolení nebo licence, které mohou být zákonem požadovány při odesílání Materiálu, 
+• budete respektovat ochranu osobních údajů ostatních uživatelů, 
+• nebudete šířit nebo rozesílat nevyžádanou poštu, nepřiměřeně velké soubory, řetězové zprávy, pyramidové zprávy, viry, 
+• nebudete používat žádné technologie nebo iniciovat činnosti, které mohou poškodit službu nebo zájmy či vlastnictví uživatelů služby, 
+• nebudete používat žádné automatizované systémy nebo prostředky k přístupu, získání, kopírování nebo monitorování libovolné součásti služby, 
+• ponesete odpovědnost za následky související s Materiálem, který odešlete. 
+ 
+Společnost HMD Global může, avšak nemusí, provádět následující činnosti: 
+• monitorování a moderování libovolného obsahu nebo Materiálu, 
+• odstranění libovolného Materiálu ze služby, 
+• omezení přístupu k libovolné součásti služby kdykoli podle vlastního uvážení. 
+ 
+6. Obsah 
+Před stažením nebo přístupem k libovolnému obsahu zkontrolujte, zda je obsah, k němuž chcete přistupovat, omezen věkově nebo označen jako potenciálně „urážlivý“ nebo „hanlivý“. 
+ 
+Společnost HMD Global neodpovídá za jakékoli nároky na odškodnění nebo urážky způsobené nebo utrpěné následkem přístupu k takovému obsahu. 
+ 
+Souhlasíte, že: 
+• budete používat obsah pouze pro osobní, nekomerční účely, 
+• budete používat obsah v souladu s omezeními stanovenými v platných zákonech, dalších podmínkách, směrnicích a zásadách nebo uvedenými na stránkách produktů, které jsou platné pro danou konkrétní součást obsahu, 
+• nebudete vytvářet kopie, poskytovat, prodávat, přeprodávat, půjčovat, pronajímat, nabízet, vysílat, odesílat, šířit, přenášet, sdělovat veřejně, reprodukovat, modifikovat, zobrazovat, vykonávat, komerčně využívat nebo dávat k dispozici obsah, pokud nebude stanoveno jinak v platných podmínkách, a že neprodleně upozorníte společnost HMD Global na libovolné takové neoprávněné použití, 
+• nebudete odstraňovat, obcházet, používat postupy zpětného inženýrství, dešifrovat nebo jinak měnit či zasahovat do jakýchkoli platných pravidel o používání nebo se pokoušet o obejití správy digitálních práv nebo funkcí pro ochranu před kopírováním souvisejících s obsahem nebo jakýchkoli dalších technologií používaných ke kontrole přístupu nebo používání obsahu a jeho identifikačních informací, 
+• nebudete pro výběr nebo stahování obsahu používat žádné automatizované systémy nebo prostředky, s výjimkou těch, které sami poskytujeme, 
+• nebudete nikomu sdělovat své heslo ani jinak umožňovat dalším osobám přístup k obsahu. Omezení kopírování, která platí pro příslušná média, platí rovněž pro obsah přístupný v rámci této služby. 
+ 
+Obsah je vlastnictvím / je kontrolován společností HMD Global nebo jejími příslušnými poskytovateli licencí a je chráněn zákony o ochraně duševního vlastnictví. Za jakýkoli poskytnutý obsah, veškeré záruky v rozsahu, v němž nejsou odmítnuté, a za veškeré nároky na odškodnění, které by mohly vzniknout v souvislosti s obsahem nebo vaším používáním obsahu je výhradně odpovědný poskytovatel obsahu třetí strany. Společnost HMD Global však může uplatňovat licenční podmínky poskytovatele obsahu třetí strany vůči vám jako obmyšlená třetí strana pro tyto podmínky. Poskytovatelé obsahu třetí strany jsou obmyšlenými třetími stranami podle těchto podmínek a mohou uplatňovat ustanovení, která se přímo dotýkají obsahu, k němuž mají oprávnění. Společnost HMD Global může při poskytování obsahu vám jednat jako prostředník za poskytovatele obsahu třetí strany. Společnost HMD Global není pro takovýto obsah stranou v transakci mezi vámi a poskytovatelem obsahu třetí strany. 
+ 
+7. Obvinění z porušení autorského práva 
+Společnost HMD Global respektuje práva duševního vlastnictví třetích stran. Pokud si přejete odeslat oznámení o porušení práv duševního vlastnictví, včetně nároků z porušení autorských práv, použijte naše postupy pro odesílání oznámení o porušení práv. NA DOTAZY, KTERÉ NEODPOVÍDAJÍ POŽADAVKŮM TOHOTO POSTUPU, NEODPOVÍDÁME. 
+ 
+Společnost HMD Global odpovídá na oznámení o porušení autorských práv na základě procesů stanovených v odvětvové oblasti 17 sbírky zákonů USA, § 512. Za příhodných okolností může společnost HMD Global také deaktivovat nebo ukončit účty uživatelů služeb poskytovaných společností HMD Global, kteří se budou porušení dopouštět opakovaně. 
+ 
+8. Oznámení 
+Společnost HMD Global může v rámci služby zveřejňovat oznámení. Společnost HMD Global vám může na e-mailovou adresu nebo telefonní číslo, které jste nám poskytli, rovněž posílat oznámení o výrobcích a službách. Nejpozději do sedmi (7) dnů od odeslání nebo zveřejnění společností HMD Global se tato oznámení považují za doručená. Vaše další používání služby představuje přijetí všech oznámení, bez ohledu na způsob jejich doručení. 
+ 
+9. Poplatky 
+Používání služby může být zpoplatněno nebo se může stát zpoplatněným. 
+ 
+Jakékoli poplatky uplatňované společností HMD Global v souvislosti se službou budou oznámeny samostatně. 
+ 
+Používání služby může znamenat přenos dat přes síť vašeho operátora. Ceny uvedené v rámci služby nezahrnují poplatky za přenos dat, textové zprávy, hlasové nebo jiné služby uplatňované vaším operátorem. 
+ 
+Společnost HMD Global neodpovídá za platby jakýchkoli poplatků vašich poskytovatelů služeb. 
+ 
+10. Podmínky objednávání a plateb 
+„Objednávka“ znamená výběr placeného obsahu nebo předplatného obsahu nabízeného společností HMD Global a dostupného v rámci služby a přijetí platební metody, a dále odeslání objednávky výběrem možností „koupit“, „ok“ nebo „přijímám“ nebo podobným potvrzením objednávky nebo jiným potvrzením přijetí podmínek, které jsou vám předloženy během objednávání. 
+ 
+Chcete-li v rámci služby vytvořit objednávku, musíte dosahovat věku právní způsobilosti v souladu s platnými zákony. Pokud jste nedosáhli věku právní způsobilosti nebo zletilosti, můžete objednávku vytvořit pouze s předchozím souhlasem rodiče nebo zákonného zástupce. 
+ 
+Souhlasíte, že všechny objednávky budou právně platné a závazné. Všechny objednávky podléhají přijetí společností HMD Global. 
+ 
+Můžete platit kreditní nebo debetní kartou, přes fakturu operátora nebo jinou platební metodou, je-li k dispozici. 
+ 
+Kreditní nebo debetní karta musí mít fakturační adresu v zemi, v níž služba daný obsah nabízí. Společnost HMD Global si z vaší kreditní karty nebo z vašeho bankovního účtu strhne danou částku v přiměřené době po vytvoření objednávky. Všechny platby kreditní kartou podléhají ověřovacím kontrolám a autorizaci vydavatelem karty. 
+ 
+Pokud si vyberete platbu přes fakturu operátora, zobrazí se poplatky na vaší faktuře za mobilní telefon nebo – pokud se jedná o předplacený účet – budou odečteny z vašeho předplaceného účtu. Někteří operátoři mohou uplatňovat na vaše používání služby další podmínky, včetně limitů pro platby přes fakturu operátora. Částky přesahující limit pro platby přes fakturu operátora nebo zůstatek na účtu mohou být odmítnuty. 
+ 
+Souhlasíte se zaplacením částek souvisejících s objednávkou, se zajištěním platnosti platebního nástroje v době objednávky, a s tím, že jste právoplatným držitelem tohoto nástroje a že bude nástroj používán v rámci kreditních limitů. 
+ 
+K doručenému obsahu máte platnou licenci. Souhlasíte s používáním tohoto obsahu výhradně tak, jak je povoleno v těchto podmínkách a v jakýchkoli dalších podmínkách, které vám mohou být sděleny v rámci pořizování objednávky. 
+ 
+Služba může nabízet přihlášení k předplatnému. Opravňujete službu k uplatňování pravidelných poplatků během doby trvání předplatného. Služba může rovněž nabízet zkušební dobu. Pokud vaše objednávka obsahuje zkušební dobu (rovněž se nazývá vyzkoušejte-a-kupte), mohou být po uplynutí zkušební doby uplatňovány poplatky, pokud službu nezrušíte v souladu s podmínkami objednání předplatného / zkušební doby. 
+ 
+Ceny služby se mohou občas měnit. Pokud není uvedeno jinak, zahrnují ceny příslušné daně platné v době provádění transakce. V některých případech může vaše banka nebo poskytovatel kreditní karty uplatňovat další poplatky na základě směnných kurzů měn nebo dalších stanovených poplatků. Společnost HMD Global neodpovídá za platby jakýchkoli servisních poplatků bankám nebo poskytovatelům služeb třetích stran. 
+ 
+11. Rušení a vracení peněz 
+Souhlasíte s elektronickým doručením obsahu zahájeným současně s vytvořením objednávky. Jakmile bude objednávka zpracována, nelze ji zrušit. Charakter obsahu je takový, že jej nelze vrátit. 
+ 
+Pokud po objednávce zjistíte a do 48 hodin informujete společnost HMD Global, že a) obsah, který jste objednali, je vadný, b) obsah doručený společností HMD Global neodpovídá popisu obsahu, který jste objednali prostřednictvím služby, nebo c) technické problémy způsobily zpoždění nebo zamezily doručení obsahu nebo došlo k náhodné multiplikaci objednávek způsobené takovými technickými problémy, vaší jedinou a výhradní náhradou související s takovými obsahem bude výměna takového obsahu nebo vrácení částky zaplacené za tento obsah, a to výhradně podle uvážení společnosti HMD Global. 
+ 
+V ostatních případech se žádné peníze nevrací. Pokud zjistíte jakékoli z výše uvedených problémů, kontaktujte oddělení péče o zákazníky společnosti HMD Global. 
+ 
+Upozorňujeme, že oddělení péče o zákazníky společnosti HMD Global pravděpodobně nebude schopné vaše požadavky na zákaznickou podporu zpracovat, pokud neposkytnete ID transakce, který vám společnost HMD Global odeslala po vytvoření objednávky v rámci služby. Společnost HMD Global může vrátit peníze za obsah pouze v případech, kdy celková cena přesahuje peněžní limit stanovený platnými místními předpisy. 
+ 
+12. Zpětná vazba pro společnost HMD Global 
+Zasláním námětů, názorů či návrhů (dále „zpětná vazba“) společnosti HMD Global prostřednictvím služby nebo jinou cestou berete na vědomí a souhlasíte, že: (1) společnost HMD Global může mít podobné náměty na vývoj, jaké obsahuje vaše zpětná vazba; (2) vaše zpětná vazba neobsahuje žádné důvěrné a chráněné informace, ať už vaše nebo třetí strany; (3) společnost HMD Global není povinna zachovat důvěrnost ohledně informací uvedených v rámci zpětné vazby; (4) společnost HMD Global může volně používat, šířit, využívat a dále rozvíjet a upravovat zpětnou vazbu k libovolným účelům; a (5) nemáte nárok na žádnou náhradu ze strany společnosti HMD Global. 
+ 
+13. Sociální aktivity a sdílení polohy 
+Funkce v rámci služby můžete využívat ke sdílení vaší polohy, stavu, obsahu, Materiálů nebo osobních informací nebo ke komunikaci s ostatními uživateli, weby nebo službami. Použitím těchto funkcí vyjadřujete souhlas, že společnost HMD Global může používat a poskytovat tyto informace dalším službám a osobám, s nimiž chcete komunikovat nebo sdílet tyto informace. Uživatelé těchto služeb a další osoby, např. vaše kontakty, mohou vidět vaši polohu, stav či osobní informace. Použitím těchto funkcí vyjadřujete souhlas, že nebudete sdílet informace, obsah nebo Materiál a že nebudete uvádět odkazy na žádné služby nebo weby, které: (a) obsahují obsah nebo jiný materiál, který je nezákonný nebo nevhodný; nebo (b) využívají duševní vlastnictví bez oprávnění nebo nabádají uživatele k pirátství. Společnost HMD Global není účastníkem vaší komunikace; komunikace probíhá výhradně mezi vámi a ostatními uživateli. 
+ 
+14. Dostupnost a technické požadavky 
+Dostupnost obsahu a služby se může měnit a zcela podléhá uvážení společnosti HMD Global. Společnost HMD Global se výslovně zříká jakéhokoli ujištění nebo záruky, že budou konkrétní obsah nebo služba dostupné. V některých zemích nemusí být služba dostupná a může být poskytována pouze ve vybraných jazycích. Služba, její provoz a některé funkce mohou být také závislé na síti, kompatibilitě používaných zařízení a na podporovaných formátech obsahu. 
+ 
+Pro přístup ke službě může být nutné stáhnout konkrétní software vyvinutý společností HMD Global nebo jinou stranou. 
+ 
+Společnost HMD Global může službu jako celek nebo její části dle vlastního uvážení změnit, opravit nebo ukončit. Služba může být během údržby i v jiných případech nedostupná. Chcete-li zajistit, abyste v zařízení měli nejnovější verze softwaru a aplikací, může zařízení automaticky kontrolovat dostupnost aktualizací softwaru od společnosti HMD Global. Když zařízení zjistí dostupné aktualizace, vyzve vás ke schválení jejich instalace. Automatické zjišťování aktualizací můžete vypnout v nastavení zařízení. Software můžete instalovat rovněž prostřednictvím dostupných kanálů pro aktualizace softwaru. Pokud společnost HMD Global považuje aktualizaci softwaru za důležitou nebo kritickou, pravděpodobně nebudete moci dále používat předchozí verzi softwaru. Společnost HMD Global může zamezit používání předchozí verze softwaru nebo služby, dokud nenainstalujete aktualizaci. 
+ 
+Společnost HMD Global může z libovolného důvodu zakázat obsah nebo software obsažený ve vašem účtu služby, odstranit obsah nebo software nebo vypnout jakékoli aplikace ve vašem zařízení za účelem ochrany služby, poskytovatelů aplikací, poskytovatelů bezdrátových služeb, přes jejichž sítě přistupujete ke službě, nebo jakýchkoli dalších postižených nebo potenciálně postižených stran. 
+ 
+Konkrétní služba může být předběžnou verzí, např. betaverzí, a nemusí fungovat způsobem, jakým funguje konečná verze. Společnost HMD Global může jakoukoli verzi služby nebo softwaru výrazně změnit nebo se rozhodnout nevydávat konečnou verzi. 
+ 
+15. Odkazy na weby a obsah třetích stran 
+Společnost HMD Global může umožnit přístup k webům a službám na Internetu nebo k předinstalovaným klientům, které umožňují komunikaci s weby a službami vlastněnými nebo provozovanými třetími stranami a které nejsou součástí služby. Než začnete tyto weby a služby používat, přečtěte si jejich podmínky a vyjádřete s nimi souhlas. 
+ 
+Společnost HMD Global nemá žádnou kontrolu nad obsahem, weby a službami třetích stran a nenese žádnou odpovědnost za poskytované služby ani materiály vytvářené nebo zveřejněné na webech nebo v rámci služeb těchto třetích stran. Odkaz na web třetí strany neznamená, že společnost HMD Global schvaluje tento web nebo na tomto webu zmiňované výrobky nebo služby. 
+ 
+Vy nebo další uživatelé navíc můžete vytvářet obsah a odkazy na obsah v rámci služby, které by jinak do služby nebyly odesílány. Společnost HMD Global za tento typ obsahu nebo odkazů neodpovídá. 
+ 
+16. Reklama 
+Služba může obsahovat reklamu. Reklama může být cílená podle obsahu nebo informací uložených v rámci služby, dotazů provedených prostřednictvím služby nebo podle dalších informací. 
+ 
+17. Osobní údaje 
+Používání vašich osobních údajů se řídí zásadami ochrany osobních údajů a jakýmikoli dalšími uvedenými informacemi o ochraně osobních údajů. 
+ 
+18. Omezení odpovědnosti 
+Služba je poskytována „TAK, JAK JE“ a na bázi „PODLE DOSTUPNOSTI“. Společnost HMD Global neručí za to, že nedojde k přerušení poskytování služby nebo k chybám či zavirování. Ohledně dostupnosti, přesnosti, spolehlivosti, informacím a obsahu služby nejsou poskytovány žádné záruky jakéhokoli druhu, vyjádřené ani předpokládané, včetně, ale nikoli výhradně, záruk právních nároků, neporušení práv, předpokládaných záruk obchodovatelnosti a vhodnosti pro určitý účel. Výslovně souhlasíte a uznáváte, že službu používáte na vlastní riziko a že můžete být vystaveni obsahu z různých zdrojů. 
+ 
+S výjimkou odpovědnosti za úmrtí nebo úraz způsobené hrubou nedbalostí nebo úmyslným pochybením nenese společnost HMD Global žádnou odpovědnost za jakékoli nepřímé, náhodné, trestní ani následné škody způsobené vaším použitím nebo nemožností používat službu. 
+ 
+19. Odškodnění 
+Zavazujete se chránit a odškodnit společnost HMD Global v souvislosti s jakýmikoli nároky třetích stran a veškerými závazky, poplatky, ztrátami, náklady a škodami způsobenými nebo vyplývajícími z (i) porušení podmínek na vaší straně, (ii) porušení nebo překročení práv k duševnímu vlastnictví, jiných práv nebo zásad ochrany osobních údajů třetí strany, nebo (iii) zneužití služby třetí stranou, pokud toto zneužití bylo umožněno tím, že jste neuplatnili přiměřená opatření k ochraně svého uživatelského jména a hesla před zneužitím. 
+ 
+20. Různé 
+ 
+20.1 Rozhodné právo 
+Tyto podmínky se řídí finskými zákony, bez ohledu jejich kolizní ustanovení. 
+ 
+20.2 Platnost 
+Podmínky nevylučují ani neomezují žádná závazná práva ve vaší zemi trvalého pobytu, která nelze ze zákona odmítnout. Pokud je některé ustanovení těchto podmínek neplatné, nejsou tím zbývající ustanovení ovlivněna a neplatné ustanovení bude nahrazeno platným ustanovením, které nejvíce odpovídá významu a účelu podmínek. Pokud jedno nebo více ustanovení těchto podmínek není relevantní pro vaše používání služby, nebude to mít vliv na platnost nebo vymahatelnost libovolného dalšího ustanovení podmínek nebo podmínek jako celku. Pokud vznikne rozpor mezi těmito podmínkami používání služeb a zásadami ochrany osobních údajů HMD Global, platí ustanovení těchto podmínek používání služeb HMD Global. Ustanovení podmínek určená k platnosti i po ukončení vaší registrace zůstávají v platnosti i po ukončení. 
+ 
+20.3 Změny podmínek 
+Společnost HMD Global může tyto podmínky kdykoli bez předchozího upozornění upravit. Pokud budou podmínky změněny podstatně nepříznivým způsobem, společnost HMD Global zajistí zvláštní oznámení upozorňující na tuto změnu. 
+ 
+Za pravidelnou kontrolu podmínek zodpovídáte vy. Používáním služby vyjadřujete souhlas s veškerými změnami a úpravami. 
+ 
+21. Duševní vlastnictví 
+Služba, obsah a software jsou chráněny mezinárodními zákony na ochranu autorských práv. Společnost HMD Global si v maximálním rozsahu povoleném platnými zákony nárokuje autorská práva ke službě, obsahu a softwaru. V souladu s těmito podmínkami zůstávají společnosti HMD Global veškerá práva, právní nároky a podíly ve službě, jejím obsahu, softwaru a ve všech dalších výrobcích, softwaru a dalším vlastnictví společnosti HMD Global, která vám jsou poskytována nebo které využíváte prostřednictvím služby. 
+ 
+22. Postoupení 
+Společnost HMD Global může postoupit svoje práva a povinnosti určené těmito podmínkami své mateřské společnosti, kterékoli z dceřiných společností nebo libovolné jiné společnosti, která je se společností HMD Global pod společným řízením. Dále může společnost HMD Global postoupit práva a povinnosti určené těmito podmínkami třetí straně v případě fúze, akvizice, prodeje majetku, působení práva nebo v jiném případě."</string>
+    <string name="hmd_user_experience_program_message">Vaše účast v programu pro uživatele pomáhá společnosti HMD Global zjistit, co se vám na zařízení Nokia líbí, a co byste rádi změnili. V nepravidelných intervalech může docházet ke sběru anonymních dat technického rázu o vašem zařízení, jako jsou například soubory s daty o případném zhroucení softwaru. Po aktivaci datového připojení se tyto údaje neodesílají. Rádi uslyšíme o vašich názorech o zařízení Nokia!</string>
+    <string name="hmd_user_experience_program_title">Program pro uživatele</string>
+    <string name="idle_too_long_toast">Telefon je určitou dobu v pohotovostním režimu. Nyní ho vypněte, abyste šetřili energií.</string>
+    <string name="language_selection_cancel_btn">STORNO</string>
+    <string name="language_selection_title">Zvolte jazyk</string>
+    <string name="location_for_service">Funkce Aktuální místo slouží pro zpřesnění výsledků hledání Google a další služby Google.</string>
+    <string name="location_info_1">Služba určování polohy Google poskytuje aplikacím vaši přibližnou polohu podle údajů GPS.</string>
+    <string name="location_info_2">Tyto funkce můžete vypnout v části Služby určování polohy v aplikaci Nastavení.</string>
+    <string name="location_network">Povolí službě určování polohy Google shromažďovat anonymně údaje o poloze. Shromažďování probíhá i v době, kdy nejsou spuštěny žádné aplikace.</string>
+    <string name="location_title">Použít funkci určování polohy Google</string>
+    <string name="nevigation_selection_back">Zpět</string>
+    <string name="nevigation_selection_home">Hlavní stránka</string>
+    <string name="nevigation_selection_recent">Poslední</string>
+    <string name="nevigation_selection_text">Barvu pozadí a umístění tlačítek Zpět/Nedávné si můžete nastavit podle přání.</string>
+    <string name="nevigation_selection_title">Nastavení navigačního panelu</string>
+    <string name="next_btn_lebel">DALŠÍ</string>
+    <string name="normal_date_format">Regionální (%s)</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="setup_complete_hmd">Jste připraveni začít...</string>
+    <string name="setup_complete_main">Jste</string>
+    <string name="setup_complete_sub">PŘIPRAVENI ZAČÍT.</string>
+    <string name="setup_completed_congratulations">Blahopřejeme!</string>
+    <string name="sim_not_exist_toast">Zkontrolujte, zda je vložena SIM karta.</string>
+    <string name="skip_add_account_button_label">Teď ne</string>
+    <string name="skip_button_label">Přeskočit</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="term_agree_text">Souhlasit</string>
+    <string name="term_disagree_text">Nesouhlasím</string>
+    <string name="terms_of_service_description">"
+Využívání služeb vyžadujících připojení k síti, například informací o počasí, Internetu, e-mailu, prohlížeče, atd. může znamenat další poplatky za mobilní datové přenosy. Pro efektivnější práci s využíváním mobilních datových přenosů vám doporučujeme použít vhodný balíček mobilních služeb vašeho operátora.
+
+Volbou Souhlasím povolíte těmto službám připojovat se v případě potřeby k síti.
+
+Při výchozím nastavení je zapnuta i funkce automatických aktualizací softwaru. Ta vám přináší výhody nejnovějšího softwaru, může však využít malé množství mobilních dat. Toto nastavení můžete kdykoli později změnit v aplikaci Nastavení.
+
+"</string>
+    <string name="terms_title">Využívání datových přenosů</string>
+    <string name="time_picker_title">Čas:</string>
+    <string name="traffic_prompt_content">Pokud nesouhlasíte, budete muset aktualizace softwaru, předpovědi počasí i další informace získávat ručně.</string>
+    <string name="upload_agent_des_text">"Zapojte se do našeho programu pro uživatele. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Další informace&lt;/a>
+
+"</string>
+    <string name="upload_agent_hmd_des_text_2">"Zapojte se do programu pro uživatele zařízení Nokia. &lt;a href='launch.UserExperienceActivity://Kode'>Další informace.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Program pro uživatele</string>
+    <string name="v7_preference_off">VYP</string>
+    <string name="v7_preference_on">ZAP</string>
+    <string name="welcome_hmd_term_of_use_2">"Klepnutím na šipku vyjadřujete souhlas s &lt;a href='launch.TermOfServiceActivity://Kode'>Podmínkami používání služeb&lt;/a> a &lt;a href='launch.AddUploadAgentHandler://Kode'>Zásadami ochrany osobních údajů&lt;/a>. Společnosti HMD Global budou odeslány informace o aktivaci zařízení a jednorázový údaj o poloze zařízení. Poplatky za přenos dat se mohou různit."</string>
+    <string name="welcome_infocus_term_of_use">"Klepnutím na šipku vyjadřujete souhlas s &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>Podmínkami používání&lt;/a>"</string>
+    <string name="welcome_lets_go_button_label">Jdeme na to</string>
+    <string name="welcome_message">Vítejte</string>
+    <string name="welcome_start_button_label">SPUSTIT</string>
+    <string name="welcome_vision_settings_button_label">Nastavení obrazu</string>
+    <string name="wifi_picker_connection_des_text">Po vypnutí připojení k síti WLAN mohou být účtovány poplatky za ověřování softwaru přes mobilní síť.</string>
+    <string name="wifi_picker_connection_negative">Připojit</string>
+    <string name="wifi_picker_connection_negative_prc">Připojit k síti WLAN</string>
+    <string name="wifi_picker_connection_positive">OK</string>
+    <string name="wifi_picker_connection_title">Připojení k síti</string>
+    <string name="wifi_picker_warning_des_text">Dokud nejste připojeni k Internetu, nedokáže telefon zkontrolovat, zda máte aktuální software.</string>
+    <string name="wifi_picker_warning_negative">Přesto přeskočit</string>
+    <string name="wifi_picker_warning_positive">Nevynechávat</string>
+    <string name="wifi_picker_warning_title">Varování</string>
+    <string name="zone_auto">Automatické čas. pásmo</string>
+    <string name="zone_auto_summaryOff">Používat časové pásmo ze sítě</string>
+    <string name="zone_auto_summaryOn">Používat časové pásmo ze sítě</string>
+    <string name="sugarsync_intro_description">Hladkou integraci cloudových úložišť můžete v několika krocích zajistit pomocí služby SugarSync.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Weerbericht</string>
+    <string name="fih_weather_permission_hint_1">Deze app vereist een extra machtiging om goed te werken. Verleen machtiging wanneer dat wordt gevraagd.</string>
+    <string name="fih_weather_permission_hint_2">Deze app vereist extra machtigingen om goed te werken. Beheer machtiging van Weerbericht in Instelling.</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_close">Sluiten</string>
+    <string name="fih_weather_button_setting">Instelling…</string>
+    <string name="fih_weather_permission_success">Verlenen van locatiemachtiging geslaagd</string>
+    <string name="fih_weather_permission_failed">Locatiemachtiging verlenen geweigerd; kan geen locatie verkrijgen.</string>
+    <string name="fih_weather_notification_title">Weerbericht vereist machtigingen</string>
+    <string name="fih_weather_notification_text">Tikken om toe te staan</string>
+    <string name="fih_weather_notification_channel_title">Algemene meldingen</string>
+</resources>

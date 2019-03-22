@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="spinner_default">#ffefedee</item>
+    <item type="drawable" name="spinner_notfocused">#ff5e5d5d</item>
+    <item type="drawable" name="spinner_press">#ff249fda</item>
+    <item type="drawable" name="white">#fff1f1f1</item>
+</resources>

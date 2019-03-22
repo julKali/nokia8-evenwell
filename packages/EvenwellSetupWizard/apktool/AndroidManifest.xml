@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.evenwell.SetupWizard">
+    <supports-screens android:anyDensity="true"/>
+    <uses-permission android:name="android.permission.STATUS_BAR"/>
+    <uses-permission android:name="android.permission.SHUTDOWN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <protected-broadcast android:name="com.fihtdc.InfocusSetupWizard.UiccCard_STATE"/>
+    <application android:allowClearUserData="false" android:debuggable="false" android:icon="@drawable/icon" android:label="@string/app_name" android:supportsRtl="true">
+        <uses-library android:name="com.fihtdc.telephony"/>
+        <uses-library android:name="com.fihtdc.UploadAgentService"/>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.FactoryPage" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:excludeFromRecents="false" android:immersive="true" android:label="@string/app_name" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.BootAnimationHandler" android:screenOrientation="portrait" android:theme="@style/BootThemeNoAnimation">
+            <intent-filter android:priority="3">
+                <category android:name="android.intent.category.HOME"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.BootAnimation" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.WelcomeSetupWizard" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.evenwell.setupwizard.action.WelcomeSetupWizard"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.DeviceChecking" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.DataUsageActivity" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="@string/setup_completed_congratulations" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.SetupCompleteActivity" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.evenwell.setupwizard.action.SetupCompleteActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.DateTimeSetupHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.InfocusAccountIntro" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AddInfocusAccountHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.evenwell.setupwizard.action.AddInfocusAccountHandler"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AddAccountProxyServiceSetupHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.evenwell.setupwizard.action.AddAccountProxyServiceSetupHandler"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AddAmazonAccountHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.evenwell.setupwizard.action.AddAmazonAccountHandler"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AddAmazonAccountUserHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.evenwell.setupwizard.action.AddAmazonAccountUserHandler"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.GoogleAccountIntro" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.LocationInfoSettingActivity" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.DateTimeMain" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AddBaiduHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.BaiduIntro" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AddDropBoxFIHHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.evenwell.setupwizard.action.AddDropBoxFIHHandler"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.DropboxFIHIntro" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AddUploadAgentHandler" android:screenOrientation="portrait" android:theme="@android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <data android:scheme="launch.AddUploadAgentHandler"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.UploadAgentIntro" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.WiFiPickerHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AllWiFiPickerHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AddNaviSelectionHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.evenwell.setupwizard.action.AddNaviSelectionHandler"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.NavigationSelect" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.TermOfServiceActivity" android:screenOrientation="portrait" android:theme="@style/Theme.Transparent">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <data android:scheme="launch.TermOfServiceActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.UserExperienceActivity" android:screenOrientation="portrait" android:theme="@style/Theme.Transparent">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <data android:scheme="launch.UserExperienceActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.PhoneModeSelectionHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.PhoneModeSelection" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.PhoneModeSKT" android:screenOrientation="portrait" android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.SetupWizardReceiver" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter android:priority="100">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <receiver android:directBootAware="true" android:name="com.fihtdc.setupwizard.ShutDownReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.EndUserLA" android:screenOrientation="portrait" android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.TstoreHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.AntiVirus" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.LockScreenHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.FacePlusHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:label="" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.PhoneCloneHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.fihtdc.setupwizard.FactoryService" android:process="com.android.phone"/>
+        <receiver android:name="com.fihtdc.setupwizard.PartnerReceiver">
+            <intent-filter>
+                <action android:name="com.android.setupwizard.action.PARTNER_CUSTOMIZATION"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.wifisetting.Wifiactivity" android:screenOrientation="portrait" android:theme="@style/WifiSetting_style">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.wifisetting.AllWifiActivity" android:screenOrientation="portrait" android:theme="@style/WifiSetting_style">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.DualSIMDataHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.DualSIMCallHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.simsetting.DualSIMDataSettings" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.simsetting.DualSIMCallSettings" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.DownloadLightRoomActivity" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="com.evenwell.setupwizard.action.DownloadLRActivity"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.SimCheckActivity" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter>
+                <action android:name="com.fihtdc.setupwizard.action.CHECK_SIM"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:directBootAware="true" android:immersive="true" android:launchMode="singleTop" android:name="com.fihtdc.setupwizard.SuggestAppHandler" android:screenOrientation="portrait" android:theme="@style/WelcomeTheme2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

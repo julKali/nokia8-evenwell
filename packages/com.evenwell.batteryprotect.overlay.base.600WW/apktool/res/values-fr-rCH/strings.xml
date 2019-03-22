@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Protection de batterie</string>
+    <string name="fih_battery_protect_alert_dialog_ok">OK</string>
+    <string name="fih_battery_protect_warning_title">Avertissement Température élevée</string>
+    <string name="fih_battery_protect_cooldown_title">Refroidissement en cours</string>
+    <string name="fih_battery_protect_normalmode_title">Température normale.</string>
+    <string name="fih_battery_protect_warning_text">Veuillez arrêter les appels et les applications pour refroidir le téléphone.</string>
+    <string name="fih_battery_protect_cooldown_text">"Le téléphone actuellement utilisé est en mode Refroidissement, appel d'urgence uniquement."</string>
+    <string name="fih_battery_protect_normalmode_text">Le terminal a repris son fonctionnement normal.</string>
+    <string name="fih_battery_protect_cooldown_emergecycall_button">"Appel d'urgence"</string>
+    <string name="fih_battery_protect_maxtemp_title">Température maximale</string>
+    <string name="fih_battery_protect_maxtemp_text">"La température du téléphone est très élevée, le terminal va s'arrêter maintenant."</string>
+    <string name="fih_battery_protect_batterywaringtitle_adding_txt">Arrêt de la recharge</string>
+    <string name="fih_battery_protect_low_temp_title">Alerte</string>
+    <string name="fih_battery_protect_low_temp_text">La température est très basse, arrêtez de charger.</string>
+    <string name="fih_battery_protect_temp_out_of_range_title">La température est hors plage.</string>
+    <string name="fih_battery_protect_battery_temp_warning_text">"Impossible de détecter la température de la batterie, vérifiez qu'elle est correctement installée, sinon vous ne pourrez pas la recharger."</string>
+    <string name="fih_battery_protect_battery_temp_warning_title">Impossible de détecter la température de la batterie.</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary">vérifiez que la batterie est correctement installée, sinon vous ne pourrez pas la recharger.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning">"Impossible de détecter actuellement la température de la batterie. Le téléphone est en mode Refroidissement, seuls les appels d'urgence peuvent être effectués. Vérifiez que la batterie est correctement installée."</string>
+    <string name="fih_battery_protect_aging_title">"Assistant d'installation de la batterie"</string>
+    <string name="fih_battery_protect_aging_nm_text">Veuillez contacter notre service à la clientèle au numéro %1$s, merci.</string>
+    <string name="fih_battery_protect_aging_nm_text_no_phone">Veuillez contacter notre Service à la clientèle, merci.</string>
+    <string name="fih_battery_protect_bl_warning_title">Alerte Réduisez la luminosité</string>
+    <string name="fih_battery_protect_bl_warning_text">La température du téléphone est anormalement haute, réduisez la luminosité pour refroidir le téléphone.</string>
+    <string name="fih_battery_protect_full_charging">Recharge terminée</string>
+    <string name="fih_battery_protect_alert_dialog_cancel">Annuler</string>
+    <string name="fih_battery_protect_power_off">Éteindre</string>
+    <string name="fih_battery_protect_high_full_charging">La température maximale de charge à ne pas dépasser a été atteinte ! Lorsque la température du téléphone est revenue à la normale, le système peut poursuivre la recharge à une vitesse normale.</string>
+    <string name="fih_battery_protect_low_full_charging">La température minimale de chargement a été atteinte ! Lorsque la température du téléphone est revenue à la normale, le système peut poursuivre la recharge à une vitesse normale.</string>
+    <string name="fih_battery_protect_high_full_charging_title">Température maximale de chargement atteinte</string>
+    <string name="fih_battery_protect_low_full_charging_title">Température de chargement minimale atteinte</string>
+    <string name="fih_battery_protect_enabled_notify_channel_name">Notifications générales</string>
+    <string name="fih_battery_protect_warning_text_and_doitnow_wear">"En appuyant sur un bouton, nous réduisons la luminosité et procédons à l'arrêt des applications pour refroidir l'appareil."</string>
+    <string name="fih_battery_protect_maxtemp_text_wear">"La température de l'appareil est très élevée, le terminal va s'arrêter maintenant."</string>
+    <string name="fih_battery_protect_low_temp_text_wear">La température de la batterie est très basse, arrêtez de charger.</string>
+    <string name="fih_battery_protect_cooldown_text_with_temp_warning_wear">"Impossible de détecter actuellement la température de la batterie. Le terminal est en mode Refroidissement, seuls les appels d'urgence peuvent être effectués. Vérifiez que la batterie est correctement installée."</string>
+    <string name="fih_battery_protect_notification_install_error_title_wear">"Erreur d'installation de la batterie"</string>
+    <string name="fih_battery_protect_battery_temp_warning_summary_wear">Vérifiez que la batterie est correctement installée.</string>
+    <string name="fih_battery_protect_high_temp_text_wear">La température de batterie est très élevée, arrêtez de charger.</string>
+    <string name="fih_battery_protect_ok_wear">OK</string>
+    <string name="fih_battery_protect_cancel_wear">Annuler</string>
+    <string name="fih_battery_protect_cooldown_text_no_emergency_call_wear">Le périphérique est en mode de refroidissement. Utilisez-le plus tard.</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_1">"Veuillez utiliser la batterie d'origine"</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_title_2">Arrêt de la charge</string>
+    <string name="fih_battery_protect_invalid_battery_dialog_summary">"Veuillez utiliser la batterie d'origine pour charger l'appareil, sous peine d'occasionner des dommages physiques/permanents."</string>
+    <string name="fih_battery_protect_invalid_battery_notification_title_1">"La batterie n'est pas valide"</string>
+    <string name="fih_battery_protect_notification_cooling_down">Refroidissement en cours</string>
+    <string name="fih_battery_protect_tap_learn_more">Appuyez pour en savoir plus.</string>
+    <string name="fih_battery_protect_cooldown_text_v2">"Votre téléphone chauffe et prend des mesures pour se refroidir automatiquement. Vous pouvez continuer à l'utiliser, mais vous constaterez peut-être les phénomènes suivants :
+·La charge peut s'interrompre.
+·Le Wi-Fi peut être désactivé.
+·Des applications peuvent se fermer.
+·Le mode Avion peut être activé.
+Votre téléphone fonctionnera à nouveau normalement dès qu'il aura refroidi."</string>
+</resources>

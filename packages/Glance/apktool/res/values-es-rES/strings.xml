@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_category_items_display">Aspecto</string>
+    <string name="pref_dialog_title_time_out">Tiempo de espera</string>
+    <string name="pref_title_alarm_information">Información de alarmas</string>
+    <string name="pref_title_calendar_reminder">Recordatorio de calendario</string>
+    <string name="pref_title_missed_calls">Indicador de llamadas perdidas</string>
+    <string name="pref_title_time_out">Tiempo de espera cuando el teléfono no se mueve</string>
+    <string name="pref_title_unread_mails">Indicador de correo sin leer</string>
+    <string name="pref_title_unread_messages">Indicador de mensajes sin leer</string>
+    <string name="switch_off_text">Desactivado</string>
+    <string name="switch_on_text">Activado</string>
+</resources>

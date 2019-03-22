@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.evenwell.DbgCfgTool">
+    <permission android:description="@string/permission_command_desc" android:label="@string/permission_command_label" android:name="com.evenwell.DbgCfgTool.permission.COMMAND" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="com.evenwell.DbgCfgTool.permission.COMMAND"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.FACTORY_TEST"/>
+    <uses-permission android:name="android.permission.DUMP"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="com.fihtdc.permission.bboxsbox"/>
+    <protected-broadcast android:name="fih.dbgcfgtool.LOG_STATUS"/>
+    <protected-broadcast android:name="fih.dbgcfgtool.UPDATE_LOG_CONFIG_DONE"/>
+    <protected-broadcast android:name="com.evenwell.DbgCfgTool.ACTION_LOG_CONFIG_CHANGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <application android:icon="@mipmap/ic_launcher" android:label="@string/app_name">
+        <receiver android:name="com.evenwell.DbgCfgTool.DbgCfgToolBasicReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.evenwell.DbgCfgTool.DbgCfgToolReceiver" android:permission="com.evenwell.DbgCfgTool.permission.COMMAND">
+            <intent-filter>
+                <action android:name="evenwell.intent.action.DbgCfgTool.POWEROFF"/>
+                <action android:name="fih.dbgcfgtool.UPDATE_LOG_CONFIG"/>
+                <action android:name="fih.dbgcfgtool.ENABLE_LOG"/>
+                <action android:name="fih.dbgcfgtool.DISABLE_LOG"/>
+                <action android:name="fih.dbgcfgtool.QUERY_STATUS"/>
+                <action android:name="fih.dbgcfgtool.DUMP_HEAP"/>
+                <action android:name="fih.dbgcfgtool.copytosd"/>
+                <action android:name="fih.dbgcfgtool.ramdump"/>
+                <action android:name="fih.dbgcfgtool.ramdump_ssr"/>
+                <action android:name="MDLOGGER_CRASHED"/>
+                <action android:name="MDLOGGER_RESTART"/>
+                <action android:name="MDLOGGER_FINISH_MEMORY_DUMP"/>
+                <action android:name="MDLOGGER_FIHSSR"/>
+                <action android:name="fih.dbgcfgtool.copylog"/>
+                <action android:name="com.fihtdc.DbgCfgTool.cpyFinish"/>
+                <action android:name="evenwell.intent.action.DEVICE_STORAGE_FULL"/>
+                <action android:name="com.fih.dbgcfgtool.clearLogs"/>
+                <action android:name="change_qxdm_prefernce_setting"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.evenwell.DbgCfgTool.BootBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.evenwell.DbgCfgTool.DMCReceiver">
+            <intent-filter>
+                <action android:name="fih.dbgcfgtool.DMC"/>
+                <action android:name="com.fihtdc.action.DMC.NewValueSet"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="fih.dbgcfgtool.CHANGE_QXDM_LOGGING"/>
+            </intent-filter>
+        </receiver>
+        <activity android:label="@string/app_name" android:name="com.evenwell.DbgCfgTool.FunctionList" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="evenwell.intent.action.ENABLED"/>
+                <action android:name="fihtdc.intent.action.DEBUG_TOOL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/config_log_name" android:name="com.evenwell.DbgCfgTool.logger_config" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DBGCFGTOOL"/>
+                <category android:name="android.intent.category.PM_DBGCFGTOOL"/>
+                <category android:name="android.intent.category.MODEMCONFIG_DBGCFGTOOL"/>
+                <category android:name="android.intent.category.PM_MC_DBGCFGTOOL"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/strDiagLog" android:name="com.evenwell.DbgCfgTool.qxdm_config" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:label="@string/test_options_name" android:name="com.evenwell.DbgCfgTool.TestOptions" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DBGCFGTOOL"/>
+                <category android:name="android.intent.category.PM_DBGCFGTOOL"/>
+                <category android:name="android.intent.category.MODEMCONFIG_DBGCFGTOOL"/>
+                <category android:name="android.intent.category.PM_MC_DBGCFGTOOL"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/linux_android_debug_name" android:name="com.evenwell.DbgCfgTool.LinuxAndroidDebug" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DBGCFGTOOL"/>
+                <category android:name="android.intent.category.PM_DBGCFGTOOL"/>
+                <category android:name="android.intent.category.MODEMCONFIG_DBGCFGTOOL"/>
+                <category android:name="android.intent.category.PM_MC_DBGCFGTOOL"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/linux_android_debug_name" android:name="com.evenwell.DbgCfgTool.DalvikHeapDump" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/strTcpdumpTool" android:name="com.evenwell.DbgCfgTool.TcpdumpTool" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/modem_conf_name_original" android:name="com.evenwell.DbgCfgTool.ModemConf" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DBGCFGTOOL"/>
+                <category android:name="android.intent.category.PM_DBGCFGTOOL"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation|screenSize" android:label="@string/modem_conf_name" android:name="com.evenwell.DbgCfgTool.QDiagLogging" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <receiver android:label="@string/modem_conf_name" android:name="com.evenwell.DbgCfgTool.QDiagLogBootRun">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </receiver>
+        <activity android:label="@string/linux_android_debug_name" android:name="com.evenwell.DbgCfgTool.ModemRamdumpConfig" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/modem_conf_name" android:name="com.evenwell.DbgCfgTool.ModemSSRRamdumpConfig" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation|screenSize" android:label="@string/power_monitor" android:name="com.evenwell.DbgCfgTool.LaunchPowerMonitorActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.PM_DBGCFGTOOL"/>
+                <category android:name="android.intent.category.PM_MC_DBGCFGTOOL"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation|screenSize" android:label="@string/modem_conf_name" android:name="com.evenwell.DbgCfgTool.LaunchModemConfActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.MODEMCONFIG_DBGCFGTOOL"/>
+                <category android:name="android.intent.category.PM_MC_DBGCFGTOOL"/>
+            </intent-filter>
+        </activity>
+        <uses-library android:name="com.fihtdc.UploadAgentService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.evenwell.DbgCfgTool.DbgSystemService" android:process="system"/>
+        <activity android:name="com.evenwell.DbgCfgTool.SsrOptionActivity"/>
+    </application>
+</manifest>

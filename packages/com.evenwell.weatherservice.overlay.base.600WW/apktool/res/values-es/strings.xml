@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_service_title_txt">Servicio meteorológico</string>
+    <string name="fih_weather_permission_hint_1">Para funcionar correctamente, esta aplicación necesita permiso adicional. Conceda el permiso cuando se le pida.</string>
+    <string name="fih_weather_permission_hint_2">Para funcionar correctamente, esta aplicación necesita permisos adicionales. Administre el permiso de WeatherService en la configuración.</string>
+    <string name="fih_weather_button_ok">Aceptar</string>
+    <string name="fih_weather_button_close">Cerrar</string>
+    <string name="fih_weather_button_setting">Configuración</string>
+    <string name="fih_weather_permission_success">Permiso de ubicación concedido correctamente</string>
+    <string name="fih_weather_permission_failed">Permiso de ubicación denegado. No se puede obtener la ubicación.</string>
+    <string name="fih_weather_notification_title">WeatherService requiere permisos</string>
+    <string name="fih_weather_notification_text">Pulsar para permitir</string>
+    <string name="fih_weather_notification_channel_title">Notificaciones generales</string>
+</resources>

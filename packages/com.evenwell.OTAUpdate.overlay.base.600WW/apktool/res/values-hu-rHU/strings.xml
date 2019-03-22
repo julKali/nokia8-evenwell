@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_sw_fail">Szoftver letöltése sikertelen.</string>
+    <string name="msg_install_system_software_update_3">"
+
+A frissítés során nem tudja használni az eszközt.
+
+Az áramellátás megszüntetése vagy a letöltött fájlok törlése a szoftver frissítése során váratlan eseményekhez vezethet."</string>
+    <string name="msg_install_system_software_update_4">"
+
+A frissítés során nem tudja használni az eszközt, és vészhívást sem tud indítani.
+
+Váratlan eredményei lehetnek az áramellátás megszüntetésének, vagy a letöltött fájlok törlésének a szoftver frissítése során."</string>
+    <string name="msg_unable_to_connect_2">Az alkalmazás használatához hálózati kapcsolat szükséges. Kapcsolja be a mobilhálózatot a Beállításokban.</string>
+    <string name="msg_unable_to_connect_wlan">Az alkalmazás használatához hálózati kapcsolat szükséges. Kapcsolja be a mobilhálózatot vagy a WLAN-t a Beállításokban.</string>
+    <string name="msg_no_available_size_card_2">Ehhez a frissítéshez %s MB szabad terület szükséges. Töröljön néhány fájlt a tárhelyről.</string>
+    <string name="msg_remove_sd_card_2">A letöltött fájlt nem lehet a tárhelyre írni. Ellenőrizze a tárhelyet.</string>
+    <string name="msg_remove_sd_card_short_2">Nem sikerült hozzáférni a tárhelyhez.</string>
+    <string name="menu_enabled">Kizárólag kompatibilis szoftver</string>
+    <string name="using_internal_storage">Belső tárhely használata</string>
+    <string name="using_external_storage">Külső tárhely használata</string>
+    <string name="msg_root_message">"
+
+Az eszköz rootolása után a normál frissítés nem garantálható."</string>
+    <string name="msg_responsibility_message">Ha az eszköz újraindult, a felhasználó felelős a frissítést követő bármely rendellenes rendszerviselkedésért.</string>
+    <string name="installing">Telepítés…</string>
+    <string name="install_complete">Telepítve</string>
+    <string name="install_fail">Telepítési hiba</string>
+    <string name="install_all">Összes telepítése</string>
+    <string name="install">Telepítés</string>
+    <string name="installed_version">Telepített verzió</string>
+    <string name="update_available">Frissítés elérhető.</string>
+    <string name="apk_update_available">Van elérhető frissítés az alkalmazáshoz.</string>
+    <string name="recommend">Javaslat</string>
+    <string name="roaming_restriction">Adatbarangolás korlátozása</string>
+    <string name="roaming_restriction_summary">Nem lehet frissíteni az adatbarangolás korlátozása miatt.</string>
+    <string name="changelog">Napló módosítása</string>
+    <string name="description">Leírás</string>
+    <string name="apk_update_available_summary">%s elérhető frissítéssel rendelkezik. Kattintson az OK lehetőségre az azonnali telepítéshez, vagy kattintson a Mégse elemre a frissítés egy nappal későbbi ellenőrzéséhez.</string>
+    <string name="apk_removed">Ezt azt alkalmazást eltávolították.</string>
+    <string name="apk_available_items">Összesen %s elérhető elem</string>
+    <string name="apk_available_item">Összes %s elérhető elem</string>
+    <string name="new_forpreference">Új</string>
+    <string name="invalid_update_summary">A frissítés érvénytelen, ellenőrizze újra.</string>
+    <string name="recheck">Ellenőrizze később</string>
+    <string name="image_download_exception_summary">Nem lehet hozzáférni a szerverhez, próbálja meg később.</string>
+    <string name="apk_download_exception">Nem lehet hozzáférni a szerverhez</string>
+    <string name="installation_confirmation">Telepítés megerősítése</string>
+    <string name="apk_need_reboot_summary">Ez a szoftverfrissítés automatikusan újraindítja a rendszert a telepítés befejezése után. Szeretné most telepíteni?</string>
+    <string name="downloaded">Letöltött</string>
+    <string name="prepare_to_reboot">Felkészülés az újraindításra</string>
+    <string name="prepare_to_reboot_summary">A telepített szoftver az eszköz újraindítását igényli a beállítások konfigurálásához. Javasoljuk, hogy indítsa újra az eszközt most, vagy újraindíthatja később is.</string>
+    <string name="prepare_to_reboot_force_summary">A telepített szoftver az eszköz újraindítását igényli a beállítások konfigurálásához. Javasoljuk, hogy indítsa újra az eszközt most.</string>
+    <string name="reboot">Újraindítás</string>
+    <string name="reboot_fail">Az újraindítás sikertelen</string>
+    <string name="reboot_fail_summary">Nem tud újraindulni egy hiányzó API miatt. Indítsa újra manuálisan.</string>
+    <string name="apk_no_avaliable_size">Nem lehet letölteni, mert nincs elég belső tárhely.</string>
+    <string name="update_finished">A frissítés befejeződött</string>
+    <string name="header_warning">Figyelmeztetés</string>
+    <string name="msg_root_warning">Az eszköz újraindul, vagy a hivatalos szoftver módosult. A rendszerfrissítés folytatása a rendszer instabilitásához vagy lefagyáshoz vezet, és érvénytelenítheti az eszközgaranciát. Biztosan folytatja?</string>
+    <string name="multi_image_update">Néhány képfrissítés elérhető</string>
+    <string name="available_update_list">Elérhető frissítések listája</string>
+    <string name="downloading_summary">Szakítsa meg a kép letöltését</string>
+    <string name="msg_erase_userdata_warning">Ehhez a frissítéshez törölni kell a felhasználói adatokat. Folytatja?</string>
+    <string name="msg_autoupdate_date_fee_warning">Az automatikus frissítések engedélyezése miatt további költségek merülhetnek fel.</string>
+    <string name="invalid_update">Ez a frissítés érvénytelen.</string>
+    <string name="file_corrupted">A rendszert nem lehet frissíteni, mert a fájl sérült.</string>
+    <string name="ask_for_apk_check">Ellenőrzi az alkalmazás frissítéseit?</string>
+    <string name="update_ota_self">Szoftverfrissítés folyamatban.</string>
+    <string name="ab_update_fail">Telepítési probléma.</string>
+    <string name="ab_update_wrong_status">A frissítőmotor túlterhelt. Próbálja meg később, vagy indítsa újra az eszközt.</string>
+    <string name="ab_update_installing">Rendszer frissítése</string>
+    <string name="tag_engineer_mode">Mérnök üzemmód</string>
+    <string name="engineer_version_incorrect">Az eszköz verziója nem megfelelő</string>
+    <string name="msg_engineer_ota_restore">Koppintson az eredeti verzió helyreállításához.</string>
+    <string name="msg_engineer_ota_restore_warning">Helyreállítja az eredeti verziót. Folytatja?</string>
+    <string name="silent_mode_data_fee_warning">Frissítés elérhető. A frissítések letöltése során további költségek merülhetnek fel. A frissítések letöltése Wi-Fi kapcsolaton keresztül is lehetséges.</string>
+    <string name="msg_updating_system">Rendszer frissítése…</string>
+    <string name="msg_tap_to_reboot">Koppintson ide az újraindításhoz</string>
+    <string name="msg_pause_download">Letöltés szüneteltetése</string>
+    <string name="notification_channel_name">Rendszerfrissítés</string>
+    <string name="notification_channel_alert_name">Általános értesítések</string>
+</resources>

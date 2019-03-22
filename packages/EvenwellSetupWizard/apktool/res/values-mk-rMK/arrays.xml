@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <array name="fih_navigation_setting_icons">
+        <item>@drawable/oobe_navigation2</item>
+        <item>@drawable/oobe_navigation1</item>
+        <item>@drawable/oobe_navigation4</item>
+        <item>@drawable/oobe_navigation3</item>
+    </array>
+    <array name="fih_navigation_setting_tg_icons">
+        <item>@drawable/zzz_oobe_tg_navigation1</item>
+        <item>@drawable/zzz_oobe_tg_navigation2</item>
+        <item>@drawable/zzz_oobe_tg_navigation3</item>
+        <item>@drawable/zzz_oobe_tg_navigation4</item>
+    </array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Статичен</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Автоматско детектирање</item>
+        <item>Третирај како врска со мерење на преносот</item>
+        <item>Третирај како врска без мерење на преносот</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>None</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>None</item>
+        <item>Рачно</item>
+        <item>Автоматско конфигурирање на прокси-сервер</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+    </string-array>
+    <string-array name="wifi_security_china">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Лошо</item>
+        <item>Задоволително</item>
+        <item>Добро</item>
+        <item>Одлично</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Се скенира…</item>
+        <item>Се поврзува…</item>
+        <item>Се потврдува…</item>
+        <item>Добивање IP-адреса…</item>
+        <item>Connected</item>
+        <item>Привремено прекинато</item>
+        <item>Исклучување…</item>
+        <item>Исклучено</item>
+        <item>Unsuccessful</item>
+        <item>Блокирано</item>
+        <item>Времено се избегнува лоша врска</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Се скенира…</item>
+        <item>Поврзување на %1$s…</item>
+        <item>Потврдување со %1$s…</item>
+        <item>Добивање IP-адреса од %1$s…</item>
+        <item>Поврзан на %1$s</item>
+        <item>Привремено прекинато</item>
+        <item>Исклучување од %1$s…</item>
+        <item>Исклучено</item>
+        <item>Unsuccessful</item>
+        <item>Блокирано</item>
+        <item>Времено се избегнува лоша врска</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI хексадецимално</item>
+    </string-array>
+</resources>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"Pridružite se programu korisničkog iskustva. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>Saznajte više&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"Dodirom gumba prihvaćate &lt;a href='launch.TermOfServiceActivity://Kode'>Odredbe usluge&lt;/a> i &lt;a href='launch.AddUploadAgentHandler://Kode'>Pravila privatnosti&lt;/a>. Informacije o aktivaciji uređaja uz jednokratnu obavijest o lokaciji uređaja bit će poslane u HMD Global.&lt;br/>&lt;br/>Obavijest o automatskom ažuriranju softvera bit će uključena i omogućit će vam instalaciju najnovijih ažuriranja. To može potrošiti mali dio vašeg podatkovnog prometa. Usluge će pristupati Internetu kad god im je potrebno.&lt;br/>&lt;br/>Stoga vam te usluge, kada pristupaju mobilnim mrežama, mogu uzrokovati dodatne troškove uslijed prekoračenja podatkovnog prometa."</string>
+    <string name="welcome_hmd_term_of_use_5">"Dodirom gumba prihvaćate &lt;a href='launch.TermOfServiceActivity://Kode'>Uvjete pružanja usluge&lt;/a>. Informacije o aktivaciji uređaja uz jednokratnu obavijest o lokaciji uređaja bit će poslane u HMD Global. Mogući su troškovi podatkovnog prometa. Podaci će se koristiti u skladu s &lt;a href='launch.AddUploadAgentHandler://Kode'>Pravilima o privatnosti&lt;/a>."</string>
+    <string name="welcome_vision_settings_button_label">Vision postavke</string>
+    <string name="next_btn_lebel">SLJEDEĆE</string>
+    <string name="back_btn_lebel">NATRAG</string>
+    <string name="finish_button_label">KRAJ</string>
+    <string name="sim_not_exist_toast">Provjerite jeste li umetnuli SIM karticu.</string>
+    <string name="idle_too_long_toast">Ovaj telefon nije upotrijebljen duže vrijeme. Isključite ga radi štednje električne energije.</string>
+    <string name="welcome_message">Dobro došli</string>
+    <string name="welcome_infocus_term_of_use">"Dodirom strelice pristajete na&lt;br>uvjete upotrebe&lt;a href='launch.TermOfServiceActivity://Kode'>&lt;/a>"</string>
+    <string name="welcome_hmd_term_of_use_2">"Dodirom strelice prihvaćate &lt;a href='launch.TermOfServiceActivity://Kode'>Uvjete usluge&lt;/a> i &lt;a href='launch.AddUploadAgentHandler://Kode'>Pravila o privatnosti&lt;/a>. Informacije o aktivaciji uređaja uz jednokratnu obavijest o lokaciji uređaja bit će poslane u HMD Global. Mogući su troškovi podatkovnog prometa."</string>
+    <string name="welcome_start_button_label">POČETAK</string>
+    <string name="emergency_dial_message">Žurni poziv</string>
+    <string name="emergency_dial_hmd_message">Žurni poziv</string>
+    <string name="accessibility_text">Pomoćna funkcija\"</string>
+    <string name="language_selection_title">Odaberite jezik</string>
+    <string name="language_selection_cancel_btn">ODUSTANI</string>
+    <string name="welcome_lets_go_button_label">Započnimo</string>
+    <string name="terms_title">upotreba podataka</string>
+    <string name="terms_of_service_description">"
+Upotreba usluga koje zahtijevaju mrežnu vezu, kao npr. meteorološke usluge, internetske usluge, e-pošta, preglednik i dr., mogu dovesti do povećanja troškova upotrebe mobilnih podataka. Da biste efikasnije upravljali upotrebom mobilnih podataka, preporučujemo da kod svog davatelja usluga aplicirate za prikladan paket mobilnih usluga.
+
+Odabirom opcije Pristajem dopuštate tim uslugama povezivanje na mrežu po kad je to potrebno.
+
+Dodatno, po zadanim postavkama ažuriranje softvera je omogućeno. Moguća je i upotreba mobilnih podataka u svrhu dohvaćanja najnovije verzije softvera. U postavkama uvijek možete isključiti tu opciju.
+
+"</string>
+    <string name="term_agree_text">Pristajem</string>
+    <string name="term_disagree_text">Ne pristajem</string>
+    <string name="datausage_dialog_positive_btn">U redu</string>
+    <string name="datausage_dialog_negitive_btn">Odustani</string>
+    <string name="traffic_prompt_content">Ako ne pristajete na to, softverska ažuriranja, vremenske prognoze i druge podatke morat ćete dohvaćati ručno.</string>
+    <string name="google_account_intro_description">Postavite račun usluge Google za pristup svim njezinim uslugama.</string>
+    <string name="google_account_intro_title">Račun usluge Google</string>
+    <string name="google_account_add_account">Prijavi se koristeći Google</string>
+    <string name="location_title">Upotrijebi uslugu Google Location</string>
+    <string name="location_info_1">Google lokacijska usluga daje pristup aplikacijama koje su blizu vas bez GPS-a.</string>
+    <string name="location_info_2">Te značajke možete onemogućiti u postavkama, pod Lokacijske usluge.</string>
+    <string name="location_network">Dopusti Google lokacijskoj usluzi prikupljanje anonimnih lokacijskih podataka. Podaci se prikupljaju kad nema pokrenutih aplikacija.</string>
+    <string name="location_for_service">Upotrijebi Moju lokaciju za rezultate pretraživanja usluge Google i druge Google usluge.</string>
+    <string name="date_and_time">Postavke datuma i vremena</string>
+    <string name="date_time_auto">Automatski odredi datum i vrijeme</string>
+    <string name="date_time_auto_summaryOn">U internetskom vremenu</string>
+    <string name="date_time_auto_summaryOff">U internetskom vremenu</string>
+    <string name="zone_auto">Automatski odredi vremensku zonu</string>
+    <string name="zone_auto_summaryOn">Upotrebljavaj vremensku zonu na mreži</string>
+    <string name="zone_auto_summaryOff">Upotrebljavaj vremensku zonu na mreži</string>
+    <string name="date_time_set_date">Postavi datum</string>
+    <string name="date_time_set_time">Postavi vrijeme</string>
+    <string name="date_time_set_timezone">Odaberi vremensku zonu</string>
+    <string name="date_time_24hour">U 24-satnom načinu prikaza</string>
+    <string name="date_and_time_settings_title">Datum i vrijeme</string>
+    <string name="account_intro_title">Račun usluge [BRAND_NAME] Services</string>
+    <string name="account_intro_description">Usluga [BRAND_NAME] nudi pametniji način upotrebe vašeg uređaja.</string>
+    <string name="add_infocus_service_account">Dodaj račun usluge [BRAND_NAME] Services</string>
+    <string name="dropbox_fih_signup">Registrirajte se za uslugu Dropbox</string>
+    <string name="dropbox_fih_signin">Prijavite se na uslugu Dropbox</string>
+    <string name="dropbox_fih_description">Automatski dobijte besplatna 2 GB memorije na usluzi Dropbox za fotografije i videozapise.</string>
+    <string name="nevigation_selection_title">Postavke navigacijske trake</string>
+    <string name="nevigation_selection_text">Možete promijeniti boju pozadine i položaj gumba Natrag/Nedavni.</string>
+    <string name="nevigation_selection_back">Natrag</string>
+    <string name="nevigation_selection_home">Početni zaslon</string>
+    <string name="nevigation_selection_recent">Zadnje upotrebljavano</string>
+    <string name="upload_agent_hmd_des_text_2">"Pridružite se Nokijinu programu korisničkog iskustva. &lt;a href='launch.UserExperienceActivity://Kode'>Saznajte više.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">Program korisničkog iskustva</string>
+    <string name="setup_completed_congratulations">Čestitamo!</string>
+    <string name="setup_complete_hmd">Spremni ste...</string>
+    <string name="setup_complete_main">Vi ste</string>
+    <string name="setup_complete_sub">SPREMNI ZA POLAZAK.</string>
+    <string name="hmd_user_experience_program_title">Program korisničkog iskustva</string>
+    <string name="hmd_user_experience_program_message">Vaše sudjelovanje u programu korisničkog iskustva pomaže tvrtci HMD Global da bolje razumije što vam se sviđa na vašem Nokia uređaju, a što smatrate da treba poboljšati. S vremena na vrijeme možemo dobiti anonimne podatke o tehničkim karakteristikama vašeg uređaja, primjerice datoteku s podacima o padu programa do kojeg je možda došlo. Imajte u vidu da takvi podaci neće biti slani preko mobilne podatkovne veze. Volimo čuti od vas što mislite o svojem Nokia uređaju!</string>
+    <string name="skip_button_label">Preskoči</string>
+    <string name="skip_add_account_button_label">Ne sada</string>
+    <string name="device_checking_message">Dobro došli</string>
+    <string name="backup_and_restore_title">Pričuvna kopija i vraćanje podataka</string>
+    <string name="backup_and_restore_description">"Ako ste ranije stvorili pričuvnu kopiju svojeg računa, možete ga vratiti na ovaj telefon.
+
+Postavke pričuvnih kopija možete mijenjati u postavkama."</string>
+    <string name="baidu_intro_title">Pohrana u oblaku za Baidu</string>
+    <string name="baidu_intro_description">You can enjoy seamless cloud storages integration with 百度云 by completing a few easy steps.</string>
+    <string name="add_baidu_button_label">Log in 百度云</string>
+    <string name="baidu_progress_dialog_des">Pričekajte...</string>
+    <string name="wifi_picker_connection_title">Mrežna veza</string>
+    <string name="wifi_picker_connection_des_text">Onemogućite WLAN vezu jer može stvoriti troškove pri potvrdi softvera putem mobilne mreže.</string>
+    <string name="wifi_picker_connection_positive">U redu</string>
+    <string name="wifi_picker_connection_negative_prc">Povezivanje WLAN-a</string>
+    <string name="wifi_picker_warning_title">Upozorenje</string>
+    <string name="wifi_picker_warning_des_text">Do uspostavljanja internetske veze telefon neće moći provjeriti imate li najnoviju verziju softvera.</string>
+    <string name="wifi_picker_warning_positive">Ne preskači</string>
+    <string name="wifi_picker_warning_negative">Preskoči svejedno</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY]Pravne informacije</string>
+    <string name="fih_legal_message">"Uvjeti upotrebe softvera [BRAND_NAME_PROXY]
+ 
+ Datum pravomoćnosti: 20. svibnja 2016.
+ 
+ Sljedeći Uvjeti i odredbe (pod nazivom: \" Uvjeti \") jesu pravni sporazum koji uređuje vašu upotrebu bilo kojeg softvera tvrtke [BRAND_NAME_PROXY] između vas, tvrtke [BRAND_NAME_PROXY] Inc. i njezinog agenta Commtiva Technology Ltd. (pod zajedničkim nazivom: \"[BRAND_NAME_PROXY]\") i vrijede za vašu upotrebu softvera tvrtke [BRAND_NAME_PROXY], uključujući, ali bez ograničenja, preuzimanje, instalaciju, automatsku obnovu (pod nazivom: \" Softverska usluga \"). Upotrebom softvera tvrtke [BRAND_NAME_PROXY] pristajete na ove Uvjete; ako ne pristajete na Uvjete, nemojte preuzimati, udvostručavati, upotrebljavati ili zadržati softver tvrtke [BRAND_NAME_PROXY].
+ 
+ 1. Uvjeti upotrebe
+ Dok god se pridržavate ovih Uvjeta, [BRAND_NAME_PROXY] daje vam osobno, neisključivo, neprenosivo, opozivo i ograničeno pravo na upotrebu Softverskih usluga tvrtke [BRAND_NAME_PROXY]. [BRAND_NAME_PROXY] instalirat će objektni kod na vaš mobilni pametni uređaj tvrtke [BRAND_NAME_PROXY] (pod nazivom: Telefon tvrtke [BRAND_NAME_PROXY]) putem interneta. Potvrđujete i pristajete na uvjet da se softver tvrtke [BRAND_NAME_PROXY] na vašem Telefonu tvrtke [BRAND_NAME_PROXY] ne može upotrijebiti u komercijalne svrhe ili prenijeti trećim stranama.
+ Pored toga, pristajete na uvjet da nećete upotrijebiti softver tvrtke [BRAND_NAME_PROXY] na sljedeći način:
+ (a) hakiranje softvera tvrtke [BRAND_NAME_PROXY] (uključujući temeljne tehnologije) ili upotreba softvera tvrtke [BRAND_NAME_PROXY] na uređajima koji nisu marke [BRAND_NAME_PROXY];
+ (b) analiza, dekompiliranje, obrnuti inženjering, dekodiranje, kopiranje, izmjene softvera tvrtke [BRAND_NAME_PROXY] ili izvođenje derivativnih radova u bilo koju svrhu;
+ (c) izvođenje ikakvih radnji, uključujući, ali bez ograničenja, zakup, davanje u zajam, podlicenciranje, kršenje Uvjeta i objavljivanje softvera tvrtke [BRAND_NAME_PROXY] ili dopuštanje trećim stranama upotrebe, pristupa ili posjedovanja softvera tvrtke [BRAND_NAME_PROXY];
+ (d) uklanjanje vlasničkih obavijesti, logotipa ili zaštitnih znakova softvera tvrtke [BRAND_NAME_PROXY] ili dokumenata bez prethodnog pismenog odobrenja tvrtke [BRAND_NAME_PROXY];
+ (e) upotreba softvera tvrtke [BRAND_NAME_PROXY] na način protivan trenutačnom zakonu ili kršeći prava drugih osoba;
+ (f) upotreba softvera tvrtke [BRAND_NAME_PROXY] u okruženjima u kojim se takva upotreba zabranjuje ili ograničava, uključujući, ali bez ograničenja, područja kontrole letenja, benzinske postaje, nuklearna oprema; ili
+ (g) upotreba softvera tvrtke [BRAND_NAME_PROXY] na način zabranjen Uvjetima.
+ 
+ Da biste osigurali ispravan rad Telefona tvrtke [BRAND_NAME_PROXY] i softvera tvrtke [BRAND_NAME_PROXY], obećavate i ugovarate da nećete uništiti niti pomicati oznake na svojem Telefonu tvrtke [BRAND_NAME_PROXY] bez pomoći djelatnika tvrtke [BRAND_NAME_PROXY]. Takve neovlaštene radnje utječu na opseg i razdoblje jamstva koje vam nudi tvrtka [BRAND_NAME_PROXY].
+ 
+ 2. Pravila privatnosti
+ Potvrđujete i suglasni ste da tvrtka [BRAND_NAME_PROXY] može skupljati i zadržati podatke, uključujući, ali bez ograničenja, model, serijski broj, IMEI/MEID kod, verziju hardvera, verziju softvera, vrijeme upotrebe, SKU ID, zadane postavke, verziju OS-a vašeg Telefona tvrtke [BRAND_NAME_PROXY] (pod nazivom: \" Podaci \"). 
+ Ako dođe do situacije da tvrtka [BRAND_NAME_PROXY] mora otkriti neke podatke državnoj službi ili sudskom sustavu, [BRAND_NAME_PROXY] postupit će po zahtjevu.
+ 
+ Telefon tvrtke [BRAND_NAME_PROXY] obavijestit će tvrtku [BRAND_NAME_PROXY] o statusu ako Telefon tvrtke [BRAND_NAME_PROXY] nije povezan na mobilnu mrežu najmanje 14 dana od dana kupnje.
+ 
+ Pojedinosti potražite u Pravilima privatnosti tvrtke [BRAND_NAME_PROXY].
+ 
+ 3. Korisnička podrška
+ Tvrtka [BRAND_NAME_PROXY] pružit će Softverske usluge, uključujući, ali bez ograničenja, ažuriranja i nadogradnje vašeg softvera tvrtke [BRAND_NAME_PROXY] u skladu s tadašnjim statusom koji tvrtka [BRAND_NAME_PROXY] primi od Telefona tvrtke [BRAND_NAME_PROXY].
+ Tvrtka [BRAND_NAME_PROXY] pružit će ažuriranja, zakrpe ili dodatne elemente za vaš softver tvrtke [BRAND_NAME_PROXY] nakon vaše upotrebe softvera tvrtke [BRAND_NAME_PROXY] putem interneta i oni će biti obuhvaćeni Uvjetima.
+ 
+ [BRAND_NAME_PROXY] zadržava pravo izravnog prekidanja vaše upotrebe softvera tvrtke [BRAND_NAME_PROXY] i usluga tvrtke [BRAND_NAME_PROXY].
+ [BRAND_NAME_PROXY] objavljivat će sljedeće verzije Softvera tvrtke [BRAND_NAME_PROXY] i morat ćete upotrebljavati najnoviju verziju OS-a.
+ 
+ 4. Automatsko ažuriranje
+ Za poboljšanje vašeg Telefona tvrtke [BRAND_NAME_PROXY] unaprijed je postavljeno automatsko preuzimanje najnovijeg firmvera i softvera od tvrtke [BRAND_NAME_PROXY] 
+ 
+ Da bi se osigurala sigurnost i stabilnost vašeg uređaja tvrtke [BRAND_NAME_PROXY], prihvaćate uvjet da ćete se pridržavati potrebnih uputa tvrtke [BRAND_NAME_PROXY]. Vašim pristankom na preuzimanje najnovijeg firmvera ili softvera pristajete na obnovu i instalaciju.
+ 
+ Da biste spriječili gubitak vlastitih dokumenata, fotografija, tekstova, zvučnih i videozapisa i bilo kakvih elektroničkih zapisa koji se mogu izgubiti ili uništiti tijekom ažuriranja Telefona tvrtke [BRAND_NAME_PROXY], odgovorni ste za stvaranje pričuvnih kopija svih navedenih elektroničkih zapisa pohranjenih u Telefonu tvrtke [BRAND_NAME_PROXY] prije preuzimanja zadnje verzije firmvera ili softvera.
+ 
+ Čim se vaš Telefon tvrtke [BRAND_NAME_PROXY] ažurira automatski ili vašim pristankom u obliku poruke, dali ste suglasnost sa sljedećim:
+ (a) Ažuriranja softvera:
+ Potvrđujete i suglasni ste da se [BRAND_NAME_PROXY] može povezati internetom s vašim Telefonom tvrtke [BRAND_NAME_PROXY] u svrhu provjere verzije softvera i statusa ažuriranja na Telefonu. Ako [BRAND_NAME_PROXY] objavi ikakvu obavijest o nadogradnji, [BRAND_NAME_PROXY] omogućit će vam ažuriranje verzija i statusa Softvera tvrtke [BRAND_NAME_PROXY] putem Usluge tvrtke [BRAND_NAME_PROXY].
+ Suglasni ste da će vam u slučaju pojave nove verzije Softvera tvrtke [BRAND_NAME_PROXY] tvrtka [BRAND_NAME_PROXY] slati obavijesti o tim ažuriranjima. Potvrđenjem novih dostupnih ažuriranja dajete suglasnost da [BRAND_NAME_PROXY] automatski ažurira vaš Telefon tvrtke [BRAND_NAME_PROXY].
+ (b) Sinkronizacija i ažuriranje sadržaja:
+ Nakon što Telefon tvrtke [BRAND_NAME_PROXY] povežete s računalom ili drugim uređajem, Telefon tvrtke [BRAND_NAME_PROXY] automatski će ažurirati povezane sadržaje i druge podatke (npr.: kontaktne podatke, kalendar, oznake i datoteke.)
+ 
+ 5. Pridržavanje svih vlasničkih i drugih prava nad softverom tvrtke [BRAND_NAME_PROXY]
+ Iako imate pravo upotrebe Softvera i Usluga tvrtke [BRAND_NAME_PROXY], [BRAND_NAME_PROXY], povez. društva i dobavljači pridržavaju sva prava nad Softverom tvrtke [BRAND_NAME_PROXY], uključujući, ali bez ograničenja, vlasnička prava, pravo umnožavanja i druga prava intelektualnog vlasništva.
+ 
+ Sva ta prava nad Softverom tvrtke [BRAND_NAME_PROXY] zaštićena su lokalnim zakonima i međunarodnim sporazumom.
+ 
+ 6. Odricanje od odgovornosti
+ [BRAND_NAME_PROXY] ne zastupa nikoga niti daje ikakva jamstva, bilo izričita ili pretpostavljena, uključujući, ali bez ograničenja, pretpostavljena jamstva opće upotrebljivosti, zadovoljavajuće kvalitete i pogodnosti za određenu namjenu, nekršenja prava. 
+ [BRAND_NAME_PROXY] ne daje jamstvo da:
+ (a) će bilo koja Usluga tvrtke [BRAND_NAME_PROXY] koju ste dobili biti točna ili pouzdana; ili
+ (b) će Usluga tvrtke [BRAND_NAME_PROXY] biti pružena besprekidno, blagovremeno i sigurno; ili
+ (c) će se svi nedostaci ili pogreške u isporučenom Softveru odmah ispraviti.
+ 
+ Tvrtka [BRAND_NAME_PROXY] neće biti odgovorna za ikakve gubitke ili štetu prouzročenu virusima ili drugim tehnički štetnim materijalima koji mogu oštetiti vaš Telefon tvrtke [BRAND_NAME_PROXY], programe, podatke ili drugi vlasnički materijal zbog vaše upotrebe Servisa tvrtke [BRAND_NAME_PROXY]. Cjelokupnom sadržaju i svim materijal. koje preuzmete ili dobijete putem tvrtke [BRAND_NAME_PROXY] pristupate na vlast. rizik i samo vi ćete biti odgovorni za eventualna oštećenja vašeg Telefona tvrtke [BRAND_NAME_PROXY] ili gubitak podataka ili sadržaja uslijed preuzimanja ikakvog softvera.
+ 
+ 7. Ograničenje odgovornosti i izvanredni pravni lijek
+ [BRAND_NAME_PROXY] neće biti odgovorna za ikakve posljedične, slučajne, neizravne štete, neće plaćati kaznene odštete ili odštete za gubitak dobiti, tajnih ili drugih informacija, za prekid poslovanja, ozljede, imovinske štete, gubitak privatnosti, propuštanje vršenja dužnosti u dobroj vjeri ili zbog primjerene brige ili zbog nemara.
+ U najvećoj mogućoj mjeri koju dopuštaju primjenjivi zakonski propisi, najviša skupna obveza tvrtke [BRAND_NAME_PROXY] prema vama i vaš izvanredni pravni lijek u skladu s Uvjetima za ikakve i sve štete, povrede, imovinsku štetu i gubitke koje nastaju iz ikakvih i svih zahtjeva ili tužbi povezanih s Uvjetima u svrhu odštete za stvarne štete koje budete snosili bit će ograničeni na deset USD (USD 10). 
+ 
+ Višestruki zahtjevi ili tužbe povezane s Uvjetima neće povećati odgovornost i bit će vaš jedini i izvanredni pravni lijek u najvećoj mjeri koju dopušta važeći zakon.
+ 
+ Ako nadležni sud navedeno ograničenje odgovornosti bude smatrao neprovedivim, to ograničenje neće biti primjenjivo do navedene mjere, a smatrat će se da je dio teksta ograničeno na deset dolara zamijenjen tekstom \"ograničeno na vrijednost transakcije zbog koje je odgovornost nastala.\"
+ 
+ Takav zahtjev ili tužba povezana s Uvjetima mora se podići jednu godinu nakon nastupanja razloga tužbe. 
+ 8. Nadoknada štete 
+ Suglasni ste da ćete obeštetiti, braniti i štititi tvrtku [BRAND_NAME_PROXY], njezine dioničare, direktore, službenike, interesne strane, zaposlenike, podružnice i povezana društva od svih potraživanja, gubitaka, odgovornosti, zahtjeva ili troškova (uključujući naknade odvjetnika) na štetu tvrtke [BRAND_NAME_PROXY] koje zahtijeva bilo koja treća strana ili nastaju iz zloupotrebe ili u svezi sa zloupotrebom Usluga tvrtke [BRAND_NAME_PROXY] kojom se krše prava trećih strana.
+ 
+ 9. Raskid ugovora o usluzi
+ Ako prekršite Uvjete, nećete imati zakonsko pravo upotrebe Usluga tvrtke [BRAND_NAME_PROXY]. U tom ćete slučaju uništiti i ukloniti sve kopije Softvera tvrtke [BRAND_NAME_PROXY]. U međuvremenu, to utječe na jamstvo za vaš Telefon tvrtke [BRAND_NAME_PROXY].
+ Suglasni ste da u naprijed navedenom slučaju povrede ugovora tvrtka [BRAND_NAME_PROXY] ima pravo na sljedeće:
+ (a) trenutno ukidanje vašeg prava pristupa računu tvrtke [BRAND_NAME_PROXY] i/ili
+ (b) sprječavanje vašeg budućeg pristupa računu Usluge tvrtke [BRAND_NAME_PROXY]
+ 
+ Također ste suglasni da će kršenje Uvjeta stvoriti nepopravljivu štetu tvrtki[BRAND_NAME_PROXY] za koju novčane odštete nisu prikladne i suglasni ste da će tvrtka [BRAND_NAME_PROXY] dobiti pravo sudske zabrane ili pravedne olakšice koju [BRAND_NAME_PROXY] smatra potrebnom ili prikladnom u tim uvjetima. Ovi pravni lijekovi dopuna su drugim pravnim lijekovima koje [BRAND_NAME_PROXY] može imati prema zakonu ili po načelima pravičnosti.
+ 
+ 10. Važeći zakon i zakonodavstvo
+ Suglasni ste da će za sve sporove u svezi s Uvjetima vrijediti zakoni Republike Kine, bez obzira na konflikte zakonskih odredbi. 
+ 
+ Suglasni ste da će mjerodavan biti okružni sud Taiwan Taipei, postupci će se voditi u tom sudu, i odričete se prava na prigovor na njegovu mjerodavnost i mjesto suđenja.
+ 
+ Pravo zahtjeva za posredovanje pri rješavanju svih sporova koje vi i tvrtka [BRAND_NAME_PROXY] ne možete riješiti izvansudskom nagodbom imat ćete vi i [BRAND_NAME_PROXY]. Ako se spor ne može razriješiti posredovanjem unutar 30 kalendarskih dana, taj spor će se predati okružnom sudu.
+ 
+ 11. Opće odredbe
+ Naslovi u Uvjetima služe samo u praktične svrhe.
+ Propuštanje tvrtke [BRAND_NAME_PROXY] da poduzme korake protiv vašeg kršenja Uvjeta ne pravda to kršenje niti vam daje pravo na buduća ili slična kršenja Uvjeta.
+ 
+ Ako nadležni sud neki dio ovih Uvjeta proglasi nevažećim ili neprovedivim, nevažeće ili neprovedive odredbe zamijenit će važećim, provedivim odredbama koje su što je više moguće bliske namjeri izvornih odredbi, a ostatak Uvjeta nastavlja vrijediti. 
+ 
+ Nemate pravo dodijeliti Uvjete nekoj strani ili dodijeliti, prenijeti ili podlicencirati svoja prava iz Uvjeta.
+ 
+ [BRAND_NAME_PROXY] ove Uvjete može dodijeliti nekoj strani dijelom ili u cjelini, bilo kad i bez obavijesti. 
+ 
+ Ovi uvjeti zamjenjuju sve prethodne ili istovremene komunikacije bilo koje vrste između vas i tvrtke [BRAND_NAME_PROXY] u svezi sa Stranicom.
+ 
+ 12. Cijeli ugovor
+ Uvjeti i nove dopune predstavljaju cijeli ugovor između vas i tvrtke [BRAND_NAME_PROXY] u svezi sa Uslugama tvrtke [BRAND_NAME_PROXY].
+ 
+ 13. Izmjene Uvjeta
+ [BRAND_NAME_PROXY] ima pravo povremenog ažuriranja, vršenja izmjena, brisanja sadržaja Uvjeta po vlastitom nahođenju.
+ 
+ Morate provjeriti uvjete objavljene na web-stranici tvrtke [BRAND_NAME_PROXY] koji se mogu razlikovati od izvornih uvjeta.
+ 
+ Vašim obnavljanjem softvera i Telefona tvrtke [BRAND_NAME_PROXY] smatra se da ste prihvatili te izmjene Uvjeta.
+"</string>
+    <string name="hmd_legal_message">"Uvjeti usluge 
+ 
+Datum stupanja na snagu 14. listopada 2016. 
+ 
+1. Prihvaćanje 
+Ovi Uvjeti HMD Global usluge, zajedno s Pravilima privatnosti i svim ostalim dodatnim uvjetima i informacijama koje mogu biti ponuđene unutar Usluge (pod zajedničkim nazivom „Uvjeti”) određuju vaše korištenje usluge, web-mjesta, sadržaja i softvera (pod zajedničkim nazivom Usluga). Ove Uvjete prihvaćate registracijom ili korištenjem Usluge ili bilo kojeg njezinog dijela. 
+ 
+Uvjeti sačinjavaju ugovor između vas i tvrtke HMD Global Oy, Bertel Jungin aukio 9, 02610 Espoo, Finska, uključujući njezine podružnice i dobavljače (pod zajedničkim nazivom „HMD Global”), koji definira vaša prava i odgovornosti i prava i odgovornosti tvrtke HMD Global koja se tiču Usluge. 
+ 
+2. Pravo na korištenje Usluge 
+Kako biste mogli koristiti Uslugu, morate imati najmanje trinaest (13) godina. Ako ste mlađi od trinaest (13) godina, ili imate trinaest (13) godina ali ste maloljetna osoba u državi vašeg boravka, vaš roditelj ili zakonski skrbnik mora u vaše ime prihvatiti registraciju i odobriti vaše korištenje Usluge. Svaka osoba koja završava proces registracije mora biti zakonski sposobna. 
+ 
+3. Registracija i otkazivanje Usluge 
+Za korištenje Usluge može biti potrebna registracija i stvaranje HMD računa s korisničkim imenom i lozinkom koji može biti podložan zasebnim uvjetima. Možda ćete nam trebati ustupiti određene osobne i druge podatke. HMD Global može potvrditi vašu adresu e-pošte prije nego što budete u mogućnosti koristiti svoj HMD račun. Pri prvom korištenju vašeg uređaja i pri svakom ažuriranju softvera Nokia uređaja šalje se tekstualna poruka tvrtki HMD Global. Stvaranje HMD računa zahtijeva prijenos podataka. Mogu biti primijenjene naknade za prijenos podataka. 
+ 
+Suglasni ste da ćete prilikom registracije za Uslugu pružiti istinite i potpune podatke te održavati te podatke ažurnima. Posebno pažnju obratite na zaštitu svog korisničkog imena i lozinke od zloporabe od strane drugih osoba te o bilo kakvoj zloporabi odmah obavijestite HMD Global. Za svako korištenje Usluge osobno ste odgovorni vi ili, ako ste maloljetna osoba, vaš roditelj ili zakonski skrbnik. 
+ 
+Ako više ne želite koristiti Uslugu, možete otkazati svoju registraciju. Nakon otkazivanja više nećete imati pristup Usluzi. HMD Global može otkazati vašu registraciju ili vam ograničiti pristup određenim dijelovima Usluge ako smatra da postoji osnovana sumnja da ste prekršili Uvjete ili (uz prethodnu obavijest) ako niste pristupili Uslugama pomoću vašeg korisničkog imena u posljednjih šest (6) mjeseci. 
+ 
+Osim u slučajevima definiranim u Pravilima o privatnosti, HMD Global nije odgovoran za eventualno uklanjanje ili gubitak podataka ili sadržaja koje ste postavili na Uslugu. Tragovi ili kopije sadržaja i podataka mogu postojati na drugim lokacijama i nakon što vi ili HMD Global uklonite taj sadržaj ili podatke iz Usluge. 
+ 
+4. Licence 
+Za pristup i korištenje Usluga, strogo u skladu s Uvjetima, HMD Global vam daje neisključivu, neprenosivu licencu, koju HMD Global može po vlastitom nahođenju opozvati u bilo koje vrijeme. Korištenje Usluge ne daje vam nikakvo pravo intelektualnog vlasništva za ili nad bilo kakvim informacijama ili sadržajima Usluge. 
+ 
+Kao dio Usluge, HMD Global vam može pružiti sadržaj razvijen od strane tvrtke HMD Global ili njezinih davatelja licenci (u daljnjem tekstu „Sadržaj”). HMD Global daje vam neisključivu i stalnu licencu za korištenje Sadržaja u svrhe za koje je on namijenjen, osim ako nije drugačije definirano u primjenjivim Uvjetima ili u narudžbenici. Neki Sadržaji mogu biti raspoloživi samo stanovnicima određenih geografskih područja. Obavezni ste poštivati sva ograničenja primjenjiva na određeni Sadržaj kojeg dobivate putem Usluge. Svaka licenca pridružena Sadržaju treće strane je obavezujući sporazum između vas i pružatelja usluga Sadržaja za treću stranu. Imate samo ona prava na Sadržaj koja su izrijekom dana u ovom dokumentu. 
+ 
+Kao dio Usluge, HMD Global vam može pružiti određeni softver razvijen od strane tvrtke HMD Global ili njezinih davatelja licenci (u daljnjem tekstu „Softver”). Vaše korištenje Softvera može biti podložno posebnim uvjetima i odredbama koje morate prihvatiti prije korištenja Softvera. Ako ne postoje posebni uvjeti i odredbe primjenjivi na takav Softver, primjenjuju se sljedeći uvjeti: HMD Global daje vam ograničeno, neisključivo, neprenosivo pravo na instalaciju i korištenje Softvera na vašem računalu i/ili mobilnom uređaju. Ne smijete kopirati Softver, osim prilikom izrade jedne sigurnosne kopije za arhiviranje. Ne smijete distribuirati, prenositi pravo korištenja, mijenjati, prevoditi, reproducirati, preprodati, podlicencirati, dati u zakup, iznajmiti, izvršiti obrnuti inženjering ili na drugi način pokušati otkriti izvorni kod ili stvarati izvedenice Softvera. Za softver licenciran kao otvoreni softver (Open Source) primjenjuju se uvjeti korištenja za otvoreni softver. Korištenjem Softvera prihvaćate sve primjenjive uvjete i odredbe. 
+ 
+Softver može podlijegati kontrolama izvoza prema Propisima o izvozu SAD-a („EAR” - Export Administration Regulations) te može biti predmet ostalih kontrola uvoza ili izvoza. Suglasni ste se da ćete se strogo pridržavati svih primjenjivih propisa o uvozu i izvozu te ste svjesni da je pribavljanje dozvola za izvoz, ponovni izvoz, transport ili uvoz softvera Vaša odgovornost. 
+ 
+Možete biti u mogućnosti postaviti informacije ili sadržaj (u daljnjem tekstu „Materijal”) na Uslugu. HMD Global ne polaže pravo vlasništva nad vašim Materijalom. Vaše postavljanje Materijala ne znači prijenos vlasničkih prava za Materijal tvrtki HMD Global. HMD Global samo prenosi Materijal i nije odgovoran za uredničku kontrolu nad istim. Postavljanjem Materijala na Uslugu dajete tvrtki HMD Global međunarodno, neisključivo, podložno podlicenciranju, dodjeljivo, potpuno plaćeno i bez prava na tantijeme, stalno i neopozivo pravo na uporabu, kopiranje, javnu izvedbu, prikaz i distribuciju u svim medijima te izmjenu Materijala u svrhu uključivanja Materijala u druge radove i dodjele sličnih podlicenci u obimu koji je tvrtki HMD Global potreban za pružanje Usluga. Možete biti u mogućnosti prilagoditi ovo dopuštenje u postavkama privatnosti i ostalim postavkama Usluge. 
+ 
+Za izradu sigurnosnih kopija podataka koje pohranjujete na Uslugu, uključujući i učitani Sadržaj, odgovorni ste isključivo vi. U slučaju prekida ili otkaza Usluge, HMD Global može trajno izbrisati vaše podatke. HMD Global nema obavezu vraćanja vaših podataka nakon prekida ili otkaza Usluge. 
+ 
+5. Korištenje Usluge 
+Pristajete: 
+• pridržavati se primjenjivih zakona, Uvjeta i pravila ponašanja; 
+• koristiti Uslugu isključivo za osobne, nekomercijalne svrhe; 
+• da nećete postavljati nezakonit, uvredljiv, netočan, varljiv, uvredljiv, pornografski, maltretirajući, klevetnički ili na bilo koji drugi način neprikladan Materijal; 
+• pribaviti sve potrebne pristanke, dozvole ili licence koje mogu biti od vas zakonski zatražene prilikom postavljanja određenog Materijala; 
+• poštivati privatnost drugih; 
+• da nećete distribuirati ili slati neželjenu (spam) poštu, nerazumno velike datoteke, lančana pisma, piramidalne sheme, viruse; 
+• da nećete koristiti druge tehnologije ili pokretati druge aktivnosti kojima možete nanijeti štetu Usluzi, ili interesu ili vlasništvu korisnika Usluge; 
+• da nećete koristiti automatizirane sustave ili sredstva za pristup, nabavu, kopiranje ili nadzor bilo kojeg dijela Usluge; te 
+• prihvatiti odgovornosti za posljedice vezane uz Materijal kojeg objavljujete. 
+ 
+HMD Global može, ali nema obavezu: 
+• nadgledati ili moderirati bilo koji Sadržaj ili Materijal; 
+• ukloniti bilo koji Materijal s Usluge; te 
+• ograničiti pristup bilo kojem dijelu Usluge u bilo kojem trenutku prema vlastitom nahođenju. 
+ 
+6. Sadržaj 
+Prije preuzimanja ili pristupa bilo kojem Sadržaju, provjerite je li Sadržaj kojem želite pristupiti ograničen u odnosu na dob ili je označen kao potencijalno uvredljiv ili eksplicitan. 
+ 
+HMD Global nije odgovoran za bilo kakve žalbe ili prijestupe uzrokovane ili pretrpljene zbog vašeg pristupanja takvom Sadržaju. 
+ 
+Pristajete: 
+• koristiti Sadržaj isključivo za osobne, nekomercijalne svrhe; 
+• koristiti Sadržaj u skladu s ograničenjima definiranim u primjenjivim zakonima, dodatnim uvjetima, smjernicama i pravilima ili na stranicama proizvoda koje se odnose na taj određeni dio Sadržaja; 
+• da nećete izrađivati kopije, davati, prodavati, preprodavati, davati u zakup, iznajmiti, nuditi, emitirati, slati, distribuirati, prenositi, komunicirati s javnošću, mijenjati, prikazivati, izvoditi, komercijalno iskorištavati ili učiniti dostupnim Sadržaj osim ako to nije izrijekom odobreno u primjenjivim Uvjetima, te da ćete o takvoj neovlaštenoj uporabi odmah obavijestiti HMD Global; 
+• da nećete uklanjati, zaobilaziti, vršiti obrnuti inženjering, dešifrirati ili na bilo koji drugi način mijenjati ili se uplitati u bilo koja primjenjiva pravila korištenja te pokušati zaobići upravljanje digitalnim pravima ili zaštitu od neovlaštenog kopiranja povezane sa Sadržajem ili drugim tehnologijama koje se koriste za pristup ili korištenje Sadržaja ili njegovih identificirajućih informacija; 
+• da nećete koristiti automatizirane sustave ili sredstva za odabir ili preuzimanje Sadržaja izuzev onih koje vam mi isporučimo; te 
+• da nećete odati svoju lozinku ili na neki drugi način omogućiti pristup Sadržaju drugim osobama. Ova ograničenja kopiranja koja se odnose na primjenjive medije također se primjenjuju i na Sadržaj kojem se pristupa u sklopu ove Usluge. 
+ 
+Sadržaj je u vlasništvu i/ili pod kontrolom tvrtke HMD Global i/ili njenih davatelja licenci te je zaštićen zakonima o intelektualnom vlasništvu. Treća strana u svojstvu pružatelja Sadržaja odgovorna je za sav Sadržaj koji postavlja, sva jamstva u mjeri u kojoj ta jamstva nisu bila predmetom odricanja odgovornosti te za sve pritužbe koje možete imati vezano uz Sadržaj ili vaše korištenje tog Sadržaja. Međutim, HMD Global može kao korisnik uvjeta treće strane primijeniti uvjete licence za Sadržaj treće strane protiv vas. Treća strana u svojstvu pružatelja Sadržaja su korisnici treće strane pod ovim Uvjetima i mogu nametnuti odredbe koje se izravno tiču Sadržaja za koji imaju prava. Kako bi vam omogućio dostavljanje Sadržaja, HMD Global može se ponašati kao agent pružatelja usluga za Sadržaj treće strane. HMD Global nije dio transakcije između vas i pružatelja usluga za Sadržaj treće strane za takav Sadržaj. 
+ 
+7. Navodi o povredi autorskih prava 
+HMD Global poštuje prava intelektualnog vlasništva trećih strana. Želite li poslati obavijest o kršenju prava intelektualnog vlasništva, uključujući tvrdnje o kršenju autorskih prava, molimo koristite naše postupke za predaju Obavijesti o kršenju autorskih prava. SVI UPITI KOJI SE NE TIČU OVOG POSTUPKA NEĆE DOBITI ODGOVOR. 
+ 
+HMD Global primjenjuje procese iznesene u Članku 17 Zakona Sjedinjenih Američkih Država, odjeljak 512, kako bi postupili po obavijestima o kršenju autorskih prava. Pod odgovarajućim okolnostima, HMD Global također može onemogućiti ili otkazati račune korisnika usluga tvrtke HMD Global koji opetovano krše ove odredbe. 
+ 
+8. Obavijesti 
+HMD Global može postavljati obavijesti unutar Usluge. HMD Global vam također može slati obavijesti o proizvodima i uslugama na adresu e-pošte ili na telefonski broj koji ste nam dali. Smatra se da ste zaprimili takve obavijesti nakon isteka najviše sedam (7) dana od kad je HMD Global poslao ili postavio takve obavijesti. Nastavak korištenja Usluge označava kako ste primili sve obavijesti bez obzira na način dostave. 
+ 
+9. Naknade 
+Vaše korištenje Usluge može biti ili postati predmet naplate naknada. 
+ 
+Sve naknade koje u vezi s Uslugom naplaćuje HMD Global objavit će se zasebno. 
+ 
+Korištenje Usluge može uključivati prijenos podataka preko mreže vašeg davatelja usluga. Cijene navedene za Uslugu ne uključuju moguće troškove za prijenos podataka, tekstualne poruke, glasovne ili ostale usluge koje vam naplaćuje vaš davatelj mrežnih usluga. 
+ 
+HMD Global ne snosi nikakvu odgovornost za naplate ili za bilo kakve druge troškove od strane vaših davatelja mrežnih usluga. 
+ 
+10. Uvjeti narudžbe i plaćanja 
+Narudžba predstavlja odabir plativog Sadržaja i/ili pretplatu na Sadržaj koji nudi HMD Global i koji je raspoloživ za način plaćanja Usluge i slanje uplate, kao i slanje narudžbe odabirom opcija kupi (buy), u redu (ok), prihvaćam (I accept) ili sličnih potvrda prihvaćanja tijekom narudžbe ili pružanje ostalih izraza prihvaćanja koji vam se nude tijekom postupka narudžbe. 
+ 
+Za slanje Narudžbe unutar Usluge morate biti punoljetni i zakonski sposobni, prema primjenjivim zakonskim okvirima. Ako niste punoljetni ili zakonski sposobni, možete poslati Narudžbu samo uz prethodni pristanak vašeg roditelja ili zakonskog skrbnika. 
+ 
+Suglasni ste da su sve Narudžbe zakonski valjane i obavezujuće. Sve Narudžbe su podložne prihvaćanju od strane tvrtke HMD Global. 
+ 
+Isplatu možete izvršiti pomoću kreditne ili debitne kartice, naplate putem davatelja mrežnih usluga ili drugog raspoloživog sredstva plaćanja. 
+ 
+Vaša kreditna ili debitna kartica mora imati adresu fakture u zemlji u kojoj se nudi Sadržaj na Usluzi. HMD Global naplatit će potrebni iznos s bankovnog računa vaše kreditne ili debitne kartice unutar razumnog vremenskog roka nakon slanja Narudžbe. Sva plaćanja putem kreditnih kartica podložna su provjerama valjanosti i odobravanju od strane izdavača kartice. 
+ 
+Ako odaberete plaćanje putem davatelja mrežnih usluga, troškovi će se zaračunati na vašem računu usluga mobilne telefonije ili će se odbiti s vašeg prepaid računa ako koristite prepaid račun. Neki davatelji mrežnih usluga mogu podložiti vaše korištenje Usluga dodatnim uvjetima i odredbama, uključujući postavljanje ograničenja na iznos troškova koje je moguće platiti u sustavu naplate davatelja mrežnih usluga. Plaćanja koja prelaze ograničenja davatelja mrežnih usluga ili stanja računa mogu biti odbačena. 
+ 
+Suglasni ste platiti troškove vezane uz svoju Narudžbu, osigurati sredstvo plaćanja valjano u vrijeme Narudžbe, da ste pravni nositelj sredstva plaćanja te da ćete koristiti sredstvo plaćanja u dozvoljenim ograničenjima svog računa. 
+ 
+Sadržaj se isporučuje i licencira na vas. Suglasni ste koristiti takav Sadržaj isključivo na način dopušten ovim Uvjetima i dodatnim uvjetima koji mogu biti predstavljeni za vrijeme Narudžbe. 
+ 
+Usluga može nuditi mogućnost pretplate. Odobravate periodičnu naplatu Usluge za vrijeme trajanja pretplate. Usluga može ponuditi i opciju probnog razdoblja. Ako vaša Narudžba uključuje probno razdoblje (poznato i pod nazivom try-and-buy; isprobaj-i-kupi), troškovi usluge naplatit će vam se po isteku probnog razdoblja, osim ako prethodno ne otkažete uslugu u skladu s uvjetima pretplate/probnog razdoblja. 
+ 
+Cijene unutar Usluge mogu se mijenjati s vremena na vrijeme. Cijene uključuju primjenjive poreze koji su važili u vrijeme vaše transakcije, osim ako nije drugačije naznačeno. Vaša banka ili davatelj kreditne kartice mogu naplatiti dodatne troškove na osnovi korištenih tečajnih stopa i/ili procijenjenih dodatnih troškova. HMD Global ne snosi nikakvu odgovornost za plaćanja ili za bilo kakve druge naknade ili naplate davatelja usluga treće strane. 
+ 
+11. Otkazivanja i povrat sredstava 
+Pristajete na elektroničku isporuku Sadržaja koja se pokreće istovremeno s postavljanjem vaše Narudžbe. Nećete biti u mogućnosti otkazati svoju Narudžbu nakon postupka obrade Narudžbe. Priroda Sadržaja je takva da se isti ne može vraćati. 
+ 
+U slučaju da nakon postavljanja Narudžbe otkrijete (a) neispravnost naručenog Sadržaja; (b) isporuku Sadržaja od strane tvrtke HMD Global koji ne odgovara opisu Sadržaja koji ste naručili putem Usluge; ili (c) tehničke probleme koji odgađaju ili sprječavaju isporuku vašeg Sadržaja te slučajne višestruke narudžbe uzrokovane takvim tehničkim problemima, te o tome unutar 48 sati obavijestite HMD Global, vaš jedini i isključivi pravni lijek koji se odnosi na takav Sadržaj jest zamjena takvog Sadržaja, ili povrat sredstava plaćenih za taj Sadržaj, isključivo u ovisnosti o odluci tvrtke HMD Global. 
+ 
+U suprotnom nije moguć povrat sredstava. Ako se susretnete s bilo kojim od navedenih problema, obratite se Službi za podršku tvrtke HMD Global. 
+ 
+Imajte na umu kako Služba za podršku tvrtke HMD Global možda neće biti u mogućnosti obraditi vaš zahtjev za korisničkom podrškom ako ne možete isporučiti identifikacijski broj transakcije, koji dobivate od HMD Globala nakon Narudžbe putem Usluge. HMD Global može obraditi samo one zahtjeve za povrat sredstava za Sadržaj u kojima su ukupne cijene iznad novčane granice naznačene u primjenjivim lokalnim propisima. 
+ 
+12. Povratne informacije tvrtki HMD Global 
+Dostavom bilo kakvih ideja, povratnih informacija i/ili prijedloga (\"povratne informacije\") tvrtki HMD Global putem Usluge ili na drugi način, primate na znanje i prihvaćate da: (1) HMD Global može imati slične razvojne ideje kao Povratne informacije; (2) vaše Povratne informacije ne sadržavaju povjerljive ili vlasničke podatke o vama ili trećoj strani; (3) HMD Global nije pod nikakvom obavezom povjerljivosti u vezi Povratnih informacija; (4) HMD Global može slobodno koristiti, distribuirati, iskorištavati te dalje razvijati i modificirati Povratne informacije u bilo koju svrhu; a vi (5) nemate pravo na potraživanje bilo kakve naknade od HMD Globala. 
+ 
+13. Društvene aktivnosti i dijeljenje lokacije 
+Možete koristiti značajke Usluge za dijeljenje svoje lokacije, statusa, sadržaja, Materijala ili osobnih podataka te za interakciju s ostalim korisnicima, web-mjestima i uslugama. Korištenjem ovih značajki slažete se da HMD Global može koristiti i pružiti te podatke ostalim uslugama i osobama s kojima odaberete interakciju ili dijeljenje tih podataka. Korisnici ovih usluga i osobe, primjerice vaši kontakti, mogu vidjeti vašu lokaciju, status i/ili osobne podatke. Korištenjem ovih značajki pristajete ne dijeliti podatke, Sadržaj ili Materijal ili pružati poveznice na bilo koju uslugu ili mjesto koje: (a) sadrži sadržaj ili ostali materijal koji je ilegalan ili neprikladan; ili (b) iskorištava prava intelektualnog vlasništva bez odobrenja ili potiče korisnike na piratstvo. Nijedna interakcija ne uključuje HMD Global i odvija se isključivo između vas i ostalih korisnika . 
+ 
+14. Raspoloživost i tehnički zahtjevi 
+Raspoloživost Sadržaja i Usluge može se mijenjati prema nahođenju tvrtke HMD Global. HMD Global izrijekom se odriče svakog predstavljanja ili jamstva raspoloživosti bilo kojeg Sadržaja ili Usluge. Usluga možda neće biti dostupna u svim državama i može biti ponuđena samo na odabranim jezicima. Usluga, postupci i neke značajke mogu ovisiti i o mreži, kompatibilnosti korištenih uređaja i podržanim formatima sadržaja. 
+ 
+Za pristup Usluzi može biti potrebno preuzimanje određenog softvera razvijenog od strane HMD Globala ili treće strane. 
+ 
+HMD Global može, prema vlastitom nahođenju, mijenjati, ispravljati ili prekinuti Uslugu u cjelini ili djelomično. Usluga možda neće biti raspoloživa tijekom prekida za održavanje i u drugim razdobljima. Kako biste bili sigurni da posjedujete najnoviji softver i aplikacije za uređaj, vaš uređaj može automatski vršiti provjeru raspoloživosti ažuriranja softvera s HMD Globala. Ako se otkriju raspoloživa ažuriranja, dobit ćete obavijest kojom se traži odobrenje za njihovu instalaciju. Automatsku provjeru raspoloživih ažuriranja možete onemogućiti u postavkama uređaja. Također možete i instalirati softver pomoću raspoloživih kanala za ažuriranje softvera. Ako HMD Global smatra ažuriranje Softvera važnim ili kritičnim, nećete biti u mogućnosti nastaviti s korištenjem prethodne verzije Softvera. HMD Global može spriječiti uporabu prethodne verzije Softvera ili Usluge sve dok ne instalirate potrebno ažuriranje. 
+ 
+HMD Global može onemogućiti sav Sadržaj i Softver sadržan u vašem korisničkom računu iz bilo kojeg razloga te ukloniti bilo koji Sadržaj ili Softver i/ili onemogućiti instance bilo koje aplikacije na vašem uređaju u svrhu zaštite Usluge, davatelja aplikacija, mrežnih prenositelja preko čijih mreža pristupate usluzi ili bilo koje eventualno pogođene strane. 
+ 
+Pojedina usluga može biti predizdanje, primjerice beta-izdanje, i možda neće raditi na način na koji radi konačna verzija. HMD Global može znatno izmijeniti bilo koju verziju Usluge ili Softvera ili odlučiti ne objaviti konačnu verziju. 
+ 
+15. Poveznice na web-mjesta i sadržaj treće strane 
+HMD Global može uključivati pristup web-mjestima i uslugama na Internetu ili unaprijed učitanim klijentima koji vam omogućavaju interakciju s web-mjestima i uslugama koje su u vlasništvu ili kojima upravljaju treće strane te koje nisu dio Usluge. Prije korištenja ovih lokacija ili usluga, morate pregledati i prihvatiti njihove uvjete i odredbe korištenja. 
+ 
+HMD Global nema kontrolu nad sadržajem, lokacijama ili uslugama treće strane i ne snosi nikakvu odgovornost za usluge ili materijal stvoren ili objavljen na web-mjestima ili uslugama treće strane. Poveznica na web-mjesto treće strane ne znači da HMD Global podržava proizvode ili usluge spomenute na web-mjestu. 
+ 
+Osim toga, vi i ostali korisnici možete unutar Usluge stvarati sadržaj i poveznice na sadržaj koji nije na neki drugi način postavljen na Uslugu. HMD Global nije odgovoran za ovu vrstu sadržaja ili poveznica. 
+ 
+16. Oglašavanje 
+U Uslugu mogu biti uključeni oglasi. Oglasi mogu biti usmjereni na sadržaj informacija spremljenih na Usluzi, upite izvršene putem Usluge ili na ostale informacije. 
+ 
+17. Osobni podaci 
+Uporaba vaših osobnih podataka podliježe Pravilima o privatnosti i drugim informacijama o privatnosti koje vam se stave na raspolaganje. 
+ 
+18. Ograničenje odgovornosti 
+Usluga se pruža „U STANJU KAKVA JEST” i „PREMA RASPOLOŽIVOSTI”. HMD Global ne jamči da će Usluga biti neprekinuta ili bez pogrešaka ili virusa. Nikakvo jamstvo, bilo izričito ili implicirano, uključujući, ali ne i ograničeno na jamstva prava vlasništva, poštivanja autorskih prava, utrživost ili primjerenost za određenu svrhu, nije dano u vezi raspoloživosti, točnosti, pouzdanosti, podataka ili sadržaja Usluge. Izrijekom ste sukladni i prihvaćate da je korištenje Usluge vaša osobna odgovornost i da možete biti izloženi sadržaju iz različitih izvora. 
+ 
+Osim odgovornosti u slučaju smrti ili tjelesne ozljede uzrokovane grubim nemarom ili namjernom pogreškom, HMD Global ni u kojem slučaju ne snosi odgovornost za bilo kakve neizravne slučajne ili uzgredne štete ili kaznene odštete proizišle iz vašeg korištenja ili nemogućnosti korištenja Usluge. 
+ 
+19. Naknada štete 
+Suglasni ste obraniti i obeštetiti HMD Global od svih pritužbi treće strane i svih odgovornosti, procjena, gubitaka, troškova ili šteta koje su nastale kao posljedica (i) vašeg kršenja Uvjeta, (ii) vaše povrede ili kršenja bilo kojih prava intelektualnog vlasništva, ostalih prava ili privatnosti treće strane ili (iii) zloporabe Usluge od strane treće strane, ako je zloporaba omogućena vašim propustom u provedbi razumnih mjera zaštite vašeg korisničkog imena i lozinke protiv zloporabe. 
+ 
+20. Razno 
+ 
+20.1 Izbor zakona 
+Uvjeti podliježu zakonima Republike Finske, ne uzimajući u obzir njezine odredbe o sukobu zakona. 
+ 
+20. 2 Valjanost 
+Uvjeti ne isključuju i ne ograničavaju ni jedno od obvezujućih prava u vašoj zemlji boravka kojih se prema zakonu nije moguće odreći. Otkrivena nepravilnost neke odredbe ovih Uvjeta ne utječe na valjanost preostalih odredbi ugovora i bit će zamijenjena valjanom odredbom koja najbliže označava cilj i svrhu ovih Uvjeta. U slučaju da jedna ili više odredbi ovih Uvjeta nisu mjerodavne za vaše korištenje Usluge, to neće utjecati na valjanost ili izvršivost bilo koje druge odredbe Uvjeta ili Uvjeta u cjelini. U slučaju sukoba između ovih Uvjeta korištenja HMD Global usluge i Pravila o privatnosti, vrijede odredbe Uvjeta korištenja HMD Global usluge. Odredbe ovih Uvjeta koje su namijenjene da ostanu na snazi nakon otkazivanja registracije ostaju valjane i nakon otkazivanja. 
+ 
+20.3 Izmjene Uvjeta 
+HMD Global može promijeniti Uvjete u bilo kojem trenutku bez prethodne obavijesti. U slučaju značajne izmjene Uvjeta u nepovoljnom smislu, tvrtka HMD Global će poslati posebnu obavijest o izmjeni. 
+ 
+Redovno pregledavanje Uvjeta je vaša odgovornost. Nastavkom korištenja Usluge pristajete na sve izmjene i modifikacije. 
+ 
+21. Intelektualno vlasništvo 
+Usluga, Sadržaj i Softver zaštićeni su međunarodnim zakonima o zaštiti autorskih prava. HMD Global polaže autorsko pravo na svoje Usluge, Sadržaje i Softver u najvećoj mjeri predviđenoj zakonom. Prema ovim Uvjetima, HMD Global zadržava sva prava vlasništva nad Uslugom, njenim Sadržajem, Softverom i svim ostalim proizvodima, softverom i ostalim vlasništvom tvrtke HMD Global koji su vam pruženi ili koje ste koristili putem Usluge. 
+ 
+22. Dodjeljivanje 
+HMD Global može dodijeliti svoja prava i obaveze pod ovim Uvjetima svojoj matičnoj tvrtki, bilo kojoj od njenih podružnica ili bilo kojoj tvrtki koja je pod istim zajedničkim upravljanjem kao i HMD Global. Pored toga, HMD Global može trećoj strani dodijeliti svoja prava i obaveze pod ovim Uvjetima zbog spajanja, preuzimanja, prodaje imovine, primjene zakona ili drugog razloga."</string>
+    <string name="wapi_psk_security_type">Vrsta lozinke</string>
+    <string name="upload_agent_hmd_des_text_3">"Dodirom na \"ZAPOČNIMO\" prihvaćate pridruživanje Programu korisničkog iskustva. &lt;a href='launch.UserExperienceActivity://Kode'>Saznajte više&lt;/a>. Upamtite, i kasnije se uvijek možete pridružiti koristeći Postavke."</string>
+    <string name="setup_complete_hmd_1">Još malo i spremni ste za početak...!</string>
+    <string name="not_now">NE SADA...</string>
+    <string name="setup_finish">ZAPOČNIMO</string>
+    <string name="wifi_fail_to_scan">Ne može tražiti mreže</string>
+    <string name="wifi_security_none">Ništa</string>
+    <string name="wifi_remembered">Spremljeno</string>
+    <string name="wifi_disabled_generic">Onemogućeno</string>
+    <string name="wifi_disabled_network_failure">Neuspješna IP konfiguracija</string>
+    <string name="wifi_disabled_password_failure">Problem vezan uz provjeru autentičnosti</string>
+    <string name="wifi_not_in_range">Nije u dometu</string>
+    <string name="wifi_no_internet_no_reconnect">Neće se automatski spojiti</string>
+    <string name="wifi_no_internet">Nema pristupa Internetu</string>
+    <string name="saved_network">Spremljeno putem %1$s</string>
+    <string name="connected_via_passpoint">Povezan putem %1$s</string>
+    <string name="available_via_passpoint">Dostupno putem %1$s</string>
+    <string name="wifi_connected_no_internet">Povezan, nema Interneta</string>
+    <string name="wifi_auth_password_wrong">Možda je zaporka pogrešna</string>
+    <string name="connected_via_wfa">Povezan putem pomoćnika za Wi‑Fi</string>
+    <string name="wifi_ssid">Naziv mreže</string>
+    <string name="wifi_ssid_hint">Unesite SSID</string>
+    <string name="wifi_security">Sigurnost</string>
+    <string name="wifi_eap_method">EAP metoda</string>
+    <string name="please_select_phase2">2. faza provjere autentičnosti</string>
+    <string name="wifi_eap_ca_cert">CA certifikat</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nije naveden nijedan certifikat. Veza neće biti privatna.</string>
+    <string name="wifi_eap_domain">Domena</string>
+    <string name="wifi_no_domain_warning">Mora navoditi domenu.</string>
+    <string name="wifi_eap_user_cert">Korisnički certifikat</string>
+    <string name="wifi_eap_identity">Identitet</string>
+    <string name="wifi_eap_anonymous">Anoniman identitet</string>
+    <string name="wifi_password">Zaporka</string>
+    <string name="wifi_show_password">Prikaži zaporku</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Padajući popis Napredne opcije. Dvaput dodirnite za proširenje.</string>
+    <string name="wifi_show_advanced">Napredne opcije</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_warning_limited_support">Preglednik upotrebljava HTTP proxy poslužitelj, ali druge aplikacije ga ne moraju upotrebljavati.</string>
+    <string name="proxy_url_title">"URL za PAC: "</string>
+    <string name="proxy_hostname_label">Naziv hosta proxy poslužitelja</string>
+    <string name="proxy_exclusionlist_label">Zaobiđi proxy za</string>
+    <string name="wifi_ip_settings">IP postavke</string>
+    <string name="wifi_ip_address">IP adresa</string>
+    <string name="wifi_gateway">Pristupnik</string>
+    <string name="wifi_network_prefix_length">Duljina mrežnog prefiksa</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">Podijeli s drugim korisnicima uređaja</string>
+    <string name="proxy_port_label">Priključak proxy poslužitelja</string>
+    <string name="wifi_unspecified">Molimo odaberite</string>
+    <string name="wifi_multiple_cert_added">(Dodano je više certifikata)</string>
+    <string name="wifi_use_system_certs">Upotrijebi certifikate sustava</string>
+    <string name="wifi_do_not_provide_eap_user_cert">Nemoj pružiti</string>
+    <string name="wifi_do_not_validate_eap_server">Nemoj potvrditi</string>
+    <string name="wifi_add_network">Dodaj mrežu</string>
+    <string name="wifi_save">Spremi</string>
+    <string name="passpoint_label">Spremljeno putem</string>
+    <string name="wifi_connect">Poveži</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_signal">Jakost signala</string>
+    <string name="wifi_speed">Brzina veze</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2,4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Učestalost</string>
+    <string name="wifi_forget">Zaboravi</string>
+    <string name="wifi_cancel">Odustani</string>
+    <string name="proxy_error_invalid_port">Upisani priključak nije valjan.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Upišite važeću IP adresu.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Upišite prefiks mreže duljine između 0 i 32 znaka.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Upišite važeću adresu pristupnika.</string>
+    <string name="wifi_ip_settings_invalid_dns">Upišite važeću DNS adresu.</string>
+    <string name="wifi_unchanged">(nepromijenjeno)</string>
+    <string name="wifi_failed_connect_message">Povezivanje s mrežom nije uspjelo</string>
+    <string name="wifi_failed_save_message">Spremanje mreže nije uspjelo</string>
+    <string name="wifi_failed_forget_message">Zaboravljanje mreže nije uspjelo</string>
+    <string name="proxy_error_empty_host_set_port">Polje priključka mora biti prazno ako je i polje hosta prazno.</string>
+    <string name="proxy_error_empty_port">Morate dovršiti polje priključka.</string>
+    <string name="proxy_error_invalid_exclusion_list">Popis za isključivanje koji ste napisali nije pravilno formatiran. Unesite popis isključenih domena odvojenih zarezima.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Padajući popis Napredne opcije. Dvaput dodirnite za sažimanje.</string>
+    <string name="passpoint_content">%1$s vjerodajnice</string>
+    <string name="select_sim_card">Odaberi SIM karticu</string>
+    <string name="sim_editor_title">Utor za SIM %1$d</string>
+    <string name="wifi_certificate">Potvrda</string>
+    <string name="wifi_setting_title">Povežite se</string>
+    <string name="wifi_skip_anyway">SVEJEDNO PRESKOČI</string>
+    <string name="wifi_dont_skip">NATRAG</string>
+    <string name="wifi_and_mobile_skipped_message">"Povezivanje s mrežom pomaže vam da brzo postavite telefon.
+
+Bez povezivanja, ne možete:
+
+"<li>Prijaviti se na svoj račun za servis u oblaku</li>"
+
+"<li>Preuzeti ažuriranja softvera</li>"
+
+"<li>Automatski postaviti vrijeme i datum</li></string>
+</resources>

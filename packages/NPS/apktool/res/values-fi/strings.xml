@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CANCEL">PERUUTA</string>
+    <string name="DONE">Valmis</string>
+    <string name="NEXT">SEURAAVA</string>
+    <string name="OK">OK</string>
+    <string name="PREVIOUS">EDELLINEN</string>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisää</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
+    <string name="abc_capital_on">KÄYTÖSSÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakulauseke</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
+    <string name="abc_toolbar_collapse_description">Kutista</string>
+    <string name="alert_empty_desc">Lisää kuvaus!</string>
+    <string name="alert_warning_title">Vinkkejä</string>
+    <string name="enter_comments">Lisää kommentteja (1000 merkkiä)</string>
+    <string name="extremely_likely">(Erittäin todennäköisesti)</string>
+    <string name="feedback">Palaute</string>
+    <string name="helps_us_improve_our_products">Palautteesi auttaa kehittämään tuotteitamme!</string>
+    <string name="intro_title">Miten todennäköisesti suosittelet tätä puhelinta ystävälle tai kollegalle?</string>
+    <string name="msg_send_after">Viesti lähtee automaattisesti, kun laite on device online-tilassa. Kiitos vastauksesta.</string>
+    <string name="msg_send_fail">Lähetys epäonnistui. Viesti lähtee automaattisesti, kun laite on device online-tilassa. Kiitos vastauksesta.</string>
+    <string name="no_ask_feedback_again_text">Älä näytä uudelleen</string>
+    <string name="no_showagain_text">Älä näytä uudelleen</string>
+    <string name="not_at_all_likely">(Hyvin epätodennäköisesti)</string>
+    <string name="privacy_context_wifi">"Hyvät käyttäjät, 
+
+Tervetuloa käyttämään palauteohjelmistoa. Lue käyttöehdot huolellisesti ennen tämän tuotteen käyttämistä. Valitsemalla 「Hyväksy」-painikkeen ilmoitat ymmärtäväsi ja hyväksyväsi ohjelmiston käyttöehdot. Jos ET hyväksy ehtoja, poistu painamalla 「Poistu」-painiketta. Palvelujen tarjoamista varten sovellus tarvitsee seuraavat valtuudet: 
+1. Internetyhteys, WLAN-verkko palautteen lähettämistä varten 
+2. IMEI-, PSN- ja MNC\\MCC-tietojen tuonti puhelimen perustietojen automaattista hakua varten"</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="select_a_value">Valitse arvo</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_agree">Hyväksy</string>
+    <string name="str_leave">Poistu</string>
+    <string name="submit_fail">Lähetys epäonnistui</string>
+    <string name="submit_success">Kiitos vastauksesta</string>
+    <string name="thank_your_feedback">Kiitos palautteestasi!</string>
+    <string name="we_appreciate_your_help">Arvostamme apuasi Nokia-tuotteiden kehittämiseksi huippulaadukkaiksi.</string>
+    <string name="we_hope_enjoying_nokia_device">Toivomme, että pidät Nokia-laitteestasi. Palautteesi on meille tärkeä.</string>
+    <string name="we_will_contact_you_again">Otamme yhteyttä uudelleen myöhemmin.</string>
+    <string name="we_will_contact_you_again_enjoy">Otamme yhteyttä uudelleen myöhemmin. Nauti uudesta Nokia-laitteestasi!</string>
+    <string name="why_you_gave_this_score">Miksi annoit tämän tuloksen:</string>
+</resources>

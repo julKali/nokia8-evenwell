@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="22.0sp" android:textStyle="bold" android:id="@id/total" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="#ff00ff00" android:id="@id/pass" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+            <TextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="#ffff0000" android:id="@id/fail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+            <TableLayout android:id="@id/tablelayout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:id="@id/gpsinfo" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </ScrollView>
+    </LinearLayout>
+    <com.evenwell.fqc.activity.view.FCIView android:id="@id/fciview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

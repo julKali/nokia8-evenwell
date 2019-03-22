@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">נגישות</string>
+    <string name="available_via_passpoint">זמין דרך %1$s</string>
+    <string name="connected_via_passpoint">מחובר דרך %1$s</string>
+    <string name="connected_via_wfa">מחובר דרך אסיסטנט ה-Wi‑Fi</string>
+    <string name="datausage_dialog_negitive_btn">ביטול</string>
+    <string name="datausage_dialog_positive_btn">אישור</string>
+    <string name="insert_sim_cards">‏הכנס כרטיסי SIM</string>
+    <string name="insert_sim_cards_prompt_content">"אינך בטוח כיצד? עיין בהוראות שסופקו עם הטלפון.
+
+לאחר הכנסת כרטיסי ה-SIM, יתכן שיחלפו מספר שניות עד שהם יופעלו."</string>
+    <string name="language_selection_cancel_btn">ביטול</string>
+    <string name="light_room_description">%1$s תומך בלכידת תמונות בתבנית RAW (‏DNG). תוכל לבצע עריכה ישירות בטלפון החכם שלך הודות לשותפות שלנו עם Adobe.&lt;br/>]]&lt;![CDATA[&lt;br/>הורד עכשיו את Adobe Photoshop Lightroom CC מהחנות Google Play.</string>
+    <string name="light_room_title">חובב צילום מושבע?</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="nevigation_selection_back">הקודם</string>
+    <string name="next_btn_lebel">הבא</string>
+    <string name="not_now">לא כעת...</string>
+    <string name="passpoint_content">אישורי %1$s</string>
+    <string name="passpoint_label">נשמר באמצעות</string>
+    <string name="please_select_phase2">אימות שלב 2</string>
+    <string name="proxy_error_empty_host_set_port">שדה היציאה חייב להיות ריק אם שדה המארח ריק.</string>
+    <string name="proxy_error_empty_port">עליך למלא את שדה היציאה.</string>
+    <string name="proxy_error_invalid_exclusion_list">רשימת אי ההכללה שהקלדת אינה‎‏‎בתבנית המתאימה. הקלד רשימה של תחומים שאינם נכללים, שהפריטים בה מופרדים באמצעות פסיקים.</string>
+    <string name="proxy_error_invalid_port">היציאה שהקלדת אינה‎‏‎חוקית.</string>
+    <string name="proxy_exclusionlist_label">‏עקוף שרת Proxy עבור</string>
+    <string name="proxy_hostname_label">‏שם מארח של שרת Proxy</string>
+    <string name="proxy_port_label">‏יציאת שרת Proxy</string>
+    <string name="proxy_settings_title">‏שרת Proxy</string>
+    <string name="proxy_url_title">"כתובת URL של PAC: "</string>
+    <string name="proxy_warning_limited_support">‏שרת Proxy של HTTP נמצא בשימוש הדפדפן, אך יישומים אחרים לא יכולים להשתמש בו.</string>
+    <string name="saved_network">נשמר על-ידי %1$s</string>
+    <string name="select_sim_card">‏בחר כרטיס SIM</string>
+    <string name="setup_complete_hmd_1">אתה כמעט מוכן...!</string>
+    <string name="setup_finish">נתחיל</string>
+    <string name="sim_editor_title">‏חריץ SIM ‏%1$d</string>
+    <string name="term_agree_text">קבל</string>
+    <string name="upload_agent_hmd_des_text_3">"על-ידי הקשה על '‏‫נתחיל', אתה מסכים להצטרף לתוכנית חוויית הלקוח. &lt;a href='launch.UserExperienceActivity://Kode'>מידע נוסף&lt;/a>. זכור, תוכל תמיד להצטרף מאוחר יותר דרך 'הגדרות'."</string>
+    <string name="welcome_hmd_term_of_use_4">"על ידי לחיצה על הלחצן אתה מסכים ל&lt;a href='launch.TermOfServiceActivity://Kode'>תנאי השירות&lt;/a> ול&lt;a href='launch.AddUploadAgentHandler://Kode'>מדיניות הפרטיות&lt;/a>. מידע הפעלת המכשיר עם מיקום מכשיר חד-פעמי יישלח אל HMD Global.&lt;br/>&lt;br/>הודעה על עדכון תוכנה אוטומטי תופעל ותגרום להתקנת העדכונים העדכניים ביותר עבורך. פעולה זו עשויה להשתמש בחלק קטן לכל היותר מתקציב הנתונים שלך. השירותים יקבלו גישה לאינטרנט במועד שיצטרכו.&lt;br/>&lt;br/>שירותים אלה יגררו חיובים נוספים כאשר הם יקבלו גישה לרשתות סלולריות."</string>
+    <string name="welcome_hmd_term_of_use_5">"על-ידי הקשה על הלחצן, אתה מסכים &lt;a href='launch.TermOfServiceActivity://Kode'>לתנאי השירות&lt;/a>. נתוני הפעלת המכשיר, כולל באופן חד פעמי מיקום המכשיר, יישלחו אל HMD Global. ייתכן שיחולו עלויות העברת נתונים. ייעשה שימוש בנתונים בהתאם &lt;a href='launch.AddUploadAgentHandler://Kode'>למדיניות הפרטיות&lt;/a>."</string>
+    <string name="wifi_add_network">הוסף רשת</string>
+    <string name="wifi_advanced_toggle_description_collapsed">"הרשימה הנפתחת 'אפשרויות מתקדמות'. הקש פעמיים כדי להרחיב."</string>
+    <string name="wifi_advanced_toggle_description_expanded">"הרשימה הנפתחת 'אפשרויות מתקדמות'. הקש פעמיים כדי לכווץ."</string>
+    <string name="wifi_and_mobile_skipped_message">"ההתחברות לרשת מסייעת לך להגדיר במהירות את הטלפון שלך.
+
+ללא חיבור, אין באפשרותך לבצע את הפעולות הבאות:
+
+"<li>כניסה לחשבון הענן שלך</li>"
+
+"<li>קבלת עדכוני תוכנה</li>"
+
+"<li>הגדרת שעה ותאריך באופן אוטומטי</li></string>
+    <string name="wifi_auth_password_wrong">ייתכן שהסיסמה שגויה</string>
+    <string name="wifi_band_24ghz">‎2.‎4 GHz</string>
+    <string name="wifi_band_5ghz">‎5 GHz</string>
+    <string name="wifi_cancel">ביטול</string>
+    <string name="wifi_certificate">אישור</string>
+    <string name="wifi_connect">התחבר</string>
+    <string name="wifi_connected_no_internet">מחובר, אין אינטרנט</string>
+    <string name="wifi_disabled_generic">מושבת</string>
+    <string name="wifi_disabled_network_failure">כשל בתצורת IP</string>
+    <string name="wifi_disabled_password_failure">בעיית אימות</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_do_not_provide_eap_user_cert">אל תספק</string>
+    <string name="wifi_do_not_validate_eap_server">אל תאמת</string>
+    <string name="wifi_do_not_validate_eap_server_warning">לא צוין אישור. החיבור שלך לא יהיה פרטי.</string>
+    <string name="wifi_dont_skip">חזור</string>
+    <string name="wifi_eap_anonymous">זהות אנונימית</string>
+    <string name="wifi_eap_ca_cert">אישור CA</string>
+    <string name="wifi_eap_domain">תחום</string>
+    <string name="wifi_eap_identity">זהות</string>
+    <string name="wifi_eap_method">שיטת EAP</string>
+    <string name="wifi_eap_user_cert">אישור משתמש</string>
+    <string name="wifi_fail_to_scan">לא ניתן לחפש רשתות</string>
+    <string name="wifi_failed_connect_message">נכשל הניסיון להתחבר לרשת</string>
+    <string name="wifi_failed_forget_message">נכשל הניסיון לשכוח את הרשת</string>
+    <string name="wifi_failed_save_message">נכשל הניסיון לשמור את הרשת</string>
+    <string name="wifi_forget">שכח</string>
+    <string name="wifi_frequency">תדירות</string>
+    <string name="wifi_gateway">שער</string>
+    <string name="wifi_ip_address">‏כתובת IP</string>
+    <string name="wifi_ip_settings">‏הגדרות IP</string>
+    <string name="wifi_ip_settings_invalid_dns">‏הקלד כתובת DNS חוקית.</string>
+    <string name="wifi_ip_settings_invalid_gateway">הקלד כתובת שער חוקית.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">‏הקלד כתובת IP חוקית.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">הקלד אורך לקידומת רשת בין 0 ו-32.</string>
+    <string name="wifi_multiple_cert_added">(נוספו מספר אישורים)</string>
+    <string name="wifi_network_prefix_length">אורך קידומת של רשת</string>
+    <string name="wifi_no_domain_warning">יש לציין תחום.</string>
+    <string name="wifi_no_internet">אין גישה לאינטרנט</string>
+    <string name="wifi_no_internet_no_reconnect">לא ניתן להתחבר אוטומטית</string>
+    <string name="wifi_not_in_range">לא בטווח</string>
+    <string name="wifi_password">סיסמה</string>
+    <string name="wifi_picker_connection_positive">אישור</string>
+    <string name="wifi_remembered">נשמר</string>
+    <string name="wifi_save">שמור</string>
+    <string name="wifi_security">ביטחון</string>
+    <string name="wifi_security_none">ללא</string>
+    <string name="wifi_setting_title">התחבר</string>
+    <string name="wifi_shared">שתף עם משתמשים אחרים במכשיר</string>
+    <string name="wifi_show_advanced">אפשרויות מתקדמות</string>
+    <string name="wifi_show_password">הצג סיסמה</string>
+    <string name="wifi_signal">עוצמת אות</string>
+    <string name="wifi_skip_anyway">דלג בכל מקרה</string>
+    <string name="wifi_speed">מהירות קישור</string>
+    <string name="wifi_ssid">שם רשת</string>
+    <string name="wifi_ssid_hint">‏הזן את ה-SSID</string>
+    <string name="wifi_status">מצב</string>
+    <string name="wifi_unchanged">(ללא שינוי)</string>
+    <string name="wifi_unspecified">בחר</string>
+    <string name="wifi_use_system_certs">השתמש באישורי מערכת</string>
+</resources>

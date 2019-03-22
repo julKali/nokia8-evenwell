@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_weather_button_close">Bezárás</string>
+    <string name="fih_weather_button_ok">OK</string>
+    <string name="fih_weather_button_setting">Beállítás</string>
+    <string name="fih_weather_notification_channel_title">Általános értesítések</string>
+    <string name="fih_weather_notification_text">Engedélyezés koppintással</string>
+    <string name="fih_weather_notification_title">A WeatherService használatához jogosultságok szükségesek</string>
+    <string name="fih_weather_permission_failed">Helyjogosultság-kérés elutasítva, a hely nem kérhető le.</string>
+    <string name="fih_weather_permission_hint_1">Az alkalmazás megfelelő működéséhez további jogosultságok szükségesek. A rákérdezéskor engedélyezzük a jogosultságot.</string>
+    <string name="fih_weather_permission_hint_2">Az alkalmazás megfelelő működéséhez további jogosultságok szükségesek. Adja meg a WeatherService jogosultságát a Beállításoknál.</string>
+    <string name="fih_weather_permission_success">Helyjogosultság sikeresen megadva</string>
+    <string name="fih_weather_service_title_txt">Időjárás-szolgáltatás</string>
+</resources>

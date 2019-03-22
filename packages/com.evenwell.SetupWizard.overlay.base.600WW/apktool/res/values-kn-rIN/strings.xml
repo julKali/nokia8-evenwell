@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_agent_des_text">"ಬಳಕೆದಾರ ಅನುಭವ ಪ್ರೋಗ್ರಾಂಗೆ ಸೇರ್ಪಡೆಗೊಳ್ಳಿ. &lt;br>&lt;a href='launch.AddUploadAgentHandler://Kode'>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ&lt;/a>
+
+"</string>
+    <string name="welcome_hmd_term_of_use_4">"ಬಟನ್ ಟ್ಯಾಪ್ ಮಾಡುವ ಮೂಲಕ, ನೀವು &lt;a href='launch.TermOfServiceActivity://Kode'>ಸೇವೆಯ ನಿಯಮಗಳು&lt;/a> ಮತ್ತು &lt;a href='launch.AddUploadAgentHandler://Kode'>ಗೌಪ್ಯತೆ ನೀತಿ&lt;/a>ಯನ್ನು ಒಪ್ಪುವಿರಿ. ಒಂದು-ಬಾರಿಯ ಸಾಧನ ಸ್ಥಳದೊಂದಿಗೆ ಸಾಧನ ಸಕ್ರಿಯಗೊಳಿಸುವ ಮಾಹಿತಿಯನ್ನು HMD Global ಗೆ ಕಳುಹಿಸಲಾಗುತ್ತದೆ.&lt;br/>&lt;br/>ಸ್ವಯಂ ಸಾಫ್ಟ್‌ವೇರ್‍ ಅಪ್‍ಡೇಟ್ ಅಧಿಸೂಚನೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ, ಇದು ನಿಮಗಾಗಿ ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುತ್ತದೆ. ಇದು ನಿಮ್ಮ ಡೇಟಾದ ಸಣ್ಣ ಭಾಗವನ್ನು ಬಳಸಿಕೊಳ್ಳಬಹುದು. ಸೇವೆಗಳು ಅಗತ್ಯವಿರುವಾಗ ಇಂಟರ್ನೆಟ್‍ ಅನ್ನು ಪ್ರವೇಶಿಸುತ್ತವೆ.&lt;br/>&lt;br/>ಈ ಸೇವೆಗಳು ಸೆಲ್ಯುಲಾರ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಪ್ರವೇಶಿಸಿದಾಗ ನಿಮಗೆ ಮೀರಿದ ಶುಲ್ಕಗಳನ್ನು ವಿಧಿಸುತ್ತವೆ."</string>
+    <string name="welcome_hmd_term_of_use_5">"ಬಟನ್ ಟ್ಯಾಪ್ ಮಾಡುವ ಮೂಲಕ, ನೀವು &lt;a href='launch.TermOfServiceActivity://Kode'>ಸೇವೆಯ ನಿಯಮಗಳನ್ನು&lt;/a> ಒಪ್ಪುತ್ತೀರಿ. HMD ಯ &lt;a href='launch.AddUploadAgentHandler://Kode'>ಗೌಪ್ಯತಾ ನೀತಿ&lt;/a> ಅನುಸಾರ ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತದೆ. ಒಂದು ಬಾರಿ ಸಾಧನ ಸ್ಥಳದೊಂದಿಗೆ, ಸಾಧನ ಸಕ್ರಿಯಗೊಳಿಸುವಿಕೆ ಮಾಹಿತಿಯನ್ನು HMD Global ಗೆ ಕಳುಹಿಸಲಾಗುತ್ತದೆ. ಮೊಬೈಲ್ ಡೇಟಾ ಶುಲ್ಕಗಳು ಅನ್ವಯವಾಗಬಹುದು."</string>
+    <string name="welcome_vision_settings_button_label">ದೃಷ್ಟಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="next_btn_lebel">ಮುಂದೆ</string>
+    <string name="back_btn_lebel">ಹಿಂತಿರುಗು</string>
+    <string name="finish_button_label">ಮುಗಿಸು</string>
+    <string name="sim_not_exist_toast">ನೀವು SIM ಕಾರ್ಡ್ ಅಳವಡಿಸಿರುವಿರಾ ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="idle_too_long_toast">ಈ ಫೋನ್ ಸ್ವಲ್ಪ ಸಮಯದಿಂದ ತಟಸ್ಥವಾಗಿದೆ. ಪವರ್ ಉಳಿಸಲು ಈಗಲೇ ಶಟ್ ಡೌನ್ ಮಾಡಿ.</string>
+    <string name="welcome_message">ಸ್ವಾಗತ</string>
+    <string name="welcome_infocus_term_of_use">"ಬಾಣವನ್ನು ಟ್ಯಾಪ್‌ ಮಾಡುವ ಮೂಲಕ ನೀವು &lt;br>&lt;a href='launch.TermOfServiceActivity://Kode'>ಬಳಕೆ ನಿಯಮಗಳಿಗೆ&lt;/a> ಒಪ್ಪುತ್ತೀರಿ"</string>
+    <string name="welcome_hmd_term_of_use_2">"ಬಾಣವನ್ನು ಟ್ಯಾಪ್ ಮಾಡುವ ಮೂಲಕ, ನೀವು &lt;a href='launch.TermOfServiceActivity://Kode'>ಸೇವಾ ನಿಯಮಗಳು&lt;/a> ಮತ್ತು &lt;a href='launch.AddUploadAgentHandler://Kode'>ಗೌಪ್ಯತೆ ನೀತಿಗೆ&lt;/a> ಸಮ್ಮತಿಸುತ್ತೀರಿ. ಒಂದು ಬಾರಿ ಸಾಧನ ಸ್ಥಳವನ್ನು ಹೊಂದಿರುವ ಸಾಧನದ ಸಕ್ರಿಯಗೊಳಿಸುವಿಕೆ ಮಾಹಿತಿಯನ್ನು HMD Global ಗೆ ಕಳುಹಿಸಲಾಗುತ್ತದೆ. ಡೇಟಾ ಶುಲ್ಕಗಳು ಅನ್ವಯಿಸಬಹುದು."</string>
+    <string name="welcome_start_button_label">ಪ್ರಾರಂಭಿಸು</string>
+    <string name="emergency_dial_message">ತುರ್ತು ಕರೆಗಳು</string>
+    <string name="emergency_dial_hmd_message">ತುರ್ತುಸ್ಥಿತಿ</string>
+    <string name="accessibility_text">ಸುಗಮತೆ</string>
+    <string name="language_selection_title">ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆರಿಸಿ</string>
+    <string name="language_selection_cancel_btn">ರದ್ದುಮಾಡಿ</string>
+    <string name="welcome_lets_go_button_label">ಮುಂದುವರೆಯೋಣ</string>
+    <string name="terms_title">ಡೇಟಾ ಬಳಕೆ</string>
+    <string name="terms_of_service_description">"
+ನೀವು ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕದ ಅಗತ್ಯವಿರುವ ಹವಾಮಾನ ಸೇವೆಗಳು, ಇಂಟರ್ನೆಟ್ ಸೇವೆಗಳು, ಇಮೇಲ್, ಬ್ರೌಸರ್ ಮುಂತಾದ ರೀತಿಯ ಸೇವೆಗಳನ್ನು ಬಳಸುವಾಗ ಮೊಬೈಲ್ ಡೇಟಾ ಬಳಕೆಯ ಮೇಲೆ ವೆಚ್ಚಗಳನ್ನು ವಿಧಿಸಬಹುದು. ನಿಮ್ಮ ಮೊಬೈಲ್ ಡೇಟಾ ಬಳಕೆಯ ಮೇಲೆ ಶುಲ್ಕ ವಿಧಿಸದಂತೆ ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ನಿರ್ವಹಿಸಲು, ನಿಮ್ಮ ವಾಹಕದ ಸೂಕ್ತ ಮೊಬೈಲ್ ಸೇವೆಯ ಪ್ಯಾಕೇಜ್‌ಗೆ ಅಪ್ಲೈ ಮಾಡುವಂತೆ ಸಲಹೆ ನೀಡುತ್ತೇವೆ.
+
+ಒಪ್ಪುತ್ತೇನೆ ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳುವ ಮೂಲಕ, ನೀವು ಈ ಸೇವೆಗಳು ಅಗತ್ಯಬಿದ್ದಾಗಲೆಲ್ಲಾ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು ಅವಕಾಶ ನೀಡುತ್ತೀರಿ.
+
+ಜೊತೆಗೆ, ಸ್ವಯಂ ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣ ಡೀಫಾಲ್ಟ್ ಆಗಿದೆ ಎಂಬ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ನಿಮಗೆ ಇತ್ತೀಚಿನ ಸಾಫ್ಟ್‌ವೇರ್ ಅನುಭವವನ್ನು ಒದಗಿಸಲು, ಇದು ಸ್ವಲ್ಪ ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸಬಹುದು. ನೀವು ನಂತರದಲ್ಲಿ ಯಾವಾಗ ಬೇಕಾದರೂ ಆಯ್ಕೆಯನ್ನು ಬದಲಿಸಬಹುದು.
+
+"</string>
+    <string name="term_agree_text">ಸಮ್ಮತಿಸುತ್ತೇನೆ</string>
+    <string name="term_disagree_text">ಸಮ್ಮತಿಸುವುದಿಲ್ಲ</string>
+    <string name="datausage_dialog_positive_btn">ಸರಿ</string>
+    <string name="datausage_dialog_negitive_btn">ರದ್ದುಮಾಡಿ</string>
+    <string name="traffic_prompt_content">ನೀವು ಸಮ್ಮತಿಸದಿದ್ದರೆ, ನೀವು ಸಾಫ್ಟ್‌ವೇರ್ ನವೀಕರಣ, ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ ಅಥವಾ ಇತರೆ ಮಾಹಿತಿಯನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಪಡೆದುಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ.</string>
+    <string name="google_account_intro_description">ಎಲ್ಲಾGoogle ಸೇವೆಗಳನ್ನು ಬಳಸಿ ಆನಂದಿಸಲು Google ಖಾತೆಯನ್ನು ಸೆಟಪ್ ಮಾಡಿ.</string>
+    <string name="google_account_intro_title">Google ಖಾತೆ</string>
+    <string name="google_account_add_account">Google ಮೂಲಕ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="location_title">Google ಸ್ಥಳವನ್ನು ಬಳಸಿ</string>
+    <string name="location_info_1">Google ಸ್ಥಳ ಸೇವೆಯು GPS ಬಳಸದೆಯೇ ನಿಮ್ಮ ನಿಖರ ಸ್ಥಳದ ಮಾಹಿತಿಯ ಮೇರೆಗೆ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ.</string>
+    <string name="location_info_2">ನೀವು ಸೆಟ್ಟಿಂಗ್‌ಗಳು, ಸ್ಥಳ ಸೇವೆಗಳು ಅಡಿಯಲ್ಲಿ ಈ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬಹುದು.</string>
+    <string name="location_network">ಅನಾಮಧೇಯ ಸ್ಥಳದ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲು Google ಸ್ಥಳ ಸೇವೆಗೆ ಅವಕಾಶ ನೀಡಿ. ಯಾವುದೇ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ರನ್ ಆಗುತ್ತಿಲ್ಲದಿದ್ದರೂ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="location_for_service">Google ಹುಡುಕಾಟ ಫಲಿತಾಂಶಗಳು ಮತ್ತು ಇತರೆ Google ಸೇವೆಗಳಿಗಾಗಿ ನನ್ನ ಸ್ಥಳವನ್ನು ಬಳಸಿ.</string>
+    <string name="date_and_time">ದಿನಾಂಕ &amp; ಸಮಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="date_time_auto">ಸ್ವಯಂಚಾಲಿತ ದಿನಾಂಕ &amp; ಸಮಯ</string>
+    <string name="date_time_auto_summaryOn">ನೆಟ್‌ವರ್ಕ್‌ ಒದಗಿಸಿದ ಸಮಯವನ್ನು ಬಳಸು</string>
+    <string name="date_time_auto_summaryOff">ನೆಟ್‌ವರ್ಕ್‌ ಒದಗಿಸಿದ ಸಮಯವನ್ನು ಬಳಸು</string>
+    <string name="zone_auto">ಸ್ವಯಂಚಾಲಿತ ಸಮಯ ವಲಯ</string>
+    <string name="zone_auto_summaryOn">ನೆಟ್‌ವರ್ಕ್‌-ಪೂರೈಸಿದ ಸಮಯ ವಲಯವನ್ನು ಬಳಸು</string>
+    <string name="zone_auto_summaryOff">ನೆಟ್‌ವರ್ಕ್‌-ಪೂರೈಸಿದ ಸಮಯ ವಲಯವನ್ನು ಬಳಸು</string>
+    <string name="date_time_set_date">ದಿನಾಂಕವನ್ನು ಹೊಂದಿಸಿ</string>
+    <string name="date_time_set_time">ಸಮಯ ಹೊಂದಿಸಿ</string>
+    <string name="date_time_set_timezone">ಸಮಯ ವಲಯ ಆಯ್ಕೆ</string>
+    <string name="date_time_24hour">24-ಗಂಟೆ ಸ್ವರೂಪವನ್ನು ಬಳಸು</string>
+    <string name="date_time_date_format">ದಿನಾಂಕ ಸ್ವರೂಪವನ್ನು ಆರಿಸಿ</string>
+    <string name="choose_timezone">ಸಮಯದ ವಲಯವನ್ನು ಆರಿಸಿ</string>
+    <string name="normal_date_format">ಪ್ರಾದೇಶಿಕ (%s)</string>
+    <string name="date_and_time_settings_title">ದಿನಾಂಕ &amp; ಸಮಯ</string>
+    <string name="date_and_time_settings_title_setup_wizard">ದಿನಾಂಕ ಮತ್ತು ಸಮಯವನ್ನು ಹೊಂದಿಸಿ</string>
+    <string name="date_and_time_settings_summary">ದಿನಾಂಕ, ಸಮಯ, ಸಮಯದ ವಲಯದ, &amp; ಸ್ವರೂಪಗಳನ್ನು ಹೊಂದಿಸಿ</string>
+    <string name="date_picker_title">ಪ್ರತಿ ತಿಂಗಳ ದಿನಾಂಕ:</string>
+    <string name="time_picker_title">ಸಮಯ:</string>
+    <string name="account_intro_title">[BRAND_NAME] ಸೇವೆಗಳು ಖಾತೆ</string>
+    <string name="account_intro_description">[BRAND_NAME] ಸೇವೆಗಳಿಗೆ ಸೇರಿಕೊಳ್ಳಿ, ಈ ಮೂಲಕ ನಿಮ್ಮ ಸಾಧನದ ಪ್ರಯೋಜನಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ.</string>
+    <string name="add_infocus_service_account">[BRAND_NAME] ಸೇವೆಗಳು ಖಾತೆಯನ್ನು ಸೇರಿಸಿ</string>
+    <string name="dropbox_fih_signup">Dropbox ಮೂಲಕ ಸೈನ್ ಅಪ್ ಮಾಡಿ</string>
+    <string name="dropbox_fih_signin">Dropbox ಮೂಲಕ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="dropbox_fih_description">ನಿಮ್ಮ ಫೋಟೋಗಳು ಮತ್ತು ವೀಡಿಯೊಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಉಳಿಸಲು 2 GB Dropbox ರಷ್ಟು ಉಚಿತ ಸ್ಥಳಾವಕಾಶವನ್ನು ಪಡೆಯಿರಿ.</string>
+    <string name="nevigation_selection_title">ನ್ಯಾವಿಗೇಶನ್ ಬಾರ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="nevigation_selection_text">ನೀವು ಬ್ಯಾಕ್/ಇತ್ತೀಚಿನ ಕೀಗಳ ಹಿನ್ನೆಲೆ ಬಣ್ಣ ಹಾಗೂ ಸ್ಥಿತಿಯನ್ನು ಬದಲಿಸಬಹುದು.</string>
+    <string name="nevigation_selection_back">ಹಿಂಭಾಗ</string>
+    <string name="nevigation_selection_home">ಹೋಮ್</string>
+    <string name="nevigation_selection_recent">ಇತ್ತೀಚಿನದು</string>
+    <string name="upload_agent_hmd_des_text_2">"Nokia ಬಳಕೆದಾರ ಅನುಭವದ ಪ್ರೋಗ್ರಾಂ ಸೇರಿಕೊಳ್ಳಿ. &lt;a href='launch.UserExperienceActivity://Kode'>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ.&lt;/a>
+
+"</string>
+    <string name="upload_agent_title">ಬಳಕೆದಾರ ಅನುಭವ ಪ್ರೋಗ್ರಾಂ</string>
+    <string name="setup_completed_congratulations">ಅಭಿನಂದನೆಗಳು!</string>
+    <string name="setup_complete_hmd">ನೀವು ಸಿದ್ಧವಾಗಿದ್ದೀರಿ...</string>
+    <string name="setup_complete_main">ನೀವು</string>
+    <string name="setup_complete_sub">ಪ್ರವೇಶಿಸಲು ಸಿದ್ಧ.</string>
+    <string name="hmd_user_experience_program_title">ಬಳಕೆದಾರ ಅನುಭವ ಪ್ರೋಗ್ರಾಂ</string>
+    <string name="hmd_user_experience_program_message">ಬಳಕೆದಾರ ಅನುಭವ ಪ್ರೋಗ್ರಾಂನಲ್ಲಿನ ನಿಮ್ಮ ಭಾಗವಹಿಸುವಿಕೆಯು Nokia ಸಾಧನದ ಕುರಿತು ನಿಮಗೇನು ಇಷ್ಟ ಮತ್ತು ಯಾವ ಅಗತ್ಯಗಳನ್ನು ಸುಧಾರಿಸಬೇಕು ಎಂದು ನೀವು ಯೋಚಿಸುವಿರಿ ಎಂಬುದನ್ನು ಉತ್ತಮವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು HMD Global ಗೆ ಸಹಾಯಕವಾಗುತ್ತದೆ. ಕಾಲ ಕಾಲಕ್ಕೆ, ನಿಮ್ಮ ಸಾಧನದ ಕುರಿತಾಗಿ ತಾಂತ್ರಿಕ ಲಕ್ಷಣಗಳನ್ನು ಹೊಂದಿರುವ ಅನಾಮಧೇಯ ಡೇಟಾವನ್ನು ನಾವು ಸ್ವೀಕರಿಸಬಹುದು, ಉದಾಹರಣೆಗೆ, ಸಂಭವಿಸಬಹುದಾದ ಸಾಫ್ಟ್‌ವೇರ್ ಕ್ರ್ಯಾಶ್ ಕುರಿತು ಡೇಟಾ ಹೊಂದಿರುವ ಫೈಲ್. ಅಂತಹ ಡೇಟಾವನ್ನು ಸೆಲ್ಯುಲಾರ್ ಸಂಪರ್ಕದ ಮೂಲಕ ಪ್ರಸಾರ ಮಾಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ ಎಂಬುದನ್ನು ದಯವಿಟ್ಟು ಗಮನಿಸಿ. ನಿಮ್ಮ Nokia ಸಾಧನದ ಕುರಿತು ನೀವು ಏನನ್ನು ಯೋಚಿಸುವಿರಿ ಎಂಬುದನ್ನು ನಿಮ್ಮಿಂದ ಕೇಳಲು ನಮಗೆ ಸಂತೋಷವಾಗುತ್ತದೆ!</string>
+    <string name="skip_button_label">ಸ್ಕಿಪ್‌</string>
+    <string name="skip_add_account_button_label">ಸದ್ಯಕ್ಕೆ ಬೇಡ</string>
+    <string name="device_checking_message">ಸ್ವಾಗತ</string>
+    <string name="backup_and_restore_title">ಬ್ಯಾಕಪ್ ಮತ್ತು ಮರುಸಂಗ್ರಹಿಸಿ</string>
+    <string name="backup_and_restore_description">"ನೀವು ಈ ಹಿಂದೆಯೇ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಿದ್ದಲ್ಲಿ, ಇದೀಗ ನೀವು ಅದನ್ನು ಈ ಫೋನ್‍ನಲ್ಲಿ ಪುನಃಸ್ಥಾಪಿಸಬಹುದು.
+
+ನೀವು ನಿಮ್ಮ ಬ್ಯಾಕಪ್ ಸೆಟ್ಟಿಂಗ್‍ಗಳನ್ನು ಯಾವಾಗ ಬೇಕಾದರೂ ಸೆಟ್ಟಿಂಗ್‍ಗಳು ಎಂಬಲ್ಲಿಗೆ ಹೋಗಿ ಬದಲಿಸಬಹುದು."</string>
+    <string name="baidu_intro_title">Baidu ಕ್ಲೌಡ್ ಸಂಗ್ರಹಣೆ</string>
+    <string name="baidu_intro_description">ನೀವು ಈ ಕೆಲವೇ ಹಂತಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸುವ ಮೂಲಕ 百度云 ಜೊತೆಗೆ ಮಿತಿಯಿಲ್ಲದ ಕ್ಲೌಡ್ ಸಂಗ್ರಹಣೆಗಳ ಸಮಗ್ರತೆಯನ್ನು ಬಳಸಿ ಆನಂದಿಸಬಹುದು.</string>
+    <string name="add_baidu_button_label">百度云 ಲಾಗಿನ್ ಮಾಡಿ</string>
+    <string name="baidu_progress_dialog_des">ದಯವಿಟ್ಟು ಕಾಯಿರಿ...</string>
+    <string name="wifi_picker_connection_title">ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕ</string>
+    <string name="wifi_picker_connection_des_text">WLAN ಸಂಪರ್ಕವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದರೆ, ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್ ಮೂಲಕ ನಿಮ್ಮ ಸಾಫ್ಟ್‌ವೇರ್ ಪರಿಶೀಲಿಸುತ್ತಿರುವಾಗ ಡೇಟಾ ಶುಲ್ಕಗಳನ್ನು ವಿಧಿಸಬಹುದು.</string>
+    <string name="wifi_picker_connection_positive">ಸರಿ</string>
+    <string name="wifi_picker_connection_negative_prc">WLAN ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="wifi_picker_connection_negative">ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="wifi_picker_warning_title">ಎಚ್ಚರಿಕೆ</string>
+    <string name="wifi_picker_warning_des_text">ನೀವು ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಿರುವವರೆಗೂ, ನಿಮ್ಮ ಸಾಫ್ಟ್‌ವೇರ್ ಅಪ್‌ಡೇಟ್ ಆಗಿದೆಯೇ ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಲು ಫೋನ್‌ಗೆ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.</string>
+    <string name="wifi_picker_warning_positive">ಸ್ಕಿಪ್ ಮಾಡಬೇಡ</string>
+    <string name="wifi_picker_warning_negative">ಸ್ಕಿಪ್ ಮಾಡು</string>
+    <string name="fih_legal_title">[BRAND_NAME_PROXY] ಕಾನೂನು</string>
+    <string name="fih_legal_message">"[BRAND_NAME_PROXY] ಸಾಫ್ಟ್‌ವೇರ್ ಬಳಕೆಯ ನಿಯಮಗಳು
+ 
+ ಜಾರಿ ದಿನಾಂಕ: 20 ಮ"</string>
+    <string name="hmd_legal_message" />
+    <string name="wapi_psk_security_type">ಪಾಸ್‍ವರ್ಡ್ ವಿಧ</string>
+    <string name="upload_agent_hmd_des_text_3">"ಪ್ರಾರಂಭಿಸೋಣ\" ಟ್ಯಾಪ್ ಮಾಡುವ ಮೂಲಕ, ಬಳಕೆದಾರ ಅನುಭವ ಕಾರ್ಯಕ್ರಮವನ್ನು ಸೇರಿಕೊಳ್ಳಲು ನೀವು ಒಪ್ಪುತ್ತೀರಿ. &lt;a href='launch.UserExperienceActivity://Kode'>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ&lt;/a>. ನೆನಪಿಡಿ, ನೀವು ನಂತರದಲ್ಲಿ ಯಾವಾಗ ಬೇಕಾದರೂ ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಮೂಲಕ ಸೇರಿಕೊಳ್ಳಬಹುದು."</string>
+    <string name="setup_complete_hmd_1">ನೀವು ಸಿದ್ಧವಾಗಿದ್ದೀರಿ...!</string>
+    <string name="not_now">ಸದ್ಯಕ್ಕೆ ಬೇಡ…;</string>
+    <string name="setup_finish">ಪ್ರಾರಂಭಿಸೋಣ</string>
+    <string name="wifi_fail_to_scan">ನೆಟ್‌ವರ್ಕ್‌ಗಳಿಗಾಗಿ ಸ್ಕ್ಯಾನ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="wifi_security_none">ಯಾವುದೂ ಅಲ್ಲ</string>
+    <string name="wifi_remembered">ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="wifi_disabled_generic">ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="wifi_disabled_network_failure">IP ಕಾನ್ಫಿಗರೇಶನ್ ವೈಫಲ್ಯ</string>
+    <string name="wifi_disabled_password_failure">ಪ್ರಮಾಣೀಕರಣದ ಸಮಸ್ಯೆ</string>
+    <string name="wifi_not_in_range">ವ್ಯಾಪ್ತಿಯಲ್ಲಿಲ್ಲ</string>
+    <string name="wifi_no_internet_no_reconnect">ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಂಪರ್ಕಗೊಳ್ಳುವುದಿಲ್ಲ</string>
+    <string name="wifi_no_internet">ಇಂಟರ್ನೆಟ್ ಪ್ರವೇಶವಿಲ್ಲ</string>
+    <string name="saved_network">%1$s ಉಳಿಸಿದೆ</string>
+    <string name="connected_via_passpoint">%1$s ಮೂಲಕ ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+    <string name="available_via_passpoint">%1$s ಮೂಲಕ ಲಭ್ಯವಿದೆ</string>
+    <string name="wifi_connected_no_internet">ಸಂಪರ್ಕಗೊಂಡಿದೆ, ಇಂಟರ್ನೆಟ್ ಇಲ್ಲ</string>
+    <string name="wifi_auth_password_wrong">ಪಾಸ್‌ವರ್ಡ್‌ ತಪ್ಪಾಗಿರಬಹುದು</string>
+    <string name="connected_via_wfa">Wi‑Fi ಸಹಾಯಕದ ಮೂಲಕ ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+    <string name="wifi_ssid">ನೆಟ್‌ವರ್ಕ್‌ ಹೆಸರು</string>
+    <string name="wifi_ssid_hint">SSID ನಮೂದಿಸಿ</string>
+    <string name="wifi_security">ಭದ್ರತೆ</string>
+    <string name="wifi_eap_method">EAP ವಿಧಾನ</string>
+    <string name="please_select_phase2">2 ನೇ ಹಂತದ ಪ್ರಮಾಣೀಕರಣ</string>
+    <string name="wifi_eap_ca_cert">CA ಪ್ರಮಾಣಪತ್ರ</string>
+    <string name="wifi_do_not_validate_eap_server_warning">ಯಾವುದೇ ಪ್ರಮಾಣಪತ್ರ ನಿರ್ದಿಷ್ಟಪಡಿಸಿಲ್ಲ. ನಿಮ್ಮ ಸಂಪರ್ಕವು ಖಾಸಗಿಯಾಗಿರುವುದಿಲ್ಲ.</string>
+    <string name="wifi_eap_domain">ಡೊಮೇನ್</string>
+    <string name="wifi_no_domain_warning">ಡೊಮೇನ್ ನಿರ್ದಿಷ್ಟ ಪಡಿಸಬೇಕು.</string>
+    <string name="wifi_eap_user_cert">ಬಳಕೆದಾರರ ಪ್ರಮಾಣಪತ್ರ</string>
+    <string name="wifi_eap_identity">ಗುರುತು</string>
+    <string name="wifi_eap_anonymous">ಅನಾಮಧೇಯ ಗುರುತು</string>
+    <string name="wifi_password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="wifi_show_password">ಪಾಸ್‌ವರ್ಡ್‌ ತೋರಿಸು</string>
+    <string name="wifi_advanced_toggle_description_collapsed">ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ ಸುಧಾರಿತ ಆಯ್ಕೆಗಳು. ವಿಸ್ತರಿಸಲು ಡಬಲ್ ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="wifi_show_advanced">ಸುಧಾರಿತ ಆಯ್ಕೆಗಳು</string>
+    <string name="proxy_settings_title">ಪ್ರಾಕ್ಸಿ</string>
+    <string name="proxy_warning_limited_support">ಬ್ರೌಸರ್ HTTP ಪ್ರಾಕ್ಸಿ ಬಳಸಿಕೊಂಡಿದೆ ಆದರೆ ಇತರೆ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಬಳಸಿಕೊಳ್ಳದೆ ಇರಬಹುದು.</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_hostname_label">ಪ್ರಾಕ್ಸಿ ಹೋಸ್ಟ್‌ಹೆಸರು</string>
+    <string name="proxy_exclusionlist_label">ಇದಕ್ಕಾಗಿ ಬೈಪಾಸ್ ಪ್ರಾಕ್ಸಿ</string>
+    <string name="wifi_ip_settings">IP ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="wifi_ip_address">IP ವಿಳಾಸ</string>
+    <string name="wifi_gateway">ಗೇಟ್‌ವೇ</string>
+    <string name="wifi_network_prefix_length">ನೆಟ್‌ವರ್ಕ್‌ ಪೂರ್ವಪ್ರತ್ಯಯದ ಉದ್ದ</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_shared">ಇತರ ಸಾಧನ ಬಳಕೆದಾರರ ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="proxy_port_label">ಪ್ರಾಕ್ಸಿ ಪೋರ್ಟ್</string>
+    <string name="wifi_unspecified">ದಯವಿಟ್ಟು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="wifi_multiple_cert_added">(ಬಹು ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ)</string>
+    <string name="wifi_use_system_certs">ಸಿಸ್ಟಮ್ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಬಳಸಿ</string>
+    <string name="wifi_do_not_provide_eap_user_cert">ನೀಡಬೇಡಿ</string>
+    <string name="wifi_do_not_validate_eap_server">ಮೌಲ್ಯೀಕರಿಸಬೇಡಿ</string>
+    <string name="wifi_add_network">ನೆಟ್‌ವರ್ಕ್‌ ಸೇರಿಸಿ</string>
+    <string name="wifi_save">ಉಳಿಸಿ</string>
+    <string name="passpoint_label">ಇದರ ಮೂಲಕ ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="wifi_connect">ಸಂಪರ್ಕಪಡಿಸಿ</string>
+    <string name="wifi_status">ಸ್ಥಿತಿ</string>
+    <string name="wifi_signal">ಸಿಗ್ನಲ್ ಸಾಮರ್ಥ್ಯ</string>
+    <string name="wifi_speed">ವೇಗ ಲಿಂಕ್ ಮಾಡಿ</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">ಫ್ರೀಕ್ವೆನ್ಸಿ</string>
+    <string name="wifi_forget">ಮರೆತುಬಿಡು</string>
+    <string name="wifi_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="proxy_error_invalid_port">ನೀವು ಟೈಪ್‌ ಮಾಡಿದ ಪೋರ್ಟ್ ಮಾನ್ಯವಾಗಿಲ್ಲ.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">ಮಾನ್ಯವಾದ IP ವಿಳಾಸವನ್ನು ಟೈಪ್‌ ಮಾಡಿ.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">0 ಮತ್ತು 32 ನಡುವಿನ ಉದ್ದದ ನೆಟ್‌ವರ್ಕ್‌ ಪೂರ್ವಪ್ರತ್ಯಯವನ್ನು ಟೈಪ್‌ ಮಾಡಿ.</string>
+    <string name="wifi_ip_settings_invalid_gateway">ಮಾನ್ಯವಾದ ಗೇಟ್‌ವೇ ವಿಳಾಸವನ್ನು ಟೈಪ್‌ ಮಾಡಿ.</string>
+    <string name="wifi_ip_settings_invalid_dns">ಮಾನ್ಯವಾದ DNS ವಿಳಾಸವನ್ನು ಟೈಪ್‌ ಮಾಡಿ.</string>
+    <string name="wifi_unchanged">(ಬದಲಾವಣೆಯಾಗದ)</string>
+    <string name="wifi_failed_connect_message">ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="wifi_failed_save_message">ನೆಟ್‌ವರ್ಕ್‌ ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="wifi_failed_forget_message">ನೆಟ್‌ವರ್ಕ್‌ ಮರೆಯಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="proxy_error_empty_host_set_port">ಹೋಸ್ಟ್ ಕ್ಷೇತ್ರವು ಖಾಲಿ ಇದ್ದಲ್ಲಿ, ಪೋರ್ಟ್‌ ಕ್ಷೇತ್ರವು ಕೂಡ ಖಾಲಿ ಇರಬೇಕು.</string>
+    <string name="proxy_error_empty_port">ನೀವು ಪೋರ್ಟ್‌ ಕ್ಷೇತ್ರವನ್ನು ಪೂರ್ಣಗೊಳಿಸುವ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="proxy_error_invalid_exclusion_list">ನೀವು ಟೈಪ್ ಮಾಡಿರುವ ಹೊರತುಪಡಿಸುವಿಕೆ ಪಟ್ಟಿಯನ್ನು ಸರಿಯಾಗಿ ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡಿಲ್ಲ. ಹೊರತುಪಡಿಸಿದ ಡೊಮೇನ್‌ಗಳ ಅಲ್ಪವಿರಾಮದ ಮೂಲಕ ಬೇರ್ಪಡಿಸಿದ ಪಟ್ಟಿಯನ್ನು ಟೈಪ್ ಮಾಡಿ.</string>
+    <string name="wifi_advanced_toggle_description_expanded">ಡ್ರಾಪ್ ಡೌನ್ ಪಟ್ಟಿ ಸುಧಾರಿತ ಆಯ್ಕೆಗಳು. ಸಂಕುಚಿಸಲು ಡಬಲ್ ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="passpoint_content">%1$s ರುಜುವಾತುಗಳು</string>
+    <string name="select_sim_card">SIM ಕಾರ್ಡ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="sim_editor_title">SIM ಸ್ಲಾಟ್ %1$d</string>
+    <string name="wifi_certificate">ಪ್ರಮಾಣಪತ್ರ</string>
+    <string name="wifi_setting_title">ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="wifi_skip_anyway">ಅದೇನೇ ಇರಲಿ ಸ್ಕಿಪ್‌ ಮಾಡು</string>
+    <string name="wifi_dont_skip">ಮರಳಿ</string>
+    <string name="wifi_and_mobile_skipped_message">"ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಳ್ಳುವುದರಿಂದ ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ತ್ವರಿತವಾಗಿ ಸೆಟ್‍ಅಪ್ ಮಾಡಲು ನಿಮಗೆ ಸಹಾಯ ಸಿಗುತ್ತದೆ.
+
+ಸಂಪರ್ಕವಿಲ್ಲದೆ, ನೀವು ಹೀಗೆ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ:
+
+"<li>ನಿಮ್ಮ ಕ್ಲೌಡ್ ಖಾತೆಗೆ ಸೈನ್ ಇನ್</li>"
+
+"<li>ಸಾಫ್ಟ್‌ವೇರ್ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳುವುದು</li>"
+
+"<li>ಸ್ವಯಂಚಾಲಿತವಾಗಿ ದಿನಾಂಕ ಮತ್ತು ಸಮಯವನ್ನು ಹೊಂದಿಸುವುದು</li></string>
+</resources>
